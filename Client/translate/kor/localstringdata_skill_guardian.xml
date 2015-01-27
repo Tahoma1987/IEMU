@@ -1,0 +1,2865 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="gd_Absorption_Name" korean="기운 흡수" />
+	<block key="gd_Absorption_Description_1" korean="속성 단계가 1단계 이상인 대상을 죽였을 때, 상태 변화 수치를 흡수하여 10의 수치 당 10의 HP를 회복한다." />
+	<block key="gd_Absorption_Description_2" korean="속성 단계가 1단계 이상인 대상을 죽였을 때, 상태 변화 수치를 흡수하여 10의 수치 당 10의 HP를 회복한다." />
+	<block key="gd_Absorption_Description_3" korean="속성 단계가 1단계 이상인 대상을 죽였을 때, 상태 변화 수치를 흡수하여 10의 수치 당 10의 HP를 회복한다." />
+	<block key="gd_Absorption_Description_4" korean="속성 단계가 1단계 이상인 대상을 죽였을 때, 상태 변화 수치를 흡수하여 10의 수치 당 10의 HP를 회복한다." />
+	<block key="gd_comboslash_Name" korean="3단 베기" />
+	<block key="gd_comboslash_Description_1" korean="대상을 연속으로 공격하여, 대상을 날려 버린다. 연타시 최대 3회까지 공격한다. "1타: 일반 공격, 2타: 스턴 확률, 3타: 날리는 리액션"" />
+	<block key="gd_drawing_Name" korean="신성한 부름" />
+	<block key="gd_drawing_Description_1" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_2" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_3" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_4" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_5" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_6" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_7" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_8" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_9" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_10" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_11" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_12" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_13" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_14" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_15" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_16" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_17" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_18" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_19" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="gd_drawing_Description_20" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 경우 5초 동안 이동속도을 50% 증가시키고, 위협수치를 20% 감소시킵니다." />
+	<block key="drawing_Name" korean="신성한 부름" />
+	<block key="drawing_change_Name" korean="신성한 부름" />
+	<block key="gd_holypower_Name" korean="신성한 힘" />
+	<block key="gd_holypower_Description_1" korean="엘로라의 신성한 힘을 부여 받아 일정시간 동안 자신의 공격성을 향상 시킵니다. 
+
+ - <Y_Y>[신성한 그물]</Y_Y>, <Y_Y>[신성한 부름]</Y_Y> 을 사용 시 엘로라의 신성한 힘이 발휘됩니다. 
+
+ - 일정시간 동안 공격력이 20% 증가합니다." />
+	<block key="gd_counteratt_Name" korean="반격" />
+	<block key="gd_counteratt_Description_1" korean="적의 근접 공격을 쳐낸 뒤 사용 가능한 스킬이며, 대상을 공격하여 무기 공격력에 추가로 99~122의 피해를 입히고 공격 속도를 20% 감소 시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_counteratt_Description_2" korean="적의 근접 공격을 쳐낸 뒤 사용 가능한 스킬이며, 대상을 공격하여 무기 공격력에 추가로 133~162의 피해를 입히고 공격 속도를 20% 감소 시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_counteratt_Description_3" korean="적의 근접 공격을 쳐낸 뒤 사용 가능한 스킬이며, 대상을 공격하여 무기 공격력에 추가로 50~100의 피해를 입히고 공격 속도를 30% 감소 시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_counteratt_Description_4" korean="적의 근접 공격을 쳐낸 뒤 사용 가능한 스킬이며, 대상을 공격하여 무기 공격력에 추가로 50~100의 피해를 입히고 공격 속도를 30% 감소 시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_counteratt_Description_5" korean="적의 근접 공격을 쳐낸 뒤 사용 가능한 스킬이며, 대상을 공격하여 무기 공격력에 추가로 50~100의 피해를 입히고 공격 속도를 30% 감소 시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_counteratt_Description_6" korean="적의 근접 공격을 쳐낸 뒤 사용 가능한 스킬이며, 대상을 공격하여 무기 공격력에 추가로 50~100의 피해를 입히고 공격 속도를 30% 감소 시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_courage_Name" korean="용기의 외침" />
+	<block key="gd_courage_description_1" korean="함성을 질러 자신과 주변 파티원의 전투력을 2분 동안 5% 증가 시킨다." />
+	<block key="gd_courage_description_2" korean="함성을 질러 자신과 주변 파티원의 전투력을 2분 동안 7% 증가 시킨다." />
+	<block key="gd_courage_description_3" korean="함성을 질러 자신과 주변 파티원의 전투력을 2분 동안 10% 증가 시킨다." />
+	<block key="gd_courage_description_4" korean="함성을 질러 자신과 주변 파티원의 전투력을 2분 동안 12% 증가 시킨다." />
+	<block key="gd_courage_description_5" korean="함성을 질러 자신과 주변 파티원의 전투력을 2분 동안 15% 증가 시킨다." />
+	<block key="gd_deepstab_Name" korean="마지막 일격" />
+	<block key="gd_deepstab_Description_1" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_2" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_3" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_4" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_5" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_6" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_7" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_8" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_9" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_10" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_11" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_12" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_13" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_14" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_15" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_16" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_17" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_18" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_19" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_deepstab_Description_20" korean="날카로운 공격으로 대상에게 큰 피해를 입힙니다.
+
+- <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 150% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="deepstab_change_Name" korean="마지막 일격" />
+	<block key="deepstab_Name" korean="마지막 일격" />
+	<block key="gd_holyshield_Name" korean="신성한 방패" />
+	<block key="gd_holyshield_Description_1" korean="방패 방어의 힘을 강화 시킵니다.
+
+ - [방패 방어] 성공 시 주변 2.5m 적에게 타격을 입힙니다.
+ - 0.3%의 확률로 적의 HP 0.1%를 감소 시킵니다." />
+	<block key="gd_holyshield_Description_2" korean="신성한 기운을 방패에 담아 방어력을 향상 시킨다." />
+	<block key="gd_holyshield_Description_3" korean="신성한 기운을 방패에 담아 방어력을 향상 시킨다." />
+	<block key="gd_holyshield_Description_4" korean="신성한 기운을 방패에 담아 방어력을 향상 시킨다." />
+	<block key="gd_holyshield_Description_5" korean="신성한 기운을 방패에 담아 방어력을 향상 시킨다." />
+	<block key="gd_holyshield_Description_6" korean="신성한 기운을 방패에 담아 방어력을 향상 시킨다." />
+	<block key="gd_holyshield_Description_7" korean="신성한 기운을 방패에 담아 방어력을 향상 시킨다." />
+	<block key="gd_holyshield_Description_8" korean="신성한 기운을 방패에 담아 방어력을 향상 시킨다." />
+	<block key="gd_holyshield_Description_9" korean="신성한 기운을 방패에 담아 방어력을 향상 시킨다." />
+	<block key="gd_holyshield_Description_10" korean="신성한 기운을 방패에 담아 방어력을 향상 시킨다." />
+	<block key="gd_sacrifice_Name" korean="희생" />
+	<block key="gd_sacrifice_Description_1" korean="나의 아군에게 신성한 힘을 전달하여, 일정 시간 방어력을 높여주고, 체력을 회복 시킨다." />
+	<block key="gd_sacrifice_Description_2" korean="나의 아군에게 신성한 힘을 전달하여, 일정 시간 방어력을 높여주고, 체력을 회복 시킨다." />
+	<block key="gd_sacrifice_Description_3" korean="나의 아군에게 신성한 힘을 전달하여, 일정 시간 방어력을 높여주고, 체력을 회복 시킨다." />
+	<block key="gd_sacrifice_Description_4" korean="나의 아군에게 신성한 힘을 전달하여, 일정 시간 방어력을 높여주고, 체력을 회복 시킨다." />
+	<block key="gd_sacrifice_Description_5" korean="나의 아군에게 신성한 힘을 전달하여, 일정 시간 방어력을 높여주고, 체력을 회복 시킨다." />
+	<block key="gd_sacrifice_Description_6" korean="나의 아군에게 신성한 힘을 전달하여, 일정 시간 방어력을 높여주고, 체력을 회복 시킨다." />
+	<block key="gd_sacrifice_Description_7" korean="나의 아군에게 신성한 힘을 전달하여, 일정 시간 방어력을 높여주고, 체력을 회복 시킨다." />
+	<block key="gd_sacrifice_Description_8" korean="나의 아군에게 신성한 힘을 전달하여, 일정 시간 방어력을 높여주고, 체력을 회복 시킨다." />
+	<block key="gd_sacrifice_Description_9" korean="나의 아군에게 신성한 힘을 전달하여, 일정 시간 방어력을 높여주고, 체력을 회복 시킨다." />
+	<block key="gd_sacrifice_Description_10" korean="나의 아군에게 신성한 힘을 전달하여, 일정 시간 방어력을 높여주고, 체력을 회복 시킨다." />
+	<block key="gd_defstanceini_Name" korean="방어자세 초기화" />
+	<block key="gd_defstanceini_Description_1" korean="방어자세 스킬의 쿨타임 시간을 초기화 하고, 방어 자세에서 물리 방어력을 높이고, 마나 소모율을 줄인다." />
+	<block key="gd_defstanceini_Description_2" korean="방어자세 스킬의 쿨타임 시간을 초기화 하고, 방어 자세에서 물리 방어력을 높이고, 마나 소모율을 줄인다." />
+	<block key="gd_defstanceini_Description_3" korean="방어자세 스킬의 쿨타임 시간을 초기화 하고, 방어 자세에서 물리 방어력을 높이고, 마나 소모율을 줄인다." />
+	<block key="gd_defup_Name" korean="방어력 증가" />
+	<block key="gd_defup_Description_1" korean="20초 동안 물리 방어력을 5% 증가시킨다. 방어 자세에서 사용 가능." />
+	<block key="gd_defup_Description_2" korean="20초 동안 물리 방어력을 10% 증가시킨다. 방어 자세에서 사용 가능." />
+	<block key="gd_defup_Description_3" korean="20초 동안 물리 방어력을 15% 증가시킨다. 방어 자세에서 사용 가능." />
+	<block key="gd_dexup_Name" korean="민첩 증가" />
+	<block key="gd_dexup_Description_1" korean="민첩성을 영구적으로 3 증가시킨다." />
+	<block key="gd_dexup_Description_2" korean="민첩성을 영구적으로 6 증가시킨다." />
+	<block key="gd_dexup_Description_3" korean="민첩성을 영구적으로 9 증가시킨다." />
+	<block key="gd_dexup_Description_4" korean="민첩성을 영구적으로 12 증가시킨다." />
+	<block key="gd_dexup_Description_5" korean="민첩성을 영구적으로 1 증가시킨다." />
+	<block key="gd_dexup_Description_6" korean="민첩성을 영구적으로 1 증가시킨다." />
+	<block key="gd_disarming_Name" korean="무장 해제" />
+	<block key="gd_disarming_Description_1" korean="대상의 방어구를 일정 시간 동안 무장해제 시켜 방어력을 약화시킨다." />
+	<block key="gd_disarming_Description_2" korean="대상의 방어구를 일정 시간 동안 무장해제 시켜 방어력을 약화시킨다." />
+	<block key="gd_disarming_Description_3" korean="대상의 방어구를 일정 시간 동안 무장해제 시켜 방어력을 약화시킨다." />
+	<block key="gd_doubleslash_Name" korean="연속 베기" />
+	<block key="gd_doubleslash_Description_1" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_2" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_3" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_4" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_5" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_6" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_7" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_8" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_9" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_10" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_11" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_12" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_13" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_14" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_15" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_16" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_17" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_18" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_19" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash_Description_20" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 
+
+ - 연타시 최대 2회까지 공격가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[연속 베기]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Name" korean="연속 베기" />
+	<block key="gd_doubleslash2_Description_1" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y><R_Y>(15레벨 습득)</R_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_2" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y><R_Y>(15레벨 습득)</R_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_3" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y><R_Y>(15레벨 습득)</R_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_4" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y><R_Y>(15레벨 습득)</R_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_5" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y><R_Y>(15레벨 습득)</R_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_6" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_7" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_8" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_9" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_10" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_11" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_12" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_13" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_14" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_15" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_16" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_17" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_18" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_19" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_doubleslash2_Description_20" korean="대상을 연속으로 공격하여, 빠르게 배어버립니다. 연타시 최대 2회까지 공격가능합니다.
+
+ - <G_Y>[신성한 그물]</G_Y> 후 <G_Y>[연속 베기]</G_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="doubleslash_Name" korean="연속 베기" />
+	<block key="doubleslash2_Name" korean="연속 베기" />
+	<block key="gd_earthdevide_Name" korean="대지 폭발" />
+	<block key="gd_earthdevide_Description_1" korean="무기로 바닥을 내리 찍어 지반을 갈라 영역내의 대상에게 무기 공격력에 추가로 16~18의 피해를 주고,  일정 거리를 밀려나 넘어지게 만든다." />
+	<block key="gd_earthdevide_Description_2" korean="무기로 바닥을 내리 찍어 지반을 갈라 영역내의 대상에게 무기 공격력에 추가로 24~26의 피해를 주고,  일정 거리를 밀려나 넘어지게 만든다." />
+	<block key="gd_earthdevide_Description_3" korean="무기로 바닥을 내리 찍어 지반을 갈라 영역내의 대상에게 무기 공격력에 추가로 26~28의 피해를 주고,  일정 거리를 밀려나 넘어지게 만든다." />
+	<block key="gd_earthdevide_Description_4" korean="무기로 바닥을 내리 찍어 지반을 갈라 영역내의 대상에게 무기 공격력에 추가로 26~28의 피해를 주고,  일정 거리를 밀려나 넘어지게 만든다." />
+	<block key="gd_earthdevide_Description_5" korean="무기로 바닥을 내리 찍어 지반을 갈라 영역내의 대상에게 무기 공격력에 추가로 26~28의 피해를 주고,  일정 거리를 밀려나 넘어지게 만든다." />
+	<block key="gd_earthdevide_Description_6" korean="무기로 바닥을 내리 찍어 지반을 갈라 영역내의 대상에게 무기 공격력에 추가로 26~28의 피해를 주고,  일정 거리를 밀려나 넘어지게 만든다." />
+	<block key="gd_FirAtk_Name" korean="속성 공격(불)" />
+	<block key="gd_FirAtk_Description_1" korean="대상의 상태 변화 게이지 1단계를 소모해서, 주변에 있는 적들에게 20 ~ 40의 불 속성 근접 공격을 날린다." />
+	<block key="gd_FirAtk_Description_2" korean="대상의 상태 변화 게이지 1단계를 소모해서, 주변에 있는 적들에게 30 ~ 60의 불 속성 근접 공격을 날린다." />
+	<block key="gd_FirAtk_Description_3" korean="대상의 상태 변화 게이지 1단계를 소모해서, 주변에 있는 적들에게 40 ~ 80의 불 속성 근접 공격을 날린다." />
+	<block key="gd_FirAtk_Description_4" korean="대상의 상태 변화 게이지 1단계를 소모해서, 주변에 있는 적들에게 40 ~ 80의 불 속성 근접 공격을 날린다." />
+	<block key="gd_FirAtk_Description_5" korean="대상의 상태 변화 게이지 1단계를 소모해서, 주변에 있는 적들에게 40 ~ 80의 불 속성 근접 공격을 날린다." />
+	<block key="gd_heragrip_Name" korean="헤라클래스의 악력" />
+	<block key="gd_heragrip_Description_1" korean="대상의 머리를 잡아서 들어 올려 방패막이로 사용한다. 전방에서의 공격을 막을 수 있으며 방패막이가 된 대상의 체력이 0이 되면 대상은 사라진다." />
+	<block key="gd_heragrip_Description_2" korean="대상의 머리를 잡아서 들어 올려 방패막이로 사용한다. 전방에서의 공격을 막을 수 있으며 방패막이가 된 대상의 체력이 0이 되면 대상은 사라진다." />
+	<block key="gd_heragrip_Description_3" korean="대상의 머리를 잡아서 들어 올려 방패막이로 사용한다. 전방에서의 공격을 막을 수 있으며 방패막이가 된 대상의 체력이 0이 되면 대상은 사라진다." />
+	<block key="gd_herapower_Name" korean="헤라클래스의 힘" />
+	<block key="gd_herapower_Description_1" korean="수정중" />
+	<block key="gd_herapower_Description_2" korean="수정중" />
+	<block key="gd_herapower_Description_3" korean="수정중" />
+	<block key="gd_heraspirit_Name" korean="헤라클래스의 영혼" />
+	<block key="gd_heraspirit_Description_1" korean="수정중" />
+	<block key="gd_heraspirit_Description_2" korean="수정중" />
+	<block key="gd_heraspirit_Description_3" korean="수정중" />
+	<block key="gd_Indure_Name" korean="버티기" />
+	<block key="gd_Indure_Description_1" korean="10초 동안 밀려나기 면역 효과가 적용된다." />
+	<block key="gd_Indure_Description_2" korean="10초 동안 밀려나기 면역 효과가 적용된다." />
+	<block key="gd_Indure_Description_3" korean="10초 동안 밀려나기 면역 효과가 적용된다." />
+	<block key="gd_InnerPower_Name" korean="잠재 능력" />
+	<block key="gd_InnerPower_Description_1" korean="분노를 폭발 시켜서 자신의 무기에 부여된 상태 변화 수치를 일정 시간 동안 3 만큼 증가 시킨다." />
+	<block key="gd_InnerPower_Description_2" korean="분노를 폭발 시켜서 자신의 무기에 부여된 상태 변화 수치를 일정 시간 동안 5 만큼증가 시킨다." />
+	<block key="gd_InnerPower_Description_3" korean="분노를 폭발 시켜서 자신의 무기에 부여된 상태 변화 수치를 일정 시간 동안 7 만큼 증가 시킨다." />
+	<block key="gd_kickdown_Name" korean="다리 후리기" />
+	<block key="gd_kickdown_Description_1" korean="대상의 다리를 후려쳐서 넘어뜨리고, 피해를 입힌다." />
+	<block key="gd_kickdown_Description_2" korean="대상의 다리를 후려쳐서 넘어뜨리고, 피해를 입힌다." />
+	<block key="gd_kickdown_Description_3" korean="대상의 다리를 후려쳐서 넘어뜨리고, 피해를 입힌다." />
+	<block key="gd_legattack_Name" korean="힘있게차기" />
+	<block key="gd_legattack_Description_1" korean="대상을 발로 차서 37~46의 피해를 주고, 일정 거리를 밀어낸다. 발차기를 맞은 대상은 10초동안 이동 속도가 50% 감소한다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_legattack_Description_2" korean="대상을 발로 차서 68~83의 피해를 주고, 일정 거리를 밀어낸다. 발차기를 맞은 대상은 10초동안 이동 속도가 50% 감소한다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_legattack_Description_3" korean="대상을 발로 차서 140~171의 피해를 주고, 일정 거리를 밀어낸다. 발차기를 맞은 대상은 10초동안 이동 속도가 50% 감소한다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_legattack_Description_4" korean="대상을 발로 차서 5~6의 피해를 주고, 일정 거리를 밀어낸다. 발차기를 맞은 대상은 10초동안 이동 속도가 50% 감소한다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_legattack_Description_5" korean="대상을 발로 차서 5~6의 피해를 주고, 일정 거리를 밀어낸다. 발차기를 맞은 대상은 10초동안 이동 속도가 50% 감소한다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_footattack_Name" korean="발차기" />
+	<block key="gd_footattack_Description_1" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+ 
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_2" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_3" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+ 
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_4" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_5" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_6" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_7" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_8" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_9" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_10" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_11" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_12" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_13" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_14" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_15" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_16" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_17" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_18" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_19" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="gd_footattack_Description_20" korean="대상을 발로 차서 50% 확률로 대상을 위로 띄운 후 방패로 강하게 가격해 피해를 입힙니다.
+
+ - 발차기 이후 연속 공격으로 대상을 방패로 공격합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[발차기]</Y_Y> 사용 시 전방 2미터 모든 적을 공중에 띄운 후 방패로 강하게 가격해 피해를 입힙니다." />
+	<block key="upperatt_change1_Name" korean="발차기" />
+	<block key="footattack_Name" korean="발차기" />
+	<block key="gd_shielddefend_Name" korean="방패 방어" />
+	<block key="gd_shielddefend_Description_1" korean="2초 동안 주변 모든 공격을 방어합니다.  
+
+ - 공격한 대상은 3초 동안 경직효과가 발생합니다.
+
+ - <Y_Y>[방패 흡수]</Y_Y> 습득 시 방어 성공 후 MP 1%를 흡수합니다." />
+	<block key="gd_shielddefend_Description_2" korean="2초 동안 주변 모든 공격을 방어합니다.  
+
+ - 공격한 대상은 3초 동안 경직효과가 발생합니다.
+
+ - <Y_Y>[방패 흡수]</Y_Y> 습득 시 방어 성공 후 MP 1%를 흡수합니다." />
+	<block key="gd_shielddefend_Description_3" korean="2초 동안 주변 모든 공격을 방어합니다.  
+
+ - 공격한 대상은 3초 동안 경직효과가 발생합니다.
+
+ - <Y_Y>[방패 흡수]</Y_Y> 습득 시 방어 성공 후 MP 1%를 흡수합니다." />
+	<block key="gd_shielddefend_Description_4" korean="2초 동안 주변 모든 공격을 방어합니다.  
+
+ - 공격한 대상은 3초 동안 경직효과가 발생합니다.
+
+ - <Y_Y>[방패 흡수]</Y_Y> 습득 시 방어 성공 후 MP 1%를 흡수합니다." />
+	<block key="gd_shielddefend_Description_5" korean="2초 동안 주변 모든 공격을 방어합니다.  
+
+ - 공격한 대상은 3초 동안 경직효과가 발생합니다.
+
+ - <Y_Y>[방패 흡수]</Y_Y> 습득 시 방어 성공 후 MP 1%를 흡수합니다." />
+	<block key="gd_shielddefend_Description_6" korean="2초 동안 주변 모든 공격을 방어합니다.  
+
+ - 공격한 대상은 3초 동안 경직효과가 발생합니다.
+
+ - <Y_Y>[방패 흡수]</Y_Y> 습득 시 방어 성공 후 MP 1%를 흡수합니다." />
+	<block key="gd_shielddefend_Description_7" korean="2초 동안 주변 모든 공격을 방어합니다.  
+
+ - 공격한 대상은 3초 동안 경직효과가 발생합니다.
+
+ - <Y_Y>[방패 흡수]</Y_Y> 습득 시 방어 성공 후 MP 1%를 흡수합니다." />
+	<block key="gd_shielddefend_Description_8" korean="2초 동안 주변 모든 공격을 방어합니다.  
+
+ - 공격한 대상은 3초 동안 경직효과가 발생합니다.
+
+ - <Y_Y>[방패 흡수]</Y_Y> 습득 시 방어 성공 후 MP 1%를 흡수합니다." />
+	<block key="gd_shielddefend_Description_9" korean="2초 동안 주변 모든 공격을 방어합니다.  
+
+ - 공격한 대상은 3초 동안 경직효과가 발생합니다.
+
+ - <Y_Y>[방패 흡수]</Y_Y> 습득 시 방어 성공 후 MP 1%를 흡수합니다." />
+	<block key="gd_shielddefend_Description_10" korean="2초 동안 주변 모든 공격을 방어합니다.  
+
+ - 공격한 대상은 3초 동안 경직효과가 발생합니다.
+
+ - <Y_Y>[방패 흡수]</Y_Y> 습득 시 방어 성공 후 MP 1%를 흡수합니다." />
+	<block key="gd_swordforce_Name" korean="검기" />
+	<block key="gd_swordforce_Description_1" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_2" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_3" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_4" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_5" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_6" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_7" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_8" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_9" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_10" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_11" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_12" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_13" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_14" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_15" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_16" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_17" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_18" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_19" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce_Description_20" korean="원거리 대상에게 검기를 날려 피해를 줍니다. 
+
+ - 연타 시 최대 2회까지 공격합니다." />
+	<block key="gd_swordforce2_Name" korean="검기 2타" />
+	<block key="gd_holystiff_Name" korean="신성한 경직" />
+	<block key="gd_holystiff_Description_1" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_2" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_3" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_4" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_5" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_6" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_7" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_8" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_9" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_10" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_11" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_12" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_13" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_14" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_15" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_16" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_17" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_18" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_19" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_holystiff_Description_20" korean="<Y_Y>[신성한 부름]</Y_Y>, <Y_Y>[신성한 그물]</Y_Y> 사용 시 <G_Y>경직상태</G_Y>로 만듭니다." />
+	<block key="gd_wpbroken_Name" korean="무기 손상" />
+	<block key="gd_wpbroken_Description_1" korean="대상의 공격을 <G_Y>[방패로 막을 시]</G_Y> 일정시간 동안 대상의 무기를 손상시킵니다.
+
+ - 대상 물리 공격력 30% 하락" />
+	<block key="gd_wpbroken_Description_2" korean="대상의 공격을 <G_Y>[방패로 막을 시]</G_Y> 일정시간 동안 대상의 무기를 손상시킵니다.
+
+ - 대상 물리 공격력 30% 하락" />
+	<block key="gd_wpbroken_Description_3" korean="대상의 공격을 <G_Y>[방패로 막을 시]</G_Y> 일정시간 동안 대상의 무기를 손상시킵니다.
+
+ - 대상 물리 공격력 30% 하락" />
+	<block key="gd_wpbroken_Description_4" korean="대상의 공격을 <G_Y>[방패로 막을 시]</G_Y> 일정시간 동안 대상의 무기를 손상시킵니다.
+
+ - 대상 물리 공격력 30% 하락" />
+	<block key="gd_wpbroken_Description_5" korean="대상의 공격을 <G_Y>[방패로 막을 시]</G_Y> 일정시간 동안 대상의 무기를 손상시킵니다.
+
+ - 대상 물리 공격력 30% 하락" />
+	<block key="gd_wpbroken_Description_6" korean="대상의 공격을 <G_Y>[방패로 막을 시]</G_Y> 일정시간 동안 대상의 무기를 손상시킵니다.
+
+ - 대상 물리 공격력 30% 하락" />
+	<block key="gd_wpbroken_Description_7" korean="대상의 공격을 <G_Y>[방패로 막을 시]</G_Y> 일정시간 동안 대상의 무기를 손상시킵니다.
+
+ - 대상 물리 공격력 30% 하락" />
+	<block key="gd_wpbroken_Description_8" korean="대상의 공격을 <G_Y>[방패로 막을 시]</G_Y> 일정시간 동안 대상의 무기를 손상시킵니다.
+
+ - 대상 물리 공격력 30% 하락" />
+	<block key="gd_wpbroken_Description_9" korean="대상의 공격을 <G_Y>[방패로 막을 시]</G_Y> 일정시간 동안 대상의 무기를 손상시킵니다.
+
+ - 대상 물리 공격력 30% 하락" />
+	<block key="gd_wpbroken_Description_10" korean="대상의 공격을 <G_Y>[방패로 막을 시]</G_Y> 일정시간 동안 대상의 무기를 손상시킵니다.
+
+ - 대상 물리 공격력 30% 하락" />
+	<block key="gd_shieldpush_Name" korean="방패 밀기" />
+	<block key="gd_shieldpush_Description_1" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_2" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_3" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_4" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_5" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_6" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_7" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_8" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_9" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_10" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_11" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_12" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_13" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_14" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_15" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_16" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_17" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_18" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_19" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_shieldpush_Description_20" korean="방패를 크게 휘둘러 주변의 다수의 적들을 크게 밀어냅니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[신성한 그물]</Y_Y> 사용 후 <Y_Y>[방패밀기]</Y_Y> 사용 시 광역 스턴이 발동됩니다." />
+	<block key="gd_mindatt_Name" korean="정신 타격" />
+	<block key="gd_mindatt_Description_1" korean="대상을 공격하여 6~7의 피해를 주고, 5초 동안 시전 속도를 30% 지연시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_mindatt_Description_2" korean="대상을 공격하여 11~12의 피해를 주고, 5초 동안 시전 속도를 30% 지연시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_mindatt_Description_3" korean="대상을 공격하여 20~30의 피해를 주고, 5초 동안 시전 속도를 30% 지연시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_mindatt_Description_4" korean="대상을 공격하여 20~30의 피해를 주고, 5초 동안 시전 속도를 30% 지연시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_nerveblock_Name" korean="신경 차단" />
+	<block key="gd_nerveblock_Description_1" korean="30초 동안 자신의 방어력을 30% 만큼 낮추고, 물리 공격력을 10% 만큼 높힌다." />
+	<block key="gd_nerveblock_Description_2" korean="30초 동안 자신의 방어력을 30% 만큼 낮추고, 물리 공격력을 20% 만큼 높힌다." />
+	<block key="gd_nerveblock_Description_3" korean="30초 동안 자신의 방어력을 30% 만큼 낮추고, 물리 공격력을 70% 만큼 높힌다." />
+	<block key="gd_nerveblock_Description_4" korean="30초 동안 자신의 방어력을 30% 만큼 낮추고, 물리 공격력을 30% 만큼 높힌다." />
+	<block key="gd_parry_Name" korean="쳐내기" />
+	<block key="gd_parry_Description_1" korean="대상의 물리 공격을 10초 동안 4회에 걸쳐 쳐낼 수 있다. 공격이 쳐내진 대상은 일정 시간동안 공격이 불가능하다. 10초 내에 4번 쳐내기가 발동하면 쳐내기 상태가 해제된다." />
+	<block key="gd_parry_Description_2" korean="대상의 물리 공격을 10초 동안 8회에 걸쳐 쳐낼 수 있다. 공격이 쳐내진 대상은 일정 시간동안 공격이 불가능하다. 10초 내에 8번 쳐내기가 발동하면 쳐내기 상태가 해제된다." />
+	<block key="gd_parry_Description_3" korean="대상의 물리 공격을 10초 동안 12회에 걸쳐 쳐낼 수 있다. 공격이 쳐내진 대상은 일정 시간동안 공격이 불가능하다. 10초 내에 12번 쳐내기가 발동하면 쳐내기 상태가 해제된다." />
+	<block key="gd_parry_Description_4" korean="대상의 물리 공격을 10초 동안 16회에 걸쳐 쳐낼 수 있다. 공격이 쳐내진 대상은 일정 시간동안 공격이 불가능하다. 10초 내에 16번 쳐내기가 발동하면 쳐내기 상태가 해제된다." />
+	<block key="gd_hack_Name" korean="난도질" />
+	<block key="gd_hack_Description_1" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_2" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_3" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_4" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_5" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_6" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_7" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_8" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_9" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_10" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_11" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_12" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_13" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_14" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_15" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_16" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_17" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_18" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_19" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_hack_Description_20" korean="순간적인 연속 공격으로 대상을 공격합니다. 연타시 최대 6회까지 공격합니다.
+
+ - <G_Y>[스턴 상태 대상]</G_Y>에게 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 15초 동안 5%를 감소 시키며, 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[난도질]</Y_Y> 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="hack1_1_Name" korean="난도질" />
+	<block key="hack1_2_Name" korean="난도질" />
+	<block key="hack1_3_Name" korean="난도질" />
+	<block key="hack1_4_Name" korean="난도질" />
+	<block key="hack1_5_Name" korean="난도질" />
+	<block key="hack1_6_Name" korean="난도질" />
+	<block key="gd_piercingheart_Name" korean="심장 뚫기" />
+	<block key="gd_piercingheart_Description_1" korean="대상을 무기로 강하게 찔러 물리 공격력에 추가로 40~80의 피해를 준다. 대상의 방어력을 50% 만큼 무시한다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_piercingheart_Description_2" korean="대상을 무기로 강하게 찔러 물리 공격력에 추가로 21~23의 피해를 준다. 대상의 방어력을 60% 만큼 무시한다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_piercingheart_Description_3" korean="대상을 무기로 강하게 찔러 물리 공격력에 추가로 20~30의 피해를 준다. 대상의 방어력을 70% 만큼 무시한다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_piercingheart_Description_4" korean="대상을 무기로 강하게 찔러 물리 공격력에 추가로 20~30의 피해를 준다. 대상의 방어력을 80% 만큼 무시한다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_piercingheart_Description_5" korean="대상을 무기로 강하게 찔러 물리 공격력에 추가로 20~30의 피해를 준다. 대상의 방어력을 100% 만큼 무시한다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_provoke_Name" korean="도발" />
+	<block key="gd_provoke_Description_1" korean="대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="gd_provoke_Description_2" korean="대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="gd_provoke_Description_3" korean="대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="gd_roar_Name" korean="사자후" />
+	<block key="gd_roar_Description_1" korean="적 대상에게 사자후를 날려 사자후 상태로 만든다. 인간 형태의 몬스터만 적용되며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_roar_Description_2" korean="적 대상에게 사자후를 날려 사자후 상태로 만든다. 인간 형태의 몬스터만 적용되며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_roar_Description_3" korean="적 대상에게 사자후를 날려 사자후 상태로 만든다. 인간 형태의 몬스터만 적용되며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_ShoulderAtk_Name" korean="어깨 치기" />
+	<block key="gd_ShoulderAtk_Description_1" korean="대상을 향해 빠른 속도로 돌진 후 어깨로 밀어 피해를 주고, 확률에 따라 넘어진다. 근접한 상태에서는 사용할 수 없으며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_ShoulderAtk_Description_2" korean="대상을 향해 빠른 속도로 돌진 후 어깨로 밀어 피해를 주고, 확률에 따라 넘어진다. 근접한 상태에서는 사용할 수 없으며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_ShoulderAtk_Description_3" korean="대상을 향해 빠른 속도로 돌진 후 어깨로 밀어 피해를 주고, 확률에 따라 넘어진다. 근접한 상태에서는 사용할 수 없으며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_ShoulderAtk_Description_4" korean="대상을 향해 빠른 속도로 돌진 후 어깨로 밀어 피해를 주고, 확률에 따라 넘어진다. 근접한 상태에서는 사용할 수 없으며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_ShoulderAtk_Description_5" korean="대상을 향해 빠른 속도로 돌진 후 어깨로 밀어 피해를 주고, 확률에 따라 넘어진다. 근접한 상태에서는 사용할 수 없으며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_ShoulderAtk_Description_6" korean="대상을 향해 빠른 속도로 돌진 후 어깨로 밀어 피해를 주고, 확률에 따라 넘어진다. 근접한 상태에서는 사용할 수 없으며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_ShoulderAtk_Description_7" korean="대상을 향해 빠른 속도로 돌진 후 어깨로 밀어 피해를 주고, 확률에 따라 넘어진다. 근접한 상태에서는 사용할 수 없으며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_ShoulderAtk_Description_8" korean="대상을 향해 빠른 속도로 돌진 후 어깨로 밀어 피해를 주고, 확률에 따라 넘어진다. 근접한 상태에서는 사용할 수 없으며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_ShoulderAtk_Description_9" korean="대상을 향해 빠른 속도로 돌진 후 어깨로 밀어 피해를 주고, 확률에 따라 넘어진다. 근접한 상태에서는 사용할 수 없으며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_ShoulderAtk_Description_10" korean="대상을 향해 빠른 속도로 돌진 후 어깨로 밀어 피해를 주고, 확률에 따라 넘어진다. 근접한 상태에서는 사용할 수 없으며, 추가로 위협 수치가 증가한다." />
+	<block key="gd_shoulderpush_Name" korean="밀치기" />
+	<block key="gd_shoulderpush_Description_1" korean="3단베기를 쓴 이후 사용할 수 있으며, 대상을 어깨로 밀쳐서 물리 공격력에 추가로 68~83의 피해를 주고 밀려나 넘어지게 만든다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_shoulderpush_Description_2" korean="3단베기를 쓴 이후 사용할 수 있으며, 대상을 어깨로 밀쳐서 물리 공격력에 추가로 120~147의 피해를 주고 밀려나 넘어지게 만든다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_shoulderpush_Description_3" korean="3단베기를 쓴 이후 사용할 수 있으며, 대상을 어깨로 밀쳐서 물리 공격력에 추가로 30~40의 피해를 주고 밀려나 넘어지게 만든다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_shoulderpush_Description_4" korean="3단베기를 쓴 이후 사용할 수 있으며, 대상을 어깨로 밀쳐서 물리 공격력에 추가로 5~10의 피해를 주고 밀려나 넘어지게 만든다. 추가로 위협 수치가 증가한다." />
+	<block key="gd_soccerkick_Name" korean="사커킥" />
+	<block key="gd_soccerkick_Description_1" korean="넘어진 대상에게 발차기를 사용 할 수 있게 된다. 바닥에 넘어져 있는 대상을 발로 차서 피해를 주고 멀리 날려버린다." />
+	<block key="gd_soccerkick_Description_2" korean="넘어진 대상에게 발차기를 사용 할 수 있게 된다. 바닥에 넘어져 있는 대상을 발로 차서 피해를 주고 멀리 날려버린다." />
+	<block key="gd_soccerkick_Description_3" korean="넘어진 대상에게 발차기를 사용 할 수 있게 된다. 바닥에 넘어져 있는 대상을 발로 차서 피해를 주고 멀리 날려버린다." />
+	<block key="gd_spiritslash_Name" korean="영혼베기" />
+	<block key="gd_spiritslash_Description_1" korean="대상의 영혼을 베어서 10~20의 피해를 주고 5초 동안 침묵 상태에 빠지게 한다. 시전 중인 스킬은 취소된다." />
+	<block key="gd_spiritslash_Description_2" korean="대상의 영혼을 베어서 10~20의 피해를 주고 5초 동안 침묵 상태에 빠지게 한다. 시전 중인 스킬은 취소된다." />
+	<block key="gd_spiritslash_Description_3" korean="대상의 영혼을 베어서 10~20의 피해를 주고 5초 동안 침묵 상태에 빠지게 한다. 시전 중인 스킬은 취소된다." />
+	<block key="gd_strong_Name" korean="세게 치기" />
+	<block key="gd_strong_Description_1" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_2" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_3" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_4" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_5" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_6" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_7" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_8" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_9" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_10" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_11" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_12" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_13" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_14" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_15" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_16" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_17" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_18" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_strong_Description_19" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="gd_finishatk_Name" korean="최후의 일격" />
+	<block key="gd_finishatk_Description_1" korean="다운된 대상의 HP가 5% 이후일때 발동되며, 다운 시간이 추가된다." />
+	<block key="gd_finishatk_Description_2" korean="다운된 대상의 HP가 5% 이후일때 발동되며, 다운 시간이 추가된다." />
+	<block key="gd_finishatk_Description_3" korean="다운된 대상의 HP가 5% 이후일때 발동되며, 다운 시간이 추가된다." />
+	<block key="gd_finishatk_Description_4" korean="다운된 대상의 HP가 5% 이후일때 발동되며, 다운 시간이 추가된다." />
+	<block key="gd_finishatk_Description_5" korean="다운된 대상의 HP가 5% 이후일때 발동되며, 다운 시간이 추가된다." />
+	<block key="gd_finishatk_Description_6" korean="다운된 대상의 HP가 5% 이후일때 발동되며, 다운 시간이 추가된다." />
+	<block key="gd_finishatk_Description_7" korean="다운된 대상의 HP가 5% 이후일때 발동되며, 다운 시간이 추가된다." />
+	<block key="gd_finishatk_Description_8" korean="다운된 대상의 HP가 5% 이후일때 발동되며, 다운 시간이 추가된다." />
+	<block key="gd_finishatk_Description_9" korean="다운된 대상의 HP가 5% 이후일때 발동되며, 다운 시간이 추가된다." />
+	<block key="gd_finishatk_Description_10" korean="다운된 대상의 HP가 5% 이후일때 발동되며, 다운 시간이 추가된다." />
+	<block key="gd_strongatk_Name" korean="올려 치기" />
+	<block key="gd_strongatk_Description_1" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_2" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_3" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_4" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_5" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_6" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_7" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_8" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_9" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_10" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_11" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_12" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_13" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_14" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_15" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_16" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_17" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_18" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_19" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="gd_strongatk_Description_20" korean="대상을 강하게 올려쳐서 피해를 입힙니다.
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가된 피해를 입히고, 재사용 시간이 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 강하게 올려칩니다." />
+	<block key="strongatk_Name" korean="올려 치기" />
+	<block key="gd_strongbody_Name" korean="굳건한 신체" />
+	<block key="gd_strongbody_Description_1" korean="최대 HP를 영구적으로 43 증가시킨다." />
+	<block key="gd_strongbody_Description_2" korean="최대 HP를 영구적으로 94 증가시킨다." />
+	<block key="gd_strongbody_Description_3" korean="최대 HP를 영구적으로 164 증가시킨다." />
+	<block key="gd_strongbody_Description_4" korean="최대 HP를 영구적으로 256 증가시킨다." />
+	<block key="gd_strongbody_Description_5" korean="최대 HP를 영구적으로 22 증가시킨다." />
+	<block key="gd_strongbody_Description_6" korean="최대 HP를 영구적으로 22 증가시킨다." />
+	<block key="gd_strongbody_Description_7" korean="최대 HP를 영구적으로 22 증가시킨다." />
+	<block key="gd_strup_Name" korean="힘 증가" />
+	<block key="gd_strup_Description_1" korean="힘을 영구적으로 3 증가시킨다." />
+	<block key="gd_strup_Description_2" korean="힘을 영구적으로 6 증가시킨다." />
+	<block key="gd_strup_Description_3" korean="힘을 영구적으로 9 증가시킨다." />
+	<block key="gd_strup_Description_4" korean="힘을 영구적으로 1 증가시킨다." />
+	<block key="gd_strup_Description_5" korean="힘을 영구적으로 1 증가시킨다." />
+	<block key="gd_strup_Description_6" korean="힘을 영구적으로 1 증가시킨다." />
+	<block key="gd_swdwind_Name" korean="검기 회오리" />
+	<block key="gd_swdwind_Description_1" korean="무기에 폭풍의 기운을 모은 후 회전하여 초당 33~37의 피해를 준다." />
+	<block key="gd_swdwind_Description_2" korean="무기에 폭풍의 기운을 모은 후 회전하여 초당 33~38의 피해를 준다." />
+	<block key="gd_swdwind_Description_3" korean="무기에 폭풍의 기운을 모은 후 회전하여 초당 33~39의 피해를 준다." />
+	<block key="gd_swdwind_Description_4" korean="무기에 폭풍의 기운을 모은 후 회전하여 초당 33~39의 피해를 준다." />
+	<block key="gd_swdwind_Description_5" korean="무기에 폭풍의 기운을 모은 후 회전하여 초당 33~39의 피해를 준다." />
+	<block key="gd_SwingAtk_Name" korean="휘두르기" />
+	<block key="gd_SwingAtk_Description_1" korean="양손검을 크게 휘둘러 주변 대상을 공격한다. 
+<font color="#FFBB00"> - [자신의 HP 60%] 이하</G_Y>일 때 기본 공격력의 80% 증가 피해를 입힌다.
+<font color="#FFBB00"> - [자신의 HP 30%] 이하</G_Y>일 때 기본 공격력의 120% 증가 피해를 입힌다." />
+	<block key="gd_SwingAtk_Description_2" korean="양손검을 크게 휘둘러 주변 대상을 공격한다. 
+<font color="#FFBB00"> - [자신의 HP 60%] 이하</G_Y>일 때 기본 공격력의 80% 증가 피해를 입힌다.
+<font color="#FFBB00"> - [자신의 HP 30%] 이하</G_Y>일 때 기본 공격력의 120% 증가 피해를 입힌다." />
+	<block key="gd_SwingAtk_Description_3" korean="양손검을 크게 휘둘러 주변 대상을 공격한다. 
+<font color="#FFBB00"> - [자신의 HP 60%] 이하</G_Y>일 때 기본 공격력의 80% 증가 피해를 입힌다.
+<font color="#FFBB00"> - [자신의 HP 30%] 이하</G_Y>일 때 기본 공격력의 120% 증가 피해를 입힌다." />
+	<block key="gd_SwingAtk_Description_4" korean="양손검을 크게 휘둘러 주변 대상을 공격한다. 
+<font color="#FFBB00"> - [자신의 HP 60%] 이하</G_Y>일 때 기본 공격력의 80% 증가 피해를 입힌다.
+<font color="#FFBB00"> - [자신의 HP 30%] 이하</G_Y>일 때 기본 공격력의 120% 증가 피해를 입힌다." />
+	<block key="gd_SwingAtk_Description_5" korean="양손검을 크게 휘둘러 주변 대상을 공격한다. 
+<font color="#FFBB00"> - [자신의 HP 60%] 이하</G_Y>일 때 기본 공격력의 80% 증가 피해를 입힌다.
+<font color="#FFBB00"> - [자신의 HP 30%] 이하</G_Y>일 때 기본 공격력의 120% 증가 피해를 입힌다." />
+	<block key="gd_SwingAtk_Description_6" korean="양손검을 크게 휘둘러 주변 대상을 공격한다. 
+<font color="#FFBB00"> - [자신의 HP 60%] 이하</G_Y>일 때 기본 공격력의 80% 증가 피해를 입힌다.
+<font color="#FFBB00"> - [자신의 HP 30%] 이하</G_Y>일 때 기본 공격력의 120% 증가 피해를 입힌다." />
+	<block key="gd_SwingAtk_Description_7" korean="양손검을 크게 휘둘러 주변 대상을 공격한다. 
+<font color="#FFBB00"> - [자신의 HP 60%] 이하</G_Y>일 때 기본 공격력의 80% 증가 피해를 입힌다.
+<font color="#FFBB00"> - [자신의 HP 30%] 이하</G_Y>일 때 기본 공격력의 120% 증가 피해를 입힌다." />
+	<block key="gd_SwingAtk_Description_8" korean="양손검을 크게 휘둘러 주변 대상을 공격한다. 
+<font color="#FFBB00"> - [자신의 HP 60%] 이하</G_Y>일 때 기본 공격력의 80% 증가 피해를 입힌다.
+<font color="#FFBB00"> - [자신의 HP 30%] 이하</G_Y>일 때 기본 공격력의 120% 증가 피해를 입힌다." />
+	<block key="gd_SwingAtk_Description_9" korean="양손검을 크게 휘둘러 주변 대상을 공격한다. 
+<font color="#FFBB00"> - [자신의 HP 60%] 이하</G_Y>일 때 기본 공격력의 80% 증가 피해를 입힌다.
+<font color="#FFBB00"> - [자신의 HP 30%] 이하</G_Y>일 때 기본 공격력의 120% 증가 피해를 입힌다." />
+	<block key="gd_SwingAtk_Description_10" korean="양손검을 크게 휘둘러 주변 대상을 공격한다. 
+<font color="#FFBB00"> - [자신의 HP 60%] 이하</G_Y>일 때 기본 공격력의 80% 증가 피해를 입힌다.
+<font color="#FFBB00"> - [자신의 HP 30%] 이하</G_Y>일 때 기본 공격력의 120% 증가 피해를 입힌다." />
+	<block key="gd_swordhurri_Name" korean="검기 회오리 폭풍" />
+	<block key="gd_swordhurri_Description_1" korean="검기 회오리 스킬 시전중에 이동이 가능해 진다." />
+	<block key="gd_swordhurri_Description_2" korean="검기 회오리 스킬 시전중에 이동이 가능해 진다." />
+	<block key="gd_swordhurri_Description_3" korean="검기 회오리 스킬 시전중에 이동이 가능해 진다." />
+	<block key="gd_SwordShield_Name" korean="칼날 보호막" />
+	<block key="gd_SwordShield_Description_1" korean="일정 시간 동안 시전자의 몸 주변에 칼날 보호막이 생겨, 근접해 있는 적들에게 초당 10의 피해를 준다." />
+	<block key="gd_SwordShield_Description_2" korean="일정 시간 동안 시전자의 몸 주변에 칼날 보호막이 생겨, 근접해 있는 적들에게 초당 9의 피해를 준다." />
+	<block key="gd_SwordShield_Description_3" korean="일정 시간 동안 시전자의 몸 주변에 칼날 보호막이 생겨, 근접해 있는 적들에게 초당 15의 피해를 준다." />
+	<block key="gd_SwordShield_Description_4" korean="일정 시간 동안 시전자의 몸 주변에 칼날 보호막이 생겨, 근접해 있는 적들에게 초당 25의 피해를 준다." />
+	<block key="gd_defstance_Name" korean="방어 자세" />
+	<block key="gd_defstance_Description_1" korean="방어적인 자세를 취한다. 공격력은 하락되고, 방어력과 블록 확률은 증가한다. (3초마다 1의 MP 소모)" />
+	<block key="gd_defstance_Description_2" korean="방어적인 자세를 취한다. 공격력은 하락되고, 방어력과 블록 확률은 증가한다. (3초마다 1의 MP 소모)" />
+	<block key="gd_defstance_Description_3" korean="방어적인 자세를 취한다. 공격력은 하락되고, 방어력과 블록 확률은 증가한다. (3초마다 1의 MP 소모)" />
+	<block key="gd_defstance_Description_4" korean="방어적인 자세를 취한다. 공격력은 하락되고, 방어력과 블록 확률은 증가한다. (3초마다 1의 MP 소모)" />
+	<block key="gd_defstance_Description_5" korean="방어적인 자세를 취한다. 공격력은 하락되고, 방어력과 블록 확률은 증가한다. (3초마다 1의 MP 소모)" />
+	<block key="gd_defstance_Description_6" korean="방어적인 자세를 취한다. 공격력은 하락되고, 방어력과 블록 확률은 증가한다. (3초마다 1의 MP 소모)" />
+	<block key="gd_defstance_Description_7" korean="방어적인 자세를 취한다. 공격력은 하락되고, 방어력과 블록 확률은 증가한다. (3초마다 1의 MP 소모)" />
+	<block key="gd_defstance_Description_8" korean="방어적인 자세를 취한다. 공격력은 하락되고, 방어력과 블록 확률은 증가한다. (3초마다 1의 MP 소모)" />
+	<block key="gd_defstance_Description_9" korean="방어적인 자세를 취한다. 공격력은 하락되고, 방어력과 블록 확률은 증가한다. (3초마다 1의 MP 소모)" />
+	<block key="gd_defstance_Description_10" korean="방어적인 자세를 취한다. 공격력은 하락되고, 방어력과 블록 확률은 증가한다. (3초마다 1의 MP 소모)" />
+	<block key="gd_strongatklink_Name" korean="넘어트리기" />
+	<block key="gd_strongatklink_Description_1" korean="<G_Y>[스턴 상태]</G_Y>에 걸린 적에게 <Y_Y>[올려치기]</Y_Y> 사용 시 대상을 넘어트립니다." />
+	<block key="gd_strongatklink_Description_2" korean="<G_Y>[스턴 상태]</G_Y>에 걸린 적에게 <Y_Y>[올려치기]</Y_Y> 사용 시 대상을 넘어트립니다." />
+	<block key="gd_strongatklink_Description_3" korean="<G_Y>[스턴 상태]</G_Y>에 걸린 적에게 <Y_Y>[올려치기]</Y_Y> 사용 시 대상을 넘어트립니다." />
+	<block key="gd_strongatklink_Description_4" korean="<G_Y>[스턴 상태]</G_Y>에 걸린 적에게 <Y_Y>[올려치기]</Y_Y> 사용 시 대상을 넘어트립니다." />
+	<block key="gd_strongatklink_Description_5" korean="<G_Y>[스턴 상태]</G_Y>에 걸린 적에게 <Y_Y>[올려치기]</Y_Y> 사용 시 대상을 넘어트립니다." />
+	<block key="gd_strongatklink_Description_6" korean="<G_Y>[스턴 상태]</G_Y>에 걸린 적에게 <Y_Y>[올려치기]</Y_Y> 사용 시 대상을 넘어트립니다." />
+	<block key="gd_strongatklink_Description_7" korean="<G_Y>[스턴 상태]</G_Y>에 걸린 적에게 <Y_Y>[올려치기]</Y_Y> 사용 시 대상을 넘어트립니다." />
+	<block key="gd_strongatklink_Description_8" korean="<G_Y>[스턴 상태]</G_Y>에 걸린 적에게 <Y_Y>[올려치기]</Y_Y> 사용 시 대상을 넘어트립니다." />
+	<block key="gd_strongatklink_Description_9" korean="<G_Y>[스턴 상태]</G_Y>에 걸린 적에게 <Y_Y>[올려치기]</Y_Y> 사용 시 대상을 넘어트립니다." />
+	<block key="gd_strongatklink_Description_10" korean="<G_Y>[스턴 상태]</G_Y>에 걸린 적에게 <Y_Y>[올려치기]</Y_Y> 사용 시 대상을 넘어트립니다." />
+	<block key="gd_throwweapon_Name" korean="무기 던지기" />
+	<block key="gd_throwweapon_Description_1" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_2" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_3" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_4" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_5" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_6" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_7" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_8" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_9" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_10" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_11" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_12" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_13" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_14" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_15" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_16" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_17" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_18" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_19" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_throwweapon_Description_20" korean="멀리있는 대상을 향해 무기를 던지는 공격을 합니다." />
+	<block key="gd_annoyingatt_Name" korean="성가신 공격" />
+	<block key="gd_annoyingatt_description_1" korean="대상을 공격하여 물리 공격력에 추가로 40~60의 피해를 주고, 위협수치를 크게 높인다." />
+	<block key="gd_annoyingatt_description_2" korean="대상을 공격하여 물리 공격력에 추가로 60~80의 피해를 주고, 위협수치를 크게 높인다." />
+	<block key="gd_annoyingatt_description_3" korean="대상을 공격하여 물리 공격력에 추가로 80~100의 피해를 주고, 위협수치를 크게 높인다." />
+	<block key="gd_annoyingatt_description_4" korean="대상을 공격하여 물리 공격력에 추가로 100~120의 피해를 주고, 위협수치를 크게 높인다." />
+	<block key="gd_annoyingatt_description_5" korean="대상을 공격하여 물리 공격력에 추가로 120~140의 피해를 주고, 위협수치를 크게 높인다." />
+	<block key="gd_fearatt_Name" korean="공포의 일격" />
+	<block key="gd_fearatt_description_1" korean="대상을 공격하여 물리 공격력에 추가로 40~60의 피해를 주고, 일정 시간 동안 HP 회복 효과를 20% 감소시킨다." />
+	<block key="gd_fearatt_description_2" korean="대상을 공격하여 물리 공격력에 추가로 60~80의 피해를 주고, 일정 시간 동안 HP 회복 효과를 40% 감소시킨다." />
+	<block key="gd_fearatt_description_3" korean="대상을 공격하여 물리 공격력에 추가로 80~100의 피해를 주고, 일정 시간 동안 HP 회복 효과를 60% 감소시킨다." />
+	<block key="gd_fearatt_description_4" korean="대상을 공격하여 물리 공격력에 추가로 100~120의 피해를 주고, 일정 시간 동안 HP 회복 효과를 80% 감소시킨다." />
+	<block key="gd_shoulderatk1_Name" korean="어깨 치기" />
+	<block key="gd_shoulderatk1_description_1" korean="대상에게 빠르게 접근하여, 대상을 어깨로 타격하여 피해를 주고, 일정 확률로 넘어트린다." />
+	<block key="gd_1handaxe_Name" korean="한손 도끼 착용" />
+	<block key="gd_1handaxe_description_1" korean="한손 도끼를 착용할 수 있습니다." />
+	<block key="gd_1handblunt_Name" korean="한손 둔기 착용" />
+	<block key="gd_1handblunt_description_1" korean="한손 둔기를 착용할 수 있습니다." />
+	<block key="gd_1handsword_Name" korean="한손 검 착용" />
+	<block key="gd_1handsword_description_1" korean="한손 검을 착용할 수 있습니다." />
+	<block key="gd_2handaxe_Name" korean="양손 도끼 착용" />
+	<block key="gd_2handaxe_description_1" korean="양손 도끼를 착용할 수 있습니다." />
+	<block key="gd_2handblunt_Name" korean="양손 둔기 착용" />
+	<block key="gd_2handblunt_description_1" korean="양손 둔기를 착용할 수 있습니다." />
+	<block key="gd_2handsword_Name" korean="양손 검 착용" />
+	<block key="gd_2handsword_description_1" korean="양손 검을 착용할 수 있습니다." />
+	<block key="gd_chain_Name" korean="경갑 착용" />
+	<block key="gd_chain_description_1" korean="경갑 방어구를 착용할 수 있습니다." />
+	<block key="gd_cloth_Name" korean="로브 착용" />
+	<block key="gd_cloth_description_1" korean="로브 방어구를 착용할 수 있습니다." />
+	<block key="gd_dagger_Name" korean="단검 착용" />
+	<block key="gd_dagger_description_1" korean="단검을 착용할 수 있습니다." />
+	<block key="gd_duelweapon_Name" korean="쌍수 착용" />
+	<block key="gd_duelweapon_description_1" korean="양손에 한손 무기를 한개씩 착용할 수 있습니다." />
+	<block key="gd_leather_Name" korean="면갑 착용" />
+	<block key="gd_leather_description_1" korean="면갑 방어구를 착용할 수 있습니다." />
+	<block key="gd_plate_Name" korean="중갑 착용" />
+	<block key="gd_plate_description_1" korean="중갑 방어구를 착용할 수 있습니다." />
+	<block key="gd_shield_Name" korean="방패 착용" />
+	<block key="gd_shield_description_1" korean="방패를 착용할 수 있습니다." />
+	<block key="gd_shieldsmash_Name" korean="방패치기" />
+	<block key="gd_shieldsmash_description_1" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y><R_Y>(3레벨 습득)</R_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_2" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_3" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_4" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_5" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_6" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_7" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_8" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_9" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_10" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_11" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_12" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_13" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_14" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_15" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_16" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_17" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_18" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_19" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="gd_shieldsmash_description_20" korean="방패로 대상의 공격을 끊습니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 스킬 공격력 30% 증가 및 재사용 시간이 30% 감소됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 내 모든 적을 공격할 수 있습니다. 위협수준을 크게 증가시킵니다." />
+	<block key="shieldsmash_change_Name" korean="<Y_Y>[방패 방어]</Y_Y> 후 <Y_Y>[방패치기]</Y_Y>" />
+	<block key="shieldsmash_Name" korean="방패치기" />
+	<block key="gd_3combo_2_Name" korean="3단 베기 : 회전베기" />
+	<block key="gd_3combo_2_description_1" korean="3단 베기 : 방패치기 이후 사용할 수 있다. 적대상을 회전베기 공격으로 20~40의 피해를 입힌다. 스킬 사용시 3단 베기 : 회전찌르기를 사용할 수 있다." />
+	<block key="gd_3combo_3_Name" korean="3단 베기 : 회전찌르기" />
+	<block key="gd_3combo_3_description_1" korean="3단 베기 : 회전베기 이후 사용할 수 있다. 적대상을 회전찌르기 공격으로 40~80의 피해를 입힌다." />
+	<block key="gd_areaprovoke_Name" korean="영역도발" />
+	<block key="gd_areaprovoke_description_1" korean="일정 영역에 적들의 위협 수준을 크게 높인다." />
+	<block key="gd_areaprovoke_description_2" korean="일정 영역에 적들의 위협 수준을 크게 높인다." />
+	<block key="gd_areaprovoke_description_3" korean="일정 영역에 적들의 위협 수준을 크게 높인다." />
+	<block key="gd_blockatt_Name" korean="차단의 일격" />
+	<block key="gd_blockatt_description_1" korean="쳐내기를 성공하면 활성화 되는 스킬로 적 대상에게 30~40의 피해를 입히고, 일정 시간동안 대상의 회피율을 10% 감소 시킨다." />
+	<block key="gd_blockatt_description_2" korean="쳐내기를 성공하면 활성화 되는 스킬로 적 대상에게 30~40의 피해를 입히고, 일정 시간동안 대상의 회피율을 20% 감소 시킨다." />
+	<block key="gd_blockatt_description_3" korean="쳐내기를 성공하면 활성화 되는 스킬로 적 대상에게 30~40의 피해를 입히고, 일정 시간동안 대상의 회피율을 30% 감소 시킨다." />
+	<block key="gd_bodyup_Name" korean="신체 강화" />
+	<block key="gd_bodyup_description_1" korean="자신의 신체를 강화해서 일정 시간 동안 자신에게 적용되는 넉백/넉다운, 공중 속박, 기절, 공포 등의 제어 불능 상태를 면역 시킨다." />
+	<block key="gd_bodyup_description_2" korean="자신의 신체를 강화해서 일정 시간 동안 자신에게 적용되는 넉백/넉다운, 공중 속박, 기절, 공포 등의 제어 불능 상태를 면역 시킨다." />
+	<block key="gd_bodyup_description_3" korean="자신의 신체를 강화해서 일정 시간 동안 자신에게 적용되는 넉백/넉다운, 공중 속박, 기절, 공포 등의 제어 불능 상태를 면역 시킨다." />
+	<block key="gd_damweakatt_Name" korean="공격력 약화 공격" />
+	<block key="gd_damweakatt_description_1" korean="적 대상의 신체에 검을 찔러서 30~60의 데미지를 주고, 적 대상의 공격력을 10%낮춘다." />
+	<block key="gd_damweakatt_description_2" korean="적 대상의 신체에 검을 찔러서 30~60의 데미지를 주고, 적 대상의 공격력을 10%낮춘다." />
+	<block key="gd_damweakatt_description_3" korean="적 대상의 신체에 검을 찔러서 30~60의 데미지를 주고, 적 대상의 공격력을 10%낮춘다." />
+	<block key="gd_instantslash_Name" korean="순간 베기" />
+	<block key="gd_instantslash_description_1" korean="대상이 공격하려는 찰나에 순간적으로 공격하여, 공격은 피하고, 대상은 확률적으로 넘어지게 된다." />
+	<block key="gd_instantslash_description_2" korean="발차기의 상급 스킬로 발차기를 넉백된 대상을 순간적으로 이동해서 34~60의 데미지를 준다. (넉백된 대상을 타겟팅하고 있으면 사용할 수 있다.)" />
+	<block key="gd_instantslash_description_3" korean="발차기의 상급 스킬로 발차기를 넉백된 대상을 순간적으로 이동해서 34~60의 데미지를 준다. (넉백된 대상을 타겟팅하고 있으면 사용할 수 있다.)" />
+	<block key="gd_luckyatt_Name" korean="요행의 일격" />
+	<block key="gd_luckyatt_description_1" korean="대상에게 강하게 휘둘러서 100~200의 큰 피해를 주는 스킬로 공격 성공률이 낮다. (하지만, 차단의 일격을 사용한 이후에 사용하면 성공률을 높일 수 있다. )" />
+	<block key="gd_luckyatt_description_2" korean="대상에게 강하게 휘둘러서 100~200의 큰 피해를 주는 스킬로 공격 성공률이 낮다. (하지만, 차단의 일격을 사용한 이후에 사용하면 성공률을 높일 수 있다. )" />
+	<block key="gd_luckyatt_description_3" korean="대상에게 강하게 휘둘러서 100~200의 큰 피해를 주는 스킬로 공격 성공률이 낮다. (하지만, 차단의 일격을 사용한 이후에 사용하면 성공률을 높일 수 있다. )" />
+	<block key="gd_blessofcombat_Name" korean="전투의 축복" />
+	<block key="gd_blessofcombat_description_1" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombat_description_2" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombat_description_3" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombat_description_4" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombat_description_5" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombat_description_6" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombat_description_7" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombat_description_8" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombat_description_9" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombat_description_10" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofint_Name" korean="지능의 축복" />
+	<block key="gd_blessofint_description_1" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofint_description_2" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofint_description_3" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofint_description_4" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofint_description_5" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofint_description_6" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofint_description_7" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofint_description_8" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofint_description_9" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofint_description_10" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofdefense_Name" korean="방어의 축복" />
+	<block key="gd_blessofdefense_description_1" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefense_description_2" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefense_description_3" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefense_description_4" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefense_description_5" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefense_description_6" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefense_description_7" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefense_description_8" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefense_description_9" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefense_description_10" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_protecthowl_Name" korean="보호의 외침" />
+	<block key="gd_protecthowl_description_1" korean="일정 시간동안 보호의 힘을 증폭 시켜서 일정 영역의 아군의 데미지의 일정 비율을 자신이 대신 가져온다." />
+	<block key="gd_protecthowl_description_2" korean="일정 시간동안 보호의 힘을 증폭 시켜서 일정 영역의 아군의 데미지의 일정 비율을 자신이 대신 가져온다." />
+	<block key="gd_protecthowl_description_3" korean="일정 시간동안 보호의 힘을 증폭 시켜서 일정 영역의 아군의 데미지의 일정 비율을 자신이 대신 가져온다." />
+	<block key="gd_upperatt_Name" korean="제압의 기술" />
+	<block key="gd_upperatt_description_1" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y><R_Y>(15레벨 습득)</R_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_2" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_3" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_4" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_5" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_6" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_7" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_8" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_9" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_10" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_11" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_12" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_13" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_14" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_15" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_16" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_17" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_18" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_19" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_description_20" korean="대상을 빠르게 제압하여 대상을 넘어뜨립니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[방패 방어]</Y_Y> 후 사용 시 기본 공격력의 200% 증가 피해를 입히고, 재사용 시간 30% 감소, 위협 수준을 크게 증가 시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 사용 시 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_upperatt_change_Name" korean="제압의 기술" />
+	<block key="upperatt_chcange_name" korean="제압의 기술" />
+	<block key="gd_weakatt_Name" korean="약화의 기술" />
+	<block key="gd_weakatt_description_1" korean="적의 공격을 방패로 100% 방어한 이후에 사용할 수 있는 스킬로 대상의 복부를 방패로 찍어서 30~60의 데미지를 준다. 또한, 일정 시간 동안 공격성공률을 10% 공격 속도를 10% 감소 시킨다." />
+	<block key="gd_weakatt_description_2" korean="적의 공격을 방패로 100% 방어한 이후에 사용할 수 있는 스킬로 대상의 복부를 방패로 찍어서 30~60의 데미지를 준다. 또한, 일정 시간 동안 공격성공률을 20% 공격 속도를 20% 감소 시킨다." />
+	<block key="gd_weakatt_description_3" korean="적의 공격을 방패로 100% 방어한 이후에 사용할 수 있는 스킬로 대상의 복부를 방패로 찍어서 30~60의 데미지를 준다. 또한, 일정 시간 동안 공격성공률을 30% 공격 속도를 30% 감소 시킨다." />
+	<block key="gd_warmastery_Name" korean="전투 마스터리(미공개)" />
+	<block key="gd_warmastery_description_1" korean="전투 능력이 강화된다. 전투 마스터리 LV이 상승할 수록 전투 성향의 스킬을 습득할 수 있게 된다." />
+	<block key="gd_destroymastery_Name" korean="파괴 마스터리" />
+	<block key="gd_destroymastery_description_1" korean="파괴적인 능력이 강화된다. 파괴 마스터리 LV이 상승할 수록 파괴 성향의 스킬을 습득할 수 있게 된다." />
+	<block key="gd_protectmastery_Name" korean="수호 마스터리" />
+	<block key="gd_protectmastery_description_1" korean="수호적인 능력이 강화된다. 수호 마스터리 LV이 상승할 수록 수호 성향의 스킬을 습득할 수 있게 된다." />
+	<block key="gd_heavy_Name" korean="중갑 착용" />
+	<block key="gd_heavy_description_1" korean="중갑을 착용할 수 있습니다." />
+	<block key="gd_holychain_Name" korean="신성한 사슬" />
+	<block key="gd_holychain_description_1" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_2" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_3" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_4" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_5" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_6" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_7" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_8" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_9" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_10" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_11" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_12" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_13" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_14" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_holychain_description_15" korean="대상의 과도한 위치 이동을 제어합니다. 추가 위협 수치가 증가합니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 후 <Y_Y>[신성한 사슬]</Y_Y> 사용 시 반경 2미터 모든 적에게 <Y_Y>신성한 사슬</Y_Y>을 시전합니다. 위협수준을 더욱 증가시킵니다." />
+	<block key="gd_stun_condition_Name" korean="스턴 상태" />
+	<block key="gd_stun_condition_description_1" korean="대상이 <G_Y>[경직 상태]</G_Y>일 동안 <Y_Y>[방패 치기]</Y_Y>, <Y_Y>[방패 밀기]</Y_Y> 사용시 대상에게 스턴을 발생시킵니다." />
+	<block key="gd_stun_condition_description_2" korean="대상이 <G_Y>[경직 상태]</G_Y>일 동안 <Y_Y>[방패 치기]</Y_Y>, <Y_Y>[방패 밀기]</Y_Y> 사용시 대상에게 스턴을 발생시킵니다." />
+	<block key="gd_stun_condition_description_3" korean="대상이 <G_Y>[경직 상태]</G_Y>일 동안 <Y_Y>[방패 치기]</Y_Y>, <Y_Y>[방패 밀기]</Y_Y> 사용시 대상에게 스턴을 발생시킵니다." />
+	<block key="gd_stun_condition_description_4" korean="대상이 <G_Y>[경직 상태]</G_Y>일 동안 <Y_Y>[방패 치기]</Y_Y>, <Y_Y>[방패 밀기]</Y_Y> 사용시 대상에게 스턴을 발생시킵니다." />
+	<block key="gd_stun_condition_description_5" korean="대상이 <G_Y>[경직 상태]</G_Y>일 동안 <Y_Y>[방패 치기]</Y_Y>, <Y_Y>[방패 밀기]</Y_Y> 사용시 대상에게 스턴을 발생시킵니다." />
+	<block key="gd_stun_condition_description_6" korean="대상이 <G_Y>[경직 상태]</G_Y>일 동안 <Y_Y>[방패 치기]</Y_Y>, <Y_Y>[방패 밀기]</Y_Y> 사용시 대상에게 스턴을 발생시킵니다." />
+	<block key="gd_stun_condition_description_7" korean="대상이 <G_Y>[경직 상태]</G_Y>일 동안 <Y_Y>[방패 치기]</Y_Y>, <Y_Y>[방패 밀기]</Y_Y> 사용시 대상에게 스턴을 발생시킵니다." />
+	<block key="gd_stun_condition_description_8" korean="대상이 <G_Y>[경직 상태]</G_Y>일 동안 <Y_Y>[방패 치기]</Y_Y>, <Y_Y>[방패 밀기]</Y_Y> 사용시 대상에게 스턴을 발생시킵니다." />
+	<block key="gd_stun_condition_description_9" korean="대상이 <G_Y>[경직 상태]</G_Y>일 동안 <Y_Y>[방패 치기]</Y_Y>, <Y_Y>[방패 밀기]</Y_Y> 사용시 대상에게 스턴을 발생시킵니다." />
+	<block key="gd_stun_condition_description_10" korean="대상이 <G_Y>[경직 상태]</G_Y>일 동안 <Y_Y>[방패 치기]</Y_Y>, <Y_Y>[방패 밀기]</Y_Y> 사용시 대상에게 스턴을 발생시킵니다." />
+	<block key="gd_defen_crash_Name" korean="방어구 손상" />
+	<block key="gd_defen_crash_description_1" korean="<G_Y>[스턴 상태]</G_Y>에서 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 감소 시키며, 최대 5중첩이 가능합니다." />
+	<block key="gd_defen_crash_description_2" korean="<G_Y>[스턴 상태]</G_Y>에서 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 감소 시키며, 최대 5중첩이 가능합니다." />
+	<block key="gd_defen_crash_description_3" korean="<G_Y>[스턴 상태]</G_Y>에서 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 감소 시키며, 최대 5중첩이 가능합니다." />
+	<block key="gd_defen_crash_description_4" korean="<G_Y>[스턴 상태]</G_Y>에서 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 감소 시키며, 최대 5중첩이 가능합니다." />
+	<block key="gd_defen_crash_description_5" korean="<G_Y>[스턴 상태]</G_Y>에서 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 감소 시키며, 최대 5중첩이 가능합니다." />
+	<block key="gd_defen_crash_description_6" korean="<G_Y>[스턴 상태]</G_Y>에서 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 감소 시키며, 최대 5중첩이 가능합니다." />
+	<block key="gd_defen_crash_description_7" korean="<G_Y>[스턴 상태]</G_Y>에서 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 감소 시키며, 최대 5중첩이 가능합니다." />
+	<block key="gd_defen_crash_description_8" korean="<G_Y>[스턴 상태]</G_Y>에서 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 감소 시키며, 최대 5중첩이 가능합니다." />
+	<block key="gd_defen_crash_description_9" korean="<G_Y>[스턴 상태]</G_Y>에서 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 감소 시키며, 최대 5중첩이 가능합니다." />
+	<block key="gd_defen_crash_description_10" korean="<G_Y>[스턴 상태]</G_Y>에서 <Y_Y>[난도질]</Y_Y> 스킬 사용 시 대상의 방어력을 감소 시키며, 최대 5중첩이 가능합니다." />
+	<block key="gd_holyweb_Name" korean="신성한 그물" />
+	<block key="gd_holyweb_description_1" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_2" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_3" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_4" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_5" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_6" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_7" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_8" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_9" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_10" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_11" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_12" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_13" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_14" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_15" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_16" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_17" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_18" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_19" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweb_description_20" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_normalattack_Name" korean="자동 공격" />
+	<block key="gd_normalattack_description_1" korean="대상을 자동으로 공격합니다. 자동 공격은 활성화하거나 비활성화 시킬 수 있습니다." />
+	<block key="gd_holyweblink_Name" korean="보호의 파동" />
+	<block key="gd_holyweblink_description_1" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_2" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_3" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_4" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_5" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_6" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_7" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_8" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_9" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_10" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_11" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_12" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_13" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_14" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_15" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_holyweblink_description_16" korean="방패로 강하게 나려치는 공격을 가합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+ 
+ - 4미터 반경 내의 적을 강타하여, 위협수준 높은 피해를 입히고, 광역 스턴이 발생됩니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 이후에만 사용할 수 있습니다." />
+	<block key="gd_judgment_name" korean="엘로라의 심판" />
+	<block key="gd_judgment_Description_1" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.. 
+ 
+ - <Y_Y>[지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgment_Description_2" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.. 
+ 
+ - <Y_Y>[지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgment_Description_3" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.. 
+ 
+ - <Y_Y>[지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgment_Description_4" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.. 
+ 
+ - <Y_Y>[지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgment_Description_5" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.. 
+ 
+ - <Y_Y>[지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgment_Description_6" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.. 
+ 
+ - <Y_Y>[지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgment_Description_7" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.. 
+ 
+ - <Y_Y>[지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgment_Description_8" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.. 
+ 
+ - <Y_Y>[지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgment_Description_9" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.. 
+ 
+ - <Y_Y>[지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgment_Description_10" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.. 
+ 
+ - <Y_Y>[지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_ dancingsword_name" korean="춤추는 검" />
+	<block key="gd_ dancingsword_Description_1" korean="순간 빠르게 돌면서 주위 적들에게 베기 공격을 가합니다.
+ - 추가로 버튼 입력 시 최대 5회까지 공격이 발동됩니다.
+ - 연타 시 데미지가 증가됩니다. 
+
+ - 2회 베기 공격 데미지 50 증가 
+
+ - 3회 베기 공격 데미지 100 증가
+
+ - 4회 베기 공격 데미지 150 증가
+
+ - 5회 베기 공격 데미지 200 증가
+
+ - 마지막 5번째 베기 공격은 적들을 넘어지게 하고 10초 동안 물리방어력을 30% 감소시킵니다." />
+	<block key="gd_ dancingsword_Description_2" korean="순간 빠르게 돌면서 주위 적들에게 베기 공격을 가합니다.
+ - 추가로 버튼 입력 시 최대 5회까지 공격이 발동됩니다.
+ - 연타 시 데미지가 증가됩니다. 
+
+ - 2회 베기 공격 데미지 50 증가 
+
+ - 3회 베기 공격 데미지 100 증가
+
+ - 4회 베기 공격 데미지 150 증가
+
+ - 5회 베기 공격 데미지 200 증가
+
+ - 마지막 5번째 베기 공격은 적들을 넘어지게 하고 10초 동안 물리방어력을 30% 감소시킵니다." />
+	<block key="gd_ dancingsword_Description_3" korean="순간 빠르게 돌면서 주위 적들에게 베기 공격을 가합니다.
+ - 추가로 버튼 입력 시 최대 5회까지 공격이 발동됩니다.
+ - 연타 시 데미지가 증가됩니다. 
+
+ - 2회 베기 공격 데미지 50 증가 
+
+ - 3회 베기 공격 데미지 100 증가
+
+ - 4회 베기 공격 데미지 150 증가
+
+ - 5회 베기 공격 데미지 200 증가
+
+ - 마지막 5번째 베기 공격은 적들을 넘어지게 하고 10초 동안 물리방어력을 30% 감소시킵니다." />
+	<block key="gd_ dancingsword_Description_4" korean="순간 빠르게 돌면서 주위 적들에게 베기 공격을 가합니다.
+ - 추가로 버튼 입력 시 최대 5회까지 공격이 발동됩니다.
+ - 연타 시 데미지가 증가됩니다. 
+
+ - 2회 베기 공격 데미지 50 증가 
+
+ - 3회 베기 공격 데미지 100 증가
+
+ - 4회 베기 공격 데미지 150 증가
+
+ - 5회 베기 공격 데미지 200 증가
+
+ - 마지막 5번째 베기 공격은 적들을 넘어지게 하고 10초 동안 물리방어력을 30% 감소시킵니다." />
+	<block key="gd_ dancingsword_Description_5" korean="순간 빠르게 돌면서 주위 적들에게 베기 공격을 가합니다.
+ - 추가로 버튼 입력 시 최대 5회까지 공격이 발동됩니다.
+ - 연타 시 데미지가 증가됩니다. 
+
+ - 2회 베기 공격 데미지 50 증가 
+
+ - 3회 베기 공격 데미지 100 증가
+
+ - 4회 베기 공격 데미지 150 증가
+
+ - 5회 베기 공격 데미지 200 증가
+
+ - 마지막 5번째 베기 공격은 적들을 넘어지게 하고 10초 동안 물리방어력을 30% 감소시킵니다." />
+	<block key="gd_ dancingsword_Description_6" korean="순간 빠르게 돌면서 주위 적들에게 베기 공격을 가합니다.
+ - 추가로 버튼 입력 시 최대 5회까지 공격이 발동됩니다.
+ - 연타 시 데미지가 증가됩니다. 
+
+ - 2회 베기 공격 데미지 50 증가 
+
+ - 3회 베기 공격 데미지 100 증가
+
+ - 4회 베기 공격 데미지 150 증가
+
+ - 5회 베기 공격 데미지 200 증가
+
+ - 마지막 5번째 베기 공격은 적들을 넘어지게 하고 10초 동안 물리방어력을 30% 감소시킵니다." />
+	<block key="gd_ dancingsword_Description_7" korean="순간 빠르게 돌면서 주위 적들에게 베기 공격을 가합니다.
+ - 추가로 버튼 입력 시 최대 5회까지 공격이 발동됩니다.
+ - 연타 시 데미지가 증가됩니다. 
+
+ - 2회 베기 공격 데미지 50 증가 
+
+ - 3회 베기 공격 데미지 100 증가
+
+ - 4회 베기 공격 데미지 150 증가
+
+ - 5회 베기 공격 데미지 200 증가
+
+ - 마지막 5번째 베기 공격은 적들을 넘어지게 하고 10초 동안 물리방어력을 30% 감소시킵니다." />
+	<block key="gd_ dancingsword_Description_8" korean="순간 빠르게 돌면서 주위 적들에게 베기 공격을 가합니다.
+ - 추가로 버튼 입력 시 최대 5회까지 공격이 발동됩니다.
+ - 연타 시 데미지가 증가됩니다. 
+
+ - 2회 베기 공격 데미지 50 증가 
+
+ - 3회 베기 공격 데미지 100 증가
+
+ - 4회 베기 공격 데미지 150 증가
+
+ - 5회 베기 공격 데미지 200 증가
+
+ - 마지막 5번째 베기 공격은 적들을 넘어지게 하고 10초 동안 물리방어력을 30% 감소시킵니다." />
+	<block key="gd_ dancingsword_Description_9" korean="순간 빠르게 돌면서 주위 적들에게 베기 공격을 가합니다.
+ - 추가로 버튼 입력 시 최대 5회까지 공격이 발동됩니다.
+ - 연타 시 데미지가 증가됩니다. 
+
+ - 2회 베기 공격 데미지 50 증가 
+
+ - 3회 베기 공격 데미지 100 증가
+
+ - 4회 베기 공격 데미지 150 증가
+
+ - 5회 베기 공격 데미지 200 증가
+
+ - 마지막 5번째 베기 공격은 적들을 넘어지게 하고 10초 동안 물리방어력을 30% 감소시킵니다." />
+	<block key="gd_ dancingsword_Description_10" korean="순간 빠르게 돌면서 주위 적들에게 베기 공격을 가합니다.
+ - 추가로 버튼 입력 시 최대 5회까지 공격이 발동됩니다.
+ - 연타 시 데미지가 증가됩니다. 
+
+ - 2회 베기 공격 데미지 50 증가 
+
+ - 3회 베기 공격 데미지 100 증가
+
+ - 4회 베기 공격 데미지 150 증가
+
+ - 5회 베기 공격 데미지 200 증가
+
+ - 마지막 5번째 베기 공격은 적들을 넘어지게 하고 10초 동안 물리방어력을 30% 감소시킵니다." />
+	<block key="gd_dancingsword2_Name" korean="춤추는 검" />
+	<block key="gd_dancingsword3_Name" korean="춤추는 검" />
+	<block key="gd_dancingsword4_Name" korean="춤추는 검" />
+	<block key="gd_dancingsword5_Name" korean="춤추는 검" />
+	<block key="dancingsword_name" korean="춤추는 검" />
+	<block key="dancingsword2_Name" korean="춤추는 검" />
+	<block key="dancingsword3_Name" korean="춤추는 검" />
+	<block key="dancingsword4_Name" korean="춤추는 검" />
+	<block key="dancingsword5_Name" korean="춤추는 검" />
+	<block key="strongatk_change_name" korean="<G_Y>[방패 방어]</G_Y> 후 <G_Y>[올려치기]</G_Y>" />
+	<block key="upperatt_change_name" korean="<G_Y>[방패 방어]</G_Y> 후 <G_Y>[제압의 기술]</G_Y>" />
+	<block key="holyweb_name" korean="신성한 힘" />
+	<block key="holychain_Name" korean="신성한 사슬" />
+	<block key="gd_judgment2_Name" korean="엘로라의 심판" />
+	<block key="gd_judgment1_Name" korean="엘로라의 심판" />
+	<block key="gd_judgment3_Name" korean="엘로라의 심판" />
+	<block key="gd_judgment3_1_Name" korean="엘로라의 심판" />
+	<block key="strongatk_change1_Name" korean="올려치기" />
+	<block key="upperatt_change2_Name" korean="제압의 기술" />
+	<block key="gd_hack2_Name" korean="난도질" />
+	<block key="gd_hack3_Name" korean="난도질" />
+	<block key="gd_hack4_Name" korean="난도질" />
+	<block key="gd_hack5_Name" korean="난도질" />
+	<block key="gd_hack6_Name" korean="난도질" />
+	<block key="gd_shielddash_Name" korean="방패 돌진" />
+	<block key="gd_shielddash3_Name" korean="방패 돌진" />
+	<block key="gd_shielddash2_Name" korean="방패 돌진" />
+	<block key="gd_shielddash4_Name" korean="방패 돌진" />
+	<block key="gd_shielddash_Description_1" korean="대쉬하여 방패로 적을 공격합니다.  <O_Y>(25% 확률 리액션 유효타)</O_Y>
+
+ - <G_Y>[전투의 축복] </G_Y> 사용 시 데미지 20% 증가, 적을 날려버립니다. 
+
+ - <G_Y>[지능의 축복] </G_Y> 사용 시 10초 동안 공격력 20% 상승, 대상의 공격력 30% 감소시킵니다.
+
+ - <G_Y>[방어의 축복] </G_Y> 사용 시 방어력을 30%, 회피율 10을 감소시킵니다." />
+	<block key="gd_shielddash_Description_2" korean="대쉬하여 방패로 적을 공격합니다.  <O_Y>(25% 확률 리액션 유효타)</O_Y>
+
+ - <G_Y>[전투의 축복] </G_Y> 사용 시 데미지 20% 증가, 적을 날려버립니다. 
+
+ - <G_Y>[지능의 축복] </G_Y> 사용 시 10초 동안 공격력 20% 상승, 대상의 공격력 30% 감소시킵니다.
+
+ - <G_Y>[방어의 축복] </G_Y> 사용 시 방어력을 30%, 회피율 10을 감소시킵니다." />
+	<block key="gd_shielddash_Description_3" korean="대쉬하여 방패로 적을 공격합니다.  <O_Y>(25% 확률 리액션 유효타)</O_Y>
+
+ - <G_Y>[전투의 축복] </G_Y> 사용 시 데미지 20% 증가, 적을 날려버립니다. 
+
+ - <G_Y>[지능의 축복] </G_Y> 사용 시 10초 동안 공격력 20% 상승, 대상의 공격력 30% 감소시킵니다.
+
+ - <G_Y>[방어의 축복] </G_Y> 사용 시 방어력을 30%, 회피율 10을 감소시킵니다." />
+	<block key="gd_counteratk1_Name" korean="날카로운 반격" />
+	<block key="gd_counteratk1_Description_1" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk1_Description_2" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk1_Description_3" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk1_Description_4" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk1_Description_5" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk1_Description_6" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk1_Description_7" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk1_Description_8" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk1_Description_9" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk1_Description_10" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk_Name" korean="날카로운 반격" />
+	<block key="gd_counteratk_Description_1" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk_Description_2" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk_Description_3" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk_Description_4" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk_Description_5" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk_Description_6" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk_Description_7" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk_Description_8" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk_Description_9" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk_Description_10" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운]</G_Y> 상태에서 사용 시 일어나며 반격을 가합니다." />
+	<block key="gd_counteratk2_Name" korean="날카로운 반격" />
+	<block key="shielddefend_linkmp1_Name" korean="방패 흡수" />
+	<block key="shielddefend_linkmp1_Description_1" korean="방패의 기운으로 MP를 흡수합니다. 
+
+ - <Y_Y>[방패 방어]</Y_Y> 성공 후 MP를 1% 흡수합니다." />
+	<block key="gd_shielddashatk1_Name" korean="방패돌진" />
+	<block key="gd_shielddashatk1_description_1" korean="방패를 앞세워 전방으로 빠른 질주 이후 부딪혀 밀어버리는 공격을 가합니다.
+
+ - 장착한 특성에 따라서 사용되는 스킬의 성질이 달라집니다." />
+	<block key="gd_skillbook1_name" korean="육체 강화" />
+	<block key="gd_skillbook2_name" korean="단단한 갑옷" />
+	<block key="gd_skillbook1_Description_1" korean="가디언의 감춰진 능력을 폭발시킵니다.
+
+ - 최대 생명력이 400증가됩니다.
+
+ - <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="gd_skillbook2_Description_1" korean="가디언이 기사의 긍지로 자신을 단단하게 만듭니다. 
+
+ - 자신이 <G_Y>[이동 시]</G_Y> 물리 방어력 및 마법 방어력이 20% 증가됩니다.
+
+ - <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="gd_shielddashatk2_name" korean="방패돌진" />
+	<block key="gd_shielddashatk3_name" korean="방패돌진" />
+	<block key="gd_shielddashatk4_name" korean="방패돌진" />
+	<block key="gd_shielddashatk5_name" korean="방패돌진" />
+	<block key="gd_shielddashatk6_name" korean="방패돌진" />
+	<block key="gd_shielddashatk7_name" korean="방패돌진" />
+	<block key="gd_shielddashatk8_name" korean="방패돌진" />
+	<block key="gd_boardbuffskill_Name" korean="[탑승]신성한 기운" />
+	<block key="gd_boardbuffskill_description_1" korean="탑승 전투 전용 스킬로 신성한 기운으로 인해 방어력과 어그로 수치가 증가합니다." />
+	<block key="gd_rageslash_name" korean="폭풍의 날" />
+	<block key="gd_rageslash2_name" korean="폭풍의 날" />
+	<block key="gd_rageslash3_name" korean="폭풍의 날" />
+	<block key="gd_rageslash4_name" korean="폭풍의 날" />
+	<block key="gd_rageslash5_name" korean="폭풍의 날" />
+	<block key="gd_rageslash6_name" korean="폭풍의 날" />
+	<block key="gd_rageslashr1_name" korean="폭풍의 날" />
+	<block key="gd_rageslashr2_name" korean="폭풍의 날" />
+	<block key="gd_rageslashr3_name" korean="폭풍의 날" />
+	<block key="gd_rageslashr4_name" korean="폭풍의 날" />
+	<block key="gd_rageslashr5_name" korean="폭풍의 날" />
+	<block key="gd_rageslashr6_name" korean="폭풍의 날" />
+	<block key="gd_rageslashg1_name" korean="폭풍의 날" />
+	<block key="gd_rageslashg2_name" korean="폭풍의 날" />
+	<block key="gd_rageslashg3_name" korean="폭풍의 날" />
+	<block key="gd_rageslashg4_name" korean="폭풍의 날" />
+	<block key="gd_rageslashg5_name" korean="폭풍의 날" />
+	<block key="gd_rageslashg6_name" korean="폭풍의 날" />
+	<block key="gd_rageslashb1_name" korean="폭풍의 날" />
+	<block key="gd_rageslashb2_name" korean="폭풍의 날" />
+	<block key="gd_rageslashb3_name" korean="폭풍의 날" />
+	<block key="gd_rageslashb4_name" korean="폭풍의 날" />
+	<block key="gd_rageslashb5_name" korean="폭풍의 날" />
+	<block key="gd_rageslashb6_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrg1_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrg2_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrg3_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrg4_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrg5_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrg6_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrb1_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrb2_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrb3_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrb4_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrb5_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrb6_name" korean="폭풍의 날" />
+	<block key="gd_rageslashgb1_name" korean="폭풍의 날" />
+	<block key="gd_rageslashgb2_name" korean="폭풍의 날" />
+	<block key="gd_rageslashgb3_name" korean="폭풍의 날" />
+	<block key="gd_rageslashgb4_name" korean="폭풍의 날" />
+	<block key="gd_rageslashgb5_name" korean="폭풍의 날" />
+	<block key="gd_rageslashgb6_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrgb1_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrgb2_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrgb3_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrgb4_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrgb5_name" korean="폭풍의 날" />
+	<block key="gd_rageslashrgb6_name" korean="폭풍의 날" />
+	<block key="gd_rageslash_description_1" korean="순간적으로 폭풍처럼 검을 휘갈겨 1.5m내 적들을 공격합니다.
+
+ - 연타 시 최대 6회까지 공격을 가합니다.
+
+ - 장착한 특성에 따라서 사용되는 스킬의 성질이 달라집니다." />
+	<block key="gd_blessofdefenselc_Name" korean="[탑승]방어의 축복" />
+	<block key="gd_blessofdefenselc_description_1" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefenselc_description_2" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefenselc_description_3" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefenselc_description_4" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefenselc_description_5" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefenselc_description_6" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefenselc_description_7" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefenselc_description_8" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefenselc_description_9" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_blessofdefenselc_description_10" korean="자신이 가지고 있는 방어의 본능을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원들을 방어력 15%, 최대 생명력을 5%만큼 증가시킵니다." />
+	<block key="gd_holyweblc_Name" korean="[탑승]신성한 그물" />
+	<block key="gd_holyweblc_description_1" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_2" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_3" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_4" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_5" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_6" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_7" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_8" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_9" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_10" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_11" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_12" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_13" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_14" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_15" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_16" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_17" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_18" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_19" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_holyweblc_description_20" korean="반경 7미터 내 적들을 모두 끌어 옵니다. 
+
+ - 7미터내의 모든 적들을 3초간 자신을 보게 만듭니다. 3초 동안 방어력을 30% 증가시킵니다.
+
+ - <Y_Y>[신성한 그물]</Y_Y> 사용 시 <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 전방 2미터 모든 적을 공격할 수 있습니다." />
+	<block key="gd_drawinglc_Name" korean="[탑승]신성한 부름" />
+	<block key="gd_drawinglc_Description_1" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_2" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_3" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y><R_Y>(12레벨 습득)</R_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_4" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_5" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_6" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_7" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_8" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_9" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_10" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_11" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_12" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_13" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_14" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_15" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_16" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_17" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_18" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_19" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="gd_drawinglc_Description_20" korean="신성한 사슬을 발동하여, 대상을 시전자 앞으로 끌어옵니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 시전자 앞으로 끌고 오며, 3초 동안 자신을 공격하게 만듭니다. <Y_Y>[신성한 힘]</Y_Y>을 부여 받아 공격력을 20% 증가 시킵니다.
+
+ - 대상이 <G_Y>[우호적]</G_Y>인 파티원일 경우 5초 동안 이동속도가 50%만큼 증가시키고, 5초 동안 위협수치를 20%만큼 감소시킵니다." />
+	<block key="drawinglc_change_Name" korean="[탑승]신성한 부름" />
+	<block key="gd_judgmentlc_name" korean="[탑승]엘로라의 심판" />
+	<block key="gd_judgmentlc_Description_1" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[[탑승]전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.
+ 
+ - <Y_Y>[[탑승]지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[[탑승]방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgmentlc_Description_2" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[[탑승]전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.
+ 
+ - <Y_Y>[[탑승]지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[[탑승]방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgmentlc_Description_3" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[[탑승]전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.
+ 
+ - <Y_Y>[[탑승]지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[[탑승]방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgmentlc_Description_4" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[[탑승]전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.
+ 
+ - <Y_Y>[[탑승]지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[[탑승]방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgmentlc_Description_5" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[[탑승]전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.
+ 
+ - <Y_Y>[[탑승]지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[[탑승]방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgmentlc_Description_6" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[[탑승]전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.
+ 
+ - <Y_Y>[[탑승]지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[[탑승]방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgmentlc_Description_7" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[[탑승]전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.
+ 
+ - <Y_Y>[[탑승]지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[[탑승]방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgmentlc_Description_8" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[[탑승]전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.
+ 
+ - <Y_Y>[[탑승]지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[[탑승]방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgmentlc_Description_9" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[[탑승]전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.
+ 
+ - <Y_Y>[[탑승]지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[[탑승]방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgmentlc_Description_10" korean="엘로라의 신성한 망치로 적에게 공격을 가합니다.
+
+ - <Y_Y>[[탑승]전투의 축복] </Y_Y> 사용 중 발동 시 해당 적을 공격 할 경우 HP를 회복하는 효과가 발생합니다.
+ 
+ - <Y_Y>[[탑승]지능의 축복] </Y_Y> 사용 중 발동 시 5초 동안 스턴에 걸리는 효과가 발생합니다.
+
+ - <Y_Y>[[탑승]방어의 축복] </Y_Y> 사용 중 발동 시 20초 동안 10% 물리 방어력을 감소하는 효과가 발생합니다." />
+	<block key="gd_judgment1lc_Name" korean="[탑승]엘로라의 심판" />
+	<block key="gd_judgment2lc_Name" korean="[탑승]엘로라의 심판" />
+	<block key="gd_judgment3lc_Name" korean="[탑승]엘로라의 심판" />
+	<block key="gd_blessofcombatlc_Name" korean="[탑승]전투의 축복" />
+	<block key="gd_blessofcombatlc_description_1" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombatlc_description_2" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombatlc_description_3" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombatlc_description_4" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombatlc_description_5" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombatlc_description_6" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombatlc_description_7" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombatlc_description_8" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombatlc_description_9" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofcombatlc_description_10" korean="자신이 가지고 있는 전투의 힘을 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 물리공격력 15%, 이동속도 5%, 물리치명타율 2%만큼 증가시킵니다." />
+	<block key="gd_blessofintlc_Name" korean="[탑승]지능의 축복" />
+	<block key="gd_blessofintlc_description_1" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofintlc_description_2" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofintlc_description_3" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofintlc_description_4" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofintlc_description_5" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofintlc_description_6" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofintlc_description_7" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofintlc_description_8" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofintlc_description_9" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="gd_blessofintlc_description_10" korean="자신이 가지고 있는 전장의 지혜를 이끌어내어 맹세합니다.
+
+ - 30미터 반경 내에 있는 파티원에게 신성한 기운으로 마법공격력 15%, 마법치명타율 2%만큼 증가시키고, 캐스팅속도 5%만큼 감소시킵니다." />
+	<block key="shielddefendmp_link_Name" korean="방패 흡수" />
+	<block key="gd_newbies01_Name" korean="여신의 은총" />
+	<block key="gd_newbies01_Description_1" korean="엘로라 여신의 은총입니다.
+
+ - 모든 경험치가 20% 증가합니다.
+
+ - 40Lv이 되면 여신의 은총 효과를 받을 수 없습니다." />
+	<block key="gd_armormax_name" korean="방어극대화" />
+	<block key="gd_armormax_description_1" korean="신성한 방패를 소환하여 자신을 보호 합니다.
+
+ - 대상이 <R_Y>[적대적]</R_Y>인 경우 10초 동안 자신을 공격하게 만듭니다. 
+
+ - <G_Y>[자신]</G_Y>에게 10초 동안 물리, 마법방어력을 2000% 증가 시키고 치명타피해 방어를 300 증가시킵니다.
+ - 이동속도가 70% 감소됩니다.
+
+- <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="rs_gd_holyweb_description" korean="<G_Y>추가 효과:</G_Y> 모든 방어력 10% 감소" />
+	<block key="gd_skillbook3_name" korean="체력 증폭" />
+	<block key="gd_skillbook3_Description_1" korean="가디언의 감춰진 능력을 폭발시킵니다.
+
+ - 최대 생명력이 10% 증가 됩니다.
+
+ - <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="gd_shieldpoint_Name" korean="수호의 각인" />
+	<block key="gd_shieldpoint_Description_1" korean="신성한 기운의 방패를 적에게 던져 징표를 각인 시킨다.
+
+ - 자신에게 10초간 위협 효과 증가 발생
+
+ - 적에게 10초간 물리방어력, 마법 방어력 20% 감소
+ - 각인된 적 주변 4m 내에 적에게 물리 공격력, 마법 공격력 -15% 감소" />
+	<block key="gd_shieldpointlink_Name" korean="수호의 각인" />
+	<block key="gd_shieldatt_Name" korean="수호의 강타" />
+	<block key="gd_shieldatt_description_1" korean="방패로 짧은 타격과 강한 타격을 주어 적에게 타격을 가합니다." />
+	<block key="gd_guardatt_name" korean="수호의 강타" />
+	<block key="gd_guardattg_name" korean="수호의 강타" />
+	<block key="gd_guardattgb_name" korean="수호의 강타" />
+	<block key="gd_guardattb_name" korean="수호의 강타" />
+	<block key="gd_guardattr_name" korean="수호의 강타" />
+	<block key="gd_guardattrg_name" korean="수호의 강타" />
+	<block key="gd_guardattrgb_name" korean="수호의 강타" />
+	<block key="gd_guardattrb_name" korean="수호의 강타" />
+	<block key="gd_guardatt2_name" korean="수호의 강타" />
+	<block key="gd_guardattg2_name" korean="수호의 강타" />
+	<block key="gd_guardattgb2_name" korean="수호의 강타" />
+	<block key="gd_guardattb2_name" korean="수호의 강타" />
+	<block key="gd_guardattr2_name" korean="수호의 강타" />
+	<block key="gd_guardattrg2_name" korean="수호의 강타" />
+	<block key="gd_guardattrgb2_name" korean="수호의 강타" />
+	<block key="gd_guardattrb2_name" korean="수호의 강타" />
+	<block key="gd_guardatt3_name" korean="수호의 강타" />
+	<block key="gd_guardattg3_name" korean="수호의 강타" />
+	<block key="gd_guardattgb3_name" korean="수호의 강타" />
+	<block key="gd_guardattb3_name" korean="수호의 강타" />
+	<block key="gd_guardattr3_name" korean="수호의 강타" />
+	<block key="gd_guardattrg3_name" korean="수호의 강타" />
+	<block key="gd_guardattrgb3_name" korean="수호의 강타" />
+	<block key="gd_guardattrb3_name" korean="수호의 강타" />
+	<block key="gd_guardatt_description_1" korean="방패의 기술과 발차기를 활용하여 적에게 강한 타격을 가합니다.
+
+ - 장착한 특성에 따라서 사용되는 스킬의 성질이 달라집니다." />
+	<block key="gd_shieldmark_name" korean="수호의 각인" />
+	<block key="gd_shieldmarklink_name" korean="수호의 각인" />
+	<block key="gd_shieldmarkg_name" korean="수호의 각인" />
+	<block key="gd_shieldmarkgb_name" korean="수호의 각인" />
+	<block key="gd_shieldmarkb_name" korean="수호의 각인" />
+	<block key="gd_shieldmarkr_name" korean="수호의 각인" />
+	<block key="gd_shieldmarkrg_name" korean="수호의 각인" />
+	<block key="gd_shieldmarkrgb_name" korean="수호의 각인" />
+	<block key="gd_shieldmarkrb_name" korean="수호의 각인" />
+	<block key="shieldmarklinkg_name" korean="수호의 각인" />
+	<block key="shieldmarklinkgb_name" korean="수호의 각인" />
+	<block key="shieldmarklinkb_name" korean="수호의 각인" />
+	<block key="shieldmarklinkr_name" korean="수호의 각인" />
+	<block key="shieldmarklinkrg_name" korean="수호의 각인" />
+	<block key="shieldmarklinkrgb_name" korean="수호의 각인" />
+	<block key="shieldmarklinkrb_name" korean="수호의 각인" />
+	<block key="gd_shieldmark_description_1" korean="적에게 수호의 각인을 하여 대상에게 피해 및 자신의 위협수치를 크게 상승 시키고 각인 주변 대상의 공격력을 감소 시킵니다.
+
+ - 장착한 특성에 따라서 사용되는 스킬의 성질이 달라집니다." />
+	<block key="gd_glory_name" korean="가디언의 영광" />
+	<block key="gd_glory_description_1" korean="가디언의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다.
+
+ - <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="gd_glory_description_2" korean="가디언의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="gd_glory_description_3" korean="가디언의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="gd_glory_description_4" korean="가디언의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="gd_glory_description_5" korean="가디언의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="gd_glory_description_6" korean="가디언의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="gd_glory_description_7" korean="가디언의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="gd_glory_description_8" korean="가디언의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="gd_glory_description_9" korean="가디언의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="gd_glory_description_10" korean="가디언의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="gd_holyshieldlink_name" korean="신성한 방패" />
+	<block key="holyshieldlink_name" korean="신성한 방패" />
+</blocks>

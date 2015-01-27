@@ -1,0 +1,167 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="mobulls02_aura_1_name" korean="리볼트의 징표" />
+	<block key="mobulls02_aura_1_description_1" korean="반란의 징표로 마법 공격력이 증가 하지만 방어력이 감소됩니다." />
+	<block key="mobulls03_aura_1_name" korean="비트레이의 징표" />
+	<block key="mobulls03_aura_1_description_1" korean="배신의 징표로 물리 공격력이 증가 하지만 방어력이 감소됩니다." />
+	<block key="morzt1_buff_1_name" korean="출혈" />
+	<block key="morzt1_buff_1_description_1" korean="라자트의 연속베기로 인해 출혈이 발생하고 있다." />
+	<block key="morzt3_buff_1_name" korean="불의 화신" />
+	<block key="morzt3_buff_1_description_1" korean="불의 기운을 제어하여 자유롭게 사용하는 상태이다." />
+	<block key="momupa2_buff_1_name" korean="강한 충격" />
+	<block key="momupa2_buff_1_description_1" korean="강한 타격의 충격으로 일시적으로 혼절한 상태이다." />
+	<block key="momupa3_buff_1_name" korean="강한 충격" />
+	<block key="momupa3_buff_1_description_1" korean="강력한 밟기의 충격으로 일시적으로 혼절한 상태이다." />
+	<block key="momupa4_buff_1_name" korean="최후의 저항" />
+	<block key="momupa4_buff_1_description_1" korean="전투에 위기감을 느끼고 일시적으로 전투에 집중한 상태이다. 리액션 유효타를 맞을 경우 즉시 반격으로 대응한다." />
+	<block key="momupar1_buff_1_name" korean="강한 충격" />
+	<block key="momupar1_buff_1_description_1" korean="강력한 밟기의 충격으로 일시적으로 혼절한 상태이다." />
+	<block key="mohama3_buff_1_name" korean="어지러움" />
+	<block key="mohama3_buff_1_description_1" korean="둔기에 입은 강한 타격으로 일시적으로 어지러움을 느끼는 상태이다." />
+	<block key="mohama4_buff_1_name" korean="최후의 저항" />
+	<block key="mohama4_buff_1_description_1" korean="전투에 위기감을 느끼고 일시적으로 전투에 집중한 상태이다. 리액션 유효타를 맞을 경우 즉시 반격으로 대응한다." />
+	<block key="mokas3_buff_1_name" korean="가득찬 분노" />
+	<block key="mokas3_buff_1_description_1" korean="분노에 지배당한 카심이 이성을 잃어 호전적으로 변한 상태이다." />
+	<block key="morg6_buff_1_name" korean="방어 태세" />
+	<block key="morg6_buff_1_description_1" korean="전투에 능한 라이가는 위험한 상황에서 일시적으로 방어태세를 취하기도 한다. 리액션 유효타를 맞을 경우 즉시 반격으로 대응한다." />
+	<block key="momnc2_buff_1_name" korean="신전의 상징" />
+	<block key="momnc2_buff_1_description_1" korean="마나츠가 자신을 따르는 자에게 신전의 힘을 빌어 대상의 내면의 잠재력을 끌어 올린다." />
+	<block key="momnc3_buff_1_name" korean="낙인" />
+	<block key="momnc3_buff_1_description_1" korean="징벌의 빛에 의한 낙인은 대상의 공격 능력의 일부를 무력화 시킨다." />
+	<block key="momnc4_buff_1_name" korean="불가침의 상징" />
+	<block key="momnc4_buff_1_description_1" korean="마나츠의 화전양면 전술로 적을 기만하기 위해 사용한다." />
+	<block key="momjm1_buff_1_name" korean="발화" />
+	<block key="momjm1_buff_1_description_1" korean="운석의 강한 폭발력은 피해를 입은 대상에게 일시적으로 영향을 입힌다." />
+	<block key="momip1_buff_1_name" korean="동결" />
+	<block key="momip1_buff_1_description_1" korean="얼음 기둥의 강한 넹기는 피해를 입은 대상에게 일시적으로 영향을 입힌다." />
+	<block key="momta1_aura_1_name" korean="차가운 기운" />
+	<block key="momta1_aura_1_description_1" korean="얼음 기둥에 의해 발생되는 차가운 기운으로 인해 신체 능력이 저하된 상태이다." />
+	<block key="mobm1_buff_1_name" korean="기절" />
+	<block key="mobm1_buff_1_description_1" korean="묵직한 공구에 가격 당해 일시적으로 기절한 상태이다." />
+	<block key="mobm2_buff_1_name" korean="불편한 기운" />
+	<block key="mobm2_buff_1_description_1" korean="플라스크에서 터져 나온 수상한 액체로 인해 불편함을 느끼고 있다." />
+	<block key="moshm2_buff_1_name" korean="취기" />
+	<block key="moshm2_buff_1_description_1" korean="적당한 취기로 슈마의 호전성이 증가된 상태이다." />
+	<block key="moyrs1_buff_1_name" korean="방어구 파손" />
+	<block key="moyrs1_buff_1_description_1" korean="난도질로 인하여 방어구가 일시적으로 약하된 상태됩니다." />
+	<block key="moyrs3_buff_1_name" korean="침착한 대응" />
+	<block key="moyrs3_buff_1_description_1" korean="예리츠가 침착하게 적의 빈틈을 탐색하며 공격할 기회를 노린다. 리액션 유효타를 맞을 경우 즉시 반격으로 대응한다." />
+	<block key="moyrs8_buff_1_name" korean="충격" />
+	<block key="moyrs8_buff_1_description_1" korean="강한 타격으로 충격을 받은 상태이다." />
+	<block key="moruinbow1_buff_1_name" korean="모래 먼지" />
+	<block key="moruinbow1_buff_1_description_1" korean="수상한 모래 먼지의 효과로 추가적인 피해를 입습니다." />
+	<block key="mosin1_buff_1_name" korean="죽음의 표식" />
+	<block key="mosin1_buff_1_description_1" korean="신시아는 죽음의 표식이 남은 대상자를 보다 효과적으로 공격합니다." />
+	<block key="mosin1_buff_1_description_2" korean="신시아는 죽음의 표식이 남은 대상자를 보다 효과적으로 공격합니다." />
+	<block key="mosin6_buff_1_name" korean="강한 충격" />
+	<block key="mosin6_buff_1_description_1" korean="강한 타격으로 충격을 받은 상태이다." />
+	<block key="mosin6_buff_1_description_2" korean="강한 타격으로 충격을 받은 상태이다." />
+	<block key="mosin7_buff_1_name" korean="집중" />
+	<block key="mosin7_buff_1_description_1" korean="집중력의 극대화로 전투 능력이 강화된 상태입니다." />
+	<block key="mosins1_aura_1_name" korean="매운 연기" />
+	<block key="mosins1_aura_1_description_1" korean="매운 연기의 효과로 효과적인 전투를 진행하기 어려운 상태입니다." />
+	<block key="mojas1_buff_1_name" korean="열기" />
+	<block key="mojas1_buff_1_description_1" korean="화염구의 공격이 적중하여 열기 효과를 가지게 됩니다." />
+	<block key="mojas1_buff_1_description_2" korean="화염구의 공격이 적중하여 열기 효과를 가지게 됩니다." />
+	<block key="mojas1_buff_1_description_3" korean="화염구의 공격이 적중하여 열기 효과를 가지게 됩니다." />
+	<block key="mojas1_buff_1_description_4" korean="화염구의 공격이 적중하여 열기 효과를 가지게 됩니다." />
+	<block key="mojas3_buff_1_name" korean="냉기" />
+	<block key="mojas3_buff_1_description_1" korean="산사태의 공격이 적중하여 냉기 효과를 가지게 됩니다." />
+	<block key="mojas3_buff_1_description_2" korean="산사태의 공격이 적중하여 냉기 효과를 가지게 됩니다." />
+	<block key="mojas3_buff_1_description_3" korean="산사태의 공격이 적중하여 냉기 효과를 가지게 됩니다." />
+	<block key="mojas3_buff_1_description_4" korean="산사태의 공격이 적중하여 냉기 효과를 가지게 됩니다." />
+	<block key="mojas4_buff_1_name" korean="동상" />
+	<block key="mojas4_buff_1_description_1" korean="절대영도의 효과로 신체 능력이 저하된 상태입니다." />
+	<block key="mojas4_buff_1_description_2" korean="절대영도의 효과로 신체 능력이 저하된 상태입니다." />
+	<block key="mojas4_buff_1_description_3" korean="절대영도의 효과로 신체 능력이 저하된 상태입니다." />
+	<block key="mojasa3_buff_2_name" korean="깊은 어둠" />
+	<block key="mojasa3_buff_2_description_1" korean="깊은 어둠의 효과로 전투력이 하락하지만, 제이슨의 찬란한 섬광을 무효화할 수 있다." />
+	<block key="mojasa3_aura_2_name" korean="깊은 어둠" />
+	<block key="mojasa3_aura_2_description_1" korean="깊은 어둠의 효과로 전투력이 하락하지만, 제이슨의 찬란한 섬광을 무효화할 수 있다." />
+	<block key="modw1_buff_1_name" korean="파멸의 언어 - 광폭" />
+	<block key="modw1_buff_1_description_1" korean="파멸의 언어의 힘으로 제이슨이 강화된 상태입니다." />
+	<block key="modw2_buff_1_name" korean="파멸의 언어 - 수호" />
+	<block key="modw2_buff_1_description_1" korean="파멸의 언어의 힘으로 제이슨이 강화된 상태입니다." />
+	<block key="modw3_buff_1_name" korean="파멸의 언어 - 그림자" />
+	<block key="modw3_buff_1_description_1" korean="파멸의 언어의 힘으로 제이슨이 강화된 상태입니다." />
+	<block key="modw4_buff_1_name" korean="파멸의 언어 - 신념" />
+	<block key="modw4_buff_1_description_1" korean="파멸의 언어의 힘으로 제이슨이 강화된 상태입니다." />
+	<block key="momc4_1_name" korean="강한 충격" />
+	<block key="momc4_buff_1_description_1" korean="머큐리스의 강한 공격은 일시적인 기절 상태를 만듭니다." />
+	<block key="momc4_buff_1_description_2" korean="머큐리스의 강한 공격은 일시적인 기절 상태를 만듭니다." />
+	<block key="momc4_buff_1_description_3" korean="머큐리스의 강한 공격은 일시적인 기절 상태를 만듭니다." />
+	<block key="momc4_buff_1_description_4" korean="머큐리스의 강한 공격은 일시적인 기절 상태를 만듭니다." />
+	<block key="momc4f_1_name" korean="강한 충격" />
+	<block key="momc4f_buff_1_description_1" korean="머큐리스의 강한 공격은 일시적인 기절 상태를 만듭니다." />
+	<block key="momc4f_buff_1_description_2" korean="머큐리스의 강한 공격은 일시적인 기절 상태를 만듭니다." />
+	<block key="momc4f_buff_1_description_3" korean="머큐리스의 강한 공격은 일시적인 기절 상태를 만듭니다." />
+	<block key="momc4f_buff_1_description_4" korean="머큐리스의 강한 공격은 일시적인 기절 상태를 만듭니다." />
+	<block key="momc5_1_name" korean="타오르는 불꽃" />
+	<block key="momc5_buff_1_description_1" korean="화상으로 지속적인 피해를 입는 상태입니다." />
+	<block key="momc5_buff_1_description_2" korean="화상으로 지속적인 피해를 입는 상태입니다." />
+	<block key="momc5_buff_1_description_3" korean="화상으로 지속적인 피해를 입는 상태입니다." />
+	<block key="momc5_buff_1_description_4" korean="화상으로 지속적인 피해를 입는 상태입니다." />
+	<block key="momcf4_1_name" korean="타오르는 불꽃" />
+	<block key="momcf4_buff_1_description_1" korean="화상으로 지속적인 피해를 입는 상태입니다." />
+	<block key="momcf4_buff_1_description_2" korean="화상으로 지속적인 피해를 입는 상태입니다." />
+	<block key="momcf4_buff_1_description_3" korean="화상으로 지속적인 피해를 입는 상태입니다." />
+	<block key="momcf4_buff_1_description_4" korean="화상으로 지속적인 피해를 입는 상태입니다." />
+	<block key="momcf5_1_name" korean="타오르는 불꽃" />
+	<block key="momcf5_buff_1_description_1" korean="화상으로 지속적인 피해를 입는 상태입니다." />
+	<block key="momcf5_buff_1_description_2" korean="화상으로 지속적인 피해를 입는 상태입니다." />
+	<block key="momcf5_buff_1_description_3" korean="화상으로 지속적인 피해를 입는 상태입니다." />
+	<block key="momcf5_buff_1_description_4" korean="화상으로 지속적인 피해를 입는 상태입니다." />
+	<block key="momc6_1_name" korean="침묵의 사슬" />
+	<block key="momc6_buff_1_description_1" korean="침묵의 사슬에 영향을 받고 있습니다." />
+	<block key="momc6_buff_1_description_2" korean="침묵의 사슬에 영향을 받고 있습니다." />
+	<block key="momc6_buff_1_description_3" korean="침묵의 사슬에 영향을 받고 있습니다." />
+	<block key="momc6_buff_1_description_4" korean="침묵의 사슬에 영향을 받고 있습니다." />
+	<block key="momc7_buff_1_name" korean="검은 마력" />
+	<block key="momc7_buff_1_description_1" korean="검은 마력의 힘을 제어하고 있는 상태입니다." />
+	<block key="momc8_buff_1_name" korean="융합된 검은 마력" />
+	<block key="momc8_buff_1_description_1" korean="검은 마력의 힘과 완벽하게 융합된 상태입니다." />
+	<block key="momadness00_buff_1_name" korean="광기의 외침" />
+	<block key="momadness00_buff_1_description_1" korean="탈로스가 광기 상태 입니다." />
+	<block key="momadness00_buff_1_description_2" korean="탈로스가 광기 상태 입니다." />
+	<block key="momadness00_buff_1_description_3" korean="탈로스가 광기 상태 입니다." />
+	<block key="moindarkmo00_buff_1_name" korean="어둠속의 포효" />
+	<block key="moindarkmo00_buff_1_description_1" korean="모르간이 폭주 상태 입니다." />
+	<block key="moindarkmo00_buff_1_description_2" korean="모르간이 폭주 상태 입니다." />
+	<block key="moindarkmo00_buff_1_description_3" korean="모르간이 폭주 상태 입니다." />
+	<block key="mobulls13_aura_1_name" korean="라헤르의 징표" />
+	<block key="mobulls13_aura_1_description_1" korean="밤을 밀어내어 공포면역 상태가 되었습니다." />
+	<block key="mobloodyb01_buff_1_name" korean="피투성이" />
+	<block key="mobloodyb01_buff_1_description_1" korean="과다출혈 상태 입니다." />
+	<block key="mobloodyb01_buff_1_description_2" korean="과다출혈 상태 입니다." />
+	<block key="mobloodyb01_buff_1_description_3" korean="과다출혈 상태 입니다." />
+	<block key="modarkshadow01_aura_1_name" korean="죽음의 그림자" />
+	<block key="modarkshadow01_aura_1_description_1" korean="모르간의 그림자가 발을 묶습니다." />
+	<block key="modarkshadow01_aura_1_description_2" korean="모르간의 그림자가 발을 묶습니다." />
+	<block key="modarkshadow01_aura_1_description_3" korean="모르간의 그림자가 발을 묶습니다." />
+	<block key="mopollutiona00_aura_1_name" korean="오염된 땅" />
+	<block key="mopollutiona00_aura_1_description_1" korean="탈로스의 공간에 위치하여 전투력이 하락합니다." />
+	<block key="mopollutiona00_aura_1_description_2" korean="탈로스의 공간에 위치하여 전투력이 하락합니다." />
+	<block key="mopollutiona00_aura_1_description_3" korean="탈로스의 공간에 위치하여 전투력이 하락합니다." />
+	<block key="mobulls04_aura_1_name" korean="리볼트의 징표" />
+	<block key="mobulls04_aura_1_description_1" korean="근처 아군의 공격력과 방어력이 상승합니다." />
+	<block key="mobulls05_aura_1_name" korean="비트레이의 징표" />
+	<block key="mobulls05_aura_1_description_1" korean="근처 아군의 공격력과 방어력이 상승합니다." />
+	<block key="mobulls15_aura_1_name" korean="라헤르의 징표" />
+	<block key="mobulls15_aura_1_description_1" korean="근처 아군의 공격력과 방어력이 상승합니다." />
+	<block key="mojeranin02_buff_1_name" korean="출혈 상태" />
+	<block key="mojeranin02_buff_1_description_1" korean="과다출혈 상태 입니다." />
+	<block key="modarkarrows00_buff_1_name" korean="해방된 어둠" />
+	<block key="modarkarrows00_buff_1_description_1" korean="이동속도가 감소 합니다." />
+	<block key="modarkarrows00_buff_1_description_2" korean="이동속도가 감소 합니다." />
+	<block key="modarkarrows00_buff_1_description_3" korean="해방된 어둠이 공포를 부릅니다." />
+	<block key="moindarkremove00_buff_1_name" korean="암흑 방출" />
+	<block key="moindarkremove00_buff_1_description_1" korean="이동속도가 감소 합니다." />
+	<block key="moindarkremove00_buff_1_description_2" korean="이동속도가 감소 합니다." />
+	<block key="moindarkremove00_buff_1_description_3" korean="이동속도가 감소 합니다." />
+</blocks>

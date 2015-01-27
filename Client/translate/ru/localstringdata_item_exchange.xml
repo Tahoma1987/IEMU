@@ -1,0 +1,372 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="EX_0_0000_Name" korean="Рог носорога из" />
+	<block key="EX_0_0000_description" korean="Rhino рогов сломана. Ropda довольно резкое" />
+	<block key="EX_0_0001_Name" korean="Кусок брони Rhino" />
+	<block key="EX_0_0001_description" korean="Осколки доспехов носорога. Вы не можете найти форму" />
+	<block key="EX_0_0002_Name" korean="Пятна льда" />
+	<block key="EX_0_0002_description" korean="Обломки от большого льда" />
+	<block key="EX_0_0003_Name" korean="Хлопья пламени" />
+	<block key="EX_0_0003_description" korean="Материализованные мусора от факела" />
+	<block key="EX_0_0004_Name" korean="Часть постановления" />
+	<block key="EX_0_0004_description" korean="Мертвые души остался стоять скульптура. Таинственный ореол чувствовал" />
+	<block key="EX_0_0005_Name" korean="Шпилька духи" />
+	<block key="EX_0_0005_description" korean="Души, который подключается к волос на заколках. Характер аромата ощущается" />
+	<block key="EX_0_0006_Name" korean="Волк зубы разрывается" />
+	<block key="EX_0_0006_description" korean="У меня есть кусок волчьих зубов. Твердые и острые взгляды низкие" />
+	<block key="EX_0_0007_Name" korean="Волк Кожа" />
+	<block key="EX_0_0007_description" korean="Кожа волк. Жесткие теплый оттенок" />
+	<block key="EX_0_0008_Name" korean="Рваные кабан кожа" />
+	<block key="EX_0_0008_description" korean="Дикий кабан стал оборванный кожа. Кажется, не было никакого места, чтобы написать на" />
+	<block key="EX_0_0009_Name" korean="Кабан кишечника" />
+	<block key="EX_0_0009_description" korean="Построенный в кабана. Запахи очень yeokhan" />
+	<block key="EX_0_0010_Name" korean="Brage Шарм" />
+	<block key="EX_0_0010_description" korean="Brage любимый талисман руководителем. Не знаю, какой эффект это itneunjineun" />
+	<block key="EX_0_0011_Name" korean="Топор упал день" />
+	<block key="EX_0_0011_description" korean="Отсутствующий зуб топор меня. Видимо, не более доступными" />
+	<block key="EX_0_0012_Name" korean="Отсутствует нож" />
+	<block key="EX_0_0012_description" korean="Отсутствующий зуб лезвие. Видимо, не более доступными" />
+	<block key="EX_0_0013_Name" korean="Сломанные палочки" />
+	<block key="EX_0_0013_description" korean="Два места nabeorin трость. Давайте использовать в качестве дров." />
+	<block key="EX_0_0014_Name" korean="Broken Arrow" />
+	<block key="EX_0_0014_description" korean="Arrow наконечник нарушается не доступна" />
+	<block key="EX_0_0015_Name" korean="Огонь Корпуса формы." />
+	<block key="EX_0_0015_description" korean="Огонь пехоты знаки для высокого ранга владения" />
+	<block key="EX_0_0016_Name" korean="Пламя Ward" />
+	<block key="EX_0_0016_description" korean="В войска СС, охранявшие вещи пламени" />
+	<block key="EX_0_0017_Name" korean="Разрываясь медвежьей" />
+	<block key="EX_0_0017_description" korean="Острые войной стране медвежья шкура. Стоит много взглядов от" />
+	<block key="EX_0_0018_Name" korean="Когти медведя" />
+	<block key="EX_0_0018_description" korean="Острые когти медведя. На ум приходит образ живого медведя" />
+	<block key="EX_0_0019_Name" korean="Сжигание щебня поднимается" />
+	<block key="EX_0_0019_description" korean="Это сожжены щебень. Также залить водой не выключается" />
+	<block key="EX_0_0020_Name" korean="Yeti копыта" />
+	<block key="EX_0_0020_description" korean="Копыта с ноги снежного человека. Снег все еще объединяет" />
+	<block key="EX_0_0021_Name" korean="Yeti кожа" />
+	<block key="EX_0_0021_description" korean="Кожаный белый йети. Отлично теплоизоляция" />
+	<block key="EX_0_0022_Name" korean="Талисман шамана" />
+	<block key="EX_0_0022_description" korean="Шаман Талисман была. Это произошло в конкретных моделей" />
+	<block key="EX_0_0023_Name" korean="Стрелки Yeti охотников" />
+	<block key="EX_0_0023_description" korean="Yeti охотники, которые используют стрелку. И еще стрелка отличается от белого" />
+	<block key="EX_0_0024_Name" korean="Сердце Метель" />
+	<block key="EX_0_0024_description" korean="Снежная буря холодное сердце. Больше сердце из живых существ в холодных регионах" />
+	<block key="EX_0_0025_Name" korean="Коготь замороженных волка" />
+	<block key="EX_0_0025_description" korean="Холодно когти волка. Все еще остается холодным" />
+	<block key="EX_0_0026_Name" korean="Клык замороженных волка" />
+	<block key="EX_0_0026_description" korean="Клык Волка холодно. Лед на резкость клыка, выделенных из операторов мимолетные выглядит более резким" />
+	<block key="EX_0_0027_Name" korean="Ice Fist" />
+	<block key="EX_0_0027_description" korean="Кулак замороженные холодно. Если ржавчина, кажется, исчезает" />
+	<block key="EX_0_0028_Name" korean="Замороженные фрагменты костей" />
+	<block key="EX_0_0028_description" korean="Холодно и фрагменты костей. Кажется, труднее бросить меня на куски" />
+	<block key="EX_0_0029_Name" korean="Грива" />
+	<block key="EX_0_0029_description" korean="Мех кабана" />
+	<block key="EX_0_0030_Name" korean="Грубый грива" />
+	<block key="EX_0_0030_description" korean="Дикий кабан волос. Ощущение дикой природе похоронен" />
+	<block key="EX_0_0031_Name" korean="Острое лезвие" />
+	<block key="EX_0_0031_description" korean="Жизнь лезвия резкость. Кажется, вуаль штрихи" />
+	<block key="EX_0_0032_Name" korean="Старый ткани" />
+	<block key="EX_0_0032_description" korean="Довольно старое тряпье" />
+	<block key="EX_0_0033_Name" korean="Рваный кусок" />
+	<block key="EX_0_0033_description" korean="Рваный кусок отверстие с помощью долго" />
+	<block key="EX_0_0034_Name" korean="Волк Мясо" />
+	<block key="EX_0_0034_description" korean="Мясо волка. Мясо хорошо выглядит" />
+	<block key="EX_0_0035_Name" korean="Волк коготь" />
+	<block key="EX_0_0035_description" korean="Острые когти волка. Довольно острые когти хищников называют" />
+	<block key="EX_0_0036_Name" korean="Волк зубы" />
+	<block key="EX_0_0036_description" korean="Зубы волка. Волк зубы острые, даже зубы" />
+	<block key="EX_0_0037_Name" korean="Твердые дикие зубы кабана" />
+	<block key="EX_0_0037_description" korean="Закаленные зубья диких взглядов кабана. Камень также, кажется, чтобы быть в состоянии жевать" />
+	<block key="EX_0_0038_Name" korean="Мясо дикого кабана" />
+	<block key="EX_0_0038_description" korean="Мясо дикого кабана. Мясо хорошо выглядит" />
+	<block key="EX_0_0039_Name" korean="Дикие зубы кабана" />
+	<block key="EX_0_0039_description" korean="Зубы кабана" />
+	<block key="EX_0_0040_Name" korean="Вырубка Топор" />
+	<block key="EX_0_0040_description" korean="Топор использовать при входе. Вес достаточно из" />
+	<block key="EX_0_0041_Name" korean="Пилы для рубки" />
+	<block key="EX_0_0041_description" korean="Топ используется, чтобы сократить упавшее дерево" />
+	<block key="EX_0_0042_Name" korean="Осколки брони" />
+	<block key="EX_0_0042_description" korean="Заброшенный обломок брони. Это не выглядит намного жестче" />
+	<block key="EX_0_0043_Name" korean="Осколки из дерева брони" />
+	<block key="EX_0_0043_description" korean="Осколки забалансовых древесины брони. Для видимого света, но крепкий" />
+	<block key="EX_0_0044_Name" korean="Сломанные ледяные кристаллы" />
+	<block key="EX_0_0044_description" korean="Определение of've растопили лед. Но казалась неразрешимой ржавчины" />
+	<block key="EX_0_0045_Name" korean="Brage боевые формы." />
+	<block key="EX_0_0045_description" korean="Brage Оценка для борьбы с владения. Ранг не высокая" />
+	<block key="EX_0_0046_Name" korean="Brage элита Оценка" />
+	<block key="EX_0_0046_description" korean="Brage Оценка обладая элитных солдат" />
+	<block key="EX_0_0047_Name" korean="Brage знак патриархов" />
+	<block key="EX_0_0047_description" korean="Brage, войдите, чтобы доказать, что патриархи" />
+	<block key="EX_0_0048_Name" korean="Фея пыли" />
+	<block key="EX_0_0048_description" korean="Фея пыль от тела. Эффективность неизвестна." />
+	<block key="EX_0_0049_Name" korean="Fox мясо" />
+	<block key="EX_0_0049_description" korean="Мясо лисиц. Выглядит хорошо" />
+	<block key="EX_0_0050_Name" korean="Маленький молоток" />
+	<block key="EX_0_0050_description" korean="Молот крайне малого размера" />
+	<block key="EX_0_0051_Name" korean="Сорняки" />
+	<block key="EX_0_0051_description" korean="Общий бассейн, где можно увидеть eseona" />
+	<block key="EX_0_0052_Name" korean="Прозрачные крылья" />
+	<block key="EX_0_0052_description" korean="Достаточно прозрачный смотреть за кулис" />
+	<block key="EX_0_0053_Name" korean="Поглощение ранние корни" />
+	<block key="EX_0_0053_description" korean="Человек, питающихся корнями растений поглощения секунд. Хорошо yakjaeryo используется" />
+	<block key="EX_0_0054_Name" korean="Слабый блеск" />
+	<block key="EX_0_0054_description" korean="Тусклый свет я забочусь кусок" />
+	<block key="EX_0_0055_Name" korean="Brage Шарм" />
+	<block key="EX_0_0055_description" korean="Brage амулеты заветная здесь" />
+	<block key="EX_0_0056_Name" korean="Старый клюв" />
+	<block key="EX_0_0056_description" korean="Довольно старый кирка. Кажется быть разбиты забастовку" />
+	<block key="EX_0_0057_Name" korean="Лисохвост" />
+	<block key="EX_0_0057_description" korean="Мягкий хвост лисы. Похоже, аристократических жен" />
+	<block key="EX_0_0058_Name" korean="Тлеющий Кости" />
+	<block key="EX_0_0058_description" korean="Места ослабленные кости имеют знаки" />
+	<block key="EX_0_0059_Name" korean="Sears части брони" />
+	<block key="EX_0_0059_description" korean="Сажа остается старый кусок брони везде" />
+	<block key="EX_0_0060_Name" korean="Кусок ткани призрак" />
+	<block key="EX_0_0060_description" korean="Давно хотел быть чувствовал ткань. Атмосфера чувствует холод" />
+	<block key="EX_0_0061_Name" korean="Знаки огня сожгли тамплиеров" />
+	<block key="EX_0_0061_description" korean="Обуглившиеся черные знаки тамплиеров" />
+	<block key="EX_0_0062_Name" korean="Горячие камни" />
+	<block key="EX_0_0062_description" korean="Дейл, казалось, утешает рука остается горячей" />
+	<block key="EX_0_0063_Name" korean="Flarecore" />
+	<block key="EX_0_0063_description" korean="Как вы можете видеть, как маленькое солнце, бесконечные пламя было излучающих" />
+	<block key="EX_0_0064_Name" korean="Паук ноги" />
+	<block key="EX_0_0064_description" korean="Большой паук ноги." />
+	<block key="EX_0_0065_Name" korean="Соло тарантулы денег" />
+	<block key="EX_0_0065_description" korean="Деньги, которые содержит яд тарантула соло." />
+	<block key="EX_0_0066_Name" korean="Паутина" />
+	<block key="EX_0_0066_description" korean="Важно и жевательные веб." />
+	<block key="EX_0_0067_Name" korean="Пушистые ноги паука" />
+	<block key="EX_0_0067_description" korean="Пушистые пушистые паук ноги." />
+	<block key="EX_0_0068_Name" korean="Сухожилий оленя" />
+	<block key="EX_0_0068_description" korean="Северный олень сухожилия вещества." />
+	<block key="EX_0_0069_Name" korean="Mane оленей" />
+	<block key="EX_0_0069_description" korean="Грива оленей." />
+	<block key="EX_0_0070_Name" korean="Дикий волк кожа" />
+	<block key="EX_0_0070_description" korean="Грубая кожа волк. Кожа используется в качестве брони материала." />
+	<block key="EX_0_0071_Name" korean="Аура Тьмы" />
+	<block key="EX_0_0071_description" korean="Энергия, состоящий из злого духа." />
+	<block key="EX_0_0072_Name" korean="Корова мясо" />
+	<block key="EX_0_0072_description" korean="Корова мясо. Используется в качестве ингредиента для приготовления пищи." />
+	<block key="EX_0_0073_Name" korean="Хвост для Werewolf" />
+	<block key="EX_0_0073_description" korean="Волк человек хвост." />
+	<block key="EX_0_0074_Name" korean="Карманный наркотиками" />
+	<block key="EX_0_0074_description" korean="Помощник мешок, наполненный лекарственными препаратами." />
+	<block key="EX_0_0075_Name" korean="Огненная ловушка" />
+	<block key="EX_0_0075_description" korean="Волк пламя ловушка, в которую люди используют." />
+	<block key="EX_0_0076_Name" korean="Метание ножей" />
+	<block key="EX_0_0076_description" korean="Волк бросает нож для использования человеком." />
+	<block key="EX_0_0077_Name" korean="Кабан Копыто" />
+	<block key="EX_0_0077_description" korean="Копыта кабана." />
+	<block key="EX_0_0078_Name" korean="Изменить рога мусора" />
+	<block key="EX_0_0078_description" korean="Изменить мусора рога. Продано в магазинах дороже." />
+	<block key="EX_0_0079_Name" korean="Оставшиеся морковь" />
+	<block key="EX_0_0079_description" korean="Кролик оставшиеся морковь." />
+	<block key="EX_0_0080_Name" korean="Мягкий мех кролика" />
+	<block key="EX_0_0080_description" korean="Мягкий мех кролика. Кажется, лучше создавать теплую одежду." />
+	<block key="EX_0_0081_Name" korean="Гигантские пчелы антенны" />
+	<block key="EX_0_0081_description" korean="Антенна гигантских пчел." />
+	<block key="EX_0_0082_Name" korean="Крылья пчелы" />
+	<block key="EX_0_0082_description" korean="Крылья пчелы." />
+	<block key="EX_0_0083_Name" korean="Глаза пчелы" />
+	<block key="EX_0_0083_description" korean="Глаза пчелы." />
+	<block key="EX_0_0084_Name" korean="Черепаха когти" />
+	<block key="EX_0_0084_description" korean="Черепаха когти." />
+	<block key="EX_0_0085_Name" korean="Жесткие черепахи оболочки, и т.д." />
+	<block key="EX_0_0085_description" korean="Оболочка черепахи очень твердый. Используется в качестве брони материала." />
+	<block key="EX_0_0086_Name" korean="Яд" />
+	<block key="EX_0_0086_description" korean="Яд змеи." />
+	<block key="EX_0_0087_Name" korean="Лягушка задняя" />
+	<block key="EX_0_0087_description" korean="Лягушка задние ноги." />
+	<block key="EX_0_0088_Name" korean="Крупный рогатый скот копыта" />
+	<block key="EX_0_0088_description" korean="Копыта буйволов." />
+	<block key="EX_0_0089_Name" korean="Корова рулевые перья" />
+	<block key="EX_0_0089_description" korean="Рулевые буйвола." />
+	<block key="EX_0_0090_Name" korean="Зубы медведя" />
+	<block key="EX_0_0090_description" korean="Зубы медведя." />
+	<block key="EX_0_0091_Name" korean="Чин на Pelican" />
+	<block key="EX_0_0091_description" korean="Пеликан является очень твердый подбородок." />
+	<block key="EX_0_0092_Name" korean="Легкое перышко" />
+	<block key="EX_0_0092_description" korean="Перья птиц и света." />
+	<block key="EX_0_0093_Name" korean="Вязкая слизь" />
+	<block key="EX_0_0093_description" korean="Слизь является липким и неприятным." />
+	<block key="EX_0_0094_Name" korean="Толстые рыбья чешуя" />
+	<block key="EX_0_0094_description" korean="Толстые, блестящие чешуйки mulkko группу." />
+	<block key="EX_0_0095_Name" korean="Жесткие копыта бизона" />
+	<block key="EX_0_0095_description" korean="Твердые копыта бизонов." />
+	<block key="EX_0_0096_Name" korean="Задние перья диких зубров" />
+	<block key="EX_0_0096_description" korean="Задние перья дикие бизоны." />
+	<block key="EX_0_0097_Name" korean="Leopard хвост" />
+	<block key="EX_0_0097_description" korean="Хвост леопарда." />
+	<block key="EX_0_0098_Name" korean="Острые зубы" />
+	<block key="EX_0_0098_description" korean="Острые зубы животных." />
+	<block key="EX_0_0099_Name" korean="Кровавый Scythe" />
+	<block key="EX_0_0099_description" korean="Кровавый вампир лучше использовать. Gamdonda мрачный ореол." />
+	<block key="EX_0_0100_Name" korean="Кровавые ногти" />
+	<block key="EX_0_0100_description" korean="Ногти кровавой вампирской крови." />
+	<block key="EX_0_0101_Name" korean="Сердце вампира" />
+	<block key="EX_0_0101_description" korean="Сердце вампира." />
+	<block key="EX_0_0102_Name" korean="Старый капот" />
+	<block key="EX_0_0102_description" korean="Это очень старый оборванный капот." />
+	<block key="EX_0_0103_Name" korean="Рыцари кровавые знаки" />
+	<block key="EX_0_0103_description" korean="Прошлые статьи раздела доказать, что это было признаком тамплиеров." />
+	<block key="EX_0_0104_Name" korean="Bloodstained одежды" />
+	<block key="EX_0_0104_description" korean="Окровавленные одежды." />
+	<block key="EX_0_0105_Name" korean="Старый Medley" />
+	<block key="EX_0_0105_description" korean="Старые мелочи." />
+	<block key="EX_0_0106_Name" korean="Кровавый кулинария шляпа" />
+	<block key="EX_0_0106_description" korean="Окровавленный шеф-повар шляпы места." />
+	<block key="EX_0_0107_Name" korean="Послушание палки" />
+	<block key="EX_0_0107_description" korean="Послушание бар для зверя. Удалить зверя, а чтобы услышать слова как-то." />
+	<block key="EX_0_0108_Name" korean="Фрагментация сети" />
+	<block key="EX_0_0108_description" korean="Несистемные цепи." />
+	<block key="EX_0_0109_Name" korean="Frost острые когти" />
+	<block key="EX_0_0109_description" korean="Когти астаксантин." />
+	<block key="EX_0_0110_Name" korean="Послушание заморожены бары" />
+	<block key="EX_0_0110_description" korean="Бар используется тренера." />
+	<block key="EX_0_0111_Name" korean="Источник холодного воздуха лошадиных сил" />
+	<block key="EX_0_0111_description" korean="Маг лошадиных сил содержится." />
+	<block key="EX_0_0112_Name" korean="Мороз Yeti Тотем" />
+	<block key="EX_0_0112_description" korean="Yeti является немного кукла, которая имеет форму тотем вокруг." />
+	<block key="EX_0_0113_Name" korean="Замороженные ноги паука" />
+	<block key="EX_0_0113_description" korean="Замороженные паук ноги." />
+	<block key="EX_0_0114_Name" korean="Классные ткани" />
+	<block key="EX_0_0114_description" korean="Холодные, жесткие ткани." />
+	<block key="EX_0_0115_Name" korean="Старые рабов кандалы" />
+	<block key="EX_0_0115_description" korean="Старые и старые оковы раба." />
+	<block key="EX_0_0116_Name" korean="Проржавевшие тростника" />
+	<block key="EX_0_0116_description" korean="Гнилые палки." />
+	<block key="EX_0_0117_Name" korean="Bupye кости" />
+	<block key="EX_0_0117_description" korean="Гнилые костные фрагменты." />
+	<block key="EX_0_0118_Name" korean="Длинные ноги паука" />
+	<block key="EX_0_0118_description" korean="Шрам на лице довольно долгое паука ноги." />
+	<block key="EX_0_0119_Name" korean="Шпилька старые девы" />
+	<block key="EX_0_0119_description" korean="Давным-давно я использовал служанок дворца шпильки." />
+	<block key="EX_0_0120_Name" korean="Малый Демон Руководство один триллион виды 1" />
+	<block key="EX_0_0120_description" korean="Малый Демон один триллион виды принципов 1. Завершено в общей сложности три. Кто является вашим истинным мастером этой книге Devil подрядчика." />
+	<block key="EX_0_0121_Name" korean="Малый Марк договора Devil" />
+	<block key="EX_0_0121_description" korean="Когда вы подписываете соглашение о контракте с меньшей демон демон, который." />
+	<block key="EX_0_0122_Name" korean="Полнота духа тьмы" />
+	<block key="EX_0_0122_description" korean="Энергия аура Угрюм-заполнены. Это очень мрачная аура gamdonda." />
+	<block key="EX_0_0123_Name" korean="Крылья чертенок" />
+	<block key="EX_0_0123_description" korean="Крылья маленького дьявола." />
+	<block key="EX_0_0124_Name" korean="С коротким хвостом демон" />
+	<block key="EX_0_0124_description" korean="С коротким хвостом дьявола. Как хвост маленький дьявол." />
+	<block key="EX_0_0125_Name" korean="Рыцари коррозии признаки" />
+	<block key="EX_0_0125_description" korean="Знаки старых рыцарей коррозии в течение длительного времени." />
+	<block key="EX_0_0126_Name" korean="Коррозия Bone" />
+	<block key="EX_0_0126_description" korean="Долгое время коррозия костные фрагменты." />
+	<block key="EX_0_0127_Name" korean="Коррозия корона" />
+	<block key="EX_0_0127_description" korean="Древняя Корона короля. Ювелирные изделия очень старые и из него." />
+	<block key="EX_0_0128_Name" korean="Черный дракон птенцов весы" />
+	<block key="EX_0_0128_description" korean="Весы для черного котенка. Используется при изготовлении брони материал." />
+	<block key="EX_0_0129_Name" korean="Когти Черного Дракона детеныша" />
+	<block key="EX_0_0129_description" korean="Коготь черный котенок дракона." />
+	<block key="EX_0_0130_Name" korean="Бомба взрыватель" />
+	<block key="EX_0_0130_description" korean="Бомба взрыватель. Намокнет, он говорит, что нет." />
+	<block key="EX_0_0131_Name" korean="Старый шляпа" />
+	<block key="EX_0_0131_description" korean="Это очень старый оборванный шляпа." />
+	<block key="EX_0_0132_Name" korean="Побитый части брони" />
+	<block key="EX_0_0132_description" korean="Одна часть рваной брони." />
+	<block key="EX_0_0133_Name" korean="Kkojil kkojil черный флаг" />
+	<block key="EX_0_0133_description" korean="Kkojil kkojil Cara-де-пират пират группа." />
+	<block key="EX_0_0135_Name" korean="Пиргос грабители больше приговор" />
+	<block key="EX_0_0135_description" korean="Пиргос разбойники, чтобы доказать, что в большей приговора." />
+	<block key="EX_0_0136_Name" korean="Старый маска" />
+	<block key="EX_0_0136_description" korean="Это очень старый оборванный маска. Списание тот же вид, как бандиты." />
+	<block key="EX_0_0137_Name" korean="Проржавевшие Рыцарь-командор Марк" />
+	<block key="EX_0_0137_description" korean="Признаки старый рыцарь-командующий." />
+	<block key="EX_0_0138_Name" korean="Ржавые части брони" />
+	<block key="EX_0_0138_description" korean="Корродированной части брони." />
+	<block key="EX_0_0139_Name" korean="Тыквенные осы жидкости" />
+	<block key="EX_0_0139_description" korean="Телесные тыквы ос." />
+	<block key="EX_0_0140_Name" korean="Гладкая лисий мех" />
+	<block key="EX_0_0140_description" korean="Мягкий мех лисы." />
+	<block key="EX_0_0141_Name" korean="Док ваш карман" />
+	<block key="EX_0_0141_Description" korean="Ингредиенты, необходимые, чтобы сделать ауру порядок подавления яд" />
+	<block key="EX_0_0142_Name" korean="Venom карман" />
+	<block key="EX_0_0142_Description" korean="Ингредиенты, необходимые, чтобы сделать ауру порядок подавления яд" />
+	<block key="EX_0_0143_Name" korean="Постоянная Flame" />
+	<block key="EX_0_0143_Description" korean="Ингредиенты, необходимые, чтобы сделать ауру порядок подавления пламени" />
+	<block key="EX_0_0144_Name" korean="Постоянное интенсивное пламя" />
+	<block key="EX_0_0144_Description" korean="Ингредиенты, необходимые, чтобы сделать ауру порядок подавления пламени" />
+	<block key="EX_0_0145_Name" korean="Постоянная Frost" />
+	<block key="EX_0_0145_Description" korean="Необходимые материалы, чтобы сделать заказ подавления холодного ауры" />
+	<block key="EX_0_0146_Name" korean="Постоянная сильный холод" />
+	<block key="EX_0_0146_Description" korean="Необходимые материалы, чтобы сделать заказ подавления холодного ауры" />
+	<block key="EX_0_0147_Name" korean="Постоянный свет" />
+	<block key="EX_0_0147_Description" korean="Ингредиенты, необходимые, чтобы сделать заказ подавления световой энергии" />
+	<block key="EX_0_0148_Name" korean="Сущность интенсивного света" />
+	<block key="EX_0_0148_Description" korean="Ингредиенты, необходимые, чтобы сделать заказ подавления световой энергии" />
+	<block key="EX_0_0149_Name" korean="Сущность тьмы" />
+	<block key="EX_0_0149_Description" korean="Необходимые материалы, чтобы сделать темно-заказ подавления ауры" />
+	<block key="EX_0_0150_Name" korean="Сущность полной темноты" />
+	<block key="EX_0_0150_Description" korean="Необходимые материалы, чтобы сделать темно-заказ подавления ауры" />
+	<block key="EX_0_0151_Name" korean="Камень очистки" />
+	<block key="EX_0_0151_Description" korean="Причины очистить тело темной магии запечатаны замороженные руины." />
+	<block key="EX_0_0152_Name" korean="Слизь Octopus" />
+	<block key="EX_0_0152_Description" korean="Важно слизь жидкая считается осьминог. Отвратительно воняет лету." />
+	<block key="EX_0_0153_Name" korean="Грязь окрашенных монеты" />
+	<block key="EX_0_0153_Description" korean="Подвеска думал, что я знал, что это была подхвачена старые монеты." />
+	<block key="EX_0_0154_Name" korean="Кровавые лепестки" />
+	<block key="EX_0_0154_Description" korean="Лепестки злопамятен seoryeo" />
+	<block key="EX_0_0155_Name" korean="Exergy выращенные монеты" />
+	<block key="EX_0_0155_Description" korean="Деньги, которые можно выращивать в возбудителе магазине" />
+	<block key="EX_0_0156_Name" korean="Канас и памятные монеты" />
+	<block key="EX_0_0156_Description" korean="Монета в честь создания в замке и Канаш Канаш \u003cBR\u003e, а также \u003cUI_Y\u003e [оператору монеты Канас] можно заменить с различными Канас коробки и через Мадлен \u003c/ UI_Y\u003e." />
+	<block key="EX_0_0157_Name" korean="Альянс Света знак" />
+	<block key="EX_0_0157_Description" korean="Insignia ветеранов, которые воевали против армии пили в прошлом" />
+	<block key="EX_0_0158_Name" korean="SK Hynix SSD" />
+	<block key="EX_0_0158_Description" korean="Hynix партнерские SK рекламных материалов.\n- Вероятность выигрыша увеличивается более высокого класса SSD собраны." />
+	<block key="EX_0_0160_Name" korean="Donggoe из Идзу Гора" />
+	<block key="EX_0_0161_Name" korean="Eungoe из Идзу Гора" />
+	<block key="EX_0_0162_Name" korean="Bullion Идзу Hora" />
+	<block key="EX_0_0163_Name" korean="Ключевой частью Идзу-Гора" />
+	<block key="EX_0_0160_Description" korean="\u003cUI_G\u003e магазин может продавать по высоким ценам. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0161_Description" korean="\u003cUI_G\u003e магазин может продавать по высоким ценам. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0162_Description" korean="\u003cUI_G\u003e магазин может продавать по высоким ценам. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0163_Description" korean="Ключ piece've разбит на несколько частей\n\n\u003cUI_G\u003e Коллекция ключевых элементов вы можете пойти в La Винни трейдера в воздушном пространстве входа щели заменить ключ целом. \u003c/ UI_G\u003e" />
+	<block key="ex_0_0159_Name" korean="Футбол" />
+	<block key="EX_0_0164_Name" korean="Печать легенде" />
+	<block key="EX_0_0164_Description" korean="\u003cUI_Y\u003e экземпляр Легендарной сложности вход в подземелье \u003c/ UI_Y\u003e\n\u003cUI_G\u003e пожарные проглотил остатки \u003c/ UI_G\u003e\n\u003cUI_G\u003e Reang особняк Карла \u003c/ UI_G\u003e\n\u003cUI_G\u003e Замороженные Mart Len руины \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Ключ Cobb, что позволяет позиционировать сильной пространственной возрожденный искажая пространство и время в любом деноминации. \u003c/ UI_Y\u003e\n\n\u003cUI_G\u003e может быть получена через предмет, не могут быть проданы. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0165_Name" korean="Печать легенде Блажен" />
+	<block key="EX_0_0165_Description" korean="\u003cUI_Y\u003e экземпляр Легендарной сложности вход в подземелье \u003c/ UI_Y\u003e\n\u003cUI_G\u003e пожарные проглотил остатки \u003c/ UI_G\u003e\n\u003cUI_G\u003e Reang особняк Карла \u003c/ UI_G\u003e\n\u003cUI_G\u003e Замороженные Mart Len руины \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Ключ Cobb, что позволяет позиционировать сильной пространственной возрожденный искажая пространство и время в любом деноминации. \u003c/ UI_Y\u003e\n\n\u003cUI_G\u003e может быть достигнуто за счет создания / вывода в торговых объектах, доступных. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0166_Name" korean="Сертификат посещаемости полумесяца верхней" />
+	<block key="EX_0_0166_Description" korean="Лучшие мероприятия Посещать полумесяц пункт" />
+	<block key="EX_0_0167_Name" korean="Семь смертных грехов и поднял отчет часть возбудителя" />
+	<block key="EX_0_0167_Description" korean="Эта часть информации, записанной на возбудителя выросла сотрудник из семи смертных грехов" />
+	<block key="EX_0_0168_Name" korean="Exergy вырос древней истории часть" />
+	<block key="EX_0_0168_Description" korean="Часть письменного доклада возбудителя вырос с богатой историей" />
+	<block key="EX_0_0169_Name" korean="Donggoe" />
+	<block key="EX_0_0170_Name" korean="Eungoe" />
+	<block key="EX_0_0171_Name" korean="Слиток" />
+	<block key="EX_0_0169_Description" korean="\u003cUI_G\u003e магазин может продавать по высоким ценам. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0170_Description" korean="\u003cUI_G\u003e магазин может продавать по высоким ценам. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0171_Description" korean="\u003cUI_G\u003e магазин может продавать по высоким ценам. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0172_Name" korean="Exergy выращенные монеты" />
+	<block key="EX_0_0172_Description" korean="Расширенный валюта, которая может быть выращен в возбудителе магазине" />
+	<block key="EX_0_0173_Name" korean="Хэллоуин подтверждение посещаемости" />
+	<block key="EX_0_0173_Description" korean="Хэллоуин присутствовать на элементы события" />
+	<block key="EX_0_0174_Name" korean="Exergy вырос ключ сокровищами" />
+	<block key="EX_0_0174_Description" korean="Ключ, чтобы открыть сундук с сокровищами в середине озера Halo\n\n\u003cUI_G\u003e Внимание! Если Вы отмените Открыв коробку исчезает. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0175_Name" korean="Exo-значный полезным экскаватор" />
+	<block key="EX_0_0175_Description" korean="Halo Озеро экскаватор, который может помочь копать экзо-положении в центре\n\n\u003cUI_G\u003e Внимание! Если вы отмените при добыче исчезнет. \u003c/ UI_G\u003e" />
+	<block key="EX_0_0176_Name" korean="Ahkeron монеты" />
+	<block key="EX_0_0176_Description" korean="Деньги, которые могут быть использованы в ahkeron магазине" />
+	<block key="EX_0_0177_Name" korean="Ahkeron монеты" />
+	<block key="EX_0_0177_Description" korean="Расширенный валюта, которая может быть использована в ahkeron магазине" />
+	<block key="EX_0_0178_Name" korean="Подтверждение посещаемости стекла" />
+	<block key="EX_0_0178_Description" korean="Участие в мероприятии подтверждение основанием единства стекла" />
+	<block key="EX_0_0179_Name" korean="Рынок монет Kunzite в лунном свете" />
+	<block key="EX_0_0179_Description" korean="Черный рынок, который работает на общей управления новой вершины луна и тени верхней, \u003cUI_G\u003e [Moonlight Market] \u003c/ UI_G\u003e обычно используется только в монетах\n\n\u003cO_Y\u003e может обменять деталь через Kunzite монет биржевыми трейдерами появились после 10 декабря \u003c/ O_Y\u003e" />
+	<block key="EX_0_0180_Name" korean="Рынок золота монета в лунном свете" />
+	<block key="EX_0_0180_Description" korean="Черный рынок, который работает на общей управления новой вершины луна и тени верхней, \u003cUI_G\u003e [Moonlight Market] \u003c/ UI_G\u003e обычно используется только в монетах\n\n\u003cO_Y\u003e может обменять деталь с биржевыми трейдерами золотая монета появилась после 10 декабря \u003c/ O_Y\u003e" />
+	<block key="EX_0_0181_Name" korean="Ляпис медаль в лунном свете рынка" />
+	<block key="EX_0_0181_Description" korean="Черный рынок, который работает на общей управления новой вершины луна и тени верхней, \u003cUI_G\u003e [Moonlight рынок] \u003c/ UI_G\u003e медалями принимаются только\n\n\u003cO_Y\u003e могут быть обменены на товары через ляпис-лазури медаль трейдеры обмена появились после 10 декабря \u003c/ O_Y\u003e" />
+	<block key="EX_0_0182_Name" korean="Золотая медаль в лунном свете рынка" />
+	<block key="EX_0_0182_Description" korean="Черный рынок, который работает на общей управления новой вершины луна и тени верхней, \u003cUI_G\u003e [Moonlight рынок] \u003c/ UI_G\u003e медалями принимаются только\n\n\u003cO_Y\u003e может обменять деталь с биржевыми трейдерами золотую медаль появилась после 10 декабря \u003c/ O_Y\u003e" />
+</blocks>

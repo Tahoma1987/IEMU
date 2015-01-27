@@ -1,0 +1,67 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="testfield_Name" korean="Полевые испытания" />
+	<block key="testfield2_Name" korean="Полевые испытания 2" />
+	<block key="map_f00_Name" korean="Немного тюрьмы Саран" />
+	<block key="map_f01_Name" korean="Просмотр карбоновой лес" />
+	<block key="map_f02_Name" korean="И команда Каньяс jikhal" />
+	<block key="map_f03_Name" korean="Парк мою землю" />
+	<block key="map_f04_Name" korean="Воздушное пространство разрушения" />
+	<block key="map_f05_Name" korean="Пустыня бессмертия" />
+	<block key="map_d01_Name" korean="Карл Reang особняк" />
+	<block key="map_d02_Name" korean="Замороженные Mart Лен руины" />
+	<block key="map_d03_Name" korean="Облаченный в вуалью пещере" />
+	<block key="map_d04_Name" korean="Волна рупий лед форт" />
+	<block key="map_d00_Name" korean="Продолжает гореть проглотил" />
+	<block key="map_c01_Name" korean="Канаш, а также секс" />
+	<block key="map_c02_Name" korean="Сурат дуги луг" />
+	<block key="map_c03_Name" korean="Гром облака крепость" />
+	<block key="map_f07_Name" korean="Эллора Sanctuary" />
+	<block key="map_f08_Name" korean="Rimran к долине" />
+	<block key="map_f09_Name" korean="И Канаш для" />
+	<block key="map_test01_Name" korean="Полевые испытания 4" />
+	<block key="map_test02_Name" korean="Полевые испытания 5" />
+	<block key="testfield3_Name" korean="Полевые испытания 3" />
+	<block key="map_d07_Name" korean="Гнездо Эльзаса" />
+	<block key="test_navi_Name" korean="Тест навигации" />
+	<block key="map_d08_name" korean="Забыли Святая Земля" />
+	<block key="map_d09_name" korean="И афганской деревне" />
+	<block key="map_farm_01_name" korean="Канас и плантаторы" />
+	<block key="map_farm_02_name" korean="Сурат дуги луг ранчо" />
+	<block key="map_f10_Name" korean="Магма Фора" />
+	<block key="map_f11_Name" korean="Черная Рука ущелье" />
+	<block key="map_f12_Name" korean="Exergy вырос бассейна" />
+	<block key="map_f13_Name" korean="Спящая остров" />
+	<block key="map_f14_Name" korean="Элла-де-Континент" />
+	<block key="map_f01_e01_Name" korean="Южные исторические руины" />
+	<block key="map_f01_e02_Name" korean="Северные исторические руины" />
+	<block key="map_d11_name" korean="Красный революция единственная база" />
+	<block key="map_f02_e01_name" korean="Пещера Джека Хантера" />
+	<block key="map_f02_e02_name" korean="Пот Windy Hill" />
+	<block key="map_f03_e01_name" korean="Корабль-призрак" />
+	<block key="map_f03_e02_name" korean="Пираты база" />
+	<block key="map_f03_e03_name" korean="Волновые рупий поместья" />
+	<block key="map_f06_name" korean="Пек Ventura" />
+	<block key="map_f01_e03_name" korean="Секретные руины" />
+	<block key="map_c01_e01_name" korean="Король тронный зал." />
+	<block key="map_c01_e03_name" korean="Восточной части города" />
+	<block key="map_p01_name" korean="Exergy взрослый Лоулесс" />
+	<block key="map_f16_name" korean="Yata двадцать очарования" />
+	<block key="map_f15_e01_name" korean="Крупные ветряные Остров" />
+	<block key="map_f02_e03_name" korean="Дом горничных" />
+	<block key="map_f99_name" korean="Необитаемый" />
+	<block key="map_c01_e02_name" korean="Сильва Королевство" />
+	<block key="map_d22_Name" korean="Клиренс воздушного пространства" />
+	<block key="map_f98_name" korean="Картель" />
+	<block key="map_c01_e04_name" korean="Водный замок гвардии" />
+	<block key="map_d13_name" korean="Древние храмы" />
+	<block key="map_d06_name" korean="Форт Бессмертный Легион" />
+	<block key="map_f05_e01_name" korean="Руины храма" />
+	<block key="map_f05_e02_name" korean="Инкубаторий" />
+</blocks>

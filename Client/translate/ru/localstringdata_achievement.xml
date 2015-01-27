@@ -1,0 +1,1294 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="am_co_gr_001_10_Name" korean="Уже 10 повторений" />
+	<block key="am_co_gr_001_10_Description" korean="10 уровней достижения" />
+	<block key="am_co_gr_001_10_condition_0" korean="10 уровней достижения" />
+	<block key="am_co_gr_001_20_Name" korean="Статья Водный замок Гардиан" />
+	<block key="am_co_gr_001_20_Description" korean="Достижение уровня 20" />
+	<block key="am_co_gr_001_20_condition_0" korean="Достижение уровня 20" />
+	<block key="am_co_gr_001_30_Name" korean="Я буду смотреть" />
+	<block key="am_co_gr_001_30_Description" korean="Уровень Reach" />
+	<block key="am_co_gr_001_30_condition_0" korean="Уровень Reach" />
+	<block key="am_co_gr_001_40_Name" korean="Награждение уровень выше" />
+	<block key="am_co_gr_001_40_Description" korean="Достижение 40-го уровня" />
+	<block key="am_co_gr_001_40_condition_0" korean="Достижение 40-го уровня" />
+	<block key="am_co_mo_008_10_Name" korean="Juseom juseom" />
+	<block key="am_co_mo_008_10_Description" korean="10 золотых получены по капле" />
+	<block key="am_co_mo_008_10_condition_0" korean="Золото приобретение" />
+	<block key="am_co_mo_008_50_Name" korean="Тайшань пылиться" />
+	<block key="am_co_mo_008_50_Description" korean="50 золотых получены по капле" />
+	<block key="am_co_mo_008_50_condition_0" korean="Золото приобретение" />
+	<block key="am_co_mo_008_100_Name" korean="Мастер монеты сбор" />
+	<block key="am_co_mo_008_100_Description" korean="100 золотых получены по капле" />
+	<block key="am_co_mo_008_100_condition_0" korean="Золото приобретение" />
+	<block key="am_co_mo_009_10_Name" korean="Малый возврат" />
+	<block key="am_co_mo_009_10_Description" korean="10 золотых приобретена Quest" />
+	<block key="am_co_mo_009_10_condition_0" korean="Золото приобретение" />
+	<block key="am_co_mo_009_50_Name" korean="Заслуженная награда" />
+	<block key="am_co_mo_009_50_Description" korean="50 золотых приобретена Quest" />
+	<block key="am_co_mo_009_50_condition_0" korean="Золото приобретение" />
+	<block key="am_co_mo_009_100_Name" korean="Я и предлагают дань" />
+	<block key="am_co_mo_009_100_Description" korean="Quest приобрести 100 золото" />
+	<block key="am_co_mo_009_100_condition_0" korean="Золото приобретение" />
+	<block key="am_co_mo_010_10_Name" korean="Недвижимость вкус бизнеса" />
+	<block key="am_co_mo_010_10_Description" korean="10 Gold приобрела представителя по продажам" />
+	<block key="am_co_mo_010_10_condition_0" korean="Золото приобретение" />
+	<block key="am_co_mo_010_50_Name" korean="Что это за дела" />
+	<block key="am_co_mo_010_50_Description" korean="50 золотых виде агента по продажам" />
+	<block key="am_co_mo_010_50_condition_0" korean="Золото приобретение" />
+	<block key="am_co_mo_010_100_Name" korean="Мастер в области бизнеса" />
+	<block key="am_co_mo_010_100_Description" korean="100 Gold приобрела представителя по продажам" />
+	<block key="am_co_mo_010_100_condition_0" korean="Золото приобретение" />
+	<block key="am_co_mo_016_50_Name" korean="Наслаждение сбережений" />
+	<block key="am_co_mo_016_50_Description" korean="Проведение 50 золото" />
+	<block key="am_co_mo_016_50_condition_0" korean="Золотой запас" />
+	<block key="am_co_mo_016_100_Name" korean="Храни короля" />
+	<block key="am_co_mo_016_100_Description" korean="100 золотых провести" />
+	<block key="am_co_mo_016_100_condition_0" korean="Золотой запас" />
+	<block key="am_co_mo_013_10_Name" korean="Покупки весело" />
+	<block key="am_co_mo_013_10_Description" korean="10 Золото используется товары, приобретенные в магазинах" />
+	<block key="am_co_mo_013_10_condition_0" korean="Использование золота" />
+	<block key="am_co_mo_013_50_Name" korean="Покровитель" />
+	<block key="am_co_mo_013_50_Description" korean="50 золотых используется в качестве приобретенного товара в магазинах" />
+	<block key="am_co_mo_013_50_condition_0" korean="Использование золота" />
+	<block key="am_co_mo_013_100_Name" korean="Теперь, когда магазин geodeol" />
+	<block key="am_co_mo_013_100_Description" korean="100 золотых, чтобы покупать вещи в использовании магазина" />
+	<block key="am_co_mo_013_100_condition_0" korean="Использование золота" />
+	<block key="am_co_mo_026_100_Name" korean="Elounda действительно так здорово" />
+	<block key="am_co_mo_026_100_Description" korean="Использование 100 Elounda" />
+	<block key="am_co_mo_026_100_condition_0" korean="Вы можете использовать Elounda" />
+	<block key="am_co_mo_026_1000_Name" korean="Стражи Элуны" />
+	<block key="am_co_mo_026_1000_Description" korean="Использование 1000 Elounda" />
+	<block key="am_co_mo_026_1000_condition_0" korean="Вы можете использовать Elounda" />
+	<block key="am_co_ac_019_100_Name" korean="Владелец магазина Введение" />
+	<block key="am_co_ac_019_100_Description" korean="Продавайте вещи, в 100 раз с помощью торгового агента" />
+	<block key="am_co_ac_019_100_condition_0" korean="Элементы могут быть проданы" />
+	<block key="am_co_ac_019_500_Name" korean="Гений продажи" />
+	<block key="am_co_ac_019_500_Description" korean="Продавайте вещи, в 500 раз с помощью торгового агента" />
+	<block key="am_co_ac_019_500_condition_0" korean="Элементы могут быть проданы" />
+	<block key="am_co_ac_019_1000_Name" korean="Высота континентов" />
+	<block key="am_co_ac_019_1000_Description" korean="1000 пунктов для продажи по торговым агентом" />
+	<block key="am_co_ac_019_1000_condition_0" korean="Элементы могут быть проданы" />
+	<block key="am_co_ac_020_100_Name" korean="Начало потребления" />
+	<block key="am_co_ac_020_100_Description" korean="Покупайте вещи 100 раз, используя торгового агента" />
+	<block key="am_co_ac_020_100_condition_0" korean="Элементы могут быть приобретены" />
+	<block key="am_co_ac_020_500_Name" korean="Потребительские V.I.P" />
+	<block key="am_co_ac_020_500_Description" korean="Покупайте вещи 500 раз, используя торгового агента" />
+	<block key="am_co_ac_020_500_condition_0" korean="Элементы могут быть приобретены" />
+	<block key="am_co_ac_020_1000_Name" korean="Большой рука континента" />
+	<block key="am_co_ac_020_1000_Description" korean="1000 купил элементов с помощью агента по продажам" />
+	<block key="am_co_ac_020_1000_condition_0" korean="Элементы могут быть приобретены" />
+	<block key="am_co_ac_025_100_Name" korean="Общественный транспорт и Канаш" />
+	<block key="am_co_ac_025_100_Description" korean="Портал используется 100 раз" />
+	<block key="am_co_ac_025_100_condition_0" korean="Вы можете использовать портал" />
+	<block key="am_co_ac_025_500_Name" korean="Человек портал" />
+	<block key="am_co_ac_025_500_Description" korean="Использование портала 500 раз" />
+	<block key="am_co_ac_025_500_condition_0" korean="Вы можете использовать портал" />
+	<block key="am_co_ac_027_7_Name" korean="Большой и красивый склад" />
+	<block key="am_co_ac_027_7_Description" korean="Слот для хранения расширения 7 линия" />
+	<block key="am_co_ac_027_7_condition_0" korean="Слот для хранения расширить" />
+	<block key="am_co_ac_030_100_Name" korean="Сто дней" />
+	<block key="am_co_ac_030_100_Description" korean="Совокупное число обращений 100 дней" />
+	<block key="am_co_ac_030_100_condition_0" korean="Совокупные Дни доступа" />
+	<block key="am_co_ac_030_365_Name" korean="Уже один год" />
+	<block key="am_co_ac_030_365_Description" korean="Совокупное число обращений 365 дней" />
+	<block key="am_co_ac_030_365_condition_0" korean="Совокупные Дни доступа" />
+	<block key="am_co_ac_031_10_Name" korean="Еще Новичок, ни умереть" />
+	<block key="am_co_ac_031_10_Description" korean="Умер 10 раз" />
+	<block key="am_co_ac_031_10_condition_0" korean="Смертей" />
+	<block key="am_co_ac_031_100_Name" korean="Зомби" />
+	<block key="am_co_ac_031_100_Description" korean="Умер в 100 раз" />
+	<block key="am_co_ac_031_100_condition_0" korean="Смертей" />
+	<block key="am_co_ac_031_200_Name" korean="Бессмертие" />
+	<block key="am_co_ac_031_200_Description" korean="Умер в 200 раз" />
+	<block key="am_co_ac_031_200_condition_0" korean="Смертей" />
+	<block key="am_fe_ga_033_50_Name" korean="Коллег-профессионалов" />
+	<block key="am_fe_ga_033_50_Description" korean="Все участники ручную успех, независимо от класса 100 раз" />
+	<block key="am_fe_ga_033_50_condition_0" korean="Укрощение быть успешным" />
+	<block key="am_fe_ga_033_100_Name" korean="Сотрудник Master" />
+	<block key="am_fe_ga_033_100_Description" korean="Все молодцы ручную успех, независимо от класса 300 раз" />
+	<block key="am_fe_ga_033_100_condition_0" korean="Укрощение быть успешным" />
+	<block key="am_fe_ga_034_30_Name" korean="Общие энтузиасты коллеги" />
+	<block key="am_fe_ga_034_30_Description" korean="Генеральный парень приручить успешных 30 раз" />
+	<block key="am_fe_ga_034_30_condition_0" korean="Укрощение быть успешным" />
+	<block key="am_fe_ga_034_60_Name" korean="Общие коллеги коллекторы" />
+	<block key="am_fe_ga_034_60_Description" korean="Генеральный парень приручить успешных 200 раз" />
+	<block key="am_fe_ga_034_60_condition_0" korean="Укрощение быть успешным" />
+	<block key="am_fe_ga_035_20_Name" korean="Элитные энтузиасты коллеги" />
+	<block key="am_fe_ga_035_20_Description" korean="Попутчики Элитные 20 раз приручить успех" />
+	<block key="am_fe_ga_035_20_condition_0" korean="Укрощение быть успешным" />
+	<block key="am_fe_ga_035_40_Name" korean="Элитные коллекторы коллеги" />
+	<block key="am_fe_ga_035_40_Description" korean="Сотрудник Элитные 100 раз Укрощение успех" />
+	<block key="am_fe_ga_035_40_condition_0" korean="Укрощение быть успешным" />
+	<block key="am_fe_ga_036_10_Name" korean="Герой другими энтузиастами" />
+	<block key="am_fe_ga_036_10_Description" korean="Укрощение товарищи герои удалось 10 раз" />
+	<block key="am_fe_ga_036_10_condition_0" korean="Укрощение быть успешным" />
+	<block key="am_fe_ga_036_20_Name" korean="Герой коллеги коллекторы" />
+	<block key="am_fe_ga_036_20_Description" korean="Укрощение товарищи герои удалось 50 раз" />
+	<block key="am_fe_ga_036_20_condition_0" korean="Укрощение быть успешным" />
+	<block key="am_fe_ga_037_50_Name" korean="Та ... отпустил его, потому что не ясно, слот шляпа не не вещь," />
+	<block key="am_fe_ga_037_50_Description" korean="Поместите все парень независимо от рейтинга цикла 100 раз" />
+	<block key="am_fe_ga_037_50_condition_0" korean="Циклы выпуска" />
+	<block key="am_fe_ga_037_100_Name" korean="Повышение по bangsaeng рядах" />
+	<block key="am_fe_ga_037_100_Description" korean="Весь цикл Fellows релиз, независимо от класса 300 раз" />
+	<block key="am_fe_ga_037_100_condition_0" korean="Циклы выпуска" />
+	<block key="am_fe_ga_038_30_Name" korean="[General] время, чтобы разбить" />
+	<block key="am_fe_ga_038_30_Description" korean="Общая сотрудник пусть цикла 30 раз" />
+	<block key="am_fe_ga_038_30_condition_0" korean="Циклы выпуска" />
+	<block key="am_fe_ga_038_60_Name" korean="[General] ум действительно заботится" />
+	<block key="am_fe_ga_038_60_Description" korean="Общая сотрудник пусть цикла 200 раз" />
+	<block key="am_fe_ga_038_60_condition_0" korean="Циклы выпуска" />
+	<block key="am_fe_ga_039_20_Name" korean="[Elite] время, чтобы разбить" />
+	<block key="am_fe_ga_039_20_Description" korean="Elite сотрудник пусть цикла 20 раз" />
+	<block key="am_fe_ga_039_20_condition_0" korean="Циклы выпуска" />
+	<block key="am_fe_ga_039_40_Name" korean="[Elite] ум действительно заботится" />
+	<block key="am_fe_ga_039_40_Description" korean="Сотрудник цикл выпуска Элитные 100 раз" />
+	<block key="am_fe_ga_039_40_condition_0" korean="Циклы выпуска" />
+	<block key="am_fe_ga_040_10_Name" korean="[Герой] время, чтобы разбить" />
+	<block key="am_fe_ga_040_10_Description" korean="Герой цикла выпуска 10 стипендиатов" />
+	<block key="am_fe_ga_040_10_condition_0" korean="Циклы выпуска" />
+	<block key="am_fe_ga_040_20_Name" korean="[Герой] ум действительно заботится" />
+	<block key="am_fe_ga_040_20_Description" korean="Сотрудник пусть цикл героя 50 раз" />
+	<block key="am_fe_ga_040_20_condition_0" korean="Циклы выпуска" />
+	<block key="am_fe_us_041_50_Name" korean="Были выращены меньше" />
+	<block key="am_fe_us_041_50_Description" korean="Все штамм Ребята, независимо от класса 100 раз" />
+	<block key="am_fe_us_041_50_condition_0" korean="Трансформироваться" />
+	<block key="am_fe_us_041_100_Name" korean="Сотрудник эксперт преобразование" />
+	<block key="am_fe_us_041_100_Description" korean="Все штамм Ребята, независимо от класса 300 раз" />
+	<block key="am_fe_us_041_100_condition_0" korean="Трансформироваться" />
+	<block key="am_fe_us_042_30_Name" korean="[General] В другом аспекте" />
+	<block key="am_fe_us_042_30_Description" korean="Общая сотрудник напрягать 50 раз" />
+	<block key="am_fe_us_042_30_condition_0" korean="Трансформироваться" />
+	<block key="am_fe_us_042_60_Name" korean="Общая деформация сделал самый простой" />
+	<block key="am_fe_us_042_60_Description" korean="Генеральный Попутчики штамм 200 раз" />
+	<block key="am_fe_us_042_60_condition_0" korean="Трансформироваться" />
+	<block key="am_fe_us_043_20_Name" korean="[Elite] В другом аспекте" />
+	<block key="am_fe_us_043_20_Description" korean="Elite сотрудник 20 раз" />
+	<block key="am_fe_us_043_20_condition_0" korean="Трансформироваться" />
+	<block key="am_fe_us_043_40_Name" korean="[Elite] он лучшие варианты легко" />
+	<block key="am_fe_us_043_40_Description" korean="Сотрудник штамм Elite 100 раз" />
+	<block key="am_fe_us_043_40_condition_0" korean="Трансформироваться" />
+	<block key="am_fe_us_044_10_Name" korean="[Герой] В другом аспекте" />
+	<block key="am_fe_us_044_10_Description" korean="Сотрудник герой штамм 10" />
+	<block key="am_fe_us_044_10_condition_0" korean="Трансформироваться" />
+	<block key="am_fe_us_044_20_Name" korean="[Герой] Я самый легкий деформация" />
+	<block key="am_fe_us_044_20_Description" korean="Сотрудник штамм герой 50 раз" />
+	<block key="am_fe_us_044_20_condition_0" korean="Трансформироваться" />
+	<block key="am_fe_us_045_50_Name" korean="Кажется, даже борьба с" />
+	<block key="am_fe_us_045_50_Description" korean="Все участники печать 100 раз, независимо от рейтинга" />
+	<block key="am_fe_us_045_50_condition_0" korean="Быть запечатаны" />
+	<block key="am_fe_us_045_100_Name" korean="Попутчики запечатанные эксперты" />
+	<block key="am_fe_us_045_100_Description" korean="Все ребята запечатаны, независимо от класса 300 раз" />
+	<block key="am_fe_us_045_100_condition_0" korean="Быть запечатаны" />
+	<block key="am_fe_us_046_30_Name" korean="Генеральный парень 50 запечатаны" />
+	<block key="am_fe_us_046_30_Description" korean="Генеральный парень опечатаны 50 раз" />
+	<block key="am_fe_us_046_30_condition_0" korean="Быть запечатаны" />
+	<block key="am_fe_us_046_60_Name" korean="Общая сотрудник печать 200 раз" />
+	<block key="am_fe_us_046_60_Description" korean="Общая сотрудник печать 200 раз" />
+	<block key="am_fe_us_046_60_condition_0" korean="Быть запечатаны" />
+	<block key="am_fe_us_047_20_Name" korean="Попутчики Элитные 20 раз запечатаны" />
+	<block key="am_fe_us_047_20_Description" korean="Elite сотрудник опечатаны 20 раз" />
+	<block key="am_fe_us_047_20_condition_0" korean="Быть запечатаны" />
+	<block key="am_fe_us_047_40_Name" korean="Попутчики Элитные 50 раз запечатаны" />
+	<block key="am_fe_us_047_40_Description" korean="Elite сотрудник опечатаны 50 раз" />
+	<block key="am_fe_us_047_40_condition_0" korean="Быть запечатаны" />
+	<block key="am_fe_us_048_10_Name" korean="Попутчики Герои 10 запечатанных" />
+	<block key="am_fe_us_048_10_Description" korean="Товарищи герои печать 10" />
+	<block key="am_fe_us_048_10_condition_0" korean="Быть запечатаны" />
+	<block key="am_fe_us_048_20_Name" korean="20 запечатаны товарищи герои" />
+	<block key="am_fe_us_048_20_Description" korean="Сотрудник герой опечатаны 20 раз" />
+	<block key="am_fe_us_048_20_condition_0" korean="Быть запечатаны" />
+	<block key="am_qu_co_049_100_Name" korean="История" />
+	<block key="am_qu_co_049_100_Description" korean="Заполните 100 квестов, независимо от типа" />
+	<block key="am_qu_co_049_100_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_049_300_Name" korean="Заполните 300 квестов!" />
+	<block key="am_qu_co_049_300_Description" korean="Независимо от типа 300 Задания Завершенные" />
+	<block key="am_qu_co_049_300_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_049_600_Name" korean="Рассказчик и Канаш" />
+	<block key="am_qu_co_049_600_Description" korean="600 Задания Завершенные независимо от типа" />
+	<block key="am_qu_co_049_600_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_049_1000_Name" korean="Старейшины Икар континента" />
+	<block key="am_qu_co_049_1000_Description" korean="1000 Quest независимо от типа" />
+	<block key="am_qu_co_049_1000_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_050_90_Name" korean="Где принцесса" />
+	<block key="am_qu_co_050_90_Description" korean="Полные 90 основных квестов" />
+	<block key="am_qu_co_050_90_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_050_180_Name" korean="В рассказе исследует" />
+	<block key="am_qu_co_050_180_Description" korean="180 завершил основной квест" />
+	<block key="am_qu_co_050_180_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_051_100_Name" korean="Теплым сердцем" />
+	<block key="am_qu_co_051_100_Description" korean="100 суб-квестов завершена" />
+	<block key="am_qu_co_051_100_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_051_200_Name" korean="Независимо помощь" />
+	<block key="am_qu_co_051_200_Description" korean="200 суб-квестов завершена" />
+	<block key="am_qu_co_051_200_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_051_300_Name" korean="Икар проблемных континент Fixer" />
+	<block key="am_qu_co_051_300_Description" korean="300 суб-квестов завершена" />
+	<block key="am_qu_co_051_300_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_052_100_Name" korean="Показать свою страсть" />
+	<block key="am_qu_co_052_100_Description" korean="Повторные 100 раз, чтобы завершить задание" />
+	<block key="am_qu_co_052_100_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_052_300_Name" korean="Человек Терпение" />
+	<block key="am_qu_co_052_300_Description" korean="Повторные 300 раз, чтобы завершить задание" />
+	<block key="am_qu_co_052_300_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_053_100_Name" korean="Миссия сегодня?" />
+	<block key="am_qu_co_053_100_Description" korean="Ежедневные квесты Заполните 100 раз" />
+	<block key="am_qu_co_053_100_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_053_300_Name" korean="За сутки Икара континента Fixer" />
+	<block key="am_qu_co_053_300_Description" korean="Ежедневные квесты Заполните 300 раз" />
+	<block key="am_qu_co_053_300_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_zo_054_82_Name" korean="Бюстгальтер авантюриста карбоновой лес" />
+	<block key="am_qu_zo_054_82_Description" korean="Полный 52 квестов бюстгальтер карбоновой лес" />
+	<block key="am_qu_zo_054_82_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_zo_055_111_Name" korean="А также замок охраняет Каньяс" />
+	<block key="am_qu_zo_055_111_Description" korean="Канаш, а также 70 секс Quest" />
+	<block key="am_qu_zo_055_111_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_zo_056_223_Name" korean="Команда Solver и Каньяс jikhal" />
+	<block key="am_qu_zo_056_223_Description" korean="Полные 150 квестов и команда Каньяс jikhal" />
+	<block key="am_qu_zo_056_223_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_zo_057_115_Name" korean="Статья Гардиан Parque моя земля" />
+	<block key="am_qu_zo_057_115_Description" korean="Пардо 130 заданий для завершения своей земли" />
+	<block key="am_qu_zo_057_115_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_zo_059_83_Name" korean="Канас и моряки отношении" />
+	<block key="am_qu_zo_059_83_Description" korean="Канас и 48 квестов для выполнения," />
+	<block key="am_qu_zo_059_83_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_dg_co_061_1_Name" korean="[Сценарий] продолжает гореть проглотил" />
+	<block key="am_dg_co_061_1_Description" korean="Затруднение глотания огня сценарий остается ясным раз" />
+	<block key="am_dg_co_061_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_061_10_Name" korean="[Сценарий] могучие руины огонь поглотил" />
+	<block key="am_dg_co_061_10_Description" korean="Затруднение глотания огня сценарий остается ясным 10" />
+	<block key="am_dg_co_061_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_062_1_Name" korean="[Elite] продолжает гореть проглотил" />
+	<block key="am_dg_co_062_1_Description" korean="Elite затруднение глотания огня остается ясным раз" />
+	<block key="am_dg_co_062_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_062_10_Name" korean="[Elite] могучие руины огонь поглотил" />
+	<block key="am_dg_co_062_10_Description" korean="Elite затруднение глотания огня разрушает Ясно 10" />
+	<block key="am_dg_co_062_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_063_1_Name" korean="[Герой] продолжает гореть проглотил" />
+	<block key="am_dg_co_063_1_Description" korean="Героическая затруднение глотания огня остается ясным раз" />
+	<block key="am_dg_co_063_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_063_10_Name" korean="[Герой] могучие руины огонь поглотил" />
+	<block key="am_dg_co_063_10_Description" korean="Ясно Героическая затруднение глотания огня разрушает 10" />
+	<block key="am_dg_co_063_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_064_1_Name" korean="[Легенда] продолжает гореть проглотил" />
+	<block key="am_dg_co_064_1_Description" korean="Легендарный затруднение глотания огня остается ясным раз" />
+	<block key="am_dg_co_064_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_064_10_Name" korean="[Легенда] могучие руины огонь поглотил" />
+	<block key="am_dg_co_064_10_Description" korean="Легендарный затруднение глотания огня разрушает Ясно 10" />
+	<block key="am_dg_co_064_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_065_1_Name" korean="[Сценарий] Карл Reang особняк" />
+	<block key="am_dg_co_065_1_Description" korean="Карл Reang особняк сценарий трудность После очистки" />
+	<block key="am_dg_co_065_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_065_10_Name" korean="[Сценарий] Карл Reang спаситель особняк" />
+	<block key="am_dg_co_065_10_Description" korean="Карл Reang особняк трудность сценарий очистка 10 раз" />
+	<block key="am_dg_co_065_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_066_1_Name" korean="[Elite] Карл Reang особняк" />
+	<block key="am_dg_co_066_1_Description" korean="Карл Reang Elite трудность особняк После очистки" />
+	<block key="am_dg_co_066_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_066_10_Name" korean="[Elite] Спаситель автомобиля Reang особняк" />
+	<block key="am_dg_co_066_10_Description" korean="Elite трудность очистки 10 автомобилей Reang особняк" />
+	<block key="am_dg_co_066_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_067_1_Name" korean="[Герой] Карл Reang особняк" />
+	<block key="am_dg_co_067_1_Description" korean="Карл Reang особняк После очистки героическом режиме" />
+	<block key="am_dg_co_067_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_067_10_Name" korean="[Герой] Карл Reang спаситель особняк" />
+	<block key="am_dg_co_067_10_Description" korean="Карл Reang особняк героическом режиме очистки 10" />
+	<block key="am_dg_co_067_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_068_1_Name" korean="[Легенда] Карл Reang особняк" />
+	<block key="am_dg_co_068_1_Description" korean="Легендарной сложности автомобиль Reang особняк После очистки" />
+	<block key="am_dg_co_068_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_068_10_Name" korean="[Легенда] Карл Reang спаситель особняк" />
+	<block key="am_dg_co_068_10_Description" korean="Легендарной сложности очистки 10 автомобилей Reang особняк" />
+	<block key="am_dg_co_068_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_069_1_Name" korean="[Сценарий] Лен руины замороженные Mart" />
+	<block key="am_dg_co_069_1_Description" korean="Лен Mart сценарий трудность очистки руины когда-то" />
+	<block key="am_dg_co_069_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_069_10_Name" korean="[Сценарий] Frozen Destroyer Mart Лен руины" />
+	<block key="am_dg_co_069_10_Description" korean="Лен Mart сложности очистки сценарий руины 10 раз" />
+	<block key="am_dg_co_069_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_070_1_Name" korean="[Elite] Лен руины замороженные Mart" />
+	<block key="am_dg_co_070_1_Description" korean="Лен Mart Elite трудность очистки руины когда-то" />
+	<block key="am_dg_co_070_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_070_10_Name" korean="[Elite] Замороженные Destroyer Mart Лен руины" />
+	<block key="am_dg_co_070_10_Description" korean="Elite трудность очистки руины Mart Wren 10-" />
+	<block key="am_dg_co_070_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_071_1_Name" korean="[Герой] Лен руины замороженные Mart" />
+	<block key="am_dg_co_071_1_Description" korean="Лен Mart героическом режиме очистки руины когда-то" />
+	<block key="am_dg_co_071_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_071_10_Name" korean="[Герой] Замороженные Destroyer Mart Лен руины" />
+	<block key="am_dg_co_071_10_Description" korean="Лен Mart героическом режиме очистки руины 10" />
+	<block key="am_dg_co_071_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_072_1_Name" korean="[Легенда] Лен руины замороженные Mart" />
+	<block key="am_dg_co_072_1_Description" korean="Легендарной сложности очистки руины Mart Аллен раз" />
+	<block key="am_dg_co_072_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_072_10_Name" korean="[Легенда] Замороженные Destroyer Mart Лен руины" />
+	<block key="am_dg_co_072_10_Description" korean="Легендарной сложности очистки руины Mart Wren 10-" />
+	<block key="am_dg_co_072_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_073_1_Name" korean="[Сценарий] подписали пещеру завесой" />
+	<block key="am_dg_co_073_1_Description" korean="Явные признаки сценарии трудности пещеры раз завесы" />
+	<block key="am_dg_co_073_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_073_10_Name" korean="[Сценарий] пророков автограф завеса пещера" />
+	<block key="am_dg_co_073_10_Description" korean="Явные признаки трудности в пещерной сценария вуаль 10" />
+	<block key="am_dg_co_073_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_074_1_Name" korean="[Elite] подписали пещеру завесой" />
+	<block key="am_dg_co_074_1_Description" korean="Элитные сложности очистки пещеры, окутанные завесой раз" />
+	<block key="am_dg_co_074_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_074_10_Name" korean="[Elite] автограф завеса пещера пророка" />
+	<block key="am_dg_co_074_10_Description" korean="Уровень 10 Элитные пещеры покрыто завесой Clear" />
+	<block key="am_dg_co_074_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_075_1_Name" korean="[Герой] подписали пещеру завесой" />
+	<block key="am_dg_co_075_1_Description" korean="Явные признаки пещера героическом режиме один раз завесы" />
+	<block key="am_dg_co_075_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_075_10_Name" korean="[Герой] Пророк пещеры окутаны завесой" />
+	<block key="am_dg_co_075_10_Description" korean="Очистить 10 пещеры, окутанные завесой героическом" />
+	<block key="am_dg_co_075_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_076_1_Name" korean="Подписано пещеру в легенде] Бэйл" />
+	<block key="am_dg_co_076_1_Description" korean="Легендарной сложности пещеры окутаны завесой После очистки" />
+	<block key="am_dg_co_076_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_076_10_Name" korean="[Легенда] пророков автограф пещера завеса" />
+	<block key="am_dg_co_076_10_Description" korean="Легендарной сложности пещеры окутаны завесой Ясно 10" />
+	<block key="am_dg_co_076_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_077_1_Name" korean="[Сценарий] волна Lac Ice Цитадель" />
+	<block key="am_dg_co_077_1_Description" korean="Цитадель сценарий трудность очистки льда волны рупий за" />
+	<block key="am_dg_co_077_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_077_10_Name" korean="[Сценарий] Герои Lac Ice Citadel волн" />
+	<block key="am_dg_co_077_10_Description" korean="Волна сценарий трудность очистки Lac Ice Цитадель 10" />
+	<block key="am_dg_co_077_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_078_1_Name" korean="[Elite] рупий пар льда форты" />
+	<block key="am_dg_co_078_1_Description" korean="Цитадель Elite трудность очистки льда волны рупий за" />
+	<block key="am_dg_co_078_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_078_10_Name" korean="[Elite] Герой волны Lac Ice Цитадель" />
+	<block key="am_dg_co_078_10_Description" korean="Цитадель Elite трудность очистки льда волны рупий 10" />
+	<block key="am_dg_co_078_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_079_1_Name" korean="[Герой] рупий пар льда форты" />
+	<block key="am_dg_co_079_1_Description" korean="Цитадель героического уровня сложности очистки льда волны рупий за" />
+	<block key="am_dg_co_079_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_079_10_Name" korean="[Герой] Герой волн Lac Ice Citadel" />
+	<block key="am_dg_co_079_10_Description" korean="Цитадель героического уровня сложности очистки льда волны рупий 10" />
+	<block key="am_dg_co_079_10_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_080_1_Name" korean="[Легенда] рупий пар льда форты" />
+	<block key="am_dg_co_080_1_Description" korean="Цитадель Легенда трудность очистки льда волны рупий за" />
+	<block key="am_dg_co_080_1_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_080_10_Name" korean="[Легенда] герой Lac Ice Citadel волн" />
+	<block key="am_dg_co_080_10_Description" korean="Легендарной сложности очистки льда форт пар 10 рупий" />
+	<block key="am_dg_co_080_10_condition_0" korean="Будьте ясно," />
+	<block key="am_it_ga_081_1_Name" korean="Раздел Elite Knight оборудование" />
+	<block key="am_it_ga_081_1_Description" korean="Оборудование для больше, чем все элитном рейтинге" />
+	<block key="am_it_ga_081_1_condition_0" korean="Оборудование для больше, чем все элитном рейтинге" />
+	<block key="am_it_ga_082_1_Name" korean="Оборудование Heroes" />
+	<block key="am_it_ga_082_1_Description" korean="Оборудование носили поверх всех героев рейтингу" />
+	<block key="am_it_ga_082_1_condition_0" korean="Оборудование носили поверх всех героев рейтингу" />
+	<block key="am_it_re_084_100_Name" korean="Генеральный Мастер укрепления" />
+	<block key="am_it_re_084_100_Description" korean="Общие вопросы усиленный 100-успех" />
+	<block key="am_it_re_084_100_condition_0" korean="Укрепляйтесь" />
+	<block key="am_it_re_085_100_Name" korean="[Elite] Мастер укрепления" />
+	<block key="am_it_re_085_100_Description" korean="Расширенные Elite 100 наименований успехи" />
+	<block key="am_it_re_085_100_condition_0" korean="Укрепляйтесь" />
+	<block key="am_it_re_086_100_Name" korean="[Герой] Мастер укрепления" />
+	<block key="am_it_re_086_100_Description" korean="Расширенные 100 Герои Предметы успехи" />
+	<block key="am_it_re_086_100_condition_0" korean="Укрепляйтесь" />
+	<block key="am_it_re_088_100_Name" korean="[General] проклял мастер укрепления" />
+	<block key="am_it_re_088_100_Description" korean="Общие вопросы укрепления неудачу 100 раз" />
+	<block key="am_it_re_088_100_condition_0" korean="Укрепляйтесь" />
+	<block key="am_it_re_089_100_Name" korean="[Elite] проклял мастер укрепления" />
+	<block key="am_it_re_089_100_Description" korean="Элитные товары укрепить неудачу 100 раз" />
+	<block key="am_it_re_089_100_condition_0" korean="Укрепляйтесь" />
+	<block key="am_it_re_090_100_Name" korean="[Герой] проклял мастер укрепления" />
+	<block key="am_it_re_090_100_Description" korean="Герои Предметы укрепить неудачу 100 раз" />
+	<block key="am_it_re_090_100_condition_0" korean="Укрепляйтесь" />
+	<block key="am_it_re_091_5_Name" korean="[General] сильнейший оборудование" />
+	<block key="am_it_re_091_5_Description" korean="Общие вопросы укрепления Шаг 5 успеха" />
+	<block key="am_it_re_091_5_condition_0" korean="Шаг 5 пунктов увеличивают шансы на успех" />
+	<block key="am_it_re_092_15_Name" korean="[Elite] сильнейший оборудование" />
+	<block key="am_it_re_092_15_Description" korean="Элитные товары усиливается 15-шаг успеха" />
+	<block key="am_it_re_092_15_condition_0" korean="Предметы усиливается 15-шаг успеха" />
+	<block key="am_it_re_093_20_Name" korean="[Герой] сильнейший оборудование" />
+	<block key="am_it_re_093_20_Description" korean="Пункт 20 шагом успех герой укрепления" />
+	<block key="am_it_re_093_20_condition_0" korean="Шаг 20 пунктов увеличивают шансы на успех" />
+	<block key="am_it_re_094_50_Name" korean="Обновление камень, чтобы вызвать оборудования летать" />
+	<block key="am_it_re_094_50_Description" korean="Обновление Stone приобретение 50 уровней в экстрактах" />
+	<block key="am_it_re_094_50_condition_0" korean="Обновление Stone приобретение 50 уровней в экстрактах" />
+	<block key="am_it_re_095_100_Name" korean="Предметы добывать 100 раз" />
+	<block key="am_it_re_095_100_Description" korean="Предметы добывать 100 раз" />
+	<block key="am_it_re_095_100_condition_0" korean="Добыча" />
+	<block key="am_it_re_095_500_Name" korean="Добыча 500 пункт" />
+	<block key="am_it_re_095_500_Description" korean="Добыча 500 пункт" />
+	<block key="am_it_re_095_500_condition_0" korean="Добыча" />
+	<block key="am_it_re_095_1000_Name" korean="Обновление автоматы Stone" />
+	<block key="am_it_re_095_1000_Description" korean="1000 Добыча пункт" />
+	<block key="am_it_re_095_1000_condition_0" korean="Добыча" />
+	<block key="am_it_re_096_100_Name" korean="Принадлежности Destroyer" />
+	<block key="am_it_re_096_100_Description" korean="Общие вопросы извлечены 100 раз" />
+	<block key="am_it_re_096_100_condition_0" korean="Добыча" />
+	<block key="am_it_re_097_100_Name" korean="[Elite] оборудование Destroyer" />
+	<block key="am_it_re_097_100_Description" korean="Элитные изделия извлекаются 100 раз" />
+	<block key="am_it_re_097_100_condition_0" korean="Добыча" />
+	<block key="am_it_re_098_100_Name" korean="[Герой] оборудование Destroyer" />
+	<block key="am_it_re_098_100_Description" korean="Герои Предметы добывать 100 раз" />
+	<block key="am_it_re_098_100_condition_0" korean="Добыча" />
+	<block key="am_it_pr_103_200_Name" korean="Эксперт броннику" />
+	<block key="am_it_pr_103_200_Description" korean="Броннику 1000 Успех" />
+	<block key="am_it_pr_103_200_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_104_10_Name" korean="Испытательный броня производитель" />
+	<block key="am_it_pr_104_10_Description" korean="Броннику 100 раз общий успех" />
+	<block key="am_it_pr_104_10_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_104_100_Name" korean="Опытный броня производитель" />
+	<block key="am_it_pr_104_100_Description" korean="Броннику 300 общий успех" />
+	<block key="am_it_pr_104_100_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_105_10_Name" korean="Лаки броня производитель" />
+	<block key="am_it_pr_105_10_Description" korean="Броннику 100 раз джек-пот" />
+	<block key="am_it_pr_105_10_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_105_100_Name" korean="Блажен броня производитель" />
+	<block key="am_it_pr_105_100_Description" korean="Броннику 300 джекпот" />
+	<block key="am_it_pr_105_100_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_099_200_Name" korean="Мастер производства оружия" />
+	<block key="am_it_pr_099_200_Description" korean="1000 оружие успех производство" />
+	<block key="am_it_pr_099_200_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_100_10_Name" korean="Производители пробации оружия" />
+	<block key="am_it_pr_100_10_Description" korean="100 раз нормальные оружие успех производство" />
+	<block key="am_it_pr_100_10_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_100_100_Name" korean="Квалифицированный оружия производитель" />
+	<block key="am_it_pr_100_100_Description" korean="Оружие производство 300 общий успех" />
+	<block key="am_it_pr_100_100_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_101_10_Name" korean="Удача оружия-мейкера" />
+	<block key="am_it_pr_101_10_Description" korean="100 раз производство джекпот оружие" />
+	<block key="am_it_pr_101_10_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_101_100_Name" korean="Благословенные Оружие производитель" />
+	<block key="am_it_pr_101_100_Description" korean="300 о производстве оружия джекпот" />
+	<block key="am_it_pr_101_100_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_107_200_Name" korean="Мастер ювелирных изделий" />
+	<block key="am_it_pr_107_200_Description" korean="1000 Успех ювелирное дело" />
+	<block key="am_it_pr_107_200_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_108_10_Name" korean="Испытательный создатель ювелирного" />
+	<block key="am_it_pr_108_10_Description" korean="Изготовление ювелирных изделий 100 раз общий успех" />
+	<block key="am_it_pr_108_10_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_108_100_Name" korean="Опытные производители ювелирных изделий" />
+	<block key="am_it_pr_108_100_Description" korean="Изготовление ювелирных изделий 300 раз общий успех" />
+	<block key="am_it_pr_108_100_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_109_10_Name" korean="Лаки создатель ювелирного" />
+	<block key="am_it_pr_109_10_Description" korean="Изготовление ювелирных изделий 100 раз джек-пот" />
+	<block key="am_it_pr_109_10_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_109_100_Name" korean="Блажен создатель ювелирного" />
+	<block key="am_it_pr_109_100_Description" korean="Изготовление ювелирных изделий 300 раз джек-пот" />
+	<block key="am_it_pr_109_100_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_111_200_Name" korean="Эксперт сотрудник производство" />
+	<block key="am_it_pr_111_200_Description" korean="1000 сотрудник, делая успех" />
+	<block key="am_it_pr_111_200_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_112_10_Name" korean="Сотрудник производителем испытательного срока" />
+	<block key="am_it_pr_112_10_Description" korean="Сотрудник делает 100 раз общий успех" />
+	<block key="am_it_pr_112_10_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_112_100_Name" korean="Попутчики опытные производители" />
+	<block key="am_it_pr_112_100_Description" korean="Сотрудник делает 300 раз общий успех" />
+	<block key="am_it_pr_112_100_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_113_10_Name" korean="Попутчики создатели удачи" />
+	<block key="am_it_pr_113_10_Description" korean="Сотрудник делает 100 раз джек-пот" />
+	<block key="am_it_pr_113_10_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_113_100_Name" korean="Блаженны производители коллеги" />
+	<block key="am_it_pr_113_100_Description" korean="Сотрудник делает 300 раз джек-пот" />
+	<block key="am_it_pr_113_100_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_115_200_Name" korean="Мастер Алхимии" />
+	<block key="am_it_pr_115_200_Description" korean="Алхимия успеха 1000 решений" />
+	<block key="am_it_pr_115_200_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_116_10_Name" korean="Путь алхимика" />
+	<block key="am_it_pr_116_10_Description" korean="Алхимия сделать 100 раз общий успех" />
+	<block key="am_it_pr_116_10_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_116_100_Name" korean="Квалифицированный алхимик" />
+	<block key="am_it_pr_116_100_Description" korean="Алхимия сделать 300 раз общий успех" />
+	<block key="am_it_pr_116_100_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_117_10_Name" korean="Один недостаток" />
+	<block key="am_it_pr_117_10_Description" korean="Алхимия сделать 100 раз джек-пот" />
+	<block key="am_it_pr_117_10_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_117_100_Name" korean="Hwanggeumson удачи" />
+	<block key="am_it_pr_117_100_Description" korean="Алхимия сделать в 300 раз джек-пот" />
+	<block key="am_it_pr_117_100_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_119_200_Name" korean="Мастер кухни" />
+	<block key="am_it_pr_119_200_Description" korean="Успех выпуска 1000 еда" />
+	<block key="am_it_pr_119_200_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_120_10_Name" korean="Способ шеф-повар" />
+	<block key="am_it_pr_120_10_Description" korean="100 раз выше нормы пищи успех производство" />
+	<block key="am_it_pr_120_10_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_120_100_Name" korean="Квалифицированный шеф-повар" />
+	<block key="am_it_pr_120_100_Description" korean="Пищевые продукты, полученные 300 общий успех" />
+	<block key="am_it_pr_120_100_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_121_10_Name" korean="С большим гостеприимства" />
+	<block key="am_it_pr_121_10_Description" korean="100 раз, что делает приготовление пищи с большим успехом" />
+	<block key="am_it_pr_121_10_condition_0" korean="Быть произведено" />
+	<block key="am_it_pr_121_100_Name" korean="TLC ударил лицом к лицу!" />
+	<block key="am_it_pr_121_100_Description" korean="Готовить сделать в 300 раз джек-пот" />
+	<block key="am_it_pr_121_100_condition_0" korean="Быть произведено" />
+	<block key="am_cb_du_123_1_Name" korean="Таймс назвала Кесарии первого спирта" />
+	<block key="am_cb_du_123_1_Description" korean="100 раз, выиграв поединок, независимо от профессии" />
+	<block key="am_cb_du_123_1_condition_0" korean="Может выиграть" />
+	<block key="am_cb_du_123_100_Name" korean="Господь дуэли" />
+	<block key="am_cb_du_123_100_Description" korean="550 Win поединок, независимо от профессии" />
+	<block key="am_cb_du_123_100_condition_0" korean="Может выиграть" />
+	<block key="am_cb_du_124_1_Name" korean="Победа в Гардиан" />
+	<block key="am_cb_du_124_1_Description" korean="10 победа в поединке с The Guardian" />
+	<block key="am_cb_du_124_1_condition_0" korean="Может выиграть" />
+	<block key="am_cb_du_124_10_Name" korean="Я единственная цель Guardian," />
+	<block key="am_cb_du_124_10_Description" korean="100 Win поединок с The Guardian" />
+	<block key="am_cb_du_124_10_condition_0" korean="Может выиграть" />
+	<block key="am_cb_du_125_1_Name" korean="Победа над Berserker" />
+	<block key="am_cb_du_125_1_Description" korean="10 победа в поединке с Берсеркера" />
+	<block key="am_cb_du_125_1_condition_0" korean="Может выиграть" />
+	<block key="am_cb_du_125_10_Name" korean="Я единственная цель Берсерк" />
+	<block key="am_cb_du_125_10_Description" korean="100 Win поединок с Берсерк" />
+	<block key="am_cb_du_125_10_condition_0" korean="Может выиграть" />
+	<block key="am_cb_du_126_1_Name" korean="Убийцу, чтобы выиграть" />
+	<block key="am_cb_du_126_1_Description" korean="10 победа в поединке с убийцей" />
+	<block key="am_cb_du_126_1_condition_0" korean="Может выиграть" />
+	<block key="am_cb_du_126_10_Name" korean="Я единственная цель Убийцу" />
+	<block key="am_cb_du_126_10_Description" korean="100 раз, выиграв дуэль между убийцы" />
+	<block key="am_cb_du_126_10_condition_0" korean="Может выиграть" />
+	<block key="am_cb_du_127_1_Name" korean="Победа для священников" />
+	<block key="am_cb_du_127_1_Description" korean="10 победа в поединке со священником" />
+	<block key="am_cb_du_127_1_condition_0" korean="Может выиграть" />
+	<block key="am_cb_du_127_10_Name" korean="Я единственная цель Priest" />
+	<block key="am_cb_du_127_10_Description" korean="100 Победите в поединке со священником" />
+	<block key="am_cb_du_127_10_condition_0" korean="Может выиграть" />
+	<block key="am_cb_du_128_1_Name" korean="Победа над Wizards" />
+	<block key="am_cb_du_128_1_Description" korean="10 победа в поединке с мастером" />
+	<block key="am_cb_du_128_1_condition_0" korean="Может выиграть" />
+	<block key="am_cb_du_128_10_Name" korean="Я единственная цель мастера" />
+	<block key="am_cb_du_128_10_Description" korean="100 Win поединок с Wizards" />
+	<block key="am_cb_du_128_10_condition_0" korean="Может выиграть" />
+	<block key="am_cb_du_130_1_Name" korean="Поражение мать победы" />
+	<block key="am_cb_du_130_1_Description" korean="№ 100 победил в поединке, независимо от профессии" />
+	<block key="am_cb_du_130_1_condition_0" korean="Поражение" />
+	<block key="am_cb_du_130_100_Name" korean="Так легко акцентировал aneunde" />
+	<block key="am_cb_du_130_100_Description" korean="550 раз победил в поединке, независимо от профессии" />
+	<block key="am_cb_du_130_100_condition_0" korean="Поражение" />
+	<block key="am_cb_du_131_1_Name" korean="Побежденный Гардиан" />
+	<block key="am_cb_du_131_1_Description" korean="10 поражение в поединке с The Guardian" />
+	<block key="am_cb_du_131_1_condition_0" korean="Поражение" />
+	<block key="am_cb_du_131_10_Name" korean="Хранитель цель Отдельная" />
+	<block key="am_cb_du_131_10_Description" korean="№ 100 победил в поединке с The Guardian" />
+	<block key="am_cb_du_131_10_condition_0" korean="Поражение" />
+	<block key="am_cb_du_132_1_Name" korean="Победил Берсерк" />
+	<block key="am_cb_du_132_1_Description" korean="10 поражение в поединке с Берсеркера" />
+	<block key="am_cb_du_132_1_condition_0" korean="Поражение" />
+	<block key="am_cb_du_132_10_Name" korean="Берсерк цель Отдельная" />
+	<block key="am_cb_du_132_10_Description" korean="№ 100 победил в поединке с Берсеркера" />
+	<block key="am_cb_du_132_10_condition_0" korean="Поражение" />
+	<block key="am_cb_du_133_1_Name" korean="Побежденный убийцы" />
+	<block key="am_cb_du_133_1_Description" korean="10 Assassins победить в битве" />
+	<block key="am_cb_du_133_1_condition_0" korean="Поражение" />
+	<block key="am_cb_du_133_10_Name" korean="Ассасин цель Отдельная" />
+	<block key="am_cb_du_133_10_Description" korean="№ 100 победил в поединке с убийцей" />
+	<block key="am_cb_du_133_10_condition_0" korean="Поражение" />
+	<block key="am_cb_du_134_1_Name" korean="Побежденный священников" />
+	<block key="am_cb_du_134_1_Description" korean="10 поражение в поединке со священником" />
+	<block key="am_cb_du_134_1_condition_0" korean="Поражение" />
+	<block key="am_cb_du_134_10_Name" korean="Цель собственного священника" />
+	<block key="am_cb_du_134_10_Description" korean="№ 100 победил в поединке со священником" />
+	<block key="am_cb_du_134_10_condition_0" korean="Поражение" />
+	<block key="am_cb_du_135_1_Name" korean="Мастера поражение" />
+	<block key="am_cb_du_135_1_Description" korean="10 поражение в поединке с мастером" />
+	<block key="am_cb_du_135_1_condition_0" korean="Поражение" />
+	<block key="am_cb_du_135_10_Name" korean="Цель отдельный мастер" />
+	<block key="am_cb_du_135_10_Description" korean="№ 100 победил в поединке с мастером" />
+	<block key="am_cb_du_135_10_condition_0" korean="Поражение" />
+	<block key="am_cb_pv_137_1_Name" korean="Это просто вкус убийства yiroguna" />
+	<block key="am_cb_pv_137_1_Description" korean="1 человек на лечении в ПВП зоне" />
+	<block key="am_cb_pv_137_1_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_137_100_Name" korean="Лидер беззаконных" />
+	<block key="am_cb_pv_137_100_Description" korean="500 человек, получавших в ПВП зоне" />
+	<block key="am_cb_pv_137_100_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_137_500_Name" korean="Господь беззаконных" />
+	<block key="am_cb_pv_137_500_Description" korean="1000 человек, получавших в ПВП зоне" />
+	<block key="am_cb_pv_137_500_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_138_10_Name" korean="Начните охоту" />
+	<block key="am_cb_pv_138_10_Description" korean="10 человек непрерывный лечение в ПВП зоне" />
+	<block key="am_cb_pv_138_10_condition_0" korean="Будьте убиты в ряд" />
+	<block key="am_cb_pv_138_30_Name" korean="Не останавливайтесь на охоту" />
+	<block key="am_cb_pv_138_30_Description" korean="30 человек непрерывный лечение в ПВП зоне" />
+	<block key="am_cb_pv_138_30_condition_0" korean="Будьте убиты в ряд" />
+	<block key="am_cb_pv_138_50_Name" korean="Никто не может остановить меня" />
+	<block key="am_cb_pv_138_50_Description" korean="50 человек непрерывный лечение в ПВП зоне" />
+	<block key="am_cb_pv_138_50_condition_0" korean="Будьте убиты в ряд" />
+	<block key="am_cb_pv_138_100_Name" korean="Бог беззаконных" />
+	<block key="am_cb_pv_138_100_Description" korean="100 человек непрерывный лечение в ПВП зоне" />
+	<block key="am_cb_pv_138_100_condition_0" korean="Будьте убиты в ряд" />
+	<block key="am_cb_pv_139_1_Name" korean="Хранитель охота" />
+	<block key="am_cb_pv_139_1_Description" korean="The Guardian 10 человек лечение в ПВП зоне" />
+	<block key="am_cb_pv_139_1_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_139_10_Name" korean="Страж беззаконных охотников" />
+	<block key="am_cb_pv_139_10_Description" korean="The Guardian 100 человек лечение в ПВП зоне" />
+	<block key="am_cb_pv_139_10_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_140_1_Name" korean="Берсерк охота" />
+	<block key="am_cb_pv_140_1_Description" korean="Берсерк убивает 10 человек в ПВП зоне" />
+	<block key="am_cb_pv_140_1_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_140_10_Name" korean="Берсерк беззаконных охотников" />
+	<block key="am_cb_pv_140_10_Description" korean="Берсерк убивает 100 людей в ПВП зоне" />
+	<block key="am_cb_pv_140_10_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_141_1_Name" korean="Убийца Hunt" />
+	<block key="am_cb_pv_141_1_Description" korean="Убийца убивает 10 человек в ПВП зоне" />
+	<block key="am_cb_pv_141_1_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_141_10_Name" korean="Беззаконные охотники Убийцы" />
+	<block key="am_cb_pv_141_10_Description" korean="Убийца убивает 100 людей в ПВП зоне" />
+	<block key="am_cb_pv_141_10_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_142_1_Name" korean="Священник охота" />
+	<block key="am_cb_pv_142_1_Description" korean="Священник погибли 10 человек В PvP области" />
+	<block key="am_cb_pv_142_1_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_142_10_Name" korean="Священник беззаконных охотников" />
+	<block key="am_cb_pv_142_10_Description" korean="Священник Погиб 100 человек в ПВП зоне" />
+	<block key="am_cb_pv_142_10_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_143_1_Name" korean="Мастера охота" />
+	<block key="am_cb_pv_143_1_Description" korean="Мастера 10 человек в PVP региональной помощи" />
+	<block key="am_cb_pv_143_1_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_143_10_Name" korean="Волшебники из беззаконных охотников" />
+	<block key="am_cb_pv_143_10_Description" korean="Мастера 100 человек, получавших в ПВП зоне" />
+	<block key="am_cb_pv_143_10_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_145_1_Name" korean="Там 'мать в небе" />
+	<block key="am_cb_pv_145_1_Description" korean="1 убит в ПВП зоне" />
+	<block key="am_cb_pv_145_1_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_145_100_Name" korean="Это была моя профессия moetjari" />
+	<block key="am_cb_pv_145_100_Description" korean="Умер в 500 раз в ПВП зоне" />
+	<block key="am_cb_pv_145_100_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_145_500_Name" korean="Торговые автоматы цветочные крови" />
+	<block key="am_cb_pv_145_500_Description" korean="1000 Смерть в ПВП зоне" />
+	<block key="am_cb_pv_145_500_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_146_1_Name" korean="Скажем Гардиан" />
+	<block key="am_cb_pv_146_1_Description" korean="10 убитых в ПВП зоне Хранителю" />
+	<block key="am_cb_pv_146_1_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_146_10_Name" korean="Игра Хранитель" />
+	<block key="am_cb_pv_146_10_Description" korean="100 раз в смерть The Guardian в ПВП зоне" />
+	<block key="am_cb_pv_146_10_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_147_1_Name" korean="Давайте оставим Берсерк" />
+	<block key="am_cb_pv_147_1_Description" korean="10 убитых в PVP области, Берсерк" />
+	<block key="am_cb_pv_147_1_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_147_10_Name" korean="Игра Берсерк" />
+	<block key="am_cb_pv_147_10_Description" korean="№ 100 смертей Берсерк в ПВП зоне" />
+	<block key="am_cb_pv_147_10_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_148_1_Name" korean="Давайте оставим Убийцу" />
+	<block key="am_cb_pv_148_1_Description" korean="10 раз до смерти в ПВП Убийца области" />
+	<block key="am_cb_pv_148_1_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_148_10_Name" korean="Игра Убийцы" />
+	<block key="am_cb_pv_148_10_Description" korean="Смерть убийцы до 100 раз в ПВП зоне" />
+	<block key="am_cb_pv_148_10_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_149_1_Name" korean="Мы увидим, священник" />
+	<block key="am_cb_pv_149_1_Description" korean="10 убитых в ПВП зоне для священников" />
+	<block key="am_cb_pv_149_1_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_149_10_Name" korean="Игра о попе" />
+	<block key="am_cb_pv_149_10_Description" korean="100 смертей на Фрист время в ПВП зоне" />
+	<block key="am_cb_pv_149_10_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_150_1_Name" korean="Мы увидим мастера" />
+	<block key="am_cb_pv_150_1_Description" korean="Мастера 10 раз до смерти в ПВП зоне" />
+	<block key="am_cb_pv_150_1_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_150_10_Name" korean="Игра мастера" />
+	<block key="am_cb_pv_150_10_Description" korean="Мастера 100 раз до смерти в ПВП зоне" />
+	<block key="am_cb_pv_150_10_condition_0" korean="Смертей" />
+	<block key="am_cb_pv_152_1_Name" korean="Будьте добры душитель" />
+	<block key="am_cb_pv_152_1_Description" korean="Продолжительное лечение резня PvP любитель для наложения 1 человек" />
+	<block key="am_cb_pv_152_1_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_152_10_Name" korean="Поймал. Возьмите это!" />
+	<block key="am_cb_pv_152_10_Description" korean="Непрерывная убоя PvP любитель устройство 10 люди относились" />
+	<block key="am_cb_pv_152_10_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_152_100_Name" korean="4885 встретиться с вами!" />
+	<block key="am_cb_pv_152_100_Description" korean="Непрерывная убоя PvP любитель для наложения 100 люди относились" />
+	<block key="am_cb_pv_152_100_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_154_1_Name" korean="Охота за" />
+	<block key="am_cb_pv_154_1_Description" korean="Hunter любители получили пользователя 1 по убийствам" />
+	<block key="am_cb_pv_154_1_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_154_10_Name" korean="Враги охотника" />
+	<block key="am_cb_pv_154_10_Description" korean="Охотник пользователь любитель 10 человек получали лечение" />
+	<block key="am_cb_pv_154_10_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_155_1_Name" korean="Убой составляет более" />
+	<block key="am_cb_pv_155_1_Description" korean="Slayer Буфф получил пользователю 1 по убийствам" />
+	<block key="am_cb_pv_155_1_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_155_10_Name" korean="Nemesis Slayer" />
+	<block key="am_cb_pv_155_10_Description" korean="Пользователь Slayer Буфф 10 человек получали лечение" />
+	<block key="am_cb_pv_155_10_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_156_1_Name" korean="Shinigami нет" />
+	<block key="am_cb_pv_156_1_Description" korean="Жнец Буфф получил пользователю 1 по убийствам" />
+	<block key="am_cb_pv_156_1_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_156_10_Name" korean="Nemesis Жнец" />
+	<block key="am_cb_pv_156_10_Description" korean="Пользователь Жнец Буфф 10 человек получали лечение" />
+	<block key="am_cb_pv_156_10_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_157_1_Name" korean="Ничто не является абсолютным" />
+	<block key="am_cb_pv_157_1_Description" korean="Абсолютная любитель получил пользователю 1 по убийствам" />
+	<block key="am_cb_pv_157_1_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_157_10_Name" korean="Абсолютная Немезида" />
+	<block key="am_cb_pv_157_10_Description" korean="Абсолютная пользователь любитель 10 человек получали лечение" />
+	<block key="am_cb_pv_157_10_condition_0" korean="Будьте убиты" />
+	<block key="am_cb_pv_158_50_Name" korean="Да, я просто вкус!" />
+	<block key="am_cb_pv_158_50_Description" korean="Получить PvP отрицательных эффектов 50 раз" />
+	<block key="am_cb_pv_158_50_condition_0" korean="Поступило Buff" />
+	<block key="am_cb_pv_158_100_Name" korean="Я бешеная собака зоны!" />
+	<block key="am_cb_pv_158_100_Description" korean="Получить PvP отрицательных эффектов 100 раз" />
+	<block key="am_cb_pv_158_100_condition_0" korean="Поступило Buff" />
+	<block key="am_cb_pv_160_1_Name" korean="Это время для охоты." />
+	<block key="am_cb_pv_160_1_Description" korean="Скачать охотник любитель 1" />
+	<block key="am_cb_pv_160_1_condition_0" korean="Поступило Buff" />
+	<block key="am_cb_pv_160_10_Name" korean="Я жив ~" />
+	<block key="am_cb_pv_160_10_Description" korean="Скачать охотник любитель 10" />
+	<block key="am_cb_pv_160_10_condition_0" korean="Поступило Buff" />
+	<block key="am_cb_pv_161_1_Name" korean="Страх всегда на вашей стороне" />
+	<block key="am_cb_pv_161_1_Description" korean="Скачать Slayer Буфф 1" />
+	<block key="am_cb_pv_161_1_condition_0" korean="Поступило Buff" />
+	<block key="am_cb_pv_161_10_Name" korean="Страх не голоден разрыв" />
+	<block key="am_cb_pv_161_10_Description" korean="Скачать Slayer Буфф 10" />
+	<block key="am_cb_pv_161_10_condition_0" korean="Поступило Buff" />
+	<block key="am_cb_pv_162_1_Name" korean="Ты уже мертв." />
+	<block key="am_cb_pv_162_1_Description" korean="Скачать Жнец Буфф 1" />
+	<block key="am_cb_pv_162_1_condition_0" korean="Поступило Buff" />
+	<block key="am_cb_pv_162_10_Name" korean="Как вы собираетесь отправить что-то, чтобы расслабиться." />
+	<block key="am_cb_pv_162_10_Description" korean="Скачать Жнец Буфф 10" />
+	<block key="am_cb_pv_162_10_condition_0" korean="Поступило Buff" />
+	<block key="am_cb_pv_163_1_Name" korean="Вы полны сил!" />
+	<block key="am_cb_pv_163_1_Description" korean="Скачать Absolute бафф 1" />
+	<block key="am_cb_pv_163_1_condition_0" korean="Поступило Buff" />
+	<block key="am_cb_pv_163_10_Name" korean="I Am Legend." />
+	<block key="am_cb_pv_163_10_Description" korean="Скачать Absolute бафф 10" />
+	<block key="am_cb_pv_163_10_condition_0" korean="Поступило Buff" />
+	<block key="am_co_gr_001_5_Name" korean="Рыцари также от этапа" />
+	<block key="am_co_gr_001_5_Description" korean="Достижение уровня 5" />
+	<block key="am_co_gr_001_5_condition_0" korean="Достижение уровня 5" />
+	<block key="am_co_gr_001_15_Name" korean="Внешний вид тамплиеров" />
+	<block key="am_co_gr_001_15_Description" korean="Достижение 15 уровня" />
+	<block key="am_co_gr_001_15_condition_0" korean="Достижение 15 уровня" />
+	<block key="am_co_gr_001_25_Name" korean="Ветераны и Канаш" />
+	<block key="am_co_gr_001_25_Description" korean="Достижение уровня 25" />
+	<block key="am_co_gr_001_25_condition_0" korean="Достижение уровня 25" />
+	<block key="am_co_gr_001_35_Name" korean="Результат тяжелой работы" />
+	<block key="am_co_gr_001_35_Description" korean="Достижение уровня 35" />
+	<block key="am_co_gr_001_35_condition_0" korean="Достижение уровня 35" />
+	<block key="am_co_gr_001_45_Name" korean="Внезапно!" />
+	<block key="am_co_gr_001_45_Description" korean="Достижение уровня 45" />
+	<block key="am_co_gr_001_45_condition_0" korean="Достижение уровня 45" />
+	<block key="tt_0_0_0002_contents_title_name" korean="Мастер в области бизнеса" />
+	<block key="tt_0_0_0003_contents_title_name" korean="Миллионер" />
+	<block key="tt_0_0_0004_contents_title_name" korean="Магазин Украсьте geodeol" />
+	<block key="tt_0_0_0005_contents_title_name" korean="Стражи Элуны" />
+	<block key="tt_0_0_0006_contents_title_name" korean="Высота континентов" />
+	<block key="tt_0_0_0007_contents_title_name" korean="Большой рука континента" />
+	<block key="tt_0_0_0008_contents_title_name" korean="Человек портал" />
+	<block key="tt_0_0_0009_contents_title_name" korean="Бессмертие" />
+	<block key="tt_0_0_0010_contents_title_name" korean="Сотрудник Master" />
+	<block key="tt_0_0_0011_contents_title_name" korean="Бодхисаттва" />
+	<block key="tt_0_0_0012_contents_title_name" korean="Сотрудник эксперт преобразование" />
+	<block key="tt_0_0_0013_contents_title_name" korean="Попутчики запечатанные эксперты" />
+	<block key="tt_0_0_0014_contents_title_name" korean="Старший" />
+	<block key="tt_0_0_0015_contents_title_name" korean="Бюстгальтер авантюриста карбоновой лес" />
+	<block key="tt_0_0_0016_contents_title_name" korean="Водный замок гвардии" />
+	<block key="tt_0_0_0017_contents_title_name" korean="Команда Fixer jikhal" />
+	<block key="tt_0_0_0018_contents_title_name" korean="Парк мою статью Гардиан" />
+	<block key="tt_0_0_0019_contents_title_name" korean="Mate уважения" />
+	<block key="tt_0_0_0020_contents_title_name" korean="Господь арматуры" />
+	<block key="tt_0_0_0021_contents_title_name" korean="Оборудование Destroyer" />
+	<block key="tt_0_0_0022_contents_title_name" korean="Господь дуэли" />
+	<block key="tt_0_0_0023_contents_title_name" korean="Ножное управление" />
+	<block key="tt_0_0_0024_contents_title_name" korean="Победитель" />
+	<block key="tt_0_0_0025_contents_title_name" korean="Правитель" />
+	<block key="tt_0_0_0026_contents_title_name" korean="Шериф" />
+	<block key="tt_0_0_0027_contents_title_name" korean="Охотник" />
+	<block key="tt_0_0_0028_contents_title_name" korean="Убийца" />
+	<block key="tt_0_0_0029_contents_title_name" korean="Жнец" />
+	<block key="tt_0_0_0030_contents_title_name" korean="Абсолютная" />
+	<block key="tt_0_0_0031_contents_title_name" korean="Статья Королевство" />
+	<block key="tt_0_0_0032_contents_title_name" korean="Королевство Герои" />
+	<block key="tt_0_0_0033_contents_title_name" korean="Герои Light Эрл агента" />
+	<block key="tt_0_0_0000_contents_title_name" korean="Рыцари воздушного пространства" />
+	<block key="tt_0_0_0001_contents_title_name" korean="Владелец Pegasus" />
+	<block key="tt_0_0_0034_contents_title_name" korean="Гарнизон" />
+	<block key="tt_0_0_0035_contents_title_name" korean="Полицейский по найму" />
+	<block key="tt_0_0_0036_contents_title_name" korean="Защитник" />
+	<block key="tt_0_0_0037_contents_title_name" korean="Судья" />
+	<block key="tt_0_0_0038_contents_title_name" korean="Курильщики" />
+	<block key="am_dg_co_080_100_Name" korean="[Легенда] за легендой" />
+	<block key="am_dg_co_080_100_Description" korean="Легендарной сложности Очистить все" />
+	<block key="am_dg_co_080_100_condition_0" korean="Продолжает гореть проглотил" />
+	<block key="am_dg_co_080_100_condition_1" korean="Карл Reang особняк" />
+	<block key="am_dg_co_080_100_condition_2" korean="Лен Mart руины" />
+	<block key="am_dg_co_080_100_condition_3" korean="Облаченный в вуалью пещере" />
+	<block key="am_dg_co_080_100_condition_4" korean="Волна рупий лед форт" />
+	<block key="am_cb_mt_003_1000_Name" korean="Начните охоту" />
+	<block key="am_cb_mt_003_1000_Description" korean="1000 Монстр лечение, независимо от рейтинга" />
+	<block key="am_cb_mt_003_1000_condition_0" korean="Монстры могут помочь" />
+	<block key="am_cb_mt_003_5000_Name" korean="Экологическая благоустройство" />
+	<block key="am_cb_mt_003_5000_Description" korean="Убейте монстра, независимо от класса 5000" />
+	<block key="am_cb_mt_003_5000_condition_0" korean="Монстры могут помочь" />
+	<block key="am_cb_mt_004_500_Name" korean="Сильной к слабой" />
+	<block key="am_cb_mt_004_500_Description" korean="Генеральный Монстр 500 Крайстчерч" />
+	<block key="am_cb_mt_004_500_condition_0" korean="Монстры могут помочь" />
+	<block key="am_cb_mt_004_1000_Name" korean="Там нет ничего более мощного,?" />
+	<block key="am_cb_mt_004_1000_Description" korean="Генеральный Монстр 1000 Крайстчерч" />
+	<block key="am_cb_mt_004_1000_condition_0" korean="Монстры могут помочь" />
+	<block key="am_cb_mt_005_500_Name" korean="Elite Hunter монстр" />
+	<block key="am_cb_mt_005_500_Description" korean="Монстр Elite Погиб 500" />
+	<block key="am_cb_mt_005_500_condition_0" korean="Монстры могут помочь" />
+	<block key="am_cb_mt_005_1000_Name" korean="Существует охоты для элиты." />
+	<block key="am_cb_mt_005_1000_Description" korean="1000 Монстр Elite Убит" />
+	<block key="am_cb_mt_005_1000_condition_0" korean="Монстры могут помочь" />
+	<block key="am_cb_mt_006_500_Name" korean="Показать горячей вкус." />
+	<block key="am_cb_mt_006_500_Description" korean="Герой убивает монстра 500" />
+	<block key="am_cb_mt_006_500_condition_0" korean="Монстры могут помочь" />
+	<block key="am_cb_mt_006_1000_Name" korean="Не позволяйте, которые пугают абсолютную мин." />
+	<block key="am_cb_mt_006_1000_Description" korean="Герой убивает монстра 1000" />
+	<block key="am_cb_mt_006_1000_condition_0" korean="Монстры могут помочь" />
+	<block key="am_co_ac_001_2_Name" korean="Побега" />
+	<block key="am_co_ac_001_2_Description" korean="Саран дерево, чтобы избежать тюрьмы" />
+	<block key="am_co_ac_001_2_condition_0" korean="Побега" />
+	<block key="am_co_gr_001_18_Name" korean="Это было трудное время ..." />
+	<block key="am_co_gr_001_18_Description" korean="Достижение уровня 18" />
+	<block key="am_co_gr_001_18_condition_0" korean="Достижение уровня 18" />
+	<block key="am_co_gr_001_23_Name" korean="Сильнее свидетельствует о трудностях в ближайшее время" />
+	<block key="am_co_gr_001_23_Description" korean="Достижение уровня 23" />
+	<block key="am_co_gr_001_23_condition_0" korean="Достижение уровня 23" />
+	<block key="tt_0_0_0039_contents_title_name" korean="Оздоровление окружающей среды" />
+	<block key="tt_0_0_0040_contents_title_name" korean="Монстр Slayer" />
+	<block key="tt_0_0_0041_contents_title_name" korean="Pegasus Элитные Рыцари" />
+	<block key="tt_0_0_0042_contents_title_name" korean="Pegasus Рыцари" />
+	<block key="tt_0_0_0043_contents_title_name" korean="Продолжает гореть проглотил Завоеватель" />
+	<block key="tt_0_0_0044_contents_title_name" korean="Чарльз Замок завоеватель Reang" />
+	<block key="tt_0_0_0045_contents_title_name" korean="Лен Mart руины завоевателя" />
+	<block key="tt_0_0_0046_contents_title_name" korean="Облаченный в завеса завоеватель пещере" />
+	<block key="tt_0_0_0047_contents_title_name" korean="Ice Цитадель завоеватель рупий номинальной" />
+	<block key="am_co_mo_008_10000_Name" korean="Начните собирать деньги" />
+	<block key="am_co_mo_008_10000_Description" korean="1 золото получены по капле" />
+	<block key="am_co_mo_008_10000_condition_0" korean="Золото приобретение" />
+	<block key="am_co_mo_009_10000_Name" korean="Sugobi тщательно" />
+	<block key="am_co_mo_009_10000_Description" korean="1 золото приобретен Quest" />
+	<block key="am_co_mo_009_10000_condition_0" korean="Золото приобретение" />
+	<block key="am_co_mo_016_10000_Name" korean="Соберите золотую пыль 1" />
+	<block key="am_co_mo_016_10000_Description" korean="1 владеть золотом" />
+	<block key="am_co_mo_016_10000_condition_0" korean="Золотой запас" />
+	<block key="am_fe_ga_037_1_Name" korean="Смысл bangsaeng" />
+	<block key="am_fe_ga_037_1_Description" korean="Поместите все парень независимо от рейтингового периода 1" />
+	<block key="am_fe_ga_037_1_condition_0" korean="Циклы выпуска" />
+	<block key="am_it_re_084_1_Name" korean="Указанный усиливающий средства является ..." />
+	<block key="am_it_re_084_1_Description" korean="Общие вопросы укрепления один успех" />
+	<block key="am_it_re_084_1_condition_0" korean="Укрепляйтесь" />
+	<block key="am_it_re_095_1_Name" korean="Давайте мусор снова" />
+	<block key="am_it_re_095_1_Description" korean="Товаров на добычу" />
+	<block key="am_it_re_095_1_condition_0" korean="Добыча" />
+	<block key="am_cb_mt_003_10_Name" korean="Первый охота" />
+	<block key="am_cb_mt_003_10_Description" korean="Убейте монстра, независимо от класса 10" />
+	<block key="am_cb_mt_003_10_condition_0" korean="Монстры могут помочь" />
+	<block key="am_cb_mt_003_100_Name" korean="Не закрывайте мой фронт тело!" />
+	<block key="am_cb_mt_003_100_Description" korean="Убейте монстра, независимо от класса 100" />
+	<block key="am_cb_mt_003_100_condition_0" korean="Монстры могут помочь" />
+	<block key="am_cb_mt_005_1_Name" korean="Давай, не элита впервые?" />
+	<block key="am_cb_mt_005_1_Description" korean="Монстр Elite Погиб 1" />
+	<block key="am_cb_mt_005_1_condition_0" korean="Монстры могут помочь" />
+	<block key="am_co_ac_031_1_Name" korean="О, я понимаю!" />
+	<block key="am_co_ac_031_1_Description" korean="1 убит" />
+	<block key="am_co_ac_031_1_condition_0" korean="Смертей" />
+	<block key="am_qu_co_049_10_Name" korean="Первый показ пользу" />
+	<block key="am_qu_co_049_10_Description" korean="10 Задания Завершенные независимо от типа" />
+	<block key="am_qu_co_049_10_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_qu_co_049_30_Name" korean="Fabulous и полезно" />
+	<block key="am_qu_co_049_30_Description" korean="Quest 30, независимо от типа" />
+	<block key="am_qu_co_049_30_condition_0" korean="Задания могут быть завершены" />
+	<block key="am_fe_ga_033_3_Name" korean="Первый случай произошел друг" />
+	<block key="am_fe_ga_033_3_Description" korean="Все участники ручные независимо от степени 3 успеха" />
+	<block key="am_fe_ga_033_3_condition_0" korean="Укрощение быть успешным" />
+	<block key="am_qu_zo_058_107_Name" korean="Воздушное пространство опекун разрушения" />
+	<block key="am_qu_zo_058_107_Description" korean="Полный 107 квестов разрушение воздушного пространства" />
+	<block key="am_qu_zo_058_107_condition_0" korean="Задания могут быть завершены" />
+	<block key="tt_0_0_0048_contents_title_name" korean="Хранитель воздушного пространства" />
+	<block key="am_dg_co_0000_Name" korean="Оформление [сценарий] воздушном пространстве" />
+	<block key="am_dg_co_0000_Description" korean="Воздушное пространство ясно сценарии ниши труда после" />
+	<block key="am_dg_co_0000_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0001_Name" korean="[Сценарий] пионером во фракции воздушного пространства" />
+	<block key="am_dg_co_0001_Description" korean="Ниша сценарий трудность очистки воздушное пространство 10 раз" />
+	<block key="am_dg_co_0001_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0002_Name" korean="[Elite] оформление воздушного пространства" />
+	<block key="am_dg_co_0002_Description" korean="Elite трудность очистки воздушного пространства оформление одного" />
+	<block key="am_dg_co_0002_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0003_Name" korean="[Elite] пионером во фракции воздушного пространства" />
+	<block key="am_dg_co_0003_Description" korean="Ниша Elite сложности очистки воздушное пространство 10 раз" />
+	<block key="am_dg_co_0003_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0004_Name" korean="Оформление [Герой] воздушном пространстве" />
+	<block key="am_dg_co_0004_Description" korean="Нишевые герои воздушного пространства трудом После очистки" />
+	<block key="am_dg_co_0004_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0005_Name" korean="[Герой] пионером в щелях воздушного пространства" />
+	<block key="am_dg_co_0005_Description" korean="Нишевые герои трудность очистки воздушного пространства 10 раз" />
+	<block key="am_dg_co_0005_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0006_Name" korean="[Легенда] оформление воздушного пространства" />
+	<block key="am_dg_co_0006_Description" korean="Легендарной сложности очистки воздушного пространства зазор раз" />
+	<block key="am_dg_co_0006_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0007_Name" korean="[Легенда] пионером во фракции воздушного пространства" />
+	<block key="am_dg_co_0007_Description" korean="Ниша легенда трудность очистки воздушное пространство 10 раз" />
+	<block key="am_dg_co_0007_condition_0" korean="Будьте ясно," />
+	<block key="am_fe_ga_0000_Name" korean="Кошмар Ты моя!" />
+	<block key="am_fe_ga_0000_Description" korean="Кошмар Укрощение успеха" />
+	<block key="am_fe_ga_0000_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0001_Name" korean="Кошмар ручной отказ" />
+	<block key="am_fe_ga_0001_Description" korean="Укрощение провал 10 Nightmare" />
+	<block key="am_fe_ga_0001_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0002_Name" korean="Роб Кейн ужаса ты мой!" />
+	<block key="am_fe_ga_0002_Description" korean="Роб Кейн приручить страх успеха" />
+	<block key="am_fe_ga_0002_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0003_Name" korean="Роб Каин не смог усмирить страх" />
+	<block key="am_fe_ga_0003_Description" korean="Роб Каин не смог усмирить страх 10" />
+	<block key="am_fe_ga_0003_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0004_Name" korean="Каспер ядовитого дерева ты мой!" />
+	<block key="am_fe_ga_0004_Description" korean="Каспер ядовитого дерева приручение успех" />
+	<block key="am_fe_ga_0004_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0005_Name" korean="Каспер ядовитого дерева отказ приручение" />
+	<block key="am_fe_ga_0005_Description" korean="Каспер 10 неудачных попыток приручить токсичного агента" />
+	<block key="am_fe_ga_0005_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0006_Name" korean="Ghost're моя!" />
+	<block key="am_fe_ga_0006_Description" korean="Укрощение успех призрак" />
+	<block key="am_fe_ga_0006_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0007_Name" korean="Призрак ручной отказ" />
+	<block key="am_fe_ga_0007_Description" korean="Укрощение 10 отказ призрак" />
+	<block key="am_fe_ga_0007_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0008_Name" korean="Красный maryong Agde Nas ты мой!" />
+	<block key="am_fe_ga_0008_Description" korean="Nas ручной красный maryong Agde успех" />
+	<block key="am_fe_ga_0008_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0009_Name" korean="Nas не смог усмирить красный maryong Agde" />
+	<block key="am_fe_ga_0009_Description" korean="10 Nas не смог усмирить красный maryong Agde" />
+	<block key="am_fe_ga_0009_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0010_Name" korean="Apocalypse're моя!" />
+	<block key="am_fe_ga_0010_Description" korean="Укрощение успеха Апокалипсис" />
+	<block key="am_fe_ga_0010_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0011_Name" korean="Укрощение отказ Апокалипсис" />
+	<block key="am_fe_ga_0011_Description" korean="Укрощение провал 10 Апокалипсис" />
+	<block key="am_fe_ga_0011_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0012_Name" korean="Карась тирана ты мой!" />
+	<block key="am_fe_ga_0012_Description" korean="Карась укрощения успех тирана" />
+	<block key="am_fe_ga_0012_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0013_Name" korean="Карась укрощения отказ тирана" />
+	<block key="am_fe_ga_0013_Description" korean="Укрощение 10 тирана отказ Карась" />
+	<block key="am_fe_ga_0013_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0014_Name" korean="Номера отряд Apocalypse're моя!" />
+	<block key="am_fe_ga_0014_Description" korean="Укрощение успеха отряд не Апокалипсис" />
+	<block key="am_fe_ga_0014_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0015_Name" korean="Номера отряд не смог усмирить Апокалипсис" />
+	<block key="am_fe_ga_0015_Description" korean="Укрощение 10 отряд без отказа Апокалипсис" />
+	<block key="am_fe_ga_0015_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0016_Name" korean="Муар научить вас мои!" />
+	<block key="am_fe_ga_0016_Description" korean="Укрощение успех преподавания муар" />
+	<block key="am_fe_ga_0016_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0017_Name" korean="Укрощение отказ учить муар" />
+	<block key="am_fe_ga_0017_Description" korean="Укрощение 10-удалось научить муар" />
+	<block key="am_fe_ga_0017_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0018_Name" korean="Кара Шах темно maryong ты мой!" />
+	<block key="am_fe_ga_0018_Description" korean="Кара Шах удалось укротить темную maryong" />
+	<block key="am_fe_ga_0018_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0019_Name" korean="Кара Шах смог усмирить тьму maryong" />
+	<block key="am_fe_ga_0019_Description" korean="Темный maryong Кара Шах смог усмирить 10-" />
+	<block key="am_fe_ga_0019_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0020_Name" korean="Ты мой Лето другие азиатские Пустота!" />
+	<block key="am_fe_ga_0020_Description" korean="Лето Укрощение бездны других азиатских успеха" />
+	<block key="am_fe_ga_0020_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0021_Name" korean="Лето других азиатских ручной отказ Пустоты" />
+	<block key="am_fe_ga_0021_Description" korean="Укрощение 10 других Лорето шиитов отказ Пустоты" />
+	<block key="am_fe_ga_0021_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0022_Name" korean="Gwangryong Para gas're мой!" />
+	<block key="am_fe_ga_0022_Description" korean="Gwangryong Para газа Укрощение успех" />
+	<block key="am_fe_ga_0022_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0023_Name" korean="Gwangryong Para газа ручными отказ" />
+	<block key="am_fe_ga_0023_Description" korean="Укрощение 10 Para газа gwangryong отказ" />
+	<block key="am_fe_ga_0023_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0024_Name" korean="Воздушное пространство страницы крылья Mutoh в ты мой!" />
+	<block key="am_fe_ga_0024_Description" korean="Укрощение крылья воздушного пространства страницы Муто успеха" />
+	<block key="am_fe_ga_0024_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0025_Name" korean="Укрощение провал воздушного пространства крыльями Муто странице" />
+	<block key="am_fe_ga_0025_Description" korean="Укрощение 10 Крыло воздушное пространство страницы недостаточности Муто" />
+	<block key="am_fe_ga_0025_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0026_Name" korean="Люцифер лунный свет дерево ты мой!" />
+	<block key="am_fe_ga_0026_Description" korean="Лунный свет Люцифера немного приручить успех" />
+	<block key="am_fe_ga_0026_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0027_Name" korean="Лунный свет Люцифера немного укротить отказ" />
+	<block key="am_fe_ga_0027_Description" korean="Лунный свет Люцифера немного приручить 10 отказ" />
+	<block key="am_fe_ga_0027_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_cb_mt_0000_Name" korean="Вместо того, чтобы безжалостным Зера \u003cКобб быть последователем\u003e Помощь" />
+	<block key="am_cb_mt_0000_Description" korean="Вместо того, чтобы безжалостным Зера \u003cКобб быть последователем\u003e 1 помощь" />
+	<block key="am_cb_mt_0000_condition_0" korean="Трактоваться" />
+	<block key="am_cb_mt_0001_Name" korean="Gungbyeong толстой кишки Фосс и лечение" />
+	<block key="am_cb_mt_0001_Description" korean="Gungbyeong толстой кишки Фосс или лечение один раз" />
+	<block key="am_cb_mt_0001_condition_0" korean="Трактоваться" />
+	<block key="am_cb_mt_0002_Name" korean="Isla Colon прямо всадники помощь" />
+	<block key="am_cb_mt_0002_Description" korean="Исла Колон всадники правильным лечения" />
+	<block key="am_cb_mt_0002_condition_0" korean="Трактоваться" />
+	<block key="am_cb_mt_0003_Name" korean="Ker вождей на помощь" />
+	<block key="am_cb_mt_0003_Description" korean="Ker вождей на 1 Aid" />
+	<block key="am_cb_mt_0003_condition_0" korean="Трактоваться" />
+	<block key="am_cb_mt_0004_Name" korean="Би-Aid" />
+	<block key="am_cb_mt_0004_Description" korean="Висмут за лечение" />
+	<block key="am_cb_mt_0004_condition_0" korean="Трактоваться" />
+	<block key="am_cb_mt_0005_Name" korean="Рыцарь Тьмы ahsyuram помощи" />
+	<block key="am_cb_mt_0005_Description" korean="Рыцарь Тьмы ahsyuram на курс лечения" />
+	<block key="am_cb_mt_0005_condition_0" korean="Трактоваться" />
+	<block key="am_cb_mt_0006_Name" korean="Дебби помощь" />
+	<block key="am_cb_mt_0006_Description" korean="Дебби 1 Aid" />
+	<block key="am_cb_mt_0006_condition_0" korean="Трактоваться" />
+	<block key="am_it_ga_0000_Name" korean="Приобретать предметы общем рейтинге" />
+	<block key="am_it_ga_0000_Description" korean="Предметы Генеральной Мастер 1 класса" />
+	<block key="am_it_ga_0000_condition_0" korean="Можно извлечь" />
+	<block key="am_it_ga_0001_Name" korean="Вдруг он поднял один ..." />
+	<block key="am_it_ga_0001_Description" korean="Пункт 1000 Приобретение Генеральном рейтинге" />
+	<block key="am_it_ga_0001_condition_0" korean="Можно извлечь" />
+	<block key="am_it_ga_0002_Name" korean="Приобретать товары элитного класса" />
+	<block key="am_it_ga_0002_Description" korean="Один пункт приобретения элитной рейтинг" />
+	<block key="am_it_ga_0002_condition_0" korean="Можно извлечь" />
+	<block key="am_it_ga_0003_Name" korean="Элитные изделия моя судьба" />
+	<block key="am_it_ga_0003_Description" korean="Приобретение 500 пунктов элитного класса" />
+	<block key="am_it_ga_0003_condition_0" korean="Можно извлечь" />
+	<block key="am_it_ga_0004_Name" korean="Герой в качестве первого шага" />
+	<block key="am_it_ga_0004_Description" korean="Один пункт героев рейтинге узнать" />
+	<block key="am_it_ga_0004_condition_0" korean="Можно извлечь" />
+	<block key="am_it_ga_0005_Name" korean="Рождение великого героя" />
+	<block key="am_it_ga_0005_Description" korean="Герой приобрести 100 наименований класса" />
+	<block key="am_it_ga_0005_condition_0" korean="Можно извлечь" />
+	<block key="am_it_ga_0006_Name" korean="Как будто кто-легенде" />
+	<block key="am_it_ga_0006_Description" korean="Один пункт в изучении легенда класса" />
+	<block key="am_it_ga_0006_condition_0" korean="Можно извлечь" />
+	<block key="am_it_ga_0007_Name" korean="Живая легенда" />
+	<block key="am_it_ga_0007_Description" korean="Легенда класс предметов приобрела 10" />
+	<block key="am_it_ga_0007_condition_0" korean="Можно извлечь" />
+	<block key="am_it_ga_0008_Name" korean="Кубок мира приобретают предметы" />
+	<block key="am_it_ga_0008_Description" korean="ЧМ штук в приобретении" />
+	<block key="am_it_ga_0008_condition_0" korean="Можно извлечь" />
+	<block key="am_it_ga_0009_Name" korean="Оборудование для более, чем легенда все рейтинги" />
+	<block key="am_it_ga_0009_Description" korean="Оборудование для более, чем легенда все рейтинги" />
+	<block key="am_it_ga_0009_condition_0" korean="Можно извлечь" />
+	<block key="tt_0_0_0049_contents_title_name" korean="Приручить Кошмар" />
+	<block key="tt_0_0_0050_contents_title_name" korean="Ужас Кейна приручить Раб" />
+	<block key="tt_0_0_0051_contents_title_name" korean="Приручить ядовитого дерева Каспер" />
+	<block key="tt_0_0_0052_contents_title_name" korean="Приручить Ghosts" />
+	<block key="tt_0_0_0053_contents_title_name" korean="Приручить Red maryong Agde Nas" />
+	<block key="tt_0_0_0054_contents_title_name" korean="Приручить Апокалипсис" />
+	<block key="tt_0_0_0055_contents_title_name" korean="Приручить тирана Карась" />
+	<block key="tt_0_0_0056_contents_title_name" korean="Приручить без отряд Апокалипсис" />
+	<block key="tt_0_0_0057_contents_title_name" korean="Приручить обучения муар" />
+	<block key="tt_0_0_0058_contents_title_name" korean="Кара Чарльз приручить темно maryong" />
+	<block key="tt_0_0_0059_contents_title_name" korean="Приручить ретроградной других азиатских Пустоту" />
+	<block key="tt_0_0_0060_contents_title_name" korean="Приручить газ gwangryong Para" />
+	<block key="tt_0_0_0061_contents_title_name" korean="Приручить воздушное пространство странице крылья Mutoh в" />
+	<block key="tt_0_0_0062_contents_title_name" korean="Лунный свет немного укротить Люцифер" />
+	<block key="am_fe_ga_0028_Name" korean="Ты один из порожних грузовых моя!" />
+	<block key="am_fe_ga_0028_Description" korean="Грузовые дней приручить успех Пустоты" />
+	<block key="am_fe_ga_0028_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0029_Name" korean="Грузовые дней приручить отказ Пустоты" />
+	<block key="am_fe_ga_0029_Description" korean="Укрощение 10-й день Пустоты отказа грузов" />
+	<block key="am_fe_ga_0029_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0030_Name" korean="Грузовой мой более чем один из вас!" />
+	<block key="am_fe_ga_0030_Description" korean="Укрощение успех Рассвет грузов дней" />
+	<block key="am_fe_ga_0030_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0031_Name" korean="Укрощение отказ более чем одного груза" />
+	<block key="am_fe_ga_0031_Description" korean="Отказ более чем на 10 дней, чтобы приручить Грузы" />
+	<block key="am_fe_ga_0031_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0032_Name" korean="Beldeon're бессмертную мой!" />
+	<block key="am_fe_ga_0032_Description" korean="Beldeon приручить успех Бессмертный" />
+	<block key="am_fe_ga_0032_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0033_Name" korean="Укрощение провал бессмертной beldeon" />
+	<block key="am_fe_ga_0033_Description" korean="Укрощение 10 beldeon провал Бессмертный" />
+	<block key="am_fe_ga_0033_condition_0" korean="Укрощение количество отказов" />
+	<block key="tt_0_0_0063_contents_title_name" korean="Приручить груза дни Пустоты" />
+	<block key="tt_0_0_0064_contents_title_name" korean="Приручить груз из более чем одного" />
+	<block key="tt_0_0_0065_contents_title_name" korean="Приручить бессмертную beldeon" />
+	<block key="am_it_re_0000_Name" korean="Условия проверить легенду" />
+	<block key="am_it_re_0000_Description" korean="Все герои носят более 8 или Легендарный укрепления оборудование" />
+	<block key="am_it_re_0000_condition_0" korean="Более 10 рек все герои износ оборудования Рейтинг" />
+	<block key="am_it_re_0000_condition_1" korean="Затруднение глотания огня остается героем" />
+	<block key="am_it_re_0000_condition_2" korean="Карл Reang особняк героическом режиме" />
+	<block key="am_it_re_0000_condition_3" korean="Замороженные Mart Лен руины героическом режиме" />
+	<block key="am_it_re_0000_condition_4" korean="Войти в героическом завесу трудности пещеры" />
+	<block key="am_it_re_0000_condition_5" korean="Ice Цитадель героического уровня сложности номинальной рупий" />
+	<block key="am_fe_ga_0034_Name" korean="Ты мой Пироги Рууд ужас!" />
+	<block key="am_fe_ga_0034_Description" korean="Страх успеха пирога приручить Лурд" />
+	<block key="am_fe_ga_0035_Name" korean="Меган Тесс из кошмара ты мой!" />
+	<block key="am_fe_ga_0035_Description" korean="Тест Меган приручить успех кошмар" />
+	<block key="am_fe_ga_0036_Name" korean="Ты позволил мне купить пропасть!" />
+	<block key="am_fe_ga_0036_Description" korean="По укрощения пусть успех в пропасть" />
+	<block key="am_fe_ga_0037_Name" korean="Хами приходят из Aisha're меня!" />
+	<block key="am_fe_ga_0037_Description" korean="Хами на укрощение успех Айша" />
+	<block key="am_fe_ga_0038_Name" korean="Хами на укрощение провал Айша" />
+	<block key="am_fe_ga_0038_Description" korean="Хами на 10 Укрощение отказа Айша" />
+	<block key="am_fe_ga_0038_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0039_Name" korean="Карл ripto из geukyeom ты мой!" />
+	<block key="am_fe_ga_0039_Description" korean="Укрощение успех нож geukyeom ripto" />
+	<block key="am_fe_ga_0040_Name" korean="Карл ripto удалось укротить geukyeom" />
+	<block key="am_fe_ga_0040_Description" korean="Укрощение ножом 10 раз geukyeom ripto отказа" />
+	<block key="am_fe_ga_0040_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0041_Name" korean="Тьма демо бонус вы мои!" />
+	<block key="am_fe_ga_0041_Description" korean="Моряки приручить успешной демонстрации Тьмы" />
+	<block key="am_fe_ga_0042_Name" korean="Укрощение провал ночь бонус демо" />
+	<block key="am_fe_ga_0042_Description" korean="Укрощение 10 ночь отказа демонстрации бонусной" />
+	<block key="am_fe_ga_0042_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0043_Name" korean="Сумерки geurabion ты мой!" />
+	<block key="am_fe_ga_0043_Description" korean="Geurabion приручить успех Сумерек" />
+	<block key="am_fe_ga_0044_Name" korean="Geurabion не смог усмирить Сумерки" />
+	<block key="am_fe_ga_0044_Description" korean="Укрощение 10 geurabion отказ Сумерек" />
+	<block key="am_fe_ga_0044_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0045_Name" korean="Легенда другими энтузиастами" />
+	<block key="am_fe_ga_0045_Description" korean="Сотрудник легенда приручить пять успешных" />
+	<block key="am_fe_ga_0045_condition_0" korean="Укрощение быть успешным" />
+	<block key="am_fe_ga_0046_Name" korean="Легенда коллеги коллекторы" />
+	<block key="am_fe_ga_0046_Description" korean="Сотрудник легенда приручить 10 успеха" />
+	<block key="am_fe_ga_0046_condition_0" korean="Укрощение быть успешным" />
+	<block key="am_fe_ga_0047_Name" korean="[Легенда] время, чтобы разбить" />
+	<block key="am_fe_ga_0047_Description" korean="Сотрудник цикл выпуска 1 легенда" />
+	<block key="am_fe_ga_0047_condition_0" korean="Циклы выпуска" />
+	<block key="am_fe_ga_0048_Name" korean="[Легенда] ум действительно заботится" />
+	<block key="am_fe_ga_0048_Description" korean="Сотрудник легенда занял пятое цикл" />
+	<block key="am_fe_ga_0048_condition_0" korean="Циклы выпуска" />
+	<block key="am_fe_us_0000_Name" korean="[Легенда] В другом аспекте" />
+	<block key="am_fe_us_0000_Description" korean="Сотрудник легенда штамм 5" />
+	<block key="am_fe_us_0000_condition_0" korean="Трансформироваться" />
+	<block key="am_fe_us_0001_Name" korean="[Легенда] он лучшие варианты легко" />
+	<block key="am_fe_us_0001_Description" korean="Сотрудник легенда штамм 10" />
+	<block key="am_fe_us_0001_condition_0" korean="Трансформироваться" />
+	<block key="am_fe_us_0002_Name" korean="Сотрудник легенда 5 печать" />
+	<block key="am_fe_us_0002_Description" korean="Сотрудник легенда печать 5" />
+	<block key="am_fe_us_0002_condition_0" korean="Быть запечатаны" />
+	<block key="am_fe_us_0003_Name" korean="Сотрудник легендарный 10-запечатаны" />
+	<block key="am_fe_us_0003_Description" korean="Сотрудник легенда печать 10" />
+	<block key="am_fe_us_0003_condition_0" korean="Быть запечатаны" />
+	<block key="tt_0_0_0066_contents_title_name" korean="Приручить пирог Рууд страх" />
+	<block key="tt_0_0_0067_contents_title_name" korean="Меган приручить тест кошмаров" />
+	<block key="tt_0_0_0068_contents_title_name" korean="Давайте ручными Бездны" />
+	<block key="tt_0_0_0069_contents_title_name" korean="Ручные Хами приходят из Аиша" />
+	<block key="tt_0_0_0070_contents_title_name" korean="Приручить нож ripto из geukyeom" />
+	<block key="tt_0_0_0071_contents_title_name" korean="Укрощение тьму демо-бонус" />
+	<block key="tt_0_0_0072_contents_title_name" korean="Приручить geurabion Сумерек" />
+	<block key="tt_0_0_0073_contents_title_name" korean="Те, кто бросает вызов легенду" />
+	<block key="tt_0_0_0074_contents_title_name" korean="Приручить потери Thunder Dragon Рут" />
+	<block key="tt_0_0_0075_contents_title_name" korean="Приручить спину Chatham Кнута" />
+	<block key="tt_0_0_0076_contents_title_name" korean="Рут Vega приручить яд" />
+	<block key="tt_0_0_0077_contents_title_name" korean="Приручить Poyo Славы" />
+	<block key="tt_0_0_0078_contents_title_name" korean="Приручить мираж Крайнего Севера" />
+	<block key="tt_0_0_0079_contents_title_name" korean="Приручить Пламя Тара Новости" />
+	<block key="tt_0_0_0080_contents_title_name" korean="Приручить bajyan длинных рогов" />
+	<block key="tt_0_0_0081_contents_title_name" korean="Приручить патриоты села Тюра" />
+	<block key="tt_0_0_0082_contents_title_name" korean="Приручить разрушение этого большого Севера" />
+	<block key="am_fe_ga_0049_Name" korean="Высокий Thunder Dragon Ruth're моя!" />
+	<block key="am_fe_ga_0049_Description" korean="Дулут Высокий успех Thunder Dragon Укрощение" />
+	<block key="am_fe_ga_0050_Name" korean="Высокий отказ Thunder Dragon Укрощение Рут" />
+	<block key="am_fe_ga_0050_Description" korean="Гром Дракон Укрощение 10 Tall отказ Рут" />
+	<block key="am_fe_ga_0050_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0051_Name" korean="Подпись Janus мешок ты мой!" />
+	<block key="am_fe_ga_0051_Description" korean="Укрощение успех Janus Подпись Bag" />
+	<block key="am_fe_ga_0052_Name" korean="Укрощение спину ча отказа Janus" />
+	<block key="am_fe_ga_0052_Description" korean="Укрощение заднюю часть неудачи ча Кнут 10" />
+	<block key="am_fe_ga_0052_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0053_Name" korean="Рут Vega яда ты мой!" />
+	<block key="am_fe_ga_0053_Description" korean="Рут Vega Укрощение успеха яда" />
+	<block key="am_fe_ga_0054_Name" korean="Рут Vega не смог усмирить яд" />
+	<block key="am_fe_ga_0054_Description" korean="Рут Vega 10 Укрощение провал яда" />
+	<block key="am_fe_ga_0054_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0055_Name" korean="Poyo славы ты мой!" />
+	<block key="am_fe_ga_0055_Description" korean="Укрощение успех славы Poyo" />
+	<block key="am_fe_ga_0056_Name" korean="Укрощение провал славы Poyo" />
+	<block key="am_fe_ga_0056_Description" korean="Укрощение славы 10-й отказа Poyo" />
+	<block key="am_fe_ga_0056_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0057_Name" korean="Mirage Дальний North're моя!" />
+	<block key="am_fe_ga_0057_Description" korean="Укрощение успех мираж Крайнего Севера" />
+	<block key="am_fe_ga_0058_Name" korean="Укрощение отказа Крайнего Севера мираж" />
+	<block key="am_fe_ga_0058_Description" korean="Укрощение отказа 10 мираж Крайнего Севера" />
+	<block key="am_fe_ga_0058_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0059_Name" korean="Тара Новости пламени ты мой!" />
+	<block key="am_fe_ga_0059_Description" korean="Укрощение Пламя Тара Новости успеху" />
+	<block key="am_fe_ga_0060_Name" korean="Тара ку не удалось укротить пламя" />
+	<block key="am_fe_ga_0060_Description" korean="Тара приручить 10-ку отказ пламени" />
+	<block key="am_fe_ga_0060_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0061_Name" korean="Bajyan длинными рогами ты мой!" />
+	<block key="am_fe_ga_0061_Description" korean="Укрощение успех длинными рогами bajyan" />
+	<block key="am_fe_ga_0062_Name" korean="Укрощение провал длинными рогами bajyan" />
+	<block key="am_fe_ga_0062_Description" korean="Bajyan Укрощение длинными рогами 10 раз сбое" />
+	<block key="am_fe_ga_0062_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0063_Name" korean="Мученики деревне Тюра ты мой!" />
+	<block key="am_fe_ga_0063_Description" korean="Мученики не удастся приручить Тюра" />
+	<block key="am_fe_ga_0064_Name" korean="Тепловая смог усмирить город Тюра" />
+	<block key="am_fe_ga_0064_Description" korean="10 не смог усмирить город мучеников Тюра" />
+	<block key="am_fe_ga_0064_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0065_Name" korean="Больше уничтожение North're меня!" />
+	<block key="am_fe_ga_0065_Description" korean="Уничтожение большей Северной Укрощение успеха" />
+	<block key="am_fe_ga_0066_Name" korean="Укрощение провала большой Северной разорения" />
+	<block key="am_fe_ga_0066_Description" korean="Укрощение большую Северный 10 отказ Судьбы" />
+	<block key="am_fe_ga_0066_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_dg_co_0008_Name" korean="[Сценарий] древнего храма" />
+	<block key="am_dg_co_0008_Description" korean="Ясно трудность был древней сценария храмы" />
+	<block key="am_dg_co_0008_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0009_Name" korean="[Сценарий] исследователи древних храмов" />
+	<block key="am_dg_co_0009_Description" korean="Древние храмы сценарий трудность очистки 10" />
+	<block key="am_dg_co_0009_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0010_Name" korean="[Elite] древние храмы" />
+	<block key="am_dg_co_0010_Description" korean="Elite труда после древних храмов Ясно" />
+	<block key="am_dg_co_0010_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0011_Name" korean="[Elite] исследователи древних храмов" />
+	<block key="am_dg_co_0011_Description" korean="Очистить 10 древних храмов Elite сложности" />
+	<block key="am_dg_co_0011_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0012_Name" korean="[Герой] древнего храма" />
+	<block key="am_dg_co_0012_Description" korean="Ясно героическом режиме, как только древних храмов" />
+	<block key="am_dg_co_0012_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0013_Name" korean="[Герой] исследователи древних храмов" />
+	<block key="am_dg_co_0013_Description" korean="Древние храмы героическом режиме очистки 10" />
+	<block key="am_dg_co_0013_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0014_Name" korean="[Легенда] древнего храма" />
+	<block key="am_dg_co_0014_Description" korean="Легендарной сложности сбрасывается после древних храмов" />
+	<block key="am_dg_co_0014_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0015_Name" korean="[Легенда] исследователи древних храмов" />
+	<block key="am_dg_co_0015_Description" korean="Легендарной сложности Очистить 10 древних храмов" />
+	<block key="am_dg_co_0015_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0016_Name" korean="[Сценарий] Бессмертный Легион форт" />
+	<block key="am_dg_co_0016_Description" korean="Бессмертный Легион сценарий крепость трудность После очистки" />
+	<block key="am_dg_co_0016_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0017_Name" korean="[Сценарий] завоеватель бессмертного легионов крепость" />
+	<block key="am_dg_co_0017_Description" korean="Бессмертный Легион форт трудность сценарий очистка 10 раз" />
+	<block key="am_dg_co_0017_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0018_Name" korean="[Elite] Бессмертный Легион форт" />
+	<block key="am_dg_co_0018_Description" korean="Бессмертный Легион форт Elite трудность После очистки" />
+	<block key="am_dg_co_0018_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0019_Name" korean="[Elite] завоеватель бессмертного легионов крепость" />
+	<block key="am_dg_co_0019_Description" korean="Бессмертный Легион форт Elite трудность очистки 10" />
+	<block key="am_dg_co_0019_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0020_Name" korean="[Герой] Бессмертный Легион форт" />
+	<block key="am_dg_co_0020_Description" korean="Бессмертный Легион форт После очистки героическом режиме" />
+	<block key="am_dg_co_0020_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0021_Name" korean="[Герой] бессмертным армия завоевателя форт" />
+	<block key="am_dg_co_0021_Description" korean="Бессмертный Легион форт героическом режиме очистки 10" />
+	<block key="am_dg_co_0021_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0022_Name" korean="[Легенда] Бессмертный Легион форт" />
+	<block key="am_dg_co_0022_Description" korean="Бессмертный Легион форт раз легендарный трудность очистка" />
+	<block key="am_dg_co_0022_condition_0" korean="Будьте ясно," />
+	<block key="am_dg_co_0023_Name" korean="[Легенда] завоеватель бессмертного легионов крепость" />
+	<block key="am_dg_co_0023_Description" korean="Бессмертный Легион форт Легендарной сложности очистки 10" />
+	<block key="am_dg_co_0023_condition_0" korean="Будьте ясно," />
+	<block key="am_cb_mt_0007_Name" korean="Slayer Ксеноновые \u003cкрасный революция только\u003e Помощь" />
+	<block key="am_cb_mt_0007_Description" korean="Slayer Ксеноновые \u003cкрасный революция только\u003e 1 помощь" />
+	<block key="am_cb_mt_0008_Name" korean="Толстой кишки Выбор Касим \u003cкрасный революция только\u003e Помощь" />
+	<block key="am_cb_mt_0008_Description" korean="Толстой кишки Выбор Касим \u003cкрасный революция только\u003e 1 помощь" />
+	<block key="am_cb_mt_0009_Name" korean="Раджа mageomsa немного \u003cкрасный революция только\u003e Помощь" />
+	<block key="am_cb_mt_0009_Description" korean="Раджа mageomsa немного \u003cкрасный революция только\u003e 1 помощь" />
+	<block key="am_cb_mt_0010_Name" korean="Warbringer бесплатно Падин \u003cкрасный революция только\u003e Помощь" />
+	<block key="am_cb_mt_0010_Description" korean="Warbringer бесплатно Падин \u003cкрасный революция только\u003e 1 помощь" />
+	<block key="am_qu_zo_0000_Name" korean="Desert Explorers бессмертия" />
+	<block key="am_qu_zo_0000_Description" korean="Desert Quest Immortal 268 завершена" />
+	<block key="am_qu_zo_0000_condition_0" korean="Задания могут быть завершены" />
+	<block key="tt_0_0_0083_contents_title_name" korean="Исследователи пустыне" />
+	<block key="tt_0_0_0084_contents_title_name" korean="Покоритель пустыни" />
+	<block key="tt_0_0_0085_contents_title_name" korean="Шарки Укрощение золотых слитков" />
+	<block key="tt_0_0_0086_contents_title_name" korean="Приручить тире в падении" />
+	<block key="am_co_gr_0000_Name" korean="Наконец, 50-го уровня" />
+	<block key="am_co_gr_0000_Description" korean="Достижение уровня 50" />
+	<block key="am_co_gr_0000_condition_0" korean="Достижение уровня 50" />
+	<block key="am_fe_ga_0067_Name" korean="Шарки слиток золота, что ты моя!" />
+	<block key="am_fe_ga_0067_Description" korean="Укрощение успех Золотой Шарки Bar" />
+	<block key="am_fe_ga_0068_Name" korean="Укрощение провал золотых слитков Шарки" />
+	<block key="am_fe_ga_0068_Description" korean="Укрощение 10 бар отказ Шарки золота" />
+	<block key="am_fe_ga_0068_condition_0" korean="Укрощение количество отказов" />
+	<block key="am_fe_ga_0069_Name" korean="Прадеш осенью ты мой!" />
+	<block key="am_fe_ga_0069_Description" korean="Укрощение успех Падения Прадеш" />
+	<block key="am_fe_ga_0070_Name" korean="Прадеш смог усмирить Падение" />
+	<block key="am_fe_ga_0070_Description" korean="10 не смог усмирить Падение Прадеш" />
+	<block key="am_fe_ga_0070_condition_0" korean="Укрощение количество отказов" />
+	<block key="tt_0_0_0087_contents_title_name" korean="Друзья утечки" />
+	<block key="tt_0_0_0088_contents_title_name" korean="Теперь просто захватить землю баланса" />
+	<block key="tt_0_0_0089_contents_title_name" korean="Он знает, что ты один" />
+	<block key="tt_0_0_0090_contents_title_name" korean="Древние храмы исследователь" />
+	<block key="tt_0_0_0091_contents_title_name" korean="Исследователи Бессмертного легиона форта" />
+	<block key="tt_0_0_0092_contents_title_name" korean="Сияющая Звезда пустыни" />
+	<block key="tt_0_0_0093_contents_title_name" korean="Там нет обещание!" />
+	<block key="tt_0_0_0094_contents_title_name" korean="Чувство ударил 2015!" />
+</blocks>

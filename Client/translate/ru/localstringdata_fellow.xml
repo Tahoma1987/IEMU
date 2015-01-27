@@ -1,0 +1,847 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="F_02_1_0007_0002_name" korean="Дикий серый волк" />
+	<block key="F_02_0_0309_0002_name" korean="Серый волк голова" />
+	<block key="F_02_1_0007_0003_name" korean="Серые сайты волк" />
+	<block key="F_02_0_0309_0000_name" korean="Человек, питающихся волк фриттиванного шаха" />
+	<block key="F_00_0_0245_0000_name" korean="Пегас" />
+	<block key="F_00_0_0245_0001_name" korean="Кошмар" />
+	<block key="F_00_0_0309_0000_name" korean="Pegasus Рыцари" />
+	<block key="F_03_0_0309_0001_name" korean="Тени тьмы Wolf" />
+	<block key="F_03_0_0245_0001_name" korean="Eyed ча-чи" />
+	<block key="F_03_0_0245_0002_name" korean="Большой черный Panther" />
+	<block key="F_03_0_0309_0009_name" korean="Тени тьмы Wolf" />
+	<block key="F_03_0_0309_0010_name" korean="Тень Hound" />
+	<block key="F_03_0_0245_0003_name" korean="Длинные когти Black Panther" />
+	<block key="F_03_0_0245_0004_name" korean="Длинные Клыки Черная пантера" />
+	<block key="F_03_0_0083_0001_name" korean="Правда главный Tan" />
+	<block key="F_03_0_0083_0003_name" korean="Голодный медведь" />
+	<block key="F_03_0_0083_0005_name" korean="Длинные когти бурый медведь" />
+	<block key="F_03_0_0083_0006_name" korean="Три пальца ноги черный медведь" />
+	<block key="F_03_0_0083_0007_name" korean="Три пальца ноги черный медведь" />
+	<block key="F_02_1_0011_0000_name" korean="Дикий кабан молоть" />
+	<block key="F_02_1_0011_0001_name" korean="Дикий кабан молоть" />
+	<block key="F_02_1_0011_0002_name" korean="Молярная кабан" />
+	<block key="F_03_0_0672_0001_name" korean="Бешеный Буффало" />
+	<block key="F_03_0_0672_0002_name" korean="Шаг бизон" />
+	<block key="F_03_0_0672_0003_name" korean="Широкий сделал корова" />
+	<block key="F_03_0_0672_0004_name" korean="Стать дикий бык" />
+	<block key="F_03_0_0672_0005_name" korean="Стать дикий бык" />
+	<block key="F_03_0_0309_0002_name" korean="Резкие тени Penrith" />
+	<block key="F_04_0_0309_0000_name" korean="Сообразительные синий волк" />
+	<block key="F_04_0_0309_0001_name" korean="Wild Blue Wolf" />
+	<block key="F_04_0_0309_0002_name" korean="Король Волков Шака-ла-" />
+	<block key="F_51_0_0083_0000_name" korean="Мороз Polar Bear Claw" />
+	<block key="F_02_0_0676_0001_name" korean="Гигантский паук taseulran" />
+	<block key="F_03_0_0676_0001_name" korean="Паук тело" />
+	<block key="F_51_0_0611_0000_name" korean="Мороз паук" />
+	<block key="F_02_1_0606_0002_name" korean="Мороз молярная Крыльцо" />
+	<block key="F_03_0_0672_0006_name" korean="Одомашненный бизон" />
+	<block key="F_03_0_0671_0001_name" korean="Оленеводы сайты" />
+	<block key="F_03_0_0671_0002_name" korean="Белый грива оленей" />
+	<block key="F_03_0_0671_0003_name" korean="Черной гривой оленей" />
+	<block key="F_03_0_0671_0005_name" korean="Изменить оленьи рога" />
+	<block key="F_03_0_0671_0007_name" korean="Белый грива оленей" />
+	<block key="F_03_0_0671_0008_name" korean="Черный Хоф Северный олень" />
+	<block key="F_03_0_0671_0009_name" korean="С белой бородой, вы панк" />
+	<block key="F_03_0_0692_0000_name" korean="Мори четыре озера Черепахи" />
+	<block key="F_03_0_0769_0000_name" korean="Черный Ветер" />
+	<block key="F_03_0_0769_0001_name" korean="Ручные пони" />
+	<block key="F_02_1_0309_0000_name" korean="Черный волк" />
+	<block key="F_02_0_0676_0002_name" korean="Тарантул сайты" />
+	<block key="F_50_0_0245_0000_name" korean="Магма Hound" />
+	<block key="F_03_0_0692_0002_name" korean="Тор Lava зубов" />
+	<block key="F_03_0_1720_0000_name" korean="Единорог" />
+	<block key="F_03_0_0704_0001_name" korean="Phoenix Shadow Flame" />
+	<block key="F_02_1_0606_0000_name" korean="Дикого кабана" />
+	<block key="F_04_0_0245_0000_name" korean="Снег Tiger" />
+	<block key="F_04_0_0245_0001_name" korean="Ice Fang Крюгер" />
+	<block key="F_04_0_0245_0002_name" korean="Снег приручили тигров" />
+	<block key="F_04_0_0083_0000_name" korean="Свирепый гризли" />
+	<block key="F_04_0_0083_0001_name" korean="Широкий шерсть" />
+	<block key="F_03_0_0671_0010_name" korean="Угловые оленьи рога" />
+	<block key="F_03_0_0245_0005_name" korean="Igniz Hound" />
+	<block key="F_03_0_1715_0001_name" korean="Dark maryong Кара Шах" />
+	<block key="F_02_0_0676_0003_name" korean="Гигантский паук волна Тула" />
+	<block key="F_03_0_0704_0010_name" korean="Гром Броня новый" />
+	<block key="F_02_1_0007_0000_name" korean="Серый Волк" />
+	<block key="F_03_0_1715_0003_name" korean="Прозрачный дракон" />
+	<block key="F_00_0_0001_0001_name" korean="Лучи unsongseon" />
+	<block key="F_03_0_1716_0000_name" korean="Ару гиды" />
+	<block key="F_03_0_1717_0000_name" korean="Белый трекер" />
+	<block key="F_03_0_1718_0000_name" korean="Phoenix Черная буря" />
+	<block key="F_00_0_0001_0002_name" korean="Плавающий кит" />
+	<block key="F_03_0_0769_0002_name" korean="Бой" />
+	<block key="F_03_0_0769_0003_name" korean="White Horse" />
+	<block key="F_03_0_0769_0004_name" korean="Насильственные боке нить" />
+	<block key="F_03_0_1715_0004_name" korean="Пегас" />
+	<block key="F_03_0_1715_0005_name" korean="Ахрида" />
+	<block key="F_02_Liger_0001_name" korean="Рай Lourdes" />
+	<block key="F_02_Tou_0001_name" korean="Это Кале" />
+	<block key="F_02_Bsau_0001_name" korean="Аарон рекс" />
+	<block key="F_04_Fdra_0001_name" korean="Flo-уровня" />
+	<block key="F_04_Bdra_0001_name" korean="Кишар" />
+	<block key="F_02_Rhsau_0001_name" korean="Просмотров Janus" />
+	<block key="F_C01_Unic_0001_name" korean="Под сообщества" />
+	<block key="F_03_0_0671_0004_name" korean="Крупные сайты оленей" />
+	<block key="F_03_0_0671_0006_name" korean="Белый грива оленей" />
+	<block key="F_03_0_0671_0011_name" korean="Легкие сайты оленей" />
+	<block key="F_03_0_0671_0012_name" korean="Крупный обувной рожок" />
+	<block key="F_03_0_0671_0013_name" korean="Основные изменения оленьи рога" />
+	<block key="F_03_0_0083_0004_name" korean="Голодный медведь" />
+	<block key="F_03_Firebird_001_name" korean="Ару гиды" />
+	<block key="F_03_0_0309_0011_name" korean="Тени тьмы Wolf" />
+	<block key="F_03_0_0245_0006_name" korean="Длинные Клыки Черная пантера" />
+	<block key="F_03_0_0704_0011_name" korean="Laeta" />
+	<block key="F_03_0_0769_0005_name" korean="Проклятый Гумма" />
+	<block key="F_03_0_0672_0008_name" korean="Eyed Хун Баба" />
+	<block key="F_03_0_0245_0007_name" korean="Большие зубы Черная пантера" />
+	<block key="F_03_0_0672_0009_name" korean="Эпатажная Черная корова" />
+	<block key="F_03_0_0245_0008_name" korean="Дикий рев Аль Шейх" />
+	<block key="F_03_0_0083_0008_name" korean="Натан тиран" />
+	<block key="F_03_0_1715_0010_name" korean="Красный maryong Stern" />
+	<block key="F_03_0_0671_0014_name" korean="Большие оленьи рога" />
+	<block key="F_03_0_0704_0012_name" korean="Привет-Bird" />
+	<block key="F_03_0_1717_0002_name" korean="Гром Броня новый" />
+	<block key="F_06_Ostrich_0001_name" korean="Луг страуса" />
+	<block key="F_06_Eagle_0001_name" korean="Phalke" />
+	<block key="F_06_Scolpi_0001_name" korean="Длинный хвост скорпиона" />
+	<block key="F_06_Scolpi_0002_name" korean="Большие щипцы сообщение" />
+	<block key="F_03_bull_0001_name" korean="Серый Шах woobel" />
+	<block key="F_03_Wolf_0001_name" korean="Грубые белый волк когти" />
+	<block key="F_03_Deer_0001_name" korean="Цветки белые снега оленей" />
+	<block key="F_03_boar_0001_name" korean="Белый грива сцепного" />
+	<block key="F_14_Toucan_0001_name" korean="Farran Zerbe jeobeu новый" />
+	<block key="F_07_Toucan_0001_name" korean="Гавр Risher-х" />
+	<block key="F_d08_Pega_0001_name" korean="Кошмар" />
+	<block key="F_d14_Blraba_0001_name" korean="Merimbula Бар" />
+	<block key="F_c02_Brindle_0001_name" korean="Тигровые модели Попугаи" />
+	<block key="F_f03_Forst_0001_name" korean="Мороз Wyvern gayira" />
+	<block key="F_c02_Liones_0001_name" korean="Рио-Несс" />
+	<block key="F_c02_Lion_0001_name" korean="Лас-Лато" />
+	<block key="F_c02_Elep_0001_name" korean="Кордон Пресс-" />
+	<block key="F_c02_Elep_0002_name" korean="Pirun" />
+	<block key="F_c02_Ddog_0001_name" korean="Аднан ад" />
+	<block key="F_d14_Etur_0001_name" korean="Здравствуйте, я" />
+	<block key="F_d09_wolf_0001_name" korean="Вена Тор" />
+	<block key="F_f05_Eagle_0001_name" korean="Версаль" />
+	<block key="F_f05_toucan_0001_name" korean="Золотой Рог" />
+	<block key="F_f03_Forst_0002_name" korean="Роб Кейн ужасов" />
+	<block key="F_d03_Etur_0001_name" korean="Неукротимый rahabeu" />
+	<block key="F_f01_leop_00_01_name" korean="Тайский Шумахер" />
+	<block key="F_f01_leop_00_02_name" korean="Сью Марк" />
+	<block key="F_f01_leop_00_03_name" korean="Лев Шумахер" />
+	<block key="F_f03_Casp_0001_name" korean="Каспер агент" />
+	<block key="F_f03_Casp_0002_name" korean="Каспер токсичного агента" />
+	<block key="F_f03_matu_0001_name" korean="Швейцар Матхура" />
+	<block key="F_f03_Snowleo_0001_name" korean="Liger жесткие ногти" />
+	<block key="F_03_Wolf_0003_name" korean="Компания Blizzard Wolf" />
+	<block key="F_02_Tou_0003_name" korean="Это Кале" />
+	<block key="F_f01_Ybird_0001_name" korean="Little Bird" />
+	<block key="F_f03_Bdra_0001_name" korean="Склоны" />
+	<block key="F_d04_wolf_0001_name" korean="Призрак" />
+	<block key="F_d04_wolf_0002_name" korean="Мороз" />
+	<block key="F_d04_wolf_0003_name" korean="Туман" />
+	<block key="F_f03_Tou_0001_name" korean="Белый мех сова" />
+	<block key="F_f03_Tou_0002_name" korean="Белый мех сова" />
+	<block key="F_02_1_0007_0001_name" korean="Серый Волк" />
+	<block key="F_03_0_1715_0006_name" korean="Dark maryong Кара Шах" />
+	<block key="F_02_Tou_0002_name" korean="Это Кале" />
+	<block key="F_02_Liger_0003_name" korean="Рай Lourdes" />
+	<block key="F_04_Fdra_0002_name" korean="Flo-уровня" />
+	<block key="F_d02_bear_0001_name" korean="Мороз Polar Bear Claw" />
+	<block key="F_d03_Etur_0002_name" korean="Неукротимый rahabeu" />
+	<block key="F_03_Deer_0002_name" korean="Цветки белые снега оленей" />
+	<block key="F_f01_wolf_0000_name" korean="Дикий серый волк" />
+	<block key="F_f01_wolf_0001_name" korean="Серый волк голова" />
+	<block key="F_f01_wolf_0002_name" korean="Серые сайты волк" />
+	<block key="F_f01_wolfel_0000_name" korean="Человек, питающихся волк фриттиванного шаха" />
+	<block key="F_f00_leoel_0000_name" korean="Эскорт рыцари Черная пантера" />
+	<block key="F_f00_leoel_0001_name" korean="Лев" />
+	<block key="F_f00_wolf_0000_name" korean="Эскорт рыцари Wolf" />
+	<block key="F_f02_wolf_0003_name" korean="Тени тьмы Wolf" />
+	<block key="F_f02_leoel_0000_name" korean="Eyed ча-чи" />
+	<block key="F_f02_leo_0002_name" korean="Большой черный Panther" />
+	<block key="F_f02_wolf_0006_name" korean="Тени тьмы Wolf" />
+	<block key="F_f02_wolf_0007_name" korean="Тень Hound" />
+	<block key="F_f02_leo_0003_name" korean="Длинные когти Black Panther" />
+	<block key="F_f02_leo_0004_name" korean="Длинные Клыки Черная пантера" />
+	<block key="F_f02_bearel_0000_name" korean="Правда главный Tan" />
+	<block key="F_f02_bear_0001_name" korean="Голодный медведь" />
+	<block key="F_f02_bear_0002_name" korean="Длинные когти бурый медведь" />
+	<block key="F_f02_bear_0003_name" korean="Три пальца ноги черный медведь" />
+	<block key="F_f02_bear_0004_name" korean="Три пальца ноги черный медведь" />
+	<block key="F_f01_boar_0000_name" korean="Дикий кабан молоть" />
+	<block key="F_f01_boar_0001_name" korean="Дикий кабан молоть" />
+	<block key="F_f01_boar_0003_name" korean="Молярная кабан" />
+	<block key="F_f02_bull_0001_name" korean="Бешеный Буффало" />
+	<block key="F_f02_bull_0002_name" korean="Шаг бизон" />
+	<block key="F_f02_bull_0003_name" korean="Широкий сделал корова" />
+	<block key="F_f02_bull_0004_name" korean="Стать дикий бык" />
+	<block key="F_f02_bull_0005_name" korean="Стать дикий бык" />
+	<block key="F_f02_wolf_0009_name" korean="Резкие тени Penrith" />
+	<block key="F_f03_wolf_0000_name" korean="Сообразительные синий волк" />
+	<block key="F_f03_wolf_0001_name" korean="Wild Blue Wolf" />
+	<block key="F_f03_wolfel_0000_name" korean="Король Волков Шака-ла-" />
+	<block key="F_f02_spid_0000_name" korean="Гигантский паук taseulran" />
+	<block key="F_f02_spid_0002_name" korean="Паук тело" />
+	<block key="F_d02_spid_0000_name" korean="Мороз паук" />
+	<block key="F_f01_boarel_0001_name" korean="Мороз молярная Крыльцо" />
+	<block key="F_f02_bull_0006_name" korean="Одомашненный бизон" />
+	<block key="F_f02_rein_0000_name" korean="Оленеводы сайты" />
+	<block key="F_f02_rein_0001_name" korean="Белый грива оленей" />
+	<block key="F_f02_rein_0002_name" korean="Черной гривой оленей" />
+	<block key="F_f02_rein_0003_name" korean="Изменить оленьи рога" />
+	<block key="F_f02_rein_0004_name" korean="Белый грива оленей" />
+	<block key="F_f02_rein_0005_name" korean="Черный Хоф Северный олень" />
+	<block key="F_f02_rein_0006_name" korean="С белой бородой, вы панк" />
+	<block key="F_f02_etur_0000_name" korean="Мори четыре озера Черепахи" />
+	<block key="F_f02_hors_0000_name" korean="Черный Ветер" />
+	<block key="F_f02_hors_0001_name" korean="Ручные пони" />
+	<block key="F_f02_wolf_0010_name" korean="Черный волк" />
+	<block key="F_f02_spid_0005_name" korean="Тарантул сайты" />
+	<block key="F_f02_houn_0000_name" korean="Магма Hound" />
+	<block key="F_f02_eturel_0000_name" korean="Тор Lava зубов" />
+	<block key="F_f02_hors_0002_name" korean="Единорог" />
+	<block key="F_f02_drag_0001_name" korean="Phoenix Shadow Flame" />
+	<block key="F_f02_boar_0003_name" korean="Дикого кабана" />
+	<block key="F_f03_leo_0000_name" korean="Снег Tiger" />
+	<block key="F_f03_leoel_0000_name" korean="Ice Fang Крюгер" />
+	<block key="F_f03_leo_0001_name" korean="Снег приручили тигров" />
+	<block key="F_f03_bear_0000_name" korean="Свирепый гризли" />
+	<block key="F_f03_bearel_0000_name" korean="Широкий шерсть" />
+	<block key="F_f02_rein_0007_name" korean="Угловые оленьи рога" />
+	<block key="F_f02_houn_0001_name" korean="Igniz Hound" />
+	<block key="F_f01_spid_0000_name" korean="Гигантский паук волна Тула" />
+	<block key="F_f02_drag_0007_name" korean="Новый красный броня" />
+	<block key="F_f02_drag_0008_name" korean="Ару гиды" />
+	<block key="F_f02_drag_0009_name" korean="Белый трекер" />
+	<block key="F_f02_drag_0010_name" korean="Phoenix Черная буря" />
+	<block key="F_f02_hors_0003_name" korean="Бой" />
+	<block key="F_f02_hors_0004_name" korean="White Horse" />
+	<block key="F_f02_hors_0005_name" korean="Насильственные боке нить" />
+	<block key="F_f02_pega_0000_name" korean="Пегас" />
+	<block key="F_f02_ydrag_0000_name" korean="Ахрида" />
+	<block key="F_02_Bsau_0002_name" korean="Аарон рекс" />
+	<block key="F_04_Bdra_0002_name" korean="Кишар" />
+	<block key="F_02_Rhsau_0002_name" korean="Просмотров Janus" />
+	<block key="F_C01_Unic_0002_name" korean="Под сообщества" />
+	<block key="F_f02_rein_0008_name" korean="Крупные сайты оленей" />
+	<block key="F_f02_rein_0009_name" korean="Белый грива оленей" />
+	<block key="F_f02_rein_0010_name" korean="Легкие сайты оленей" />
+	<block key="F_f02_rein_0011_name" korean="Крупный обувной рожок" />
+	<block key="F_f02_rein_0012_name" korean="Основные изменения оленьи рога" />
+	<block key="F_f02_rein_0013_name" korean="Голодный медведь" />
+	<block key="F_f02_firedra_0000_name" korean="Ару гиды" />
+	<block key="F_f02_wolf_0011_name" korean="Тени тьмы Wolf" />
+	<block key="F_f02_leo_0000_name" korean="Длинные Клыки Черная пантера" />
+	<block key="F_f02_drag_0011_name" korean="Laeta" />
+	<block key="F_d01_hors_0000_name" korean="Проклятый Гумма" />
+	<block key="F_f02_bull_0008_name" korean="Eyed Хун Баба" />
+	<block key="F_f02_leo_0001_name" korean="Большие зубы Черная пантера" />
+	<block key="F_f02_bull_0009_name" korean="Эпатажная Черная корова" />
+	<block key="F_f02_leo_0005_name" korean="Дикий рев Аль Шейх" />
+	<block key="F_f02_bear_0005_name" korean="Натан тиран" />
+	<block key="F_f02_drag_0012_name" korean="Красный maryong Stern" />
+	<block key="F_f02_rein_0014_name" korean="Большие оленьи рога" />
+	<block key="F_f02_drag_0013_name" korean="Привет-Bird" />
+	<block key="F_f02_drag_0014_name" korean="Новый красный броня" />
+	<block key="F_06_Ostrich_0002_name" korean="Луг страуса" />
+	<block key="F_06_Eagle_0002_name" korean="Phalke" />
+	<block key="F_06_Scolpi_0003_name" korean="Длинный хвост скорпиона" />
+	<block key="F_06_Scolpi_0004_name" korean="Большие щипцы сообщение" />
+	<block key="F_03_bull_0002_name" korean="Серый Шах woobel" />
+	<block key="F_03_Wolf_0002_name" korean="Грубые белый волк когти" />
+	<block key="F_03_boar_0004_name" korean="Белый грива сцепного" />
+	<block key="F_14_Toucan_0002_name" korean="Farran Zerbe jeobeu новый" />
+	<block key="F_07_Toucan_0002_name" korean="Гавр Risher-х" />
+	<block key="F_d08_Pega_0002_name" korean="Кошмар" />
+	<block key="F_d14_Blraba_0002_name" korean="Merimbula Бар" />
+	<block key="F_c02_Brindle_0002_name" korean="Тигровые модели Попугаи" />
+	<block key="F_f03_Forst_0003_name" korean="Мороз Wyvern gayira" />
+	<block key="F_c02_Liones_0002_name" korean="Рио-Несс" />
+	<block key="F_f03_Forst_0004_name" korean="Роб Кейн ужасов" />
+	<block key="F_c02_Lion_0002_name" korean="Лас-Лато" />
+	<block key="F_c02_Elep_0005_name" korean="Кордон Пресс-" />
+	<block key="F_c02_Elep_0006_name" korean="Pirun" />
+	<block key="F_c02_Ddog_0002_name" korean="Аднан ад" />
+	<block key="F_d14_Etur_0002_name" korean="Здравствуйте, я" />
+	<block key="F_d09_wolf_0002_name" korean="Вена Тор" />
+	<block key="F_f05_Eagle_0002_name" korean="Версаль" />
+	<block key="F_f05_toucan_0002_name" korean="Золотой Рог" />
+	<block key="F_f01_leop_0000_name" korean="Тайский Шумахер" />
+	<block key="F_f01_leop_0001_name" korean="Сью Марк" />
+	<block key="F_f01_leop_0002_name" korean="Лев Шумахер" />
+	<block key="F_f01_leop_0003_name" korean="Каспер агент" />
+	<block key="F_f03_Casp_0003_name" korean="Каспер токсичного агента" />
+	<block key="F_f03_matu_0002_name" korean="Швейцар Матхура" />
+	<block key="F_f03_Snowleo_0002_name" korean="Liger жесткие ногти" />
+	<block key="F_03_Wolf_0004_name" korean="Компания Blizzard Wolf" />
+	<block key="F_02_Tou_0004_name" korean="Это Кале" />
+	<block key="F_f03_Bdra_0002_name" korean="Склоны" />
+	<block key="F_d04_wolf_0004_name" korean="Призрак" />
+	<block key="F_d04_wolf_0005_name" korean="Мороз" />
+	<block key="F_d04_wolf_0006_name" korean="Туман" />
+	<block key="F_00_0_0001_0003_name" korean="Плавающий кит (keotsin)" />
+	<block key="F_04_Bdra_0003_name" korean="Wyvern" />
+	<block key="F_d04_AfoHors_0001_name" korean="Апокалипсис" />
+	<block key="F_d04_AfoHors_0002_name" korean="Апокалипсис" />
+	<block key="F_d04_AfoHors_0003_name" korean="Апокалипсис" />
+	<block key="F_01_1_Garmu_0001_name" korean="Муар обучение" />
+	<block key="F_00_Bdra_0002_name" korean="Огонь Wyvern кости" />
+	<block key="F_00_Bdra_0003_name" korean="Dark Wyvern кости" />
+	<block key="F_00_Drag_0000_name" korean="Indy качели" />
+	<block key="F_00_Drag_0001_name" korean="Dragon света" />
+	<block key="F_00_hound_0000_name" korean="Ледяные Гончие" />
+	<block key="F_00_hound_0001_name" korean="Таким образом, вы слышите" />
+	<block key="F_00_Bsau_0000_name" korean="Песок рекс" />
+	<block key="F_00_Bsau_0001_name" korean="Замороженные рекс" />
+	<block key="F_f00_ydrag_0000_name" korean="Сурат дуги луговые новый" />
+	<block key="F_f00_owl_0001_name" korean="Белый мех сова" />
+	<block key="F_f09_SkyHor_0001_name" korean="Богатый гиппокамп" />
+	<block key="F_f09_SkyHor_0002_name" korean="Богатый гиппокамп" />
+	<block key="F_f09_Shriek_0001_name" korean="La Hynix" />
+	<block key="F_f09_Shriek_0002_name" korean="La Hynix" />
+	<block key="F_00_bull_0001_name" korean="Браун корова" />
+	<block key="F_00_DragAg_0001_name" korean="Red maryong Agde Nas" />
+	<block key="F_00_eturel_0001_name" korean="Черепаха Тип 1" />
+	<block key="F_00_eturel_0002_name" korean="Ярость" />
+	<block key="F_00_horse_0001_name" korean="Верховая тип 1" />
+	<block key="F_f00_ydrag_0001_name" korean="Тип 2 молодые Phoenix" />
+	<block key="F_f00_ydrag_0002_name" korean="Молодая Phoenix Тип 3" />
+	<block key="F_f07_gorilra_0001_name" korean="Gorilla Forest" />
+	<block key="F_f09_Megan_0001_name" korean="Кошмар Меган Тесс" />
+	<block key="F_00_Bdra_0004_name" korean="По вейвлет пропасти" />
+	<block key="F_f00_owl_0002_name" korean="Белый мех сова" />
+	<block key="F_f09_Megan_0002_name" korean="Кошмар Меган Тесс" />
+	<block key="F_00_Drag_0002_Name" korean="Indy качели" />
+	<block key="F_00_eturel_0003_Name" korean="Ярость" />
+	<block key="F_00_Bdra_0005_name" korean="По вейвлет пропасти" />
+	<block key="F_00_hound_0002_name" korean="Таким образом, вы слышите" />
+	<block key="F_02_FireBird_0001_Name" korean="Ох Много" />
+	<block key="F_02_FireBird_0002_Name" korean="Ох Много" />
+	<block key="F_f09_Shriek_0003_Name" korean="Крикун" />
+	<block key="F_f09_Shriek_0004_Name" korean="Крикун" />
+	<block key="F_f09_Fdra_0001_Name" korean="Да ый Муре" />
+	<block key="F_f09_Fdra_0002_Name" korean="Да ый Муре" />
+	<block key="F_F03_Icehound_0000_Name" korean="Ледяные Гончие" />
+	<block key="F_F03_Saurwat_0000_Name" korean="Замороженные рекс" />
+	<block key="F_F03_Icehound_0001_Name" korean="Ледяные Гончие" />
+	<block key="F_F03_Saurwat_0001_Name" korean="Замороженные рекс" />
+	<block key="F_F03_Bull_0001_Name" korean="Violent размер мочевого пузыря" />
+	<block key="F_F03_Rasha_0001_Name" korean="Серый deurayideu" />
+	<block key="F_F03_DrLight_0001_Name" korean="Буря Дрейка" />
+	<block key="F_F03_IceEtule_0001_Name" korean="Черепаха тонкий лед" />
+	<block key="F_F03_LeoSnow_0001_Name" korean="Безжалостный Mufasa" />
+	<block key="F_F03_WhiteOwl_0001_Name" korean="Укусы клюва Родос" />
+	<block key="F_F03_Reinbase_0001_Name" korean="Лес быть готовым Я" />
+	<block key="F_F03_WhRein_0001_Name" korean="Seorikkot доза рентгеновского" />
+	<block key="F_F03_Shriek_0001_Name" korean="Крик в холодном Нью-" />
+	<block key="F_F03_Shriek_0002_Name" korean="Это maryong Страхан" />
+	<block key="F_F03_SpidBase_0001_Name" korean="Ice Tarantula" />
+	<block key="F_F03_Bull_0002_Name" korean="Violent размер мочевого пузыря" />
+	<block key="F_F03_Rasha_0002_Name" korean="Серый deurayideu" />
+	<block key="F_F03_DrLight_0002_Name" korean="Буря Дрейка" />
+	<block key="F_F03_IceEtule_0002_Name" korean="Черепаха тонкий лед" />
+	<block key="F_F03_LeoSnow_0002_Name" korean="Безжалостный Mufasa" />
+	<block key="F_F03_WhiteOwl_0002_Name" korean="Укусы клюва Родос" />
+	<block key="F_F03_Reinbase_0002_Name" korean="Лес быть готовым Я" />
+	<block key="F_F03_WhRein_0002_Name" korean="Seorikkot доза рентгеновского" />
+	<block key="F_F03_Shriek_0003_Name" korean="Крик в холодном Нью-" />
+	<block key="F_F03_Shriek_0004_Name" korean="Это maryong Страхан" />
+	<block key="F_F03_SpidBase_0002_Name" korean="Ice Tarantula" />
+	<block key="F_F03_DrAster_0001_Name" korean="Hippo nunbaram привлечь Ро" />
+	<block key="F_F03_DrAster_0002_Name" korean="Hippo nunbaram привлечь Ро" />
+	<block key="F_00_Bsau_0002_Name" korean="Замороженные рекс" />
+	<block key="F_00_hound_0003_Name" korean="Ледяные Гончие" />
+	<block key="F_f09_Shriek_0005_Name" korean="Избегайте Теро" />
+	<block key="F_f09_Shriek_0006_Name" korean="Избегайте Теро" />
+	<block key="F_f04_DragBone_0001_Name" korean="Пустота в Краби де" />
+	<block key="F_f04_DragBone_0002_Name" korean="Пустота в Краби де" />
+	<block key="F_f04_DraYoung_001_Name" korean="Jeokbit deurayideu" />
+	<block key="F_f04_DraYoung_002_Name" korean="Hongryeon Леонида" />
+	<block key="F_f04_DraYoung_003_Name" korean="Серебристый Slade" />
+	<block key="F_f04_DraYoung_004_Name" korean="Iberostar Do" />
+	<block key="F_f04_DraYoung_005_Name" korean="Jeokbit deurayideu" />
+	<block key="F_f04_DraYoung_006_Name" korean="Hongryeon Леонида" />
+	<block key="F_f04_DraYoung_007_Name" korean="Серебристый Slade" />
+	<block key="F_f04_DraYoung_008_Name" korean="Iberostar Do" />
+	<block key="F_f04_DraLittle_001_Name" korean="Красные рога Гала Доку" />
+	<block key="F_f04_DraLittle_002_Name" korean="Драма Equus" />
+	<block key="F_f04_DraLittle_003_Name" korean="Дино черный рог-ку," />
+	<block key="F_f04_DraLittle_004_Name" korean="Рай Новости" />
+	<block key="F_f04_DraLittle_005_Name" korean="Красные рога Гала Доку" />
+	<block key="F_f04_DraLittle_006_Name" korean="Драма Equus" />
+	<block key="F_f04_DraLittle_007_Name" korean="Дино черный рог-ку," />
+	<block key="F_f04_DraLittle_008_Name" korean="Рай Новости" />
+	<block key="F_f02_boar_0001_Name" korean="Молярная кабан" />
+	<block key="F_f03_firebird_0002_Name" korean="Голубой О Росс" />
+	<block key="F_F03_hound_0001_Name" korean="Трой Белый" />
+	<block key="F_F03_megan_0001_Name" korean="Тиран Карась" />
+	<block key="F_F09_Eagle_0001_Name" korean="Вы Скарборо" />
+	<block key="F_F09_Eagle_0002_Name" korean="Beolchyeo" />
+	<block key="F_F09_owl_0001_Name" korean="Черный Сова" />
+	<block key="F_P01_afohorse_0001_Name" korean="Номера отряд Апокалипсис" />
+	<block key="F_P01_liger_0001_Name" korean="Страх пирога Лурд" />
+	<block key="F_D03_saurus_0001_Name" korean="Тра ядро ​​Abyss" />
+	<block key="F_F02_Bear_0006_Name" korean="Bandalgom (черный)" />
+	<block key="F_F03_Boar_0001_Name" korean="Валовые Hunks" />
+	<block key="F_F09_Eagle_0003_Name" korean="Coral ремонт" />
+	<block key="F_P01_megan_0001_Name" korean="Тест Red Меган" />
+	<block key="F_F03_DraAgnas_0001_Name" korean="Gwangryong Para газа" />
+	<block key="F_F04_DraCaras_0001_Name" korean="Черный Дракон Баллак" />
+	<block key="F_P01_Dragdark_0001_Name" korean="Темные крылья Камара" />
+	<block key="F_F03_Drawhite_0001_Name" korean="Крылья воздушное пространство страницы Муто" />
+	<block key="F_F03_WhitBird_0001_Name" korean="Амарант белые крылья" />
+	<block key="F_F02_FloWhite_0001_Name" korean="Белая борода, бело-уровня" />
+	<block key="F_P01_Etutle_0001_Name" korean="Чёрная черепаха" />
+	<block key="F_F04_blackuni_0001_Name" korean="Плутон" />
+	<block key="F_F04_Matura_0001_Name" korean="Люцифер лунный свет дерево" />
+	<block key="F_F03_Pegasus_0001_Name" korean="Blue-крылатые лопатки" />
+	<block key="F_F03_Saurus_0001_Name" korean="Снег Vichy" />
+	<block key="F_P01_Seahors_0001_Name" korean="Конечная Мыло водитель" />
+	<block key="F_F09_Toucan_0001_Name" korean="Evoque" />
+	<block key="F_F03_Ybird_0001_Name" korean="Альбино Avene" />
+	<block key="F_P01_Ybird_0001_Name" korean="Зависть" />
+	<block key="F_F09_Ybird_0001_Name" korean="Avene" />
+	<block key="F_F09_Ybird_0002_Name" korean="Ах, как" />
+	<block key="F_F02_Ybird_0001_Name" korean="Ох латунные золотые крылья" />
+	<block key="F_f03_firebird_0003_Name" korean="Голубой О Росс" />
+	<block key="F_F03_hound_0002_Name" korean="Трой Белый" />
+	<block key="F_F03_megan_0002_Name" korean="Тиран Карась" />
+	<block key="F_F09_Eagle_0004_Name" korean="Вы Скарборо" />
+	<block key="F_F09_Eagle_0005_Name" korean="Beolchyeo" />
+	<block key="F_F09_owl_0002_Name" korean="Черный Сова" />
+	<block key="F_P01_afohorse_0002_Name" korean="Номера отряд Апокалипсис" />
+	<block key="F_P01_liger_0002_Name" korean="Страх пирога Лурд" />
+	<block key="F_D03_saurus_0002_Name" korean="Тра ядро ​​Abyss" />
+	<block key="F_F02_Bear_0007_Name" korean="Bandalgom (черный)" />
+	<block key="F_F03_Boar_0002_Name" korean="Валовые Hunks" />
+	<block key="F_F09_Eagle_0006_Name" korean="Coral ремонт" />
+	<block key="F_P01_megan_0002_Name" korean="Тест Red Меган" />
+	<block key="F_F03_DraAgnas_0002_Name" korean="Gwangryong Para газа" />
+	<block key="F_F04_DraCaras_0002_Name" korean="Черный Дракон Баллак" />
+	<block key="F_P01_Dragdark_0002_Name" korean="Темные крылья Камара" />
+	<block key="F_F03_Drawhite_0002_Name" korean="Крылья воздушное пространство страницы Муто" />
+	<block key="F_F03_WhitBird_0002_Name" korean="Амарант белые крылья" />
+	<block key="F_F02_FloWhite_0002_Name" korean="Белая борода, бело-уровня" />
+	<block key="F_P01_Etutle_0002_Name" korean="Чёрная черепаха" />
+	<block key="F_F04_blackuni_0002_Name" korean="Плутон" />
+	<block key="F_F04_Matura_0002_Name" korean="Люцифер лунный свет дерево" />
+	<block key="F_F03_Pegasus_0002_Name" korean="Blue-крылатые лопатки" />
+	<block key="F_F03_Saurus_0002_Name" korean="Снег Vichy" />
+	<block key="F_P01_Seahors_0002_Name" korean="Конечная Мыло водитель" />
+	<block key="F_F09_Toucan_0002_Name" korean="Evoque" />
+	<block key="F_F03_Ybird_0002_Name" korean="Альбино Avene" />
+	<block key="F_P01_Ybird_0002_Name" korean="Зависть" />
+	<block key="F_F09_Ybird_0003_Name" korean="Avene" />
+	<block key="F_F09_Ybird_0004_Name" korean="Ах, как" />
+	<block key="F_F02_Ybird_0002_Name" korean="Ох латунные золотые крылья" />
+	<block key="F_p01_blahorse_0001_Name" korean="Темная лошадка" />
+	<block key="F_02_1_0606_0003_Name" korean="Мороз молярная Крыльцо" />
+	<block key="F_01_1_Garmu_0002_Name" korean="Муар обучение" />
+	<block key="F_01_1_Garmu_0003_Name" korean="Муар обучение" />
+	<block key="F_03_0_0769_0006_Name" korean="Бой" />
+	<block key="F_03_0_0769_0007_Name" korean="White Horse" />
+	<block key="F_03_0_0769_0008_Name" korean="Насильственные боке нить" />
+	<block key="F_03_0_0672_0007_Name" korean="Одомашненный бизон" />
+	<block key="F_04_0_0245_0003_Name" korean="Снег приручили тигров" />
+	<block key="F_F02_Leo_0006_Name" korean="Длинные Клыки Черная пантера" />
+	<block key="F_F02_Leo_0007_Name" korean="Длинные Клыки Черная пантера" />
+	<block key="F_F02_Bull_0007_Name" korean="Бешеный Буффало" />
+	<block key="F_F02_Bull_0010_Name" korean="Бешеный Буффало" />
+	<block key="F_D02_Bear_0002_Name" korean="Мороз Polar Bear Claw" />
+	<block key="F_D02_Bear_0003_Name" korean="Мороз Polar Bear Claw" />
+	<block key="F_f04_Drag_0000_Name" korean="Фана Mer" />
+	<block key="F_f04_Drag_0001_Name" korean="Фана Mer" />
+	<block key="F_f03_Wolf_0002_Name" korean="White Wolf Claw" />
+	<block key="F_f03_Wolf_0003_Name" korean="White Wolf Claw" />
+	<block key="F_P01_DraLittle_001_Name" korean="Ржавчина" />
+	<block key="F_P01_DraLittle_002_Name" korean="Ржавчина" />
+	<block key="F_C01_Bear_0001_Name" korean="Кора bandalgom" />
+	<block key="F_C01_Bear_0002_Name" korean="Лугово-бурых медведя" />
+	<block key="F_C01_Horse_0001_Name" korean="Лу Город" />
+	<block key="F_C01_Horse_0002_Name" korean="Могущественный" />
+	<block key="F_C01_Horse_0003_Name" korean="Конь Барриос" />
+	<block key="F_C01_Rein_0001_Name" korean="Луг оленей" />
+	<block key="F_C01_Rein_0002_Name" korean="Храбрый Тони Чи" />
+	<block key="F_C01_Leo_0001_Name" korean="Голодный леопард" />
+	<block key="F_C01_Leo_0002_Name" korean="Жестоких Скарборо" />
+	<block key="F_C01_Tou_0001_Name" korean="Ветрокрылая в небе" />
+	<block key="F_C01_Bear_0003_Name" korean="Кора bandalgom" />
+	<block key="F_C01_Bear_0004_Name" korean="Лугово-бурых медведя" />
+	<block key="F_C01_Horse_0004_Name" korean="Лу Город" />
+	<block key="F_C01_Horse_0005_Name" korean="Могущественный" />
+	<block key="F_C01_Horse_0006_Name" korean="Конь Барриос" />
+	<block key="F_C01_Rein_0003_Name" korean="Луг оленей" />
+	<block key="F_C01_Rein_0004_Name" korean="Храбрый Тони Чи" />
+	<block key="F_C01_Leo_0003_Name" korean="Голодный леопард" />
+	<block key="F_C01_Leo_0004_Name" korean="Жестоких Скарборо" />
+	<block key="F_C01_Tou_0002_Name" korean="Ветрокрылая в небе" />
+	<block key="F_F04_Eagle_0001_name" korean="Ross Lake" />
+	<block key="F_F04_Tou_0001_name" korean="Ahjeura" />
+	<block key="F_F04_Shirek_0001_name" korean="Dark Scream новый" />
+	<block key="F_F04_FloatDra_0001_name" korean="Брэд уровня" />
+	<block key="F_F04_DragFros_0001_name" korean="Серебристый иней Wyvern" />
+	<block key="F_F04_Eagle_0002_name" korean="Ross Lake" />
+	<block key="F_F04_Tou_0002_name" korean="Ahjeura" />
+	<block key="F_F04_Shirek_0002_name" korean="Dark Scream новый" />
+	<block key="F_F04_FloatDra_0002_name" korean="Брэд уровня" />
+	<block key="F_F04_DragFros_0002_name" korean="Серебристый иней Wyvern" />
+	<block key="F_00_DragAg_0002_name" korean="Red maryong Agde Nas" />
+	<block key="F_00_Rapter_0000_name" korean="Теория Планирование" />
+	<block key="F_00_Rapter_0001_name" korean="Теория Планирование" />
+	<block key="F_f02_firebird_0000_name" korean="Ария де" />
+	<block key="F_f02_firebird_0001_name" korean="Ария де" />
+	<block key="F_f03_RashDrag_0001_name" korean="Гром Броня Зефир" />
+	<block key="F_f03_RashDrag_0002_name" korean="Гром Броня Зефир" />
+	<block key="F_F02_Lidrag_0001_name" korean="Синий maryong больше Stern" />
+	<block key="F_F02_Lidrag_0002_name" korean="Синий maryong больше Stern" />
+	<block key="F_f00_Elqfairy_0001_name" korean="Королева фей elkwineseu" />
+	<block key="F_f00_Rynorex_0001_name" korean="Голова в Rex" />
+	<block key="F_f00_Bragie_0001_name" korean="Brage руководители" />
+	<block key="F_f00_ghost_0001_name" korean="Менеджер Древние руины" />
+	<block key="F_f00_Bragie_0002_name" korean="Brage Xiamen" />
+	<block key="F_f00_Bragie_0003_name" korean="Brage охотник" />
+	<block key="F_f00_Bragie_0004_name" korean="Brage боевой" />
+	<block key="F_f00_Bragie_0005_name" korean="Brage ветеранов" />
+	<block key="F_f00_Bragie_0006_name" korean="Brage хищных воин" />
+	<block key="F_f00_Rynogua_0001_name" korean="Rhino Guard" />
+	<block key="F_f00_Spirwood_0001_name" korean="Дриада" />
+	<block key="F_f00_ghost_0002_name" korean="Древние руины призрак" />
+	<block key="F_f00_ydrag_0003_name" korean="Ручные воробьи" />
+	<block key="F_f00_ydrag_0004_name" korean="Ручные воробьи" />
+	<block key="F_f00_Spirwood_0002_name" korean="Канас и дриада" />
+	<block key="F_f00_DraLittle_001_name" korean="Рай Новости красной аурой" />
+	<block key="F_f00_DraLittle_002_name" korean="Рай Новости красной аурой" />
+	<block key="F_f00_Carlreang_001_name" korean="Темный Апостол Чарльз Reang" />
+	<block key="F_f00_matucon_001_name" korean="Кузнец Мату kontin" />
+	<block key="F_f00_Iren_001_name" korean="Ahyiren холодно" />
+	<block key="F_f00_Guste_001_name" korean="Шеф-повар Порыв" />
+	<block key="F_f00_StoneOcto_001_name" korean="Рок осьминог" />
+	<block key="F_f00_Snowmagic_001_name" korean="Yeti Шаман" />
+	<block key="F_f00_mweattack_001_name" korean="Оборотень Охотник" />
+	<block key="F_f00_firegolem_001_name" korean="Огонь Рок Guard" />
+	<block key="F_f05_Phonix_0001_name" korean="Dia способ" />
+	<block key="F_f05_Phonix_0002_name" korean="Dia способ" />
+	<block key="F_f05_SnRabbit_0001_name" korean="Snow Bunny" />
+	<block key="F_f05_SnRabbit_0002_name" korean="Snow Bunny" />
+	<block key="F_f05_Griffon_0001_name" korean="Грифон" />
+	<block key="F_f05_Griffon_0002_name" korean="Грифон" />
+	<block key="F_f05_Griffon_0003_name" korean="Грузовые дней Пустоты" />
+	<block key="F_f05_Griffon_0004_name" korean="Грузовые дней Пустоты" />
+	<block key="F_f05_Griffon_0005_name" korean="Рассвет разгрузочных работ," />
+	<block key="F_f05_Griffon_0006_name" korean="Рассвет разгрузочных работ," />
+	<block key="F_f05_Griffon_0007_name" korean="Грифон 3" />
+	<block key="F_f05_Griffon_0008_name" korean="Грифон 3" />
+	<block key="F_f05_Kingbat_0001_name" korean="Великий Bat" />
+	<block key="F_f05_Kingbat_0002_name" korean="Великий Bat" />
+	<block key="F_f07_gorilra_0002_name" korean="Gorilla Forest" />
+	<block key="F_f07_gorilra_0003_name" korean="Gorilla 1" />
+	<block key="F_f07_gorilra_0004_name" korean="Gorilla 1" />
+	<block key="F_f07_gorilra_0005_name" korean="Gorilla 2" />
+	<block key="F_f07_gorilra_0006_name" korean="Gorilla 2" />
+	<block key="F_F05_Scolpi_0001_name" korean="Царь скорпионов Тонг" />
+	<block key="F_F05_Scolpi_0002_name" korean="Царь скорпионов Тонг" />
+	<block key="F_00_Whale_0001_name" korean="Лето Пустота других азиатских" />
+	<block key="F_F04_WhiteOwl_0001_name" korean="Стальные когти локус" />
+	<block key="F_F04_WhiteOwl_0002_name" korean="Стальные когти локус" />
+	<block key="F_F04_DrLight_0001_name" korean="Грубые ветры раб" />
+	<block key="F_F04_DrLight_0002_name" korean="Грубые ветры раб" />
+	<block key="F_d22_Night_0001_name" korean="Призрак М. Бюстгальтер" />
+	<block key="F_d22_Night_0002_name" korean="Призрак М. Бюстгальтер" />
+	<block key="F_d22_Pega_0001_name" korean="Ghost-Mas Сб" />
+	<block key="F_d22_Pega_0002_name" korean="Ghost-Mas Сб" />
+	<block key="F_f04_GLtlDra_0001_name" korean="Золотой Рай Новости" />
+	<block key="F_f04_GLtlDra_0002_name" korean="Золотой Рай Новости" />
+	<block key="F_F04_DrRaba00_0001_name" korean="Слава Бар Блайдж в" />
+	<block key="F_F04_DrRaba00_0002_name" korean="Слава Бар Блайдж в" />
+	<block key="F_F04_DrRaba01_0001_name" korean="Слава Бар Блайдж в" />
+	<block key="F_F04_DrRaba01_0002_name" korean="Слава Бар Блайдж в" />
+	<block key="F_F04_YDra00_0001_name" korean="Зал Джуба на Lenny" />
+	<block key="F_F04_YDra00_0002_name" korean="Зал Джуба на Lenny" />
+	<block key="F_F04_YDra01_0001_name" korean="Зал Джуба на Lenny" />
+	<block key="F_F04_YDra01_0002_name" korean="Зал Джуба на Lenny" />
+	<block key="F_F04_YDra02_0001_name" korean="Зал Джуба на Lenny" />
+	<block key="F_F04_YDra02_0002_name" korean="Зал Джуба на Lenny" />
+	<block key="F_F04_YDra03_0001_name" korean="Зал Джуба на Lenny" />
+	<block key="F_F04_YDra03_0002_name" korean="Зал Джуба на Lenny" />
+	<block key="F_F05_YCasp00_0001_name" korean="Каспер немного благодати" />
+	<block key="F_F05_Ycasp00_0002_name" korean="Каспер немного благодати" />
+	<block key="F_F05_Ycasp01_0001_name" korean="Каспер немного благодати" />
+	<block key="F_F05_Ycasp01_0002_name" korean="Каспер немного благодати" />
+	<block key="F_F05_Ycasp02_0001_name" korean="Каспер немного благодати" />
+	<block key="F_F05_Ycasp02_0002_name" korean="Каспер немного благодати" />
+	<block key="F_f04_Beldon_0001_name" korean="Beldeon Бессмертный" />
+	<block key="F_f04_Beldon_0002_name" korean="Beldeon Бессмертный" />
+	<block key="F_f00_Santin_001_name" korean="Yeti толстой кишки Сантин" />
+	<block key="F_f00_Jeranin_001_name" korean="Вместо того, чтобы безжалостной Зары" />
+	<block key="F_f00_Devy_001_name" korean="Дебби" />
+	<block key="F_f00_Jepeto_001_name" korean="Курсы маги Mister Geppetto" />
+	<block key="F_f00_SklKnight_001_name" korean="Череп Рыцарь-командор" />
+	<block key="F_f00_SHunter_001_name" korean="Yeti Gizzard пьющие" />
+	<block key="F_f00_Midget_001_name" korean="Кобб быть pokpabyeong" />
+	<block key="F_f00_Hatchling_001_name" korean="Для молодой пламени" />
+	<block key="F_04_Tasla_0001_name" korean="Abercrombie \u0026 Fitch Рене" />
+	<block key="F_04_Tasla_0002_name" korean="Abercrombie \u0026 Fitch Рене" />
+	<block key="F_f05_FatOwl_0001_name" korean="Жир ppaemi" />
+	<block key="F_f05_FatOwl_0002_name" korean="Жир ppaemi" />
+	<block key="F_F05_ThdDrag_0001_name" korean="Молния Dragon" />
+	<block key="F_F05_ThdDrag_0002_name" korean="Молния Dragon" />
+	<block key="F_04_IcePega_001_name" korean="Хами приходят из Аиша" />
+	<block key="F_04_IcePega_002_name" korean="Хами приходят из Аиша" />
+	<block key="F_04_FirePega_001_name" korean="Карл ripto из geukyeom" />
+	<block key="F_04_FirePega_002_name" korean="Карл ripto из geukyeom" />
+	<block key="F_04_DarkPega_001_name" korean="Бесплатный бонус Тьмы" />
+	<block key="F_04_DarkPega_002_name" korean="Бесплатный бонус Тьмы" />
+	<block key="F_f00_Ashuram_001_name" korean="Рассвет ahsyuram" />
+	<block key="F_f00_Ashuram_002_name" korean="Ahsyuram Пустоты" />
+	<block key="F_f00_Bismute_001_name" korean="Рассвет висмута" />
+	<block key="F_f00_Bismute_002_name" korean="Би-Пустота" />
+	<block key="F_f00_Skalion_001_name" korean="Рассвет GMS" />
+	<block key="F_f00_Skalion_002_name" korean="GMS Пустота" />
+	<block key="F_f00_Poseina_001_name" korean="Фосс или люди" />
+	<block key="F_f00_Poseina_002_name" korean="Фосс и Пустота" />
+	<block key="F_f05_BatKSnd_001_Name" korean="Шарки золотые слитки" />
+	<block key="F_f05_BatKSnd_002_Name" korean="Шарки золотые слитки" />
+	<block key="F_f05_BatSnd_001_Name" korean="Кива Ренн золото" />
+	<block key="F_f05_BatSnd_002_Name" korean="Кива Ренн золото" />
+	<block key="F_f05_ThdDrag_001_Name" korean="Дулут Высокий Thunder Dragon" />
+	<block key="F_f05_ThdDrag_002_Name" korean="Дулут Высокий Thunder Dragon" />
+	<block key="F_f05_GriffonGr_001_Name" korean="Янус мешок Чатем" />
+	<block key="F_f05_GriffonGr_002_Name" korean="Янус мешок Чатем" />
+	<block key="F_f05_BigScrop_001_Name" korean="Рут Vega яд" />
+	<block key="F_f05_BigScrop_002_Name" korean="Рут Vega яд" />
+	<block key="F_f05_FatOwl00_001_Name" korean="Poyo Славы" />
+	<block key="F_f05_FatOwl00_002_Name" korean="Poyo Славы" />
+	<block key="F_f05_CaspCat_001_Name" korean="Мираж Крайнего Севера" />
+	<block key="F_f05_CaspCat_002_Name" korean="Мираж Крайнего Севера" />
+	<block key="F_f05_LTurt00_001_Name" korean="Видео Мудрости" />
+	<block key="F_f05_LTurt00_002_Name" korean="Видео Мудрости" />
+	<block key="F_f05_Ceras00_001_Name" korean="Пламя Тара Новости" />
+	<block key="F_f05_Ceras00_002_Name" korean="Пламя Тара Новости" />
+	<block key="F_f05_Raptor00_001_Name" korean="Bajyan длинными рогами" />
+	<block key="F_f05_Raptor00_002_Name" korean="Bajyan длинными рогами" />
+	<block key="F_f05_FatOwl01_001_Name" korean="Умный Toro" />
+	<block key="F_f05_FatOwl01_002_Name" korean="Умный Toro" />
+	<block key="F_f05_Hydra00_001_Name" korean="Россия Тиш невероятно" />
+	<block key="F_f05_Hydra00_002_Name" korean="Россия Тиш невероятно" />
+	<block key="F_f05_Hydra01_001_Name" korean="Мощность La Блюдо" />
+	<block key="F_f05_Hydra01_002_Name" korean="Мощность La Блюдо" />
+	<block key="F_f05_Hydra02_001_Name" korean="Прадеш осенью" />
+	<block key="F_f05_Hydra02_002_Name" korean="Прадеш осенью" />
+	<block key="F_f05_BoneCru00_001_Name" korean="Пепел, который нетленно" />
+	<block key="F_f05_BoneCru00_002_Name" korean="Пепел, который нетленно" />
+	<block key="F_f05_GoldHorn_001_Name" korean="Грифон" />
+	<block key="F_f05_GoldHorn_002_Name" korean="Грифон" />
+	<block key="F_f05_SndMatura_001_Name" korean="Мученики села Тюра" />
+	<block key="F_f05_SndMatura_002_Name" korean="Мученики села Тюра" />
+	<block key="F_f05_Ceras01_001_Name" korean="Dos Раку" />
+	<block key="F_f05_Ceras01_002_Name" korean="Dos Раку" />
+	<block key="F_f05_FatOwl02_001_Name" korean="Piyo" />
+	<block key="F_f05_FatOwl02_002_Name" korean="Piyo" />
+	<block key="F_f05_SandSaurs_001_Name" korean="Denba песка" />
+	<block key="F_f05_SandSaurs_002_Name" korean="Denba песка" />
+	<block key="F_f05_DeadBear_001_Name" korean="Проклят де Леон" />
+	<block key="F_f05_DeadBear_002_Name" korean="Проклят де Леон" />
+	<block key="F_f05_DeadBull_001_Name" korean="TRE половина проклятого" />
+	<block key="F_f05_DeadBull_002_Name" korean="TRE половина проклятого" />
+	<block key="F_f05_DeadWolf_001_Name" korean="Проклятый Корбан" />
+	<block key="F_f05_DeadWolf_002_Name" korean="Проклятый Корбан" />
+	<block key="F_f05_SandTurt_001_Name" korean="Пустыня Черепаха" />
+	<block key="F_f05_SandTurt_002_Name" korean="Пустыня Черепаха" />
+	<block key="F_f05_SandCroco_001_Name" korean="Морской крокодил" />
+	<block key="F_f05_SandCroco_002_Name" korean="Морской крокодил" />
+	<block key="F_f05_LTurt01_001_Name" korean="Али-бар" />
+	<block key="F_f05_LTurt01_002_Name" korean="Али-бар" />
+	<block key="F_f05_BoneCru01_001_Name" korean="Крюгер" />
+	<block key="F_f05_BoneCru01_002_Name" korean="Крюгер" />
+	<block key="F_f05_BoneCru02_001_Name" korean="Слэш" />
+	<block key="F_f05_BoneCru02_002_Name" korean="Слэш" />
+	<block key="F_f05_Eagle00_001_Name" korean="Белоголовый орлан" />
+	<block key="F_f05_Eagle00_002_Name" korean="Белоголовый орлан" />
+	<block key="F_f05_SandLeop_001_Name" korean="Пустыня Leopard" />
+	<block key="F_f05_SandLeop_002_Name" korean="Пустыня Leopard" />
+	<block key="F_f05_SandSpid_001_Name" korean="Пустынные пауки" />
+	<block key="F_f05_SandSpid_002_Name" korean="Пустынные пауки" />
+	<block key="F_f05_Scorp00_001_Name" korean="Скорпион Щипцы" />
+	<block key="F_f05_Scorp00_002_Name" korean="Скорпион Щипцы" />
+	<block key="F_f05_Scorp01_001_Name" korean="Скорпион жалит" />
+	<block key="F_f05_Scorp01_002_Name" korean="Скорпион жалит" />
+	<block key="F_f05_Raptor01_001_Name" korean="Бар jyanin" />
+	<block key="F_f05_Raptor01_002_Name" korean="Бар jyanin" />
+	<block key="F_f05_Kangroo00_001_Name" korean="Chimseu" />
+	<block key="F_f05_Kangroo00_002_Name" korean="Chimseu" />
+	<block key="F_f05_Rhino00_001_Name" korean="Раку" />
+	<block key="F_f05_Rhino00_002_Name" korean="Раку" />
+	<block key="F_f05_Chocobo_001_Name" korean="Tea Tree" />
+	<block key="F_f05_Chocobo_002_Name" korean="Tea Tree" />
+	<block key="F_F05_DragRaba_001_Name" korean="Мутации Griffon" />
+	<block key="F_F05_DragRaba_002_Name" korean="Мутации Griffon" />
+	<block key="F_f00_Rondo_001_Name" korean="Рассвет Рондо" />
+	<block key="F_f00_Rondo_002_Name" korean="Рондо Пустоты" />
+	<block key="F_f00_Keron_001_Name" korean="На рассвете Корфу" />
+	<block key="F_f00_Keron_002_Name" korean="Кер-на Пустоты" />
+	<block key="F_f00_Baranak_001_Name" korean="На заре Карнак" />
+	<block key="F_f00_Baranak_002_Name" korean="Пустота в Карнаке" />
+	<block key="F_f00_Rabini_001_Name" korean="Люди в Лос-Анджелесе шапочка" />
+	<block key="F_f00_Rabini_002_Name" korean="Винни D Пустота" />
+	<block key="F_f00_GRondo_001_Name" korean="Рондо ось Рассвет" />
+	<block key="F_f00_GRondo_002_Name" korean="Ось пустой Рондо" />
+	<block key="F_f00_GKeron_001_Name" korean="Ker люди на валу" />
+	<block key="F_f00_GKeron_002_Name" korean="Корфу на оси пустой" />
+	<block key="F_f00_GBaranak_001_Name" korean="Ось Карнаке на рассвете" />
+	<block key="F_f00_GBaranak_002_Name" korean="В Карнаке в осевом пустоту" />
+	<block key="F_f00_GRabini_001_Name" korean="Оси люди La шапочка" />
+	<block key="F_f00_GRabini_002_Name" korean="Пустота называется ось Винни в" />
+	<block key="F_00_WhaleRed_0001_Name" korean="Geurabion Сумерек" />
+	<block key="F_P01_Atan_0001_Name" korean="Ahtan" />
+	<block key="F_P01_Atan_0002_Name" korean="Ahtan" />
+	<block key="F_P01_Berite_0001_Name" korean="Берит" />
+	<block key="F_P01_Berite_0002_Name" korean="Берит" />
+	<block key="F_P01_Karnin_0001_Name" korean="Карбоновые Нин" />
+	<block key="F_P01_Karnin_0002_Name" korean="Карбоновые Нин" />
+	<block key="F_F03_BoarPoch_0001_Name" korean="Лусио волна лезвие зубов" />
+	<block key="F_F03_Shteren_0001_Name" korean="Протуберанцы обувной терранов" />
+	<block key="F_F03_Kteren_0001_Name" korean="Анил в большой Terran" />
+	<block key="F_F03_BoarPoch_0002_Name" korean="Лусио волна лезвие зубов" />
+	<block key="F_F03_Shteren_0002_Name" korean="Протуберанцы обувной терранов" />
+	<block key="F_F03_Kteren_0002_Name" korean="Анил в большой Terran" />
+	<block key="F_06_ESco_0001_Name" korean="Дикие скорпион жалит" />
+	<block key="F_06_ESco_0002_Name" korean="Тонг дикий скорпион" />
+	<block key="F_f05_SandSaurs_003_Name" korean="Violent рекс" />
+	<block key="F_f05_Rhino00_003_Name" korean="Дикие носорог" />
+	<block key="F_f00_Slyth_0001_Name" korean="Таинственный jjaru" />
+	<block key="F_f05_BoneCru03_001_Name" korean="Больше уничтожение Севера" />
+	<block key="F_f05_BoneCru03_002_Name" korean="Больше уничтожение Севера" />
+	<block key="F_f00_Devy0_001_Name" korean="Дебби Рассвет" />
+	<block key="F_f00_Devy0_002_Name" korean="Дебби Пустота" />
+	<block key="F_f00_Carl0_001_Name" korean="Рассвет автомобиля Reang" />
+	<block key="F_f00_Carl0_002_Name" korean="Карл Reang Пустоты" />
+	<block key="F_f00_Jeranin0_001_Name" korean="Рассвет Зары Нин" />
+	<block key="F_f00_Jeranin0_002_Name" korean="Зара непустое" />
+	<block key="F_f00_Santin0_001_Name" korean="Рассвет астаксантин" />
+	<block key="F_f00_Santin0_002_Name" korean="Сантин Пустота" />
+	<block key="F_f00_Devy1_001_Name" korean="Дебби ось Рассвет" />
+	<block key="F_f00_Devy1_002_Name" korean="Ось пустой Дебби" />
+	<block key="F_f00_Carl1_001_Name" korean="Ось рассвет автомобилей Reang" />
+	<block key="F_f00_Carl1_002_Name" korean="Карл Reang ось пустой" />
+	<block key="F_f00_Jeranin1_001_Name" korean="Неаксиальных рассвет Зары" />
+	<block key="F_f00_Jeranin1_002_Name" korean="Зара непустота вала" />
+	<block key="F_f00_Santin1_001_Name" korean="Сантин осевых людей" />
+	<block key="F_f00_Santin1_002_Name" korean="Ось пустой Сантин в" />
+	<block key="F_f05_Rhino02_001_Name" korean="Uno Раку" />
+	<block key="F_f05_Rhino02_002_Name" korean="Uno Раку" />
+	<block key="F_f05_Boar00_001_Name" korean="Desert Warthog" />
+	<block key="F_f05_Boar00_002_Name" korean="Desert Warthog" />
+	<block key="F_f05_Bull00_001_Name" korean="Пустыня Buffalo" />
+	<block key="F_f05_Bull00_002_Name" korean="Пустыня Buffalo" />
+	<block key="F_f05_SandCroc1_001_Name" korean="Oasis крокодил" />
+	<block key="F_f05_SandCroc1_002_Name" korean="Oasis крокодил" />
+	<block key="F_f05_Adelake00_001_Name" korean="Адела размер резни" />
+	<block key="F_f05_Adelake00_002_Name" korean="Адела размер резни" />
+	<block key="F_f05_eatSpid_001_Name" korean="Долина людоедский паук" />
+	<block key="F_f05_eatSpid_002_Name" korean="Долина людоедский паук" />
+	<block key="F_F05_FloatDR_001_Name" korean="Хранитель Вс" />
+	<block key="F_F05_FloatDR_002_Name" korean="Хранитель Вс" />
+	<block key="F_f05_CaspCat01_001_Name" korean="Умный chyeopi" />
+	<block key="F_f05_CaspCat01_002_Name" korean="Умный chyeopi" />
+	<block key="F_f05_EVDevy_001_Name" korean="Дебби леденец" />
+	<block key="F_f05_JapCat01_001_Name" korean="Серый кот" />
+	<block key="F_f05_LTurt02_001_Name" korean="Денни половина" />
+	<block key="F_f05_LTurt02_002_Name" korean="Денни половина" />
+	<block key="F_06_ESco_0003_Name" korean="Одомашненный скорпион битва" />
+	<block key="F_06_ESco_0004_Name" korean="Одомашненный скорпион битва" />
+	<block key="F_P02_Mphonix_001_Name" korean="Шестерни Забвения" />
+	<block key="F_P02_Mphonix_002_Name" korean="Шестерни Забвения" />
+	<block key="F_P02_UGarmu_0001_Name" korean="Magna к хаосу" />
+	<block key="F_P02_UGarmu_0002_Name" korean="Magna к хаосу" />
+	<block key="F_P02_IroHors_0001_Name" korean="Беды Kalrip Сил" />
+	<block key="F_P02_IroHors_0002_Name" korean="Беды Kalrip Сил" />
+	<block key="F_P02_Ceras01_001_Name" korean="Sharaku" />
+	<block key="F_P02_Ceras01_002_Name" korean="Sharaku" />
+	<block key="F_P02_Garesha_001_Name" korean="Страдания Жокей mirot" />
+	<block key="F_P02_Garesha_002_Name" korean="Страдания Жокей mirot" />
+	<block key="F_P02_PoisCroc_001_Name" korean="Poeles" />
+	<block key="F_P02_PoisCroc_002_Name" korean="Poeles" />
+	<block key="F_P02_BigScrop_001_Name" korean="Bemi Гусь" />
+	<block key="F_P02_BigScrop_002_Name" korean="Bemi Гусь" />
+	<block key="F_P02_BatSnd_001_Name" korean="Гиба Сурат" />
+	<block key="F_P02_BatSnd_002_Name" korean="Гиба Сурат" />
+	<block key="F_P02_Eagle00_001_Name" korean="Gyuri На" />
+	<block key="F_P02_Eagle00_002_Name" korean="Gyuri На" />
+	<block key="F_P02_Firebird_001_Name" korean="Новости Северо-" />
+	<block key="F_P02_Firebird_002_Name" korean="Новости Северо-" />
+	<block key="F_P02_DrRaba_001_Name" korean="Blossom дерево" />
+	<block key="F_P02_DrRaba_002_Name" korean="Blossom дерево" />
+	<block key="F_f00_SnowMan0_001_Name" korean="Снеговик людей" />
+	<block key="F_f00_SnowMan0_002_Name" korean="Снеговик Пустота" />
+	<block key="F_f00_Izhora0_001_Name" korean="Рассвет Идзу Гора" />
+	<block key="F_f00_Izhora0_002_Name" korean="Гора рост Пустоты" />
+	<block key="F_f00_lilith0_001_Name" korean="Рассвет Лилит" />
+	<block key="F_f00_lilith0_002_Name" korean="Лилит Пустота" />
+	<block key="F_f00_Kiis0_001_Name" korean="Рассвет ключевой Идзу" />
+	<block key="F_f00_Kiis0_002_Name" korean="Ключ рост Пустоты" />
+	<block key="F_f00_SnowMan1_001_Name" korean="Снеговик в осевых людей" />
+	<block key="F_f00_SnowMan1_002_Name" korean="Снеговик в осевой пустоты" />
+	<block key="F_f00_Izhora1_001_Name" korean="Гора подъем людей оси" />
+	<block key="F_f00_Izhora1_002_Name" korean="Гора подъем вала Пустоты" />
+	<block key="F_f00_lilith1_001_Name" korean="Ось рассвет Лилит" />
+	<block key="F_f00_lilith1_002_Name" korean="Осевой недействительными Лилит" />
+	<block key="F_f00_Kiis1_001_Name" korean="Восстание вала ключевых людей" />
+	<block key="F_f00_Kiis1_002_Name" korean="Основные оси Идзу пуст" />
+	<block key="F_F00_XamsDeer_001_Name" korean="Рудольф" />
+	<block key="F_f00_XSnowMan_001_Name" korean="Мало снеговика" />
+	<block key="F_f00_XSnowMan_002_Name" korean="Снеговик ужасов" />
+	<block key="F_f03_DrFrBoy0_0001_Name" korean="По-Леоне padok" />
+	<block key="F_f03_DrFrBoy0_0002_Name" korean="По-Леоне padok" />
+	<block key="F_f03_DrFrBoy1_0001_Name" korean="Лед и снег Гейла-Леоне" />
+	<block key="F_f03_DrFrBoy1_0002_Name" korean="Лед и снег Гейла-Леоне" />
+	<block key="F_f04_DrFrBoy2_0001_Name" korean="Руна-Леоне SK в" />
+	<block key="F_f04_DrFrBoy2_0002_Name" korean="Руна-Леоне SK в" />
+	<block key="F_d08_BPega_0001_Name" korean="Пробуждение Кошмар" />
+	<block key="F_d08_BPega_0002_Name" korean="Пробуждение Кошмар" />
+	<block key="F_f09_BMegan_0001_Name" korean="Тест осознание Меган" />
+	<block key="F_f09_BMegan_0002_Name" korean="Тест осознание Меган" />
+	<block key="F_00_BBdra_0001_Name" korean="По пробуждения аренды" />
+	<block key="F_00_BBdra_0002_Name" korean="По пробуждения аренды" />
+	<block key="F_P01_Bafo_0001_Name" korean="Пробуждение не отряд" />
+	<block key="F_P01_Bafo_0002_Name" korean="Пробуждение не отряд" />
+	<block key="F_P01_Bliger_0001_Name" korean="Rude Awakening пирог" />
+	<block key="F_P01_Bliger_0002_Name" korean="Rude Awakening пирог" />
+	<block key="F_00_BDragAg_0001_Name" korean="Nas пробуждение Agde" />
+	<block key="F_00_BDragAg_0002_Name" korean="Nas пробуждение Agde" />
+	<block key="F_01_1_BGarmu_0001_Name" korean="Муар научить осведомленности" />
+	<block key="F_01_1_BGarmu_0002_Name" korean="Муар научить осведомленности" />
+	<block key="F_f03_BForst_0001_Name" korean="Роб Кейн пробуждение" />
+	<block key="F_f03_BForst_0002_Name" korean="Роб Кейн пробуждение" />
+	<block key="F_f03_BCasp_0001_Name" korean="Каспер пробуждение дерево" />
+	<block key="F_f03_BCasp_0002_Name" korean="Каспер пробуждение дерево" />
+	<block key="F_d04_Bwolf_0001_Name" korean="Пробуждение Духа" />
+	<block key="F_d04_Bwolf_0002_Name" korean="Пробуждение Духа" />
+	<block key="F_d04_BAfoHors_0002_Name" korean="Пробуждение Апокалипсис" />
+	<block key="F_d04_BAfoHors_0001_Name" korean="Пробуждение Апокалипсис" />
+	<block key="F_F03_Bmegan_0001_Name" korean="Пробуждение Карась" />
+	<block key="F_F03_Bmegan_0002_Name" korean="Пробуждение Карась" />
+	<block key="F_f05_BGriffon_0001_Name" korean="Грузовые дней пробуждения людей" />
+	<block key="F_f05_BGriffon_0002_Name" korean="Грузовые дней пробуждения людей" />
+	<block key="F_f05_BGriffon_0003_Name" korean="Разгрузочных работ пробуждения Пустоту" />
+	<block key="F_f05_BGriffon_0004_Name" korean="Разгрузочных работ пробуждения Пустоту" />
+	<block key="F_F03_BDrawhi_0001_Name" korean="Пробуждение страницы Муто" />
+	<block key="F_F03_BDrawhi_0002_Name" korean="Пробуждение страницы Муто" />
+	<block key="F_f04_BBeldon_0001_Name" korean="Пробуждение beldeon" />
+	<block key="F_f04_BBeldon_0002_Name" korean="Пробуждение beldeon" />
+	<block key="F_03_0_B1715_0001_Name" korean="Кара пробудить Шах" />
+	<block key="F_03_0_B1715_0002_Name" korean="Кара пробудить Шах" />
+	<block key="F_00_BWhale_0001_Name" korean="Осознание Лето других азиатских" />
+	<block key="F_F04_BMatura_0001_Name" korean="Люцифер пробуждение дерево" />
+	<block key="F_F04_BMatura_0002_Name" korean="Люцифер пробуждение дерево" />
+	<block key="F_F03_BDAgnas_0001_Name" korean="Пробуждение Para газа" />
+	<block key="F_F03_BDAgnas_0002_Name" korean="Пробуждение Para газа" />
+</blocks>

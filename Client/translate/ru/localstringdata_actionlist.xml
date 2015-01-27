@@ -1,0 +1,55 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="actionlist_normal_Attack_title" korean="Общее наступление" />
+	<block key="actionlist_normal_Attack_desc" korean="Нападение на указанное место." />
+	<block key="actionlist_normal_Looting_title" korean="Выбор предметы" />
+	<block key="actionlist_normal_Looting_desc" korean="Целевая является, чтобы забрать дроп." />
+	<block key="actionlist_normal_BattleOrNoBattle_title" korean="Боевой / Общие преобразования" />
+	<block key="actionlist_normal_BattleOrNoBattle_desc" korean="Trigger боевой характер / приводит к высвобождению." />
+	<block key="actionlist_normal_WalkOrRun_title" korean="Прогулка тумблер включения / выключения" />
+	<block key="actionlist_normal_WalkOrRun_desc" korean="Прогулки характер /, чтобы переключиться в состояние работы." />
+	<block key="actionlist_community_InviteToParty_title" korean="Приглашение на вечеринку / Участие" />
+	<block key="actionlist_community_InviteToParty_desc" korean="Пригласить другую сторону, или подать заявку на участие в партии соперника." />
+	<block key="actionlist_community_RequestBattle_title" korean="Дуэль с нами" />
+	<block key="actionlist_community_RequestBattle_desc" korean="Подать заявку на поединок в другую сторону." />
+	<block key="actionlist_community_RequestTrade_title" korean="1:01 отношениях с нами" />
+	<block key="actionlist_community_RequestTrade_desc" korean="Другая сторона 1: 1, чтобы применить к сделке." />
+	<block key="actionlist_skill_Taming_title" korean="Укрощение" />
+	<block key="actionlist_skill_Taming_desc" korean="Укрощение условий, которые могут укротить выбранное место назначения. Если вы идете в подполье в задней части ручного государству более на определенном расстоянии от выбранного целевого подхода начинается приручить. Попасть на цели, или, если вы отмените Выбор цели является ручным состояние освобождается." />
+	<block key="actionlist_skill_Absorption_title" korean="Drain Soul" />
+	<block key="actionlist_skill_Absorption_desc" korean="Для поглощения души выбранной цели. Или узнать специализированный характер души впитал в себя душу, душа может быть сделано путем изменения younghonseok." />
+	<block key="actionlist_emotion_0_title" korean="Победа" />
+	<block key="actionlist_emotion_0_desc" korean="Работа в восторге, чтобы выиграть бой. / Win" />
+	<block key="actionlist_emotion_1_title" korean="Поражение" />
+	<block key="actionlist_emotion_1_desc" korean="Работа траура поражение в бою. / Убыток" />
+	<block key="actionlist_emotion_2_title" korean="Признание" />
+	<block key="actionlist_emotion_2_desc" korean="Операция признаться в своей любви к другой. / Исповедь" />
+	<block key="actionlist_emotion_3_title" korean="Сюрприз" />
+	<block key="actionlist_emotion_3_desc" korean="Потрясение поведение. / Сюрприз" />
+	<block key="actionlist_emotion_4_title" korean="Заряжать" />
+	<block key="actionlist_emotion_4_desc" korean="Принятию мер энергично содействуя вперед. / Нападение" />
+	<block key="actionlist_emotion_5_title" korean="Смех" />
+	<block key="actionlist_emotion_5_desc" korean="Припев улыбаясь поведение. / Смешные" />
+	<block key="actionlist_emotion_6_title" korean="Ура" />
+	<block key="actionlist_emotion_6_desc" korean="Перемещение большого движения тела, чтобы поддержать друга. / Поддержка" />
+	<block key="actionlist_emotion_7_title" korean="Отказ" />
+	<block key="actionlist_emotion_7_desc" korean="Действие отказаться слова друга. / Отказ" />
+	<block key="actionlist_emotion_8_title" korean="Аплодисменты" />
+	<block key="actionlist_emotion_8_desc" korean="Избиение операцию аплодисменты, чтобы хвалить друга. / Аплодисменты" />
+	<block key="actionlist_emotion_9_title" korean="Утверждение" />
+	<block key="actionlist_emotion_9_desc" korean="Кивая движение договориться о другой стороне лошади. / Позитивный" />
+	<block key="actionlist_normal_Change2Magicstone_title" korean="Преобразование Younghonseok" />
+	<block key="actionlist_normal_Change2Magicstone_desc" korean="Преобразование душу парня с younghonseok. После younghonseok конвертировать сотрудник исчезнет." />
+	<block key="actionlist_normal_CreatureRide_title" korean="Сотрудник доска (U)" />
+	<block key="actionlist_normal_CreatureRide_desc" korean="Стипендиаты, которые вызваны на борту. \u003cbr\u003e (F) ключ может открыть Попутчики панели. Нажатие \u003cbr\u003e Fellow лицо может быть вызван / вызов выпуск" />
+	<block key="actionlist_normal_swapweapon_title" korean="Оружие Замена" />
+	<block key="actionlist_normal_swapweapon_desc" korean="Замените изношенные это оружие." />
+	<block key="actionlist_normal_SitOrStand_title" korean="Сядьте / встаньте" />
+	<block key="actionlist_normal_SitOrStand_desc" korean="Сидя знак / японское государство, чтобы перейти к кассиру. \u003cbr\u003e Сидя государства, в больше, чем обычно HP / восстановление MP быстрее." />
+</blocks>

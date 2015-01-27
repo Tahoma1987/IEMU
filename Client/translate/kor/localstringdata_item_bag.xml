@@ -1,0 +1,31 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="BG0_001_0_0000_Name" korean="10칸 가방" />
+	<block key="BG0_001_0_0000_description" korean="10칸의 보관 슬롯을 가진 가방" />
+	<block key="BG0_001_0_0001_Name" korean="16칸 기본 가방" />
+	<block key="BG0_001_0_0001_description" korean="16칸의 보관 슬롯을 가진 가방" />
+	<block key="BG0_001_0_0002_Name" korean="12칸 가방" />
+	<block key="BG0_001_0_0002_description" korean="12칸의 보관 슬롯을 가진 가방" />
+	<block key="BG0_001_0_0003_Name" korean="8칸 가방" />
+	<block key="BG0_001_0_0003_description" korean="8칸의 보관 슬롯을 가진 가방" />
+	<block key="BG0_001_0_0004_Name" korean="6칸 가방" />
+	<block key="BG0_001_0_0004_Description" korean="6칸의 보관 슬롯을 가진 가방" />
+	<block key="BG0_001_0_0005_Name" korean="4칸 가방" />
+	<block key="BG0_001_0_0005_Description" korean="4칸의 보관 슬롯을 가진 가방" />
+	<block key="BG0_001_0_0006_Name" korean="14칸 가방" />
+	<block key="BG0_001_0_0006_Description" korean="14칸의 보관 슬롯을 가진 가방" />
+	<block key="BG0_001_0_0007_Name" korean="18칸 가방" />
+	<block key="BG0_001_0_0007_Description" korean="18칸의 보관 슬롯을 가진 가방" />
+	<block key="CA_IT_BA_0000_Name" korean="일반 가방" />
+	<block key="CA_IT_BA_0000_description" korean="8칸의 보관 슬롯을 가진 가방" />
+	<block key="CA_IT_BA_0001_Name" korean="고급 가방" />
+	<block key="CA_IT_BA_0001_Description" korean="24칸의 보관 슬롯을 가진 가방" />
+	<block key="EV_IT_BA_0000_Name" korean="16칸 가방" />
+	<block key="EV_IT_BA_0000_Description" korean="16칸의 보관 슬롯을 가진 가방" />
+</blocks>

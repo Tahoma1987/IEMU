@@ -1,0 +1,413 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="region_f00_001_name" korean="사란트의 감옥" />
+	<block key="region_f00_002_name" korean="고통의 뇌옥" />
+	<block key="region_f00_003_name" korean="고문실" />
+	<block key="region_f00_004_name" korean="간수장의 심문장" />
+	<block key="region_f00_005_name" korean="고통의 뇌옥 2지구" />
+	<block key="region_f00_006_name" korean="공중 승강장" />
+	<block key="region_f01_001_name" korean="추락한 비행선 내부" />
+	<block key="region_f01_002_name" korean="팀버레이크 벌목지" />
+	<block key="region_f01_005_name" korean="신룡기사단 주둔지" />
+	<block key="region_f01_006_name" korean="브라기 전초기지" />
+	<block key="region_f01_007_name" korean="숨겨진 비밀 유적" />
+	<block key="region_f01_008_name" korean="고요한 숲 길" />
+	<block key="region_f01_009_name" korean="남부 유적지 폐허" />
+	<block key="region_f01_010_name" korean="고요한 숲 길" />
+	<block key="region_f01_011_name" korean="광채나무 숲" />
+	<block key="region_f01_012_name" korean="브라기 본거지" />
+	<block key="region_f01_013_name" korean="북부 유적지 폐허" />
+	<block key="region_f01_014_name" korean="허물어진 유적 입구" />
+	<block key="region_f01_015_name" korean="하카나스 통로" />
+	<block key="region_f01_020_name" korean="망령의 제단" />
+	<block key="region_d00_001_name" korean="유적 입구" />
+	<block key="region_d00_002_name" korean="불이 삼킨 유적" />
+	<block key="region_d00_003_name" korean="성난 불길의 강" />
+	<block key="region_d00_004_name" korean="고대 골렘의 소굴" />
+	<block key="region_d01_001_name" korean="대저택 입구" />
+	<block key="region_d01_002_name" korean="대저택 전정" />
+	<block key="region_d01_003_name" korean="음산한 마구간" />
+	<block key="region_d01_004_name" korean="대저택 연회장" />
+	<block key="region_d01_005_name" korean="백작의 사저" />
+	<block key="region_d01_006_name" korean="백작의 공관" />
+	<block key="region_d02_001_name" korean="폐허 입구" />
+	<block key="region_d02_002_name" korean="얼어붙은 마트렌 폐허" />
+	<block key="region_d02_003_name" korean="부서진 종탑 광장" />
+	<block key="region_d02_004_name" korean="눈보라치는 광산 길" />
+	<block key="region_d02_005_name" korean="은광석 창고" />
+	<block key="region_d02_006_name" korean="버려진 폐광" />
+	<block key="region_d02_007_name" korean="광산 마을 폐허" />
+	<block key="region_d02_008_name" korean="은광석 계곡" />
+	<block key="region_d02_009_name" korean="사란트의 생가" />
+	<block key="region_d02_010_name" korean="은광석 제련소" />
+	<block key="region_f02_001_Name" korean="하카나스 통로" />
+	<block key="region_f02_002_Name" korean="버려진 유적지" />
+	<block key="region_f02_003_Name" korean="산서프스 목장" />
+	<block key="region_f02_004_Name" korean="풍요의 숲" />
+	<block key="region_f02_005_Name" korean="포효의 숲" />
+	<block key="region_f02_006_Name" korean="사냥꾼 잭의 동굴" />
+	<block key="region_f02_007_Name" korean="자다란 마을" />
+	<block key="region_f02_008_Name" korean="엑자란 폐허" />
+	<block key="region_f02_009_Name" korean="수도성 남부 관문" />
+	<block key="region_f02_010_Name" korean="수도성 동부 관문" />
+	<block key="region_f02_011_Name" korean="모리네 호수" />
+	<block key="region_f02_012_Name" korean="미명의 숲" />
+	<block key="region_f02_013_Name" korean="켈우즈 마을" />
+	<block key="region_f02_014_Name" korean="카를레앙 정원" />
+	<block key="region_f02_015_Name" korean="켈우즈 농장" />
+	<block key="region_f02_016_Name" korean="북부 경비탑" />
+	<block key="region_f02_017_Name" korean="돌개바람 언덕" />
+	<block key="region_f02_018_Name" korean="공동 묘지" />
+	<block key="region_f02_019_Name" korean="얼어붙은 마트렌 폐허" />
+	<block key="region_f02_020_Name" korean="포효의 숲 주둔지" />
+	<block key="region_f02_021_Name" korean="포효의 숲(남부)" />
+	<block key="region_f02_022_Name" korean="신룡의 해안가" />
+	<block key="region_f02_023_Name" korean="무두장이 마을" />
+	<block key="region_f02_024_Name" korean="미명의 숲(북부)" />
+	<block key="region_f02_025_Name" korean="새끼 불새의 둥지" />
+	<block key="region_f02_026_Name" korean="격동의 대지" />
+	<block key="region_f02_027_Name" korean="수호신룡의 관문" />
+	<block key="region_f02_028_Name" korean="산서프스 피난 캠프" />
+	<block key="region_f02_029_Name" korean="불이 삼킨 유적 입구" />
+	<block key="region_c01_001_Name" korean="남부 가도" />
+	<block key="region_c01_002_Name" korean="엘그레인 농장지대" />
+	<block key="region_c01_003_Name" korean="거친 모험가 항구" />
+	<block key="region_c01_004_Name" korean="동부 가도" />
+	<block key="region_c01_005_Name" korean="고요의 평원(남부)" />
+	<block key="region_c01_006_Name" korean="왕국 수림지" />
+	<block key="region_c01_007_Name" korean="하카나스 성 정문" />
+	<block key="region_c01_008_Name" korean="광장 가도" />
+	<block key="region_c01_009_Name" korean="상업지구" />
+	<block key="region_c01_010_Name" korean="공업지구" />
+	<block key="region_c01_011_Name" korean="펠로우 연구소" />
+	<block key="region_c01_012_Name" korean="남부 시가지" />
+	<block key="region_c01_013_Name" korean="동부 시가지" />
+	<block key="region_c01_014_Name" korean="경비대 수련장" />
+	<block key="region_c01_015_Name" korean="수도성 경비대" />
+	<block key="region_c01_016_Name" korean="하카나스 동문" />
+	<block key="region_c01_017_Name" korean="서부 시가지" />
+	<block key="region_c01_018_Name" korean="승리의 대광장" />
+	<block key="region_c01_019_Name" korean="영광의 길" />
+	<block key="region_c01_020_Name" korean="바엘라스 기념 도서관" />
+	<block key="region_c01_021_Name" korean="영광의 전장" />
+	<block key="region_c01_022_Name" korean="왕국 의회" />
+	<block key="region_c01_023_Name" korean="하카나스 왕성" />
+	<block key="region_c01_024_Name" korean="축복의 길" />
+	<block key="region_c01_025_Name" korean="엘로라 성소" />
+	<block key="region_c01_026_Name" korean="여신의 전당" />
+	<block key="region_c01_027_Name" korean="수호신룡 알현장" />
+	<block key="region_c01_028_Name" korean="신탁의 제단" />
+	<block key="region_c01_029_Name" korean="수도성 남부 관문" />
+	<block key="region_c01_030_Name" korean="수도성 동부 관문" />
+	<block key="region_c01_031_Name" korean="국왕 알현실" />
+	<block key="region_c01_032_Name" korean="성스러운 빛의 다리" />
+	<block key="region_c01_033_Name" korean="하카나스 공중 선착장" />
+	<block key="region_c01_034_Name" korean="길드 관리소" />
+	<block key="region_c01_035_Name" korean="길드 농장" />
+	<block key="region_c01_036_Name" korean="잊혀진 폐허의 계곡" />
+	<block key="region_c01_037_Name" korean="고요의 평원(동부)" />
+	<block key="region_c01_038_Name" korean="서부 가도" />
+	<block key="region_c01_039_Name" korean="고요의 평원(서부)" />
+	<block key="region_c01_040_Name" korean="고요의 평원(북부)" />
+	<block key="region_c01_041_Name" korean="하카나스 수도성" />
+	<block key="Region_ST_001_Name" korean="갈대바람 마을" />
+	<block key="Region_ST_002_Name" korean="푸른늑대 언덕" />
+	<block key="Region_ST_003_Name" korean="수비대 진지" />
+	<block key="Region_ST_004_Name" korean="해적단 선착장" />
+	<block key="Region_ST_005_Name" korean="해적단 감시망루" />
+	<block key="Region_ST_006_Name" korean="해적단 요새" />
+	<block key="Region_ST_007_Name" korean="해적단 항구" />
+	<block key="Region_ST_008_Name" korean="변절자의 늪지" />
+	<block key="Region_ST_009_Name" korean="설원 정찰캠프" />
+	<block key="Region_ST_010_Name" korean="통곡절벽 마을" />
+	<block key="Region_ST_011_Name" korean="루오탄 채석장" />
+	<block key="Region_ST_012_Name" korean="폭포마을 폐허" />
+	<block key="Region_ST_013_Name" korean="푸른달빛 마을" />
+	<block key="Region_ST_014_Name" korean="론도의 얼음성 입구" />
+	<block key="Region_ST_021_Name" korean="갈대바람 해안" />
+	<block key="Region_ST_022_Name" korean="비명소리 해안" />
+	<block key="Region_ST_023_Name" korean="자작나무 언덕길" />
+	<block key="Region_ST_024_Name" korean="은빛물결 호수" />
+	<block key="Region_ST_025_Name" korean="생명의 호수" />
+	<block key="Region_ST_026_Name" korean="야수울음 벌판" />
+	<block key="Region_ST_027_Name" korean="통곡의 절벽" />
+	<block key="Region_ST_028_Name" korean="얼음폭풍 지대" />
+	<block key="Region_ST_029_Name" korean="해적단 소굴" />
+	<block key="Region_ST_031_Name" korean="알수없는 땅" />
+	<block key="Region_ST_032_Name" korean="소르마 해안" />
+	<block key="region_vlc_001_Name" korean="베일에 싸인 동굴" />
+	<block key="region_vlc_002_Name" korean="지하 대공동" />
+	<block key="region_vlc_003_Name" korean="해저 터널" />
+	<block key="region_vlc_004_Name" korean="해저 대공동" />
+	<block key="region_vlc_005_Name" korean="라단의 해저 신전" />
+	<block key="region_vlc_006_Name" korean="동굴 출구" />
+	<block key="region_vlc_007_Name" korean="동굴 입구" />
+	<block key="region_rdcb_001_Name" korean="얼음성 양병지구" />
+	<block key="region_rdcb_002_Name" korean="얼음성 본당" />
+	<block key="region_rdcb_003_Name" korean="얼음성 입구" />
+	<block key="region_rdc_001_Name" korean="얼음성 양병지구" />
+	<block key="region_rdc_002_Name" korean="얼음성 본당" />
+	<block key="region_rdc_003_Name" korean="얼음성 감옥탑" />
+	<block key="region_rdc_004_Name" korean="얼음성 감옥탑 2층" />
+	<block key="region_rdc_005_Name" korean="얼음성 감옥탑 3층" />
+	<block key="region_rdc_006_Name" korean="얼음성 감옥탑 4층" />
+	<block key="region_rdc_007_Name" korean="얼음성 감옥탑 5층" />
+	<block key="region_rdc_008_Name" korean="얼음성 입구" />
+	<block key="region_rdc_009_Name" korean="얼음성 감옥탑 입구" />
+	<block key="region_f01_e01_Name" korean="남부 유적지 폐허" />
+	<block key="region_f01_e02_Name" korean="북부 유적지 폐허" />
+	<block key="region_f04_001_Name" korean="멸망의 공역(북)" />
+	<block key="region_f04_002_Name" korean="멸망의 공역(서)" />
+	<block key="region_f04_003_Name" korean="멸망의 공역(남)" />
+	<block key="region_f04_004_Name" korean="멸망의 공역(동)" />
+	<block key="region_f04_005_Name" korean="휘몰아치는 바다" />
+	<block key="region_f04_006_Name" korean="조각난 지대" />
+	<block key="region_f04_007_Name" korean="잊혀진 드래곤 대지" />
+	<block key="region_f04_008_Name" korean="고공 정찰캠프" />
+	<block key="region_f04_009_Name" korean="마력의 공명" />
+	<block key="region_f04_010_Name" korean="빛을 잃은 신전" />
+	<block key="region_f04_011_Name" korean="거대 엘로라 석상" />
+	<block key="region_f04_012_Name" korean="탐욕의 바다" />
+	<block key="region_f04_013_Name" korean="파괴된 해안" />
+	<block key="region_f01_e01_001_name" korean="망령의 제단" />
+	<block key="region_f03_001_name" korean="갈대 바람 마을" />
+	<block key="region_f03_002_name" korean="생명의 호수" />
+	<block key="region_f03_003_name" korean="해적단 본거지" />
+	<block key="region_f03_004_name" korean="수비대 주둔지" />
+	<block key="region_f03_005_name" korean="백은의 계곡" />
+	<block key="region_f03_006_name" korean="변절자의 늪지" />
+	<block key="region_f03_007_name" korean="파를라크 영지" />
+	<block key="region_f03_008_name" korean="파를라크 얼음 성채" />
+	<block key="region_f03_009_name" korean="폭포 마을 폐허" />
+	<block key="region_f03_010_name" korean="통곡 절벽 마을" />
+	<block key="region_f03_011_name" korean="파르나 부유 섬" />
+	<block key="region_f03_012_name" korean="얼어붙은 벌판" />
+	<block key="region_f03_013_name" korean="소르마 평원" />
+	<block key="region_d04_001_name" korean="얼음성 본당" />
+	<block key="region_d04_002_name" korean="서리 군단장 알현실" />
+	<block key="region_d04_003_name" korean="1층 감옥실" />
+	<block key="region_d04_004_name" korean="2층 감옥실" />
+	<block key="region_d04_005_name" korean="3층 감옥실" />
+	<block key="region_d04_006_name" korean="4층 감옥실" />
+	<block key="region_d04_007_name" korean="5층 감옥실" />
+	<block key="region_d04_008_name" korean="론도의 방" />
+	<block key="region_d04_009_name" korean="아이샤의 방" />
+	<block key="region_d11_001_name" korean="붉은혁명단 기지" />
+	<block key="region_d11_002_name" korean="갈림길" />
+	<block key="region_d11_003_name" korean="용병단 캠프" />
+	<block key="region_d11_004_name" korean="해적단 캠프" />
+	<block key="region_d11_005_name" korean="용병의 보급기지" />
+	<block key="region_d11_006_name" korean="해적의 선착장" />
+	<block key="region_d11_007_name" korean="황소의 용광로" />
+	<block key="region_d11_008_name" korean="해적선" />
+	<block key="region_d11_009_name" korean="마물이 갇힌 동굴" />
+	<block key="region_d11_010_name" korean="도적의 망루" />
+	<block key="region_d11_011_name" korean="대도적의 은신처" />
+	<block key="region_d11_012_name" korean="혁명단 본부" />
+	<block key="region_d11_013_name" korean="크락투스의 최후" />
+	<block key="region_f03_014_name" korean="인어의 섬" />
+	<block key="region_f03_015_name" korean="찬바람 해안길" />
+	<block key="region_f03_016_name" korean="갈대 바람 숲" />
+	<block key="region_f03_017_name" korean="얼어붙은 벌판" />
+	<block key="region_vlc_008_Name" korean="중앙 수로 제어실" />
+	<block key="region_vlc_009_Name" korean="북쪽 수로 제어실" />
+	<block key="region_vlc_010_Name" korean="남쪽 수로 제어실" />
+	<block key="region_vlc_011_Name" korean="동쪽 수로 제어실" />
+	<block key="region_vlc_012_Name" korean="해저 대공동" />
+	<block key="region_vlc_013_Name" korean="해저 대공동" />
+	<block key="region_f03_019_name" korean="갈대 바람 해안" />
+	<block key="region_f03_018_name" korean="베일에 싸인 동굴" />
+	<block key="region_c01_e01_name" korean="국왕 알현실" />
+	<block key="region_f03_020_name" korean="서리 나무 계곡" />
+	<block key="region_f03_021_name" korean="은빛 물결 호수" />
+	<block key="region_f01_e03_001_name" korean="숨겨진 비밀 유적" />
+	<block key="region_c01_e03_name" korean="동부 시가지" />
+	<block key="region_f02_e01_name" korean="사냥꾼 잭의 동굴" />
+	<block key="region_f02_e02_name" korean="돌개바람 언덕" />
+	<block key="region_f03_e01_name" korean="해적단 본거지" />
+	<block key="region_f03_e02_name" korean="해적단 본거지" />
+	<block key="region_f03_e03_name" korean="파를라크 영지" />
+	<block key="region_f09_001_name" korean="수비대 주둔지" />
+	<block key="region_f09_002_name" korean="대해 통로" />
+	<block key="region_f09_003_name" korean="공중 농장" />
+	<block key="region_f09_004_name" korean="바엘리스 요새" />
+	<block key="region_f09_005_name" korean="우트란 부유섬" />
+	<block key="region_f09_006_name" korean="푸른 군도" />
+	<block key="region_f09_007_name" korean="추락한 요새 제넨" />
+	<block key="region_f09_008_name" korean="무지개 산호초" />
+	<block key="region_f09_009_name" korean="건설 현장" />
+	<block key="region_f09_010_name" korean="하카나스 대해" />
+	<block key="region_f09_011_name" korean="신의 장벽" />
+	<block key="region_f09_012_name" korean="하카나스 대해 남부" />
+	<block key="region_f09_013_name" korean="하카나스 대해 북부" />
+	<block key="region_p01_01_name" korean="진리의 관문" />
+	<block key="region_p01_02_name" korean="망향의 숲" />
+	<block key="region_p01_03_name" korean="침묵의 통로" />
+	<block key="region_p01_04_name" korean="달 그림자 협곡" />
+	<block key="region_p01_05_name" korean="침묵의 폐허 남부" />
+	<block key="region_p01_06_name" korean="침묵의 폐허 북부" />
+	<block key="region_p01_07_name" korean="늑대 왕의 은신처" />
+	<block key="region_p01_08_name" korean="달무리 호수" />
+	<block key="region_p01_09_name" korean="카브임 교단 본부" />
+	<block key="region_p01_10_name" korean="진리의 관문 북부" />
+	<block key="region_p01_11_name" korean="달무리 야영지" />
+	<block key="region_p01_12_name" korean="붉은 그림자 숲 남부" />
+	<block key="region_p01_13_name" korean="엑자란 공관" />
+	<block key="region_p01_14_name" korean="저주술사의 은신처" />
+	<block key="region_p01_15_name" korean="붉은 그림자 숲 서부" />
+	<block key="region_p01_16_name" korean="붉은 그림자 숲 북부" />
+	<block key="region_p01_17_name" korean="샛바람 언덕" />
+	<block key="region_p01_18_name" korean="잠들지 않는 해안가" />
+	<block key="region_p01_19_name" korean="붉은 그림자 주둔지" />
+	<block key="region_p01_20_name" korean="격동의 대지" />
+	<block key="region_p01_21_name" korean="공동 묘지" />
+	<block key="region_p01_22_name" korean="마트렌 산" />
+	<block key="region_p01_23_name" korean="붉은 그림자 전쟁터" />
+	<block key="region_f15_001_name" korean="큰바람섬" />
+	<block key="region_f15_002_name" korean="트라누아의 봉인" />
+	<block key="region_f16_001_name" korean="야타이만의 결계" />
+	<block key="region_f15_e01_001_name" korean="큰바람섬" />
+	<block key="region_f16_01_name" korean="대해결계 내부" />
+	<block key="region_f03_022_name" korean="비스무트 해적단 기지" />
+	<block key="region_f03_023_name" korean="얼어붙은 정령의 숲" />
+	<block key="region_map_f01_01_name" korean="유적지 폐허 캠프" />
+	<block key="region_map_f01_02_name" korean="광채나무 캠프" />
+	<block key="region_map_c01_01_name" korean="고요의 평원" />
+	<block key="region_map_c01_02_name" korean="하카나스 북문" />
+	<block key="region_map_f02_01_name" korean="자다란 피난 캠프" />
+	<block key="region_map_f02_02_name" korean="풍요의 숲 야영지" />
+	<block key="region_map_f02_03_name" korean="포효의 숲" />
+	<block key="region_map_f02_04_name" korean="하카나스 수도성" />
+	<block key="region_map_f09_01_name" korean="공중 농장 캠프" />
+	<block key="region_map_f09_02_name" korean="야타이만의 결계" />
+	<block key="region_map_f09_03_name" korean="큰바람섬" />
+	<block key="region_map_f03_01_name" korean="살얼음 야영지" />
+	<block key="region_map_f03_02_name" korean="함박눈 야영지" />
+	<block key="region_map_f03_03_name" korean="파를라크 전초기지" />
+	<block key="region_map_f04_01_name" korean="공역의 틈새" />
+	<block key="region_map_p01_01_name" korean="붉은 그림자 숲" />
+	<block key="region_f04_014_name" korean="암흑룡의 안식처" />
+	<block key="region_f02_030_Name" korean="자다란 피난 캠프" />
+	<block key="region_map_c01_03_name" korean="엑자란 무법지대 입구" />
+	<block key="region_f03_024_name" korean="장비 상점" />
+	<block key="region_f03_025_name" korean="제작소" />
+	<block key="region_p01_24_name" korean="격동의 야영지" />
+	<block key="region_c01_e02_name" korean="왕국 수림지" />
+	<block key="region_c01_e04_name" korean="경비대 수련장" />
+	<block key="region_f02_e03_name" korean="시녀들의 집" />
+	<block key="region_map_f03_04_name" korean="나타샤 공예점" />
+	<block key="region_map_f03_05_name" korean="연금술 연구실" />
+	<block key="region_map_f03_06_name" korean="펠로우 공방" />
+	<block key="region_map_f03_07_name" korean="물약 상점" />
+	<block key="region_f05_001_name" korean="알세크 마을" />
+	<block key="region_f05_002_name" korean="먼지바람 들판" />
+	<block key="region_f05_003_name" korean="악몽의 요람" />
+	<block key="region_f05_004_name" korean="사색의 해안가" />
+	<block key="region_f05_005_name" korean="은둔자의 마을" />
+	<block key="region_f05_006_name" korean="도전자의 비행로" />
+	<block key="region_f05_007_name" korean="크로쿤의 병영지구" />
+	<block key="region_f05_008_name" korean="불사군단 요새" />
+	<block key="region_f05_009_name" korean="하라크로 신전" />
+	<block key="region_f05_010_name" korean="잊혀진 골짜기" />
+	<block key="region_f05_011_name" korean="폐허가 된 신전" />
+	<block key="region_f05_012_name" korean="브라기 광산" />
+	<block key="region_f05_013_name" korean="황금 봉우리" />
+	<block key="region_f05_014_name" korean="망각의 모래사장" />
+	<block key="region_f05_015_name" korean="샤키바의 둥지" />
+	<block key="region_f05_016_name" korean="금광 수송로" />
+	<block key="region_f05_017_name" korean="용병단 주둔지" />
+	<block key="region_f05_018_name" korean="불의 제단" />
+	<block key="region_f05_019_name" korean="죽음의 그늘" />
+	<block key="region_f05_020_name" korean="불모의 갈래길" />
+	<block key="region_f99_001_name" korean="무인도" />
+	<block key="region_f99_002_name" korean="하카나스 비밀 수용소" />
+	<block key="region_AsC_001_Name" korean="틈새의 입구" />
+	<block key="region_AsC_002_Name" korean="크리처 폭포" />
+	<block key="region_AsC_003_Name" korean="미로 입구" />
+	<block key="region_AsC_004_Name" korean="남부 미로" />
+	<block key="region_AsC_005_Name" korean="참모의 안식처" />
+	<block key="region_AsC_006_Name" korean="중부 미로" />
+	<block key="region_AsC_007_Name" korean="상부 미로" />
+	<block key="region_AsC_008_Name" korean="일그러진 공간" />
+	<block key="region_AsC_009_Name" korean="메데우의 둥지" />
+	<block key="region_AsC_010_Name" korean="심층부 미로" />
+	<block key="region_AsC_011_Name" korean="이즈호라의 공간" />
+	<block key="region_f98_001_Name" korean="결투장 동편" />
+	<block key="region_d13_001_Name" korean="고대의 사원 입구" />
+	<block key="region_d13_002_Name" korean="무너진 주랑광장" />
+	<block key="region_d13_003_Name" korean="어두운 신전복도" />
+	<block key="region_d13_004_Name" korean="대제사장의 알현실" />
+	<block key="region_d13_005_Name" korean="순례자의 사원" />
+	<block key="region_d13_006_Name" korean="순례자의 제단" />
+	<block key="region_d13_007_Name" korean="제물 보관실" />
+	<block key="region_d13_008_Name" korean="의식 준비실" />
+	<block key="region_d13_009_Name" korean="수행자의 사원" />
+	<block key="region_d13_010_Name" korean="스캇라샤의 의지" />
+	<block key="region_d13_011_Name" korean="유물 보관실" />
+	<block key="region_d13_012_Name" korean="의식 준비실" />
+	<block key="region_d13_013_Name" korean="스캇라샤의 봉인" />
+	<block key="region_f98_002_Name" korean="결투장 서편" />
+	<block key="region_f05_021_name" korean="눈물의 오아시스" />
+	<block key="region_d06_001_name" korean="소환실" />
+	<block key="region_d06_002_name" korean="동력실" />
+	<block key="region_d06_003_name" korean="제어실" />
+	<block key="region_d06_004_name" korean="불사군단 요새 하층" />
+	<block key="region_d06_005_name" korean="하층 통로" />
+	<block key="region_d06_006_name" korean="중앙광장" />
+	<block key="region_d06_007_name" korean="불사군단 요새" />
+	<block key="region_d06_008_name" korean="요새 입구" />
+	<block key="region_f06_00_name" korean="펙투라 신전 입구" />
+	<block key="region_f06_01_name" korean="강철 방어의 회랑" />
+	<block key="region_f06_02_name" korean="원소 저항의 회랑" />
+	<block key="region_f06_03_name" korean="펙투라 하층" />
+	<block key="region_f06_04_name" korean="제 2 주둔지" />
+	<block key="region_f06_05_name" korean="제 1 주둔지" />
+	<block key="region_f06_06_name" korean="펙투라 상층" />
+	<block key="region_f06_07_name" korean="펙투라 외 다리" />
+	<block key="region_f06_08_name" korean="빌마의 설계실" />
+	<block key="region_f06_09_name" korean="펙투라 정상" />
+	<block key="region_f06_10_name" korean="암살대 훈련실" />
+	<block key="region_f05_e01_name" korean="폐허가 된 신전" />
+	<block key="region_f05_e02_name" korean="부화장" />
+	<block key="region_map_f05_01_name" korean="알세크 마을" />
+	<block key="region_map_f05_02_name" korean="북문" />
+	<block key="region_map_f05_03_name" korean="동문" />
+	<block key="region_map_f05_04_name" korean="남문" />
+	<block key="region_map_f05_05_name" korean="촌장 바톨로의 집" />
+	<block key="region_map_f05_06_name" korean="비행로 관리소" />
+	<block key="region_map_f05_07_name" korean="펠로우 공방" />
+	<block key="region_map_f05_08_name" korean="잡화 상점" />
+	<block key="region_map_f05_09_name" korean="음식 상점" />
+	<block key="region_map_f05_10_name" korean="제작소" />
+	<block key="region_map_f05_11_name" korean="연금술 연구실" />
+	<block key="region_map_f05_12_name" korean="공예점" />
+	<block key="region_map_f05_13_name" korean="조리실" />
+	<block key="region_map_f05_14_name" korean="풍요의 씨앗 조합" />
+	<block key="region_map_f05_15_name" korean="알세크 응급병동" />
+	<block key="region_map_f05_16_name" korean="콜렉터 달시의 집" />
+	<block key="region_d13_000_Name" korean="고대의 사원" />
+	<block key="region_f06_11_name" korean="펙투라" />
+	<block key="region_d06_009_name" korean="불사군단의 요새" />
+	<block key="region_map_f05_17_name" korean="신전 파견 캠프" />
+	<block key="region_f05_022_name" korean="신전 파견 캠프" />
+	<block key="region_p02_01_name" korean="망자의 안식처" />
+	<block key="region_p02_02_name" korean="황혼의 오솔길" />
+	<block key="region_p02_03_name" korean="자유민의 마을" />
+	<block key="region_p02_04_name" korean="시간의 숲" />
+	<block key="region_p02_05_name" korean="망각의 갈대밭" />
+	<block key="region_p02_06_name" korean="영원의 호수" />
+	<block key="region_p02_07_name" korean="절망의 폭포" />
+	<block key="region_p02_08_name" korean="어둠의 나락" />
+	<block key="region_p02_09_name" korean="깊은밤의 등대" />
+	<block key="region_p02_10_name" korean="과거의 언덕" />
+	<block key="region_p02_11_name" korean="트릭의 선술집" />
+	<block key="region_p02_12_name" korean="잊혀진 산" />
+	<block key="region_p02_13_name" korean="연옥" />
+	<block key="region_p02_14_name" korean="버려진 땅" />
+</blocks>

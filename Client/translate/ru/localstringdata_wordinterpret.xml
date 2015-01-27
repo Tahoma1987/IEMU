@@ -1,0 +1,1182 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="SecDamage" korean="Урона в секунду" />
+	<block key="CriticalRate" korean="Критическая скорость" />
+	<block key="CombinePower" korean="Мощность Связывание" />
+	<block key="Casting" korean="Литье" />
+	<block key="Activity" korean="Активированный" />
+	<block key="InvCastingTarget" korean="Литье станция _ Target" />
+	<block key="CoolTime" korean="Повторное использование" />
+	<block key="CannotTrade" korean="Untradeable" />
+	<block key="CannotDestroy" korean="Не уничтожить" />
+	<block key="CanTrade" korean="Товарный" />
+	<block key="BelongingGet" korean="Становится персональным при поднятии" />
+	<block key="BelongingEquip" korean="Становится персональным при надевании" />
+	<block key="CannotPerTrade" korean="Нет частные сделки" />
+	<block key="CannotShopTrade" korean="Магазин Недоступен" />
+	<block key="LimitEquip" korean="Предел износа" />
+	<block key="Upper" korean="Более чем" />
+	<block key="AttackAttr" korean="Свойства Атака" />
+	<block key="AttackAttrNone" korean="Бесплатный недвижимость" />
+	<block key="Phy" korean="Физическая" />
+	<block key="Fire" korean="Пламя" />
+	<block key="Ice" korean="Холод" />
+	<block key="Light" korean="Свет" />
+	<block key="Dark" korean="Тьма" />
+	<block key="OneHandSword" korean="Одноручных мечей" />
+	<block key="TwoHandSword" korean="Двуручный меч" />
+	<block key="OneHandHammer" korean="Одноручные Блант" />
+	<block key="TwoHandHammer" korean="Двуручного дробящего" />
+	<block key="OneHandDagger" korean="Кинжал" />
+	<block key="TwoHandGun" korean="Винтовка" />
+	<block key="OneHandMagicStaff" korean="Палка с одной стороны" />
+	<block key="TwoHandMagicStaff" korean="Палка с обеих рук" />
+	<block key="twohandbow" korean="Лук" />
+	<block key="DuelGun" korean="Запустите двойной обладают" />
+	<block key="EquipPos" korean="Износ Расположение" />
+	<block key="Jacket" korean="На" />
+	<block key="Pants" korean="Шорты" />
+	<block key="Gloves" korean="Перчатки" />
+	<block key="boots" korean="Обувь" />
+	<block key="hat" korean="Качка" />
+	<block key="Shoulder" korean="Плечи" />
+	<block key="shield" korean="Щит" />
+	<block key="artifact" korean="Артефакты" />
+	<block key="Gauntlet" korean="Tugap" />
+	<block key="SubItem" korean="Вспомогательные элементы" />
+	<block key="Ring" korean="Кольцо" />
+	<block key="Necklace" korean="Ожерелье" />
+	<block key="RequireStr" korean="Потребляемая мощность" />
+	<block key="RequireDex" korean="Требуется ловкость" />
+	<block key="RequireInt" korean="Потребности разведки" />
+	<block key="RequireVit" korean="Требуется HP" />
+	<block key="RequireSpr" korean="Потребности MP" />
+	<block key="Job" korean="Профессия" />
+	<block key="Warrior" korean="Неистовый" />
+	<block key="Guardian" korean="Хранитель" />
+	<block key="Priest" korean="Священники" />
+	<block key="Wizard" korean="Мастера" />
+	<block key="Archer" korean="Рейнджер" />
+	<block key="Thief" korean="Убийца" />
+	<block key="AttackSpeed" korean="Скорость атаки" />
+	<block key="Damage" korean="Повреждение" />
+	<block key="Durability" korean="Долговечность" />
+	<block key="Maker" korean="Производитель" />
+	<block key="EMPowerLevel" korean="Укрепление" />
+	<block key="sellprice" korean="Продажа" />
+	<block key="buyprice" korean="Покупка" />
+	<block key="CreatureCanLink" korean="Linkable сотрудник" />
+	<block key="CreatureCanEquip" korean="Монтируется сотрудник" />
+	<block key="CreatedChar" korean="Создание персонажа" />
+	<block key="Warning" korean="Уведомления" />
+	<block key="Personal" korean="Человек" />
+	<block key="Free" korean="Свобода" />
+	<block key="Summon" korean="Для призыва" />
+	<block key="Return" korean="Чтобы вернуться" />
+	<block key="Incubator" korean="Инкубаторы" />
+	<block key="Error" korean="Ошибка" />
+	<block key="Notice" korean="[Новости]" />
+	<block key="complete" korean="Завершение" />
+	<block key="STP_TRAIT" korean="Свобода" />
+	<block key="STP_TECH" korean="Для призыва" />
+	<block key="STC_GENE" korean="Чтобы вернуться" />
+	<block key="STC_SWAP" korean="Инкубаторы" />
+	<block key="STC_LEARN" korean="Ошибка" />
+	<block key="STC_CREATE" korean="[Новости]" />
+	<block key="STC_POTEN" korean="Завершение" />
+	<block key="STC_CHANGE" korean="Завершение" />
+	<block key="STN_LEARN" korean="Завершение" />
+	<block key="SCT_NONE" korean="Поколение" />
+	<block key="SCT_FORWARD" korean="Потенциал" />
+	<block key="SCT_BACKWARD1" korean="Замена" />
+	<block key="SCT_BACKWARD2" korean="МАСТЕРСТВО (Узнать)" />
+	<block key="SCT_DIRECT" korean="ОТСУТСТВУЕТ" />
+	<block key="STT_NONE" korean="Вперед литья" />
+	<block key="STT_SELF" korean="Обратный кастинг 1" />
+	<block key="STT_GROUND" korean="Обратный кастинг 2" />
+	<block key="STT_FRIENDLY" korean="Срабатывает немедленно" />
+	<block key="STT_ENEMY" korean="Нет (если нет темы)" />
+	<block key="STT_FAMILY" korean="SELF (применяется, если цель само-себя)" />
+	<block key="STT_OWNER" korean="ПЕРВЫЙ (применяется, если цель местности)" />
+	<block key="STT_MYCREATURE" korean="Товарищеские матчи (применяется, если цель союзник (тенденции))" />
+	<block key="CFS_NONE" korean="ВРАГ (применяется, если цель враг (тенденции))" />
+	<block key="CFS_NEUTRAL" korean="Семья (относится к этим фокусом (MyPlayer + MyCreature) If)" />
+	<block key="CFS_FURY" korean="ВЛАДЕЛЕЦ (применяется, если цель определена в (MyPlayer))" />
+	<block key="CFS_MORALE" korean="MYCREATURE (применяется, если цель существо его собственного (MyCreature))" />
+	<block key="CFS_BRAVE" korean="NONE (не любой эмоциональное состояние тоже)" />
+	<block key="CFS_FURY_EX" korean="Нейтральное положение (нормальное состояние)" />
+	<block key="CFS_MORALE_EX" korean="Fury (Ярость State)" />
+	<block key="CFS_BRAVE_EX" korean="МОРАЛЬ (мошенничество состояния)" />
+	<block key="SET_NONE" korean="Храбрый (статус контейнер)" />
+	<block key="SET_PHYSIC" korean="FURY_EX (гнев взрывается состояние)" />
+	<block key="SET_MAGIC" korean="Уровень умения" />
+	<block key="SET_MIND" korean="Уровень умения" />
+	<block key="STS_DEATH" korean="Уровень умения" />
+	<block key="STS_ALIVE" korean="Уровень умения" />
+	<block key="STS_ALL" korean="Уровень умения" />
+	<block key="SkillLevel" korean="Уровень умения" />
+	<block key="UseMP" korean="Потребление MP" />
+	<block key="Attribute" korean="Атрибут" />
+	<block key="active" korean="Активный" />
+	<block key="Passive" korean="Пассивный" />
+	<block key="CastTime" korean="Время каста" />
+	<block key="Second" korean="Второй" />
+	<block key="Backward" korean="Включается при литье" />
+	<block key="CastDirect" korean="Мгновенное" />
+	<block key="StandByCoolTime" korean="Остывать" />
+	<block key="SkillEffect" korean="Умение" />
+	<block key="RequireWeapon" korean="Нужно оружие" />
+	<block key="RequireHP" korean="Расход HP" />
+	<block key="RequireLevel" korean="Уровень использования" />
+	<block key="equiplevel" korean="Ношение Уровень" />
+	<block key="RequrePoint" korean="Обязательные очков навыков, накопленный" />
+	<block key="NextLevel" korean="Следующий уровень" />
+	<block key="Form" korean="Форма" />
+	<block key="Hair" korean="Глава" />
+	<block key="Face" korean="Лицо" />
+	<block key="Channel" korean="Канал" />
+	<block key="Closed" korean="Насыщение" />
+	<block key="Normal" korean="Генерал" />
+	<block key="Recommend" korean="Комфорт" />
+	<block key="Crowded" korean="Путаница" />
+	<block key="PossessCreature" korean="Сотрудник собственности" />
+	<block key="Nedian" korean="Нед" />
+	<block key="CreateDialog" korean="Создать диалог" />
+	<block key="DeleteDialog" korean="Удалить диалог" />
+	<block key="SetChannel" korean="Настройки отображения канала" />
+	<block key="ChatNormal" korean="Генерал" />
+	<block key="ChatParty" korean="Par Tee" />
+	<block key="ChatGuild" korean="Путь-де-" />
+	<block key="ChatWhisper" korean="Шепот" />
+	<block key="ChatPublic" korean="Бал Собака" />
+	<block key="ChatTrade" korean="Операции" />
+	<block key="ChatSystem" korean="Система" />
+	<block key="Gold" korean="Золото" />
+	<block key="Silver" korean="Серебро" />
+	<block key="Copper" korean="Бондарь" />
+	<block key="Trade" korean="Сделка" />
+	<block key="PartyInvite" korean="Приглашение на вечеринку" />
+	<block key="Duel" korean="Для дуэли" />
+	<block key="Match" korean="Для спаривания" />
+	<block key="PartyExpel" korean="Экспорт партия" />
+	<block key="PartyCommission" korean="Партия Делегация" />
+	<block key="PartyLeave" korean="Выход на вечеринке" />
+	<block key="PartyQuestShare" korean="Quest Поделиться" />
+	<block key="PartyInvite_NoSpace" korean="Приглашение на вечеринку" />
+	<block key="PartyLeave_NoSpace" korean="Партия вывести" />
+	<block key="GetItemRule" korean="Пункт капельным методом" />
+	<block key="GetItemGrade" korean="Предметы получить, используя Рейтинг" />
+	<block key="SetLeaderCreature" korean="Установите лидера Fellow" />
+	<block key="DuelFree" korean="Бесплатный Дуэль" />
+	<block key="DuelNormal" korean="Формальное поединок" />
+	<block key="GetItemRuleFree" korean="Бесплатный приобретение" />
+	<block key="GetItemRuleOrder" korean="Приобретение Заказать" />
+	<block key="GetItemRuleLooter" korean="Ответственный за получение" />
+	<block key="GetItemRuleNoLimit" korean="Неограниченный" />
+	<block key="GetItemRuleNormal" korean="Генерал" />
+	<block key="GetItemRuleRare" korean="Элита" />
+	<block key="GetItemRuleHero" korean="Герой" />
+	<block key="GetItemRuleLegend" korean="Легенда" />
+	<block key="NGT_MERCHANT" korean="Торговец" />
+	<block key="NGT_GENERAL" korean="Ilbanmop" />
+	<block key="NGT_BOSS" korean="Босс" />
+	<block key="NGT_RAID" korean="Рейд" />
+	<block key="NGT_SUMMON" korean="Домашние животные" />
+	<block key="NGT_MINE" korean="Фугас" />
+	<block key="NGT_GENERALNPC" korean="Генеральный NPC" />
+	<block key="Minute" korean="Минут" />
+	<block key="Male" korean="Человек" />
+	<block key="Female" korean="Женщина" />
+	<block key="Weapon" korean="Оборудование (оружие)" />
+	<block key="Armor" korean="Оборудование (броня)" />
+	<block key="Sub" korean="Оборудование (вторичный)" />
+	<block key="Accessory" korean="Оборудование (аксессуар)" />
+	<block key="Quest" korean="Поиск" />
+	<block key="Exchange" korean="Галантерея" />
+	<block key="consume" korean="Потребление предметов" />
+	<block key="enchantstone" korean="Younghonseok" />
+	<block key="materialitem" korean="Производственные материалы" />
+	<block key="skillbook" korean="Seukilbuk" />
+	<block key="monstersheet" korean="Энциклопедия" />
+	<block key="dyeingitem" korean="Краситель" />
+	<block key="Bag" korean="Мешок" />
+	<block key="box" korean="Подарочная коробка" />
+	<block key="Creature" korean="Человек" />
+	<block key="Money" korean="Деньги" />
+	<block key="Level" korean="Уровень" />
+	<block key="Class" korean="Класс" />
+	<block key="Faction" korean="Расположение" />
+	<block key="MyState" korean="Мой статус" />
+	<block key="Battle" korean="Битва" />
+	<block key="General" korean="Генерал" />
+	<block key="TargetState" korean="Целевое состояние" />
+	<block key="Standard" korean="Уровень" />
+	<block key="Elite" korean="Элита" />
+	<block key="NormalAttack" korean="Общее наступление" />
+	<block key="QuestRequest" korean="Запрос информации" />
+	<block key="QuestCoMPlete" korean="Результаты, представленные" />
+	<block key="QuestText" korean="Содержание" />
+	<block key="Reward" korean="Компенсация" />
+	<block key="RewardMoney" korean="Компенсация" />
+	<block key="RewardSkillSelect" korean="Компенсация Навык (по желанию)" />
+	<block key="RewardSkillNormal" korean="Навыки компенсация (основной)" />
+	<block key="RewardItemSelect" korean="Награда (по желанию)" />
+	<block key="RewardItemNormal" korean="Награда (по умолчанию)" />
+	<block key="SelectCreature" korean="Выберите Fellows" />
+	<block key="QuestList" korean="Quest Список" />
+	<block key="BTAccept" korean="Вы молодцы" />
+	<block key="BTConfirm" korean="Проверить" />
+	<block key="BTCoMPlete" korean="Полный" />
+	<block key="SkillTreeWarrior1" korean="Через день" />
+	<block key="SkillTreeWarrior2" korean="Моя давления" />
+	<block key="SkillTreeWarrior3" korean="Обороны" />
+	<block key="SkillTreePriest1" korean="Поддержка" />
+	<block key="SkillTreePriest2" korean="Восстановление" />
+	<block key="SkillTreePriest3" korean="Психическое" />
+	<block key="SkillTreeWizard1" korean="Огонь" />
+	<block key="SkillTreeWizard2" korean="Лед" />
+	<block key="SkillTreeWizard3" korean="Электрический" />
+	<block key="SkillTreeNature1" korean="Купить цена" />
+	<block key="SkillTreeNature2" korean="Поддержка" />
+	<block key="SkillTreeNature3" korean="На той неделе" />
+	<block key="SkillTreeThief1" korean="Группа с" />
+	<block key="SkillTreeThief2" korean="Бо одежда" />
+	<block key="SkillTreeThief3" korean="Сент-Джон" />
+	<block key="ViewEntire" korean="Просмотреть все" />
+	<block key="CurPos" korean="Вы здесь" />
+	<block key="EntireMap" korean="Полная карта" />
+	<block key="Sundries" korean="Галантерея" />
+	<block key="Repair" korean="Ремонт оборудования" />
+	<block key="ResurrectPoint" korean="Воскресение расположение" />
+	<block key="Hydrate" korean="Багаж" />
+	<block key="Except" korean="Кроме" />
+	<block key="Persons" korean="Лиц" />
+	<block key="AttributeAttack" korean="Нападение недвижимости" />
+	<block key="Cost" korean="Стоимость" />
+	<block key="failure" korean="Отказ" />
+	<block key="Target" korean="Объект" />
+	<block key="deathblow" korean="Критика" />
+	<block key="maximize" korean="Критика" />
+	<block key="avoid" korean="Уклонение" />
+	<block key="miss" korean="Правильное гребень" />
+	<block key="defense" korean="Обороны" />
+	<block key="tradeinvite_nospace" korean="Сделка" />
+	<block key="duelinvite_nospace" korean="Поединок" />
+	<block key="friendinvite_nospace" korean="Пригласить друзей" />
+	<block key="targetme" korean="Себя" />
+	<block key="targetcoMPany" korean="Союзник" />
+	<block key="targetparty" korean="Партия" />
+	<block key="targetenemy" korean="Враг" />
+	<block key="targetground" korean="Земля" />
+	<block key="targetnone" korean="Нецелевых" />
+	<block key="attackpow" korean="Атака" />
+	<block key="subattackpow" korean="Вспомогательный удар" />
+	<block key="attackrate" korean="Gonggyeokryul" />
+	<block key="defensepow" korean="Броня" />
+	<block key="defenserate" korean="Физическая защита" />
+	<block key="gaugerate" korean="Калибр" />
+	<block key="neutral" korean="Нейтральность" />
+	<block key="elgenus" korean="Род" />
+	<block key="purengere" korean="Чистый Гир" />
+	<block key="develier" korean="Develier" />
+	<block key="player3" korean="Третья сила" />
+	<block key="fnpc" korean="Дружественный NPC" />
+	<block key="enpc" korean="Враг NPC" />
+	<block key="enpc_beast" korean="Хищные враг тип NPC" />
+	<block key="enpc_animal" korean="Тип Выпас враг NPC" />
+	<block key="none" korean="Номера тенденция" />
+	<block key="hour" korean="Время" />
+	<block key="day" korean="День" />
+	<block key="HP" korean="Жизнеспособность" />
+	<block key="MP" korean="Mana" />
+	<block key="wpphattpow" korean="Физический урон" />
+	<block key="spphattpow" korean="Магическая атака" />
+	<block key="fireattpow" korean="Урона от огня" />
+	<block key="iceattpow" korean="Урона от магии льда" />
+	<block key="lightattpow" korean="Атака Light" />
+	<block key="darkattpow" korean="Dark Attack" />
+	<block key="wpphdefpow" korean="Обороны" />
+	<block key="spphdefpow" korean="Магическая броня" />
+	<block key="firedefpow" korean="Пламя Броня" />
+	<block key="icedefpow" korean="Frost Armor" />
+	<block key="lightdefpow" korean="Light Armor" />
+	<block key="darkdefpow" korean="Темный Броня" />
+	<block key="wpphdefrate" korean="Обороны" />
+	<block key="wpfiredefrate" korean="Огонь обороны" />
+	<block key="wpicedefrate" korean="Frost Armor" />
+	<block key="wplightdefrate" korean="Light Armor" />
+	<block key="wpdarkdefrate" korean="Тьма обороны" />
+	<block key="spphdefrate" korean="Магическая защита" />
+	<block key="spfiredefrate" korean="Огонь обороны" />
+	<block key="spicedefrate" korean="Frost Armor" />
+	<block key="splightdefrate" korean="Light Armor" />
+	<block key="spdarkdefrate" korean="Тьма обороны" />
+	<block key="wpphavdrate" korean="Уклонение" />
+	<block key="spphavdrate" korean="Магия Уклонение" />
+	<block key="fireavdrate" korean="Огонь Уклонение" />
+	<block key="iceavdrate" korean="Уклонение от замерзания" />
+	<block key="lightavdrate" korean="Свет Уклонение" />
+	<block key="darkavdrate" korean="Dark Evasion" />
+	<block key="wphitrate" korean="Точность" />
+	<block key="subwphitrate" korean="Аксессуары точность" />
+	<block key="sphitrate" korean="Magic Accuracy" />
+	<block key="pkattpowmult" korean="Атака взрослых" />
+	<block key="pkdefpowmult" korean="Взрослые обороны" />
+	<block key="pkbodyregistrateplus" korean="Сопротивление взрослых" />
+	<block key="wpgaugeattpow" korean="Weapon Damage Gauge" />
+	<block key="firegaugedefpow" korean="Пламя Броня датчик" />
+	<block key="icegaugedefpow" korean="Frost Armor датчик" />
+	<block key="lightgaugedefpow" korean="Датчик света Броня" />
+	<block key="darkgaugedefpow" korean="Темный Броня датчик" />
+	<block key="wpcrirate" korean="Шанс критического удара" />
+	<block key="subwpcrirate" korean="Аксессуары крит" />
+	<block key="spcrirate" korean="Волшебный Критическая скорость" />
+	<block key="Str" korean="Мощность" />
+	<block key="Dex" korean="Ловкость" />
+	<block key="Int" korean="Интеллект" />
+	<block key="Vtl" korean="Фитнес" />
+	<block key="mtl" korean="Умонастроение" />
+	<block key="BDY" korean="Сопротивление тела" />
+	<block key="MND" korean="Психическое Сопротивление" />
+	<block key="maxHP" korean="Жизнеспособность" />
+	<block key="maxMP" korean="Mana" />
+	<block key="maxfire" korean="Максимальная датчик пламени" />
+	<block key="maxice" korean="Макс Фрост датчик" />
+	<block key="maxlight" korean="Максимальная Датчик света" />
+	<block key="maxdark" korean="Максимальная Тьма датчик" />
+	<block key="runspeed" korean="Перейти ставку" />
+	<block key="walkspeed" korean="Скорость ходьбы" />
+	<block key="wpattrange" korean="Диапазон" />
+	<block key="wpattspeed" korean="Скорость атаки" />
+	<block key="recHPpow" korean="Vitality естественной регенерации" />
+	<block key="recMPpow" korean="Природные маны" />
+	<block key="stunregist" korean="Stun Resistance" />
+	<block key="fearregist" korean="Страх Сопротивление" />
+	<block key="sleepregist" korean="Водостойкость" />
+	<block key="moveblockregist" korean="Сопротивление Статуи" />
+	<block key="poisonregist" korean="Сопротивление отравлению" />
+	<block key="wppyattpow" korean="Имущественный ущерб" />
+	<block key="wpphattpowplus" korean="Физический урон" />
+	<block key="wpphattpowmult" korean="Физический урон" />
+	<block key="fireattpowplus" korean="Урона от огня" />
+	<block key="fireattpowmult" korean="Урона от огня" />
+	<block key="iceattpowplus" korean="Урона от магии льда" />
+	<block key="iceattpowmult" korean="Урона от магии льда" />
+	<block key="lightattpowplus" korean="Атака Light" />
+	<block key="lightattpowmult" korean="Атака Light" />
+	<block key="darkattpowplus" korean="Dark Attack" />
+	<block key="darkattpowmult" korean="Dark Attack" />
+	<block key="spphattpowplus" korean="Магическая атака" />
+	<block key="spphattpowmult" korean="Магическая атака" />
+	<block key="wpphdefpowplus" korean="Физическая защита" />
+	<block key="wpphdefpowmult" korean="Физическая защита" />
+	<block key="spdefpowplus" korean="Магическая защита" />
+	<block key="spdefpowmult" korean="Магическая защита" />
+	<block key="firedefpowplus" korean="Численное огнестойкие свойства" />
+	<block key="firedefpowmult" korean="Пламя соотношение стоимости устойчивы недвижимость" />
+	<block key="icedefpowplus" korean="Мороз значение устойчивы недвижимость" />
+	<block key="icedefpowmult" korean="Мороз соотношение стоимости устойчивы недвижимость" />
+	<block key="lightdefpowplus" korean="Значение света устойчивы недвижимость" />
+	<block key="lightdefpowmult" korean="Отношение свет устойчивостью стоимость имущества" />
+	<block key="darkdefpowplus" korean="Уровни сопротивления Dark атрибутов" />
+	<block key="darkdefpowmult" korean="Отношение сопротивление Dark атрибут" />
+	<block key="wphitrateplus" korean="Точность" />
+	<block key="sphitrateplus" korean="Magic Accuracy" />
+	<block key="wphitpowplus" korean="Myeongjungryeok" />
+	<block key="sphitpowplus" korean="Магия myeongjungryeok" />
+	<block key="avdpowplus" korean="Hoepiryeok" />
+	<block key="avdrateplus" korean="Уклонение" />
+	<block key="comborateplus" korean="Ставки Combo" />
+	<block key="wpfiregaugeattpowplus" korean="Оружие урон от огня Gauge" />
+	<block key="wpicegaugeattpowplus" korean="Урона от магии льда оружие Gauge" />
+	<block key="wplightgaugeattpowplus" korean="Неорганические Атака тонкостенные" />
+	<block key="wpdarkgaugeattpowplus" korean="Weapon Damage Датчик тьма" />
+	<block key="spfiregaugeattpowplus" korean="Магия урон от огня Gauge" />
+	<block key="spicegaugeattpowplus" korean="Мороз магическая атака Датчик мощности" />
+	<block key="splightgaugeattpowplus" korean="Magic Light Gauge Нанесенный" />
+	<block key="spdarkgaugeattpowplus" korean="Тёмной магии Атака Gauge" />
+	<block key="firegaugedefpowplus" korean="Пламя Броня датчик" />
+	<block key="icegaugedefpowplus" korean="Frost Armor датчик" />
+	<block key="lightgaugedefpowplus" korean="Датчик света Броня" />
+	<block key="darkgaugedefpowplus" korean="Темный Броня датчик" />
+	<block key="wpcripowplus" korean="Физическая критический урон Hit" />
+	<block key="spcripowplus" korean="Волшебный критический урон" />
+	<block key="wpcrirateplus" korean="Физическая Крит" />
+	<block key="spcrirateplus" korean="Волшебный Критическая" />
+	<block key="wpspellplus" korean="Сила атаки" />
+	<block key="spspellplus" korean="Зависит," />
+	<block key="wpphdaMPlus" korean="Физический урон" />
+	<block key="spphdaMPlus" korean="Магический урон" />
+	<block key="wpcridaMPlus" korean="Оружие максимального ущерба" />
+	<block key="spcridaMPlus" korean="Магического урона максимизации" />
+	<block key="allstatplus" korean="Все характеристики" />
+	<block key="StrPlus" korean="Мощность" />
+	<block key="StrMult" korean="Мощность" />
+	<block key="DexPlus" korean="Ловкость" />
+	<block key="DexMult" korean="Ловкость" />
+	<block key="IntPlus" korean="Интеллект" />
+	<block key="IntMult" korean="Интеллект" />
+	<block key="VtlPlus" korean="Фитнес" />
+	<block key="VtlMult" korean="Фитнес" />
+	<block key="MtlPlus" korean="Умонастроение" />
+	<block key="MtlMult" korean="Умонастроение" />
+	<block key="BdyPlus" korean="Сопротивление тела" />
+	<block key="BdyMult" korean="Сопротивление тела" />
+	<block key="MndPlus" korean="Психическое Сопротивление" />
+	<block key="MndMult" korean="Психическое Сопротивление" />
+	<block key="maxHPplus" korean="Жизнеспособность" />
+	<block key="maxMPplus" korean="Mana" />
+	<block key="maxfireplus" korean="Максимальная датчик пламени" />
+	<block key="maxiceplus" korean="Макс Фрост датчик" />
+	<block key="maxlightplus" korean="Максимальная Датчик света" />
+	<block key="maxdarkplus" korean="Максимальная Тьма датчик" />
+	<block key="maxHPmult" korean="Жизнеспособность" />
+	<block key="maxMPmult" korean="Mana" />
+	<block key="maxfiremult" korean="Максимальная датчик пламени" />
+	<block key="maxicemult" korean="Макс Фрост датчик" />
+	<block key="maxlightmult" korean="Максимальная Датчик света" />
+	<block key="maxdarkmult" korean="Максимальная Тьма датчик" />
+	<block key="movespeedmult" korean="Скорость движения" />
+	<block key="vehiclespeedmult" korean="Скорость автомобиля" />
+	<block key="wpattrangemult" korean="Оружие диапазоне" />
+	<block key="wpattspeedmult" korean="Скорость атаки" />
+	<block key="castingspeedmult" korean="Скорость каста" />
+	<block key="recHPpowplus" korean="Восстановление Естественное здоровье" />
+	<block key="recMPpowplus" korean="Mana природной способности" />
+	<block key="reccombatHPplus" korean="Боевой HP Recovery" />
+	<block key="reccombatMPplus" korean="Боевой MP восстановление" />
+	<block key="absorbHPfromstategaugeofdier" korean="Поглощение HP" />
+	<block key="consumMPplus" korean="Потребление MP" />
+	<block key="stunstate" korean="Обморок" />
+	<block key="chaosstate" korean="Растерянности" />
+	<block key="roaredstate" korean="Пойте пострадали" />
+	<block key="sleepstate" korean="Сон" />
+	<block key="silencestate" korean="Молчание" />
+	<block key="fearstate" korean="Ужас" />
+	<block key="VineTangledState" korean="Взял на корню" />
+	<block key="NetTangledState" korean="Оказавшись в сети" />
+	<block key="PhysicalPoisonState" korean="Отравление тела" />
+	<block key="MentalPoisonState" korean="Психическое отравление" />
+	<block key="DeadlyPoisonState" korean="Venom отравление" />
+	<block key="CorrosionPoisonState" korean="Отравление коррозии" />
+	<block key="DizzyState" korean="Головокружение" />
+	<block key="BleedingState" korean="Кровотечение" />
+	<block key="DiseaseState" korean="Эпидемия" />
+	<block key="ThrowupState" korean="Рвота" />
+	<block key="SealedState" korean="Блокада" />
+	<block key="skillmovingstate" korean="Навыки перемещается" />
+	<block key="parriedstate" korean="Возьмите пострадал инсульт" />
+	<block key="frozenstate" korean="Замороженные" />
+	<block key="attacklessstate" korean="Атака мертвых" />
+	<block key="poisonstate" korean="Отравление" />
+	<block key="risingstate" korean="Левитация" />
+	<block key="capturedstate" korean="Захват" />
+	<block key="CaptureFailedState" korean="Возьмите отказ" />
+	<block key="ConcentratedState" korean="Внимание" />
+	<block key="knockdownImmunitystate" korean="Нокдаун иммунитет" />
+	<block key="knockbackdownImmunitystate" korean="Knockback нокдаун иммунитет" />
+	<block key="oddactionbypropertyimmunitystate" korean="Недвижимость иммунная ненормальное поведение" />
+	<block key="fireImmunitystate" korean="Огонь иммунитет" />
+	<block key="iceImmunitystate" korean="Мороз иммунитет" />
+	<block key="lightImmunitystate" korean="Свет иммунитет" />
+	<block key="darkImmunitystate" korean="Темный иммунная" />
+	<block key="magicImmunitystate" korean="Иммунитет заклинаний" />
+	<block key="physicImmunitystate" korean="Физическая иммунитет" />
+	<block key="meleephysicImmunitystate" korean="Рядом физической неприкосновенности" />
+	<block key="rangephysicImmunitystate" korean="Далеко физическое иммунитет" />
+	<block key="OddActionImuumityState" korean="Поведение не может быть застрахован" />
+	<block key="defencestate" korean="Охрана" />
+	<block key="spiritstate" korean="Преобразование Soul" />
+	<block key="StealthState" korean="Невидимость" />
+	<block key="GhostState" korean="Режим Дух" />
+	<block key="ExorcistState" korean="Режим Toemasa" />
+	<block key="StealthBlockState" korean="Прозрачность запрет" />
+	<block key="perceptrangerate" korean="Seongong вид" />
+	<block key="ui_attack" korean="База Атака" />
+	<block key="ui_character" korean="Информация о персонаже окна" />
+	<block key="ui_map" korean="Карта" />
+	<block key="ui_inventory" korean="Мешок" />
+	<block key="ui_skill" korean="Мастерство Панель" />
+	<block key="ui_quest" korean="Quest Информационное окно" />
+	<block key="ui_fieldmapview" korean="Смотреть подробную карту" />
+	<block key="ui_worldmapview" korean="Просмотр полной карты" />
+	<block key="start" korean="Начало" />
+	<block key="finish" korean="Прекращение" />
+	<block key="ok" korean="Подтверждение" />
+	<block key="cancel" korean="Отменить" />
+	<block key="year" korean="Год" />
+	<block key="month" korean="Месяц" />
+	<block key="variety" korean="Вид" />
+	<block key="limit_time" korean="Тайм-аут Приобретение" />
+	<block key="arrival_time" korean="Расчетное время" />
+	<block key="ui_worldmapalpha" korean="Прозрачное преобразование карту" />
+	<block key="server_closed" korean="Закрыто" />
+	<block key="quest_limit_time" korean="Время Вышло" />
+	<block key="equipiMPossible" korean="Не надевайте" />
+	<block key="throw_dice" korean="Кидайте кости" />
+	<block key="cancel_dice" korean="Отказ" />
+	<block key="decision" korean="Решение" />
+	<block key="fixation" korean="Фиксация" />
+	<block key="dyeing" korean="Крашение" />
+	<block key="color" korean="Цвета" />
+	<block key="getitemrulejoblimit" korean="Первым приобретением работа" />
+	<block key="kind" korean="Категория" />
+	<block key="grade" korean="Рейтинг" />
+	<block key="esummon" korean="Отзыв" />
+	<block key="magicstone" korean="Магия камня" />
+	<block key="equippeditem" korean="Износа" />
+	<block key="preemptivestrike" korean="Seongong" />
+	<block key="nopreemptivestrike" korean="Номера seongong" />
+	<block key="trait" korean="Битва Тип" />
+	<block key="melee" korean="Близко" />
+	<block key="defence" korean="Обороны" />
+	<block key="magic" korean="Магия" />
+	<block key="heal" korean="Восстановление" />
+	<block key="range" korean="Далеко" />
+	<block key="parry" korean="Chyeonaegi" />
+	<block key="immunity" korean="Нет эффекта атака" />
+	<block key="resist_invincibility" korean="Нет эффекта атака" />
+	<block key="resist_reactionresistancepoint" korean="Нет эффекта атака" />
+	<block key="resist_castingignorereaction" korean="Нет эффекта атака" />
+	<block key="actornomal" korean="Генерал" />
+	<block key="hero" korean="Герой" />
+	<block key="ParryRate" korean="Парировать" />
+	<block key="BlockRate" korean="Блок щитом" />
+	<block key="BlockRateplus" korean="Щит для предотвращения вероятности" />
+	<block key="belongitem" korean="Gwisokdoem" />
+	<block key="material" korean="Вещи" />
+	<block key="plate" korean="Heavy Armor" />
+	<block key="chain" korean="Шкварки" />
+	<block key="leather" korean="Козырек" />
+	<block key="cloth" korean="Халаты" />
+	<block key="attphpowersecond" korean="Урона в секунду" />
+	<block key="equipeff" korean="Оборудовать" />
+	<block key="skilllearneff" korean="Эффект обучения" />
+	<block key="doing" korean="В процессе" />
+	<block key="learnprice" korean="Цена приобретения" />
+	<block key="exp" korean="Опыт" />
+	<block key="repeat" korean="Повторение" />
+	<block key="emotion_win" korean="Победа" />
+	<block key="emotion_lose" korean="Поражение" />
+	<block key="emotion_confession" korean="Признание" />
+	<block key="emotion_surprise" korean="Сюрприз" />
+	<block key="emotion_charge" korean="Заряжать" />
+	<block key="emotion_shame" korean="Позор" />
+	<block key="emotion_greeting" korean="Рука HR" />
+	<block key="emotion_joyful" korean="Возбужденный" />
+	<block key="emotion_cry" korean="Плач" />
+	<block key="emotion_smile" korean="Смех" />
+	<block key="emotion_cheerup" korean="Ура" />
+	<block key="emotion_mockery" korean="Издевательство" />
+	<block key="emotion_cheers" korean="Ура" />
+	<block key="emotion_penalty1" korean="Штрафы 1" />
+	<block key="emotion_penalty2" korean="Штраф 2" />
+	<block key="emotion_refuse" korean="Отказ" />
+	<block key="emotion_angry" korean="Агро" />
+	<block key="emotion_applause" korean="Аплодисменты" />
+	<block key="emotion_salute" korean="Салют" />
+	<block key="emotion_beg" korean="Нищенство" />
+	<block key="emotion_cheek" korean="Шлепок" />
+	<block key="emotion_slapped" korean="Slap подходит" />
+	<block key="emotion_beg2" korean="Истерики" />
+	<block key="emotion_step" korean="Протектор" />
+	<block key="emotion_affirmation" korean="Утверждение" />
+	<block key="ui_questalarm" korean="Quest Alarm Показать / Скрыть" />
+	<block key="possible" korean="Доступный" />
+	<block key="impossible" korean="Невозможность" />
+	<block key="deadbody" korean="Труп" />
+	<block key="ui_zoomin" korean="Увеличить" />
+	<block key="ui_zoomout" korean="Уменьшить" />
+	<block key="ui_minimapsetting" korean="Настройки дисплея радара" />
+	<block key="skilltype" korean="Тип" />
+	<block key="forwardcasting" korean="Активированный после литья" />
+	<block key="nouseonride" korean="Не на борту" />
+	<block key="bufftime" korean="Продолжительность" />
+	<block key="expert" korean="Продвинутый" />
+	<block key="master" korean="Лучший" />
+	<block key="attack" korean="Атака" />
+	<block key="buff" korean="Любитель" />
+	<block key="debuff" korean="Debuffs" />
+	<block key="fellowpassive" korean="Сотрудник (пассивная)" />
+	<block key="fellowattack" korean="Сотрудник (атака)" />
+	<block key="fellowdefense" korean="Сотрудник (оборона)" />
+	<block key="fellowrecover" korean="Сотрудник (восстановление)" />
+	<block key="fellowbuff" korean="Сотрудник (Buff)" />
+	<block key="fellowdebuff" korean="Сотрудник (дебафф)" />
+	<block key="castingtype" korean="Литье" />
+	<block key="secondwhile" korean="П." />
+	<block key="size" korean="Размер" />
+	<block key="small" korean="Небольшой" />
+	<block key="medium" korean="Среда" />
+	<block key="large" korean="Формирование" />
+	<block key="StopAutoAttack" korean="Выключать" />
+	<block key="seizestate" korean="Укрощение" />
+	<block key="tip" korean="СОВЕТ" />
+	<block key="interactive" korean="интерактивный" />
+	<block key="activate" korean="активировать" />
+	<block key="deactivate" korean="дезактивировать" />
+	<block key="fellow" korean="Человек" />
+	<block key="tool" korean="Инструменты" />
+	<block key="twohandlance" korean="Окно (для посадки)" />
+	<block key="twohandcrossbow" korean="Арбалет (школы-интернаты)" />
+	<block key="ChatAll" korean="Полнота" />
+	<block key="ChatGeneral" korean="Генерал" />
+	<block key="backattackdammult" korean="Задняя Атака" />
+	<block key="tamableonbattle" korean="Доступные Укрощение битвы" />
+	<block key="fellowdeathdesc" korean="Этот парень является государство смерть. 5 минут с момента смерти вызову невозможно." />
+	<block key="waittime" korean="Оставшееся время" />
+	<block key="short_local_key" korean="В" />
+	<block key="short_whisper_key" korean="Чертов" />
+	<block key="short_party_key" korean="ㅔ" />
+	<block key="short_guild_key" korean="Хе" />
+	<block key="short_shout_key" korean="ㅊ" />
+	<block key="short_server_key" korean="1" />
+	<block key="short_trade_key" korean="2" />
+	<block key="short_findparty_key" korean="3" />
+	<block key="HPHealRateMult" korean="Эффект восстановления HP" />
+	<block key="Tamablestate" korean="Укрощение Доступные" />
+	<block key="BodyImmunityState" korean="Шесть государство или иммунная система" />
+	<block key="MindImmunityState" korean="Психические расстройства больше иммунный статус" />
+	<block key="Chat" korean="Разговор" />
+	<block key="My_Battle" korean="Битва Информация" />
+	<block key="Party_Battle" korean="Битва информации (партия)" />
+	<block key="FNPC_Battle" korean="Битва информации (NPC)" />
+	<block key="ENPC_Battle" korean="Битва информации (красный)" />
+	<block key="all" korean="Полнота" />
+	<block key="party" korean="Партия" />
+	<block key="NoneDamagePlus" korean="Без повреждений недвижимость" />
+	<block key="NoneDamageMult" korean="Без повреждений недвижимость" />
+	<block key="FireDamagePlus" korean="Имущественный ущерб пожара" />
+	<block key="FireDamageMult" korean="Имущественный ущерб пожара" />
+	<block key="IceDamagePlus" korean="Урона от магии льда недвижимости" />
+	<block key="IceDamageMult" korean="Урона от магии льда недвижимости" />
+	<block key="LightDamagePlus" korean="Светового повреждения собственности" />
+	<block key="LightDamageMult" korean="Светового повреждения собственности" />
+	<block key="DarkDamagePlus" korean="Тьма повреждение имущества" />
+	<block key="DarkDamageMult" korean="Тьма повреждение имущества" />
+	<block key="msg_emotion" korean="Эмоции" />
+	<block key="normal_fellow" korean="Сотрудник разговор" />
+	<block key="zone" korean="Региональный диалог" />
+	<block key="whisperget" korean="Получил шепот" />
+	<block key="whispersend" korean="Отправить шепот" />
+	<block key="normal_fnpc" korean="NPC союзники посол" />
+	<block key="normal_enpc" korean="Посол враг NPC" />
+	<block key="guild" korean="Гильдия разговор" />
+	<block key="msg_notice_guild" korean="Гильдия оповещения" />
+	<block key="alience" korean="Силы разговор" />
+	<block key="msg_notice_alience" korean="Сообщите силы" />
+	<block key="channel_server" korean="Канал сервер" />
+	<block key="channel_trade" korean="Каналы сбыта" />
+	<block key="channel_party" korean="Найти партийной канал" />
+	<block key="msg_battle" korean="Основные Combat" />
+	<block key="msg_battle_my_send_action" korean="Его атаки / мастерство" />
+	<block key="msg_battle_my_send_addeffect" korean="Его баффов / дебаффов" />
+	<block key="msg_battle_my_get_action" korean="Убытки за его / Skill" />
+	<block key="msg_battle_my_get_addeffect" korean="Buff на его / дебафф" />
+	<block key="msg_battle_myfellow_send_action" korean="Атака из моих коллег / Skill" />
+	<block key="msg_battle_myfellow_send_addeffect" korean="Мой товарищ баффов / дебаффов" />
+	<block key="msg_battle_myfellow_get_action" korean="Нанесенный / навыком для моего товарища" />
+	<block key="msg_battle_myfellow_get_addeffect" korean="Для моих коллег баффов / дебаффов" />
+	<block key="msg_battle_party_send_action" korean="Партии атаки / мастерство" />
+	<block key="msg_battle_party_send_addeffect" korean="Партия баффов / дебаффов" />
+	<block key="msg_battle_party_get_action" korean="Нанесенный / мастерство для вашей партии" />
+	<block key="msg_battle_party_get_addeffect" korean="Buff на партии / дебафф" />
+	<block key="msg_battle_partyfellow_send_action" korean="Участники Попутчики партийные атаки / мастерство" />
+	<block key="msg_battle_partyfellow_send_addeffect" korean="Однопартийцев в баффов / дебаффов" />
+	<block key="msg_battle_partyfellow_get_action" korean="Нанесенный / мастерство для членов коллег партии" />
+	<block key="msg_battle_partyfellow_get_addeffect" korean="Баффов / дебаффов на однопартийца" />
+	<block key="msg_battle_fnpc_send_action" korean="FNPC атаки / мастерство" />
+	<block key="msg_battle_fnpc_send_addeffect" korean="Из FNPC баффов / дебаффов" />
+	<block key="msg_battle_fnpc_get_action" korean="Нанесенный / навыком для FNPC" />
+	<block key="msg_battle_fnpc_get_addeffect" korean="Buff на FNPC / дебафф" />
+	<block key="msg_battle_enemy_send_action" korean="Атака / мастерство" />
+	<block key="msg_battle_enemy_send_addeffect" korean="Враг баффов / дебаффов" />
+	<block key="msg_battle_enemy_get_action" korean="Враг повреждения / мастерства" />
+	<block key="msg_battle_enemy_get_addeffect" korean="Враг баффов / дебаффов" />
+	<block key="msg_notice_gm" korean="Бюллетень GM" />
+	<block key="msg_notice_game" korean="Игра Бюллетень" />
+	<block key="msg_info_game" korean="Информация о игре" />
+	<block key="msg_info_error" korean="Ошибка / предупреждение" />
+	<block key="msg_info_fellow" korean="Связанные Fellows" />
+	<block key="msg_action_collection" korean="Собранные результаты (успех / неудача)" />
+	<block key="msg_action_production" korean="Производственные результаты (успех / неудача)" />
+	<block key="msg_death_my" korean="Моя смерть" />
+	<block key="msg_death_myfellow" korean="Мой товарищ Смерть" />
+	<block key="msg_death_party" korean="Партия смерть" />
+	<block key="msg_death_partyfellow" korean="Сотрудник партия смерть" />
+	<block key="msg_death_npc" korean="Смерть NPC" />
+	<block key="msg_death_enemy" korean="Враг смерть" />
+	<block key="msg_gain_exp" korean="Опыт, приобретенный" />
+	<block key="msg_gain_gold" korean="Полученные средства" />
+	<block key="msg_gain_item" korean="Предметы приобрела" />
+	<block key="LockChatUI" korean="Чат замок окно" />
+	<block key="InitChatUI" korean="Чат инициализации окно" />
+	<block key="AddTab" korean="Добавить закладку" />
+	<block key="DeleteTab" korean="Нажмите Удалить" />
+	<block key="RenameTab" korean="Вкладка Параметры" />
+	<block key="rename" korean="Изменение" />
+	<block key="InitTabText" korean="Tab Content Удалить" />
+	<block key="EditTabOption" korean="Вкладка Параметры" />
+	<block key="EditTabTextColor" korean="Варианты цвета вкладка предложение" />
+	<block key="FontSize" korean="Размер шрифта" />
+	<block key="FontSize_Large" korean="Против" />
+	<block key="FontSize_Middle" korean="От" />
+	<block key="FontSize_Small" korean="Крупный рогатый скот" />
+	<block key="Emotion" korean="Эмоции" />
+	<block key="HotkeyInfo" korean="Ярлыки Помощь" />
+	<block key="ChatHotkey_Normal" korean="Общие: / с, / S, / б" />
+	<block key="ChatHotkey_Party" korean="Party: / р, / P, / ㅔ" />
+	<block key="ChatHotkey_Guild" korean="Гильдия: / г, / G, / хе" />
+	<block key="ChatHotkey_Whisper" korean="Whisper: / б, / W, / Для ебля + имя + разговоре" />
+	<block key="ChatHotkey_Zone" korean="Региональный диалог: / с, / C, / ㅊ" />
+	<block key="ChatHotkey_LinkInfo" korean="Ссылки: Ctrl + OBJ" />
+	<block key="notshortkeydesc" korean="Ключ не доступен." />
+	<block key="green" korean="Зеленый" />
+	<block key="red" korean="Красный" />
+	<block key="blue" korean="Синий" />
+	<block key="transparency" korean="Прозрачность" />
+	<block key="colour" korean="Цвет" />
+	<block key="defaltshortkeydesc" korean="После выбора нажмите клавишу Backspace, чтобы удалить ярлыки ярлыки выбранных." />
+	<block key="overlapkeydesc" korean="Ярлыки и дубликат." />
+	<block key="removekeydesc" korean="Сочетания клавиш удален дубликатов ключевых параметров." />
+	<block key="LocalChat" korean="Генерал" />
+	<block key="ZoneChat" korean="Площадь" />
+	<block key="WhisperChat" korean="Шепот" />
+	<block key="PartyChat" korean="Партия" />
+	<block key="GuildChat" korean="Гильдия" />
+	<block key="ChannelServerChat" korean="Сервер" />
+	<block key="ChannelTrade" korean="Сделка" />
+	<block key="ChannelPartyChat" korean="Поисковая группа" />
+	<block key="Toggle" korean="Переключатель" />
+	<block key="Toggle_Local" korean="Генерал" />
+	<block key="Toggle_Zone" korean="Площадь" />
+	<block key="Toggle_Whisper" korean="Шепот" />
+	<block key="Toggle_Party" korean="Партия" />
+	<block key="Toggle_Guild" korean="Гильдия" />
+	<block key="Toggle_ChannelServer" korean="Сервер" />
+	<block key="Toggle_ChannelParty" korean="Поисковая группа" />
+	<block key="Toggle_ChannelTrade" korean="Сделка" />
+	<block key="resurrection_ok" korean="Воскресение" />
+	<block key="fellowitem" korean="Оборудование (седло)" />
+	<block key="Wolf" korean="Волк" />
+	<block key="Leopard" korean="Леопард" />
+	<block key="Boar" korean="Кабан" />
+	<block key="Bull" korean="Крупный рогатый скот" />
+	<block key="Bear" korean="Медведь" />
+	<block key="Spider" korean="Паук" />
+	<block key="ReinDeer" korean="Северный олень" />
+	<block key="Bee" korean="Наказание" />
+	<block key="Turtle" korean="Черепаха" />
+	<block key="Fox" korean="Лиса" />
+	<block key="kind0" korean="Мотоциклы" />
+	<block key="quality" korean="Качество" />
+	<block key="equip" korean="Ношение" />
+	<block key="need" korean="Требуется" />
+	<block key="noname_attacker" korean="Кто-нибудь" />
+	<block key="Charinfo_default" korean="Базовая информация" />
+	<block key="nothing_repair" korean="Этот пункт не может быть восстановлен" />
+	<block key="ask_repair_all" korean="Вы уверены, что хотите восстановить весь элемент?" />
+	<block key="MobFeature_Attack" korean="Высокая мощность атаки" />
+	<block key="MobFeature_Defence" korean="Обороноспособности высокой" />
+	<block key="MobFeature_Heal" korean="Исцеление, магия дочерней" />
+	<block key="MobFeature_Magic" korean="Используйте магические атаки" />
+	<block key="MobFeature_Range" korean="Дальний вообще атака" />
+	<block key="effect" korean="Эффект" />
+	<block key="UiQuestAccept" korean="Принятие" />
+	<block key="UiQuestMapconfirm" korean="Подтвердите карту" />
+	<block key="UiQuestRenounce" korean="Отказ" />
+	<block key="UiQuestRefuse" korean="Отказ" />
+	<block key="UiQuestComplete" korean="Завершение" />
+	<block key="UiQuestClose" korean="Близко" />
+	<block key="returnarea" korean="Место возврата" />
+	<block key="weaponneed" korean="Доступное оружие" />
+	<block key="Succes" korean="Успех" />
+	<block key="FireDampingRate" korean="Абсорбционные свойства ущерб от пожара" />
+	<block key="IceDampingRate" korean="Frost свойства поглощение урона" />
+	<block key="LightDampingRate" korean="Поглощение световой повреждение имущества" />
+	<block key="DarkDampingRate" korean="Поглощение урона Dark атрибут" />
+	<block key="weapononlyboard" korean="На борту" />
+	<block key="ask_fellow_growing" korean="Вы уверены, что хотите сломать печать роста? Если вы отключите этот рост может продолжать расти запечатаны на следующий уровень, но younghonseok добыча не представляется возможным." />
+	<block key="ask_equip_soulbound" korean="В Становится персональным при надевании. Хотели бы вы носить?" />
+	<block key="ask_pickup_soulbound" korean="Детали будут Становится персональным при поднятии. Вы уверены, что хотите приобрести?" />
+	<block key="absence" korean="Далеко" />
+	<block key="resist_reaction_immun" korean="Сопротивление" />
+	<block key="resist_body_immun" korean="Сопротивление" />
+	<block key="resist_body_resist" korean="Сопротивление" />
+	<block key="lightweight" korean="Вес: Темно-" />
+	<block key="normalweight" korean="Вес: Средний" />
+	<block key="heavyweight" korean="Вес: Heavy" />
+	<block key="system" korean="Система" />
+	<block key="ep" korean="Энергия" />
+	<block key="fp" korean="Гнев" />
+	<block key="tp" korean="Выносливость" />
+	<block key="sp" korean="Признаки света" />
+	<block key="nodisplay" korean="Не показывать" />
+	<block key="alwaysdisplay" korean="Всегда показывать" />
+	<block key="battledisplay" korean="Показать только бой" />
+	<block key="field" korean="Поле" />
+	<block key="instance" korean="Темница" />
+	<block key="nothingness" korean="Ни один" />
+	<block key="Enchant_impossible" korean="Не армированные" />
+	<block key="Enchant_Possible" korean="Может быть усилена" />
+	<block key="Enchant_Nolimit" korean="Неограниченное укрепления" />
+	<block key="usableonnotride" korean="Доступно только при не-интернат" />
+	<block key="usableonride" korean="Доступно только на борту" />
+	<block key="notgroundskill" korean="Не доступно от земли" />
+	<block key="notskyskill" korean="Нет в воздухе" />
+	<block key="shortcut_move_flying_vertical_descent" korean="Сотрудник спуск полета" />
+	<block key="shortcut_move_riding_fellow" korean="Сотрудник доска" />
+	<block key="shortcut_menu_action_list_open" korean="Список действий" />
+	<block key="shortcut_menu_transparency_map_open" korean="Прозрачный карту" />
+	<block key="shortcut_menu_guild_open" korean="Гильдия" />
+	<block key="shortcut_menu_help_open" korean="Помогите" />
+	<block key="shortcut_menu_option_open" korean="Опции игры" />
+	<block key="shortcut_party_myplayer_select" korean="Выберите свой собственный" />
+	<block key="shortcut_quickslot_ex1_10" korean="Первый слот расширения 11" />
+	<block key="shortcut_quickslot_ex1_11" korean="Первый слот расширения 12" />
+	<block key="shortcut_quickslot_ex2_10" korean="Второй слот расширения 11" />
+	<block key="shortcut_quickslot_ex2_11" korean="Второй слот расширения 12" />
+	<block key="shortcut_quickslot_ex3_10" korean="Третий слот расширения 11" />
+	<block key="shortcut_quickslot_ex4_10" korean="Четвертый слот расширения 11" />
+	<block key="" korean="Применение" />
+	<block key="" korean="Отменить" />
+	<block key="" korean="Подтверждение" />
+	<block key="" korean="Низкий" />
+	<block key="" korean="Высокий" />
+	<block key="" korean="Музыка Повторите" />
+	<block key="" korean="Системные сообщения Голос" />
+	<block key="" korean="От" />
+	<block key="" korean="Общий объем" />
+	<block key="" korean="Звуковые эффекты" />
+	<block key="" korean="Фоновая музыка" />
+	<block key="" korean="Окружающего звука" />
+	<block key="" korean="Настройки звука" />
+	<block key="" korean="Оконный режим" />
+	<block key="" korean="Мрачно" />
+	<block key="" korean="Ярко" />
+	<block key="" korean="Разрешение" />
+	<block key="" korean="Количество цветов" />
+	<block key="" korean="Светимость" />
+	<block key="" korean="Настройки отображения" />
+	<block key="" korean="Unite игра эффекты" />
+	<block key="" korean="Неподвижной раме" />
+	<block key="" korean="Full Screen умение" />
+	<block key="" korean="Светиться" />
+	<block key="" korean="Вертикальная синхронизация" />
+	<block key="" korean="Рамка дисплея" />
+	<block key="" korean="Погодные эффекты" />
+	<block key="" korean="По расстоянию символов шейдеров" />
+	<block key="" korean="У" />
+	<block key="" korean="Далеко" />
+	<block key="" korean="Сглаживание" />
+	<block key="" korean="Местность расстояние просмотра" />
+	<block key="" korean="Качество текстур" />
+	<block key="" korean="Эффект воды" />
+	<block key="" korean="Фон выражение" />
+	<block key="" korean="Световые эффекты" />
+	<block key="" korean="Тень Эффект" />
+	<block key="" korean="Вещи расстояние просмотра" />
+	<block key="" korean="Shader качества" />
+	<block key="" korean="Качество эффекты" />
+	<block key="" korean="Показывать только эффекты" />
+	<block key="" korean="Многоуровневая символьный дисплей" />
+	<block key="" korean="Графические настройки детализации" />
+	<block key="" korean="Настройки пакетной" />
+	<block key="" korean="Data Log" />
+	<block key="" korean="С тех пор окно не ttuiwooji" />
+	<block key="Button" korean="Кнопка" />
+	<block key="1" korean="1" />
+	<block key="CheckBox" korean="CheckBox" />
+	<block key="List Type" korean="Тип списка" />
+	<block key="Scroll Type" korean="Выделите Тип" />
+	<block key="Label" korean="Этикетка" />
+	<block key="Item Renderer" korean="Пункт Renderer" />
+	<block key="RadioButton" korean="RadioButton" />
+	<block key="" korean="По обычной почте" />
+	<block key="H" korean="H" />
+	<block key="S" korean="S" />
+	<block key="B" korean="B" />
+	<block key="R:233, G:569, B:122" korean="R: 233, G: 569, B: 122" />
+	<block key="" korean="Добыча" />
+	<block key="" korean="Quest навигации" />
+	<block key="" korean="Координаты мыши" />
+	<block key="Area" korean="Площадь" />
+	<block key="Center" korean="Центр" />
+	<block key="Delete" korean="Удалять" />
+	<block key="" korean="Магазин" />
+	<block key="" korean="Удалить фокус" />
+	<block key="" korean="Уровень (зона) список" />
+	<block key="" korean="Список Миссия" />
+	<block key="" korean="Quest Список" />
+	<block key="" korean="Площадь места образования" />
+	<block key="" korean="Площадь Удаление Очки Очки" />
+	<block key="" korean="Выполнение" />
+	<block key="lobby_questnavi_editor" korean="Список файлов и завершить все квесты Гвинея enpisi обновление информации:" />
+	<block key="" korean="Лобби редактор" />
+	<block key="alpha" korean="альфа" />
+	<block key="camera range" korean="Диапазон камера" />
+	<block key="Front View" korean="Вид спереди" />
+	<block key="zoom speed" korean="Скорость увеличения" />
+	<block key="" korean="Color Editor" />
+	<block key="" korean="Расширенный редактор настроек" />
+	<block key="" korean="Оборудование редактор" />
+	<block key="" korean="Игроки предустановок" />
+	<block key="Npc " korean="Npc управление пресетами" />
+	<block key="PlayerNpc " korean="PlayerNpc управление пресетами" />
+	<block key="" korean="Броня Color Editor" />
+	<block key="" korean="Анимация игрока" />
+	<block key="" korean="Сохранить Список предустановленных" />
+	<block key="" korean="Удаление цвета суб-сетки" />
+	<block key="" korean="Опции игры" />
+	<block key="" korean="По умолчанию" />
+	<block key="auto" korean="автомобиль" />
+	<block key="high" korean="Высокий" />
+	<block key="middle" korean="Средний" />
+	<block key="low" korean="Низкий" />
+	<block key="no" korean="no" />
+	<block key="" korean="Выберите сервер" />
+	<block key="" korean="Производительность" />
+	<block key="" korean="Качество" />
+	<block key="" korean="Качество изображения" />
+	<block key="" korean="Режим экрана" />
+	<block key="" korean="Влияние нагрузки Давка" />
+	<block key="consumtpplus" korean="Расход выносливости" />
+	<block key="casting" korean="Литье" />
+	<block key="reversecasting" korean="Литье станция" />
+	<block key="charge" korean="Заряжать" />
+	<block key="private" korean="Только" />
+	<block key="equippossible" korean="Можно носить" />
+	<block key="allclasspossible" korean="Все классы можно носить" />
+	<block key="enchantpossible" korean="Может быть усилена" />
+	<block key="enchantimpossible" korean="Улучшенная невозможно" />
+	<block key="useeff" korean="Льготы" />
+	<block key="enchantnolimit" korean="Неограниченное укрепления" />
+	<block key="skill_step" korean="Фаза" />
+	<block key="reply" korean="Ответить" />
+	<block key="RecTpPowPlus" korean="Эффект регенерации энергии" />
+	<block key="RecTpPowMult" korean="Эффект регенерации энергии" />
+	<block key="graphic" korean="Графика" />
+	<block key="sound" korean="Звук" />
+	<block key="setting" korean="Настройки игры" />
+	<block key="shortcutkey" korean="Ярлыки" />
+	<block key="combo" korean="Combo" />
+	<block key="Invalid" korean="Ни один" />
+	<block key="compensation" korean="Компенсация" />
+	<block key="accept" korean="Принятие" />
+	<block key="notreactionmovingstate" korean="Переместить курсор ограничения расстояния выстрел" />
+	<block key="cooltimemult" korean="Остывать" />
+	<block key="furifyonattackplus" korean="Гнев расти и дальше" />
+	<block key="connect" korean="Подключение" />
+	<block key="disconnect" korean="Нет соединения" />
+	<block key="letter" korean="Хранится под буквами" />
+	<block key="window" korean="Оконный режим" />
+	<block key="fullscreen" korean="Полноэкранный" />
+	<block key="fullscreenwindow" korean="Полный режим окна" />
+	<block key="not" korean="Ни один" />
+	<block key="me" korean="Себя" />
+	<block key="other" korean="Другие пользователи" />
+	<block key="npc" korean="NPC" />
+	<block key="itemcomparevalue" korean="Установка последствия изменений" />
+	<block key="tamingdisabled" korean="Укрощение невозможно" />
+	<block key="tamingenabled" korean="Укрощение Доступные" />
+	<block key="taminglocked" korean="Укрощение велосипедов (условия, необходимые для удовлетворения)" />
+	<block key="ride" korean="Посадка" />
+	<block key="ready" korean="Препараты" />
+	<block key="allstatmult" korean="Все характеристики" />
+	<block key="newskill" korean="Новые навыки" />
+	<block key="event" korean="Событий" />
+	<block key="unready" korean="Изменение" />
+	<block key="usepossible" korean="Доступный" />
+	<block key="allclassusepossible" korean="Все классы доступны" />
+	<block key="companyorenemy" korean="Союзник / Противник" />
+	<block key="stiffstate" korean="Жесткая состояние" />
+	<block key="invincibility" korean="Неуязвимый" />
+	<block key="maxepmult" korean="Максимальная EP" />
+	<block key="agromult" korean="Уровни Агро" />
+	<block key="human" korean="Человек" />
+	<block key="shaling" korean="Сдвиг" />
+	<block key="crokhoon" korean="Croix Kuhn" />
+	<block key="fellowconsume" korean="Попутчики материалы" />
+	<block key="fellowlevel" korean="Сотрудник уровень" />
+	<block key="fellowexp" korean="Накопленный опыт" />
+	<block key="sealedfellow" korean="Герметичный сотрудник" />
+	<block key="onehandbow" korean="Направленный лук" />
+	<block key="" korean="Сотрудник (ожерелье)" />
+	<block key="" korean="Сотрудник (younghonseok)" />
+	<block key="" korean="Сотрудник (седло)" />
+	<block key="maxep" korean="Максимальная EP" />
+	<block key="Plus" korean="Увеличение" />
+	<block key="ui_fellow_gauge_hp" korean="Указывает жизнеспособность сотрудник (ПЭТ)." />
+	<block key="ui_fellow_gauge_ep" korean="Отображение прочность общество (ПЭТ), и некоторое количество энергии восстанавливается каждые 4 секунды." />
+	<block key="quick_battle_request" korean="Дуэль с нами" />
+	<block key="bid" korean="Торги" />
+	<block key="renounce" korean="Отказ" />
+	<block key="wearing" korean="Когда один носит" />
+	<block key="" korean="Класс" />
+	<block key="" korean="Посадка" />
+	<block key="" korean="Общий" />
+	<block key="seteffect" korean="Установите" />
+	<block key="min" korean="Минимальный" />
+	<block key="max" korean="Вплоть до" />
+	<block key="item" korean="Предметы" />
+	<block key="comsume" korean="Расходные материалы" />
+	<block key="fellowbook" korean="Сотрудник Книга" />
+	<block key="backattackcrirateplus" korean="Задняя крит" />
+	<block key="bothhands" korean="Кинжал" />
+	<block key="talents_lack_msg" korean="Имущества не хватает мощности" />
+	<block key="talents_unequip_msg" korean="Чтобы удалить. \u003cbr\u003e Характерно применение силы было уничтожено" />
+	<block key="talents_equip_msg" korean="Заменить" />
+	<block key="ui_tab_characterinfo_soultalents" korean="Характеристика" />
+	<block key="wr_r" korean="Широкий" />
+	<block key="wr_g" korean="Уничтожение" />
+	<block key="wr_b" korean="Битва" />
+	<block key="gd_r" korean="Опекун" />
+	<block key="gd_g" korean="Божество" />
+	<block key="gd_b" korean="Битва" />
+	<block key="tf_r" korean="Выносливость" />
+	<block key="tf_g" korean="Quickplay" />
+	<block key="tf_b" korean="Захват" />
+	<block key="pr_r" korean="Защита" />
+	<block key="pr_g" korean="Вера" />
+	<block key="pr_b" korean="Жетоны" />
+	<block key="wz_r" korean="Пламя" />
+	<block key="wz_g" korean="Холод" />
+	<block key="wz_b" korean="Атрибут" />
+	<block key="soultalent_point" korean="Усилие характеристики" />
+	<block key="ridefellow" korean="Посадка" />
+	<block key="battlefellow" korean="Pet" />
+	<block key="talents_full_msg" korean="Вы не можете собирать более характерный силу" />
+	<block key="step" korean="Фаза" />
+	<block key="weaponcraft" korean="Оружие производство" />
+	<block key="armorcraft" korean="Броннику" />
+	<block key="accessorycraft" korean="Изготовление ювелирных изделий" />
+	<block key="fellowequip" korean="Научный сотрудник" />
+	<block key="alchemy" korean="Алхимия" />
+	<block key="cooking" korean="Блюдо" />
+	<block key="WeaponRack" korean="Для производства оружия" />
+	<block key="ArmorRack" korean="Броня для производства" />
+	<block key="CookingRack" korean="Кухонная утварь" />
+	<block key="AlchemyRack" korean="Лабораторное оборудование" />
+	<block key="AccessoryRack" korean="Для изготовления ювелирных изделий" />
+	<block key="FellowEquipRack" korean="Научного сотрудника" />
+	<block key="ui_soultalents_blank" korean="Вы можете установить характеристики навык" />
+	<block key="adjust_skill" korean="Применить навыки" />
+	<block key="selectitem" korean="Выберите компенсации" />
+	<block key="greatsucces" korean="Большой успех" />
+	<block key="new_mail_count" korean="Новая Почта" />
+	<block key="recipe" korean="Рецепт" />
+	<block key="production" korean="Производство" />
+	<block key="synergy" korean="Дополнительные эффекты" />
+	<block key="talents_equipsoulstone_msg" korean="Вы хотите, чтобы преобразовать в природных сил?" />
+	<block key="soultalentpoint" korean="Характеристика прочности" />
+	<block key="fellow_talon" korean="Ноготь на пальце ноги" />
+	<block key="fellow_saddle" korean="Седло" />
+	<block key="fellow_sounstone" korean="Younghonseok" />
+	<block key="idoncare" korean="Голый" />
+	<block key="gather" korean="Сбор" />
+	<block key="enetfailure talents notopenpart" korean="Вы не можете прикреплять Навыки собственности" />
+	<block key="sealedfelloweffect" korean="Эффект Bonginseok" />
+	<block key="sealedfelloweffectdesc" korean="Сотрудник bonginseok стойку" />
+	<block key="previewfelloweffect" korean="Сотрудник эффект bonginseok" />
+	<block key="itemequipskill" korean="Носите навыки" />
+	<block key="quick_token" korean="Жетоны" />
+	<block key="HunterPKState" korean="Охотник состояние человека" />
+	<block key="KillPKState" korean="Slayer состояние" />
+	<block key="GodPKState" korean="Новое состояние смерти" />
+	<block key="daily" korean="Один дней" />
+	<block key="tamingcondition" korean="Условия Укрощение" />
+	<block key="tamingappoint" korean="Укрощение точку" />
+	<block key="tamingconditionneed" korean="Укрощение условия, необходимые (см книгу)" />
+	<block key="tamingconditionsatisfy" korean="Условия Укрощение условия:" />
+	<block key="lobby_delete_char" korean="Очистить сейчас" />
+	<block key="tooltip_killcount_kill" korean="\u003cUI_Y\u003e Очистка \u003c/ UI_Y\u003e\nКоличество игроков убит сегодня" />
+	<block key="tooltip_killcount_death" korean="\u003cUI_Y\u003e Смерть \u003c/ UI_Y\u003e\nМертвые раз по Сегодня Игроки" />
+	<block key="soultalentskilllearn" korean="\u003cY_ST\u003e узнал, что мастерство \u003c/ Y_ST\u003e" />
+	<block key="areaaltitude" korean="Региональный Высота" />
+	<block key="fellowaltitudetooltip" korean="Если вы превысите высота выпустить собрата вызвал." />
+	<block key="hour_time" korean="Город" />
+	<block key="guild_mark_no_gold" korean="Золото не может изменить достаточно." />
+	<block key="guild_mark_diffent_size_msg" korean="Вы уверены, что хотите делегировать Гильдия магистра?" />
+	<block key="guild_mark_upload_description" korean="Чтобы довести до образа имени файла в папке GuildMark.JPG. Размер 64Pixel х 64Pixel." />
+	<block key="point" korean="Точка" />
+	<block key="savedkeyduplication" korean="И тот же ключ как ключ хранится в настоящее время." />
+	<block key="chat_exe_boarding_apply" korean="Ужин на борту с нами" />
+	<block key="chat_exe_boarding_invite" korean="Будучи приглашенным на борту" />
+	<block key="itemuse_split_item" korean="Вещи перерывы" />
+	<block key="itemuse_change_fellow_name" korean="Сотрудник Изменить имя" />
+	<block key="itemuse_jump_map" korean="Перейти заказ" />
+	<block key="itemuse_throw_item" korean="Утилизируйте изделия" />
+	<block key="itemuse_skill_use" korean="Используемые детали" />
+	<block key="People" korean="Лиц" />
+	<block key="NoLimit" korean="Неограниченный" />
+	<block key="Hide" korean="Сокрытие" />
+	<block key="SimpleDraw" korean="Простой монитор" />
+	<block key="proficiency" korean="Опытный шаг" />
+	<block key="mastery" korean="Умение" />
+	<block key="check" korean="Регистрация" />
+	<block key="spdamagereductionmult" korean="Снижение магического урона" />
+	<block key="spdefense" korean="Магическая защита" />
+	<block key="rechppowmult" korean="Vitality естественной регенерации" />
+	<block key="recmppowmult" korean="Природные маны" />
+	<block key="altitudeplus" korean="Сотрудник высоты" />
+	<block key="FellowGrowUpExpMult" korean="Сотрудник опыт" />
+	<block key="FellowGrowUpExpPlus" korean="Сотрудник опыт" />
+	<block key="fellowtamingaprate" korean="Укрощение точку потребления" />
+	<block key="allgenderusepossible" korean="Unisex" />
+	<block key="receppowmult" korean="Точки рекуперации энергии" />
+	<block key="droprateplus" korean="Скорость падения" />
+	<block key="cannotabandon" korean="Не уничтожить" />
+	<block key="ui_area_altitude" korean="Региональный Высота" />
+	<block key="fellowmaxlevel" korean="Этот парень достиг уровня больше не может расти." />
+	<block key="maxfellowlevel" korean="Максимальный уровень роста" />
+	<block key="movespeed" korean="Скорость движения" />
+	<block key="fellow_movespeed_desc" korean="Информация, указывающая на скорость движения элемента представлен м является членом блока." />
+	<block key="altitude" korean="Высота" />
+	<block key="fellow_altitude_desc" korean="Сотрудник является запись, чтобы отобразить высоту, чтобы летать по максимуму." />
+	<block key="altitudemax" korean="Максимальная высота" />
+	<block key="altitudemax_desc" korean="Сотрудник является запись, чтобы отобразить высоту, чтобы летать по максимуму." />
+	<block key="playergrowupexpmult" korean="Опыт, приобретенный" />
+	<block key="possessioneff" korean="Владение эффект" />
+	<block key="cridamreduceplus" korean="Защита критической Нанесенный" />
+	<block key="eYellowTimeSec" korean="Vital время" />
+	<block key="allattpowplus" korean="Все Атака" />
+	<block key="standarddaily" korean="1 дней, оставшихся энергии Время" />
+	<block key="standardweek" korean="Оставшееся время сила неделю" />
+	<block key="premiumweek" korean="PC номера еженедельного времени остаточная энергия" />
+	<block key="allattpowmult" korean="Все Атака" />
+	<block key="alldefpowplus" korean="Вся защита" />
+	<block key="alldefpowmult" korean="Вся защита" />
+	<block key="nosealedfellow" korean="Молодец, что не может быть решена." />
+	<block key="tamingratemult" korean="Укрощение вероятность успеха" />
+	<block key="createproductratemult" korean="Джек-пот Производство шансы" />
+	<block key="reignforcemult" korean="Повышение скорости успеха" />
+	<block key="auctionregfeemult" korean="Агенство по продаже Уменьшение пошлины" />
+	<block key="auctionsellfeemult" korean="Агент по продажам сокращение комиссия" />
+	<block key="dropmoneyratemult" korean="Деньги падения игра Восстание" />
+	<block key="maxgemslot" korean="\u003cUI_G\u003e драгоценный камень номер слота \u003c/ UI_G\u003e" />
+	<block key="IgnoreLimitStr" korean="Общество с ограниченной подачу электропитания" />
+	<block key="IgnoreLimitDex" korean="Ловкость ограниченный выпуск" />
+	<block key="IgnoreLimitInt" korean="Интеллектуальная ограниченный выпуск" />
+	<block key="IgnoreLimitVtl" korean="Выносливость ограниченный выпуск" />
+	<block key="IgnoreLimitMtl" korean="Психические пределы выходные" />
+	<block key="IgnoreLimitBdy" korean="Ограничение физической сопротивления релизы" />
+	<block key="IgnoreLimitMnd" korean="По ограничению выброса психического сопротивления" />
+	<block key="IgnoreLimitMaxHp" korean="Макс HP ограниченный выпуск" />
+	<block key="IgnoreLimitMaxMp" korean="Макс MP ограниченный выпуск" />
+	<block key="IgnoreLimitWpPhMaxAttPow" korean="Максимальный урон оружием освободить физические ограничения" />
+	<block key="IgnoreLimitSpPhMaxAttPow" korean="Магический урон ограничивает максимальный физический релиз" />
+	<block key="IgnoreLimitWpPhDefPow" korean="Физическое оружие обороны от пределов" />
+	<block key="IgnoreLimitSpPhDefPow" korean="Физическая защита Магия ограниченный выпуск" />
+	<block key="IgnoreLimitWpPhAttCriRate" korean="Оружие физические шанс критического покинуть пределы" />
+	<block key="IgnoreLimitSpCriRate" korean="Магия критическая скорость ограниченный выпуск" />
+	<block key="IgnoreLimitBodyRegistRate" korean="Шесть сопротивление системы ограниченный выпуск" />
+	<block key="IgnoreLimitMindRegistRate" korean="Психические расстройства сопротивление ограниченный выпуск" />
+	<block key="maxepplus" korean="Максимальная EP" />
+	<block key="earnmoneyratemult" korean="Золото падает количество приобретения" />
+</blocks>

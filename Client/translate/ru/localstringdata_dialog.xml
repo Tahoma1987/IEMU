@@ -1,0 +1,650 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korea_korean -->
+<!-- china_chinese -->
+<!-- america_english -->
+<blocks>
+	<keys num_keys="4" key1="key" key2="korea_korean" key3="china_chinese" key4="america_english" />
+	<block key="Dialog_1010000_Title" korea_korean="12345678 12345678 구십 ninety сто двадцать три" />
+	<block key="Dialog_Answer_Common_Title_0" korea_korean="Полный диалог" />
+	<block key="Dialog_1010001_Title" korea_korean="Я Хао называется ворона Тень клан. Приходите давайте вырваться из этого места." />
+	<block key="Dialog_1010001_Text0" korea_korean="Я Хао называется ворона Тень клан. Приходите давайте вырваться из этого места." />
+	<block key="Dialog_1010001_Answer_0_Text" korea_korean="Для постановки" />
+	<block key="Dialog_1010001_Answer_1_Text" korea_korean="Бить победить льда существ" />
+	<block key="Dialog_1010001_Answer_2_Text" korea_korean="Место, где этот корабль" />
+	<block key="Dialog_1030001_Title" korea_korean="Луи Ranger выиграл" />
+	<block key="Dialog_1030001_Text0" korea_korean="Я собирался позволить подкрепление. Вы не одиноки? Каталог \u003cbr\u003e Статья danjangnim'll снова отправить сообщение. Тогда, Хао ожидают, что вы, что вы посылаете любые войска в обучении. Каталог \u003cbr\u003e Вот. В настоящее время очень серьезная ситуация Иво Каталог \u003cbr\u003e давно, есть случайные голоса были услышаны в доме Brage, они готовы к бою Вы думаете, что закончена. Каталог \u003cbr\u003e Есть так много вещей, чтобы сделать прямо сейчас, рискованно и бороться вокруг лагеря. Можете ли вы мне помочь?" />
+	<block key="Dialog_1030001_Answer_0_Text" korea_korean="Оставшиеся в живых стихий продольной" />
+	<block key="Dialog_1030001_Answer_1_Text" korea_korean="Угрозы спор весна город" />
+	<block key="Dialog_1030001_Answer_2_Text" korea_korean="Бригадный генерал Аккра Нью-" />
+	<block key="Dialog_1030001_Answer_3_Text" korea_korean="Вернуться в исходное положение" />
+	<block key="Dialog_1030002_Title" korea_korean="Посмотреть Sense" />
+	<block key="Dialog_1030002_Text0" korea_korean="Приходите, чтобы спасти меня? Бог Иисус. Большое спасибо." />
+	<block key="Dialog_1030002_Answer_0_Text" korea_korean="Awake к власти племени" />
+	<block key="Dialog_1030003_Title" korea_korean="Выжившие Алекс" />
+	<block key="Dialog_1030003_Text0" korea_korean="Прослушивание моего рассказа, хотелось Дао-релиз. Мы тривиальны убийца, который был грабежом грибы производится во всех Рента. Es не появляются до этого чертова штука." />
+	<block key="Dialog_1030003_Answer_0_Text" korea_korean="Правда замороженных руин" />
+	<block key="Dialog_1030004_Title" korea_korean="Baglio мудрый rageul" />
+	<block key="Dialog_1030004_Text0" korea_korean="Мы жили в Мо Рента являются meoswi он психически болен, кто имел участие во многих нечеткие, бежал и жил itjiyo получить защиту людей от здесь. Тем не менее, в один прекрасный день будут жить в мире, как вернуться к старому Морен Таро." />
+	<block key="Dialog_1030004_Answer_0_Text" korea_korean="Аккра божественное сокровище" />
+	<block key="Dialog_2020002_Title" korea_korean="Еда галантерейщик" />
+	<block key="Dialog_2020002_Text0" korea_korean="У меня есть много дешевого материала." />
+	<block key="Dialog_2020002_Answer_0_Text" korea_korean="Продуктовые магазины" />
+	<block key="Dialog_2020002_Answer_1_Text" korea_korean="Продуктовый магазин" />
+	<block key="Dialog_1020001_Title" korea_korean="Дирижабль Капитан peureni статья" />
+	<block key="Dialog_1020001_Text0" korea_korean="Brage ясно, что они напали на наш корабль!\nКаталог \u003cbr\u003e\nМой первоначальный план был идти прямо в нее и Каньяс eotneunde секс, я бы взять на себя риск, чтобы спасти между вами и пола агента Саран.\nКаталог \u003cbr\u003e\nК счастью, страшный замок перешел уйти, в тот момент, который проходит через лесные духи бюстгальтер групп I Shot The корабль вниз и не иметь арбалет!\nКаталог \u003cbr\u003e\nЭто большое дело много жертв. Быстро очистить эту опасную ситуацию, мы должны бороться против диких животных и хотите, чтобы атаковать его вокруг." />
+	<block key="Dialog_1020002_Title" korea_korean="Croix kunjok главный инженер Рейн gulran" />
+	<block key="Dialog_1020002_Text0" korea_korean="Я критически важного оборудования для ремонта корабля может подняться в небо снова. Каталог \u003cbr\u003e цилиндровый двигатель сломался, приводной вал паровой трубы был очень жесткую позицию полностью искаженное ремонт. Каталог \u003cbr\u003e Ключевое оборудование Лошади, которые выживают бы исправить двигатель. Yigetjyo не легкая работа?" />
+	<block key="Dialog_1020003_Title" korea_korean="Синтезатор Shadow Clan" />
+	<block key="Dialog_1020003_Text0" korea_korean="Вы оправиться от шока аварии? Позвольте мне сказать вам, знать, где это место. Каталог \u003cbr\u003e Лес Духов место дотягивает царства в руках Канас находится внутри страны и в окружении высоких гор в настоящее время, где доминируют цереуса лесных и хищников групп бюстгальтер. \u003cbr\u003e \u003cbr\u003e Я охранников в этой области от имени Кроу Shadow клана, которые danjangnim." />
+	<block key="Dialog_1020003_Answer_0_Text" korea_korean="" />
+	<block key="Dialog_1020004_Title" korea_korean="Эльфийские дети" />
+	<block key="Dialog_1020004_Text0" korea_korean="Будете ли вы играть со мной?" />
+	<block key="Dialog_1020005_Title" korea_korean="Эльф девушка" />
+	<block key="Dialog_1020005_Text0" korea_korean="Добрый вечер." />
+	<block key="Dialog_1020006_Title" korea_korean="Сотрудник покровителем" />
+	<block key="Dialog_1020006_Text0" korea_korean="Это не значит, что все ребята будут покровителем." />
+	<block key="Dialog_1020007_Title" korea_korean="Эльф Человек" />
+	<block key="Dialog_1020007_Text0" korea_korean="Вы когда-нибудь окрестных деревень?\nЧтобы найти место, которое вы хотите перенести." />
+	<block key="Dialog_1020009_Title" korea_korean="Руины научный руководитель" />
+	<block key="Dialog_1020009_Text0" korea_korean="Itdapnida значительный регресс в расследовании из-за Brage. Чем malyijyo'm еще свалили, как гора исследования." />
+	<block key="Dialog_1020010_Title" korea_korean="Исследователи" />
+	<block key="Dialog_1020010_Text0" korea_korean="Где он положил отчет был написан раньше." />
+	<block key="Dialog_1020011_Title" korea_korean="Королевские исследования раздел" />
+	<block key="Dialog_1020011_Text0" korea_korean="Там, кажется, лес дух еще много осталось, чтобы исследовать эту область. Разве не было бы большой интерес в этом Каньяс царство?" />
+	<block key="Dialog_1010003_Title" korea_korean="Капитан судна" />
+	<block key="Dialog_1010003_Text0" korea_korean="Перейти спешить" />
+	<block key="Dialog_1020012_Title" korea_korean="Тень Ворона лидер клана" />
+	<block key="Dialog_1020012_Text0" korea_korean="О ...! Питать вас ... не могу в это поверить! Найдите мне толкнуть risk're здесь ... сюда.\nКаталог \u003cbr\u003e\nУ меня есть злой день Brage Огонь Голем и крупного рогатого скота держали занимал это место, чтобы не допустить ворота. Я продолжал еще вы думаете, что вы нуждаетесь в помощи, чтобы избежать лесных духов.\nКаталог \u003cbr\u003e\nХао сообщим вам, как можно скорее, так что весть о царстве Его Величества в Померании принцессы." />
+	<block key="Dialog_1020013_Title" korea_korean="Аллен дирижабль экипаж" />
+	<block key="Dialog_1020013_Text0" korea_korean="Вы имеете в своем уме. Как тело в порядке?\nКаталог \u003cbr\u003e\nМы разбился в середине лесных духов. Я думаю, что они нападают на корабль мы снимали." />
+	<block key="Dialog_1020014_Title" korea_korean="Лидер лесных эльфов" />
+	<block key="Dialog_1020014_Text0" korea_korean="Будь осторожен! Окружающий лес все в окружении опасной ауры. Благослови Бог будет выглядеть, чтобы прийти." />
+	<block key="Dialog_1020014_Answer_0_Text" korea_korean="Перейти к пожарным проглотил руинах" />
+	<block key="Dialog_1020014_Answer_1_Text" korea_korean="Перейти к замороженных руин" />
+	<block key="Dialog_1020014_Answer_2_Text" korea_korean="О проглотил пожарных развалинах" />
+	<block key="Dialog_1020014_Answer_3_Text" korea_korean="О замороженных руин" />
+	<block key="Dialog_1020015_Title" korea_korean="Руины научный руководитель" />
+	<block key="Dialog_1020015_Text0" korea_korean="Тем не менее, увидел святый Карен Dia я пошел, чтобы украсть что передумает." />
+	<block key="Dialog_1020015_Answer_0_Text" korea_korean="Я интересную историю." />
+	<block key="Dialog_1020016_Title" korea_korean="Руины научный руководитель" />
+	<block key="Dialog_1020016_Text0" korea_korean="Я думаю, больше минут." />
+	<block key="Dialog_1020016_Answer_0_Text" korea_korean="Опасные Карен Dia" />
+	<block key="Dialog_1020017_Title" korea_korean="Руины научный руководитель" />
+	<block key="Dialog_1020017_Text0" korea_korean="Он сказал, что нашел останки, дайте мне посмотреть." />
+	<block key="Dialog_1020017_Answer_0_Text" korea_korean="Вот." />
+	<block key="Dialog_1020018_Title" korea_korean="Руины научный руководитель" />
+	<block key="Dialog_1020018_Text0" korea_korean="Ах! Это было правильно это святое Карен Dia." />
+	<block key="Dialog_1020018_Answer_0_Text" korea_korean="Да." />
+	<block key="Dialog_1020019_Title" korea_korean="Руины научный руководитель" />
+	<block key="Dialog_1020019_Text0" korea_korean="Xiamen наказать мертвым Браге, я очень рад." />
+	<block key="Dialog_1020019_Answer_0_Text" korea_korean="Опасные Карен Dia." />
+	<block key="Dialog_1020020_Title" korea_korean="Tobeoldae предал вон" />
+	<block key="Dialog_1020020_Text0" korea_korean="Я сейчас в стоящие спиной, он просто будет наказан военных." />
+	<block key="Dialog_1020020_Answer_2_Text" korea_korean="Как я дам артефакт?" />
+	<block key="Dialog_1020022_Title" korea_korean="Tobeoldae предал вон" />
+	<block key="Dialog_1020022_Text0" korea_korean="Eueuk was've было .... Я обращусь святой Карен Dia." />
+	<block key="Dialog_1020022_Answer_0_Text" korea_korean="Я думал, что хорошо." />
+	<block key="Dialog_1020090_Title" korea_korean="Meoswi как золото" />
+	<block key="Dialog_1020090_Text0" korea_korean="Andoeyo, кто говорит, такого рода тайны, слишком! У меня есть, самые яркие золота в мире. Хе-хе хе-хе ~" />
+	<block key="Dialog_1020091_Title" korea_korean="Рон Смит передач" />
+	<block key="Dialog_1020091_Text0" korea_korean="Люди. Хотите взглянуть на руки оружие?" />
+	<block key="Dialog_1020092_Title" korea_korean="Канас и статьи" />
+	<block key="Dialog_1020092_Text0" korea_korean="Я знаю, что мне нужно, чтобы посмотреть, что там в пещере." />
+	<block key="Dialog_1020093_Title" korea_korean="И Канаш направил солдат" />
+	<block key="Dialog_1020093_Text0" korea_korean="Он искал капитана Лорда, который может дать информацию о пещере." />
+	<block key="Dialog_1020021_Title" korea_korean="Elemental Elemental" />
+	<block key="Dialog_1020021_Text0" korea_korean="Другой успокаивает чувство в вашей группе." />
+	<block key="Dialog_1020025_Title" korea_korean="Новичок Воин Skill Master" />
+	<block key="Dialog_1020025_Text0" korea_korean="Если вы обычно не тренировался потерять мужество в любой чрезвычайной ситуации! Нужна книга о вас, воин обучение?" />
+	<block key="Dialog_1020026_Title" korea_korean="Начинающие Мастер Жрец Навыки" />
+	<block key="Dialog_1020026_Text0" korea_korean="Мы оказались на их пути в Канас. Мы все должны сыграть свою обязанность handapnida в любое время, в любом месте, даже если поставить в этой ситуации. По какой-то шанс, нужно ли мне книгу о подготовке священника?" />
+	<block key="Dialog_1020027_Title" korea_korean="Главный инженер взять мозга Croix kunjok" />
+	<block key="Dialog_1020027_Text0" korea_korean="Просмотр групп слышал рассказы, которые атакуют корабли, плавающие под их лесной великан арбалет на другой должности главного инженера. Каталог \u003cbr\u003e, как предполагается, все равно, будет летать по высоте полета духов леса была слишком низкой. \u003cbr\u003e \u003c BR\u003e Свадебные Группы хищники прежде чем они найдут нас в лесу этот корабль будет отремонтирован. трудной ситуации." />
+	<block key="Dialog_1020029_Title" korea_korean="Выпечка мясные трейдеры Ученик" />
+	<block key="Dialog_1020029_Text0" korea_korean="Если бы только потому, что они Браге изолированном положении, будет означать его собственный был Атмосфера пикник." />
+	<block key="Dialog_1020030_Title" korea_korean="Трейдеры смотрят ученик" />
+	<block key="Dialog_1020030_Text0" korea_korean="Turn Me хорошо выглядеть. Друг! Мясо горит.!" />
+	<block key="Dialog_1020031_Title" korea_korean="Kuhn Croix Главный инженер" />
+	<block key="Dialog_1020031_Text0" korea_korean="Yireotgena беспорядок должен сказать ... Я не знаю, если вы должны начать работать из любой точки мира." />
+	<block key="Dialog_1020032_Title" korea_korean="Парень Вороний Лев" />
+	<block key="Dialog_1020032_Text0" korea_korean="Reureung размер. Keureung. Принюхиваясь" />
+	<block key="Dialog_1020033_Title" korea_korean="Руины исследовательской части" />
+	<block key="Dialog_1020033_Text0" korea_korean="Руины ищете выгравировал модели, украшенные гравированными древних эльфов ... О, Иисусе Христе! Кто ты?" />
+	<block key="Dialog_1020034_Title" korea_korean="Менди Ом ученик купец" />
+	<block key="Dialog_1020034_Text0" korea_korean="Я могу вам чем-нибудь помочь Менди является лес, не точка духе дирижабля разбился Ом Трейдеры Союз. Хотя dwaetjiman импровизации, никакая вещь уже." />
+	<block key="Dialog_1020035_Title" korea_korean="Менди Ом hogaekkkun" />
+	<block key="Dialog_1020035_Text0" korea_korean="Приходите opsyeo! Нажав ситуация заткнуться даже вашего удобства главный приоритет! Магазин Менди Ом." />
+	<block key="Dialog_1020038_Title" korea_korean="Дистанционное Рев капитан Паоло Shenron статья" />
+	<block key="Dialog_1020038_Text0" korea_korean="Когда Вы уезжаете в Браге Подчинение и Канас пола не знаю, чтобы отправить такое долгое время в этом месте. Постановление также знаем о том, что Браге утра, огонь голем. Каталог \u003cbr\u003e войдет в Огонь Голем в руинах пожарной проглотил поражение жизни вы потеряли много статье Shenron. Тем не менее, мы не должны делать все. Каталог \u003cbr\u003e Brage продолжает не стрелять гигантский арбалет в сторону лагеря, чтобы напасть на нас. Jundamyeon Brage помогает вам бороться с нами, мы вам поможем." />
+	<block key="Dialog_1020038_Text0_F" korea_korean="" />
+	<block key="Dialog_1020038_Text1" korea_korean="Jundamyeon вы будете большим подспорьем, чтобы помочь огня голема.\nКаталог \u003cbr\u003e\nShenron независимо от того, как мы рыцари сражались с мужеством, но на этот раз Brage've был здесь слишком долго. Люди идут, что они даже не вернуться Голем забил пламя.\nКаталог \u003cbr\u003e\nДаже тянуть '' найдете живой экипаж могли бы улучшить моральный дух. Давай дают." />
+	<block key="Dialog_1020039_Title" korea_korean="Покорение Brage экипаж" />
+	<block key="Dialog_1020039_Text0" korea_korean="А? Ты, мой первый взгляд на лице! Экипажи EO опросе?" />
+	<block key="Dialog_1020040_Title" korea_korean="Покорение Brage экипаж" />
+	<block key="Dialog_1020040_Text0" korea_korean="Brage Если вы не знаю. Я не хочу, чтобы поразить абсолютное лицо призрака! Euheu, не было бы museopgun." />
+	<block key="Dialog_1020041_Title" korea_korean="Кузнец Croix Куна Милан" />
+	<block key="Dialog_1020041_Text0" korea_korean="Мы Croix Kuhn семья из нескольких видов, которые живут в мире, ловко и имел отличную Кузнечное дело я могу найти лучшее способности. Каталог \u003cbr\u003e Огонь голем охраны подземное царство в Канас и в ситуациях, которые не могут легко вернуться Управление рыцарей доспехи и нашей аппаратуре." />
+	<block key="Dialog_1020042_Title" korea_korean="Менди Om торговые вагонов" />
+	<block key="Dialog_1020042_Text0" korea_korean="Добрый вечер. Есть ли, что вам нужно что-то?" />
+	<block key="Dialog_1020043_Title" korea_korean="Чемпион промежуточных мастерство Мастер" />
+	<block key="Dialog_1020043_Text0" korea_korean="Если вы хотите знать сильную власть мастерство, чтобы вдохновить твой меч, я буду иметь книгу очень полезно!" />
+	<block key="Dialog_1020044_Title" korea_korean="Промежуточные навыки мастер священник" />
+	<block key="Dialog_1020044_Text0" korea_korean="Для того чтобы стать сильнее с помощью священника священных книг, которые я абсолютно необходимо." />
+	<block key="Dialog_1020045_Title" korea_korean="Руины исследовательской части" />
+	<block key="Dialog_1020045_Text0" korea_korean="Это так много, чтобы исследовать много, у вас есть хандрить здесь, мне скучно." />
+	<block key="Dialog_1020046_Title" korea_korean="Руины исследовательской части" />
+	<block key="Dialog_1020046_Text0" korea_korean="Там вы много развалин отказались давно, лесные духи. Мы заложили исследовать руины здесь." />
+	<block key="Dialog_1020047_Title" korea_korean="Kuhn Croix кузнец Харлан Новости" />
+	<block key="Dialog_1020047_Text0" korea_korean="Brage и борьба на корточках сделал этот лагерь. Тем не менее, руководитель Brage, а затем бросила был атакован нагрузки, такие как альтер-эго и даже потерял молоток. Каталог \u003cbr\u003e Браге комиссары камнем Посмотрите внимательно, чтобы забрать мою молоток. Каталог \u003cbr\u003e молоток За потерянных рабочих мест скорость не то же самое старое, Бог даже не родился. Когда вы работаете с детства был с помощью молотка, молоток ES-ла-другой стороны прекрасно ложится в eopdan." />
+	<block key="Dialog_1020047_Answer_7_Text" korea_korean="Croix Kuhn семья, чтобы поговорить с кузнецом" />
+	<block key="Dialog_1020047_Answer_8_Text" korea_korean="Croix Kuhn семья, чтобы поговорить с кузнецом" />
+	<block key="Dialog_1020048_Title" korea_korean="Лидер чем мать родила Лесная ягода" />
+	<block key="Dialog_1020048_Text0" korea_korean="Я Brage жить в лесу или джунглях или в лесу, чтобы найти скрытые риск и везение где-то Shenron стал членом ордена тамплиеров. Каталог \u003cbr\u003e Постановление интересно там. Shes принцип, который доминирует в их мир алчности и насилия. Каталог \u003cbr\u003e Brage губит лес, убить существо, Бог подрывают все ресурсы, которые они приносят нам. \u003cbr\u003e \u003cbr\u003e Браге и драки Вот и все ценные вещи хранятся. Каталог \u003cbr\u003e святой Бог благословит вас всегда с желанием!" />
+	<block key="Dialog_1020049_Title" korea_korean="Руины исследовательской части" />
+	<block key="Dialog_1020049_Text0" korea_korean="Wooang! Раздражает раздражает. В лучшем случае haetdeoniman земляные работы трудно, появилась звезда странные вещи, что беспокою вас, на самом деле!" />
+	<block key="Dialog_1020050_Title" korea_korean="Нижняя далеко Shenron Рыцарь-командор" />
+	<block key="Dialog_1020050_Text0" korea_korean="Здесь, наверху alone're здесь, ты очень сильный Guess. Это все началось прямо здесь свой собственный!" />
+	<block key="Dialog_1020050_Answer_0_Text" korea_korean="Загрузка пожарной голема" />
+	<block key="Dialog_1020050_Answer_1_Text" korea_korean="Огонь Голем" />
+	<block key="Dialog_1020050_Answer_2_Text" korea_korean="Вернуться в исходное положение" />
+	<block key="Dialog_1020051_Title" korea_korean="Менеджер Транспорт" />
+	<block key="Dialog_1020051_Text0" korea_korean="Я ipjyo лицо, занимающееся товарища борту быстро перейти в другой город! Конечно, теперь говорит, что я не могу использовать их, потому что они не принесли на борту сотрудник." />
+	<block key="Dialog_1020052_Title" korea_korean="Перейти купить портала Ромеро" />
+	<block key="Dialog_1020052_Text0" korea_korean="Если вы используете этот портал, заполненный можно быстро перешел к назначенному месту Неда континента. Каталог \u003cbr\u003e Тем не менее, эта функция пока не работает, потому что неполны. Тем не менее, иногда она будет работать должным образом. Каталог \u003cbr\u003e все порталы, чтобы исправить пол, чтобы избежать атаку Brage'd думал, что она собирается бежать из этого леса." />
+	<block key="Dialog_1020052_Answer_0_Text" korea_korean="Перейти к исторического руины лагеря" />
+	<block key="Dialog_1020052_Answer_1_Text" korea_korean="Перейти к светятся роща лагерь" />
+	<block key="Dialog_1020052_Answer_2_Text" korea_korean="Вернуться в город Сарань агента" />
+	<block key="Dialog_1020053_Title" korea_korean="Shenron памятных Alex Рыцари" />
+	<block key="Dialog_1020053_Text0" korea_korean="Изолированные после того как мы нашли, что во время изучения лесных духов археологические руины есть жизнь рождается из тьмы в южной. Каталог \u003cbr\u003e Когда wontongham живые и мертвые призрак проведения может излучать злой дух naemyeo Хао без разбора нападения на живой организм. Каталог \u003cbr\u003e\nТам это призрак, который раз я не знаю, крупномасштабное нападение на лагерь рыцарей стояли мужчины и границ." />
+	<block key="Dialog_1020053_Answer_6_Text" korea_korean="Говорит спасение пришло зелье" />
+	<block key="Dialog_1020054_Title" korea_korean="Скауты выиграл Борис" />
+	<block key="Dialog_1020054_Text0" korea_korean="МОМСС стоял в этом месте несколько дней границ с депутатами Алекса. Каталог \u003cbr\u003e Духа иногда по ночам, чтобы напасть на нас, natanalkka Были ли вы не боитесь мечтать является то, что жуткое чувство. О, сказать пять Shenron трус, как я в рыцари победили патрули. Каталог \u003cbr\u003e Я думаю, что он трус, потому что я думаю, что призрак, мне нужно что-то дать что-то судно. Благодать jundamyeon Каталог \u003cbr\u003e помочь мне Крупный рогатый скот не забуду." />
+	<block key="Dialog_1020056_Title" korea_korean="Скауты выиграл серин" />
+	<block key="Dialog_1020056_Text0" korea_korean="Этот лес не должны быть бдительными в красивом состоянии yijiyo красивом месте? Каталог \u003cbr\u003e Лес. Каталог \u003cbr\u003e\nМы боремся со злыми духами, Проверка динамику Brage дома в холмы. Каталог \u003cbr\u003e Brage я есть глава дома, начальник элитных войск, Brage Браге." />
+	<block key="Dialog_1020056_Answer_6_Text" korea_korean="Серин и разведчики хотел поговорить" />
+	<block key="Dialog_1020057_Title" korea_korean="Лес направляющей kailraseu" />
+	<block key="Dialog_1020057_Text0" korea_korean="Когда мы живем в лесных эльфов остались в Древнем царстве мира не может слышать звук природы сказать. Знаете ли вы Каталог \u003cbr\u003e дерева или камня, звук говорит. Каталог \u003cbr\u003e Многие эльфы ушли далеко падать я не могу слышать звук. Если и когда он сталкивается падшие эльфы быть осторожным. Каталог \u003cbr\u003e их зовут эльфы хаос. Каталог \u003cbr\u003e хотите, чтобы благословить святой Бог всегда с тобой!" />
+	<block key="Dialog_1020059_Title" korea_korean="Это экипаж космического корабля" />
+	<block key="Dialog_1020059_Text0" korea_korean="Ох. Вы разбудили. Каталог \u003cbr\u003e Теперь были заложены в течение 8 часов, если у вас есть дирижабль разбился. Как вы можете видеть, много пострадавший от сильного удара во время аварии. Каталог \u003cbr\u003e раз, но собрать в одном месте, раненый, рука лекарств и помочь залечить раны мне не хватает много." />
+	<block key="Dialog_1020060_Title" korea_korean="Тень Из клана" />
+	<block key="Dialog_1020060_Text0" korea_korean="Это стало спешить. Чтобы сохранить принцесса Рания отбили агент не удалось сделать пол Саран Саран немного Вороны и пошел, и я никогда не иметь. Вместо этого, она находится в тюрьме, чтобы спасти тебя. Каталог \u003cbr\u003e\nЯ здесь, чтобы сообщить как можно скорее, чтобы избежать известие, что Его Величество и Королевства принцесса Поморское Канас.\n\u003cbr\u003e \u003cbr\u003e путь, я могу легко уйти, оставить людей на месте крушения был похищен волка. Посмотрите там. Я свирепых волков, бродящих по окрестности." />
+	<block key="Dialog_1020061_Title" korea_korean="Shenron статьи раздела Ролена" />
+	<block key="Dialog_1020061_Text0" korea_korean="Пожалуйста снизить осанку! \u003cbr\u003e \u003cbr\u003e Гигантском арбалет ITSO падает! Каталог \u003cbr\u003e Это передняя линия обороны в борьбе с и Brage Io бойцы. Brage бежит это место продолжает атаковать с гигантским арбалета проникнуть в оборону. Каталог \u003cbr\u003e Если есть перфорированные О, мы бродить бесцельно покинули лагерь Каталог \u003cbr\u003e никогда так. О, это не должно быть это beoleojyeoseo. Мы все посвятил свою жизнь он будет наблюдать за периметр." />
+	<block key="Dialog_1020071_Title" korea_korean="Горит постоянно глотал портал" />
+	<block key="Dialog_1020071_Text0" korea_korean="Портал, который может пойти в огонь проглотил руинах." />
+	<block key="Dialog_1020071_answer_0_text" korea_korean="Введите руины проглотил огонь" />
+	<block key="Dialog_1020072_Title" korea_korean="Лесные духи вернуться портал" />
+	<block key="Dialog_1020072_Text0" korea_korean="Портал, чтобы получить обратно в лес духов." />
+	<block key="Dialog_1020072_answer_0_text" korea_korean="Чтобы вернуться к лесным духам" />
+	<block key="Dialog_1020073_Title" korea_korean="Скауты выиграл Нильс" />
+	<block key="Dialog_1020073_Text0" korea_korean="Brage predators've боролись в течение долгого времени здесь. Каталог \u003cbr\u003e Ломая много врагов, казалось бы, еще сражаться знаки чисел и это не выглядит законченным. Каталог \u003cbr\u003e Дед поддержал разведки круг прямо на Shenron рыцарей, так крупный рогатый скот в течение длительного времени я не знаю, не возвращаться к царству." />
+	<block key="Dialog_1020074_Title" korea_korean="Скауты хотел Маркуса" />
+	<block key="Dialog_1020074_Text0" korea_korean="Shenron тамплиеры защите царство Подавать команду царя и ITSO Каньяс и сделать святые врагов суда. Каталог \u003cbr\u003e своего создания Io резервирования ahkal Дус и его людей в военное время света. Они стали основой для создания Царства Канаш. Каталог \u003cbr\u003e О, мы никогда не потеряет своей бывшей гордости и чувства собственного достоинства." />
+	<block key="Dialog_1020075_Title" korea_korean="Скауты оригинал нажмите merikseu" />
+	<block key="Dialog_1020075_Text0" korea_korean="Мы воплощению Саран немного и 6 ЭО элита корпус вслед за ним маленький демон. Каталог \u003cbr\u003e Саран teuneun yeotji благородный мастер приводит царство до muldeulgi силы зла. Тем не менее, я чувствую, что кровь течет в его крови тела демона hayeotso мести по отношению к людям, которые любят своего короля. Каталог \u003cbr\u003e 6 корпус каких-монстр с превосходной физической форме так трудно для человека противника. Для того, чтобы сразиться с ними. О Пина нужен этот тренинг." />
+	<block key="Dialog_1020076_Title" korea_korean="Исходный поток Ranger Рик" />
+	<block key="Dialog_1020076_Text0" korea_korean="Боевая группа, и я не знаю, когда конец бюстгальтер летать. Кто-то будет приятно haejumyeon уничтожить Brage гигантский арбалет ... Каталог \u003cbr\u003e МОМСС носить много повреждений из-за его огромного арбалета. Китай для себя \u003cbr\u003e вижу статьи Shenron под атаки от гигантских арбалета идти по пути О будет." />
+	<block key="Dialog_1020077_Title" korea_korean="Скауты выиграл Илиаду" />
+	<block key="Dialog_1020077_Text0" korea_korean="Вы можете получить, если вы будете следовать этому пути, чтобы обойти пост Brage. Каталог \u003cbr\u003e и археологические развалины не в состоянии добраться до юга. То, что есть ITSO Shenron Рыцари отстаивать свои границы. Каталог \u003cbr\u003e Мои друзья разведчики хотели Бориса и нет." />
+	<block key="Dialog_1020078_Title" korea_korean="Скауты выиграл Кертис" />
+	<block key="Dialog_1020078_Text0" korea_korean="Он смелый человек. Каталог \u003cbr\u003e Далее ЭО группы, которые стоят перед бюстгальтер области. Пожалуйста, подготовить ум твердо. Каталог \u003cbr\u003e Остерегайтесь гигантский арбалет danghani много ущерба, если вы уроните здесь." />
+	<block key="Dialog_1020079_Title" korea_korean="Скауты выиграл Кунта аренду" />
+	<block key="Dialog_1020079_Text0" korea_korean="Как дела? Я научу вас некоторую полезную информацию. Каталог \u003cbr\u003e Духа из Святой Земли, называемый тип администратор в глазах простых людей не видят, что смотреть АНСО это. \u003cbr\u003e Знакомства. Лучше уйти, когда менеджеры Святая Земля и встретиться . Каталог \u003cbr\u003e святой администратор eopeuni не выходят из руин древних памятников может быть так повезло." />
+	<block key="Dialog_1020080_Title" korea_korean="Священник певица Kepley" />
+	<block key="Dialog_1020080_Text0" korea_korean="БК-кто это?\nКаталог \u003cbr\u003e\nЯ ... ... вы пришли сюда, чтобы помочь мне ..?" />
+	<block key="Dialog_1020080_Text1" korea_korean="Наконец-то! Огонь Голем haetgunyo забил злых духов, чтобы доминировать в лес!\nКаталог \u003cbr\u003e\nЯ у тебя в долгу! Мы сделали это!" />
+	<block key="Dialog_1020081_Title" korea_korean="Скауты выиграл константана Аромат" />
+	<block key="Dialog_1020081_Text0" korea_korean="Партия ... не так ли? Нажмите ... Кто ...?\nКаталог \u003cbr\u003e\nДайте нам помочь." />
+	<block key="Dialog_1020082_Title" korea_korean="Brage собраны Tout утечки" />
+	<block key="Dialog_1020082_Text0" korea_korean="Каталог \u003cbr\u003e\n[Там нет смысла;\nКаталог \u003cbr\u003e" />
+	<block key="Dialog_1020083_Title" korea_korean="Зверь Тренер Excel" />
+	<block key="Dialog_1020083_Text0" korea_korean="Звуковой сигнал, круассаны, kareung! О, К сожалению, США, Миа, я извиняюсь.\nКаталог \u003cbr\u003e\nКроме того, животные слишком Ах, долго ... Я, э-э, давай! Люди говорят, ты, человек.\nКаталог \u003cbr\u003e\nБесплатный, то какие? Работа, не так ли?" />
+	<block key="Dialog_1020083_Answer_5_Text" korea_korean="Как приручить" />
+	<block key="Dialog_1020083_Answer_6_Text" korea_korean="Попутчики магазины" />
+	<block key="Dialog_1020083_Answer_7_Text" korea_korean="Сотрудник распечатывания рост" />
+	<block key="Dialog_4020001_Title" korea_korean="Сумки купец" />
+	<block key="Dialog_4020001_Text0" korea_korean="Приходите ohsipsiyo. Что я могу сделать для вас?" />
+	<block key="Dialog_4020001_Answer_0_Text" korea_korean="Я хотел бы расширить мешок" />
+	<block key="Dialog_2020004_Title" korea_korean="Навык Мастер" />
+	<block key="Dialog_2020004_Text0" korea_korean="Вы, вы хотите просветления. Это ясно, что книга может быть полезной для вас." />
+	<block key="Dialog_2020004_Answer_0_Text" korea_korean="Seukilbuk покупке" />
+	<block key="Dialog_2021001_Title" korea_korean="Менди Ом оборудование Трейдер" />
+	<block key="Dialog_2021001_Text0" korea_korean="Мы должны иметь транспортные средства Бизнес, даже если вы врезаться? Это то, что правильно в духовном купца Менди Ом. Теперь попробуйте ~ ~ визит" />
+	<block key="Dialog_2021001_Answer_0_Text" korea_korean="Предметов оборудования" />
+	<block key="Dialog_2023001_Title" korea_korean="Оборудование Trader Кенни" />
+	<block key="Dialog_2023001_Text0" korea_korean="Алло? Каталог \u003cbr\u003e я был на их пути в гостиную и оборудования Канас царства. Я пытался сделать много денег, дирижабль разбился в Ли Юнг-сделать из annamahseo getgunyo трудно. Каталог \u003cbr\u003e Хотя есть элементы, которые остаются, несмотря на падение, не так ли?" />
+	<block key="Dialog_2023001_Answer_0_Text" korea_korean="Предметов оборудования" />
+	<block key="Dialog_2024001_Title" korea_korean="Навык Мастер Замки разговорный baldeu" />
+	<block key="Dialog_2024001_Text0" korea_korean="Если у вас работать вы не можете потерять мужество не обучены в любой ситуации. Средняя в опасной ситуации, как сейчас. Каталог \u003cbr\u003e Чтобы избежать этого места. Мы все perfected'm сильнее. Если вы хотите узнать бой. Я собираюсь дать вам учение. Как \u003cbr\u003e \u003cbr\u003e? Чтобы я пройти обучение?" />
+	<block key="Dialog_2024001_Answer_0_Text" korea_korean="Мастерство обучения" />
+	<block key="Dialog_2024001_Answer_1_Text" korea_korean="Расскажите мне о seukilbuk." />
+	<block key="Dialog_2026001_Title" korea_korean="Попутчики заводчики" />
+	<block key="Dialog_2026001_Text0" korea_korean="Я думаю, что вы дорожите спутника" />
+	<block key="Dialog_2026001_Answer_0_Text" korea_korean="Сотрудник обмен Аль" />
+	<block key="Dialog_2021002_Title" korea_korean="Глен торговец оружием" />
+	<block key="Dialog_2021002_Text0" korea_korean="Когда экспозиции в соответствии со статьями войны я думал, что было бы хорошо бизнес-идея, чем наказание не есть хорошо. Каталог \u003cbr\u003e Или почему бы тебе не смотрел свое оружие haneunge нового? | \u003cbr\u003e, Чтобы купить вещи из Канас Королевства а чем нет, много полезных оружия хранится на складе. Каталог \u003cbr\u003e смотреть, чтобы посетить снова." />
+	<block key="Dialog_2021002_Answer_0_Text" korea_korean="Оружие Предметы" />
+	<block key="Dialog_2023002_Title" korea_korean="Adina бакалейной продукции торговцы" />
+	<block key="Dialog_2023002_Text0" korea_korean="Алло? Знакомства на опасную ситуацию, когда мне нужно быть изолированы, но вы можете делать в ситуации, что я не могу вернуться к царству. Каталог \u003cbr\u003e Это было бы, чтобы заработать деньги. \u003cbr\u003e \u003cBr \u003e Проверьте Продаю товары и продукты питания. Дела идут, чтобы быть полезным. И, более дорогие, но и itdapnida сумку." />
+	<block key="Dialog_2023002_Answer_0_Text" korea_korean="Сумки, питание" />
+	<block key="Dialog_2026002_Title" korea_korean="Попутчики заводчики" />
+	<block key="Dialog_2026002_Text0" korea_korean="Я думаю, что вы дорожите спутника" />
+	<block key="Dialog_2026002_Answer_0_Text" korea_korean="Сотрудник обмен Аль" />
+	<block key="Dialog_2024002_Title" korea_korean="Воин Skill Master Дуглас" />
+	<block key="Dialog_2024002_Text0" korea_korean="Воины, и остановил атаку противника в сражении choeseonbong все тело, наслаждаясь храбрость. Каталог \u003cbr\u003e Вы также санкционировал перевод? Если я буду получать обучение со мной, если вы доблестного воина." />
+	<block key="Dialog_2024002_Answer_0_Text" korea_korean="Воин Skill Learning" />
+	<block key="Dialog_2025001_Title" korea_korean="Сумки купец" />
+	<block key="Dialog_2025001_Text0" korea_korean="Приходите ohsipsiyo. Что я могу сделать для вас?" />
+	<block key="Dialog_2025001_Answer_0_Text" korea_korean="Я хотел бы расширить мешок" />
+	<block key="Dialog_2024003_Title" korea_korean="Старший Навык Мастер Чемпион" />
+	<block key="Dialog_2024003_Text0" korea_korean="Вы, вы хотите просветления. Это ясно, что книга может быть полезной для вас." />
+	<block key="Dialog_2024003_Answer_0_Text" korea_korean="Seukilbuk покупке" />
+	<block key="Dialog_2021003_Title" korea_korean="О, взять мозг доспехами" />
+	<block key="Dialog_2021003_Text0" korea_korean="Взгляните на эту броню! Каталог \u003cbr\u003e В любом нападении изготовлены из прочных материалов Не похоже, чтобы эффективно предотвратить линии? Каталог \u003cbr\u003e Не жалейте на это, купить хорошую броню." />
+	<block key="Dialog_2021003_Answer_0_Text" korea_korean="Доспехи пункты" />
+	<block key="Dialog_2023003_Title" korea_korean="Зелье Merchant Coleman" />
+	<block key="Dialog_2023003_Text0" korea_korean="Ну, вы пришли, чтобы купить зелья. Зелий коммерсанта в лесу | \u003cbr\u003e духов только оборками меня. Каталог \u003cbr\u003e\nЗелья я продаю много, что я воин и убийца, мастер и Природа гм ... И я не знаю, что вы спасли жизнь священника. Каталог \u003cbr\u003e Необходимо Оставить упакованы зелье заранее." />
+	<block key="Dialog_2023003_Answer_0_Text" korea_korean="Жидкие лекарственные" />
+	<block key="Dialog_2023004_Title" korea_korean="Аксессуары зелье Merchant Дженни" />
+	<block key="Dialog_2023004_Text0" korea_korean="Алло? Каталог \u003cbr\u003e Shenron прийти сюда, благодаря защите рыцарей подслушать в бизнесе. Каталог \u003cbr\u003e Посмотрите на мои продажи товаров и продуктов питания. Дела идут, чтобы быть полезным. И, более дорогие, но и itdapnida сумку." />
+	<block key="Dialog_2023004_Answer_0_Text" korea_korean="Сумки, питание" />
+	<block key="Dialog_2026003_Title" korea_korean="Попутчики заводчики" />
+	<block key="Dialog_2026003_Text0" korea_korean="Я думаю, что вы дорожите спутника" />
+	<block key="Dialog_2026003_Answer_0_Text" korea_korean="Сотрудник обмен Аль" />
+	<block key="Dialog_2025002_Title" korea_korean="Сумки купец" />
+	<block key="Dialog_2025002_Text0" korea_korean="Приходите ohsipsiyo. Что я могу сделать для вас?" />
+	<block key="Dialog_2025002_Answer_0_Text" korea_korean="Я хотел бы расширить мешок" />
+	<block key="Dialog_2024004_Title" korea_korean="Начинающие Мастер Жрец Навыки" />
+	<block key="Dialog_2024004_Text0" korea_korean="Мы оказались на их пути в Канас. Мы все должны сыграть свою обязанность handapnida в любое время, в любом месте, даже если поставить в этой ситуации. По какой-то шанс, нужно ли мне книгу о подготовке священника?" />
+	<block key="Dialog_2024004_Answer_0_Text" korea_korean="Мастерство обучения" />
+	<block key="Dialog_2024004_Answer_1_Text" korea_korean="Расскажите мне о seukilbuk." />
+	<block key="Dialog_2024005_Title" korea_korean="Священник Навык Мастер Ерина" />
+	<block key="Dialog_2024005_Text0" korea_korean="Ты выбрал путь любви. Каталог \u003cbr\u003e Пожалуйста, залечить боль, чтобы спасти много жизней в священном свете. Если у вас нет Знакомства на части, я вам помочь. Я буду практиковать." />
+	<block key="Dialog_2024005_Answer_0_Text" korea_korean="Развития навыков обучения Священник" />
+	<block key="Dialog_2024006_Title" korea_korean="Расширенный Священник Навык Мастер" />
+	<block key="Dialog_2024006_Text0" korea_korean="Ты выбрал путь любви. Я надеюсь, что вы спасли много жизней" />
+	<block key="Dialog_2024006_Answer_0_Text" korea_korean="Seukilbuk покупке" />
+	<block key="Dialog_2028001_Title" korea_korean="Пойти купить Фрейда портал" />
+	<block key="Dialog_2028001_Text0" korea_korean="Портал не может отпустить вас в другое место. Огонь Голем ослаблена злой аурой волшебных эфирных четырех возможных духов supman.\nКаталог \u003cbr\u003e\nКонечно. Играйте за небольшую плату в магии рассмотрения вне времени и пространства. И вы хотите, чтобы воспользоваться порталом?" />
+	<block key="Dialog_2028001_Answer_0_Text" korea_korean="Перейти к тамплиеров гарнизона Shenron" />
+	<block key="Dialog_2028001_Answer_1_Text" korea_korean="Перейти к светятся роща лагерь" />
+	<block key="Dialog_2028002_Title" korea_korean="Пойти купить портал Спенсер" />
+	<block key="Dialog_2028002_Text0" korea_korean="Портал не может отпустить вас в другое место. Огонь Голем ослаблена злой аурой волшебных эфирных четырех возможных духов supman.\nКаталог \u003cbr\u003e\nКонечно. Играйте за небольшую плату в магии рассмотрения вне времени и пространства. И вы хотите, чтобы воспользоваться порталом?" />
+	<block key="Dialog_2028002_Answer_0_Text" korea_korean="Перейти к тамплиеров гарнизона Shenron" />
+	<block key="Dialog_2028002_Answer_1_Text" korea_korean="Перейти к исторического руины лагеря" />
+	<block key="Dialog_2999998_Title" korea_korean="Оружие, аксессуары купец" />
+	<block key="Dialog_2999998_Text0" korea_korean="Оружие и оборудования, которые поставщиком." />
+	<block key="Dialog_2999998_Answer_0_Text" korea_korean="Оружие, аксессуары Магазины" />
+	<block key="Dialog_2999999_Title" korea_korean="Доспехами" />
+	<block key="Dialog_2999999_Text0" korea_korean="То, что бронетехники." />
+	<block key="Dialog_2999999_Answer_0_Text" korea_korean="Броня магазин" />
+	<block key="Dialog_9011001_Title" korea_korean="Сотрудник обмен Аль" />
+	<block key="Dialog_9011001_Text0" korea_korean="Для того, чтобы заменить шарики такого же духе семейной жизни требуется пять звезд душу." />
+	<block key="Dialog_9011001_Answer_0_Text" korea_korean="Жизнь млекопитающих борта на основе обмена" />
+	<block key="Dialog_9011001_Answer_1_Text" korea_korean="Взаимовыгодный обмен из бисера на основе жизни" />
+	<block key="Dialog_9011001_Answer_2_Text" korea_korean="Жизнь этажный волнового обмена шарик" />
+	<block key="Dialog_9011001_Answer_3_Text" korea_korean="Насекомое жизни на основе обмена бисером" />
+	<block key="Dialog_9011001_Answer_4_Text" korea_korean="Jeongryeonggye жизнь обмена борта" />
+	<block key="Dialog_9011002_Title" korea_korean="О проглотил пожарных развалинах" />
+	<block key="Dialog_9011002_Text0" korea_korean="Руины огня, где огонь поглотил Голема и его приспешников, генерируемые камня пламени содержатся демонических сил, которые доминируют древние демоны." />
+	<block key="Dialog_9011002_Answer_0_Text" korea_korean="Стратегия Советы руины проглотил огонь" />
+	<block key="Dialog_9011002_Answer_1_Text" korea_korean="Стратегия Советы руины проглотил огонь босса" />
+	<block key="Dialog_9011003_Title" korea_korean="Стратегия Советы руины проглотил огонь" />
+	<block key="Dialog_9011003_Text0" korea_korean="Используйте только оружие, наполненные свойств льда для того, чтобы захватить руины проглотил огонь может эффективно атаковать противника. Если пламя повреждение имущества глубоко грунтовые воды в пещере, вы будете иметь, чтобы охладить тело в середине пальца остается на прежнем уровне." />
+	<block key="Dialog_9011004_Title" korea_korean="Стратегия Советы руины проглотил огонь босса" />
+	<block key="Dialog_9011004_Text0" korea_korean="Когда вы делаете домашнее животное, которое взрывается в огне Голем вызвать пожарных служб вокруг может привести к повреждению пожарных начальников сильных из-за его воздействия." />
+	<block key="Dialog_9011005_Title" korea_korean="О замороженных руин" />
+	<block key="Dialog_9011005_Text0" korea_korean="Гора путь, ведущий в сад свежих грибов в лесу духов пошел по всему региону в окружении снег превратился в лед из-за влияния демонических камня. В настоящее время существует ряд оккупационная армия." />
+	<block key="Dialog_9011005_Answer_0_Text" korea_korean="Замороженные руины Советы Стратегия" />
+	<block key="Dialog_9011005_Answer_1_Text" korea_korean="Замороженные руины Советы Boss Стратегия" />
+	<block key="Dialog_9011006_Title" korea_korean="Замороженные руины Советы Стратегия" />
+	<block key="Dialog_9011006_Text0" korea_korean="Замороженные льда монстр, который опустошен и заняты. Таким образом, использование свойств огневых средств, легче иметь дело с этим монстром." />
+	<block key="Dialog_9011007_Title" korea_korean="Замороженные руины Советы Boss Стратегия" />
+	<block key="Dialog_9011007_Text0" korea_korean="Warbringer syantin из-за различных атрибута льда к ряду нападений, избегая при этом атаки хорошо, вам необходимо мощная атака огнем отнести к syantin." />
+	<block key="Dialog_3020001_Title" korea_korean="Новичок Воин Skill Master" />
+	<block key="Dialog_3020001_Text0" korea_korean="Seukilbuk иметь или изучить умение, переводы используются, она является книга, необходимых для укрепления навыков уже научились. Варить, чтобы использовать эту книгу в пункты навыка вам нужно." />
+	<block key="Dialog_3020001_Answer_0_Text" korea_korean="Хорошо." />
+	<block key="Dialog_3020002_Title" korea_korean="Начинающие Мастер Жрец Навыки" />
+	<block key="Dialog_3020002_Text0" korea_korean="Seukilbuk Иран, или священники узнать навыки в использовании, книгу, необходимых для укрепления навыков уже научились. Прежде всего, у меня есть пункт навыка, чтобы использовать эту книгу." />
+	<block key="Dialog_3020002_Answer_0_Text" korea_korean="Хорошо." />
+	<block key="Dialog_3020003_Title" korea_korean="Tobeoldae предал вон" />
+	<block key="Dialog_3020003_Text0" korea_korean="Если вы бьете меня силой, я буду вернуть останки Карен Dia." />
+	<block key="Dialog_3020003_Answer_0_Text" korea_korean="Да, конечно." />
+	<block key="Dialog_3020004_Title" korea_korean="Kuhn Croix кузнец Харлан Новости" />
+	<block key="Dialog_3020004_Text0" korea_korean="Что привело вас ко мне пришел? Убейте пожарной голема и сказать ему выход из подземных переходов?" />
+	<block key="Dialog_3020004_Answer_0_Text" korea_korean="Полный диалог" />
+	<block key="Dialog_3020005_Title" korea_korean="Shenron памятных Alex Рыцари" />
+	<block key="Dialog_3020005_Text0" korea_korean="Тарик сохранить зрение Истины зелья? Хм ... если бы я реально смотрю на это зелье сути, это призрак, я не знаю." />
+	<block key="Dialog_3020005_Answer_0_Text" korea_korean="Полный диалог" />
+	<block key="Dialog_3020006_Title" korea_korean="Kuhn Croix кузнец Харлан Новости" />
+	<block key="Dialog_3020006_Text0" korea_korean="Охлажденные мы вернулись с тканью? Southie. Отлично." />
+	<block key="Dialog_3020006_Answer_0_Text" korea_korean="Полный диалог" />
+	<block key="Dialog_3020007_Title" korea_korean="Скауты выиграл серин" />
+	<block key="Dialog_3020007_Text0" korea_korean="Имеет смысл снова вас видеть. Вы определяется успех? Я сделал меня itdani мощный зелье было здорово увидеть призрак." />
+	<block key="Dialog_3020007_Answer_0_Text" korea_korean="Полный диалог" />
+	<block key="Dialog_9014005_Title" korea_korean="Сокобан" />
+	<block key="Dialog_9014005_Text0" korea_korean="Party-партия - есть туристический человек. Что все говорят, столько багажа kkeungkkeungdae участие в обуви. Если у вас есть то, что вы хотите сохранить окна + и просто. Не волноваться о том, чтобы украсть шоу ни одного отпуска." />
+	<block key="Dialog_9014005_Answer_0_Text" korea_korean="С помощью моего склад" />
+	<block key="Dialog_9014006_Title" korea_korean="Торговый представитель представители" />
+	<block key="Dialog_9014006_Text0" korea_korean="Они хотят, чтобы продать этот материал? Я найду кого-нибудь, чтобы купить по хорошей цене. Теперь, как много вы хотите продать? Ах. Конечно, другие будут продавать вы слышите вокруг вас, вы найдете этот материал, если можно купить вещи." />
+	<block key="Dialog_9014006_Answer_0_Text" korea_korean="Использование торговым представителем" />
+	<block key="Dialog_2024008_Title" korea_korean="Новичок Мастер Мастерство Master" />
+	<block key="Dialog_2024008_Text0" korea_korean="Нужно начинающий seukilbuk мастера?" />
+	<block key="Dialog_2024008_Answer_0_Text" korea_korean="Seukilbuk покупке элементарных мастера" />
+	<block key="Dialog_2024009_Title" korea_korean="Мастер Мастерство Мастер Диана" />
+	<block key="Dialog_2024009_Text0" korea_korean="Использование магии является тот, который изменяет его, вышла из строя в природе. Каталог \u003cbr\u003e Огонь и вода, и не понимают природу света, естественный порядок вещей не может повредить сам в большей степени развалилась. Каталог \u003cbr\u003e Готовы ли вы использовать магию? Если вы будете готовы, чтобы узнать от меня." />
+	<block key="Dialog_2024009_Answer_0_Text" korea_korean="Мастер изучение скиллов" />
+	<block key="Dialog_2024010_Title" korea_korean="Новичок мастер навыки убийцы" />
+	<block key="Dialog_2024010_Text0" korea_korean="Нужно начинающий seukilbuk убийцу?" />
+	<block key="Dialog_2024010_Answer_0_Text" korea_korean="Seukilbuk приобрести начинающему убийцу" />
+	<block key="Dialog_2024011_Title" korea_korean="Лэнс навыки мастер-убийцы" />
+	<block key="Dialog_2024011_Text0" korea_korean="Это было царство известном убийце деда, если противник может быть только неожиданностью, пребывающего не всегда купить мне ни на что. Всегда не готов на тот момент, в зависимости от срока.\nКаталог \u003cbr\u003e\nВы не даете спокойно учить некоторые методы Если вы хотите узнать, загадочном искусстве." />
+	<block key="Dialog_2024011_Answer_0_Text" korea_korean="Убийца изучение скиллов" />
+	<block key="Dialog_2024012_Title" korea_korean="Природа Новичок Мастер навык" />
+	<block key="Dialog_2024012_Text0" korea_korean="Нужно начинающий seukilbuk природы?" />
+	<block key="Dialog_2024012_Answer_0_Text" korea_korean="Seukilbuk приобрести начинающему Природа" />
+	<block key="Dialog_2024013_Title" korea_korean="Природа Навык Мастер американский Риггс" />
+	<block key="Dialog_2024013_Text0" korea_korean="Судьба hayeotso направлять вас к этому месту. Как все это происходит в земельном heulreoon в соответствии с принципами гармонии и баланса ...\nКаталог \u003cbr\u003e\nЕсли вы еще никогда не достиг высшего состояния, как природе, я дам указания, они должны расти." />
+	<block key="Dialog_2024013_Answer_0_Text" korea_korean="Природа навыки обучения" />
+	<block key="Dialog_3020701_Title" korea_korean="Преобразование Камень" />
+	<block key="Dialog_3020701_Text0" korea_korean="Приходите ohsipsiyo. Что я могу сделать для вас?" />
+	<block key="Dialog_3020701_Answer_1_Text" korea_korean="Я хотел бы установить очаг." />
+	<block key="Dialog_3020701_Answer_2_Text" korea_korean="Я хотел бы, чтобы удалить своим домом." />
+	<block key="Dialog_3020701_Answer_3_Text" korea_korean="Я хотел бы, чтобы восстановить очаг." />
+	<block key="Dialog_1040001_Title" korea_korean="Elf Pilgrim Village Глен" />
+	<block key="Dialog_1040001_Text0" korea_korean="Слушая звуки жизни, проведенных на ветру.\n\u003cbr\u003e Здравствуйте, брат другую землю.\nКаталог \u003cbr\u003e\nЯ молодой эльф, который называется Мэтью, написанные Гленном. Следуйте след долгой жизни, я пришел к этому месту. Когда узел судьбы, что привело меня хотят приехать сюда, оказывается посреди хаоса.\nКаталог \u003cbr\u003e\nПриходите избегать этого места, прежде чем вы даже ударить волны путаницы Док." />
+	<block key="Dialog_1040002_Title" korea_korean="Рон Кинг самолет" />
+	<block key="Dialog_1040002_Text0" korea_korean="Вместо этого, они видят меры, изложенные. Это просто продолжал виду, что это не работа только для королевской семьи.\nКаталог \u003cbr\u003e\nХм ... Кто ты? Почему кто-то предпочитают сдерживать eopdan зубы. Моя единственная вместо этого просто bonaejwot?" />
+	<block key="Dialog_1040003_Title" korea_korean="Верховный маг бонус скорости" />
+	<block key="Dialog_1040003_Text0" korea_korean="Бедный старый man're бонус скорости. Для мастера заклинаний, достаточно глубоко, чтобы услышать человеческий голос такой огромный четыре, как хорошо.\nКаталог \u003cbr\u003e\nПросто хочу, чтобы иметь возможность построить глубоко-глубоко грех, чтобы погасить старые грехи, я должен не только беспокоиться." />
+	<block key="Dialog_1040003_Answer_14_Text" korea_korean="Готов отправиться в путь закончился." />
+	<block key="Dialog_1040004_Title" korea_korean="Навык Мастер чемпион Блейк" />
+	<block key="Dialog_1040004_Text0" korea_korean="Дорога к меч прямой дороге убивать!\nКаталог \u003cbr\u003e\nВ правой руке меч правосудия!\n\u003cbr\u003e\nЩит для покровителем и осталось!\n\u003cbr\u003e\nГрудь цветы для любимого человека!\nКаталог \u003cbr\u003e\nНельзя забывать отношение чемпион!" />
+	<block key="Dialog_1040004_Answer_4_Text" korea_korean="Воины изучать передовые навыки" />
+	<block key="Dialog_1040005_Title" korea_korean="Навык Мастер Мастер Wiz свинец" />
+	<block key="Dialog_1040005_Text0" korea_korean="Не взять власть и взять власть.\nКаталог \u003cbr\u003e\nМы шли в не нарушают баланс смещается.\n\u003cbr\u003e\nМы выходим, не выходя из Провидения в.\nКаталог \u003cbr\u003e\nМастер, если вы не хотите, чтобы получить себе не делаю ни дали. Не хочу, собачки мастера?" />
+	<block key="Dialog_1040005_Answer_4_Text" korea_korean="Расширенный мастер мастерство обучения" />
+	<block key="Dialog_1040006_Title" korea_korean="Священник Навык Мастер Миля" />
+	<block key="Dialog_1040006_Text0" korea_korean="Похвала всей земле.\nКаталог \u003cbr\u003e\nВерите ли вы в уничтожении даже играть?\n\u003cbr\u003e\nВерите ли вы, что все живы приходить снова?\nКаталог \u003cbr\u003e\nЕсли вы считаете, то, как я itgetjiyo может помочь." />
+	<block key="Dialog_1040006_Answer_4_Text" korea_korean="Священники изучать передовые навыки" />
+	<block key="Dialog_1040007_Title" korea_korean="Мастер-убийцы навыки семян" />
+	<block key="Dialog_1040007_Text0" korea_korean="От тьмы к свету.\nКаталог \u003cbr\u003e\nБрат, сегодня, ребята. Как ты?\n\u003cbr\u003e\nБрат, Может Прощай завтра?\nКаталог \u003cbr\u003e\nЕсли жизнь является жестким, чтобы сожалеть saldeorado за нами завтра в сточной канаве. Да, я могу вам помочь?" />
+	<block key="Dialog_1040007_Answer_4_Text" korea_korean="Убийца изучать передовые навыки" />
+	<block key="Dialog_1040008_Title" korea_korean="Навык Мастер Ян Природа" />
+	<block key="Dialog_1040008_Text0" korea_korean="Изобилие приходит, когда вы даете достаточно получается.\nКаталог \u003cbr\u003e\nОн является производным от природы к природе.\n\u003cbr\u003e\nТаким образом, отбросить его надуманным.\nКаталог \u003cbr\u003e\nЕсли бар, где они могут сделать, это достаточно хорошо для меня. Что вы делаете все правильно вести остальное. Первое, что мы все будем в состоянии идти в партии началась." />
+	<block key="Dialog_1040008_Answer_4_Text" korea_korean="Природа изучать передовые навыки" />
+	<block key="Dialog_1040009_Title" korea_korean="Опекун дракона колокол jeroseu" />
+	<block key="Dialog_1040009_Text0" korea_korean="Я живу в Ветхий Завет существует.\nКаталог \u003cbr\u003e\nBrilliance, чем через минуту, прийти то, что приносит завет, кто попытается поделиться историей." />
+	<block key="Dialog_1040010_Title" korea_korean="Аксессуары и питания купцы Mac" />
+	<block key="Dialog_1040010_Text0" korea_korean="Эй, давай.\nКаталог \u003cbr\u003e\nЭто вещь, которая является абсолютно бесплатной и не продуктовый магазин!" />
+	<block key="Dialog_1040011_Title" korea_korean="Дензел пастухи" />
+	<block key="Dialog_1040011_Text0" korea_korean="Какие подальше корм для скота теряется.\nКаталог \u003cbr\u003e\nТеперь вернемся к моим капитаном умер. Что происходит? Пострадавшие человек, которого я когда-либо видел?" />
+	<block key="Dialog_1040012_Title" korea_korean="Эльф обслуживающий персонал Мариэль" />
+	<block key="Dialog_1040012_Text0" korea_korean="О, привет ... пожалуйста?\nКаталог \u003cbr\u003e\nТрудно теперь я слышу, как люди движется вокруг опасного места.\nКаталог \u003cbr\u003e\nЯ говорю здесь я должен иметь определенную дисциплину. Тогда не Gran был бы в состоянии держать Духа." />
+	<block key="Dialog_1040013_Title" korea_korean="Карел солдат сайты" />
+	<block key="Dialog_1040013_Text0" korea_korean="Добро пожаловать! Групповые житель сайты!\nКаталог \u003cbr\u003e\nДа, я даже позвонил мне занят группой. Вроде того. Таких позор никто из солдат, дислоцированных в окрестностях говорим здесь.\nКаталог \u003cbr\u003e\nЕсли эта ситуация вдруг не будет легко, но лошадь была кормушка место, хотя." />
+	<block key="Dialog_1040014_Title" korea_korean="Жрица Мария" />
+	<block key="Dialog_1040014_Text0" korea_korean="Похвала всей земле.\nКаталог \u003cbr\u003e\nДоблесть опасное место приехать для участия в этой большой забитых минут. Меня зовут Мария, кто заботится о пострадавших в этом месте. Каталог \u003cbr\u003e\nС скромному-Тела играет священника." />
+	<block key="Dialog_1040015_Title" korea_korean="Пастухи капитан Герберт" />
+	<block key="Dialog_1040015_Text0" korea_korean="А? Что такое ваш дом. Оборотень изобилует неза голову назад, чтобы присутствовать посещают RE навыки kkadak или лучше или думаете, что один или другой.\nКаталог \u003cbr\u003e\nEuhaha, я просто шучу. Шутка. Не владеют хорошей форме? Я лучше, вы знаете. Я хотел бы сделать несколько хороших навыков." />
+	<block key="Dialog_1040016_Title" korea_korean="Волк Hunter Амос" />
+	<block key="Dialog_1040016_Text0" korea_korean="А? Что такое ваш дом. Оборотень изобилует неза голову назад, чтобы присутствовать посещают RE навыки kkadak или лучше или думаете, что один или другой.\nКаталог \u003cbr\u003e\nEuhaha, я просто шучу. Шутка. Не владеют хорошей форме? Я лучше, вы знаете. Я хотел бы сделать несколько хороших навыков." />
+	<block key="Dialog_1040017_Title" korea_korean="Ральф отправляется солдат" />
+	<block key="Dialog_1040017_Text0" korea_korean="Черный мое тело!\nКаталог \u003cbr\u003e\nРальф отправляется кризиса вокруг? Население управления junginde Что случилось?" />
+	<block key="Dialog_1040018_Title" korea_korean="Пастухи Дженсен" />
+	<block key="Dialog_1040018_Text0" korea_korean="Haetsu не думать об этих вещах, поскольку наиболее трудно волк напал на пастухов моей жизни. Что чередуются. Каталог \u003cbr\u003e Dolbodeon коровы все разбросаны, вы не знаете, сколько людей погибло. Каталог \u003cbr\u003e World Мне придется заменить!" />
+	<block key="Dialog_1040019_Title" korea_korean="MIG является купец" />
+	<block key="Dialog_1040019_Text0" korea_korean="Хо-хо-хо-хо, Guinness довершение всего - даже сейчас, не так ли? Что malyijyo вещи или изменить эту ситуацию. Я продал iteunikka а если нет, скажите, пожалуйста, другой день, чтобы купить вещи для детей.\nКаталог \u003cbr\u003e\nИли там не видно со мной?" />
+	<block key="Dialog_1040020_Title" korea_korean="Зелье Merchant Nikam" />
+	<block key="Dialog_1040020_Text0" korea_korean="Риски и замороженные ~~~ ~ зелье трейдеры делают деньги в Yea ~\nКаталог \u003cbr\u003e\nНе очень ... но на самом деле. Это не так много маржи namgeodeunyo. Алхимики были правы! Токсичен. Может быть, не ты пролил кровь вместо денег.\nКаталог \u003cbr\u003e\nНо вы лучше остаться зелье. Когда мне нужно срочно лечить. Давайте посмотрим на iteunikka адекватно заполненный." />
+	<block key="Dialog_1040020_answer_0_text" korea_korean="Зелье Магазин" />
+	<block key="Dialog_1040021_Title" korea_korean="Фермер Дирк" />
+	<block key="Dialog_1040021_Text0" korea_korean="МОМСС молодые люди, которые любили вшей? Да, Юй - вэнь была хорошей девочкой. Нет, это довольно было оговорился.\nКаталог \u003cbr\u003e\nСчитаете ли вы, что так важно сосет старик потерял жаловаться. Теперь, пожалуйста, убить все, что хорошо вы хотите думать, что это было дерьмо сосет хочу думать уродливого старика ...\nКаталог \u003cbr\u003e\nЛао простая история. Семья умер, я жил историю. В то время как даже после полевых работ, чтобы принять грибы, все, что она хотела сделать, как идут ила пошел в лес по грибы или пытается следовать, и все они ... его hyungmulseureon NED deoguryeo ..." />
+	<block key="Dialog_1040022_Title" korea_korean="Дерек Фермер" />
+	<block key="Dialog_1040022_Text0" korea_korean="Это кусок дерьма! Они блин кролик! Теперь он хотел? Это нормально, ребята, которые не являются!\nКаталог \u003cbr\u003e\nЭй! Вы ебать это? Попробуйте любой мороз?" />
+	<block key="Dialog_1040023_Title" korea_korean="София" />
+	<block key="Dialog_1040023_Text0" korea_korean="Вы оставили место, как отличный парень. Я в этой ситуации. Я странно дядя Дерек? Хороший парень, который почти неза ... eunikkayo стал настолько соседи. С тех пор не получили не лучше.\nКаталог \u003cbr\u003e\nЯ рассердился, что я избегал секса тоже пошел в это увидеть. Кузен уже на другой стороне и персонал бара. Но я не думаю, что много удачи.\nКаталог \u003cbr\u003e\nЖаль, что я жил бы больше. WOW ... с eunikkayo дело только с мечом в селе bwae. Но я не уверен, что хорошо было .. Когда вы были важны." />
+	<block key="Dialog_1040024_Title" korea_korean="Лорен купец" />
+	<block key="Dialog_1040024_Text0" korea_korean="Деревня Seusanhan, а не провисает город? Хищные птицы и, eunikkayo не прошло ни хищных птиц животных seulgo только кнут город как взрыв. Слабый animals'd как люди терпеть трудно.\nКаталог \u003cbr\u003e\nВы хотите, чтобы сделать город, что я здесь. Более достоверным, чем в городе. Святые могут закрыть, землю и масло, богатое forests're хорошее расположение?\nКаталог \u003cbr\u003e\nПервоначально я купец yieoteunikka гости могут получить свои вещи. Как быть резидентом, не гость, я буду с этим делать?" />
+	<block key="Dialog_1040025_Title" korea_korean="Тень Ворона лидер клана" />
+	<block key="Dialog_1040025_Text0" korea_korean="Вы: Являются ли они сейчас?\nКаталог \u003cbr\u003e\nКогда это произойдет, и просто расслабиться и поговорить, и я хочу, чтобы закончить. Я делаю много вещей, которые обычно не имеют времени я бандгруппы.\nКаталог \u003cbr\u003e\nЯ слышал историю, что вы должны сделать это во дворце рядом. Благодаря мелочах я pyeonhaejyeot. С первого дня поручено в обращении.\nКаталог \u003cbr\u003e\nИстория не в следующем." />
+	<block key="Dialog_1040026_Title" korea_korean="Мастер правды Элс красный" />
+	<block key="Dialog_1040026_Text0" korea_korean="Что такое мастер! Я буду думать, что они должны сделать исследования мастера yamalro. Оставьте его, чтобы аккуратно приз вещь, что борьба со статьями! Если это так свойственно мастер для этого, как все должно изучить!\nКаталог \u003cbr\u003e\nМастер, или кто не может выполнить эту задачу!" />
+	<block key="Dialog_1040027_Title" korea_korean="Сотрудники Лейла" />
+	<block key="Dialog_1040027_Text0" korea_korean="С полудня паб в виду, безработные? Или быдло? Без флирта расстояние не присутствовать, никто, даже старомодным. Что ты делаешь? Разве это не отличается, чтобы увидеть один?\nКаталог \u003cbr\u003e\nJukchi возросла в баре, что люди слишком заставленную в последнее время. Наемник толпа была низкого качества, также увеличивается. Когда это, что вы курите eojigan потрясений.\nКаталог \u003cbr\u003e\nЯ имею в виду дать мне хорошую yireotji продаем только дорогое вино. Чернь не так много margin've дешево peodae Сульман." />
+	<block key="Dialog_1040028_Title" korea_korean="Гражданское бар решетки" />
+	<block key="Dialog_1040028_Text0" korea_korean="Человек молодого человека ты делаешь? Разве что вооруженные наемники или что-то вроде, что люди видят вы ходить?\nКаталог \u003cbr\u003e\nМой сын направляется солдат. Я имею в виду, что исходная ферма и сборки, что он не слушает меня. Что Surf Ranch в Сан-hyunghyunghan, когда мы вышли направить так хорошо.\nКаталог \u003cbr\u003e\nGeokjing dwaeseo Теперь я не могу даже спать ..." />
+	<block key="Dialog_1040029_Title" korea_korean="Говард послал воинов" />
+	<block key="Dialog_1040029_Text0" korea_korean="Черный мое тело!\nКаталог \u003cbr\u003e\nПервый контингент Говард. Что случилось? В настоящее время восточная область, пожалуйста, сотрудничать так прожорливы и контролировать трафик!" />
+	<block key="Dialog_1040030_Title" korea_korean="Граждане Шарлотта" />
+	<block key="Dialog_1040030_Text0" korea_korean="Это всегда было облегчение в эти дни. Человек крался друг прислал опасное место. Этот человек, несмотря на то, что я беспокоюсь о том, что делать с солдатами не носить кендо воинов, потому что даже шары также.\nКаталог \u003cbr\u003e\nИ он, кажется, не слишком bothered're придется парней вокруг? В то время как корни, чем летать daeneunde скоро сбудется новости воин, siryeoneun скручены женщина, как я не знаю, что это такое.\nКаталог \u003cbr\u003e\nМир, человек не будет выходить за рамки hanteneun мужчин имея доступа к одному пользователю, что путь. Не кажется ли вам?" />
+	<block key="Dialog_1040031_Title" korea_korean="Стюарт Хоум Управление по делам" />
+	<block key="Dialog_1040031_Text0" korea_korean="Интерьер администратора, как говорят все виды делами делами помещаются в заряда. Dont тыкать жалоб и синяки от дна к вершине бюджетным вопросом, что это очень не может быть съедено. Другие люди прошли долгий путь в том, что gaeppul успеха, если вы работаете во дворце, malyijiyo пакет лошадь не может есть сладости, называемые на недоплачивают.\nКаталог \u003cbr\u003e\nНо потому что у вас нет выбора, но для меня это или нет. Там 'ы достаточно просто борьба за власть даже не бороться с этим большое внимание и никакого волшебства не можете писать тело не будет благом для страны." />
+	<block key="Dialog_1040032_Title" korea_korean="Северная Капитан Мелвин один" />
+	<block key="Dialog_1040032_Text0" korea_korean="Черный мое тело!\nКаталог \u003cbr\u003e\nВызывается Мелвин, который возглавляет северную первый Сторожевая башня. Последние контроль населения junginde Что случилось?\nКаталог \u003cbr\u003e\nОн Тао ставка бонус? Верно. Если появляется здесь в одиночку формы с довольно умело." />
+	<block key="Dialog_1040033_Title" korea_korean="Лука волк охотники" />
+	<block key="Dialog_1040033_Text0" korea_korean="Bonjik волк волк охотник неза ли я не должен держать вы делаете. Эй ты. Вы когда-нибудь присутствовали hejipgo в близлежащей горы ранчо Surf является то, что вы?\nКаталог \u003cbr\u003e\nЭто действительно могучий оборотня позор? Я волк на ветру высохнуть при комнатной сравнимой с кем, кроме Джек не держать людей, которых я видел. Черт, я умирал, я заслуживаю возможность летать имя.\nКаталог \u003cbr\u003e\nЭто не волк, не Братва леопарда не принимать свои собственные вкусовые палочки не весело." />
+	<block key="Dialog_1040034_Title" korea_korean="Карл Вольф Хантер" />
+	<block key="Dialog_1040034_Text0" korea_korean="не то, чего ты ничего провожать. Ты или дать вам какого-либо вознаграждения для моей обиды?\nКаталог \u003cbr\u003e\nЕсли я могу быть достаточно месть за моего сына. Вызывается старое тело не дает еще труднее поймать себя. Я поглотит стоя вырезать глаза остальной ним.\nКаталог \u003cbr\u003e\nKutsu ... Размер хихикая, хихикать хихикать !!!" />
+	<block key="Dialog_1040035_Title" korea_korean="Северная Рейнджерс Лиам" />
+	<block key="Dialog_1040035_Text0" korea_korean="Черный мое тело!\nКаталог \u003cbr\u003e\nГражданские лица из-под контроля! О, вы были направления из дворца? Если это так, все равно, не вернуться слишком небрежно." />
+	<block key="Dialog_1040036_Title" korea_korean="Поры техники работают сало" />
+	<block key="Dialog_1040036_Text0" korea_korean="В любом случае, я не волнует, что весь мир! Этого достаточно для меня, если только вы можете вертеть инструменты и материалы.\nКаталог \u003cbr\u003e\nЭто он все еще может получить качество кожи? 'Повторно не собираюсь уходить, я могу уехать. Это не хорошее место, чтобы уйти. Управления народонаселения то не бар для меня!" />
+	<block key="Dialog_1040037_Title" korea_korean="Волк Hunter Томас" />
+	<block key="Dialog_1040037_Text0" korea_korean="Животное страшно. Ты еще молод, но посмотрите, быстро, я не знаю, один раз я не имею nalttwin страшно. Но, в ужасе. Животные боятся.\nКаталог \u003cbr\u003e\nЯ думаю, я не буду в состоянии сделать это правильно в будущем. Охотник, как я ... уже мертв." />
+	<block key="Dialog_1040038_Title" korea_korean="Рыболовы заблокировать" />
+	<block key="Dialog_1040038_Text0" korea_korean="Рыбалка ловит лет eojjeone geone сказать, что это все фигня! Не кажется ли вам?\nКаталог \u003cbr\u003e\nПочему, смотрите, hunters're еще больше и хотите, чтобы поймать большую игру? Я делаю то же самое. Рыболов замок! В ролях удочку с большим, чтобы сделать, это nakgi время что-то!" />
+	<block key="Dialog_1040039_Title" korea_korean="Мастер правды азелаиновая" />
+	<block key="Dialog_1040039_Text0" korea_korean="Я азелаиновой на долю которого приходится malseok польщен достаточно в истине мастера.\nКаталог \u003cbr\u003e\nКроу открыл посещать перемещения Heartbreak milmyeong, Fix тяжелый долг. В течение дня нет ничего легкий никто Crow принимает отремонтированы.\nКаталог \u003cbr\u003e\nТак вот взгляд придет. Один верный самое происходит вот что серьезная проблема, которая вряд ли может справиться." />
+	<block key="Dialog_1040040_Title" korea_korean="Мэр Джеймс" />
+	<block key="Dialog_1040040_Text0" korea_korean="Привет, я Кель Джеймс Вудс Лао сельский староста.\nКаталог \u003cbr\u003e\nДеревня округа на окраине, но также по шкале еще не является частью в процессе подготовки. Найти вас нет?\nКаталог \u003cbr\u003e\nВ любом случае область, которая производит почти половину царства Канас и пища также. Так что я извиняюсь ... Что случилось ебут, говоря hasnt грубо. Это чертовски волнуюсь cheomeok этот маленький не знаю, где ситуация с продовольствием в следующем году.\nКаталог \u003cbr\u003e\nСкоро будет готов начать следующий ферму, я не знаю, что делать." />
+	<block key="Dialog_1040041_Title" korea_korean="Мэтью Фермер" />
+	<block key="Dialog_1040041_Text0" korea_korean="Вампиры должны сказать, не ставьте ферму!\nКаталог \u003cbr\u003e\nПросто какие культуры выращивать, а вспашки земли, почему эти вещи случаются, чтобы жить. Кто-то делает уверен, что люди увязнуть бар, но я знаю, что вы сделали, чтобы жить так толком-то видит хорошую форму.\nКаталог \u003cbr\u003e\nПричина в том, что независимо от того, какой ущерб Не травмировать мои родители учили меня в Южную Шалла, nomil меня. Они узнали бы столько, сколько я не знаю, почему это происходит, чтобы узнать, чтобы поесть. Heoyigu ..." />
+	<block key="Dialog_1040042_Title" korea_korean="Фармацевты брат Umbrella" />
+	<block key="Dialog_1040042_Text0" korea_korean="Вы хотите? Если вы импортировать только материал, который мы сделаем все ~\nКаталог \u003cbr\u003e\nТы это сделал yirwojiji любовь? Итак, как это происходит Эликсир Любви. \u003cbr\u003e\nТы спишь трудно выбрать? Как насчет снотворного, так что вы можете спать десять дней. Он имеет плюс взносы. \u003cbr\u003e\nПьет обильные работу? Так что не принять не принимают пить на ночь пить это!" />
+	<block key="Dialog_1040043_Title" korea_korean="Северная Рейнджерс де Rex" />
+	<block key="Dialog_1040043_Text0" korea_korean="Hiek! Нажмите, Кто ты? Я не повесить, потому что вы скрываете здесь сказать! Hwoyi! Hwoyi!" />
+	<block key="Dialog_1040044_Title" korea_korean="Северная Рейнджерс Logan" />
+	<block key="Dialog_1040044_Text0" korea_korean="Черный мое тело!\nКаталог \u003cbr\u003e\nЯ смотрел из ранее. Я большие шары. Ты просто уверены в квалификации? Так что вы можете перемещаться по Уверенно случаях также большое мастерство в себе.\nКаталог \u003cbr\u003e\nПомните всегда так больно посвящается." />
+	<block key="Dialog_1040045_Title" korea_korean="Джессика горничные" />
+	<block key="Dialog_1040045_Text0" korea_korean="Мне довелось Сион. Это не место, где любой может прийти. Хотя отчетливо yinikkayo место, которое приходит, чтобы быть известным как графиня особняк сотрудник жилых помещений.\nКаталог \u003cbr\u003e\nЯ предлагаю Кара Ли Ён А. Е., который находится в ведении города Эрл Леди Годива. Можете ли вы определить имя и личность гостей?\nКаталог \u003cbr\u003e\nЕсли вы не можете сказать, что я нужен здесь, даже поэзия скоро. Граф не собирается решать эту ситуацию сейчас, сэр." />
+	<block key="Dialog_1040046_Title" korea_korean="Lady Godiva" />
+	<block key="Dialog_1040046_Text0" korea_korean="Ошибки отец, что я взять на себя ответственность. У меня не было. Мы можем простить Delta.\nКаталог \u003cbr\u003e\nВеличество Король будет слаще, если вы выходите пчел являются неопределенными, когда Его Величество случайный является его также само собой разумеющееся. Но я бы не сделать, чтобы остановить исследование вампира.\nКаталог \u003cbr\u003e\nДаже если кто-то не осталось никого,, потому что мы будем моя гордость родился дочь знати, чтобы исправить ошибки, допущенные отца GPA даже после выполнения yokdoen сказал." />
+	<block key="Dialog_1040047_Title" korea_korean="Новые охранники Лорето" />
+	<block key="Dialog_1040047_Text0" korea_korean="То, что я должен делать, что я должен делать. Hiik!\nКаталог \u003cbr\u003e\nВсе, кто ты? Время здесь? Сюда знаю, где это! Как северных лордов графа Карла Reang особняк! Это не там, где вы входите!" />
+	<block key="Dialog_1040048_Title" korea_korean="Северная Рейнджерс Остин" />
+	<block key="Dialog_1040048_Text0" korea_korean="Пиргос больше Остин грабители представителем." />
+	<block key="Dialog_1040049_Title" korea_korean="Shenron Рыцари Layla" />
+	<block key="Dialog_1040049_Text0" korea_korean="Это диспетчерская база Shenron Рыцари! И из обычной строго их. Пожалуйста, уйти в отставку сейчас!\nКаталог \u003cbr\u003e\nЧто? GM по-прежнему движется в команде Вороны? Поэтому я не могу помочь ему, пожалуйста, не заходите слишком hejipgo." />
+	<block key="Dialog_1040050_Title" korea_korean="Shenron Рыцари Commander Tom Ross" />
+	<block key="Dialog_1040050_Text0" korea_korean="Shenron Рыцари командующего Росс Том Отправка базы. Что происходит? Что здесь происходит не является открытым для общественности. Несмотря на то, говорит независимо от того, Crow отремонтированы команду.\nКаталог \u003cbr\u003e\nЯ не знаю, где nagalji информационные потоки в, мы сейчас наибольшую угрозу, чтобы бросить Саран teuneun позицию, чтобы предотвратить, а также бандитов без проницательности. Мы находимся в обвинения в рыцари надеюсь, опасаться тех, кто понимает бедственное утра." />
+	<block key="Dialog_1040051_Title" korea_korean="Royal следователь Филипп" />
+	<block key="Dialog_1040051_Text0" korea_korean="Я послал следователя во дворце. Мы здесь, чтобы расследовать замороженные руины. Я хотел бы жить в деревне Штутгарт Саран делаю какую-либо информацию он может быть полезен для eopgunyo.\nКаталог \u003cbr\u003e\nКроме того, Yeti являются museounji этом. Что разочарование время вошел и почти не знаю. Я просто вернулся к дворцу я на мое плохое." />
+	<block key="Dialog_1040052_Title" korea_korean="Жена фермера Натали" />
+	<block key="Dialog_1040052_Text0" korea_korean="Кто вы? То, что я застрял снова послал мне в безопасное место, а также замок?\nКаталог \u003cbr\u003e\nЯ оцениваю. До его прихода, никуда не денется. Вы только фермеров, даже для меня один человек говорил мне, что он любил больше, чем кто-либо!" />
+	<block key="Dialog_1040053_Title" korea_korean="Трейдеры августа" />
+	<block key="Dialog_1040053_Text0" korea_korean="Ehyu Хью, схватить его, если не прилипла к Shenron рыцарей стабильной, но ниже, ноль означает, скучно.\nКаталог \u003cbr\u003e\nВы не рыцарь? Это хорошая вещь. Эти шансы не тупой достаточно, чтобы знать, что живет в мире. Хорошо для смешной и тупой. Hadeora не жаловаться, потому что то же самое меню с едой выйти в течение недели?\nКаталог \u003cbr\u003e\nEhyu Хью, почему japsori оружие и palrago? Выберите помощи. Я позвонил Рыцари также трясет вещи, чтобы написать плохие вещи." />
+	<block key="Dialog_1040053_Answer_2_text" korea_korean="Оружие Магазины" />
+	<block key="Dialog_1040054_Title" korea_korean="Major sunchalbyeong Зел" />
+	<block key="Dialog_1040054_Text0" korea_korean="Хафф, chupgun прийти сюда.\nКаталог \u003cbr\u003e\nЭто действительно трудно действовать на патруль в холодном месте. Если вы не имеете теплое дыхание, только потому, что остальные следы на снегу также легко очистить.\nКаталог \u003cbr\u003e\nГде живые существа являются жесткими и холодными. Я проигнорировал сильный игнорируются. Возможность иметь немного рук и ногтей daeneunde, geolkkayo-то я упал в таком месте ..." />
+	<block key="Dialog_1040055_Title" korea_korean="Мастер истины, Эд Карр" />
+	<block key="Dialog_1040055_Text0" korea_korean="Мир полон тайн, и мы живем бить Гао копать тайну. Здравствуйте, молодой человек.\nКаталог \u003cbr\u003e\nЯ иду Хао Мастер Эд истины. Но теперь скромный имя известно во всем мире и в будущем, о deunopeun имя." />
+	<block key="Dialog_1040056_Title" korea_korean="Используйте этот купец" />
+	<block key="Dialog_1040056_Text0" korea_korean="Добро пожаловать. Различные вещи, которые я не так уж много вещей вы need'll иметь его грубо." />
+	<block key="Dialog_1040056_answer_1_text" korea_korean="Продуктовый магазин" />
+	<block key="Dialog_1040057_Title" korea_korean="Шахтеры, работающие Lyles" />
+	<block key="Dialog_1040057_Text0" korea_korean="Я оригинальные шахтеров. Найти лучшие минерал с круассан семьи Кун был работать, чтобы сделать хороший продукт. Kuhn Круа племена не имеют большого таланта, талант просто не делает света освещают.\nКаталог \u003cbr\u003e\nЗамороженные быстро разрушенные надежды, чтобы вновь открыть и работать с ними." />
+	<block key="Dialog_1040058_Title" korea_korean="Sunchalbyeong топ розетка" />
+	<block key="Dialog_1040058_Text0" korea_korean="Кто ты? Эта цифра проницательный шаг вокруг довольно INDE формы, которые также могут тайных операций.\nКаталог \u003cbr\u003e\nТем не менее, даже если не солдаты тамплиеров Does're не собираюсь считать, что талант все-вы-можете? Вы имеете в виду, как я. Я хищения или haemeokgo но сейчас я живу в довольно шквал sunchalbyeong благодаря капитану Тому Росс." />
+	<block key="Dialog_1040059_Title" korea_korean="Shenron тамплиеров секрет sunchalbyeong" />
+	<block key="Dialog_1040059_Text0" korea_korean="Ш-It!\nКаталог \u003cbr\u003e\nВыполняет секретную миссию. Не применять сказать, во всяком случае." />
+	<block key="Dialog_1040060_Title" korea_korean="Мастер правды Баррос" />
+	<block key="Dialog_1040060_Text0" korea_korean="Мастер с мощными магическими умениями." />
+	<block key="Dialog_1040061_Title" korea_korean="Джефф Янг Мок" />
+	<block key="Dialog_1040061_Text0" korea_korean="Что-то больно тело. Я не против." />
+	<block key="Dialog_1040062_Title" korea_korean="Оборотень Джефф" />
+	<block key="Dialog_1040062_Text0" korea_korean="Я ... Что случилось присутствовать на оборвалась так некрасиво?" />
+	<block key="Dialog_1040063_Title" korea_korean="И Канаш царство портал" />
+	<block key="Dialog_1040063_Text0" korea_korean="Портал идти к царству и Канас." />
+	<block key="Dialog_1040063_Answer_0_Text" korea_korean="Перейти к царству и Канас" />
+	<block key="Dialog_1040064_Title" korea_korean="Лес Духов портала" />
+	<block key="Dialog_1040064_Text0" korea_korean="Портал, чтобы перейти на лесных духов." />
+	<block key="Dialog_1040064_Answer_0_Text" korea_korean="Перейти к Лесу Духов" />
+	<block key="Dialog_1040065_Title" korea_korean="Выжившие Хью фермеров" />
+	<block key="Dialog_1040065_Text0" korea_korean="Теперь во всем мире, моя семья снова и снова мой сосед. Бросила конец ...\nКаталог \u003cbr\u003e\nМой отец умер от укуса волка, моя мать умерла под оленя, и моя жена умерла, права на ношение положить его отсюда. Kikiki удар!\n\u003cbr\u003e\n... Chyeotneunde прочь! Я был в состоянии купить !!!" />
+	<block key="Dialog_2023005_title" korea_korean="Аксессуары bobusang Мак" />
+	<block key="Dialog_2023005_text0" korea_korean="Эй, давай.\nКаталог \u003cbr\u003e\nЭто вещь, которая является абсолютно бесплатной и не продуктовый магазин!" />
+	<block key="Dialog_2023005_answer_0_text" korea_korean="Продуктовый магазин" />
+	<block key="Dialog_2023006_title" korea_korean="Оборудование bobusang Болт" />
+	<block key="Dialog_2023006_text0" korea_korean="Все, что я seopsyeo ~ Каталог \u003cbr\u003e оборудование оборудование, которое находится в мир! Вы можете не только приобрести только сожалеть нет никакого оборудования!" />
+	<block key="Dialog_2023006_answer_0_text" korea_korean="Оборудование магазин" />
+	<block key="Dialog_2023007_title" korea_korean="Оружие Роббен bobusang" />
+	<block key="Dialog_2023007_text0" korea_korean="Доверьте оружие жив! Сможете ли вы получить в любом месте, в любом месте! Каталог \u003cbr\u003e Доверие, основанное на Робин mosipnida!" />
+	<block key="Dialog_2023007_answer_0_text" korea_korean="Оружие Магазины" />
+	<block key="Dialog_2023008_title" korea_korean="Оружие дилер Поль" />
+	<block key="Dialog_2023008_text0" korea_korean="Одна рука, обе руки, палки, кинжалы, луки! ... Он оснащен выборе вида! Всего за словами!" />
+	<block key="Dialog_2023008_answer_0_text" korea_korean="Оружие Магазины" />
+	<block key="Dialog_2023009_title" korea_korean="Фаган торговец оружием" />
+	<block key="Dialog_2023009_text0" korea_korean="Оружие должен меняться время от времени. Гости, donpun ahkkiryeo и не попадают в руки держать риск того, что не вписывается в руки! Каталог \u003cbr\u003e Прямо сейчас! \u003cbr\u003e Перемен!" />
+	<block key="Dialog_2023009_answer_0_text" korea_korean="Оружие Магазины" />
+	<block key="Dialog_2023010_title" korea_korean="Доспехами Raleigh Ной" />
+	<block key="Dialog_2023010_text0" korea_korean="Из оборонительного сражения! Лучшая защита это нападение! Что \u003cbr\u003e \u003cbr\u003e Ищете этот материал? Мы встретимся достаточно!" />
+	<block key="Dialog_2023010_answer_0_text" korea_korean="Броня магазин" />
+	<block key="Dialog_2023011_title" korea_korean="Доспехами Кларк" />
+	<block key="Dialog_2023011_text0" korea_korean="Но также нужно быть готовыми, когда победители игроки пропустили его. Даже не на дуэли, чтобы \u003cbr\u003e \u003cbr\u003e рыцарей зверей и варвары ли не долговечны. Броня ppunyijyo доверять вам в этой ситуации!" />
+	<block key="Dialog_2023011_answer_0_text" korea_korean="Броня магазин" />
+	<block key="Dialog_2023012_title" korea_korean="Галантерейщик Бенджамин" />
+	<block key="Dialog_2023012_text0" korea_korean="Есть много полезных вещей! Каталог \u003cbr\u003e Угу! Просто пройти через это страшно!" />
+	<block key="Dialog_2023012_answer_0_text" korea_korean="Продуктовый магазин" />
+	<block key="Dialog_2023013_title" korea_korean="Оборудование Trader Джефф" />
+	<block key="Dialog_2023013_text0" korea_korean="Когда я осмотрел поле боя также изменяется в результате небольших различий. \u003cbr\u003e \u003cbr\u003e Выбор, чем человек впереди Юга! Вот!" />
+	<block key="Dialog_2023013_answer_0_text" korea_korean="Оборудование магазин" />
+	<block key="Dialog_2023014_title" korea_korean="Зелье Merchant Роландо" />
+	<block key="Dialog_2023014_text0" korea_korean="В чрезвычайной eopjyo быть надежным, а также зелья. Mosipnida верующие не только дешевле mosiji!" />
+	<block key="Dialog_2023014_answer_0_text" korea_korean="Зелье Магазин" />
+	<block key="Dialog_2023015_title" korea_korean="Доспехами Крона" />
+	<block key="Dialog_2023015_text0" korea_korean="Есть также первоклассный броня также подобрать разборчивы. Только если вы думаете, что это трудно выжить, что методы атак. Что ты хочешь?" />
+	<block key="Dialog_2023015_answer_0_text" korea_korean="Броня магазин" />
+	<block key="Dialog_2023016_title" korea_korean="Бек торговец оружием" />
+	<block key="Dialog_2023016_text0" korea_korean="Вы получить оружие в таком месте, как это? Ну, я все равно, я не знаю, но немало готовности.\nКаталог \u003cbr\u003e\nНе знаю, если я могу взять комфорт в умеренных количествах, так давайте выберем одно оружие." />
+	<block key="Dialog_2023016_answer_0_text" korea_korean="Оружие Магазины" />
+	<block key="Dialog_2023017_title" korea_korean="Bobusang брони мероприятия" />
+	<block key="Dialog_2023017_text0" korea_korean="Выдающиеся люди редко замечаем, чтобы выяснить, отличная вещь. \u003cbr\u003e \u003cbr\u003e Хороший материал людей вокруг. Если можно купить за деньги." />
+	<block key="Dialog_2023017_answer_0_text" korea_korean="Броня магазин" />
+	<block key="Dialog_2023018_title" korea_korean="Доспехами Bentley" />
+	<block key="Dialog_2023018_text0" korea_korean="Для повышения выживаемости в области jotjiyo вы, обращая внимание на броне, а не оружия. Вы ищете что-то?" />
+	<block key="Dialog_2023018_answer_0_text" korea_korean="Броня магазин" />
+	<block key="Dialog_2023019_title" korea_korean="Галантерейщик Лина" />
+	<block key="Dialog_2023019_text0" korea_korean="Посмотрите вокруг. Я надеюсь встретиться с нахождения вещи." />
+	<block key="Dialog_2023019_answer_0_text" korea_korean="Продуктовый магазин" />
+	<block key="Dialog_2023020_title" korea_korean="Мэгги питания торговцы" />
+	<block key="Dialog_2023020_text0" korea_korean="Голодный я не могу ничего делать! Причина люди слишком голоден, чтобы бороться с любой noldeun звонок!" />
+	<block key="Dialog_2023020_answer_0_text" korea_korean="Продуктовые магазины" />
+	<block key="Dialog_2023021_title" korea_korean="Купцы питания через" />
+	<block key="Dialog_2023021_text0" korea_korean="Вкусный ~ вне еда! Где я могу получить больше нигде так хорошая еда ...?" />
+	<block key="Dialog_2023021_answer_0_text" korea_korean="Продуктовые магазины" />
+	<block key="Dialog_2023022_title" korea_korean="Молли галантерейщик" />
+	<block key="Dialog_2023022_text0" korea_korean="Не лейте ему продуктовый магазин! Это просто продуктовый магазин по продаже все как кому не лень! Так что я бы искать что-то, что было необходимо!" />
+	<block key="Dialog_2023022_answer_0_text" korea_korean="Продуктовый магазин" />
+	<block key="Dialog_2023023_title" korea_korean="Пегги питания торговцы" />
+	<block key="Dialog_2023023_text0" korea_korean="Если питание питательный вкус ~ ~ Если какая-либо трудно пропустить, если вы живете прямо здесь!" />
+	<block key="Dialog_2023023_answer_0_text" korea_korean="Продуктовые магазины" />
+	<block key="Dialog_2023024_title" korea_korean="Лаура питания торговцы" />
+	<block key="Dialog_2023024_text0" korea_korean="Фуд руки. Тщательно приготовленной пищи. Пожалуйста, просто чтобы посмотреть, я буду смотреть бой после 90000000000010000 ~ ~" />
+	<block key="Dialog_2023024_answer_0_text" korea_korean="Продуктовые магазины" />
+	<block key="Dialog_2023025_title" korea_korean="Зелье Merchant Элина" />
+	<block key="Dialog_2023025_text0" korea_korean="Keueu ~ Alchemist Причина ужасно в любом случае. Я не действуют законы приготовления эликсиров цены. Вы по-прежнему идти в любом месте без этого номера? Каталог \u003cbr\u003e Хотите еще dudukhi дополнения и идти немного не хватает." />
+	<block key="Dialog_2023025_answer_0_text" korea_korean="Зелье Магазин" />
+	<block key="Dialog_1040066_title" korea_korean="Портал поеду куплю сдам в аренду" />
+	<block key="Dialog_1040066_text0" korea_korean="Если вы используете этот портал, вы не можете быстро перейти к назначенному месту Неда континента.\nКаталог \u003cbr\u003e\nКонечно. Там было небольшую плату магии рассмотрения вне времени и пространства. И вы хотите, чтобы воспользоваться порталом?" />
+	<block key="Dialog_1040066_answer_0_text" korea_korean="Перейти к Канас пола" />
+	<block key="Dialog_1040067_title" korea_korean="Пойти купить прионов портал" />
+	<block key="Dialog_1040067_text0" korea_korean="Если вы используете этот портал, вы не можете быстро перейти к назначенному месту Неда континента.\nКаталог \u003cbr\u003e\nКонечно. Там было небольшую плату магии рассмотрения вне времени и пространства. И вы хотите, чтобы воспользоваться порталом?" />
+	<block key="Dialog_1040067_answer_0_text" korea_korean="Перейти к сайтам эльфов" />
+	<block key="Dialog_1040067_answer_1_text" korea_korean="Перейти к Калгари деревне В лесу работ" />
+	<block key="Dialog_1040067_answer_2_text" korea_korean="Перейти к сообщению ревущий лес" />
+	<block key="Dialog_1040067_answer_3_text" korea_korean="Перейти к тамплиеров гарнизона Shenron [Лес Духов]" />
+	<block key="Dialog_1040068_title" korea_korean="Перейти купить портала entil веревку" />
+	<block key="Dialog_1040068_text0" korea_korean="Если вы используете этот портал, вы не можете быстро перейти к назначенному месту Неда континента.\nКаталог \u003cbr\u003e\nКонечно. Там было небольшую плату магии рассмотрения вне времени и пространства. И вы хотите, чтобы воспользоваться порталом?" />
+	<block key="Dialog_1040068_answer_0_text" korea_korean="Перейти к Канас пола" />
+	<block key="Dialog_1040068_answer_1_text" korea_korean="Перейти к сообщению ревущий лес" />
+	<block key="Dialog_1040069_title" korea_korean="Аарон Уорд Перемещение компания портал" />
+	<block key="Dialog_1040069_text0" korea_korean="Если вы используете этот портал, вы не можете быстро перейти к назначенному месту Неда континента.\nКаталог \u003cbr\u003e\nКонечно. Там было небольшую плату магии рассмотрения вне времени и пространства. И вы хотите, чтобы воспользоваться порталом?" />
+	<block key="Dialog_1040069_answer_0_text" korea_korean="Перейти к Калгари деревне В лесу работ" />
+	<block key="Dialog_1040069_answer_1_text" korea_korean="Перейти к Канас пола" />
+	<block key="Dialog_1040070_title" korea_korean="Shenron статьи Леброн Коттер" />
+	<block key="Dialog_1040070_text0" korea_korean="Вместе с моим черным светом! Каталог \u003cbr\u003e я был ведущим солдаты размещены здесь. В настоящее время этот hyunghyunghan но привержены поддержанию здесь с азелаиновой годов." />
+	<block key="Dialog_1040071_title" korea_korean="Местные знаменитости балет Роа" />
+	<block key="Dialog_1040071_text0" korea_korean="Круг приехал сюда, чтобы выполнить мечту. Когда-нибудь, чтобы иметь большую силу царство властвует. Это правда! Чтобы создать прочные личные связи по времени. Мне нужно работать, чтобы помочь людям, которые могут дать вам возможность создавать, вы можете помочь?" />
+	<block key="Dialog_1040072_title" korea_korean="Len более высокий родина статьи" />
+	<block key="Dialog_1040072_text0" korea_korean="Мы направились в прокомментировать историю зловещих событий, происходящих в королевстве. Возможно, мне нужно мне ни слова?" />
+	<block key="Dialog_1040073_title" korea_korean="Аукционы только на Харидвар" />
+	<block key="Dialog_1040073_text0" korea_korean="Теперь пришло время вернуть дух этого аукциона. Если у вас есть что сказать, ладно ... В свободное время?" />
+	<block key="Dialog_1040074_title" korea_korean="Капитан Джон веревка unsongseon" />
+	<block key="Dialog_1040074_text0" korea_korean="Если вы только готовится, чтобы оставить оставшуюся прибыль в любое время. Это где вы хотите пойти?" />
+	<block key="Dialog_1040075_title" korea_korean="Дирижабль Капитан RY вязать" />
+	<block key="Dialog_1040075_text0" korea_korean="Подождите, чтобы видеть. Путешественник еще не собираются." />
+	<block key="Dialog_1040076_title" korea_korean="Королевство банк Tree Line" />
+	<block key="Dialog_1040076_text0" korea_korean="Быть богатым вы слышите лес. Когда деревья не вижу ... может увидеть поток денег подходящее время, имеет смысл только тогда, когда обязательство инвестиционное решение. При необходимости, обратиться за советом в любое время." />
+	<block key="Dialog_1040077_title" korea_korean="Мастер Лили Чан Нетаньяху" />
+	<block key="Dialog_1040077_text0" korea_korean="Мы против духа зла, работа, которая была делать стойку за справедливость. Единственное, что я делаю, это не миссия. Что на самом деле это не правильно и абсолютная любовь линии, я не потребуется решение." />
+	<block key="Dialog_1040078_title" korea_korean="Старший tuho кузнец Лин" />
+	<block key="Dialog_1040078_text0" korea_korean="Iteusinga заинтересованы в открытом кузнец работы? Не плохо, если они просто интересно.\nКаталог \u003cbr\u003e\nУверен, мастерство тело, но не имеют старомодный способ мышления itjineun как в старые времена." />
+	<block key="Dialog_1040079_title" korea_korean="Могила и быть стройной" />
+	<block key="Dialog_1040079_text0" korea_korean="Eoheoyi! Боже мой! Я, gicheok меня убить, ходить по шоу! Теперь я убью jupsyo! And'm участие? К счастью, есть мастер, что собираясь вместе, но, насколько чувствительна зомби.\nКаталог \u003cbr\u003e\nИ, потому что теперь вы не знаете, где зомби ползают нервы встали дыбом, как? Слушайте только звуковые ловли обувь на полу также DIS двор игровой день!" />
+	<block key="Dialog_1040080_title" korea_korean="Swin броня мастер" />
+	<block key="Dialog_1040080_text0" korea_korean="Кряхтя ... позор, что платье, и мир узнает, что я могу жить только с практичностью. Я собираюсь придется беспокоиться о чем-то, что мода? В противном случае, пока я не могу вернуться к ли Вы выглядеть.\nКаталог \u003cbr\u003e\nАх, да. Практичность важна, конечно, нет. Это просто, что вы должны придерживаться основной цели защиты.\nКаталог \u003cbr\u003e\nНо это не должны быть, что сильные ауры Рыцари носить доспехи, как тряпки. Что об эффективности, так как не одеты целостность авантюрист. Народный понимание того, как жить с самим собой, признается в мире." />
+	<block key="Dialog_1040081_title" korea_korean="Водный замок гвардии Диего" />
+	<block key="Dialog_1040081_text0" korea_korean="Charge-замок! Нет больше \u003cbr\u003e \u003cbr\u003e работе ... Кто тебя по тому пути? Остерегайтесь Каталог \u003cbr\u003e совсем недавно жили в лесах ревущей зверя кочует из леса. Вы также сказали, что во время Птенец черного Балаурами." />
+	<block key="Dialog_1040082_title" korea_korean="Броди Замок гвардии также" />
+	<block key="Dialog_1040082_text0" korea_korean="Charge-секс. Каталог \u003cbr\u003e Вы когда-нибудь были в рыцари ревущей лагерь в лесу? Отличное место Shenron говорит, что рыцари размещены. Как я могу быть так? Каталог \u003cbr\u003e ... Heotkkum даже не думать об этом, но не слишком близко к лошади." />
+	<block key="Dialog_1040083_title" korea_korean="Мама Джеффа Ада" />
+	<block key="Dialog_1040083_text0" korea_korean="Нажмите, Кто-нибудь ...? Где здесь? Каталог \u003cbr\u003e Мой сын, мой сын, Джефф, Где я могу?!" />
+	<block key="Dialog_1040084_title" korea_korean="Королева Венецианский рыба ах" />
+	<block key="Dialog_1040084_text0" korea_korean="Как спасти принцессу же? Каталог \u003cbr\u003e магию, чтобы держать ум, чтобы знать, но вы не знаете, Ире магию, чтобы сохранить орган. Каталог \u003cbr\u003e ... Хорошо. Я считаю, ваши статьи и мастеров нашего королевства. Нет, наше царство рыцари и волшебники, и не только считают, у всех людей. Каталог \u003cbr\u003e Конечно, я верю, что вы бы придумали Рания спасение!" />
+	<block key="Dialog_9011008_title" korea_korean="Укрощение Руководство" />
+	<block key="Dialog_9011008_text0" korea_korean="" />
+	<block key="Dialog_3020702_Title" korea_korean="Yeomsaeksa Rabeulre в" />
+	<block key="Dialog_3020702_Text0" korea_korean="Приходите ohsipsiyo. Что я могу сделать для вас?" />
+	<block key="Dialog_3020702_Answer_0_Text" korea_korean="Я хотел бы, чтобы окрасить ваши детали." />
+	<block key="Dialog_3020702_Answer_1_Text" korea_korean="Я хотел бы, чтобы окрасить волосы." />
+	<block key="Dialog_3020901_Title" korea_korean="Священный терапевт" />
+	<block key="Dialog_3020901_Text0" korea_korean="Я чувствую боль души от вас." />
+	<block key="Dialog_3020901_Answer_0_Text" korea_korean="Я хотел бы для лечения осложнений воскресение." />
+	<block key="Dialog_9999999_Title" korea_korean="Диалог последний номер" />
+	<block key="Dialog_9999999_Text0" korea_korean="Диалог последний номер" />
+	<block key="Dialog_3020703_Title" korea_korean="Ирина yeomsaeksa" />
+	<block key="Dialog_3020703_Text0" korea_korean="Приходите ohsipsiyo. Что я могу сделать для вас?" />
+	<block key="Dialog_3020703_Answer_0_Text" korea_korean="Я хотел бы, чтобы окрасить ваши детали." />
+	<block key="Dialog_3020703_Answer_1_Text" korea_korean="Я хотел бы, чтобы окрасить волосы." />
+	<block key="Dialog_3020704_Title" korea_korean="Yeomsaeksa Rose" />
+	<block key="Dialog_3020704_Text0" korea_korean="Приходите ohsipsiyo. Что я могу сделать для вас?" />
+	<block key="Dialog_3020704_Answer_0_Text" korea_korean="Я хотел бы, чтобы окрасить ваши детали." />
+	<block key="Dialog_3020704_Answer_1_Text" korea_korean="Я хотел бы, чтобы окрасить волосы." />
+	<block key="Dialog_1000001_Title" korea_korean="Планировщик G ☆ ЗВЕЗДА события" />
+	<block key="Dialog_1000001_Text0" korea_korean="Добро пожаловать! Каталог \u003cbr\u003e G ☆ ЗВЕЗДА 2010! Нужно провести весело? Каталог \u003cbr\u003e получить больше удовольствия с NED!" />
+	<block key="Dialog_1040085_Title" korea_korean="Мастер телепортации Далянь" />
+	<block key="Dialog_1040085_Text0" korea_korean="Вы Слава и мастер находится внутри секретного Канас. Чтобы попасть туда излишеств, как я нужна помощь мастера телепортации. Вы хотите, чтобы пойти в Зал мастера?" />
+	<block key="Dialog_1040085_Answer_0_Text" korea_korean="Перейти в Зал мастера" />
+	<block key="Dialog_1040086_Title" korea_korean="Мастер телепортации текущий курс" />
+	<block key="Dialog_1040086_Text0" korea_korean="Когда вы покидаете здесь, позвольте мне помочь вам нужно в данный момент, чтобы перейти мастера, как я. Вы хотите, чтобы перейти к и Канаш секс?" />
+	<block key="Dialog_1040086_Answer_0_Text" korea_korean="Перейти к замку и Канас" />
+	<block key="Dialog_1040087_Title" korea_korean="Der Pilgrim" />
+	<block key="Dialog_1040087_Text0" korea_korean="... (Он делает мрачный взгляд." />
+	<block key="Dialog_1040088_Title" korea_korean="За клана Shadow" />
+	<block key="Dialog_1040088_Text0" korea_korean="Тссс, миссия навигации. Пожалуйста, потише." />
+	<block key="Dialog_1040089_Title" korea_korean="Shenron статья называется руно" />
+	<block key="Dialog_1040089_Text0" korea_korean="Что со мной случилось? Вы говорите висит статьи без какого-либо сообщения?" />
+	<block key="Dialog_1040090_Title" korea_korean="Adventurer Стивенс" />
+	<block key="Dialog_1040090_Text0" korea_korean="Что! Не беспокойтесь, чтобы оставить меня в покое! Городах мира даже не принимая то, что вы спокойствие!" />
+	<block key="Dialog_1040091_Title" korea_korean="Принцесса Силли вашей няне" />
+	<block key="Dialog_1040091_Text0" korea_korean="Надеюсь, что я получу ничего делать, чтобы освободить тело принцессы." />
+	<block key="Dialog_1040092_Title" korea_korean="Екатерина герцог Ли Ён Ae" />
+	<block key="Dialog_1040092_Text0" korea_korean="Хм, что скромный Уилл говорить с кем-то небрежно!" />
+	<block key="Dialog_1040092_answer_0_Text" korea_korean="Герцог Ли Ён Ae сомнительно. Зачем спрашивать, что здесь." />
+	<block key="Dialog_1040093_Title" korea_korean="Горничные аренды" />
+	<block key="Dialog_1040093_Text0" korea_korean="Хвар, вампир?! О, нет ... Ты в самом деле, не так ли? Кто Каталог \u003cbr\u003e вы? Но только далеко chyeotji, охраняет also'm друзья и все вампир, который работал в резиденции Каталог \u003cbr\u003e обман, обман боюсь, что я терпеть не могу!" />
+	<block key="Dialog_9011009_Title" korea_korean="Екатерина герцог Ли Ён Ae" />
+	<block key="Dialog_9011009_Text0" korea_korean="Вот заботятся ты делаешь? Вот блин Рания 0 акций происходит на исповедь bachisi зарядки? Каталог \u003cbr\u003e Избитый сообщение посвящаем! Только если эта сука есть! Каталог \u003cbr\u003e Хотя, вы eopget может быть. Вы просто будут потеряны здесь!" />
+</blocks>

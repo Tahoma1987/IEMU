@@ -1,0 +1,74 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="squest_sf_01" korean="주변의 위협에 맞서 싸워라" />
+	<block key="squest_sf_02" korean="브라카르 숲을 탈출하라" />
+	<block key="squest_sf_03_part_01" korean="크로우를 만나라" />
+	<block key="squest_sf_04" korean="맹수를 길들이는 방법" />
+	<block key="squest_sf_04_part_01" korean="길들이기를 익혀라" />
+	<block key="squest_sf_04_part_02" korean="어둠의 힘을 얻어라" />
+	<block key="squest_hk_01" korean="왕국을 구할 준비를 하라" />
+	<block key="squest_hk_03" korean="동물들의 이변" />
+	<block key="squest_hk_02" korean="불이 삼킨 유적의 위험" />
+	<block key="squest_hk_021" korean="카브임 교단의 침입" />
+	<block key="squest_hk_04" korean="북부의 혼란" />
+	<block key="squest_hk_05" korean="흡혈귀의 비밀" />
+	<block key="squest_hk_06" korean="죽음을 뿌리는 자들" />
+	<block key="squest_hk_07" korean="사란트의 계획" />
+	<block key="squest_hk_08" korean="폭풍의 용과 맞서라" />
+	<block key="squest_hk_09" korean="수도성에 닥친 위험" />
+	<block key="squest_hkd_01" korean="대해 통로를 확보하라" />
+	<block key="squest_hkd_02" korean="건설 현장을 지원하라" />
+	<block key="squest_hkd_03" korean="스칸 공적단과 맞서라" />
+	<block key="squest_hkd_04" korean="공주의 흔적을 찾아라" />
+	<block key="squest_hkd_05" korean="무지개 산호초에 생긴 사건" />
+	<block key="squest_f02_g_01" korean="격동의 대지를 탈출하라" />
+	<block key="squest_st_01" korean="생명의 호수로 가는 길" />
+	<block key="squest_st_01_part_01" korean="폐쇄된 생명의 호수" />
+	<block key="squest_st_01_part_02" korean="고난의 수비대" />
+	<block key="squest_st_02" korean="흑막의 그림자" />
+	<block key="squest_st_02_part_01" korean="해적단 진지를 파괴하라" />
+	<block key="squest_st_02_part_02" korean="해적단의 목적" />
+	<block key="squest_st_03" korean="파르나 여신의 고뇌" />
+	<block key="squest_st_03_part_01" korean="무러미족의 근심" />
+	<block key="squest_st_03_part_02" korean="무러미족의 분열" />
+	<block key="squest_st_03_part_03" korean="여신의 축복" />
+	<block key="squest_st_04" korean="얼음성 공략전" />
+	<block key="squest_st_04_part_01" korean="얼음의 저주" />
+	<block key="squest_st_04_part_02" korean="라니아 공주를 찾아라" />
+	<block key="squest_ca_04" korean="멸망의 공역" />
+	<block key="squest_ca_04_part_01" korean="좌초된 고래" />
+	<block key="squest_ca_04_part_02" korean="페가수스 기사단" />
+	<block key="squest_ca_04_part_03" korean="최후의 전투" />
+	<block key="squest_pl_01" korean="파르나의 땅으로" />
+	<block key="squest_pl_01_part_01" korean="파르나의 땅으로" />
+	<block key="squest_pl_02" korean="해적단 소탕작전" />
+	<block key="squest_pl_02_part_01" korean="해적단 소탕작전" />
+	<block key="squest_pl_03" korean="분열된 무러미들" />
+	<block key="squest_pl_03_part_01" korean="분열된 무러미들" />
+	<block key="squest_pl_04" korean="물의 거울을 찾아서" />
+	<block key="squest_pl_04_part_01" korean="물의 거울을 찾아서" />
+	<block key="squest_pl_05" korean="폐허가 된 영지" />
+	<block key="squest_pl_05_part_01" korean="폐허가 된 영지" />
+	<block key="squest_ed_01" korean="사막의 개척촌" />
+	<block key="squest_ed_01_part_01" korean="모하바 용병단의 습격" />
+	<block key="squest_ed_02" korean="빼앗긴 금광" />
+	<block key="squest_ed_02_part_01" korean="용병단을 섬멸하라" />
+	<block key="squest_ed_03" korean="사막 브라기" />
+	<block key="squest_ed_03_part_01" korean="오르 수송 저지" />
+	<block key="squest_ed_04" korean="황금 그리폰 기사단" />
+	<block key="squest_ed_04_part_01" korean="돌연변이 그리폰" />
+	<block key="squest_ed_05" korean="사막의 왕" />
+	<block key="squest_ed_05_part_01" korean="켄 그리프 알현" />
+	<block key="squest_ed_06" korean="크로쿤 병영지구" />
+	<block key="squest_ed_06_part_01" korean="타락한 사막 크로쿤" />
+	<block key="squest_ed_07" korean="예언자를 찾아서" />
+	<block key="squest_ed_07_part_01" korean="하라크로 신전의 비밀" />
+	<block key="squest_ed_08" korean="작전 개시" />
+	<block key="squest_ed_08_part_01" korean="공주님을 구출하라!" />
+</blocks>

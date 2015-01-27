@@ -1,0 +1,335 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Quest_Mission_Str_Type_0" korean="[NAME] 대화하기" />
+	<block key="Quest_Mission_Str_Type_1" korean="[NAME] 처치" />
+	<block key="Quest_Mission_Str_Type_2" korean="[NAME] 획득" />
+	<block key="Quest_Mission_Str_Type_3" korean="[NAME] 찾기" />
+	<block key="Quest_Mission_Str_Type_4" korean="[NAME] 호위" />
+	<block key="Quest_Mission_Str_Type_5" korean="[NAME] 보고" />
+	<block key="Quest_Mission_Str_Type_6" korean="[NAME] 대화" />
+	<block key="Quest_Mission_Str_Type_7" korean="[NAME] 작동" />
+	<block key="Quest_Mission_Str_Type_8" korean="[NAME] 파괴" />
+	<block key="Quest_Mission_Str_Type_9" korean="[NAME] 보상받기" />
+	<block key="Quest_Mission_Str_Type_10" korean="[NAME] 도착" />
+	<block key="Quest_Mission_Str_Type_11" korean="[NAME] 착용" />
+	<block key="Quest_Mission_Str_Type_12" korean="케플리 싱어 구출" />
+	<block key="Quest_Mission_Str_Type_13" korean="[NAME] 전달" />
+	<block key="Quest_Mission_Str_Type_14" korean="[NAME] 에게 물건 전달" />
+	<block key="Quest_Mission_Str_Type_15" korean="[NAME2] 방해" />
+	<block key="Quest_Mission_Str_Type_16" korean="[NAME] 사용" />
+	<block key="Quest_Mission_Str_Type_17" korean="[NAME] 길들이기" />
+	<block key="Quest_Mission_Str_Type_18" korean="[NAME] 익히기" />
+	<block key="Quest_Mission_Str_Type_19" korean="[NAME] 에게 물건 전달" />
+	<block key="Quest_Mission_Str_Type_20" korean="특성구슬에 특성력 채우기" />
+	<block key="Quest_Mission_Str_Type_21" korean="[NAME] 장착" />
+	<block key="Quest_Mission_Str_Type_22" korean="[NAME] 함께 전투" />
+	<block key="Quest_Mission_Str_Type_23" korean="[NAME] 탑승 전투" />
+	<block key="Quest_Mission_Str_Type_24" korean="[NAME] [NAME2] 동안 생존" />
+	<block key="Quest_Mission_Str_Type_25" korean="모두 생존할 것" />
+	<block key="Quest_Mission_Str_Type_26" korean="크로우와 함께 감옥 탈출" />
+	<block key="Quest_Mission_Str_Type_27" korean="[NAME] 구입하기" />
+	<block key="Quest_Mission_Str_Type_28" korean="[NAME] 필요" />
+	<block key="Quest_Mission_Str_Type_29" korean="불 타는 물품들 불 끄기" />
+	<block key="Quest_Mission_Str_Type_30" korean="부상자 치료" />
+	<block key="Quest_Mission_Str_Type_31" korean="[NAME] 설치" />
+	<block key="Quest_Mission_Str_Type_32" korean="물통 채우기" />
+	<block key="Quest_Mission_Str_Type_33" korean="[NAME] 고문하기" />
+	<block key="Quest_Mission_Str_Type_34" korean="[NAME] 밥 주기" />
+	<block key="Quest_Mission_Str_Type_35" korean="[NAME]으로 영혼 부르기" />
+	<block key="Quest_Mission_Str_Type_36" korean="신룡기사단의 장창으로 브라기 전투원 처치" />
+	<block key="Quest_Mission_Str_Type_37" korean="유적지 순록 봉인하기" />
+	<block key="Quest_Mission_Str_Type_38" korean="[NAME] 확인" />
+	<block key="Quest_Mission_Str_Type_39" korean="[NAME] 놓기" />
+	<block key="Quest_Mission_Str_Type_40" korean="짐수레 마차 불끄기" />
+	<block key="Quest_Mission_Str_Type_41" korean="축하합니다. 이카루스 G☆STAR 퀘스트를 모두 완료하셨습니다." />
+	<block key="Quest_Mission_Str_Type_42" korean="신룡기사단 주둔지의 크로우 찾기" />
+	<block key="Quest_Mission_Str_Type_43" korean="보물상자에서 쿠할란의 망치 획득" />
+	<block key="Quest_Mission_Str_Type_44" korean="하카나스 수도성에서 율너스와 대화" />
+	<block key="Quest_Mission_Str_Type_45" korean="바다 소용돌이 확인하기" />
+	<block key="Quest_Mission_Str_Type_46" korean="마법신호탄으로 구조요청 하기" />
+	<block key="Quest_Mission_Str_Type_47" korean="멸망의 공역에서 포와 대화" />
+	<block key="Quest_Mission_Str_Type_48" korean="플로티어 둥지에서 알 수집" />
+	<block key="Quest_Mission_Str_Type_49" korean="천사 석상 확인하기" />
+	<block key="Quest_Mission_Str_Type_50" korean="레벨 [NAME]으로 성장하기" />
+	<block key="Quest_Mission_Str_Type_51" korean="켈우즈 마을까지 드렉스 호위" />
+	<block key="Quest_Mission_Str_Type_52" korean="페가수스 기사단의 표식 회수" />
+	<block key="Quest_Mission_Str_Type_53" korean="불사군단의 공격 2분 버티기" />
+	<block key="Quest_Mission_Str_Type_54" korean="귀환 위치 지정하기" />
+	<block key="Quest_Mission_Str_Type_55" korean="화이트를 커티스에게 데려가기" />
+	<block key="Quest_Mission_Str_Type_56" korean="하카나스 수도성에 도착" />
+	<block key="Quest_Mission_Str_Type_57" korean="멸망의 공역에 도착" />
+	<block key="Quest_Mission_Str_Type_58" korean="[NAME] 구입하기" />
+	<block key="Quest_Mission_Str_Type_59" korean="요정 치키의 안내 받기" />
+	<block key="Quest_Mission_Str_Type_60" korean="격동의 대지에서 아로트 길들이기" />
+	<block key="Quest_Mission_Str_Type_61" korean="엘로라의 약속 사용" />
+	<block key="Quest_Mission_Str_Type_62" korean="[NAME] 에서 탁본 뜨기" />
+	<block key="Quest_Mission_Str_Type_63" korean="지하 기사단 회의실의 크로우와 대화" />
+	<block key="Quest_Mission_Str_Type_64" korean="도감을 경비대장 멜빈 한에게 가져가기" />
+	<block key="Quest_Mission_Str_Type_65" korean="쿤타리스와 함께 고대 유적지 관리자 처치하기" />
+	<block key="Quest_Mission_Str_Type_66" korean="고대 결계 파괴하기" />
+	<block key="Quest_Mission_Str_Type_67" korean="광채나무 숲 야영지로 가서 크로우와 대화" />
+	<block key="Quest_Mission_Str_Type_68" korean="수도성으로 가서 국왕 만나기" />
+	<block key="Quest_Mission_Str_Type_69" korean="특수 폭약으로 브라기 석궁 파괴하기" />
+	<block key="Quest_Mission_Str_Type_70" korean="유적지 관리자가 소환한 유령 처치하기" />
+	<block key="Quest_Mission_Str_Type_71" korean="풀차지 세게치기를 사용해 브라기 방벽 파괴" />
+	<block key="Quest_Mission_Str_Type_72" korean="엘로라의 징표로 전투병에게 버프 주기" />
+	<block key="Quest_Mission_Str_Type_73" korean="엘로라의 징표로 브라기 침투조장 공격 하기" />
+	<block key="Quest_Mission_Str_Type_74" korean="불꽃화살을 3중첩 시켜 브라기 폭약 터뜨리기" />
+	<block key="Quest_Mission_Str_Type_75" korean="연락병에게 기민한 움직임 후 깊게 찌르기 사용하기" />
+	<block key="Quest_Mission_Str_Type_76" korean="브라기 전투병 공격 방어 후 방패치기를 사용해 스턴걸기" />
+	<block key="Quest_Mission_Str_Type_77" korean="동부 시가지에서 [NAME] 사용하기" />
+	<block key="Quest_Mission_Str_Type_78" korean="에카테리나 뒤쫓기" />
+	<block key="Quest_Mission_Str_Type_79" korean="포탄없는 대포에 포탄 보급" />
+	<block key="Quest_Mission_Str_Type_80" korean="고대 해적들 처치하기" />
+	<block key="Quest_Mission_Str_Type_81" korean="아굴족 처치하기" />
+	<block key="Quest_Mission_Str_Type_82" korean="배고픈 병사에게 음식 조달" />
+	<block key="Quest_Mission_Str_Type_83" korean="망가진 방책 수리" />
+	<block key="Quest_Mission_Str_Type_84" korean="무러미오의 편지를 줄러미에게 전달" />
+	<block key="Quest_Mission_Str_Type_85" korean="줄러미의 편지를 무러미오에게 전달" />
+	<block key="Quest_Mission_Str_Type_86" korean="물의 무녀의 편지를 타타라에게 전달" />
+	<block key="Quest_Mission_Str_Type_87" korean="아굴족을 처치하고 야수혈흔 획득" />
+	<block key="Quest_Mission_Str_Type_88" korean="오염된 독초 회수" />
+	<block key="Quest_Mission_Str_Type_89" korean="여신의 얼굴을 성소에 바치기" />
+	<block key="Quest_Mission_Str_Type_90" korean="설인 사냥" />
+	<block key="Quest_Mission_Str_Type_91" korean="크로쿤 식량 회수" />
+	<block key="Quest_Mission_Str_Type_92" korean="인어의 노래 따라 부르기" />
+	<block key="Quest_Mission_Str_Type_93" korean="빛나는 나무 되살리기" />
+	<block key="Quest_Mission_Str_Type_94" korean="눈나무 되살리기" />
+	<block key="Quest_Mission_Str_Type_95" korean="파를라크 영지로 향하기" />
+	<block key="Quest_Mission_Str_Type_96" korean="동상에 걸린 크로쿤 구조" />
+	<block key="Quest_Mission_Str_Type_97" korean="베일에 싸인 동굴의 성난 무러미 처치" />
+	<block key="Quest_Mission_Str_Type_98" korean="[NAME] 봉인" />
+	<block key="Quest_Mission_Str_Type_99" korean="북부 유적지 결계 파괴하기" />
+	<block key="Quest_Mission_Str_Type_100" korean="파를라크 영지의 아이샤 찾기" />
+	<block key="Quest_Mission_Str_Type_101" korean="론도의 대화 듣기" />
+	<block key="Quest_Mission_Str_Type_102" korean="무러미 구출하기" />
+	<block key="Quest_Mission_Str_Type_103" korean="줄러미에게 무러미오가 만든 반지 전달하기" />
+	<block key="Quest_Mission_Str_Type_104" korean="남부 유적지 안으로 들어가기" />
+	<block key="Quest_Mission_Str_Type_105" korean="10레벨 추출도구 사용" />
+	<block key="Quest_Mission_Str_Type_106" korean="리드가 숨겨놓은 회초리 찾기" />
+	<block key="Quest_Mission_Str_Type_107" korean="촌장에게 회초리 대신 나무몽둥이 갖다주기" />
+	<block key="Quest_Mission_Str_Type_108" korean="저주를 건 사제를 찾아 처치하기" />
+	<block key="Quest_Mission_Str_Type_109" korean="카라드 해적단원 20명 처치하기" />
+	<block key="Quest_Mission_Str_Type_110" korean="목재를 깎아 나무조각상 조각하기" />
+	<block key="Quest_Mission_Str_Type_111" korean="감옥문을 열고 포포라 구해주기" />
+	<block key="Quest_Mission_Str_Type_112" korean="저주인형 파괴하기" />
+	<block key="Quest_Mission_Str_Type_113" korean="다른 플레이어 처치" />
+	<block key="Quest_Mission_Str_Type_114" korean="[NAME] 채집하기" />
+	<block key="Quest_Mission_Str_Type_115" korean="펠로우 보관함 확장하기" />
+	<block key="Quest_Mission_Str_Type_116" korean="[NAME]에게 물 끼얹기" />
+	<block key="Quest_Mission_Str_Type_117" korean="[NAME] 배우기" />
+	<block key="Quest_Mission_Str_Type_118" korean="전투식량에 마비독 살포하기" />
+	<block key="Quest_Mission_Str_Type_119" korean="[NAME] 해제하기" />
+	<block key="Quest_Mission_Str_Type_120" korean="[NAME] 훔치기" />
+	<block key="Quest_Mission_Str_Type_121" korean="대포 파괴하기" />
+	<block key="Quest_Mission_Str_Type_122" korean="[NAME] 만들기" />
+	<block key="Quest_Mission_Str_Type_123" korean="엑자란 변형체 처치하기" />
+	<block key="Quest_Mission_Str_Type_124" korean="잭 처치하기" />
+	<block key="Quest_Mission_Str_Type_125" korean="클레키 처치하기" />
+	<block key="Quest_Mission_Str_Type_126" korean="유적의 거미 퇴치하기" />
+	<block key="Quest_Mission_Str_Type_127" korean="크로우의 다섯 가지 임무 수행하고 돌아오기" />
+	<block key="Quest_Mission_Str_Type_128" korean="[NAME] 켜기" />
+	<block key="Quest_Mission_Str_Type_129" korean="불사군단 처치" />
+	<block key="Quest_Mission_Str_Type_130" korean="서리군단 처치" />
+	<block key="Quest_Mission_Str_Type_131" korean="포탈을 이용해 하카나스 직할령으로 이동하기" />
+	<block key="Quest_Mission_Str_Type_132" korean="레벨 [NAME] 달성해 왕국기사로 인정받기" />
+	<block key="Quest_Mission_Str_Type_133" korean="레벨 [NAME] 달성해 특성 조건 갖추기" />
+	<block key="Quest_Mission_Str_Type_134" korean="레벨 [NAME] 달성하고 페가수스 수습기사 되기" />
+	<block key="Quest_Mission_Str_Type_135" korean="레벨 [NAME] 달성해 왕국영웅으로 인정받기" />
+	<block key="Quest_Mission_Str_Type_136" korean="카브임 무리 퇴치" />
+	<block key="Quest_Mission_Str_Type_137" korean="키키의 기운 불어넣기" />
+	<block key="Quest_Mission_Str_Type_138" korean="시신 확인" />
+	<block key="Quest_Mission_Str_Type_139" korean="화재 진압" />
+	<block key="Quest_Mission_Str_Type_140" korean="4대 주신의 탑 진입" />
+	<block key="Quest_Mission_Str_Type_141" korean="론도의 의식 저지" />
+	<block key="Quest_Mission_Str_Type_142" korean="카브임 대마법사와 부하 마법사 처치" />
+	<block key="Quest_Mission_Str_Type_143" korean="설인대장 산틴 물리치기" />
+	<block key="Quest_Mission_Str_Type_144" korean="설인대장 산틴 추격하여 처치하기" />
+	<block key="Quest_Mission_Str_Type_145" korean="로인 테슬로우에게서 맛있는 음식 구입하기" />
+	<block key="Quest_Mission_Str_Type_146" korean="잡화 상인 잭슨에게서 예쁜 인형 구입하기" />
+	<block key="Quest_Mission_Str_Type_147" korean="방어구 상인 척 베일에게서 따뜻한 신발 구입하기" />
+	<block key="Quest_Mission_Str_Type_148" korean="잡화 상인 샤이론에게서 무섭게 생긴 인형 구입하기" />
+	<block key="Quest_Mission_Str_Type_149" korean="트리마의 성냥 구입하기" />
+	<block key="Quest_Mission_Str_Type_150" korean="포메리에게서 조잡한 반지 구입하기" />
+	<block key="Quest_Mission_Str_Type_151" korean="은빛 호수 아굴 처치하기" />
+	<block key="Quest_Mission_Str_Type_152" korean="성난 무러미족 처치하기" />
+	<block key="Quest_Mission_Str_Type_153" korean="푸른 늑대 처치하기" />
+	<block key="Quest_Mission_Str_Type_154" korean="포탄 회수하기" />
+	<block key="Quest_Mission_Str_Type_155" korean="젠키트와 스칼리온에게서 재료 획득하여 연금술: 거품비늘 제작하기" />
+	<block key="Quest_Mission_Str_Type_156" korean="젠키트에게서 비늘 획득하기" />
+	<block key="Quest_Mission_Str_Type_157" korean="스칼리온에게서 거품 주머니 획득하기" />
+	<block key="Quest_Mission_Str_Type_158" korean="[NAME] 퇴치하기" />
+	<block key="Quest_Mission_Str_Type_159" korean="[NAME] 제작하여 기증하기" />
+	<block key="Quest_Mission_Str_Type_160" korean="시신 확인 작업" />
+	<block key="Quest_Mission_Str_Type_161" korean="로인 테슬로우에게서 사과 구입하기" />
+	<block key="Quest_Mission_Str_Type_162" korean="드론과 트로와의 임무 수행하여 정제된 백은 획득하기" />
+	<block key="Quest_Mission_Str_Type_163" korean="시아혼의 임무를 수행하여 파를라크 은화 획득하기" />
+	<block key="Quest_Mission_Str_Type_164" korean="떠오른 물의 거울조각이 나타난 장소 조사" />
+	<block key="Quest_Mission_Str_Type_165" korean="[NAME] 바니라에게 전달하기" />
+	<block key="Quest_Mission_Str_Type_166" korean="[NAME] 흡수하기" />
+	<block key="Quest_Mission_Str_Type_167" korean="블루톤에게 체르파 눈꽃 가져다주기" />
+	<block key="Quest_Mission_Str_Type_168" korean="페렐의 행방 찾기" />
+	<block key="Quest_Mission_Str_Type_169" korean="스프리의 행방 찾기" />
+	<block key="Quest_Mission_Str_Type_170" korean="가고일 처치" />
+	<block key="Quest_Mission_Str_Type_171" korean="이즈호라 군단 병사 처치" />
+	<block key="Quest_Mission_Str_Type_172" korean="이즈호라 군단 부관 처치" />
+	<block key="Quest_Mission_Str_Type_173" korean="로빈슨의 추가 임무 수행하여 첫 번째 재료 획득하기" />
+	<block key="Quest_Mission_Str_Type_174" korean="로빈슨의 추가 임무 수행하여 두 번째 재료 획득하기" />
+	<block key="Quest_Mission_Str_Type_175" korean="로빈슨의 추가 임무 수행하여 세 번째 재료 획득하기" />
+	<block key="Quest_Mission_Str_Type_176" korean="로빈슨에게 정수 봉인함 전달하기" />
+	<block key="Quest_Mission_Str_Type_177" korean="이즈호라 군단 참모 처치" />
+	<block key="Quest_Mission_Str_Type_178" korean="빛을 잃은 신전의 로빈슨을 만나 펠로우 표본세트 획득하기" />
+	<block key="Quest_Mission_Str_Type_179" korean="로빈슨의 임무를 수행하여 이동주문서 제작 재료 획득하기" />
+	<block key="Quest_Mission_Str_Type_180" korean="로빈슨의 임무를 수행하여 여신의 가루 획득하기" />
+	<block key="Quest_Mission_Str_Type_181" korean="공역의 틈새의 병사 처치하여 악령이 깃든 주문석 획득하기" />
+	<block key="Quest_Mission_Str_Type_182" korean="호프만의 임무를 통해 대지의 결정 획득" />
+	<block key="Quest_Mission_Str_Type_183" korean="혼돈의 하수인과 부하들 처치하기" />
+	<block key="Quest_Mission_Str_Type_184" korean="이즈호라 군단의 장군 처치하기" />
+	<block key="Quest_Mission_Str_Type_185" korean="저레벨 파티원과 함께 [NAME] 처치하기" />
+	<block key="Quest_Mission_Str_Type_186" korean="서브 캐릭 레벨 [NAME] 달성하여 인정받기" />
+	<block key="Quest_Mission_Str_Type_187" korean="블루톤에게 체르파 눈꽃 가져다주기" />
+	<block key="Quest_Mission_Str_Type_188" korean="블레이더를 통해 멸망의 공역으로 이동하기" />
+	<block key="Quest_Mission_Str_Type_189" korean="포효의 숲 짐승 처치하기" />
+	<block key="Quest_Mission_Str_Type_190" korean="스칸 공적단 처치하기" />
+	<block key="Quest_Mission_Str_Type_191" korean="용사의 인장 모으기" />
+	<block key="Quest_Mission_Str_Type_192" korean="하급 계약자 처치하여 시간의 정수 되찾기" />
+	<block key="Quest_Mission_Str_Type_193" korean="케테른에게서 정보 수집" />
+	<block key="Quest_Mission_Str_Type_194" korean="대해 요정이 변화한 단서 수집" />
+	<block key="Quest_Mission_Str_Type_195" korean="서리군단 마도병들 처치하여 시간의 정수 되찾기" />
+	<block key="Quest_Mission_Str_Type_196" korean="물과 얼음의 정령 처치" />
+	<block key="Quest_Mission_Str_Type_197" korean="어둠 마법이 깃든 해골 무리 처치" />
+	<block key="Quest_Mission_Str_Type_198" korean="냉기 설인 무리 처치" />
+	<block key="Quest_Mission_Str_Type_199" korean="초승달 상단 출석 확인서 모으기" />
+	<block key="Quest_Mission_Str_Type_200" korean="엑자란 7대 죄악 고서 조각 모으기" />
+	<block key="Quest_Mission_Str_Type_201" korean="엑자란 고대 역사서 조각 모으기" />
+	<block key="Quest_Mission_Str_Type_202" korean="그리들리의 봉인석 획득" />
+	<block key="Quest_Mission_Str_Type_203" korean="레이지의 봉인석 획득" />
+	<block key="Quest_Mission_Str_Type_204" korean="스노비시의 봉인석 획득" />
+	<block key="Quest_Mission_Str_Type_205" korean="아브리셔스의 봉인석 획득" />
+	<block key="Quest_Mission_Str_Type_206" korean="엔비의 봉인석 획득" />
+	<block key="Quest_Mission_Str_Type_207" korean="인디그네의 봉인석 획득" />
+	<block key="Quest_Mission_Str_Type_208" korean="러스트의 봉인석 획득" />
+	<block key="Quest_Mission_Str_Type_209" korean="[NAME] 보수" />
+	<block key="Quest_Mission_Str_Type_210" korean="[NAME] 조사하기" />
+	<block key="Quest_Mission_Str_Type_211" korean="[NAME] 불지르기" />
+	<block key="Quest_Mission_Str_Type_212" korean="[NAME] 회수하기" />
+	<block key="Quest_Mission_Str_Type_213" korean="[NAME] 열기" />
+	<block key="Quest_Mission_Str_Type_214" korean="게르난에게 독액 상자 전달하기" />
+	<block key="Quest_Mission_Str_Type_215" korean="탈수상태의 주민에게 식수 조달" />
+	<block key="Quest_Mission_Str_Type_216" korean="[NAME] 굴복 시키기" />
+	<block key="Quest_Mission_Str_Type_217" korean="[NAME] 수집" />
+	<block key="Quest_Mission_Str_Type_218" korean="[NAME] 수거" />
+	<block key="Quest_Mission_Str_Type_219" korean="용병단의 식사에 맹독 풀기" />
+	<block key="Quest_Mission_Str_Type_220" korean="휴식 중인 공사 인부에게 지원 요청" />
+	<block key="Quest_Mission_Str_Type_221" korean="건설에 필요한 자재 확보" />
+	<block key="Quest_Mission_Str_Type_222" korean="비행로에 대한 유래 듣고 시험 도전하기" />
+	<block key="Quest_Mission_Str_Type_223" korean="도전자의 비행로 시간내에 비행하기" />
+	<block key="Quest_Mission_Str_Type_224" korean="카알의 행방과 관련된 단서 찾기" />
+	<block key="Quest_Mission_Str_Type_225" korean="나타난 분노의 정령 쓸어버리기" />
+	<block key="Quest_Mission_Str_Type_226" korean="[NAME] 무력화시키기" />
+	<block key="Quest_Mission_Str_Type_227" korean="경비대 인식표와 편지 사미라에게 전달하기" />
+	<block key="Quest_Mission_Str_Type_228" korean="알세크 경비대의 복수하기" />
+	<block key="Quest_Mission_Str_Type_229" korean="뱀 퇴치 작전" />
+	<block key="Quest_Mission_Str_Type_230" korean="모하바 용병단 캠프 수비병 습격" />
+	<block key="Quest_Mission_Str_Type_231" korean="악몽의 요람으로 향하기" />
+	<block key="Quest_Mission_Str_Type_232" korean="켄달에게 4대 원소의 기둥에 대해 묻기" />
+	<block key="Quest_Mission_Str_Type_233" korean="[NAME]에 마력 불어넣기" />
+	<block key="Quest_Mission_Str_Type_234" korean="연금술사 하시시에게 유세이의 초상화 전달" />
+	<block key="Quest_Mission_Str_Type_235" korean="연금술사 하시시에게 유세이의 유골 전달" />
+	<block key="Quest_Mission_Str_Type_236" korean="유세이에게 돌아가기" />
+	<block key="Quest_Mission_Str_Type_237" korean="동료들의 원한 갚기" />
+	<block key="Quest_Mission_Str_Type_238" korean="바톨로에게 상인의 재물 전달" />
+	<block key="Quest_Mission_Str_Type_239" korean="역병의 흔적 조사" />
+	<block key="Quest_Mission_Str_Type_240" korean="역병의 흔적 수집" />
+	<block key="Quest_Mission_Str_Type_241" korean="황금 봉우리에 역병에 대해 알리기" />
+	<block key="Quest_Mission_Str_Type_242" korean="브라기 투사 처치하여 무력 인정받기" />
+	<block key="Quest_Mission_Str_Type_243" korean="브라기 주술사 처치하여 지혜 인정받기" />
+	<block key="Quest_Mission_Str_Type_244" korean="[NAME] 단죄" />
+	<block key="Quest_Mission_Str_Type_245" korean="누르에게 클랜의 추천서 건네주기" />
+	<block key="Quest_Mission_Str_Type_246" korean="[NAME] 되찾기" />
+	<block key="Quest_Mission_Str_Type_247" korean="그리폰 기사단에게 라니아 공주의 선물 전달" />
+	<block key="Quest_Mission_Str_Type_248" korean="바위 정령 소환 의식 진행" />
+	<block key="Quest_Mission_Str_Type_249" korean="리아 벤에게 선물 주기" />
+	<block key="Quest_Mission_Str_Type_250" korean="디마이에게 리아 벤의 선물 전달" />
+	<block key="Quest_Mission_Str_Type_251" korean="[NAME] 찾기" />
+	<block key="Quest_Mission_Str_Type_252" korean="[NAME] 구하기" />
+	<block key="Quest_Mission_Str_Type_253" korean="나이아의 조리기구에 양념 재료 넣기" />
+	<block key="Quest_Mission_Str_Type_254" korean="클로델의 유작 감상하기" />
+	<block key="Quest_Mission_Str_Type_255" korean="모래에 파묻힌 보물 획득" />
+	<block key="Quest_Mission_Str_Type_256" korean="오르골 수리에 필요한 구리 수집" />
+	<block key="Quest_Mission_Str_Type_257" korean="오르골 수리에 필요한 미스릴 수집" />
+	<block key="Quest_Mission_Str_Type_258" korean="오르골 수리에 필요한 쿠르 뿌리 수집" />
+	<block key="Quest_Mission_Str_Type_259" korean="오르골 수리에 필요한 오르골 부품 획득" />
+	<block key="Quest_Mission_Str_Type_260" korean="[NAME]에게 수리한 오르골 돌려주기" />
+	<block key="Quest_Mission_Str_Type_261" korean="도전자의 비행석 복구" />
+	<block key="Quest_Mission_Str_Type_262" korean="비행석의 파손된 머리 수거" />
+	<block key="Quest_Mission_Str_Type_263" korean="콜렉터의 이야기 듣기" />
+	<block key="Quest_Mission_Str_Type_264" korean="맨드레이크 처치하기" />
+	<block key="Quest_Mission_Str_Type_265" korean="라무트를 통해 불사의 사막으로 이동하기" />
+	<block key="Quest_Mission_Str_Type_266" korean="[NAME]의 봉인석 수집" />
+	<block key="Quest_Mission_Str_Type_267" korean="샤를의 이야기 듣기" />
+	<block key="Quest_Mission_Str_Type_268" korean="바위 위에 있는 통신용 까마귀를 이용하여 섀도우 클랜 본부에 비밀서신 보내기" />
+	<block key="Quest_Mission_Str_Type_269" korean="사막의 왕 켄크리프 알현하기" />
+	<block key="Quest_Mission_Str_Type_270" korean="라다스를 도와 수송 마차 호위하기" />
+	<block key="Quest_Mission_Str_Type_271" korean="할로윈 데이 출석 확인서 모으기" />
+	<block key="Quest_Mission_Str_Type_272" korean="마할므의 상자 조사하기" />
+	<block key="Quest_Mission_Str_Type_273" korean="수상한 용병을 처치하여 단서 획득하기" />
+	<block key="Quest_Mission_Str_Type_274" korean="[NAME] 찾아가기" />
+	<block key="Quest_Mission_Str_Type_275" korean="실종된 콜렉터 찾아보기" />
+	<block key="Quest_Mission_Str_Type_276" korean="라비니족의 은화 모아 라비니족의 금화로 교환하기" />
+	<block key="Quest_Mission_Str_Type_277" korean="엑자란 주화 모아서 엑자란 금화로 교환하기" />
+	<block key="Quest_Mission_Str_Type_278" korean="버려진 일기 읽고 카알의 행방과 관련된 단서 찾기" />
+	<block key="Quest_Mission_Str_Type_279" korean="소환된 정령들의 공격으로부터 살아남기" />
+	<block key="Quest_Mission_Str_Type_280" korean="사막의 소녀 찾기" />
+	<block key="Quest_Mission_Str_Type_281" korean="용병단 주둔지 근방의 용병단 모두에게서 상인의 금화자루 회수하기" />
+	<block key="Quest_Mission_Str_Type_282" korean="선물로 사용할 [NAME] 제작 혹은 보유" />
+	<block key="Quest_Mission_Str_Type_283" korean="용병단 검사에게서 대장장이의 망치 회수하기" />
+	<block key="Quest_Mission_Str_Type_284" korean="용병단 치유사에게서 연금술사의 플라스크 회수하기" />
+	<block key="Quest_Mission_Str_Type_285" korean="용병단 염탐꾼에게서 요리사의 향신료 회수하기" />
+	<block key="Quest_Mission_Str_Type_286" korean="용병단 약탈자에게서 장신구 제작자의 반지 틀 회수하기" />
+	<block key="Quest_Mission_Str_Type_287" korean="[NAME]의 이야기 듣기" />
+	<block key="Quest_Mission_Str_Type_288" korean="레벨 [NAME] 달성해 사막의 정복자로 인정받기" />
+	<block key="Quest_Mission_Str_Type_289" korean="[NAME] 구입 혹은 보유" />
+	<block key="Quest_Mission_Str_Type_290" korean="[NAME] 제작 혹은 보유" />
+	<block key="Quest_Mission_Str_Type_291" korean="[NAME] 모으기" />
+	<block key="Quest_Mission_Str_Type_292" korean="[NAME] 밝히기" />
+	<block key="Quest_Mission_Str_Type_293" korean="투로칸에게 작전 명령서 해석 부탁하기" />
+	<block key="Quest_Mission_Str_Type_294" korean="[NAME] 수습하기" />
+	<block key="Quest_Mission_Str_Type_295" korean="[NAME] 줍기" />
+	<block key="Quest_Mission_Str_Type_296" korean="하라크로 신전에서 납치된 치메르 찾기" />
+	<block key="Quest_Mission_Str_Type_297" korean="마을 주민으로 변장한 불사군단 색출하기" />
+	<block key="Quest_Mission_Str_Type_298" korean="크로쿤 장인 모르룬에게 설계도 전달하기" />
+	<block key="Quest_Mission_Str_Type_299" korean="치메르에게 결계 해제 열쇠 전달하기" />
+	<block key="Quest_Mission_Str_Type_300" korean="불사군단 부화장 폐쇄하기" />
+	<block key="Quest_Mission_Str_Type_301" korean="요새 내부로 진입하여 라니아 공주 구출하기" />
+	<block key="Quest_Mission_Str_Type_302" korean="치메르에게 라니아 공주의 수정구 보여주기" />
+	<block key="Quest_Mission_Str_Type_303" korean="[NAME]에게 탈리온의 발톱 보여주기" />
+	<block key="Quest_Mission_Str_Type_304" korean="오래된 불꽃 그릇 조작하여 신탁받기" />
+	<block key="Quest_Mission_Str_Type_305" korean="그리폰 기사단 포로 구출하기" />
+	<block key="Quest_Mission_Str_Type_306" korean="크로쿤 병영지구의 동물 소탕" />
+	<block key="Quest_Mission_Str_Type_307" korean="[NAME] 치우기" />
+	<block key="Quest_Mission_Str_Type_308" korean="[NAME] 조작하기" />
+	<block key="Quest_Mission_Str_Type_309" korean="[NAME] 손질하기" />
+	<block key="Quest_Mission_Str_Type_310" korean="불사의 마법진에서 기사 구출하기" />
+	<block key="Quest_Mission_Str_Type_311" korean="[NAME] 소각하기" />
+	<block key="Quest_Mission_Str_Type_312" korean="[NAME] 점화" />
+	<block key="Quest_Mission_Str_Type_313" korean="슈페른의 행방 찾기" />
+	<block key="Quest_Mission_Str_Type_314" korean="크로쿤 사냥꾼을 처치하고 그리폰 깃털 획득" />
+	<block key="Quest_Mission_Str_Type_315" korean="폐허가 된 신전으로 진입하기" />
+	<block key="Quest_Mission_Str_Type_316" korean="거미에게 희생당한 시체 수습하기" />
+	<block key="Quest_Mission_Str_Type_317" korean="불의 제단 수호자를 처치하고 신성한 기운이 담긴 돌 획득" />
+	<block key="Quest_Mission_Str_Type_318" korean="사막 표범 길들여 [NAME]의 봉인석 획득" />
+	<block key="Quest_Mission_Str_Type_319" korean="모래의 덴바 길들여 [NAME]의 봉인석 획득" />
+	<block key="Quest_Mission_Str_Type_320" korean="아델라크 길들여 [NAME]의 봉인석 획득" />
+	<block key="Quest_Mission_Str_Type_321" korean="영리한 토로 길들여 [NAME]의 봉인석 획득" />
+	<block key="Quest_Mission_Str_Type_322" korean="바쟈닌 길들여 [NAME]의 봉인석 획득" />
+	<block key="Quest_Mission_Str_Type_323" korean="맹수 우리 열기" />
+	<block key="Quest_Mission_Str_Type_324" korean="보상 확인하기" />
+	<block key="Quest_Mission_Str_Type_325" korean="[NAME] 길들여서 봉인석으로 변환하기" />
+</blocks>

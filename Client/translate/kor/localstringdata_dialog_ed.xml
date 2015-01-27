@@ -1,0 +1,767 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<blocks>
+	<keys num_keys="2" key1="key" key2="korean" />
+	<block key="dialog_1200001_title" korean="촌장 바톨로" />
+	<block key="dialog_1200001_text0" korean="알세크 마을에 온 걸 환영하네! 나는 마을의 촌장인 바톨로라고하네.<br><br>사막을 개척한다는 것은 쉬운 일이 아니지만 알세크 마을 주민들의 개척정신과 열의는 대단하지. 다만… 얼마 전부터 모하바 용병단이라는 녀석들이 난리를 치는 통에 정신이 하나도 없군." />
+	<block key="dialog_1200002_title" korean="참모 우마르크" />
+	<block key="dialog_1200002_text0" korean="마을 경비대가 날뛰는 용병들을 저지하고는 있지만 언제까지 버틸 수 있을지는 미지수입니다. 병사들의 사기는 높지만 경험이나 실질적인 능력 면에서 용병 녀석들을 따라가기에는 무리가 있으니까요.<br><br>이유가 어찌되었든 이곳을 장악한 모하바 용병단 놈들을 쫒아내지 못하면 마을도 얼마 버티지 못할겁니다. 한시라도 빨리 놈들을 몰아내야 합니다." />
+	<block key="dialog_1200003_title" korean="섀도우 클랜 엘레나(마을)" />
+	<block key="dialog_1200003_text0" korean="당신에 대한 크로우 단장의 신뢰가 상당하다는 걸 다른 대원들에게 들어서 알고 있습니다. 당신의 실력이 소문만큼 대단한지 제게도 보여주시길 바랍니다." />
+	<block key="dialog_1200004_title" korean="금광 관리인 마드라스" />
+	<block key="dialog_1200004_text0" korean="금광과 수송로는 우리들이 피땀흘려 가면서 일궈 놓은 곳이야. 이제야 힘 좀 덜 들이면서 작업을 할 수 있나 했더니 어디서 굴러먹던 용병들이 우리의 공을 고스란히 뺏어가서는… 이대로 두고볼 수는 없어!" />
+	<block key="dialog_1200004_answer_2_text" korean="혹시 라니아 공주님에 대해 아는 것이 있습니까?" />
+	<block key="dialog_1200005_title" korean="광물 상인 첸트라" />
+	<block key="dialog_1200005_text0" korean="수송로가 완공됐다고 해서 그덕좀 보나 했더니 이게 왠 날벼락인지… 그나마 마을 경비대가 잘 싸워준 덕에 목숨은 부지하고 있지만 하루하루가 불안하기 그지없어.<br><br>자네는 싸움깨나 한 모양이니 가만있지 말고 경비대에 힘을 보태주라고." />
+	<block key="dialog_1200006_title" korean="경비대장 커티스" />
+	<block key="dialog_1200006_text0" korean="마을 경비대 만으로 저 흉악한 용병 놈들과 대적하는 게 얼마나 힘든 일인지 아나? 마을을 지키겠다는 일념으로 물러서지는 않고 있지만 다들 속으로는 걱정이 이만저만이 아닐거야.<br><br>전세를 뒤집으려면 용병단을 이끄는 지휘관을 처치하는 게 좋겠지. 아니 현재로서는 그 방법만이 유일한 해결책일세." />
+	<block key="dialog_1200007_title" korean="섀도우 클랜 크로우(브라기 광산)" />
+	<block key="dialog_1200007_text0" korean="여기서 지체할 시간은 없어. 될 수 있는 최대한의 힘으로 문제를 해결해야 하네. 지체되는 시간이 길어지면 공주님의 생사는 물론이고 불사군단 놈들이 무슨 일을 벌일지 짐작조차 가지 않는군." />
+	<block key="dialog_1200008_title" korean="섀도우 클랜 크로우(요새)" />
+	<block key="dialog_1200008_text0" korean="이런 곳에 이런 요새를 만들어 두고 있을 줄이야… 불사 군단 녀석들을 이대로 두면 안 되겠어!<br><br>이 요새는 분명 왕국에 거대한 위협일세. 공주님을 구함과 동시에 요새를 파괴할 방법을 찾아야겠군." />
+	<block key="dialog_1200009_title" korean="그리폰 기사단원 디마이" />
+	<block key="dialog_1200009_text0" korean="우리 황금 그리폰 기사단은 외부인에 대해서 배타적입니다. 이곳 황금 봉우리는 실력도 없으면서 자신의 욕심만 채우려는 자에게 출입을 허락할 만큼 더럽혀진 곳이 아니기 때문이죠." />
+	<block key="dialog_1200010_title" korean="야흐루(그리폰 기사단 참모)" />
+	<block key="dialog_1200010_text0" korean="동등한 관계를 유지하기 위해선 동등한 크기의 힘이 필요한 법입니다. 그 대상이 누구이던 간에 이 법칙은 항상 유효하죠.<br><br>힘도 없으면서 뻐기는 놈들에게는 강력한 응징 외엔 답이 없어요. 가볍게 보기 시작하면 언젠가는 등뒤를 노리고 공격해 올겁니다." />
+	<block key="dialog_1200010_answer_6_text" korean="라니아 공주님이 황금 봉우리에 온 적이 있습니까?" />
+	<block key="dialog_1200011_title" korean="고대의 사원 신관 라이어스" />
+	<block key="dialog_1200011_text0" korean="어, 어둠의 마법을 쓰는 자들이... 파괴의 힘을 손에 넣으면... 아, 안 됩니다! 무슨 수를 쓰더라도... 막아야 합니다. 으… 윽…" />
+	<block key="dialog_1200011_answer_2_text" korean="고대의 사원은 어떤 곳입니까?" />
+	<block key="dialog_1200011_answer_3_text" korean="사원을 점령한 자들에 대해 아십니까?" />
+	<block key="dialog_1200011_answer_4_text" korean="파괴의 단어라는 것이 그렇게 대단한 것입니까?" />
+	<block key="dialog_1200012_title" korean="그리폰 왕 켄그리프" />
+	<block key="dialog_1200012_text0" korean="가혹한 운명에 맞서 싸울 수 있는 용기를 가진 자만이 희망을 논할 수 있다. 그대의 앞길을 고난과 역경이 막아서겠지만 그에 굴복하지 않고 한 걸음을 내딛을 수 있다면 그대 곁에 항상 빛이 함께 할걸세." />
+	<block key="dialog_1200013_title" korean="그리폰 기사단장 나자히(황금 봉우리)" />
+	<block key="dialog_1200013_text0" korean="나는 황금 그리폰 기사단장 나자히다. 자신의 강함을 증명하고자 한다면 말로서가 아니라 실전에서 보여주길 바란다.<br><br>말만 많은 놈들은 전장에 서는 순간 그 본 모습이 나타나는 법이지. 그대가 사막 크로쿤 처럼 말만 앞서고 악행만 저지르는 겁쟁이가 아니길 바란다." />
+	<block key="dialog_1200014_title" korean="그리폰 기사단 리아 벤(황금 봉우리)" />
+	<block key="dialog_1200014_text0" korean="황금 그리폰 기사단이라면 누구나 그리폰을 소유하고 있죠. 하지만 가장 중요한 것은 그리폰과의 교감입니다.<br>우리는 그들의 주인이지만, 친구이기도 하니까요." />
+	<block key="dialog_1200015_title" korean="테루(풍요의 씨앗 조합)" />
+	<block key="dialog_1200015_text0" korean="세상 사람들이 사막 요리에 대해서 잘못 알고 있는 것 중에 하나는 사막에서는 요리라고 부를 만한 요리가 없다고 생각하는 편견이죠. <br><br>사막 전문 요리는 재료를 구하기가 쉽지 않아서 널리 알려지지 않았을 뿐이지 그 맛의 다양함과 깊이는 가히 최고라고 해도 모자람이 없죠." />
+	<block key="dialog_1200015_answer_6_text" korean="풍요의 씨앗 조합은 어떤 단체인가요?" />
+	<block key="dialog_1200015_answer_7_text" korean="풍요의 씨앗 조합은 누가 만들었습니까?" />
+	<block key="dialog_1200016_title" korean="마리아(순례자)" />
+	<block key="dialog_1200016_text0" korean="엘로라의 성역으로 향하던 길이었는데 이게 무슨 봉변인지… 알세크 마을의 병사들이 최선을 다하고 있는 건 알지만 주민들이 마실 신선한 식수가 없다면 다들 지쳐 쓰러지고 말거예요.<br>하지만 제가 할 수 있는 일을 할 거에요. 성지를 순례하는 것보다 당장 도움이 필요한 사람들을 돕는 것이 더 여신의 가르침을 따르는 길일테니 말이죠." />
+	<block key="dialog_1200016_text0_attach_0" korean="<br><br>아마도..엘로라 여신의 환생이라고까지 불리는 라니아 공주님이 계셨다면 그분도 제 행동과 별반 다르지 않았을 거에요." />
+	<block key="dialog_1200016_answer_1_text" korean="부상자가 있어 보이는데 어떻게 된 일인가요?" />
+	<block key="dialog_1200016_answer_2_text" korean="이곳에서 마을 주민들을 돕는 이유를 들을 수 있을까요?" />
+	<block key="dialog_1200016_answer_3_text" korean="마을 중앙에 우물이 있던데.." />
+	<block key="dialog_1200017_title" korean="하시시(사막의 연금술사)" />
+	<block key="dialog_1200017_text0" korean="사막처럼 인간이나 동물이 살기 힘든 환경에서는 같은 재료를 구해도 그 효능이 몇 배씩 뛰어난 법이라네. 그리고 효능이 뛰어난 재료를 사용하면 생각지도 못한 결과가 나올 때도 있고 말이야.<br><br>연금술이라는 건 단순한 방정식이 아니란 말이야! 자네도 내 연금술에 관심이 있다면 언제든 찾아오게." />
+	<block key="dialog_1200018_title" korean="게르난" />
+	<block key="dialog_1200018_text0" korean="모하바 용병단 녀석들은 정말 거칠고 위험한 놈들입니다. 다행히 커티스 대장이나 참모인 우마르크 님의 지휘력 덕분에 버티고 있을 뿐이죠. 전세를 뒤집을 만한 뭔가가 필요한데 뭐 생각나는 거라도 있으면 알려주세요." />
+	<block key="dialog_1200018_answer_3_text" korean="하시시의 제자라면 연금술에 대해서도 잘 알고 계시겠군요?" />
+	<block key="dialog_1200019_title" korean="바라덴(크로쿤 건축가)" />
+	<block key="dialog_1200019_text0" korean="사막에서 살아가려면 가장 중요한 게 뭔지 아는가? 그래, 물! 바로 물이야!<br><br>알세크 마을도 사람이 늘어나면서 식수 마저 부족해져가는 상황이라네. 더 이상 문제가 커지기 전에 지하의 수맥을 찾아서 물 부족 문제를 조기에 해결하는 게 중요한 문제지." />
+	<block key="dialog_1200020_title" korean="달시(콜렉터)" />
+	<block key="dialog_1200020_text0" korean="위대한 펠로우 마스터 바인데르와 그의 업적을 따르는 단체 콜렉터 입니다. 불사의 사막에는 특이한 펠로우가 많아서 연구해야할 소재도 많죠.<br><br>당신도 펠로우를 다루는 사람이라면 저희를 도와서 연구를 진행해 보시겠어요?" />
+	<block key="dialog_1200020_answer_8_text" korean="콜렉터는 무슨 단체입니까?" />
+	<block key="dialog_1200020_answer_9_text" korean="펠로우 마스터 바인데르에 대해 알고싶습니다." />
+	<block key="dialog_1200021_title" korean="히얌(무기 상인)" />
+	<block key="dialog_1200021_text0" korean="평소였다면 양질의 무기를 공급해드릴 수 있었을텐데 지금은 그다지 좋은 물건이 없습니다. 모하바 용병단 놈들이 무기를 빼앗아가서…<br><br>남은 물건이라도 좀 보시겠습니까?" />
+	<block key="dialog_1200021_answer_0_text" korean="무기 상점" />
+	<block key="dialog_1200022_title" korean="이브라하(알세크 마을 경비대)" />
+	<block key="dialog_1200022_text0" korean="용병단 녀석들이 강하긴 하지만 우리는 마을을 지키는 경비대원으로서의 임무에 최선을 다할 것 입니다.<br><br>당신 같은 분이 함께해준다면 겁날 것도 없습니다." />
+	<block key="dialog_1200022_answer_3_text" korean="경비대의 상황은 어떻습니까?" />
+	<block key="dialog_1200023_title" korean="아히드(건축 기사)" />
+	<block key="dialog_1200023_text0" korean="그거 아시오? 전쟁이 벌어지고 건물이 부서지면 우리 같은 건축 기사들이 바빠지는 법이라는거? 우리 같은 사람들이 나서서 건물을 복구해야 피해을 입은 사람들이 그나마 편하게 쉴 수 있는 거라오. 그러니까 나는 우리에게 최대한 지원을 아끼지 말라고 말하고 싶은 거라오." />
+	<block key="dialog_1200023_answer_3_text" korean="건설에 필요한 인부들은 모두 어디있습니까?" />
+	<block key="dialog_1200024_title" korean="에어하트(비행로 관리자)" />
+	<block key="dialog_1200024_text0" korean="도전정신이 예전만 못하달까요? 요즘은 도전자의 비행로를 찾는 전문 펠로우 비행사가 별로 없습니다.<br><br>이제는 찾는 이도 별로 없는 곳이 되었지만 저에게 있어서 이곳은 제 꿈을 펼칠 수 있도록 도와준 장소입니다. 펠로우를 타고 비행을 한다는 것은 저에게 있어서 무엇보다도 소중한 일입니다." />
+	<block key="dialog_1200024_answer_4_text" korean="도전자의 비행로에 대해 알고싶습니다." />
+	<block key="dialog_1200025_title" korean="린드버그(비행사)" />
+	<block key="dialog_1200025_text0" korean="도전자의 비행로가 예전보다 활기차지 않은 건 사실이지만 그렇다고해서 손놓고 있을 수는 없습니다.<br><br>도전자의 비행로가 배출해 낸 수많은 영웅들을 기억하고 또 다른 영웅이 탄생하는 그날까지 여기를 떠나지 않을 겁니다." />
+	<block key="dialog_1200025_answer_5_text" korean="비행로 아래에 가득한 흙먼지는 뭡니까?" />
+	<block key="dialog_1200025_answer_6_text" korean="샌드웜의 숨결에 대해 자세히 알려주십시오." />
+	<block key="dialog_1200025_answer_7_text" korean="비행로는 안전한 것입니까?" />
+	<block key="dialog_1200026_title" korean="샤를(비행사)" />
+	<block key="dialog_1200026_text0" korean="누군가가 남긴 발자취를 따라 간다는 것은 발자취가 사라지는 순간 가야할 길을 잃게 되었소.<br><br>카알은 나에게 있어 따라가야할 발자취 같은 존재요. 그의 발자취가 끊기는 순간 나의 발길도 멈출 수밖에 없었지." />
+	<block key="dialog_1200026_answer_3_text" korean="실종되었다는 카알에 대해 알려주십시오." />
+	<block key="dialog_1200026_answer_4_text" korean="카알을 찾으려면 어떻게 해야 합니까?" />
+	<block key="dialog_1200027_title" korean="비행사 카알(전설의 비행사)" />
+	<block key="dialog_1200027_text0" korean="끝없이 펼쳐진 창공에서 목표를 잃은 비행사가 어떻게 될 거 같소? 나는 창공을 홀로 날아다니는 외로운 존재요. 목표로 세웠던 하늘의 꼭짓점에 도달했다면 바로 다음 목표를 설정해야만 하지.<br><br>그렇게 하지 못하면 머지않아 추락하고 말테니..어찌보면 살기 위한 방편..아니겠소?" />
+	<block key="dialog_1200028_title" korean="라이라(광부)" />
+	<block key="dialog_1200028_text0" korean="여자의 몸으로 힘든 광부 일을 한다는 건 분명 쉬운 일은 아니에요. 하지만 어두운 땅속에서 반짝거리는 무언가를 발견해냈을 때의 짜릿함은 다른 무엇과도 비교할 수 없을 정도죠." />
+	<block key="dialog_1200029_title" korean="사미라(알세크 마을 경비대원)" />
+	<block key="dialog_1200029_text0" korean="복수는 또다른 복수를 낳는다고들 하지만 죽어간 동료들과 슬퍼하는 그들의 가족을 생각하면 모하바 용병단 놈들을 용서할 마음은 생기지 않습니다. 모하바 용병단의 마지막 한 놈이 죽을 때까지 제 복수는 멈추지 않을 겁니다." />
+	<block key="dialog_1200030_title" korean="마함드(알세크 마을 경비대)" />
+	<block key="dialog_1200030_text0" korean="최근 모하바 용병단이 나타나서 마을이 어수선 하지만 우리 경비대는 용병단만을 상대하고 있을 수는 없습니다. 알세크 마을 주민들이 안전하게 살 수 있는 환경을 만들어야하는 게 우리가 할 일이죠." />
+	<block key="dialog_1200031_title" korean="버닐(견습 왕립 조사단)" />
+	<block key="dialog_1200031_text0" korean="하카나스 왕립 조사단의 견습생으로 활동하고 있는 버닐이라고 합니다. 제 임무는 켄달 님을 도와서 태고의 3영물이라 불리는 샌드웜을 조사하는 겁니다.<br><br>그렇긴 하지만 전 아직 견습이라 직접적인 조사보다는 잡일이나 하는 정도죠." />
+	<block key="dialog_1200032_title" korean="켄달(왕립 조사단)" />
+	<block key="dialog_1200032_text0" korean="하카나스 왕립 조사단의 켄달이라고 합니다. 이번 조사의 가장 큰 목적은 태고의 3영물이라는 샌드웜의 생태를 관찰하고 표본을 얻기 위함입니다.<br><br>준비는 대부분 갖춰진 상태인데... 문제는 샌드웜 같은 괴물을 상대로 어느 정도까지 연구를 진행할 수 있을지입니다." />
+	<block key="dialog_1200033_title" korean="마세르(방랑자)" />
+	<block key="dialog_1200033_text0" korean="제가 지금까지 경험해온 자연의 위대함은 말로 표현할 수 있는 것이 아닙니다. 하지만 굳이 표현자면 자연의 힘은 국가나 이념 혹은 종교를 초월하는 것, 4대 주신 그 자체라고 할 수 있을 겁니다.<br><br>자아에서 벗어나면 좀 더 아름다운 경지를 볼 수 있습니다." />
+	<block key="dialog_1200034_title" korean="유세이(기억을 잃은 소녀)" />
+	<block key="dialog_1200034_text0" korean="아, 아무 것도 기억이 나질 않아요. 저는 누구죠?" />
+	<block key="dialog_1200034_answer_3_text" korean="정말 아무것도 떠오르는 것이 없니?" />
+	<block key="dialog_1200035_title" korean="우로덴(광부)" />
+	<block key="dialog_1200035_text0" korean="오르 광석은 가공하기에 따라 그 활용도가 무궁무진한 광물이지. 크로쿤 중에서 그걸 모르는 놈은 없을걸?" />
+	<block key="dialog_1200036_title" korean="라토닌(콜렉터)" />
+	<block key="dialog_1200036_text0" korean="펠로우를 다룰 때 가장 중요한 건 길들일 펠로우와 펠로우를 조종할 당자자와의 교감입니다. 이 교감이 잘 이루어지지 않은 상태에서 펠로우를 타고 다니게 되면 언젠가 큰 불상사를 입고 말죠. 당신도 제 말을 명심하고 항상 조심하십시오." />
+	<block key="dialog_1200036_answer_7_text" korean="콜렉터는 무슨 단체입니까?" />
+	<block key="dialog_1200036_answer_8_text" korean="펠로우 마스터 바인데르에 대해 알고싶습니다." />
+	<block key="dialog_1200037_title" korean="이누기(방랑 브라기)" />
+	<block key="dialog_1200037_text0" korean="인간, 브라기 미워한다. 나도 안다. 인간과 브라기가 사이좋게 지내면 좋다." />
+	<block key="dialog_1200037_answer_4_text" korean="너는..이누기? 브라카르 숲 이후로 오랜만이구나." />
+	<block key="dialog_1200037_answer_5_text" korean="사막 브라기들이 인간의 광산을 공격했다던데.." />
+	<block key="dialog_1200037_answer_6_text" korean="이젠 제법 인간의 말이 능숙해졌구나?" />
+	<block key="dialog_1200038_title" korean="누르(독학 마법사)" />
+	<block key="dialog_1200038_text0" korean="한낱 용병단 놈들이나 브라기 놈들에게 이리 치이고 저리 치이고, 쯧쯧쯧..이제라도 늦지 않았으니 본때를 보여줘야하네." />
+	<block key="dialog_1200038_answer_3_text" korean="혹시 마법을 독학으로 배우셨습니까?" />
+	<block key="dialog_1200039_title" korean="카르단(연금술사)" />
+	<block key="dialog_1200039_text0" korean="힘만 센 멍청이들이 연금술이 뭔지나 알겠습니까? 연금술의 힘을 잘만 이용할 수 있다면 자신 보다 강한 적도 손쉽게 처리할 수 있는 법인데 말이죠." />
+	<block key="dialog_1200039_answer_4_text" korean="사막에 무슨 일이라도 있습니까?" />
+	<block key="dialog_1200040_title" korean="가네샤(방어구 상인)" />
+	<block key="dialog_1200040_text0" korean="튼튼한 방어구 있어요! 강하다고 자만하다 죽지 말고 미리미리 방어구를 챙겨 두시면 목숨을 구할 수 있답니다." />
+	<block key="dialog_1200040_answer_0_text" korean="방어구 상점" />
+	<block key="dialog_1200041_title" korean="니나(장신구 제작 기술자)" />
+	<block key="dialog_1200041_text0" korean="장신구 제작은 섬세한 손길과 정성이 필요하죠!<br>전장에서 쌓인 묶은 감정은 잠시 놓아두고 장신구 제작을 통해서 마음을 다스려 보세요. 당신이라면 분명 훌륭한 물건을 만들 수 있을 테니까요. 알겠죠?" />
+	<block key="dialog_1200041_answer_0_text" korean="장신구 재료 상점" />
+	<block key="dialog_1200042_title" korean="라비니 엘루느(엘룬 상인)" />
+	<block key="dialog_1200042_text0" korean="어서 와랑! 혹시 엘룬 가지고 있냥?<br>그럼 대환영이당!<br>일반 상점에선 구경조차 못하는 물건들을 보여주겠당!<br>한 번 천천히 둘러봐랑.<br>물론 엘룬이 없는 사람에겐 팔지 않는당.<br>" />
+	<block key="dialog_1200042_answer_0_text" korean="엘룬 상점" />
+	<block key="dialog_1200042_answer_1_text" korean="품질에 대한 자신감" />
+	<block key="dialog_1200043_title" korean="품질에 대한 자신감" />
+	<block key="dialog_1200043_text0" korean="우리 엘룬 판매상 조합은 절대 인간들처럼 구리구리한 물건 따위 취급하지 않는당.<br>품질을 의심하는 자는 인간밖에 없당. 의심 나쁘당!<br>우리 엘룬 판매상 조합이 제공하는 물건은 모두 미들라스 제일이당! 확실하당!" />
+	<block key="dialog_1200044_title" korean="레스너(펠로우 장인)" />
+	<block key="dialog_1200044_text0" korean="펠로우가 강해지면 전투가 수월해지는 법! 펠로우 관련 장비를 만들어 보십시오." />
+	<block key="dialog_1200044_answer_0_text" korean="펠로우 재료 상점" />
+	<block key="dialog_1200045_title" korean="레이룬(물약 상인)" />
+	<block key="dialog_1200045_text0" korean="전투에 필요한 물약 팝니다! 천천히 둘러보시고 자신에게 꼭 필요한 물건을 챙겨 두시면 전투에서 절대 후회할 일은 없을 겁니다." />
+	<block key="dialog_1200045_answer_0_text" korean="물약 상점" />
+	<block key="dialog_1200046_title" korean="리오스(방어구 상인)" />
+	<block key="dialog_1200046_text0" korean="장비가 많이 낡았네요.<br>지금 당신한테 꼭 어울릴 만한 방어구가 있는데 한번 보시겠습니까?" />
+	<block key="dialog_1200046_answer_0_text" korean="방어구 상점" />
+	<block key="dialog_1200047_title" korean="마리나(음식 상인)" />
+	<block key="dialog_1200047_text0" korean="자자, 둘러보세요! 먹고 죽은 귀신은 땟깔도 좋다는데 지금 못 먹으면 평생 후회할 음식들이 있어요." />
+	<block key="dialog_1200047_answer_0_text" korean="음식 상점" />
+	<block key="dialog_1200048_title" korean="매스혼(방어구 상인)" />
+	<block key="dialog_1200048_text0" korean="입고 있는 방어구를 보면 그 사람이 겪어온 전장의 흔적을 알 수 있는 법이죠!<br>조금 쯤은 방어구에 투자하는 것도 나쁘진 않아 보이는데 둘러 보시겠습니까?" />
+	<block key="dialog_1200048_answer_0_text" korean="방어구 상점" />
+	<block key="dialog_1200049_title" korean="바타혼(음식 상인)" />
+	<block key="dialog_1200049_text0" korean="배가 고프면 집중력이 떨어져서 무슨 일을 하더라도 진척이 되질 않아요.<br>지금 당신을 위해서 따끈따끈한 음식을 준비했어요. 식기 전에 드시고 가세요!" />
+	<block key="dialog_1200049_answer_0_text" korean="음식 상점" />
+	<block key="dialog_1200050_title" korean="산타난(무기 상인)" />
+	<block key="dialog_1200050_text0" korean="에헴! 마침 당신한테 딱 어울리는 무기가 하나 들어왔는데… 사양하지 말고 한번 잡아보십시오! 만져보는 걸로 돈 받진 않으니까 걱정하지 마시고. 자자 잡아보라니까요?" />
+	<block key="dialog_1200050_answer_0_text" korean="무기 상점" />
+	<block key="dialog_1200051_title" korean="세이로스(무기 상인)" />
+	<block key="dialog_1200051_text0" korean="무기를 보러 왔습니까? 전 최고급이 아니면 다루지 않으니 맘에 드는 물건 있으면 하나 사십시오. 특별히 싸게 해드리죠!" />
+	<block key="dialog_1200051_answer_0_text" korean="무기 상점" />
+	<block key="dialog_1200052_title" korean="세이룬(잡화 상인)" />
+	<block key="dialog_1200052_text0" korean="거 보고만 있지 말고 하나 사쇼. 손때 묻혀서 팔지도 못하게 그러고 있지 말고…" />
+	<block key="dialog_1200052_answer_0_text" korean="잡화 상점" />
+	<block key="dialog_1200053_title" korean="소피아(음식 상인)" />
+	<block key="dialog_1200053_text0" korean="날도 더운데 서서 그러지 말고 시원한 음료라도 한 잔 하고 가세요. 일단 한 잔 마셔보면 두 잔으로 끝나지 않을 걸요?" />
+	<block key="dialog_1200053_answer_0_text" korean="음식 상점" />
+	<block key="dialog_1200054_title" korean="슈미텔(음식 상인)" />
+	<block key="dialog_1200054_text0" korean="오아시스에 오셨으니까 맛있는 음식을 곁들여서 땀이라도 좀 식히세요. 물에 발 담그고서 즐기는 여유의 시간! 좋지 않나요?" />
+	<block key="dialog_1200054_answer_0_text" korean="음식 상점" />
+	<block key="dialog_1200055_title" korean="아드리안(물약 상인)" />
+	<block key="dialog_1200055_text0" korean="물약 사세요! 사막의 열기로 가득찬 뜨뜻한 물약 사세요!" />
+	<block key="dialog_1200055_answer_0_text" korean="물약 상점" />
+	<block key="dialog_1200056_title" korean="앤디(요리 장인)" />
+	<block key="dialog_1200056_text0" korean="요리를 배우고 싶습니까? 좋습니다! 신선한 재료와 도구가 있어야 하는데 준비는 됐겠죠?<br><br>준비가 안 됐어도 괜찮습니다. 제가 몇 개 갖고 있으니 골라 보십시오." />
+	<block key="dialog_1200056_answer_0_text" korean="요리 재료 상점" />
+	<block key="dialog_1200057_title" korean="일리아(물약 상인)" />
+	<block key="dialog_1200057_text0" korean="오아시스의 물을 섞어서 만든 특제 물약이에요. 배 이상 비싼 물약이지만 오늘은 특별히 절반 가격으로 드릴테니 골라보세요." />
+	<block key="dialog_1200057_answer_0_text" korean="물약 상점" />
+	<block key="dialog_1200058_title" korean="재키(연금술 장인)" />
+	<block key="dialog_1200058_text0" korean="연금술을 제대로 배운 사람은 상점에서는 구하기 힘든 각종 물약을 만들 수 있소.<br><br>난 언제든 신비의 연금술을 가르쳐 줄 준비가 되어 있으니 부담갖지 말고 찾아오시오." />
+	<block key="dialog_1200058_answer_0_text" korean="연금술 재료 상점" />
+	<block key="dialog_1200059_title" korean="카를레나(물약 상인)" />
+	<block key="dialog_1200059_text0" korean="물약 사러 오셨나요?<br>잘 생각하셨어요. 제가 파는 물약은 다른 지역에서 파는 물약하고는 다르답니다.<br>일단 한번 드셔보세요, 온몸에서 힘이 솟구치는 게 느껴질테니까요." />
+	<block key="dialog_1200059_answer_0_text" korean="물약 상점" />
+	<block key="dialog_1200060_title" korean="칼(방어구 상인)" />
+	<block key="dialog_1200060_text0" korean="전투가 코앞인데 아직도 방어구 준비가 안 됐단 말입니까? 참 태평도 하십니다.<br>싸게 줄테니 이번 기회에 사양말고 둘러보십시오!" />
+	<block key="dialog_1200060_answer_0_text" korean="방어구 상점" />
+	<block key="dialog_1200061_title" korean="타레스(무기 제작 기술자)" />
+	<block key="dialog_1200061_text0" korean="재료가 준비 됐다면 바로 작업에 들어가지.<br>자신이 사용할 무기는 직접 만드는 게 최상이네. 그렇지 않은가?" />
+	<block key="dialog_1200061_answer_0_text" korean="무기 재료 상점" />
+	<block key="dialog_1200062_title" korean="파울로(잡화 상인)" />
+	<block key="dialog_1200062_text0" korean="무슨 물건이 필요하십니까? 원하시는 물건은 뭐든 있으니 천천히 둘러보십시오." />
+	<block key="dialog_1200062_answer_0_text" korean="잡화 상점" />
+	<block key="dialog_1200063_title" korean="푸요르(잡화 상인)" />
+	<block key="dialog_1200063_text0" korean="무기와 방어구만 있으면 모양새는 갖춰지겠지만 그것 만으로 제대로 모험을 할 수 있겠습니까?<br>다양한 물건을 준비했으니까 입맛대로 골라보시죠.<br><br>사람이 밥만 먹고 산다고 생각해 봤습니까? 네네, 먹고 살 수는 있죠." />
+	<block key="dialog_1200063_answer_0_text" korean="잡화 상점" />
+	<block key="dialog_1200064_title" korean="우마르크(브라기 광산)" />
+	<block key="dialog_1200064_text0" korean="오셨습니까? 상황이 썩 좋지 않았는데 당신이 와서 다행입니다.<br><br>용병단 녀석들을 처리했더니 이번엔 브라기 놈들이 말썽이군요. 그나마 당신이 있으니 차근차근 풀어 나가면 큰 무리는 없을 것 같습니다." />
+	<block key="dialog_1200065_title" korean="바흐리(황금 봉우리 원로원 의장)" />
+	<block key="dialog_1200065_text0" korean="황금 봉우리 원로원 의장인 바흐리라고 하네. 의장이라고 해봐야 별다른 권력이 있는 건 아니고 그저 나이 먹은 노인들의 의견을 취합해서 그리폰 기사단장에게 도움을 요청하는 대리인일 뿐이야.<br><br>왕국의 젊은 용사가 찾아왔으니 성대한 잔치라도 벌이면 좋겠지만 보다시피 척박한 곳이라 내줄 것도 없군, 그래." />
+	<block key="dialog_1200066_title" korean="카르라무(그리폰 기사단 교관)" />
+	<block key="dialog_1200066_text0" korean="나는 황금 그리폰 기사단의 교관직을 맡고 있는 카르라무요.<br>견습 그리폰 기사들 사이에서는 강도 높은 훈련량을 부여하는 교관으로 악명이 높지만 내 밑에서 배운 훈련생들은 전투 후 생존률이 높은 편이오." />
+	<block key="dialog_1200066_answer_2_text" korean="그리폰 기사단의 훈련은 어떤 방식으로 진행됩니까?" />
+	<block key="dialog_1200066_answer_3_text" korean="교관님이 보기에 가장 실력있는 기사가 누군지 궁금하군요." />
+	<block key="dialog_1200067_title" korean="나이아 알폰(황금 봉우리 요리장)" />
+	<block key="dialog_1200067_text0" korean="사람이고 짐승이고 먹어야 힘을 쓰는 법이에요. 특히나 황금 봉우리처럼 먹을 게 별로 없는 곳에 거주할수록 맛있고 영양가 높은 요리들로 배를 채워줘야 견딜 수 있죠.<br>단지..재료로 사용할 동식물 자체를 구하기 힘든 애로사항이 있긴 해요." />
+	<block key="dialog_1200067_answer_1_text" korean="황금 봉우리의 주민들은 요리장님이 만든 요리에 만족하나요?" />
+	<block key="dialog_1200068_title" korean="젤렉스(견습 그리폰 기사)" />
+	<block key="dialog_1200068_text0" korean="샤키바의 둥지를 관찰하는 임무를 수행중입니다. 그런데 아직 훈련을 수료한 게 아니라 제가 어떤 걸 할 수 있는지 판단이 서질 않네요.<br><br>그리폰 기사로서 부끄러운 보습을 보이면 안 되는데 자꾸 실수를 저지를까봐 걱정이 큽니다." />
+	<block key="dialog_1200068_answer_1_text" korean="기사 후보생들은 대체로 무슨 일을 합니까?" />
+	<block key="dialog_1200069_title" korean="콜렉터의 시신" />
+	<block key="dialog_1200069_text0" korean="퀘퀘한 냄새가 나는 시체다." />
+	<block key="dialog_1200070_title" korean="캐롯(풍요의 씨앗 조합)" />
+	<block key="dialog_1200070_text0" korean="누가 뭐라고 해도 요리의 핵심은 맛이에요. 몸에 좋고, 보기 좋고…? 이런 건 아무 짝에도 쓸모없죠.<br><br>아무 재료나 좋으니까 가져만 와보세요. 천상의 맛을 보여드리겠습니다." />
+	<block key="dialog_1200070_answer_6_text" korean="풍요의 씨앗 조합은 어떤 단체인가요?" />
+	<block key="dialog_1200070_answer_7_text" korean="풍요의 씨앗 조합은 누가 만들었습니까?" />
+	<block key="dialog_1200070_answer_8_text" korean="황금 봉우리 요리장님의 요리를 드셔보셨습니까?" />
+	<block key="dialog_1200071_title" korean="세레마이(일급 보물 사냥꾼)" />
+	<block key="dialog_1200071_text0" korean="도저히 불가능하다고 생각했던 일을 해내고, 아무도 응하지 않는 의뢰라도 거뜬히 해낼 수 있어야 일급 보물 사냥꾼이라고 부를 수 있지.<br>나름 잘 나가는 모험가들도 내가 지금까지 수행한 임무를 모두 얘기하면 깜짝 놀랄걸?" />
+	<block key="dialog_1200071_answer_4_text" korean="어떤 보물을 찾고 계신가요?" />
+	<block key="dialog_1200071_answer_5_text" korean="이곳은..무슨 신전처럼 보이는 군요..이곳에 대해 아십니까?" />
+	<block key="dialog_1200072_title" korean="오귀스트(조각가)" />
+	<block key="dialog_1200072_text0" korean="잘 만들어진 조각은 그것을 만든 조각가의 영혼을 담아 놓은 그릇 같은 존재입니다.<br><br>저는 뛰어난 조각가가 아니라 보여드릴 것이 없지만 당신이 관심만 있다면 훌륭한 조각가의 작품을 알려줄 수는 있습니다." />
+	<block key="dialog_1200072_answer_3_text" korean="조각을 하기엔 이곳은 안전하지 않은 것 같습니다만.." />
+	<block key="dialog_1200072_answer_4_text" korean="특별히 만들고 싶은 조각이라도 있습니까?" />
+	<block key="dialog_1200073_title" korean="아람(보물 사냥꾼)" />
+	<block key="dialog_1200073_text0" korean="보물 사냥꾼이라는 직업이 위험부담은 있지만 고수익을 보장하는 직업이죠. 물론 성공했을 때에만 한정된 얘기입니다.<br>실패했을 경우는 생각하지 말죠!" />
+	<block key="dialog_1200073_answer_6_text" korean="이곳에 숨겨진 보물들이 많습니까?" />
+	<block key="dialog_1200074_title" korean="베로니카(모래사장의 유령)" />
+	<block key="dialog_1200074_text0" korean="오르골… 내 오르골… 단 한 번이라도 좋으니 내 오르골 소리를 들었으면 좋겠어요." />
+	<block key="dialog_1200074_answer_3_text" korean="뭔가 잃어버린 것이라도 있나보군요?" />
+	<block key="dialog_1200074_answer_4_text" korean="이곳의 경비대 일을 하셨나 봅니다. 복장이.." />
+	<block key="dialog_1200075_title" korean="허셀(모레사장의 유령)" />
+	<block key="dialog_1200075_text0" korean="죽어서 유령이 되면 어떻게 될지 생각해 본 적 있어?<br><br>막상 죽어보니 별 생각도 안 들고 그냥 그렇더군. 근데 말이야, 이거 알아? 죽는 것 보다는 사는 게 좋다는거!" />
+	<block key="dialog_1200075_answer_1_text" korean="죽기 전의 기억이 있으십니까?" />
+	<block key="dialog_1200075_answer_2_text" korean="옆에 있는 베로니카와는 어떤 사이였습니까?" />
+	<block key="dialog_1200076_title" korean="버려진 책" />
+	<block key="dialog_1200076_text0" korean="표지가 낡고 먼지를 뒤집어쓴 책이다." />
+	<block key="dialog_1200077_title" korean="유세이의 무덤" />
+	<block key="dialog_1200077_text0" korean="유세이가 있던 자리에 덩그러니 무덤만 놓여져있다." />
+	<block key="dialog_1200078_title" korean="상인의 시신" />
+	<block key="dialog_1200078_text0" korean="코를 찌르는 악취가 나는 시신이다. 시신의 상태로만 봐선 언제 죽었는지 가늠하기 힘들 것 같다." />
+	<block key="dialog_1200079_title" korean="임무 게시판(금광 수송로)" />
+	<block key="dialog_1200079_text0" korean="현재 불사의 사막의 지역에 모하바 용병단의 약탈행위가 빈번히 일어나고 있어 외부 출입을 원하는 자는 각별한 주의를 요망함.<br><br>알세크 경비대" />
+	<block key="dialog_1200080_title" korean="임무 게시판(오아시스)" />
+	<block key="dialog_1200080_text0" korean="현재 불사의 사막의 지역에 모하바 용병단의 약탈행위가 빈번히 일어나고 있어 외부 출입을 원하는 자는 각별한 주의를 요망함.<br><br>알세크 경비대" />
+	<block key="dialog_1200081_title" korean="라무트" />
+	<block key="dialog_1200081_text0" korean="아쿨님께 연락은 받았습니다.<br>지금 막 출항 준비가 끝난 참입니다.<br>위험한 지역이니 만반의 준비를 하십시오!" />
+	<block key="dialog_1200081_answer_0_text" korean="불사의 사막으로 떠나기" />
+	<block key="dialog_1200082_title" korean="선장 제프너" />
+	<block key="dialog_1200082_text0" korean="불사의 사막으로 가고싶다면 날 찾아오게.<br>수도성에서 불모의 지역으로 가는 비행선은 나 제프너가 운행하는 비행선 뿐이니!" />
+	<block key="dialog_1200082_answer_0_text" korean="불사의 사막으로 떠나기" />
+	<block key="dialog_1200083_title" korean="얀테르" />
+	<block key="dialog_1200083_text0" korean="하카나스 수도성으로 가고싶다면 일등 항해사 나 얀테르님을 찾아오라구!" />
+	<block key="dialog_1200083_answer_0_text" korean="하카나스 수도성으로 떠나기" />
+	<block key="dialog_1200084_title" korean="임무 게시판(브라기광산)" />
+	<block key="dialog_1200084_text0" korean="현재 불사의 사막의 지역에 모하바 용병단의 약탈행위가 빈번히 일어나고 있어 외부 출입을 원하는 자는 각별한 주의를 요망함.<br><br>알세크 경비대" />
+	<block key="dialog_1200085_title" korean="참모 우마르크(금광수송로)" />
+	<block key="dialog_1200085_text0" korean="마을 경비대가 날뛰는 용병들을 저지하고는 있지만 언제까지 버틸 수 있을지는 미지수입니다. 병사들의 사기는 높지만 경험이나 실질적인 능력 면에서 용병 녀석들을 따라가기에는 무리가 있으니까요.<br><br>이유가 어찌되었든 이곳을 장악한 모하바 용병단 놈들을 쫒아내지 못하면 마을도 얼마 버티지 못할겁니다. 한시라도 빨리 놈들을 몰아내야 합니다." />
+	<block key="dialog_1200085_answer_6_text" korean="라니아 공주님을 본 적이 있나요?" />
+	<block key="dialog_1200086_title" korean="참모 우마르크(오아시스)" />
+	<block key="dialog_1200086_text0" korean="마을 경비대가 날뛰는 용병들을 저지하고는 있지만 언제까지 버틸 수 있을지는 미지수입니다. 병사들의 사기는 높지만 경험이나 실질적인 능력 면에서 용병 녀석들을 따라가기에는 무리가 있으니까요.<br><br>이유가 어찌되었든 이곳을 장악한 모하바 용병단 놈들을 쫒아내지 못하면 마을도 얼마 버티지 못할겁니다. 한시라도 빨리 놈들을 몰아내야 합니다." />
+	<block key="dialog_1200087_title" korean="야흐루(그리폰 기사단 참모)" />
+	<block key="dialog_1200087_text0" korean="동등한 관계를 유지하기 위해선 동등한 크기의 힘이 필요한 법입니다. 그 대상이 누구이던 간에 이 법칙은 항상 유효하죠.<br><br>힘도 없으면서 뻐기는 놈들에게는 강력한 응징 외엔 답이 없어요. 가볍게 보기 시작하면 언젠가는 등뒤를 노리고 공격해 올겁니다." />
+	<block key="dialog_1200088_title" korean="그리폰 기사단 리아 벤(불사군단 요새)" />
+	<block key="dialog_1200088_text0" korean="드디어 불사군단의 요새까지 왔어요.<br>새로운 그리폰을 길들이는 게 쉽지는 않았지만 저도 황금 기사단원으로서 충분히 제 몫을 할 수 있다는 걸 보여드릴게요." />
+	<block key="dialog_1200089_title" korean="그리폰 기사단원 디마이(불사군단 요새)" />
+	<block key="dialog_1200089_text0" korean="결전의 아침이 밝았습니다.<br>두렵지 않다면 거짓말 이겠죠. 하지만 우리 황금 그리폰 기사단에는 두려움에 굴하는 나약한 사람은 단 한 명도 없습니다.<br>두려움을 이겨내고 앞으로 전진하는 겁니다!" />
+	<block key="dialog_1200090_title" korean="알세크 경비대 라다스" />
+	<block key="dialog_1200090_text0" korean="금광 수송로 진지 구축에 사용할 자재를 실은 마차를 수송하던 중 용병단의 기습을 받았습니다!<br>저를 따라오세요! 서둘러야 합니다!" />
+	<block key="dialog_1200091_title" korean="야흐루(그리폰 기사단 참모_요새)" />
+	<block key="dialog_1200091_text0" korean="동등한 관계를 유지하기 위해선 동등한 크기의 힘이 필요한 법입니다. 그 대상이 누구이던 간에 이 법칙은 항상 유효하죠.<br><br>힘도 없으면서 뻐기는 놈들에게는 강력한 응징 외엔 답이 없어요. 가볍게 보기 시작하면 언젠가는 등뒤를 노리고 공격해 올겁니다." />
+	<block key="dialog_1200092_title" korean="풍요의 씨앗 조합은 어떤 단체인가요?" />
+	<block key="dialog_1200092_text0" korean="풍요의 씨앗 조합은 다섯명의 대지주들이 영농 활동에 필요한 각종 편의 및 효율적인 관리를 통해 조합원의 경제, 사회적 지위 향상을 위해 설립한 단체였어요.<br><br>하지만 시간이 지나면서 단순한 영농 활동 범주에 국한되지 않고 성장하였죠. 주로 식량과 직접적인 연관이 있는 사업이 조합의 전폭적인 지원하에 이루어졌는데 가장 빛을 본 것이 <font color="#3ec1d0">요식업</font>이었어요." />
+	<block key="dialog_1200092_text0_attach_0" korean="<br><br>빼어난 요리들을 개발하고 각 지역에 소개하며 빈약하던 왕국의 요식업을 부흥시켰어요. 현재는 상단의 형태로 빠르게 변모하며 미들라스 전체로 사업 영역을 확장 중에 있답니다." />
+	<block key="dialog_1200093_title" korean="풍요의 씨앗 조합은 누가 만들었습니까?" />
+	<block key="dialog_1200093_text0" korean="풍요의 씨앗 조합의 실질적인 주인은 다섯의 대지주들이에요. 사람들은 그들을 일컬어 <font color="#3ec1d0">아크라트 5 대농</font>이라 부르곤 하죠. 5대농은 뛰어난 결속력으로 조합을 성장시켜왔어요.<br>하지만 영농 활동만으로는 그 활동 폭이 좁아 그 한계가 명확하였는데 그것을 해결하기 위하여 다른 사업 영역으로 확장을 시도하였죠." />
+	<block key="dialog_1200093_text0_attach_0" korean="<br><br>그 중 하나가 요식업이었고 전폭적인 지원을 통하여 미들라스 곳곳에 튼튼한 사업 기반을 마련하였어요.<br>다수의 유명 요리사들도 배출하였는데 이러한 영향으로 <font color="#3ec1d0">요리사의 길</font>을 걷거나 익히려는 자들은 조합에 적극 참여하고 있답니다." />
+	<block key="dialog_1200094_title" korean="콜렉터는 무슨 단체입니까?" />
+	<block key="dialog_1200094_text0" korean="콜렉터는 펠로우 마스터 <font color="#3ec1d0">바인데르</font>님이 전문적인 펠로우 연구 및 수집을 목적으로 설립한 조직입니다. 우리 콜렉터들은 특정 지역에 본거지를 두지 않고 대륙을 떠돌아 다닙니다.<br><br>우리는 특정한 문화나 세력을 분석하고 연구하는 대륙의 여러 연구소와 각종 아이템을 수집하는 수집가의 성격을 모두 지니고 있어 왕립 연구소나 대규모 상단과도 밀접한 관계를 유지하고 있죠." />
+	<block key="dialog_1200094_text0_attach_0" korean="<br><br>펠로우에 대한 연구가 각 단체에서도 활발히 진행하고 있으나 펠로우에 대한 정보는 모두 콜렉터로부터 시작해서 콜렉터에게서 끝난다는 말이 있을만큼 정보나 영향력이 뛰어납니다." />
+	<block key="dialog_1200095_title" korean="펠로우 마스터 바인데르에 대해 알고싶습니다." />
+	<block key="dialog_1200095_text0" korean="펠로우 마스터로 명성을 떨친 바인데르님은 전문적인 펠로우 연구를 넘어 세상의 모든 펠로우를 수집하려 하였습니다.<br><br>하지만 그것은 단지 그분의 소유욕 때문은 아니었습니다. 유기된 펠로우나 멸종 위기의 펠로우를 보존하려는 <font color="#3ec1d0">대의</font>가 우선이었죠. 수십년간 사냥꾼으로 대륙을 종횡하며 쌓아온 펠로우의 습성, 문화에 대한 이해도는 그 어떤 펠로우 연구가보다 뛰어나십니다." />
+	<block key="dialog_1200095_text0_attach_0" korean="<br><br>그분의 제자격인 다른 콜렉터들도 바인데르님의 대의에 동참했기에 현재 대중에게 알려진 콜렉터로서의 모습을 갖출 수 있었습니다." />
+	<block key="dialog_1200096_title" korean="너는..이누기? 브라카르 숲 이후로 오랜만이구나." />
+	<block key="dialog_1200096_text0" korean="인간..여기서 볼 줄은 몰랐다. 그때 인간이 나 구해줘서 살았다. 내 목숨 인간에게 <font color="#3ec1d0">빚</font>졌다. 그때 이후로 나 브라카르 숲 떠났다.<br><br>숲에서 벗어나 이곳 저곳 브라기들이 사는 곳 찾아다녔다. 여기 불사의 사막에 사막 브라기들 만나러 왔다." />
+	<block key="dialog_1200097_title" korean="사막 브라기들이 인간의 광산을 공격했다던데.." />
+	<block key="dialog_1200097_text0" korean="우리 브라기들..이용만 당하고 있다.<br>여기 불사의 사막에도 브라기들 살고있다. 사막 브라기들도 이용당하고있다. 마신..나쁘다.<br><br>악마들이 자꾸 브라기들 조종하려고 한다. 브라기의 미래를 위해서 믿고 따를<font color="#3ec1d0"> 지도자</font>가 필요하다." />
+	<block key="dialog_1200098_title" korean="부상자가 있어 보이는데 어떻게 된 일인가요?" />
+	<block key="dialog_1200098_text0" korean="모하바 용병단이 금광을 약탈하고 급기야 마을까지 약탈하는 사건이 벌어졌어요. 물자들 대부분을 빼앗기면서 식수도 많이 부족해졌죠.<br><br>이런 힘든 시기에 마을에 갓 정착한 사람들은 사막의 열악한 환경과 부족한 식수탓에 <font color="#3ec1d0">탈수증상</font>을 보이고 있어요. 이분들께는 그저 한모금 목을 축일 물이 필요해요." />
+	<block key="dialog_1200099_title" korean="알세크 경비대 라다스" />
+	<block key="dialog_1200099_text0" korean="[UserName] 덕분에 무사히 자재를 수송할 수 있었습니다!<br>우마르크님 말씀대로 굉장한 실력을 지닌 분이시군요. 당신같은 분이 마을 편에 선다면 모하바 용병단들을 이곳에서 몰아내는 것도 어렵지 않을 겁니다!" />
+	<block key="dialog_1200100_title" korean="고대의 사원은 어떤 곳입니까?" />
+	<block key="dialog_1200100_text0" korean="전설에 따르면 미들라스의 만물이 창조되던 시기보다 훨씬 이전, 우주가 생성되던 때부터 존재했던 고유한 힘의 언어가 있었습니다.<br><br>파괴의 단어라 불리는 이 언어는 반신 스캇라샤가 엘로라 여신에게 굴복하기까지 사용되었죠. 하지만 엘로라 여신에게 깊이 감화된 스캇라샤는 파괴의 단어를 <font color="#3ec1d0">고대의 사원</font>에 봉인하고 마그마포라로 떠났습니다." />
+	<block key="dialog_1200101_title" korean="사원을 점령한 자들에 대해 아십니까?" />
+	<block key="dialog_1200101_text0" korean="스캇라샤가 파괴의 단어를 봉인해두었던 사실은 대대로 사원을 관리한 우리 신관들 외에는 모르던 비밀이었습니다. 하지만 얼마 전, 카브임 교단에서 파견한 신시아라는 여자가 이 사원의 정체에 대해서 알게 되었죠." />
+	<block key="dialog_1200101_text0_attach_0" korean="<br><br>그때부터 모든 것이 꼬여버렸습니다. 파괴의 단어에 대해 파악하기 위해 고대의 문물에 정통하다는 제이슨과 그를 보조하기 위한 환술사 니바르라는 자들이 신시아와 함께 사원을 다시 찾아왔습니다.<br>그리고..그들의 배후엔 <font color="#3ec1d0">카브임 교단</font>이 있고 말입니다.." />
+	<block key="dialog_1200102_title" korean="파괴의 단어라는 것이 그렇게 대단한 것입니까?" />
+	<block key="dialog_1200102_text0" korean="카브임 교단에선 스캇라샤가 봉인한 파괴의 단어를 조사하기 위해 고대 문물에 정통하다고 알려진 제이슨을 파견했습니다. 하지만 이 단어를 읽는다는 것은 장담하건데 불가능한 일입니다.<br><br>이것은 글자의 모양을 하고 있을 뿐, 우주의 생성기에 만들어진 고유한 언어입니다. 그런것을 한낱 인간이 무슨 수로 읽을 수 있겠습니까? 그저 그 단어가 지닌 외부의 힘만을 얻는 것에 불과하죠. 물론..그것만으로도 인간이 감당키 어려운 힘이지만 말입니다." />
+	<block key="dialog_1200102_text0_attach_0" korean="<br><br>제이슨은 이미 파괴의 단어가 지닌 힘을 너무나 많이 받아들였습니다. 그런 힘을 손에 넣는다면 분란이 끊이질 않을 것입니다. 그는 반드시 제거되어야 합니다." />
+	<block key="dialog_1200103_title" korean="비행로 아래에 가득한 흙먼지는 뭡니까?" />
+	<block key="dialog_1200103_text0" korean="흙먼지요? 하하하! 죽음의 모래 안개가 고작 흙먼지로 보였단 말입니까? 애석하게도 단순한 흙먼지가 아닙니다. <font color="#3ec1d0">샌드웜의 숨결</font>이라 불리는 죽음의 모래 안개죠.<br>행여나 호기심을 참지 못하고 비행로 아래로 내려가지는 않으셨으면 좋겠군요." />
+	<block key="dialog_1200104_title" korean="샌드웜의 숨결에 대해 자세히 알려주십시오." />
+	<block key="dialog_1200104_text0" korean="과거 이 사막을 휩쓸고 다니던 샌드웜에 대해서 들어보셨습니까? 태고의 3영물 중 하나인 샌드웜은 아직도 제대로된 연구자료 없이 전설로만 전해지고 있습니다.<br><br>샌드웜이 내뱉는 숨결은 인간이 감당할 수 없는 지독한 <font color="#3ec1d0">독성</font>을 지닌다고 하더군요. 흙먼지라고 생각하신 모래 먼지는 바로 샌드웜의 숨결입니다." />
+	<block key="dialog_1200105_title" korean="비행로는 안전한 것입니까?" />
+	<block key="dialog_1200105_text0" korean="샌드웜의 숨결에 대한 정보가 알려진 것은 얼마되지 않았습니다. 처음 비행로를 훈련과 시험의 장소로 사용했던 많은 비행사들은 영문도 모른채 목숨을 잃기도 했었죠. 지금은 세월이 흘러 독성이 많이 약해졌기 때문에 예전만큼은 아닙니다." />
+	<block key="dialog_1200105_text0_attach_0" korean="<br><br>다만 비행로 아래로 내려가는 것을 권해드리고 싶지는 않군요. 샌드웜의 숨결은 호흡을 할 때마다 몸에 <font color="#3ec1d0">축척</font>될 것입니다. 그것이 누적되면..어떤 결과를 초래할지는 상상에 맡기겠습니다." />
+	<block key="dialog_1200106_title" korean="실종된 카알에 대해 알려주십시오." />
+	<block key="dialog_1200106_text0" korean="카알은 이 비행로의 전설이었소. 가장 빠르고 냉철한 판단력, 겁이라곤 전혀 모르는 과감함. 비행사들에게 있어 갖춰야할 모든 것을 지닌 천재였지.<br><br>언제부터였는지 자신이 비행을 하는 이유가 무엇인지 모르겠다는 둥 이상한 소리를 하더군. 그리곤 얼마지나지 않아 종적이 묘연해졌소." />
+	<block key="dialog_1200107_title" korean="카알을 찾으려면 어떻게 해야 합니까?" />
+	<block key="dialog_1200107_text0" korean="사람들은 카알이 멀리 떠났다고 하지만 내 촉은 분명 이 비행로에 남았다고 말하고 있소. 얼마 전, 그것을 증명하기라도 하듯 그의 <font color="#3ec1d0">일기</font>를 발견했지.<br><br>일기가 쓰여진 날짜도 비교적 최근이었으니 이 주변에서 그의 흔적을 찾는 것 부터 시작해보면 되지 않겠소?" />
+	<block key="dialog_1200108_title" korean="이젠 제법 인간의 말이 능숙해졌구나?" />
+	<block key="dialog_1200108_text0" korean="브라카르 숲 떠나기 전에 엘프 카일라스한테 인간 말 더 배웠다. 인간 말 배울수록 재밌다.<br>카일라스가 이누기 칭찬 많이 해줬다. 이제 인간들이 쓴 책도 어지간하면 다 읽을 줄 안다." />
+	<block key="dialog_1200109_title" korean="고대의 사원 신관 라이어스" />
+	<block key="dialog_1200109_text0" korean="덕분에 어느 정도 위협으로부터 사원을 지켜냈지만 아직 안심할 수는 없습니다.<br>어둠의 힘을 숭배하는 자들이 언제 다시 파괴의 힘을 노리고 침입할 지 모르는 일입니다." />
+	<block key="dialog_1200109_answer_7_text" korean="고대의 사원은 어떤 곳입니까?" />
+	<block key="dialog_1200109_answer_8_text" korean="제가 또 도울 일은 없겠습니까?" />
+	<block key="dialog_1200110_title" korean="제가 또 도울 일은 없겠습니까?" />
+	<block key="dialog_1200110_text0" korean="불사의 사막을 뒤덮은 위협은 아직 모두 사라지지 않았습니다. 하지만 어둠이 있는 곳엔 다행히 빛도 함께 있는 법. 실력있는 모험가들이 고대의 사원을 지켜낸 것처럼 다른 곳에도 그 힘이 필요할 것입니다." />
+	<block key="dialog_1200110_text0_attach_0" korean="<br><br>제가 듣기론 일부 모험가들이 금광 수송로 북쪽에 위치한 악몽의 요람으로 떠났다고 하더군요. 그곳은 태고의 영물들이 태어나는 곳입니다. 급한 일이 없으시다면 악몽의 요람으로 가보십시오. 그곳에서 당신의 힘을 필요로 할지 모릅니다." />
+	<block key="dialog_1200111_title" korean="퇴역 장군 제럴드" />
+	<block key="dialog_1200111_text0" korean="나도 한 때는 하카나스의 평화를 위해 싸우던 전사였네.<br>지금은 세상을 등지고, 조용히 살기 위해 은둔자의 마을로 왔다네. 하지만 내 어찌 라니아 공주님을 구하는 일에 손을 놓고 있을 수 있겠는가.<br><br>불사군단 놈들을 모조리 쳐부수고, 반드시 공주님을 구해내야 할 걸세." />
+	<block key="dialog_1200111_answer_3_text" korean="라니아 공주님의 어린시절 이야기를 듣고 싶습니다." />
+	<block key="dialog_1200112_title" korean="투로칸(크로쿤 병영지구)" />
+	<block key="dialog_1200112_text0" korean="크로쿤 종족은 명예를 중요시 한다네. 불명예 스러운 행동을 했다면 그에 상응하는 벌을 받아야 마땅한 법 아니겠나? 아무리 변명을 해봐야 저지른 죄가 변하는 것은 아니니까 말이지." />
+	<block key="dialog_1200113_title" korean="레티나(은둔자의 마을)" />
+	<block key="dialog_1200113_text0" korean="은둔자의 마을 촌장 레티나입니다.<br><br>자신이 가야할 길을 잃은 채 방황하고 있다면 이곳에서 쉬어가세요. 살아가면서 겪어야 하는 고난과 역경은 사람마다 느끼는 강도가 다르겠지만 그 삶의 끝은 누구에게나 평등한 법입니다." />
+	<block key="dialog_1200114_title" korean="치메르(캠프A)" />
+	<block key="dialog_1200114_text0" korean="예언가라고 해서 모든 것을 알 수 있는 것은 아닙니다. 그저 어둠 뒤에 찾아오는 새벽에 대해서 알고 있을 뿐…….<br><br>세상의 모든 일이 예언대로 흐르는 것은 아닙니다.<br><br>그런 일이 가능하다면 그건 신을 초월한 존재일 겁니다." />
+	<block key="dialog_1200115_title" korean="모르룬" />
+	<block key="dialog_1200115_text0" korean="최고의 대장장이 크로쿤, 그게 바로 나! 모르룬이지! 아니 모든 종족을 통틀어 나 모르룬이 최고의 대장장이라고 해도 과언이 아니라네.<br>재료만 있다면 내가 만들지 못할 것은 아무 것도 없으니 필요한 것이 있으면 내게 말만 하게." />
+	<block key="dialog_1200115_answer_3_text" korean="불사군단 요새 설계에 참여하셨다고 들었습니다." />
+	<block key="dialog_1200116_title" korean="섀도우 클렌 엘레나(불사군단의 요새)" />
+	<block key="dialog_1200116_text0" korean="공주님의 구출이 코앞입니다. 전심전력으로 작전에 임해주십시오!" />
+	<block key="dialog_1200116_answer_8_text" korean="요새 내부로 진입하는 입구는 어디에 있나요?" />
+	<block key="dialog_1200117_title" korean="파고(그리폰 파견 기사)" />
+	<block key="dialog_1200117_text0" korean="이곳 주변의 치안은 모험가들이 안심하고 돌아다니기엔 충분하지 않습니다. 무엇보다 우선시 되어야할 사항은 주변의 치안확보입니다. 바로 그것이 그리폰 기사단에서 저를 파견한 이유죠." />
+	<block key="dialog_1200117_answer_4_text" korean="주변의 치안은 어떻습니까?" />
+	<block key="dialog_1200118_title" korean="바네사(사막 조사단)" />
+	<block key="dialog_1200118_text0" korean="사막에는 모래 외에 다른 것이 없다고 생각하시면 곤란해요. 사람이 거주하는 곳에는 늘 사람을 위협하는 요소들이 존재하죠.<br><br>제가 하는 일은 그런 위협 요소를 조사하고 어떻게 하면 위협 요소를 제거할 수 있을지에 대한 고민과 해결 방안을 제시하는 거죠." />
+	<block key="dialog_1200119_title" korean="라임(풍요의 씨앗 조합)" />
+	<block key="dialog_1200119_text0" korean="안녕하세요! 풍요의 씨앗 조합원인 라임이라고 해요.<br>주어진 환경의 재료를 사용해서 최상의 요리를 만들어 내는 게 우리 풍요의 씨앗 조합에서 하는 일이랍니다." />
+	<block key="dialog_1200119_answer_2_text" korean="풍요의 씨앗 조합은 어떤 단체인가요?" />
+	<block key="dialog_1200119_answer_3_text" korean="풍요의 씨앗 조합은 누가 만들었습니까?" />
+	<block key="dialog_1200120_title" korean="유나디(보물 사냥꾼)" />
+	<block key="dialog_1200120_text0" korean="뭔가 큰 건수가 있어야 명성을 떨칠 수 있는데 요새는 영 시원치가 않단 말이야. 혹시 좋은 정보가 있다면 주저말고 나와 공유하지 않겠어?<br><br>새로운 정보를 제공 받으면 그에 상응하는 정보를 제공하는 게 이 바닥의 도리야. 당신 정보만 빼먹으려는 수작을 부리는 게 아니라고!" />
+	<block key="dialog_1200121_title" korean="라만툴(투로칸의 보좌)" />
+	<block key="dialog_1200121_text0" korean="투로칸 님은 다혈질이라 지금이라도 당장 적진으로 들어가실까봐 걱정입니다. 다행이 당신 같은 분이 계시니 한시름 놓이기는 합니다." />
+	<block key="dialog_1200121_answer_4_text" korean="투로칸님이 불사의 사막에 오셨습니까?" />
+	<block key="dialog_1200121_answer_5_text" korean="죽음의 그늘에서 대체 어떤 일이 벌어지고 있는 겁니까?" />
+	<block key="dialog_1200121_answer_6_text" korean="크로쿤과 사막 크로쿤은 한 종족이 아닙니까?" />
+	<block key="dialog_1200122_title" korean="키낙(크로쿤 변절자)" />
+	<block key="dialog_1200122_text0" korean="이대로라면 사막 크로쿤의 미래는 없다네.<br>알고는 있지만 나 혼자의 힘으로 무얼 할 수 있단 말인가? 정말 답답하기 짝이 없군." />
+	<block key="dialog_1200122_answer_6_text" korean="사막 크로쿤을 배신한 특별한 이유라도 있습니까?" />
+	<block key="dialog_1200122_answer_7_text" korean="사막 크로쿤에 대해 알고 싶군요." />
+	<block key="dialog_1200123_title" korean="클로젯(섀도우 클랜)" />
+	<block key="dialog_1200123_text0" korean="죽음의 그늘을 뒤덮고 있는 역병 주술을 막지 못한다면 불사의 사막 전체가 역병 주술에 의해 오염되고 말겁니다.<br>크로우 님이 인정하신 [UserName] 님의 도움이 절실히 필요합니다." />
+	<block key="dialog_1200123_answer_5_text" korean="클랜이 있는 것을 보니..이곳 역시 뭔가 일이 생긴 모양이로군요?" />
+	<block key="dialog_1200124_title" korean="비욘드(섀도우 클랜)" />
+	<block key="dialog_1200124_text0" korean="죽음이 두려운 것은 아닙니다.<br>제가 섀도우 클랜원으로서 부족한 것도 알고 있습니다.<br>다만 모두에게 아무런 도움도 되지 못하고 죽어버린다면 분해서 견딜 수 없을 것 같습니다." />
+	<block key="dialog_1200125_title" korean="오일레트(어둠의 방랑자)" />
+	<block key="dialog_1200125_text0" korean="두려움이라는 것은 목표를 가지지 못한 나약한 자들에게서나 볼 수 있는 감정이지. 뚜렷한 목표가 있다면 주변의 사치스런 감정 따위는 눈에 들어오지도 않아. 원하는 바를 이룰 때까지 목표를 향해 가는 거지.<br>그렇지 않나??" />
+	<block key="dialog_1200125_answer_3_text" korean="이곳에서 뭘 하시는 겁니까?" />
+	<block key="dialog_1200125_answer_4_text" korean="빛과 어둠으로 사람을 표현한다면 당신은 어둠에 가까운 것 같습니다." />
+	<block key="dialog_1200125_answer_5_text" korean="당신에게서 묘한 기운이 느껴집니다. 당신은 인간입니까? 아니면.." />
+	<block key="dialog_1200126_title" korean="타린(콜렉터)" />
+	<block key="dialog_1200126_text0" korean="콜렉터의 일원인 타린입니다. 죽음의 그늘에 서식하는 펠로우에 대한 연구를 진행하고 있는데 쉬운 일이 아니군요.<br>저를 좀 도와주셨으면 하는데, 괜찮겠습니까?" />
+	<block key="dialog_1200126_answer_3_text" korean="콜렉터는 무슨 단체입니까?" />
+	<block key="dialog_1200126_answer_4_text" korean="펠로우 마스터 바인데르에 대해 알고싶습니다." />
+	<block key="dialog_1200127_title" korean="바티온(수석 그리폰 기사)" />
+	<block key="dialog_1200127_text0" korean="바티온이라고 합니다. [UserName] 님과 함께 작전을 수행할 수 있다니 대단한 영광입니다.<br><br>[UserName] 님의 활약상을 확실히 지켜보겠습니다. 무운이 함께하길 바랍니다." />
+	<block key="dialog_1200127_answer_9_text" korean="그리폰 기사단과 사막 크로쿤의 관계는 어떻습니까?" />
+	<block key="dialog_1200127_answer_10_text" korean="카르라무 교관은 당신을 최고의 기사라고 칭찬하던데.." />
+	<block key="dialog_1200128_title" korean="나파순(크로쿤 주술사)" />
+	<block key="dialog_1200128_text0" korean="4대 주신 중 한 분인 네르헤스는 크로쿤을 창조했지만 크로쿤들은 신을 숭배하지는 않습니다. 신 보다는 개개인이 가진 기술, 특히 대장기술에 대한 신뢰가 더 크죠.<br><br>어찌보면 자신을 창조한 창조주 조차도 섬기지 않는 무례한 종족이기도 합니다." />
+	<block key="dialog_1200128_answer_1_text" korean="무러미가 이곳까진 무슨 일로 오셨습니까?" />
+	<block key="dialog_1200129_title" korean="예거트(은둔 마법사)" />
+	<block key="dialog_1200129_text0" korean="은둔자의 마을에 거주하는 사람들 중 상당수는 한때 이름깨나 날렸던 자들일 걸세. 각자 말할 수 없는 사정이 있어서 이곳에 은거하고 있을 뿐이지.<br><br>나도… 아니네. 누구나 말할 수 없는 사정은 있으니 이해해주게." />
+	<block key="dialog_1200129_answer_1_text" korean="과거에 어떤 일을 하셨는지 말해주실 수는 없습니까?" />
+	<block key="dialog_1200130_title" korean="자가란(크로쿤 주술사)" />
+	<block key="dialog_1200130_text0" korean="이곳은 외로운 곳입니다. 모두가 외로운 그런 곳이죠. 하지만 다들 따뜻한 심성을 가진 분들입니다.<br>제가 가진 주술의 힘이 모두에게 힘이 되었으면 하는데 쉬운 일은 아니네요." />
+	<block key="dialog_1200130_answer_1_text" korean="이곳엔 어쩐 일로 오시게 된 겁니까?" />
+	<block key="dialog_1200131_title" korean="샤모(낚시꾼)" />
+	<block key="dialog_1200131_text0" korean="혹시 사막 낚시 해본 적 있소?<br><br>모르면 모른다고 하면 되지 구태여 그런 표정을 지어야겠소?" />
+	<block key="dialog_1200131_answer_2_text" korean="사막에서 낚시라니..도무지 어울리지 않는 것 같군요." />
+	<block key="dialog_1200132_title" korean="니힐(무직)" />
+	<block key="dialog_1200132_text0" korean="사람이 살다 보면 휴식이 필요한 법인데 제가 지금 그 휴식을 취하고 있는 중이죠.<br><br>너무 급하게 일을 진행하면 망치는 법이에요. 당신도 그리 바쁘게 움직이지만 말고 여기서 저하고 바다 구경이나 하는 건 어떤가요?" />
+	<block key="dialog_1200132_answer_1_text" korean="이전엔 무슨 일을 하셨습니까?" />
+	<block key="dialog_1200133_title" korean="아하브(은퇴한 기사)" />
+	<block key="dialog_1200133_text0" korean="바다를 바라보며 깊은 생각에 빠지게 되면 과거의 일들이 하나둘씩 떠오른다네. 기뻤던 일도, 슬펐던 일도……." />
+	<block key="dialog_1200133_answer_5_text" korean="뭔가 사연이 있으신가보군요. 제가 도울 일은 없겠습니까?" />
+	<block key="dialog_1200133_answer_6_text" korean="손자분이 할아버지를 굉장히 좋아하는 것 같더군요." />
+	<block key="dialog_1200134_title" korean="이슈멜(아하브의 손자)" />
+	<block key="dialog_1200134_text0" korean="할아버지는 바다를 보면서 무슨 생각을 하시는 걸까요?<br>저는 할아버지가 항상 웃었으면 좋겠는데 할아버지가 웃는 걸 본 게 언제인지 기억이 나질 않아요. 그래서 저도 슬퍼요." />
+	<block key="dialog_1200134_answer_1_text" korean="할아버지가 무슨 생각을 하고 계신 것 같니?" />
+	<block key="dialog_1200134_answer_2_text" korean="부모님은 은둔자의 마을에 계신 거야?" />
+	<block key="dialog_1200135_title" korean="니히츠(전직 보물 사냥꾼)" />
+	<block key="dialog_1200135_text0" korean="큰 건수 하나만 잡으면 나도 보물 사냥꾼에 대한 미련을 버릴텐데 말이오. 그게 참, 하루이틀 허탕친 게 아닌데 미련을 버릴 수가 없단 말이지.<br><br>나하고 큰 거 한번 노려보겠소? 정보는 내가 제공할테니 생각있으면 언제든 찾아오시오." />
+	<block key="dialog_1200135_answer_2_text" korean="보물 사냥꾼 일은 왜 그만두셨습니까?" />
+	<block key="dialog_1200136_title" korean="아인도어(섀도우 클랜)" />
+	<block key="dialog_1200136_text0" korean="섀도우 클랜은 작은 정보라도 허투루 여기지 않고 철저히 조사하는 것을 기본 방침으로 정하고 있습니다. 크로우 님의 신뢰를 받고 계신 [UserName] 님이라면 이정도는 기본이겠죠?" />
+	<block key="dialog_1200136_answer_2_text" korean="이곳은 별것 없어 보이는데..클랜이 정찰을 나온 이유가 있습니까?" />
+	<block key="dialog_1200137_title" korean="제브룬(변절한 주술사)" />
+	<block key="dialog_1200137_text0" korean="타락한 크로쿤이라고 불리는 우리 동지들을 생각하면 가슴이 아픕니다. 그들은 아무 것도 모른채 주술사 마나츠에게 조종당할 뿐인데…….<br>저는 하루라도 빨리 마나츠를 쓰러뜨려서 선량한 크로쿤들이 해방되기를 바랄 뿐입니다." />
+	<block key="dialog_1200138_title" korean="임무 게시판(캠프 A)" />
+	<block key="dialog_1200138_text0" korean="해당 게시판은 그리폰 기사단의 관리하에 있으며 무단으로 게시판을 훼손할 시 그에 상응하는 처벌이 뒤따를 것임.<br><br>그리폰 기사단장 나자히" />
+	<block key="dialog_1200139_title" korean="임무 게시판(하라크로 신전)" />
+	<block key="dialog_1200139_text0" korean="해당 게시판은 그리폰 기사단의 관리하에 있으며 무단으로 게시판을 훼손할 시 그에 상응하는 처벌이 뒤따를 것임.<br><br>그리폰 기사단장 나자히" />
+	<block key="dialog_1200140_title" korean="아이란(전투 주술사)" />
+	<block key="dialog_1200140_text0" korean="지금의 사막 크로쿤들이 잘못된 방향으로 가고있는 것은 맞습니다. 하지만 잘못되었다고 해서 같은 동족이 죽어가는 모습을 맘편히 지켜볼 수 있는 건 아닙니다.<br><br>제가 가진 힘으로는 현 상황에서 큰 변화를 줄 수 없을 겁니다. 그저 온 힘을 다해서 제가 할 수 있는 일을 할 뿐이죠." />
+	<block key="dialog_1200140_answer_5_text" korean="같은 동족끼리의 싸움이라니..슬픈 일이군요." />
+	<block key="dialog_1200140_answer_6_text" korean="사막 크로쿤들과 직접 대면하는 것은 이번이 처음입니까?" />
+	<block key="dialog_1200141_title" korean="론티(그리폰 파견기사)" />
+	<block key="dialog_1200141_text0" korean="현재 상황은 그리폰 기사단에 불리한 편입니다. 하지만 우리 그리폰 기사단원들이 최선을 다하고 있으니 곧 좋은 소식이 들려올겁니다." />
+	<block key="dialog_1200141_answer_2_text" korean="그리폰 기사단과 크로쿤의 전쟁은 불가피한 것입니까?" />
+	<block key="dialog_1200142_title" korean="누챔터(해결사)" />
+	<block key="dialog_1200142_text0" korean="저는 한 번 맡은 일은 절대 실패한 적이 없습니다.<br>한 번 물었으면 그게 고기든 돌이든 상관없으니까 찢어지고 부서질 때까지 물어뜯는 성격이죠.<br><br>뭐, 표현은 이렇게 했지만 일을 처리할 때 한해서 집요하게 파고든다는 말을 하고 싶었던 거고, 제가 그렇게 거친 사람은 아니니까 너무 걱정은 마십시오!" />
+	<block key="dialog_1200142_answer_5_text" korean="해결사? 정확히 무슨 일을 하는지 궁금하군요." />
+	<block key="dialog_1200142_answer_6_text" korean="누구의 의뢰를 받고 움직이는지 물어봐도 되겠습니까?" />
+	<block key="dialog_1200143_title" korean="임무 게시판(크로쿤 병영지구)" />
+	<block key="dialog_1200143_text0" korean="해당 게시판은 그리폰 기사단의 관리하에 있으며 무단으로 게시판을 훼손할 시 그에 상응하는 처벌이 뒤따를 것임.<br><br>그리폰 기사단장 나자히" />
+	<block key="dialog_1200144_title" korean="피리안(은둔자 마을 원로)" />
+	<block key="dialog_1200144_text0" korean="늙고 병들면 누구나 죽기 마련이지만 내가 죽으면 이곳을 찾는 가엾은 사람들은 누가 챙겨주겠어요?<br>평생 걱정만 하면서 살았는데 내 팔자가 그런지 죽기 전까지도 걱정만 하다 갈 모양이네요." />
+	<block key="dialog_1200144_answer_2_text" korean="은둔자의 마을에서 얼마나 지내셨나요?" />
+	<block key="dialog_1200144_answer_3_text" korean="가장 고령이신 것 같은데.." />
+	<block key="dialog_1200145_title" korean="아즈라(그리폰 지원대 기사)" />
+	<block key="dialog_1200145_text0" korean="이곳 주민들은 그저 평범한 주민들은 아닌 것 같습니다. 불사군단의 악마들이 코앞까지 쳐들어 왔는데 누구 하나 동요 하는 사람이 없으니……. 혹시 그들은 죽음을 각오한 게 아닐까요?<br>이유야 어찌됐든 저도 이곳 사람들처럼 평상심을 유지할 수 있다면 좋겠습니다." />
+	<block key="dialog_1200145_answer_2_text" korean="은둔자들에 대한 지원은 어느정도로 이루어지고 있습니까?" />
+	<block key="dialog_1200146_title" korean="닉스(은둔자 마을 주민)" />
+	<block key="dialog_1200146_text0" korean="이, 이거 어쩌면 좋소? 온 사방에 괴물들이 쫙 깔려있어서 도망도 불가능이오!" />
+	<block key="dialog_1200146_answer_1_text" korean="은둔자의 마을은 왜 떠나시려고 한 겁니까?" />
+	<block key="dialog_1200147_title" korean="에길 스튜어트(은둔 기사)" />
+	<block key="dialog_1200147_text0" korean="자신의 실력에 자부심을 갖는 건 좋은 일이네. 하지만 노력없는 자부심은 자부심이 아니라 자만이라고 부르는 게 맞겠지.<br>자네는 상당한 노력가에다가 숱한 실전 경험이 쌓인 역전의 용사처럼 보이는군." />
+	<block key="dialog_1200147_answer_2_text" korean="은둔자의 마을 치안은 누가 담당하는 겁니까?" />
+	<block key="dialog_1200147_answer_3_text" korean="복장을 봐선 은퇴하신 마법사처럼 보이십니다만.." />
+	<block key="dialog_1200148_title" korean="임무 게시판(은둔자의 마을)" />
+	<block key="dialog_1200148_text0" korean="고민이 있거나 혼자서는 해결할 수 없는 문제 때문에 골머리를 앓고 있다면 주저하지 말고 촌장인 레티나를 찾으세요. 당신의 문제를 해결해 드립니다." />
+	<block key="dialog_1200149_title" korean="임무 게시판(사색의 해안가)" />
+	<block key="dialog_1200149_text0" korean="고민이 있거나 혼자서는 해결할 수 없는 문제 때문에 골머리를 앓고 있다면 주저하지 말고 촌장인 레티나를 찾으세요. 당신의 문제를 해결해 드립니다." />
+	<block key="dialog_1200150_title" korean="임무 게시판(불사군단 요새)" />
+	<block key="dialog_1200150_text0" korean="해당 게시판은 그리폰 기사단의 관리하에 있으며 무단으로 게시판을 훼손할 시 그에 상응하는 처벌이 뒤따를 것임.<br><br>그리폰 기사단장 나자히" />
+	<block key="dialog_1200151_title" korean="납치된 치메르(하라크로 신전)" />
+	<block key="dialog_1200151_text0" korean="미약한 힘일지라도 다가오는 비극에 맞서기 위해서라면...<br><br>그대가 지팡이에 담긴 이야기를 들었다면 무언가를 바꿀 수 있을 지도 모르겠습니다.<br>우선 이곳을 빠져나갑시다." />
+	<block key="dialog_1200152_title" korean="나자히(불사군단 요새)" />
+	<block key="dialog_1200152_text0" korean="여기까지 오는데 [UserName], 그대의 공이 컸어. 나와 그리폰 기사단 만으로는 힘들었겠지.<br><br>이제 물러설 곧은 없어!<br>불사군단 놈들을 모두 해치울 때까지 이곳에서 물러서는 일은 없으니 각오를 단단히 해둬!" />
+	<block key="dialog_1200153_title" korean="나자히(불사군단 요새 앞)" />
+	<block key="dialog_1200153_text0" korean="여기까지 오는데 [UserName], 그대의 공이 컸어. 나와 그리폰 기사단 만으로는 힘들었겠지.<br><br>이제 물러설 곧은 없어!<br>불사군단 놈들을 모두 해치울 때까지 이곳에서 물러서는 일은 없으니 각오를 단단히 해둬!" />
+	<block key="dialog_1200154_title" korean="치메르(불사군단 요새 앞)" />
+	<block key="dialog_1200154_text0" korean="지금부터는 각자가 가진 힘을 최대로 발휘해야 할 때입니다. 주저앉고 싶거나, 포기하고 싶을 때가 매 순간 찾아오겠지만 그런 때일수록 용기를 내세요.<br>그리고 천천히 주변을 둘러보면 그대를 도와줄 동료들이 있을 겁니다." />
+	<block key="dialog_1200155_title" korean="치메르(불사군단 요새)" />
+	<block key="dialog_1200155_text0" korean="지금부터는 각자가 가진 힘을 최대로 발휘해야 할 때입니다. 주저앉고 싶거나, 포기하고 싶을 때가 매 순간 찾아오겠지만 그런 때일수록 용기를 내세요.<br>그리고 천천히 주변을 둘러보면 그대를 도와줄 동료들이 있을 겁니다." />
+	<block key="dialog_1200156_title" korean="레티나(불사군단 요새)" />
+	<block key="dialog_1200156_text0" korean="이 길이 제가 가야할 길이라면 두려움 없이 나아갈 겁니다.<br>아니, 어쩌면 치메르 님이 말씀하시던 그 예언이 지금 이루어지고 있는지도 모르겠군요." />
+	<block key="dialog_1200157_title" korean="레티나(불사군단 요새 앞)" />
+	<block key="dialog_1200157_text0" korean="이 길이 제가 가야할 길이라면 두려움 없이 나아갈 겁니다.<br>아니, 어쩌면 치메르 님이 말씀하시던 그 예언이 지금 이루어지고 있는지도 모르겠군요." />
+	<block key="dialog_1200158_title" korean="엔더 에일(은둔자의 마을 해안가)" />
+	<block key="dialog_1200158_text0" korean="제 임무는 비밀입니다. 함부로 말할 수 있는 게 아니라고요." />
+	<block key="dialog_1200158_answer_0_text" korean="치메르님은 어떤 분이신가요?" />
+	<block key="dialog_1200159_title" korean="엔더 에일(불사군단 요새)" />
+	<block key="dialog_1200159_text0" korean="치메르 님을 보호하기 위해서라면 죽음도 불사할 수 있습니다. 그게 바로 저의 사명이죠!" />
+	<block key="dialog_1200160_title" korean="마틴 체이서(은둔자의 마을 해안가)" />
+	<block key="dialog_1200160_text0" korean="지금은 보잘 것 없는 존재처럼 보일 지 모르겠지만 사람은 누구에게나 사명이 있는 법입니다. 단지, 아직은 그 사명을 수행할 때가 아니니 조용히 지내는 것이죠." />
+	<block key="dialog_1200161_title" korean="디마이(불사군단 요새 앞)" />
+	<block key="dialog_1200161_text0" korean="결전의 아침이 밝았습니다.<br>두렵지 않다면 거짓말 이겠죠. 하지만 우리 황금 그리폰 기사단에는 두려움에 굴하는 나약한 사람은 단 한 명도 없습니다.<br>두려움을 이겨내고 앞으로 전진하는 겁니다!" />
+	<block key="dialog_1200162_title" korean="바트혼(크로쿤 병영 지구)" />
+	<block key="dialog_1200162_text0" korean="모름지기 전사라면 전장의 선두에 서는 것을 자랑스럽게 여기는 법! 어떤 어려움이 닥쳐도 물러섬은 없다." />
+	<block key="dialog_1200163_title" korean="바트혼(불사군단 요새)" />
+	<block key="dialog_1200163_text0" korean="불사군단 녀석들과 본격적인 전투가 시작되면 선두는 내가 맡겠다. 자랑스러운 크로쿤 전사의 용맹함을 보여주지!" />
+	<block key="dialog_1200164_title" korean="라크렌(크로쿤 병영지구)" />
+	<block key="dialog_1200164_text0" korean="안타깝군요. 크로쿤의 본질을 잃어버린 크로쿤은 크로쿤이 아닙니다. 동족을 죽여야 하는 게 가슴 아프지만… 어쩔 수 없는 일입니다." />
+	<block key="dialog_1200165_title" korean="라크렌(불사군단 요새)" />
+	<block key="dialog_1200165_text0" korean="이 녀석들이 바로 모든 사건의 원흉! 반드시 몰살시켜서 죽어간 동족들의 넋을 달래줄 겁니다." />
+	<block key="dialog_1200166_title" korean="카몬(은둔자의 마을)" />
+	<block key="dialog_1200166_text0" korean="전 조용한 걸 즐기는 편이죠. 그런 면에서 보자면 은둔자의 마을은 저에게 아주 훌륭한 보금자리죠.<br>힘들고 지쳤다면 여기서 한숨 돌리고 가세요. 쉬지 않고 달리기만 한다면 지쳐 쓰러지고 마니까요." />
+	<block key="dialog_1200167_title" korean="카몬(불사군단 요새)" />
+	<block key="dialog_1200167_text0" korean="전에 말 안했었나요? 제가 한 때는 정말 잘 나가는 기사였다고.<br>모르셨다면 바로 오늘 보게 되실 거예요. 불사군단의 막되먹은 놈들을 상대하는 제 모습을 말이죠." />
+	<block key="dialog_1200168_title" korean="그리폰 기사단 리아 벤(크로쿤 병영지구)" />
+	<block key="dialog_1200168_text0" korean="결전을 앞두고 나자히님께 실망을 안겨 드렸지만 슈페른의 복수를 위해서라도 다시 힘을 내야죠!<br>반드시 병영지구의 크로쿤들을 처단하고, 그리폰 기사단을 승리로 이끌겠어요!" />
+	<block key="dialog_1200169_title" korean="그리폰 기사단 리아 벤(불사군단 요새 앞)" />
+	<block key="dialog_1200169_text0" korean="드디어 불사군단의 요새까지 왔어요.<br>새로운 그리폰을 길들이는 게 쉽지는 않았지만 저도 황금 기사단원으로서 충분히 제 몫을 할 수 있다는 걸 보여드릴게요." />
+	<block key="dialog_1200170_title" korean="투로칸(불사군단 요새)" />
+	<block key="dialog_1200170_text0" korean="우리 종족의 원수! 무슨 일이 있어도 이놈들 만큼은 반드시 박살을 내버려야 하네." />
+	<block key="dialog_1200171_title" korean="투로칸(불사군단 요새 앞)" />
+	<block key="dialog_1200171_text0" korean="불사군단 놈들! 나 투로칸이 네놈들을 가만두지 않겠다!" />
+	<block key="dialog_1200172_title" korean="치메르(은둔자의 마을)" />
+	<block key="dialog_1200172_text0" korean="예언가라고 해서 모든 것을 알 수 있는 것은 아닙니다. 그저 어둠 뒤에 찾아오는 새벽에 대해서 알고 있을 뿐…….<br><br>세상의 모든 일이 예언대로 흐르는 것은 아닙니다.<br><br>그런 일이 가능하다면 그건 신을 초월한 존재일 겁니다." />
+	<block key="dialog_1200173_title" korean="그리폰 기사단장 나자히(병영 지구)" />
+	<block key="dialog_1200173_text0" korean="나는 황금 그리폰 기사단장 나자히다. 자신의 강함을 증명하고자 한다면 말로서가 아니라 실전에서 보여주길 바란다.<br><br>말만 많은 놈들은 전장에 서는 순간 그 본 모습이 나타나는 법이지. 그대가 사막 크로쿤 처럼 말만 앞서고 악행만 저지르는 겁쟁이가 아니길 바란다." />
+	<block key="dialog_1200174_title" korean="벨두(콜렉터)" />
+	<block key="dialog_1200174_text0" korean="은둔자의 마을은 펠로우를 연구하는데 아주 좋은 장소입니다. 외부의 방해를 받지 않고 오로지 펠로우 연구에만 몰두 할 수 있는 환경이 아니겠습니까?<br><br>당신도 펠로우를 다루는 사람이라면 저희를 도와서 연구를 진행해 보시겠습니까?" />
+	<block key="dialog_1200174_answer_2_text" korean="콜렉터는 무슨 단체입니까?" />
+	<block key="dialog_1200174_answer_3_text" korean="펠로우 마스터 바인데르에 대해 알고싶습니다." />
+	<block key="dialog_1200175_title" korean="바렌트(던전)" />
+	<block key="dialog_1200175_text0" korean="서둘러 요새 안으로 진입하도록 하죠! 안내는 제가 하겠습니다.<br>반드시 공주님을 구출하고, 요새 기동을 막아야합니다." />
+	<block key="dialog_1200210_title" korean="섀도우 클랜 엘레나(브라기 광산)" />
+	<block key="dialog_1200210_text0" korean="당신에 대한 크로우 단장의 신뢰가 상당하다는 걸 다른 대원들에게 들어서 알고 있습니다. 당신의 실력이 소문만큼 대단한지 제게도 보여주시길 바랍니다." />
+	<block key="dialog_1200176_title" korean="혹시 라니아 공주님에 대해 아는 것이 있습니까?" />
+	<block key="dialog_1200176_text0" korean="라니아 공주님의 행방은 알세크 경비대에서 알고있지 않을까? 커티스 대장이 공주님을 봤다고 들은 것 같은데..기억이 가물가물하네. 난 그저 옛날 얘기밖에 몰라.<br><br>불사의 사막이 창조되던 고대 시기에 불안정한 땅의 균형을 조율할 목적으로 만들어진 기둥이 있어. 4대 원소의 기둥이라고 사람들은 불렀지." />
+	<block key="dialog_1200176_text0_attach_0" korean="<br><br>하지만 어느 날인가 작동을 멈췄고 강력한 마력에 의해서만 복원할 수 있다더군. 그때였나? 라니아 공주님이 사막에 방문했던 적이 있었는데 기둥의 <font color="#3ec1d0">복원</font> 작업을 하시려고 했다던데..헌데 공주님이 실종되고 나서는 기둥의 복원 작업은 물 건너갔지 뭐.<br><br>뭐라더라? 그만한 마력을 지닌 사람이 없다나 뭐래나.." />
+	<block key="dialog_1200177_title" korean="이곳에서 마을 주민들을 돕는 이유를 들을 수 있을까요?" />
+	<block key="dialog_1200177_text0" korean="저는 그저 세상을 돌며 여신의 가르침을 따르는 순례자에 불과했습니다. 하지만 수도성에 잠시 머물렀을 때의 일이었어요.. 당시 원인을 알 수 없는 전염병이 돌아 신관들도 환자를 돌보는데 소극적이었죠.<br><br>하지만 단 한명만은 달랐습니다. 바로 전염병에 걸린 환자를 코앞에서 간호하던 <font color="#3ec1d0">라니아</font> 공주님이었어요. 부끄럽게도 저는 라니아 공주님의 모습을 먼발치에서나마 잠시 볼 뿐이었요." />
+	<block key="dialog_1200177_text0_attach_0" korean="<br><br>그분의 인자한 미소와 남다른 선행, 그리고 희생 정신은 제 자신을 돌아볼 수 있는 계기가 되었죠. 그랬던 공주님이..어서 하루라도 빨리 라니아 공주님이 수도성으로 무사히 돌아가실 수 있기를 기도할 뿐입니다." />
+	<block key="dialog_1200178_title" korean="마을 중앙에 우물이 있던데.." />
+	<block key="dialog_1200178_text0" korean="주민들은 마을 중앙의 우물에 있는 물을 식수로 사용했었습니다. 하지만 용병단이 마을을 약탈하는 과정에서 우물에 특수한 약품을 살포했다는 군요.<br><br>물 색깔이 투명한 것을 보면 분명 독은 아니라고 하는데..어쨌거나 지금으로서는 그 우물의 물을 마실 생각은 하지 않는 것이 좋을 것 같아요." />
+	<block key="dialog_1200179_title" korean="주변의 치안은 어떻습니까?" />
+	<block key="dialog_1200179_text0" korean="폐허가 된 신전 앞은 사막 벌의 여왕 <font color="#3ec1d0">하브퀸</font>과 그녀의 군대라고밖에는 표현할 수 없는 병정벌이 활개를 치고 있습니다.<br><br>그리폰 기사단에선 치안 확보 차원에서 저를 파견했지만 저 혼자만으로는 다소 무리입니다.<br>하지만 당신처럼 강한 힘을 지닌 모험가들이 도와준다면 이 지역의 안전을 지키는데 큰 도움이 될 것입니다." />
+	<block key="dialog_1200180_title" korean="이곳에서 뭘 하시는 겁니까?" />
+	<block key="dialog_1200180_text0" korean="불사군단이라는 녀석들이 제법 흥미로운 실험을 하는 것 같길래 조금 구경이라도 하려고 왔지.<br><br>마치 역병과 같은 효과를 발휘하는 저주의 주술이라니..아주 재밌는 광경이 아닌가라는 생각이 드는군." />
+	<block key="dialog_1200181_title" korean="빛과 어둠으로 사람을 표현한다면 당신은 어둠에 가까운 것 같습니다." />
+	<block key="dialog_1200181_text0" korean="어둠..어둠은 내게 굉장히 친숙한 단어지. 그곳에서 태어났고 그곳에서 살아왔으니 말이야. 하지만 그 세계를 버린지 너무도 오래 되었어. 나와 같은 힘을 지녔던 동료들은 아주 강한 적과 싸우고 있는데 어쩐지 난 이제 흥미를 잃어버렸거든." />
+	<block key="dialog_1200181_text0_attach_0" korean="<br><br>멸망의 공역에서 그 적과 싸우다 죽은 <font color="#3ec1d0">그녀</font>만 불쌍할 뿐이지. 그녀는 자신이 뭔가 대단한 일을 했다고 생각할지 모르겠지만..내 생각엔 그저 헛된 희생이었다고 말해주고 싶군." />
+	<block key="dialog_1200182_title" korean="당신에게서 묘한 기운이 느껴집니다. 당신은 인간입니까? 아니면.." />
+	<block key="dialog_1200182_text0" korean="묘한 기운이라..왜 내게서 암흑의 마력이라도 느껴지나? 
+그런 기운을 느낄 수 있다는 것도 제법 흥미롭군. 내 기운이 정확히 뭔지는 잘 모르는 것 같다만 위화감을 느끼는 것도 보통의 감각은 아니로군.<br><br>그래, 자네가 보기엔 내가 악마같나? 만약 나를 악마로 본다면 나는 악마일테지. 인간으로 본다면 인간일테고 신으로 본다면 신이 되겠지. 자..이젠 내가 뭘로 보이나?" />
+	<block key="dialog_1200183_title" korean="투로칸님이 불사의 사막에 오셨습니까?" />
+	<block key="dialog_1200183_text0" korean="투로칸님은 불사의 사막에서 불사군단에 협력하고 있는 사막 크로쿤을 벌하기 위해 이미 <font color="#3ec1d0">크로쿤 병영지구</font>쪽으로 향하셨습니다.<br><br>저는 이곳을 지나다 하라크로 신전 역시 사막 크로쿤들이 주둔하고 있다는 것을 알곤 남게 되었습니다. 배후에서 일이 벌어지면 투로칸님이 위험해질테니 전 이 자리를 지키고 있을 생각입니다." />
+	<block key="dialog_1200184_title" korean="죽음의 그늘에서 대체 어떤 일이 벌어지고 있는 겁니까?" />
+	<block key="dialog_1200184_text0" korean="불사군단이 죽음의 그늘이라 불리는 이 지역을 중심으로 광범위하게 어떤 주술을 실험하는 것 같습니다.<br><br>정확히는 주술의 일종인데 퍼지는 속도, 감염으로 인한 신체의 변화등이 마치 역병을 연상케하여 이 지역 주민들은 <font color="#3ec1d0">역병</font>이라고 표현하더군요." />
+	<block key="dialog_1200185_title" korean="크로쿤과 사막 크로쿤은 한 종족이 아닙니까?" />
+	<block key="dialog_1200185_text0" korean="크로쿤의 역사를 거슬러 올라가면 모두가 주신 네르헤스님에 의해 탄생한 존재입니다. 다만 모든 크로쿤의 고향인 <font color="#3ec1d0">크레산시아 섬</font>을 잃은 후로 지금껏 크로쿤들은 각각 갈라져 계보가 나뉘어졌습니다." />
+	<block key="dialog_1200185_text0_attach_0" korean="<br><br>사막 크로쿤이 불사의 사막에 정착했던 초창기에는 크로쿤들의 교류가 다소 있었다고 합니다. 하지만 그 교류도 오래가지 못했죠.<br><br>지금에와서는 그들의 사상조차 알지 못하니 모습만 같을 뿐 전혀 다른 세상의 존재들이 되어버렸습니다." />
+	<block key="dialog_1200186_title" korean="클랜이 있는 것을 보니..이곳 역시 뭔가 일이 생긴 모양이로군요?" />
+	<block key="dialog_1200186_text0" korean="고대의 사원에 봉인되었던 파괴의 언어를 간악한 카브임 교단이 손에 넣으려고 했던 사실을 기억하시겠죠? 그 파괴의 언어 일부가 이미 밖으로 유출되었습니다.<br><br>제가 찾고 있는 자의 이름은 흑마술사 <font color="#3ec1d0">파시트</font>, 고대의 사원을 점령했던 니바르의 동료라고 들었습니다. 그자가 분명 유출된 파괴의 언어 석판을 지니고 있을텐데.." />
+	<block key="dialog_1200187_title" korean="그리폰 기사단과 사막 크로쿤의 관계는 어떻습니까?" />
+	<block key="dialog_1200187_text0" korean="우리 그리폰 기사단과 사막 크로쿤의 관계라..그들과의 관계를 한마디로 정의하긴 어려우나..최소한 아군이 아니라는 것쯤은 분명합니다. 타락할대로 타락한 사막 크로쿤과 우리 관계는 지속적으로 악화되고 있습니다.<br>특히 그들이 황금 봉우리에 저지르고 있는 <font color="#3ec1d0">패악</font>은 차마 입에 담지도 못할 겁니다." />
+	<block key="dialog_1200187_text0_attach_0" korean="<br><br>자신들은 동맹이라고 주장하지만 불사군단의 하수인이나 다름없는 비열한 존재들..그것이 사막 크로쿤에 대한 제 생각입니다. 아니, 그리폰 기사단 전체의 생각이나 다름 없죠. 사막 크로쿤과의 관계가 점차 악화되고 있으니 이제 무슨 일이 벌어질지는 어린 아이라도 예상할 수 있지 않겠습니까?" />
+	<block key="dialog_1200188_title" korean="카르라무 교관은 당신을 최고의 기사라고 칭찬하던데.." />
+	<block key="dialog_1200188_text0" korean="교관님이 그런 말을 하셨습니까? 저는 아직도 한참 부족하다고 생각하는데 쓸데없는 말씀을..교관님이 저를 높게 평가해주시는 것은 좋지만 다소 부담스러운 칭찬입니다. 그리폰 기사단엔 저를 제외하고도 유능한 인재가 많습니다.<br><br>특히 리아 벤의 그리폰 교감 능력은 누구나 인정하고 있죠. 제가 듣기론 위대한 켄 그리프 왕께서도 리아 벤을 좋게 보시고 있다고 합니다." />
+	<block key="dialog_1200189_title" korean="사막 크로쿤을 배신한 특별한 이유라도 있습니까?" />
+	<block key="dialog_1200189_text0" korean="사막 크로쿤들은 잘못된 길을 가고 있네. 난 그 원인이 바로 <font color="#3ec1d0">대주술사 마나츠</font> 때문이라고 생각하네. 그릇된 망상으로 가득찬 지도자가 우리를 지휘했기 때문이지.<br><br>우리 사막 크로쿤은 본래 명예를 중시하였는데 한낱 악마들과 손을 잡으려 하다니 이 무슨 말도 안되는 일이냔 말인가?" />
+	<block key="dialog_1200189_text0_attach_0" korean="<br><br>우리의 명예가 고작 음험한 악마들과 어깨를 나란히 할 수준이라면..난 배신자 소리를 듣더라도 사막 크로쿤의 잘못을 바로 잡고 싶네." />
+	<block key="dialog_1200190_title" korean="사막 크로쿤에 대해 알고 싶군요." />
+	<block key="dialog_1200190_text0" korean="본래 우리 사막 크로쿤은 풍요로운 <font color="#3ec1d0">크레산시아 섬</font>에서 태어나고 살아왔네. 하지만 대재앙으로 인하여 우리의 고향이 깊은 해저로 가라앉게 되었지.<br><br>우리는 눈물을 머금고 고향을 등질 수 밖에 없었네. 그때 많은 크로쿤들이 갈라져 어떤 이들은 하카나스 왕국령에 정착했고, 어떤 이들은 파르나의 땅에서 터전을 만들고..우리는 이곳 불사의 사막으로 이주했네." />
+	<block key="dialog_1200190_text0_attach_0" korean="<br><br>과거엔 모든 크로쿤이 하나였을지 몰라도 지금은..다르다네. 생김새만 같을 뿐 전혀 다른 민족이라고 봐야지." />
+	<block key="dialog_1200191_title" korean="무러미가 이곳까진 무슨 일로 오셨습니까?" />
+	<block key="dialog_1200191_text0" korean="파르나의 땅에서 크로쿤과 협력 관계를 맺은 후, 투로칸 족장이 무러미에게 도움을 요청했습니다.<br>하지만 서리군단이 쓰러지고 나서 우리 무러미들도 파르나의 땅을 정화시키는 작업으로 바빠지게 되었죠.<br><br>대부분의 무러미 주술사들은 대제사장 안타리온님의 지휘 아래 그 작업에 참여하고 있을 겁니다.<br>그런 사정을 투로칸 족장 역시 모르는 바가 아닙니다." />
+	<block key="dialog_1200191_text0_attach_0" korean="<br><br>투로칸 족장이 인솔하는 <font color="#3ec1d0">사막 원정대</font>에 따라나선 무러미는 일단 저 뿐인 것 같군요." />
+	<block key="dialog_1200192_title" korean="그리폰 기사단과 크로쿤의 전쟁은 불가피한 것입니까?" />
+	<block key="dialog_1200192_text0" korean="그리폰 기사단의 생각은 모두 같습니다. 사막 크로쿤과 우리 그리폰 기사단은 철천지 <font color="#3ec1d0">원수</font>입니다.<br><br>둘 중 하나가 쓰러지지 않는 한 이 관계는 끝나지 않을 것입니다. 전쟁은 이미 시작된 것이나 다름 없습니다." />
+	<block key="dialog_1200193_title" korean="해결사? 정확히 무슨 일을 하는지 궁금하군요." />
+	<block key="dialog_1200193_text0" korean="제가 무슨 일을 하냐구요? 간단합니다.<br>누군가 자신의 힘으로는 감당 못할 문제를 떠안고 있을 때, 나타나서 그 문제를 깔끔하게 해결해주는 것.<br><br>그게 바로 제 직업이죠. 물론 그 문제가 해결되었는지, 그 과정이 깔끔한지는 각자의 판단이란 것이 있기 때문에 평가는 다르긴 하죠." />
+	<block key="dialog_1200194_title" korean="누구의 의뢰를 받고 움직이는지 물어봐도 되겠습니까?" />
+	<block key="dialog_1200194_text0" korean="의뢰인이야 늘 다르죠. 언제나 같은 의뢰인만 받으면 그게 어디 해결사인가요? 그냥 그 의뢰인 부하죠.<br>어쨌거나 의뢰인의 신분 노출은 이 바닥에선 절대 금기니 행여나 알려고 하지마십시오. 저도 곤란해지니까.<br><br>어쨌든 뭐 좋은 일 아니겠습니까? 선량한 사람을 건드리는 것도 아니고 불사군단에 협조하는 타락한 사막 크로쿤이니 말입니다." />
+	<block key="dialog_1200195_title" korean="같은 동족끼리의 싸움이라니..슬픈 일이군요." />
+	<block key="dialog_1200195_text0" korean="슬픈 일입니다. 투로칸 족장님께서 사막으로 떠나는 원정대를 모집하실 때도 다수의 크로쿤들이 이러한 비극에 눈물 흘렸습니다.<br><br>하지만 그들이 불사군단에 협조하며 그릇된 길로 빠지는 것을 방치할 수도 없습니다. <font color="#3ec1d0">동족상쟁</font>의 아픔을 겪고서라도 우리 크로쿤들은 명예를 지켜야 합니다." />
+	<block key="dialog_1200196_title" korean="사막 크로쿤들과 직접 대면하는 것은 이번이 처음입니까?" />
+	<block key="dialog_1200196_text0" korean="크로쿤들의 고향, 크레산시아 섬에서 떠난 이후로 모든 크로쿤들은 각자가 정착한 곳에서만 살아왔습니다.<br>과거엔 다소 교류를 했는지 몰라도 이젠 서로에 대해 전혀 아는 바가 없죠. 그들과 만나는 것 역시 이루어질 수 없었는데 이제야 만나게 되는군요.<br><br>다만 한가지 마음에 걸리는 것은..적으로 만날 수 밖에 없는 운명이라는 것이 야속할 뿐입니다." />
+	<block key="dialog_1200197_title" korean="은둔자의 마을은 왜 떠나시려고 한 겁니까?" />
+	<block key="dialog_1200197_text0" korean="사람들 모두가 각자 사연이란게 있는 법이잖소. 나도 사연 하나쯤은 있지. 잊고 싶은 과거라던지..뭐 그런거 말이오. 처음엔 은둔자의 마을에 오면 모든 것을 잊고 살아갈 수 있다고 생각했소.<br><br>실제로도 은둔자의 마을에 정착한 첫해는 꽤 괜찮았지. 그런데 1년, 2년이 지나고 나니 마을에 있는 것이 답답해지기 시작했고..난 아무래도 세상 밖으로 나가야할 몸인가라는 생각이 들지 않겠소?" />
+	<block key="dialog_1200197_text0_attach_0" korean="<br><br>그래서 마을을 떠나기로 마음 먹고 나왔지! 아주 자신있게 나왔는데..주변을 보시오. 세상이 무섭다는게 새삼 느껴지더란 말이지 뭐요..그래서 지금은 생각이 바뀌었소.." />
+	<block key="dialog_1200198_title" korean="과거에 어떤 일을 하셨는지 말해주실 수는 없습니까?" />
+	<block key="dialog_1200198_text0" korean="과거라..내가 이곳에 온지 하도 오래되나서 말이야. 이젠 내가 뭘 했는지 기억도 가물가물하군. 그래..옛날. 그때는 장밋빛 미래를 꿈꿨지.<br><br>촉망받는 마법사. 부와 권력을 손에 쥘 수 있을 것만 같았네. 하지만 그런 것들이 다 부질 없다는 사실을 깨닫기 까진 그리 오래 걸리지 않았네." />
+	<block key="dialog_1200198_text0_attach_0" korean="<br><br>진리의 마법사회는 겉으론 공명정대하게 정의를 수호하는 집단으로 알고있지만 실상은 그렇지 못하다네.<br>질투와 교만으로 가득한 곳이지. 물론 모든 진리의 마법사들이 그렇다는 것은 아니야. 하지만 지니고 있는 <font color="#3ec1d0">엘리트 정신</font>이 스스로를 그렇게 몰아가는 거야.<br><br>그런 시기와 야욕이 교차되는 곳에서 나는 거부감을 느꼈네. 그리고 이곳으로 와서 쭉 살았지." />
+	<block key="dialog_1200199_title" korean="이곳엔 어쩐 일로 오시게 된 겁니까?" />
+	<block key="dialog_1200199_text0" korean="사막 크로쿤이 실추시킨 크로쿤에 대한 불명예를 회복하기 위해 파르나의 땅에 있는 크로쿤들은 사막 원정대를 구성하였습니다.<br>저 역시 사막 원정대의 일원이지만 이곳에 도착한 것은 더 오래 전입니다.<br><br>족장님은 사막에 처음 가게 된다면 사막 크로쿤과 똑같은 외모 덕에 주변의 많은 오해를 살거라고 하셨습니다." />
+	<block key="dialog_1200199_text0_attach_0" korean="<br><br>그래서 주변을 돌아다니며 우리의 방문을 알리라 하셨죠. 일종의 <font color="#3ec1d0">사절</font>인 셈이죠. 그래서 이곳 은둔자의 마을에 왔는데 마을은 누군가의 도움이 필요한 곳들이 더러 보이더군요.<br>그래서 제가 힘이 되어줄 수 있는 것이 없을까 하여 이곳에 아직 머물고 있습니다." />
+	<block key="dialog_1200200_title" korean="은둔자의 마을에서 얼마나 지내셨나요?" />
+	<block key="dialog_1200200_text0" korean="나는 이곳에서 태어나고 이곳에서 죽을 사람이에요. 평생을 이곳에서 보냈죠.<br>바깥 세상이 어떤지 구경조차 한 적이 없어요. 어릴 적엔 그렇게 궁금했던 바깥 세상..이젠 알고 싶지도 않고 말이죠. 밖으로 나가면 뭘 할 수 있겠어요?" />
+	<block key="dialog_1200201_title" korean="가장 고령이신 것 같은데.." />
+	<block key="dialog_1200201_text0" korean="나와 동년배였던 사람들 모두 먼저 세상을 등졌어요. 이젠 젊은이 말처럼 내가 은둔자의 마을에서 가장 어른일거에요. 세상을 살아가는데에는 지혜가 필요한 법인데 나는 나이만 먹었을 뿐 지혜가 부족하니..마을 대표에게 힘이 되어주지 못해 마음이 걸리는군요.<br><br>하지만 레티나 볼켄은 나이는 어려도 아주 <font color="#3ec1d0">총명</font>한 아이에요. 그래서 그 아이를 보면 내 걱정도 조금은 사라지곤 하고 말이죠." />
+	<block key="dialog_1200202_title" korean="은둔자들에 대한 지원은 어느정도로 이루어지고 있습니까?" />
+	<block key="dialog_1200202_text0" korean="은둔자의 마을이 지닌 힘은 불사군단과의 싸움에서 유용한 전력은 아닙니다. 오히려 이들은 강력한 보호를 받아야 마땅합니다.<br><br>불사군단 요새와 지근거리에 있어 그동안 이들이 받았을 고통은 이루 말할 수 없을 겁니다. 어쩌면 이들이 불사군단 요새를 막아주는 일종의 방파제 같은 역할을 해오고 있었던 것은 아닐까요?" />
+	<block key="dialog_1200202_text0_attach_0" korean="<br><br>그러한 이들의 처지에 우리 그리폰 기사단은 도의적인 <font color="#3ec1d0">책임감</font>을 느끼고 있습니다. 이때문에 우리 기사단은 은둔자의 마을 치안 확보에 필요한 기사 파견과 물자 공급등을 통해 은둔자의 마을을 지원하려 합니다." />
+	<block key="dialog_1200203_title" korean="은둔자의 마을 치안은 누가 담당하는 겁니까?" />
+	<block key="dialog_1200203_text0" korean="과거엔 <font color="#3ec1d0">아하브</font>가 마을의 치안을 담당했네. 아니, 담당했다기 보다는 마을 대표인 레티나 볼켄의 조언자 같은 역할을 해주었지. 헌데 아하브가 사고로 딸을 잃..음..잠시 내가 쓸데 없는 이야기를 할 뻔했군.<br>방금 이야기는 잊어주게. 어쨌든 마을의 치안은 자네가 보는 것처럼 우린 특별히 자경단을 운영하지 않네." />
+	<block key="dialog_1200203_text0_attach_0" korean="<br><br>자네의 눈엔 이곳에 있는 사람들이 그저 늙거나 볼품 없는 사람처럼 보일지도 모르지. 하지만 이들의 과거를 모두 알게되면 행여나 그런 생각은 하지 못할 걸세.<br><br>그리폰 기사단이 지원대를 보내 기사들을 파견해주겠다는 이야기가 오고 간다던데..그 아이들 실력을 보아하니 나쁘진 않더군. 마을의 치안 확보에 큰 도움이 될게야." />
+	<block key="dialog_1200204_title" korean="복장을 봐선 은퇴하신 마법사처럼 보이십니다만.." />
+	<block key="dialog_1200204_text0" korean="하하! 난 마법과는 거리가 먼 사람이네. 과거엔 검 좀 쓴다고 생각하며 우쭐거리던 기사에 지나지 않았고, 지금은 헛된 희망은 버리고 이곳에 은거하며 사는 늙은이일 뿐이야.<br><br>과거엔 화려한 수도성의 생활을 그토록 원한 적이 있었는데..참으로 알다가도 모를 일이 아닌가? 이젠 이 낡고 초라한 은둔자의 마을만큼 마음이 편해지는 곳도 없으니 말일세." />
+	<block key="dialog_1200204_text0_attach_0" korean="<br><br>겉으론 화려해보여도 그 내부에 썩고 곪은 곳이 한 둘이 아닌 수도성보다 이곳이 더 잘 어울리는 사람이네. 나란 사람은 말이야.. 못난 내 자식은 아직도 수도성에서 <font color="#3ec1d0">내무관리직</font>을 그만두지 않고 있지. 그녀석도 언젠가 단꿈에서 깨면 이곳을 찾아올지도 모를 일이야." />
+	<block key="dialog_1200205_title" korean="이전엔 무슨 일을 하셨습니까?" />
+	<block key="dialog_1200205_text0" korean="무슨 일이라뇨? 전 은둔자의 마을에 정착하기 전에도 특별한 직업따윈 없었어요. 일이란게 말이죠.<br>얼마나 귀찮은 줄 알아요? 전 말이죠. 일하는 것과는 좀처럼 어울리지 않는다니깐요?<br><br>어떤 것이든 급하게 서두를 것 없이 여유롭게 삶을 즐기는 것. 그게 바로 제가 꿈꾸는 진정한 삶이죠.<br><br>음..근데 배가 좀 고픈 걸? 뭐라도 좀 사서 먹어볼까?<br>..아, 그러고보니 난 돈이 없지.." />
+	<block key="dialog_1200206_title" korean="사막에서 낚시라니..도무지 어울리지 않는 것 같군요." />
+	<block key="dialog_1200206_text0" korean="낚시에 대해서 뭘 좀 아시오? 뭘 알고나 물어봐야지..<br>진정한 낚시꾼은 터가 좋고 나쁨을 가리는 법 따윈 모르는 일이오. 게다가 여긴 사색의 해안가란 말이지.<br><br>물고기 따윈 넘쳐나고 어디 그뿐인가. 주변을 보시오. 거북이들을 보셨소? 저 녀석들 고기도 꽤 맛이 좋지." />
+	<block key="dialog_1200207_title" korean="보물 사냥꾼 일은 왜 그만두셨습니까?" />
+	<block key="dialog_1200207_text0" korean="보물 사냥꾼 일이란 것은 말이오. 유일한 수입원이 바로 보물을 찾아야한다는 것이 가장 큰 문제요.<br><br>난 보물을 찾는 재주가 별로였지. 보물 찾으러 다닌답시고 날려먹은 경비 손실이 더 크다보니 뭐 자연스레 손을 놓아버렸지 뭐요." />
+	<block key="dialog_1200208_title" korean="이곳은 별것 없어 보이는데..클랜이 정찰을 나온 이유가 있습니까?" />
+	<block key="dialog_1200208_text0" korean="최근 사색의 해안가 근처에서 정체를 알 수 없는 붉은 구체가 발견되고 있다는 정보를 입수했습니다.<br>은둔자의 마을 주민들은 그것을 <font color="#3ec1d0">해안가의 태양</font>이라고 부른다더군요. 저는 불사군단 요새와 가까운 이곳이라면..그 태양이라 불리는 붉은 구체가 불사군단과 깊은 연관이 있을 것이라 여기고 있습니다." />
+	<block key="dialog_1200208_text0_attach_0" korean="<br><br>아마도 불사군단이 획책하고 있는 어떠한 계획의 일환이지 않겠습니까? 그들이 죽음의 그늘에서 실험한 역병의 주술도 그렇고 또 어떤 일을 벌일지 알 수 없는 놈들이니 말입니다." />
+	<block key="dialog_1200209_title" korean="할아버지가 무슨 생각을 하고 계신 것 같니?" />
+	<block key="dialog_1200209_text0" korean="할아버지는 늘 바다를 보면서 한숨만 쉬어요. 뭔가 큰 걱정이 있으신 것 같아요.<br><br>하지만 물어봐도 전혀 대답을 해주질 않으세요. 전 할아버지가 예전처럼 밝게 웃으셨으면 좋겠어요!" />
+	<block key="dialog_1200211_title" korean="부모님은 은둔자의 마을에 계신 거야?" />
+	<block key="dialog_1200211_text0" korean="아빠랑 엄마 모두 여신님의 품으로 돌아갔어요. 할아버지 말로는 제가 아주 아기 때, 마을에 역병이 돌았었다고 하셨어요. 그때 엄마, 아빠 모두 역병에 걸리셨다고 했어요..하지만 전 괜찮아요!<br><br>여신님은 마음씨 좋은 사람들에게 천상의 일을 돕게하실 생각으로 더 일찍 부르신대요! 분명 엄마랑 아빠는 여신님 곁에서 잘 지내고 계실거에요..분명.." />
+	<block key="dialog_1200212_title" korean="뭔가 사연이 있으신가보군요. 제가 도울 일은 없겠습니까?" />
+	<block key="dialog_1200212_text0" korean="사연없는 사람이 어디 있겠나? 다 각자만의 짐을 짊어지고 사는게지..나 역시 내가 짊어져야할 짐의 <font color="#3ec1d0">무게</font>를 감당하지 못하고 있는 것 뿐이네.<br><br>내가 지키지 못한 것들에 대한 미련, 책임..이곳 사색의 해안가에서 내 생각들을 떨쳐버리고 싶지만 내 생각처럼 되지는 않는구만." />
+	<block key="dialog_1200213_title" korean="손자분이 할아버지를 굉장히 좋아하는 것 같더군요." />
+	<block key="dialog_1200213_text0" korean="이슈멜은 아주 밝은 아이네. 하지만 녀석을 볼 때면 늘 마음 한 구석이 아프다네.<br><br>먼저 떠나 보낸 내 딸 아이가 생각이 나니 말일세..그 아이가 그렇게 세상을 등지지만 않았어도 이슈멜은..모두 내 부덕의 소치지." />
+	<block key="dialog_1200214_title" korean="정말 아무것도 떠오르는 것이 없니?" />
+	<block key="dialog_1200214_text0" korean="네..뭔가 생각이 날 것 같으면서도 기억을 떠올리려고 하면 다시 흐릿해지는 기분이 들어요.<br>..아! 아주 잠깐이지만 몇가지 익숙한 장면들이 머리 속에 떠오르는 것 같아요. 깨진 조각같아요.<br><br>제 옷..인형..그리고 제 얼굴이 그려진 초상화..이런 것들이 기억나요. 제가 잃어버린 <font color="#3ec1d0">물건</font>들이 아닐까요?<br>이것들이 있으면 제 기억을 찾을 수 있을 것만 같아요." />
+	<block key="dialog_1200215_title" korean="조각을 하기엔 이곳은 안전하지 않은 것 같습니다만.." />
+	<block key="dialog_1200215_text0" korean="위험한 곳이라는 소문은 저도 익히 들어서 알고있습니다. 하지만 제가 꼭 찾아야만 하는..조각 작품이 이 망각의 모래사장에 있다는 이야길 들어서 올 수 밖에 없었습니다." />
+	<block key="dialog_1200216_title" korean="특별히 만들고 싶은 조각이라도 있습니까?" />
+	<block key="dialog_1200216_text0" korean="조각가들 사이에선 명인으로 유명한 클로델이 만든 조각을 뛰어넘는 그런 조각..그런 조각을 만들고 싶습니다. 하지만 그의 그림자가 제게는 너무도 크군요..<br><br>그는 존경받는 조각가이지만 그가 없었다면..아니, 그의 작품이 존재하지 않았다면..하..나는 이렇게도 옹졸한 사람이었나.." />
+	<block key="dialog_1200217_title" korean="이곳에 숨겨진 보물들이 많습니까?" />
+	<block key="dialog_1200217_text0" korean="사막의 뜨겁고 거친 모래 아래를 마치 바다처럼 유영하며 사막을 지배했던 태고의 괴수 샌드웜에 대해서 알고 있어요? 한때 사막을 가로질러 교역을 하던 많은 상단이 모래 사장 아래를 자유롭게 돌아다니며 불식간에 나타나는 샌드웜의 기습에 희생당했다고 하죠.<br><br> 
+샌드웜이 마지막으로 출몰했다는 보고가 수 십년이 흘러 이제는 전설 쯤으로 여기고 있지만 말이에요. 하지만 아직도 많은 이들이 샌드웜의 공포를 기억하고 있는 것도 사실이에요." />
+	<block key="dialog_1200217_text0_attach_0" korean="<br><br>어쨌거나 중요한 사실은 샌드웜의 기습을 받은 <font color="#3ec1d0">상단의 보물</font>들이 다 어디로 갔냐? 어디긴 어디겠습니까?<br>이 땅 아래 어딘가에 고스란히 잠들어있지 않겠습니까? 그 보물들을 찾는다면..흐흐.." />
+	<block key="dialog_1200218_title" korean="뭔가 잃어버린 것이라도 있나보군요?" />
+	<block key="dialog_1200218_text0" korean="제 오르골..오르골을 잃어버렸습니다. 내 아들이 준 선물인데..오르골을 대체 어디서 잃어버렸을까요.." />
+	<block key="dialog_1200219_title" korean="이곳의 경비대 일을 하셨나 봅니다. 복장이.." />
+	<block key="dialog_1200219_text0" korean="한때 이곳 모래사장은 교역 상인들이 지나던 통행로로 사용되기도 했어요. 그래서 그런 상인들을 노리는 도적들의 습격을 받는 일이 빈번히 발생했죠.<br><br>그들을 보호하기 위해 고용한 용병..저도 그 용병 중 한명이었습니다. 하지만 제가 죽기 전 마지막으로 본 것은 샌드웜의 거대한 몸체였습니다. 도적을 상대하는 것과는 <font color="#3ec1d0">차원이 다른 괴수</font>였죠.." />
+	<block key="dialog_1200220_title" korean="죽기 전의 기억이 있으십니까?" />
+	<block key="dialog_1200220_text0" korean="죽기 전의 기억? 당연히 있고 말고! 날 죽인 녀석들은 똑똑히 기억하고 있지.<br>베로니카는 샌드웜의 공격을 받고 죽었다는데 나도 샌드웜에게 죽었다면 억울하지도 않지.<br><br>샌드웜이 출몰하면서 거기에 놀란 바위 정령들이 덩달아서 공격을 하는 바람에 졸지에 비명횡사한거지. 말하고보니 나도 억세게 운이 없군." />
+	<block key="dialog_1200221_title" korean="옆에 있는 베로니카와는 어떤 사이였습니까?" />
+	<block key="dialog_1200221_text0" korean="베로니카는 상단 호위 임무를 맡았던 용병들 중에서도 수준급의 용병이었어. 그녀 검술 실력을 따라갈 남자가 없었지.<br><br>하지만 태고의 영물이라 불리는 거대 괴수 샌드웜 앞에서 검술? 우스웠지..내가 죽더라도 그녀만큼은 죽지 않도록 했어야 하는데..<br>에잇! 옛날 얘기하니까 기분이 아주 더러워졌어." />
+	<block key="dialog_1200222_title" korean="어떤 보물을 찾고 계신가요?" />
+	<block key="dialog_1200222_text0" korean="보물 사냥꾼에게 어떤 보물을 찾냐고 물어보는거야? 이렇게 수준 낮은 질문에도 대답해야하나?<br><br>값비싼 보물! 당연한 거 아니야? 나는 아람처럼 허술한 보물 사냥꾼이 아니야. 아람 실력으로 보물 사냥꾼을 잘도 하겠다…" />
+	<block key="dialog_1200223_title" korean="이곳은..무슨 신전처럼 보이는 군요..이곳에 대해 아십니까?" />
+	<block key="dialog_1200223_text0" korean="본래는 샌드웜의 기습으로 교역로가 위태롭자 교역 상인들을 중심으로 제물을 바쳐 피해를 막기 위한 용도로 제단을 세웠다고 해. 하지만 시간이 흐르면서 샌드웜의 출몰 횟수가 급격히 줄어들고 점차 사람들에게 잊혀지자 제단도 방치되었지.<br><br>하지만 이후, 불사군단과 사막 크로쿤의 주술사 마나츠는 방치된 제단을 하나의 실험실로 이용하여 거대한 괴수를 만들어냈다고 해. 그 괴수에 대해 자세히 알고 싶지만 아직까지 제대로 알려진 정보는 그리 많지 않아." />
+	<block key="dialog_1200224_title" korean="하시시의 제자라면 연금술에 대해서도 잘 알고 계시겠군요?" />
+	<block key="dialog_1200224_text0" korean="스승님은 함부로 비법을 전수해 주지 않으십니다. 아쉽게도 아직은 제가 연금술을 익힐 시기가 아니라고..하셔서 지금으로서는 어쩔 수 없죠. 제가 좀 더 노력한다면 스승님도 생각이 바뀌시겠죠." />
+	<block key="dialog_1200225_title" korean="건설에 필요한 인부들은 모두 어디있습니까?" />
+	<block key="dialog_1200225_text0" korean="모하바 용병단이 들판을 차지해버리고 나서는 건설 인부들 모두 뿔뿔이 흩어졌다오. 지금쯤 어디선가 낮잠이나 자고 있을런지...?<br><br>제기랄. 모하바 용병단 녀석들 때문에 제대로 된 작업은 하지도 못하고 말이오. 자재만 확보되면 인부들을 다시 불러야할텐데... 녀석들도 충분히 쉬었을테니까 힘 좀 내야지, 안그러오?" />
+	<block key="dialog_1200226_title" korean="경비대의 상황은 어떻습니까?" />
+	<block key="dialog_1200226_text0" korean="모하바 용병단이 대대적인 공격을 시작하면서 우린 상당히 많은 피해를 입었습니다.<br><br>먼지 바람 들판만이 아니라 금광 수송로 역시 그들이 장악해 버렸으니까 말입니다. 덕분에 경비대는 늘 비상이라 다들 정신이 없습니다." />
+	<block key="dialog_1200227_title" korean="도전자의 비행로에 대해 알고싶습니다." />
+	<block key="dialog_1200227_text0" korean="사막의 개척과 오르 광석, 금광으로 대표되는 천연자원 채굴을 위해 대규모의 조사단이 불사의 사막에 파병되었을 무렵, 수많은 모험가들이 조사단에 참여했습니다. 이 조사단에는 조사단의 보급을 책임지는 비행사들도 포함되었는데 이들이 짙은 모래 안개와 거센 난기류로 휩싸인 거대한 협곡을 발견하게 되었죠." />
+	<block key="dialog_1200227_text0_attach_0" korean="<br><br>그때부터 지역특성을 활용하여 펠로우 비행을 훈련하는 장소로 쓰이게 되었습니다. 그렇게 몇년이 지나곤 아예 도전자의 비행로라는 이름과 함께 많은 비행사들이 먼 곳에서 찾아오게 되었습니다. 지금은 비행사들에겐 일종의 성지와 같은 장소라고나 할까요?" />
+	<block key="dialog_1200228_title" korean="혹시 마법을 독학으로 배우셨습니까?" />
+	<block key="dialog_1200228_text0" korean="마법? 그렇지. 내 스승은 바로 수많은 마법서적들이네. 처음엔 제대로 된 스승을 찾아 마법을 배워보려고 했는데 마법 꽤나 한다고 거들먹거리기나 하고 말일세.<br><br>쥐뿔 가르쳐주는 건 없으면서 쓸데없는 일이나 시키고 누굴 하인 취급하더란 말이지. 그때부터 마법서적을 읽으면서 마법을 연습했네." />
+	<block key="dialog_1200228_text0_attach_0" korean="<br><br>스승없이 배운 실력이라 조금 엉성하긴 하지만 한때 스승 행세하려고 했던 마법사 나부랭이들? 그 녀석들쯤이야 한수레를 가져와도 날 당해낼 수 없을 걸세." />
+	<block key="dialog_1200229_title" korean="사막에 무슨 일이라도 있습니까?" />
+	<block key="dialog_1200229_text0" korean="최근 들어 역병이 번지고 있는 것 같습니다. 아직 사람들 중에 증상을 드러내는 사람은 없는 것 같아서 다행이긴 한데..동물들이 문제입니다.<br><br>요즘 동물들 시체 보는 일이 부쩍 늘었죠. 이 역병에 대해서 스승님께도 말은 했지만 특별한 치료약이란 것이 있는지 없는지도 모르겠군요." />
+	<block key="dialog_1200230_title" korean="황금 봉우리의 주민들은 요리장님이 만든 요리에 만족하나요?" />
+	<block key="dialog_1200230_text0" korean="내 요리요? 클클클. 내가 실력 발휘했다하면 황금 봉우리 사람들 모두 난리가 날 거에요. 그만큼 굉장한 요리를 만들어내거든요.<br><br>아무도 내 요리 실력을 의심하는 사람은 없다고 보면 되죠. 젊은이도 맛이 궁금하면 내 요리를 맛 보겠어요?" />
+	<block key="dialog_1200231_title" korean="황금 봉우리 요리장님의 요리를 드셔보셨습니까?" />
+	<block key="dialog_1200231_text0" korean="황금 봉우리 요리장의 요리요? 그걸 요리라고 말하시는 거에요? 그건 모든 요리사들에 대한 모독이에요. 모독!
+제가 단언하건데 나이아 할머니는 요리의 요자도 모르는 분이 틀림없어요.<br><br>그러지 않고서야 어떻게 그런 수준 이하의 요리를 만들어내는 거죠? 진정한 요리 실력이 뭔지 모르는 황금 봉우리 주민들만 불쌍할 노릇이죠." />
+	<block key="dialog_1200232_title" korean="그리폰 기사단의 훈련은 어떤 방식으로 진행됩니까?" />
+	<block key="dialog_1200232_text0" korean="검술, 그리폰 비행술, 기본적인 전술, 합격술. 여러가지 훈련을 거치면서 한 명의 온전한 그리폰 기사가 탄생되는 거요.<br><br>훈련의 강도는 다소 높지만 이정도 훈련도 버티지 못해서야 어디 명예로운 그리폰 기사단의 일원이라고 말할 수 있겠소?" />
+	<block key="dialog_1200233_title" korean="교관님이 보기에 가장 실력있는 기사가 누군지 궁금하군요." />
+	<block key="dialog_1200233_text0" korean="가장 실력있는 기사라..아무래도 하라크로 신전에 파견을 보낸 <font color="#3ec1d0">바티온</font>이 최고겠지. 그의 실력이 가르쳐본 놈들 중엔 제일 안정적이고 잠재력까지 풍부한 친구요.<br><br>뭐 그 다음은 리아 벤 정도일까? 전투 능력이 아닌 그리폰과의 교감 능력을 말한다면 단연코 리아 벤이 최고요." />
+	<block key="dialog_1200234_title" korean="기사 후보생들은 대체로 무슨 일을 합니까?" />
+	<block key="dialog_1200234_text0" korean="대부분의 기사 후보생들은 전투와 관련되지 않은 조사차원의 일을 담당합니다.<br>저 역시 황금 봉우리의 위대한 켄 그리프 왕과 오랜 숙적 관계인 샤키바를 조사하는 임무를 맡고 있죠.<br><br>이를테면 샤키바의 몸상태는 어떤지 꾸준히 관찰하면서 일지를 작성하는..그런 일?" />
+	<block key="dialog_1200235_title" korean="약혼자의 일은 뭐라고 위로의 말을 드려야할지.." />
+	<block key="dialog_1200235_text0" korean="제 약혼자였던 브레윈은 용감한 경비대원이었습니다.<br>언제나 위험한 일은 두려워하지 않고 도맡아서 했죠. 그 과감함은 늘 경비대원의 귀감이 되었습니다.<br>과거, <font color="#3ec1d0">라니아</font> 공주님이 사막에 방문하셨을 때에도 공주님께서 친히 브레윈의 용기를 칭찬하시기도 했습니다." />
+	<block key="dialog_1200235_text0_attach_0" korean="<br><br>이제..그는 더 이상 제 곁엔 없지만 슬퍼하고만 있지 않을 겁니다. 그가 생전에 지키려고 했던 마을의 안전을 반드시 제 손으로 책임지겠습니다. 용병단의 씨를 말려서라도 말입니다." />
+	<block key="dialog_1200236_title" korean="수잔" />
+	<block key="dialog_1200236_text0" korean="제 남편은 마을 경비대원이에요. 모하바 용병단이라는 나쁜 녀석들 때문에 지금은 먼지바람 들판으로 나가있어요.<br>제발 무사히 돌아와야 할텐데…" />
+	<block key="dialog_1200237_title" korean="무라스" />
+	<block key="dialog_1200237_text0" korean="불사의 사막은 처음이시죠?<br>이곳의 열기를 처음 접한 사람들은 보통 한 시간도 견디지 못하고 쓰러지는데, 꽤 버티는 걸 보니… 당신 혹시 이곳 출신이십니까?" />
+	<block key="dialog_1200238_title" korean="지케르" />
+	<block key="dialog_1200238_text0" korean="지금 뭔가 대단한 악상이 떠오르고 있어요. 으흠, 흠, 흠! 아, 아아아, 아~~<br><br>어때요? 불사의 사막을 가로지르는 이 음율이 느껴지나요?" />
+	<block key="dialog_1200239_title" korean="마라네" />
+	<block key="dialog_1200239_text0" korean="하아, 여기서 살다가는 피부가 다 갈라질거에요! 우리 부모님은 왜 하필 이런 곳에서 정착을 해가지고 이 어여쁜 딸의 피부를 망쳐버리는건지 모르겠어요!" />
+	<block key="dialog_1200240_title" korean="마르코" />
+	<block key="dialog_1200240_text0" korean="수도성 물이라도 좀 드신 모양이군요?<br>수도성 물 좀 먹었다고 너무 나서진 마십시오. 실력도 없이 겉멋만 부리다가 사막 한복판에서 비명횡사한 자들이 수두룩합니다.." />
+	<block key="dialog_1200241_title" korean="에르헨" />
+	<block key="dialog_1200241_text0" korean="원래 알세크 마을은 한가한 곳이었는데 최근들어 여행객이나 모험가들 그리고 모하바 용병단 놈들까지 설치는 통에 정신이 하나도 없네요.<br>한가할 때보다 활기가 넘쳐서 좋긴 하지만 모하바 용병단 놈들은 좀 사라졌으면 좋겠네요." />
+	<block key="dialog_1200242_title" korean="토레스" />
+	<block key="dialog_1200242_text0" korean="아이고 덥다, 더워! 이 마을에서 하루 이틀 산 것도 아닌데 이놈의 더위는 영 적응이 안 됩니다. 시원한 빙수 하나 먹는다면 소원이 없겠는데, 쩝!" />
+	<block key="dialog_1200243_title" korean="도로시" />
+	<block key="dialog_1200243_text0" korean="나이를 먹으면 더워도 덥지가 않네요.<br>내, 살날이 남아봐야 얼마나 남았겠어요. 그저 저 양반하고 같이 죽으면 소원이 없을텐데… 안 그렇수, 영감?" />
+	<block key="dialog_1200244_title" korean="마틴" />
+	<block key="dialog_1200244_text0" korean="콜록, 콜록! 더 살아봐야 뭐하겠나? 이 만큼 살았으면 됐지. 할멈하고 같이 눈감을 수 있으면 그게 복이네. 복이야." />
+	<block key="dialog_1200245_title" korean="미켈" />
+	<block key="dialog_1200245_text0" korean="수도성에서 오셨어요? 우와, 도시인은 뭔가 느낌이 다르네요.<br><br>혹시 국왕님 얼굴도 본 적 있어요? 어떤 사람 말로는 꽃미남이라고 하던데 정말 그렇게 잘 생겼나요?" />
+	<block key="dialog_1200246_title" korean="쉬렌터" />
+	<block key="dialog_1200246_text0" korean="사막에서 목재를 구하는 건 쉬운 일이 아닙니다. 보시면 알겠지만 이곳 건축물에 쓰인 목재는 정말 딱 필요한 만큼만 사용합니다. 그것도 하카나스 수도성에서 목재를 보급해주는 특정한 시기에만 할 수 있는 일입니다." />
+	<block key="dialog_1200247_title" korean="프랑크" />
+	<block key="dialog_1200247_text0" korean="제게 할말이라도 있습니까?<br>여기 온지 얼마 안되서 아직 절 잘 모르는 모양인데..절 귀찮게 하지 마십시오." />
+	<block key="dialog_1200248_title" korean="윌슨 채틀러" />
+	<block key="dialog_1200248_text0" korean="혹시 콜렉터 쪽 사람이오? 아, 아니라고?<br>혹시 콜렉터 쪽 사람들하고 일하게 되면 말이오. 내 얘기 좀 해주시오! 아, 내가 이래 봬도 사막에서 펠로우 연구를 시작한 게 벌써 10년 째요!" />
+	<block key="dialog_1200249_title" korean="잔느" />
+	<block key="dialog_1200249_text0" korean="세상 사는 게 그리 쉬운 일은 아니죠. 밖으로만 돌아다니는 남편 붙잡으랴, 말 안듣는 자식 혼내랴, 늙은 부모 모시랴, 호락호락한 일이 하나도 없죠.<br>하지만 이런 문제들이 없으면 그건 심심한 인생 아니겠어요?" />
+	<block key="dialog_1200250_title" korean="라게르할" />
+	<block key="dialog_1200250_text0" korean="안전하게 관리해드릴테니 믿고 맡겨 주세요.<br>그 무거운 걸 다 들고다니면 사막 한 가운데에서 쓰러지고 말 겁니다." />
+	<block key="dialog_1200250_answer_0_text" korean="내 창고 이용하기" />
+	<block key="dialog_1200251_title" korean="아겐투르" />
+	<block key="dialog_1200251_text0" korean="물건이 팔고 싶으면 좋은 가격에 주선해 주겠소. 팔까 말까 고민만 하지 말고 일단 이리 와서 물건을 보시오." />
+	<block key="dialog_1200251_answer_0_text" korean="판매 대행 이용하기" />
+	<block key="dialog_1200252_title" korean="임구 게시판(황금 봉우리)" />
+	<block key="dialog_1200252_text0" korean="해당 게시판은 그리폰 기사단의 관리하에 있으며 무단으로 게시판을 훼손할 시 그에 상응하는 처벌이 뒤따를 것임.<br><br>그리폰 기사단장 나자히" />
+	<block key="dialog_1200253_title" korean="임무 게시판(알세크 마을)" />
+	<block key="dialog_1200253_text0" korean="현재 불사의 사막의 지역에 모하바 용병단의 약탈행위가 빈번히 일어나고 있어 외부 출입을 원하는 자는 각별한 주의를 요망함.<br><br>알세크 경비대" />
+	<block key="dialog_1200254_title" korean="레호제우(창고지기)" />
+	<block key="dialog_1200254_text0" korean="무더운 사막에서 그 무거운 짐들을 모두 들고다니긴 무리에요. 제가 안전하게 보관해드릴테니 믿고 맡겨주세요." />
+	<block key="dialog_1200254_answer_0_text" korean="내 창고 이용하기" />
+	<block key="dialog_1200255_title" korean="카브레라(야수 조련사)" />
+	<block key="dialog_1200255_text0" korean="반가워! 나는 야수 조련사 카브레라라고해. 야수도 길들일 수 있지. 혹시, 야수를 길들일 땐 교감이 가장 중요하단 사실을 알고 있니?" />
+	<block key="dialog_1200255_answer_0_text" korean="주변 지역의 지상 펠로우" />
+	<block key="dialog_1200255_answer_1_text" korean="주변 지역의 비행 펠로우" />
+	<block key="dialog_1200256_title" korean="오타모(풍요의 씨앗 조합)" />
+	<block key="dialog_1200256_text0" korean="당신이 이제껏 먹어보지 못한 최고의 음식을 선사하겠습니다. 드넓은 사막을 걸어다닐려면 맛있는 음식을 많이 먹어둬야 하지 않겠어요?" />
+	<block key="dialog_1200256_answer_0_text" korean="풍요의 씨앗 조합은 어떤 단체인가요?" />
+	<block key="dialog_1200256_answer_1_text" korean="풍요의 씨앗 조합은 누가 만들었습니까?" />
+	<block key="dialog_1200257_title" korean="로빈(야수 조련사)" />
+	<block key="dialog_1200257_text0" korean="야수는 강해보여도 속은 여린 동물이야. 잘 길들여진 야수는 인생의 동반자가 될 수 있지. 이 외로운 곳에서 내 유일한 친구인걸…" />
+	<block key="dialog_1200257_answer_0_text" korean="주변 지역의 지상 펠로우" />
+	<block key="dialog_1200258_title" korean="아인도르(판매 대행 중개인)" />
+	<block key="dialog_1200258_text0" korean="좋은 물건이 있다면 주인을 찾아줘야지 않겠나. 좋은 가격에 연결시켜줄테니 이리 와보게! 한번 보고가면 자주 오게 될거라니까?" />
+	<block key="dialog_1200258_answer_0_text" korean="판매 대행 이용하기" />
+	<block key="dialog_1200259_title" korean="카나얀(그리폰 기사단 참모)" />
+	<block key="dialog_1200259_text0" korean="오셨습니까? 이 곳까지 오신 걸 보니 뛰어난 능력을 가진 기사군요. 우린 당신의 도움이 필요해요.<br><br>이 곳은 잦은 전투로 모두가 예민한 상황입니다. 그들을 향해 강력한 응징이 필요해요. 만만치는 않겠지만, 우리와 협력하면 큰 문제는 없을겁니다." />
+	<block key="dialog_1200260_title" korean="포츠델(종족 연구원)" />
+	<block key="dialog_1200260_text0" korean="뜨거운 열기 속에 살아가는 동물들을 연구하는 일은 참 재밌는 것 같아요. 어디서도 보지 못했던 동물들이 적막한 사막 속에 하나 둘 보이는 것, 이보다 행복한 일이 더 있을까요?" />
+	<block key="dialog_1200261_title" korean="로이나(그리폰 기사단원)" />
+	<block key="dialog_1200261_text0" korean="우아한 황금깃털을 자랑하는 그리폰, 너무 아름답지 않습니까? 하지만 이 아름다운 그리폰을 길들이는 것은 결코 쉬운 일이 아닙니다." />
+	<block key="dialog_1200262_title" korean="메이든(그리폰 기사단원)" />
+	<block key="dialog_1200262_text0" korean="전투가 잦아지면서 수많은 기사단원들이 지쳐있지만, 저희는 결코 물러서지 않을 것입니다. 포기하지 않는 기사만이 진정 황금 그리폰 기사단원이 아니겠습니까?" />
+	<block key="dialog_1200263_title" korean="샌더슨(황금 봉우리 원로)" />
+	<block key="dialog_1200263_text0" korean="외지에서 온 사람인가. 오랜만에 패기있는 청년을 보니 좋구먼. <br><br>아이고, 나도 한때는 사막의 열기에도 땀 한 번 흘리지 않던 건강한 청년이었는데.." />
+	<block key="dialog_1200264_title" korean="크리스티앙(황금 봉우리 원로)" />
+	<block key="dialog_1200264_text0" korean="사막이 원래부터 이런 곳은 아니었는데.. 나같은 늙은이들은 더 이상 살 수가 없어요.." />
+	<block key="dialog_1200265_title" korean="로간(정찰병)" />
+	<block key="dialog_1200265_text0" korean="사막의 정찰병 로간입니다. 이 곳은 생각보다 위험한 지역이에요. 평화로워 보일지 모르지만 그들에게서 한시도 눈을 뗄 수 없는걸요. <br><br>어서 돌아가세요! 자칫하면 당신이 위험해 질 수 있습니다." />
+	<block key="dialog_1200266_title" korean="로지(은둔 마법사)" />
+	<block key="dialog_1200266_text0" korean="나도 예전에는 인정받는 마법사였지. 단지 쉬고 싶어서 이 곳에 온거야. 절대 능력이 부족해서 이런 곳에 있는게 아니라구." />
+	<block key="dialog_1200267_title" korean="데닐(퇴역 장군 수행병)" />
+	<block key="dialog_1200267_text0" korean="우리 장군님은 하카나스에서 제가 가장 존경하는 분이었습니다. 장군님의 뜻을 따라 여기까지 오긴 했지만, 과연 장군님이 불사군단을 상대할 수 있을지 걱정입니다." />
+	<block key="dialog_1200268_title" korean="디오네(은둔 마법사)" />
+	<block key="dialog_1200268_text0" korean="비록 마법사로서의 빛은 잃었지만, 이 곳은 제 능력을 향상시키기에 가장 좋은 곳이라 생각해요. 과거의 유명하던 마법사 시절보단 지금이 훨씬 행복한걸요?" />
+	<block key="dialog_1200269_title" korean="나자룬(크로쿤 대장장이)" />
+	<block key="dialog_1200269_text0" korean="크로쿤 족이라고 들어보았나? 단연 최고의 대장 기술을 자랑하는 종족이지.<br><br>명예 회복을 위해 사막 원정대로 나선 크로쿤 종족의 장비를 정비해주고자 이 곳, 은둔자의 마을로 왔어." />
+	<block key="dialog_1200270_title" korean="블랑코(야수 조련사)" />
+	<block key="dialog_1200270_text0" korean="아, 겁먹을 거 없어요. 잘 길들여진 맹수는 위험하지 않습니다. 진심으로 다가가면 맹수도 분명 당신에게 마음을 열어 줄거에요." />
+	<block key="dialog_1200270_answer_0_text" korean="주변 지역의 지상 펠로우" />
+	<block key="dialog_1200270_answer_1_text" korean="주변 지역의 비행 펠로우" />
+	<block key="dialog_1200271_title" korean="그라함(야수 조련사)" />
+	<block key="dialog_1200271_text0" korean="오아시스 악어는 오아시스의 가장 강한 맹수라 불려요. 하지만 겁먹지말고 시도해보세요. 아, 한가지 팁을 주자면 펠로우를 길들일 땐 교감을 나누는 것이 중요하답니다." />
+	<block key="dialog_1200271_answer_0_text" korean="주변 지역의 지상 펠로우" />
+	<block key="dialog_1200272_title" korean="아브라스(금광수송로 광부)" />
+	<block key="dialog_1200272_text0" korean="혹시 반짝거리는 보물을 물고 도망가는 고양이 한마리 보지 않으셨습니까? 아, 분명 오아시스 쪽으로 도망가는 걸 봤는데… 혹시 근처에서 도둑고양이를 보면 꼭 좀 연락 주십시오." />
+	<block key="dialog_1200273_title" korean="켄드릭" />
+	<block key="dialog_1200273_text0" korean="오아시스는 사막에서 유일하게 가장 신선한 식수를 공급받는 장소이자 안전이 보장되어야할 지역입니다.<br>헌데 주변을 보십시오. 이곳의 치안을 확보하는데 알세크 경비대가 애를 쓰고 있지만 주변의 적들이 너무 많습니다.." />
+	<block key="dialog_1200274_title" korean="카드힘(경비대원)" />
+	<block key="dialog_1200274_text0" korean="아, 어디서 오신 분이죠? 외부인은 함부로 들어오면 안되는데…" />
+	<block key="dialog_1200275_title" korean="아즈라(그리폰 지원대 기사)" />
+	<block key="dialog_1200275_text0" korean="여기까지 오는 것도 참 힘들었지만, 이제부터 시작이에요.<br>그리폰 기사단의 명예를 위해 불사군단을 꼭 물리치고 돌아오겠습니다!" />
+	<block key="dialog_1200276_title" korean="베를레브(생존자)" />
+	<block key="dialog_1200276_text0" korean="모든 것이 순식간이였어요. 정신 차렸을 땐 주위에 아무도 없었죠. 마을 주민들도, 가족들도… 아직도 그때만 생각하면 손이 덜덜 떨려요." />
+	<block key="dialog_1200277_title" korean="리아 벤(신전 파견 캠프)" />
+	<block key="dialog_1200277_text0" korean="적과의 결전이 코앞인데 그리폰을 잃어버리다니… 전 황금 그리폰 기사단으로서 실격이에요. 나자히 님께서 이 사실을 알게 되시면 얼마나 실망을 하실까…" />
+	<block key="dialog_1200278_title" korean="라니아 공주님의 어린시절 이야기를 듣고 싶습니다." />
+	<block key="dialog_1200278_text0" korean="허허, 라니아 공주님은 어릴 적엔 아주 왈가닥이셨다네.<br>내가 왕국 기사로 있던 시절 라니아 공주님이 자신의 펠로우를 타고 몰래 왕성 밖을 빠져나가 왕성 안이 발칵 뒤집혀졌었던 일이 있었지.<br>나 역시 그때 공주님을 찾기 위해 하카나스 수도성을 샅샅이 뒤졌었다네." />
+	<block key="dialog_1200278_text0_attach_0" korean="결국 시종 하나가 왕국 수림지에서 잠든 공주님을 발견했었지.<br><br>허허, 아주 귀여운 분이셨어... 누구보다도 총명하고 용감한 분이었다네.<br>그런 공주님이 이런 고초를 겪고 계시다니… 내 목숨을 바쳐서라도 반드시 공님을 구해낼 걸세!" />
+	<block key="dialog_1200279_title" korean="불사군단 요새 설계에 참여하셨다고 들었습니다." />
+	<block key="dialog_1200279_text0" korean="그렇다네... 불사군단 놈들의 협박이 있었다곤 해도, 해서는 안되는 일을 하고 말았지...<br>불사군단 요새는 현존하는 미들라스 대륙에서 가장 함락하기 힘든 요새일 걸세. 적들이 요새의 존재를 알아도 요새 전체에 강력한 결계를 뚫기란 쉽지 않은 일이지.<br><br>간신히 안으로 진입해도 미로와 같은 내부가 칩입자를 쉽게 허락하지 않을 걸세. 정말 철옹성과 같은 곳이야.<br>아마 내가 해석한 설계도가 없으면 금세 길을 잃어버리고 말겠지." />
+	<block key="dialog_1200280_title" korean="라니아 공주님이 황금 봉우리에 온 적이 있습니까?" />
+	<block key="dialog_1200280_text0" korean="과거 황금 봉우리에 사절로 오신 라니아 공주님을 뵌 적이 있습니다. 우리 황금 그리폰 기사단의 주민들은 외부 세력에 배타적이지만, 공주님만큼은 예외였죠.<br><br>모든 사람들이 그녀의 현신하는 엘로라 여신님이라고 칭송했었습니다. 그런 공주님이 저 악마들의 소굴에 잡혀있는 것을 생각하면 마음이 좋지 않군요.<br>부디 공주님이 무사히 돌아오길 기원하겠습니다." />
+	<block key="dialog_1200281_title" korean="치메르님은 어떤 분이신가요?" />
+	<block key="dialog_1200281_text0" korean="치메르님은 정말이지 대단한 분죠. 현존하는 가장 위대한 예언가라고 해도 과언이 아닐겁니다. 치메르님의 예언은 한번도 틀린 적이 없거든요! 하지만... 이번만은 틀렸으면 좋겠군요.<br><br>하카나스 성에 불길이 치쏟는 끔찍한 일은 벌어지지 않길 바라거든요.<br>당신이 치메르님이 말씀하신 운명을 비켜갈 수 있는 예언 속의 인물이라고 들었습니다. <br><br>왕국의 운명이 당신에게 달려있다고 생각한다면 결코 예언을 가볍게 생각해서는 안될 겁니다!" />
+	<block key="dialog_1200282_title" korean="라니아 공주님을 본 적이 있나요?" />
+	<block key="dialog_1200282_text0" korean="라니아 공주님... 딱 한번 뵈었지만, 정말 너무 아름다운 분이셨습니다.<br>엘로라 여신님 아니 엘로라 여신님이라 해도 그렇게 아름답진 않으실 거예요...<br><br>흐... 흠, 제가 참 쓸데없는 이야기를 했군요.<br>그날 모하바 용병단이 마을을 습격하지만 않았어도 끝까지 쫓아서 공주님을 구해냈을 겁니다! 정말입니다!" />
+	<block key="dialog_1200283_title" korean="라비니 바니라(고대의 사원)" />
+	<block key="dialog_1200283_text0" korean="여행자냥? 우리 초승달 상단은 각 지역에 파견되어 여행자에게 필요한 물건을 공급하고 있당.<br>난 일반적인 물건을 거래하지 않는당.<br><br>나와 거래하고 싶으면 특별한 주화가 필요하당.<br>그 주화가 생기면 언제든 날 찾아와랑!<br>좋은 물건과 바꿔주겠당!" />
+	<block key="dialog_1200283_answer_0_text" korean="라비니 상점" />
+	<block key="dialog_1200284_title" korean="라비니 바니라(불사군단 요새)" />
+	<block key="dialog_1200284_text0" korean="여행자냥? 우리 초승달 상단은 각 지역에 파견되어 여행자에게 필요한 물건을 공급하고 있당.<br>난 일반적인 물건을 거래하지 않는당.<br><br>나와 거래하고 싶으면 특별한 주화가 필요하당.<br>그 주화가 생기면 언제든 날 찾아와랑!<br>좋은 물건과 바꿔주겠당!" />
+	<block key="dialog_1200284_answer_0_text" korean="라비니 상점" />
+	<block key="dialog_1200285_title" korean="바르마크" />
+	<block key="dialog_1200285_text0" korean="사막에서 요리를 한다고 해서 꼭 사막 전용 요리를 만들어야 하는 건 아니죠!<br>재료만 있다면 수도성에서 인기있는 요리를 만드는 것도 별거 아니에요. 재료만 있다면 말이죠." />
+	<block key="dialog_1200285_answer_0_text" korean="음식 상점" />
+	<block key="dialog_1200286_title" korean="야눌" />
+	<block key="dialog_1200286_text0" korean="콜렉터의 일원인 야눌입니다. 전설로만 전해져오는 펠로우에 대한 정보를 조사 중이었는데 제 부주의로 이곳에서 발이 묶이게 되버렸습니다.<br><br>주변에 분명 응급으로 사용하기에 쓸만한 약초가 있을텐데 주변이 온통 샌드웜의 숨결로 가려져 앞뒤 분간도 할 수 없으니.." />
+	<block key="dialog_1200286_answer_1_text" korean="콜렉터는 무슨 단체입니까?" />
+	<block key="dialog_1200286_answer_2_text" korean="펠로우 마스터 바인데르에 대해 알고싶습니다." />
+	<block key="dialog_1200287_title" korean="블랑코 지상 펠로우" />
+	<block key="dialog_1200287_text0" korean="[일반 지상 펠로우]<br>사막 표범<br><br>[정예 지상 펠로우]<br>침스" />
+	<block key="dialog_1200288_title" korean="블랑코 공중 펠로우" />
+	<block key="dialog_1200288_text0" korean="[일반 공중 펠로우]<br>대머리 독수리 180m<br>피요 100m<br><br>[정예 공중 펠로우]<br>영리한 토로 170m" />
+	<block key="dialog_1200289_title" korean="그라함 지상 펠로우" />
+	<block key="dialog_1200289_text0" korean="[일반 지상 펠로우]<br>사막 버팔로<br>오아시스 악어<br>사막 멧돼지<br>독침 전갈<br><br>[정예 지상 펠로우]<br>쳐피" />
+	<block key="dialog_1200290_title" korean="카브레라 지상 펠로우" />
+	<block key="dialog_1200290_text0" korean="[일반 지상 펠로우]<br>모래의 덴바<br>사막 거미<br>알리바<br>사막 거북이<br><br>[정예 지상 펠로우]<br>트리티<br>바쟈닌<br>지혜의 데바" />
+	<block key="dialog_1200291_title" korean="카브레라 공중 펠로우" />
+	<block key="dialog_1200291_text0" korean="[일반 공중 펠로우]<br>돌연변이 그리폰 280m<br><br>[정예 공중 펠로우]<br>그리폰 290m<br>금빛의 키바렌 440m" />
+	<block key="dialog_1200292_title" korean="로빈 지상 펠로우" />
+	<block key="dialog_1200292_text0" korean="[일반 지상 펠로우]<br>바다 악어<br>골짜기 식인 거미<br>본 크루거<br>라쿠<br>저주받은 코반<br>저주받은 탈리온<br>저주받은 트레반<br><br>[정예 지상 펠로우]<br>썩지 않는 본 애쉬<br>아델라크<br>도스라쿠" />
+	<block key="dialog_1200293_title" korean="요새 내부로 진입하는 입구는 어디에 있습니까?" />
+	<block key="dialog_1200293_text0" korean="요새 내부로 진입하는 입구를 찾기 쉽지 않을테니 제가 간략한 설명을 해드리겠습니다.<br><br>[UserName]님이 해제하신 불사군단 결계 우측으로 보면 요새 내부로 연결되어 있는 다리가 있을 겁니다.<br>그 다리를 지나 불사군단의 경비를 뚫고 건조구역으로 진입하신 후, 우측 앞에 보이는 언덕을 따라 쭉 올라가세요." />
+	<block key="dialog_1200293_text0_attach_0" korean="언덕을 따라가다 보면 성 입구가 보일 겁니다.<br><br>입구까지 도달하면 안으로 진입하여 계단을 통해 지하로 내려가세요. 그곳에서 바렌트가 당신을 기다리고 있을 겁니다." />
+	<block key="dialog_1200294_title" korean="쉐리(풍요의 씨앗 조합)" />
+	<block key="dialog_1200294_text0" korean="요리를 만들기 위해선 늘 신선한 재료가 필수에요.<br>특히 사막을 기점으로 발전한 요리는 하카나스 왕국에서 만들던 요리와는 다른 재료가 필요하죠." />
+	<block key="dialog_1200294_text0_attach_0" korean="<br><br>바로 물이에요. 열악한 환경탓에 부족한 수분을 채우기 위해 오아시스의 물을 요리의 주된 재료로 사용하고 있고 그게 곧 전통이 되었죠.<br><br>제가 장담하건데 사막에서 활동하시려면 눈물의 오아시스를 자주 찾게 되실걸요?" />
+	<block key="dialog_1200294_answer_2_text" korean="풍요의 씨앗 조합은 어떤 단체인가요?" />
+	<block key="dialog_1200294_answer_3_text" korean="풍요의 씨앗 조합은 누가 만들었습니까?" />
+</blocks>

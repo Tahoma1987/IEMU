@@ -1,0 +1,108 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Bt_0_0000_NAME" korean="부스트 테스트 아이템 01" />
+	<block key="Bt_0_0000_Description" korean="최대 HP 173, 최대 MP 173, 힘 10, 민첩 10" />
+	<block key="Bt_0_0001_NAME" korean="부스트 테스트 아이템 02" />
+	<block key="Bt_0_0001_Description" korean="최대 HP 173, 최대 MP 173, 정신 10, 지능 10" />
+	<block key="EV_BO_00_0000_NAME" korean="100일 기념 부스터 (5일)" />
+	<block key="EV_BO_00_0001_NAME" korean="100일 기념 부스터 (7일)" />
+	<block key="EV_BO_00_0002_NAME" korean="100일 기념 부스터 (15일)" />
+	<block key="EV_BO_00_0003_NAME" korean="초대 이벤트 부스터 (30일)" />
+	<block key="EV_BO_00_0004_NAME" korean="100일 기념 부스터 (1일)" />
+	<block key="CA_BO_00_0000_NAME" korean="물리 부스터(7일)" />
+	<block key="CA_BO_00_0000_Description" korean="<R_Y>물리 부스터(7일)는 가방에 들어오는 순간부터 7일간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>" />
+	<block key="CA_BO_00_0001_NAME" korean="물리 부스터(30일)" />
+	<block key="CA_BO_00_0001_Description" korean="<R_Y>물리 부스터(30일)는 가방에 들어오는 순간부터 30일간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>" />
+	<block key="CA_BO_00_0002_NAME" korean="마법 부스터\(7일)" />
+	<block key="CA_BO_00_0002_Description" korean="<R_Y>마법 부스터(7일)는 가방에들어오는 순간부터 7일간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>" />
+	<block key="CA_BO_00_0003_NAME" korean="마법 부스터(30일)" />
+	<block key="CA_BO_00_0003_Description" korean="<R_Y>마법 부스터(30일)는 가방에 들어오는 순간부터 30일간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>" />
+	<block key="CA_BO_00_0004_NAME" korean="보조 부스터(7일)" />
+	<block key="CA_BO_00_0004_Description" korean="<R_Y>보조 부스터(7일)는 가방에 들어오는 순간부터 7일간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>" />
+	<block key="CA_BO_00_0005_NAME" korean="보조 부스터(30일)" />
+	<block key="CA_BO_00_0005_Description" korean="<R_Y>보조 부스터(30일)는 가방에 들어오는 순간부터 30일간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>" />
+	<block key="CA_BO_00_0006_NAME" korean="방어 부스터(7일)" />
+	<block key="CA_BO_00_0006_Description" korean="<R_Y>방어 부스터 (7일)는 가방에 들어오는 순간부터 7일간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>" />
+	<block key="CA_BO_00_0007_NAME" korean="방어 부스터(30일)" />
+	<block key="CA_BO_00_0007_Description" korean="<R_Y>방어 부스터(30일)는 가방에 들어오는 순간부터 30일간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>" />
+	<block key="Bt_F06_0000_NAME" korean="유물 - 공격력" />
+	<block key="Bt_F06_0000_Description" korean="<R_Y>유물 - 공격력은 7시간 동안 사용 할 수 있으며, 이후 자동으로 사라집니다.
+유물 - 공격력은 가방에 들어오는 순간부터 시간이 소비됩니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.</R_Y>" />
+	<block key="Bt_F06_0001_NAME" korean="유물 - 치명타피해" />
+	<block key="Bt_F06_0001_Description" korean="<R_Y>유물 - 치명타피해는 7시간 동안 사용 할 수 있으며, 이후 자동으로 사라집니다.
+유물 - 치명타피해는 가방에 들어오는 순간부터 시간이 소비됩니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.</R_Y>" />
+	<block key="Bt_F06_0002_NAME" korean="유물 - 치명타" />
+	<block key="Bt_F06_0002_Description" korean="<R_Y>유물 - 치명타는 7시간 동안 사용 할 수 있으며, 이후 자동으로 사라집니다.
+유물 - 치명타는 가방에 들어오는 순간부터 시간이 소비됩니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.</R_Y>" />
+	<block key="Bt_F06_0003_NAME" korean="유물 - 펠로우 경험치" />
+	<block key="Bt_F06_0003_Description" korean="<R_Y>유물 - 펠로우 경험치는 7시간 동안 사용 할 수 있으며, 이후 자동으로 사라집니다.
+유물 - 펠로우 경험치는 가방에 들어오는 순간부터 시간이 소비됩니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.</R_Y>" />
+	<block key="Bt_F06_0004_NAME" korean="유물 - 마법 방어력" />
+	<block key="Bt_F06_0004_Description" korean="<R_Y>유물 - 마법 방어력은 7시간 동안 사용 할 수 있으며, 이후 자동으로 사라집니다.
+유물 - 마법 방어력은 가방에 들어오는 순간부터 시간이 소비됩니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.</R_Y>" />
+	<block key="Bt_F06_0005_NAME" korean="유물 - 제작 대성공" />
+	<block key="Bt_F06_0005_Description" korean="<R_Y>유물 - 제작 대성공은 7시간 동안 사용 할 수 있으며, 이후 자동으로 사라집니다.
+유물 - 제작 대성공은 가방에 들어오는 순간부터 시간이 소비됩니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.</R_Y>" />
+	<block key="Bt_F06_0006_NAME" korean="유물 - 강화" />
+	<block key="Bt_F06_0006_Description" korean="<R_Y>유물 - 강화는 7시간 동안 사용 할 수 있으며, 이후 자동으로 사라집니다.
+유물 - 강화는 가방에 들어오는 순간부터 시간이 소비됩니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.</R_Y>" />
+	<block key="Bt_F06_0007_NAME" korean="유물 - 길들이기" />
+	<block key="Bt_F06_0007_Description" korean="<R_Y>유물 - 길들이기는 7시간 동안 사용 할 수 있으며, 이후 자동으로 사라집니다.
+유물 - 길들이기는 가방에 들어오는 순간부터 시간이 소비됩니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.</R_Y>" />
+	<block key="Bt_F06_0008_NAME" korean="유물 - 재사용" />
+	<block key="Bt_F06_0008_Description" korean="<R_Y>유물 - 재사용은 7시간 동안 사용 할 수 있으며, 이후 자동으로 사라집니다.
+유물 - 재사용은 가방에 들어오는 순간부터 시간이 소비됩니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.</R_Y>" />
+	<block key="EV_BO_00_0005_NAME" korean="새해복많이받으세요(7일)" />
+	<block key="EV_BO_00_0005_Description" korean="<R_Y>새해복많이받으세요(7일)은 7일 동안 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>
+
+2015년 이카루스와 함께 행복한 한 해 되시길 바랍니다." />
+	<block key="CA_BO_00_0008_NAME" korean="희망의 부스터(7일)" />
+	<block key="CA_BO_00_0008_Description" korean="<R_Y>희망의 부스터(7일)는 가방에 들어오는 순간부터 7일간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>" />
+	<block key="CA_BO_00_0009_NAME" korean="희망의 부스터(30일)" />
+	<block key="CA_BO_00_0009_Description" korean="<R_Y>희망의 부스터(30일)는 가방에 들어오는 순간부터 30일간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>" />
+	<block key="TS_BO_00_0000_NAME" korean="희망의 부스터(5분)" />
+	<block key="TS_BO_00_0000_Description" korean="<R_Y>희망의 부스터(5분)은 가방에 들어오는 순간부터 5분간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>" />
+	<block key="TS_BO_00_0001_NAME" korean="희망의 부스터(10분)" />
+	<block key="TS_BO_00_0001_Description" korean="<R_Y>희망의 부스터(10분)은 가방에 들어오는 순간부터 10분간 사용 할 수 있으며, 이후 자동으로 사라집니다.
+부스터 아이템은 가방에 소지해야만 효과가 적용 됩니다.
+소지 가능 개수 : 1개</R_Y>" />
+</blocks>

@@ -1,0 +1,196 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Setall31_Name" korean="어둠의 유적 세트" />
+	<block key="Setgd22_Name" korean="왕실 근위대의 수호 세트" />
+	<block key="Setwr23_Name" korean="왕실 근위대의 광폭 세트" />
+	<block key="Settf24_Name" korean="왕실 근위대의 그림자 세트" />
+	<block key="Setwz25_Name" korean="왕실 근위대의 원소 세트" />
+	<block key="Setpr26_Name" korean="왕실 근위대의 신념 세트" />
+	<block key="Setgd37_Name" korean="불타는 유적의 수호 세트" />
+	<block key="Setwr38_Name" korean="불타는 유적의 광폭 세트" />
+	<block key="Settf39_Name" korean="불타는 유적의 그림자 세트" />
+	<block key="Setwz310_Name" korean="불타는 유적의 원소 세트" />
+	<block key="Setpr311_Name" korean="불타는 유적의 신념 세트" />
+	<block key="Setall312_Name" korean="흡혈귀 세트" />
+	<block key="Setgd313_Name" korean="저주받은 가문의 수호 세트" />
+	<block key="Setwr314_Name" korean="저주받은 가문의 광폭 세트" />
+	<block key="Settf315_Name" korean="저주받은 가문의 그림자 세트" />
+	<block key="Setwz316_Name" korean="저주받은 가문의 원소 세트" />
+	<block key="Setpr317_Name" korean="저주받은 가문의 신념 세트" />
+	<block key="Setgd318_Name" korean="얼어붙은 마틀렌의 수호 세트" />
+	<block key="Setwr319_Name" korean="얼어붙은 마틀렌의 광폭 세트" />
+	<block key="Settf320_Name" korean="얼어붙은 마틀렌의 그림자 세트" />
+	<block key="Setwz321_Name" korean="얼어붙은 마틀렌의 원소 세트" />
+	<block key="Setpr322_Name" korean="얼어붙은 마틀렌의 신념 세트" />
+	<block key="pvpSetgd2528_Name" korean="하급 사냥꾼 세트" />
+	<block key="pvpSetwr2528_Name" korean="하급 사냥꾼 세트" />
+	<block key="pvpSettf2528_Name" korean="하급 사냥꾼 세트" />
+	<block key="pvpSetwz2528_Name" korean="하급 사냥꾼 세트" />
+	<block key="pvpSetpr2528_Name" korean="하급 사냥꾼 세트" />
+	<block key="pvpSetgd3033_Name" korean="중급 사냥꾼 세트" />
+	<block key="pvpSetwr3033_Name" korean="중급 사냥꾼 세트" />
+	<block key="pvpSettf3033_Name" korean="중급 사냥꾼 세트" />
+	<block key="pvpSetwz3033_Name" korean="중급 사냥꾼 세트" />
+	<block key="pvpSetpr3033_Name" korean="중급 사냥꾼 세트" />
+	<block key="pvpSetgd3538_Name" korean="상급 사냥꾼 세트" />
+	<block key="pvpSetwr3538_Name" korean="상급 사냥꾼 세트" />
+	<block key="pvpSettf3538_Name" korean="상급 사냥꾼 세트" />
+	<block key="pvpSetwz3538_Name" korean="상급 사냥꾼 세트" />
+	<block key="pvpSetpr3538_Name" korean="상급 사냥꾼 세트" />
+	<block key="pvpSetgd4564_Name" korean="하급 학살자 세트" />
+	<block key="pvpSetwr4564_Name" korean="하급 학살자 세트" />
+	<block key="pvpSettf4564_Name" korean="하급 학살자 세트" />
+	<block key="pvpSetwz4564_Name" korean="하급 학살자 세트" />
+	<block key="pvpSetpr4564_Name" korean="하급 학살자 세트" />
+	<block key="pvpSetgd5069_Name" korean="중급 학살자 세트" />
+	<block key="pvpSetwr5069_Name" korean="중급 학살자 세트" />
+	<block key="pvpSettf5069_Name" korean="중급 학살자 세트" />
+	<block key="pvpSetwz5069_Name" korean="중급 학살자 세트" />
+	<block key="pvpSetpr5069_Name" korean="중급 학살자 세트" />
+	<block key="pvpSetall4564_Name" korean="하급 학살자 장신구 세트" />
+	<block key="pvpSetall5069_Name" korean="중급 학살자 장신구 세트" />
+	<block key="setgd3301_Name" korean="타락한 추종자 세트" />
+	<block key="setwr3301_Name" korean="타락한 추종자 세트" />
+	<block key="settf3301_Name" korean="타락한 추종자 세트" />
+	<block key="setwz3301_Name" korean="타락한 추종자 세트" />
+	<block key="setpr3301_Name" korean="타락한 추종자 세트" />
+	<block key="setgd3501_Name" korean="냉혹한 얼음 군단장 세트" />
+	<block key="setwr3501_Name" korean="냉혹한 얼음 군단장 세트" />
+	<block key="settf3501_Name" korean="냉혹한 얼음 군단장 세트" />
+	<block key="setwz3501_Name" korean="냉혹한 얼음 군단장 세트" />
+	<block key="setpr3501_Name" korean="냉혹한 얼음 군단장 세트" />
+	<block key="setall3401_Name" korean="데비의 원한 세트" />
+	<block key="setall2501_Name" korean="야타이만 세트" />
+	<block key="setall4001_Name" korean="즈메우 세트" />
+	<block key="pvpSetall3148_Name" korean="헌터 잭 세트" />
+	<block key="pvpSetall3350_Name" korean="클레키 세트" />
+	<block key="pvpSetall3552_Name" korean="나이트메어 세트" />
+	<block key="pvpSetall3855_Name" korean="공포의 파이루드 세트" />
+	<block key="pvpSetall4259_Name" korean="심연의 바이렛 세트" />
+	<block key="pvpSetall4562_Name" korean="악몽의 메간테스 세트" />
+	<block key="setall2013_Name" korean="불이 삼킨 유적지 장신구 세트" />
+	<block key="setall2018_Name" korean="카를레앙 대저택 장신구 세트" />
+	<block key="setall2023_Name" korean="얼어붙은 폐허 장신구 세트" />
+	<block key="setall3031_Name" korean="비스무트의 장신구 세트" />
+	<block key="setgd3031_Name" korean="포세이나의 수호 세트" />
+	<block key="setwr3031_Name" korean="포세이나의 광폭 세트" />
+	<block key="settf3031_Name" korean="포세이나의 그림자 세트" />
+	<block key="setwz3031_Name" korean="포세이나의 원소 세트" />
+	<block key="setpr3031_Name" korean="포세이나의 신념 세트" />
+	<block key="setall3032_Name" korean="우슬라의 장신구 세트" />
+	<block key="ev_set06181_Name" korean="태극 두건" />
+	<block key="ev_set06182_Name" korean="붉은 응원 머리띠" />
+	<block key="ev_set06183_Name" korean="붉은 응원복 세트" />
+	<block key="setall3541_Name" korean="잔혹한 운명의 장신구 세트" />
+	<block key="setgd4001_Name" korean="총사령관의 수호 세트" />
+	<block key="setwr4001_Name" korean="총사령관의 광폭 세트" />
+	<block key="settf4001_Name" korean="총사령관의 그림자 세트" />
+	<block key="setwz4001_Name" korean="총사령관의 원소 세트" />
+	<block key="setpr4001_Name" korean="총사령관의 신념 세트" />
+	<block key="setall3542_Name" korean="파르나 용사의 장신구 세트" />
+	<block key="setgd4002_Name" korean="축복받은 총사령관의 수호 세트" />
+	<block key="setwr4002_Name" korean="축복받은 총사령관의 광폭 세트" />
+	<block key="settf4002_Name" korean="축복받은 총사령관의 그림자 세트" />
+	<block key="setwz4002_Name" korean="축복받은 총사령관의 원소 세트" />
+	<block key="setpr4002_Name" korean="축복받은 총사령관의 신념 세트" />
+	<block key="setall3543_Name" korean="거신의 장신구 세트" />
+	<block key="setall4002_Name" korean="공역 수호자 세트" />
+	<block key="setall4003_Name" korean="공역의 투혼 장신구 세트" />
+	<block key="setall4004_Name" korean="찬란한 선도자의 장신구 세트" />
+	<block key="setgd4011_Name" korean="찬란한 선도자의 수호 세트 I" />
+	<block key="setgd4012_Name" korean="찬란한 선도자의 수호 세트 II" />
+	<block key="setgd4013_Name" korean="찬란한 선도자의 수호 세트 III" />
+	<block key="setwr4011_Name" korean="찬란한 선도자의 광폭 세트 I" />
+	<block key="setwr4012_Name" korean="찬란한 선도자의 광폭 세트 II" />
+	<block key="setwr4013_Name" korean="찬란한 선도자의 광폭 세트 III" />
+	<block key="settf4011_Name" korean="찬란한 선도자의 그림자 세트 I" />
+	<block key="settf4012_Name" korean="찬란한 선도자의 그림자 세트 II" />
+	<block key="settf4013_Name" korean="찬란한 선도자의 그림자 세트 III" />
+	<block key="setwz4011_Name" korean="찬란한 선도자의 원소 세트 I" />
+	<block key="setwz4012_Name" korean="찬란한 선도자의 원소 세트 II" />
+	<block key="setwz4013_Name" korean="찬란한 선도자의 원소 세트 III" />
+	<block key="setpr4011_Name" korean="찬란한 선도자의 신념 세트 I" />
+	<block key="setpr4012_Name" korean="찬란한 선도자의 신념 세트 II" />
+	<block key="setpr4013_Name" korean="찬란한 선도자의 신념 세트 III" />
+	<block key="setgd4021_Name" korean="카라샤의 수호 세트" />
+	<block key="setwr4021_Name" korean="카라샤의 광폭 세트" />
+	<block key="settf4021_Name" korean="카라샤의 그림자 세트" />
+	<block key="setwz4021_Name" korean="카라샤의 원소 세트" />
+	<block key="setpr4021_Name" korean="카라샤의 신념 세트" />
+	<block key="setall4021_Name" korean="카라샤의 장신구 세트" />
+	<block key="fq_set2_0001_Name" korean="뛰어난 신룡의 펠로우 세트" />
+	<block key="fq_set3_0001_Name" korean="희귀한 신룡의 펠로우 세트" />
+	<block key="fq_set2_0002_Name" korean="뛰어난 정령의 펠로우 세트" />
+	<block key="fq_set3_0002_Name" korean="희귀한 정령의 펠로우 세트" />
+	<block key="fq_set2_0003_Name" korean="뛰어난 수호의 펠로우 세트" />
+	<block key="fq_set3_0003_Name" korean="희귀한 수호의 펠로우 세트" />
+	<block key="fq_set2_0004_Name" korean="뛰어난 축복의 펠로우 세트" />
+	<block key="fq_set3_0004_Name" korean="희귀한 축복의 펠로우 세트" />
+	<block key="fq_set2_0005_Name" korean="뛰어난 저주의 펠로우 세트" />
+	<block key="fq_set3_0005_Name" korean="희귀한 저주의 펠로우 세트" />
+	<block key="fq_set2_0006_Name" korean="하급 사냥꾼 펠로우 세트" />
+	<block key="fq_set2_0007_Name" korean="중급 사냥꾼 펠로우 세트" />
+	<block key="fq_set2_0008_Name" korean="상급 사냥꾼 펠로우 세트" />
+	<block key="fq_set2_0009_Name" korean="하급 학살자 펠로우 세트" />
+	<block key="fq_set2_1009_Name" korean="중급 학살자 펠로우 세트" />
+	<block key="fq_set2_0010_Name" korean="뛰어난 신성한 펠로우 세트" />
+	<block key="fq_set3_0006_Name" korean="희귀한 신성한 펠로우 세트" />
+	<block key="fq_set2_0011_Name" korean="특별한 청마의 펠로우 세트" />
+	<block key="fq_set3_0007_Name" korean="축복받은 청마의 펠로우 세트" />
+	<block key="fq_set3_0008_Name" korean="쿠할란의 펠로우 세트" />
+	<block key="fq_set2_0012_Name" korean="정예 기사단 펠로우 세트" />
+	<block key="fq_set2_0013_Name" korean="뛰어난 악몽의 펠로우 세트" />
+	<block key="fq_set3_0009_Name" korean="희귀한 악몽의 펠로우 세트" />
+	<block key="fq_set4_0001_Name" korean="고귀한 악몽의 펠로우 세트" />
+	<block key="fq_set4_0002_Name" korean="고귀한 칠흑같은 펠로우 세트" />
+	<block key="setall4005_Name" korean="강화의 신공 세트" />
+	<block key="setall4006_Name" korean="상인의 신공 세트" />
+	<block key="setall4007_Name" korean="조련사의 신공 세트" />
+	<block key="setgd4014_Name" korean="수호 재물복의 세트" />
+	<block key="setgd4015_Name" korean="수호 풍요의 세트" />
+	<block key="setgd4016_Name" korean="수호 길들이기 고수의 세트" />
+	<block key="setwr4014_Name" korean="광폭 재물복의 세트" />
+	<block key="setwr4015_Name" korean="광폭 풍요의 세트" />
+	<block key="setwr4016_Name" korean="광폭 길들이기 고수의 세트" />
+	<block key="settf4014_Name" korean="그림자 재물복의 세트" />
+	<block key="settf4015_Name" korean="그림자 풍요의 세트" />
+	<block key="settf4016_Name" korean="그림자 길들이기 고수의 세트" />
+	<block key="setwz4014_Name" korean="원소 재물복의 세트" />
+	<block key="setwz4015_Name" korean="원소 풍요의 세트" />
+	<block key="setwz4016_Name" korean="원소 길들이기 고수의 세트" />
+	<block key="setpr4014_Name" korean="신념 재물복의 세트" />
+	<block key="setpr4015_Name" korean="신념 풍요의 세트" />
+	<block key="setpr4016_Name" korean="신념 길들이기 고수의 세트" />
+	<block key="setgd5001_Name" korean="암흑 군단장의 수호 세트" />
+	<block key="setwr5001_Name" korean="암흑 군단장의 광폭 세트" />
+	<block key="settf5001_Name" korean="암흑 군단장의 그림자 세트" />
+	<block key="setwz5001_Name" korean="암흑 군단장의 원소 세트" />
+	<block key="setpr5001_Name" korean="암흑 군단장의 신념 세트" />
+	<block key="fq_set6_0001_Name" korean="사막의 경험치 세트" />
+	<block key="fq_set6_0002_Name" korean="뛰어난 사막의 경험치 세트" />
+	<block key="fq_set6_0003_Name" korean="열사의 경험치 세트" />
+	<block key="fq_set6_0004_Name" korean="샤키바의 경험치 세트" />
+	<block key="fq_set6_0005_Name" korean="사막의 경험치 세트" />
+	<block key="fq_set6_0006_Name" korean="뛰어난 사막의 경험치 세트" />
+	<block key="fq_set6_0007_Name" korean="열사의 경험치 세트" />
+	<block key="fq_set6_0008_Name" korean="샤키바의 경험치 세트" />
+	<block key="setgd5002_Name" korean="축복받은 암흑 군단장의 수호 세트" />
+	<block key="setwr5002_Name" korean="축복받은 암흑 군단장의 광폭 세트" />
+	<block key="settf5002_Name" korean="축복받은 암흑 군단장의 그림자 세트" />
+	<block key="setwz5002_Name" korean="축복받은 암흑 군단장의 원소 세트" />
+	<block key="setpr5002_Name" korean="축복받은 암흑 군단장의 신념 세트" />
+	<block key="setall4008_Name" korean="대장장이의 신공 세트" />
+	<block key="setall4009_Name" korean="라자트 세트" />
+	<block key="setall4010_Name" korean="카심 세트" />
+	<block key="setall4011_Name" korean="제논 세트" />
+	<block key="setall4012_Name" korean="무파딘 세트" />
+	<block key="setall4013_Name" korean="고대의 세트" />
+	<block key="setall4014_Name" korean="사막 용사의 장신구 세트" />
+	<block key="setallXMAS_Name" korean="크리스마스 장신구 세트" />
+</blocks>

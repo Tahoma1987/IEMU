@@ -1,0 +1,204 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="moramp2_Name" korean="Жертва" />
+	<block key="moramp2_Description_1" korean="Жертва" />
+	<block key="mofigo1_Name" korean="Ход Земля" />
+	<block key="mofigo1_Description_1" korean="Ход Земля" />
+	<block key="mofigo2_Name" korean="Крекинг Земля" />
+	<block key="mofigo2_Description_1" korean="Крекинг Земля" />
+	<block key="mosantinl05_Name" korean="Холодный лед столб" />
+	<block key="mosantinl05_Description_1" korean="Холодный лед столб" />
+	<block key="mogarmu03_Name" korean="Банкротство" />
+	<block key="mogarmu03_Description_1" korean="Банкротство" />
+	<block key="mobragseld00_Name" korean="Вмешательство Удар" />
+	<block key="mobragseld00_Description_1" korean="Вмешательство Удар" />
+	<block key="morzt1_Name" korean="Непрерывная Slash" />
+	<block key="morzt1_Description_1" korean="Непрерывная Slash" />
+	<block key="morzt2_Name" korean="Старые пламя суда" />
+	<block key="morzt2_Description_1" korean="Старые пламя суда" />
+	<block key="morzt3_Name" korean="Огонь Аватар" />
+	<block key="morzt3_Description_1" korean="Огонь Аватар" />
+	<block key="morzt4_Name" korean="Суд метеорит" />
+	<block key="morzt4_Description_1" korean="Суд метеорит" />
+	<block key="morzt5_Name" korean="Суд метеорит" />
+	<block key="morzt5_Description_1" korean="Суд метеорит" />
+	<block key="momupa1_Name" korean="Будьте инсульт" />
+	<block key="momupa1_Description_1" korean="Будьте инсульт" />
+	<block key="momupa2_Name" korean="Земля забастовка" />
+	<block key="momupa2_Description_1" korean="Земля забастовка" />
+	<block key="momupa3_Name" korean="Сильный протектора" />
+	<block key="momupa3_Description_1" korean="Сильный протектора" />
+	<block key="momupa4_Name" korean="Изувечение" />
+	<block key="momupa4_Description_1" korean="Изувечение" />
+	<block key="momupa5_Name" korean="Изувечение" />
+	<block key="momupa5_Description_1" korean="Изувечение" />
+	<block key="momupa6_Name" korean="Изувечение" />
+	<block key="momupa6_Description_1" korean="Изувечение" />
+	<block key="mohama1_Name" korean="Ход плечо" />
+	<block key="mohama1_Description_1" korean="Ход плечо" />
+	<block key="mohama2_Name" korean="Stomp" />
+	<block key="mohama2_Description_1" korean="Stomp" />
+	<block key="mohama3_Name" korean="Глава взрыва" />
+	<block key="mohama3_Description_1" korean="Глава взрыва" />
+	<block key="mohama4_Name" korean="Изувечение" />
+	<block key="mohama4_Description_1" korean="Изувечение" />
+	<block key="mohama5_Name" korean="Изувечение" />
+	<block key="mohama5_Description_1" korean="Изувечение" />
+	<block key="mohama6_Name" korean="Изувечение" />
+	<block key="mohama6_Description_1" korean="Изувечение" />
+	<block key="mokas1_Name" korean="Вакуумные выходы" />
+	<block key="mokas1_Description_1" korean="Вакуумные выходы" />
+	<block key="mokas2_Name" korean="Песок Сандер" />
+	<block key="mokas2_Description_1" korean="Песок Сандер" />
+	<block key="mokas3_Name" korean="Гнев пустыни" />
+	<block key="mokas3_Description_1" korean="Гнев пустыни" />
+	<block key="mokas4_Name" korean="Дикий песок" />
+	<block key="mokas4_Description_1" korean="Дикий песок" />
+	<block key="mokas5_Name" korean="Песок исполнились ярости" />
+	<block key="mokas5_Description_1" korean="Песок исполнились ярости" />
+	<block key="mokass1_Name" korean="Дикий песок" />
+	<block key="mokass1_Description_1" korean="Дикий песок" />
+	<block key="mokass2_Name" korean="Дикий песок" />
+	<block key="mokass2_Description_1" korean="Дикий песок" />
+	<block key="mokasv1_Name" korean="Вакуумные выходы" />
+	<block key="mokasv1_Description_1" korean="Вакуумные выходы" />
+	<block key="mojas1_Name" korean="Огненный шар" />
+	<block key="mojas2_Name" korean="Танцы огненная" />
+	<block key="mojas3_Name" korean="Лавина" />
+	<block key="mojas4_Name" korean="Абсолютный нуль" />
+	<block key="mojas5_Name" korean="Посягая тьма" />
+	<block key="mojas6_Name" korean="Праздник Света" />
+	<block key="mojas7_Name" korean="Блестящие мигает" />
+	<block key="mojas8_Name" korean="Deep Dark" />
+	<block key="mojasa1_Name" korean="Танцы огненная" />
+	<block key="mojasa2_Name" korean="Праздник Света" />
+	<block key="mojasa3_Name" korean="Deep Dark" />
+	<block key="mojasa4_Name" korean="Танцы огненная" />
+	<block key="mosin1_Name" korean="Отметить смерти" />
+	<block key="mosin2_Name" korean="Танцы кинжалы" />
+	<block key="mosin3_Name" korean="Дымовая завеса" />
+	<block key="mosin4_Name" korean="Иллюзия" />
+	<block key="mosin5_Name" korean="Водяной смерч" />
+	<block key="mosin6_Name" korean="Удар молнии" />
+	<block key="mosin7_Name" korean="Концентрация" />
+	<block key="mosin8_Name" korean="Гонки безумие" />
+	<block key="mosin9_Name" korean="Гонки безумие" />
+	<block key="mosin10_Name" korean="Гонки безумие" />
+	<block key="mosin11_Name" korean="Гонки безумие" />
+	<block key="mosin12_Name" korean="Гонки безумие" />
+	<block key="mosins1_Name" korean="Дымовая завеса" />
+	<block key="moruinbow1_Name" korean="Песок Arrow" />
+	<block key="momohabosal01_Name" korean="Sharp окно" />
+	<block key="mokrokbowmangs00_Name" korean="Стрелки Круа-кун" />
+	<block key="mokrokpriesgs01_Name" korean="Символ мужества" />
+	<block key="mokrokpriesgs00_Name" korean="Лечение" />
+	<block key="mosinf1_Name" korean="Гонки безумие" />
+	<block key="mosinf2_Name" korean="Танцы кинжалы" />
+	<block key="mosinf3_Name" korean="Дымовая завеса" />
+	<block key="mosinf4_Name" korean="Водяной смерч" />
+	<block key="morg1_Name" korean="Жесткая борьба назад" />
+	<block key="morg2_Name" korean="Рев Льва" />
+	<block key="morg3_Name" korean="Земля взрыв" />
+	<block key="morg4_Name" korean="Земля взрыв" />
+	<block key="morg5_Name" korean="Призывы к убийству" />
+	<block key="morg6_Name" korean="Оборонительная стойка" />
+	<block key="morg7_Name" korean="Оборонительная стойка" />
+	<block key="morg8_Name" korean="Оборонительная стойка" />
+	<block key="morg9_Name" korean="Оборонительная стойка" />
+	<block key="morg10_Name" korean="Firestorm" />
+	<block key="mobm1_Name" korean="Инструменты Метание" />
+	<block key="mobm2_Name" korean="Бросьте наркотики" />
+	<block key="mobm3_Name" korean="Бросая бомбы" />
+	<block key="mobtw1_Name" korean="Пыльная буря" />
+	<block key="mobtf1_Name" korean="Firestorm" />
+	<block key="mobtic1_Name" korean="Ледяная" />
+	<block key="mobti1_Name" korean="Утюг Pillar" />
+	<block key="mobma1_Name" korean="Ловушка работы" />
+	<block key="mobma2_Name" korean="Ловушка работы" />
+	<block key="mobma3_Name" korean="Ловушка работы" />
+	<block key="mobma4_Name" korean="Ловушка работы" />
+	<block key="moshm1_Name" korean="Вооружившись топором" />
+	<block key="moshm2_Name" korean="Употребление алкоголя" />
+	<block key="moshm3_Name" korean="Бочонок бросить" />
+	<block key="moshm4_Name" korean="Гарнизон звонки" />
+	<block key="moyrs1_Name" korean="Мясорубка" />
+	<block key="moyrs2_Name" korean="Жало" />
+	<block key="moyrs3_Name" korean="Спокойный ответ" />
+	<block key="moyrs4_Name" korean="Спокойный ответ" />
+	<block key="moyrs5_Name" korean="Спокойный ответ" />
+	<block key="moyrs6_Name" korean="Спокойный ответ" />
+	<block key="moyrs7_Name" korean="Raid вызов" />
+	<block key="moyrs8_Name" korean="Жесткая борьба назад" />
+	<block key="momnc1_Name" korean="Великий Исцеление - тире" />
+	<block key="momnc11_Name" korean="Великий Исцеление" />
+	<block key="momnc2_Name" korean="Символ Храма" />
+	<block key="momnc3_Name" korean="Наказание Light" />
+	<block key="momnc4_Name" korean="Символ агрессии" />
+	<block key="momnc5_Name" korean="Воскресение жизни" />
+	<block key="momnc6_Name" korean="Суд метеорит" />
+	<block key="momnc7_Name" korean="Тундра" />
+	<block key="momnc8_Name" korean="Резкий тундра" />
+	<block key="momnco1_Name" korean="Тундра" />
+	<block key="momta1_Name" korean="Тундра" />
+	<block key="momip1_Name" korean="Ice столб" />
+	<block key="momjm1_Name" korean="Суд метеорит" />
+	<block key="momupar1_Name" korean="Жесткая борьба назад" />
+	<block key="mohamar1_Name" korean="Жесткая борьба назад" />
+	<block key="mokrokgladi00_Name" korean="Мясорубка" />
+	<block key="mokrokgladigs00_Name" korean="Мясорубка" />
+	<block key="momorgaso00_Name" korean="Договор ведомого" />
+	<block key="modarkremove00_Name" korean="Тьма-релиз" />
+	<block key="modarkremove00_Description_1" korean="Тьма-релиз" />
+	<block key="modarkarrows00_Name" korean="Тьма развязали" />
+	<block key="modarkarrows00_Description_1" korean="Тьма развязали" />
+	<block key="modarkshadow01_Name" korean="Тень смерти" />
+	<block key="modarkshadow01_Description_1" korean="Тень смерти" />
+	<block key="moindarkmo00_Name" korean="Ревущие в темноте" />
+	<block key="momc1_Name" korean="Hellfire" />
+	<block key="momc2_Name" korean="Буря" />
+	<block key="momc3_Name" korean="Резка" />
+	<block key="momc4_Name" korean="Перейти" />
+	<block key="momc5_Name" korean="Горящими глазами" />
+	<block key="momc6_Name" korean="Сеть молчания" />
+	<block key="momc7_Name" korean="Черная магия преобразование" />
+	<block key="momc8_Name" korean="Мощность взрыва" />
+	<block key="momadness00_Name" korean="Вызов безумие" />
+	<block key="mocompact00_Name" korean="Сжатие" />
+	<block key="mopollutiona01_Name" korean="Загрязненный грунт" />
+	<block key="mopollutiona01_Description_1" korean="Загрязненный грунт" />
+	<block key="mobloodyb01_Name" korean="Кровожадность" />
+	<block key="mobloodyb01_Description_1" korean="Кровожадность" />
+	<block key="mostd1_Name" korean="Ловушки Вильма" />
+	<block key="mostd2_Name" korean="Ловушки Вильма" />
+	<block key="momcf1_Name" korean="Перейти" />
+	<block key="momcf2_Name" korean="Резка" />
+	<block key="momcf3_Name" korean="Резка" />
+	<block key="momcf4_Name" korean="Горящими глазами" />
+	<block key="momcf5_Name" korean="Горящими глазами" />
+	<block key="mobragiseld02_Name" korean="Принимая Ass" />
+	<block key="mobulls02_Name" korean="Знак Re-Volt" />
+	<block key="mobulls03_Name" korean="Знак biteureyi" />
+	<block key="mocactus00_Name" korean="Кактус шипы" />
+	<block key="mocactus01_Name" korean="Влажность кактус" />
+	<block key="mobragismisor00_Name" korean="Блант Mt." />
+	<block key="mowormhelllink04_Name" korean="Песок Ад" />
+	<block key="mowormhelllink05_Name" korean="Песок Ад" />
+	<block key="momohahealer03_Name" korean="Пыльная буря" />
+	<block key="momohahealer05_Name" korean="Пыльная буря" />
+	<block key="momohasp00_Name" korean="Дротик" />
+	<block key="momohabosal00_Name" korean="Дротик" />
+	<block key="momahal00_Name" korean="Расширенный" />
+	<block key="mosnakep00_Name" korean="Яд" />
+	<block key="mosnakep01_Name" korean="Яд" />
+	<block key="monivar1_Name" korean="Вызов Dead" />
+	<block key="mopasit01_Name" korean="Воскресение ритуал" />
+	<block key="mobragiseld03_Name" korean="Гнев султана" />
+	<block key="morashastone00_Name" korean="Боль" />
+	<block key="arpoison03_Name" korean="Яд" />
+</blocks>

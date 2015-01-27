@@ -1,0 +1,276 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="EW0_003_0_0002_Name" korean="Кинжал Браге охотника (вторичный)" />
+	<block key="EW0_004_0_0001_Name" korean="Шашлык из мяса работников Brage" />
+	<block key="EW2_016_0_0000_Name" korean="Scoop порывов" />
+	<block key="EW4_002_0_0002_Name" korean="Карл Тони Клегг Key (вторичный)" />
+	<block key="EW4_011_0_9002_Name" korean="Ключ Кинжал Джейсон Клермон (вторичный)" />
+	<block key="EW4_013_0_9002_Name" korean="Боевой кинжал (вторичный)" />
+	<block key="EW8_001_0_0000_Name" korean="Щит Скелет солдата" />
+	<block key="EW8_003_0_0000_Name" korean="Череп Щит Паладин" />
+	<block key="EW8_027_0_0000_Name" korean="Щит Лев Света" />
+	<block key="EW8_013_0_0000_Name" korean="Направленный щит из стальных хранителей" />
+	<block key="EW8_015_0_0000_Name" korean="Brage щит из патриархов" />
+	<block key="EW4_005_0_0001_Name" korean="Ice бригадный генерал Рондо Мечей (вторичный)" />
+	<block key="EW2_041_0_0000_Name" korean="Кастрюли порывов" />
+	<block key="SU0_001_0_9999_Name" korean="001 Shield лобби" />
+	<block key="SU0_002_0_9999_Name" korean="002 Shield лобби" />
+	<block key="SU0_003_0_9999_Name" korean="003 Shield лобби" />
+	<block key="SU0_004_0_9999_Name" korean="004 Shield лобби" />
+	<block key="SU0_005_0_9999_Name" korean="005 Shield лобби" />
+	<block key="SU0_006_0_9999_Name" korean="006 Shield лобби" />
+	<block key="SU0_007_0_9999_Name" korean="007 Shield лобби" />
+	<block key="SU0_008_0_9999_Name" korean="008 Shield лобби" />
+	<block key="SU0_009_0_9999_Name" korean="009 Shield лобби" />
+	<block key="SU0_010_0_9999_Name" korean="010 Shield лобби" />
+	<block key="SU0_011_0_9999_Name" korean="011 Shield лобби" />
+	<block key="SU0_012_0_9999_Name" korean="012 Shield лобби" />
+	<block key="SU0_013_0_9999_Name" korean="013 Shield лобби" />
+	<block key="SU0_014_0_9999_Name" korean="014 Shield лобби" />
+	<block key="SU0_015_0_9999_Name" korean="015 Shield лобби" />
+	<block key="SU0_016_0_9999_Name" korean="016 Shield лобби" />
+	<block key="SU0_017_0_9999_Name" korean="017 Shield лобби" />
+	<block key="SU0_018_0_9999_Name" korean="018 Shield лобби" />
+	<block key="SU0_019_0_9999_Name" korean="019 Shield лобби" />
+	<block key="SU0_020_0_9999_Name" korean="020 Shield лобби" />
+	<block key="SU0_021_0_9999_Name" korean="021 Shield лобби" />
+	<block key="SU0_022_0_9999_Name" korean="022 Shield лобби" />
+	<block key="SU0_017_0_1011_Name" korean="Старый щит" />
+	<block key="SU0_017_0_1051_Name" korean="Общие щит" />
+	<block key="SU0_017_0_2061_Name" korean="Щит храмовника Shenron" />
+	<block key="SU0_001_0_1101_Name" korean="Полезная Щит" />
+	<block key="SU0_002_0_2102_Name" korean="Щит Fairy" />
+	<block key="SU0_001_0_2101_Name" korean="Щит леса" />
+	<block key="SU0_002_0_1151_Name" korean="Щит общего заболевания" />
+	<block key="SU0_006_0_2151_Name" korean="Щит Рейда" />
+	<block key="SU0_002_0_2141_Name" korean="Древний щит пожарной Голема" />
+	<block key="SU0_006_0_2171_Name" korean="Щит делегации" />
+	<block key="SU0_006_0_1201_Name" korean="Щит sukryeonbyeong" />
+	<block key="SU0_007_0_2201_Name" korean="Вампир Щит" />
+	<block key="SU0_007_0_2202_Name" korean="Милиция Щит" />
+	<block key="SU0_007_0_2221_Name" korean="Проклятый щит" />
+	<block key="SU0_007_0_1251_Name" korean="Щит Elite бутылка" />
+	<block key="SU0_003_0_3231_Name" korean="Охрана Щит" />
+	<block key="SU0_003_0_2251_Name" korean="Щит в небе" />
+	<block key="SU0_003_0_2254_Name" korean="Щит Облачность" />
+	<block key="SU0_005_0_3341_Name" korean="Щит холода" />
+	<block key="SU0_003_0_2252_Name" korean="Щит семьи Колосса" />
+	<block key="SU0_005_0_3342_Name" korean="Yata щит Иман" />
+	<block key="SU0_003_0_1301_Name" korean="Щит новых статей раздела" />
+	<block key="SU0_004_0_2301_Name" korean="Щит mureo mijok" />
+	<block key="SU0_004_0_2271_Name" korean="Только Ветер щит милиция" />
+	<block key="SU0_010_0_3351_Name" korean="Щит коррумпированных последователей" />
+	<block key="SU0_004_0_1351_Name" korean="Щит квалифицированной статьях раздела" />
+	<block key="SU0_005_0_2351_Name" korean="Щит мороза корпуса" />
+	<block key="SU0_005_0_1401_Name" korean="Щит Croix kunjok" />
+	<block key="SU0_010_0_3301_Name" korean="Щит льда бригадного генерала" />
+	<block key="SU0_353_1_1402_Name" korean="Elite Knight щит раздел" />
+	<block key="SU0_002_0_2142_Name" korean="Pegasus Knights Shield" />
+	<block key="SU0_006_0_2191_Name" korean="Бессмертный Легион щит" />
+	<block key="SU0_006_0_3401_Name" korean="Щит Верховный главнокомандующий" />
+	<block key="SU1_017_0_1011_Name" korean="Старый артефакт" />
+	<block key="SU1_017_0_1051_Name" korean="Общие артефакт" />
+	<block key="SU1_017_0_2061_Name" korean="Shenron Рыцари артефакта" />
+	<block key="SU1_001_0_1101_Name" korean="Полезная артефакт" />
+	<block key="SU1_002_0_2102_Name" korean="Артефакты фея" />
+	<block key="SU1_001_0_2101_Name" korean="Артефакты лесу" />
+	<block key="SU1_002_0_1151_Name" korean="Артефакты общего заболевания" />
+	<block key="SU1_006_0_2151_Name" korean="Отрядом артефакт" />
+	<block key="SU1_002_0_2141_Name" korean="Артефакты древней пожарной Голема" />
+	<block key="SU1_006_0_2171_Name" korean="Артефакты делегации" />
+	<block key="SU1_006_0_1201_Name" korean="Артефакты sukryeonbyeong" />
+	<block key="SU1_007_0_2201_Name" korean="Артефакты вампира" />
+	<block key="SU1_007_0_2202_Name" korean="Милиция артефакта" />
+	<block key="SU1_007_0_2221_Name" korean="Проклятый артефакт семьи" />
+	<block key="SU1_007_0_1251_Name" korean="Артефакты Elite бутылок" />
+	<block key="SU1_003_0_3231_Name" korean="Стражи артефакта" />
+	<block key="SU1_003_0_2251_Name" korean="Артефакты в небе" />
+	<block key="SU1_003_0_2254_Name" korean="Артефакты снега" />
+	<block key="SU1_004_0_2271_Name" korean="Артефакт из холодного" />
+	<block key="SU1_003_0_2252_Name" korean="Артефакты семьи Колосса" />
+	<block key="SU1_004_0_2272_Name" korean="Yata двадцать артефакты" />
+	<block key="SU1_003_0_1301_Name" korean="Артефакты новых статей раздела" />
+	<block key="SU1_004_0_2301_Name" korean="Mureo mijok артефакты" />
+	<block key="SU1_005_0_1401_Name" korean="Ветер милиция конец артефакта" />
+	<block key="SU1_005_0_3341_Name" korean="Артефакты павших последователей" />
+	<block key="SU1_004_0_1351_Name" korean="Артефакты квалифицированной статьях раздела" />
+	<block key="SU1_005_0_2351_Name" korean="Артефакты Мороза Легиона" />
+	<block key="SU1_010_0_3351_Name" korean="Артефакты kunjok Круа" />
+	<block key="SU1_010_0_3301_Name" korean="Артефакт льда бригадного генерала" />
+	<block key="SU1_353_1_1402_Name" korean="Артефакты часть элиты статьи" />
+	<block key="SU1_002_0_2142_Name" korean="Pegasus Рыцари артефакта" />
+	<block key="SU1_006_0_2191_Name" korean="Артефакты бессмертных легионов" />
+	<block key="SU1_006_0_3401_Name" korean="Верховный главнокомандующий артефакта" />
+	<block key="SU0_009_0_99999_Name" korean="Щит лидеров" />
+	<block key="SU1_009_0_99999_Name" korean="Артефакты лидера" />
+	<block key="SU0_812_0_2151_Name" korean="Щит жестких ветеранов" />
+	<block key="SU1_812_0_2151_Name" korean="Артефакт сильного воина" />
+	<block key="SU0_822_0_2251_Name" korean="Щит Легенды" />
+	<block key="SU1_822_0_2251_Name" korean="Артефакты легенде" />
+	<block key="SU0_823_0_3251_Name" korean="Щит опытный герой" />
+	<block key="SU1_823_0_3251_Name" korean="Артефакты опытный герой" />
+	<block key="SU0_711_0_1101_Name" korean="Медный экран" />
+	<block key="SU1_711_0_1101_Name" korean="Медь Артефакты" />
+	<block key="SU0_721_0_1201_Name" korean="Стальной щит" />
+	<block key="SU1_721_0_1201_Name" korean="Сталь артефакт" />
+	<block key="SU0_722_0_2201_Name" korean="Закаленная сталь щит" />
+	<block key="SU1_722_0_2201_Name" korean="Закаленная сталь артефакт" />
+	<block key="SU0_731_0_1301_Name" korean="Mithril Щит" />
+	<block key="SU1_731_0_1301_Name" korean="Mithril артефакт" />
+	<block key="SU0_732_0_2301_Name" korean="Укрепленные Мифриловые Щит" />
+	<block key="SU1_732_0_2301_Name" korean="Укрепленные Мифриловые артефакт" />
+	<block key="SU0_733_0_3301_Name" korean="Благородный Mithril Щит" />
+	<block key="SU1_733_0_3301_Name" korean="Благородный Mithril артефакт" />
+	<block key="SU0_002_1_1151_Name" korean="Щит общего заболевания" />
+	<block key="SU0_006_1_2151_Name" korean="Щит Рейда" />
+	<block key="SU0_006_1_1201_Name" korean="Щит sukryeonbyeong" />
+	<block key="SU0_007_1_2201_Name" korean="Вампир Щит" />
+	<block key="SU0_007_1_1251_Name" korean="Щит Elite бутылка" />
+	<block key="SU0_003_1_2251_Name" korean="Щит в небе" />
+	<block key="SU0_003_1_1301_Name" korean="Щит новых статей раздела" />
+	<block key="SU0_004_1_2301_Name" korean="Щит mureo mijok" />
+	<block key="SU1_002_1_1151_Name" korean="Артефакты общего заболевания" />
+	<block key="SU1_006_1_2151_Name" korean="Отрядом артефакт" />
+	<block key="SU1_006_1_1201_Name" korean="Артефакты sukryeonbyeong" />
+	<block key="SU1_007_1_2201_Name" korean="Артефакты вампира" />
+	<block key="SU1_007_1_1251_Name" korean="Артефакты Elite бутылок" />
+	<block key="SU1_003_1_2251_Name" korean="Артефакты в небе" />
+	<block key="SU1_003_1_1301_Name" korean="Артефакты новых статей раздела" />
+	<block key="SU1_004_1_2301_Name" korean="Mureo mijok артефакты" />
+	<block key="SU0_812_1_2151_Name" korean="Щит жестких ветеранов" />
+	<block key="SU1_812_1_2151_Name" korean="Артефакт сильного воина" />
+	<block key="SU0_822_1_2251_Name" korean="Щит Легенды" />
+	<block key="SU1_822_1_2251_Name" korean="Артефакты легенде" />
+	<block key="SU0_823_1_3251_Name" korean="Щит опытный герой" />
+	<block key="SU1_823_1_3251_Name" korean="Артефакты опытный герой" />
+	<block key="pvpSU0_003_1_2528_Name" korean="Щит нижней Hunter" />
+	<block key="pvpSU1_003_1_2528_Name" korean="Малый артефакт охотники" />
+	<block key="pvpSU0_003_1_3033_Name" korean="Щит промежуточного Hunter" />
+	<block key="pvpSU1_003_1_3033_Name" korean="Промежуточные артефактов охотники" />
+	<block key="pvpSU0_003_1_3538_Name" korean="Расширенный щит охотников" />
+	<block key="pvpSU1_003_1_3538_Name" korean="Большие артефактов охотники" />
+	<block key="pvpSU0_003_1_4043_Name" korean="Щит из лучших охотников" />
+	<block key="pvpSU1_003_1_4043_Name" korean="Превосходные артефактов охотники" />
+	<block key="SU1_333_1_3301_Name" korean="Артефакты Первосвященника" />
+	<block key="SU0_333_1_3301_Name" korean="Щит GMS" />
+	<block key="SU0_353_1_3501_Name" korean="Щит свободных рамми руководителей" />
+	<block key="SU1_353_1_3501_Name" korean="Артефакт без Рамми руководители" />
+	<block key="SU0_002_0_2103_Name" korean="Щит Fairy" />
+	<block key="SU0_006_0_2153_Name" korean="Щит мертвеца" />
+	<block key="SU0_007_0_2204_Name" korean="Щит графа" />
+	<block key="SU0_003_0_2255_Name" korean="Yeti семья щит" />
+	<block key="SU0_004_0_2306_Name" korean="Щит фанатик" />
+	<block key="SU0_005_0_2357_Name" korean="Болезнь Frost Shield Элитные корпуса" />
+	<block key="SU1_002_0_2103_Name" korean="Артефакты фея" />
+	<block key="SU1_006_0_2152_Name" korean="Dead артефакт" />
+	<block key="SU1_007_0_2203_Name" korean="Артефакты графа" />
+	<block key="SU1_003_0_2253_Name" korean="Артефакты Yeti группы" />
+	<block key="SU1_004_0_2302_Name" korean="Артефакты фанатика" />
+	<block key="SU1_005_0_2352_Name" korean="Мороз Легион Elite артефакт бутылка" />
+	<block key="SU0_353_1_3503_Name" korean="Кара щит Шах" />
+	<block key="SU1_353_1_3503_Name" korean="Кара артефакт Шах" />
+	<block key="SU0_352_0_2357_Name" korean="YATOO kontin артефакты" />
+	<block key="SU1_352_0_2103_Name" korean="Щит Тюнтин" />
+	<block key="SU0_006_0_2151_EV_Name" korean="Щит рейдеров тамплиеров" />
+	<block key="SU1_006_0_2151_EV_Name" korean="Рыцари артефакта рейдеров" />
+	<block key="SU0_006_0_2171_RE_Name" korean="Я надеюсь, что щит" />
+	<block key="SU0_006_0_2151_RE_Name" korean="Щит Надежда II" />
+	<block key="SU0_007_0_2201_RE_Name" korean="Надеюсь, щит III" />
+	<block key="SU0_003_0_2251_RE_Name" korean="Надеюсь, щит IV" />
+	<block key="SU0_003_0_2254_RE_Name" korean="Надеюсь, щит V" />
+	<block key="SU0_004_0_2301_RE_Name" korean="Надеюсь, щит с VI" />
+	<block key="SU0_005_0_2351_RE_Name" korean="Щит Надежда VII" />
+	<block key="SU1_006_0_2171_RE_Name" korean="Я надеюсь, что артефакт" />
+	<block key="SU1_006_0_2151_RE_Name" korean="Надежда артефакт II" />
+	<block key="SU1_007_0_2201_RE_Name" korean="Надежда артефакт III" />
+	<block key="SU1_003_0_2251_RE_Name" korean="Надеюсь, артефакт IV" />
+	<block key="SU1_003_0_2254_RE_Name" korean="Артефакты Надежда V" />
+	<block key="SU1_004_0_2301_RE_Name" korean="Надеюсь, VI артефакта" />
+	<block key="SU1_005_0_2351_RE_Name" korean="Надеюсь, артефакт VII" />
+	<block key="SU0_010_0_3501_Name" korean="Щит жестокой судьбы" />
+	<block key="SU1_010_0_3501_Name" korean="Артефакты жестокой судьбы" />
+	<block key="SU0_733_0_3351_Name" korean="Благородный Mithril Щит" />
+	<block key="SU1_733_0_3351_Name" korean="Благородный Mithril артефакт" />
+	<block key="SU0_733_0_3401_Name" korean="Турал блестящей щит Солярий" />
+	<block key="SU1_733_0_3401_Name" korean="Турал галлия светит артефакт" />
+	<block key="SU1_005_0_2402_Name" korean="Артефакт нарастания Гора элитной бутылки корпуса" />
+	<block key="SU0_005_0_2407_Name" korean="Щит Идзу гора элитной бутылки корпуса" />
+	<block key="SU0_005_0_3382_Name" korean="Yata щит Иман" />
+	<block key="SU1_004_0_3382_Name" korean="Yata двадцать артефакты" />
+	<block key="BX_SU0_005_0_2357_Name" korean="Старый полумесяца щит сверху" />
+	<block key="BX_SU1_005_0_2352_Name" korean="Старый артефакт полумесяц сверху" />
+	<block key="BX_SU0_010_0_3301_Name" korean="Crescent Щит сверху" />
+	<block key="BX_SU1_010_0_3301_Name" korean="Артефакты полумесяца верхней" />
+	<block key="BX_SU0_005_0_2407_Name" korean="Улучшенная Щит полумесяца верхней" />
+	<block key="BX_SU1_005_0_2402_Name" korean="Улучшенная артефакт полумесяца верхней" />
+	<block key="BX_SU0_006_0_3401_Name" korean="Блестящий экран полумесяц сверху" />
+	<block key="BX_SU1_006_0_3401_Name" korean="Сияющий артефакт полумесяца верхней" />
+	<block key="SU0_001_0_2101_EV1_Name" korean="Героя Щит я" />
+	<block key="SU0_002_0_2102_EV1_Name" korean="Щит Hero II" />
+	<block key="SU0_006_0_2151_EV1_Name" korean="Щит Hero III" />
+	<block key="SU0_007_0_2202_EV1_Name" korean="Щит Heroes IV" />
+	<block key="SU0_005_0_3341_EV1_Name" korean="Щит Heroes V" />
+	<block key="SU0_010_0_3351_EV1_Name" korean="Щит героев VI" />
+	<block key="SU1_001_0_2101_EV1_Name" korean="Артефакты героя I" />
+	<block key="SU1_002_0_2102_EV1_Name" korean="Артефакты Heroes II" />
+	<block key="SU1_006_0_2151_EV1_Name" korean="Артефакты Heroes III" />
+	<block key="SU1_007_0_2202_EV1_Name" korean="Артефакты Heroes IV" />
+	<block key="SU1_004_0_2271_EV1_Name" korean="Артефакты Heroes V" />
+	<block key="SU1_005_0_3341_EV1_Name" korean="Герои VI артефакта" />
+	<block key="SU0_006_0_3402_Name" korean="Верховный главнокомандующий Пресвятой щита" />
+	<block key="SU1_006_0_3402_Name" korean="Верховный главнокомандующий Пресвятой артефакта" />
+	<block key="BX_SU0_010_0_3302_Name" korean="Crescent Щит сверху" />
+	<block key="BX_SU1_010_0_3302_Name" korean="Артефакты полумесяца верхней" />
+	<block key="ew8_025_0_0000_Name" korean="Эльфийская Щит Хаоса" />
+	<block key="SU0_006_0_3403_Name" korean="Щит блестящей лидера" />
+	<block key="SU1_006_0_3403_Name" korean="Артефакты блестящей лидера" />
+	<block key="SU0_451_1_1451_Name" korean="Щит гвардейцев" />
+	<block key="SU1_451_1_1451_Name" korean="Артефакты гвардейцев" />
+	<block key="SU0_452_0_2451_Name" korean="Аль Gocek Guard Shield" />
+	<block key="SU1_452_0_2451_Name" korean="Аль Gocek артефакт Guard" />
+	<block key="SU0_452_0_2452_Name" korean="Грифон Knights Shield" />
+	<block key="SU1_452_0_2452_Name" korean="Грифон Рыцари артефакта" />
+	<block key="SU0_452_0_2453_Name" korean="Щит матери Haba yongbyeongdan" />
+	<block key="SU1_452_0_2453_Name" korean="Артефакты все Haba yongbyeongdan" />
+	<block key="SU0_452_0_2454_Name" korean="Щит Protector руины" />
+	<block key="SU1_452_0_2454_Name" korean="Остатки опекуна артефакта" />
+	<block key="SU0_453_0_3451_Name" korean="Кабрера Щит бытия Церкви" />
+	<block key="SU1_453_0_3451_Name" korean="Im артефакт Кобб Церкви" />
+	<block key="SU0_501_1_1501_Name" korean="Щит Elite гвардии" />
+	<block key="SU1_501_1_1501_Name" korean="Артефакты элитного преторианской" />
+	<block key="SU0_502_0_2503_Name" korean="Щит пустыни Brage" />
+	<block key="SU1_502_0_2503_Name" korean="Артефакты пустыни Brage" />
+	<block key="SU0_502_0_2504_Name" korean="Темный Легион щит Elite бутылка" />
+	<block key="SU1_502_0_2504_Name" korean="Темный Легион Elite артефакт бутылка" />
+	<block key="SU0_502_0_2502_Name" korean="Отшельник Щит" />
+	<block key="SU1_502_0_2502_Name" korean="Отшельники артефакта" />
+	<block key="SU0_503_0_3501_Name" korean="Shadow Shield бригадный генерал" />
+	<block key="SU1_503_0_3501_Name" korean="Артефакты Тьмы бригадного генерала" />
+	<block key="pvpSU0_003_1_4564_Name" korean="Малый Slayer Щит" />
+	<block key="pvpSU1_003_1_4564_Name" korean="Артефакты Малый Slayer" />
+	<block key="pvpSU0_003_1_5069_Name" korean="Промежуточный экран Slayer" />
+	<block key="pvpSU1_003_1_5069_Name" korean="Промежуточные артефакты Slayer" />
+	<block key="SU0_453_0_3451_CR_Name" korean="Сияющий Adamantium Щит" />
+	<block key="SU1_453_0_3451_CR_Name" korean="Adamantium светит артефакт" />
+	<block key="SU0_503_0_3501_CR_Name" korean="Благородный Adamantium Щит" />
+	<block key="SU1_503_0_3501_CR_Name" korean="Noble Durable Adamantium артефакт" />
+	<block key="SU2_353_1_3503_Name" korean="Кара tugap Шах" />
+	<block key="SU0_503_0_3502_Name" korean="Блажен Щит Тьмы бригадного генерала" />
+	<block key="SU1_503_0_3502_Name" korean="Артефакты Тьмы благословил бригадный генерал" />
+	<block key="SU0_010_0_3301_EV1_Name" korean="Героя Shield VII" />
+	<block key="SU0_006_0_3401_EV1_Name" korean="Героя Щит VIII" />
+	<block key="SU1_010_0_3301_EV1_Name" korean="Артефакты героя VII" />
+	<block key="SU1_006_0_3401_EV1_Name" korean="Артефакты героя VIII" />
+	<block key="SU0_452_0_2452_RE_Name" korean="Щит Надежда VIII" />
+	<block key="SU0_502_0_2502_RE_Name" korean="Щит Надежда IX" />
+	<block key="SU1_452_0_2452_RE_Name" korean="Надеюсь, артефакт VIII" />
+	<block key="SU1_502_0_2502_RE_Name" korean="Надеюсь, артефакт IX" />
+	<block key="SU0_XMAS_1_3503_Name" korean="Щит Рождество" />
+	<block key="SU1_XMAS_1_3503_Name" korean="Артефакты Рождество" />
+</blocks>

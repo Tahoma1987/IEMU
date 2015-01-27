@@ -1,0 +1,138 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="fq_01_fk_0001_name" korean="평범한 신룡의 발톱" />
+	<block key="fq_01_sl_0001_name" korean="평범한 신룡의 안장" />
+	<block key="fq_01_ar_0001_name" korean="평범한 신룡의 영혼석" />
+	<block key="fq_02_fk_0001_name" korean="뛰어난 신룡의 발톱" />
+	<block key="fq_02_sl_0001_name" korean="뛰어난 신룡의 안장" />
+	<block key="fq_02_ar_0001_name" korean="뛰어난 신룡의 영혼석" />
+	<block key="fq_03_fk_0001_name" korean="희귀한 신룡의 발톱" />
+	<block key="fq_03_sl_0001_name" korean="희귀한 신룡의 안장" />
+	<block key="fq_03_ar_0001_name" korean="희귀한 신룡의 영혼석" />
+	<block key="fq_01_fk_0002_name" korean="평범한 정령의 발톱" />
+	<block key="fq_01_sl_0002_name" korean="평범한 정령의 안장" />
+	<block key="fq_01_ar_0002_name" korean="평범한 정령의 영혼석" />
+	<block key="fq_02_fk_0002_name" korean="뛰어난 정령의 발톱" />
+	<block key="fq_02_sl_0002_name" korean="뛰어난 정령의 안장" />
+	<block key="fq_02_ar_0002_name" korean="뛰어난 정령의 영혼석" />
+	<block key="fq_03_fk_0002_name" korean="희귀한 정령의 발톱" />
+	<block key="fq_03_sl_0002_name" korean="희귀한 정령의 안장" />
+	<block key="fq_03_ar_0002_name" korean="희귀한 정령의 영혼석" />
+	<block key="fq_01_fk_0003_name" korean="평범한 수호의 발톱" />
+	<block key="fq_01_sl_0003_name" korean="평범한 수호의 안장" />
+	<block key="fq_01_ar_0003_name" korean="평범한 수호의 영혼석" />
+	<block key="fq_02_fk_0003_name" korean="뛰어난 수호의 발톱" />
+	<block key="fq_02_sl_0003_name" korean="뛰어난 수호의 안장" />
+	<block key="fq_02_ar_0003_name" korean="뛰어난 수호의 영혼석" />
+	<block key="fq_03_fk_0003_name" korean="희귀한 수호의 발톱" />
+	<block key="fq_03_sl_0003_name" korean="희귀한 수호의 안장" />
+	<block key="fq_03_ar_0003_name" korean="희귀한 수호의 영혼석" />
+	<block key="fq_01_fk_0004_name" korean="평범한 축복받은 발톱" />
+	<block key="fq_01_sl_0004_name" korean="평범한 축복받은 안장" />
+	<block key="fq_01_ar_0004_name" korean="평범한 축복받은 영혼석" />
+	<block key="fq_02_fk_0004_name" korean="뛰어난 축복받은 발톱" />
+	<block key="fq_02_sl_0004_name" korean="뛰어난 축복받은 안장" />
+	<block key="fq_02_ar_0004_name" korean="뛰어난 축복받은 영혼석" />
+	<block key="fq_03_fk_0004_name" korean="희귀한 축복받은 발톱" />
+	<block key="fq_03_sl_0004_name" korean="희귀한 축복받은 안장" />
+	<block key="fq_03_ar_0004_name" korean="희귀한 축복받은 영혼석" />
+	<block key="fq_01_fk_0005_name" korean="평범한 저주받은 발톱" />
+	<block key="fq_01_sl_0005_name" korean="평범한 저주받은 안장" />
+	<block key="fq_01_ar_0005_name" korean="평범한 저주받은 영혼석" />
+	<block key="fq_02_fk_0005_name" korean="뛰어난 저주받은 발톱" />
+	<block key="fq_02_sl_0005_name" korean="뛰어난 저주받은 안장" />
+	<block key="fq_02_ar_0005_name" korean="뛰어난 저주받은 영혼석" />
+	<block key="fq_03_fk_0005_name" korean="희귀한 저주받은 발톱" />
+	<block key="fq_03_sl_0005_name" korean="희귀한 저주받은 안장" />
+	<block key="fq_03_ar_0005_name" korean="희귀한 저주받은 영혼석" />
+	<block key="fq_02_fk_0006_name" korean="하급 사냥꾼의 발톱" />
+	<block key="fq_02_sl_0006_name" korean="하급 사냥꾼의 안장" />
+	<block key="fq_02_ar_0006_name" korean="하급 사냥꾼의 영혼석" />
+	<block key="fq_02_fk_0007_name" korean="중급 사냥꾼의 발톱" />
+	<block key="fq_02_sl_0007_name" korean="중급 사냥꾼의 안장" />
+	<block key="fq_02_ar_0007_name" korean="중급 사냥꾼의 영혼석" />
+	<block key="fq_02_fk_0008_name" korean="상급 사냥꾼의 발톱" />
+	<block key="fq_02_sl_0008_name" korean="상급 사냥꾼의 안장" />
+	<block key="fq_02_ar_0008_name" korean="상급 사냥꾼의 영혼석" />
+	<block key="fq_02_fk_0009_name" korean="하급 학살자의 발톱" />
+	<block key="fq_02_sl_0009_name" korean="하급 학살자의 안장" />
+	<block key="fq_02_ar_0009_name" korean="하급 학살자의 영혼석" />
+	<block key="fq_02_fk_1009_name" korean="중급 학살자의 발톱" />
+	<block key="fq_02_sl_1009_name" korean="중급 학살자의 안장" />
+	<block key="fq_02_ar_1009_name" korean="중급 학살자의 영혼석" />
+	<block key="fq_01_fk_0006_name" korean="평범한 신성한 발톱" />
+	<block key="fq_01_sl_0006_name" korean="평범한 신성한 안장" />
+	<block key="fq_01_ar_0006_name" korean="평범한 신성한 영혼석" />
+	<block key="fq_02_fk_0010_name" korean="뛰어난 신성한 발톱" />
+	<block key="fq_02_sl_0010_name" korean="뛰어난 신성한 안장" />
+	<block key="fq_02_ar_0010_name" korean="뛰어난 신성한 영혼석" />
+	<block key="fq_03_fk_0006_name" korean="희귀한 신성한 발톱" />
+	<block key="fq_03_sl_0006_name" korean="희귀한 신성한 안장" />
+	<block key="fq_03_ar_0006_name" korean="희귀한 신성한 영혼석" />
+	<block key="fq_02_fk_0011_name" korean="특별한 청마의 발톱" />
+	<block key="fq_02_sl_0011_name" korean="특별한 청마의 안장" />
+	<block key="fq_02_ar_0011_name" korean="특별한 청마의 영혼석" />
+	<block key="fq_03_fk_0007_name" korean="축복받은 청마의 발톱" />
+	<block key="fq_03_sl_0007_name" korean="축복받은 청마의 안장" />
+	<block key="fq_03_ar_0007_name" korean="축복받은 청마의 영혼석" />
+	<block key="fq_03_fk_0008_name" korean="쿠할란의 발톱" />
+	<block key="fq_03_sl_0008_name" korean="쿠할란의 안장" />
+	<block key="fq_03_ar_0008_name" korean="쿠할란의 영혼석" />
+	<block key="fq_02_fk_0012_name" korean="정예 기사단 발톱" />
+	<block key="fq_02_sl_0012_name" korean="정예 기사단 안장" />
+	<block key="fq_02_ar_0012_name" korean="정예 기사단 영혼석" />
+	<block key="fq_01_fk_0007_name" korean="평범한 악몽의 발톱" />
+	<block key="fq_01_sl_0007_name" korean="평범한 악몽의 안장" />
+	<block key="fq_01_ar_0007_name" korean="평범한 악몽의 영혼석" />
+	<block key="fq_02_fk_0013_name" korean="뛰어난 악몽의 발톱" />
+	<block key="fq_02_sl_0013_name" korean="뛰어난 악몽의 안장" />
+	<block key="fq_02_ar_0013_name" korean="뛰어난 악몽의 영혼석" />
+	<block key="fq_03_fk_0009_name" korean="희귀한 악몽의 발톱" />
+	<block key="fq_03_sl_0009_name" korean="희귀한 악몽의 안장" />
+	<block key="fq_03_ar_0009_name" korean="희귀한 악몽의 영혼석" />
+	<block key="fq_04_fk_0001_name" korean="고귀한 악몽의 발톱" />
+	<block key="fq_04_sl_0001_name" korean="고귀한 악몽의 안장" />
+	<block key="fq_04_ar_0001_name" korean="고귀한 악몽의 영혼석" />
+	<block key="fq_01_fk_0008_name" korean="평범한 칠흑같은 발톱" />
+	<block key="fq_01_sl_0008_name" korean="평범한 칠흑같은 안장" />
+	<block key="fq_01_ar_0008_name" korean="평범한 칠흑같은 영혼석" />
+	<block key="fq_02_fk_0014_name" korean="뛰어난 칠흑같은 발톱" />
+	<block key="fq_02_sl_0014_name" korean="뛰어난 칠흑같은 안장" />
+	<block key="fq_02_ar_0014_name" korean="뛰어난 칠흑같은 영혼석" />
+	<block key="fq_03_fk_0010_name" korean="희귀한 칠흑같은 발톱" />
+	<block key="fq_03_sl_0010_name" korean="희귀한 칠흑같은 안장" />
+	<block key="fq_03_ar_0010_name" korean="희귀한 칠흑같은 영혼석" />
+	<block key="fq_04_fk_0002_name" korean="고귀한 칠흑같은 발톱" />
+	<block key="fq_04_sl_0002_name" korean="고귀한 칠흑같은 안장" />
+	<block key="fq_04_ar_0002_name" korean="고귀한 칠흑같은 영혼석" />
+	<block key="fq_06_fk_0001_name" korean="모래의 발톱" />
+	<block key="fq_06_sl_0001_name" korean="모래의 안장" />
+	<block key="fq_06_ar_0001_name" korean="모래의 영혼석" />
+	<block key="fq_06_fk_0002_name" korean="뛰어난 모래의 발톱" />
+	<block key="fq_06_sl_0002_name" korean="뛰어난 모래의 안장" />
+	<block key="fq_06_ar_0002_name" korean="뛰어난 모래의 영혼석" />
+	<block key="fq_06_fk_0003_name" korean="신기루의 발톱" />
+	<block key="fq_06_sl_0003_name" korean="신기루의 안장" />
+	<block key="fq_06_ar_0003_name" korean="신기루의 영혼석" />
+	<block key="fq_06_fk_0004_name" korean="로데쉬의 발톱" />
+	<block key="fq_06_sl_0004_name" korean="로데쉬의 안장" />
+	<block key="fq_06_ar_0004_name" korean="로데쉬의 영혼석" />
+	<block key="fq_06_fk_0011_name" korean="사막의 발톱" />
+	<block key="fq_06_sl_0011_name" korean="사막의 안장" />
+	<block key="fq_06_ar_0011_name" korean="사막의 영혼석" />
+	<block key="fq_06_fk_0012_name" korean="뛰어난 사막의 발톱" />
+	<block key="fq_06_sl_0012_name" korean="뛰어난 사막의 안장" />
+	<block key="fq_06_ar_0012_name" korean="뛰어난 사막의 영혼석" />
+	<block key="fq_06_fk_0013_name" korean="열사의 사막 발톱" />
+	<block key="fq_06_sl_0013_name" korean="열사의 사막 안장" />
+	<block key="fq_06_ar_0013_name" korean="열사의 사막 영혼석" />
+	<block key="fq_06_fk_0014_name" korean="샤키바의 발톱" />
+	<block key="fq_06_sl_0014_name" korean="샤키바의 안장" />
+	<block key="fq_06_ar_0014_name" korean="샤키바의 영혼석" />
+</blocks>

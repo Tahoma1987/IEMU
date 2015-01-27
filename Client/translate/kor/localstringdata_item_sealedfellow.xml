@@ -1,0 +1,5353 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="SF2_101_1_0001_Name" korean="사나운 회색 늑대" />
+	<block key="SF2_101_1_0002_Name" korean="우두머리 회색늑대" />
+	<block key="SF2_101_1_0003_Name" korean="유적지 회색 늑대" />
+	<block key="SF2_101_1_0004_Name" korean="식인 늑대 프릿샤" />
+	<block key="SF2_101_1_0005_Name" korean="페가수스" />
+	<block key="SF2_101_1_0006_Name" korean="나이트메어" />
+	<block key="SF2_101_1_0007_Name" korean="기사단 페가수스" />
+	<block key="SF2_101_1_0008_Name" korean="어둠의 그림자늑대" />
+	<block key="SF2_101_1_0009_Name" korean="애꾸눈 챠카이" />
+	<block key="SF2_101_1_0010_Name" korean="덩치 큰 흑표범" />
+	<block key="SF2_101_1_0011_Name" korean="어둠의 그림자늑대" />
+	<block key="SF2_101_1_0012_Name" korean="그림자 사냥개" />
+	<block key="SF2_101_1_0013_Name" korean="긴 발톱 흑표범" />
+	<block key="SF2_101_1_0014_Name" korean="긴 송곳니 흑표범" />
+	<block key="SF2_101_1_0015_Name" korean="우두머리 트루탄" />
+	<block key="SF2_101_1_0016_Name" korean="굶주린 불곰" />
+	<block key="SF2_101_1_0017_Name" korean="긴 발톱 불곰" />
+	<block key="SF2_101_1_0018_Name" korean="세발가락 검은 곰" />
+	<block key="SF2_101_1_0019_Name" korean="세발가락 검은 곰" />
+	<block key="SF2_101_1_0020_Name" korean="거친갈기 멧돼지" />
+	<block key="SF2_101_1_0021_Name" korean="거친갈기 멧돼지" />
+	<block key="SF2_101_1_0022_Name" korean="큰어금니 멧돼지" />
+	<block key="SF2_101_1_0023_Name" korean="성난 물소" />
+	<block key="SF2_101_1_0024_Name" korean="거친털 들소" />
+	<block key="SF2_101_1_0025_Name" korean="광폭해진 젖소" />
+	<block key="SF2_101_1_0026_Name" korean="난폭해진 황소" />
+	<block key="SF2_101_1_0027_Name" korean="난폭해진 황소" />
+	<block key="SF2_101_1_0028_Name" korean="거친 그림자 펜리스" />
+	<block key="SF2_101_1_0029_Name" korean="약삭빠른 푸른늑대" />
+	<block key="SF2_101_1_0030_Name" korean="사나운 푸른 늑대" />
+	<block key="SF2_101_1_0031_Name" korean="늑대왕 라샤카" />
+	<block key="SF2_101_1_0032_Name" korean="서리발톱 백곰" />
+	<block key="SF2_101_1_0033_Name" korean="거대거미 타슬란" />
+	<block key="SF2_101_1_0034_Name" korean="시체 거미" />
+	<block key="SF2_101_1_0035_Name" korean="서리 거미" />
+	<block key="SF2_101_1_0036_Name" korean="서리 어금니 포치" />
+	<block key="SF2_101_1_0037_Name" korean="길들여진 들소" />
+	<block key="SF2_101_1_0038_Name" korean="유적지 순록" />
+	<block key="SF2_101_1_0039_Name" korean="흰갈기 순록" />
+	<block key="SF2_101_1_0040_Name" korean="검은갈기 순록" />
+	<block key="SF2_101_1_0041_Name" korean="수정뿔 순록" />
+	<block key="SF2_101_1_0042_Name" korean="흰갈기 순록" />
+	<block key="SF2_101_1_0043_Name" korean="검은 발굽 순록" />
+	<block key="SF2_101_1_0044_Name" korean="흰 수염 로가튼" />
+	<block key="SF2_101_1_0045_Name" korean="모리네 호수 거북이" />
+	<block key="SF2_101_1_0046_Name" korean="블랙 윈드" />
+	<block key="SF2_101_1_0047_Name" korean="길들인 조랑말" />
+	<block key="SF2_101_1_0048_Name" korean="검은 늑대" />
+	<block key="SF2_101_1_0049_Name" korean="유적지 타란툴라" />
+	<block key="SF2_101_1_0050_Name" korean="마그마하운드" />
+	<block key="SF2_101_1_0051_Name" korean="라바 토르투스" />
+	<block key="SF2_101_1_0052_Name" korean="유니콘" />
+	<block key="SF2_101_1_0053_Name" korean="불새 불꽃 그림자" />
+	<block key="SF2_101_1_0054_Name" korean="광폭한 멧돼지" />
+	<block key="SF2_101_1_0055_Name" korean="설원 호랑이" />
+	<block key="SF2_101_1_0056_Name" korean="얼음 송곳니 크루거" />
+	<block key="SF2_101_1_0057_Name" korean="길들인 설원 호랑이" />
+	<block key="SF2_101_1_0058_Name" korean="흉폭한 회색곰" />
+	<block key="SF2_101_1_0059_Name" korean="광폭한 우루" />
+	<block key="SF2_101_1_0060_Name" korean="각진 뿔 순록" />
+	<block key="SF2_101_1_0061_Name" korean="이그니스 하운드" />
+	<block key="SF2_101_1_0062_Name" korean="암흑마룡 카라샤" />
+	<block key="SF2_101_1_0063_Name" korean="거대거미 파툴라" />
+	<block key="SF2_101_1_0064_Name" korean="천둥 갑옷새" />
+	<block key="SF2_101_1_0065_Name" korean="회색 늑대" />
+	<block key="SF2_101_1_0066_Name" korean="회색 늑대" />
+	<block key="SF2_101_1_0067_Name" korean="투명 드래곤" />
+	<block key="SF2_101_1_0068_Name" korean="가오리 운송선" />
+	<block key="SF2_101_1_0069_Name" korean="아루이드" />
+	<block key="SF2_101_1_0070_Name" korean="하얀 추적자" />
+	<block key="SF2_101_1_0071_Name" korean="불새 검은 폭풍" />
+	<block key="SF2_101_1_0072_Name" korean="부유고래" />
+	<block key="SF2_101_1_0073_Name" korean="전투마" />
+	<block key="SF2_101_1_0074_Name" korean="백마" />
+	<block key="SF2_101_1_0075_Name" korean="난폭한 보케플로스" />
+	<block key="SF2_101_1_0076_Name" korean="페가수스" />
+	<block key="SF2_101_1_0077_Name" korean="아리다" />
+	<block key="SF2_101_1_0078_Name" korean="라이루드" />
+	<block key="SF2_101_1_0079_Name" korean="스칼레다" />
+	<block key="SF2_101_1_0080_Name" korean="아론사우르스" />
+	<block key="SF2_101_1_0081_Name" korean="플로티어" />
+	<block key="SF2_101_1_0082_Name" korean="키샤르" />
+	<block key="SF2_101_1_0083_Name" korean="바라누스" />
+	<block key="SF2_101_1_0084_Name" korean="래니티" />
+	<block key="SF2_101_1_0085_Name" korean="큰 유적지 순록" />
+	<block key="SF2_101_1_0086_Name" korean="흰갈기 순록" />
+	<block key="SF2_101_1_0087_Name" korean="순한 유적지 순록" />
+	<block key="SF2_101_1_0088_Name" korean="큰 뿔 로가슈" />
+	<block key="SF2_101_1_0089_Name" korean="큰 수정뿔 순록" />
+	<block key="SF2_101_1_0090_Name" korean="굶주린 불곰" />
+	<block key="SF2_101_1_0091_Name" korean="아루이드" />
+	<block key="SF2_101_1_0092_Name" korean="어둠의 그림자늑대" />
+	<block key="SF2_101_1_0093_Name" korean="긴 송곳니 흑표범" />
+	<block key="SF2_101_1_0094_Name" korean="라에타" />
+	<block key="SF2_101_1_0095_Name" korean="저주받은 군마" />
+	<block key="SF2_101_1_0096_Name" korean="외눈박이 훈바바" />
+	<block key="SF2_101_1_0097_Name" korean="큰 이빨 흑표범" />
+	<block key="SF2_101_1_0098_Name" korean="포악한 검은 소" />
+	<block key="SF2_101_1_0099_Name" korean="거친 포효 알 샤이" />
+	<block key="SF2_101_1_0100_Name" korean="폭군 나탄" />
+	<block key="SF2_101_1_0101_Name" korean="적색 마룡 슈테른" />
+	<block key="SF2_101_1_0102_Name" korean="큰 뿔 순록" />
+	<block key="SF2_101_1_0103_Name" korean="하이에버드" />
+	<block key="SF2_101_1_0104_Name" korean="붉은 갑옷새" />
+	<block key="SF2_101_1_0105_Name" korean="여명의 카고일" />
+	<block key="SF2_101_1_0106_Name" korean="공허의 카고일" />
+	<block key="SF2_101_1_0107_Name" korean="라이루드" />
+	<block key="SF2_101_1_0108_Name" korean="플로티어" />
+	<block key="SF2_101_1_0109_Name" korean="초원 타조" />
+	<block key="SF2_101_1_0110_Name" korean="팔케" />
+	<block key="SF2_101_1_0111_Name" korean="긴꼬리 전갈" />
+	<block key="SF2_101_1_0112_Name" korean="큰집게 전갈" />
+	<block key="SF2_101_1_0113_Name" korean="회색 샤우벨" />
+	<block key="SF2_101_1_0114_Name" korean="거친 흰발톱 늑대" />
+	<block key="SF2_101_1_0115_Name" korean="흰눈꽃 순록" />
+	<block key="SF2_101_1_0116_Name" korean="흰갈기 그리바" />
+	<block key="SF2_101_1_0117_Name" korean="파란 저브저브 새" />
+	<block key="SF2_101_1_0118_Name" korean="아브리셔스" />
+	<block key="SF2_101_1_0119_Name" korean="나이트메어" />
+	<block key="SF2_101_1_0120_Name" korean="블라바" />
+	<block key="SF2_101_1_0121_Name" korean="호랑무늬 앵무" />
+	<block key="SF2_101_1_0122_Name" korean="서리 와이번 가이라" />
+	<block key="SF2_101_1_0123_Name" korean="리오네스" />
+	<block key="SF2_101_1_0124_Name" korean="공포의 케라브" />
+	<block key="SF2_101_1_0125_Name" korean="라토라스" />
+	<block key="SF2_101_1_0126_Name" korean="코르누" />
+	<block key="SF2_101_1_0127_Name" korean="피룬" />
+	<block key="SF2_101_1_0128_Name" korean="아드헬" />
+	<block key="SF2_101_1_0129_Name" korean="헬로나" />
+	<block key="SF2_101_1_0130_Name" korean="베나토르" />
+	<block key="SF2_101_1_0131_Name" korean="베르사" />
+	<block key="SF2_101_1_0132_Name" korean="골드혼" />
+	<block key="SF2_101_1_0133_Name" korean="불굴의 라하브" />
+	<block key="SF2_101_1_0134_Name" korean="서리발톱 백곰" />
+	<block key="SF2_101_1_0135_Name" korean="불굴의 라하브" />
+	<block key="SF2_101_1_0136_Name" korean="타이슈마" />
+	<block key="SF2_101_1_0137_Name" korean="슈마크" />
+	<block key="SF2_101_1_0138_Name" korean="레오슈마" />
+	<block key="SF2_101_1_0139_Name" korean="캐스퍼트" />
+	<block key="SF2_101_1_0140_Name" korean="맹독 캐스퍼트" />
+	<block key="SF2_101_1_0141_Name" korean="문지기 마투라" />
+	<block key="SF2_101_1_0142_Name" korean="흰눈꽃 순록" />
+	<block key="SF2_101_1_0143_Name" korean="거친발톱 라이거" />
+	<block key="SF2_101_1_0144_Name" korean="눈보라 늑대" />
+	<block key="SF2_101_1_0145_Name" korean="사나운 회색 늑대" />
+	<block key="SF2_101_1_0146_Name" korean="우두머리 회색늑대" />
+	<block key="SF2_101_1_0147_Name" korean="유적지 회색 늑대" />
+	<block key="SF2_101_1_0148_Name" korean="식인 늑대 프릿샤" />
+	<block key="SF2_101_1_0149_Name" korean="어둠의 그림자늑대" />
+	<block key="SF2_101_1_0150_Name" korean="애꾸눈 챠카이" />
+	<block key="SF2_101_1_0151_Name" korean="덩치 큰 흑표범" />
+	<block key="SF2_101_1_0152_Name" korean="어둠의 그림자늑대" />
+	<block key="SF2_101_1_0153_Name" korean="그림자 사냥개" />
+	<block key="SF2_101_1_0154_Name" korean="긴 발톱 흑표범" />
+	<block key="SF2_101_1_0155_Name" korean="긴 송곳니 흑표범" />
+	<block key="SF2_101_1_0156_Name" korean="우두머리 트루탄" />
+	<block key="SF2_101_1_0157_Name" korean="굶주린 불곰" />
+	<block key="SF2_101_1_0158_Name" korean="긴 발톱 불곰" />
+	<block key="SF2_101_1_0159_Name" korean="세발가락 검은 곰" />
+	<block key="SF2_101_1_0160_Name" korean="세발가락 검은 곰" />
+	<block key="SF2_101_1_0161_Name" korean="거친갈기 멧돼지" />
+	<block key="SF2_101_1_0162_Name" korean="거친갈기 멧돼지" />
+	<block key="SF2_101_1_0163_Name" korean="큰어금니 멧돼지" />
+	<block key="SF2_101_1_0164_Name" korean="성난 물소" />
+	<block key="SF2_101_1_0165_Name" korean="거친털 들소" />
+	<block key="SF2_101_1_0166_Name" korean="광폭해진 젖소" />
+	<block key="SF2_101_1_0167_Name" korean="난폭해진 황소" />
+	<block key="SF2_101_1_0168_Name" korean="난폭해진 황소" />
+	<block key="SF2_101_1_0169_Name" korean="거친 그림자 펜리스" />
+	<block key="SF2_101_1_0170_Name" korean="약삭빠른 푸른늑대" />
+	<block key="SF2_101_1_0171_Name" korean="사나운 푸른 늑대" />
+	<block key="SF2_101_1_0172_Name" korean="늑대왕 라샤카" />
+	<block key="SF2_101_1_0173_Name" korean="거대거미 타슬란" />
+	<block key="SF2_101_1_0174_Name" korean="시체 거미" />
+	<block key="SF2_101_1_0175_Name" korean="서리 거미" />
+	<block key="SF2_101_1_0176_Name" korean="서리 어금니 포치" />
+	<block key="SF2_101_1_0177_Name" korean="길들여진 들소" />
+	<block key="SF2_101_1_0178_Name" korean="유적지 순록" />
+	<block key="SF2_101_1_0179_Name" korean="흰갈기 순록" />
+	<block key="SF2_101_1_0180_Name" korean="검은갈기 순록" />
+	<block key="SF2_101_1_0181_Name" korean="수정뿔 순록" />
+	<block key="SF2_101_1_0182_Name" korean="흰갈기 순록" />
+	<block key="SF2_101_1_0183_Name" korean="검은 발굽 순록" />
+	<block key="SF2_101_1_0184_Name" korean="흰 수염 로가튼" />
+	<block key="SF2_101_1_0185_Name" korean="모리네 호수 거북이" />
+	<block key="SF2_101_1_0186_Name" korean="블랙 윈드" />
+	<block key="SF2_101_1_0187_Name" korean="난폭한 조랑말" />
+	<block key="SF2_101_1_0188_Name" korean="검은 늑대" />
+	<block key="SF2_101_1_0189_Name" korean="유적지 타란툴라" />
+	<block key="SF2_101_1_0190_Name" korean="마그마하운드" />
+	<block key="SF2_101_1_0191_Name" korean="라바 토르투스" />
+	<block key="SF2_101_1_0192_Name" korean="유니콘" />
+	<block key="SF2_101_1_0193_Name" korean="불새 불꽃 그림자" />
+	<block key="SF2_101_1_0194_Name" korean="광폭한 멧돼지" />
+	<block key="SF2_101_1_0195_Name" korean="설원 호랑이" />
+	<block key="SF2_101_1_0196_Name" korean="얼음 송곳니 크루거" />
+	<block key="SF2_101_1_0197_Name" korean="길들인 설원 호랑이" />
+	<block key="SF2_101_1_0198_Name" korean="흉폭한 회색곰" />
+	<block key="SF2_101_1_0199_Name" korean="광폭한 우루" />
+	<block key="SF2_101_1_0200_Name" korean="각진 뿔 순록" />
+	<block key="SF2_101_1_0201_Name" korean="이그니스 하운드" />
+	<block key="SF2_101_1_0202_Name" korean="거대거미 파툴라" />
+	<block key="SF2_101_1_0203_Name" korean="거대 칼날 불새" />
+	<block key="SF2_101_1_0204_Name" korean="아루이드" />
+	<block key="SF2_101_1_0205_Name" korean="하얀 추적자" />
+	<block key="SF2_101_1_0206_Name" korean="불새 검은 폭풍" />
+	<block key="SF2_101_1_0207_Name" korean="전투마" />
+	<block key="SF2_101_1_0208_Name" korean="백마" />
+	<block key="SF2_101_1_0209_Name" korean="난폭한 보케플로스" />
+	<block key="SF2_101_1_0210_Name" korean="페가수스" />
+	<block key="SF2_101_1_0211_Name" korean="아리다" />
+	<block key="SF2_101_1_0212_Name" korean="아론사우르스" />
+	<block key="SF2_101_1_0213_Name" korean="뼈 드래곤" />
+	<block key="SF2_101_1_0214_Name" korean="바라누스" />
+	<block key="SF2_101_1_0215_Name" korean="래니티" />
+	<block key="SF2_101_1_0216_Name" korean="큰 유적지 순록" />
+	<block key="SF2_101_1_0217_Name" korean="흰갈기 순록" />
+	<block key="SF2_101_1_0218_Name" korean="순한 유적지 순록" />
+	<block key="SF2_101_1_0219_Name" korean="큰 뿔 로가슈" />
+	<block key="SF2_101_1_0220_Name" korean="큰 수정뿔 순록" />
+	<block key="SF2_101_1_0221_Name" korean="굶주린 불곰" />
+	<block key="SF2_101_1_0222_Name" korean="아루이드" />
+	<block key="SF2_101_1_0223_Name" korean="어둠의 그림자늑대" />
+	<block key="SF2_101_1_0224_Name" korean="회색 늑대" />
+	<block key="SF2_101_1_0225_Name" korean="라에타" />
+	<block key="SF2_101_1_0226_Name" korean="저주받은 군마" />
+	<block key="SF2_101_1_0227_Name" korean="외눈박이 훈바바" />
+	<block key="SF2_101_1_0228_Name" korean="큰 이빨 흑표범" />
+	<block key="SF2_101_1_0229_Name" korean="포악한 검은 소" />
+	<block key="SF2_101_1_0230_Name" korean="거친 포효 알 샤이" />
+	<block key="SF2_101_1_0231_Name" korean="폭군 나탄" />
+	<block key="SF2_101_1_0232_Name" korean="적색 마룡 슈테른" />
+	<block key="SF2_101_1_0233_Name" korean="큰 뿔 순록" />
+	<block key="SF2_101_1_0234_Name" korean="하이에버드" />
+	<block key="SF2_101_1_0235_Name" korean="붉은 갑옷새" />
+	<block key="SF2_101_1_0236_Name" korean="초원 타조" />
+	<block key="SF2_101_1_0237_Name" korean="팔케" />
+	<block key="SF2_101_1_0238_Name" korean="긴꼬리 전갈" />
+	<block key="SF2_101_1_0239_Name" korean="큰집게 전갈" />
+	<block key="SF2_101_1_0240_Name" korean="회색 샤우벨" />
+	<block key="SF2_101_1_0241_Name" korean="거친 흰발톱 늑대" />
+	<block key="SF2_101_1_0242_Name" korean="흰갈기 그리바" />
+	<block key="SF2_101_1_0243_Name" korean="파란 저브저브 새" />
+	<block key="SF2_101_1_0244_Name" korean="아브리셔스" />
+	<block key="SF2_101_1_0245_Name" korean="나이트메어" />
+	<block key="SF2_101_1_0246_Name" korean="블라바" />
+	<block key="SF2_101_1_0247_Name" korean="호랑무늬 앵무" />
+	<block key="SF2_101_1_0248_Name" korean="서리 와이번 가이라" />
+	<block key="SF2_101_1_0249_Name" korean="리오네스" />
+	<block key="SF2_101_1_0250_Name" korean="공포의 케라브" />
+	<block key="SF2_101_1_0251_Name" korean="라토라스" />
+	<block key="SF2_101_1_0252_Name" korean="코르누" />
+	<block key="SF2_101_1_0253_Name" korean="피룬" />
+	<block key="SF2_101_1_0254_Name" korean="아드헬" />
+	<block key="SF2_101_1_0255_Name" korean="헬로나" />
+	<block key="SF2_101_1_0256_Name" korean="베나토르" />
+	<block key="SF2_101_1_0257_Name" korean="베르사" />
+	<block key="SF2_101_1_0258_Name" korean="골드혼" />
+	<block key="SF2_101_1_0259_Name" korean="타이슈마" />
+	<block key="SF2_101_1_0260_Name" korean="슈마크" />
+	<block key="SF2_101_1_0261_Name" korean="레오슈마" />
+	<block key="SF2_101_1_0262_Name" korean="캐스퍼트" />
+	<block key="SF2_101_1_0263_Name" korean="맹독 캐스퍼트" />
+	<block key="SF2_101_1_0264_Name" korean="문지기 마투라" />
+	<block key="SF2_101_1_0265_Name" korean="거친발톱 라이거" />
+	<block key="SF2_101_1_0266_Name" korean="눈보라 늑대" />
+	<block key="SF2_101_1_0267_Name" korean="스칼레다" />
+	<block key="SF2_101_1_0268_Name" korean="스칼레다" />
+	<block key="SF2_101_1_0269_Name" korean="작은 새" />
+	<block key="SF2_101_1_0270_Name" korean="본 슬로프" />
+	<block key="SF2_101_1_0271_Name" korean="본 슬로프" />
+	<block key="SF2_101_1_0272_Name" korean="흰 털 올빼미" />
+	<block key="SF2_101_1_0273_Name" korean="흰 털 올빼미" />
+	<block key="SF2_101_1_0274_Name" korean="고스트" />
+	<block key="SF2_101_1_0275_Name" korean="프로스트" />
+	<block key="SF2_101_1_0276_Name" korean="미스트" />
+	<block key="SF2_101_1_0277_Name" korean="고스트" />
+	<block key="SF2_101_1_0278_Name" korean="프로스트" />
+	<block key="SF2_101_1_0279_Name" korean="미스트" />
+	<block key="SF2_101_1_0280_Name" korean="부유 고래(컷신)" />
+	<block key="SF2_101_1_0281_Name" korean="갈색 소" />
+	<block key="SF2_101_1_0282_Name" korean="붉은 마룡 아그나스" />
+	<block key="SF2_101_1_0283_Name" korean="거북이타입1" />
+	<block key="SF2_101_1_0284_Name" korean="레이지" />
+	<block key="SF2_101_1_0285_Name" korean="얼룩말" />
+	<block key="SF2_101_1_0286_Name" korean="아크라트 초원새" />
+	<block key="SF2_101_1_0287_Name" korean="새끼불새 타입2" />
+	<block key="SF2_101_1_0288_Name" korean="새끼불새 타입3" />
+	<block key="SF2_101_1_0289_Name" korean="흰 털 올빼미" />
+	<block key="SF2_101_1_0290_Name" korean="아포칼립스" />
+	<block key="SF2_101_1_0291_Name" korean="아포칼립스" />
+	<block key="SF2_101_1_0292_Name" korean="아포칼립스" />
+	<block key="SF2_101_1_0293_Name" korean="본 와이번(컷신)" />
+	<block key="SF2_101_1_0294_Name" korean="가르므" />
+	<block key="SF2_101_1_0295_Name" korean="화염의 뼈 와이번" />
+	<block key="SF2_101_1_0296_Name" korean="어둠의 뼈 와이번" />
+	<block key="SF2_101_1_0297_Name" korean="인디그네" />
+	<block key="SF2_101_1_0298_Name" korean="빛의 드래곤" />
+	<block key="SF2_101_1_0299_Name" korean="아이스 하운드" />
+	<block key="SF2_101_1_0300_Name" korean="그리들리" />
+	<block key="SF2_101_1_0301_Name" korean="샌드 사우르스" />
+	<block key="SF2_101_1_0302_Name" korean="프로즌 사우르스" />
+	<block key="SF2_101_1_0303_Name" korean="부유 해마" />
+	<block key="SF2_101_1_0304_Name" korean="부유 해마" />
+	<block key="SF2_101_1_0305_Name" korean="라이닉" />
+	<block key="SF2_101_1_0306_Name" korean="라이닉" />
+	<block key="SF2_101_1_0307_Name" korean="숲 고릴라" />
+	<block key="SF2_101_1_0308_Name" korean="악몽의 메간테스" />
+	<block key="SF2_101_1_0309_Name" korean="심연의 바이렛" />
+	<block key="SF2_101_1_0310_Name" korean="궁극의 드라우프" />
+	<block key="SF2_101_1_0311_Name" korean="강철 발톱 로커스" />
+	<block key="SF2_101_1_0312_Name" korean="거친 바람 슬레이브" />
+	<block key="SF2_101_1_0313_Name" korean="고스트 엠브라" />
+	<block key="SF2_101_1_0314_Name" korean="고스트 마스토" />
+	<block key="SF2_101_1_0315_Name" korean="그리들리" />
+	<block key="SF2_101_1_0316_Name" korean="아로트" />
+	<block key="SF2_101_1_0317_Name" korean="아로트" />
+	<block key="SF2_101_1_0318_Name" korean="공허의 레토른시아" />
+	<block key="SF2_101_1_0319_Name" korean="스크리머" />
+	<block key="SF2_101_1_0320_Name" korean="스크리머" />
+	<block key="SF2_101_1_0321_Name" korean="길들여진 무레네" />
+	<block key="SF2_101_1_0322_Name" korean="길들여진 무레네" />
+	<block key="SF2_101_1_0323_Name" korean="아이스 하운드" />
+	<block key="SF2_101_1_0324_Name" korean="프로즌 사우르스" />
+	<block key="SF2_101_1_0325_Name" korean="아이스하운드" />
+	<block key="SF2_101_1_0326_Name" korean="프로즌 사우르스" />
+	<block key="SF2_101_1_0327_Name" korean="난폭한 블래크" />
+	<block key="SF2_101_1_0328_Name" korean="잿빛 드라이드" />
+	<block key="SF2_101_1_0329_Name" korean="폭풍의 드레이크" />
+	<block key="SF2_101_1_0330_Name" korean="살얼음 거북" />
+	<block key="SF2_101_1_0331_Name" korean="냉혹한 무파사" />
+	<block key="SF2_101_1_0332_Name" korean="매서운 부리 로도스" />
+	<block key="SF2_101_1_0333_Name" korean="숲지기 레디어" />
+	<block key="SF2_101_1_0334_Name" korean="서리꽃 레이도스" />
+	<block key="SF2_101_1_0335_Name" korean="혹한의 비명새" />
+	<block key="SF2_101_1_0336_Name" korean="마룡 스트라이거" />
+	<block key="SF2_101_1_0337_Name" korean="얼음 독 거미" />
+	<block key="SF2_101_1_0338_Name" korean="난폭한 블래크" />
+	<block key="SF2_101_1_0339_Name" korean="잿빛 드라이드" />
+	<block key="SF2_101_1_0340_Name" korean="폭풍의 드레이크" />
+	<block key="SF2_101_1_0341_Name" korean="살얼음 거북" />
+	<block key="SF2_101_1_0342_Name" korean="냉혹한 무파사" />
+	<block key="SF2_101_1_0343_Name" korean="매서운 부리 로도스" />
+	<block key="SF2_101_1_0344_Name" korean="숲지기 레디어" />
+	<block key="SF2_101_1_0345_Name" korean="서리꽃 레이도스" />
+	<block key="SF2_101_1_0346_Name" korean="혹한의 비명새" />
+	<block key="SF2_101_1_0347_Name" korean="마룡 스트라이거" />
+	<block key="SF2_101_1_0348_Name" korean="얼음 독 거미" />
+	<block key="SF2_101_1_0349_Name" korean="눈바람 히포그리포" />
+	<block key="SF2_101_1_0350_Name" korean="눈바람 히포그리포" />
+	<block key="SF2_101_1_0351_Name" korean="프로즌 사우르스" />
+	<block key="SF2_101_1_0352_Name" korean="아이스 하운드" />
+	<block key="SF2_101_1_0353_Name" korean="피테로" />
+	<block key="SF2_101_1_0354_Name" korean="피테로" />
+	<block key="SF2_101_1_0355_Name" korean="공허의 크라비드" />
+	<block key="SF2_101_1_0356_Name" korean="공허의 크라비드" />
+	<block key="SF2_101_1_0357_Name" korean="적빛 드라이드" />
+	<block key="SF2_101_1_0358_Name" korean="홍련의 레오니드" />
+	<block key="SF2_101_1_0359_Name" korean="은빛 슬레이드" />
+	<block key="SF2_101_1_0360_Name" korean="이베마" />
+	<block key="SF2_101_1_0361_Name" korean="드렌슬" />
+	<block key="SF2_101_1_0362_Name" korean="레드 드렌슬" />
+	<block key="SF2_101_1_0363_Name" korean="은빛 슬레이드" />
+	<block key="SF2_101_1_0364_Name" korean="블랙 드렌슬" />
+	<block key="SF2_101_1_0365_Name" korean="붉은뿔 갈라도쿠" />
+	<block key="SF2_101_1_0366_Name" korean="드라쿠" />
+	<block key="SF2_101_1_0367_Name" korean="검은뿔 다이노쿠" />
+	<block key="SF2_101_1_0368_Name" korean="라이쿠" />
+	<block key="SF2_101_1_0369_Name" korean="레드 드라거" />
+	<block key="SF2_101_1_0370_Name" korean="드라쿠" />
+	<block key="SF2_101_1_0371_Name" korean="검은뿔 다이노쿠" />
+	<block key="SF2_101_1_0372_Name" korean="라이쿠" />
+	<block key="SF2_101_1_0373_Name" korean="큰어금니 멧돼지" />
+	<block key="SF2_101_1_0374_Name" korean="푸른 아로스" />
+	<block key="SF2_101_1_0375_Name" korean="백색의 트로이" />
+	<block key="SF2_101_1_0376_Name" korean="폭군 카라스" />
+	<block key="SF2_101_1_0377_Name" korean="스카너" />
+	<block key="SF2_101_1_0378_Name" korean="벌쳐" />
+	<block key="SF2_101_1_0379_Name" korean="검은색 올빼미" />
+	<block key="SF2_101_1_0380_Name" korean="논 포쎄 아포칼립스" />
+	<block key="SF2_101_1_0381_Name" korean="공포의 파이루드" />
+	<block key="SF2_101_1_0382_Name" korean="심연의 코아트라" />
+	<block key="SF2_101_1_0383_Name" korean="반달곰 바크" />
+	<block key="SF2_101_1_0384_Name" korean="심술쟁이 그로스" />
+	<block key="SF2_101_1_0385_Name" korean="산호수리" />
+	<block key="SF2_101_1_0386_Name" korean="붉은색 메간테스" />
+	<block key="SF2_101_1_0387_Name" korean="광룡 파라가스" />
+	<block key="SF2_101_1_0388_Name" korean="흑룡 발라크" />
+	<block key="SF2_101_1_0389_Name" korean="암흑 날개 카마라" />
+	<block key="SF2_101_1_0390_Name" korean="공역의 날개 페무토" />
+	<block key="SF2_101_1_0391_Name" korean="하얀 날개 아마란스" />
+	<block key="SF2_101_1_0392_Name" korean="흰수염 화이트티어" />
+	<block key="SF2_101_1_0393_Name" korean="검은색 거북이" />
+	<block key="SF2_101_1_0394_Name" korean="검은색 유니콘" />
+	<block key="SF2_101_1_0395_Name" korean="달빛 루시퍼트" />
+	<block key="SF2_101_1_0396_Name" korean="푸른 날개 블레이드" />
+	<block key="SF2_101_1_0397_Name" korean="스노비시" />
+	<block key="SF2_101_1_0398_Name" korean="검은색 부유해마" />
+	<block key="SF2_101_1_0399_Name" korean="이보크" />
+	<block key="SF2_101_1_0400_Name" korean="알비노 아벤느" />
+	<block key="SF2_101_1_0401_Name" korean="엔비" />
+	<block key="SF2_101_1_0402_Name" korean="아벤느" />
+	<block key="SF2_101_1_0403_Name" korean="아라이크" />
+	<block key="SF2_101_1_0404_Name" korean="금빛 날개 아브라스" />
+	<block key="SF2_101_1_0405_Name" korean="푸른 아로스" />
+	<block key="SF2_101_1_0406_Name" korean="백색의 트로이" />
+	<block key="SF2_101_1_0407_Name" korean="폭군 카라스" />
+	<block key="SF2_101_1_0408_Name" korean="스카너" />
+	<block key="SF2_101_1_0409_Name" korean="벌쳐" />
+	<block key="SF2_101_1_0410_Name" korean="검은색 올빼미" />
+	<block key="SF2_101_1_0411_Name" korean="논 포쎄 아포칼립스" />
+	<block key="SF2_101_1_0412_Name" korean="공포의 파이루드" />
+	<block key="SF2_101_1_0413_Name" korean="심연의 코아트라" />
+	<block key="SF2_101_1_0414_Name" korean="반달곰 바크" />
+	<block key="SF2_101_1_0415_Name" korean="흰색 멧돼지" />
+	<block key="SF2_101_1_0416_Name" korean="산호수리" />
+	<block key="SF2_101_1_0417_Name" korean="붉은색 메간테스" />
+	<block key="SF2_101_1_0418_Name" korean="광룡 파라가스" />
+	<block key="SF2_101_1_0419_Name" korean="검은색 - 하얀추적자" />
+	<block key="SF2_101_1_0420_Name" korean="암흑 날개 카마라" />
+	<block key="SF2_101_1_0421_Name" korean="공역의 날개 페무토" />
+	<block key="SF2_101_1_0422_Name" korean="흰색 불새" />
+	<block key="SF2_101_1_0423_Name" korean="흰색 플로티어" />
+	<block key="SF2_101_1_0424_Name" korean="검은색 거북이" />
+	<block key="SF2_101_1_0425_Name" korean="검은색 유니콘" />
+	<block key="SF2_101_1_0426_Name" korean="달빛 루시퍼트" />
+	<block key="SF2_101_1_0427_Name" korean="푸른색 페가수스" />
+	<block key="SF2_101_1_0428_Name" korean="스노비시" />
+	<block key="SF2_101_1_0429_Name" korean="궁극의 드라우프" />
+	<block key="SF2_101_1_0430_Name" korean="이보크" />
+	<block key="SF2_101_1_0431_Name" korean="알비노 아벤느" />
+	<block key="SF2_101_1_0432_Name" korean="엔비" />
+	<block key="SF2_101_1_0433_Name" korean="아벤느" />
+	<block key="SF2_101_1_0434_Name" korean="아라이크" />
+	<block key="SF2_101_1_0435_Name" korean="금빛 날개 아브라스" />
+	<block key="SF2_101_1_0436_Name" korean="다크호스" />
+	<block key="SF2_101_1_0437_Name" korean="서리 어금니 포치" />
+	<block key="SF2_101_1_0438_Name" korean="가르므" />
+	<block key="SF2_101_1_0439_Name" korean="가르므" />
+	<block key="SF2_101_1_0440_Name" korean="전투마" />
+	<block key="SF2_101_1_0441_Name" korean="백마" />
+	<block key="SF2_101_1_0442_Name" korean="난폭한 보케플로스" />
+	<block key="SF2_101_1_0443_Name" korean="길들여진 들소" />
+	<block key="SF2_101_1_0444_Name" korean="길들인 설원 호랑이" />
+	<block key="SF2_101_1_0445_Name" korean="긴 송곳니 흑표범" />
+	<block key="SF2_101_1_0446_Name" korean="긴 송곳니 흑표범" />
+	<block key="SF2_101_1_0447_Name" korean="성난 물소" />
+	<block key="SF2_101_1_0448_Name" korean="성난 물소" />
+	<block key="SF2_101_1_0449_Name" korean="서리발톱 백곰" />
+	<block key="SF2_101_1_0450_Name" korean="서리발톱 백곰" />
+	<block key="SF2_101_1_0451_Name" korean="파나메르" />
+	<block key="SF2_101_1_0452_Name" korean="파나메르" />
+	<block key="SF2_101_1_0453_Name" korean="흰발톱 늑대" />
+	<block key="SF2_101_1_0454_Name" korean="흰발톱 늑대" />
+	<block key="SF2_101_1_0455_Name" korean="러스트" />
+	<block key="SF2_101_1_0456_Name" korean="러스트" />
+	<block key="SF2_101_1_0457_Name" korean="반달곰 바크" />
+	<block key="SF2_101_1_0458_Name" korean="초원 불곰" />
+	<block key="SF2_101_1_0459_Name" korean="루시티" />
+	<block key="SF2_101_1_0460_Name" korean="마이티" />
+	<block key="SF2_101_1_0461_Name" korean="명마 바리오스" />
+	<block key="SF2_101_1_0462_Name" korean="초원 순록" />
+	<block key="SF2_101_1_0463_Name" korean="용감한 토니카이" />
+	<block key="SF2_101_1_0464_Name" korean="배고픈 표범" />
+	<block key="SF2_101_1_0465_Name" korean="잔인한 스카" />
+	<block key="SF2_101_1_0466_Name" korean="창공의 윈드러너" />
+	<block key="SF2_101_1_0467_Name" korean="반달곰 바크" />
+	<block key="SF2_101_1_0468_Name" korean="초원 불곰" />
+	<block key="SF2_101_1_0469_Name" korean="루시티" />
+	<block key="SF2_101_1_0470_Name" korean="마이티" />
+	<block key="SF2_101_1_0471_Name" korean="명마 바리오스" />
+	<block key="SF2_101_1_0472_Name" korean="초원 순록" />
+	<block key="SF2_101_1_0473_Name" korean="용감한 토니카이" />
+	<block key="SF2_101_1_0474_Name" korean="배고픈 표범" />
+	<block key="SF2_101_1_0475_Name" korean="잔인한 스카" />
+	<block key="SF2_101_1_0476_Name" korean="창공의 윈드러너" />
+	<block key="SF2_101_1_0477_NAME" korean="호로스" />
+	<block key="SF2_101_1_0478_NAME" korean="아즈라다" />
+	<block key="SF2_101_1_0479_NAME" korean="암흑 비명새" />
+	<block key="SF2_101_1_0480_NAME" korean="블래티어" />
+	<block key="SF2_101_1_0481_NAME" korean="은빛 서리 와이번" />
+	<block key="SF2_101_1_0482_NAME" korean="호로스" />
+	<block key="SF2_101_1_0483_NAME" korean="아즈라다" />
+	<block key="SF2_101_1_0484_NAME" korean="암흑 비명새" />
+	<block key="SF2_101_1_0485_NAME" korean="블래티어" />
+	<block key="SF2_101_1_0486_NAME" korean="은빛 서리 와이번" />
+	<block key="SF2_101_1_0487_NAME" korean="아리아드" />
+	<block key="SF2_101_1_0488_NAME" korean="스케론" />
+	<block key="SF2_101_1_0489_NAME" korean="스케론" />
+	<block key="SF2_101_1_0490_Name" korean="청색 마룡 크테른" />
+	<block key="SF2_101_1_0491_Name" korean="청색 마룡 크테른" />
+	<block key="SF2_101_1_0492_Name" korean="천둥 갑옷 제피로스" />
+	<block key="SF2_101_1_0493_name" korean="천둥 갑옷 제피로스" />
+	<block key="SF2_101_1_0494_name" korean="요정 여왕 엘퀴네스" />
+	<block key="SF2_101_1_0495_name" korean="간수장 렉스" />
+	<block key="SF2_101_1_0496_name" korean="브라기 족장" />
+	<block key="SF2_101_1_0497_name" korean="고대 유적지 관리자" />
+	<block key="SF2_101_1_0498_name" korean="브라기 본거지 샤먼" />
+	<block key="SF2_101_1_0499_name" korean="브라기 본거지 사냥꾼" />
+	<block key="SF2_101_1_0500_name" korean="브라기 본거지 전투병" />
+	<block key="SF2_101_1_0501_name" korean="브라기 본거지 용사" />
+	<block key="SF2_101_1_0502_name" korean="브라기 약탈 용사" />
+	<block key="SF2_101_1_0503_name" korean="라이노 경비병" />
+	<block key="SF2_101_1_0504_name" korean="나무 요정" />
+	<block key="SF2_101_1_0505_name" korean="고대 유적지 유령" />
+	<block key="SF2_101_1_0506_name" korean="암흑사도 카를레앙" />
+	<block key="SF2_101_1_0507_name" korean="대장장이 마투콘틴" />
+	<block key="SF2_101_1_0508_name" korean="혹한의 아이렌" />
+	<block key="SF2_101_1_0509_name" korean="요리사 구스트" />
+	<block key="SF2_101_1_0510_name" korean="바위 문어" />
+	<block key="SF2_101_1_0511_name" korean="설인 주술사" />
+	<block key="SF2_101_1_0512_name" korean="늑대인간 사냥꾼" />
+	<block key="SF2_101_1_0513_name" korean="화염바위 경비병" />
+	<block key="SF2_101_1_0514_name" korean="불사의 벨던" />
+	<block key="SF2_101_1_0515_name" korean="설인 대장 산틴" />
+	<block key="SF2_101_1_0516_name" korean="무자비한 제라닌" />
+	<block key="SF2_101_1_0517_name" korean="데비" />
+	<block key="SF2_101_1_0518_name" korean="환술사 제페토" />
+	<block key="SF2_101_1_0519_name" korean="해골 기사단장" />
+	<block key="SF2_101_1_0520_name" korean="설인 사냥꾼" />
+	<block key="SF2_101_1_0521_name" korean="카브임 폭파병" />
+	<block key="SF2_101_1_0522_name" korean="새끼 불꽃용" />
+	<block key="SF2_101_1_0523_name" korean="아바르네" />
+	<block key="SF2_101_1_0524_name" korean="여명의 아슈람" />
+	<block key="SF2_101_1_0525_name" korean="공허의 아슈람" />
+	<block key="SF2_101_1_0526_name" korean="여명의 비스무트" />
+	<block key="SF2_101_1_0527_name" korean="공허의 비스무트" />
+	<block key="SF2_101_1_0528_name" korean="여명의 스칼리온" />
+	<block key="SF2_101_1_0529_name" korean="공허의 스칼리온" />
+	<block key="SF2_101_1_0530_name" korean="여명의 포세이나" />
+	<block key="SF2_101_1_0531_name" korean="공허의 포세이나" />
+	<block key="SF2_101_1_0532_name" korean="아이샤의 하미온" />
+	<block key="SF2_101_1_0533_name" korean="극염의 칼립토" />
+	<block key="SF2_101_1_0534_name" korean="암흑의 데모너스" />
+	<block key="SF2_101_1_0535_name" korean="황혼의 그라비온" />
+	<block key="SF2_101_1_0536_name" korean="여명의 론도" />
+	<block key="SF2_101_1_0537_name" korean="공허의 론도" />
+	<block key="SF2_101_1_0538_name" korean="여명의 케르온" />
+	<block key="SF2_101_1_0539_name" korean="공허의 케르온" />
+	<block key="SF2_101_1_0540_name" korean="여명의 바라나크" />
+	<block key="SF2_101_1_0541_name" korean="공허의 바라나크" />
+	<block key="SF2_101_1_0542_name" korean="여명의 라비니" />
+	<block key="SF2_101_1_0543_name" korean="공허의 라비니" />
+	<block key="SF2_101_1_0544_name" korean="축 여명의 론도" />
+	<block key="SF2_101_1_0545_name" korean="축 공허의 론도" />
+	<block key="SF2_101_1_0546_name" korean="축 여명의 케르온" />
+	<block key="SF2_101_1_0547_name" korean="축 공허의 케르온" />
+	<block key="SF2_101_1_0548_name" korean="축 여명의 바라나크" />
+	<block key="SF2_101_1_0549_name" korean="축 공허의 바라나크" />
+	<block key="SF2_101_1_0550_name" korean="축 여명의 라비니" />
+	<block key="SF2_101_1_0551_name" korean="축 공허의 라비니" />
+	<block key="SF2_101_1_0552_name" korean="아탄" />
+	<block key="SF2_101_1_0553_name" korean="베리트" />
+	<block key="SF2_101_1_0554_name" korean="카르닌" />
+	<block key="SF2_101_1_0555_name" korean="칼날 어금니 파루치" />
+	<block key="SF2_101_1_0556_name" korean="홍염의 슈테란" />
+	<block key="SF2_101_1_0557_name" korean="쪽빛의 크테란" />
+	<block key="SF2_101_1_0558_name" korean="황금의 샤키바" />
+	<block key="SF2_101_1_0559_name" korean="천둥 드래곤 톨루스" />
+	<block key="SF2_101_1_0560_name" korean="백은의 챠누스" />
+	<block key="SF2_101_1_0561_name" korean="독액의 베가루스" />
+	<block key="SF2_101_1_0562_name" korean="영광의 포요" />
+	<block key="SF2_101_1_0563_name" korean="신기루의 파노스" />
+	<block key="SF2_101_1_0564_name" korean="지혜의 데바" />
+	<block key="SF2_101_1_0565_name" korean="불꽃의 타라쿠" />
+	<block key="SF2_101_1_0566_name" korean="긴 뿔의 바쟌" />
+	<block key="SF2_101_1_0567_name" korean="영리한 토로" />
+	<block key="SF2_101_1_0568_name" korean="괴력의 러티쉬" />
+	<block key="SF2_101_1_0569_name" korean="마력의 라디쉬" />
+	<block key="SF2_101_1_0570_name" korean="타락의 로데쉬" />
+	<block key="SF2_101_1_0571_name" korean="썪지않는 본 애쉬" />
+	<block key="SF2_101_1_0572_name" korean="그리폰" />
+	<block key="SF2_101_1_0573_name" korean="열사의 마튜라" />
+	<block key="SF2_101_1_0574_name" korean="도스라쿠" />
+	<block key="SF2_101_1_0575_name" korean="피요" />
+	<block key="SF2_101_1_0576_name" korean="모래의 덴바" />
+	<block key="SF2_101_1_0577_name" korean="저주받은 탈리온" />
+	<block key="SF2_101_1_0578_name" korean="저주받은 트레반" />
+	<block key="SF2_101_1_0579_name" korean="저주받은 코반" />
+	<block key="SF2_101_1_0580_name" korean="사막 거북이" />
+	<block key="SF2_101_1_0581_name" korean="오아시스 악어" />
+	<block key="SF2_101_1_0582_name" korean="알리바" />
+	<block key="SF2_101_1_0583_name" korean="본 크루거" />
+	<block key="SF2_101_1_0584_name" korean="본 슬래쉬" />
+	<block key="SF2_101_1_0585_name" korean="대머리 독수리" />
+	<block key="SF2_101_1_0586_name" korean="사막 표범" />
+	<block key="SF2_101_1_0587_name" korean="사막 거미" />
+	<block key="SF2_101_1_0588_name" korean="집게 전갈" />
+	<block key="SF2_101_1_0589_name" korean="독침 전갈" />
+	<block key="SF2_101_1_0590_name" korean="바쟈닌" />
+	<block key="SF2_101_1_0591_name" korean="침스" />
+	<block key="SF2_101_1_0592_name" korean="라쿠" />
+	<block key="SF2_101_1_0593_name" korean="트리티" />
+	<block key="SF2_101_1_0594_name" korean="금빛의 키바렌" />
+	<block key="SF2_101_1_0595_name" korean="돌연변이 그리폰" />
+	<block key="SF2_101_1_0596_name" korean="파멸의 본 크노스" />
+	<block key="SF2_101_1_0597_name" korean="여명의 데비" />
+	<block key="SF2_101_1_0598_name" korean="공허의 데비" />
+	<block key="SF2_101_1_0599_name" korean="여명의 카를레앙" />
+	<block key="SF2_101_1_0600_name" korean="공허의 카를레앙" />
+	<block key="SF2_101_1_0601_name" korean="여명의 제라닌" />
+	<block key="SF2_101_1_0602_name" korean="공허의 제라닌" />
+	<block key="SF2_101_1_0603_name" korean="여명의 산틴" />
+	<block key="SF2_101_1_0604_name" korean="공허의 산틴" />
+	<block key="SF2_101_1_0605_name" korean="축 여명의 데비" />
+	<block key="SF2_101_1_0606_name" korean="축 공허의 데비" />
+	<block key="SF2_101_1_0607_name" korean="축 여명의 카를레앙" />
+	<block key="SF2_101_1_0608_name" korean="축 공허의 카를레앙" />
+	<block key="SF2_101_1_0609_name" korean="축 여명의 제라닌" />
+	<block key="SF2_101_1_0610_name" korean="축 여명의 제라닌" />
+	<block key="SF2_101_1_0611_name" korean="축 여명의 산틴" />
+	<block key="SF2_101_1_0612_name" korean="축 공허의 산틴" />
+	<block key="SF2_101_1_0613_name" korean="우노라쿠" />
+	<block key="SF2_101_1_0614_name" korean="사막 멧돼지" />
+	<block key="SF2_101_1_0615_name" korean="사막 버팔로" />
+	<block key="SF2_101_1_0616_name" korean="오아시스 악어" />
+	<block key="SF2_101_1_0617_name" korean="살육의 아델라크" />
+	<block key="SF2_101_1_0618_name" korean="골짜기 식인 거미" />
+	<block key="SF2_101_1_0619_name" korean="태양의 수호자" />
+	<block key="SF2_101_1_0620_name" korean="영악한 쳐피" />
+	<block key="SF2_101_1_0621_name" korean="데니반" />
+	<block key="SF2_101_1_0622_Name" korean="여명의 눈사람" />
+	<block key="SF2_101_1_0623_Name" korean="공허의 눈사람" />
+	<block key="SF2_101_1_0624_Name" korean="여명의 이즈호라" />
+	<block key="SF2_101_1_0625_Name" korean="공허의 이즈호라" />
+	<block key="SF2_101_1_0626_Name" korean="여명의 리리스" />
+	<block key="SF2_101_1_0627_Name" korean="공허의 리리스" />
+	<block key="SF2_101_1_0628_Name" korean="여명의 키이즈" />
+	<block key="SF2_101_1_0629_Name" korean="공허의 키이즈" />
+	<block key="SF2_101_1_0630_Name" korean="축 여명의 눈사람" />
+	<block key="SF2_101_1_0631_Name" korean="축 공허의 눈사람" />
+	<block key="SF2_101_1_0632_Name" korean="축 여명의 이즈호라" />
+	<block key="SF2_101_1_0633_Name" korean="축 공허의 이즈호라" />
+	<block key="SF2_101_1_0634_Name" korean="축 여명의 리리스" />
+	<block key="SF2_101_1_0635_Name" korean="축 공허의 리리스" />
+	<block key="SF2_101_1_0636_Name" korean="축 여명의 키이즈" />
+	<block key="SF2_101_1_0637_Name" korean="축 공허의 키이즈" />
+	<block key="SF2_101_1_0638_Name" korean="네갈리온" />
+	<block key="SF2_101_1_0639_Name" korean="카리마" />
+	<block key="SF2_101_1_0640_Name" korean="슈페리온" />
+	<block key="SF2_101_1_0641_Name" korean="샤라쿠" />
+	<block key="SF2_101_1_0642_Name" korean="키산" />
+	<block key="SF2_101_1_0643_Name" korean="독지대 악어" />
+	<block key="SF2_101_1_0644_Name" korean="베미구스" />
+	<block key="SF2_101_1_0645_Name" korean="히바라트" />
+	<block key="SF2_101_1_0646_Name" korean="규리온" />
+	<block key="SF2_101_1_0647_Name" korean="쿠노스" />
+	<block key="SF2_101_1_0648_Name" korean="블라트" />
+	<block key="SF2_101_1_0649_Name" korean="각성 나이트메어" />
+	<block key="SF2_101_1_0650_Name" korean="각성 메간테스" />
+	<block key="SF2_101_1_0651_Name" korean="각성 바이렛" />
+	<block key="SF2_101_1_0652_Name" korean="각성 논 포쎄" />
+	<block key="SF2_101_1_0653_Name" korean="각성 파이루드" />
+	<block key="SF2_101_1_0654_Name" korean="각성 아그나스" />
+	<block key="SF2_101_1_0655_Name" korean="각성 가르므" />
+	<block key="SF2_101_1_0656_Name" korean="각성 케라브" />
+	<block key="SF2_101_1_0657_Name" korean="각성 캐스퍼트" />
+	<block key="SF2_101_1_0658_Name" korean="각성 고스트" />
+	<block key="SF2_101_1_0659_Name" korean="각성 아포칼립스" />
+	<block key="SF2_101_1_0660_Name" korean="각성 카라스" />
+	<block key="SF2_101_1_0661_Name" korean="각성 여명의 카고일" />
+	<block key="SF2_101_1_0662_Name" korean="각성 공허의 카고일" />
+	<block key="SF2_101_1_0663_Name" korean="각성 페무토" />
+	<block key="SF2_101_1_0664_Name" korean="각성 벨던" />
+	<block key="SF2_101_1_0665_Name" korean="각성 카라샤" />
+	<block key="SF2_101_1_0666_Name" korean="각성 레토른시아" />
+	<block key="SF2_101_1_0667_Name" korean="각성 루시퍼트" />
+	<block key="SF2_101_1_0668_Name" korean="각성 파라가스" />
+	<block key="SF2_101_1_0001_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0002_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0003_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0004_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0005_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0006_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0007_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0008_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0009_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0010_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0011_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0012_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0013_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0014_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0015_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0016_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0017_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0018_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0019_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0020_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0021_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0022_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0023_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0024_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0025_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0026_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0027_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0028_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0029_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0030_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0031_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0032_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0033_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0034_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0035_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0036_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0037_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0038_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0039_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0040_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0041_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0042_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0043_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0044_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0045_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0046_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0047_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0048_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0049_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0050_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0051_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0052_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0053_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0054_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0055_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0056_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0057_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0058_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0059_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0060_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0061_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0062_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0063_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0064_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0065_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0066_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0067_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0068_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0069_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0070_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0071_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0072_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0073_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0074_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0075_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0076_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0077_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0078_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0079_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0080_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0081_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0082_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0083_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0084_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0085_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0086_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0087_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0088_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0089_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0090_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0091_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0092_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0093_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0094_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0095_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0096_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0097_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0098_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0099_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0100_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0101_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0102_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0103_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0104_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0105_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0106_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0107_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0108_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0109_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0110_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0111_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0112_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0113_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0114_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0115_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0116_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0117_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0118_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0119_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0120_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0121_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0122_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0123_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0124_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0125_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0126_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0127_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0128_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0129_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0130_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0131_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0132_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0133_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0134_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0135_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0136_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0137_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0138_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0139_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0140_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0141_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0142_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0143_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0144_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0145_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0146_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0147_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0148_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0149_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0150_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0151_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0152_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0153_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0154_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0155_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0156_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0157_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0158_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0159_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0160_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0161_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0162_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0163_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0164_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0165_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0166_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0167_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0168_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0169_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0170_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0171_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0172_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0173_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0174_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0175_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0176_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0177_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0178_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0179_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0180_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0181_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0182_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0183_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0184_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0185_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0186_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0187_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0188_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0189_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0190_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0191_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0192_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0193_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0194_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0195_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0196_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0197_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0198_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0199_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0200_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0201_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0202_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0203_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0204_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0205_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0206_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0207_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0208_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0209_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0210_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0211_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0212_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0213_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0214_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0215_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0216_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0217_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0218_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0219_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0220_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0221_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0222_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0223_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0224_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0225_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0226_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0227_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0228_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0229_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0230_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0231_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0232_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0233_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0234_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0235_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0236_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0237_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0238_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0239_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0240_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0241_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0242_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0243_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0244_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0245_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0246_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0247_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0248_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0249_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0250_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0251_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0252_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0253_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0254_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0255_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0256_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0257_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0258_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0259_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0260_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0261_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0262_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0263_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0264_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0265_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0266_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0267_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0268_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0269_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0270_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0271_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0272_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0273_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0274_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0275_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0276_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0277_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0278_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0279_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0280_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0281_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0282_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0283_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0284_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0285_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0286_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0287_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0288_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0289_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0290_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0291_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0292_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0293_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0294_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0295_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0296_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0297_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0298_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0299_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0300_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0301_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0302_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0303_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0304_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0305_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0306_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0307_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0308_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0309_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0310_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0311_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0312_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0313_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0314_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0315_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0316_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0317_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0318_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0319_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0320_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0321_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0322_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0323_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0324_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0325_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0326_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0327_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0328_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0329_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0330_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0331_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0332_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0333_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0334_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0335_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0336_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0337_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0338_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0339_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0340_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0341_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0342_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0343_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0344_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0345_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0346_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0347_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0348_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0349_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0350_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0351_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0352_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0353_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0354_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0355_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0356_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0357_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0358_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0359_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0360_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0361_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0362_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0363_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0364_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0365_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0366_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0367_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0368_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0369_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0370_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0371_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0372_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0373_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0374_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0375_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0376_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0377_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0378_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0379_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0380_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0381_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0382_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0383_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0384_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0385_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0386_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0387_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0388_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0389_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0390_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0391_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0392_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0393_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0394_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0395_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0396_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0397_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0398_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0399_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0400_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0401_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0402_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0403_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0404_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0405_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0406_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0407_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0408_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0409_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0410_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0411_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0412_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0413_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0414_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0415_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0416_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0417_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0418_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0419_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0420_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0421_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0422_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0423_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0424_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0425_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0426_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0427_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0428_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0429_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0430_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0431_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0432_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0433_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0434_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0435_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0436_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0437_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0438_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0439_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0440_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0441_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0442_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0443_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0444_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0445_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0446_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0447_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0448_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0449_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0450_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0451_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0452_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0453_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0454_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0455_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0456_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0457_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0458_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0459_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0460_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0461_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0462_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0463_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0464_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0465_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0466_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0467_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0468_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0469_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0470_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0471_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0472_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0473_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0474_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0475_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0476_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0477_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0478_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0479_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0480_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0481_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0482_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0483_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0484_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0485_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0486_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0487_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0488_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0489_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0490_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0491_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0492_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0493_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0494_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0495_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0496_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0497_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0498_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0499_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0500_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0501_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0502_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0503_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0504_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0505_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0506_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0507_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0508_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0509_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0510_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0511_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0512_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0513_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0514_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0515_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0516_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0517_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0518_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0519_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0520_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0521_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0522_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0523_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0524_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0525_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0526_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0527_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0528_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0529_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0530_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0531_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0532_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0533_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0534_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0535_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0536_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0537_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0538_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0539_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0540_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0541_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0542_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0543_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0544_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0545_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0546_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0547_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0548_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0549_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0550_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0551_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0552_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0553_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0554_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0555_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0556_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0557_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0558_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0559_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0560_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0561_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0562_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0563_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0564_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0565_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0566_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0567_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0568_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0569_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0570_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0571_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0572_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0573_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0574_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0575_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0576_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0577_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0578_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0579_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0580_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0581_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0582_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0583_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0584_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0585_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0586_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0587_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0588_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0589_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0590_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0591_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0592_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0593_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0594_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0595_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0596_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0597_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0598_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0599_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0600_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0601_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0602_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0603_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0604_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0605_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0606_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0607_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0608_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0609_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0610_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0611_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0612_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0613_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0614_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0615_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0616_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0617_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0618_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0619_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0620_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0621_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0622_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0623_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0624_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0625_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0626_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0627_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0628_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0629_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0630_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0631_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0632_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0633_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0634_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0635_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0636_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0637_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0638_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0639_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0640_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0641_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0642_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0643_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0644_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0645_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0646_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0647_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0648_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0649_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0650_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0651_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0652_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0653_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0654_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0655_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0656_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0657_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0658_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0659_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0660_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0661_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0662_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0663_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0664_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0665_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0666_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0667_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+	<block key="SF2_101_1_0668_Description" korean="
+펠로우가 봉인되어 있는 아이템
+<It_G> - 장비위에 드래그 & 드랍 시 옵션 부여 가능</It_G>
+<It_G> - 특성력 슬롯에 드래그 시 특성력 변환 가능</It_G>
+<It_G> - 장비위에 Alt + 우클릭 시 옵션 부여 UI 활성화</It_G>
+
+" />
+</blocks>

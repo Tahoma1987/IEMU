@@ -1,0 +1,107 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="e_f04_flybabray_001_Name" korean="Ключ Идзу" />
+	<block key="e_f04_flybabray_001_NameDetail" korean="" />
+	<block key="e_f04_force_ac_001_Name" korean="Усилитель мощности" />
+	<block key="e_f04_force_ac_001_NameDetail" korean="" />
+	<block key="E_f04_SkullH1_001_Name" korean="Отчаянная надежда" />
+	<block key="E_f04_SkullH1_001_NameDetail" korean="Древний Легион" />
+	<block key="E_f04_CabeElit_001_Name" korean="Warbringer" />
+	<block key="E_f04_CabeElit_001_NameDetail" korean="Древний Легион" />
+	<block key="E_f04_SkullB2_002_Name" korean="Глава gungbyeong" />
+	<block key="E_f04_SkullB2_002_NameDetail" korean="Древний Легион" />
+	<block key="e_f04_ImmoMagi_003_Name" korean="Череп порядок Inc." />
+	<block key="e_f04_ImmoMagi_003_NameDetail" korean="Бессмертный Легион" />
+	<block key="e_f04_ImmoKnigh_003_Name" korean="Статьи для черно" />
+	<block key="e_f04_ImmoKnigh_003_NameDetail" korean="Бессмертный Легион" />
+	<block key="e_f04_ImmoSoldi_002_Name" korean="Фавориты для статьи" />
+	<block key="e_f04_ImmoSoldi_002_NameDetail" korean="Бессмертный Легион" />
+	<block key="E_f04_Wisp_001_Name" korean="Прозрачный аура" />
+	<block key="E_f04_Wisp_001_NameDetail" korean="" />
+	<block key="E_f04_Wisp_002_Name" korean="Прозрачный аура" />
+	<block key="E_f04_Wisp_002_NameDetail" korean="" />
+	<block key="E_f04_Soul_Stone_001_name" korean="Осколки жизни" />
+	<block key="E_f04_Soul_Stone_001_namedetail" korean="" />
+	<block key="e_f05_whale_0001_name" korean="Лето Пустота других азиатских" />
+	<block key="e_f05_whale_0001_namedetail" korean="" />
+	<block key="e_f05_dragbone_001_name" korean="Пустота в Краби де" />
+	<block key="e_f05_dragbone_001_namedetail" korean="" />
+	<block key="E_D22_flybabray_001_name" korean="Нос Вудс" />
+	<block key="E_D22_flybabray_001_namedetail" korean="" />
+	<block key="E_F04_Griffon_0001_name" korean="Грузовые дней Пустоты" />
+	<block key="E_F04_Griffon_0001_namedetail" korean="" />
+	<block key="E_F04_Griffon_0002_name" korean="Рассвет разгрузочных работ," />
+	<block key="E_F04_Griffon_0002_namedetail" korean="" />
+	<block key="e_f04_DimpM1_0000_name" korean="Бессмертный Легион Imp" />
+	<block key="e_f04_DimpM1_0000_namedetail" korean="" />
+	<block key="E_F04_StormEgg_0001_name" korean="Аль-диск Equus" />
+	<block key="E_F04_StormEgg_0001_namedetail" korean="" />
+	<block key="E_F04_VampBat_0001_name" korean="Тень главных летучих мышей" />
+	<block key="E_F04_VampBat_0001_namedetail" korean="" />
+	<block key="E_F04_VampBat_0002_name" korean="Dark Bat" />
+	<block key="E_F04_VampBat_0002_namedetail" korean="" />
+	<block key="E_f04_Beldon_0001_name" korean="Beldeon Бессмертный" />
+	<block key="E_f04_Beldon_0001_namedetail" korean="" />
+	<block key="e_f04_ImmoLilis_002_name" korean="Бессмертный Легион Лилит" />
+	<block key="e_f04_ImmoLilis_002_namedetail" korean="" />
+	<block key="e_f04_ImmoSoldi_003_name" korean="Бессмертные воины Легиона" />
+	<block key="e_f04_ImmoSoldi_003_namedetail" korean="" />
+	<block key="e_f04_ImmoHopli_004_name" korean="Бессмертный бутылка Легион-лейтенант" />
+	<block key="e_f04_ImmoHopli_004_namedetail" korean="" />
+	<block key="e_f04_ImmoKnigh_006_name" korean="Бессмертные статьи Легион" />
+	<block key="e_f04_ImmoKnigh_006_namedetail" korean="" />
+	<block key="e_f04_ImmoMagi_006_name" korean="Бессмертный Легион Шаман" />
+	<block key="e_f04_ImmoMagi_006_namedetail" korean="" />
+	<block key="E_f04_ElquFairy_001_name" korean="Айк Ляо" />
+	<block key="E_f04_ElquFairy_001_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_001_name" korean="Red Light Wisp" />
+	<block key="E_f04_Spirwisp_001_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_002_name" korean="Голубой огонек" />
+	<block key="E_f04_Spirwisp_002_namedetail" korean="" />
+	<block key="E_f04_ChaoDeram_001_name" korean="De Porta" />
+	<block key="E_f04_ChaoDeram_001_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_003_name" korean="Окраска темно-призрак" />
+	<block key="E_f04_Spirwisp_003_namedetail" korean="" />
+	<block key="E_f04_ghost_001_name" korean="Блуждающий призрак" />
+	<block key="E_f04_ghost_001_namedetail" korean="" />
+	<block key="E_f04_GoleAncf_001_name" korean="Рак Неаполь" />
+	<block key="E_f04_GoleAncf_001_namedetail" korean="" />
+	<block key="E_f04_GoleAncu_002_name" korean="Ram Pai" />
+	<block key="E_f04_GoleAncu_002_namedetail" korean="" />
+	<block key="E_f04_hatchling_001_name" korean="Блейзер" />
+	<block key="E_f04_hatchling_001_namedetail" korean="" />
+	<block key="E_F04_ColdAncfi_001_name" korean="Клее Ши" />
+	<block key="E_F04_ColdAncfi_001_namedetail" korean="" />
+	<block key="E_f04_MoorCharg_001_name" korean="Замороженные Духи" />
+	<block key="E_f04_MoorCharg_001_namedetail" korean="" />
+	<block key="E_f04_Moorjavel_001_name" korean="Охлажденные духи" />
+	<block key="E_f04_Moorjavel_001_namedetail" korean="" />
+	<block key="E_F04_Golebomb_001_name" korean="Живой огонь бомба" />
+	<block key="E_F04_Golebomb_001_namedetail" korean="" />
+	<block key="E_F04_spidTa_001_name" korean="Abercrombie \u0026 Fitch Рене" />
+	<block key="E_F04_spidTa_001_namedetail" korean="Soul Пожиратель" />
+	<block key="E_F04_spid_001_name" korean="Хищники Soul" />
+	<block key="E_F04_spid_001_namedetail" korean="" />
+	<block key="E_F04_spid_002_name" korean="Soul зонд" />
+	<block key="E_F04_spid_002_namedetail" korean="" />
+	<block key="E_F04_spidEgg_0001_name" korean="Знай древний" />
+	<block key="E_F04_spidEgg_0001_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_004_name" korean="Проклятый Soul" />
+	<block key="E_f04_Spirwisp_004_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_005_name" korean="Страдание душа" />
+	<block key="E_f04_Spirwisp_005_namedetail" korean="" />
+	<block key="E_F04_Spid_003_Name" korean="Soul паук" />
+	<block key="E_F04_Spid_003_NameDetail" korean="" />
+	<block key="E_F04_Spir_001_Name" korean="Fallen Фея огни" />
+	<block key="E_F04_Spir_001_NameDetail" korean="" />
+	<block key="e_f04_flybabray_003_Name" korean="Потребности Кейн" />
+	<block key="e_f04_flybabray_003_NameDetail" korean="" />
+	<block key="e_f04_flybabray_004_Name" korean="Г-жа Ку" />
+	<block key="e_f04_flybabray_004_NameDetail" korean="" />
+</blocks>

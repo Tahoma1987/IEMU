@@ -1,0 +1,2218 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="UI_SC_COMMON_MESSAGEBOX_WG_BTN_MESSAGEBOX_OK_Text" korean="UI_Name_테스트" />
+	<block key="UI_SC_COMMON_MESSAGEBOX_WG_BTN_MESSAGEBOX_OK_Tooltip" korean="UI_Tooltip_테스트" />
+	<block key="UI_SC_STG_LOGIN_MAINFRAME_WG_BTN_OK_Text" korean="확인(테스트로컬라이징)" />
+	<block key="UI_SC_STG_LOGIN_MAINFRAME_WG_BTN_OK_Tooltip" korean="확인툴팁(테스트로컬라이징)" />
+	<block key="UI_SC_STG_LOGIN_MAINFRAME_WG_BTN_CANCEL_Text" korean="취소(테스트로컬라이징)" />
+	<block key="UI_SC_STG_LOGIN_MAINFRAME_WG_BTN_CANCEL_Tooltip" korean="취소툴팁(테스트로컬라이징)" />
+	<block key="ui_cuidlgskilltree_warrior_title" korean="버서커 스킬" />
+	<block key="ui_cuidlgskilltree_preist_title" korean="프리스트 스킬" />
+	<block key="ui_cuidlgskilltree_wizard_title" korean="위저드 스킬" />
+	<block key="ui_cuidlgskilltree_archer_title" korean="레인저 스킬" />
+	<block key="ui_cuidlgskilltree_thief_title" korean="어쌔신 스킬" />
+	<block key="ui_cuidlgskilltree_guardian_title" korean="가디언 스킬" />
+	<block key="ui_cuidlgskilllearn_warrior_title" korean="버서커 스킬 배우기" />
+	<block key="ui_cuidlgskilllearn_preist_title" korean="프리스트 스킬 배우기" />
+	<block key="ui_cuidlgskilllearn_wizard_title" korean="위저드 스킬 배우기" />
+	<block key="ui_cuidlgskilllearn_nature_title" korean="네이쳐 스킬 배우기" />
+	<block key="ui_cuidlgskilllearn_thief_title" korean="어쌔신 스킬 배우기" />
+	<block key="ui_cuidlgskilllearn_guardian_title" korean="가디언 스킬 배우기" />
+	<block key="ui_cuidlgskilltree_preist_tab_default_3" korean="정신" />
+	<block key="ui_cuidlgskilltree_wizard_tab_default_1" korean="화염" />
+	<block key="ui_cuidlgskilltree_wizard_tab_default_2" korean="얼음" />
+	<block key="ui_cuidlgskilltree_wizard_tab_default_3" korean="전기" />
+	<block key="ui_cuidlgskilltree_nature_tab_default_1" korean="사냥" />
+	<block key="ui_cuidlgskilltree_nature_tab_default_2" korean="지원" />
+	<block key="ui_cuidlgskilltree_nature_tab_default_3" korean="자연" />
+	<block key="ui_cuidlgskilltree_thief_tab_default_1" korean="기습" />
+	<block key="ui_cuidlgskilltree_thief_tab_default_2" korean="보복" />
+	<block key="ui_cuidlgskilltree_thief_tab_default_3" korean="생존" />
+	<block key="ui_cuidlgskilltree_tab_blood" korean="혈족" />
+	<block key="ui_cuidlgskilltree_tab_property" korean="속성" />
+	<block key="ui_cuidlgskilltree_remain_point_title" korean="교환 가능한 포인트" />
+	<block key="ui_cuidlgskilltree_tab_total_point_title" korean="사용 포인트 총합" />
+	<block key="ui_lobbycustomizerightpanel_styleview_body_select" korean="체형 선택" />
+	<block key="ui_lobbycustomizerightpanel_styleview_facestyle_select" korean="얼굴스타일 선택" />
+	<block key="ui_lobbycustomizerightpanel_styleview_hairstyle_select" korean="헤어스타일 선택" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_hair1" korean="머리색" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_hair2" korean="머리꾸밈색" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_skin" korean="피부색" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_eye" korean="눈동자색" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_lip" korean="입술색" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_item1" korean="복장바탕색" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_item2" korean="복장꾸밈색" />
+	<block key="ui_lobbycustomizerightpanel_detailview_btn_random" korean="랜덤" />
+	<block key="ui_lobbycustomizerightpanel_detailview_btn_initialize" korean="초기화" />
+	<block key="ui_lobbycustomizeleftpanel_label_character_name" korean="캐릭터 이름" />
+	<block key="ui_lobbycustomizeleftpanel_btn_character_name_check" korean="중복 확인" />
+	<block key="ui_lobbycustomizeleftpanel_checkbox_innerwear" korean="속옷 입어보기" />
+	<block key="ui_lobbycustomizeleftpanel_label_emotion" korean="감정동작" />
+	<block key="ui_lobbycustomizebottompanel_btn_create" korean="생성완료" />
+	<block key="ui_lobbycustomizebottompanel_tooltip_option" korean="게임옵션" />
+	<block key="ui_lobbycustomizebottompanel_tooltip_gojobselect" korean="직업 선택화면으로 이동" />
+	<block key="ui_customize_tab_style" korean="스타일 설정" />
+	<block key="ui_customize_tab_detailtab" korean="세부 설정" />
+	<block key="ui_customize_itemgroup_1body" korean="체형" />
+	<block key="ui_ci_head" korean="머리 크기" />
+	<block key="ui_ci_height" korean="키" />
+	<block key="ui_ci_neck" korean="목 굵기" />
+	<block key="ui_ci_necklength" korean="목 길이" />
+	<block key="ui_ci_chest" korean="가슴 둘레" />
+	<block key="ui_ci_waistlength" korean="허리 길이" />
+	<block key="ui_ci_waist" korean="허리 둘레" />
+	<block key="ui_ci_hip" korean="엉덩이 둘레" />
+	<block key="ui_ci_armlength" korean="팔 길이" />
+	<block key="ui_ci_uparm" korean="윗팔 굵기" />
+	<block key="ui_ci_foarm" korean="아랫팔 굵기" />
+	<block key="ui_ci_hand" korean="손 크기" />
+	<block key="ui_ci_leglength" korean="다리 길이" />
+	<block key="ui_ci_thigh" korean="허벅지 굵기" />
+	<block key="ui_ci_calf" korean="종아리 굵기" />
+	<block key="ui_ci_foot" korean="발 크기" />
+	<block key="ui_ci_breast" korean="가슴 크기" />
+	<block key="ui_ci_xsize" korean="신체 크기" />
+	<block key="ui_customize_itemgroup_2face" korean="얼굴" />
+	<block key="ui_ci_chinshape" korean="옆턱" />
+	<block key="ui_ci_chinextent" korean="아래턱 모양" />
+	<block key="ui_ci_chinheight" korean="아래턱 길이" />
+	<block key="ui_ci_cheekbone" korean="광대뼈" />
+	<block key="ui_ci_cheektickness" korean="볼 두께" />
+	<block key="ui_customize_itemgroup_3eye" korean="눈" />
+	<block key="ui_ci_eyesize" korean="눈 크기" />
+	<block key="ui_ci_eyedepth" korean="눈 돌출" />
+	<block key="ui_ci_eyespace" korean="눈 간격" />
+	<block key="ui_ci_eyeposition" korean="눈 위치" />
+	<block key="ui_ci_eyefront" korean="앞트임" />
+	<block key="ui_ci_eyefrontposition" korean="앞트임 위치" />
+	<block key="ui_ci_eyeback" korean="뒤트임" />
+	<block key="ui_ci_blowheight" korean="눈썹 위치" />
+	<block key="ui_ci_blowangle" korean="눈썹 각도" />
+	<block key="ui_ci_blowspace" korean="눈썹 간격" />
+	<block key="ui_ci_uppereyelid" korean="윗눈꺼풀 위치" />
+	<block key="ui_ci_lowereyelid" korean="아랫눈꺼풀 위치" />
+	<block key="ui_ci_eyeballsize" korean="안구 크기" />
+	<block key="ui_ci_browangle2" korean="내측 눈썹 각도" />
+	<block key="ui_customize_itemgroup_4nose" korean="코" />
+	<block key="ui_ci_nosetickness" korean="콧대 굵기" />
+	<block key="ui_ci_noselength" korean="콧대 길이" />
+	<block key="ui_ci_noseheight" korean="콧대 높이" />
+	<block key="ui_ci_nosetip" korean="코끝 높이" />
+	<block key="ui_ci_nosesize" korean="코 크기" />
+	<block key="ui_ci_nosewidth" korean="콧망울" />
+	<block key="ui_customize_itemgroup_5mouth" korean="입" />
+	<block key="ui_ci_mouseshape" korean="입 모양" />
+	<block key="ui_ci_mousesize" korean="입 크기" />
+	<block key="ui_ci_lipposition" korean="입 위치" />
+	<block key="ui_ci_uplipshape" korean="윗입술 모양" />
+	<block key="ui_ci_downlipshape" korean="아랫입술 모양" />
+	<block key="ui_ci_uplipsize" korean="윗입술 두께" />
+	<block key="ui_ci_downlipsize" korean="아랫입술 두께" />
+	<block key="ui_ci_tooth" korean="구강돌출" />
+	<block key="ui_ci_facestyle" korean="얼굴모양" />
+	<block key="ui_customize_class_warrior" korean="버서커" />
+	<block key="ui_customize_class_priest" korean="프리스트" />
+	<block key="ui_customize_class_thief" korean="어쌔신" />
+	<block key="ui_customize_class_wizard" korean="위저드" />
+	<block key="ui_customize_class_archer" korean="레인저" />
+	<block key="ui_customize_class_guardian" korean="가디언" />
+	<block key="ui_customize_label_name" korean="캐릭터 이름" />
+	<block key="ui_customize_btn_name_check" korean="중복 확인" />
+	<block key="ui_customize_label_equip" korean="장비 미리 입어보기" />
+	<block key="ui_customize_label_pose" korean="포즈" />
+	<block key="ui_customize_label_voice" korean="목소리" />
+	<block key="ui_customize_tab_basic" korean="기본" />
+	<block key="ui_customize_itemgroup_wholepreset" korean="전체" />
+	<block key="ui_customize_itemgroup_face" korean="얼굴" />
+	<block key="ui_customize_itemgroup_hair" korean="헤어스타일" />
+	<block key="ui_customize_itemgroup_decorate" korean="꾸밈" />
+	<block key="ui_customize_itemgroup_body" korean="체형" />
+	<block key="ui_customize_itemgroup_skin" korean="피부" />
+	<block key="ui_customize_tab_facemakeup" korean="얼굴 꾸미기" />
+	<block key="ui_customize_itemgroup_eyeshape" korean="눈화장" />
+	<block key="ui_customize_itemgroup_eyebrows" korean="눈썹" />
+	<block key="ui_customize_itemgroup_pupil" korean="눈" />
+	<block key="ui_customize_itemgroup_mouth" korean="입" />
+	<block key="ui_customize_itemgroup_tattoo" korean="문신" />
+	<block key="ui_customize_tab_detail" korean="세부 설정" />
+	<block key="ui_customize_itemgroup_detailbody" korean="체형" />
+	<block key="ui_customize_itemgroup_detailface" korean="얼굴" />
+	<block key="ui_customize_itemgroup_detaileye" korean="눈" />
+	<block key="ui_customize_itemgroup_detailnose" korean="코" />
+	<block key="ui_customize_itemgroup_detailmouse" korean="입" />
+	<block key="ui_customize_tab_random" korean="무작위" />
+	<block key="ui_customize_itemgroup_randomlimit" korean="무작위 범위 설정" />
+	<block key="ui_customize_btn_random" korean="무작위" />
+	<block key="ui_customize_label_whole" korean="전체" />
+	<block key="ui_customize_label_body" korean="체형" />
+	<block key="ui_customize_label_face" korean="얼굴" />
+	<block key="ui_customize_label_faceshape" korean="얼굴형" />
+	<block key="ui_customize_label_eye" korean="눈" />
+	<block key="ui_customize_label_nose" korean="코" />
+	<block key="ui_customize_label_mouth" korean="입" />
+	<block key="ui_customize_label_color" korean="색상" />
+	<block key="ui_customize_label_skin" korean="피부" />
+	<block key="ui_customize_label_pupil" korean="눈동자" />
+	<block key="ui_customize_label_hair" korean="헤어" />
+	<block key="ui_customize_label_lips" korean="입술" />
+	<block key="ui_customize_label_decorate" korean="수염" />
+	<block key="ui_customize_label_eyemakeup" korean="눈화장" />
+	<block key="ui_customize_label_eyebrows" korean="눈썹" />
+	<block key="ui_customize_label_tattoo" korean="문신" />
+	<block key="ui_customize_btn_reset" korean="초기화" />
+	<block key="ui_lobbyjobselector_label_jobselect" korean="직업 선택" />
+	<block key="ui_lobbyjobselector_btn_job_warrior" korean="버서커" />
+	<block key="ui_lobbyjobselector_btn_job_priest" korean="프리스트" />
+	<block key="ui_lobbyjobselector_btn_job_thief" korean="어쌔신" />
+	<block key="ui_lobbyjobselector_btn_job_wizard" korean="위저드" />
+	<block key="ui_lobbyjobselector_btn_job_archer" korean="레인저" />
+	<block key="ui_lobbyjobselector_btn_job_guardian" korean="가디언" />
+	<block key="ui_lobbyjobselectormenu_gocharselector" korean="선택창으로 이동" />
+	<block key="ui_lobbycharselector_label_character_select" korean="캐릭터 선택" />
+	<block key="ui_lobbycharselector_btn_gocharacter_create" korean="캐릭터 생성" />
+	<block key="ui_lobbycharselector_btn_character_delete" korean="캐릭터 삭제" />
+	<block key="ui_lobbycharselectormenu_btn_stargame" korean="게임시작" />
+	<block key="ui_lobbycharselectormenu_btn_tooltip_exitgame" korean="게임종료" />
+	<block key="ui_lobbycharselectormenu_btn_tooltip_gameoption" korean="게임옵션" />
+	<block key="ui_lobbycharselectormenu_btn_tooltip_goserverlist" korean="서버 선택화면으로 이동" />
+	<block key="ui_lobbycharselectorinfo_guild" korean="없음" />
+	<block key="ui_lobbycharselectorinfo_force" korean="없음" />
+	<block key="ui_lobbycharselectorinfo_havenorecord" korean="접속 기록이 없습니다." />
+	<block key="ui_lobbycharselectorinfo_havenoregioninfo" korean="지역 정보가 없습니다." />
+	<block key="ui_helptopic_alarm" korean="도움말 최소화" />
+	<block key="ui_lobbycharselectormenu_allwatch" korean="전체 보기" />
+	<block key="ui_lobbycharselectormenu_btn_create" korean="생성하기" />
+	<block key="ui_lobby_prev" korean="돌아가기" />
+	<block key="ui_login_title1" korean="이카루스에 오신것을 환영합니다." />
+	<block key="ui_login_title2" korean="로그인을 해주십시오." />
+	<block key="ui_login_login" korean="로그인" />
+	<block key="ui_serverlist_server_select" korean="서버 선택" />
+	<block key="ui_serverlist_server_name" korean="서버명" />
+	<block key="ui_serverlist_server_character_count" korean="캐릭터" />
+	<block key="ui_serverlist_server_state" korean="상태" />
+	<block key="ui_serverlist_create_character_state" korean="캐릭터 생성" />
+	<block key="ui_serverlist_server_connect" korean="서버 입장" />
+	<block key="ui_common_appointed" korean="#적용예정" />
+	<block key="ui_common_game_exit" korean="종료" />
+	<block key="ui_common_character" korean="캐릭터" />
+	<block key="ui_common_warrior_male" korean="버서커(남)" />
+	<block key="ui_common_warrior_female" korean="버서커(여)" />
+	<block key="ui_common_priest_male" korean="프리스트(남)" />
+	<block key="ui_common_priest_female" korean="프리스트(여)" />
+	<block key="ui_common_thief_male" korean="어쌔신(남)" />
+	<block key="ui_common_thief_female" korean="어쌔신(여)" />
+	<block key="ui_common_wizard_male" korean="위저드(남)" />
+	<block key="ui_common_wizard_female" korean="위저드(여)" />
+	<block key="ui_common_archer_male" korean="레인저(남)" />
+	<block key="ui_common_archer_female" korean="레인저(여)" />
+	<block key="ui_common_guardian_male" korean="가디언(남)" />
+	<block key="ui_common_guardian_female" korean="가디언(여)" />
+	<block key="ui_lobbycharselector_guild" korean="가입 길드" />
+	<block key="ui_lobbycharselector_force" korean="가입 세력" />
+	<block key="ui_lobbycharselector_login" korean="마지막 종료 시간" />
+	<block key="ui_lobbycharselector_spot" korean="마지막 종료 위치" />
+	<block key="ui_lobbycharselector_playtime" korean="총 플레이 시간" />
+	<block key="ui_lobbycharselector_createimpossible" korean="<POPUP_1>캐릭터 생성 슬롯이 가득 찬 상태입니다.
+계속 진행하시겠습니까?
+( 커스터마이징 기능은 이용 가능)</POPUP_1>" />
+	<block key="ui_lobbycharcreate_mainstat" korean="주요 스탯" />
+	<block key="ui_lobbycharcreate_keyword" korean="키워드" />
+	<block key="ui_lobbycharcreate_disablemessage" korean="지원하지 않는 캐릭터 입니다. 생성할 수 없습니다." />
+	<block key="ui_lobbycharcreate_explain" korean="설명" />
+	<block key="ui_lobbycharcreate_explain_origin_warrior_1" korean="분노를 이용하여 적극적인 공격을 하며 다수의 대상한테도 강한 모습을 보인다. 자유자재로 리액션을 유발하고 챠지 스킬을 사용하여 보다 변칙적인 공격을 한다." />
+	<block key="ui_lobbycharcreate_explain_origin_priest_1" korean="신앙을 기초로 하는 마력의 힘과 빛의 징표를 사용하여 아군을 보호하거나 적을 제압하는 능력을 구사한다. 적의 악한 마음을 이용하여 괴롭히는 스킬도 사용한다." />
+	<block key="ui_lobbycharcreate_explain_origin_wizard_1" korean="속성을 기초로 하는 마력의 힘을 사용하여 주변 속성을 바꾸거나 속성을 다양하게 이용하여 막강한 화력을 가지고 있다." />
+	<block key="ui_lobbycharcreate_explain_origin_thief_1" korean="날렵한 몸놀림으로 적의 빈틈을 파고들어 대상의 약점을 공략하는 치명적이고 연속적인 공격형태를 가진다. 공중에서도 연속적이고 다양한 스킬을 사용할 수 있다." />
+	<block key="ui_lobbycharcreate_explain_origin_archer_1" korean="준비중입니다." />
+	<block key="ui_lobbycharcreate_explain_origin_guardian_1" korean="방어적인 성향으로 신성한 힘을 사용하여 안정적인 전투를 할 수 있고, 단일 대상에게 집중 공격이 가능하다." />
+	<block key="ui_lobbycharcreate_keyword_warrior_name_1" korean="양손검" />
+	<block key="ui_lobbycharcreate_keyword_warrior_name_2" korean="중갑" />
+	<block key="ui_lobbycharcreate_keyword_warrior_name_3" korean="흥분" />
+	<block key="ui_lobbycharcreate_keyword_warrior_name_4" korean="힘" />
+	<block key="ui_lobbycharcreate_keyword_warrior_description_1" korean="양손검을 사용 하여 다양한 공격으로 대상을 세차게 몰아친다." />
+	<block key="ui_lobbycharcreate_keyword_warrior_description_2" korean="적의 무리로 돌진하는 자신의 육체를 보호하기 위해 두터운 중갑을 착용한다." />
+	<block key="ui_lobbycharcreate_keyword_warrior_description_3" korean="극한의 상황에서 불굴의 투지와 근성으로 더욱 타올라 적을 공격한다." />
+	<block key="ui_lobbycharcreate_keyword_warrior_description_4" korean="근력의 파워를 활용한 근접 파괴형의 스킬을 사용한다." />
+	<block key="ui_lobbycharcreate_keyword_priest_name_1" korean="한손지팡이" />
+	<block key="ui_lobbycharcreate_keyword_priest_name_2" korean="로브" />
+	<block key="ui_lobbycharcreate_keyword_priest_name_3" korean="회복" />
+	<block key="ui_lobbycharcreate_keyword_priest_name_4" korean="빛의징표" />
+	<block key="ui_lobbycharcreate_keyword_priest_description_1" korean="한손지팡이에 빛의 힘을 실어 멀리 떨어져 있는 대상을 공격한다." />
+	<block key="ui_lobbycharcreate_keyword_priest_description_2" korean="신의 사제임을 나타내고 신성력을 높이기 위해 로브를 착용한다." />
+	<block key="ui_lobbycharcreate_keyword_priest_description_3" korean="빛의 힘을 이용하여 대상과 아군을 회복시킨다." />
+	<block key="ui_lobbycharcreate_keyword_priest_description_4" korean="빛의 힘의 정수라 할 수 있는 빛의 징표를 사용하여 공격과 회복 스킬을 사용한다." />
+	<block key="ui_lobbycharcreate_keyword_wizard_name_1" korean="양손지팡이" />
+	<block key="ui_lobbycharcreate_keyword_wizard_name_2" korean="로브" />
+	<block key="ui_lobbycharcreate_keyword_wizard_name_3" korean="속성" />
+	<block key="ui_lobbycharcreate_keyword_wizard_name_4" korean="마법" />
+	<block key="ui_lobbycharcreate_keyword_wizard_description_1" korean="양손지팡이의 마력을 이용하여 더욱 강력한 마법공격을 한다." />
+	<block key="ui_lobbycharcreate_keyword_wizard_description_2" korean="신체적인 약함과 주문력을 높이기 위해 가벼운 로브를 착용한다." />
+	<block key="ui_lobbycharcreate_keyword_wizard_description_3" korean="자유롭게 속성능력을 발휘하여 속성에 속해있는 버프나 디버프를 컨트롤 한다." />
+	<block key="ui_lobbycharcreate_keyword_wizard_description_4" korean="위험한 전장속에서 높은 지능과 냉정함으로 화려한 마법공격을 자유자재로 시전한다." />
+	<block key="ui_lobbycharcreate_keyword_nature_name_1" korean="활" />
+	<block key="ui_lobbycharcreate_keyword_nature_name_2" korean="경갑" />
+	<block key="ui_lobbycharcreate_keyword_nature_name_3" korean="소환" />
+	<block key="ui_lobbycharcreate_keyword_nature_name_4" korean="친화" />
+	<block key="ui_lobbycharcreate_keyword_nature_description_1" korean="활을 이용하여 적을 다가오지 못하도록 원거리에서 제압한다." />
+	<block key="ui_lobbycharcreate_keyword_nature_description_2" korean="근거리로 접근하는 적과 싸울 수 있도록 경갑을 착용한다." />
+	<block key="ui_lobbycharcreate_keyword_nature_description_3" korean="자연의 정령들을 소환하여 전투에 도움이 되는 버프를 사용한다." />
+	<block key="ui_lobbycharcreate_keyword_nature_description_4" korean="펠로우와 친화도가 높아서 펠로우의 능력을 극대화 시킨다." />
+	<block key="ui_lobbycharcreate_keyword_thief_name_1" korean="쌍수" />
+	<block key="ui_lobbycharcreate_keyword_thief_name_2" korean="경갑" />
+	<block key="ui_lobbycharcreate_keyword_thief_name_3" korean="속도" />
+	<block key="ui_lobbycharcreate_keyword_thief_name_4" korean="회피" />
+	<block key="ui_lobbycharcreate_keyword_thief_description_1" korean="단검을 쌍수로 착용하여 빠른 속도와 높은 크리티컬로 적을 순식간에 제압한다." />
+	<block key="ui_lobbycharcreate_keyword_thief_description_2" korean="날렵한 공격과 적의 공격을 빠르게 회피하기 위하여 경갑을 착용한다." />
+	<block key="ui_lobbycharcreate_keyword_thief_description_3" korean="대상이 집중하지 않는 한 볼 수 없을 정도의 날렵함으로 다양한 암수와 육체기를 사용한다." />
+	<block key="ui_lobbycharcreate_keyword_thief_description_4" korean="어떠한 상황에서도 피할 수 있는 유연함으로 불리한 상황을 반전시킨다." />
+	<block key="ui_lobbycharcreate_keyword_guardian_name_1" korean="한손검" />
+	<block key="ui_lobbycharcreate_keyword_guardian_name_2" korean="중갑" />
+	<block key="ui_lobbycharcreate_keyword_guardian_name_3" korean="방패" />
+	<block key="ui_lobbycharcreate_keyword_guardian_name_4" korean="진압" />
+	<block key="ui_lobbycharcreate_keyword_guardian_description_1" korean="한손검을 사용하여 다양한 연속 공격이 가능하다." />
+	<block key="ui_lobbycharcreate_keyword_guardian_description_2" korean="전장의 최전방에서 아군을 안전하게 보호하기 위해 두터운 중갑을 착용한다." />
+	<block key="ui_lobbycharcreate_keyword_guardian_description_3" korean="방패를 착용하여 대상의 진형을 무너뜨리는 공격과 방어를 동시에 한다." />
+	<block key="ui_lobbycharcreate_keyword_guardian_description_4" korean="적들에게 둘러쌓여도 침착하게 상대를 무력화 시킨다." />
+	<block key="ui_lobbycharcustomize_leftpanel_equiptryon" korean="장비 입어보기" />
+	<block key="ui_lobbycharcustomize_leftpanel_createimpossible" korean="더 이상 캐릭터를 생성 하실 수 없습니다." />
+	<block key="ui_fellowelemental_nomal" korean="<font color="#006400">주 속성 : 물리</font><br><br>이 펠로우는 주 속성이 물리인 펠로우입니다. 물리 속성의 공격을 하며, 물리에 대한 방어력이 높습니다." />
+	<block key="ui_fellowelemental_fire" korean="<font color="#006400">주 속성 : 불</font><br><br>이 펠로우는 주 속성이 불인 펠로우입니다. 불 속성의 공격을 하며, 불에 대한 방어력이 높습니다." />
+	<block key="ui_fellowelemental_ice" korean="<font color="#006400">주 속성 : 얼음</font><br><br>이 펠로우는 주 속성이 얼음인 펠로우입니다. 얼음 속성의 공격을 하며, 얼음에 대한 방어력이 높습니다." />
+	<block key="ui_fellowelemental_light" korean="<font color="#006400">주 속성 : 빛</font><br><br>이 펠로우는 주 속성이 빛인 펠로우입니다. 빛 속성의 공격을 하며, 빛에 대한 방어력이 높습니다." />
+	<block key="ui_fellowelemental_dark" korean="<font color="#006400">주 속성 : 어둠</font><br><br>이 펠로우는 주 속성이 어둠인 펠로우입니다. 어둠 속성의 공격을 하며, 어둠에 대한 방어력이 높습니다." />
+	<block key="ui_fellowspiderweb_average" korean="<font color="#006400">평균 능력치 라인</font><br><br>기준 레벨 : Lv %<br><br>기준 레벨에서 길들일 수 있는 모든 펠로우의 평균 능력치 라인입니다. 펠로우의 능력치가 이 라인보다 높다면 해당 펠로우의 능력치가 평균 이상임을 의미합니다." />
+	<block key="ui_fellowspiderweb_1" korean="<font color="#006400">- 25% 라인</font><br><br>기준 레벨 : Lv %<br><br>펠로우의 능력치가 이 라인 이상이면 평균 능력치보다 -25% 더 낮음을 의미 합니다." />
+	<block key="ui_fellowspiderweb_2" korean="<font color="#006400">0% 라인</font><br><br>기준 레벨 : Lv %<br><br>펠로우의 능력치가 이 라인 이상이면 평균 능력치보다 0% 더 낮음을 의미 합니다." />
+	<block key="ui_fellowspiderweb_3" korean="<font color="#006400">+ 25% 라인</font><br><br>기준 레벨 : Lv %<br><br>펠로우의 능력치가 이 라인 이상이면 평균 능력치보다 +25% 더 낮음을 의미 합니다." />
+	<block key="ui_fellowspiderweb_4" korean="<font color="#006400">+ 50% 라인</font><br><br>기준 레벨 : Lv %<br><br>펠로우의 능력치가 이 라인 이상이면 평균 능력치보다 +50% 더 낮음을 의미 합니다." />
+	<block key="ui_fellow_value_1" korean="<font color="#ffd700">공격력 : % ~ %</font><br><br>평균 대비 능력치 비율 : %%" />
+	<block key="ui_fellow_value_2" korean="<font color="#ffd700">방어력 : %</font><br><br>평균 대비 능력치 비율 : %%" />
+	<block key="ui_fellow_value_3" korean="<font color="#ffd700">이동 속도 : %%</font><br><br>평균 대비 능력치 비율 : %%" />
+	<block key="ui_fellow_value_4" korean="<font color="#ffd700">HP : %</font><br><br>평균 대비 능력치 비율 : %%" />
+	<block key="ui_fellow_value_5" korean="<font color="#ffd700">MP : %</font><br><br>평균 대비 능력치 비율 : %%" />
+	<block key="ui_fellowattack_attackpow" korean="<font color="#ffd700">공격력 : %</font>" />
+	<block key="ui_fellowattack_wpspellplus" korean="<font color="#ffd700">전투력 : %</font>" />
+	<block key="ui_fellowattack_attackspeed" korean="<font color="#ffd700">공격 속도 : %</font>" />
+	<block key="ui_fellowattack_wpcrirate" korean="<font color="#ffd700">치명타율 : %%</font>" />
+	<block key="ui_fellowattack_wphitrateplus" korean="<font color="#ffd700">명중률 : %%</font>" />
+	<block key="ui_fellowdefense_defenserate" korean="<font color="#ffd700">물리 방어력 : %</font>" />
+	<block key="ui_fellowdefense_firedefpowplus" korean="<font color="#ffd700">불 방어력 : %</font>" />
+	<block key="ui_fellowdefense_icedefpowplus" korean="<font color="#ffd700">얼음 방어력 : %</font>" />
+	<block key="ui_fellowdefense_lightdefpowplus" korean="<font color="#ffd700">빛 방어력 : %</font>" />
+	<block key="ui_fellowdefense_darkdefpowplus" korean="<font color="#ffd700">어둠 방어력 : %</font>" />
+	<block key="ui_fellowdefense_avdrateplus" korean="<font color="#ffd700">회피율 : %%</font>" />
+	<block key="ui_fellowsoulstone" korean="영혼 결속 상태가 낮아 획득 가능한 영혼석을 확인 할 수 없습니다." />
+	<block key="ui_btn_repair" korean="개별 수리" />
+	<block key="ui_btn_allrepair" korean="전체 수리" />
+	<block key="ui_lobbycharselector_label_characterinfo" korean="캐릭터 정보" />
+	<block key="ui_btn_helptopic" korean="도움말" />
+	<block key="ui_btn_lock" korean="잠금" />
+	<block key="ui_btn_refresh" korean="정렬" />
+	<block key="ui_lobbycustomizeleftpanel_experience" korean="더 이상 캐릭터를 만들 수 없지만 커스터마이징을 할 수 있습니다. 미리 캐릭터를 멋지게 꾸며보세요." />
+	<block key="ui_btn_rader_map" korean="M : 월드맵<br>N : 투명맵" />
+	<block key="ui_btn_fellowinfo_xp" korean="XP" />
+	<block key="ui_btn_quickslot_menu" korean="메뉴" />
+	<block key="ui_btn_quickslot_pcskill" korean="플레이어 스킬" />
+	<block key="ui_btn_quickslot_pcboardskill" korean="탑승 스킬" />
+	<block key="ui_btn_fellowinfo_soul" korean="영혼결속" />
+	<block key="ui_tooltip_consume_potion" korean="물약" />
+	<block key="ui_tooltip_consume_food" korean="음식" />
+	<block key="ui_tooltip_consume_bandage" korean="붕대" />
+	<block key="ui_tooltip_consume_scenario" korean="시나리오" />
+	<block key="ui_tooltip_consume_summon" korean="소환" />
+	<block key="ui_tooltip_consume_returnregister" korean="귀환위치등록" />
+	<block key="ui_tooltip_consume_returnremove" korean="귀환위치삭제" />
+	<block key="ui_tooltip_consume_returnstone" korean="귀환석" />
+	<block key="ui_tooltip_consume_reinforcestone" korean="강화석" />
+	<block key="ui_tooltip_consume_extractiontool" korean="추출도구" />
+	<block key="ui_tooltip_consume_toggle" korean="소모타입" />
+	<block key="ui_tooltip_consume_warp" korean="워프" />
+	<block key="ui_tooltip_consume_combineIngredient" korean="재료 결합" />
+	<block key="ui_tooltip_consume_fellow" korean="펠로우 매개체" />
+	<block key="ui_tooltip_consume_fellowchangename" korean="펠로우 이름 변경" />
+	<block key="ui_tooltip_consume_farmseed" korean="씨앗" />
+	<block key="ui_tooltip_consume_soulTalents" korean="특성 슬롯 확장" />
+	<block key="ui_tooltip_consumegauge" korean="소모" />
+	<block key="ui_tab_characterinfo_myinfo" korean="내 정보" />
+	<block key="ui_tab_characterinfo_characteristic" korean="특성" />
+	<block key="ui_tab_characterinfo_property" korean="속성" />
+	<block key="ui_tab_actionlist_common" korean="기능" />
+	<block key="ui_tab_actionlist_community" korean="커뮤니티" />
+	<block key="ui_tab_actionlist_skill" korean="스킬" />
+	<block key="ui_tab_actionlist_collection" korean="채집/제작" />
+	<block key="ui_tab_actionlist_emotion" korean="감정표현" />
+	<block key="ui_tab_skill_class" korean="클래스" />
+	<block key="ui_tab_skill_riding" korean="탑승" />
+	<block key="ui_button_skill_learn" korean="배우기" />
+	<block key="ui_totalmap_portalview" korean="전체 맵 보기" />
+	<block key="ui_zonemap_portalview" korean="지역 맵 보기" />
+	<block key="fellowinfo" korean="기본 정보" />
+	<block key="sell_list" korean="판매목록" />
+	<block key="rebuy_list" korean="재구매" />
+	<block key="noneprioritize" korean="설정 안함" />
+	<block key="questprioritize" korean="퀘스트 아이템 우선" />
+	<block key="consumeprioritize" korean="소비 아이템 우선" />
+	<block key="otherprioritize" korean="기타 아이템 우선" />
+	<block key="weaponprioritize" korean="무기 아이템 우선" />
+	<block key="armorprioritize" korean="방어구 아이템 우선" />
+	<block key="gearprioritize" korean="장비 아이템 우선" />
+	<block key="materialprioritize" korean="재료 아이템 우선" />
+	<block key="ui_tab_maillist_receive" korean="받은편지함" />
+	<block key="ui_tab_maillist_write" korean="보내기" />
+	<block key="ui_tab_maillist_sent" korean="보낸편지함" />
+	<block key="ui_skill_no_need_skill_name" korean="필요한 스킬이 없습니다." />
+	<block key="ui_skill_need_skill_name" korean="필요한 스킬이 없습니다." />
+	<block key="ui_fellowbook_listempty" korean="리스트없음" />
+	<block key="ui_fellowbook_infoempty" korean="펠로우 정보가 없습니다." />
+	<block key="chat_exe_party_invite" korean="파티초대" />
+	<block key="chat_exe_party_delegation" korean="파티장위임" />
+	<block key="chat_exe_party_kick" korean="파티원추방" />
+	<block key="chat_exe_party_leave" korean="파티탈퇴" />
+	<block key="chat_exe_party_release" korean="파티해제" />
+	<block key="chat_exe_trade_invite" korean="거래" />
+	<block key="chat_exe_duel_invite" korean="결투" />
+	<block key="chat_exe_party_duel_invite" korean="파티결투" />
+	<block key="chat_exe_friend_invite" korean="친구초대" />
+	<block key="chat_exe_guild_invite" korean="길드초대" />
+	<block key="chat_exe_guild_leave" korean="길드탈퇴" />
+	<block key="chat_exe_guild_kick" korean="길드추방" />
+	<block key="ui_systemmenu" korean="게임메뉴" />
+	<block key="ui_characterinfo_slottooltip_helmet" korean="머리" />
+	<block key="ui_characterinfo_slottooltip_style1" korean="외형" />
+	<block key="ui_characterinfo_slottooltip_Necklace" korean="목걸이" />
+	<block key="ui_characterinfo_slottooltip_Shoulders" korean="어깨" />
+	<block key="ui_characterinfo_slottooltip_Jacket" korean="몸" />
+	<block key="ui_characterinfo_slottooltip_Gloves" korean="손" />
+	<block key="ui_characterinfo_slottooltip_Ring1" korean="반지" />
+	<block key="ui_characterinfo_slottooltip_Ring2" korean="반지" />
+	<block key="ui_characterinfo_slottooltip_Shoes" korean="발" />
+	<block key="ui_characterinfo_slottooltip_RidingRightHand" korean="탑승무기" />
+	<block key="ui_characterinfo_slottooltip_RidingSub" korean="탑승무기" />
+	<block key="ui_characterinfo_slottooltip_RidingswapRightHand" korean="교체용 탑승무기" />
+	<block key="ui_characterinfo_slottooltip_RidingswapSub" korean="교체용 탑승무기" />
+	<block key="ui_characterinfo_slottooltip_RightHand" korean="오른손" />
+	<block key="ui_characterinfo_slottooltip_Sub" korean="왼손" />
+	<block key="ui_characterinfo_label_stat" korean="능력치" />
+	<block key="ui_characterinfo_label_str" korean="힘" />
+	<block key="ui_characterinfo_label_dex" korean="지능" />
+	<block key="ui_characterinfo_label_vtl" korean="민첩" />
+	<block key="ui_characterinfo_label_int" korean="지능" />
+	<block key="ui_characterinfo_label_mtl" korean="정신력" />
+	<block key="ui_gamemenu_characterinfo" korean="캐릭터" />
+	<block key="ui_gamemenu_questinfo" korean="퀘스트" />
+	<block key="ui_gamemenu_systemmenu" korean="메뉴 (ESC)" />
+	<block key="ui_gamemenu_friend" korean="친구" />
+	<block key="ui_gamemenu_alliance" korean="세력" />
+	<block key="ui_gamemenu_help" korean="도움말" />
+	<block key="ui_gamemenu_gm" korean="GM" />
+	<block key="ui_quickslot_class" korean="클래스 슬롯" />
+	<block key="ui_quickslot_board" korean="탑승 슬롯" />
+	<block key="ui_inventory_range" korean="정렬" />
+	<block key="ui_charinfo_detailinfo" korean="상세정보" />
+	<block key="ui_quest_reward" korean="보상" />
+	<block key="ui_quest_reward_base" korean="기본보상" />
+	<block key="ui_quest_reward_select" korean="선택보상" />
+	<block key="ui_quest_task" korean="임무" />
+	<block key="ui_quest_report_finish" korean="결과보고" />
+	<block key="ui_ci_name" korean="캐릭터 이름을 입력 하십시오.
+한글 2~8자(영문 2~16자)까지 생성 가능합니다." />
+	<block key="ui_show_can_use_item" korean="사용 가능 아이템" />
+	<block key="ui_channel_dungeon" korean="던전" />
+	<block key="ui_channel_eventchannel" korean="시나리오" />
+	<block key="ui_attainment_learnskill" korean="새로운 스킬을 습득하였습니다." />
+	<block key="ui_npcpotal_title" korean="포탈" />
+	<block key="ui_graphic_screensetting" korean="화면설정" />
+	<block key="ui_graphic_totalsetting" korean="전체설정" />
+	<block key="ui_graphic_quality" korean="그래픽 품질" />
+	<block key="ui_graphic_viewdst" korean="시야" />
+	<block key="ui_graphic_displaylimit" korean="표현 제한" />
+	<block key="ui_graphic_light" korean="광원" />
+	<block key="ui_graphic_higheffect" korean="고급" />
+	<block key="ui_graphic_etc" korean="기타" />
+	<block key="ui_graphic_lod" korean="LOD" />
+	<block key="game" korean="게임설정" />
+	<block key="ui_game_name" korean="이름" />
+	<block key="ui_game_statusbar" korean="상태바" />
+	<block key="ui_game_community" korean="커뮤니티" />
+	<block key="ui_game_combatinfo" korean="전투 정보" />
+	<block key="ui_game_extendquickslot" korean="확장슬롯" />
+	<block key="ui_game_camera" korean="카메라" />
+	<block key="ui_game_gauge" korean="게이지" />
+	<block key="ui_game_etc" korean="기타" />
+	<block key="ui_shortcut_control" korean="조작" />
+	<block key="ui_shortcut_menu" korean="메뉴" />
+	<block key="ui_shortcut_combat" korean="전투" />
+	<block key="ui_shortcut_party" korean="파티" />
+	<block key="ui_shortcut_token" korean="징표" />
+	<block key="ui_shortcut_basicquickslot" korean="기본 슬롯" />
+	<block key="ui_shortcut_extendquickslot" korean="확장 슬롯" />
+	<block key="ui_tab_friendlist_friend" korean="친구" />
+	<block key="ui_tab_friendlist_delfriend" korean="친구삭제" />
+	<block key="quick_trade_invite" korean="거래요청" />
+	<block key="quick_party_invite" korean="파티초대" />
+	<block key="quick_party_kick_member" korean="파티에서 제외" />
+	<block key="quick_party_change_master" korean="파티장 위임" />
+	<block key="quick_party_leave" korean="파티 떠나기" />
+	<block key="quick_party_distribution" korean="전리품 분배" />
+	<block key="ui_player_gauge_hp" korean="캐릭터의 생명력이 0이 되면 사망합니다." />
+	<block key="ui_player_gauge_mp" korean="마나를 소모하여 스킬과 마법을 사용할 수 있습니다." />
+	<block key="ui_player_gauge_fp" korean="분노를 소모하여 스킬을 사용할 수 있으며, 전투 시 생성되고 비전투 시 조금씩 감소합니다." />
+	<block key="ui_player_gauge_tp" korean="기력을 소모하여 스킬을 사용할 수 있으며, 비전투시 시간이 지나면 자동으로 회복됩니다." />
+	<block key="ui_player_gauge_sp" korean="빛의 징표를 소모하여 프리스트만의 특별한 스킬을 사용할 수 있습니다." />
+	<block key="ui_player_gauge_ep" korean="탑승 시 펠로우의 기력을 소모하여, 이동 및 스킬을 사용할 수 있습니다." />
+	<block key="ui_createjob_warrior" korean="버서커" />
+	<block key="ui_createjob_guardian" korean="가디언" />
+	<block key="ui_createjob_thief" korean="어쌔신" />
+	<block key="ui_createjob_wizard" korean="위저드" />
+	<block key="ui_createjob_priest" korean="프리스트" />
+	<block key="ui_createjob_archer" korean="레인저" />
+	<block key="quick_instancedungeon_initial" korean="인던 초기화" />
+	<block key="quick_friend_registration" korean="친구등록" />
+	<block key="quick_whisper" korean="귓속말" />
+	<block key="shortcut_moveforward" korean="앞으로 가기" />
+	<block key="shortcut_moveforward_sub" korean="앞으로 가기(보조)" />
+	<block key="shortcut_moveback" korean="뒤로 가기" />
+	<block key="shortcut_moveback_sub" korean="뒤로 가기(보조)" />
+	<block key="shortcut_rotateleft" korean="왼쪽으로 돌기" />
+	<block key="shortcut_rotateleft_sub" korean="왼쪽으로 돌기(보조)" />
+	<block key="shortcut_rotateright" korean="오른쪽으로 돌기" />
+	<block key="shortcut_rotateright_sub" korean="오른쪽으로 돌기(보조)" />
+	<block key="shortcut_moveleft" korean="왼쪽으로 가기" />
+	<block key="shortcut_moveleft_sub" korean="왼쪽으로 가기(보조)" />
+	<block key="shortcut_moveright" korean="오른쪽으로 가기" />
+	<block key="shortcut_moveright_sub" korean="오른쪽으로 가기(보조)" />
+	<block key="shortcut_autointeraction" korean="대화/아이템 줍기" />
+	<block key="shortcut_autointeraction_sub" korean="대화/아이템 줍기(보조)" />
+	<block key="shortcut_change_move_stance" korean="달리기/걷기" />
+	<block key="shortcut_change_move_stance_sub" korean="달리기/걷기(보조)" />
+	<block key="shortcut_autorunkeyboard" korean="자동 달리기" />
+	<block key="shortcut_autorunkeyboard_sub" korean="자동 달리기(보조)" />
+	<block key="shortcut_sitstandup" korean="앉기/일어서기" />
+	<block key="shortcut_sitstandup_sub" korean="앉기/일어서기(보조)" />
+	<block key="shortcut_moveupward" korean="점프/비행시 상승/비행시 활강" />
+	<block key="shortcut_moveupward_sub" korean="점프/비행시 상승/비행시 활강(보조)" />
+	<block key="shortcut_movedownward" korean="비행시 하강" />
+	<block key="shortcut_movedownward_sub" korean="비행시 하강(보조)" />
+	<block key="shortcut_ride" korean="펠로우 탑승" />
+	<block key="shortcut_ride_sub" korean="펠로우 탑승(보조)" />
+	<block key="shortcut_ui_toggle_character_info" korean="캐릭터 정보창" />
+	<block key="shortcut_ui_toggle_character_info_sub" korean="캐릭터 정보창(보조)" />
+	<block key="shortcut_ui_toggle_fellowinfo" korean="펠로우 정보창" />
+	<block key="shortcut_ui_toggle_fellowinfo_sub" korean="펠로우 정보창(보조)" />
+	<block key="shortcut_ui_toggle_fellowbook" korean="펠로우 도감" />
+	<block key="shortcut_ui_toggle_fellowbook_sub" korean="펠로우 도감(보조)" />
+	<block key="shortcut_ui_toggle_skilltree" korean="스킬" />
+	<block key="shortcut_ui_toggle_skilltree_sub" korean="스킬(보조)" />
+	<block key="shortcut_ui_toggle_questlist" korean="퀘스트" />
+	<block key="shortcut_ui_toggle_questlist_sub" korean="퀘스트(보조)" />
+	<block key="shortcut_ui_toggle_inventory" korean="가방" />
+	<block key="shortcut_ui_toggle_inventory_sub" korean="가방(보조)" />
+	<block key="shortcut_ui_toggle_actionlist" korean="액션목록" />
+	<block key="shortcut_ui_toggle_actionlist_sub" korean="액션목록(보조)" />
+	<block key="shortcut_ui_toggle_worldmap_default" korean="지도" />
+	<block key="shortcut_ui_toggle_worldmap_default_sub" korean="지도(보조)" />
+	<block key="shortcut_ui_toggle_friendlist" korean="친구" />
+	<block key="shortcut_ui_toggle_friendlist_sub" korean="친구(보조)" />
+	<block key="shortcut_ui_toggle_gm" korean="GM" />
+	<block key="shortcut_ui_toggle_gm_sub" korean="GM(보조)" />
+	<block key="shortcut_ui_toggle_guild" korean="길드" />
+	<block key="shortcut_ui_toggle_guild_sub" korean="길드(보조)" />
+	<block key="shortcut_ui_toggle_raid" korean="공격대" />
+	<block key="shortcut_ui_toggle_raid_sub" korean="공격대(보조)" />
+	<block key="shortcut_ui_toggle_helptopic" korean="도움말" />
+	<block key="shortcut_ui_toggle_helptopic_sub" korean="도움말(보조)" />
+	<block key="shortcut_ui_toggle_option" korean="게임옵션" />
+	<block key="shortcut_ui_toggle_option_sub" korean="게임옵션(보조)" />
+	<block key="shortcut_combat_changecombatstance" korean="전투/일반 자세 변환" />
+	<block key="shortcut_combat_changecombatstance_sub" korean="전투/일반 자세 변환(보조)" />
+	<block key="shortcut_combat_nearenemyselect" korean="가까운 적 선택" />
+	<block key="shortcut_combat_nearenemyselect_sub" korean="가까운 적 선택(보조)" />
+	<block key="shortcut_combat_markselect" korean="징표 대상 선택" />
+	<block key="shortcut_combat_markselect_sub" korean="징표 대상 선택(보조)" />
+	<block key="shortcut_combat_targetoftargetselect" korean="대상의 대상 선택" />
+	<block key="shortcut_combat_targetoftargetselect_sub" korean="대상의 대상 선택(보조)" />
+	<block key="shortcut_combat_linkskill1" korean="연계기 1" />
+	<block key="shortcut_combat_linkskill1_sub" korean="연계기 1(보조)" />
+	<block key="shortcut_combat_linkskill2" korean="연계기 2" />
+	<block key="shortcut_combat_linkskill2_sub" korean="연계기 2(보조)" />
+	<block key="shortcut_combat_linkskill3" korean="연계기 3" />
+	<block key="shortcut_combat_linkskill3_sub" korean="연계기 3(보조)" />
+	<block key="shortcut_combat_linkskill4" korean="연계기 4" />
+	<block key="shortcut_combat_linkskill4_sub" korean="연계기 4(보조)" />
+	<block key="shortcut_party_myplayerselect" korean="자신 선택" />
+	<block key="shortcut_party_myplayerselect_sub" korean="자신 선택(보조)" />
+	<block key="shortcut_party_member1select" korean="파티원 1 선택" />
+	<block key="shortcut_party_member1select_sub" korean="파티원 1 선택(보조)" />
+	<block key="shortcut_party_member2select" korean="파티원 2 선택" />
+	<block key="shortcut_party_member2select_sub" korean="파티원 2 선택(보조)" />
+	<block key="shortcut_party_member3select" korean="파티원 3 선택" />
+	<block key="shortcut_party_member3select_sub" korean="파티원 3 선택(보조)" />
+	<block key="shortcut_party_member4select" korean="파티원 4 선택" />
+	<block key="shortcut_party_member4select_sub" korean="파티원 4 선택(보조)" />
+	<block key="shortcut_token_deletetoken" korean="징표해제" />
+	<block key="shortcut_token_deletetoken_sub" korean="징표해제(보조)" />
+	<block key="shortcut_mark_1_display" korean="징표 1 표시" />
+	<block key="shortcut_mark_1_display_sub" korean="징표 1 표시(보조)" />
+	<block key="shortcut_mark_2_display" korean="징표 2 표시" />
+	<block key="shortcut_mark_2_display_sub" korean="징표 2 표시(보조)" />
+	<block key="shortcut_mark_3_display" korean="징표 3 표시" />
+	<block key="shortcut_mark_3_display_sub" korean="징표 3 표시(보조)" />
+	<block key="shortcut_mark_4_display" korean="징표 방패 표시" />
+	<block key="shortcut_mark_4_display_sub" korean="징표 방패 표시(보조)" />
+	<block key="shortcut_mark_5_display" korean="징표 검 표시" />
+	<block key="shortcut_mark_5_display_sub" korean="징표 검 표시(보조)" />
+	<block key="shortcut_mark_6_display" korean="징표 십자 표시" />
+	<block key="shortcut_mark_6_display_sub" korean="징표 십자 표시(보조)" />
+	<block key="shortcut_mark_7_display" korean="징표 수면 표시" />
+	<block key="shortcut_mark_7_display_sub" korean="징표 수면 표시(보조)" />
+	<block key="shortcut_mark_8_display" korean="징표 화살표 표시" />
+	<block key="shortcut_mark_8_display_sub" korean="징표 화살표 표시(보조)" />
+	<block key="shortcut_mark_9_display" korean="징표 금지 표시" />
+	<block key="shortcut_mark_9_display_sub" korean="징표 금지 표시(보조)" />
+	<block key="shortcut_quickslot_0" korean="기본 슬롯 1" />
+	<block key="shortcut_quickslot_0_sub" korean="기본 슬롯 1(보조)" />
+	<block key="shortcut_quickslot_1" korean="기본 슬롯 2" />
+	<block key="shortcut_quickslot_1_sub" korean="기본 슬롯 2(보조)" />
+	<block key="shortcut_quickslot_2" korean="기본 슬롯 3" />
+	<block key="shortcut_quickslot_2_sub" korean="기본 슬롯 3(보조)" />
+	<block key="shortcut_quickslot_3" korean="기본 슬롯 4" />
+	<block key="shortcut_quickslot_3_sub" korean="기본 슬롯 4(보조)" />
+	<block key="shortcut_quickslot_4" korean="기본 슬롯 5" />
+	<block key="shortcut_quickslot_4_sub" korean="기본 슬롯 5(보조)" />
+	<block key="shortcut_quickslot_5" korean="기본 슬롯 6" />
+	<block key="shortcut_quickslot_5_sub" korean="기본 슬롯 6(보조)" />
+	<block key="shortcut_quickslot_6" korean="기본 슬롯 7" />
+	<block key="shortcut_quickslot_6_sub" korean="기본 슬롯 7(보조)" />
+	<block key="shortcut_quickslot_7" korean="기본 슬롯 8" />
+	<block key="shortcut_quickslot_7_sub" korean="기본 슬롯 8(보조)" />
+	<block key="shortcut_quickslot_8" korean="기본 슬롯 9" />
+	<block key="shortcut_quickslot_8_sub" korean="기본 슬롯 9(보조)" />
+	<block key="shortcut_quickslot_9" korean="기본 슬롯 10" />
+	<block key="shortcut_quickslot_9_sub" korean="기본 슬롯 10(보조)" />
+	<block key="shortcut_quickslot_10" korean="기본 슬롯 11" />
+	<block key="shortcut_quickslot_10_sub" korean="기본 슬롯 11(보조)" />
+	<block key="shortcut_quickslot_11" korean="기본 슬롯 12" />
+	<block key="shortcut_quickslot_11_sub" korean="기본 슬롯 12(보조)" />
+	<block key="shortcut_exquickslot_0" korean="확장 슬롯 1" />
+	<block key="shortcut_exquickslot_0_sub" korean="확장 슬롯 1(보조)" />
+	<block key="shortcut_exquickslot_1" korean="확장 슬롯 2" />
+	<block key="shortcut_exquickslot_1_sub" korean="확장 슬롯 2(보조)" />
+	<block key="shortcut_exquickslot_2" korean="확장 슬롯 3" />
+	<block key="shortcut_exquickslot_2_sub" korean="확장 슬롯 3(보조)" />
+	<block key="shortcut_exquickslot_3" korean="확장 슬롯 4" />
+	<block key="shortcut_exquickslot_3_sub" korean="확장 슬롯 4(보조)" />
+	<block key="shortcut_exquickslot_4" korean="확장 슬롯 5" />
+	<block key="shortcut_exquickslot_4_sub" korean="확장 슬롯 5(보조)" />
+	<block key="shortcut_exquickslot_5" korean="확장 슬롯 6" />
+	<block key="shortcut_exquickslot_5_sub" korean="확장 슬롯 6(보조)" />
+	<block key="shortcut_exquickslot_6" korean="확장 슬롯 7" />
+	<block key="shortcut_exquickslot_6_sub" korean="확장 슬롯 7(보조)" />
+	<block key="shortcut_exquickslot_7" korean="확장 슬롯 8" />
+	<block key="shortcut_exquickslot_7_sub" korean="확장 슬롯 8(보조)" />
+	<block key="shortcut_exquickslot_8" korean="확장 슬롯 9" />
+	<block key="shortcut_exquickslot_8_sub" korean="확장 슬롯 9(보조)" />
+	<block key="shortcut_exquickslot_9" korean="확장 슬롯 10" />
+	<block key="shortcut_exquickslot_9_sub" korean="확장 슬롯 10(보조)" />
+	<block key="shortcut_exquickslot_10" korean="확장 슬롯 11" />
+	<block key="shortcut_exquickslot_10_sub" korean="확장 슬롯 11(보조)" />
+	<block key="shortcut_exquickslot_11" korean="확장 슬롯 12" />
+	<block key="shortcut_exquickslot_11_sub" korean="확장 슬롯 12(보조)" />
+	<block key="shortcut_fquickslot_0" korean="펠로우 단축슬롯 1" />
+	<block key="shortcut_fquickslot_0_sub" korean="펠로우 단축슬롯 1(보조)" />
+	<block key="shortcut_fquickslot_1" korean="펠로우 단축슬롯 2" />
+	<block key="shortcut_fquickslot_1_sub" korean="펠로우 단축슬롯 2(보조)" />
+	<block key="shortcut_fquickslot_2" korean="펠로우 단축슬롯 3" />
+	<block key="shortcut_fquickslot_2_sub" korean="펠로우 단축슬롯 3(보조)" />
+	<block key="shortcut_fquickslot_3" korean="펠로우 단축슬롯 4" />
+	<block key="shortcut_fquickslot_3_sub" korean="펠로우 단축슬롯 4(보조)" />
+	<block key="shortcut_fquickslot_4" korean="펠로우 단축슬롯 5" />
+	<block key="shortcut_fquickslot_4_sub" korean="펠로우 단축슬롯 5(보조)" />
+	<block key="shortcutkeydefaultdesc" korean="단축키 설정중 ESC를 누르면 취소됩니다." />
+	<block key="shortcut_ui_toggle_partyboard" korean="파티게시판" />
+	<block key="shortcut_ui_toggle_partyboard_sub" korean="파티게시판(보조)" />
+	<block key="shortcut_ui_toggle_itemproduction" korean="제작" />
+	<block key="shortcut_ui_toggle_itemproduction_sub" korean="제작(보조)" />
+	<block key="shortcut_combat_nearallyselect" korean="가까운 아군 선택" />
+	<block key="shortcut_combat_nearallyselect_sub" korean="가까운 아군 선택(보조)" />
+	<block key="shortcut_combat_recommandskill" korean="추천 스킬" />
+	<block key="shortcut_combat_recommandskill_sub" korean="추천 스킬(보조)" />
+	<block key="shortcut_combat_toggle_ridingmode" korean="탑승시 크로스 헤어 고정" />
+	<block key="shortcut_combat_toggle_ridingmode_sub" korean="탑승시 크로스 헤어 고정(보조)" />
+	<block key="shortcut_combat_combotriggerskill" korean="발동 스킬" />
+	<block key="shortcut_combat_combotriggerskill_sub" korean="발동 스킬(보조)" />
+	<block key="shortcut_combat_ridingweaponswap" korean="탑승 무기 스왑" />
+	<block key="shortcut_combat_ridingweaponswap(" korean="탑승 무기 스왑(보조)" />
+	<block key="shortcut_fquickslotcom_0" korean="AI 모드" />
+	<block key="shortcut_fquickslotcom_0 _sub" korean="AI 모드(보조)" />
+	<block key="shortcut_fquickslotcom_1" korean="따라가기" />
+	<block key="shortcut_fquickslotcom_1_sub" korean="따라가기(보조)" />
+	<block key="shortcut_fquickslotcom_2" korean="위치지정" />
+	<block key="shortcut_fquickslotcom_2_sub" korean="위치지정(보조)" />
+	<block key="shortcut_fquickslotcom_3" korean="대상지정" />
+	<block key="shortcut_fquickslotcom_3_sub" korean="대상지정(보조)" />
+	<block key="shortcut_fquickslotskill_0" korean="펠로우 단축슬롯 1" />
+	<block key="shortcut_fquickslotskill_0_sub" korean="펠로우 단축슬롯 1(보조)" />
+	<block key="shortcut_fquickslotskill_1" korean="펠로우 단축슬롯 2" />
+	<block key="shortcut_fquickslotskill_1_sub" korean="펠로우 단축슬롯 2(보조)" />
+	<block key="shortcut_fquickslotskill_2" korean="펠로우 단축슬롯 3" />
+	<block key="shortcut_fquickslotskill_2_sub" korean="펠로우 단축슬롯 3(보조)" />
+	<block key="shortcut_fquickslotskill_3" korean="펠로우 단축슬롯 4" />
+	<block key="shortcut_fquickslotskill_3_sub" korean="펠로우 단축슬롯 4(보조)" />
+	<block key="shortcut_fquickslotskill_4" korean="펠로우 단축슬롯 5" />
+	<block key="shortcut_fquickslotskill_4_sub" korean="펠로우 단축슬롯 5(보조)" />
+	<block key="shortcut_fellowlistslot_0" korean="펠로우리스트 단축슬롯1" />
+	<block key="shortcut_fellowlistslot_0_sub" korean="펠로우리스트 단축슬롯1(보조)" />
+	<block key="shortcut_fellowlistslot_1" korean="펠로우리스트 단축슬롯2" />
+	<block key="shortcut_fellowlistslot_1_sub" korean="펠로우리스트 단축슬롯2(보조)" />
+	<block key="shortcut_fellowlistslot_2" korean="펠로우리스트 단축슬롯3" />
+	<block key="shortcut_fellowlistslot_2_sub" korean="펠로우리스트 단축슬롯3(보조)" />
+	<block key="shortcut_fellowlistslot_3" korean="펠로우리스트 단축슬롯4" />
+	<block key="shortcut_fellowlistslot_3_sub" korean="펠로우리스트 단축슬롯4(보조)" />
+	<block key="shortcut_fellowlistslot_4" korean="펠로우리스트 단축슬롯5" />
+	<block key="shortcut_fellowlistslot_4_sub" korean="펠로우리스트 단축슬롯5(보조)" />
+	<block key="shortcut_fellowlistslot_5" korean="펠로우리스트 단축슬롯6" />
+	<block key="shortcut_fellowlistslot_5_sub" korean="펠로우리스트 단축슬롯6(보조)" />
+	<block key="shortcut_fellowlistslot_6" korean="펠로우리스트 단축슬롯7" />
+	<block key="shortcut_fellowlistslot_6_sub" korean="펠로우리스트 단축슬롯7(보조)" />
+	<block key="shortcut_fellowlistslot_7" korean="펠로우리스트 단축슬롯8" />
+	<block key="shortcut_fellowlistslot_7_sub" korean="펠로우리스트 단축슬롯8(보조)" />
+	<block key="shortcut_fellowlistslot_8" korean="펠로우리스트 단축슬롯9" />
+	<block key="shortcut_fellowlistslot_8_sub" korean="펠로우리스트 단축슬롯9(보조)" />
+	<block key="shortcut_fellowlistslot_9" korean="펠로우리스트 단축슬롯10" />
+	<block key="shortcut_fellowlistslot_9_sub" korean="펠로우리스트 단축슬롯10(보조)" />
+	<block key="shortcut_make_film_mode" korean="UI 숨김" />
+	<block key="shortcut_make_film_mode_sub" korean="UI 숨김(보조)" />
+	<block key="duplicationkeydesc" korean=" 키가 해제되었습니다." />
+	<block key="recommendskill" korean="링크스킬" />
+	<block key="ui_casting_stop" korean="중단" />
+	<block key="learnlevel" korean="습득레벨" />
+	<block key="ui_area_f01_p_1003" korean="광채나무 캠프
+<MAP_Y>NPC</MAP_Y> : <MAP_T>무기, 잡화, 음식, 치료사, 포탈, 귀환</MAP_T>" />
+	<block key="ui_area_f01_p_1002" korean="유적지 폐허
+<MAP_Y>NPC</MAP_Y> : <MAP_T>치료사, 포탈, 귀환</MAP_T>" />
+	<block key="ui_area_f01_p_1001" korean="신룡기사단 캠프
+<MAP_Y>NPC</MAP_Y> : <MAP_T>엘룬상인, 무기, 방어구, 물약, 잡화, 음식, 치료사, 상급포탈, 귀환, 우편함</MAP_T>" />
+	<block key="ui_area_f02_p_1001" korean="켈우즈 마을
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 제작, 엘룬상인, 창고, 판매대행, 무기, 방어구, 물약, 잡화, 음식, 치료사, 우편함, 포탈, 귀환</MAP_T>" />
+	<block key="ui_area_f02_p_1002" korean="산서프스 피난 캠프
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 창고, 무기, 방어구, 잡화, 상급포탈, 귀환, 치료사, 우편함</MAP_T>" />
+	<block key="ui_area_f02_p_1003" korean="포효의 숲 주둔지
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 창고, 무기, 방어구, 잡화, 우편함, 포탈, 귀환, 치료사</MAP_T>" />
+	<block key="ui_map_c01_hkcity" korean="하카나스 수도성
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 엘룬상인, 창고, 판매대행, 무기, 방어구, 물약, 잡화, 음식, 치료사, 우편함, 포탈, 귀환</MAP_T>" />
+	<block key="ui_game_combatoperate" korean="전투조작" />
+	<block key="channel_move_impossible" korean=" 초 이후에 채널 이동이 가능합니다." />
+	<block key="channel_move_possible" korean="채널이동이 가능합니다." />
+	<block key="guild_guildmaster" korean="길드장" />
+	<block key="guildmenu_party_invitation" korean="파티초대" />
+	<block key="guildmenu_whisper" korean="귓속말" />
+	<block key="guildmenu_rank_change" korean="계급변경" />
+	<block key="guildmenu_guild_master_change" korean="길드장위임" />
+	<block key="guildmenu_guild_kick" korean="길드추방" />
+	<block key="guildmenu_guild_out" korean="길드탈퇴" />
+	<block key="guild_registration_msg" korean="길드를 등록하시겠습니까?" />
+	<block key="guild_creation" korean="생성" />
+	<block key="guild_dissolution_msg" korean="길드를 해체 하시겠습니까?<br>길드가 해체되면 길드정보는 모두 삭제됩니다." />
+	<block key="guild_dissolution" korean="해체" />
+	<block key="guild_invitation_msg" korean="아래 플레이어를 길드에 초대하시겠습니까?" />
+	<block key="guild_invitation" korean="초대" />
+	<block key="guildcreation_name_empty" korean="생성할 길드 이름을 입력 하십시오." />
+	<block key="guildcreation_name_length" korean="입력하신 이름이 글자 수를 초과하였습니다." />
+	<block key="guildcreation_level_low" korean="레벨이 낮아 길드를 생성할 수 없습니다." />
+	<block key="guildcreation_money_small" korean="소지금이 부족하여 길드를 생성할 수 없습니다." />
+	<block key="guild_master_change_msg" korean="님에게 길드장을 위임하시겠습니까?" />
+	<block key="guild_out_msg" korean="길드를 탈퇴하시겠습니까?" />
+	<block key="guild_kick_msg" korean="님을 길드에서 추방하시겠습니까?" />
+	<block key="guildrank_full" korean="더 이상 계급을 추가 할 수 없습니다." />
+	<block key="guildcreation_name_slang" korean="금지단어가 포함되어 있어 생성할 수 없습니다." />
+	<block key="attackbattalion_kick" korean="공격대원 추방" />
+	<block key="attackbattalion_master_change" korean="공격대장 위임" />
+	<block key="quick_attack_battalion" korean="공격대 편성" />
+	<block key="attackbattalion_invitation_msg" korean="초대할 아이디를 입력 하십시오." />
+	<block key="attackbattalion_organize_msg" korean="공격대로 편성하시겠습니까?" />
+	<block key="ui_edit" korean="편집" />
+	<block key="ui_save" korean="저장" />
+	<block key="fellow_transform_name" korean="펠로우 변형 중" />
+	<block key="battalionchat" korean="공격대" />
+	<block key="battalioncommandchat" korean="공격대명령" />
+	<block key="chat_exe_battalion_invite" korean="공격대초대" />
+	<block key="chat_exe_battalion_leave" korean="공격대탈퇴" />
+	<block key="ui_area_f03_p_0001" korean="갈대 바람 마을
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 제작, 엘룬상인, 창고, 판매대행, 장비, 잡화, 음식, 치료사, 상급포탈, 귀환, 우편</MAP_T>" />
+	<block key="ui_area_f03_p_0002" korean="수비대 주둔지
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 장비, 잡화, 치료사, 포탈, 귀환</MAP_T>" />
+	<block key="ui_area_f03_p_0003" korean="통곡 절벽 마을
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 창고, 장비, 물약, 치료사, 포탈, 귀환</MAP_T>" />
+	<block key="ui_area_f03_p_0005" korean="생명의 호수
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 창고, 무기, 방어구, 잡화, 치료사, 포탈, 귀환</MAP_T>" />
+	<block key="ui_area_f03_p_0004" korean="파를라크 영지
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 무기, 방어구, 잡화, 음식, 치료사, 포탈, 귀환</MAP_T>" />
+	<block key="ui_area_f09_p_0001" korean="수비대 주둔지
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 엘룬상인, 창고, 무기, 방어구, 잡화, 치료사, 귀환, 상급포탈, 우편함</MAP_T>" />
+	<block key="ui_area_f09_p_0002" korean="바엘리스 요새
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 판매대행, 잡화, 포탈, 귀환, 치료사, 창고, 우편, 제작, 무기, 방어구</MAP_T>" />
+	<block key="ui_area_f09_p_0005" korean="공중 농장 캠프
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 치료사, 포탈, 귀환, 잡화</MAP_T>" />
+	<block key="ui_area_f04_p_1002" korean="휘몰아치는 바다
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 상급포탈, 귀환, 치료사, 무기, 방어구, 잡화, 음식, 엘룬상인</MAP_T>" />
+	<block key="ui_area_f04_p_1001" korean="고공 정찰캠프
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 포탈, 귀환, 치료사, 창고, 판매대행, 우편, 무기, 잡화, 음식</MAP_T>" />
+	<block key="ui_area_f04_p_1004" korean="빛을 잃은 신전
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 포탈, 귀환, 치료사, 제작, 방어구, 잡화, 음식</MAP_T>" />
+	<block key="ui_area_p01_001" korean="진리의 관문
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 포탈, 귀환, 치료사, 주화상인, 창고, 잡화, 우편</MAP_T>" />
+	<block key="ui_area_p01_002" korean="달무리 야영지
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 포탈, 귀환, 치료사, 주화상인, 창고, 판매대행, 우편, 제작, 잡화, 음식</MAP_T>" />
+	<block key="ui_area_p01_003" korean="붉은 그림자 주둔지
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 포탈, 귀환, 치료사, 주화상인, 잡화, 음식, 창고, 우편</MAP_T>" />
+	<block key="ui_area_p01_004" korean="격동의 야영지
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 포탈, 귀환, 치료사, 창고, 잡화</MAP_T>" />
+	<block key="ui_item" korean="아이템" />
+	<block key="ui_buy_search_word" korean="아이템 이름" />
+	<block key="ui_search" korean="검색" />
+	<block key="ui_sellprice" korean="총 판매 가격" />
+	<block key="ui_totalitemcount" korean="개의 아이템이 검색되었습니다." />
+	<block key="ui_auction_initbtn" korean="검색 초기화" />
+	<block key="ui_buybtn" korean="구입" />
+	<block key="ui_deadline" korean="마감 시간" />
+	<block key="labelsellitemcount" korean="판매 개수" />
+	<block key="sellregister" korean="판매 등록" />
+	<block key="ui_aution_sell" korean="가방에 아이템을 우클릭 또는 창에 끌어서 등록할 수 있습니다." />
+	<block key="soldtime" korean="판매 시간" />
+	<block key="totalsoldprice" korean="총 정산 금액" />
+	<block key="calculate" korean="정산" />
+	<block key="ui_tab_auction_buy" korean="구매" />
+	<block key="ui_tab_auction_sell" korean="판매" />
+	<block key="ui_auction_msg_buy" korean="을
+구매하시겠습니까?" />
+	<block key="ui_auction_msg_buyprice" korean="구매 금액" />
+	<block key="ui_auction_msg_cancelsell" korean="취소하면 수수료는 돌려 받을 수 없습니다.
+정말 취소하시겠습니까?" />
+	<block key="ui_auction_msg_sold" korean="개의 아이템을 정산하시겠습니까?" />
+	<block key="ui_auction_msg_soldprice" korean="정산 금액" />
+	<block key="lowprice" korean="낮은 가격순" />
+	<block key="highprice" korean="높은 가격순" />
+	<block key="rare" korean="정예" />
+	<block key="normal" korean="일반" />
+	<block key="legend" korean="전설" />
+	<block key="ui_fellowbook_collectionbook" korean="수집도감" />
+	<block key="ui_fellowbook_area" korean="지역" />
+	<block key="auction" korean="판매 대행" />
+	<block key="limittime" korean="제한시간" />
+	<block key="chat_exe_party_apply" korean="파티지원" />
+	<block key="chat_exe_battalion_apply" korean="공격대지원" />
+	<block key="ui_partyboard_title" korean="파티게시판" />
+	<block key="ui_partyboard_level" korean="레벨" />
+	<block key="ui_partyboard_sort" korean="정렬" />
+	<block key="ui_partyboard_partyrecruit" korean="파티모집" />
+	<block key="ui_partyboard_search" korean="검색" />
+	<block key="ui_partyboard_refresh" korean="새로고침" />
+	<block key="ui_partyboard_general" korean="전체" />
+	<block key="ui_partyboard_party" korean="파티" />
+	<block key="ui_partyboard_battalion" korean="공격대" />
+	<block key="ui_partyboard_apply" korean="지원" />
+	<block key="ui_partyboard_whisper" korean="귓속말" />
+	<block key="ui_partyboard_partyapply" korean="파티지원" />
+	<block key="ui_partyboard_contentregist" korean="게시물 등록" />
+	<block key="ui_partyboard_recruitdelete" korean="모집 삭제" />
+	<block key="ui_partyboard_contentmodify" korean="게시물 수정" />
+	<block key="ui_partyboard_classify" korean="분류" />
+	<block key="ui_partyboard_leader" korean="파티장" />
+	<block key="ui_partyboard_content" korean="내용" />
+	<block key="ui_partyboard_membercount" korean="인원" />
+	<block key="ui_partyboard_member" korean="구성원" />
+	<block key="ui_partyboard_name" korean="이름" />
+	<block key="ui_partyboard_class" korean="클래스" />
+	<block key="ui_partyboard_detailinfo" korean="상세정보" />
+	<block key="ui_enchant_success_00" korean="
+<font color="#E53215">강화석 레벨이 낮아 성공할 수 없습니다.</font>" />
+	<block key="ui_enchant_success_01" korean="
+<font color="#5D6459">낮은확률</font>로 성공하며," />
+	<block key="ui_enchant_success_02" korean="
+<font color="#E5C015">보통확률</font>로 성공하며," />
+	<block key="ui_enchant_success_03" korean="
+<font color="#56B70E">높은확률</font>로 성공하며," />
+	<block key="ui_enchant_success_04" korean="
+<font color="#56B70E">반드시 강화에 성공할 수 있습니다.</font>" />
+	<block key="ui_enchant_fail_00" korean=" 실패해도 단계는 유지됩니다." />
+	<block key="ui_enchant_fail_01" korean=" 실패 시 하락될 수 있습니다." />
+	<block key="ui_enchant_fail_02" korean=" 실패 시 초기화될 수 있습니다." />
+	<block key="ui_enchant_fail_03" korean=" 실패 시 <font color="#E53215">파괴</font>될 수 있습니다." />
+	<block key="ui_partyboardtype_party_recruit" korean="파티" />
+	<block key="ui_partyboardtype_attackbattalion_recruit" korean="공격대" />
+	<block key="ui_partyboardtype_apply" korean="지원" />
+	<block key="ui_partyboardtype_invalid" korean="전체" />
+	<block key="itemauction_bid_msg" korean=" 에 입찰 하시겠습니까?" />
+	<block key="itemauction_renounce_msg" korean="입찰을 포기 하시겠습니까?" />
+	<block key="storage" korean="창고" />
+	<block key="newest" korean="최신순" />
+	<block key="totalsellprice" korean="총 판매 가격" />
+	<block key="commission" korean="수수료" />
+	<block key="expectprice" korean="총 판매 금액" />
+	<block key="selllistamount" korean="등록한 아이템" />
+	<block key="soldlistamount" korean="판매한 아이템" />
+	<block key="ui_pieceprice" korean="개당 판매 가격" />
+	<block key="dungeon_grade_none" korean="없음" />
+	<block key="dungeon_grade_normal" korean="시나리오" />
+	<block key="dungeon_grade_elite" korean="정예" />
+	<block key="dungeon_grade_hero" korean="영웅" />
+	<block key="itemsearch" korean="아이템 검색" />
+	<block key="initcondition" korean="검색 조건 초기화" />
+	<block key="deadline" korean="판매 실패" />
+	<block key="ui_tamingminigame_name_0" korean="억제 하기" />
+	<block key="ui_tamingminigame_name_1" korean="체력 빼기" />
+	<block key="ui_tamingminigame_name_2" korean="교감 하기" />
+	<block key="ui_tamingminigame_name_3" korean="진정 하기" />
+	<block key="ui_tamingminigame_message_0" korean="가 <font color="#FF5E00">날뛰고 있습니다</font>" />
+	<block key="ui_tamingminigame_message_1" korean="가 <font color="#FF5E00">광분한 상태입니다</font>" />
+	<block key="ui_tamingminigame_message_2" korean="가 <font color="#FF5E00">지쳐 있습니다</font>" />
+	<block key="ui_tamingminigame_message_3" korean="가 <font color="#FF5E00">흥분 상태입니다</font>" />
+	<block key="ui_tamingminigame_message_4" korean="가 <font color="#6495ED">흥분 상태입니다</font>" />
+	<block key="ui_common_expand" korean="더 보기" />
+	<block key="ui_common_collapse" korean="접기" />
+	<block key="product_item_name" korean="제작 중" />
+	<block key="combotriggerskill" korean="콤보연계" />
+	<block key="ui_shortcut_fellowquickslot" korean="펠로우 퀵슬롯" />
+	<block key="new_mail_count" korean="새 우편" />
+	<block key="allcancel" korean="모두 취소" />
+	<block key="ui_scenario" korean="메인" />
+	<block key="ui_general" korean="서브" />
+	<block key="ui_request" korean="의뢰" />
+	<block key="ui_foothold" korean="거점전" />
+	<block key="ui_soultalents_block" korean="레벨에 슬롯이 확장됩니다." />
+	<block key="ui_soultalents_point" korean="봉인된 펠로우를 넣으면 특성력으로 변환됩니다." />
+	<block key="auction_normal" korean="일반 이상" />
+	<block key="auction_rare" korean="정예 이상" />
+	<block key="auction_hero" korean="영웅 이상" />
+	<block key="auction_legend" korean="전설 이상" />
+	<block key="ui_tamingminigame_autogame_0" korean="<font color="#FFE400">의 통제가 불가능합니다</font>" />
+	<block key="ui_tamingminigame_autogame_1" korean="<font color="#FFE400">가 광분한 상태입니다</font>" />
+	<block key="ui_tamingminigame_autogame_2" korean="<font color="#FFE400">가 지쳐 있습니다</font>" />
+	<block key="ui_shortcut_etc" korean="기타" />
+	<block key="ui_shortcut_fellowlistquickslot" korean="펠로우 보관함 단축키" />
+	<block key="ui_bid" korean="입찰" />
+	<block key="ui_auction_msg_allcancelsell" korean="취소하면 수수료는 돌려 받을 수 없습니다.
+등록된 모든 아이템을 취소하시겠습니까?" />
+	<block key="guildrank_name_too_long" korean="입력된 계급 글자수가 너무 깁니다." />
+	<block key="ui_final_cbt_complete" korean="FINAL CBT 체험을 모두 완료하셨습니다." />
+	<block key="ui_guild_gradeeffect" korean="<UI_Y>등급 별 혜택</UI_Y>
+
+<UI_G>등급 1 혜택
+ - 최대 길드원 20명</UI_G>
+
+<UI_G2>등급 2 혜택
+ - 최대 길드원 30명
+ - 길드창고 사용 가능
+
+등급 3 혜택
+ - 최대 길드원 40명
+ - 길드스킬 사용 가능
+
+등급 4 혜택
+ - 최대 길드원 50명
+ - 길드스킬 업그레이드 가능</UI_G2>
+
+<UI_Y>Final CBT 에서는 등급 1 까지만 이용할 수 있습니다.</UI_Y>" />
+	<block key="auction_prepagebtn" korean="10 페이지 앞으로 이동" />
+	<block key="auction_nextpagebtn" korean="10 페이지 뒤로 이동" />
+	<block key="ui_close" korean="확인" />
+	<block key="ui_riding" korean="탑승" />
+	<block key="ui_summon" korean="소환" />
+	<block key="ui_flight" korean="비행" />
+	<block key="ui_highdegree" korean="고도" />
+	<block key="auctionalarm" korean="의 정산금이 있습니다." />
+	<block key="ui_riding_able" korean="펠로우 탑승 가능" />
+	<block key="ui_riding_unable" korean="펠로우 탑승 불가" />
+	<block key="ui_flight_able" korean="비행 가능" />
+	<block key="ui_flight_unable" korean="비행 불가" />
+	<block key="ui_summon_able" korean="펫 소환 가능" />
+	<block key="ui_summon_unable" korean="펫 소환 불가" />
+	<block key="auctionalarmnoprice" korean="판매대행 정산금이 없습니다." />
+	<block key="nomailalarm" korean="새 편지가 없습니다." />
+	<block key="ui_tab_blocklist_delfriend" korean="차단 삭제" />
+	<block key="ui_tab_blocklist_addmemo" korean="메모 추가" />
+	<block key="ui_tab_friendlist_block" korean="차단" />
+	<block key="shortcut_token_numberone" korean="징표 1 표시" />
+	<block key="shortcut_token_numberone_sub" korean="징표 1 표시" />
+	<block key="shortcut_token_numbertwo" korean="징표 2 표시" />
+	<block key="shortcut_token_numbertwo_sub" korean="징표 2 표시" />
+	<block key="shortcut_token_numberthree" korean="징표 3 표시" />
+	<block key="shortcut_token_numberthree_sub" korean="징표 3 표시" />
+	<block key="shortcut_token_shapeshield" korean="징표 방패 표시" />
+	<block key="shortcut_token_shapeshield_sub" korean="징표 방패 표시" />
+	<block key="shortcut_token_shapesword" korean="징표 검 표시" />
+	<block key="shortcut_token_shapesword_sub" korean="징표 검 표시" />
+	<block key="shortcut_token_shapecross" korean="징표 십자 표시" />
+	<block key="shortcut_token_shapecross_sub" korean="징표 십자 표시" />
+	<block key="shortcut_token_shapesleep" korean="징표 수면 표시" />
+	<block key="shortcut_token_shapesleep_sub" korean="징표 수면 표시" />
+	<block key="shortcut_token_shapedownarrow" korean="징표 화살표 표시" />
+	<block key="shortcut_token_shapedownarrow_sub" korean="징표 화살표 표시" />
+	<block key="shortcut_token_symbolforbid" korean="징표 금지 표시" />
+	<block key="shortcut_token_symbolforbid_sub" korean="징표 금지 표시" />
+	<block key="quick_token" korean="징표" />
+	<block key="ui_tab_actionlist_token" korean="징표" />
+	<block key="actionlist_token_numberone_title" korean="숫자 1" />
+	<block key="actionlist_token_numbertwo_title" korean="숫자 2" />
+	<block key="actionlist_token_numberthree_title" korean="숫자 3" />
+	<block key="actionlist_token_shapeshield_title" korean="방패" />
+	<block key="actionlist_token_shapesword_title" korean="검" />
+	<block key="actionlist_token_shapecross_title" korean="십자" />
+	<block key="actionlist_token_shapesleep_title" korean="수면" />
+	<block key="actionlist_token_shapedownarrow_title" korean="화살표" />
+	<block key="actionlist_token_symbolforbid_title" korean="금지" />
+	<block key="pvparea_warning_msg" korean="다른 플레이어에게 공격받을 수 있는 지역입니다.
+입장하시겠습니까?" />
+	<block key="ap" korean="길들이기 포인트" />
+	<block key="ui_Player_gauge_ap" korean="펠로우를 길들일 때 소모되는 포인트이다.  포인트 회복 캐릭터 레벨 상승, 아이템 사용으로 회복할 수 있다." />
+	<block key="ui_soultalents_open" korean="특성이 활성화 되었습니다." />
+	<block key="chat_exe_agreement_summon" korean="소환" />
+	<block key="actionlist_token_deletetoken_title" korean="징표해제" />
+	<block key="ui_gamemenu_shop" korean="엘로라의 상점" />
+	<block key="ui_revival_title" korean="부활" />
+	<block key="ui_logout_waittime" korean="남은시간" />
+	<block key="ui_logout_title_lobby" korean="캐릭터 선택" />
+	<block key="ui_logout_title_logout" korean="게임 종료" />
+	<block key="guild_grade" korean="등급" />
+	<block key="guild_active" korean="활성" />
+	<block key="ui_tab_guildmember" korean="길드 정보" />
+	<block key="ui_tab_guildskill" korean="길드 스킬" />
+	<block key="dungeon_grade_legend" korean="전설" />
+	<block key="dungeon_grade_maxuser" korean="최대 인원 제한" />
+	<block key="dungeon_grade_levellimit" korean="최소 레벨 제한" />
+	<block key="dungeon_grade_standardplayer" korean="추천 인원" />
+	<block key="dungeon_grade_standardlevel" korean="추천 레벨" />
+	<block key="dungeon_grade_reentertime" korean="재입장 시간" />
+	<block key="ui_logout_now" korean="즉시종료" />
+	<block key="dungeon_grade_only" korean="인 제한" />
+	<block key="dungeon_grade_encourage" korean="인 권장" />
+	<block key="dungeon_grade_limit" korean="인 제한" />
+	<block key="ui_all_looting" korean="모두 획득" />
+	<block key="gather_desc" korean="숙련도가 모두 오르면, 자동으로 채집 기술이 상승합니다." />
+	<block key="fellow_exp_desc" korean="펠로우의 레벨이 상승하면 공격력, 방어력, 기력이 상승합니다." />
+	<block key="fellow_attpowersecond_desc" korean="펠로우 장비 중 발톱을 장착하면 공격력이 증가합니다." />
+	<block key="fellow_def_desc" korean="펠로우 장비 중 안장을 장착하면 방어력이 증가합니다." />
+	<block key="ridingweaponswap" korean="탑승 무기 교체" />
+	<block key="attpowersecond_desc" korean="적에게 피해를 줄 수 있는 수치이며, 공격력이 높을수록 더 많은 피해를 줍니다." />
+	<block key="defpower_desc" korean="같은 레벨의 적을 기준으로 물리 공격 피해를 감소시키는 수치이며, 물리 방어력이 높을수록 더 많은 피해를 감소시킵니다." />
+	<block key="spphdefpow_desc" korean="같은 레벨의 적을 기준으로 마법 공격 피해를 감소시키는 수치이며, 마법 방어력이 높을수록 더 많은 피해를 감소시킵니다." />
+	<block key="tooltip_character_hp" korean="캐릭터의 생명력이 0이되면 사망합니다." />
+	<block key="tooltip_character_mp" korean="마나를 소모하여 스킬과 마법을 사용할 수 있습니다." />
+	<block key="tooltip_character_fp" korean="분노를 소모하여 스킬을 사용할 수 있으며, 전투 시 생성되고 비전투 시 조금씩 감소합니다." />
+	<block key="tooltip_character_sp" korean="기력을 소모하여 스킬을 사용할 수 있으며, 비전투시 시간이 지나면 자동으로 회복됩니다." />
+	<block key="tooltip_character_str" korean="힘이 1 당 물리 공격력이 1 증가합니다." />
+	<block key="tooltip_character_dex" korean="민첩 1 당 회피율과 물리 치명타율이 0.045% 증가합니다." />
+	<block key="tooltip_character_vtl" korean="체력 1 당 생명력이 25 증가합니다." />
+	<block key="tooltip_character_int" korean="지능 1 당 마법 공격력이 1 증가합니다." />
+	<block key="tooltip_character_mtl" korean="정신력 1 당 마나 25와 마법 치명타율 0.045%가 증가합니다." />
+	<block key="tooltip_character_pkatt" korean="플레이어를 공격할 때 피해량이 증가합니다." />
+	<block key="tooltip_character_pkdef" korean="플레이어에게 받는 피해량이 감소합니다." />
+	<block key="tooltip_character_pkbdy" korean="플레이어의 행동제어 효과를 저항합니다." />
+	<block key="ui_actor_view" korean="미리보기" />
+	<block key="ui_ruby" korean="엘룬" />
+	<block key="ui_cash" korean="캐시" />
+	<block key="ui_charge_cash" korean="충전" />
+	<block key="ui_item_count" korean="개" />
+	<block key="ui_cashshop_present" korean="선물하기" />
+	<block key="ui_cashshop_initequip" korean="원래대로" />
+	<block key="ui_cashshop_payment" korean="결제하기" />
+	<block key="ui_cashshop_storage" korean="엘로라의 보관함" />
+	<block key="ui_select_all" korean="전체 선택" />
+	<block key="ui_use" korean="사용" />
+	<block key="ui_lobbycharcreate_cant" korean="더 이상 캐릭터를 생성할 수 없습니다." />
+	<block key="tooltip_revival_knowhow" korean="강해지는 법을 터득하면 효율적인 게임 플레이가 가능해집니다." />
+	<block key="ui_revival_knowhow" korean="강해지는 법" />
+	<block key="ui_cash_shouting" korean="외치기" />
+	<block key="quick_boarding_apply" korean="탑승 신청" />
+	<block key="quick_boarding_invite" korean="탑승 초대" />
+	<block key="quick_boarding_kick" korean="탑승 추방" />
+	<block key="leveldescending" korean="높은 레벨순" />
+	<block key="levelascending" korean="낮은 레벨순" />
+	<block key="initdungeon" korean="던전 재입장시간 초기화" />
+	<block key="notuse" korean="사용 안 함" />
+	<block key="quick_judge_auto" korean="오토신고" />
+	<block key="ui_daily" korean="일일" />
+	<block key="ui_lobbycharselector_btn_clicktocreate" korean="캐릭터를 생성하려면 클릭하세요." />
+	<block key="ui_new_skill" korean="신규 스킬" />
+	<block key="ui_newskill_desc" korean="신규 습득 스킬 정보 창 열기" />
+	<block key="damagereductionmult" korean="물리 피해 감소율" />
+	<block key="ui_revival_curpos" korean="제자리부활" />
+	<block key="ui_revival_limitless" korean="축복 부활" />
+	<block key="ui_revival_neartown" korean="일반부활" />
+	<block key="main" korean="메인" />
+	<block key="rubycharge" korean="엘룬" />
+	<block key="package" korean="패키지" />
+	<block key="costume" korean="코스튬" />
+	<block key="ui_gift" korean="선물함" />
+	<block key="ui_lobbycharcreate_explain_difficulty_guardian" korean="적의 공격을 미리 예측해서 방패 방어로 튕겨낼 수 있는 특징을 가지고 있다. 방패 방어 성공 여부에 따라 다양한 연계 공격을 이어 갈 수 있으므로 순간의 판단이 중요한 클래스다." />
+	<block key="ui_lobbycharcreate_explain_difficulty_warrior" korean="챠지 단계에 따라 강력한 피해를 주고 적 대상에게 다양한 리액션 줄 수 있다. 분노 관리와 타이밍이 중요한 클래스로 챠지 단계를 적절히 선택하는 것이 효과적인 사냥 방법이다." />
+	<block key="ui_lobbycharcreate_explain_difficulty_thief" korean="연속된 이동키 입력을 통해 다양한 대쉬 기술로 적의 공격을 회피할 수 있으나, 그 만큼 스테미너 관리가 중요한 클래스이다. 빠른 키입력과 연계 스킬 사용에 따라 다양한 공중 콤보 활용이 가능하다." />
+	<block key="ui_lobbycharcreate_explain_difficulty_wizard" korean="속성을 자유자재로 다루며, 이동하면서 캐스팅 후 강력하고 화려한 마법을 구사하는 클래스로 속성 누적으로 더욱 강한 마법 공격이 가능하나, 생명력이 낮고 컨트롤이 필요한 클래스다." />
+	<block key="ui_lobbycharcreate_explain_difficulty_priest" korean="엘로라의 힘을 이용해 적 대상을 공격할 수 있으며, 파티원을 보호 가능한 클래스로 회복과 버프를 사용할 수 있지만, 기술의 이해도와 높은 상황판단력이 필요한 클래스다." />
+	<block key="ui_lobbycharcreate_explain_difficulty_archer" korean="추가 예정" />
+	<block key="ui_difficulty_easiest" korean="매우 쉬움" />
+	<block key="ui_difficulty_easy" korean="쉬움" />
+	<block key="ui_difficulty_normal" korean="보통" />
+	<block key="ui_difficulty_hard" korean="어려움" />
+	<block key="ui_difficulty_hardest" korean="매우 어려움" />
+	<block key="minimapplayer" korean="플레이어" />
+	<block key="minimapparty" korean="파티" />
+	<block key="minimapquest" korean="퀘스트" />
+	<block key="minimapshop" korean="상점" />
+	<block key="minimapportal" korean="포탈" />
+	<block key="minimapregionname" korean="지역명" />
+	<block key="minimapcollectionactor" korean="채집물" />
+	<block key="ui_gamemenu_cashshop" korean="엘로라의 상점" />
+	<block key="ui_gamemenu_present" korean="엘로라의 보관함" />
+	<block key="ui_gamemenu_information" korean="정보" />
+	<block key="ui_gamemenu_contents" korean="컨텐츠" />
+	<block key="ui_gamemenu_community" korean="커뮤니티" />
+	<block key="ui_gamemenu_system" korean="시스템" />
+	<block key="ui_gamemenu_charinfo" korean="캐릭터" />
+	<block key="ui_gamemenu_inventory" korean="가방" />
+	<block key="ui_gamemenu_skilltree" korean="스킬" />
+	<block key="ui_gamemenu_fellowinfo" korean="펠로우" />
+	<block key="ui_gamemenu_fellowbook" korean="펠로우 도감" />
+	<block key="ui_gamemenu_worldmap" korean="지도" />
+	<block key="ui_gamemenu_questlist" korean="퀘스트" />
+	<block key="ui_gamemenu_itemproduction" korean="제작" />
+	<block key="ui_gamemenu_foothold" korean="거점전" />
+	<block key="ui_gamemenu_dungeonreenter" korean="던전" />
+	<block key="ui_gamemenu_partyboard" korean="파티찾기" />
+	<block key="ui_gamemenu_guild" korean="길드" />
+	<block key="ui_gamemenu_friendlist" korean="친구" />
+	<block key="ui_gamemenu_forces" korean="세력" />
+	<block key="ui_gamemenu_actionlist" korean="액션" />
+	<block key="ui_gamemenu_helptopic" korean="도움말" />
+	<block key="ui_gamemenu_option" korean="환경설정" />
+	<block key="ui_gamemenu_charselect" korean="캐릭터 선택" />
+	<block key="ui_gamemenu_shutdown" korean="게임종료" />
+	<block key="fellowlevelupremainedtime" korean="레벨업까지 남은시간" />
+	<block key="ui_reinforce_successrate" korean="성공율" />
+	<block key="ui_reinforce_down" korean="하락방지" />
+	<block key="ui_reinforce_init" korean="초기화방지" />
+	<block key="ui_reinforce_destroy" korean="파괴방지" />
+	<block key="ui_reinforce_successrate_low" korean="낮음" />
+	<block key="ui_reinforce_successrate_middle" korean="보통" />
+	<block key="ui_reinforce_successrate_high" korean="높음" />
+	<block key="ui_tooltip_reinforce_down" korean="엘룬을 사용하면 강화에 실패해도 강화 단계가 하락하지 않습니다." />
+	<block key="ui_tooltip_reinforce_init" korean="엘룬을 사용하면 강화에 실패해도 강화 단계가 초기화되지 않습니다." />
+	<block key="ui_tooltip_reinforce_destroy" korean="엘룬을 사용하면 강화에 실패해도 아이템이 파괴되지 않습니다." />
+	<block key="ui_waitrank" korean="현재 대기 순위" />
+	<block key="ui_waitrank_calculating" korean="계산중…." />
+	<block key="battalion" korean="공격대" />
+	<block key="battalioncommand" korean="공격대장" />
+	<block key="msg_cash_shouting" korean="외치기" />
+	<block key="msg_notice_gm_zone" korean="GM 지역 대화" />
+	<block key="ui_questnevi_title" korean="퀘스트 위치정보" />
+	<block key="ui_tab_friendlist_summon" korean="소환" />
+	<block key="cashshopsort_none" korean="정렬 없음" />
+	<block key="cashshopsort_new" korean="신규 우선 정렬" />
+	<block key="cashshopsort_best" korean="베스트 우선 정렬" />
+	<block key="cashshopsort_sale" korean="세일 우선 정렬" />
+	<block key="cashshopsort_recommand" korean="추천 우선 정렬" />
+	<block key="ui_retract" korean="청약 철회" />
+	<block key="ui_cashshop_explain_black" korean="결제창에 들어갈 청약 내용 설명1" />
+	<block key="ui_cashshop_explain_red" korean="결제창에 들어갈 청약 내용 설명2" />
+	<block key="ui_cashshop_owncash" korean="보유한" />
+	<block key="ui_cashshop_ownruby" korean="보유한 엘룬" />
+	<block key="ui_cashshop_paycash" korean="결제할" />
+	<block key="ui_cashshop_payruby" korean="결제할 엘룬" />
+	<block key="ui_cashshop_changecash" korean="남은" />
+	<block key="ui_cashshop_changeruby" korean="남은 엘룬" />
+	<block key="ui_gamemenu_achievement" korean="업적" />
+	<block key="ui_achievements" korean="업적" />
+	<block key="ui_achievements_common" korean="일반" />
+	<block key="ui_achievements_fellow" korean="펠로우" />
+	<block key="ui_achievements_quest" korean="퀘스트" />
+	<block key="ui_achievements_dungeon" korean="던전" />
+	<block key="ui_achievements_item" korean="아이템" />
+	<block key="ui_achievements_combat" korean="전투" />
+	<block key="ui_achievements_growth" korean="성장" />
+	<block key="ui_achievements_money" korean="돈" />
+	<block key="ui_achievements_action" korean="달성" />
+	<block key="ui_achievements_gain" korean="획득" />
+	<block key="ui_achievements_use" korean="사용" />
+	<block key="ui_achievements_zone" korean="지역" />
+	<block key="ui_achievements_reinforce" korean="강화" />
+	<block key="ui_achievements_product" korean="제작" />
+	<block key="ui_achievements_duel" korean="결투" />
+	<block key="ui_achievements_pvp" korean="pvp" />
+	<block key="ui_achievements_foothold" korean="거점전" />
+	<block key="ui_talents_init" korean="초기화" />
+	<block key="ui_talents_next_init" korean="다음 초기화" />
+	<block key="ui_achievements_summary" korean="요약" />
+	<block key="ui_minimap_expand" korean="확대하기" />
+	<block key="ui_minimap_reduce" korean="축소하기" />
+	<block key="ui_itemdistribution_none" korean="제한 없음" />
+	<block key="ui_itemdistribution_normal" korean="일반" />
+	<block key="ui_itemdistribution_rare" korean="정예" />
+	<block key="ui_itemdistribution_hero" korean="영웅" />
+	<block key="ui_itemdistribution_legend" korean="전설" />
+	<block key="ui_itemdistribution_dice" korean="주사위 굴림" />
+	<block key="ui_itemdistriubtion_auction" korean="경매" />
+	<block key="ui_tab_characterinfo_title" korean="칭호" />
+	<block key="shortcut_ui_toggle_achievements" korean="업적" />
+	<block key="shortcut_ui_toggle_achievements_sub" korean="업적(보조 )" />
+	<block key="shortcut_ui_toggle_dungeonreenter" korean="인던 재입장" />
+	<block key="shortcut_ui_toggle_dungeonreenter_sub" korean="인던 재입장(보조)" />
+	<block key="ui_achievements_monster" korean="몬스터" />
+	<block key="ui_cashshop_buy" korean="구매하기" />
+	<block key="ui_cash_item_buyconfirm" korean="아이템을 구매하시겠습니까?" />
+	<block key="ui_present_recipient" korean="받는 사람" />
+	<block key="ui_present_message" korean="보낼 메시지" />
+	<block key="ui_cashshop_explain_present" korean="청약 설명은 정해지면 다시 쓰겠습니다." />
+	<block key="ui_retract_overtime" korean="철회 불가" />
+	<block key="ui_cashshop_listdesc_1" korean="엘룬을 구입할 수 있는 상점입니다." />
+	<block key="ui_cashshop_listdesc_2" korean="패키지 아이템을 구입할 수 있는 상점입니다." />
+	<block key="ui_cashshop_listdesc_3" korean="소모품 및 아이템을 구입할 수 있는 상점입니다." />
+	<block key="ui_cashshop_listdesc_5" korean="펠로우 및 펫을 구입 할 수 있는 상점입니다." />
+	<block key="ui_cashshop_listdesc_4" korean="코스튬을 구입할 수 있는 상점입니다. <Y_Y>(우 클릭 시 아이템 미리보기가 가능합니다.)</Y_Y>" />
+	<block key="ui_auction_msg_slotrelease" korean="판매 슬롯을 확장하시겠습니까?" />
+	<block key="ui_auction_msg_slotreleaseprice" korean="소모 엘룬" />
+	<block key="quick_summon" korean="소환" />
+	<block key="vitality_home" korean="활력 게이지" />
+	<block key="vitality_pc" korean="PC방 보너스 활력 게이지" />
+	<block key="vitality_day_remaintime" korean="1일 잔여 활력 시간" />
+	<block key="vitality_week_remaintime" korean="주간 잔여 활력 시간" />
+	<block key="ui_gamemenu_attackbattalion" korean="공격대 편성" />
+	<block key="ui_wait_delete" korean="삭제 완료" />
+	<block key="ui_lobbycharselector_btn_character_recover" korean="캐릭터 복구" />
+	<block key="ui_CharDeleteStandby" korean="삭제 대기 중" />
+	<block key="ui_partyboard_partyinvite" korean="파티초대" />
+	<block key="ui_secondpassword_register" korean="2차 비밀번호 생성" />
+	<block key="ui_secondpassword_entry" korean="2차 비밀번호 확인" />
+	<block key="ui_aprecovery_half" korean="50 회복" />
+	<block key="ui_aprecovery_max" korean="100 회복" />
+	<block key="ui_mail_from" korean="보낸 사람" />
+	<block key="ui_title" korean="제목" />
+	<block key="ui_mail_keep" korean="보관" />
+	<block key="ui_mail_addmoney" korean="첨부 금액" />
+	<block key="ui_mail_additem" korean="첨부 물품" />
+	<block key="ui_mail" korean="우편함" />
+	<block key="shortcut_moveupward_fly" korean="비행시 상승" />
+	<block key="shortcut_moveupward_fly_sub" korean="비행시 상승(보조)" />
+	<block key="shortcut_movedownward_fly" korean="비행시 하강" />
+	<block key="shortcut_movedownward_fly_sub" korean="비행시 하강(보조)" />
+	<block key="ui_cashshop_explain_cash" korean="해당 상품은 캐시로 구매되는 상품으로 <R_Y>구매 후 7일이 경과하였거나 사용했을 경우에는 청약철회가 불가능한 상품입니다.</R_Y>" />
+	<block key="ui_cashshop_explain_ruby" korean="해당 상품은 엘룬으로 구매되는 상품으로 <R_Y>청약철회가 불가능한 상품입니다.</R_Y>" />
+	<block key="ui_purchase_explain_cash" korean="엘로라의 보관함 내 캐시함으로 이동됩니다." />
+	<block key="ui_purchase_explain_ruby" korean="엘로라의 보관함 내 선물함으로 이동됩니다." />
+	<block key="ui_cash100101" korean="We캐시" />
+	<block key="ui_cash100407" korean="게임캐쉬" />
+	<block key="ui_cash_storage" korean="캐시함" />
+	<block key="require_mastery" korean="필요 숙련도" />
+	<block key="masteryodds" korean="숙련도 상승 확률" />
+	<block key="mastery_no" korean="미상승" />
+	<block key="mastery_low" korean="낮음" />
+	<block key="mastery_normal" korean="보통" />
+	<block key="mastery_high" korean="높음" />
+	<block key="mastery_impract" korean="채집 불가능" />
+	<block key="ui_cashstorage_use" korean="받기" />
+	<block key="dungeon_grade_boss" korean="보스" />
+	<block key="guild_dissolution_confirm_msg" korean="정말로 길드를 해체 하시겠습니까?" />
+	<block key="ui_itemdistribution_free" korean="자유루팅" />
+	<block key="ui_itemdistribution_seq" korean="순서루팅" />
+	<block key="ui_itemdistribution_fix" korean="지정루팅" />
+	<block key="ui_itemdistriubtion_dice" korean="주사위" />
+	<block key="ui_partyboard_detailinfo_defaulttext" korean="최대 32자 까지 입력 가능합니다." />
+	<block key="ui_aprecovery_internetcafe" korean="PC방 무료" />
+	<block key="ui_cashstorage_toinven" korean="인벤토리로 이동 중" />
+	<block key="ui_cashstorage_retract" korean="청약 철회 진행 중" />
+	<block key="dungeoninit" korean="던전 초기화" />
+	<block key="elruncount" korean="엘룬 개수" />
+	<block key="ui_lobbycharselector_btn_credit" korean="제작진" />
+	<block key="ui_vitalitybox_desc" korean="아이콘이 사라지면 활력 상자를 받을 수 있습니다. <br>인벤토리가 가득 찬 경우 아이템을 지급받지 못함으로 인벤토리를 꼭 비워 주세요." />
+	<block key="expirationtime" korean="사용 기간" />
+	<block key="timestop_name" korean="활력 타임 스탑" />
+	<block key="ui_vitality_applyeffect" korean="1일 활력 시간 초기화 - 매일 04시
+주간 활력 시간 초기화 - 매주 수요일 04시" />
+	<block key="auto_only_eight_num" korean="숫자 8자리를 입력해 주세요." />
+	<block key="ui_auction_needcalculate" korean="정산 필요" />
+	<block key="ui_auction_fullregist" korean="등록 불가" />
+	<block key="shortcut_ui_toggle_cashshop" korean="엘로라의 상점" />
+	<block key="shortcut_ui_toggle_cashshop_sub" korean="엘로라의 상점(보조)" />
+	<block key="shortcut_ui_toggle_cashshop_storage" korean="엘로라의 보관함" />
+	<block key="shortcut_ui_toggle_cashshop_storage_sub" korean="엘로라의 보관함(보조)" />
+	<block key="ui_achievement_rewarditem_desc" korean="보상 업적 달성으로 업적창을 통해 보상을 획득할 수 있습니다." />
+	<block key="ui_allproduct" korean="모든 제작 기술" />
+	<block key="ui_cashstorage_restore" korean="복구함" />
+	<block key="ui_guild_grade" korean="<UI_Y>[1등급]</UI_Y>
+길드원 수: 20
+
+<UI_Y>[2등급]</UI_Y>
+길드원 수: 30
+습득 스킬: 신체의 극복
+
+<UI_Y>[3등급]</UI_Y>
+길드원 수: 40
+습득 스킬: 시간은 금
+
+<UI_Y>[4등급]</UI_Y>
+길드원 수: 50
+습득 스킬: 획득의 욕심
+
+<UI_Y>[5등급]</UI_Y>
+길드원 수: 60
+습득 스킬: 전장의 사신
+
+<UI_Y>[6등급]</UI_Y>
+길드원 수: 70
+습득 스킬: 공격만이 살길" />
+	<block key="ui_guild_point" korean="<UI_Y>습득 방법</UI_Y><br>1. 길드원의 레벨에 맞는 몬스터 사냥<br>2. 길드원의 레벨 업<br><br><UI_Y>길드 포인트가 100%가 되면 길드 관리자를 통해 다음 등급으로 승급 가능합니다.</UI_Y>" />
+	<block key="quick_guild_invite" korean="길드초대" />
+	<block key="guildmenu_summon" korean="소환" />
+	<block key="guildmenu_friend_registration" korean="친구등록" />
+	<block key="ui_tab_friendlist_whisper" korean="귓속말" />
+	<block key="ui_tab_friendlist_invite_guild" korean="길드초대" />
+	<block key="ui_tab_friendlist_invite_party" korean="파티초대" />
+	<block key="shortcut_rest_area_char_limit" korean="휴식지역 캐릭터 표현제한" />
+	<block key="shortcut_rest_area_char_limit_sub" korean="휴식지역 캐릭터 표현제한(보조)" />
+	<block key="ui_quality_normal" korean="중급" />
+	<block key="ui_quality_expert" korean="고급" />
+	<block key="ui_quality_master" korean="최고급" />
+	<block key="ui_restareacharlimit" korean="휴식지역 캐릭터 표현제한" />
+	<block key="ui_gamemenu_balloondesc_1" korean="보관함에 아이템이 존재합니다." />
+	<block key="alreadyexistfellowbook" korean="이미 등록된 도감입니다." />
+	<block key="ui_cashshop_listdesc_rubycharge" korean="엘룬을 구입할 수 있는 상점입니다." />
+	<block key="ui_cashshop_listdesc_package" korean="패키지 아이템을 구입할 수 있는 상점입니다." />
+	<block key="ui_cashshop_listdesc_item" korean="소모품 및 아이템을 구입할 수 있는 상점입니다." />
+	<block key="ui_cashshop_listdesc_fellow" korean="펠로우 및 펫을 구입 할 수 있는 상점입니다." />
+	<block key="ui_cashshop_listdesc_costume" korean="코스튬을 구입할 수 있는 상점입니다. <Y_Y>(우 클릭 시 아이템 미리보기가 가능합니다.)</Y_Y>" />
+	<block key="ui_tooltip_set_screenmode" korean="화면 모드를 선택할 수 있습니다. 저사양 PC에서는 상대적으로 창모드보다 전체 화면 모드를 이용하면 프레임이 상승합니다." />
+	<block key="ui_tooltip_set_resolution" korean="모니터가 지원하는 해상도 폭에 따라 해상도를 선택할 수 있습니다." />
+	<block key="ui_tooltip_set_brightness" korean="높을수록 화면이 밝아지며, 전체화면 모드에서만 화면 밝기를 조절할 수 있습니다." />
+	<block key="ui_tooltip_set_antialiasing" korean="렌더링되는 모든 사물의 가장자리를 부드럽게 처리하는 방식을 선택할 수 있습니다." />
+	<block key="ui_tooltip_set_directx" korean="(설명 없음)" />
+	<block key="ui_tooltip_set_graphicallset" korean="모든 그래픽 옵션의 값을 간편하게 일괄 설정할 수 있습니다. 그래픽 품질을 높이려면 전체 설정을 높게, 프레임을 높이려면 전체 설정을 낮게 설정해야 합니다." />
+	<block key="ui_tooltip_set_textureresolution" korean="높을수록 캐릭터, 사물, 지형, 이펙트등이 세부적으로 표현됩니다." />
+	<block key="ui_tooltip_set_shadowquality" korean="높을수록 그림자가 선명하게 표현됩니다. 아주낮음일 경우 그림자를 표현하지 않지만 프레임이 상승합니다." />
+	<block key="ui_tooltip_set_waterquality" korean="높을수록 물의 출렁거림, 반사, 빛의 굴절등을 단계적으로 추가 표현합니다." />
+	<block key="ui_tooltip_set_shaderquality" korean="높을수록 전체적인 그래픽 품질이 높아지나, 저사양 PC에서는 프레임이 하락할 수 있습니다." />
+	<block key="ui_tooltip_set_geodec" korean="높을수록 더 넓은 범위의 지형이 세부적으로 묘사됩니다." />
+	<block key="ui_tooltip_set_effectquality" korean="높을수록 표현되는 이펙트 효과 개수가 많아집니다." />
+	<block key="ui_tooltip_set_particlequality" korean="높을수록 추가적인 파티클 효과를 표현할 수 있습니다. 단, 이펙트 품질이 낮으면 파티클은 표현되지 않습니다." />
+	<block key="ui_tooltip_set_geolod" korean="높을수록 먼 거리의 지형을 세부적으로 묘사합니다." />
+	<block key="ui_tooltip_set_objlod" korean="높을수록 먼 거리의 사물을 세부적으로 묘사합니다." />
+	<block key="ui_tooltip_set_chalod" korean="높을수록 먼 거리의 캐릭터를 세부적으로 묘사합니다." />
+	<block key="ui_tooltip_set_chasight" korean="높을수록 먼 거리의 캐릭터를 볼 수 있습니다." />
+	<block key="ui_tooltip_set_objsight" korean="높을수록 먼 거리의 사물을 볼 수 있습니다." />
+	<block key="ui_tooltip_set_backsight" korean="높을수록 먼 거리의 배경을 볼 수 있습니다." />
+	<block key="ui_tooltip_set_gluesight" korean="높을수록 먼 거리의 풀을 볼 수 있습니다." />
+	<block key="ui_tooltip_set_chashowlim" korean="캐릭터가 표현되는 개체수를 선택합니다.
+ - 숨김 : 표현 개체수 이상의 캐릭터는 보이지 않음
+ - 간단한표시 : 볼륨감 있는 단색으로 표시" />
+	<block key="ui_tooltip_set_restchashowlim" korean="선택하면 마을, 던전등 휴식 지역에서 다른 플레이어를 보이지 않게 합니다." />
+	<block key="ui_tooltip_set_effectshowlim" korean="높을수록 전투 이펙트의 효과 개수가 많아집니다. 단, 발사 이펙트는 제한 수치에 관계없이 항상 표현됩니다." />
+	<block key="ui_tooltip_set_effectshowtarget" korean="전투 이펙트를 표시할 대상을 선택합니다." />
+	<block key="ui_tooltip_set_rayeffect" korean="선택하면 햇살을 표현합니다." />
+	<block key="ui_tooltip_set_lowspeclight" korean="선택하면 가장 기본적인 라이트만 표현합니다." />
+	<block key="ui_tooltip_set_outfocus" korean="선택하면 자신의 캐릭터와 카메라의 거리에 따라 주변을 흐리게 표현합니다." />
+	<block key="ui_tooltip_set_hdrvolume" korean="높을수록 화면이 좀 더 화사해집니다." />
+	<block key="ui_tooltip_set_motionblue" korean="높을수록 움직임에 따른 잔상이 많이 보여집니다." />
+	<block key="ui_tooltip_set_visibility" korean="높을수록 전체적인 화면이 선명해집니다." />
+	<block key="ui_tooltip_set_frameshow" korean="선택하면 현재 프레임을 화면에 표시합니다." />
+	<block key="ui_tooltip_set_weathereffect" korean="선택하면 기상 효과를 표현합니다." />
+	<block key="ui_tooltip_set_vertsync" korean="선택하면 모니터 주파수와 화면갱신 주기를 동기화합니다. 수직 동기화를 끄면 프레임이 상승합니다." />
+	<block key="ui_tooltip_set_realtimeopt" korean="선택하면 평균 프레임 체크 후 자동으로 옵션을 조절하여, 안정적인 프레임을 확보합니다. 단, 화면이 자주 변하거나 캐릭터가 보이지 않을 수 있습니다." />
+	<block key="ui_tooltip_set_fixframe" korean="선택한 프레임으로 고정됩니다." />
+	<block key="ui_tooltip_set_allsound" korean="선택하면 전체 사운드의 음량을 한번에 조절할 수 있습니다." />
+	<block key="ui_tooltip_set_backsound" korean="선택하면 배경음악의 음량을 조절할 수 있습니다." />
+	<block key="ui_tooltip_set_effectsound" korean="선택하면 스킬, UI, 이펙트등의 음량을 조절할 수 있습니다." />
+	<block key="ui_tooltip_set_envsound" korean="선택하면 주변의 자연 환경 음량을 조절할 수 있습니다." />
+	<block key="ui_tooltip_set_systemsound" korean="선택하면 시스템 메시지의 음성을 들을 수 있습니다." />
+	<block key="ui_tooltip_set_backlistening" korean="게임 윈도우가 비활성된 상태에서도 게임 소리를 들을 수 있습니다." />
+	<block key="ui_tooltip_set_pcname" korean="선택하면 자신의 캐릭터 머리위에 이름, 길드, 칭호를 표시합니다." />
+	<block key="ui_tooltip_set_fellowname" korean="선택하면 자신 또는 다른 플레이어의 펠로우 이름을 표시합니다." />
+	<block key="ui_tooltip_set_npcname" korean="선택하면 NPC 머리위에 이름, 소속을 표시합니다." />
+	<block key="ui_tooltip_set_monstername" korean="선택하면 몬스터 머리위에 이름, 소속을 표시합니다." />
+	<block key="ui_tooltip_set_partyname" korean="선택하면 파티원의 머리위에 이름, 길드, 칭호를 표시합니다." />
+	<block key="ui_tooltip_set_otherpcname" korean="선택하면 다른 플레이어의 머리위에 이름, 길드, 칭호를 표시합니다." />
+	<block key="ui_tooltip_set_objname" korean="선택하면 사물, 채집물의 이름을 표시합니다." />
+	<block key="ui_tooltip_set_statebar" korean="선택하면 생명력, 기력, 경험치등의 게이지 위에 수치 값을 표시합니다." />
+	<block key="ui_tooltip_set_statusbarpercentage" korean="선택하면 생명력, 기력, 경험치등의 게이지 위에 수치를 백분율로 표시합니다." />
+	<block key="ui_tooltip_set_value" korean="상태창 수치 표시가 체크되어 있을 경우 숫자로 값을 표시합니다." />
+	<block key="ui_tooltip_set_percent" korean="상태창 수치 표시가 체크되어 있을 경우 백분율로 값을 표시합니다." />
+	<block key="ui_tooltip_set_bubble" korean="선택하면 플레이어의 채팅이나 NPC의 대사를 머리위에 말풍선으로 표시합니다." />
+	<block key="ui_tooltip_set_whisperrefusal" korean="선택하면 귓속말을 자동으로 거부합니다." />
+	<block key="ui_tooltip_set_rejectguild" korean="선택하면 길드 초대 요청을 자동으로 거부합니다." />
+	<block key="ui_tooltip_set_guildonline" korean="선택하면 길드원이 접속했을 경우 시스템 메시지로 알려줍니다." />
+	<block key="ui_tooltip_set_rejectparty" korean="선택하면 파티 초대 요청을 자동으로 거부합니다." />
+	<block key="ui_tooltip_set_rejecttrade" korean="선택하면 거래 요청을 자동으로 거부합니다." />
+	<block key="ui_tooltip_set_rejectpvp" korean="선택하면 결투 요청을 자동으로 거부합니다." />
+	<block key="ui_tooltip_set_rejectmultifellow" korean="선택하면 다인 펠로우 탑승 요청을 자동으로 거부합니다." />
+	<block key="ui_tooltip_set_doubleclick" korean="기민한 움직임, 빛의 이동등 2회 연속 입력으로 동작하는 스킬의 커맨드 입력 속도를 조절할 수 있습니다." />
+	<block key="ui_tooltip_set_ridingfixedmouse" korean="선택하면 탑승시에 마우스가 화면 중앙에 고정됩니다." />
+	<block key="ui_tooltip_set_damagetome" korean="선택하면 자신이 받는 피해, 치명타 값을 자신의 캐릭터 주위에 표시합니다." />
+	<block key="ui_tooltip_set_healtome" korean="선택하면 자신이 받는 회복량을 자신의 캐릭터 주위에 표시합니다." />
+	<block key="ui_tooltip_set_distancetarget" korean="선택하면 자신과 대상의 거리 차이를 타겟창에 표시합니다." />
+	<block key="ui_tooltip_set_targetcasting" korean="선택하면 대상이 시전 중인 스킬의 이름과 시전 시간을 타겟창에 표시합니다." />
+	<block key="ui_tooltip_set_targetbufffromme" korean="선택하면 내가 대상에게 적용한 스킬 효과 이름을 대상 주위에 표시합니다." />
+	<block key="ui_tooltip_set_targetbufffromother" korean="선택하면 다른 플레이어가 대상에게 적용한 스킬 효과 이름을 대상 주위에 표시합니다." />
+	<block key="ui_tooltip_set_damagetoenemy" korean="선택하면 대상이 받는 피해, 치명타 값을 대상 주위에 표시합니다." />
+	<block key="ui_tooltip_set_healtoenemy" korean="선택하면 대상이 받는 회복량을 대상 주위에 표시합니다." />
+	<block key="ui_tooltip_set_targetoftarget" korean="선택하면 대상이 선택한 대상을 타겟창에 표시합니다." />
+	<block key="ui_tooltip_set_damagetofellow" korean="선택하면 자신의 펠로우의 피해, 치명타 값을 펠로우 주위에 표시합니다." />
+	<block key="ui_tooltip_set_extendslot" korean="선택하면 12개의 스킬 슬롯을 추가로 사용할 수 있습니다." />
+	<block key="ui_tooltip_set_maxcamera" korean="마우스 휠로 줌 아웃 했을 때 캐릭터로 부터 카메라가 멀어지는 최대 거리를 조절할 수 있습니다." />
+	<block key="ui_tooltip_set_rotatecamera" korean="마우스 우 클릭 후 좌우로 움직였을 때 카메라가 회전하는 속도를 조절할 수 있습니다." />
+	<block key="ui_tooltip_set_mousesens" korean="마우스가 화면 상에서 움직이는 속도를 조절할 수 있습니다." />
+	<block key="ui_tooltip_set_camerarotate" korean="선택하면 펠로우를 타고 비행하여 좌, 우로 움직일 때 카메라가 함께 회전합니다." />
+	<block key="ui_tooltip_set_mousemove" korean="선택하면 화면에 마우스를 왼클릭 했을 때 해당 위치로 이동합니다." />
+	<block key="ui_tooltip_set_gametip" korean="선택하면 일정 주기로 게임 팁을 화면 하단에 출력합니다." />
+	<block key="ui_tooltip_set_lootautocursor" korean="선택하면 루팅할 때 루팅 대상 아이템으로 커서가 자동으로 이동합니다." />
+	<block key="ui_tooltip_set_questtargetmonster" korean="선택하면 퀘스트 대상 몬스터일 경우 머리위에 삼각형 이미지가 표시됩니다." />
+	<block key="ui_tooltip_set_buffremain" korean="선택하면 버프 아이콘에 남은 지속 시간을 표시합니다." />
+	<block key="ui_tooltip_set_hpbar" korean="선택하면 모든 대상의 생명력 게이지를 머리위에 표시합니다. 단, 생명력이 100%인 대상은 표시하지 않습니다." />
+	<block key="ui_tooltip_set_alarmtaming" korean="선택하면 길들이기 가능 상태가 될 때 UI에 Space 이미지를 출력합니다." />
+	<block key="ui_tooltip_set_headview" korean="선택하면 착용한 장비의 투구를 보이게 하며, 해제하면 투구가 보이지 않습니다." />
+	<block key="ui_tooltip_set_questtargetnpc" korean="선택하면 퀘스트 대상 NPC일 경우 머리위에 삼각형 이미지가 표시됩니다." />
+	<block key="ui_tooltip_set_systemmessage" korean="선택하면 시스템 메시지를 화면 상단에 출력합니다. 반대로 체크 해제하면 시스템 메시지를 채팅창에서만 출력합니다." />
+	<block key="ui_tooltip_set_screenshot" korean="단축키를 입력하여 화면상의 모든 UI를 숨기거나 표시할 수 있습니다." />
+	<block key="ui_tooltip_set_whisper" korean="단축키를 입력하여 최근 귓속말을 보낸 대상에게 답장할 수 있습니다." />
+	<block key="ui_gain" korean="획득" />
+	<block key="ui_itemdistribution_jobdice" korean="직업 주사위" />
+	<block key="optionavdrate" korean="옵션 회피율" />
+	<block key="optionavdrate_desc" korean="회피력과 민첩에 의한 증가 값입니다." />
+	<block key="effavdrate" korean="효과 회피율" />
+	<block key="effavdrate_desc" korean="스킬, 버프에 의한 증가 값으로 옵션 회피율에 추가로 합산됩니다." />
+	<block key="short_default_local_key" korean="s" />
+	<block key="short_default_whisper_key" korean="w" />
+	<block key="short_default_party_key" korean="p" />
+	<block key="short_default_guild_key" korean="g" />
+	<block key="short_default_zone_key" korean="c" />
+	<block key="short_default_battalion_key" korean="b" />
+	<block key="short_default_battalion_command_key" korean="q" />
+	<block key="short_battalion_key" korean="ㅠ" />
+	<block key="short_battalion_command_key" korean="ㅂ" />
+	<block key="local_key" korean="dlfqks" />
+	<block key="whisper_key" korean="rnltthrakf" />
+	<block key="party_key" korean="vkxl" />
+	<block key="guild_key" korean="rlfem" />
+	<block key="zone_key" korean="wldur" />
+	<block key="battalion_key" korean="rhdrureo" />
+	<block key="battalion_command_key" korean="rhdrureoaudfud" />
+	<block key="chat_exe_chat_help" korean="h" />
+	<block key="ui_min_altitude" korean="최저 고도" />
+	<block key="shortcut_chat_whisper" korean="귓속말 답장" />
+	<block key="shortcut_chat_whisper_sub" korean="귓속말 답장 (보조)" />
+	<block key="ui_btn_close" korean="닫기" />
+	<block key="ui_btn_cancel" korean="취소" />
+	<block key="ui_characterinfo_label_assistance" korean="보조" />
+	<block key="tooltip_character_castingspeedmult" korean="캐스팅 스킬 사용 시간을 단축시켜 주며, 강화 또는 제작등의 시간도 단축시켜 줍니다." />
+	<block key="tooltip_character_cooltimemult" korean="스킬을 다시 사용할 수 있는 시간을 줄여줍니다." />
+	<block key="tooltip_character_ap_recovery" korean="길들이기 포인트를 엘룬을 사용하여 회복하거나, PC방에서는 1일 1회 무료로 회복할 수 있습니다." />
+	<block key="ui_premiumbox_desc" korean="아이콘이 사라지면 황금 구슬을 받을 수 있습니다.<br>황금 구슬은 엘로라의 보관함으로 지급됩니다.<br><O_Y>황금 구슬은 12월 17일까지 받을 수 있습니다.</O_Y>" />
+	<block key="ui_unitename" korean="연합명" />
+	<block key="ui_unitemastername" korean="연합장" />
+	<block key="ui_guildname" korean="길드명" />
+	<block key="ui_guildmastername" korean="길드장" />
+	<block key="ui_unite_delete_desc" korean="연합된 길드가 없을 경우만 해산할 수 있습니다." />
+	<block key="ui_tab_guildunite" korean="길드 연합" />
+	<block key="guild_unitecreate_msg" korean="길드 연합을 창설 하시겠습니까?" />
+	<block key="guild_uniteinvite_msg" korean="연합에 초대할 길드 이름을 입력 하십시오." />
+	<block key="guild_unitenamechange_msg" korean="변경할 연합 이름을 입력 하십시오." />
+	<block key="impossible_belongitem" korean="귀속 해제 불가" />
+	<block key="unlimited_belongitem" korean="귀속 해제 무제한 가능" />
+	<block key="remain_belongitem" korean="귀속 해제 가능 수" />
+	<block key="gmchat" korean="전체공지" />
+	<block key="gmzonechat" korean="지역공지" />
+	<block key="guild_union" korean="연합" />
+	<block key="militia" korean="민병대" />
+	<block key="short_default_guild_union_key" korean="u" />
+	<block key="short_default_militia_key" korean="m" />
+	<block key="short_guild_union_key" korean="ㅕ" />
+	<block key="short_militia_key" korean="ㅡ" />
+	<block key="GuildUnionchat" korean="연합" />
+	<block key="Militiachat" korean="민병대" />
+	<block key="guild_union_key" korean="dusgkq" />
+	<block key="militia_key" korean="alsqudeo" />
+	<block key="getbuff" korean="엑자란 민병대 버프" />
+	<block key="ui_guildmemberlist" korean="길드원 목록" />
+	<block key="regist_commission" korean="등록 수수료" />
+	<block key="sell_commission" korean="판매 수수료" />
+	<block key="ui_storage_basic" korean="기본" />
+	<block key="ui_storage_extend" korean="확장" />
+	<block key="guild_dismiss_msg" korean="길드장 해임을 진행하시겠습니까?" />
+	<block key="guild_dismiss_lastaccesstime" korean="마지막 접속일" />
+	<block key="guild_dismiss_desc_01" korean="길드장이 7일동안 접속하지 않은 경우, 길드장을 해임 시킬 수 있습니다. <br><br>길드장 해임이 진행된 뒤 1일간 길드장이 한번도 접속하지 않은 경우 길드장은 해임됩니다.<br><br> 길드장 해임이 진행된 뒤 1일내 길드장이 게임내 접속할 경우 길드장 해임은 자동으로 취소됩니다." />
+	<block key="guild_dismiss_desc_02" korean="길드장 해임이 진행되고 있습니다" />
+	<block key="guild_dismiss_date" korean="해임 시간" />
+	<block key="guild_dismiss_candidatename" korean="길드장 예정자" />
+	<block key="militianame" korean="엑자란 민병대" />
+	<block key="ui_tooltip_upcommission" korean="판매대행에 등록할 때 지불되는 수수료" />
+	<block key="ui_tooltip_sellcommission" korean="등록한 물품이 판매되었을 때 정산 시 지불되는 수수료" />
+	<block key="ui_itemdice_join" korean="참여" />
+	<block key="ui_itemdice_close" korean="닫기" />
+	<block key="ui_itemdice_forgive" korean="포기" />
+	<block key="chat_exe_unite_invite" korean="연합초대" />
+	<block key="ui_guildmaster" korean="길드장" />
+	<block key="ui_guildofficer" korean="위원회" />
+	<block key="ui_guildmember" korean="길드원" />
+	<block key="regend" korean="전설" />
+	<block key="guild_dismiss_date_02" korean="+- 10분" />
+	<block key="ui_fellowcollection_itemtooltip" korean="길들이기 아이템:" />
+	<block key="ui_fellowcollection_tooltip" korean="길들일 때 필요한 아이템이 없습니다." />
+	<block key="ui_fellowcollection_title" korean="펠로우 컬렉션" />
+	<block key="ui_nogain" korean="미획득" />
+	<block key="ui_collect" korean="수집" />
+	<block key="ui_gamemenu_fellowcollection" korean="펠로우 컬렉션" />
+	<block key="ui_mail_cooltime" korean="초 후 다시 보내기 가능" />
+	<block key="itemuse_equip_belonging_item" korean="착용시 귀속아이템을 장착" />
+	<block key="itemuse_fellow_create_item" korean="펠로우를 보관함에 등록" />
+	<block key="itemuse_sell_over_heor_item" korean="영웅등급 이상의 아이템을 상점에 판매" />
+	<block key="ui_tab_guildwarfare" korean="전쟁 선포" />
+	<block key="ui_warfare_desc_01" korean=" - 연합장은 10골드를 소모하여 다른 연합에 전쟁을 선포할 수 있습니다.
+ - 전쟁은 연합간 1:1로 진행됩니다.
+ - 전쟁 선포를 받은 연합은 1일 이내에 수락 또는 거절할 수 있습니다.
+ - 상대 연합이 항복하거나 목표 킬 수를 달성하면 승리합니다.
+ - 전쟁은 무법지대와 불사의 사막에서만 가능합니다." />
+	<block key="ui_warfare_desc_02" korean="연합의 전쟁 선포를 수락 하시겠습니까?<br><br>남은시간" />
+	<block key="ui_warfare_desc_03" korean="킬을 먼저 달성하면 승리 합니다." />
+	<block key="ui_game_crosshair" korean="크로스헤어 색상" />
+	<block key="ui_lobbycharselector_btn_gocharacter_change_customize" korean="캐릭터 변경" />
+	<block key="ui_win" korean="승" />
+	<block key="ui_lose" korean="패" />
+	<block key="ui_surrender" korean="항복" />
+	<block key="ui_title_item_list" korean="분해 결과" />
+	<block key="ui_title_changeoption" korean="봉인 옵션 변경" />
+	<block key="ui_gamemenu_uiedit" korean="UI 위치 편집" />
+	<block key="ui_edit_description" korean="UI 영역을 드래그하여 위치를 편집할 수 있습니다.
+
+<font color="#E5C015">초기화 : 최초 상태의 위치로 복원
+적용 : 현재 편집된 UI 위치를 적용
+취소 : 편집 모드에 들어오기 이전 위치로 복원</font>" />
+	<block key="ui_area_f05_p_0001" korean="알세크 마을
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 상급포탈, 귀환, 치료사, 무기, 방어구, 잡화, 물약, 제작, 창고, 판매대행, 우편</MAP_T>" />
+	<block key="ui_area_f05_p_0004" korean="황금 봉우리
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 포탈, 귀환, 치료사, 무기, 방어구, 물약, 음식, 창고, 판매대행, 우편</MAP_T>" />
+	<block key="ui_area_f05_p_0007" korean="은둔자의 마을
+<MAP_Y>NPC</MAP_Y> : <MAP_T>임무 게시판, 포탈, 귀환, 치료사, 무기, 방어구, 물약, 음식, 잡화, 우편</MAP_T>" />
+	<block key="ui_label_option" korean="옵션" />
+	<block key="ui_btn_extract" korean="추출" />
+	<block key="ui_title_bracelet_rubygold" korean="보석 추출" />
+	<block key="ui_bracelet_title" korean="팔찌" />
+	<block key="ui_bracelet_gold_btn" korean="골드 추출" />
+	<block key="ui_bracelet_ruby_btn" korean="엘룬 추출" />
+	<block key="ui_title_auction" korean="판매대행" />
+	<block key="ui_title_deletechar" korean="캐릭터 삭제" />
+	<block key="ui_title_autosend" korean="오토신고" />
+	<block key="ui_title_shouting" korean="외치기" />
+	<block key="ui_title_autocheck" korean="오토신고" />
+	<block key="ui_title_waitingline" korean="대기열" />
+	<block key="ui_title_soultalents" korean="특성 장착" />
+	<block key="ui_title_reinforce" korean="아이템 강화" />
+	<block key="ui_title_chattaboption" korean="탭 옵션" />
+	<block key="ui_title_dellimittimeitem" korean="기간제 삭제 리스트" />
+	<block key="ui_title_guildcreate" korean="길드 생성" />
+	<block key="ui_title_guildmanager" korean="계급 설정" />
+	<block key="ui_title_partyauction" korean="입찰 확인" />
+	<block key="ui_title_splititem" korean="아이템 분할" />
+	<block key="ui_title_aprecovery" korean="길들이기 포인트 회복" />
+	<block key="ui_title_attackready" korean="준비 확인" />
+	<block key="ui_title_actionlist" korean="액션 목록" />
+	<block key="ui_title_itemauction" korean="아이템 경매" />
+	<block key="ui_title_friendlist" korean="친구 목록" />
+	<block key="ui_title_production" korean="제작" />
+	<block key="ui_title_looting" korean="전리품" />
+	<block key="ui_title_mailread" korean="메일 읽기" />
+	<block key="ui_title_npctalk" korean="대화창" />
+	<block key="ui_title_pkranking" korean="랭킹" />
+	<block key="ui_title_questlist" korean="퀘스트 목록" />
+	<block key="ui_title_questlistitem" korean="퀘스트 설명" />
+	<block key="ui_title_revival" korean="부활" />
+	<block key="ui_title_secondpassword" korean="2차 비밀번호" />
+	<block key="ui_title_trade" korean="개인 거래" />
+	<block key="ui_title_worldmap" korean="월드 맵" />
+	<block key="ui_title_attackbattalion" korean="공격대 편성" />
+	<block key="ui_title_characterinfo" korean="캐릭터 정보" />
+	<block key="ui_title_soulstone" korean="팔찌" />
+	<block key="ui_title_fellowinfo" korean="펠로우 정보" />
+	<block key="ui_title_fellow_changename" korean="펠로우 이름 변경" />
+	<block key="ui_title_fellow_expandslot" korean="펠로우 슬롯 확장" />
+	<block key="ui_title_fellow_throw" korean="펠로우 놓아주기" />
+	<block key="ui_title_fellow_extract" korean="펠로우 추출" />
+	<block key="ui_title_fellow_unseal" korean="펠로우 봉인 해제" />
+	<block key="ui_title_agree_trade" korean="거래 요청" />
+	<block key="ui_title_agree_party" korean="파티 초대" />
+	<block key="ui_title_agree_duel" korean="결투 요청" />
+	<block key="ui_title_agree_guild" korean="길드 초대" />
+	<block key="ui_title_agree_attackbattalion" korean="공격대 초대" />
+	<block key="ui_title_agree_combatready" korean="공격대 준비" />
+	<block key="ui_title_agree_partyapply" korean="파티 지원" />
+	<block key="ui_title_agree_attackbattalionapply" korean="공격대 지원" />
+	<block key="ui_title_agree_summon" korean="소환" />
+	<block key="ui_title_agree_boardingapply" korean="탑승 지원" />
+	<block key="ui_title_agree_boardinginvite" korean="탑승 초대" />
+	<block key="ui_title_agree_summon_invite" korean="소환 요청" />
+	<block key="ui_title_send_shouting" korean="외치기" />
+	<block key="ui_title_cancel_shouting" korean="외치기" />
+	<block key="ui_title_agree_guildunion_invite" korean="길드 연합 초대" />
+	<block key="ui_title_footfold_request" korean="거점전 신청" />
+	<block key="ui_title_basic_option" korean="옵션 초기화" />
+	<block key="ui_title_realtimeopt_clear" korean="실시간 최적화 해제" />
+	<block key="ui_title_alert_belonging" korean="귀속" />
+	<block key="ui_title_learn_tech" korean="기술 습득" />
+	<block key="ui_title_itemwork_reinforce" korean="아이템 강화" />
+	<block key="ui_title_itemwork_extraction" korean="아이템 추출" />
+	<block key="ui_title_itemwork_removebelong" korean="귀속 해제" />
+	<block key="ui_title_itemwork_resetbelong" korean="귀속 해제" />
+	<block key="ui_title_itemwork_decomposition" korean="아이템 분해" />
+	<block key="ui_title_itemwork_changeoption" korean="봉인 옵션 변경" />
+	<block key="ui_title_itemwork_activesocket" korean="슬롯 추가" />
+	<block key="ui_title_return_point" korean="귀환 위치 지정" />
+	<block key="ui_title_equip_belonging" korean="귀속" />
+	<block key="ui_title_use_warp" korean="이동" />
+	<block key="ui_title_create_fellow" korean="펠로우" />
+	<block key="ui_title_sell_overhero" korean="판매" />
+	<block key="ui_title_throw_item" korean="파괴" />
+	<block key="ui_title_extends_storageslot" korean="창고 슬롯 확장" />
+	<block key="ui_title_join_npcguild" korean="민병대 가입" />
+	<block key="ui_title_npcguild_out" korean="민병대 탈퇴" />
+	<block key="ui_title_cash_retract" korean="청약 철회" />
+	<block key="ui_title_unride_passenger" korean="하차" />
+	<block key="ui_title_unride_driver" korean="하차" />
+	<block key="ui_title_fellow_invalid_name" korean="알림" />
+	<block key="ui_title_join_escort_quest" korean="알림" />
+	<block key="ui_title_share_quest" korean="알림" />
+	<block key="ui_title_quit_game_disconnecting" korean="서버 종료" />
+	<block key="ui_title_kick_party" korean="파티 추방" />
+	<block key="ui_title_direct_portal" korean="포탈" />
+	<block key="ui_title_fail_quest" korean="알림" />
+	<block key="ui_title_add_friend" korean="친구 추가" />
+	<block key="ui_title_add_cutoff" korean="차단 추가" />
+	<block key="ui_title_add_memo" korean="차단 메모" />
+	<block key="ui_title_charge_ruby" korean="엘룬 충전" />
+	<block key="ui_title_lack_msg" korean="알림" />
+	<block key="ui_title_equip_talents" korean="특성 장착" />
+	<block key="ui_title_init_soultalents" korean="특성 초기화" />
+	<block key="ui_title_full_talents" korean="알림" />
+	<block key="ui_title_attackbattalion_organize" korean="공격대 편성" />
+	<block key="ui_title_attactbattalion_invite" korean="공격대 초대" />
+	<block key="ui_title_add_gem" korean="보석 추가" />
+	<block key="ui_title_add_bracelet" korean="팔찌 추가" />
+	<block key="ui_title_extract_gem" korean="보석 추출" />
+	<block key="ui_title_init_dungeonreenter" korean="초기화" />
+	<block key="ui_title_dungeon_init" korean="초기화" />
+	<block key="ui_title_guild_dissolution" korean="길드 해체" />
+	<block key="ui_title_guild_invite" korean="길드 초대" />
+	<block key="ui_title_guild_upgrade" korean="길드 등급 변경" />
+	<block key="ui_title_guild_nopoint" korean="알림" />
+	<block key="ui_title_guild_mark" korean="길드 마크" />
+	<block key="ui_title_guild_mark_change" korean="길드 마크" />
+	<block key="ui_title_guild_mark_diffent_size" korean="길드 마크" />
+	<block key="ui_title_guild_master_change" korean="길드장 변경" />
+	<block key="ui_title_guild_kick" korean="길드 추방" />
+	<block key="ui_title_guild_out" korean="길드 탈퇴" />
+	<block key="ui_title_guild_dismiss" korean="길드장 해임" />
+	<block key="ui_title_unitecreate" korean="연합 창설" />
+	<block key="ui_title_unite_namechange" korean="연합 이름 변경" />
+	<block key="ui_title_guild_uniteinvite" korean="연합 초대" />
+	<block key="ui_title_unite_delete" korean="연합 해산" />
+	<block key="ui_title_unite_kick" korean="연합 추방" />
+	<block key="ui_title_unite_out" korean="연합 탈퇴" />
+	<block key="ui_title_union_war_name" korean="전쟁 선포" />
+	<block key="ui_title_union_war_surrender" korean="항복" />
+	<block key="ui_title_auction_renounce" korean="입찰 포기" />
+	<block key="ui_title_zone_change" korean="이동" />
+	<block key="ui_title_resurrection_penalty" korean="부활 후유증 치료" />
+	<block key="ui_title_pvparea_warning" korean="경고" />
+	<block key="ui_title_boarding_kick" korean="알림" />
+	<block key="ui_title_secondpw_fail" korean="알림" />
+	<block key="ui_title_aution_expandslot" korean="판매대행 슬롯 확장" />
+	<block key="ui_title_delete_mail" korean="우편 삭제" />
+	<block key="ui_title_synthesis_del_sealeditem" korean="봉인 펠로우 제거" />
+	<block key="ui_title_channel_readytime" korean="채널 변경" />
+	<block key="ui_title_skip_tutorial" korean="튜토리얼 종료" />
+	<block key="ui_title_guildrank_full" korean="알림" />
+	<block key="ui_title_guild_name_empty" korean="알림" />
+	<block key="ui_title_check_user_name" korean="알림" />
+	<block key="ui_title_lobbycharcreate_cant" korean="알림" />
+	<block key="ui_title_character_recover" korean="알림" />
+	<block key="ui_title_lobbycharselector_createimpossible" korean="알림" />
+	<block key="ui_title_secondpw_no_match" korean="알림" />
+	<block key="ui_title_waiting_change_server" korean="알림" />
+	<block key="ui_title_ruby_resurrection" korean="축복 부활" />
+	<block key="ui_title_cash_charge" korean="캐시 충전" />
+	<block key="ui_title_cashitem_to_inven" korean="알림" />
+	<block key="ui_title_retract_count_error" korean="알림" />
+	<block key="ui_declare_warfare" korean="전쟁선포" />
+	<block key="ui_cancel_declare_warfare" korean="선포취소" />
+	<block key="ui_label_achievements_number" korean="달성 수" />
+	<block key="ui_title_common_error" korean="알림" />
+	<block key="hudedit_init_msg" korean="UI의 위치를 모두 초기화 하시겠습니까?" />
+	<block key="ui_title_hudedit_init" korean="UI 위치 초기화" />
+	<block key="attendance" korean="출석체크" />
+	<block key="ui_attendance_connect" korean="접속할때마다 출석체크 열기" />
+	<block key="ui_title_agreee_party" korean="파티 초대" />
+	<block key="ui_tootip_bracelet" korean="팔찌" />
+	<block key="ui_characterinfo_slottooltip_style2" korean="어깨 장식" />
+	<block key="wpcrirate_desc" korean="물리 공격이 치명타로 적중될 확률입니다." />
+	<block key="spcrirate_desc" korean="마법 공격이 치명타로 적중될 확률입니다." />
+	<block key="Limitclear" korean="제한해제" />
+	<block key="ui_gamemenu_attendance" korean="출석체크" />
+	<block key="tooltip_character_runspeed" korean="캐릭터가 이동 시 적용되는 속도입니다." />
+	<block key="ui_attendancetime" korean="출석체크 남은 시간" />
+	<block key="itemuse_extract_gem" korean="보석 추출" />
+	<block key="ui_title_item_production" korean="아이템 제작" />
+	<block key="ui_title_caution" korean="주의" />
+	<block key="ui_lobbycustomize_btn_prev_itemmode" korean="나가기" />
+	<block key="ui_lobbycustomize_btn_reset" korean="원래대로" />
+	<block key="ui_lobbycustomize_btn_save" korean="외형저장" />
+	<block key="ui_lobbycustomize_btn_load" korean="불러오기" />
+	<block key="ui_attendance_tooltip" korean="[Time]에 출석체크 되었습니다." />
+	<block key="ui_attendance_day" korean="일차" />
+	<block key="ui_attendance_notice" korean="출석체크 이벤트는 [Time] 정기점검 전까지 참여 가능합니다." />
+	<block key="ui_attendance_notyet" korean="출석체크가 되어 있지 않습니다." />
+	<block key="ui_achievements_score" korean="업점 점수" />
+	<block key="ui_achievements_total" korean="전체" />
+	<block key="ui_achievements_achieve" korean="달성" />
+	<block key="ui_achievements_shortfall" korean="미달성" />
+	<block key="ui_achievements_compensation" korean="보상 업적" />
+	<block key="ui_achievements_act" korean="행위" />
+	<block key="ui_achievements_recently" korean="최근 업적" />
+	<block key="ui_achievements_totalsituation" korean="총 진행 상황" />
+	<block key="ui_actionlist_close" korean="닫기" />
+	<block key="ui_battalion_ready" korean="준비 확인" />
+	<block key="ui_battalion_ready_message" korean="전투 준비가 완료 되었습니까?" />
+	<block key="ui_battalion_yes" korean="예" />
+	<block key="ui_battalion_no" korean="아니오" />
+	<block key="ui_auction_totallist" korean="전체 목록" />
+	<block key="ui_bag_rank" korean="우선 보관 순위" />
+	<block key="ui_book_title" korean="책" />
+	<block key="ui_book_close" korean="닫기" />
+	<block key="ui_cashshopstoragebox_withdrawal" korean="청약 철회 중" />
+	<block key="ui_cashshopstoragebox_wecash" korean="We캐쉬" />
+	<block key="ui_cashshopstoragebox_count" korean="수량" />
+	<block key="ui_castingbar_taming_succes" korean="성공" />
+	<block key="ui_castingbar_taming_fail" korean="실패" />
+	<block key="ui_changeoption_before" korean="변경 전 옵션" />
+	<block key="ui_changeoption_after" korean="변경 후 옵션" />
+	<block key="ui_changeoption_check" korean="확인" />
+	<block key="ui_channel2_option" korean="미니맵 표시 설정" />
+	<block key="ui_channel2_minimap" korean="미니맵" />
+	<block key="ui_characterinfo_stat_movespeed" korean="이동속도" />
+	<block key="ui_characterinfo_stat_hp" korean="생명력" />
+	<block key="ui_characterinfo_stat_mp" korean="마나" />
+	<block key="ui_characterinfo_stat_seazepoint" korean="길들이기 포인트" />
+	<block key="ui_characterinfo_stat_mastery" korean="숙련도" />
+	<block key="ui_characterinfo_stat_gather" korean="채집" />
+	<block key="ui_characterinfo_stat_dps" korean="초당공격력" />
+	<block key="ui_characterinfo_stat_hit" korean="명중" />
+	<block key="ui_characterinfo_stat_fatalchance" korean="치명타율" />
+	<block key="ui_characterinfo_stat_fataldamage" korean="치명타 피해" />
+	<block key="ui_characterinfo_stat_attackspeed" korean="공격 속도" />
+	<block key="ui_characterinfo_stat_fataldamageprotect" korean="치명타 피해 방어" />
+	<block key="ui_characterinfo_stat_shieldblock" korean="방패 막기" />
+	<block key="ui_characterinfo_stat_weaponblock" korean="무기 막기" />
+	<block key="ui_characterinfo_mycharacteristic_reset" korean="초기화" />
+	<block key="ui_characterinfo_charinfo_detailinfo" korean="상세정보" />
+	<block key="ui_characterinfo_charinfo_usetitle" korean="사용중인 칭호" />
+	<block key="ui_characterinfo_charinfo_selecttitle" korean="선택한 칭호" />
+	<block key="ui_characterinfo_charinfo_titlelist" korean="칭호목록" />
+	<block key="ui_characterinfo_charinfo_titletotal" korean="전체" />
+	<block key="ui_characterinfo_charinfo_titleget" korean="획득" />
+	<block key="ui_characterinfo_charinfo_titleeffect" korean="효과있음" />
+	<block key="ui_characterinfo_charinfo_titlechange" korean="변경" />
+	<block key="ui_characterinfo_charinfo_titlerelease" korean="해제" />
+	<block key="ui_characteristic_present" korean="현재 특성력" />
+	<block key="ui_characteristic_need" korean="필요 특성력" />
+	<block key="ui_characteristic_remain" korean="남은 특성력" />
+	<block key="ui_characteristic_btncheck" korean="확인" />
+	<block key="ui_characteristic_btncancel" korean="취소" />
+	<block key="ui_chattaboption_btncheck" korean="확인" />
+	<block key="ui_chattaboption_btncancel" korean="취소" />
+	<block key="ui_dellimittimeitemlist_help" korean="사용 기간 만료 안내" />
+	<block key="ui_dellimittimeitemlist_btncheck" korean="확인" />
+	<block key="ui_dungeongrade_explain" korean="입장 난이도" />
+	<block key="ui_dungeonreenter_title" korean="인스턴스 던전" />
+	<block key="ui_dungeonreenter_subtitle" korean="던전 재입장 시간" />
+	<block key="ui_dungeonreenter_btncheck" korean="확인" />
+	<block key="ui_dungeonreenter_subgrade" korean="등급" />
+	<block key="ui_dungeonreenter_subjoin" korean="입장" />
+	<block key="ui_dungeonreenter_subtime" korean="재입장시간" />
+	<block key="ui_fellowinfo_exp" korean="경험치" />
+	<block key="ui_fellowinfo_dps" korean="초당 공격력" />
+	<block key="ui_fellowinfo_defense" korean="물리 방어력" />
+	<block key="ui_fellowinfo_altitude" korean="최대고도" />
+	<block key="ui_fellowinfo_movespeed" korean="이동속도" />
+	<block key="ui_fellowinfo_attackspeed" korean="공격속도" />
+	<block key="ui_fellowinfo_characteristic" korean="특성" />
+	<block key="ui_fellowinfo_fellowequip" korean="펠로우 장비" />
+	<block key="ui_fellowinfo_fellowskill" korean="펠로우 스킬" />
+	<block key="ui_fellowlist_level" korean="레벨순" />
+	<block key="ui_fellowlist_grade" korean="등급순" />
+	<block key="ui_fellowlist_reinforce" korean="강화" />
+	<block key="ui_fellowlist_namechange" korean="이름 변경" />
+	<block key="ui_fellowlist_summon" korean="소환" />
+	<block key="ui_fellowlist_release" korean="놓아주기" />
+	<block key="ui_friendlist_blocklist_character" korean="캐릭터명" />
+	<block key="ui_friendlist_blocklist_memo" korean="메모" />
+	<block key="ui_friendlist_blocklist_btnnew" korean="차단 추가" />
+	<block key="ui_friendlist_friendlist_character" korean="캐릭터명" />
+	<block key="ui_friendlist_friendlist_level" korean="레벨" />
+	<block key="ui_friendlist_friendlist_job" korean="직업" />
+	<block key="ui_friendlist_friendlist_join" korean="접속" />
+	<block key="ui_friendlist_friendlist_onlineview" korean="온라인 친구만 보기" />
+	<block key="ui_friendlist_friendlist_btnnew" korean="친구 추가" />
+	<block key="ui_gamegrade_btncheck" korean="확인" />
+	<block key="ui_gamegrade_gradeinfo" korean="등급정보" />
+	<block key="ui_gameoption_title" korean="환경 설정" />
+	<block key="ui_gameoption_camera_maxdis" korean="카메라 최대 거리" />
+	<block key="ui_gameoption_camera_turnspeed" korean="카메라 회전 속도" />
+	<block key="ui_gameoption_camera_mousesensitivity" korean="마우스 감도" />
+	<block key="ui_gameoption_camera_scopenear" korean="가깝게" />
+	<block key="ui_gameoption_camera_scopefar" korean="멀게" />
+	<block key="ui_gameoption_camera_scopeslow" korean="느리게" />
+	<block key="ui_gameoption_camera_scopefast" korean="빠르게" />
+	<block key="ui_gameoption_camera_camerarollingbyfellow" korean="비행 시 카메라 선회" />
+	<block key="ui_gameoption_combatinfo_mydamage" korean="자신이 받는 피해" />
+	<block key="ui_gameoption_combatinfo_targetdamage" korean="대상이 받는 피해" />
+	<block key="ui_gameoption_combatinfo_myheal" korean="자신이 받는 치유" />
+	<block key="ui_gameoption_combatinfo_targetheal" korean="대상이 받는 치유" />
+	<block key="ui_gameoption_combatinfo_targetbufffromme" korean="대상이 받는 자신의 효과" />
+	<block key="ui_gameoption_combatinfo_targetbufffromother" korean="대상이 받는 타인의 효과" />
+	<block key="ui_gameoption_combatinfo_targetdst" korean="대상과의 거리" />
+	<block key="ui_gameoption_combatinfo_targetoftarget" korean="대상의 대상 보기" />
+	<block key="ui_gameoption_combatinfo_targetcastingbar" korean="대상의 시전 바 보기" />
+	<block key="ui_gameoption_combatinfo_myfellowdamage" korean="펠로우가 받는 피해" />
+	<block key="ui_gameoption_combatoperate_commanddouble" korean="커맨드 더블클릭 입력" />
+	<block key="ui_gameoption_combatoperate_fast" korean="빠름" />
+	<block key="ui_gameoption_combatoperate_slow" korean="느림" />
+	<block key="ui_gameoption_combatoperate_afterskillautoattack" korean="스킬 사용 후 공격 여부" />
+	<block key="ui_gameoption_combatoperate_ridingfixedmouse" korean="탑승시 마우스 고정" />
+	<block key="ui_gameoption_community_speechbubble" korean="말풍선 표시" />
+	<block key="ui_gameoption_community_partyinviterefusal" korean="파티 초대 거부" />
+	<block key="ui_gameoption_community_traderefusal" korean="거래 요청 거부" />
+	<block key="ui_gameoption_community_guildinviterefusal" korean="길드 초대 거부" />
+	<block key="ui_gameoption_community_combatrequestrefusal" korean="결투 신청 거부" />
+	<block key="ui_gameoption_community_guildmemberalarm" korean="길드원 접속 알림" />
+	<block key="ui_gameoption_community_boardingapplyrefusal" korean="다인 펠로우 탑승 요청 거부" />
+	<block key="ui_gameoption_community_whisperrefusal" korean="귓속말 거부" />
+	<block key="ui_gameoption_etc_mouseleftclickmove" korean="마우스 왼클릭 이동" />
+	<block key="ui_gameoption_etc_bufftime" korean="버프 지속 시간" />
+	<block key="ui_gameoption_etc_gametip" korean="게임팁 표시" />
+	<block key="ui_gameoption_etc_gaugedisplay" korean="간이 게이지 사용" />
+	<block key="ui_gameoption_etc_lootingautocursor" korean="루팅 시 자동 커서 이동" />
+	<block key="ui_gameoption_etc_tamingalarm" korean="길들이기 알림 사용" />
+	<block key="ui_gameoption_etc_helmet" korean="헬멧 표시" />
+	<block key="ui_gameoption_etc_questtargetnpceffdisp" korean="퀘스트 대상  NPC 이펙트 표시" />
+	<block key="ui_gameoption_etc_questtargetmonstereffdisp" korean="퀘스트 대상 몬스터 이펙트 표시" />
+	<block key="ui_gameoption_etc_systemmsgdisp" korean="시스템 메시지 출력" />
+	<block key="ui_gameoption_extendquickslot_extendquickslot" korean="확장 슬롯" />
+	<block key="ui_gameoption_gauge_gaugedisplay" korean="게이지 표시 사용" />
+	<block key="ui_gameoption_name_playername" korean="플레이어 이름" />
+	<block key="ui_gameoption_name_partymembername" korean="파티원 이름" />
+	<block key="ui_gameoption_name_fellowname" korean="펠로우 이름" />
+	<block key="ui_gameoption_name_otherplayername" korean="다른 플레이어 이름" />
+	<block key="ui_gameoption_name_npcname" korean="NPC 이름" />
+	<block key="ui_gameoption_name_interactionobjname" korean="사물 이름" />
+	<block key="ui_gameoption_name_monstername" korean="몬스터 이름" />
+	<block key="ui_gameoption_name_guildname" korean="소속, 길드 명 표시" />
+	<block key="ui_gameoption_name_petname" korean="애완동물, 작은 생물들" />
+	<block key="ui_gameoption_name_designationname" korean="칭호 표시" />
+	<block key="ui_gameoption_statusbar_statusbarvalue" korean="상태창 수치 표시" />
+	<block key="ui_gameoption_statusbar_statusbarnumber" korean="숫자로 보기" />
+	<block key="ui_gameoption_statusbar_statusbarpercentage" korean="백분율 표시" />
+	<block key="ui_gameoption_statusbar_statusbarpercent" korean="백분율로 보기" />
+	<block key="ui_gameoption_graphic_displaylimit_char" korean="캐릭터" />
+	<block key="ui_gameoption_graphic_displaylimit_charlimit" korean="휴식지역 캐릭터 표현제한" />
+	<block key="ui_gameoption_graphic_displaylimit_effect" korean="이펙트" />
+	<block key="ui_gameoption_graphic_displaylimit_low" korean="낮음" />
+	<block key="ui_gameoption_graphic_displaylimit_high" korean="높음" />
+	<block key="ui_gameoption_graphic_displaylimit_effecttarget" korean="이펙트 표시 대상" />
+	<block key="ui_gameoption_graphic_etc_frameonoff" korean="프레임 표시" />
+	<block key="ui_gameoption_graphic_etc_vsynconoff" korean="수직 동기화" />
+	<block key="ui_gameoption_graphic_etc_realtimeoptimization" korean="실시간 최적화" />
+	<block key="ui_gameoption_graphic_etc_frame" korean="고정 프레임" />
+	<block key="ui_gameoption_graphic_etc_weatheronoff" korean="기상 효과" />
+	<block key="ui_gameoption_graphic_higheffect_outfocusing" korean="아웃 포커싱" />
+	<block key="ui_gameoption_graphic_higheffect_hdr" korean="HDR 블룸" />
+	<block key="ui_gameoption_graphic_higheffect_motion" korean="모션블러" />
+	<block key="ui_gameoption_graphic_higheffect_clarity" korean="선명도" />
+	<block key="ui_gameoption_graphic_higheffect_low" korean="낮음" />
+	<block key="ui_gameoption_graphic_higheffect_high" korean="높음" />
+	<block key="ui_gameoption_graphic_light_sunshaftseffect" korean="광선 효과" />
+	<block key="ui_gameoption_graphic_light_lowlighting" korean="저사양용 라이팅" />
+	<block key="ui_gameoption_graphic_lod_land" korean="지형" />
+	<block key="ui_gameoption_graphic_lod_things" korean="사물" />
+	<block key="ui_gameoption_graphic_lod_char" korean="캐릭터" />
+	<block key="ui_gameoption_graphic_lod_low" korean="낮음" />
+	<block key="ui_gameoption_graphic_lod_hight" korean="높음" />
+	<block key="ui_gameoption_graphic_quality_texture" korean="텍스쳐 해상도" />
+	<block key="ui_gameoption_graphic_quality_shadow" korean="그림자" />
+	<block key="ui_gameoption_graphic_quality_water" korean="물" />
+	<block key="ui_gameoption_graphic_quality_shader" korean="쉐이더" />
+	<block key="ui_gameoption_graphic_quality_terrain" korean="지형 묘사" />
+	<block key="ui_gameoption_graphic_quality_effect" korean="이펙트" />
+	<block key="ui_gameoption_graphic_quality_particle" korean="파티클" />
+	<block key="ui_gameoption_graphic_screensetting_screenmode" korean="화면 모드" />
+	<block key="ui_gameoption_graphic_screensetting_resolution" korean="해상도" />
+	<block key="ui_gameoption_graphic_screensetting_anti" korean="안티앨리어싱" />
+	<block key="ui_gameoption_graphic_screensetting_brightness" korean="밝기" />
+	<block key="ui_gameoption_graphic_screensetting_dark" korean="어둡게" />
+	<block key="ui_gameoption_graphic_screensetting_light" korean="밝게" />
+	<block key="ui_gameoption_graphic_screensetting_directx" korean="Direct X" />
+	<block key="ui_gameoption_graphic_screensetting_x9" korean="X 9" />
+	<block key="ui_gameoption_graphic_screensetting_x11" korean="X 11" />
+	<block key="ui_gameoption_graphic_totalsetting_totalsetting" korean="전체 설정" />
+	<block key="ui_gameoption_graphic_totalsetting_low" korean="낮음" />
+	<block key="ui_gameoption_graphic_totalsetting_high" korean="높음" />
+	<block key="ui_gameoption_graphic_totalsetting_custom" korean="사용자 설정" />
+	<block key="ui_gameoption_graphic_viewdst_char" korean="캐릭터" />
+	<block key="ui_gameoption_graphic_viewdst_things" korean="사물" />
+	<block key="ui_gameoption_graphic_viewdst_background" korean="배경" />
+	<block key="ui_gameoption_graphic_viewdst_glue" korean="풀" />
+	<block key="ui_gameoption_graphic_viewdst_low" korean="낮음" />
+	<block key="ui_gameoption_graphic_viewdst_high" korean="높음" />
+	<block key="ui_gameoption_sound_totalsound" korean="전체음" />
+	<block key="ui_gameoption_sound_bgm" korean="배경음악" />
+	<block key="ui_gameoption_sound_effectsound" korean="효과음" />
+	<block key="ui_gameoption_sound_environmentsound" korean="환경음" />
+	<block key="ui_gameoption_sound_systemsound" korean="시스템 메세지 음성" />
+	<block key="ui_gameoption_sound_backgroundsound" korean="백그라운드 소리 듣기" />
+	<block key="ui_gameoption_sound_low" korean="낮음" />
+	<block key="ui_gameoption_sound_high" korean="높음" />
+	<block key="ui_gameoption_shortcut_basicquickslot_main" korean="주 단축키" />
+	<block key="ui_gameoption_shortcut_basicquickslot_sub" korean="보조 단축키" />
+	<block key="ui_gameoption_shortcut_basicquickslot_1" korean="기본 슬롯1" />
+	<block key="ui_gameoption_shortcut_basicquickslot_2" korean="기본 슬롯2" />
+	<block key="ui_gameoption_shortcut_basicquickslot_3" korean="기본 슬롯3" />
+	<block key="ui_gameoption_shortcut_basicquickslot_4" korean="기본 슬롯4" />
+	<block key="ui_gameoption_shortcut_basicquickslot_5" korean="기본 슬롯5" />
+	<block key="ui_gameoption_shortcut_basicquickslot_6" korean="기본 슬롯6" />
+	<block key="ui_gameoption_shortcut_basicquickslot_7" korean="기본 슬롯7" />
+	<block key="ui_gameoption_shortcut_basicquickslot_8" korean="기본 슬롯8" />
+	<block key="ui_gameoption_shortcut_basicquickslot_9" korean="기본 슬롯9" />
+	<block key="ui_gameoption_shortcut_basicquickslot_10" korean="기본 슬롯10" />
+	<block key="ui_gameoption_shortcut_basicquickslot_11" korean="기본 슬롯11" />
+	<block key="ui_gameoption_shortcut_basicquickslot_12" korean="기본 슬롯12" />
+	<block key="ui_gameoption_shortcut_combat_main" korean="주 단축키" />
+	<block key="ui_gameoption_shortcut_combat_sub" korean="보조 단축키" />
+	<block key="ui_gameoption_shortcut_combat_1" korean="전투/일반 자세 변환" />
+	<block key="ui_gameoption_shortcut_combat_2" korean="가까운 아군 선택" />
+	<block key="ui_gameoption_shortcut_combat_3" korean="가까운 적 선택" />
+	<block key="ui_gameoption_shortcut_combat_4" korean="징표 대상 선택" />
+	<block key="ui_gameoption_shortcut_combat_5" korean="대상의 대상 선택" />
+	<block key="ui_gameoption_shortcut_combat_6" korean="추천 스킬" />
+	<block key="ui_gameoption_shortcut_combat_7" korean="연계기 1" />
+	<block key="ui_gameoption_shortcut_combat_8" korean="연계기 2" />
+	<block key="ui_gameoption_shortcut_combat_9" korean="연계기 3" />
+	<block key="ui_gameoption_shortcut_combat_10" korean="연계기 4" />
+	<block key="ui_gameoption_shortcut_combat_11" korean="탑승시 크로스헤어 고정" />
+	<block key="ui_gameoption_shortcut_combat_12" korean="발동 스킬" />
+	<block key="ui_gameoption_shortcut_combat_13" korean="탑승 무기 스왑" />
+	<block key="ui_gameoption_shortcut_etc_main" korean="주 단축키" />
+	<block key="ui_gameoption_shortcut_etc_sub" korean="보조 단축키" />
+	<block key="ui_gameoption_etc_combat_1" korean="동영상 촬영 모드" />
+	<block key="ui_gameoption_etc_combat_2" korean="휴식지역 캐릭터 표현제한" />
+	<block key="ui_gameoption_etc_combat_3" korean="귓속말 답장" />
+	<block key="ui_gameoption_shortcut_extendquickslot_main" korean="주 단축키" />
+	<block key="ui_gameoption_shortcut_extendquickslot_sub" korean="보조 단축키" />
+	<block key="ui_gameoption_shortcut_extendquickslot_1" korean="확장 슬롯1" />
+	<block key="ui_gameoption_shortcut_extendquickslot_2" korean="확장 슬롯2" />
+	<block key="ui_gameoption_shortcut_extendquickslot_3" korean="확장 슬롯3" />
+	<block key="ui_gameoption_shortcut_extendquickslot_4" korean="확장 슬롯4" />
+	<block key="ui_gameoption_shortcut_extendquickslot_5" korean="확장 슬롯5" />
+	<block key="ui_gameoption_shortcut_extendquickslot_6" korean="확장 슬롯6" />
+	<block key="ui_gameoption_shortcut_extendquickslot_7" korean="확장 슬롯7" />
+	<block key="ui_gameoption_shortcut_extendquickslot_8" korean="확장 슬롯8" />
+	<block key="ui_gameoption_shortcut_extendquickslot_9" korean="확장 슬롯9" />
+	<block key="ui_gameoption_shortcut_extendquickslot_10" korean="확장 슬롯10" />
+	<block key="ui_gameoption_shortcut_extendquickslot_11" korean="확장 슬롯11" />
+	<block key="ui_gameoption_shortcut_extendquickslot_12" korean="확장 슬롯12" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_main" korean="주 단축키" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_sub" korean="보조 단축키" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_1" korean="펠로우리스트 단축슬롯1" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_2" korean="펠로우리스트 단축슬롯2" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_3" korean="펠로우리스트 단축슬롯3" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_4" korean="펠로우리스트 단축슬롯4" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_5" korean="펠로우리스트 단축슬롯5" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_6" korean="펠로우리스트 단축슬롯6" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_7" korean="펠로우리스트 단축슬롯7" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_8" korean="펠로우리스트 단축슬롯8" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_9" korean="펠로우리스트 단축슬롯9" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_10" korean="펠로우리스트 단축슬롯10" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_main" korean="주 단축키" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_sub" korean="보조 단축키" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_1" korean="AI 모드" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_2" korean="따라가기" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_3" korean="위치지정" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_4" korean="대상지정" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_5" korean="펠로우 단축슬롯 1" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_6" korean="펠로우 단축슬롯 2" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_7" korean="펠로우 단축슬롯 3" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_8" korean="펠로우 단축슬롯 4" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_9" korean="펠로우 단축슬롯 5" />
+	<block key="ui_gameoption_shortcut_menu_main" korean="주 단축키" />
+	<block key="ui_gameoption_shortcut_menu_sub" korean="보조 단축키" />
+	<block key="ui_gameoption_shortcut_menu_1" korean="엘로라의 상점" />
+	<block key="ui_gameoption_shortcut_menu_2" korean="엘로라의 보관함" />
+	<block key="ui_gameoption_shortcut_menu_3" korean="캐릭터 정보창" />
+	<block key="ui_gameoption_shortcut_menu_4" korean="펠로우 정보창" />
+	<block key="ui_gameoption_shortcut_menu_5" korean="펠로우 도감" />
+	<block key="ui_gameoption_shortcut_menu_6" korean="스킬" />
+	<block key="ui_gameoption_shortcut_menu_7" korean="퀘스트" />
+	<block key="ui_gameoption_shortcut_menu_8" korean="가방" />
+	<block key="ui_gameoption_shortcut_menu_9" korean="액션목록" />
+	<block key="ui_gameoption_shortcut_menu_10" korean="지도" />
+	<block key="ui_gameoption_shortcut_menu_11" korean="친구" />
+	<block key="ui_gameoption_shortcut_menu_12" korean="파티게시판" />
+	<block key="ui_gameoption_shortcut_menu_13" korean="GM" />
+	<block key="ui_gameoption_shortcut_menu_14" korean="길드" />
+	<block key="ui_gameoption_shortcut_menu_15" korean="공격대" />
+	<block key="ui_gameoption_shortcut_menu_16" korean="도움말" />
+	<block key="ui_gameoption_shortcut_menu_17" korean="게임 옵션" />
+	<block key="ui_gameoption_shortcut_menu_18" korean="제작" />
+	<block key="ui_gameoption_shortcut_menu_19" korean="인던재입장" />
+	<block key="ui_gameoption_shortcut_menu_20" korean="업적" />
+	<block key="ui_gameoption_shortcut_move_main" korean="주 단축키" />
+	<block key="ui_gameoption_shortcut_move_sub" korean="보조 단축키" />
+	<block key="ui_gameoption_shortcut_move_1" korean="앞으로 가기" />
+	<block key="ui_gameoption_shortcut_move_2" korean="뒤로 가기" />
+	<block key="ui_gameoption_shortcut_move_3" korean="왼쪽으로 돌기" />
+	<block key="ui_gameoption_shortcut_move_4" korean="오른쪽으로 돌기" />
+	<block key="ui_gameoption_shortcut_move_5" korean="왼쪽으로 걷기" />
+	<block key="ui_gameoption_shortcut_move_6" korean="오른쪽으로 걷기" />
+	<block key="ui_gameoption_shortcut_move_7" korean="대화/아이템 줍기" />
+	<block key="ui_gameoption_shortcut_move_8" korean="달리기/걷기" />
+	<block key="ui_gameoption_shortcut_move_9" korean="자동 달리기" />
+	<block key="ui_gameoption_shortcut_move_10" korean="앉기/일어서기" />
+	<block key="ui_gameoption_shortcut_move_11" korean="점프" />
+	<block key="ui_gameoption_shortcut_move_12" korean="비행시 상승" />
+	<block key="ui_gameoption_shortcut_move_13" korean="비행시 하강" />
+	<block key="ui_gameoption_shortcut_move_14" korean="펠로우 탑승" />
+	<block key="ui_gameoption_shortcut_party_main" korean="주 단축키" />
+	<block key="ui_gameoption_shortcut_party_sub" korean="보조 단축키" />
+	<block key="ui_gameoption_shortcut_party_1" korean="자신 선택" />
+	<block key="ui_gameoption_shortcut_party_2" korean="파티원 1 선택" />
+	<block key="ui_gameoption_shortcut_party_3" korean="파티원 2 선택" />
+	<block key="ui_gameoption_shortcut_party_4" korean="파티원 3 선택" />
+	<block key="ui_gameoption_shortcut_party_5" korean="파티원 4 선택" />
+	<block key="ui_gameoption_shortcut_token_main" korean="주 단축키" />
+	<block key="ui_gameoption_shortcut_token_sub" korean="보조 단축키" />
+	<block key="ui_gameoption_shortcut_token_1" korean="징표해제" />
+	<block key="ui_gameoption_btndefault" korean="기본값" />
+	<block key="ui_gameoption_btncheck" korean="확인" />
+	<block key="ui_gameoption_btnapply" korean="적용" />
+	<block key="ui_gameoption_btncancel" korean="취소" />
+	<block key="ui_guild_title" korean="길드" />
+	<block key="ui_guild_unit_name" korean="연합명" />
+	<block key="ui_guild_unit_leader" korean="연합장" />
+	<block key="ui_guild_unit_number" korean="인원" />
+	<block key="ui_guild_unit_grade" korean="등급" />
+	<block key="ui_guild_online" korean="접속자만 보기" />
+	<block key="ui_guild_local_1" korean="인원" />
+	<block key="ui_guild_local_2" korean="등급" />
+	<block key="ui_guild_local_3" korean="공지사항" />
+	<block key="ui_guild_local_4" korean="편집" />
+	<block key="ui_guild_local_5" korean="이름" />
+	<block key="ui_guild_local_6" korean="직업" />
+	<block key="ui_guild_local_7" korean="레벨" />
+	<block key="ui_guild_local_8" korean="위치" />
+	<block key="ui_guild_local_9" korean="계급" />
+	<block key="ui_guild_local_10" korean="이름" />
+	<block key="ui_guild_local_11" korean="등급" />
+	<block key="ui_guild_local_12" korean="타입" />
+	<block key="ui_guild_local_13" korean="길드원 목록" />
+	<block key="ui_guild_local_14" korean="이름" />
+	<block key="ui_guild_local_15" korean="직업" />
+	<block key="ui_guild_local_16" korean="레벨" />
+	<block key="ui_guild_local_17" korean="길드명" />
+	<block key="ui_guild_local_18" korean="계급" />
+	<block key="ui_guild_local_19" korean="접속자만 보기" />
+	<block key="ui_guild_local_20" korean="전쟁 알림" />
+	<block key="ui_guild_local_21" korean="연합명 변경" />
+	<block key="ui_guild_local_22" korean="연합 초대" />
+	<block key="ui_guild_local_23" korean="항복" />
+	<block key="ui_guild_local_24" korean="전쟁 선포" />
+	<block key="ui_guild_local_25" korean="수락" />
+	<block key="ui_guild_local_26" korean="거절" />
+	<block key="ui_guild_local_27" korean="전쟁선포길드" />
+	<block key="ui_guild_local_28" korean="전쟁선포상대" />
+	<block key="ui_guild_local_29" korean="길드장 해임" />
+	<block key="ui_guild_local_30" korean="계급 설정" />
+	<block key="ui_guild_local_31" korean="길드 초대" />
+	<block key="ui_guild_local_32" korean="길드 탈퇴" />
+	<block key="ui_guild_create_popup_phrase" korean="길드를 생성하시겠습니까?" />
+	<block key="ui_guild_create_popup_default" korean="생성할 길드명을 입력하세요." />
+	<block key="ui_guild_create_popup_duplication" korean="중복확인" />
+	<block key="ui_guild_create_popup_btncreate" korean="생성" />
+	<block key="ui_guild_create_popup_btncancel" korean="취소" />
+	<block key="ui_guild_create_popup_createcost" korean="생성 비용:" />
+	<block key="ui_guild_invite_popup_phrase" korean="아래 플레이어를 길드에 초대하시겠습니까?" />
+	<block key="ui_guild_invite_popup_default" korean="아이디를 입력하세요." />
+	<block key="ui_guild_invite_popup_btninvite" korean="초대" />
+	<block key="ui_guild_invite_popup_btncancel" korean="취소" />
+	<block key="ui_guild_manage_btncancel" korean="편집" />
+	<block key="ui_guild_manage_local_1" korean="길드원 초대" />
+	<block key="ui_guild_manage_local_2" korean="길드원 추방" />
+	<block key="ui_guild_manage_local_3" korean="계급 변경" />
+	<block key="ui_guild_manage_local_4" korean="공지 설정" />
+	<block key="ui_guild_manage_local_5" korean="계급 설정" />
+	<block key="ui_guild_manage_local_6" korean="엠블렘 설정" />
+	<block key="ui_guild_manage_local_7" korean="길드 창고 보관" />
+	<block key="ui_guild_manage_local_8" korean="길드 창고 사용" />
+	<block key="ui_guild_mark_title" korean="길드 마크 만들기" />
+	<block key="ui_guild_mark_subtitle" korean="길드 마크를 선택해주세요." />
+	<block key="ui_guild_mark_btnchange" korean="변경" />
+	<block key="ui_guild_mark_btncancel" korean="취소" />
+	<block key="ui_guild_markup_btncheck" korean="확인" />
+	<block key="ui_guild_markup_btncancel" korean="취소" />
+	<block key="ui_guild_markup_title" korean="유저 문장 등록" />
+	<block key="ui_guild_rank_title" korean="신규 계급 생성" />
+	<block key="ui_guild_rank_default" korean="계급 이름 입력" />
+	<block key="ui_guild_rank_btnclose" korean="닫기" />
+	<block key="ui_guild_achievement_guild" korean="전쟁선포길드" />
+	<block key="ui_guild_achievement_target" korean="전쟁선포상대" />
+	<block key="ui_guild_warkilldeath_situation" korean="연합 전투 상황" />
+	<block key="ui_guild_warrecord_title" korean="연합 전쟁 현황" />
+	<block key="ui_guild_warrecord_recently" korean="최근 연합 전쟁 결과" />
+	<block key="ui_guild_warrecord_present" korean="전쟁중인 연합" />
+	<block key="ui_guild_warrecord_btnok" korean="확인" />
+	<block key="ui_guild_warrecord_defaulttext" korean="현재 전쟁중인 연합이 없습니다." />
+	<block key="ui_helptopic_title" korean="도움말" />
+	<block key="ui_helptopic_hide" korean="도움말 알리미 안보기" />
+	<block key="ui_inventory_title" korean="가방" />
+	<block key="ui_auction_local_1" korean="경매 물품" />
+	<block key="ui_auction_local_2" korean="시작가 :" />
+	<block key="ui_auction_local_3" korean="최고 입찰" />
+	<block key="ui_auction_local_4" korean="낙찰" />
+	<block key="ui_auction_local_5" korean="2순위 입찰" />
+	<block key="ui_auction_local_6" korean="본인 입찰" />
+	<block key="ui_auction_local_7" korean="입찰" />
+	<block key="ui_auction_local_8" korean="포기" />
+	<block key="ui_auction_local_9" korean="1순위 입찰" />
+	<block key="ui_auction_local_10" korean="3순위 입찰" />
+	<block key="ui_auction_local_11" korean="최고 입찰가" />
+	<block key="ui_auction_local_12" korean="입찰 금액" />
+	<block key="ui_auction_local_13" korean="보유 금액" />
+	<block key="ui_auction_popup_message" korean="에 입찰하시겠습니까?" />
+	<block key="ui_auction_popup_btnbid" korean="입찰" />
+	<block key="ui_auction_popup_btncancel" korean="취소" />
+	<block key="ui_itemdice_title" korean="주사위" />
+	<block key="ui_itemdice_btnok" korean="확인" />
+	<block key="ui_itemdice_btncancel" korean="포기" />
+	<block key="ui_itemdistribution_title" korean="분배 설정" />
+	<block key="ui_itemdistribution_freelooting" korean="자유루팅" />
+	<block key="ui_itemdistribution_orderlooting" korean="순서루팅" />
+	<block key="ui_itemdistribution_appointlooting" korean="지정루팅" />
+	<block key="ui_itemdistribution_gradepriority" korean="등급 제한 분배 방식" />
+	<block key="ui_itemdistribution_application" korean="적용 대상" />
+	<block key="ui_itemdistribution_grade" korean="등급 이상" />
+	<block key="ui_itemdistribution_way" korean="분배 방식" />
+	<block key="ui_itemdistribution_jobdistribution" korean="직업 우선 분배 방식" />
+	<block key="ui_itemdistribution_btnclose" korean="닫기" />
+	<block key="ui_itemdistribution_gradepriority_tooltip" korean="등급 제한 분배 방식 설정시 루팅창의 모두획득 기능이 제한됩니다" />
+	<block key="ui_itemlist_btnclose" korean="닫기" />
+	<block key="ui_production_btnweapon" korean="무기" />
+	<block key="ui_production_btnarmor" korean="방어구" />
+	<block key="ui_production_btnacc" korean="장신구" />
+	<block key="ui_production_btnfellow" korean="펠로우연구" />
+	<block key="ui_production_btnalchemy" korean="연금술" />
+	<block key="ui_production_btncook" korean="요리" />
+	<block key="ui_production_masteritem" korean="마스터 아이템" />
+	<block key="ui_production_facilities" korean="필요 설비" />
+	<block key="ui_production_successprob" korean="성공 확률" />
+	<block key="ui_production_listview" korean="제작 가능 목록 보기" />
+	<block key="ui_production_normaldouble" korean="일반 재료 2배 사용" />
+	<block key="ui_production_critical" korean="( 제작 대성공 확률     )" />
+	<block key="ui_production_product" korean="제작" />
+	<block key="ui_production_allproduct" korean="모두 제작" />
+	<block key="ui_reinforce_msg" korean="<아이템명>을 강화하시겠습니까?" />
+	<block key="ui_reinforce_btnok" korean="확인" />
+	<block key="ui_reinforce_btncancel" korean="취소" />
+	<block key="ui_itemsynthesis_title" korean="봉인 옵션 부여" />
+	<block key="ui_itemsynthesis_grant" korean="부여" />
+	<block key="ui_itemsynthesis_change" korean="변경" />
+	<block key="ui_lobbycharactercreate_difficulty" korean="난이도" />
+	<block key="ui_lobbycharactercreate_propensity" korean="성향" />
+	<block key="ui_lobbycharactercreate_str" korean="힘" />
+	<block key="ui_lobbycharactercreate_dex" korean="민첩" />
+	<block key="ui_lobbycharactercreate_vtl" korean="체력" />
+	<block key="ui_lobbycharactercreate_int" korean="지능" />
+	<block key="ui_lobbycharactercreate_mtl" korean="정신" />
+	<block key="ui_lobbycustomize_name" korean="이름" />
+	<block key="ui_lobbycustomize_namedefault" korean="이름을 입력해주세요" />
+	<block key="ui_lobbycustomize_namecheck" korean="중복확인" />
+	<block key="ui_lobbycustomize_random" korean="무작위 설정 범위" />
+	<block key="ui_lobbycustomize_btnrandom" korean="무작위" />
+	<block key="ui_lobbycustomize_decorate_color" korean="색상" />
+	<block key="ui_lobbycustomize_decorate_light" korean="밝기" />
+	<block key="ui_lobbycustomize_hair_color" korean="색상" />
+	<block key="ui_lobbycustomize_hair_light" korean="밝기" />
+	<block key="ui_lobbysystemmenu_close" korean="게임종료" />
+	<block key="ui_lobbysystemmenu_select" korean="캐릭터선택" />
+	<block key="ui_lobbysystemmenu_option" korean="게임옵션" />
+	<block key="ui_lobbysystemmenu_grade" korean="등급정보" />
+	<block key="ui_lobbysystemmenu_cancel" korean="취소" />
+	<block key="ui_looting_title" korean="전리품" />
+	<block key="ui_maillist_listtitle" korean="최근목록" />
+	<block key="ui_maillist_fee" korean="우편수수료" />
+	<block key="ui_maillist_sendmail" korean="보내기" />
+	<block key="ui_maillist_rewrite" korean="재작성" />
+	<block key="ui_maillist_delete" korean="삭제" />
+	<block key="ui_msgbox_title" korean="메시지박스" />
+	<block key="ui_msgbox_btnok" korean="확인" />
+	<block key="ui_msgbox_btncancel" korean="취소" />
+	<block key="ui_msgbox_useruby" korean="소모엘룬" />
+	<block key="ui_msgbox_autocheck_btnok" korean="확인" />
+	<block key="ui_msgbox_autosend_btnok" korean="확인" />
+	<block key="ui_msgbox_autosend_btncancel" korean="취소" />
+	<block key="ui_msgbox_deletechar_btnok" korean="확인" />
+	<block key="ui_msgbox_deletechar_btncancel" korean="취소" />
+	<block key="ui_msgbox_shouting_btnok" korean="확인" />
+	<block key="ui_msgbox_shouting_btncancel" korean="취소" />
+	<block key="ui_msgbox_shouting_defaultmsg" korean="외칠 문구를 입력해 주세요." />
+	<block key="ui_msgbox_textonly_title" korean="접속중" />
+	<block key="ui_npcportal_title" korean="포탈 이동" />
+	<block key="ui_questalarm_edittitle" korean="퀘스트 알람" />
+	<block key="ui_questlimittime_edittitle" korean="퀘스트 진행시간" />
+	<block key="ui_questlist_btnallclose" korean="모두 닫기" />
+	<block key="ui_questlistitem_btn_sharing" korean="퀘스트 공유" />
+	<block key="ui_questlistitem_btn_siteview" korean="위치보기" />
+	<block key="ui_questlistitem_btn_giveup" korean="퀘스트 포기" />
+	<block key="ui_questunit_btnok" korean="확인" />
+	<block key="ui_questunit_btncancel" korean="취소" />
+	<block key="ui_quickslot_alarm_edittitle" korean="알람" />
+	<block key="ui_quickslot_fellow_edittitle" korean="펠로우 스킬" />
+	<block key="ui_randombox_btnok" korean="확인" />
+	<block key="ui_randombox_btncancel" korean="취소" />
+	<block key="ui_reinforcefellow_title" korean="펠로우 강화" />
+	<block key="ui_reinforcefellow_btnok" korean="강화" />
+	<block key="ui_secondpassword_local_1" korean="2차 비밀번호 설정" />
+	<block key="ui_secondpassword_local_2" korean="숫자 4자리 입력" />
+	<block key="ui_secondpassword_local_3" korean="숫자 4자리 재입력" />
+	<block key="ui_secondpassword_btnok" korean="확인" />
+	<block key="ui_secondpassword_btncancel" korean="취소" />
+	<block key="ui_shop_title" korean="상점" />
+	<block key="ui_skill_title" korean="스킬" />
+	<block key="ui_soultalentsinit_btnok" korean="확인" />
+	<block key="ui_soultalentsinit_btncancel" korean="취소" />
+	<block key="ui_soultalentspopup_local_1" korean="현재 특성력" />
+	<block key="ui_soultalentspopup_local_2" korean="필요 특성력" />
+	<block key="ui_soultalentspopup_local_3" korean="남은 특성력" />
+	<block key="ui_soultalentspopup_btnok" korean="확인" />
+	<block key="ui_splititem_defaulttext" korean="수량을 선택하세요." />
+	<block key="ui_splititem_btnok" korean="확인" />
+	<block key="ui_splititem_btncancel" korean="취소" />
+	<block key="ui_systemmenu_local_1" korean="게임종료" />
+	<block key="ui_systemmenu_local_2" korean="캐릭터선택" />
+	<block key="ui_systemmenu_local_3" korean="게임옵션" />
+	<block key="ui_systemmenu_local_4" korean="등급정보" />
+	<block key="ui_systemmenu_local_5" korean="취소" />
+	<block key="ui_tamingbar_succes" korean="성공" />
+	<block key="ui_tamingbar_fail" korean="실패" />
+	<block key="ui_tamingmgame_succes" korean="성공" />
+	<block key="ui_tamingmgame_fail" korean="실패" />
+	<block key="ui_trade_change" korean="물품변경" />
+	<block key="ui_trade_tradeok" korean="거래완료" />
+	<block key="ui_vitality_edittext" korean="활력 게이지" />
+	<block key="ui_worldmap_btn_totalmap" korean="전체 맵 보기" />
+</blocks>

@@ -1,0 +1,2662 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="moagro01_Name" korean="주의 끌기" />
+	<block key="moagro01_Description_1" korean="주의 끌기" />
+	<block key="moagro02_Name" korean="주의 끌기" />
+	<block key="moagro02_Description_1" korean="주의 끌기" />
+	<block key="moagro03_Name" korean="주의 끌기" />
+	<block key="moagro03_Description_1" korean="주의 끌기" />
+	<block key="moagul01_Name" korean="세게 찌르기" />
+	<block key="moagul01_Description_1" korean="세게 찌르기" />
+	<block key="moagul02_Name" korean="폭주" />
+	<block key="moagul02_Description_1" korean="폭주" />
+	<block key="moagul03_Name" korean="꼬리 회전" />
+	<block key="moagul03_Description_1" korean="꼬리 회전" />
+	<block key="moagul04_Name" korean="치유" />
+	<block key="moagul04_Description_1" korean="치유" />
+	<block key="moagul05_Name" korean="얼음 안개" />
+	<block key="moagul05_Description_1" korean="얼음 안개" />
+	<block key="moagul06_Name" korean="물줄기 뿜기" />
+	<block key="moagul06_Description_1" korean="물줄기 뿜기" />
+	<block key="moagul07_Name" korean="물어뜯기" />
+	<block key="moagul07_Description_1" korean="물어뜯기" />
+	<block key="moagul08_Name" korean="호출" />
+	<block key="moagul08_Description_1" korean="호출" />
+	<block key="moagul09_Name" korean="깊게 찌르기" />
+	<block key="moagul09_Description_1" korean="갚개 짜르기" />
+	<block key="moankelion01_Name" korean="추종자 소환" />
+	<block key="moankelion01_Description_1" korean="추종자 소환" />
+	<block key="moankelion02_Name" korean="냉기 화살 뿌리기" />
+	<block key="moankelion02_Description_1" korean="냉기 화살 뿌리기" />
+	<block key="moankelion03_Name" korean="얼음 화살의 비" />
+	<block key="moankelion03_Description_1" korean="얼음 화살의 비" />
+	<block key="moankelion04_Name" korean="최후의 발악" />
+	<block key="moankelion04_Description_1" korean="최후의 발악" />
+	<block key="moankelion05_Name" korean="냉기 화살 뿌리기" />
+	<block key="moankelion05_Description_1" korean="냉기 화살 뿌리기" />
+	<block key="moankelion06_Name" korean="얼음 화살의 비" />
+	<block key="moankelion06_Description_1" korean="얼음 화살의 비" />
+	<block key="moankelion07_Name" korean="수호의 외침" />
+	<block key="moankelion07_Description_1" korean="수호의 외침" />
+	<block key="moankelion08_Name" korean="수호의 외침" />
+	<block key="moankelion08_Description_1" korean="수호의 외침" />
+	<block key="moashuram01_Name" korean="돌진" />
+	<block key="moashuram01_Description_1" korean="돌진" />
+	<block key="moashuram02_Name" korean="들이받기" />
+	<block key="moashuram02_Description_1" korean="들이받기" />
+	<block key="moashuram03_Name" korean="원혼의 소용돌이" />
+	<block key="moashuram03_Description_1" korean="원혼의 소용돌이" />
+	<block key="moashuram04_Name" korean="원혼의 소용돌이" />
+	<block key="moashuram04_Description_1" korean="원혼의 소용돌이" />
+	<block key="moashuram05_Name" korean="큰 낫 휘두르기" />
+	<block key="moashuram05_Description_1" korean="큰 낫 휘두르기" />
+	<block key="moashuram06_Name" korean="큰 낫 휘두르기" />
+	<block key="moashuram06_Description_1" korean="큰 낫 휘두르기" />
+	<block key="moashuram07_Name" korean="뼈 보호막" />
+	<block key="moashuram07_Description_1" korean="뼈 보호막" />
+	<block key="moashuram08_Name" korean="뼈 보호막" />
+	<block key="moashuram08_Description_1" korean="뼈 보호막" />
+	<block key="moasteras01_Name" korean="검은 번개" />
+	<block key="moasteras01_Description_1" korean="검은 번개" />
+	<block key="mobabydragon01_Name" korean="화염 숨결" />
+	<block key="mobabydragon01_Description_1" korean="화염 숨결" />
+	<block key="mobaramos01_Name" korean="분쇄" />
+	<block key="mobaramos01_Description_1" korean="분쇄" />
+	<block key="mobat01_Name" korean="음파 비명" />
+	<block key="mobat01_Description_1" korean="음파 비명" />
+	<block key="mobear01_Name" korean="몸통 박치기" />
+	<block key="mobear01_Description_1" korean="몸통 박치기" />
+	<block key="mobear02_Name" korean="앞발 후려치기" />
+	<block key="mobear02_Description_1" korean="앞발 후려치기" />
+	<block key="mobee01_Name" korean="벌침 발사" />
+	<block key="mobee01_Description_1" korean="벌침 발사" />
+	<block key="mobee02_Name" korean="벌침 찌르기" />
+	<block key="mobee02_Description_1" korean="벌침 찌르기" />
+	<block key="mobee03_Name" korean="호박말벌 부화" />
+	<block key="mobee03_Description_1" korean="호박말벌 부화" />
+	<block key="mobismoot01_Name" korean="만취" />
+	<block key="mobismoot01_Description_1" korean="만취" />
+	<block key="mobismoot02_Name" korean="돌격" />
+	<block key="mobismoot02_Description_1" korean="돌격" />
+	<block key="mobismoot04_Name" korean="모래 쓸기" />
+	<block key="mobismoot04_Description_1" korean="모래 쓸기" />
+	<block key="mobismoot05_Name" korean="핵주먹" />
+	<block key="mobismoot05_Description_1" korean="핵주먹" />
+	<block key="mobistmoot06_Name" korean="만취" />
+	<block key="mobistmoot06_Description_1" korean="만취" />
+	<block key="moblacklookout01_Name" korean="철벽 방어" />
+	<block key="moblacklookout01_Description_1" korean="철벽 방어" />
+	<block key="moblacklookout02_Name" korean="얼음 방패" />
+	<block key="moblacklookout02_Description_1" korean="얼음 방패" />
+	<block key="moblackkiller01_Name" korean="도끼 휘두르기" />
+	<block key="moblackkiller01_Description_1" korean="도끼 휘두르기" />
+	<block key="moblackkiller02_Name" korean="얼음 도끼" />
+	<block key="moblackkiller02_Description_1" korean="얼음 도끼" />
+	<block key="moblackhole_Name" korean="블랙홀" />
+	<block key="moblackhole_Description_1" korean="블랙홀" />
+	<block key="moblackmeat01_Name" korean="그림자 늑대 유인" />
+	<block key="moblackmeat01_Description_1" korean="그림자 늑대 유인" />
+	<block key="moblackspell02_Name" korean="흑마법 강화" />
+	<block key="moblackspell02_Description_1" korean="흑마법 강화" />
+	<block key="moblabo01_Name" korean="돌진" />
+	<block key="moblabo01_Description_1" korean="돌진" />
+	<block key="moblabo02_Name" korean="망치 강타" />
+	<block key="moblabo02_Description_1" korean="망치 강타" />
+	<block key="moblabo03_Name" korean="맹렬한 돌격" />
+	<block key="moblabo03_Description_1" korean="맹렬한 돌격" />
+	<block key="moblabo04_Name" korean="강인한 정신" />
+	<block key="moblabo04_Description_1" korean="강인한 정신" />
+	<block key="moblabo05_Name" korean="불굴의 투지" />
+	<block key="moblabo05_Description_1" korean="불굴의 투지" />
+	<block key="moblabo06_Name" korean="분노의 망치" />
+	<block key="moblabo06_Description_1" korean="분노의 망치" />
+	<block key="mobloodfury01_Name" korean="피의 기둥" />
+	<block key="mobloodfury01_Description_1" korean="피의 기둥" />
+	<block key="mobloodfury02_Name" korean="피의 기둥" />
+	<block key="mobloodfury02_Description_1" korean="피의 기둥" />
+	<block key="moboar01_Name" korean="돌진" />
+	<block key="moboar01_Description_1" korean="돌진" />
+	<block key="moboar02_Name" korean="들이받기" />
+	<block key="moboar02_Description_1" korean="들이받기" />
+	<block key="moboarice01_Name" korean="냉기 돌진" />
+	<block key="moboarice01_Description_1" korean="냉기 돌진" />
+	<block key="moboarice02_Name" korean="냉기 들이받기" />
+	<block key="moboarice02_Description_1" korean="냉기 들이받기" />
+	<block key="mobodydown_Name" korean="body 감소" />
+	<block key="mobodydown_Description_1" korean="body 감소" />
+	<block key="mobomber01_Name" korean="폭탄 던지기" />
+	<block key="mobomber01_Description_1" korean="폭탄 던지기" />
+	<block key="mobomber02_Name" korean="폭탄 폭발" />
+	<block key="mobomber02_Description_1" korean="폭탄 폭발" />
+	<block key="mobomber03_Name" korean="시한 폭탄 설치" />
+	<block key="mobomber03_Description_1" korean="시한 폭탄 설치" />
+	<block key="mobomber04_Name" korean="시한 폭탄 폭발" />
+	<block key="mobomber04_Description_1" korean="시한 폭탄 폭발" />
+	<block key="mobomber05_Name" korean="시한 폭탄 설치" />
+	<block key="mobomber05_Description_1" korean="시한 폭탄 설치" />
+	<block key="mobow01_Name" korean="석궁 발사" />
+	<block key="mobow01_Description_1" korean="석궁 발사" />
+	<block key="mobow03_Name" korean="석궁 발사" />
+	<block key="mobow03_Description_1" korean="석궁 발사" />
+	<block key="mobow04_Name" korean="석궁 발사" />
+	<block key="mobow04_Description_1" korean="석궁 발사" />
+	<block key="mobow05_Name" korean="석궁 발사" />
+	<block key="mobow05_Description_1" korean="석궁 발사" />
+	<block key="mobow06_Name" korean="석궁 발사" />
+	<block key="mobow06_Description_1" korean="석궁 발사" />
+	<block key="mobow02_Name" korean="석궁 파편" />
+	<block key="mobow02_Description_1" korean="석궁 파편" />
+	<block key="mobragicollect01_Name" korean="약초 먹기" />
+	<block key="mobragicollect01_Description_1" korean="약초 먹기" />
+	<block key="mobragirepair01_Name" korean="석궁 수리" />
+	<block key="mobragirepair01_Description_1" korean="석궁 수리" />
+	<block key="mobragibrave01_Name" korean="풍차 돌리기" />
+	<block key="mobragibrave01_Description_1" korean="풍차 돌리기" />
+	<block key="mobragibrave02_Name" korean="어지러움" />
+	<block key="mobragibrave02_Description_1" korean="어지러움" />
+	<block key="mobragibrave03_Name" korean="통나무 돌리기" />
+	<block key="mobragibrave03_Description_1" korean="통나무 돌리기" />
+	<block key="mobragibrave04_Name" korean="어지러움" />
+	<block key="mobragibrave04_Description_1" korean="어지러움" />
+	<block key="mobragibrave05_Name" korean="통나무 찍기" />
+	<block key="mobragibrave05_Description_1" korean="통나무 찍기" />
+	<block key="mobragifighter02_Name" korean="강베기" />
+	<block key="mobragifighter02_Description_1" korean="강베기" />
+	<block key="mobragifighter03_Name" korean="칼 던지기" />
+	<block key="mobragifighter03_Description_1" korean="칼 던지기" />
+	<block key="mobragihunter01_Name" korean="일격의 화살" />
+	<block key="mobragihunter01_Description_1" korean="일격의 화살" />
+	<block key="mobragihunter02_Name" korean="치명적인 화살" />
+	<block key="mobragihunter02_Description_1" korean="치명적인 화살" />
+	<block key="mobragishaman01_Name" korean="얼음 화살" />
+	<block key="mobragishaman01_Description_1" korean="얼음 화살" />
+	<block key="mobragishaman02_Name" korean="치유" />
+	<block key="mobragishaman02_Description_1" korean="치유" />
+	<block key="mobragishaman03_Name" korean="치유" />
+	<block key="mobragishaman03_Description_1" korean="치유" />
+	<block key="mobragiurged01_Name" korean="재촉 당함" />
+	<block key="mobragiurged01_Description_1" korean="재촉 당함" />
+	<block key="moburn01_Name" korean="불타오름" />
+	<block key="moburn01_Description_1" korean="불타오름" />
+	<block key="mobigray01_Name" korean="위험한 부름" />
+	<block key="mobigray01_Description_1" korean="위험한 부름" />
+	<block key="mobigraysum01_Name" korean="위험한 부름" />
+	<block key="mobigraysum01_Description_1" korean="위험한 부름" />
+	<block key="mobigray02_Name" korean="대방출" />
+	<block key="mobigray02_Description_1" korean="대방출" />
+	<block key="mobigray04_Name" korean="멸망선고" />
+	<block key="mobigray04_Description_1" korean="멸망선고" />
+	<block key="mobigray05_Name" korean="시간의 틈새" />
+	<block key="mobigray05_Description_1" korean="시간의 틈새" />
+	<block key="mobigray06_Name" korean="시간의 틈새" />
+	<block key="mobigray06_Description_1" korean="시간의 틈새" />
+	<block key="mobigray07_Name" korean="전류 폭격" />
+	<block key="mobigray07_Description_1" korean="전류 폭격" />
+	<block key="mobigraybaby01_name" korean="전기 충격" />
+	<block key="mobigraybaby01_Description_1" korean="전기 충격" />
+	<block key="mocaptain01_Name" korean="크게 베기" />
+	<block key="mocaptain01_Description_1" korean="크게 베기" />
+	<block key="mocaptain02_Name" korean="머스켓" />
+	<block key="mocaptain02_Description_1" korean="머스켓" />
+	<block key="mocaptain03_Name" korean="작열포" />
+	<block key="mocaptain03_Description_1" korean="작열포" />
+	<block key="mocaptain04_Name" korean="발차기" />
+	<block key="mocaptain04_Description_1" korean="발차기" />
+	<block key="mocaptain05_Name" korean="해적왕의 분노" />
+	<block key="mocaptain05_Description_1" korean="해적왕의 분노" />
+	<block key="mocaptain06_Name" korean="회전 베기" />
+	<block key="mocaptain06_Description_1" korean="회전 베기" />
+	<block key="mochaomage01_Name" korean="질병 플라스크" />
+	<block key="mochaomage01_Description_1" korean="질병 플라스크" />
+	<block key="mochakai01_Name" korean="물어 뜯기" />
+	<block key="mochakai01_Description_1" korean="물어 뜯기" />
+	<block key="mocleki01_Name" korean="돌머리 박치기" />
+	<block key="mocleki01_Description_1" korean="돌머리 박치기" />
+	<block key="mocleki02_Name" korean="돌머리 내려찍기" />
+	<block key="mocleki02_Description_1" korean="돌머리 내려찍기" />
+	<block key="mocleki03_Name" korean="돌머리 내려찍기(달리기)" />
+	<block key="mocleki03_Description_1" korean="돌머리 내려찍기(달리기)" />
+	<block key="mocleki04_Name" korean="돌머리 내려찍기" />
+	<block key="mocleki04_Description_1" korean="돌머리 내려찍기" />
+	<block key="mocleki05_Name" korean="어깨 치기" />
+	<block key="mocleki05_Description_1" korean="어깨 치기" />
+	<block key="mocleki06_Name" korean="발 구르기" />
+	<block key="mocleki06_Description_1" korean="발 구르기" />
+	<block key="mocleki07_Name" korean="발 구르기" />
+	<block key="mocleki07_Description_1" korean="발 구르기" />
+	<block key="mocleki08_Name" korean="발 구르기" />
+	<block key="mocleki08_Description_1" korean="발 구르기" />
+	<block key="mocleki09_Name" korean="난도질" />
+	<block key="mocleki09_Description_1" korean="난도질" />
+	<block key="mocleki10_Name" korean="쌍칼 회전" />
+	<block key="mocleki10_Description_1" korean="쌍칼 회전" />
+	<block key="mocleki11_Name" korean="크게 베기" />
+	<block key="mocleki11_Description_1" korean="크게 베기" />
+	<block key="mocommondie01_Name" korean="자살" />
+	<block key="mocommondie01_Description_1" korean="자살" />
+	<block key="mocommonhelp01_Name" korean="도움 요청" />
+	<block key="mocommonhelp01_Description_1" korean="도움 요청" />
+	<block key="mocommonroar01_Name" korean="포효" />
+	<block key="mocommonroar01_Description_1" korean="포효" />
+	<block key="mocoontin01_Name" korean="얼음 주먹 지면 강타" />
+	<block key="mocoontin01_Description_1" korean="얼음 주먹 지면 강타" />
+	<block key="mocoontin02_Name" korean="얼음 주먹 지면 강타" />
+	<block key="mocoontin02_Description_1" korean="얼음 주먹 지면 강타" />
+	<block key="mocoontin03_Name" korean="얼음 주먹 지면 강타(연속)" />
+	<block key="mocoontin03_Description_1" korean="얼음 주먹 지면 강타(연속)" />
+	<block key="mocoontin04_Name" korean="얼음 주먹 지면 강타(연속)" />
+	<block key="mocoontin04_Description_1" korean="얼음 주먹 지면 강타(연속)" />
+	<block key="mocoontin05_Name" korean="얼음 주먹 지면 강타" />
+	<block key="mocoontin05_Description_1" korean="얼음 주먹 지면 강타" />
+	<block key="mocow01_Name" korean="들이받기" />
+	<block key="mocow01_Description_1" korean="들이받기" />
+	<block key="mocrow01_Name" korean="광속 화염구" />
+	<block key="mocrow01_Description_1" korean="광속 화염구" />
+	<block key="mocrow01_Description_2" korean="광속 화염구" />
+	<block key="mocrow02_Name" korean="냉기 난사" />
+	<block key="mocrow02_Description_1" korean="냉기 난사" />
+	<block key="mocrow02_Description_2" korean="냉기 난사" />
+	<block key="mocrow03_Name" korean="얼음창" />
+	<block key="mocrow03_Description_1" korean="얼음창" />
+	<block key="mocrow03_Description_2" korean="얼음창" />
+	<block key="mocrow04_Name" korean="생명의 부활" />
+	<block key="mocrow04_Description_1" korean="생명의 부활" />
+	<block key="mocrow05_Name" korean="치유" />
+	<block key="mocrow05_Description_1" korean="치유" />
+	<block key="mocrow06_Name" korean="치유" />
+	<block key="mocrow06_Description_1" korean="치유" />
+	<block key="mocrow07_Name" korean="강화석 파괴" />
+	<block key="mocrow07_Description_1" korean="강화석 파괴" />
+	<block key="modarkmage01_Name" korean="치유" />
+	<block key="modarkmage01_Description_1" korean="치유" />
+	<block key="modarkmage02_Name" korean="치유" />
+	<block key="modarkmage02_Description_1" korean="치유" />
+	<block key="modarkmage03_Name" korean="어둠의 주술" />
+	<block key="modarkmage03_Description_1" korean="어둠의 주술" />
+	<block key="modarkmage04_Name" korean="어둠의 번개" />
+	<block key="modarkmage04_Description_1" korean="어둠의 번개" />
+	<block key="modarkman01_Name" korean="단검 던지기" />
+	<block key="modarkman01_Description_1" korean="단검 던지기" />
+	<block key="modarkman02_Name" korean="물러나며 활 쏘기" />
+	<block key="modarkman02_Description_1" korean="물러나며 활 쏘기" />
+	<block key="modarksummoner01_Name" korean="좀비 깨우기" />
+	<block key="modarksummoner01_Description_1" korean="좀비 깨우기" />
+	<block key="modiseasecloud01_Name" korean="역병 구름(적용)" />
+	<block key="modiseasecloud01_Description_1" korean="역병 구름(적용)" />
+	<block key="modiseasecloud02_Name" korean="역병 구름(발생)" />
+	<block key="modiseasecloud02_Description_1" korean="역병 구름(발생)" />
+	<block key="modstoneice_Name" korean="빙판 지역" />
+	<block key="modstoneice_Description_1" korean="빙판 지역" />
+	<block key="moelecboob01_name_Name" korean="방전된 에너지" />
+	<block key="moelecboob01_name_Description_1" korean="방전된 에너지" />
+	<block key="mofactionneutral_Name" korean="팩션 변경(중립)" />
+	<block key="mofactionneutral_Description_1" korean="팩션 변경(중립)" />
+	<block key="mofairy01_Name" korean="요정의 빛" />
+	<block key="mofairy01_Description_1" korean="요정의 빛" />
+	<block key="mofairy02_Name" korean="빛의 보호" />
+	<block key="mofairy02_Description_1" korean="빛의 보호" />
+	<block key="mofairy03_Name" korean="무기력" />
+	<block key="mofairy03_Description_1" korean="무기력" />
+	<block key="mofellowmode01_Name" korean="펠로우 공격 모드" />
+	<block key="mofellowmode01_Description_1" korean="펠로우 공격 모드" />
+	<block key="mofloatfish01_Name" korean="독 뿜기" />
+	<block key="mofloatfish01_Description_1" korean="돔 뿜기" />
+	<block key="mofirebird01_Name" korean="불꽃 뱉기" />
+	<block key="mofirebird01_Description_1" korean="불꽃 뱉기" />
+	<block key="mofirebird02_Name" korean="거대 화염구" />
+	<block key="mofirebird02_Description_1" korean="거대 화염구" />
+	<block key="mofiregolem01_Name" korean="화염 폭탄 바위 소환" />
+	<block key="mofiregolem01_Description_1" korean="화염 폭탄 바위 소환" />
+	<block key="mofiregolem02_Name" korean="불꽃의 대지 가르기" />
+	<block key="mofiregolem02_Description_1" korean="불꽃의 대지 가르기" />
+	<block key="mofiregolem03_Name" korean="화염 폭탄 바위 소환" />
+	<block key="mofiregolem03_Description_1" korean="화염 폭탄 바위 소환" />
+	<block key="mofiregolem04_Name" korean="불 붙이기" />
+	<block key="mofiregolem04_Description_1" korean="불 붙이기" />
+	<block key="mofiregolem05_Name" korean="불꽃의 대지 가르기" />
+	<block key="mofiregolem05_Description_1" korean="불꽃의 대지 가르기" />
+	<block key="mofireguard01_Name" korean="화염 주먹" />
+	<block key="mofireguard01_Description_1" korean="화염 주먹" />
+	<block key="mofireobj01_Name" korean="뜨거운 불길" />
+	<block key="mofireobj01_Description_1" korean="뜨거운 불길" />
+	<block key="mofireobj02_Name" korean="불 속성수치 증가" />
+	<block key="mofireobj02_Description_1" korean="불 속성수치 증가" />
+	<block key="mogargonail01_Name" korean="죽음의 손톱" />
+	<block key="mogargonail01_Description_1" korean="죽음의 손톱" />
+	<block key="mogargomine01_Name" korean="암석 지뢰" />
+	<block key="mogargomine01_Description_1" korean="암석 지뢰" />
+	<block key="mogust01_Name" korean="흡혈" />
+	<block key="mogust01_Description_1" korean="흡혈" />
+	<block key="mogust02_Name" korean="배치기" />
+	<block key="mogust02_Description_1" korean="배치기" />
+	<block key="mogust03_Name" korean="후라이팬 강타" />
+	<block key="mogust03_Description_1" korean="후라이팬 강타" />
+	<block key="mogust04_Name" korean="요리사의 분노" />
+	<block key="mogust04_Description_1" korean="요리사의 분노" />
+	<block key="mogust05_Name" korean="분노의 배치기" />
+	<block key="mogust05_Description_1" korean="분노의 배치기" />
+	<block key="mogust06_Name" korean="흡혈" />
+	<block key="mogust06_Description_1" korean="흡혈" />
+	<block key="mogust07_Name" korean="재료 다지기" />
+	<block key="mogust07_Description_1" korean="재료 다지기" />
+	<block key="moramb01_Name" korean="심연의 종소리" />
+	<block key="moramb01_Description_1" korean="심연의 종소리" />
+	<block key="moghost01_Name" korean="회복" />
+	<block key="moghost01_Description_1" korean="회복" />
+	<block key="moghost02_Name" korean="어둠의 치유" />
+	<block key="moghost02_Description_1" korean="어둠의 치유" />
+	<block key="mogolemfollower01_Name" korean="화염 입김" />
+	<block key="mogolemfollower01_Description_1" korean="화염 입김" />
+	<block key="mohealer01_Name" korean="치료" />
+	<block key="mohealer01_Description_1" korean="치료" />
+	<block key="mohump01_Name" korean="후방 노리기" />
+	<block key="mohump01_Description_1" korean="후방 노리기" />
+	<block key="mohump02_Name" korean="후방 찌르기" />
+	<block key="mohump02_Description_1" korean="후방 찌르기" />
+	<block key="mohunterj01_Name" korean="광폭화" />
+	<block key="mohunterj01_Description_1" korean="광폭화" />
+	<block key="mohunterj02_Name" korean="사냥 개시" />
+	<block key="mohunterj02_Description_1" korean="사냥 개시" />
+	<block key="moicecrystal01_Name" korean="냉기 지역" />
+	<block key="moicecrystal01_Description_1" korean="냉기 지역" />
+	<block key="moicecrystal02_Name" korean="냉기 지역" />
+	<block key="moicecrystal02_Description_1" korean="냉기 지역" />
+	<block key="moiceorb01_Name" korean="냉기 영역" />
+	<block key="moiceorb01_Description_1" korean="냉기 영역" />
+	<block key="moicesentry01_Name" korean="얼음검 베기" />
+	<block key="moicesentry01_Description_1" korean="얼음검 베기" />
+	<block key="moimp01_Name" korean="정신력 흡수" />
+	<block key="moimp01_Description_1" korean="정신력 흡수" />
+	<block key="moimmomage01_Name" korean="꿈 흡수" />
+	<block key="moimmomage01_Description_1" korean="꿈 흡수" />
+	<block key="moimmomage02_Name" korean="어둠의 화살" />
+	<block key="moimmomage02_Description_1" korean="어둠의 화살" />
+	<block key="moimmos01_Name" korean="어두운 욕망" />
+	<block key="moimmos01_Description_1" korean="어두운 욕망" />
+	<block key="moimmune_physic_Name" korean="물리면역" />
+	<block key="moimmune_physic_Description_1" korean="물리면역" />
+	<block key="moimmunebody_Name" korean="Body이뮨" />
+	<block key="moimmunebody_Description_1" korean="Body이뮨" />
+	<block key="moimmoimp03_Name" korean="군단의 축복" />
+	<block key="moimmoimp03_Description_1" korean="군단의 축복" />
+	<block key="moimmoimpsu01_Name" korean="신전 가고일 소환" />
+	<block key="moimmoimpsu01_Description_1" korean="신전 가고일 소환" />
+	<block key="moimmogorak01_Name" korean="암석 가고일 소환" />
+	<block key="moimmogorak01_Description_1" korean="암석 가고일 소환" />
+	<block key="moimmosoldi01_Name" korean="암흑의 그물" />
+	<block key="moimmosoldi01_Description_1" korean="암흑의 그물" />
+	<block key="moimmoimp01_Name" korean="어둠의 탄막" />
+	<block key="moimmoimp01_Description_1" korean="어둠의 탄막" />
+	<block key="moimmoimp02_Name" korean="어둠의 탄막" />
+	<block key="moimmoimp02_Description_1" korean="어둠의 탄막" />
+	<block key="moimmoura01_Name" korean="트리플 슬래쉬" />
+	<block key="moimmoura01_Description_1" korean="트리플 슬래쉬" />
+	<block key="moinsense_Name" korean="무감각" />
+	<block key="moinsense_Description_1" korean="무감각" />
+	<block key="moinspector01_Name" korean="재촉하기" />
+	<block key="moinspector01_Description_1" korean="재촉하기" />
+	<block key="moinspector02_Name" korean="바위 들기" />
+	<block key="moinspector02_Description_1" korean="바위 들기" />
+	<block key="moinspector03_Name" korean="바위 놓침" />
+	<block key="moinspector03_Description_1" korean="바위 놓침" />
+	<block key="moinspector04_Name" korean="바위 파편" />
+	<block key="moinspector04_Description_1" korean="바위 파편" />
+	<block key="moinspector06_Name" korean="바위 던지기" />
+	<block key="moinspector06_Description_1" korean="바위 던지기" />
+	<block key="moinspector07_Name" korean="세게 치기" />
+	<block key="moinspector07_Description_1" korean="세게 치기" />
+	<block key="moinspector08_Name" korean="바위 파편" />
+	<block key="moinspector08_Description_1" korean="바위 파편" />
+	<block key="moinspector09_Name" korean="방패 치기" />
+	<block key="moinspector09_Description_1" korean="방패 치기" />
+	<block key="moinspector10_Name" korean="세게 치기" />
+	<block key="moinspector10_Description_1" korean="세게 치기" />
+	<block key="moiren01_Name" korean="거대 우박" />
+	<block key="moiren01_Description_1" korean="거대 우박" />
+	<block key="moiren02_Name" korean="혹한의 우박" />
+	<block key="moiren02_Description_1" korean="혹한의 우박" />
+	<block key="moiren03_Name" korean="우박 충격" />
+	<block key="moiren03_Description_1" korean="우박 충격" />
+	<block key="moiren04_Name" korean="혹한의 보호막" />
+	<block key="moiren04_Description_1" korean="혹한의 보호막" />
+	<block key="moiren05_Name" korean="공포의 유혹" />
+	<block key="moiren05_Description_1" korean="공포의 유혹" />
+	<block key="moiren06_Name" korean="혹한의 보호막" />
+	<block key="moiren06_Description_1" korean="혹한의 보호막" />
+	<block key="mojenkit01_Name" korean="광신도 소환" />
+	<block key="mojenkit01_Description_1" korean="광신도 소환" />
+	<block key="mojenkit02_Name" korean="끈적한 올가미" />
+	<block key="mojenkit02_Description_1" korean="끈적한 올가미" />
+	<block key="mojenkit03_Name" korean="강철 턱" />
+	<block key="mojenkit03_Description_1" korean="강철 턱" />
+	<block key="mojenkit04_Name" korean="폭주" />
+	<block key="mojenkit04_Description_1" korean="폭주" />
+	<block key="mojeranin01_Name" korean="죽음의 기운" />
+	<block key="mojeranin01_Description_1" korean="죽음의 기운" />
+	<block key="mojeranin02_Name" korean="죽음의 도끼" />
+	<block key="mojeranin02_Description_1" korean="죽음의 도끼" />
+	<block key="mokaleangbefore01_Name" korean="광기의 흡혈" />
+	<block key="mokaleangbefore01_Description_1" korean="광기의 흡혈" />
+	<block key="mokaleangbefore02_Name" korean="증오의 파편" />
+	<block key="mokaleangbefore02_Description_1" korean="증오의 파편" />
+	<block key="mokaleangbefore03_Name" korean="무력화" />
+	<block key="mokaleangbefore03_Description_1" korean="무력화" />
+	<block key="mokaleangbefore04_Name" korean="암흑의 사도 변신" />
+	<block key="mokaleangbefore04_Description_1" korean="암흑의 사도 변신" />
+	<block key="mokaleangbefore05_Name" korean="소환" />
+	<block key="mokaleangbefore05_Description_1" korean="소환" />
+	<block key="mokaleangafter01_Name" korean="증오의 박쥐떼" />
+	<block key="mokaleangafter01_Description_1" korean="증오의 박쥐떼" />
+	<block key="mokaleangafter02_Name" korean="파멸의 쐐기" />
+	<block key="mokaleangafter02_Description_1" korean="파멸의 쐐기" />
+	<block key="mokaleangafter03_Name" korean="피의 분노" />
+	<block key="mokaleangafter03_Description_1" korean="피의 분노" />
+	<block key="mokaleangafter04_Name" korean="어둠의 흡혈" />
+	<block key="mokaleangafter04_Description_1" korean="어둠의 흡혈" />
+	<block key="mokamila01_Name" korean="흡혈 마법진" />
+	<block key="mokamila01_Description_1" korean="흡혈 마법진" />
+	<block key="mokamila02_Name" korean="붉은 번개" />
+	<block key="mokamila02_Description_1" korean="붉은 번개" />
+	<block key="mokamila03_Name" korean="선혈의 축제" />
+	<block key="mokamila03_Description_1" korean="선혈의 축제" />
+	<block key="mokamila04_Name" korean="해골 되살리기" />
+	<block key="mokamila04_Description_1" korean="해골 되살리기" />
+	<block key="mokeply01_Name" korean="치유" />
+	<block key="mokeply01_Description_1" korean="치유" />
+	<block key="mokeply02_Name" korean="회복" />
+	<block key="mokeply02_Description_1" korean="회복" />
+	<block key="mokeply03_Name" korean="별똥별" />
+	<block key="mokeply03_Description_1" korean="별똥별" />
+	<block key="mokeply04_Name" korean="차가운 기운" />
+	<block key="mokeply04_Description_1" korean="차가운 기운" />
+	<block key="mokeply05_Name" korean="최후의 속삭임" />
+	<block key="mokeply05_Description_1" korean="최후의 속삭임" />
+	<block key="mokeply06_Name" korean="숭고한 희생" />
+	<block key="mokeply06_Description_1" korean="숭고한 희생" />
+	<block key="mokeply07_Name" korean="빛의 징벌" />
+	<block key="mokeply07_Description_1" korean="빛의 징벌" />
+	<block key="mokilian01_Name" korean="혹한의 기운" />
+	<block key="mokilian01_Description_1" korean="혹한의 기운" />
+	<block key="mokilian02_Name" korean="차가운 분노의 일격" />
+	<block key="mokilian02_Description_1" korean="차가운 분노의 일격" />
+	<block key="mokilian03_Name" korean="얼음 송곳" />
+	<block key="mokilian03_Description_1" korean="얼음 송곳" />
+	<block key="mokilian04_Name" korean="얼음 송곳" />
+	<block key="mokilian04_Description_1" korean="얼음 송곳" />
+	<block key="mokilian05_Name" korean="물의 토템" />
+	<block key="mokilian05_Description_1" korean="물의 토템" />
+	<block key="mokilian06_Name" korean="물의 토템" />
+	<block key="mokilian06_Description_1" korean="물의 토템" />
+	<block key="moleodark01_Name" korean="어둠의 그늘" />
+	<block key="moleodark01_Description_1" korean="어둠의 그늘" />
+	<block key="moleodark02_Name" korean="검은 발톱 할퀴기" />
+	<block key="moleodark02_Description_1" korean="검은 발톱 할퀴기" />
+	<block key="moleodark03_Name" korean="어둠의 이빨" />
+	<block key="moleodark03_Description_1" korean="어둠의 이빨" />
+	<block key="moleopard01_Name" korean="세게 물기" />
+	<block key="moleopard01_Description_1" korean="세게 물기" />
+	<block key="moleopard01_Description_2" korean="세게 물기" />
+	<block key="moleopard02_Name" korean="포효" />
+	<block key="moleopard02_Description_1" korean="포효" />
+	<block key="molielow01_Name" korean="은신" />
+	<block key="molielow01_Description_1" korean="은신" />
+	<block key="moliflower01_Name" korean="빛 흡수" />
+	<block key="moliflower01_Description_1" korean="빛 흡수" />
+	<block key="molivingdoor01_Name" korean="혹한의 눈보라" />
+	<block key="molivingdoor01_Description_1" korean="혹한의 눈보라" />
+	<block key="molishule01_Name" korean="어둠의 폭발" />
+	<block key="molishule01_Description_1" korean="어둠의 폭발" />
+	<block key="molishule02_Name" korean="어둠의 번개" />
+	<block key="molishule02_Description_1" korean="어둠의 번개" />
+	<block key="molishule03_Name" korean="해골 병사 소환" />
+	<block key="molishule03_Description_1" korean="해골 병사 소환" />
+	<block key="momatu01_Name" korean="무기 강화" />
+	<block key="momatu01_Description_1" korean="무기 강화" />
+	<block key="momatu02_Name" korean="차가운 땅울림" />
+	<block key="momatu02_Description_1" korean="차가운 땅울림" />
+	<block key="momatu03_Name" korean="얼음 망치 강타" />
+	<block key="momatu03_Description_1" korean="얼음 망치 강타" />
+	<block key="momatu04_Name" korean="차가운 땅울림" />
+	<block key="momatu04_Description_1" korean="차가운 땅울림" />
+	<block key="momatu05_Name" korean="차가운 땅울림(연속)" />
+	<block key="momatu05_Description_1" korean="차가운 땅울림(연속)" />
+	<block key="momatu06_Name" korean="차가운 땅울림(연속)" />
+	<block key="momatu06_Description_1" korean="차가운 땅울림(연속)" />
+	<block key="momatu07_Name" korean="차가운 땅울림(연속)" />
+	<block key="momatu07_Description_1" korean="차가운 땅울림(연속)" />
+	<block key="momatu08_Name" korean="마투콘틴의 분노" />
+	<block key="momatu08_Description_1" korean="마투콘틴의 분노" />
+	<block key="momatu09_Name" korean="냉기핵 소환" />
+	<block key="momatu09_Description_1" korean="냉기핵 소환" />
+	<block key="momoorumi01_Name" korean="밀어내기" />
+	<block key="momoorumi01_Description_1" korean="밀어내기" />
+	<block key="momoorumi02_Name" korean="돌격" />
+	<block key="momoorumi02_Description_1" korean="돌격" />
+	<block key="momoorumi03_Name" korean="돌격" />
+	<block key="momoorumi03_Description_1" korean="돌격" />
+	<block key="momoorumib01_Name" korean="세게 치기" />
+	<block key="momoorumib01_Description_1" korean="세게 치기" />
+	<block key="momoorumib02_Name" korean="지면 타격" />
+	<block key="momoorumib02_Description_1" korean="지면 타격" />
+	<block key="momoorumib03_Name" korean="포효" />
+	<block key="momoorumib03_Description_1" korean="포효" />
+	<block key="momoorumib04_Name" korean="최후의 저항" />
+	<block key="momoorumib04_Description_1" korean="최후의 저항" />
+	<block key="momoorumib05_Name" korean="분노" />
+	<block key="momoorumib05_Description_1" korean="분노" />
+	<block key="momoorumib06_Name" korean="무기 돌리기" />
+	<block key="momoorumib06_Description_1" korean="무기 돌리기" />
+	<block key="momoorumib07_Name" korean="무기 돌리기" />
+	<block key="momoorumib07_Description_1" korean="무기 돌리기" />
+	<block key="momoorumib08_Name" korean="지면 타격" />
+	<block key="momoorumib08_Description_1" korean="지면 타격" />
+	<block key="momoorumib09_Name" korean="지면 타격" />
+	<block key="momoorumib09_Description_1" korean="지면 타격" />
+	<block key="momoorumiw01_Name" korean="냉기 보호막" />
+	<block key="momoorumiw01_Description_1" korean="냉기 보호막" />
+	<block key="momoorumiw02_Name" korean="치유" />
+	<block key="momoorumiw02_Description_1" korean="치유" />
+	<block key="momoorumiw03_Name" korean="그물 던지기" />
+	<block key="momoorumiw03_Description_1" korean="그물 던지기" />
+	<block key="momoorumiw04_Name" korean="투창" />
+	<block key="momoorumiw04_Description_1" korean="투창" />
+	<block key="momoorumiw05_Name" korean="집중의 화살" />
+	<block key="momoorumiw05_Description_1" korean="집중의 화살" />
+	<block key="momoorumiw06_Name" korean="독화살 뿌리기" />
+	<block key="momoorumiw06_Description_1" korean="독화살 뿌리기" />
+	<block key="momoorumiw07_Name" korean="집중의 오라" />
+	<block key="momoorumiw07_Description_1" korean="집중의 오라" />
+	<block key="momoorumiw08_Name" korean="대사제의 치유" />
+	<block key="momoorumiw08_Description_1" korean="대사제의 치유" />
+	<block key="momoorumiw09_Name" korean="물방울 가두기" />
+	<block key="momoorumiw09_Description_1" korean="물방울 가두기" />
+	<block key="momoorumiw10_Name" korean="물의 보호" />
+	<block key="momoorumiw10_Description_1" korean="물의 보호" />
+	<block key="momoorumiw11_Name" korean="일격의 투창" />
+	<block key="momoorumiw11_Description_1" korean="일격의 투창" />
+	<block key="momoorumiw12_Name" korean="간혈천" />
+	<block key="momoorumiw12_Description_1" korean="간혈천" />
+	<block key="momoorumiw13_Name" korean="간혈천" />
+	<block key="momoorumiw13_Description_1" korean="간혈천" />
+	<block key="monpc01_Name" korean="생명력 회복" />
+	<block key="monpc01_Description_1" korean="생명력 회복" />
+	<block key="mooctopus01_Name" korean="먹물 구름" />
+	<block key="mooctopus01_Description_1" korean="먹물 구름" />
+	<block key="mooctopus02_Name" korean="먹물 뱉기" />
+	<block key="mooctopus02_Description_1" korean="먹물 뱉기" />
+	<block key="mopatriarch01_Name" korean="세게 치기" />
+	<block key="mopatriarch01_Description_1" korean="세게 치기" />
+	<block key="mopatriarch02_Name" korean="세게 치기" />
+	<block key="mopatriarch02_Description_1" korean="세게 치기" />
+	<block key="mopatriarch03_Name" korean="재촉하기" />
+	<block key="mopatriarch03_Description_1" korean="재촉하기" />
+	<block key="mopatriarch05_Name" korean="세게 치기" />
+	<block key="mopatriarch05_Description_1" korean="세게 치기" />
+	<block key="mopatriarch06_Name" korean="세게 치기" />
+	<block key="mopatriarch06_Description_1" korean="세게 치기" />
+	<block key="mopirate01_Name" korean="칼 던지기" />
+	<block key="mopirate01_Description_1" korean="칼 던지기" />
+	<block key="mopirate02_Name" korean="전투력 강화" />
+	<block key="mopirate02_Description_1" korean="전투력 강화" />
+	<block key="mopirate03_Name" korean="단검 뿌리기" />
+	<block key="mopirate03_Description_1" korean="단검 뿌리기" />
+	<block key="mopirate04_Name" korean="후방 이동" />
+	<block key="mopirate04_Description_1" korean="후방 이동" />
+	<block key="mopirate05_Name" korean="단검 뿌리기" />
+	<block key="mopirate05_Description_1" korean="단검 뿌리기" />
+	<block key="mopirate06_Name" korean="보호의 주문" />
+	<block key="mopirate06_Description_1" korean="보호의 주문" />
+	<block key="mopirate07_Name" korean="치료의 주문" />
+	<block key="mopirate07_Description_1" korean="치료의 주문" />
+	<block key="mopirate08_Name" korean="얼음 마법의 주문" />
+	<block key="mopirate08_Description_1" korean="얼음 마법의 주문" />
+	<block key="mopirate09_Name" korean="해적의 분노" />
+	<block key="mopirate09_Description_1" korean="해적의 분노" />
+	<block key="mopirate10_Name" korean="보물 감시자 부르기" />
+	<block key="mopirate10_Description_1" korean="보물 감시자 부르기" />
+	<block key="mopirate11_Name" korean="포이즌 블레이드" />
+	<block key="mopirate11_Description_1" korean="포이즌 블레이드" />
+	<block key="mopirateguard01_Name" korean="어깨 치기" />
+	<block key="mopirateguard01_Description_1" korean="어깨 치기" />
+	<block key="mopiratew01_Name" korean="치유 물약" />
+	<block key="mopiratew01_Description_1" korean="치유 물약" />
+	<block key="mopiratew02_Name" korean="강화 물약" />
+	<block key="mopiratew02_Description_1" korean="강화 물약" />
+	<block key="mopiratew03_Name" korean="하단 베기" />
+	<block key="mopiratew03_Description_1" korean="하단 베기" />
+	<block key="mopiratew04_Name" korean="산성 물약" />
+	<block key="mopiratew04_Description_1" korean="산성 물약" />
+	<block key="mopiratew05_Name" korean="산성 물약" />
+	<block key="mopiratew05_Description_1" korean="산성 물약" />
+	<block key="mopiratew06_Name" korean="산성 지대 생성" />
+	<block key="mopiratew06_Description_1" korean="산성 지대 생성" />
+	<block key="mopiratew07_Name" korean="악독한 일격" />
+	<block key="mopiratew07_Description_1" korean="악독한 일격" />
+	<block key="moposearrow01_Name" korean="독화살 뿌리기" />
+	<block key="moposearrow01_Description_1" korean="독화살 뿌리기" />
+	<block key="morabbit01_Name" korean="약올리기" />
+	<block key="morabbit01_Description_1" korean="약올리기" />
+	<block key="morabbit04_Name" korean="호박 폭탄" />
+	<block key="morabbit04_Description_1" korean="호박 폭탄" />
+	<block key="moradan01_Name" korean="침묵의 권능" />
+	<block key="moradan01_Description_1" korean="침묵의 권능" />
+	<block key="moradan02_Name" korean="지배의 권능" />
+	<block key="moradan02_Description_1" korean="지배의 권능" />
+	<block key="moradan03_Name" korean="치유의 권능" />
+	<block key="moradan03_Description_1" korean="치유의 권능" />
+	<block key="moradan04_Name" korean="무력화" />
+	<block key="moradan04_Description_1" korean="무력화" />
+	<block key="moradan05_Name" korean="권능의 발현" />
+	<block key="moradan05_Description_1" korean="라단의 권능이 발현하여 강화된 상태" />
+	<block key="moradan06_Name" korean="침묵의 권능" />
+	<block key="moradan06_Description_1" korean="침묵의 권능" />
+	<block key="moradan07_Name" korean="치유의 권능" />
+	<block key="moradan07_Description_1" korean="치유의 권능" />
+	<block key="moradan08_Name" korean="지배의 권능" />
+	<block key="moradan08_Description_1" korean="지배의 권능" />
+	<block key="morebguard01_Name" korean="얼음검 베기" />
+	<block key="morebguard01_Description_1" korean="얼음검 베기" />
+	<block key="morebbow01_Name" korean="차가운 얼음 화살" />
+	<block key="morebbow01_Description_1" korean="차가운 얼음 화살" />
+	<block key="morebmag01_Name" korean="날카로운 얼음창" />
+	<block key="morebmag01_Description_1" korean="날카로운 얼음창" />
+	<block key="morebsol01_Name" korean="얼음 방벽" />
+	<block key="morebsol01_Description_1" korean="얼음 방벽" />
+	<block key="morebmud01_Name" korean="도끼 휘두르기" />
+	<block key="morebmud01_Description_1" korean="도끼 휘두르기" />
+	<block key="morebwiz01_Name" korean="얼음 기운 주입" />
+	<block key="morebwiz01_Description_1" korean="얼음 기운 주입" />
+	<block key="moreggauge01_Name" korean="화상 면역" />
+	<block key="moreggauge01_Description_1" korean="화상 면역" />
+	<block key="moreggauge02_Name" korean="동상 면역" />
+	<block key="moreggauge02_Description_1" korean="동상 면역" />
+	<block key="moreindeer01_Name" korean="치유의 뿔" />
+	<block key="moreindeer01_Description_1" korean="치유의 뿔" />
+	<block key="morex01_Name" korean="철퇴 돌리기" />
+	<block key="morex01_Description_1" korean="철퇴 돌리기" />
+	<block key="morex02_Name" korean="철퇴 내려치기" />
+	<block key="morex02_Description_1" korean="철퇴 내려치기" />
+	<block key="morex03_Name" korean="불지역" />
+	<block key="morex03_Description_1" korean="불지역" />
+	<block key="morex04_Name" korean="내려치기 지역" />
+	<block key="morex04_Description_1" korean="내려치기 지역" />
+	<block key="morex05_Name" korean="불기운 주입" />
+	<block key="morex05_Description_1" korean="불기운 주입" />
+	<block key="morex06_Name" korean="포효" />
+	<block key="morex06_Description_1" korean="포효" />
+	<block key="morex07_Name" korean="발구르기" />
+	<block key="morex07_Description_1" korean="발구르기" />
+	<block key="morex08_Name" korean="트리거" />
+	<block key="morex08_Description_1" korean="트리거" />
+	<block key="morexstone01_Name" korean="렉스 치료" />
+	<block key="morexstone01_Description_1" korean="렉스 치료" />
+	<block key="morexstone02_Name" korean="도움 요청" />
+	<block key="morexstone02_Description_1" korean="도움 요청" />
+	<block key="morhinobattler01_Name" korean="크로우 공격" />
+	<block key="morhinobattler01_Description_1" korean="크로우 공격" />
+	<block key="morhinoguard01_Name" korean="고문" />
+	<block key="morhinoguard01_Description_1" korean="고문" />
+	<block key="morideon01_Name" korean="펠로우 탑승" />
+	<block key="morideon01_Description_1" korean="펠로우 탑승" />
+	<block key="morideon02_Name" korean="펠로우 탑승" />
+	<block key="morideon02_Description_1" korean="펠로우 탑승" />
+	<block key="morideon03_Name" korean="펠로우 탑승" />
+	<block key="morideon03_Description_1" korean="펠로우 탑승" />
+	<block key="moriderdie01_Name" korean="마스터 사망" />
+	<block key="moriderdie01_Description_1" korean="마스터 사망" />
+	<block key="moriderdie01_Description_2" korean="마스터 사망" />
+	<block key="moriderdie02_Name" korean="혼란 상태" />
+	<block key="moriderdie02_Description_1" korean="혼란 상태" />
+	<block key="moriderdie02_Description_2" korean="혼란 상태" />
+	<block key="moicerondo01_Name" korean="차가운 연속 베기" />
+	<block key="moicerondo01_Description_1" korean="차가운 연속 베기" />
+	<block key="moicerondo02_Name" korean="얼음 군단장의 아우라" />
+	<block key="moicerondo02_Description_1" korean="얼음 군단장의 아우라" />
+	<block key="moicerondo03_Name" korean="서리 가르기" />
+	<block key="moicerondo03_Description_1" korean="서리 가르기" />
+	<block key="moicerondo04_Name" korean="얼음 기둥 소환" />
+	<block key="moicerondo04_Description_1" korean="얼음 기둥 소환" />
+	<block key="moicerondo05_Name" korean="얼음 군단장의 분노" />
+	<block key="moicerondo05_Description_1" korean="얼음 군단장의 분노" />
+	<block key="moicerondo06_Name" korean="서리 가르기" />
+	<block key="moicerondo06_Description_1" korean="서리 가르기" />
+	<block key="morunaway1_Name" korean="도망후 스킬 테스트" />
+	<block key="morunaway1_Description_1" korean="도망후 스킬 테스트" />
+	<block key="mosantin01_Name" korean="어퍼컷" />
+	<block key="mosantin01_Description_1" korean="어퍼컷" />
+	<block key="mosantin03_Name" korean="차가운 입김" />
+	<block key="mosantin03_Description_1" korean="차가운 입김" />
+	<block key="mosantin05_Name" korean="얼음 기둥" />
+	<block key="mosantin05_Description_1" korean="얼음 기둥" />
+	<block key="mosantin06_Name" korean="얼음 기둥" />
+	<block key="mosantin06_Description_1" korean="얼음 기둥" />
+	<block key="mosantin07_Name" korean="차가운 입김" />
+	<block key="mosantin07_Description_1" korean="차가운 입김" />
+	<block key="mosantin08_Name" korean="돌벽 부수기" />
+	<block key="mosantin08_Description_1" korean="돌벽 부수기" />
+	<block key="mosantin09_Name" korean="도망가기" />
+	<block key="mosantin09_Description_1" korean="도망가기" />
+	<block key="mosantin11_Name" korean="얼음 기둥" />
+	<block key="mosantin11_Description_1" korean="얼음 기둥" />
+	<block key="mosantinh11_Name" korean="얼음 기둥" />
+	<block key="mosantinh11_Description_1" korean="얼음 기둥" />
+	<block key="mosantin12_Name" korean="분노" />
+	<block key="mosantin12_Description_1" korean="분노" />
+	<block key="mosantin13_Name" korean="차가운 입김" />
+	<block key="mosantin13_Description_1" korean="차가운 입김" />
+	<block key="mosantin14_Name" korean="어퍼컷" />
+	<block key="mosantin14_Description_1" korean="어퍼컷" />
+	<block key="mosantin14_Description_2" korean="어퍼컷" />
+	<block key="mosantin15_Name" korean="아이렌 부르기" />
+	<block key="mosantin15_Description_1" korean="아이렌 부르기" />
+	<block key="mosantinlink01_Name" korean="서리바람 입김" />
+	<block key="mosantinlink01_Description_1" korean="서리바람 입김" />
+	<block key="mosantinlinkh01_Name" korean="서리바람 입김" />
+	<block key="mosantinlinkh01_Description_1" korean="서리바람 입김" />
+	<block key="moseaze_move_Name" korean="포획 이동" />
+	<block key="moseaze_move_Description_1" korean="포획 이동" />
+	<block key="mospecter01_Name" korean="자폭" />
+	<block key="mospecter01_Description_1" korean="자폭" />
+	<block key="moskalion01_Name" korean="집게발 교차 베기" />
+	<block key="moskalion01_Description_1" korean="집게발 교차 베기" />
+	<block key="moskalion02_Name" korean="회전베기" />
+	<block key="moskalion02_Description_1" korean="회전베기" />
+	<block key="moskelboss01_Name" korean="해골 병사 깨우기" />
+	<block key="moskelboss01_Description_1" korean="해골 병사 깨우기" />
+	<block key="moskelboss02_Name" korean="해골 병사 깨우기" />
+	<block key="moskelboss02_Description_1" korean="해골 병사 깨우기" />
+	<block key="moskillobj01_Name" korean="라이노 소환" />
+	<block key="moskillobj01_Description_1" korean="라이노 소환" />
+	<block key="moshura01_Name" korean="아포칼립스 탑승" />
+	<block key="moshura01_Description_1" korean="아포칼립스 탑승" />
+	<block key="moshura02_Name" korean="꿰뚫기" />
+	<block key="moshura02_Description_1" korean="꿰뚫기" />
+	<block key="moshura03_Name" korean="심연의 속삭임" />
+	<block key="moshura03_Description_1" korean="심연의 속삭임" />
+	<block key="moshura04_Name" korean="공포 확산" />
+	<block key="moshura04_Description_1" korean="공포 확산" />
+	<block key="moshura05_Name" korean="정신 분열" />
+	<block key="moshura05_Description_1" korean="정신 분열" />
+	<block key="moshura06_Name" korean="나약한 의지" />
+	<block key="moshura06_Description_1" korean="나약한 의지" />
+	<block key="moshura07_Name" korean="검은 돌풍" />
+	<block key="moshura07_Description_1" korean="검은 돌풍" />
+	<block key="moshura08_Name" korean="검은 돌풍" />
+	<block key="moshura08_Description_1" korean="검은 돌풍" />
+	<block key="mosnake01_Name" korean="뱀독" />
+	<block key="mosnake01_Description_1" korean="뱀독" />
+	<block key="mosnowbrave01_Name" korean="눈덩이 던지기" />
+	<block key="mosnowbrave01_Description_1" korean="눈덩이 던지기" />
+	<block key="mosnowbrave02_Name" korean="눈덩이 폭발" />
+	<block key="mosnowbrave02_Description_1" korean="눈덩이 폭발" />
+	<block key="mosnowhunter01_Name" korean="차가운 얼음창" />
+	<block key="mosnowhunter01_Description_1" korean="차가운 얼음창" />
+	<block key="mosnowhunter02_Name" korean="약초 먹기" />
+	<block key="mosnowhunter02_Description_1" korean="약초 먹기" />
+	<block key="mosnowman01_Name" korean="냉기 주입" />
+	<block key="mosnowman01_Description_1" korean="냉기 주입" />
+	<block key="mosnowshaman01_Name" korean="얼음창" />
+	<block key="mosnowshaman01_Description_1" korean="얼음창" />
+	<block key="mosnowshaman02_Name" korean="냉기 보호막" />
+	<block key="mosnowshaman02_Description_1" korean="냉기 보호막" />
+	<block key="mosnowshaman03_Name" korean="냉기 보호막" />
+	<block key="mosnowshaman03_Description_1" korean="냉기 보호막" />
+	<block key="mosnowwarrior01_Name" korean="강화" />
+	<block key="mosnowwarrior01_Description_1" korean="강화" />
+	<block key="mospider01_Name" korean="거미독" />
+	<block key="mospider01_Description_1" korean="거미독" />
+	<block key="mosummoner01_Name" korean="자폭" />
+	<block key="mosummoner01_Description_1" korean="자폭" />
+	<block key="mosummoner03_Name" korean="시한 자폭" />
+	<block key="mosummoner03_Description_1" korean="시한 자폭" />
+	<block key="motiger01_Name" korean="앞발 치기" />
+	<block key="motiger01_Description_1" korean="앞발 치기" />
+	<block key="motor01_Name" korean="모아 쏘기" />
+	<block key="motor01_Description_1" korean="모아 쏘기" />
+	<block key="motamus01_Name" korean="해골병사 소환" />
+	<block key="motamus01_Description_1" korean="해골병사 소환" />
+	<block key="motaming01_Name" korean="그로기" />
+	<block key="motaming01_Description_1" korean="그로기" />
+	<block key="motaming01pon_Name" korean="불꽃의 기운" />
+	<block key="motaming01pon_Description_1" korean="불꽃의 기운" />
+	<block key="motaming01poe_Name" korean="기운(독, 정예)" />
+	<block key="motaming01poe_Description_1" korean="기운(독, 정예)" />
+	<block key="motaming01poh_Name" korean="기운(독, 영웅)" />
+	<block key="motaming01poh_Description_1" korean="기운(독, 영웅)" />
+	<block key="motaming01fin_Name" korean="기운(불, 일반)" />
+	<block key="motaming01fin_Description_1" korean="기운(불, 일반)" />
+	<block key="motaming01fie_Name" korean="드래곤 인장" />
+	<block key="motaming01fie_Description_1" korean="드래곤 인장" />
+	<block key="motaming01fih_Name" korean="기운(불, 영웅)" />
+	<block key="motaming01fih_Description_1" korean="기운(불, 영웅)" />
+	<block key="motaming01icn_Name" korean="기운(얼음, 일반)" />
+	<block key="motaming01icn_Description_1" korean="기운(얼음, 일반)" />
+	<block key="motaming01ice_Name" korean="기운(얼음, 정예)" />
+	<block key="motaming01ice_Description_1" korean="기운(얼음, 정예)" />
+	<block key="motaming01ich_Name" korean="기운(얼음, 영웅)" />
+	<block key="motaming01ich_Description_1" korean="기운(얼음, 영웅)" />
+	<block key="motaming01lin_Name" korean="기운(빛, 일반)" />
+	<block key="motaming01lin_Description_1" korean="기운(빛, 일반)" />
+	<block key="motaming01lie_Name" korean="기운(빛, 정예)" />
+	<block key="motaming01lie_Description_1" korean="기운(빛, 정예)" />
+	<block key="motaming01lih_Name" korean="기운(빛, 영웅)" />
+	<block key="motaming01lih_Description_1" korean="기운(빛, 영웅)" />
+	<block key="motaming01dan_Name" korean="기운(어둠, 일반)" />
+	<block key="motaming01dan_Description_1" korean="기운(어둠, 일반)" />
+	<block key="motaming01dae_Name" korean="기운(어둠, 정예)" />
+	<block key="motaming01dae_Description_1" korean="기운(어둠, 정예)" />
+	<block key="motaming01dah_Name" korean="기운(어둠, 영웅)" />
+	<block key="motaming01dah_Description_1" korean="기운(어둠, 영웅)" />
+	<block key="motaming02_Name" korean="그로기" />
+	<block key="motaming02_Description_1" korean="그로기" />
+	<block key="motaming03_Name" korean="사냥감 발견" />
+	<block key="motaming03_Description_1" korean="사냥감 발견" />
+	<block key="motaming04_Name" korean="사냥감 먹기" />
+	<block key="motaming04_Description_1" korean="사냥감 먹기" />
+	<block key="motaming05_Name" korean="사냥감 덮치기" />
+	<block key="motaming05_Description_1" korean="사냥감 덮치기" />
+	<block key="motaming06_Name" korean="우루 조각상 공격" />
+	<block key="motaming06_Description_1" korean="우루 조각상 공격" />
+	<block key="motaming07_Name" korean="우루 조각상 파괴" />
+	<block key="motaming07_Description_1" korean="우루 조각상 파괴" />
+	<block key="motaming08_Name" korean="우루 조각상 발견" />
+	<block key="motaming08_Description_1" korean="우루 조각상 발견" />
+	<block key="motaming06a_Name" korean="고기 먹기" />
+	<block key="motaming06a_Description_1" korean="고기 먹기" />
+	<block key="motaming06d_Name" korean="고기 먹기" />
+	<block key="motaming06d_Description_1" korean="고기 먹기" />
+	<block key="motaming07a_Name" korean="고기 먹기 완료" />
+	<block key="motaming07a_Description_1" korean="고기 먹기 완료" />
+	<block key="motaming07d_Name" korean="고기 먹기 완료" />
+	<block key="motaming07d_Description_1" korean="고기 먹기 완료" />
+	<block key="motaming08a_Name" korean="고기 발견" />
+	<block key="motaming08a_Description_1" korean="고기 발견" />
+	<block key="motaming13_Name" korean="사냥감 발견" />
+	<block key="motaming13_Description_1" korean="사냥감 발견" />
+	<block key="motaming14_Name" korean="사냥감 먹기" />
+	<block key="motaming14_Description_1" korean="사냥감 먹기" />
+	<block key="motaming15_Name" korean="사냥감 덮치기" />
+	<block key="motaming15_Description_1" korean="사냥감 덮치기" />
+	<block key="motaming16_Name" korean="수정초 먹기" />
+	<block key="motaming16_Description_1" korean="수정초 먹기" />
+	<block key="motaming17_Name" korean="수정초 먹기 완료" />
+	<block key="motaming17_Description_1" korean="수정초 먹기 완료" />
+	<block key="motaming18_Name" korean="수정초 발견" />
+	<block key="motaming18_Description_1" korean="수정초 발견" />
+	<block key="motaming23_Name" korean="사냥감 발견" />
+	<block key="motaming23_Description_1" korean="사냥감 발견" />
+	<block key="motaming24_Name" korean="사냥감 먹기" />
+	<block key="motaming24_Description_1" korean="사냥감 먹기" />
+	<block key="motaming25_Name" korean="사냥감 덮치기" />
+	<block key="motaming25_Description_1" korean="사냥감 덮치기" />
+	<block key="motaming26_Name" korean="벌꿀 먹기" />
+	<block key="motaming26_Description_1" korean="벌꿀 먹기" />
+	<block key="motaming27_Name" korean="벌꿀 먹기 완료" />
+	<block key="motaming27_Description_1" korean="벌꿀 먹기 완료" />
+	<block key="motaming28_Name" korean="벌꿀 발견" />
+	<block key="motaming28_Description_1" korean="벌꿀 발견" />
+	<block key="motamingfail_roar_Name" korean="포효" />
+	<block key="motamingfail_roar_Description_1" korean="포효" />
+	<block key="motamingride_Name" korean="길들이기" />
+	<block key="motamingride_Description_1" korean="길들이기" />
+	<block key="motree01_Name" korean="켈로네 회복" />
+	<block key="motree01_Description_1" korean="켈로네 회복" />
+	<block key="moturtle01_Name" korean="껍질 숨기" />
+	<block key="moturtle01_Description_1" korean="껍질 숨기" />
+	<block key="moturtle02_Name" korean="칼날 껍질 회전" />
+	<block key="moturtle02_Description_1" korean="칼날 껍질 회전" />
+	<block key="moturtle03_Name" korean="껍질 숨기 해제" />
+	<block key="moturtle03_Description_1" korean="껍질 숨기 해제" />
+	<block key="moturtle04_Name" korean="거북이 회전 공격 중지" />
+	<block key="moturtle04_Description_1" korean="거북이 회전 공격 중지" />
+	<block key="moturtlefire01_Name" korean="화염구" />
+	<block key="moturtlefire01_Description_1" korean="화염구" />
+	<block key="movamp_Name" korean="흡혈귀" />
+	<block key="movamp_Description_1" korean="흡혈귀" />
+	<block key="movampire01_Name" korean="날리기" />
+	<block key="movampire01_Description_1" korean="날리기" />
+	<block key="movampire02_Name" korean="피 폭발" />
+	<block key="movampire02_Description_1" korean="피 폭발" />
+	<block key="movampire03_Name" korean="피의 기둥" />
+	<block key="movampire03_Description_1" korean="피의 기둥" />
+	<block key="movampire04_Name" korean="선혈의 십자가" />
+	<block key="movampire04_Description_1" korean="선혈의 십자가" />
+	<block key="movampire05_Name" korean="어둠의 보호" />
+	<block key="movampire05_Description_1" korean="어둠의 보호" />
+	<block key="movampire06_Name" korean="집사의 호출" />
+	<block key="movampire06_Description_1" korean="집사의 호출" />
+	<block key="movampire07_Name" korean="피의 전환" />
+	<block key="movampire07_Description_1" korean="피의 전환" />
+	<block key="movampire08_Name" korean="흡혈귀의 분노" />
+	<block key="movampire08_Description_1" korean="흡혈귀의 분노" />
+	<block key="movampire09_Name" korean="세게 찌르기" />
+	<block key="movampire09_Description_1" korean="세게 찌르기" />
+	<block key="movampire10_Name" korean="희생 시키기" />
+	<block key="movampire10_Description_1" korean="희생 시키기" />
+	<block key="movampire11_Name" korean="호출 트리거" />
+	<block key="movampire11_Description_1" korean="호출 트리거" />
+	<block key="movampire12_Name" korean="흡혈" />
+	<block key="movampire12_Description_1" korean="흡혈" />
+	<block key="movampire12_Description_2" korean="흡혈" />
+	<block key="movampire12lanto_Name" korean="흡혈" />
+	<block key="movampire12lanto_Description_1" korean="흡혈" />
+	<block key="movampire13_Name" korean="램브란드 호출" />
+	<block key="movampire13_Description_1" korean="램브란드 호출" />
+	<block key="movampire14_Name" korean="구스트 호출" />
+	<block key="movampire14_Description_1" korean="구스트 호출" />
+	<block key="movampire15_Name" korean="어둠의 가호" />
+	<block key="movampire15_Description_1" korean="어둠의 가호" />
+	<block key="movamwoman01_Name" korean="할퀴기" />
+	<block key="movamwoman01_Description_1" korean="할퀴기" />
+	<block key="movamwoman02_Name" korean="흡혈귀의 분노" />
+	<block key="movamwoman02_Description_1" korean="흡혈귀의 분노" />
+	<block key="mowisp01_Name" korean="빛 방출" />
+	<block key="mowisp01_Description_1" korean="빛 방출" />
+	<block key="mowolf01_Name" korean="세게 물기" />
+	<block key="mowolf01_Description_1" korean="세게 물기" />
+	<block key="mowolf02_Name" korean="시체 먹기" />
+	<block key="mowolf02_Description_1" korean="시체 먹기" />
+	<block key="mowolfjack01_Name" korean="고기 섭취" />
+	<block key="mowolfjack01_Description_1" korean="고기 섭취" />
+	<block key="mowolfjack02_Name" korean="고기 섭취 완료" />
+	<block key="mowolfjack02_Description_1" korean="고기 섭취 완료" />
+	<block key="mowolfman01_Name" korean="치유 물약" />
+	<block key="mowolfman01_Description_1" korean="치유 물약" />
+	<block key="mowolfshadow01_Name" korean="은신" />
+	<block key="mowolfshadow01_Description_1" korean="은신" />
+	<block key="mowolfwoman01_Name" korean="순간이동" />
+	<block key="mowolfwoman01_Description_1" korean="순간이동" />
+	<block key="mowolfwoman02_Name" korean="순간이동" />
+	<block key="mowolfwoman02_Description_1" korean="순간이동" />
+	<block key="molightplant01_Name" korean="나무 요정 소환" />
+	<block key="molightplant01_Description_1" korean="나무 요정 소환" />
+	<block key="mozombie01_Name" korean="역겨운 입김" />
+	<block key="mozombie01_Description_1" korean="역겨운 입김" />
+	<block key="mozombietrigger01_Name" korean="좀비 깨우기 트리거" />
+	<block key="mozombietrigger01_Description_1" korean="좀비 깨우기 트리거" />
+	<block key="mobeesummon01_Name" korean="꿀벌 부화" />
+	<block key="mobeesummon01_Description_1" korean="꿀벌 부화" />
+	<block key="mobalbo01_Name" korean="망치 강타" />
+	<block key="mobalbo01_Description_1" korean="망치 강타" />
+	<block key="mobalbo02_Name" korean="분노의 망치" />
+	<block key="mobalbo02_Description_1" korean="분노의 망치" />
+	<block key="mobalbo03_Name" korean="맹렬한 돌격" />
+	<block key="mobalbo03_Description_1" korean="맹렬한 돌격" />
+	<block key="mobalbo04_Name" korean="강인한 정신" />
+	<block key="mobalbo04_Description_1" korean="강인한 정신" />
+	<block key="mobalbo05_Name" korean="불굴의 의지" />
+	<block key="mobalbo05_Description_1" korean="불굴의 의지" />
+	<block key="moramashoo01_Name" korean="어둠의 화살" />
+	<block key="moramashoo01_Description_1" korean="어둠의 화살" />
+	<block key="moramashoo02_Name" korean="어둠의 소용돌이" />
+	<block key="moramashoo02_Description_1" korean="어둠의 소용돌이" />
+	<block key="moramashoo03_Name" korean="어둠의 소용돌이" />
+	<block key="moramashoo03_Description_1" korean="어둠의 소용돌이" />
+	<block key="moramashoo04_Name" korean="어둠의 보호" />
+	<block key="moramashoo04_Description_1" korean="어둠의 보호" />
+	<block key="moramashoo05_Name" korean="어둠의 부름" />
+	<block key="moramashoo05_Description_1" korean="어둠의 부름" />
+	<block key="moheavyrondo01_Name" korean="냉혹한 일격" />
+	<block key="moheavyrondo01_Description_1" korean="냉혹한 일격" />
+	<block key="moheavyrondoc01_Name" korean="냉혹한 일격" />
+	<block key="moheavyrondoc01_Description_1" korean="냉혹한 일격" />
+	<block key="moheavyrondo02_Name" korean="얼어붙은 서릿길" />
+	<block key="moheavyrondo02_Description_1" korean="얼어붙은 서릿길" />
+	<block key="moheavyrondo03_Name" korean="얼어붙은 서릿길" />
+	<block key="moheavyrondo03_Description_1" korean="얼어붙은 서릿길" />
+	<block key="moheavyrondo04_Name" korean="혹한의 칼날바람" />
+	<block key="moheavyrondo04_Description_1" korean="혹한의 칼날바람" />
+	<block key="moheavyrondo05_Name" korean="혹한의 칼날바람" />
+	<block key="moheavyrondo05_Description_1" korean="혹한의 칼날바람" />
+	<block key="moheavyrondo06_Name" korean="혹한의 참파열" />
+	<block key="moheavyrondo06_Description_1" korean="혹한의 참파열" />
+	<block key="moheavyrondo07_Name" korean="서리 늑대 소환" />
+	<block key="moheavyrondo07_Description_1" korean="서리 늑대 소환" />
+	<block key="moheavyrondo08_Name" korean="서리 늑대 일격" />
+	<block key="moheavyrondo08_Description_1" korean="서리 늑대 일격" />
+	<block key="moheavyrondo09_Name" korean="서리 늑대 일격" />
+	<block key="moheavyrondo09_Description_1" korean="서리 늑대 일격" />
+	<block key="molightrondo01_Name" korean="서리 검기" />
+	<block key="molightrondo01_Description_1" korean="서리 검기" />
+	<block key="molightrondo02_Name" korean="서리 바람 가르기" />
+	<block key="molightrondo02_Description_1" korean="서리 바람 가르기" />
+	<block key="molightrondo03_Name" korean="군단 늑대 소환" />
+	<block key="molightrondo03_Description_1" korean="군단 늑대 소환" />
+	<block key="molightrondo05_Name" korean="군단 늑대 공격" />
+	<block key="molightrondo05_Description_1" korean="군단 늑대 공격" />
+	<block key="molightrondo06_Name" korean="군단 늑대 공격" />
+	<block key="molightrondo06_Description_1" korean="군단 늑대 공격" />
+	<block key="molightrondo07_Name" korean="서리 참파열" />
+	<block key="molightrondo07_Description_1" korean="서리 참파열" />
+	<block key="morondo01_Name" korean="서리 바람 가르기" />
+	<block key="morondo01_Description_1" korean="서리 바람 가르기" />
+	<block key="morondo02_Name" korean="서리 검기" />
+	<block key="morondo02_Description_1" korean="서리 검기" />
+	<block key="moronddash01_Name" korean="서리 바람 가르기" />
+	<block key="moronddash01_Description_1" korean="서리 바람 가르기" />
+	<block key="moronddash02_Name" korean="서리 바람 가르기" />
+	<block key="moronddash02_Description_1" korean="서리 바람 가르기" />
+	<block key="moronddash04_Name" korean="서리 바람 가르기" />
+	<block key="moronddash04_Description_1" korean="서리 바람 가르기" />
+	<block key="moronddash05_Name" korean="서리 바람 가르기" />
+	<block key="moronddash05_Description_1" korean="서리 바람 가르기" />
+	<block key="moblackmage01_Name" korean="흑마법 강화 장치 작동" />
+	<block key="moblackmage01_Description_1" korean="흑마법 강화 장치 작동" />
+	<block key="moreactimmuneba_Name" korean="강렬한 저항" />
+	<block key="moreactimmuneba_Description_1" korean="강렬한 저항" />
+	<block key="moreactcheck01_name" korean="격렬한 저항" />
+	<block key="moreactcheck01_Description_1" korean="격렬한 저항" />
+	<block key="moreactcheck02_name" korean="격렬한 저항" />
+	<block key="moreactcheck02_Description_1" korean="격렬한 저항" />
+	<block key="moreactcheck03_name" korean="격렬한 저항" />
+	<block key="moreactcheck03_Description_1" korean="격렬한 저항" />
+	<block key="moreactcheck04_name" korean="성가신 저항" />
+	<block key="moreactcheck04_Description_1" korean="성가신 저항" />
+	<block key="moreactcheck05_name" korean="성가신 저항" />
+	<block key="moreactcheck05_Description_1" korean="성가신 저항" />
+	<block key="moreactcheck06_name" korean="저항" />
+	<block key="moreactcheck06_Description_1" korean="저항" />
+	<block key="moreactcheck07_name" korean="저항" />
+	<block key="moreactcheck07_Description_1" korean="저항" />
+	<block key="moreactcheck08_name" korean="발악" />
+	<block key="moreactcheck08_Description_1" korean="발악" />
+	<block key="moreactcheck09_name" korean="발악" />
+	<block key="moreactcheck09_Description_1" korean="발악" />
+	<block key="moreactcheck10_name" korean="압도" />
+	<block key="moreactcheck10_Description_1" korean="압도" />
+	<block key="moreactimmune01_name" korean="제압" />
+	<block key="moreactimmune01_Description_1" korean="제압" />
+	<block key="moracheck01_name" korean="격렬한 저항" />
+	<block key="moracheck01_Description_1" korean="격렬한 저항" />
+	<block key="moracheck02_name" korean="격렬한 저항" />
+	<block key="moracheck02_Description_1" korean="격렬한 저항" />
+	<block key="moracheck03_name" korean="격렬한 저항" />
+	<block key="moracheck03_Description_1" korean="격렬한 저항" />
+	<block key="moracheck04_name" korean="격렬한 저항" />
+	<block key="moracheck04_Description_1" korean="격렬한 저항" />
+	<block key="moracheck05_name" korean="격렬한 저항" />
+	<block key="moracheck05_Description_1" korean="격렬한 저항" />
+	<block key="moracheck06_name" korean="격렬한 저항" />
+	<block key="moracheck06_Description_1" korean="격렬한 저항" />
+	<block key="moracheck07_name" korean="격렬한 저항" />
+	<block key="moracheck07_Description_1" korean="격렬한 저항" />
+	<block key="moracheck08_name" korean="격렬한 저항" />
+	<block key="moracheck08_Description_1" korean="격렬한 저항" />
+	<block key="moracheck09_name" korean="성가신 저항" />
+	<block key="moracheck09_Description_1" korean="성가신 저항" />
+	<block key="moracheck10_name" korean="성가신 저항" />
+	<block key="moracheck10_Description_1" korean="성가신 저항" />
+	<block key="moracheck11_name" korean="저항" />
+	<block key="moracheck11_Description_1" korean="저항" />
+	<block key="moracheck12_name" korean="저항" />
+	<block key="moracheck12_Description_1" korean="저항" />
+	<block key="moracheck13_name" korean="발악" />
+	<block key="moracheck13_Description_1" korean="발악" />
+	<block key="moracheck14_name" korean="발악" />
+	<block key="moracheck14_Description_1" korean="발악" />
+	<block key="moracheck15_name" korean="압도" />
+	<block key="moracheck15_Description_1" korean="압도" />
+	<block key="morastop_name" korean="제압" />
+	<block key="morastop_Description_1" korean="제압" />
+	<block key="motranerthcut_name" korean="대지 가르기" />
+	<block key="motranerthcut_Description_1" korean="대지 가르기" />
+	<block key="motranearthcut01_name" korean="대지 가르기" />
+	<block key="motranearthcut01_Description_1" korean="대지 가르기" />
+	<block key="motc1_name" korean="대지 가르기" />
+	<block key="motc1_Description_1" korean="대지 가르기" />
+	<block key="motranearthcut02_name" korean="대지 가르기" />
+	<block key="motranearthcut02_Description_1" korean="대지 가르기" />
+	<block key="motc2_name" korean="대지 가르기" />
+	<block key="motc2_Description_1" korean="대지 가르기" />
+	<block key="moearthhit_name" korean="대지 강타" />
+	<block key="moearthhit_Description_1" korean="대지 강타" />
+	<block key="moearthhit01_name" korean="대지 강타" />
+	<block key="moearthhit01_Description_1" korean="대지 강타" />
+	<block key="moeh1_name" korean="대지 강타" />
+	<block key="moeh1_Description_1" korean="대지 강타" />
+	<block key="moearthhit02_name" korean="대지 강타" />
+	<block key="moearthhit02_Description_1" korean="대지 강타" />
+	<block key="moeh2_name" korean="대지 강타" />
+	<block key="moeh2_Description_1" korean="대지 강타" />
+	<block key="moearthupper_name" korean="대지 올려치기" />
+	<block key="moearthupper_Description_1" korean="대지 올려치기" />
+	<block key="moearthupper01_name" korean="대지 올려치기" />
+	<block key="moearthupper01_Description_1" korean="대지 올려치기" />
+	<block key="moeu1_name" korean="대지 올려치기" />
+	<block key="moeu1_Description_1" korean="대지 올려치기" />
+	<block key="moearthupper02_name" korean="대지 올려치기" />
+	<block key="moearthupper02_Description_1" korean="대지 올려치기" />
+	<block key="moeu2_name" korean="대지 올려치기" />
+	<block key="moeu2_Description_1" korean="대지 올려치기" />
+	<block key="moearthfury01_name" korean="대지의 분노" />
+	<block key="moearthfury01_Description_1" korean="대지의 분노" />
+	<block key="moearthfury02_name" korean="대지의 분노" />
+	<block key="moearthfury02_Description_1" korean="대지의 분노" />
+	<block key="moearthcaller01_name" korean="대지의 부름" />
+	<block key="moearthcaller01_Description_1" korean="대지의 부름" />
+	<block key="moearthcaller02_name" korean="대지의 부름" />
+	<block key="moearthcaller02_Description_1" korean="대지의 부름" />
+	<block key="moec1_name" korean="대지의 부름" />
+	<block key="moec1_Description_1" korean="대지의 부름" />
+	<block key="moec2_name" korean="대지의 부름" />
+	<block key="moec2_Description_1" korean="대지의 부름" />
+	<block key="moearthunleash01_name" korean="멈출수 없는 대지의 기운" />
+	<block key="moearthunleash01_Description_1" korean="멈출수 없는 대지의 기운" />
+	<block key="tranpurify_name" korean="대기의 기운 정화" />
+	<block key="tranpurify_Description_1" korean="대기의 기운 정화" />
+	<block key="motragago01_name" korean="파멸의 손톱" />
+	<block key="motragago01_Description_1" korean="파멸의 손톱" />
+	<block key="motragago02_name" korean="폭쇄" />
+	<block key="motragago02_Description_1" korean="폭쇄" />
+	<block key="moyataskycut_name" korean="천공 가르기" />
+	<block key="moyataskycut_Description_1" korean="천공 가르기" />
+	<block key="moyataskycut01_name" korean="천공 가르기" />
+	<block key="moyataskycut01_Description_1" korean="천공 가르기" />
+	<block key="moyataskycut02_name" korean="천공 가르기" />
+	<block key="moyataskycut02_Description_1" korean="천공 가르기" />
+	<block key="moyataskyhit_name" korean="천공 강타" />
+	<block key="moyataskyhit_Description_1" korean="천공 강타" />
+	<block key="moyataskyhit01_name" korean="천공 강타" />
+	<block key="moyataskyhit01_Description_1" korean="천공 강타" />
+	<block key="moyataskyhit02_name" korean="천공 강타" />
+	<block key="moyataskyhit02_Description_1" korean="천공 강타" />
+	<block key="moyc1_name" korean="천공 가르기" />
+	<block key="moyc1_Description_1" korean="천공 가르기" />
+	<block key="moyc2_name" korean="천공 가르기" />
+	<block key="moyc2_Description_1" korean="천공 가르기" />
+	<block key="moyh1_name" korean="천공 강타" />
+	<block key="moyh1_Description_1" korean="천공 강타" />
+	<block key="moyh2_name" korean="천공 강타" />
+	<block key="moyh2_Description_1" korean="천공 강타" />
+	<block key="moyataskyball01_name" korean="천공구 소환" />
+	<block key="moyataskyball01_Description_1" korean="천공구 소환" />
+	<block key="moskyfury01_name" korean="천상의 분노" />
+	<block key="moskyfury01_Description_1" korean="천상의 분노" />
+	<block key="moskyfury02_name" korean="천상의 분노" />
+	<block key="moskyfury02_Description_1" korean="천상의 분노" />
+	<block key="mogarmuanger01_name" korean="분노" />
+	<block key="mogarmuanger01_Description_1" korean="분노" />
+	<block key="mogarmu01_name" korean="분쇄" />
+	<block key="mogarmu01_Description_1" korean="분쇄" />
+	<block key="mogarmu02_name" korean="박치기" />
+	<block key="mogarmu02_Description_1" korean="박치기" />
+	<block key="modevyheadhit01_name" korean="머리 강타" />
+	<block key="modevyheadhit01_Description_1" korean="머리 강타" />
+	<block key="modevyheadhit02_name" korean="머리 강타" />
+	<block key="modevyheadhit02_Description_1" korean="머리 강타" />
+	<block key="modevysorrow01_name" korean="깊은 슬픔" />
+	<block key="modevysorrow01_Description_1" korean="깊은 슬픔" />
+	<block key="modevysorrow02_name" korean="깊은 슬픔" />
+	<block key="modevysorrow02_Description_1" korean="깊은 슬픔" />
+	<block key="modevystroke01_name" korean="어루만짐" />
+	<block key="modevystroke01_Description_1" korean="어루만짐" />
+	<block key="modevycry01_name" korean="울기" />
+	<block key="modevycry01_Description_1" korean="울기" />
+	<block key="modevycry02_name" korean="크게 울기" />
+	<block key="modevycry02_Description_1" korean="크게 울기" />
+	<block key="moblueskyball01_name" korean="번개" />
+	<block key="moblueskyball01_Description_1" korean="번개" />
+	<block key="moredskyball01_name" korean="번개" />
+	<block key="moredskyball01_Description_1" korean="번개" />
+	<block key="moreacttuto01_name" korean="전투의 축복" />
+	<block key="moreacttuto01_Description_1" korean="전투의 축복" />
+	<block key="modaslot01_name" korean="응축된 한파의 기운" />
+	<block key="modaslot01_Description_1" korean="응축된 한파의 기운" />
+	<block key="modaslot02_name" korean="응축된 한파의 기운" />
+	<block key="modaslot02_Description_1" korean="응축된 한파의 기운" />
+	<block key="modaslot03_name" korean="응축된 한파의 기운" />
+	<block key="modaslot03_Description_1" korean="응축된 한파의 기운" />
+	<block key="modaslot04_name" korean="대지 가르기" />
+	<block key="modaslot04_Description_1" korean="대지 가르기" />
+	<block key="modaslot05_name" korean="대지 가르기" />
+	<block key="modaslot05_Description_1" korean="대지 가르기" />
+	<block key="mocbowcheck_name" korean="약점 노출 - 석궁" />
+	<block key="mocbowcheck_Description_1" korean="약점 노출 - 석궁" />
+	<block key="mospearcheck_name" korean="약점 노출 - 창" />
+	<block key="mospearcheck_Description_1" korean="약점 노출 - 창" />
+	<block key="moray01_name" korean="멸망의 선고" />
+	<block key="moray01_Description_1" korean="멸망의 선고" />
+	<block key="moray02_name" korean="대방출" />
+	<block key="moray02_Description_1" korean="대방출" />
+	<block key="moray03_name" korean="위험한 부름" />
+	<block key="moray03_Description_1" korean="위험한 부름" />
+	<block key="moray04_name" korean="멸망의 선고" />
+	<block key="moray04_Description_1" korean="멸망의 선고" />
+	<block key="moray05_name" korean="방전된 에너지" />
+	<block key="moray05_Description_1" korean="방전된 에너지" />
+	<block key="moray07_name" korean="희생" />
+	<block key="moray07_Description_1" korean="희생" />
+	<block key="moray08_name" korean="분노의 호출" />
+	<block key="moray08_Description_1" korean="분노의 호출" />
+	<block key="moelecboob01_name" korean="대방출" />
+	<block key="moelecboob01_Description_1" korean="대방출" />
+	<block key="morayarea01_name" korean="뒤틀린 공역의 기운" />
+	<block key="morayarea01_Description_1" korean="뒤틀린 공역의 기운" />
+	<block key="morayarea02_name" korean="뒤틀린 공역의 기운" />
+	<block key="morayarea02_Description_1" korean="뒤틀린 공역의 기운" />
+	<block key="moishzora01_name" korean="증오의 그물" />
+	<block key="moishzora01_Description_1" korean="증오의 그물" />
+	<block key="moishzora02_name" korean="영혼을 삼키는 검" />
+	<block key="moishzora02_Description_1" korean="영혼을 삼키는 검" />
+	<block key="moishzora03_name" korean="공간 가르기" />
+	<block key="moishzora03_Description_1" korean="공간 가르기" />
+	<block key="moishzora04_name" korean="증오의 사슬" />
+	<block key="moishzora04_Description_1" korean="증오의 사슬" />
+	<block key="moishzora05_name" korean="왜곡" />
+	<block key="moishzora05_Description_1" korean="왜곡" />
+	<block key="moishzora06_name" korean="끓어오르는 증오" />
+	<block key="moishzora06_Description_1" korean="끓어오르는 증오" />
+	<block key="moishzora07_name" korean="불사의 저항" />
+	<block key="moishzora07_Description_1" korean="불사의 저항" />
+	<block key="moishzora08_name" korean="불사의 주문" />
+	<block key="moishzora08_Description_1" korean="불사의 주문" />
+	<block key="moishzora09_name" korean="이즈호라의 기운" />
+	<block key="moishzora09_Description_1" korean="이즈호라의 기운" />
+	<block key="morabinimer01_name" korean="호박변신" />
+	<block key="morabinimer01_Description_1" korean="호박변신" />
+	<block key="morabinimer02_name" korean="호박변신" />
+	<block key="morabinimer02_Description_1" korean="호박변신" />
+	<block key="mofleam01_name" korean="대지 가르기" />
+	<block key="mofleam01_Description_1" korean="대지 가르기" />
+	<block key="mofleam02_name" korean="살아있는 화염 폭탄" />
+	<block key="mofleam02_Description_1" korean="살아있는 화염 폭탄" />
+	<block key="mofleam03_name" korean="화염 폭탄 자폭" />
+	<block key="mofleam03_Description_1" korean="화염 폭탄 자폭" />
+	<block key="mofleam04_name" korean="연쇄 폭파" />
+	<block key="mofleam04_Description_1" korean="연쇄 폭파" />
+	<block key="mofleam05_name" korean="넘치는 불의 기운" />
+	<block key="mofleam05_Description_1" korean="넘치는 불의 기운" />
+	<block key="mofleam06_name" korean="대지 부수기" />
+	<block key="mofleam06_Description_1" korean="대지 부수기" />
+	<block key="mofleam07_name" korean="대지 부수기" />
+	<block key="mofleam07_Description_1" korean="대지 부수기" />
+	<block key="moclesier01_name" korean="대지 가르기" />
+	<block key="moclesier01_Description_1" korean="대지 가르기" />
+	<block key="moclesier02_name" korean="응축된 한파의 기운" />
+	<block key="moclesier02_Description_1" korean="응축된 한파의 기운" />
+	<block key="moclesier03_name" korean="넘치는 얼음의 기운" />
+	<block key="moclesier03_Description_1" korean="넘치는 얼음의 기운" />
+	<block key="moclesier04_name" korean="대지 부수기" />
+	<block key="moclesier04_Description_1" korean="대지 부수기" />
+	<block key="moclesier05_name" korean="대지 부수기" />
+	<block key="moclesier05_Description_1" korean="대지 부수기" />
+	<block key="moclesier06_name" korean="차가운 기운" />
+	<block key="moclesier06_Description_1" korean="차가운 기운" />
+	<block key="moclesier07_name" korean="차가운 기운" />
+	<block key="moclesier07_Description_1" korean="차가운 기운" />
+	<block key="moforta01_name" korean="어둠의 화살" />
+	<block key="moforta01_Description_1" korean="어둠의 화살" />
+	<block key="moforta02_name" korean="어둠의 보호막" />
+	<block key="moforta02_Description_1" korean="어둠의 보호막" />
+	<block key="moforta03_name" korean="어둠의 소용돌이" />
+	<block key="moforta03_Description_1" korean="어둠의 소용돌이" />
+	<block key="moforta04_name" korean="어둠의 번개" />
+	<block key="moforta04_Description_1" korean="어둠의 번개" />
+	<block key="moforta05_name" korean="역병의 구름" />
+	<block key="moforta05_Description_1" korean="역병의 구름" />
+	<block key="moikeria01_name" korean="빛의 화살" />
+	<block key="moikeria01_Description_1" korean="빛의 화살" />
+	<block key="moikeria02_name" korean="무기력" />
+	<block key="moikeria02_Description_1" korean="무기력" />
+	<block key="moikeria03_name" korean="빛의 심판" />
+	<block key="moikeria03_Description_1" korean="빛의 심판" />
+	<block key="moikeria04_name" korean="빛의 현혹" />
+	<block key="moikeria04_Description_1" korean="빛의 현혹" />
+	<block key="moikeria05_name" korean="빛의 가호" />
+	<block key="moikeria05_Description_1" korean="빛의 가호" />
+	<block key="eloralight02_Name" korean="엘로라의 축복" />
+	<block key="eloralight02_Description_1" korean="엘로라의 축복" />
+	<block key="eloralight03_Name" korean="엘로라의 강한 축복" />
+	<block key="eloralight03_Description_1" korean="엘로라의 강한 축복" />
+	<block key="demonpressure01_Name" korean="악령의 폭주(링크)" />
+	<block key="demonpressure01_description_1" korean="악령의 폭주(링크) 1" />
+	<block key="demonpressure01_description_2" korean="악령의 폭주(링크) 2" />
+	<block key="demonpressure01_description_3" korean="악령의 폭주(링크) 3" />
+	<block key="demonpressure01_description_4" korean="악령의 폭주(링크) 4" />
+	<block key="demonpressure01_description_5" korean="악령의 폭주(링크) 5" />
+	<block key="demonpressure01_description_6" korean="악령의 폭주(링크) 6" />
+	<block key="crump01_Name" korean="폭음탄(소환)" />
+	<block key="crump01_description_1" korean="폭음탄(소환) 1" />
+	<block key="creature_attack0_Name" korean="일반공격" />
+	<block key="creature_attack0_description_1" korean="펠로우가 대상을 공격하게 명령을 내립니다." />
+	<block key="creature_mode00_Name" korean="자유공격" />
+	<block key="creature_mode00_description_1" korean="펠로우가 주변의 모든 적대적인 대상을 공격합니다." />
+	<block key="creature_mode01_Name" korean="공격보조" />
+	<block key="creature_mode01_description_1" korean="플레이어가 전투 상태가 될 경우 플레이어의 타겟을 공격합니다." />
+	<block key="creature_mode02_Name" korean="명령우선" />
+	<block key="creature_mode02_description_1" korean="플레이어가 명령을 내리기 전 까지 아무런 행동도 하지 않습니다." />
+	<block key="creature_movemode00_Name" korean="따라다니기" />
+	<block key="creature_movemode00_description_1" korean="펠로우가 플레이어를 따라 이동합니다." />
+	<block key="creature_movemode01_Name" korean="고정" />
+	<block key="creature_movemode01_description_1" korean="펠로우가 제자리에 서 있습니다." />
+	<block key="creature_movemode02_Name" korean="방어" />
+	<block key="creature_movemode02_description_1" korean="펠로우가 제자리에서 방어 자세를 취합니다." />
+	<block key="creature_stop0_Name" korean="공격중지" />
+	<block key="creature_stop0_description_1" korean="펠로우가 공격을 중지합니다." />
+	<block key="creature_attack1_Name" korean="일반공격" />
+	<block key="creature_attack1_description_1" korean="펠로우가 대상을 공격하게 명령을 내립니다." />
+	<block key="creature_mode10_Name" korean="자유공격" />
+	<block key="creature_mode10_description_1" korean="펠로우가 주변의 모든 적대적인 대상을 공격합니다." />
+	<block key="creature_mode11_Name" korean="공격보조" />
+	<block key="creature_mode11_description_1" korean="플레이어가 전투 상태가 될 경우 플레이어의 타겟을 공격합니다." />
+	<block key="creature_mode12_Name" korean="명령우선" />
+	<block key="creature_mode12_description_1" korean="플레이어가 명령을 내리기 전 까지 아무런 행동도 하지 않습니다." />
+	<block key="creature_movemode10_Name" korean="따라다니기" />
+	<block key="creature_movemode10_description_1" korean="펠로우가 플레이어를 따라 이동합니다." />
+	<block key="creature_movemode11_Name" korean="고정" />
+	<block key="creature_movemode11_description_1" korean="펠로우가 제자리에 서 있습니다." />
+	<block key="creature_movemode12_Name" korean="방어" />
+	<block key="creature_movemode12_description_1" korean="펠로우가 제자리에서 방어 자세를 취합니다." />
+	<block key="creature_stop1_Name" korean="공격중지" />
+	<block key="creature_stop1_description_1" korean="펠로우가 공격을 중지합니다." />
+	<block key="creature_attack4_Name" korean="일반공격" />
+	<block key="creature_attack4_description_1" korean="펠로우가 대상을 공격하게 명령을 내립니다." />
+	<block key="creature_mode40_Name" korean="자유공격" />
+	<block key="creature_mode40_description_1" korean="펠로우가 주변의 모든 적대적인 대상을 공격합니다." />
+	<block key="creature_mode41_Name" korean="공격보조" />
+	<block key="creature_mode41_description_1" korean="플레이어가 전투 상태가 될 경우 플레이어의 타겟을 공격합니다." />
+	<block key="creature_mode42_Name" korean="명령우선" />
+	<block key="creature_mode42_description_1" korean="플레이어가 명령을 내리기 전 까지 아무런 행동도 하지 않습니다." />
+	<block key="creature_movemode40_Name" korean="따라다니기" />
+	<block key="creature_movemode40_description_1" korean="펠로우가 플레이어를 따라 이동합니다." />
+	<block key="creature_movemode41_Name" korean="고정" />
+	<block key="creature_movemode41_description_1" korean="펠로우가 제자리에 서 있습니다." />
+	<block key="creature_movemode42_Name" korean="방어" />
+	<block key="creature_movemode42_description_1" korean="펠로우가 제자리에서 방어 자세를 취합니다." />
+	<block key="creature_stop4_Name" korean="공격중지" />
+	<block key="creature_stop4_description_1" korean="펠로우가 공격을 중지합니다." />
+	<block key="creature_attack_Name" korean="일반공격" />
+	<block key="creature_attack_description_1" korean="펠로우가 대상을 공격하게 명령을 내립니다." />
+	<block key="creature_mode0_Name" korean="자유공격" />
+	<block key="creature_mode0_description_1" korean="펠로우가 주변의 모든 적대적인 대상을 공격합니다." />
+	<block key="creature_mode1_Name" korean="공격보조" />
+	<block key="creature_mode1_description_1" korean="플레이어가 전투 상태가 될 경우 플레이어의 타겟을 공격합니다." />
+	<block key="creature_mode2_Name" korean="명령우선" />
+	<block key="creature_mode2_description_1" korean="플레이어가 명령을 내리기 전 까지 아무런 행동도 하지 않습니다." />
+	<block key="creature_movemode0_Name" korean="따라다니기" />
+	<block key="creature_movemode0_description_1" korean="펠로우가 플레이어를 따라 이동합니다." />
+	<block key="creature_movemode1_Name" korean="고정" />
+	<block key="creature_movemode1_description_1" korean="펠로우가 제자리에 서 있습니다." />
+	<block key="creature_movemode2_Name" korean="방어" />
+	<block key="creature_movemode2_description_1" korean="펠로우가 제자리에서 방어 자세를 취합니다." />
+	<block key="creature_stop_Name" korean="공격중지" />
+	<block key="creature_stop_description_1" korean="펠로우가 공격을 중지합니다." />
+	<block key="ct_appointmovewr_Name" korean="위치지정" />
+	<block key="ct_appointmovewr_description_1" korean="펠로우를 지정한 위치에 이동하게 합니다." />
+	<block key="beardoubleatk_Name" korean="연타" />
+	<block key="beardoubleatk_description_1" korean="앞발로 대상을 두번 후려쳐서 물리 데미지를 준다. 후려치기보다 더 좋은 상급 스킬" />
+	<block key="bearfury_Name" korean="분노" />
+	<block key="bearfury_description_1" korean="체력이 20% 이하일 때만 사용 가능한 스킬. 곰의 공격력과 방어력이 상승한다." />
+	<block key="bearhonest_Name" korean="곰의 우직함" />
+	<block key="bearhonest_description_1" korean="곰과 플레이어의 방어력이 상승한다." />
+	<block key="bearmash_Name" korean="방어구 짓이기기" />
+	<block key="bearmash_description_1" korean="앞발로 대상을 후려쳐서 방어력을 낮춘다. 펠로우가 가진 방어도를 낮추는 스킬중 방어도를 낮추는 수치가 높은 편에 속하는 스킬." />
+	<block key="bearpush_Name" korean="밀치기" />
+	<block key="bearpush_description_1" korean="앞발로 대상을 밀쳐서 넉백 효과를 준다." />
+	<block key="bearroar_Name" korean="포효" />
+	<block key="bearroar_description_1" korean="범위 내의 모든 대상들에 대한 어그로가 높아져서 곰을 공격하게 한다." />
+	<block key="bearrush_Name" korean="들이받기" />
+	<block key="bearrush_description_1" korean="대상을 들이받아 넉다운 상태로 만든다." />
+	<block key="bearswingatk_Name" korean="후려치기" />
+	<block key="bearswingatk_description_1" korean="앞발로 대상을 후려쳐서 물리 데미지를 준다." />
+	<block key="bearswingatk_description_2" korean="앞발로 대상을 후려쳐서 물리 데미지를 준다." />
+	<block key="bearthreat_Name" korean="위협" />
+	<block key="bearthreat_description_1" korean="1명의 대상에게 위협하여 어그로를 높힌다." />
+	<block key="bearwild_Name" korean="곰의 과격함" />
+	<block key="bearwild_description_1" korean="곰과 플레이어가 크리티컬로 대상을 공격 시 보너스 데미지를 준다." />
+	<block key="cowbodycheck_Name" korean="밀치기" />
+	<block key="cowbodycheck_description_1" korean="뿔로 대상을 밀쳐서 넉백 효과를 준다." />
+	<block key="cowfurycowName" korean="성난소" />
+	<block key="cowfurycowdescription_1" korean="체력이 20% 이하일 때만 사용 가능한 스킬. 소의 공격력과 크리티컬 확률이 상승한다." />
+	<block key="cowhonest_Name" korean="소의 듬직함" />
+	<block key="cowhonest_description_1" korean="소와 플레이어의 체력이 상승한다." />
+	<block key="cowhornatk_Name" korean="뿔찌르기" />
+	<block key="cowhornatk_description_1" korean="대상을 뿔로 찔러 물리 데미지를 준다." />
+	<block key="cowhornatk_description_2" korean="대상을 뿔로 찔러 물리 데미지를 준다." />
+	<block key="cowhornswingatk_Name" korean="뿔 휘두르기" />
+	<block key="cowhornswingatk_description_1" korean="뿔을 좌에서 우로 휘둘러서 전방 60도 내의 일정 범위 내의 대상에게 물리 데미지를 준다." />
+	<block key="cowpush_Name" korean="들이받기" />
+	<block key="cowpush_description_1" korean="대상을 공격하여 물리 데미지를 준다." />
+	<block key="cowroar_Name" korean="포효" />
+	<block key="cowroar_description_1" korean="1명의 대상에게 포효하여 공격력을 하락시킨다." />
+	<block key="cowthreat_Name" korean="위협" />
+	<block key="cowthreat_description_1" korean="1명의 대상에게 위협하여 어그로를 높힌다." />
+	<block key="cowwild_Name" korean="소의 과격함" />
+	<block key="cowwild_description_1" korean="소와 플레이어가 가지고 있는 확률이 있는 넉백, 넉다운 스킬의 확률이 상승한다." />
+	<block key="leddeepbite_Name" korean="세게 물어뜯기" />
+	<block key="leddeepbite_description_1" korean="이빨로 대상을 물어 뜯어서 물리 데미지와 출혈 효과를 동시에 준다." />
+	<block key="ledhostility_Name" korean="적개심" />
+	<block key="ledhostility_description_1" korean="1명의 대상에게 적개심을 보인다. 일정 시간 동안 대상의 방어력이 낮아진다." />
+	<block key="leoarmoratk_Name" korean="방어구 찟기" />
+	<block key="leoarmoratk_description_1" korean="앞발로 대상을 할퀴어 대상의 방어도를 낮춘다. 펠로우가 가진 방어도를 낮추는 스킬 중 방어도를 낮추는 수치가 보통에 속하는 스킬." />
+	<block key="leobite_Name" korean="물어뜯기" />
+	<block key="leobite_description_1" korean="이빨로 대상을 물어 물리 데미지를 준다." />
+	<block key="leobite_description_2" korean="이빨로 대상을 물어 물리 데미지를 준다." />
+	<block key="leobleed_Name" korean="상처내기" />
+	<block key="leobleed_description_1" korean="앞발로 대상을 할퀴어 물리 DOT 데미지를 준다." />
+	<block key="leoflexible_Name" korean="표범의 유연함" />
+	<block key="leoflexible_description_1" korean="낙하 데미지를 줄여준다." />
+	<block key="leohuntinginstinct_Name" korean="수렵본능" />
+	<block key="leohuntinginstinct_description_1" korean="일정 시간동안 공격력과 회피율이 상승한다." />
+	<block key="leoroar_Name" korean="포효" />
+	<block key="leoroar_description_1" korean="1명의 대상에게 포효하여 공격력을 하락시킨다." />
+	<block key="leorushatk_Name" korean="덮치기" />
+	<block key="leorushatk_description_1" korean="1명의 대상을 뛰어가 덮쳐 넉다운 상태로 만든다." />
+	<block key="leospeedy_Name" korean="표범의 재빠름" />
+	<block key="leospeedy_description_1" korean="일정 시간 동안 이동 속도가 상승한다." />
+	<block key="leowpscratch_Name" korean="급소 할퀴기" />
+	<block key="leowpscratch_description_1" korean="대상의 급소를 할퀴어서 물리 데미지를 주고 회피율을 하락시킨다." />
+	<block key="leowpsearch_Name" korean="약점파악" />
+	<block key="leowpsearch_description_1" korean="표범과 플레이어 모두 크리티컬 확률이 상승한다." />
+	<block key="pigappetite_Name" korean="식욕" />
+	<block key="pigappetite_description_1" korean="음식류를 먹었을 때 회복되는 양이 늘어난다." />
+	<block key="pigendure_Name" korean="버티기" />
+	<block key="pigendure_description_1" korean="넉백, 넉다운 효과에 걸릴 확률을 줄여준다." />
+	<block key="pigheadatk_Name" korean="들이받기" />
+	<block key="pigheadatk_description_1" korean="대상을 공격하여 물리 데미지를 준다." />
+	<block key="pigheadatk_description_2" korean="대상을 공격하여 물리 데미지를 준다." />
+	<block key="pignoise_Name" korean="브라기 자장가" />
+	<block key="pignoise_description_1" korean="돼지가 멱따는 소리를 낸다. 돼지를 중심으로 일정 범위 내의 적들은 소음으로 인해 주문 시전이 취소되고 일정 시간 동안 주문 시전 시간이 늘어난다." />
+	<block key="pigpush_Name" korean="중심 흔들기" />
+	<block key="pigpush_description_1" korean="대상을 세게 쳐서 중심을 흔든다. 공격 당한 대상은 넉백 상태가 되며 일정 시간동안 공격 속도가 느려진다." />
+	<block key="pigrush_Name" korean="돌진" />
+	<block key="pigrush_description_1" korean="멀리 있는 대상에게 뛰어가 들이받아 넉다운 상태로 만든다. (어깨치기와 비슷함)" />
+	<block key="pigstomp_Name" korean="발구르기" />
+	<block key="pigstomp_description_1" korean="발을 굴러서 땅을 흔든다. 범위 내의 대상은 물리 데미지를 받고 일정 확률로 짧은 시간 스턴에 걸린다." />
+	<block key="pigstrong_Name" korean="멧돼지의 튼튼함" />
+	<block key="pigstrong_description_1" korean="멧돼지와 플레이어의 방어력이 상승한다." />
+	<block key="pigthreat_Name" korean="위협" />
+	<block key="pigthreat_description_1" korean="1명의 대상에게 위협하여 어그로를 높힌다." />
+	<block key="wolfavoid_Name" korean="늑대의 기민함" />
+	<block key="wolfavoid_description_1" korean="펠로우와 플레이어의 회피력이 상승한다." />
+	<block key="wolfbite_Name" korean="물어 뜯기" />
+	<block key="wolfbite_description_1" korean="이빨로 대상을 물어 뜯어서 물리 데미지를 준다." />
+	<block key="wolfbite_description_2" korean="이빨로 대상을 물어 뜯어서 물리 데미지를 준다." />
+	<block key="wolfbleed_Name" korean="상처내기" />
+	<block key="wolfbleed_description_1" korean="이빨로 대상을 물어 뜯어서 일정 시간 동안 출혈 효과를 준다." />
+	<block key="wolfdeepbite_Name" korean="깊게 물어뜯기" />
+	<block key="wolfdeepbite_description_1" korean="이빨로 대상을 물어 뜯어서 물리 데미지와 출혈 효과를 동시에 준다." />
+	<block key="wolfhostility_Name" korean="적개심" />
+	<block key="wolfhostility_description_1" korean="1명의 대상에게 적개심을 보인다. 일정 시간 동안 대상의 방어력이 낮아진다." />
+	<block key="wolflegatk_Name" korean="다리 물기" />
+	<block key="wolflegatk_description_1" korean="이빨로 대상을 물어 뜯어서 일정 시간 동안 이동 속도를 하락시킨다." />
+	<block key="wolflongroar_Name" korean="긴 울음" />
+	<block key="wolflongroar_description_1" korean="자신의 공격력을 일정 시간동안 상승시킨다." />
+	<block key="wolfspeedy_Name" korean="늑대의 재빠름" />
+	<block key="wolfspeedy_description_1" korean="펠로우를 탑승하지 않은 상태에서 펠로우와 플레이어의 이동 속도가 증가한다. (탑승시에는 적용되지 않음)" />
+	<block key="wolfweakatk_Name" korean="약점 공격" />
+	<block key="wolfweakatk_description_1" korean="펠로우와 플레이어의 크리티컬 확률이 상승한다." />
+	<block key="bandage_Name" korean="붕대" />
+	<block key="bandage_description_1" korean="5초 동안 매 초 마다 HP를 14씩 회복한다." />
+	<block key="bandage_description_2" korean="5초 동안 매 초 마다 HP를 20씩 회복한다." />
+	<block key="bandage_description_3" korean="5초 동안 매 초 마다 HP를 29씩 회복한다." />
+	<block key="bandage_description_4" korean="5초 동안 매 초 마다 HP를 38씩 회복한다." />
+	<block key="bandage_description_5" korean="5초 동안 매 초 마다 HP를 55씩 회복한다." />
+	<block key="bandage_description_6" korean="5초 동안 매 초 마다 HP를 74씩 회복한다." />
+	<block key="bandage_description_7" korean="5초 동안 매 초 마다 HP를 95씩 회복한다." />
+	<block key="bandage_Product_Name" korean="붕대" />
+	<block key="foodrecoverhp_Name" korean="HP회복 음식" />
+	<block key="foodrecoverhp_description_1" korean="18초 동안 매 3초 마다 HP를 19식 회복한다." />
+	<block key="foodrecoverhp_description_2" korean="18초 동안 매 3초 마다 HP를 28식 회복한다." />
+	<block key="foodrecoverhp_description_3" korean="18초 동안 매 3초 마다 HP를 40식 회복한다." />
+	<block key="foodrecoverhp_description_4" korean="18초 동안 매 3초 마다 HP를 54식 회복한다." />
+	<block key="foodrecoverhp_description_5" korean="18초 동안 매 3초 마다 HP를 77식 회복한다." />
+	<block key="foodrecoverhp_description_6" korean="18초 동안 매 3초 마다 HP를 104식 회복한다." />
+	<block key="foodrecoverhp_description_7" korean="18초 동안 매 3초 마다 HP를 133식 회복한다." />
+	<block key="foodrecovermp_Name" korean="음식_MP회복" />
+	<block key="foodrecovermp_description_1" korean="18초 동안 매 3초 마다 MP를 19식 회복한다." />
+	<block key="foodrecovermp_description_2" korean="18초 동안 매 3초 마다 MP를 28식 회복한다." />
+	<block key="foodrecovermp_description_3" korean="18초 동안 매 3초 마다 MP를 40식 회복한다." />
+	<block key="foodrecovermp_description_4" korean="18초 동안 매 3초 마다 MP를 54식 회복한다." />
+	<block key="foodrecovermp_description_5" korean="18초 동안 매 3초 마다 MP를 77식 회복한다." />
+	<block key="foodrecovermp_description_6" korean="18초 동안 매 3초 마다 MP를 104식 회복한다." />
+	<block key="foodrecovermp_description_7" korean="18초 동안 매 3초 마다 MP를 133식 회복한다." />
+	<block key="immune_propertybodym_Name" korean="속성변화 & 상태이상 저항" />
+	<block key="immune_propertybodym_description_1" korean="15분 동안 모든 속성 및 상태이상에 면역된다." />
+	<block key="itemcrystal_Name" korean="얼음 수정 소환" />
+	<block key="itemcrystal_description_1" korean="얼음 수정을 소환한다." />
+	<block key="marlenpotiondex_Name" korean="마를린 민첩 징표" />
+	<block key="marlenpotiondex_description_1" korean="15분 동안 민첩이 3만큼 증가한다." />
+	<block key="marlenpotiondex_description_2" korean="15분 동안 민첩이 5만큼 증가한다." />
+	<block key="marlenpotionint_Name" korean="마를렌 지능 징표" />
+	<block key="marlenpotionint_description_1" korean="15분 동안 지능이 3만큼 증가한다." />
+	<block key="marlenpotionint_description_2" korean="15분 동안 지능이 5만큼 증가한다." />
+	<block key="marlenpotionstr_Name" korean="마를렌 힘 징표" />
+	<block key="marlenpotionstr_description_1" korean="15분 동안 힘이 3만큼 증가한다." />
+	<block key="marlenpotionstr_description_2" korean="15분 동안 힘이 5만큼 증가한다." />
+	<block key="potionatkpowup_Name" korean="물약_전투력_증가" />
+	<block key="potionatkpowup_description_1" korean="15분 동안 전투력이 10만큼 증가한다." />
+	<block key="potionatkpowup_description_2" korean="15분 동안 전투력이 20만큼 증가한다." />
+	<block key="potionatkpowup_description_3" korean="15분 동안 전투력이 40만큼 증가한다." />
+	<block key="potionatkpowup_description_4" korean="15분 동안 전투력이 80만큼 증가한다." />
+	<block key="potionatkpowup_description_5" korean="15분 동안 전투력이 160만큼 증가한다." />
+	<block key="potiondarkdown_Name" korean="물약_혼란_치료" />
+	<block key="potiondarkdown_description_1" korean="어둠 게이지를 10만큼 감소시킨다." />
+	<block key="potiondarkdown_description_2" korean="어둠 게이지를 20만큼 감소시킨다." />
+	<block key="potiondarkdown_description_3" korean="어둠 게이지를 30만큼 감소시킨다." />
+	<block key="potiondarkdown_description_4" korean="어둠 게이지를 40만큼 감소시킨다." />
+	<block key="potiondarkdown_description_5" korean="어둠 게이지를 50만큼 감소시킨다." />
+	<block key="potiondexup_Name" korean="물약_민첩_증가" />
+	<block key="potiondexup_description_1" korean="15분 동안 민첩이 3만큼 증가한다." />
+	<block key="potiondexup_description_2" korean="15분 동안 민첩이 6만큼 증가한다." />
+	<block key="potiondexup_description_3" korean="15분 동안 민첩이 9만큼 증가한다." />
+	<block key="potiondexup_description_4" korean="15분 동안 민첩이 15만큼 증가한다." />
+	<block key="potiondexup_description_5" korean="15분 동안 민첩이 21만큼 증가한다." />
+	<block key="potionfiredown_Name" korean="물약_화상_치료" />
+	<block key="potionfiredown_description_1" korean="불 게이지를 10만큼 감소시킨다." />
+	<block key="potionfiredown_description_2" korean="불 게이지를 20만큼 감소시킨다." />
+	<block key="potionfiredown_description_3" korean="불 게이지를 30만큼 감소시킨다." />
+	<block key="potionfiredown_description_4" korean="불 게이지를 40만큼 감소시킨다." />
+	<block key="potionfiredown_description_5" korean="불 게이지를 50만큼 감소시킨다." />
+	<block key="potionhprecovery_Name" korean="물약_생명력_회복" />
+	<block key="potionhprecovery_description_1" korean="즉시 HP를 37 ~ 45만큼 회복시킨다." />
+	<block key="potionhprecovery_description_2" korean="즉시 HP를 54 ~ 66만큼 회복시킨다." />
+	<block key="potionhprecovery_description_3" korean="즉시 HP를 104 ~ 127만큼 회복시킨다." />
+	<block key="potionhprecovery_description_4" korean="즉시 HP를 200 ~ 245만큼 회복시킨다." />
+	<block key="potionhprecovery_description_5" korean="즉시 HP를 328 ~ 401만큼 회복시킨다." />
+	<block key="potionhprecovery_description_6" korean="즉시 HP를 517 ~ 631만큼 회복시킨다." />
+	<block key="potionhprecovery_description_7" korean="즉시 HP를 766 ~ 936만큼 회복시킨다." />
+	<block key="potionicedown_Name" korean="물약_동상_치료" />
+	<block key="potionicedown_description_1" korean="얼음 게이지를 10만큼 감소시킨다." />
+	<block key="potionicedown_description_2" korean="얼음 게이지를 20만큼 감소시킨다." />
+	<block key="potionicedown_description_3" korean="얼음 게이지를 30만큼 감소시킨다." />
+	<block key="potionicedown_description_4" korean="얼음 게이지를 40만큼 감소시킨다." />
+	<block key="potionicedown_description_5" korean="얼음 게이지를 50만큼 감소시킨다." />
+	<block key="potionintup_Name" korean="물약_지능_증가" />
+	<block key="potionintup_description_1" korean="15분 동안 지능이 3만큼 증가한다." />
+	<block key="potionintup_description_2" korean="15분 동안 지능이 6만큼 증가한다." />
+	<block key="potionintup_description_3" korean="15분 동안 지능이 9만큼 증가한다." />
+	<block key="potionintup_description_4" korean="15분 동안 지능이 15만큼 증가한다." />
+	<block key="potionintup_description_5" korean="15분 동안 지능이 21만큼 증가한다." />
+	<block key="potionlightdown_Name" korean="물약_감전_치료" />
+	<block key="potionlightdown_description_1" korean="빛 게이지를 10만큼 감소시킨다." />
+	<block key="potionlightdown_description_2" korean="빛 게이지를 20만큼 감소시킨다." />
+	<block key="potionlightdown_description_3" korean="빛 게이지를 30만큼 감소시킨다." />
+	<block key="potionlightdown_description_4" korean="빛 게이지를 40만큼 감소시킨다." />
+	<block key="potionlightdown_description_5" korean="빛 게이지를 50만큼 감소시킨다." />
+	<block key="potionmacriup_Name" korean="물약_마법치명타_증가" />
+	<block key="potionmacriup_description_1" korean="15분 동안 마법치명타 확률이 3%만큼 증가한다." />
+	<block key="potionmacriup_description_2" korean="15분 동안 마법치명타 확률이 6%만큼 증가한다." />
+	<block key="potionmacriup_description_3" korean="15분 동안 마법치명타 확률이 9%만큼 증가한다." />
+	<block key="potionmacriup_description_4" korean="15분 동안 마법치명타 확률이 12%만큼 증가한다." />
+	<block key="potionmacriup_description_5" korean="15분 동안 마법치명타 확률이 15%만큼 증가한다." />
+	<block key="potionmprecovery_Name" korean="물약_정신력_회복" />
+	<block key="potionmprecovery_description_1" korean="즉시 MP를 37 ~ 45만큼 회복시킨다." />
+	<block key="potionmprecovery_description_2" korean="즉시 MP를 54 ~ 66만큼 회복시킨다." />
+	<block key="potionmprecovery_description_3" korean="즉시 MP를 104 ~ 127만큼 회복시킨다." />
+	<block key="potionmprecovery_description_4" korean="즉시 MP를 200 ~ 245만큼 회복시킨다." />
+	<block key="potionmprecovery_description_5" korean="즉시 MP를 328 ~ 401만큼 회복시킨다." />
+	<block key="potionmprecovery_description_6" korean="즉시 MP를 517 ~ 631만큼 회복시킨다." />
+	<block key="potionmprecovery_description_7" korean="즉시 MP를 766 ~ 936만큼 회복시킨다." />
+	<block key="potionmtlup_Name" korean="물약_집중력_증가" />
+	<block key="potionmtlup_description_1" korean="15분 동안 집중력이 3만큼 증가한다." />
+	<block key="potionmtlup_description_2" korean="15분 동안 집중력이 6만큼 증가한다." />
+	<block key="potionmtlup_description_3" korean="15분 동안 집중력이 9만큼 증가한다." />
+	<block key="potionmtlup_description_4" korean="15분 동안 집중력이 15만큼 증가한다." />
+	<block key="potionmtlup_description_5" korean="15분 동안 집중력이 21만큼 증가한다." />
+	<block key="potionspellpowup_Name" korean="물약_주문력_증가" />
+	<block key="potionspellpowup_description_1" korean="15분 동안 주문력이 10만큼 증가한다." />
+	<block key="potionspellpowup_description_2" korean="15분 동안 주문력이 20만큼 증가한다." />
+	<block key="potionspellpowup_description_3" korean="15분 동안 주문력이 40만큼 증가한다." />
+	<block key="potionspellpowup_description_4" korean="15분 동안 주문력이 80만큼 증가한다." />
+	<block key="potionspellpowup_description_5" korean="15분 동안 주문력이 160만큼 증가한다." />
+	<block key="potionstrup_Name" korean="물약_힘_증가" />
+	<block key="potionstrup_description_1" korean="15분 동안 힘이 3만큼 증가한다." />
+	<block key="potionstrup_description_2" korean="15분 동안 힘이 6만큼 증가한다." />
+	<block key="potionstrup_description_3" korean="15분 동안 힘이 9만큼 증가한다." />
+	<block key="potionstrup_description_4" korean="15분 동안 힘이 15만큼 증가한다." />
+	<block key="potionstrup_description_5" korean="15분 동안 힘이 21만큼 증가한다." />
+	<block key="potionvtlup_Name" korean="물약_체력_증가" />
+	<block key="potionvtlup_description_1" korean="15분 동안 체력이 3만큼 증가한다." />
+	<block key="potionvtlup_description_2" korean="15분 동안 체력이 6만큼 증가한다." />
+	<block key="potionvtlup_description_3" korean="15분 동안 체력이 9만큼 증가한다." />
+	<block key="potionvtlup_description_4" korean="15분 동안 체력이 15만큼 증가한다." />
+	<block key="potionvtlup_description_5" korean="15분 동안 체력이 21만큼 증가한다." />
+	<block key="potionwecriup_Name" korean="물약_무기치명타_증가" />
+	<block key="potionwecriup_description_1" korean="15분 동안 무기치명타 확률이 3%만큼 증가한다." />
+	<block key="potionwecriup_description_2" korean="15분 동안 무기치명타 확률이 6%만큼 증가한다." />
+	<block key="potionwecriup_description_3" korean="15분 동안 무기치명타 확률이 9%만큼 증가한다." />
+	<block key="potionwecriup_description_4" korean="15분 동안 무기치명타 확률이 12%만큼 증가한다." />
+	<block key="potionwecriup_description_5" korean="15분 동안 무기치명타 확률이 15%만큼 증가한다." />
+	<block key="returnposreg_Name" korean="귀환위치등록" />
+	<block key="returnposreg_description_1" korean="현재 위치를 임시 귀환위치로 등록한다." />
+	<block key="returnposunreg_Name" korean="귀환위치삭제" />
+	<block key="returnposunreg_description_1" korean="등록된 임시 귀환위치를 삭제한다." />
+	<block key="summon_creature_Name" korean="펠로우소환" />
+	<block key="summon_creature_description_1" korean="펠로우를 소환한다." />
+	<block key="taming_possible_Name" korean="길들이기가능" />
+	<block key="taming_possible_description_1" korean="대상을 길들일 수 있는 상태로 만들 수 이다." />
+	<block key="unknown_potion_Name" korean="알수없는 물약" />
+	<block key="unknown_potion_description_1" korean="무언가 알 수 없는 힘이 생길 것 같다." />
+	<block key="change_magicstone_Name" korean="마석변환" />
+	<block key="change_magicstone_description_1" korean="펠로우를 마석으로 변환시킨다." />
+	<block key="combine_ingredient_Name" korean="아이템 결합" />
+	<block key="combine_ingredient_description_1" korean="결합 가능한 아이템을 결합시킨다." />
+	<block key="comm_extraction_item_Name" korean="아이템 추출" />
+	<block key="comm_extraction_item_description_1" korean="장비아이템에서 강화석을 추출한다." />
+	<block key="comm_magic_pre_Name" korean="마석변환_전처리" />
+	<block key="comm_magic_pre_description_1" korean="마석변환 전처리" />
+	<block key="comm_magicstone_addo_Name" korean="마석장착" />
+	<block key="comm_magicstone_addo_description_1" korean="마석을 장착한다." />
+	<block key="comm_magicstone_conv_Name" korean="마석변환_사용안함" />
+	<block key="comm_magicstone_conv_description_1" korean="마석변환" />
+	<block key="comm_reinforce_item_Name" korean="아이템 강화" />
+	<block key="comm_reinforce_item_description_1" korean="강화석을 이용해서 아이템을 강화한다." />
+	<block key="comm_return_Name" korean="귀환" />
+	<block key="comm_return_description_1" korean="지정된 귀환위치로 이동한다." />
+	<block key="comm_return01_Name" korean="귀환(링크)" />
+	<block key="comm_return01_description_1" korean="귀환" />
+	<block key="comm_warp_Name" korean="워프" />
+	<block key="comm_warp_description_1" korean="정해진 위치로 워프한다." />
+	<block key="comm_move_portal_Name" korean="포탈 이동" />
+	<block key="comm_move_portal_description_1" korean="정해진 위치로 이동한다." />
+	<block key="death_penalty_Name" korean="데스페널티" />
+	<block key="death_penalty_description_1" korean="3분 동안 공격력과 방어력이 70% 감소한다. 부활후유증 상태에서 죽게될경우, 후유증 지속시간이 증가한다." />
+	<block key="death_penalty_description_2" korean="4분 30초 동안 공격력과 방어력이 70% 감소한다. 부활후유증 상태에서 죽게될경우, 후유증 지속시간이 증가한다." />
+	<block key="death_penalty_description_3" korean="6분 동안 공격력과 방어력이 70% 감소한다. 부활후유증 상태에서 죽게될경우, 후유증 지속시간이 증가한다." />
+	<block key="death_penalty_description_4" korean="7분 50초 동안 공격력과 방어력이 70% 감소한다. 부활후유증 상태에서 죽게될경우, 후유증 지속시간이 증가한다." />
+	<block key="death_penalty_description_5" korean="9분 동안 공격력과 방어력이 70% 감소한다. 부활후유증 상태에서 죽게될경우, 후유증 지속시간이 증가한다." />
+	<block key="dyeing_hair_Name" korean="염색_머리" />
+	<block key="dyeing_hair_description_1" korean="머리에 염색하기" />
+	<block key="dyeing_item_Name" korean="염색_아이템" />
+	<block key="dyeing_item_description_1" korean="염색 아이템" />
+	<block key="scinariodraw_Name" korean="물통 채우기" />
+	<block key="scinariodraw_description_1" korean="물통 채우기" />
+	<block key="scinariodrink_Name" korean="물약 마시기" />
+	<block key="scinariodrink_description_1" korean="물약 마시기" />
+	<block key="scinariocasting_Name" korean="추적기 사용" />
+	<block key="scinariocasting_description_1" korean="추적기 사용" />
+	<block key="scinariobait_Name" korean="미끼 놓기" />
+	<block key="scinariobait_description_1" korean="미끼 놓기" />
+	<block key="summoncreature_Name" korean="펠로우소환" />
+	<block key="summoncreature_description_1" korean="펠로우 소환" />
+	<block key="taming_penalty_playe_Name" korean="테이밍 패널티-플레이어" />
+	<block key="taming_penalty_playe_description_1" korean="테이밍 페널티_플레이어" />
+	<block key="taming_penalty_targe_Name" korean="테이밍 패널티-ENPC" />
+	<block key="taming_penalty_targe_description_1" korean="테이밍 페널티_ENPC" />
+	<block key="taming_ride_fail_Name" korean="테이밍 올라타기 실패" />
+	<block key="taming_ride_fail_description_1" korean="테이밍 실패" />
+	<block key="arcampfire_Name" korean="모닥불" />
+	<block key="arcampfire_description_1" korean="모닥불" />
+	<block key="arcrater01_Name" korean="분화구1" />
+	<block key="arcrater01_description_1" korean="분화구1" />
+	<block key="arcrater02_Name" korean="분화구2(분출)" />
+	<block key="arcrater02_description_1" korean="분화구2(분출)" />
+	<block key="arcrater03_Name" korean="지역_분화구3(랜덤 소환)" />
+	<block key="arcrater03_description_1" korean="지역_분화구3(랜덤 소환)" />
+	<block key="ardamagedark_Name" korean="지역_어둠_데미지" />
+	<block key="ardamagedark_description_1" korean="지역_어둠_데미지" />
+	<block key="ardamagedark_description_2" korean="지역_어둠_데미지" />
+	<block key="ardamagedark_description_3" korean="지역_어둠_데미지" />
+	<block key="ardamagefire_Name" korean="지역_불_데미지" />
+	<block key="ardamagefire_description_1" korean="지역_불_데미지" />
+	<block key="ardamagefire_description_2" korean="지역_불_데미지" />
+	<block key="ardamagefire_description_3" korean="지역_불_데미지" />
+	<block key="ardamageice_Name" korean="지역_얼음_데미지" />
+	<block key="ardamageice_description_1" korean="지역_얼음_데미지" />
+	<block key="ardamageice_description_2" korean="지역_얼음_데미지" />
+	<block key="ardamageice_description_3" korean="지역_얼음_데미지" />
+	<block key="ardamagelight_Name" korean="지역_빛_데미지" />
+	<block key="ardamagelight_description_1" korean="지역_빛_데미지" />
+	<block key="ardamagelight_description_2" korean="지역_빛_데미지" />
+	<block key="ardamagelight_description_3" korean="지역_빛_데미지" />
+	<block key="areafireback01_Name" korean="지역_불_넉백01" />
+	<block key="areafireback01_description_1" korean="지역_불_넉백01" />
+	<block key="areafireback02_Name" korean="지역_불_넉백02" />
+	<block key="areafireback02_description_1" korean="지역_불_넉백02" />
+	<block key="areafireback03_Name" korean="지역_불_넉백03" />
+	<block key="areafireback03_description_1" korean="지역_불_넉백03" />
+	<block key="areafireback04_Name" korean="지역_불_넉백04" />
+	<block key="areafireback04_description_1" korean="지역_불_넉백04" />
+	<block key="areafireback05_Name" korean="지역_불_넉백05" />
+	<block key="areafireback05_description_1" korean="지역_불_넉백05" />
+	<block key="areafireback06_Name" korean="지역_불_넉백06" />
+	<block key="areafireback06_description_1" korean="지역_불_넉백06" />
+	<block key="arfireobj_Name" korean="지역_화염 오브젝트(공통, 넉백)" />
+	<block key="arfireobj_description_1" korean="지역_화염 오브젝트(공통, 넉백)" />
+	<block key="argaugedarkup_Name" korean="지역_어둠게이지_증가" />
+	<block key="argaugedarkup_description_1" korean="지역_어둠게이지_증가" />
+	<block key="argaugedarkup_description_2" korean="지역_어둠게이지_증가" />
+	<block key="argaugedarkup_description_3" korean="지역_어둠게이지_증가" />
+	<block key="argaugefireup_Name" korean="지역_불게이지_증가" />
+	<block key="argaugefireup_description_1" korean="지역_불게이지_증가" />
+	<block key="argaugefireup_description_2" korean="지역_불게이지_증가" />
+	<block key="argaugefireup_description_3" korean="지역_불게이지_증가" />
+	<block key="argaugeicedown_Name" korean="지역_얼음게이지_감소" />
+	<block key="argaugeicedown_description_1" korean="지역_얼음게이지_감소" />
+	<block key="argaugeicedown_description_2" korean="지역_얼음게이지_감소" />
+	<block key="argaugeicedown_description_3" korean="지역_얼음게이지_감소" />
+	<block key="argaugeiceup_Name" korean="지역_얼음게이지_증가" />
+	<block key="argaugeiceup_description_1" korean="지역_얼음게이지_증가" />
+	<block key="argaugeiceup_description_2" korean="지역_얼음게이지_증가" />
+	<block key="argaugeiceup_description_3" korean="지역_얼음게이지_증가" />
+	<block key="argaugelightup_Name" korean="지역_빛게이지_증가" />
+	<block key="argaugelightup_description_1" korean="지역_빛게이지_증가" />
+	<block key="argaugelightup_description_2" korean="지역_빛게이지_증가" />
+	<block key="argaugelightup_description_3" korean="지역_빛게이지_증가" />
+	<block key="armagma01_Name" korean="화염지대" />
+	<block key="armagma01_description_1" korean="화염지대" />
+	<block key="armagma01_description_2" korean="화염지대" />
+	<block key="armagma02_Name" korean="용암지대(몬스터)" />
+	<block key="armagma02_description_1" korean="용암지대(몬스터)" />
+	<block key="arspider_Name" korean="거미줄 지역" />
+	<block key="arspider_description_1" korean="거미줄 지역" />
+	<block key="arsummoner_Name" korean="지역_골렘 소환수" />
+	<block key="arsummoner_description_1" korean="지역_골렘 소환수" />
+	<block key="arwarmarea01_Name" korean="따뜻한 지역(공통)" />
+	<block key="arwarmarea01_description_1" korean="따뜻한 지역(공통)" />
+	<block key="arwater01_Name" korean="물" />
+	<block key="arwater01_description_1" korean="물" />
+	<block key="arwater02_Name" korean="물웅덩이(몬스터)" />
+	<block key="arwater02_description_1" korean="물웅덩이(몬스터)" />
+	<block key="linktest_Name" korean="링크스킬테스트용" />
+	<block key="linktest_description_1" korean="링크스킬테스트용" />
+	<block key="linktest2_Name" korean="링크스킬테스트용2" />
+	<block key="linktest2_description_1" korean="링크스킬테스트용2" />
+	<block key="linktest3_Name" korean="링크스킬테스트용3" />
+	<block key="linktest3_description_1" korean="링크스킬테스트용3" />
+	<block key="linktest4_Name" korean="링크스킬테스트용4" />
+	<block key="linktest4_description_1" korean="링크스킬테스트용4" />
+	<block key="obdamagedark_Name" korean="오브젝트_어둠_데미지" />
+	<block key="obdamagedark_description_1" korean="오브젝트_어둠_데미지" />
+	<block key="obdamagedark_description_2" korean="오브젝트_어둠_데미지" />
+	<block key="obdamagedark_description_3" korean="오브젝트_어둠_데미지" />
+	<block key="obdamagefire_Name" korean="오브젝트_불_데미지" />
+	<block key="obdamagefire_description_1" korean="오브젝트_불_데미지" />
+	<block key="obdamagefire_description_2" korean="오브젝트_불_데미지" />
+	<block key="obdamagefire_description_3" korean="오브젝트_불_데미지" />
+	<block key="obdamageice_Name" korean="오브젝트_얼음_데미지" />
+	<block key="obdamageice_description_1" korean="오브젝트_얼음_데미지" />
+	<block key="obdamageice_description_2" korean="오브젝트_얼음_데미지" />
+	<block key="obdamageice_description_3" korean="오브젝트_얼음_데미지" />
+	<block key="obdamagelight_Name" korean="오브젝트_빛_데미지" />
+	<block key="obdamagelight_description_1" korean="오브젝트_빛_데미지" />
+	<block key="obdamagelight_description_2" korean="오브젝트_빛_데미지" />
+	<block key="obdamagelight_description_3" korean="오브젝트_빛_데미지" />
+	<block key="obgaugedarkup_Name" korean="오브젝트_어둠게이지_증가" />
+	<block key="obgaugedarkup_description_1" korean="오브젝트_어둠게이지_증가" />
+	<block key="obgaugedarkup_description_2" korean="오브젝트_어둠게이지_증가" />
+	<block key="obgaugedarkup_description_3" korean="오브젝트_어둠게이지_증가" />
+	<block key="obgaugefireup_Name" korean="오브젝트_불게이지_증가" />
+	<block key="obgaugefireup_description_1" korean="오브젝트_불게이지_증가" />
+	<block key="obgaugefireup_description_2" korean="오브젝트_불게이지_증가" />
+	<block key="obgaugefireup_description_3" korean="오브젝트_불게이지_증가" />
+	<block key="obgaugeiceup_Name" korean="오브젝트_얼음게이지_증가" />
+	<block key="obgaugeiceup_description_1" korean="오브젝트_얼음게이지_증가" />
+	<block key="obgaugeiceup_description_2" korean="오브젝트_얼음게이지_증가" />
+	<block key="obgaugeiceup_description_3" korean="오브젝트_얼음게이지_증가" />
+	<block key="obgaugelightup_Name" korean="오브젝트_빛게이지_증가" />
+	<block key="obgaugelightup_description_1" korean="오브젝트_빛게이지_증가" />
+	<block key="obgaugelightup_description_2" korean="오브젝트_빛게이지_증가" />
+	<block key="obgaugelightup_description_3" korean="오브젝트_빛게이지_증가" />
+	<block key="summoncrystal_Name" korean="임시_얼음 수정 소환" />
+	<block key="summoncrystal_description_1" korean="임시_얼음 수정 소환" />
+	<block key="followerstatfire_Name" korean="골렘 부하_화상 상태" />
+	<block key="followerstatfire_description_1" korean="골렘 부하_화상 상태" />
+	<block key="followerstatfire_description_2" korean="골렘 부하_화상 상태" />
+	<block key="followerstatfire_description_3" korean="골렘 부하_화상 상태" />
+	<block key="followerstatice_Name" korean="골렘 부하_동상 상태" />
+	<block key="followerstatice_description_1" korean="골렘 부하_동상 상태" />
+	<block key="followerstatice_description_2" korean="골렘 부하_동상 상태" />
+	<block key="followerstatice_description_3" korean="골렘 부하_동상 상태" />
+	<block key="golemstatfire_Name" korean="화염 골렘_화상 상태" />
+	<block key="golemstatfire_description_1" korean="화염 골렘_화상 상태" />
+	<block key="golemstatfire_description_2" korean="화염 골렘_화상 상태" />
+	<block key="golemstatfire_description_3" korean="화염 골렘_화상 상태" />
+	<block key="golemstatice_Name" korean="화염 골렘_동상 상태" />
+	<block key="golemstatice_description_1" korean="화염 골렘_동상 상태" />
+	<block key="golemstatice_description_2" korean="화염 골렘_동상 상태" />
+	<block key="golemstatice_description_3" korean="화염 골렘_동상 상태" />
+	<block key="jarstatfire_Name" korean="화로_화상 상태" />
+	<block key="jarstatfire_description_1" korean="화로_화상 상태" />
+	<block key="jarstatfire_description_2" korean="화로_화상 상태" />
+	<block key="jarstatfire_description_3" korean="화로_화상 상태" />
+	<block key="statusdark_Name" korean="혼란상태" />
+	<block key="statusdark_description_1" korean="혼란상태" />
+	<block key="statusdark_description_2" korean="혼란상태" />
+	<block key="statusdark_description_3" korean="혼란상태" />
+	<block key="statusdhorselight_Name" korean="감전상태" />
+	<block key="statusdhorselight_description_1" korean="감전상태" />
+	<block key="statusdhorselight_description_2" korean="감전상태" />
+	<block key="statusdhorselight_description_3" korean="감전상태" />
+	<block key="statusfire_Name" korean="화상상태" />
+	<block key="statusfire_description_1" korean="화상상태" />
+	<block key="statusfire_description_2" korean="화상상태" />
+	<block key="statusfire_description_3" korean="화상상태" />
+	<block key="statusfiretotem_Name" korean="기원의 제단_화상 상태" />
+	<block key="statusfiretotem_description_1" korean="기원의 제단_화상 상태" />
+	<block key="statusfiretotem_description_2" korean="기원의 제단_화상 상태" />
+	<block key="statusfiretotem_description_3" korean="기원의 제단_화상 상태" />
+	<block key="statushoundfire_Name" korean="헬 하운드_화상 상태" />
+	<block key="statushoundfire_description_1" korean="헬 하운드_화상 상태" />
+	<block key="statushoundfire_description_2" korean="헬 하운드_화상 상태" />
+	<block key="statushoundfire_description_3" korean="헬 하운드_화상 상태" />
+	<block key="statushoundice_Name" korean="헬 하운드_동상 상태" />
+	<block key="statushoundice_description_1" korean="헬 하운드_동상 상태" />
+	<block key="statushoundice_description_2" korean="헬 하운드_동상 상태" />
+	<block key="statushoundice_description_3" korean="헬 하운드_동상 상태" />
+	<block key="statusice_Name" korean="동상상태" />
+	<block key="statusice_description_1" korean="동상상태" />
+	<block key="statusice_description_2" korean="동상상태" />
+	<block key="statusice_description_3" korean="동상상태" />
+	<block key="statuslight_Name" korean="감전상태" />
+	<block key="statuslight_description_1" korean="감전상태" />
+	<block key="statuslight_description_2" korean="감전상태" />
+	<block key="statuslight_description_3" korean="감전상태" />
+	<block key="statussmanfire_Name" korean="설인_화상 상태" />
+	<block key="statussmanfire_description_1" korean="설인_화상 상태" />
+	<block key="statussmanfire_description_2" korean="설인_화상 상태" />
+	<block key="statussmanfire_description_3" korean="설인_화상 상태" />
+	<block key="statussmanice_Name" korean="설인_동상 상태" />
+	<block key="statussmanice_description_1" korean="설인_동상 상태" />
+	<block key="statussmanice_description_2" korean="설인_동상 상태" />
+	<block key="statussmanice_description_3" korean="설인_동상 상태" />
+	<block key="statusturtlefire_Name" korean="용암 거북_화상 상태" />
+	<block key="statusturtlefire_description_1" korean="용암 거북_화상 상태" />
+	<block key="statusturtlefire_description_2" korean="용암 거북_화상 상태" />
+	<block key="statusturtlefire_description_3" korean="용암 거북_화상 상태" />
+	<block key="statusturtleice_Name" korean="용암 거북_동상 상태" />
+	<block key="statusturtleice_description_1" korean="용암 거북_동상 상태" />
+	<block key="statusturtleice_description_2" korean="용암 거북_동상 상태" />
+	<block key="statusturtleice_description_3" korean="용암 거북_동상 상태" />
+	<block key="summonstatfire_Name" korean="골렘 소환수_화상 상태" />
+	<block key="summonstatfire_description_1" korean="골렘 소환수_화상 상태" />
+	<block key="summonstatfire_description_2" korean="골렘 소환수_화상 상태" />
+	<block key="summonstatfire_description_3" korean="골렘 소환수_화상 상태" />
+	<block key="summonstatice_Name" korean="골렘 소환수_동상 상태" />
+	<block key="summonstatice_description_1" korean="골렘 소환수_동상 상태" />
+	<block key="summonstatice_description_2" korean="골렘 소환수_동상 상태" />
+	<block key="summonstatice_description_3" korean="골렘 소환수_동상 상태" />
+	<block key="common_seaze_move_Name" korean="길들이기" />
+	<block key="common_seaze_move_Description_1" korean="대상을 선택한 후 스킬을 사용하면 길들이기 상태가 된다. 길들이기 상태에서 선택된 대상의 등으로 점프해서 올라타면 길들이기가 시작된다." />
+	<block key="pigrushlink_Name" korean="멧돼지 돌진 링크" />
+	<block key="pigrushlink_Description_1" korean="멧돼지 돌진 링크" />
+	<block key="beardoubleatk_description_2" korean="멧돼지 돌진 링크" />
+	<block key="bearrushlink_description_1" korean="멧돼지 돌진 링크" />
+	<block key="bearrushlink_Name" korean="곰 돌진 링크" />
+	<block key="cowfurycow_description_1" korean="소 광폭화" />
+	<block key="cowfurycow_Name" korean="소 광폭화" />
+	<block key="itco_blackmeat_Name" korean="검은 고깃덩어리 놓기" />
+	<block key="itco_blackmeat_description_1" korean="어두운 기운이 깃든 고깃덩어리를 땅에 놓는다." />
+	<block key="itco_hprecoverycraft_Name" korean="물약_생명력_회복_제작" />
+	<block key="itco_hprecoverycraft_description_1" korean="제작용 HP 물약1" />
+	<block key="itco_hprecoverycraft_description_2" korean="제작용 HP 물약2" />
+	<block key="itco_hprecoverycraft_description_3" korean="제작용 HP 물약3" />
+	<block key="itco_hprecoverycraft_description_4" korean="제작용 HP 물약4" />
+	<block key="itco_hprecoverycraft_description_5" korean="제작용 HP 물약5" />
+	<block key="itco_mprecoverycraft_Name" korean="물약_생명력_회복_제작" />
+	<block key="itco_mprecoverycraft_description_1" korean="제작용 MP 물약1" />
+	<block key="itco_mprecoverycraft_description_2" korean="제작용 MP 물약2" />
+	<block key="itco_mprecoverycraft_description_3" korean="제작용 MP 물약3" />
+	<block key="itco_mprecoverycraft_description_4" korean="제작용 MP 물약4" />
+	<block key="itco_mprecoverycraft_description_5" korean="제작용 MP 물약5" />
+	<block key="itco_flamebomb_Name" korean="불꽃 폭탄" />
+	<block key="itco_flamebomb_description_1" korean="불꽃 폭탄" />
+	<block key="itcoflamebomb_Name" korean="불꽃 폭탄" />
+	<block key="itcoflamebomb_description_1" korean="불꽃 폭탄" />
+	<block key="itco_holywater_Name" korean="성수" />
+	<block key="itco_holywater_description_1" korean="성수" />
+	<block key="jelnalight01_Name" korean="젤나리스의 기운 폭발" />
+	<block key="jelnalight02_Name" korean="젤나리스의 강력한 기운 폭발" />
+	<block key="itco_garlicextract_Name" korean="마늘엑기스(아이템용)" />
+	<block key="itco_garlicextract_description_1" korean="마늘엑기스(아이템용)" />
+	<block key="itco_throwbomb_Name" korean="폭탄 던지기" />
+	<block key="itco_throwbomb_description_1" korean="폭탄 던지기" />
+	<block key="status_fire_max_01_Name" korean="화상 3단계 효과" />
+	<block key="status_fire_max_01_description_1" korean="화상 3단계 효과" />
+	<block key="itco_gaugedarkdotup_Name" korean="어둠게이지 Dotup" />
+	<block key="itco_gaugedarkdotup_description_1" korean="어둠게이지 Dotup" />
+	<block key="itco_gaugefiredotup_Name" korean="화염게이지 Dotup" />
+	<block key="itco_gaugefiredotup_description_1" korean="화염게이지 Dotup" />
+	<block key="itco_gaugeicedotup_Name" korean="냉기게이지 Dotup" />
+	<block key="itco_gaugeicedotup_description_1" korean="냉기게이지 Dotup" />
+	<block key="itco_gaugelightdotup_Name" korean="빛게이지 Dotup" />
+	<block key="itco_gaugelightdotup_description_1" korean="빛게이지 Dotup" />
+	<block key="itco_gaugemaxupdark_Name" korean="어둠게이지 Maxup" />
+	<block key="itco_gaugemaxupdark_description_1" korean="어둠게이지 Maxup" />
+	<block key="itco_gaugemaxupfire_Name" korean="화염게이지 Maxup" />
+	<block key="itco_gaugemaxupfire_description_1" korean="화염게이지 Maxup" />
+	<block key="itco_gaugemaxupice_Name" korean="냉기게이지 Maxup" />
+	<block key="itco_gaugemaxupice_description_1" korean="냉기게이지 Maxup" />
+	<block key="itco_gaugemaxuplight_Name" korean="빛게이지 Maxup" />
+	<block key="itco_gaugemaxuplight_description_1" korean="빛게이지 Maxup" />
+	<block key="itco_resistupdark_Name" korean="어둠속성 up" />
+	<block key="itco_resistupdark_description_1" korean="어둠속성 up" />
+	<block key="itco_resistupfire_Name" korean="화염속성 up" />
+	<block key="itco_resistupfire_description_1" korean="화염속성 up" />
+	<block key="itco_resistupice_Name" korean="냉기속성 up" />
+	<block key="itco_resistupice_description_1" korean="냉기속성 up" />
+	<block key="itco_resistuplight_Name" korean="빛속성 up" />
+	<block key="itco_resistuplight_description_1" korean="빛속성 up" />
+	<block key="food_qu_bakedrabbit_Name" korean="퀘템 스킬(토끼구이)" />
+	<block key="food_qu_bakedrabbit_description_1" korean="퀘템 스킬(토끼구이) 1" />
+	<block key="food_qu_bakedrabbit_description_2" korean="퀘템 스킬(토끼구이) 2" />
+	<block key="food_qu_bakedrabbit_description_3" korean="퀘템 스킬(토끼구이) 3" />
+	<block key="food_qu_bakedrabbit_description_4" korean="퀘템 스킬(토끼구이) 4" />
+	<block key="food_qu_bakedrabbit_description_5" korean="퀘템 스킬(토끼구이) 5" />
+	<block key="food_qu_bakedrabbit_description_6" korean="퀘템 스킬(토끼구이) 6" />
+	<block key="food_qu_bakedrabbit_description_7" korean="퀘템 스킬(토끼구이) 7" />
+	<block key="food_qu_honeypie_Name" korean="퀘템 스킬(벌꿀파이)" />
+	<block key="food_qu_honeypie_description_1" korean="퀘템 스킬(벌꿀파이) 1" />
+	<block key="food_qu_honeypie_description_2" korean="퀘템 스킬(벌꿀파이) 2" />
+	<block key="food_qu_honeypie_description_3" korean="퀘템 스킬(벌꿀파이) 3" />
+	<block key="food_qu_honeypie_description_4" korean="퀘템 스킬(벌꿀파이) 4" />
+	<block key="food_qu_honeypie_description_5" korean="퀘템 스킬(벌꿀파이) 5" />
+	<block key="food_qu_honeypie_description_6" korean="퀘템 스킬(벌꿀파이) 6" />
+	<block key="food_qu_honeypie_description_7" korean="퀘템 스킬(벌꿀파이) 7" />
+	<block key="sitdown_Name" korean="휴식" />
+	<block key="sitdown_description_1" korean="휴식 시 생명력 회복량 증가" />
+	<block key="arkillzone01_Name" korean="즉사 지역" />
+	<block key="arkillzone01_description_1" korean="즉사 지역" />
+	<block key="gstarjump_name" korean="지스타점프" />
+	<block key="gstarjump_description_1" korean="지스타점프" />
+	<block key="arrowrainlink_description_1" korean="내부데이터" />
+	<block key="dualshot_Name" korean="이중 사격" />
+	<block key="dualshot_description_1" korean="화살 두개를 교차시켜 발사한다." />
+	<block key="dualshot_description_2" korean="화살 두개를 교차시켜 발사한다." />
+	<block key="dualshot_description_3" korean="화살 두개를 교차시켜 발사한다." />
+	<block key="dualshot_description_4" korean="화살 두개를 교차시켜 발사한다." />
+	<block key="dualshot_description_5" korean="화살 두개를 교차시켜 발사한다." />
+	<block key="dualshot_description_6" korean="화살 두개를 교차시켜 발사한다." />
+	<block key="dualshot_description_7" korean="화살 두개를 교차시켜 발사한다." />
+	<block key="dualshot_description_8" korean="화살 두개를 교차시켜 발사한다." />
+	<block key="dualshot_description_9" korean="화살 두개를 교차시켜 발사한다." />
+	<block key="dualshot_description_10" korean="화살 두개를 교차시켜 발사한다." />
+	<block key="massacreshot_Name" korean="학살의 일격" />
+	<block key="massacreshot_description_1" korean="조각으로 만들어진 화살을 발사한다. 적중 시 화살이 파쇄 되어 반경 5M 대상 모두에게 피해를 준다." />
+	<block key="massacreshot_description_2" korean="조각으로 만들어진 화살을 발사한다. 적중 시 화살이 파쇄 되어 반경 5M 대상 모두에게 피해를 준다." />
+	<block key="massacreshot_description_3" korean="조각으로 만들어진 화살을 발사한다. 적중 시 화살이 파쇄 되어 반경 5M 대상 모두에게 피해를 준다." />
+	<block key="massacreshot_description_4" korean="조각으로 만들어진 화살을 발사한다. 적중 시 화살이 파쇄 되어 반경 5M 대상 모두에게 피해를 준다." />
+	<block key="massacreshot_description_5" korean="조각으로 만들어진 화살을 발사한다. 적중 시 화살이 파쇄 되어 반경 5M 대상 모두에게 피해를 준다." />
+	<block key="massacreshot_description_6" korean="조각으로 만들어진 화살을 발사한다. 적중 시 화살이 파쇄 되어 반경 5M 대상 모두에게 피해를 준다." />
+	<block key="massacreshot_description_7" korean="조각으로 만들어진 화살을 발사한다. 적중 시 화살이 파쇄 되어 반경 5M 대상 모두에게 피해를 준다." />
+	<block key="massacreshot_description_8" korean="조각으로 만들어진 화살을 발사한다. 적중 시 화살이 파쇄 되어 반경 5M 대상 모두에게 피해를 준다." />
+	<block key="massacreshot_description_9" korean="조각으로 만들어진 화살을 발사한다. 적중 시 화살이 파쇄 되어 반경 5M 대상 모두에게 피해를 준다." />
+	<block key="massacreshot_description_10" korean="조각으로 만들어진 화살을 발사한다. 적중 시 화살이 파쇄 되어 반경 5M 대상 모두에게 피해를 준다." />
+	<block key="mobragirepair02_Name" korean="석궁 수리" />
+	<block key="mobragirepair02_Description_1" korean="석궁 수리" />
+	<block key="mobragirepair03_Name" korean="석궁 수리" />
+	<block key="mobragirepair03_Description_1" korean="석궁 수리" />
+	<block key="mobragirepair04_Name" korean="석궁 수리" />
+	<block key="mobragirepair04_Description_1" korean="석궁 수리" />
+	<block key="mobragirepair05_Name" korean="석궁 수리" />
+	<block key="mobragirepair05_Description_1" korean="석궁 수리" />
+	<block key="mocommondel_Name" korean="세게 치기" />
+	<block key="mocommondel_Description_1" korean="세게 치기" />
+	<block key="wr_newbies_Name" korean="여신의 가호" />
+	<block key="wr_newbies_Description_1" korean="엘로라 여신이 내려준 축복입니다.
+
+ - 사망 시 후유증에 걸리지 않도록 해주는 특별한 효과가 있습니다.
+
+ - 자신이 7Lv이 되면 엘로라 여신의 가호 효과를 받을 수 없습니다." />
+	<block key="pr_newbies_Name" korean="여신의 가호" />
+	<block key="pr_newbies_Description_1" korean="엘로라 여신이 내려준 축복입니다.
+
+ - 사망 시 후유증에 걸리지 않도록 해주는 특별한 효과가 있습니다.
+
+ - 자신이 7Lv이 되면 엘로라 여신의 가호 효과를 받을 수 없습니다." />
+	<block key="wz_newbies_Name" korean="여신의 가호" />
+	<block key="wz_newbies_Description_1" korean="엘로라 여신이 내려준 축복입니다.
+
+ - 사망 시 후유증에 걸리지 않도록 해주는 특별한 효과가 있습니다.
+
+ - 자신이 7Lv이 되면 엘로라 여신의 가호 효과를 받을 수 없습니다." />
+	<block key="tf_newbies_Name" korean="여신의 가호" />
+	<block key="tf_newbies_Description_1" korean="엘로라 여신이 내려준 축복입니다.
+
+ - 사망 시 후유증에 걸리지 않도록 해주는 특별한 효과가 있습니다.
+
+ - 자신이 7Lv이 되면 엘로라 여신의 가호 효과를 받을 수 없습니다." />
+	<block key="gd_newbies_Name" korean="여신의 가호" />
+	<block key="gd_newbies_Description_1" korean="엘로라 여신이 내려준 축복입니다.
+
+ - 사망 시 후유증에 걸리지 않도록 해주는 특별한 효과가 있습니다.
+
+ - 자신이 7Lv이 되면 엘로라 여신의 가호 효과를 받을 수 없습니다." />
+	<block key="motoru02_Name" korean="강한 일격" />
+	<block key="motoru02_Description_1" korean="강한 일격" />
+	<block key="morena01_Name" korean="빛의 일격" />
+	<block key="morena01_Description_1" korean="빛의 일격" />
+	<block key="moreactresist01_name" korean="리액션 저항" />
+	<block key="moreactresist04_name" korean="리액션 저항" />
+	<block key="reinforcestone_level_name" korean="강화석 레벨 업" />
+	<block key="reinfocestone_bless_name" korean="강화석 축복" />
+	<block key="mobear03_name" korean="양발 때리기" />
+	<block key="mobear03_Description_1" korean="양발 때리기" />
+	<block key="moliger01_name" korean="광란의 스매쉬" />
+	<block key="moliger01_Description_1" korean="광란의 스매쉬" />
+	<block key="moliger02_name" korean="갑옷 찢기" />
+	<block key="moliger02_Description_1" korean="갑옷 찢기" />
+	<block key="setskill_gd_1000_description_1" korean="엑자란의 축복
+물리방어 / 마법방어가 50% 증가합니다." />
+	<block key="setskill_wr_1000_description_1" korean="엑자란의 축복
+공격 시 획득하는 분노가 2 증가 합니다." />
+	<block key="setskill_tf_1000_description_1" korean="엑자란의 축복
+대상의 후방에서 공격 시 20%의 피해를 더 입힙니다." />
+	<block key="setskill_wz_1000_description_1" korean="엑자란의 축복
+주문 시전 시 시전속도가 20% 빨라집니다." />
+	<block key="setskill_pr_1000_description_1" korean="엑자란의 축복
+스킬 재사용시간이 50% 감소합니다." />
+	<block key="mofiregolem10_Name" korean="화염 폭탄 바위 소환" />
+	<block key="mofiregolem10_Description_1" korean="화염 폭탄 바위 소환" />
+	<block key="mofiregolem11_Name" korean="화염 폭탄 바위 소환" />
+	<block key="mofiregolem11_Description_1" korean="화염 폭탄 바위 소환" />
+	<block key="mofrostdrag02_Name" korean="냉기 폭풍" />
+	<block key="mofrostdrag03_Name" korean="냉기 브레스" />
+	<block key="momatura02_name" korean="지옥의 내리치기" />
+	<block key="setskillall31_Description_1" korean="타락한 요정의 가호 효과 발생" />
+	<block key="setskillgd22_Description_1" korean="모든 세트 착용 시 근위대의 방호 효과 적용" />
+	<block key="setskillwr23_Description_1" korean="모든 세트 착용 시 근위대의 광폭 효과 적용" />
+	<block key="setskilltf24_Description_1" korean="모든 세트 착용 시 근위대의 기습 효과 적용" />
+	<block key="setskillwz25_Description_1" korean="모든 세트 착용 시 근위대의 쾌속 효과 적용" />
+	<block key="setskillpr26_Description_1" korean="모든 세트 착용 시 근위대의 신념 효과 적용" />
+	<block key="setskillgd37_Description_1" korean="공격 성공 시 20% 의 확률로 사나운 불꽃 발동" />
+	<block key="setskillwr38_Description_1" korean="공격 성공 시 20% 의 확률로 사나운 불꽃 발동" />
+	<block key="setskilltf39_Description_1" korean="공격 성공 시 20% 의 확률로 사나운 불꽃 발동" />
+	<block key="setskillwz310_Description_1" korean="공격 성공 시 20% 의 확률로 사나운 불꽃 발동" />
+	<block key="setskillpr311_Description_1" korean="공격 성공 시 20% 의 확률로 사나운 불꽃 발동" />
+	<block key="setskillall312_Description_1" korean="흡혈귀의 맹렬한 흡수 효과 발생" />
+	<block key="setskillgd313_Description_1" korean="공격 성공 시 20%의 확률로 어둠의 저주 발동" />
+	<block key="setskillwr314_Description_1" korean="공격 성공 시 20%의 확률로 어둠의 저주 발동" />
+	<block key="setskilltf315_Description_1" korean="공격 성공 시 20%의 확률로 어둠의 저주 발동" />
+	<block key="setskillwz316_Description_1" korean="공격 성공 시 20%의 확률로 어둠의 저주 발동" />
+	<block key="setskillpr317_Description_1" korean="공격 성공 시 20%의 확률로 어둠의 저주 발동" />
+	<block key="setskillgd318_Description_1" korean="서리군단 공격시 15%의 확률로 파르나의 가호 발동" />
+	<block key="setskillwr319_Description_1" korean="서리군단 공격시 15%의 확률로 파르나의 가호 발동" />
+	<block key="setskilltf320_Description_1" korean="서리군단 공격시 15%의 확률로 파르나의 가호 발동" />
+	<block key="setskillwz321_Description_1" korean="서리군단 공격시 15%의 확률로 파르나의 가호 발동" />
+	<block key="setskillpr322_Description_1" korean="서리군단 공격시 15%의 확률로 파르나의 가호 발동" />
+	<block key="setskillgd2501_Description_1" korean="피격 시 2%의 확률로 거신의 분노 발동" />
+	<block key="setskillwr2501_Description_1" korean="피격 시 2%의 확률로 거신의 분노 발동" />
+	<block key="setskilltf2501_Description_1" korean="피격 시 2%의 확률로 거신의 분노 발동" />
+	<block key="setskillwz2501_Description_1" korean="피격 시 2%의 확률로 거신의 분노 발동" />
+	<block key="setskillpr2501_Description_1" korean="피격 시 2%의 확률로 거신의 분노 발동" />
+	<block key="setskillgd3301_Description_1" korean="공격 성공 시 5%의 확률로 맹목적인 믿음 발동" />
+	<block key="setskillwr3301_Description_1" korean="공격 성공 시 5%의 확률로 맹목적인 믿음 발동" />
+	<block key="setskilltf3301_Description_1" korean="공격 성공 시 5%의 확률로 맹목적인 믿음 발동" />
+	<block key="setskillwz3301_Description_1" korean="공격 성공 시 5%의 확률로 맹목적인 믿음 발동" />
+	<block key="setskillpr3301_Description_1" korean="공격 성공 시 5%의 확률로 맹목적인 믿음 발동" />
+	<block key="setskillgd3501_Description_1" korean="공격 성공 시 5%의 확률로 군단장의 지휘 발동" />
+	<block key="setskillwr3501_Description_1" korean="공격 성공 시 5%의 확률로 군단장의 지휘 발동" />
+	<block key="setskilltf3501_Description_1" korean="공격 성공 시 5%의 확률로 군단장의 지휘 발동" />
+	<block key="setskillwz3501_Description_1" korean="공격 성공 시 5%의 확률로 군단장의 지휘 발동" />
+	<block key="setskillpr3501_Description_1" korean="공격 성공 시 5%의 확률로 군단장의 지휘 발동" />
+	<block key="setskillgd4001_Description_1" korean="공격 성공 시 5%의 확률로 악마의 함성 발동" />
+	<block key="setskillwr4001_Description_1" korean="공격 성공 시 5%의 확률로 악마의 함성 발동" />
+	<block key="setskilltf4001_Description_1" korean="공격 성공 시 5%의 확률로 악마의 함성 발동" />
+	<block key="setskillwz4001_Description_1" korean="공격 성공 시 5%의 확률로 악마의 함성 발동" />
+	<block key="setskillpr4001_Description_1" korean="공격 성공 시 5%의 확률로 악마의 함성 발동" />
+	<block key="setskillgd5001_Description_1" korean="공격 성공 시 1%의 확률로 불사의 힘 발동" />
+	<block key="setskillwr5001_Description_1" korean="공격 성공 시 1%의 확률로 불사의 힘 발동" />
+	<block key="setskilltf5001_Description_1" korean="공격 성공 시 1%의 확률로 불사의 힘 발동" />
+	<block key="setskillwz5001_Description_1" korean="공격 성공 시 1%의 확률로 불사의 힘 발동" />
+	<block key="setskillpr5001_Description_1" korean="공격 성공 시 1%의 확률로 불사의 힘 발동" />
+	<block key="itskillall4001_Description_1" korean="공격 성공 시 5%의 확률로 생명력 지속 회복" />
+	<block key="itskillall4002_Description_1" korean="공격 성공 시 2%의 확률로 대상에게 지속 피해" />
+	<block key="itskillall4013_Description_1" korean="공격 성공 시 5%의 확률로 1분간 생명력 10% 증가" />
+	<block key="itskillall4014_Description_1" korean="공격 성공 시 2%의 확률로 대상에게 지속 피해" />
+	<block key="unarpoison01_Description_1" korean="펙투라 내부의 모든 독지대 면역" />
+	<block key="setgd4010_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="setgd4011_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="setgd4012_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="setwr4010_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="setwr4011_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="setwr4012_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="settf4010_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="settf4011_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="settf4012_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="setwz4010_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="setwz4011_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="setwz4012_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="setpr4010_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="setpr4011_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="setpr4012_Description_1" korean="공격 성공 시 3%의 확률로 발동되어 
+대상에게 5초간 출혈 피해" />
+	<block key="setitemgd01_name" korean="찬란한 선도자의 수호 세트 I" />
+	<block key="setitemgd02_name" korean="찬란한 선도자의 수호 세트 II" />
+	<block key="setitemgd03_name" korean="찬란한 선도자의 수호 세트 III" />
+	<block key="setitemwr01_name" korean="찬란한 선도자의 광폭 세트 I" />
+	<block key="setitemwr02_name" korean="찬란한 선도자의 광폭 세트 II" />
+	<block key="setitemwr03_name" korean="찬란한 선도자의 광폭 세트 III" />
+	<block key="setitemtf01_name" korean="찬란한 선도자의 그림자 세트 I" />
+	<block key="setitemtf02_name" korean="찬란한 선도자의 그림자 세트 II" />
+	<block key="setitemtf03_name" korean="찬란한 선도자의 그림자 세트 III" />
+	<block key="setitemwz01_name" korean="찬란한 선도자의 원소 세트 I" />
+	<block key="setitemwz02_name" korean="찬란한 선도자의 원소 세트 II" />
+	<block key="setitemwz03_name" korean="찬란한 선도자의 원소 세트 III" />
+	<block key="setitempr01_name" korean="찬란한 선도자의 신념 세트 I" />
+	<block key="setitempr02_name" korean="찬란한 선도자의 신념 세트 II" />
+	<block key="setitempr03_name" korean="찬란한 선도자의 신념 세트 III" />
+	<block key="itemskill_giant_name" korean="야타이만의 반지" />
+	<block key="itemskill_giant02_name" korean="트라누아의 반지" />
+	<block key="evset01_Description_1" korean="착용 시 펠로우 성장 속도 10% 상승" />
+	<block key="evset02_Description_1" korean="착용 시 펠로우 성장 속도 20% 상승" />
+	<block key="evset03_Description_1" korean="착용 시 펠로우 성장 속도 50% 상승" />
+	<block key="skillAC002273_Description_1" korean="기사단장의 투철한 긍지 효과 발생" />
+	<block key="skillAC002276_Description_1" korean="켈로네의 투지 효과 발생" />
+	<block key="skillWE800302301_Description_1" korean="아스테라스의 신념 효과 발생" />
+	<block key="skillWE900502252_Description_1" korean="카라샤의 자만 효과 발생" />
+	<block key="skillAC012273_Description_1" korean="마투콘틴의 탐욕 효과 발생" />
+	<block key="skillAC002278_Description_1" korean="제페토의 교만 효과 발생" />
+	<block key="skillAR0024492204_Description_1" korean="박쥐의 보호 효과 발생" />
+	<block key="skillAR1004492204_Description_1" korean="공포의 박쥐 효과 발생" />
+	<block key="skillAR3024492204_Description_1" korean="어둠의 움직임 효과 발생" />
+	<block key="skillAR4024492204_Description_1" korean="박쥐의 희생 효과 발생" />
+	<block key="skillAR5002492204_Description_1" korean="박쥐의 먹이 효과 발생" />
+	<block key="stromshot_description_1" korean="360도 주변 대상 모두를 공격하며, 스턴 효과를 부여합니다." />
+	<block key="stromshot_description_2" korean="360도 주변 대상 모두를 공격하며, 스턴 효과를 부여합니다." />
+	<block key="stromshot_description_3" korean="360도 주변 대상 모두를 공격하며, 스턴 효과를 부여합니다." />
+	<block key="stromshot_description_4" korean="360도 주변 대상 모두를 공격하며, 스턴 효과를 부여합니다." />
+	<block key="stromshot_description_5" korean="360도 주변 대상 모두를 공격하며, 스턴 효과를 부여합니다." />
+	<block key="product_we_name" korean="무기 제작" />
+	<block key="product_ac01_name" korean="방어구 제작" />
+	<block key="product_ac02_name" korean="방어구 제작" />
+	<block key="product_as_name" korean="장신구 제작" />
+	<block key="product_fe_name" korean="펠로우 연구" />
+	<block key="product_al_name" korean="연금술" />
+	<block key="product_ck_name" korean="요리" />
+	<block key="mocrow08_Name" korean="치유" />
+	<block key="mocrow08_Description_1" korean="치유" />
+	<block key="arkillzone_Name" korean="용암 지역" />
+	<block key="arkillzone_description_1" korean="용암 지역" />
+	<block key="itco_sleep_Name" korean="수면제 투척" />
+	<block key="itco_sleep_description_1" korean="상대에게 수면제를 던져 영원히 잠재운다." />
+	<block key="potionhprecovery_p_Name" korean="완전 회복의 물약" />
+	<block key="bandage_newbie_Name" korean="초보자 붕대" />
+	<block key="itco_fefiresoul01_Name" korean="불새의 기운" />
+	<block key="itco_fefiresoul01_description_1" korean="불새의 기운을 통해 일시동안 알로트를 일시적으로 길들 일 수 있다." />
+	<block key="itfeepup01_Name" korean="기력 물약" />
+	<block key="itfellowepup01_Name" korean="엘로라의 약속" />
+	<block key="itfellowepup02_Name" korean="자연초 가루" />
+	<block key="unarcoldwave03_name" korean="강력한 한파 저항" />
+	<block key="setitem_uncoldwave_name" korean="한파 저항" />
+	<block key="setitem_uncoldwave_description_1" korean="한파 저항이 발생된다." />
+	<block key="darkenergy_name" korean="마기" />
+	<block key="darkenergy_description_1" korean="마신의 기운에 영향을 받아 능력치가 감소한다." />
+	<block key="arpoison01_name" korean="캐스퍼트의 맹독" />
+	<block key="setitem_curse_name" korean="어둠의 저주" />
+	<block key="setskilltaming01_Name" korean="메간테스 장신구 세트 효과" />
+	<block key="setskilltaming01_description_1" korean="악몽의 메간테스 길들이기 가능" />
+	<block key="setskilltaming02_Name" korean="중급 사냥꾼 세트 효과" />
+	<block key="setskilltaming02_description_1" korean="논 포쎄 아포칼립스 길들이기 가능" />
+	<block key="setskilltaming03_Name" korean="하급 사냥꾼 세트 효과" />
+	<block key="setskilltaming03_description_1" korean="나이트메어 길들이기 가능" />
+	<block key="setskilltaming04_Name" korean="중급 사냥꾼 세트 효과" />
+	<block key="setskilltaming04_description_1" korean="논 포쎄 아포칼립스 길들이기 가능" />
+	<block key="setskilltaming05_Name" korean="중급 사냥꾼 세트 효과" />
+	<block key="setskilltaming05_description_1" korean="논 포쎄 아포칼립스 길들이기 가능" />
+	<block key="setskilltaming06_Name" korean="중급 사냥꾼 세트 효과" />
+	<block key="setskilltaming06_description_1" korean="논 포쎄 아포칼립스 길들이기 가능" />
+	<block key="setskilltaming07_Name" korean="중급 사냥꾼 세트 효과" />
+	<block key="setskilltaming07_description_1" korean="논 포쎄 아포칼립스 길들이기 가능" />
+	<block key="setskilltaming08_Name" korean="하급 사냥꾼 세트 효과" />
+	<block key="setskilltaming08_description_1" korean="나이트메어 길들이기 가능" />
+	<block key="setskilltaming09_Name" korean="하급 사냥꾼 세트 효과" />
+	<block key="setskilltaming09_description_1" korean="나이트메어 길들이기 가능" />
+	<block key="setskilltaming10_Name" korean="하급 사냥꾼 세트 효과" />
+	<block key="setskilltaming10_description_1" korean="나이트메어 길들이기 가능" />
+	<block key="setskilltaming11_Name" korean="하급 사냥꾼 세트 효과" />
+	<block key="setskilltaming11_description_1" korean="나이트메어 길들이기 가능" />
+	<block key="gs_grade02_1_Name" korean="신체의 극복" />
+	<block key="gs_grade_02_Name" korean="공격만이 살길" />
+	<block key="gs_grade_03_Name" korean="시간은 금" />
+	<block key="gs_grade05_1_Name" korean="획득의 욕심" />
+	<block key="gs_grade06_2_Name" korean="전장의 사신" />
+	<block key="gs_grade02_1_description_1" korean="최대 생명력 및 마나 5% 상승" />
+	<block key="gs_grade_02_description_1" korean="물리 공격력, 마법 공격력, 물리 치명타율, 마법 치명타율 5% 상승 및 모든 스텟 5% 상승" />
+	<block key="gs_grade_03_description_1" korean="캐릭터 이동속도 및 팰로우 탑승 시 이동속도 10% 상승" />
+	<block key="gs_grade05_1_description_1" korean="드랍율 10% 상승" />
+	<block key="gs_grade06_2_description_1" korean="대인 공격력, 대인 방어력, 대인 저항율 3% 상승" />
+	<block key="areasafezone_name" korean="공격불가 상태" />
+	<block key="pc_buff_01_Name" korean="하카나스의 축복" />
+	<block key="comm_invincible_name" korean="엘로라의 보호" />
+	<block key="itco_attackbomb_name" korean="공적단 폭탄 투척" />
+	<block key="gm_blessing10_name" korean="GM의 축복1" />
+	<block key="gm_blessing20_name" korean="GM의 축복2" />
+	<block key="gm_blessing30_name" korean="GM의 축복3" />
+	<block key="gm_blessing50_name" korean="GM의 축복4" />
+	<block key="gm_resurrect_name" korean="GM의 권한" />
+	<block key="gm_cure_name" korean="부활후유증 치료" />
+	<block key="gm_graceofelorahp10_name" korean="엘로라의 은총1" />
+	<block key="gm_graceofelorahp20_name" korean="엘로라의 은총2" />
+	<block key="gm_graceofelorahp30_name" korean="엘로라의 은총3" />
+	<block key="gm_graceofelorahp50_name" korean="엘로라의 은총4" />
+	<block key="gm_graceofeloramp10_name" korean="엘로라의 은혜1" />
+	<block key="gm_graceofeloramp20_name" korean="엘로라의 은혜2" />
+	<block key="gm_graceofeloramp30_name" korean="엘로라의 은혜3" />
+	<block key="gm_graceofeloramp50_name" korean="엘로라의 은혜4" />
+	<block key="gm_graceofeloraep10_name" korean="엘로라의 기운1" />
+	<block key="gm_graceofeloraep20_name" korean="엘로라의 기운2" />
+	<block key="gm_graceofeloraep30_name" korean="엘로라의 기운3" />
+	<block key="gm_graceofeloraep50_name" korean="엘로라의 기운4" />
+	<block key="gm_graceofeloraall10_name" korean="엘로라의 믿음1" />
+	<block key="gm_graceofeloraall20_name" korean="엘로라의 믿음2" />
+	<block key="gm_graceofeloraall30_name" korean="엘로라의 믿음3" />
+	<block key="gm_graceofeloraall50_name" korean="엘로라의 믿음4" />
+	<block key="gm_acquireofelora10_name" korean="엘로라의 의지1" />
+	<block key="gm_acquireofelora20_name" korean="엘로라의 의지2" />
+	<block key="gm_acquireofelora30_name" korean="엘로라의 의지3" />
+	<block key="gm_acquireofelora50_name" korean="엘로라의 의지4" />
+	<block key="gm_experienceofelora10_name" korean="엘로라의 신념1" />
+	<block key="gm_experienceofelora20_name" korean="엘로라의 신념2" />
+	<block key="gm_experienceofelora30_name" korean="엘로라의 신념3" />
+	<block key="gm_experienceofelora50_name" korean="엘로라의 신념4" />
+	<block key="gm_moneyofelora10_name" korean="엘로라의 행복1" />
+	<block key="gm_moneyofelora20_name" korean="엘로라의 행복2" />
+	<block key="gm_moneyofelora30_name" korean="엘로라의 행복3" />
+	<block key="gm_moneyofelora50_name" korean="엘로라의 행복4" />
+	<block key="gm_skillofelora10_name" korean="엘로라의 배움1" />
+	<block key="gm_skillofelora20_name" korean="엘로라의 배움2" />
+	<block key="gm_skillofelora30_name" korean="엘로라의 배움3" />
+	<block key="gm_skillofelora50_name" korean="엘로라의 배움4" />
+	<block key="gm_levelofelora10_name" korean="엘로라의 정신1" />
+	<block key="gm_levelofelora20_name" korean="엘로라의 정신2" />
+	<block key="gm_levelofelora30_name" korean="엘로라의 정신3" />
+	<block key="gm_levelofelora50_name" korean="엘로라의 정신4" />
+	<block key="gm_classofelora10_name" korean="엘로라의 환호1" />
+	<block key="gm_classofelora20_name" korean="엘로라의 환호2" />
+	<block key="gm_classofelora30_name" korean="엘로라의 환호3" />
+	<block key="gm_classofelora50_name" korean="엘로라의 환호4" />
+	<block key="gm_gainofelora10_name" korean="엘로라의 미소1" />
+	<block key="gm_gainofelora20_name" korean="엘로라의 미소2" />
+	<block key="gm_gainofelora30_name" korean="엘로라의 미소3" />
+	<block key="gm_gainofelora50_name" korean="엘로라의 미소4" />
+	<block key="gm_abilityofelora10_name" korean="엘로라의 약속1" />
+	<block key="gm_abilityofelora20_name" korean="엘로라의 약속2" />
+	<block key="gm_abilityofelora30_name" korean="엘로라의 약속3" />
+	<block key="gm_abilityofelora50_name" korean="엘로라의 약속4" />
+	<block key="gm_saleofelora10_name" korean="NPC 판매 아이템 할인1" />
+	<block key="gm_saleofelora20_name" korean="NPC 판매 아이템 할인2" />
+	<block key="gm_saleofelora30_name" korean="NPC 판매 아이템 할인3" />
+	<block key="gm_saleofelora50_name" korean="NPC 판매 아이템 할인4" />
+	<block key="gm_blessing10_description_1" korean="1시간 동안 주변 22m 내 모든 아군의 최대 체력, 최대 마나가 10% 증가합니다." />
+	<block key="gm_blessing20_description_1" korean="1시간 동안 주변 22m 내 모든 아군의 최대 체력, 최대 마나가 20% 증가합니다." />
+	<block key="gm_blessing30_description_1" korean="1시간 동안 주변 22m 내 모든 아군의 최대 체력, 최대 마나가 30% 증가합니다." />
+	<block key="gm_blessing50_description_1" korean="1시간 동안 주변 22m 내 모든 아군의 최대 체력, 최대 마나가 50% 증가합니다." />
+	<block key="gm_resurrect_description_1" korean="타겟을 한  대상을 부활 시킵니다." />
+	<block key="gm_cure_description_1" korean="사망 후 부활 후유증 치료 시 1쿠퍼가 소모됩니다." />
+	<block key="gm_graceofelorahp10_description_1" korean="엘로라의 은총으로 최대 생명력의 10%가 증가합니다." />
+	<block key="gm_graceofelorahp20_description_1" korean="엘로라의 은총으로 최대 생명력의 20%가 증가합니다." />
+	<block key="gm_graceofelorahp30_description_1" korean="엘로라의 은총으로 최대 생명력의 30%가 증가합니다." />
+	<block key="gm_graceofelorahp50_description_1" korean="엘로라의 은총으로 최대 생명력의 50%가 증가합니다." />
+	<block key="gm_graceofeloramp10_description_1" korean="엘로라의 은혜로 최대 마나의 10%가 증가합니다." />
+	<block key="gm_graceofeloramp20_description_1" korean="엘로라의 은혜로 최대 마나의 20%가 증가합니다." />
+	<block key="gm_graceofeloramp30_description_1" korean="엘로라의 은혜로 최대 마나의 30%가 증가합니다." />
+	<block key="gm_graceofeloramp50_description_1" korean="엘로라의 은혜로 최대 마나의 50%가 증가합니다." />
+	<block key="gm_graceofeloraep10_description_1" korean="엘로라의 기운으로 최대 기력의 10%가 증가합니다." />
+	<block key="gm_graceofeloraep20_description_1" korean="엘로라의 기운으로 최대 기력의 20%가 증가합니다." />
+	<block key="gm_graceofeloraep30_description_1" korean="엘로라의 기운으로 최대 기력의 30%가 증가합니다." />
+	<block key="gm_graceofeloraep50_description_1" korean="엘로라의 기운으로 최대 기력의 50%가 증가합니다." />
+	<block key="gm_graceofeloraall10_description_1" korean="엘로라의 믿음으로 최대 생명력, 최대 마나 10% 증가합니다." />
+	<block key="gm_graceofeloraall20_description_1" korean="엘로라의 믿음으로 최대 생명력, 최대 마나 20% 증가합니다." />
+	<block key="gm_graceofeloraall30_description_1" korean="엘로라의 믿음으로 최대 생명력, 최대 마나 30% 증가합니다." />
+	<block key="gm_graceofeloraall50_description_1" korean="엘로라의 믿음으로 최대 생명력, 최대 마나 50% 증가합니다." />
+	<block key="gm_acquireofelora10_description_1" korean="엘로라의 의지로 아이템 획득 확률이 10% 증가합니다." />
+	<block key="gm_acquireofelora20_description_1" korean="엘로라의 의지로 아이템 획득 확률이 20% 증가합니다." />
+	<block key="gm_acquireofelora30_description_1" korean="엘로라의 의지로 아이템 획득 확률이 30% 증가합니다." />
+	<block key="gm_acquireofelora50_description_1" korean="엘로라의 의지로 아이템 획득 확률이 50% 증가합니다." />
+	<block key="gm_experienceofelora10_description_1" korean="엘로라의 신념으로 경험치 획득이 10% 증가합니다." />
+	<block key="gm_experienceofelora20_description_1" korean="엘로라의 신념으로 경험치 획득이 20% 증가합니다." />
+	<block key="gm_experienceofelora30_description_1" korean="엘로라의 신념으로 경험치 획득이 30% 증가합니다." />
+	<block key="gm_experienceofelora50_description_1" korean="엘로라의 신념으로 경험치 획득이 50% 증가합니다." />
+	<block key="gm_moneyofelora10_description_1" korean="엘로라의 행복으로 금전 드롭률이 10% 증가합니다." />
+	<block key="gm_moneyofelora20_description_1" korean="엘로라의 행복으로 금전 드롭률이 20% 증가합니다." />
+	<block key="gm_moneyofelora30_description_1" korean="엘로라의 행복으로 금전 드롭률이 30% 증가합니다." />
+	<block key="gm_moneyofelora50_description_1" korean="엘로라의 행복으로 금전 드롭률이 50% 증가합니다." />
+	<block key="gm_skillofelora10_description_1" korean="엘로라의 배움으로 제작 숙련도 획득이 10% 증가합니다." />
+	<block key="gm_skillofelora20_description_1" korean="엘로라의 배움으로 제작 숙련도 획득이 20% 증가합니다." />
+	<block key="gm_skillofelora30_description_1" korean="엘로라의 배움으로 제작 숙련도 획득이 30% 증가합니다." />
+	<block key="gm_skillofelora50_description_1" korean="엘로라의 배움으로 제작 숙련도 획득이 50% 증가합니다." />
+	<block key="gm_levelofelora10_description_1" korean="엘로라의 정신으로 경험치 획득,  제작 숙련도 획득이 10% 증가합니다." />
+	<block key="gm_levelofelora20_description_1" korean="엘로라의 정신으로 경험치 획득,  제작 숙련도 획득이 20% 증가합니다." />
+	<block key="gm_levelofelora30_description_1" korean="엘로라의 정신으로 경험치 획득,  제작 숙련도 획득이 30% 증가합니다." />
+	<block key="gm_levelofelora50_description_1" korean="엘로라의 정신으로 경험치 획득,  제작 숙련도 획득이 50% 증가합니다." />
+	<block key="gm_classofelora10_description_1" korean="엘로라의 환호로 아이템 획득, 경험치 획득, 금전 획득이 10% 증가합니다." />
+	<block key="gm_classofelora20_description_1" korean="엘로라의 환호로 아이템 획득, 경험치 획득, 금전 획득이 20% 증가합니다." />
+	<block key="gm_classofelora30_description_1" korean="엘로라의 환호로 아이템 획득, 경험치 획득, 금전 획득이 30% 증가합니다." />
+	<block key="gm_classofelora50_description_1" korean="엘로라의 환호로 아이템 획득, 경험치 획득, 금전 획득이 50% 증가합니다." />
+	<block key="gm_gainofelora10_description_1" korean="엘로라의 미소로 아이템 획득, 경험치 획득, 금전 획득, 제작 숙련도 획득이 10% 증가합니다." />
+	<block key="gm_gainofelora20_description_1" korean="엘로라의 미소로 아이템 획득, 경험치 획득, 금전 획득, 제작 숙련도 획득이 20% 증가합니다." />
+	<block key="gm_gainofelora30_description_1" korean="엘로라의 미소로 아이템 획득, 경험치 획득, 금전 획득, 제작 숙련도 획득이 30% 증가합니다." />
+	<block key="gm_gainofelora50_description_1" korean="엘로라의 미소로 아이템 획득, 경험치 획득, 금전 획득, 제작 숙련도 획득이 50% 증가합니다." />
+	<block key="gm_abilityofelora10_description_1" korean="엘로라의 약속으로 최대 생명력, 최대 마나, 아이템 획득, 금전 획득 획득이 10% 증가합니다." />
+	<block key="gm_abilityofelora20_description_1" korean="엘로라의 약속으로 최대 생명력, 최대 마나, 아이템 획득, 금전 획득 획득이 20% 증가합니다." />
+	<block key="gm_abilityofelora30_description_1" korean="엘로라의 약속으로 최대 생명력, 최대 마나, 아이템 획득, 금전 획득 획득이 30% 증가합니다." />
+	<block key="gm_abilityofelora50_description_1" korean="엘로라의 약속으로 최대 생명력, 최대 마나, 아이템 획득, 금전 획득 획득이 50% 증가합니다." />
+	<block key="gm_saleofelora10_description_1" korean="모든 NPC 판매 아이템이 10% 할인됩니다." />
+	<block key="gm_saleofelora20_description_1" korean="모든 NPC 판매 아이템이 20% 할인됩니다." />
+	<block key="gm_saleofelora30_description_1" korean="모든 NPC 판매 아이템이 30% 할인됩니다." />
+	<block key="gm_saleofelora50_description_1" korean="모든 NPC 판매 아이템이 50% 할인됩니다." />
+	<block key="setitem_flame_name" korean="사나운 불꽃" />
+	<block key="setitem_grace_name" korean="파르나의 가호" />
+	<block key="setitem_fury_name" korean="거신의 분노" />
+	<block key="setitem_trust_name" korean="맹목적인 믿음" />
+	<block key="setitem_lead_name" korean="군단장의 지휘" />
+	<block key="setitem_shout_name" korean="악마의 함성" />
+	<block key="setitem_immortal_name" korean="불사의 힘" />
+	<block key="itfeepuptic_qu_name" korean="하카나스 보급 기력 물약" />
+	<block key="itfellowhpup01_name" korean="펠로우의 체력 영약 (소)" />
+	<block key="itfellowhpup02_name" korean="펠로우의 체력 영약 (중)" />
+	<block key="itfellowhpup03_name" korean="펠로우의 체력 영약 (대)" />
+	<block key="arcoldwave02_name" korean="매서운 추위" />
+	<block key="arcoldwave02_description_1" korean="매서운 추위로 인해 펠로우의 기력이 저하된다." />
+	<block key="mowormbite00_Name" korean="물기" />
+	<block key="mowormsandhell02_Name" korean="모래지옥" />
+	<block key="mowormsandfog01_Name" korean="모래안개" />
+	<block key="momohahealer00_Name" korean="치유" />
+	<block key="momohahealer01_Name" korean="별무리" />
+	<block key="momohahealer02_Name" korean="모래바람" />
+	<block key="arcoldwave01_name" korean="파르나의 한기" />
+	<block key="arcoldwave01_description_1" korean="파르나의 한기로 인해 펠로우가 높이 날지 못하며 속도가 저하된다." />
+	<block key="resurrect_name" korean="축복 부활" />
+	<block key="mobowdmg00_Name" korean="석궁 방어" />
+	<block key="mobowdmg01_Name" korean="뛰어난 석궁 방어" />
+	<block key="mobowdmg02_Name" korean="훌륭한 석궁 방어" />
+	<block key="mobowdmg03_Name" korean="완벽한 석궁 방어" />
+	<block key="mobowdmg00_description" korean="석궁의 공격력이 25% 감소합니다." />
+	<block key="mobowdmg01_description" korean="석궁의 공격력이 50% 감소합니다." />
+	<block key="mobowdmg02_description" korean="석궁의 공격력이 75% 감소합니다." />
+	<block key="mobowdmg03_description" korean="석궁 공격이 통하지 않습니다." />
+	<block key="mospeardmg00_Name" korean="창 방어" />
+	<block key="mospeardmg01_Name" korean="뛰어난 창 방어" />
+	<block key="mospeardmg02_Name" korean="훌륭한 창 방어" />
+	<block key="mospeardmg03_Name" korean="완벽한 창 방어" />
+	<block key="mospeardmg00_description" korean="창의 공격력이 25% 감소합니다." />
+	<block key="mospeardmg01_description" korean="창의 공격력이 50% 감소합니다." />
+	<block key="mospeardmg02_description" korean="창의 공격력이 75% 감소합니다." />
+	<block key="mospeardmg03_description" korean="창 공격이 통하지 않습니다." />
+	<block key="setitem_unmagi_Name" korean="마기 저항" />
+	<block key="setitem_unmagi_description_1" korean="엑자란 마기 저항" />
+	<block key="undarkenegy_Name" korean="마기 저항" />
+	<block key="setskilltaming13_Name" korean="바이렛 장신구 세트 효과" />
+	<block key="setskilltaming13_description_1" korean="심연의 바이렛 길들이기 가능" />
+	<block key="setskilltaming12_Name" korean="파이루드 장신구 세트 효과" />
+	<block key="setskilltaming12_description_1" korean="공포의 파이루드 길들이기 가능" />
+	<block key="moliger03_name" korean="공포의 후려치기" />
+	<block key="moliger03_description_1" korean="빠르고 강하게 3번 연속으로 할퀴어 공격한다." />
+	<block key="moliger04_name" korean="파괴의 일격" />
+	<block key="moliger04_description_1" korean="공격 당할 경우 일정 확률로 공포 상태가 된다." />
+	<block key="moliger05_name" korean="광기의 포효" />
+	<block key="moliger05_description_1" korean="기를 모아 강하게 포효하여, 주변 지역에 피해를 입힌다." />
+	<block key="momegantes01_name" korean="죽음의 뿔" />
+	<block key="momegantes01_description_1" korean="뿔에 기운을 모아 강력하게 공격한다." />
+	<block key="momegantes02_name" korean="무자비" />
+	<block key="momegantes02_description_1" korean="커다란 덩치로 덮치며 주변 적을 날려버린다." />
+	<block key="mobonedra01_name" korean="심연의 폭발" />
+	<block key="mobonedra01_description_1" korean="넓은 범위에 폭발 피해를 입힌다." />
+	<block key="unareadeath01_name" korean="공명 디버프 저항" />
+	<block key="setskillpkraid01_name" korean="쇠약의 저주 효과 저항" />
+	<block key="setskillpkraid01_description_1" korean="쇠약의 저주 효과 저항" />
+	<block key="setskillpkraid02_name" korean="쇠약의 저주 효과 저항" />
+	<block key="setskillpkraid02_description_1" korean="쇠약의 저주 효과 저항" />
+	<block key="setskillpkraid03_name" korean="쇠약의 저주 효과 저항" />
+	<block key="setskillpkraid03_description_1" korean="쇠약의 저주 효과 저항" />
+	<block key="setskillpkraid04_name" korean="쇠약의 저주 효과 저항" />
+	<block key="setskillpkraid04_description_1" korean="쇠약의 저주 효과 저항" />
+	<block key="setskillpkraid05_name" korean="쇠약의 저주 효과 저항" />
+	<block key="setskillpkraid05_description_1" korean="쇠약의 저주 효과 저항" />
+	<block key="mopkraid01_name" korean="쇠약의 저주" />
+	<block key="mopkraid01_description_1" korean="주위의 적의 신체 능력을 크게 둔화 시킨다." />
+	<block key="pr_latentlightlink3_name" korean="잠재된 빛" />
+	<block key="setitem_allresist_name" korean="영물의 저항" />
+	<block key="setitem_allresist_description_1" korean="모든 지역의 상태효과가 상쇄되는 능력을 가지고 있다." />
+	<block key="setitem_unresky_name" korean="공명 저항" />
+	<block key="setitem_unresky_description_1" korean="멸망의 공역 전역에서 생성되는 공명의 기운을 저항 할 수 있다." />
+	<block key="gl_potion_00_name" korean="HP 활력 물약" />
+	<block key="gl_potion_01_name" korean="고도 상승 활력 물약" />
+	<block key="gl_potion_02_name" korean="치명타 증가 활력 물약" />
+	<block key="gl_potion_03_name" korean="공격력 증가 활력 물약" />
+	<block key="gl_potion_04_name" korean="방어력 증가 활력 물약" />
+	<block key="gl_potion_05_name" korean="이동 속도 증가 활력 물약" />
+	<block key="gl_potion_06_name" korean="쿨타임 감소 활력 물약" />
+	<block key="cash_normalpotion_00_name" korean="최대 생명력 영약" />
+	<block key="cash_normalpotion_01_name" korean="최대 마나 영약" />
+	<block key="cash_normalpotion_02_name" korean="물리 공격력 증가 영약" />
+	<block key="cash_normalpotion_03_name" korean="방어력 증가 영약" />
+	<block key="cash_normalpotion_04_name" korean="마법 공격력 증가 영약" />
+	<block key="cash_normalpotion_05_name" korean="생명력 회복량 영약" />
+	<block key="cash_normalpotion_06_name" korean="마나 회복량 영약" />
+	<block key="cash_normalpotion_07_name" korean="치명타 증가 영약" />
+	<block key="cash_normalpotion_08_name" korean="쿨타임 감소 영약" />
+	<block key="cash_normalpotion_09_name" korean="이동 속도 증가 영약" />
+	<block key="cash_normalpotion_10_name" korean="펠로우 성장 영약" />
+	<block key="cash_normalpotion_11_name" korean="펠로우 경험치 50% 상승 물약" />
+	<block key="cash_partypotion_00_name" korean="파티 최대 생명력 영약" />
+	<block key="cash_partypotion_01_name" korean="파티 최대 마나 영약" />
+	<block key="cash_partypotion_02_name" korean="파티 공격력 증가 영약" />
+	<block key="cash_partypotion_03_name" korean="파티 방어력 증가 영약" />
+	<block key="cash_partypotion_04_name" korean="파티 마법 공격력 증가 영약" />
+	<block key="cash_partypotion_05_name" korean="파티 생명력 회복량 영약" />
+	<block key="cash_partypotion_06_name" korean="파티 마나 회복량 영약" />
+	<block key="cash_partypotion_07_name" korean="파티 치명타 증가 영약" />
+	<block key="cash_partypotion_08_name" korean="파티 쿨타임 감소 영약" />
+	<block key="mogriffon00_name" korean="어둠의 불꽃" />
+	<block key="mogriffon01_name" korean="어둠의 외침" />
+	<block key="mogriffon02_name" korean="어둠의 숨결" />
+	<block key="mogriffon03_name" korean="어둠의 불꽃" />
+	<block key="monster_s_name" korean="몬스터 소환" />
+	<block key="areadeath01_name" korean="공명" />
+	<block key="mobeldon02_name" korean="생기흡수" />
+	<block key="mobeldon03_name" korean="불멸자의 포효" />
+	<block key="mobeldon04_name" korean="독 브레스" />
+	<block key="cash_normalpotion_12_name" korean="경험치 영약" />
+	<block key="rabini_bless_Name" korean="라비니의 축복" />
+	<block key="extractionsealedfell_name" korean="봉인 펠로우 추출" />
+	<block key="fellow_unseal_name" korean="펠로우 봉인해제" />
+	<block key="removebelonging_name" korean="귀속해제" />
+	<block key="fullmoon_bless_Name" korean="한가위 축복" />
+	<block key="mokalipto00_name" korean="발 구르기" />
+	<block key="mokalipto01_name" korean="폭염의 파동" />
+	<block key="mohamion00_name" korean="발 구르기" />
+	<block key="mohamion01_name" korean="빙결의 파동" />
+	<block key="modemonus00_name" korean="발 구르기" />
+	<block key="modemonus01_name" korean="암흑의 파동" />
+	<block key="momandrake00_name" korean="뿌리 묶기" />
+	<block key="mogolebreak00_name" korean="바위 던지기" />
+	<block key="mobragiseld01_name" korean="불 뿜기" />
+	<block key="mokroktaine00_name" korean="피 폭발" />
+	<block key="mokrokpries00_name" korean="치유" />
+	<block key="mokrokpries01_name" korean="용맹의 상징" />
+	<block key="mokrokbowman00_name" korean="5개의 화살" />
+	<block key="ev_bp00_name" korean="이벤트 포션" />
+	<block key="gm_bless_Name" korean="GM의 축복" />
+	<block key="setskillgd_le4001_Description_1" korean="공격 성공 시 치명적인 기운이 발동되어 1%의 확률로 대상을 2초동안 기절시키고, 자신의 공격력이 10초동안 20% 상승된다" />
+	<block key="setskillwr_le4001_Description_1" korean="공격 성공 시 치명적인 기운이 발동되어 1%의 확률로 대상을 2초동안 기절시키고, 자신의 공격력이 10초동안 20% 상승된다" />
+	<block key="setskilltf_le4001_Description_1" korean="공격 성공 시 치명적인 기운이 발동되어 1%의 확률로 대상을 2초동안 기절시키고, 자신의 공격력이 10초동안 20% 상승된다" />
+	<block key="setskillwz_le4001_Description_1" korean="공격 성공 시 치명적인 기운이 발동되어 1%의 확률로 대상을 2초동안 기절시키고, 자신의 공격력이 10초동안 20% 상승된다" />
+	<block key="setskillpr_le4001_Description_1" korean="공격 성공 시 치명적인 기운이 발동되어 1%의 확률로 대상을 2초동안 기절시키고, 자신의 공격력이 10초동안 20% 상승된다" />
+	<block key="mohelldog00_name" korean="지옥의 발톱" />
+	<block key="mohelldog00_description_1" korean="지옥의 기운이 서린 발톱으로 적을 공격한다." />
+	<block key="ev_bp02_name" korean="[훈] 카드" />
+	<block key="ev_bp03_name" korean="[민] 카드" />
+	<block key="ev_bp04_name" korean="[정] 카드" />
+	<block key="ev_bp05_name" korean="[음] 카드" />
+	<block key="protect_otp_Name" korean="OTP" />
+	<block key="support_crow_1_Name" korean="크로우의 응원 I" />
+	<block key="support_crow_2_Name" korean="크로우의 응원 II" />
+	<block key="support_crow_3_Name" korean="크로우의 응원 III" />
+	<block key="support_crow_4_Name" korean="크로우의 응원 IV" />
+	<block key="support_crow_5_Name" korean="크로우의 응원 V" />
+	<block key="shine_support_crow_1_Name" korean="빛나는 크로우의응원 I" />
+	<block key="shine_support_crow_2_Name" korean="빛나는 크로우의응원 II" />
+	<block key="shine_support_crow_3_Name" korean="빛나는 크로우의응원 III" />
+	<block key="shine_support_crow_4_Name" korean="빛나는 크로우의응원 IV" />
+	<block key="shine_support_crow_5_Name" korean="빛나는 크로우의응원 V" />
+	<block key="great_support_crow_1_Name" korean="위대한 크로우의응원 I" />
+	<block key="great_support_crow_2_Name" korean="위대한 크로우의응원 II" />
+	<block key="great_support_crow_3_Name" korean="위대한 크로우의응원 III" />
+	<block key="great_support_crow_4_Name" korean="위대한 크로우의응원 IV" />
+	<block key="spirit_hakain_1_Name" korean="하케인의 기운 I" />
+	<block key="spirit_hakain_2_Name" korean="하케인의 기운 II" />
+	<block key="spirit_hakain_3_Name" korean="하케인의 기운 III" />
+	<block key="spirit_hakain_4_Name" korean="하케인의 기운 IV" />
+	<block key="spirit_hakain_5_Name" korean="하케인의 기운 V" />
+	<block key="will_hakain_1_Name" korean="하케인의 의지 I" />
+	<block key="will_hakain_2_Name" korean="하케인의 의지 II" />
+	<block key="will_hakain_3_Name" korean="하케인의 의지 III" />
+	<block key="will_hakain_4_Name" korean="하케인의 의지 IV" />
+	<block key="will_hakain_5_Name" korean="하케인의 의지 V" />
+	<block key="bless_elora_1_Name" korean="엘로라의 축복 I" />
+	<block key="bless_elora_2_Name" korean="엘로라의 축복 II" />
+	<block key="bless_elora_3_Name" korean="엘로라의 축복 III" />
+	<block key="bless_elora_4_Name" korean="엘로라의 축복 IV" />
+	<block key="bless_elora_5_Name" korean="엘로라의 축복 V" />
+	<block key="noble_bless_elora_1_Name" korean="고귀한 엘로라의 축복 I" />
+	<block key="noble_bless_elora_2_Name" korean="고귀한 엘로라의 축복 II" />
+	<block key="noble_bless_elora_3_Name" korean="고귀한 엘로라의 축복 III" />
+	<block key="noble_bless_elora_4_Name" korean="고귀한 엘로라의 축복 IV" />
+	<block key="great_bless_elora_1_Name" korean="위대한 엘로라의 축복 I" />
+	<block key="great_bless_elora_2_Name" korean="위대한 엘로라의 축복 II" />
+	<block key="great_bless_elora_3_Name" korean="위대한 엘로라의 축복 III" />
+	<block key="great_bless_elora_4_Name" korean="위대한 엘로라의 축복 IV" />
+	<block key="will_pega_1_Name" korean="페가수스의 의지 I" />
+	<block key="will_pega_2_Name" korean="페가수스의 의지 II" />
+	<block key="will_pega_3_Name" korean="페가수스의 의지 III" />
+	<block key="power_hakain_1_Name" korean="하케인의 힘 I" />
+	<block key="power_hakain_2_Name" korean="하케인의 힘 II" />
+	<block key="power_hakain_3_Name" korean="하케인의 힘 III" />
+	<block key="protect_hakain_1_Name" korean="하케인의 보호 I" />
+	<block key="protect_hakain_2_Name" korean="하케인의 보호 II" />
+	<block key="protect_hakain_3_Name" korean="하케인의 보호 III" />
+	<block key="shine_bless_elora_1_Name" korean="빛나는 엘로라의 축복 I" />
+	<block key="shine_bless_elora_2_Name" korean="빛나는 엘로라의 축복 II" />
+	<block key="shine_bless_elora_3_Name" korean="빛나는 엘로라의 축복 III" />
+	<block key="shine_power_hakain_1_Name" korean="빛나는 하케인의 힘 I" />
+	<block key="shine_power_hakain_2_Name" korean="빛나는 하케인의 힘 II" />
+	<block key="shine_power_hakain_3_Name" korean="빛나는 하케인의 힘 III" />
+	<block key="great_bless_pega_1_Name" korean="위대한 페가수스의 축복 I" />
+	<block key="great_bless_pega_2_Name" korean="위대한 페가수스의 축복 II" />
+	<block key="great_bless_pega_3_Name" korean="위대한 페가수스의 축복 III" />
+	<block key="shine_spirit_pega_1_Name" korean="빛나는 페가수스의 기운 I" />
+	<block key="shine_spirit_pega_2_Name" korean="빛나는 페가수스의 기운 II" />
+	<block key="shine_spirit_pega_3_Name" korean="빛나는 페가수스의 기운 III" />
+	<block key="noble_spirit_pega_1_Name" korean="고귀한 페가수스의 기운 I" />
+	<block key="noble_spirit_pega_2_Name" korean="고귀한 페가수스의 기운 II" />
+	<block key="noble_spirit_pega_3_Name" korean="고귀한 페가수스의 기운 III" />
+	<block key="support_pega_1_Name" korean="페가수스의 응원 I" />
+	<block key="support_pega_2_Name" korean="페가수스의 응원 II" />
+	<block key="support_pega_3_Name" korean="페가수스의 응원 III" />
+	<block key="support_pega_4_Name" korean="페가수스의 응원 IV" />
+	<block key="support_pega_5_Name" korean="페가수스의 응원 V" />
+	<block key="spirit_pega_1_Name" korean="페가수스의 기운 I" />
+	<block key="spirit_pega_2_Name" korean="페가수스의 기운 II" />
+	<block key="spirit_pega_3_Name" korean="페가수스의 기운 III" />
+	<block key="spirit_pega_4_Name" korean="페가수스의 기운 IV" />
+	<block key="spirit_pega_5_Name" korean="페가수스의 기운 V" />
+	<block key="support_rabini_1_Name" korean="라비니의 응원 I" />
+	<block key="support_rabini_2_Name" korean="라비니의 응원 II" />
+	<block key="support_rabini_3_Name" korean="라비니의 응원 III" />
+	<block key="support_rabini_4_Name" korean="라비니의 응원 IV" />
+	<block key="support_rabini_5_Name" korean="라비니의 응원 V" />
+	<block key="love_bless_30_Name" korean="사랑의 버프" />
+	<block key="qu_bandage_Name" korean="붕대" />
+	<block key="qu_foodrecoverhp_Name" korean="생명령 음식" />
+	<block key="qu_foodrecovermp_Name" korean="마나 음식" />
+	<block key="qu_potiondexup_Name" korean="민첩 물약" />
+	<block key="qu_potionintup_Name" korean="지능 물약" />
+	<block key="qu_potionmtlup_Name" korean="정신 물약" />
+	<block key="qu_potionstrup_Name" korean="힘 물약" />
+	<block key="qu_potionvtlup_Name" korean="체력 물약" />
+	<block key="love_bless_50_Name" korean="풍요의 시대" />
+	<block key="arf05psv_name" korean="열사의 기운" />
+	<block key="arf05psv_description_1" korean="사막 지역에 최적화된 컨디션을 갖게 된다. 불사의 사막 지역에서 이동속도와 펠로우의 경험치 획득률이 상승한다." />
+	<block key="morodeshi01_name" korean="격노의 충격파" />
+	<block key="movegarus01_name" korean="독액의 파동" />
+	<block key="potionpkattup_name" korean="대인 공격력 증가" />
+	<block key="potionpkdefup_name" korean="대인 방어력 증가" />
+	<block key="potionpkbdyup_name" korean="대인 저항력 증가" />
+	<block key="f05fqset00_Name" korean="사막의 경험치 축복" />
+	<block key="f05fqset01_Name" korean="뛰어난 사막의 경험치 축복" />
+	<block key="f05fqset02_Name" korean="열사의 경험치 축복" />
+	<block key="f05fqset03_Name" korean="샤키바의 경험치 축복" />
+	<block key="setf05fqcond00_Name" korean="사막의 경험치 축복" />
+	<block key="setf05fqcond01_Name" korean="뛰어난 사막의 경험치 축복" />
+	<block key="setf05fqcond02_Name" korean="열사의 경험치 축복" />
+	<block key="setf05fqcond03_Name" korean="샤키바의 경험치 축복" />
+	<block key="f05fqset00_Description_1" korean="사막의 경험치 축복의 기운을 받아, 불사의 사막 내에서 이동속도와 펠로우의 경험치 획득률이 소폭 상승합니다." />
+	<block key="f05fqset01_Description_1" korean="뛰어난 사막의 경험치 축복의 기운을 받아, 불사의 사막 내에서 이동속도와 펠로우의 경험치 획득률이 상승합니다." />
+	<block key="f05fqset02_Description_1" korean="열사의 경험치 축복의 기운을 받아, 불사의 사막 내에서 이동속도와 펠로우의 경험치 획득률이 대폭 상승합니다." />
+	<block key="f05fqset03_Description_1" korean="샤키바의 경험치 축복의 기운을 받아, 불사의 사막 내에서 이동속도와 펠로우의 경험치 획득률이 대폭 상승합니다." />
+	<block key="setf05fqcond00_Description_1" korean="사막의 경험치 축복의 기운을 받아, 불사의 사막 내에서 이동속도와 펠로우의 경험치 획득률이 소폭 상승합니다." />
+	<block key="setf05fqcond01_Description_1" korean="뛰어난 사막의 경험치 축복의 기운을 받아, 불사의 사막 내에서 이동속도와 펠로우의 경험치 획득률이 상승합니다." />
+	<block key="setf05fqcond02_Description_1" korean="열사의 경험치 축복의 기운을 받아, 불사의 사막 내에서 이동속도와 펠로우의 경험치 획득률이 대폭 상승합니다." />
+	<block key="setf05fqcond03_Description_1" korean="샤키바의 경험치 축복의 기운을 받아, 불사의 사막 내에서 이동속도와 펠로우의 경험치 획득률이 대폭 상승합니다." />
+	<block key="partybonus_buff_name" korean="파티 보너스" />
+	<block key="itemskill_ancient2_name" korean="고대의 반지 II" />
+	<block key="snow_festuval_name" korean="눈꽃 축제" />
+	<block key="areadeath022_Name" korean="일사병" />
+	<block key="setpvpgd45_Name" korean="하급 학살자 세트 효과" />
+	<block key="setpvpgd45_description_1" korean="나이트메어 길들이기 가능
+논 포쎄 아포칼립스 길들이기 가능
+공격 성공 시 1% 확률로 대인 방어력 증가" />
+	<block key="setpvpwr45_Name" korean="하급 학살자 세트 효과" />
+	<block key="setpvpwr45_description_1" korean="나이트메어 길들이기 가능
+논 포쎄 아포칼립스 길들이기 가능
+공격 성공 시 1% 확률로 대인 방어력 증가" />
+	<block key="setpvptf45_Name" korean="하급 학살자 세트 효과" />
+	<block key="setpvptf45_description_1" korean="나이트메어 길들이기 가능
+논 포쎄 아포칼립스 길들이기 가능
+공격 성공 시 1% 확률로 대인 방어력 증가" />
+	<block key="setpvpwz45_Name" korean="하급 학살자 세트 효과" />
+	<block key="setpvpwz45_description_1" korean="나이트메어 길들이기 가능
+논 포쎄 아포칼립스 길들이기 가능
+공격 성공 시 1% 확률로 대인 방어력 증가" />
+	<block key="setpvppr45_Name" korean="하급 학살자 세트 효과" />
+	<block key="setpvppr45_description_1" korean="나이트메어 길들이기 가능
+논 포쎄 아포칼립스 길들이기 가능
+공격 성공 시 1% 확률로 대인 방어력 증가" />
+	<block key="setpvpamgd45_Name" korean="학살자의 공포" />
+	<block key="setpvpamgd45_description_1" korean="공격 성공 시 대상의 대인 공격력 감소" />
+	<block key="setpvpamdebuff45_Name" korean="학살자의 공포" />
+	<block key="setpvpamdebuff45_description_1" korean="공격 성공 시 대상의 대인 공격력 감소" />
+	<block key="newyear_bless_name" korean="새해 복 많이 받으세요." />
+	<block key="setpvpgd50_Name" korean="중급 학살자 세트 효과" />
+	<block key="setpvpgd50_description_1" korean="나이트메어 길들이기 가능
+논 포쎄 아포칼립스 길들이기 가능
+공격 성공 시 1% 확률로 대인 공격력 증가" />
+	<block key="setpvpwr50_Name" korean="중급 학살자 세트 효과" />
+	<block key="setpvpwr50_description_1" korean="나이트메어 길들이기 가능
+논 포쎄 아포칼립스 길들이기 가능
+공격 성공 시 1% 확률로 대인 공격력 증가" />
+	<block key="setpvptf50_Name" korean="중급 학살자 세트 효과" />
+	<block key="setpvptf50_description_1" korean="나이트메어 길들이기 가능
+논 포쎄 아포칼립스 길들이기 가능
+공격 성공 시 1% 확률로 대인 공격력 증가" />
+	<block key="setpvpwz50_Name" korean="중급 학살자 세트 효과" />
+	<block key="setpvpwz50_description_1" korean="나이트메어 길들이기 가능
+논 포쎄 아포칼립스 길들이기 가능
+공격 성공 시 1% 확률로 대인 공격력 증가" />
+	<block key="setpvppr50_Name" korean="중급 학살자 세트 효과" />
+	<block key="setpvppr50_description_1" korean="나이트메어 길들이기 가능
+논 포쎄 아포칼립스 길들이기 가능
+공격 성공 시 1% 확률로 대인 공격력 증가" />
+	<block key="setpvpamgd50_Name" korean="학살자의 고통" />
+	<block key="setpvpamgd50_description_1" korean="공격 성공 시 대상의 대인 방어력 감소" />
+	<block key="setpvpamdebuff50_Name" korean="학살자의 고통" />
+	<block key="setpvpamdebuff50_description_1" korean="공격 성공 시 대상의 대인 방어력 감소" />
+	<block key="setpvparbuff45_Name" korean="대인 방어력 증가" />
+	<block key="setpvparbuff45_description_1" korean="공격 성공 시 대인 방어력 증가" />
+	<block key="setpvparbuff50_Name" korean="대인 공격력 증가" />
+	<block key="setpvparbuff50_description_1" korean="공격 성공 시 대인 공격력 증가" />
+	<block key="decomposition_Name" korean="아이템 분해" />
+</blocks>

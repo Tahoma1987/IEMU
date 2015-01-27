@@ -1,0 +1,19 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="ev_0_0000_Name" korean="골드혼의 깃털" />
+	<block key="ev_0_0000_Description" korean="황금 그리폰의 왕 골드혼은 인간 언어로 대화를 할 수 있을 정도로 신비한 능력을 가진 펠로우이며, 그 깃털은 매우 귀하게 취급됩니다.
+
+<It_G>FINAL CBT 이벤트 아이템으로, 많이 모으면 모을수록 원하는 것과 교환할 수 있는 확률이 높아집니다</It_G>" />
+	<block key="ev_0_0001_Name" korean="빛의 동맹 휘장" />
+	<block key="ev_0_0001_Description" korean="과거 마신 군대와 맞서 싸웠던 용사들의 휘장
+<It_G>- 길드 이벤트 아이템으로, 최대한 많이 모아야 이카루스의 최고 길드임을 증명 할 수 있습니다.</It_G>" />
+	<block key="ev_0_0002_Name" korean="SK hynix SSD" />
+	<block key="ev_0_0002_Description" korean="SK hynix 제휴 프로모션 아이템. 
+<It_G>- 많이 수집할수록 최고급 SSD 당첨 확률이 높아집니다. </It_G>" />
+</blocks>

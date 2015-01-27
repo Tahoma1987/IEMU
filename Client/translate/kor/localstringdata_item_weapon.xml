@@ -1,0 +1,1535 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="EW0_001_0_0000_Name" korean="(구)사란트의 한손검" />
+	<block key="EW0_003_0_0000_Name" korean="브라기 일꾼의 톱" />
+	<block key="EW0_003_0_0001_Name" korean="브라기 사냥꾼의 톱칼" />
+	<block key="EW0_004_0_0000_Name" korean="브라기 일꾼의 고기꼬치" />
+	<block key="EW0_006_0_0000_Name" korean="브라기 정찰병의 한손검" />
+	<block key="EW0_006_0_0001_Name" korean="브라기 정찰병의 한손검(원거리용)" />
+	<block key="EW0_008_0_0000_Name" korean="브라기 정예 전투병의 한손검" />
+	<block key="EW0_009_0_0000_Name" korean="해골 병사의 한손검" />
+	<block key="EW0_999_0_0000_Name" korean="녹슨 철검(NPC 전용)" />
+	<block key="EW0_999_0_0001_Name" korean="장검(NPC 전용)" />
+	<block key="EW0_010_0_0000_Name" korean="카라드 해적단 창고지기의 한손 도끼" />
+	<block key="EW0_011_0_0000_Name" korean="일등 항해사 보트멀의 톱칼" />
+	<block key="EW0_012_0_0000_Name" korean="해적왕 바라나크의 검" />
+	<block key="EW0_012_0_0001_Name" korean="무러미족 전투병의 한손창" />
+	<block key="EW0_013_0_0000_Name" korean="카라드 해적단 망루병의 투척칼" />
+	<block key="EW0_014_0_0000_Name" korean="카라드 해적단 갑판원의 해적칼" />
+	<block key="EW0_014_0_0001_Name" korean="정찰자<백작의 추종자> 의 칼" />
+	<block key="EW0_014_0_0002_Name" korean="무러미족 투창병의 투창" />
+	<block key="EW0_015_0_0000_Name" korean="아굴 수렵꾼의 뼈창" />
+	<block key="EW0_016_0_0000_Name" korean="우두머리 머글룩의 뼈칼" />
+	<block key="EW0_017_0_0000_Name" korean="해골 친위 기사의 한손검" />
+	<block key="EW0_019_0_0000_Name" korean="크로쿤 검투사의 한손검" />
+	<block key="EW0_020_0_0000_Name" korean="크로쿤 검투사의 한손도끼" />
+	<block key="EW0_021_0_0000_Name" korean="라이가의 한손검" />
+	<block key="EW0_022_0_0000_Name" korean="예리츠의 검" />
+	<block key="EW0_023_0_0000_Name" korean="어둠 군단 기사의 검" />
+	<block key="EW0_024_0_0000_Name" korean="축성 지휘관 헬파의 검" />
+	<block key="EW0_025_0_0000_Name" korean="우라누스의 검" />
+	<block key="EW0_047_0_0000_Name" korean="빛의 사자의 검" />
+	<block key="EW0_053_0_0000_Name" korean="론도 백작의 한손검" />
+	<block key="EW1_002_0_0000_Name" korean="주둔지 부관 슈마의 양손 도끼" />
+	<block key="EW1_004_0_0000_Name" korean="아슈람의 낫" />
+	<block key="EW1_012_0_0000_Name" korean="얼음 군단장 론도의 양손검" />
+	<block key="EW2_000_0_0000_Name" korean="무러미족 투창병의 투창(투명 무기)" />
+	<block key="EW2_001_0_0000_Name" korean="설인 사냥꾼의 창" />
+	<block key="EW2_001_0_0001_Name" korean="설인 전사의 창" />
+	<block key="EW2_001_0_0002_Name" korean="라이노 전투병의 도끼" />
+	<block key="EW2_002_0_0000_Name" korean="브라기 일꾼의 곡괭이" />
+	<block key="EW2_002_0_0001_Name" korean="브라기 일꾼의 도끼" />
+	<block key="EW2_003_0_0000_Name" korean="브라기 일꾼의 망치" />
+	<block key="EW2_005_0_0000_Name" korean="브라기 감독관의 무기" />
+	<block key="EW2_005_0_0001_Name" korean="브라기 족장의 무기(감독관 무기 변형)" />
+	<block key="EW2_005_0_0002_Name" korean="감찰관 헥터슨의 무기" />
+	<block key="EW2_005_0_0003_Name" korean="흡혈귀 경비병의 무기(한손)" />
+	<block key="EW2_007_0_0000_Name" korean="브라기 일꾼의 도끼" />
+	<block key="EW2_008_0_0000_Name" korean="브라기 일꾼의 호미" />
+	<block key="EW2_009_0_0000_Name" korean="NPC경비병_창" />
+	<block key="EW2_010_0_0000_Name" korean="해골 병사의 도끼" />
+	<block key="EW2_011_0_0000_Name" korean="라이노 전투병의 한손 도끼" />
+	<block key="EW2_013_0_0000_Name" korean="설인 전사의 몽둥이" />
+	<block key="EW2_015_0_0000_Name" korean="아굴 싸움꾼의 뼈몽둥이" />
+	<block key="EW2_016_0_0001_Name" korean="구스트의 국자" />
+	<block key="EW2_019_0_0000_Name" korean="크로쿤 표범 탑승자의 창" />
+	<block key="EW2_020_0_0000_Name" korean="대장장이 마투콘틴의 망치" />
+	<block key="EW2_022_0_0000_Name" korean="남자 대장장이(NPC)의 망치" />
+	<block key="EW2_030_0_0000_Name" korean="거인 무투가의 한손 둔기" />
+	<block key="EW2_033_0_0000_Name" korean="거인 순찰병의 한손 도끼" />
+	<block key="EW2_044_0_0000_Name" korean="렉스의 무기" />
+	<block key="EW2_045_0_0000_Name" korean="데비의 보석 망치" />
+	<block key="EW2_046_0_0000_Name" korean="아슈람의 창" />
+	<block key="EW2_048_0_0000_Name" korean="눈사태 오르쿠스의 토템" />
+	<block key="EW3_001_0_0001_Name" korean="라이노 전투병의 도끼" />
+	<block key="EW3_002_0_0001_Name" korean="라이노 경비병의 창" />
+	<block key="EW3_002_0_0002_Name" korean="광전사 제라닌의 양손 도끼" />
+	<block key="EW3_003_0_0000_Name" korean="아크라신의 망치" />
+	<block key="EW3_004_0_0000_Name" korean="브라기 용사의 통나무" />
+	<block key="EW3_005_0_0000_Name" korean="NPC경비병_양손창" />
+	<block key="EW3_005_0_0001_Name" korean="돌격대장 이르미온의 삼지창" />
+	<block key="EW3_006_0_0000_Name" korean="족장 케르온의 얼음 망치" />
+	<block key="EW3_007_0_0000_Name" korean="무러미족 돌격병의 삼지창" />
+	<block key="EW3_008_0_0000_Name" korean="흡혈귀 경비병의 창" />
+	<block key="EW3_008_0_0001_Name" korean="흡혈귀 경비조장의 창" />
+	<block key="EW3_009_0_0000_Name" korean="흡혈귀 농부의 곡괭이" />
+	<block key="EW3_010_0_0000_Name" korean="테라누스의 양손 둔기" />
+	<block key="EW3_011_0_0000_Name" korean="툴바의 양손창" />
+	<block key="EW4_001_0_0000_Name" korean="라비니족의 단검" />
+	<block key="EW4_002_0_0000_Name" korean="구스트의 식칼" />
+	<block key="EW4_002_0_0001_Name" korean="흡혈귀 여인의 식칼" />
+	<block key="EW4_011_0_9000_Name" korean="일등 항해사 보트멀의 톱칼(단검)" />
+	<block key="EW4_011_0_9001_Name" korean="제이슨 클레키의 단검" />
+	<block key="EW4_013_0_9000_Name" korean="카라드 해적단 망루병의 투척칼(단검)" />
+	<block key="EW4_013_0_9001_Name" korean="전투병<백작의 추종자> 의 단검" />
+	<block key="EW4_028_0_0000_Name" korean="토니 클레키의 칼" />
+	<block key="EW4_029_0_0000_Name" korean="론도 백작의 이도류" />
+	<block key="EW5_001_0_0000_Name" korean="브라기 샤먼의 지팡이" />
+	<block key="EW5_001_0_0001_Name" korean="성지관리자 유령의 지팡이" />
+	<block key="EW5_001_0_0002_Name" korean="불기운 서린 유령의 지팡이" />
+	<block key="EW5_002_0_0000_Name" korean="호수의 대사제 베르나의 지팡이" />
+	<block key="EW5_006_0_0000_Name" korean="무러미족 사제의 지팡이" />
+	<block key="EW5_006_0_0001_Name" korean="고대 유적지 유령의 지팡이" />
+	<block key="EW5_007_0_0000_Name" korean="크로우의 지팡이" />
+	<block key="EW5_007_0_0001_Name" korean="치료사의 지팡이" />
+	<block key="EW5_008_0_0000_Name" korean="아굴 주술사의 뼈지팡이" />
+	<block key="EW5_010_0_0000_Name" korean="피의 주술사(남자)의 지팡이" />
+	<block key="EW5_011_0_0000_Name" korean="마틸다의 지팡이" />
+	<block key="EW5_012_0_0000_Name" korean="혹한의 아이렌의 지팡이" />
+	<block key="EW5_023_0_0000_Name" korean="사신의 낫" />
+	<block key="EW5_024_0_0000_Name" korean="고대 유적지 관리자의 지팡이" />
+	<block key="EW6_000_0_0000_Name" korean="케플리 싱어의 지팡이" />
+	<block key="EW6_006_0_0000_Name" korean="카이토의 스태프 01" />
+	<block key="EW6_007_0_0000_Name" korean="카이토의 스태프 02" />
+	<block key="EW6_008_0_0000_Name" korean="미타나스의 스태프 01" />
+	<block key="EW6_009_0_0000_Name" korean="미타나스의 스태프 02" />
+	<block key="EW6_010_0_0000_Name" korean="카밀라의 스태프" />
+	<block key="EW6_011_0_0000_Name" korean="마나츠의 양손지팡이" />
+	<block key="EW6_015_0_0000_Name" korean="수행자(1100)의 한손지팡이" />
+	<block key="EW7_001_0_0000_Name" korean="브라기 정찰병의 투척 단검(원거리)" />
+	<block key="EW7_001_0_0001_Name" korean="설인 사냥꾼의 창" />
+	<block key="EW7_002_0_0001_Name" korean="브라기 사냥꾼의 활" />
+	<block key="EW7_002_0_0002_Name" korean="사수<백작의 추종자> 의 활" />
+	<block key="EW7_002_0_0003_Name" korean="해골 궁수의 활" />
+	<block key="EW7_003_0_0000_Name" korean="광채나무정령의 활" />
+	<block key="EW7_004_0_0000_Name" korean="궁병대장 포세이나의 활" />
+	<block key="EW7_005_0_0000_Name" korean="무러미족 궁병의 활" />
+	<block key="EW7_006_0_0000_Name" korean="해적왕 바라나크의 작열포" />
+	<block key="EW7_027_0_0000_Name" korean="무러미족 투창병의 투창" />
+	<block key="EW0_034_0_ch_0000_Name" korean="NPC 농기구 1" />
+	<block key="EW2_008_0_ch_0000_Name" korean="NPC 농기구 2(호미)" />
+	<block key="EW3_009_0_ch_0000_Name" korean="NPC 농기구 3(칼퀴)" />
+	<block key="EW3_017_0_ch_0000_Name" korean="NPC 농기구 4(곡괭이)" />
+	<block key="EW0_035_0_0000_Name" korean="NPC 식칼" />
+	<block key="EW2_021_0_0000_Name" korean="NPC 망치" />
+	<block key="EW4_005_0_0000_Name" korean="얼음 군단장 론도의 검" />
+	<block key="EW0_026_0_0000_Name" korean="강철 파수꾼의 한손검" />
+	<block key="EW3_012_0_0000_Name" korean="얼음의 성 경비병의 양손창" />
+	<block key="EW3_014_0_0000_Name" korean="용사 발보아드의 망치" />
+	<block key="EW5_013_0_0000_Name" korean="혹한의 마도사의 지팡이" />
+	<block key="EW5_014_0_0000_Name" korean="얼음의 성 마도병의 지팡이" />
+	<block key="EW7_010_0_0000_Name" korean="얼음의 성 파수병의 활" />
+	<block key="EW0_027_0_0000_Name" korean="론도의 검" />
+	<block key="EW0_050_0_0000_Name" korean="Gstar 해안 졸개 한손검 1" />
+	<block key="EW0_051_0_0000_Name" korean="Gstar 해안 졸개 한손검 2" />
+	<block key="EW0_052_0_0000_Name" korean="Gstar 해안 졸개 한손검 3" />
+	<block key="EW4_028_0_0001_Name" korean="Gstar 해안 졸개 단검 1" />
+	<block key="CW0_001_0_0000_Name" korean="강화된 고대의 망치" />
+	<block key="CW0_002_0_0000_Name" korean="활성화된 요정의 정" />
+	<block key="WE0_000_0_9999_Name" korean="로비용 한손검 000_0" />
+	<block key="WE0_000_1_9999_Name" korean="로비용 한손검 000_1" />
+	<block key="WE0_000_2_9999_Name" korean="로비용 한손검 000_2" />
+	<block key="WE0_000_3_9999_Name" korean="로비용 한손검 000_3" />
+	<block key="WE0_001_0_9999_Name" korean="로비용 한손검 001_0" />
+	<block key="WE0_001_1_9999_Name" korean="로비용 한손검 001_1" />
+	<block key="WE0_001_2_9999_Name" korean="로비용 한손검 001_2" />
+	<block key="WE0_001_3_9999_Name" korean="로비용 한손검 001_3" />
+	<block key="WE0_002_0_9999_Name" korean="로비용 한손검 002_0" />
+	<block key="WE0_002_1_9999_Name" korean="로비용 한손검 002_1" />
+	<block key="WE0_002_2_9999_Name" korean="로비용 한손검 002_2" />
+	<block key="WE0_002_3_9999_Name" korean="로비용 한손검 002_3" />
+	<block key="WE0_003_0_9999_Name" korean="로비용 한손검 003_0" />
+	<block key="WE0_003_1_9999_Name" korean="로비용 한손검 003_1" />
+	<block key="WE0_003_2_9999_Name" korean="로비용 한손검 003_2" />
+	<block key="WE0_003_3_9999_Name" korean="로비용 한손검 003_3" />
+	<block key="WE0_004_0_9999_Name" korean="로비용 한손검 004_0" />
+	<block key="WE0_004_1_9999_Name" korean="로비용 한손검 004_1" />
+	<block key="WE0_004_2_9999_Name" korean="로비용 한손검 004_2" />
+	<block key="WE0_004_3_9999_Name" korean="로비용 한손검 004_3" />
+	<block key="WE0_005_0_9999_Name" korean="로비용 한손검 005_0" />
+	<block key="WE0_005_1_9999_Name" korean="로비용 한손검 005_1" />
+	<block key="WE0_005_2_9999_Name" korean="로비용 한손검 005_2" />
+	<block key="WE0_005_3_9999_Name" korean="로비용 한손검 005_3" />
+	<block key="WE0_006_0_9999_Name" korean="로비용 한손검 006_0" />
+	<block key="WE0_006_1_9999_Name" korean="로비용 한손검 006_1" />
+	<block key="WE0_006_2_9999_Name" korean="로비용 한손검 006_2" />
+	<block key="WE0_006_3_9999_Name" korean="로비용 한손검 006_3" />
+	<block key="WE0_106_0_9999_Name" korean="로비용 한손검 106_0" />
+	<block key="WE0_106_1_9999_Name" korean="로비용 한손검 106_1" />
+	<block key="WE0_106_2_9999_Name" korean="로비용 한손검 106_2" />
+	<block key="WE0_007_0_9999_Name" korean="로비용 한손검 007_0" />
+	<block key="WE0_007_1_9999_Name" korean="로비용 한손검 007_1" />
+	<block key="WE0_007_2_9999_Name" korean="로비용 한손검 007_2" />
+	<block key="WE0_007_3_9999_Name" korean="로비용 한손검 007_3" />
+	<block key="WE0_107_0_9999_Name" korean="로비용 한손검 107_0" />
+	<block key="WE0_107_1_9999_Name" korean="로비용 한손검 107_1" />
+	<block key="WE0_107_2_9999_Name" korean="로비용 한손검 107_2" />
+	<block key="WE0_008_0_9999_Name" korean="로비용 한손검 008_0" />
+	<block key="WE0_008_1_9999_Name" korean="로비용 한손검 008_1" />
+	<block key="WE0_008_2_9999_Name" korean="로비용 한손검 008_2" />
+	<block key="WE0_008_3_9999_Name" korean="로비용 한손검 008_3" />
+	<block key="WE0_108_0_9999_Name" korean="로비용 한손검 108_0" />
+	<block key="WE0_108_1_9999_Name" korean="로비용 한손검 108_1" />
+	<block key="WE0_108_2_9999_Name" korean="로비용 한손검 108_2" />
+	<block key="WE0_009_0_9999_Name" korean="로비용 한손검 009_0" />
+	<block key="WE0_009_1_9999_Name" korean="로비용 한손검 009_1" />
+	<block key="WE0_009_2_9999_Name" korean="로비용 한손검 009_2" />
+	<block key="WE0_009_3_9999_Name" korean="로비용 한손검 009_3" />
+	<block key="WE0_109_0_9999_Name" korean="로비용 한손검 109_0" />
+	<block key="WE0_109_1_9999_Name" korean="로비용 한손검 109_1" />
+	<block key="WE0_109_2_9999_Name" korean="로비용 한손검 109_2" />
+	<block key="WE0_010_0_9999_Name" korean="로비용 한손검 010_0" />
+	<block key="WE0_010_1_9999_Name" korean="로비용 한손검 010_1" />
+	<block key="WE0_010_2_9999_Name" korean="로비용 한손검 010_2" />
+	<block key="WE0_010_3_9999_Name" korean="로비용 한손검 010_3" />
+	<block key="WE0_110_0_9999_Name" korean="로비용 한손검 110_0" />
+	<block key="WE0_110_1_9999_Name" korean="로비용 한손검 110_1" />
+	<block key="WE0_110_2_9999_Name" korean="로비용 한손검 110_2" />
+	<block key="WE0_011_0_9999_Name" korean="로비용 한손검 011_0" />
+	<block key="WE0_011_1_9999_Name" korean="로비용 한손검 011_1" />
+	<block key="WE0_011_2_9999_Name" korean="로비용 한손검 011_2" />
+	<block key="WE0_011_3_9999_Name" korean="로비용 한손검 011_3" />
+	<block key="WE0_111_0_9999_Name" korean="로비용 한손검 111_0" />
+	<block key="WE0_111_1_9999_Name" korean="로비용 한손검 111_1" />
+	<block key="WE0_111_2_9999_Name" korean="로비용 한손검 111_2" />
+	<block key="WE0_012_0_9999_Name" korean="로비용 한손검 012_0" />
+	<block key="WE0_012_1_9999_Name" korean="로비용 한손검 012_1" />
+	<block key="WE0_012_2_9999_Name" korean="로비용 한손검 012_2" />
+	<block key="WE0_012_3_9999_Name" korean="로비용 한손검 012_3" />
+	<block key="WE0_112_0_9999_Name" korean="로비용 한손검 112_0" />
+	<block key="WE0_112_1_9999_Name" korean="로비용 한손검 112_1" />
+	<block key="WE0_112_2_9999_Name" korean="로비용 한손검 112_2" />
+	<block key="WE1_000_0_9999_Name" korean="로비용 양손검 000_0" />
+	<block key="WE1_000_1_9999_Name" korean="로비용 양손검 000_1" />
+	<block key="WE1_000_2_9999_Name" korean="로비용 양손검 000_2" />
+	<block key="WE1_000_3_9999_Name" korean="로비용 양손검 000_3" />
+	<block key="WE1_001_0_9999_Name" korean="로비용 양손검 001_0" />
+	<block key="WE1_001_1_9999_Name" korean="로비용 양손검 001_1" />
+	<block key="WE1_001_2_9999_Name" korean="로비용 양손검 001_2" />
+	<block key="WE1_001_3_9999_Name" korean="로비용 양손검 001_3" />
+	<block key="WE1_002_0_9999_Name" korean="로비용 양손검 002_0" />
+	<block key="WE1_002_1_9999_Name" korean="로비용 양손검 002_1" />
+	<block key="WE1_002_2_9999_Name" korean="로비용 양손검 002_2" />
+	<block key="WE1_002_3_9999_Name" korean="로비용 양손검 002_3" />
+	<block key="WE1_003_0_9999_Name" korean="로비용 양손검 003_0" />
+	<block key="WE1_003_1_9999_Name" korean="로비용 양손검 003_1" />
+	<block key="WE1_003_2_9999_Name" korean="로비용 양손검 003_2" />
+	<block key="WE1_003_3_9999_Name" korean="로비용 양손검 003_3" />
+	<block key="WE1_004_0_9999_Name" korean="로비용 양손검 004_0" />
+	<block key="WE1_004_1_9999_Name" korean="로비용 양손검 004_1" />
+	<block key="WE1_004_2_9999_Name" korean="로비용 양손검 004_2" />
+	<block key="WE1_004_3_9999_Name" korean="로비용 양손검 004_3" />
+	<block key="WE1_005_0_9999_Name" korean="로비용 양손검 005_0" />
+	<block key="WE1_005_1_9999_Name" korean="로비용 양손검 005_1" />
+	<block key="WE1_005_2_9999_Name" korean="로비용 양손검 005_2" />
+	<block key="WE1_005_3_9999_Name" korean="로비용 양손검 005_3" />
+	<block key="WE1_006_0_9999_Name" korean="로비용 양손검 006_0" />
+	<block key="WE1_006_1_9999_Name" korean="로비용 양손검 006_1" />
+	<block key="WE1_006_2_9999_Name" korean="로비용 양손검 006_2" />
+	<block key="WE1_006_3_9999_Name" korean="로비용 양손검 006_3" />
+	<block key="WE1_106_0_9999_Name" korean="로비용 양손검 106_0" />
+	<block key="WE1_106_1_9999_Name" korean="로비용 양손검 106_1" />
+	<block key="WE1_106_2_9999_Name" korean="로비용 양손검 106_2" />
+	<block key="WE1_007_0_9999_Name" korean="로비용 양손검 007_0" />
+	<block key="WE1_007_1_9999_Name" korean="로비용 양손검 007_1" />
+	<block key="WE1_007_2_9999_Name" korean="로비용 양손검 007_2" />
+	<block key="WE1_007_3_9999_Name" korean="로비용 양손검 007_3" />
+	<block key="WE1_107_0_9999_Name" korean="로비용 양손검 107_0" />
+	<block key="WE1_107_1_9999_Name" korean="로비용 양손검 107_1" />
+	<block key="WE1_107_2_9999_Name" korean="로비용 양손검 107_2" />
+	<block key="WE1_008_0_9999_Name" korean="로비용 양손검 008_0" />
+	<block key="WE1_008_1_9999_Name" korean="로비용 양손검 008_1" />
+	<block key="WE1_008_2_9999_Name" korean="로비용 양손검 008_2" />
+	<block key="WE1_008_3_9999_Name" korean="로비용 양손검 008_3" />
+	<block key="WE1_108_0_9999_Name" korean="로비용 양손검 108_0" />
+	<block key="WE1_108_1_9999_Name" korean="로비용 양손검 108_1" />
+	<block key="WE1_108_2_9999_Name" korean="로비용 양손검 108_2" />
+	<block key="WE1_009_0_9999_Name" korean="로비용 양손검 009_0" />
+	<block key="WE1_009_1_9999_Name" korean="로비용 양손검 009_1" />
+	<block key="WE1_009_2_9999_Name" korean="로비용 양손검 009_2" />
+	<block key="WE1_009_3_9999_Name" korean="로비용 양손검 009_3" />
+	<block key="WE1_109_0_9999_Name" korean="로비용 양손검 109_0" />
+	<block key="WE1_109_1_9999_Name" korean="로비용 양손검 109_1" />
+	<block key="WE1_109_2_9999_Name" korean="로비용 양손검 109_2" />
+	<block key="WE1_010_0_9999_Name" korean="로비용 양손검 010_0" />
+	<block key="WE1_010_1_9999_Name" korean="로비용 양손검 010_1" />
+	<block key="WE1_010_2_9999_Name" korean="로비용 양손검 010_2" />
+	<block key="WE1_010_3_9999_Name" korean="로비용 양손검 010_3" />
+	<block key="WE1_110_0_9999_Name" korean="로비용 양손검 110_0" />
+	<block key="WE1_110_1_9999_Name" korean="로비용 양손검 110_1" />
+	<block key="WE1_110_2_9999_Name" korean="로비용 양손검 110_2" />
+	<block key="WE1_011_0_9999_Name" korean="로비용 양손검 011_0" />
+	<block key="WE1_011_1_9999_Name" korean="로비용 양손검 011_1" />
+	<block key="WE1_011_2_9999_Name" korean="로비용 양손검 011_2" />
+	<block key="WE1_011_3_9999_Name" korean="로비용 양손검 011_3" />
+	<block key="WE1_111_0_9999_Name" korean="로비용 양손검 111_0" />
+	<block key="WE1_111_1_9999_Name" korean="로비용 양손검 111_1" />
+	<block key="WE1_111_2_9999_Name" korean="로비용 양손검 111_2" />
+	<block key="WE1_012_0_9999_Name" korean="로비용 양손검 012_0" />
+	<block key="WE1_012_1_9999_Name" korean="로비용 양손검 012_1" />
+	<block key="WE1_012_2_9999_Name" korean="로비용 양손검 012_2" />
+	<block key="WE1_012_3_9999_Name" korean="로비용 양손검 012_3" />
+	<block key="WE1_112_0_9999_Name" korean="로비용 양손검 112_0" />
+	<block key="WE1_112_1_9999_Name" korean="로비용 양손검 112_1" />
+	<block key="WE1_112_2_9999_Name" korean="로비용 양손검 112_2" />
+	<block key="WE5_000_0_9999_Name" korean="로비용 한손지팡이 000_0" />
+	<block key="WE5_000_1_9999_Name" korean="로비용 한손지팡이 000_1" />
+	<block key="WE5_000_2_9999_Name" korean="로비용 한손지팡이 000_2" />
+	<block key="WE5_000_3_9999_Name" korean="로비용 한손지팡이 000_3" />
+	<block key="WE5_001_0_9999_Name" korean="로비용 한손지팡이 001_0" />
+	<block key="WE5_001_1_9999_Name" korean="로비용 한손지팡이 001_1" />
+	<block key="WE5_001_2_9999_Name" korean="로비용 한손지팡이 001_2" />
+	<block key="WE5_001_3_9999_Name" korean="로비용 한손지팡이 001_3" />
+	<block key="WE5_002_0_9999_Name" korean="로비용 한손지팡이 002_0" />
+	<block key="WE5_002_1_9999_Name" korean="로비용 한손지팡이 002_1" />
+	<block key="WE5_002_2_9999_Name" korean="로비용 한손지팡이 002_2" />
+	<block key="WE5_002_3_9999_Name" korean="로비용 한손지팡이 002_3" />
+	<block key="WE5_003_0_9999_Name" korean="로비용 한손지팡이 003_0" />
+	<block key="WE5_003_1_9999_Name" korean="로비용 한손지팡이 003_1" />
+	<block key="WE5_003_2_9999_Name" korean="로비용 한손지팡이 003_2" />
+	<block key="WE5_003_3_9999_Name" korean="로비용 한손지팡이 003_3" />
+	<block key="WE5_004_0_9999_Name" korean="로비용 한손지팡이 004_0" />
+	<block key="WE5_004_1_9999_Name" korean="로비용 한손지팡이 004_1" />
+	<block key="WE5_004_2_9999_Name" korean="로비용 한손지팡이 004_2" />
+	<block key="WE5_004_3_9999_Name" korean="로비용 한손지팡이 004_3" />
+	<block key="WE5_005_0_9999_Name" korean="로비용 한손지팡이 005_0" />
+	<block key="WE5_005_1_9999_Name" korean="로비용 한손지팡이 005_1" />
+	<block key="WE5_005_2_9999_Name" korean="로비용 한손지팡이 005_2" />
+	<block key="WE5_005_3_9999_Name" korean="로비용 한손지팡이 005_3" />
+	<block key="WE5_006_0_9999_Name" korean="로비용 한손지팡이 006_0" />
+	<block key="WE5_006_1_9999_Name" korean="로비용 한손지팡이 006_1" />
+	<block key="WE5_006_2_9999_Name" korean="로비용 한손지팡이 006_2" />
+	<block key="WE5_006_3_9999_Name" korean="로비용 한손지팡이 006_3" />
+	<block key="WE5_106_0_9999_Name" korean="로비용 한손지팡이 106_0" />
+	<block key="WE5_106_1_9999_Name" korean="로비용 한손지팡이 106_1" />
+	<block key="WE5_106_2_9999_Name" korean="로비용 한손지팡이 106_2" />
+	<block key="WE5_007_0_9999_Name" korean="로비용 한손지팡이 007_0" />
+	<block key="WE5_007_1_9999_Name" korean="로비용 한손지팡이 007_1" />
+	<block key="WE5_007_2_9999_Name" korean="로비용 한손지팡이 007_2" />
+	<block key="WE5_007_3_9999_Name" korean="로비용 한손지팡이 007_3" />
+	<block key="WE5_107_0_9999_Name" korean="로비용 한손지팡이 107_0" />
+	<block key="WE5_107_1_9999_Name" korean="로비용 한손지팡이 107_1" />
+	<block key="WE5_107_2_9999_Name" korean="로비용 한손지팡이 107_2" />
+	<block key="WE5_008_0_9999_Name" korean="로비용 한손지팡이 008_0" />
+	<block key="WE5_008_1_9999_Name" korean="로비용 한손지팡이 008_1" />
+	<block key="WE5_008_2_9999_Name" korean="로비용 한손지팡이 008_2" />
+	<block key="WE5_008_3_9999_Name" korean="로비용 한손지팡이 008_3" />
+	<block key="WE5_108_0_9999_Name" korean="로비용 한손지팡이 108_0" />
+	<block key="WE5_108_1_9999_Name" korean="로비용 한손지팡이 108_1" />
+	<block key="WE5_108_2_9999_Name" korean="로비용 한손지팡이 108_2" />
+	<block key="WE5_009_0_9999_Name" korean="로비용 한손지팡이 009_0" />
+	<block key="WE5_009_1_9999_Name" korean="로비용 한손지팡이 009_1" />
+	<block key="WE5_009_2_9999_Name" korean="로비용 한손지팡이 009_2" />
+	<block key="WE5_009_3_9999_Name" korean="로비용 한손지팡이 009_3" />
+	<block key="WE5_109_0_9999_Name" korean="로비용 한손지팡이 109_0" />
+	<block key="WE5_109_1_9999_Name" korean="로비용 한손지팡이 109_1" />
+	<block key="WE5_109_2_9999_Name" korean="로비용 한손지팡이 109_2" />
+	<block key="WE5_010_0_9999_Name" korean="로비용 한손지팡이 010_0" />
+	<block key="WE5_010_1_9999_Name" korean="로비용 한손지팡이 010_1" />
+	<block key="WE5_010_2_9999_Name" korean="로비용 한손지팡이 010_2" />
+	<block key="WE5_010_3_9999_Name" korean="로비용 한손지팡이 010_3" />
+	<block key="WE5_110_0_9999_Name" korean="로비용 한손지팡이 110_0" />
+	<block key="WE5_110_1_9999_Name" korean="로비용 한손지팡이 110_1" />
+	<block key="WE5_110_2_9999_Name" korean="로비용 한손지팡이 110_2" />
+	<block key="WE5_011_0_9999_Name" korean="로비용 한손지팡이 011_0" />
+	<block key="WE5_011_1_9999_Name" korean="로비용 한손지팡이 011_1" />
+	<block key="WE5_011_2_9999_Name" korean="로비용 한손지팡이 011_2" />
+	<block key="WE5_011_3_9999_Name" korean="로비용 한손지팡이 011_3" />
+	<block key="WE5_111_0_9999_Name" korean="로비용 한손지팡이 111_0" />
+	<block key="WE5_111_1_9999_Name" korean="로비용 한손지팡이 111_1" />
+	<block key="WE5_111_2_9999_Name" korean="로비용 한손지팡이 111_2" />
+	<block key="WE5_012_0_9999_Name" korean="로비용 한손지팡이 012_0" />
+	<block key="WE5_012_1_9999_Name" korean="로비용 한손지팡이 012_1" />
+	<block key="WE5_012_2_9999_Name" korean="로비용 한손지팡이 012_2" />
+	<block key="WE5_012_3_9999_Name" korean="로비용 한손지팡이 012_3" />
+	<block key="WE5_112_0_9999_Name" korean="로비용 한손지팡이 112_0" />
+	<block key="WE5_112_1_9999_Name" korean="로비용 한손지팡이 112_1" />
+	<block key="WE5_112_2_9999_Name" korean="로비용 한손지팡이 112_2" />
+	<block key="WE6_000_0_9999_Name" korean="로비용 양손지팡이 000_0" />
+	<block key="WE6_000_1_9999_Name" korean="로비용 양손지팡이 000_1" />
+	<block key="WE6_000_2_9999_Name" korean="로비용 양손지팡이 000_2" />
+	<block key="WE6_000_3_9999_Name" korean="로비용 양손지팡이 000_3" />
+	<block key="WE6_001_0_9999_Name" korean="로비용 양손지팡이 001_0" />
+	<block key="WE6_001_1_9999_Name" korean="로비용 양손지팡이 001_1" />
+	<block key="WE6_001_2_9999_Name" korean="로비용 양손지팡이 001_2" />
+	<block key="WE6_001_3_9999_Name" korean="로비용 양손지팡이 001_3" />
+	<block key="WE6_002_0_9999_Name" korean="로비용 양손지팡이 002_0" />
+	<block key="WE6_002_1_9999_Name" korean="로비용 양손지팡이 002_1" />
+	<block key="WE6_002_2_9999_Name" korean="로비용 양손지팡이 002_2" />
+	<block key="WE6_002_3_9999_Name" korean="로비용 양손지팡이 002_3" />
+	<block key="WE6_003_0_9999_Name" korean="로비용 양손지팡이 003_0" />
+	<block key="WE6_003_1_9999_Name" korean="로비용 양손지팡이 003_1" />
+	<block key="WE6_003_2_9999_Name" korean="로비용 양손지팡이 003_2" />
+	<block key="WE6_003_3_9999_Name" korean="로비용 양손지팡이 003_3" />
+	<block key="WE6_004_0_9999_Name" korean="로비용 양손지팡이 004_0" />
+	<block key="WE6_004_1_9999_Name" korean="로비용 양손지팡이 004_1" />
+	<block key="WE6_004_2_9999_Name" korean="로비용 양손지팡이 004_2" />
+	<block key="WE6_004_3_9999_Name" korean="로비용 양손지팡이 004_3" />
+	<block key="WE6_005_0_9999_Name" korean="로비용 양손지팡이 005_0" />
+	<block key="WE6_005_1_9999_Name" korean="로비용 양손지팡이 005_1" />
+	<block key="WE6_005_2_9999_Name" korean="로비용 양손지팡이 005_2" />
+	<block key="WE6_005_3_9999_Name" korean="로비용 양손지팡이 005_3" />
+	<block key="WE6_006_0_9999_Name" korean="로비용 양손지팡이 006_0" />
+	<block key="WE6_006_1_9999_Name" korean="로비용 양손지팡이 006_1" />
+	<block key="WE6_006_2_9999_Name" korean="로비용 양손지팡이 006_2" />
+	<block key="WE6_006_3_9999_Name" korean="로비용 양손지팡이 006_3" />
+	<block key="WE6_106_0_9999_Name" korean="로비용 양손지팡이 106_0" />
+	<block key="WE6_106_1_9999_Name" korean="로비용 양손지팡이 106_1" />
+	<block key="WE6_106_2_9999_Name" korean="로비용 양손지팡이 106_2" />
+	<block key="WE6_007_0_9999_Name" korean="로비용 양손지팡이 007_0" />
+	<block key="WE6_007_1_9999_Name" korean="로비용 양손지팡이 007_1" />
+	<block key="WE6_007_2_9999_Name" korean="로비용 양손지팡이 007_2" />
+	<block key="WE6_007_3_9999_Name" korean="로비용 양손지팡이 007_3" />
+	<block key="WE6_107_0_9999_Name" korean="로비용 양손지팡이 107_0" />
+	<block key="WE6_107_1_9999_Name" korean="로비용 양손지팡이 107_1" />
+	<block key="WE6_107_2_9999_Name" korean="로비용 양손지팡이 107_2" />
+	<block key="WE6_008_0_9999_Name" korean="로비용 양손지팡이 008_0" />
+	<block key="WE6_008_1_9999_Name" korean="로비용 양손지팡이 008_1" />
+	<block key="WE6_008_2_9999_Name" korean="로비용 양손지팡이 008_2" />
+	<block key="WE6_008_3_9999_Name" korean="로비용 양손지팡이 008_3" />
+	<block key="WE6_108_0_9999_Name" korean="로비용 양손지팡이 108_0" />
+	<block key="WE6_108_1_9999_Name" korean="로비용 양손지팡이 108_1" />
+	<block key="WE6_108_2_9999_Name" korean="로비용 양손지팡이 108_2" />
+	<block key="WE6_009_0_9999_Name" korean="로비용 양손지팡이 009_0" />
+	<block key="WE6_009_1_9999_Name" korean="로비용 양손지팡이 009_1" />
+	<block key="WE6_009_2_9999_Name" korean="로비용 양손지팡이 009_2" />
+	<block key="WE6_009_3_9999_Name" korean="로비용 양손지팡이 009_3" />
+	<block key="WE6_109_0_9999_Name" korean="로비용 양손지팡이 109_0" />
+	<block key="WE6_109_1_9999_Name" korean="로비용 양손지팡이 109_1" />
+	<block key="WE6_109_2_9999_Name" korean="로비용 양손지팡이 109_2" />
+	<block key="WE6_010_0_9999_Name" korean="로비용 양손지팡이 010_0" />
+	<block key="WE6_010_1_9999_Name" korean="로비용 양손지팡이 010_1" />
+	<block key="WE6_010_2_9999_Name" korean="로비용 양손지팡이 010_2" />
+	<block key="WE6_010_3_9999_Name" korean="로비용 양손지팡이 010_3" />
+	<block key="WE6_110_0_9999_Name" korean="로비용 양손지팡이 110_0" />
+	<block key="WE6_110_1_9999_Name" korean="로비용 양손지팡이 110_1" />
+	<block key="WE6_110_2_9999_Name" korean="로비용 양손지팡이 110_2" />
+	<block key="WE6_011_0_9999_Name" korean="로비용 양손지팡이 011_0" />
+	<block key="WE6_011_1_9999_Name" korean="로비용 양손지팡이 011_1" />
+	<block key="WE6_011_2_9999_Name" korean="로비용 양손지팡이 011_2" />
+	<block key="WE6_011_3_9999_Name" korean="로비용 양손지팡이 011_3" />
+	<block key="WE6_111_0_9999_Name" korean="로비용 양손지팡이 111_0" />
+	<block key="WE6_111_1_9999_Name" korean="로비용 양손지팡이 111_1" />
+	<block key="WE6_111_2_9999_Name" korean="로비용 양손지팡이 111_2" />
+	<block key="WE6_012_0_9999_Name" korean="로비용 양손지팡이 012_0" />
+	<block key="WE6_012_1_9999_Name" korean="로비용 양손지팡이 012_1" />
+	<block key="WE6_012_2_9999_Name" korean="로비용 양손지팡이 012_2" />
+	<block key="WE6_012_3_9999_Name" korean="로비용 양손지팡이 012_3" />
+	<block key="WE6_112_0_9999_Name" korean="로비용 양손지팡이 112_0" />
+	<block key="WE6_112_1_9999_Name" korean="로비용 양손지팡이 112_1" />
+	<block key="WE6_112_2_9999_Name" korean="로비용 양손지팡이 112_2" />
+	<block key="WE4_000_0_9999_Name" korean="로비용 단검 000_0" />
+	<block key="WE4_000_1_9999_Name" korean="로비용 단검 000_1" />
+	<block key="WE4_000_2_9999_Name" korean="로비용 단검 000_2" />
+	<block key="WE4_000_3_9999_Name" korean="로비용 단검 000_3" />
+	<block key="WE4_001_0_9999_Name" korean="로비용 단검 001_0" />
+	<block key="WE4_001_1_9999_Name" korean="로비용 단검 001_1" />
+	<block key="WE4_001_2_9999_Name" korean="로비용 단검 001_2" />
+	<block key="WE4_001_3_9999_Name" korean="로비용 단검 001_3" />
+	<block key="WE4_002_0_9999_Name" korean="로비용 단검 002_0" />
+	<block key="WE4_002_1_9999_Name" korean="로비용 단검 002_1" />
+	<block key="WE4_002_2_9999_Name" korean="로비용 단검 002_2" />
+	<block key="WE4_002_3_9999_Name" korean="로비용 단검 002_3" />
+	<block key="WE4_003_0_9999_Name" korean="로비용 단검 003_0" />
+	<block key="WE4_003_1_9999_Name" korean="로비용 단검 003_1" />
+	<block key="WE4_003_2_9999_Name" korean="로비용 단검 003_2" />
+	<block key="WE4_003_3_9999_Name" korean="로비용 단검 003_3" />
+	<block key="WE4_004_0_9999_Name" korean="로비용 단검 004_0" />
+	<block key="WE4_004_1_9999_Name" korean="로비용 단검 004_1" />
+	<block key="WE4_004_2_9999_Name" korean="로비용 단검 004_2" />
+	<block key="WE4_004_3_9999_Name" korean="로비용 단검 004_3" />
+	<block key="WE4_005_0_9999_Name" korean="로비용 단검 005_0" />
+	<block key="WE4_005_1_9999_Name" korean="로비용 단검 005_1" />
+	<block key="WE4_005_2_9999_Name" korean="로비용 단검 005_2" />
+	<block key="WE4_005_3_9999_Name" korean="로비용 단검 005_3" />
+	<block key="WE4_006_0_9999_Name" korean="로비용 단검 006_0" />
+	<block key="WE4_006_1_9999_Name" korean="로비용 단검 006_1" />
+	<block key="WE4_006_2_9999_Name" korean="로비용 단검 006_2" />
+	<block key="WE4_006_3_9999_Name" korean="로비용 단검 006_3" />
+	<block key="WE4_106_0_9999_Name" korean="로비용 단검 106_0" />
+	<block key="WE4_106_1_9999_Name" korean="로비용 단검 106_1" />
+	<block key="WE4_106_2_9999_Name" korean="로비용 단검 106_2" />
+	<block key="WE4_007_0_9999_Name" korean="로비용 단검 007_0" />
+	<block key="WE4_007_1_9999_Name" korean="로비용 단검 007_1" />
+	<block key="WE4_007_2_9999_Name" korean="로비용 단검 007_2" />
+	<block key="WE4_007_3_9999_Name" korean="로비용 단검 007_3" />
+	<block key="WE4_107_0_9999_Name" korean="로비용 단검 107_0" />
+	<block key="WE4_107_1_9999_Name" korean="로비용 단검 107_1" />
+	<block key="WE4_107_2_9999_Name" korean="로비용 단검 107_2" />
+	<block key="WE4_008_0_9999_Name" korean="로비용 단검 008_0" />
+	<block key="WE4_008_1_9999_Name" korean="로비용 단검 008_1" />
+	<block key="WE4_008_2_9999_Name" korean="로비용 단검 008_2" />
+	<block key="WE4_008_3_9999_Name" korean="로비용 단검 008_3" />
+	<block key="WE4_108_0_9999_Name" korean="로비용 단검 108_0" />
+	<block key="WE4_108_1_9999_Name" korean="로비용 단검 108_1" />
+	<block key="WE4_108_2_9999_Name" korean="로비용 단검 108_2" />
+	<block key="WE4_009_0_9999_Name" korean="로비용 단검 009_0" />
+	<block key="WE4_009_1_9999_Name" korean="로비용 단검 009_1" />
+	<block key="WE4_009_2_9999_Name" korean="로비용 단검 009_2" />
+	<block key="WE4_009_3_9999_Name" korean="로비용 단검 009_3" />
+	<block key="WE4_109_0_9999_Name" korean="로비용 단검 109_0" />
+	<block key="WE4_109_1_9999_Name" korean="로비용 단검 109_1" />
+	<block key="WE4_109_2_9999_Name" korean="로비용 단검 109_2" />
+	<block key="WE4_010_0_9999_Name" korean="로비용 단검 010_0" />
+	<block key="WE4_010_1_9999_Name" korean="로비용 단검 010_1" />
+	<block key="WE4_010_2_9999_Name" korean="로비용 단검 010_2" />
+	<block key="WE4_010_3_9999_Name" korean="로비용 단검 010_3" />
+	<block key="WE4_110_0_9999_Name" korean="로비용 단검 110_0" />
+	<block key="WE4_110_1_9999_Name" korean="로비용 단검 110_1" />
+	<block key="WE4_110_2_9999_Name" korean="로비용 단검 110_2" />
+	<block key="WE4_011_0_9999_Name" korean="로비용 단검 011_0" />
+	<block key="WE4_011_1_9999_Name" korean="로비용 단검 011_1" />
+	<block key="WE4_011_2_9999_Name" korean="로비용 단검 011_2" />
+	<block key="WE4_011_3_9999_Name" korean="로비용 단검 011_3" />
+	<block key="WE4_111_0_9999_Name" korean="로비용 단검 111_0" />
+	<block key="WE4_111_1_9999_Name" korean="로비용 단검 111_1" />
+	<block key="WE4_111_2_9999_Name" korean="로비용 단검 111_2" />
+	<block key="WE4_012_0_9999_Name" korean="로비용 단검 012_0" />
+	<block key="WE4_012_1_9999_Name" korean="로비용 단검 012_1" />
+	<block key="WE4_012_2_9999_Name" korean="로비용 단검 012_2" />
+	<block key="WE4_012_3_9999_Name" korean="로비용 단검 012_3" />
+	<block key="WE4_112_0_9999_Name" korean="로비용 단검 112_0" />
+	<block key="WE4_112_1_9999_Name" korean="로비용 단검 112_1" />
+	<block key="WE4_112_2_9999_Name" korean="로비용 단검 112_2" />
+	<block key="WE8_000_0_9999_Name" korean="로비용 창 000_0" />
+	<block key="WE8_000_1_9999_Name" korean="로비용 창 000_1" />
+	<block key="WE8_000_2_9999_Name" korean="로비용 창 000_2" />
+	<block key="WE8_000_3_9999_Name" korean="로비용 창 000_3" />
+	<block key="WE8_001_0_9999_Name" korean="로비용 창 001_0" />
+	<block key="WE8_001_1_9999_Name" korean="로비용 창 001_1" />
+	<block key="WE8_001_2_9999_Name" korean="로비용 창 001_2" />
+	<block key="WE8_001_3_9999_Name" korean="로비용 창 001_3" />
+	<block key="WE8_002_0_9999_Name" korean="로비용 창 002_0" />
+	<block key="WE8_002_1_9999_Name" korean="로비용 창 002_1" />
+	<block key="WE8_002_2_9999_Name" korean="로비용 창 002_2" />
+	<block key="WE8_002_3_9999_Name" korean="로비용 창 002_3" />
+	<block key="WE8_003_0_9999_Name" korean="로비용 창 003_0" />
+	<block key="WE8_003_1_9999_Name" korean="로비용 창 003_1" />
+	<block key="WE8_003_2_9999_Name" korean="로비용 창 003_2" />
+	<block key="WE8_003_3_9999_Name" korean="로비용 창 003_3" />
+	<block key="WE8_004_0_9999_Name" korean="로비용 창 004_0" />
+	<block key="WE8_004_1_9999_Name" korean="로비용 창 004_1" />
+	<block key="WE8_004_2_9999_Name" korean="로비용 창 004_2" />
+	<block key="WE8_004_3_9999_Name" korean="로비용 창 004_3" />
+	<block key="WE8_005_0_9999_Name" korean="로비용 창 005_0" />
+	<block key="WE8_005_1_9999_Name" korean="로비용 창 005_1" />
+	<block key="WE8_005_2_9999_Name" korean="로비용 창 005_2" />
+	<block key="WE8_005_3_9999_Name" korean="로비용 창 005_3" />
+	<block key="WE8_006_0_9999_Name" korean="로비용 창 006_0" />
+	<block key="WE8_006_1_9999_Name" korean="로비용 창 006_1" />
+	<block key="WE8_006_2_9999_Name" korean="로비용 창 006_2" />
+	<block key="WE8_006_3_9999_Name" korean="로비용 창 006_3" />
+	<block key="WE8_106_0_9999_Name" korean="로비용 창 106_0" />
+	<block key="WE8_106_1_9999_Name" korean="로비용 창 106_1" />
+	<block key="WE8_106_2_9999_Name" korean="로비용 창 106_2" />
+	<block key="WE8_007_0_9999_Name" korean="로비용 창 007_0" />
+	<block key="WE8_007_1_9999_Name" korean="로비용 창 007_1" />
+	<block key="WE8_007_2_9999_Name" korean="로비용 창 007_2" />
+	<block key="WE8_007_3_9999_Name" korean="로비용 창 007_3" />
+	<block key="WE8_107_0_9999_Name" korean="로비용 창 107_0" />
+	<block key="WE8_107_1_9999_Name" korean="로비용 창 107_1" />
+	<block key="WE8_107_2_9999_Name" korean="로비용 창 107_2" />
+	<block key="WE8_008_0_9999_Name" korean="로비용 창 008_0" />
+	<block key="WE8_008_1_9999_Name" korean="로비용 창 008_1" />
+	<block key="WE8_008_2_9999_Name" korean="로비용 창 008_2" />
+	<block key="WE8_008_3_9999_Name" korean="로비용 창 008_3" />
+	<block key="WE8_108_0_9999_Name" korean="로비용 창 108_0" />
+	<block key="WE8_108_1_9999_Name" korean="로비용 창 108_1" />
+	<block key="WE8_108_2_9999_Name" korean="로비용 창 108_2" />
+	<block key="WE8_009_0_9999_Name" korean="로비용 창 009_0" />
+	<block key="WE8_009_1_9999_Name" korean="로비용 창 009_1" />
+	<block key="WE8_009_2_9999_Name" korean="로비용 창 009_2" />
+	<block key="WE8_009_3_9999_Name" korean="로비용 창 009_3" />
+	<block key="WE8_109_0_9999_Name" korean="로비용 창 109_0" />
+	<block key="WE8_109_1_9999_Name" korean="로비용 창 109_1" />
+	<block key="WE8_109_2_9999_Name" korean="로비용 창 109_2" />
+	<block key="WE8_010_0_9999_Name" korean="로비용 창 010_0" />
+	<block key="WE8_010_1_9999_Name" korean="로비용 창 010_1" />
+	<block key="WE8_010_2_9999_Name" korean="로비용 창 010_2" />
+	<block key="WE8_010_3_9999_Name" korean="로비용 창 010_3" />
+	<block key="WE8_110_0_9999_Name" korean="로비용 창 110_0" />
+	<block key="WE8_110_1_9999_Name" korean="로비용 창 110_1" />
+	<block key="WE8_110_2_9999_Name" korean="로비용 창 110_2" />
+	<block key="WE8_011_0_9999_Name" korean="로비용 창 011_0" />
+	<block key="WE8_011_1_9999_Name" korean="로비용 창 011_1" />
+	<block key="WE8_011_2_9999_Name" korean="로비용 창 011_2" />
+	<block key="WE8_011_3_9999_Name" korean="로비용 창 011_3" />
+	<block key="WE8_111_0_9999_Name" korean="로비용 창 111_0" />
+	<block key="WE8_111_1_9999_Name" korean="로비용 창 111_1" />
+	<block key="WE8_111_2_9999_Name" korean="로비용 창 111_2" />
+	<block key="WE8_012_0_9999_Name" korean="로비용 창 012_0" />
+	<block key="WE8_012_1_9999_Name" korean="로비용 창 012_1" />
+	<block key="WE8_012_2_9999_Name" korean="로비용 창 012_2" />
+	<block key="WE8_012_3_9999_Name" korean="로비용 창 012_3" />
+	<block key="WE8_112_0_9999_Name" korean="로비용 창 112_0" />
+	<block key="WE8_112_1_9999_Name" korean="로비용 창 112_1" />
+	<block key="WE8_112_2_9999_Name" korean="로비용 창 112_2" />
+	<block key="WE9_000_0_9999_Name" korean="로비용 석궁 000_0" />
+	<block key="WE9_000_1_9999_Name" korean="로비용 석궁 000_1" />
+	<block key="WE9_000_2_9999_Name" korean="로비용 석궁 000_2" />
+	<block key="WE9_000_3_9999_Name" korean="로비용 석궁 000_3" />
+	<block key="WE9_001_0_9999_Name" korean="로비용 석궁 001_0" />
+	<block key="WE9_001_1_9999_Name" korean="로비용 석궁 001_1" />
+	<block key="WE9_001_2_9999_Name" korean="로비용 석궁 001_2" />
+	<block key="WE9_001_3_9999_Name" korean="로비용 석궁 001_3" />
+	<block key="WE9_002_0_9999_Name" korean="로비용 석궁 002_0" />
+	<block key="WE9_002_1_9999_Name" korean="로비용 석궁 002_1" />
+	<block key="WE9_002_2_9999_Name" korean="로비용 석궁 002_2" />
+	<block key="WE9_002_3_9999_Name" korean="로비용 석궁 002_3" />
+	<block key="WE9_003_0_9999_Name" korean="로비용 석궁 003_0" />
+	<block key="WE9_003_1_9999_Name" korean="로비용 석궁 003_1" />
+	<block key="WE9_003_2_9999_Name" korean="로비용 석궁 003_2" />
+	<block key="WE9_003_3_9999_Name" korean="로비용 석궁 003_3" />
+	<block key="WE9_004_0_9999_Name" korean="로비용 석궁 004_0" />
+	<block key="WE9_004_1_9999_Name" korean="로비용 석궁 004_1" />
+	<block key="WE9_004_2_9999_Name" korean="로비용 석궁 004_2" />
+	<block key="WE9_004_3_9999_Name" korean="로비용 석궁 004_3" />
+	<block key="WE9_005_0_9999_Name" korean="로비용 석궁 005_0" />
+	<block key="WE9_005_1_9999_Name" korean="로비용 석궁 005_1" />
+	<block key="WE9_005_2_9999_Name" korean="로비용 석궁 005_2" />
+	<block key="WE9_005_3_9999_Name" korean="로비용 석궁 005_3" />
+	<block key="WE9_006_0_9999_Name" korean="로비용 석궁 006_0" />
+	<block key="WE9_006_1_9999_Name" korean="로비용 석궁 006_1" />
+	<block key="WE9_006_2_9999_Name" korean="로비용 석궁 006_2" />
+	<block key="WE9_006_3_9999_Name" korean="로비용 석궁 006_3" />
+	<block key="WE9_106_0_9999_Name" korean="로비용 석궁 106_0" />
+	<block key="WE9_106_1_9999_Name" korean="로비용 석궁 106_1" />
+	<block key="WE9_106_2_9999_Name" korean="로비용 석궁 106_2" />
+	<block key="WE9_007_0_9999_Name" korean="로비용 석궁 007_0" />
+	<block key="WE9_007_1_9999_Name" korean="로비용 석궁 007_1" />
+	<block key="WE9_007_2_9999_Name" korean="로비용 석궁 007_2" />
+	<block key="WE9_007_3_9999_Name" korean="로비용 석궁 007_3" />
+	<block key="WE9_107_0_9999_Name" korean="로비용 석궁 107_0" />
+	<block key="WE9_107_1_9999_Name" korean="로비용 석궁 107_1" />
+	<block key="WE9_107_2_9999_Name" korean="로비용 석궁 107_2" />
+	<block key="WE9_008_0_9999_Name" korean="로비용 석궁 008_0" />
+	<block key="WE9_008_1_9999_Name" korean="로비용 석궁 008_1" />
+	<block key="WE9_008_2_9999_Name" korean="로비용 석궁 008_2" />
+	<block key="WE9_008_3_9999_Name" korean="로비용 석궁 008_3" />
+	<block key="WE9_108_0_9999_Name" korean="로비용 석궁 108_0" />
+	<block key="WE9_108_1_9999_Name" korean="로비용 석궁 108_1" />
+	<block key="WE9_108_2_9999_Name" korean="로비용 석궁 108_2" />
+	<block key="WE9_009_0_9999_Name" korean="로비용 석궁 009_0" />
+	<block key="WE9_009_1_9999_Name" korean="로비용 석궁 009_1" />
+	<block key="WE9_009_2_9999_Name" korean="로비용 석궁 009_2" />
+	<block key="WE9_009_3_9999_Name" korean="로비용 석궁 009_3" />
+	<block key="WE9_109_0_9999_Name" korean="로비용 석궁 109_0" />
+	<block key="WE9_109_1_9999_Name" korean="로비용 석궁 109_1" />
+	<block key="WE9_109_2_9999_Name" korean="로비용 석궁 109_2" />
+	<block key="WE9_010_0_9999_Name" korean="로비용 석궁 010_0" />
+	<block key="WE9_010_1_9999_Name" korean="로비용 석궁 010_1" />
+	<block key="WE9_010_2_9999_Name" korean="로비용 석궁 010_2" />
+	<block key="WE9_010_3_9999_Name" korean="로비용 석궁 010_3" />
+	<block key="WE9_110_0_9999_Name" korean="로비용 석궁 110_0" />
+	<block key="WE9_110_1_9999_Name" korean="로비용 석궁 110_1" />
+	<block key="WE9_110_2_9999_Name" korean="로비용 석궁 110_2" />
+	<block key="WE9_011_0_9999_Name" korean="로비용 석궁 011_0" />
+	<block key="WE9_011_1_9999_Name" korean="로비용 석궁 011_1" />
+	<block key="WE9_011_2_9999_Name" korean="로비용 석궁 011_2" />
+	<block key="WE9_011_3_9999_Name" korean="로비용 석궁 011_3" />
+	<block key="WE9_111_0_9999_Name" korean="로비용 석궁 111_0" />
+	<block key="WE9_111_1_9999_Name" korean="로비용 석궁 111_1" />
+	<block key="WE9_111_2_9999_Name" korean="로비용 석궁 111_2" />
+	<block key="WE9_012_0_9999_Name" korean="로비용 석궁 012_0" />
+	<block key="WE9_012_1_9999_Name" korean="로비용 석궁 012_1" />
+	<block key="WE9_012_2_9999_Name" korean="로비용 석궁 012_2" />
+	<block key="WE9_012_3_9999_Name" korean="로비용 석궁 012_3" />
+	<block key="WE9_112_0_9999_Name" korean="로비용 석궁 112_0" />
+	<block key="WE9_112_1_9999_Name" korean="로비용 석궁 112_1" />
+	<block key="WE9_112_2_9999_Name" korean="로비용 석궁 112_2" />
+	<block key="WE0_014_0_0000_Name" korean="녹슨 철검" />
+	<block key="WE6_001_0_0000_Name" korean="녹슨 양손지팡이" />
+	<block key="WE4_017_0_0000_Name" korean="녹슨 단검" />
+	<block key="WE5_001_0_0001_Name" korean="녹슨 한손지팡이" />
+	<block key="WE1_001_0_0000_Name" korean="녹슨 양손검" />
+	<block key="WE7_001_0_0000_Name" korean="녹슨 활" />
+	<block key="WE0_014_0_1051_Name" korean="평범한 검" />
+	<block key="WE1_001_0_1051_Name" korean="평범한 양손검" />
+	<block key="WE4_017_0_1051_Name" korean="평범한 단검" />
+	<block key="WE2_017_0_1051_Name" korean="평범한 전투망치" />
+	<block key="WE6_001_0_1051_Name" korean="평범한 양손지팡이" />
+	<block key="WE7_001_0_1051_Name" korean="평범한 활" />
+	<block key="WE5_001_0_1051_Name" korean="평범한 한손지팡이" />
+	<block key="WE0_002_0_2051_Name" korean="신룡 기사단의 검" />
+	<block key="WE1_002_0_2051_Name" korean="신룡 기사단의 양손검" />
+	<block key="WE4_003_0_2051_Name" korean="신룡 기사단의 단검" />
+	<block key="WE2_027_0_2051_Name" korean="신룡 기사단의 전투망치" />
+	<block key="WE6_002_0_2051_Name" korean="신룡 기사단의 양손지팡이" />
+	<block key="WE7_004_0_2051_Name" korean="신룡 기사단의 활" />
+	<block key="WE5_002_0_2051_Name" korean="신룡 기사단의 한손지팡이" />
+	<block key="WE0_021_0_2101_Name" korean="숲의 검" />
+	<block key="WE4_001_0_2101_Name" korean="숲의 단검" />
+	<block key="WE6_003_0_2101_Name" korean="숲의 양손지팡이" />
+	<block key="WE7_010_0_2101_Name" korean="숲의 활" />
+	<block key="WE1_003_0_2101_Name" korean="숲의 양손검" />
+	<block key="WE3_010_0_2101_Name" korean="숲의 전투도끼" />
+	<block key="WE5_003_0_2101_Name" korean="숲의 한손지팡이" />
+	<block key="WE2_005_0_2101_Name" korean="숲의 전투망치" />
+	<block key="WE0_021_0_1101_Name" korean="쓸만한 검" />
+	<block key="WE4_001_0_1101_Name" korean="쓸만한 단검" />
+	<block key="WE6_003_0_1101_Name" korean="쓸만한 양손지팡이" />
+	<block key="WE7_010_0_1101_Name" korean="쓸만한 활" />
+	<block key="WE1_003_0_1101_Name" korean="쓸만한 양손검" />
+	<block key="WE3_010_0_1101_Name" korean="쓸만한 전투도끼" />
+	<block key="WE5_003_0_1101_Name" korean="쓸만한 한손지팡이" />
+	<block key="WE2_005_0_1101_Name" korean="쓸만한 전투망치" />
+	<block key="WE0_015_0_2102_Name" korean="요정의 검" />
+	<block key="WE4_002_0_2102_Name" korean="요정의 단검" />
+	<block key="WE6_011_0_2102_Name" korean="요정의 양손지팡이" />
+	<block key="WE7_003_0_2102_Name" korean="요정의 활" />
+	<block key="WE1_004_0_2102_Name" korean="요정의 양손검" />
+	<block key="WE3_020_0_2102_Name" korean="요정의 전투도끼" />
+	<block key="WE5_004_0_2102_Name" korean="요정의 한손지팡이" />
+	<block key="WE2_006_0_2102_Name" korean="요정의 전투망치" />
+	<block key="WE0_015_0_1151_Name" korean="일반병의 검" />
+	<block key="WE4_002_0_1151_Name" korean="일반병의 단검" />
+	<block key="WE6_011_0_1151_Name" korean="일반병의 양손지팡이" />
+	<block key="WE7_003_0_1151_Name" korean="일반병의 활" />
+	<block key="WE1_004_0_1151_Name" korean="일반병의 양손검" />
+	<block key="WE3_020_0_1151_Name" korean="일반병의 전투도끼" />
+	<block key="WE5_004_0_1151_Name" korean="일반병의 한손지팡이" />
+	<block key="WE2_006_0_1151_Name" korean="일반병의 전투망치" />
+	<block key="WE0_004_0_2141_Name" korean="고대 화염 골렘의 검" />
+	<block key="WE4_005_0_2141_Name" korean="고대 화염 골렘의 단검" />
+	<block key="WE6_005_0_2141_Name" korean="고대 화염 골렘의 양손지팡이" />
+	<block key="WE7_027_0_2141_Name" korean="고대 화염 골렘의 활" />
+	<block key="WE1_008_0_2141_Name" korean="고대 화염 골렘의 양손검" />
+	<block key="WE3_019_0_2141_Name" korean="고대 화염 골렘의 전투도끼" />
+	<block key="WE5_007_0_2141_Name" korean="고대 화염 골렘의 한손지팡이" />
+	<block key="WE2_027_0_2141_Name" korean="고대 화염 골렘의 전투망치" />
+	<block key="WE0_007_0_2151_Name" korean="습격자의 검" />
+	<block key="WE4_015_0_2151_Name" korean="습격자의 단검" />
+	<block key="WE6_000_0_2151_Name" korean="습격자의 양손지팡이" />
+	<block key="WE7_011_0_2151_Name" korean="습격자의 활" />
+	<block key="WE1_005_0_2151_Name" korean="습격자의 양손검" />
+	<block key="WE3_005_0_2151_Name" korean="습격자의 전투도끼" />
+	<block key="WE5_005_0_2151_Name" korean="습격자의 한손지팡이" />
+	<block key="WE2_007_0_2151_Name" korean="습격자의 전투망치" />
+	<block key="WE0_007_0_2171_Name" korean="파견단의 검" />
+	<block key="WE4_015_0_2171_Name" korean="파견단의 단검" />
+	<block key="WE6_000_0_2171_Name" korean="파견단의 양손지팡이" />
+	<block key="WE7_011_0_2171_Name" korean="파견단의 활" />
+	<block key="WE1_005_0_2171_Name" korean="파견단의 양손검" />
+	<block key="WE3_005_0_2171_Name" korean="파견단의 전투도끼" />
+	<block key="WE5_005_0_2171_Name" korean="파견단의 한손지팡이" />
+	<block key="WE2_007_0_2171_Name" korean="파견단의 전투망치" />
+	<block key="WE0_007_0_1201_Name" korean="숙련병의 검" />
+	<block key="WE4_015_0_1201_Name" korean="숙련병의 단검" />
+	<block key="WE6_000_0_1201_Name" korean="숙련병의 양손지팡이" />
+	<block key="WE7_011_0_1201_Name" korean="숙련병의 활" />
+	<block key="WE1_005_0_1201_Name" korean="숙련병의 양손검" />
+	<block key="WE3_005_0_1201_Name" korean="숙련병의 전투도끼" />
+	<block key="WE5_005_0_1201_Name" korean="숙련병의 한손지팡이" />
+	<block key="WE2_007_0_1201_Name" korean="숙련병의 전투망치" />
+	<block key="WE0_029_0_2201_Name" korean="흡혈귀의 검" />
+	<block key="WE4_004_0_2201_Name" korean="흡혈귀의 단검" />
+	<block key="WE6_004_0_2201_Name" korean="흡혈귀의 양손지팡이" />
+	<block key="WE7_002_0_2201_Name" korean="흡혈귀의 활" />
+	<block key="WE1_006_0_2201_Name" korean="흡혈귀의 양손검" />
+	<block key="WE3_006_0_2201_Name" korean="흡혈귀의 전투도끼" />
+	<block key="WE5_006_0_2201_Name" korean="흡혈귀의 한손지팡이" />
+	<block key="WE2_013_0_2201_Name" korean="흡혈귀의 전투망치" />
+	<block key="WE0_029_0_2202_Name" korean="민병대의 검" />
+	<block key="WE4_004_0_2202_Name" korean="민병대의 단검" />
+	<block key="WE6_004_0_2202_Name" korean="민병대의 양손지팡이" />
+	<block key="WE7_002_0_2202_Name" korean="민병대의 활" />
+	<block key="WE1_006_0_2202_Name" korean="민병대의 양손검" />
+	<block key="WE3_006_0_2202_Name" korean="민병대의 전투도끼" />
+	<block key="WE5_006_0_2202_Name" korean="민병대의 한손지팡이" />
+	<block key="WE2_013_0_2202_Name" korean="민병대의 전투망치" />
+	<block key="WE0_034_0_2222_Name" korean="저주받은 검" />
+	<block key="WE4_026_0_2222_Name" korean="저주받은 단검" />
+	<block key="WE6_026_0_2222_Name" korean="저주받은 양손지팡이" />
+	<block key="WE7_012_0_2222_Name" korean="저주받은 활" />
+	<block key="WE1_027_0_2222_Name" korean="저주받은 양손검" />
+	<block key="WE3_031_0_2222_Name" korean="저주받은 전투도끼" />
+	<block key="WE5_027_0_2222_Name" korean="저주받은 한손지팡이" />
+	<block key="WE2_019_0_2222_Name" korean="저주받은 전투망치" />
+	<block key="WE0_029_0_1251_Name" korean="정예병의 검" />
+	<block key="WE4_004_0_1251_Name" korean="정예병의 단검" />
+	<block key="WE6_004_0_1251_Name" korean="정예병의 양손지팡이" />
+	<block key="WE7_002_0_1251_Name" korean="정예병의 활" />
+	<block key="WE1_006_0_1251_Name" korean="정예병의 양손검" />
+	<block key="WE3_006_0_1251_Name" korean="정예병의 전투도끼" />
+	<block key="WE5_006_0_1251_Name" korean="정예병의 한손지팡이" />
+	<block key="WE6_026_0_1251_Name" korean="정예병의 전투망치" />
+	<block key="WE0_003_0_2241_Name" korean="수비대의 검" />
+	<block key="WE4_016_0_2241_Name" korean="수비대의 단검" />
+	<block key="WE6_015_0_2241_Name" korean="수비대의 양손지팡이" />
+	<block key="WE7_013_0_2241_Name" korean="수비대의 활" />
+	<block key="WE1_007_0_2241_Name" korean="수비대의 양손검" />
+	<block key="WE3_031_0_2241_Name" korean="수비대의 전투도끼" />
+	<block key="WE5_008_0_2241_Name" korean="수비대의 한손지팡이" />
+	<block key="WE2_010_0_2241_Name" korean="수비대의 전투망치" />
+	<block key="WE0_012_0_2251_Name" korean="창공의 검" />
+	<block key="WE4_016_0_2251_Name" korean="창공의 단검" />
+	<block key="WE6_015_0_2251_Name" korean="창공의 양손지팡이" />
+	<block key="WE7_013_0_2251_Name" korean="창공의 활" />
+	<block key="WE1_007_0_2251_Name" korean="창공의 양손검" />
+	<block key="WE3_008_0_2251_Name" korean="창공의 전투도끼" />
+	<block key="WE5_008_0_2251_Name" korean="창공의 한손지팡이" />
+	<block key="WE2_017_0_2251_Name" korean="창공의 전투망치" />
+	<block key="WE0_015_0_1141_Name" korean="설원의 검" />
+	<block key="WE4_002_0_1141_Name" korean="설원의 단검" />
+	<block key="WE6_011_0_1141_Name" korean="설원의 양손지팡이" />
+	<block key="WE7_003_0_1141_Name" korean="설원의 활" />
+	<block key="WE1_004_0_1141_Name" korean="설원의 양손검" />
+	<block key="WE3_020_0_1141_Name" korean="설원의 전투도끼" />
+	<block key="WE5_004_0_1141_Name" korean="설원의 한손지팡이" />
+	<block key="WE2_006_0_1141_Name" korean="설원의 전투망치" />
+	<block key="WE0_006_0_3281_Name" korean="혹한의 검" />
+	<block key="WE4_018_0_3281_Name" korean="혹한의 단검" />
+	<block key="WE6_013_0_3281_Name" korean="혹한의 양손지팡이" />
+	<block key="WE7_006_0_3281_Name" korean="혹한의 활" />
+	<block key="WE1_009_0_3281_Name" korean="혹한의 양손검" />
+	<block key="WE3_017_0_3281_Name" korean="혹한의 전투도끼" />
+	<block key="WE5_009_0_3281_Name" korean="혹한의 한손지팡이" />
+	<block key="WE2_012_0_3281_Name" korean="혹한의 전투망치" />
+	<block key="WE0_012_0_2252_Name" korean="거신족의 검" />
+	<block key="WE4_016_0_2252_Name" korean="거신족의 단검" />
+	<block key="WE6_015_0_2252_Name" korean="거신족의 양손지팡이" />
+	<block key="WE7_013_0_2252_Name" korean="거신족의 활" />
+	<block key="WE1_007_0_2252_Name" korean="거신족의 양손검" />
+	<block key="WE3_008_0_2252_Name" korean="거신족의 전투도끼" />
+	<block key="WE5_008_0_2252_Name" korean="거신족의 한손지팡이" />
+	<block key="WE2_017_0_2252_Name" korean="거신족의 전투망치" />
+	<block key="WE0_006_0_3283_Name" korean="야타이만의 검" />
+	<block key="WE4_018_0_3283_Name" korean="야타이만의 단검" />
+	<block key="WE6_013_0_3283_Name" korean="야타이만의 양손지팡이" />
+	<block key="WE7_006_0_3283_Name" korean="야타이만의 활" />
+	<block key="WE1_009_0_3283_Name" korean="야타이만의 양손검" />
+	<block key="WE3_017_0_3283_Name" korean="야타이만의 전투도끼" />
+	<block key="WE5_009_0_3283_Name" korean="야타이만의 한손지팡이" />
+	<block key="WE2_012_0_3283_Name" korean="야타이만의 전투망치" />
+	<block key="WE0_012_0_1301_Name" korean="신입 기사단원의 검" />
+	<block key="WE4_016_0_1301_Name" korean="신입 기사단원의 단검" />
+	<block key="WE6_015_0_1301_Name" korean="신입 기사단원의 양손지팡이" />
+	<block key="WE7_013_0_1301_Name" korean="신입 기사단원의 활" />
+	<block key="WE1_007_0_1301_Name" korean="신입 기사단원의 양손검" />
+	<block key="WE3_008_0_1301_Name" korean="신입 기사단원의 전투도끼" />
+	<block key="WE5_008_0_1301_Name" korean="신입 기사단원의 한손지팡이" />
+	<block key="WE2_017_0_1301_Name" korean="신입 기사단원의 전투망치" />
+	<block key="WE0_006_0_2301_Name" korean="무러미족의 검" />
+	<block key="WE4_018_0_2301_Name" korean="무러미족의 단검" />
+	<block key="WE6_013_0_2301_Name" korean="무러미족의 양손지팡이" />
+	<block key="WE7_006_0_2301_Name" korean="무러미족의 활" />
+	<block key="WE1_009_0_2301_Name" korean="무러미족의 양손검" />
+	<block key="WE3_009_0_2301_Name" korean="무러미족의 전투도끼" />
+	<block key="WE5_009_0_2301_Name" korean="무러미족의 한손지팡이" />
+	<block key="WE2_009_0_2301_Name" korean="무러미족의 전투망치" />
+	<block key="WE0_003_0_2261_Name" korean="바람 민병단의 검" />
+	<block key="WE4_010_0_2261_Name" korean="바람 민병단의 단검" />
+	<block key="WE6_007_0_2261_Name" korean="바람 민병단의 양손지팡이" />
+	<block key="WE7_019_0_2261_Name" korean="바람 민병단의 활" />
+	<block key="WE1_015_0_2261_Name" korean="바람 민병단의 양손검" />
+	<block key="WE3_017_0_2261_Name" korean="바람 민병단의 전투도끼" />
+	<block key="WE5_010_0_2261_Name" korean="바람 민병단의 한손지팡이" />
+	<block key="WE2_012_0_2261_Name" korean="바람 민병단의 전투망치" />
+	<block key="WE0_003_0_3282_Name" korean="타락한 추종자의 검" />
+	<block key="WE4_010_0_3282_Name" korean="타락한 추종자의 단검" />
+	<block key="WE6_007_0_3282_Name" korean="타락한 추종자의 양손지팡이" />
+	<block key="WE7_019_0_3282_Name" korean="타락한 추종자의 활" />
+	<block key="WE1_015_0_3282_Name" korean="타락한 추종자의 양손검" />
+	<block key="WE3_017_0_3282_Name" korean="타락한 추종자의 전투도끼" />
+	<block key="WE5_010_0_3282_Name" korean="타락한 추종자의 한손지팡이" />
+	<block key="WE2_012_0_3282_Name" korean="타락한 추종자의 전투망치" />
+	<block key="WE0_006_0_1351_Name" korean="숙련 기사단원의 검" />
+	<block key="WE4_018_0_1351_Name" korean="숙련 기사단원의 단검" />
+	<block key="WE6_013_0_1351_Name" korean="숙련 기사단원의 양손지팡이" />
+	<block key="WE7_006_0_1351_Name" korean="숙련 기사단원의 활" />
+	<block key="WE1_009_0_1351_Name" korean="숙련 기사단원의 양손검" />
+	<block key="WE3_009_0_1351_Name" korean="숙련 기사단원의 전투도끼" />
+	<block key="WE5_009_0_1351_Name" korean="숙련 기사단원의 한손지팡이" />
+	<block key="WE2_009_0_1351_Name" korean="숙련 기사단원의 전투망치" />
+	<block key="WE0_018_0_2351_Name" korean="서리군단의 검" />
+	<block key="WE4_019_0_2351_Name" korean="서리군단의 단검" />
+	<block key="WE6_014_0_2351_Name" korean="서리군단의 양손지팡이" />
+	<block key="WE7_015_0_2351_Name" korean="서리군단의 활" />
+	<block key="WE1_011_0_2351_Name" korean="서리군단의 양손검" />
+	<block key="WE3_011_0_2351_Name" korean="서리군단의 전투도끼" />
+	<block key="WE5_011_0_2351_Name" korean="서리군단의 한손지팡이" />
+	<block key="WE2_030_0_2351_Name" korean="서리군단의 전투망치" />
+	<block key="WE0_018_0_3341_Name" korean="크로쿤족의 검" />
+	<block key="WE4_019_0_3341_Name" korean="크로쿤족의 단검" />
+	<block key="WE6_014_0_3341_Name" korean="크로쿤족의 양손지팡이" />
+	<block key="WE7_015_0_3341_Name" korean="크로쿤족의 활" />
+	<block key="WE1_011_0_3341_Name" korean="크로쿤족의 양손검" />
+	<block key="WE3_011_0_3341_Name" korean="크로쿤족의 전투도끼" />
+	<block key="WE5_011_0_3341_Name" korean="크로쿤족의 한손지팡이" />
+	<block key="WE2_030_0_3341_Name" korean="크로쿤족의 전투망치" />
+	<block key="WE0_005_0_3301_Name" korean="론도의 한손검" />
+	<block key="WE4_009_0_3301_Name" korean="론도의 단검" />
+	<block key="WE6_008_0_3301_Name" korean="아이샤의 양손지팡이" />
+	<block key="WE7_014_0_3301_Name" korean="냉혹한 얼음 군단장의 활" />
+	<block key="WE1_012_0_3301_Name" korean="론도의 양손검" />
+	<block key="WE3_029_0_3301_Name" korean="냉혹한 얼음 군단장의 전투도끼" />
+	<block key="WE5_012_0_3301_Name" korean="아이샤의 한손지팡이" />
+	<block key="WE2_012_0_3301_Name" korean="냉혹한 얼음 군단장의 전투망치" />
+	<block key="WE0_018_0_1401_Name" korean="정예 기사단원의 검" />
+	<block key="WE4_019_0_1401_Name" korean="정예 기사단원의 단검" />
+	<block key="WE6_014_0_1401_Name" korean="정예 기사단원의 양손지팡이" />
+	<block key="WE7_015_0_1401_Name" korean="정예 기사단원의 활" />
+	<block key="WE1_011_0_1401_Name" korean="정예 기사단원의 양손검" />
+	<block key="WE3_011_0_1401_Name" korean="정예 기사단원의 전투도끼" />
+	<block key="WE5_011_0_1401_Name" korean="정예 기사단원의 한손지팡이" />
+	<block key="WE2_030_0_1401_Name" korean="정예 기사단원의 전투망치" />
+	<block key="WE0_019_0_2401_Name" korean="불사군단의 검" />
+	<block key="WE4_011_0_2401_Name" korean="불사군단의 단검" />
+	<block key="WE6_012_0_2401_Name" korean="불사군단의 양손지팡이" />
+	<block key="WE7_016_0_2401_Name" korean="불사군단의 활" />
+	<block key="WE1_017_0_2401_Name" korean="불사군단의 양손검" />
+	<block key="WE3_011_0_2401_Name" korean="불사군단의 전투도끼" />
+	<block key="WE5_014_0_2401_Name" korean="불사군단의 한손지팡이" />
+	<block key="WE2_030_0_2401_Name" korean="불사군단의 전투망치" />
+	<block key="WE0_003_0_2271_Name" korean="페가수스 기사단의 검" />
+	<block key="WE4_010_0_2271_Name" korean="페가수스 기사단의 단검" />
+	<block key="WE6_007_0_2271_Name" korean="페가수스 기사단의 양손지팡이" />
+	<block key="WE7_019_0_2271_Name" korean="페가수스 기사단의 활" />
+	<block key="WE1_015_0_2271_Name" korean="페가수스 기사단의 양손검" />
+	<block key="WE3_017_0_2271_Name" korean="페가수스 기사단의 전투도끼" />
+	<block key="WE5_010_0_2271_Name" korean="페가수스 기사단의 한손지팡이" />
+	<block key="WE2_012_0_2271_Name" korean="페가수스 기사단의 전투망치" />
+	<block key="WE0_009_0_3351_Name" korean="총사령관의 검" />
+	<block key="WE4_008_0_3351_Name" korean="총사령관의 단검" />
+	<block key="WE6_018_0_3351_Name" korean="총사령관의 양손지팡이" />
+	<block key="WE7_018_0_3351_Name" korean="총사령관의 활" />
+	<block key="WE1_029_0_3351_Name" korean="총사령관의 양손검" />
+	<block key="WE3_011_0_3351_Name" korean="총사령관의 전투도끼" />
+	<block key="WE5_018_0_3351_Name" korean="총사령관의 한손지팡이" />
+	<block key="WE2_030_0_3351_Name" korean="총사령관의 전투망치" />
+	<block key="WE9_001_0_1151_Name" korean="일반병의 석궁" />
+	<block key="WE9_001_0_2151_Name" korean="민병대의 석궁" />
+	<block key="WE9_002_0_2151_Name" korean="파견단의 석궁" />
+	<block key="WE9_003_0_2201_Name" korean="백작의 석궁" />
+	<block key="WE9_003_0_2205_Name" korean="바르키르의 석궁" />
+	<block key="WE9_003_0_2405_Name" korean="수비대의 석궁" />
+	<block key="WE9_004_0_2251_Name" korean="거신족의 석궁" />
+	<block key="WE9_007_0_4001_Name" korean="야타이만의 석궁" />
+	<block key="WE9_005_0_2252_Name" korean="설인족의 석궁" />
+	<block key="WE9_005_0_2251_Name" korean="혹한의 석궁" />
+	<block key="WE9_006_0_3301_Name" korean="광신도의 석궁" />
+	<block key="WE9_006_0_2351_Name" korean="타락한 추종자의 석궁" />
+	<block key="WE9_007_0_3301_Name" korean="서리군단 정예병의 석궁" />
+	<block key="WE9_002_0_1251_Name" korean="얼음 군단장의 석궁" />
+	<block key="WE8_001_0_1081_Name" korean="알렉스의 낡은 장창" />
+	<block key="WE8_001_0_1151_Name" korean="일반병의 장창" />
+	<block key="WE8_001_0_1082_Name" korean="신룡기사단의 보급용 장창" />
+	<block key="WE8_003_0_2201_Name" korean="민병대의 장창" />
+	<block key="WE8_003_0_2202_Name" korean="백작의 장창" />
+	<block key="WE8_003_0_2205_Name" korean="공적단의 장창" />
+	<block key="WE8_003_0_2305_Name" korean="수비대의 장창" />
+	<block key="WE8_003_0_2203_Name" korean="거신족의 미늘창" />
+	<block key="WE8_007_0_4001_Name" korean="야타이만의 미늘창" />
+	<block key="WE8_003_0_2301_Name" korean="설인족의 장창" />
+	<block key="WE8_003_0_2204_Name" korean="혹한의 장창" />
+	<block key="WE8_006_0_3301_Name" korean="광신도의 장창" />
+	<block key="WE8_006_0_2351_Name" korean="타락한 추종자의 장창" />
+	<block key="WE8_007_0_3301_Name" korean="서리군단 정예병의 장창" />
+	<block key="WE8_002_0_1251_Name" korean="얼음 군단장의 장창" />
+	<block key="WE0_107_2_99999_Name" korean="인도자의 한손검" />
+	<block key="WE1_005_3_99999_Name" korean="인도자의 양손검" />
+	<block key="WE4_109_1_99999_Name" korean="인도자의 청룡 단검" />
+	<block key="WE4_111_2_99999_Name" korean="인도자의 백호 단검" />
+	<block key="WE5_008_2_99999_Name" korean="인도자의 한손지팡이" />
+	<block key="WE6_106_2_99999_Name" korean="인도자의 양손지팡이" />
+	<block key="WE8_006_3_99999_Name" korean="인도자의 탑승 창" />
+	<block key="WE9_006_3_99999_Name" korean="인도자의 탑승 석궁 (1.0)" />
+	<block key="WE9_006_3_99998_Name" korean="인도자의 탑승 석궁 (1.2)" />
+	<block key="WE9_006_3_99997_Name" korean="인도자의 탑승 석궁 (1.4)" />
+	<block key="WE9_006_3_99996_Name" korean="인도자의 탑승 석궁 (1.6)" />
+	<block key="WE9_006_3_99995_Name" korean="인도자의 탑승 석궁 (1.8)" />
+	<block key="WE9_006_3_99994_Name" korean="인도자의 탑승 석궁 (2.0)" />
+	<block key="WE0_107_2_99995_Name" korean="화염의 한손검" />
+	<block key="WE0_107_2_99996_Name" korean="빙결의 한손검" />
+	<block key="WE0_107_2_99997_Name" korean="광채의 한손검" />
+	<block key="WE0_107_2_99998_Name" korean="백작의 한손검" />
+	<block key="WE0_812_0_2151_Name" korean="강인한 용사의 한손검" />
+	<block key="WE4_812_0_2151_Name" korean="강인한 용사의 단검" />
+	<block key="WE6_812_0_2151_Name" korean="강인한 용사의 양손지팡이" />
+	<block key="WE1_812_0_2151_Name" korean="강인한 용사의 양손검" />
+	<block key="WE5_812_0_2151_Name" korean="강인한 용사의 한손지팡이" />
+	<block key="WE0_822_0_2251_Name" korean="전설의 한손검" />
+	<block key="WE4_822_0_2251_Name" korean="전설의 단검" />
+	<block key="WE6_822_0_2251_Name" korean="전설의 양손지팡이" />
+	<block key="WE1_822_0_2251_Name" korean="전설의 양손검" />
+	<block key="WE5_822_0_2251_Name" korean="전설의 한손지팡이" />
+	<block key="WE0_823_0_3251_Name" korean="노련한 영웅의 한손검" />
+	<block key="WE4_823_0_3251_Name" korean="노련한 영웅의 단검" />
+	<block key="WE6_823_0_3251_Name" korean="노련한 영웅의 양손지팡이" />
+	<block key="WE1_823_0_3251_Name" korean="노련한 영웅의 양손검" />
+	<block key="WE5_823_0_3251_Name" korean="노련한 영웅의 한손지팡이" />
+	<block key="WE0_711_0_1101_Name" korean="구리 한손검" />
+	<block key="WE1_711_0_1101_Name" korean="구리 양손검" />
+	<block key="WE4_711_0_1101_Name" korean="구리 단검" />
+	<block key="WE5_711_0_1101_Name" korean="구리 한손지팡이" />
+	<block key="WE6_711_0_1101_Name" korean="구리 양손지팡이" />
+	<block key="WE0_721_0_2201_Name" korean="강철 한손검" />
+	<block key="WE1_721_0_2201_Name" korean="강철 양손검" />
+	<block key="WE4_721_0_2201_Name" korean="강철 단검" />
+	<block key="WE5_721_0_2201_Name" korean="강철 한손지팡이" />
+	<block key="WE6_721_0_2201_Name" korean="강철 양손지팡이" />
+	<block key="WE0_722_0_2201_Name" korean="강화된 강철 한손검" />
+	<block key="WE1_722_0_2201_Name" korean="강화된 강철 양손검" />
+	<block key="WE4_722_0_2201_Name" korean="강화된 강철 단검" />
+	<block key="WE5_722_0_2201_Name" korean="강화된 강철 한손지팡이" />
+	<block key="WE6_722_0_2201_Name" korean="강화된 강철 양손지팡이" />
+	<block key="WE0_731_0_3301_Name" korean="미스릴 한손검" />
+	<block key="WE1_731_0_3301_Name" korean="미스릴 양손검" />
+	<block key="WE4_731_0_3301_Name" korean="미스릴 단검" />
+	<block key="WE5_731_0_3301_Name" korean="미스릴 한손지팡이" />
+	<block key="WE6_731_0_3301_Name" korean="미스릴 양손지팡이" />
+	<block key="WE0_732_0_3301_Name" korean="강화된 미스릴 한손검" />
+	<block key="WE1_732_0_3301_Name" korean="강화된 미스릴 양손검" />
+	<block key="WE4_732_0_3301_Name" korean="강화된 미스릴 단검" />
+	<block key="WE5_732_0_3301_Name" korean="강화된 미스릴 한손지팡이" />
+	<block key="WE6_732_0_3301_Name" korean="강화된 미스릴 양손지팡이" />
+	<block key="WE0_733_0_3301_Name" korean="빛나는 미스릴 한손검" />
+	<block key="WE1_733_0_3301_Name" korean="빛나는 미스릴 양손검" />
+	<block key="WE4_733_0_3301_Name" korean="빛나는 미스릴 단검" />
+	<block key="WE5_733_0_3301_Name" korean="빛나는 미스릴 한손지팡이" />
+	<block key="WE6_733_0_3301_Name" korean="빛나는 미스릴 양손지팡이" />
+	<block key="WE0_021_0_9001_Name" korean="추출연습용 검" />
+	<block key="WE4_001_0_9001_Name" korean="추출연습용 단검" />
+	<block key="WE6_003_0_9001_Name" korean="추출연습용 양손지팡이" />
+	<block key="WE7_010_0_9001_Name" korean="추출연습용 활" />
+	<block key="WE1_003_0_9001_Name" korean="추출연습용 양손검" />
+	<block key="WE3_010_0_9001_Name" korean="추출연습용 전투도끼" />
+	<block key="WE5_003_0_9001_Name" korean="추출연습용 한손지팡이" />
+	<block key="WE2_005_0_9001_Name" korean="추출연습용 전투망치" />
+	<block key="boxWE0_015_0_1151_Name" korean="일반병의 검" />
+	<block key="boxWE4_002_0_1151_Name" korean="일반병의 단검" />
+	<block key="boxWE6_011_0_1151_Name" korean="일반병의 양손지팡이" />
+	<block key="boxWE1_004_0_1151_Name" korean="일반병의 양손검" />
+	<block key="boxWE5_004_0_1151_Name" korean="일반병의 한손지팡이" />
+	<block key="boxWE0_007_0_2151_Name" korean="습격자의 검" />
+	<block key="boxWE4_015_0_2151_Name" korean="습격자의 단검" />
+	<block key="boxWE6_000_0_2151_Name" korean="습격자의 양손지팡이" />
+	<block key="boxWE1_005_0_2151_Name" korean="습격자의 양손검" />
+	<block key="boxWE5_005_0_2151_Name" korean="습격자의 한손지팡이" />
+	<block key="boxWE0_007_0_1201_Name" korean="숙련병의 검" />
+	<block key="boxWE4_015_0_1201_Name" korean="숙련병의 단검" />
+	<block key="boxWE6_000_0_1201_Name" korean="숙련병의 양손지팡이" />
+	<block key="boxWE1_005_0_1201_Name" korean="숙련병의 양손검" />
+	<block key="boxWE5_005_0_1201_Name" korean="숙련병의 한손지팡이" />
+	<block key="boxWE0_029_0_2201_Name" korean="흡혈귀의 검" />
+	<block key="boxWE4_004_0_2201_Name" korean="흡혈귀의 단검" />
+	<block key="boxWE6_004_0_2201_Name" korean="흡혈귀의 양손지팡이" />
+	<block key="boxWE1_006_0_2201_Name" korean="흡혈귀의 양손검" />
+	<block key="boxWE5_006_0_2201_Name" korean="흡혈귀의 한손지팡이" />
+	<block key="boxWE0_029_0_1251_Name" korean="정예병의 검" />
+	<block key="boxWE4_004_0_1251_Name" korean="정예병의 단검" />
+	<block key="boxWE6_004_0_1251_Name" korean="정예병의 양손지팡이" />
+	<block key="boxWE1_006_0_1251_Name" korean="정예병의 양손검" />
+	<block key="boxWE5_006_0_1251_Name" korean="정예병의 한손지팡이" />
+	<block key="boxWE0_012_0_2251_Name" korean="창공의 검" />
+	<block key="boxWE4_016_0_2251_Name" korean="창공의 단검" />
+	<block key="boxWE6_015_0_2251_Name" korean="창공의 양손지팡이" />
+	<block key="boxWE1_007_0_2251_Name" korean="창공의 양손검" />
+	<block key="boxWE5_008_0_2251_Name" korean="창공의 한손지팡이" />
+	<block key="boxWE0_012_0_1301_Name" korean="신입 기사단원의 검" />
+	<block key="boxWE4_016_0_1301_Name" korean="신입 기사단원의 단검" />
+	<block key="boxWE6_015_0_1301_Name" korean="신입 기사단원의 양손지팡이" />
+	<block key="boxWE1_007_0_1301_Name" korean="신입 기사단원의 양손검" />
+	<block key="boxWE5_008_0_1301_Name" korean="신입 기사단원의 한손지팡이" />
+	<block key="boxWE0_006_0_2301_Name" korean="무러미족의 검" />
+	<block key="boxWE4_018_0_2301_Name" korean="무러미족의 단검" />
+	<block key="boxWE6_013_0_2301_Name" korean="무러미족의 양손지팡이" />
+	<block key="boxWE1_009_0_2301_Name" korean="무러미족의 양손검" />
+	<block key="boxWE5_009_0_2301_Name" korean="무러미족의 한손지팡이" />
+	<block key="boxWE0_812_0_2151_Name" korean="강인한 용사의 한손검" />
+	<block key="boxWE4_812_0_2151_Name" korean="강인한 용사의 단검" />
+	<block key="boxWE6_812_0_2151_Name" korean="강인한 용사의 양손지팡이" />
+	<block key="boxWE1_812_0_2151_Name" korean="강인한 용사의 양손검" />
+	<block key="boxWE5_812_0_2151_Name" korean="강인한 용사의 한손지팡이" />
+	<block key="boxWE0_822_0_2251_Name" korean="전설의 한손검" />
+	<block key="boxWE4_822_0_2251_Name" korean="전설의 단검" />
+	<block key="boxWE6_822_0_2251_Name" korean="전설의 양손지팡이" />
+	<block key="boxWE1_822_0_2251_Name" korean="전설의 양손검" />
+	<block key="boxWE5_822_0_2251_Name" korean="전설의 한손지팡이" />
+	<block key="boxWE0_823_0_3251_Name" korean="노련한 영웅의 한손검" />
+	<block key="boxWE4_823_0_3251_Name" korean="노련한 영웅의 단검" />
+	<block key="boxWE6_823_0_3251_Name" korean="노련한 영웅의 양손지팡이" />
+	<block key="boxWE1_823_0_3251_Name" korean="노련한 영웅의 양손검" />
+	<block key="boxWE5_823_0_3251_Name" korean="노련한 영웅의 한손지팡이" />
+	<block key="boxWE9_001_0_1151_Name" korean="평범한 기사단원의 석궁" />
+	<block key="boxWE9_002_0_2151_Name" korean="뛰어난 기사단원의 석궁" />
+	<block key="boxWE8_001_0_1082_Name" korean="신룡기사단의 보급용 장창" />
+	<block key="boxWE8_003_0_2201_Name" korean="뛰어난 정예병의 장창" />
+	<block key="pvpWE0_001_2_2528_Name" korean="하급 사냥꾼의 검" />
+	<block key="pvpWE4_001_2_2528_Name" korean="하급 사냥꾼의 단검" />
+	<block key="pvpWE6_001_2_2528_Name" korean="하급 사냥꾼의 양손지팡이" />
+	<block key="pvpWE1_001_2_2528_Name" korean="하급 사냥꾼의 양손검" />
+	<block key="pvpWE5_001_2_2528_Name" korean="하급 사냥꾼의 한손지팡이" />
+	<block key="pvpWE9_002_2_2528_Name" korean="하급 사냥꾼의 석궁" />
+	<block key="pvpWE8_002_2_2528_Name" korean="하급 사냥꾼의 장창" />
+	<block key="pvpWE0_001_2_3033_Name" korean="중급 사냥꾼의 검" />
+	<block key="pvpWE4_001_2_3033_Name" korean="중급 사냥꾼의 단검" />
+	<block key="pvpWE6_001_2_3033_Name" korean="중급 사냥꾼의 양손지팡이" />
+	<block key="pvpWE1_001_2_3033_Name" korean="중급 사냥꾼의 양손검" />
+	<block key="pvpWE5_001_2_3033_Name" korean="중급 사냥꾼의 한손지팡이" />
+	<block key="pvpWE9_002_2_3033_Name" korean="중급 사냥꾼의 석궁" />
+	<block key="pvpWE8_002_2_3033_Name" korean="중급 사냥꾼의 장창" />
+	<block key="pvpWE0_001_2_3538_Name" korean="상급 사냥꾼의 검" />
+	<block key="pvpWE4_001_2_3538_Name" korean="상급 사냥꾼의 단검" />
+	<block key="pvpWE6_001_2_3538_Name" korean="상급 사냥꾼의 양손지팡이" />
+	<block key="pvpWE1_001_2_3538_Name" korean="상급 사냥꾼의 양손검" />
+	<block key="pvpWE5_001_2_3538_Name" korean="상급 사냥꾼의 한손지팡이" />
+	<block key="pvpWE9_002_2_3538_Name" korean="상급 사냥꾼의 석궁" />
+	<block key="pvpWE8_002_2_3538_Name" korean="상급 사냥꾼의 장창" />
+	<block key="pvpWE0_001_2_4043_Name" korean="최상급 사냥꾼의 검" />
+	<block key="pvpWE4_001_2_4043_Name" korean="최상급 사냥꾼의 단검" />
+	<block key="pvpWE6_001_2_4043_Name" korean="최상급 사냥꾼의 양손지팡이" />
+	<block key="pvpWE1_001_2_4043_Name" korean="최상급 사냥꾼의의 양손검" />
+	<block key="pvpWE5_001_2_4043_Name" korean="최상급 사냥꾼의 한손지팡이" />
+	<block key="pvpWE9_002_2_4043_Name" korean="최상급 사냥꾼의 석궁" />
+	<block key="pvpWE8_002_2_4043_Name" korean="최상급 사냥꾼의 장창" />
+	<block key="WE9_007_0_3302_Name" korean="안켈리온의 석궁" />
+	<block key="WE0_009_0_4001_Name" korean="트라누아의 한손검" />
+	<block key="WE4_009_0_4001_Name" korean="트라누아의 단검" />
+	<block key="WE6_009_0_4001_Name" korean="트라누아의 양손지팡이" />
+	<block key="WE1_009_0_4001_Name" korean="트라누아의 양손검" />
+	<block key="WE5_009_0_4001_Name" korean="트라누아의 한손지팡이" />
+	<block key="WE8_007_3601_Name" korean="아슈람의 미늘창" />
+	<block key="WE0_003_0_3502_Name" korean="무러미 족장의 한손검" />
+	<block key="WE4_003_0_3502_Name" korean="무러미 족장의 단검" />
+	<block key="WE6_003_0_3502_Name" korean="무러미 족장의 양손지팡이" />
+	<block key="WE1_003_0_3502_Name" korean="무러미 족장의 양손검" />
+	<block key="WE5_003_0_3502_Name" korean="무러미 족장의 한손지팡이" />
+	<block key="WE2_010_0_0000_Name" korean="해골 병사의 도끼" />
+	<block key="WE7_002_0_0003_Name" korean="해골 궁수의 활" />
+	<block key="WE0_007_0_2152_Name" korean="망자의 검" />
+	<block key="WE4_015_0_2152_Name" korean="망자의 단검" />
+	<block key="WE6_000_0_2152_Name" korean="망자의 양손지팡이" />
+	<block key="WE7_011_0_2152_Name" korean="망자의 활" />
+	<block key="WE1_005_0_2152_Name" korean="망자의 양손검" />
+	<block key="WE3_005_0_2152_Name" korean="망자의 전투도끼" />
+	<block key="WE5_005_0_2152_Name" korean="망자의 한손지팡이" />
+	<block key="WE2_007_0_2152_Name" korean="망자의 전투망치" />
+	<block key="WE0_029_0_2203_Name" korean="백작의 검" />
+	<block key="WE4_004_0_2203_Name" korean="백작의 단검" />
+	<block key="WE6_004_0_2203_Name" korean="백작의 양손지팡이" />
+	<block key="WE7_002_0_2203_Name" korean="백작의 활" />
+	<block key="WE1_006_0_2203_Name" korean="백작의 양손검" />
+	<block key="WE3_006_0_2203_Name" korean="백작의 전투도끼" />
+	<block key="WE5_006_0_2203_Name" korean="백작의 한손지팡이" />
+	<block key="WE2_013_0_2203_Name" korean="백작의 전투망치" />
+	<block key="WE0_012_0_2253_Name" korean="설인족의 검" />
+	<block key="WE4_016_0_2253_Name" korean="설인족의 단검" />
+	<block key="WE6_015_0_2253_Name" korean="설인족의 양손지팡이" />
+	<block key="WE7_013_0_2253_Name" korean="설인족의 활" />
+	<block key="WE1_007_0_2253_Name" korean="설인족의 양손검" />
+	<block key="WE3_008_0_2253_Name" korean="설인족의 전투도끼" />
+	<block key="WE5_008_0_2253_Name" korean="설인족의 한손지팡이" />
+	<block key="WE2_017_0_2253_Name" korean="설인족의 전투망치" />
+	<block key="WE0_006_0_2302_Name" korean="광신도의 검" />
+	<block key="WE4_018_0_2302_Name" korean="광신도의 단검" />
+	<block key="WE6_013_0_2302_Name" korean="광신도의 양손지팡이" />
+	<block key="WE7_006_0_2302_Name" korean="광신도의 활" />
+	<block key="WE1_009_0_2302_Name" korean="광신도의 양손검" />
+	<block key="WE3_009_0_2302_Name" korean="광신도의 전투도끼" />
+	<block key="WE5_009_0_2302_Name" korean="광신도의 한손지팡이" />
+	<block key="WE2_009_0_2302_Name" korean="광신도의 전투망치" />
+	<block key="WE0_018_0_2352_Name" korean="서리군단 정예병의 검" />
+	<block key="WE4_019_0_2352_Name" korean="서리군단 정예병의 단검" />
+	<block key="WE6_014_0_2352_Name" korean="서리군단 정예병의 양손지팡이" />
+	<block key="WE7_015_0_2352_Name" korean="서리군단 정예병의 활" />
+	<block key="WE1_011_0_2352_Name" korean="서리군단 정예병의 양손검" />
+	<block key="WE3_011_0_2352_Name" korean="서리군단 정예병의 전투도끼" />
+	<block key="WE5_011_0_2352_Name" korean="서리군단 정예병의 한손지팡이" />
+	<block key="WE2_030_0_2352_Name" korean="서리군단 정예병의 전투망치" />
+	<block key="WE0_019_0_2402_Name" korean="이즈호라 군단 정예병의 검" />
+	<block key="WE4_011_0_2402_Name" korean="이즈호라 군단 정예병의 단검" />
+	<block key="WE6_012_0_2402_Name" korean="이즈호라 군단 정예병의 양손지팡이" />
+	<block key="WE7_016_0_2402_Name" korean="이즈호라 군단 정예병의 활" />
+	<block key="WE1_017_0_2402_Name" korean="이즈호라 군단 정예병의 양손검" />
+	<block key="WE3_011_0_2402_Name" korean="이즈호라 군단 정예병의 전투도끼" />
+	<block key="WE5_014_0_2402_Name" korean="이즈호라 군단 정예병의 한손지팡이" />
+	<block key="WE2_030_0_2402_Name" korean="이즈호라 군단 정예병의 전투망치" />
+	<block key="WE0_015_0_2103_Name" korean="카라샤의 검" />
+	<block key="WE4_002_0_2103_Name" korean="카라샤의 단검" />
+	<block key="WE6_011_0_2103_Name" korean="카라샤의 양손지팡이" />
+	<block key="WE7_003_0_2103_Name" korean="카라샤의 활" />
+	<block key="WE1_004_0_2103_Name" korean="카라샤의 양손검" />
+	<block key="WE3_020_0_2103_Name" korean="카라샤의 전투도끼" />
+	<block key="WE5_004_0_2103_Name" korean="카라샤의 한손지팡이" />
+	<block key="WE2_006_0_2103_Name" korean="카라샤의 전투망치" />
+	<block key="WE9_006_0_2103_Name" korean="카라샤의 석궁" />
+	<block key="WE8_006_0_2103_Name" korean="카라샤의 장창" />
+	<block key="WE9_004_0_1351_Name" korean="이즈호라 군단 정예병의 석궁" />
+	<block key="WE9_004_0_2351_Name" korean="총사령관의 석궁" />
+	<block key="WE8_006_0_0000_Name" korean="이즈호라 군단 정예병의 장창" />
+	<block key="WE8_004_0_0000_Name" korean="총사령관의 장창" />
+	<block key="WE0_007_0_2153_Name" korean="왕실 근위대 검" />
+	<block key="WE4_015_0_2153_Name" korean="왕실 근위대 단검" />
+	<block key="WE6_000_0_2153_Name" korean="왕실 근위대 양손지팡이" />
+	<block key="WE7_011_0_2153_Name" korean="왕실 근위대 활" />
+	<block key="WE1_005_0_2153_Name" korean="왕실 근위대 양손검" />
+	<block key="WE3_005_0_2153_Name" korean="왕실 근위대 전투도끼" />
+	<block key="WE5_005_0_2153_Name" korean="왕실 근위대 한손지팡이" />
+	<block key="WE2_007_0_2153_Name" korean="왕실 근위대 전투망치" />
+	<block key="WE9_004_0_3351_Name" korean="즈메우의 석궁" />
+	<block key="WE8_006_0_3351_Name" korean="즈메우의 장창" />
+	<block key="WE0_005_0_3401_Name" korean="족장 케르온의 한손검" />
+	<block key="WE4_009_0_3401_Name" korean="족장 케르온의 단검" />
+	<block key="WE6_008_0_3401_Name" korean="족장 케르온의 양손지팡이" />
+	<block key="WE1_012_0_3401_Name" korean="족장 케르온의 양손검" />
+	<block key="WE5_012_0_3401_Name" korean="족장 케르온의 한손지팡이" />
+	<block key="WE0_007_0_2151_EV_Name" korean="기사단의 습격자 검" />
+	<block key="WE4_015_0_2151_EV_Name" korean="기사단의 습격자 단검" />
+	<block key="WE6_000_0_2151_EV_Name" korean="기사단의 습격자 양손 지팡이" />
+	<block key="WE1_005_0_2151_EV_Name" korean="기사단의 습격자 양손 검" />
+	<block key="WE5_005_0_2151_EV_Name" korean="기사단의 습격자 한손 지팡이" />
+	<block key="WE0_012_0_2251_EV_Name" korean="창공의 검" />
+	<block key="WE4_016_0_2251_EV_Name" korean="창공의 단검" />
+	<block key="WE6_015_0_2251_EV_Name" korean="창공의 양손 지팡이" />
+	<block key="WE1_007_0_2251_EV_Name" korean="창공의 양손 검" />
+	<block key="WE5_008_0_2251_EV_Name" korean="창공의 한손 지팡이" />
+	<block key="boxWE0_006_0_2301_EV_Name" korean="무러미족의 검" />
+	<block key="boxWE4_018_0_2301_EV_Name" korean="무러미족의 단검" />
+	<block key="boxWE6_013_0_2301_EV_Name" korean="무러미족의 양손 지팡이" />
+	<block key="boxWE1_009_0_2301_EV_Name" korean="무러미족의 양손 검" />
+	<block key="boxWE5_009_0_2301_EV_Name" korean="무러미족의 한손 지팡이" />
+	<block key="WE0_006_0_3281_EV_Name" korean="혹한의 검" />
+	<block key="WE4_018_0_3281_EV_Name" korean="혹한의 단검" />
+	<block key="WE6_013_0_3281_EV_Name" korean="혹한의 양손 지팡이" />
+	<block key="WE1_009_0_3281_EV_Name" korean="혹한의 양손 검" />
+	<block key="WE5_009_0_3281_EV_Name" korean="혹한의 한손 지팡이" />
+	<block key="WE0_003_0_3282_EV_Name" korean="타락한 추종자의 검" />
+	<block key="WE4_010_0_3282_EV_Name" korean="타락한 추종자의 단검" />
+	<block key="WE6_007_0_3282_EV_Name" korean="타락한 추종자의 양손 지팡이" />
+	<block key="WE1_015_0_3282_EV_Name" korean="타락한 추종자의 양손 검" />
+	<block key="WE5_010_0_3282_EV_Name" korean="타락한 추종자의 한손 지팡이" />
+	<block key="WE0_007_0_2171_RE_Name" korean="희망의 검 I" />
+	<block key="WE4_015_0_2171_RE_Name" korean="희망의 단검 I" />
+	<block key="WE6_000_0_2171_RE_Name" korean="희망의 양손지팡이 I" />
+	<block key="WE1_005_0_2171_RE_Name" korean="희망의 양손검 I" />
+	<block key="WE5_005_0_2171_RE_Name" korean="희망의 한손지팡이 I" />
+	<block key="WE0_007_0_2151_RE_Name" korean="희망의 검 II" />
+	<block key="WE4_015_0_2151_RE_Name" korean="희망의 단검 II" />
+	<block key="WE6_000_0_2151_RE_Name" korean="희망의 양손지팡이 II" />
+	<block key="WE1_005_0_2151_RE_Name" korean="희망의 양손검 II" />
+	<block key="WE5_005_0_2151_RE_Name" korean="희망의 한손지팡이 II" />
+	<block key="WE0_007_0_1201_RE_Name" korean="희망의 검 III" />
+	<block key="WE4_015_0_1201_RE_Name" korean="희망의 단검 III" />
+	<block key="WE6_000_0_1201_RE_Name" korean="희망의 양손지팡이 III" />
+	<block key="WE1_005_0_1201_RE_Name" korean="희망의 양손검 III" />
+	<block key="WE5_005_0_1201_RE_Name" korean="희망의 한손지팡이 III" />
+	<block key="WE0_012_0_2251_RE_Name" korean="희망의 검 IV" />
+	<block key="WE4_016_0_2251_RE_Name" korean="희망의 단검 IV" />
+	<block key="WE6_015_0_2251_RE_Name" korean="희망의 양손지팡이 IV" />
+	<block key="WE1_007_0_2251_RE_Name" korean="희망의 양손검 IV" />
+	<block key="WE5_008_0_2251_RE_Name" korean="희망의 한손지팡이 IV" />
+	<block key="WE0_015_0_1141_RE_Name" korean="희망의 검 V" />
+	<block key="WE4_002_0_1141_RE_Name" korean="희망의 단검 V" />
+	<block key="WE6_011_0_1141_RE_Name" korean="희망의 양손지팡이 V" />
+	<block key="WE1_004_0_1141_RE_Name" korean="희망의 양손검 V" />
+	<block key="WE5_004_0_1141_RE_Name" korean="희망의 한손지팡이 V" />
+	<block key="WE0_006_0_2301_RE_Name" korean="희망의 검 VI" />
+	<block key="WE4_018_0_2301_RE_Name" korean="희망의 단검 VI" />
+	<block key="WE6_013_0_2301_RE_Name" korean="희망의 양손지팡이 VI" />
+	<block key="WE1_009_0_2301_RE_Name" korean="희망의 양손검 VI" />
+	<block key="WE5_009_0_2301_RE_Name" korean="희망의 한손지팡이 VI" />
+	<block key="WE0_018_0_2351_RE_Name" korean="희망의 검 VII" />
+	<block key="WE4_019_0_2351_RE_Name" korean="희망의 단검 VII" />
+	<block key="WE6_014_0_2351_RE_Name" korean="희망의 양손지팡이 VII" />
+	<block key="WE1_011_0_2351_RE_Name" korean="희망의 양손검 VII" />
+	<block key="WE5_011_0_2351_RE_Name" korean="희망의 한손지팡이 VII" />
+	<block key="WE9_002_0_2151_RE_Name" korean="파견단의 석궁" />
+	<block key="WE8_003_0_2201_RE_Name" korean="민병대의 장창" />
+	<block key="WE9_005_0_2251_EV_Name" korean="혹한의 석궁" />
+	<block key="WE8_003_0_2204_EV_Name" korean="혹한의 장창" />
+	<block key="WE0_015_0_1142_Name" korean="설원의 검" />
+	<block key="WE4_002_0_1142_Name" korean="설원의 단검" />
+	<block key="WE6_011_0_1142_Name" korean="설원의 양손 지팡이" />
+	<block key="WE7_003_0_1142_Name" korean="설원의 활" />
+	<block key="WE1_004_0_1142_Name" korean="설원의 양손 검" />
+	<block key="WE3_020_0_1142_Name" korean="설원의 전투도끼" />
+	<block key="WE5_004_0_1142_Name" korean="설원의 한손 지팡이" />
+	<block key="WE2_006_0_1142_Name" korean="설원의 전투망치" />
+	<block key="WE0_005_0_3501_Name" korean="잔혹한 운명의 검" />
+	<block key="WE4_009_0_3501_Name" korean="잔혹한 운명의 비수" />
+	<block key="WE6_008_0_3501_Name" korean="잔혹한 운명의 양손지팡이" />
+	<block key="WE1_012_0_3501_Name" korean="잔혹한 운명의 양손검" />
+	<block key="WE5_012_0_3501_Name" korean="잔혹한 운명의 한손지팡이" />
+	<block key="WE9_002_0_3501_Name" korean="잔혹한 운명의 석궁" />
+	<block key="WE8_002_0_3501_Name" korean="잔혹한 운명의 장창" />
+	<block key="WE0_733_0_3351_Name" korean="빛나는 강화 미스릴 한손검" />
+	<block key="WE1_733_0_3351_Name" korean="빛나는 강화 미스릴 양손검" />
+	<block key="WE4_733_0_3351_Name" korean="빛나는 강화 미스릴 단검" />
+	<block key="WE5_733_0_3351_Name" korean="빛나는 강화 미스릴 한손지팡이" />
+	<block key="WE6_733_0_3351_Name" korean="빛나는 강화 미스릴 양손지팡이" />
+	<block key="WE9_002_0_1351_Name" korean="빛나는 강화 미스릴 석궁" />
+	<block key="WE8_002_0_1351_Name" korean="빛나는 강화 미스릴 장창" />
+	<block key="WE0_733_0_3401_Name" korean="빛나는 투랄리움 한손검" />
+	<block key="WE1_733_0_3401_Name" korean="빛나는 투랄리움 양손검" />
+	<block key="WE4_733_0_3401_Name" korean="빛나는 투랄리움 단검" />
+	<block key="WE5_733_0_3401_Name" korean="빛나는 투랄리움 한손지팡이" />
+	<block key="WE6_733_0_3401_Name" korean="빛나는 투랄리움 양손지팡이" />
+	<block key="WE9_002_0_1401_Name" korean="빛나는 투랄리움 석궁" />
+	<block key="WE8_002_0_1401_Name" korean="빛나는 투랄리움 장창" />
+	<block key="WE0_006_0_3383_Name" korean="야타이만의 검" />
+	<block key="WE4_018_0_3383_Name" korean="야타이만의 단검" />
+	<block key="WE6_013_0_3383_Name" korean="야타이만의 양손 지팡이" />
+	<block key="WE7_006_0_3383_Name" korean="야타이만의 활" />
+	<block key="WE1_009_0_3383_Name" korean="야타이만의 양손 검" />
+	<block key="WE3_017_0_3383_Name" korean="야타이만의 전투도끼" />
+	<block key="WE5_009_0_3383_Name" korean="야타이만의 한손 지팡이" />
+	<block key="WE2_012_0_3383_Name" korean="야타이만의 전투망치" />
+	<block key="WE9_006_0_2103_qu_Name" korean="낡은 카라샤의 석궁" />
+	<block key="WE8_006_0_2103_qu_Name" korean="낡은 카라샤의 장창" />
+	<block key="BX_WE0_018_0_2351_Name" korean="초승달 상단의 평범한 한손검" />
+	<block key="BX_WE4_019_0_2351_Name" korean="초승달 상단의 평범한 단검" />
+	<block key="BX_WE6_014_0_2351_Name" korean="초승달 상단의 평범한 양손지팡이" />
+	<block key="BX_WE7_015_0_2351_Name" korean="초승달 상단의 평범한 활" />
+	<block key="BX_WE1_011_0_2351_Name" korean="초승달 상단의 평범한 양손검" />
+	<block key="BX_WE5_011_0_2351_Name" korean="초승달 상단의 평범한 한손지팡이" />
+	<block key="BX_WE9_007_0_3301_Name" korean="초승달 상단의 평범한 석궁" />
+	<block key="BX_WE8_007_0_3301_Name" korean="초승달 상단의 평범한 장창" />
+	<block key="BX_WE0_005_0_3301_Name" korean="초승달 상단의 예리한 한손검" />
+	<block key="BX_WE4_009_0_3301_Name" korean="초승달 상단의 예리한 단검" />
+	<block key="BX_WE6_008_0_3301_Name" korean="초승달 상단의 예리한 양손지팡이" />
+	<block key="BX_WE7_014_0_3301_Name" korean="초승달 상단의 예리한 활" />
+	<block key="BX_WE1_012_0_3301_Name" korean="초승달 상단의 예리한 양손검" />
+	<block key="BX_WE5_012_0_3301_Name" korean="초승달 상단의 예리한 한손지팡이" />
+	<block key="BX_WE9_002_0_1251_Name" korean="초승달 상단의 예리한 석궁" />
+	<block key="BX_WE8_002_0_1251_Name" korean="초승달 상단의 예리한 장창" />
+	<block key="BX_WE0_019_0_2402_Name" korean="초승달 상단의 강화된 한손검" />
+	<block key="BX_WE4_011_0_2402_Name" korean="초승달 상단의 강화된 단검" />
+	<block key="BX_WE6_012_0_2402_Name" korean="초승달 상단의 강화된 양손지팡이" />
+	<block key="BX_WE7_016_0_2402_Name" korean="초승달 상단의 강화된 활" />
+	<block key="BX_WE1_017_0_2402_Name" korean="초승달 상단의 강화된 양손검" />
+	<block key="BX_WE5_014_0_2402_Name" korean="초승달 상단의 강화된 한손지팡이" />
+	<block key="BX_WE9_004_0_1351_Name" korean="초승달 상단의 강화된 석궁" />
+	<block key="BX_WE8_006_0_0000_Name" korean="초승달 상단의 강화된 장창" />
+	<block key="BX_WE0_009_0_3351_Name" korean="초승달 상단의 빛나는 한손검" />
+	<block key="BX_WE4_008_0_3351_Name" korean="초승달 상단의 빛나는 단검" />
+	<block key="BX_WE6_018_0_3351_Name" korean="초승달 상단의 빛나는 양손지팡이" />
+	<block key="BX_WE7_018_0_3351_Name" korean="초승달 상단의 빛나는 활" />
+	<block key="BX_WE1_029_0_3351_Name" korean="초승달 상단의 빛나는 양손검" />
+	<block key="BX_WE5_018_0_3351_Name" korean="초승달 상단의 빛나는 한손지팡이" />
+	<block key="BX_WE9_004_0_2351_Name" korean="초승달 상단의 빛나는 석궁" />
+	<block key="BX_WE8_004_0_0000_Name" korean="초승달 상단의 빛나는 장창" />
+	<block key="WE0_021_0_2101_EV1_Name" korean="영웅의 한손검 I" />
+	<block key="WE4_001_0_2101_EV1_Name" korean="영웅의 단검 I" />
+	<block key="WE6_003_0_2101_EV1_Name" korean="영웅의 양손지팡이 I" />
+	<block key="WE1_003_0_2101_EV1_Name" korean="영웅의 양손검 I" />
+	<block key="WE5_003_0_2101_EV1_Name" korean="영웅의 한손지팡이 I" />
+	<block key="WE0_015_0_2102_EV1_Name" korean="영웅의 한손검 II" />
+	<block key="WE4_002_0_2102_EV1_Name" korean="영웅의 단검 II" />
+	<block key="WE6_011_0_2102_EV1_Name" korean="영웅의 양손지팡이 II" />
+	<block key="WE1_004_0_2102_EV1_Name" korean="영웅의 양손검 II" />
+	<block key="WE5_004_0_2102_EV1_Name" korean="영웅의 한손지팡이 II" />
+	<block key="WE0_007_0_2151_EV1_Name" korean="영웅의 한손검 III" />
+	<block key="WE4_015_0_2151_EV1_Name" korean="영웅의 단검 III" />
+	<block key="WE6_000_0_2151_EV1_Name" korean="영웅의 양손지팡이 III" />
+	<block key="WE1_005_0_2151_EV1_Name" korean="영웅의 양손검 III" />
+	<block key="WE5_005_0_2151_EV1_Name" korean="영웅의 한손지팡이 III" />
+	<block key="WE0_029_0_2202_EV1_Name" korean="영웅의 한손검 IV" />
+	<block key="WE4_004_0_2202_EV1_Name" korean="영웅의 단검 IV" />
+	<block key="WE6_004_0_2202_EV1_Name" korean="영웅의 양손지팡이 IV" />
+	<block key="WE1_006_0_2202_EV1_Name" korean="영웅의 양손검 IV" />
+	<block key="WE5_006_0_2202_EV1_Name" korean="영웅의 한손지팡이 IV" />
+	<block key="WE0_006_0_3281_EV1_Name" korean="영웅의 한손검 V" />
+	<block key="WE4_018_0_3281_EV1_Name" korean="영웅의 단검 V" />
+	<block key="WE6_013_0_3281_EV1_Name" korean="영웅의 양손지팡이 V" />
+	<block key="WE1_009_0_3281_EV1_Name" korean="영웅의 양손검 V" />
+	<block key="WE5_009_0_3281_EV1_Name" korean="영웅의 한손지팡이 V" />
+	<block key="WE0_003_0_3282_EV1_Name" korean="영웅의 한손검 VI" />
+	<block key="WE4_010_0_3282_EV1_Name" korean="영웅의 단검 VI" />
+	<block key="WE6_007_0_3282_EV1_Name" korean="영웅의 양손지팡이 VI" />
+	<block key="WE1_015_0_3282_EV1_Name" korean="영웅의 양손검 VI" />
+	<block key="WE5_010_0_3282_EV1_Name" korean="영웅의 한손지팡이 VI" />
+	<block key="WE0_009_0_3352_Name" korean="축복받은 총사령관의 검" />
+	<block key="WE4_008_0_3352_Name" korean="축복받은 총사령관의 단검" />
+	<block key="WE6_018_0_3352_Name" korean="축복받은 총사령관의 양손 지팡이" />
+	<block key="WE7_018_0_3352_Name" korean="축복받은 총사령관의 활" />
+	<block key="WE1_029_0_3352_Name" korean="축복받은 총사령관의 양손 검" />
+	<block key="WE3_011_0_3352_Name" korean="축복받은 총사령관의 전투도끼" />
+	<block key="WE5_018_0_3352_Name" korean="축복받은 총사령관의 한손 지팡이" />
+	<block key="WE2_030_0_3352_Name" korean="축복받은 총사령관의 전투망치" />
+	<block key="WE9_004_0_2352_Name" korean="축복받은 총사령관의 석궁" />
+	<block key="WE8_004_0_0001_Name" korean="축복받은 총사령관의 장창" />
+	<block key="ew0_039_0_0000_Name" korean="혼돈엘프의 한손 검" />
+	<block key="ew1_001_0_0000_Name" korean="카심의 양손검" />
+	<block key="ew1_013_0_0000_Name" korean="니블 로드헤임의 양손검" />
+	<block key="ew2_004_0_0000_Name" korean="사막 브라기 감독관의 망치" />
+	<block key="ew2_032_0_0000_Name" korean="팔켄의 거대 도끼" />
+	<block key="ew4_014_0_0000_Name" korean="레난제스트의 암삼걸" />
+	<block key="ew4_015_0_0000_Name" korean="혼돈엘프의 양손 단검" />
+	<block key="ew5_004_0_0000_Name" korean="수정학자 라나쏜의 지팡이" />
+	<block key="ew5_025_0_0000_Name" korean="데 무스펠의 지팡이" />
+	<block key="ew5_026_0_0000_Name" korean="혼돈엘프의 한손 지팡이" />
+	<block key="ew6_031_0_0000_Name" korean="아-몬도스의 지팡이" />
+	<block key="ew6_032_0_0000_Name" korean="카르 록산느의 지팡이" />
+	<block key="ew6_033_0_0000_Name" korean="혼돈엘프 양손의 지팡이" />
+	<block key="ew7_017_0_0000_Name" korean="투창대장 알의 투창" />
+	<block key="ew7_018_0_0000_Name" korean="모하바 투창병의 투창" />
+	<block key="ew7_019_0_0000_Name" korean="요르문겐트의 활" />
+	<block key="ew7_020_0_0000_Name" korean="아우레아의 활" />
+	<block key="ew7_021_0_0000_Name" korean="혼돈엘프의 양손 활" />
+	<block key="ew7_022_0_0000_Name" korean="인어의 하프" />
+	<block key="ew7_028_0_0000_Name" korean="샤낭꾼 몰타의 석궁" />
+	<block key="WE0_009_0_3353_Name" korean="찬란한 선도자의 검" />
+	<block key="WE4_008_0_3353_Name" korean="찬란한 선도자의 단검" />
+	<block key="WE6_018_0_3353_Name" korean="찬란한 선도자의 양손 지팡이" />
+	<block key="WE7_018_0_3353_Name" korean="찬란한 선도자의 활" />
+	<block key="WE1_029_0_3353_Name" korean="찬란한 선도자의 양손 검" />
+	<block key="WE3_011_0_3353_Name" korean="찬란한 선도자의 전투도끼" />
+	<block key="WE5_018_0_3353_Name" korean="찬란한 선도자의 한손 지팡이" />
+	<block key="WE2_030_0_3353_Name" korean="찬란한 선도자의 전투망치" />
+	<block key="WE9_004_0_2353_Name" korean="찬란한 선도자의 석궁" />
+	<block key="WE8_004_0_0002_Name" korean="찬란한 선도자의 장창" />
+	<block key="WE9_002_0_1402_Name" korean="야타이만의 장창" />
+	<block key="WE8_002_0_1402_Name" korean="트라누아의 석궁" />
+	<block key="WE0_045_1_4501_Name" korean="근위병의 검" />
+	<block key="WE4_045_1_4501_Name" korean="근위병의 단검" />
+	<block key="WE6_045_1_4501_Name" korean="근위병의 양손 지팡이" />
+	<block key="WE1_045_1_4501_Name" korean="근위병의 양손 검" />
+	<block key="WE5_045_1_4501_Name" korean="근위병의 한손 지팡이" />
+	<block key="WE0_045_0_4501_Name" korean="알세크 경비대의 검" />
+	<block key="WE4_045_0_4501_Name" korean="알세크 경비대의 단검" />
+	<block key="WE6_045_0_4501_Name" korean="알세크 경비대의 양손 지팡이" />
+	<block key="WE1_045_0_4501_Name" korean="알세크 경비대의 양손 검" />
+	<block key="WE5_045_0_4501_Name" korean="알세크 경비대의 한손 지팡이" />
+	<block key="WE0_045_0_4502_Name" korean="그리폰 기사단의 검" />
+	<block key="WE4_045_0_4502_Name" korean="그리폰 기사단의 단검" />
+	<block key="WE6_045_0_4502_Name" korean="그리폰 기사단의 양손 지팡이" />
+	<block key="WE1_045_0_4502_Name" korean="그리폰 기사단의 양손 검" />
+	<block key="WE5_045_0_4502_Name" korean="그리폰 기사단의 한손 지팡이" />
+	<block key="WE9_045_0_4502_Name" korean="그리폰 기사단의 석궁" />
+	<block key="WE8_045_0_4502_Name" korean="그리폰 기사단의 장창" />
+	<block key="WE0_045_8_4501_Name" korean="모하바 용병단의 검" />
+	<block key="WE4_045_8_4501_Name" korean="모하바 용병단의 단검" />
+	<block key="WE6_045_8_4501_Name" korean="모하바 용병단의 양손 지팡이" />
+	<block key="WE1_045_8_4501_Name" korean="모하바 용병단의 양손 검" />
+	<block key="WE5_045_8_4501_Name" korean="모하바 용병단의 한손 지팡이" />
+	<block key="WE0_045_3_4501_Name" korean="유적 수호자의 검" />
+	<block key="WE4_045_3_4501_Name" korean="유적 수호자의 단검" />
+	<block key="WE6_045_3_4501_Name" korean="유적 수호자의 양손 지팡이" />
+	<block key="WE1_045_3_4501_Name" korean="유적 수호자의 양손 검" />
+	<block key="WE5_045_3_4501_Name" korean="유적 수호자의 한손 지팡이" />
+	<block key="WE9_045_3_4501_Name" korean="유적 수호자의 석궁" />
+	<block key="WE8_045_3_4501_Name" korean="유적 수호자의 장창" />
+	<block key="WE0_045_3_4502_Name" korean="카브임 교단의 검" />
+	<block key="WE4_045_3_4502_Name" korean="카브임 교단의 단검" />
+	<block key="WE6_045_3_4502_Name" korean="카브임 교단의 양손 지팡이" />
+	<block key="WE1_045_3_4502_Name" korean="카브임 교단의 양손 검" />
+	<block key="WE5_045_3_4502_Name" korean="카브임 교단의 한손 지팡이" />
+	<block key="WE9_045_3_4502_Name" korean="카브임 교단의 석궁" />
+	<block key="WE8_045_3_4502_Name" korean="카브임 교단의 장창" />
+	<block key="WE0_050_1_5001_Name" korean="정예 근위병의 검" />
+	<block key="WE4_050_1_5001_Name" korean="정예 근위병의 단검" />
+	<block key="WE6_050_1_5001_Name" korean="정예 근위병의 양손 지팡이" />
+	<block key="WE1_050_1_5001_Name" korean="정예 근위병의 양손 검" />
+	<block key="WE5_050_1_5001_Name" korean="정예 근위병의 한손 지팡이" />
+	<block key="WE0_050_8_5001_Name" korean="사막 브라기의 검" />
+	<block key="WE4_050_8_5001_Name" korean="사막 브라기의 단검" />
+	<block key="WE6_050_8_5001_Name" korean="사막 브라기의 양손 지팡이" />
+	<block key="WE1_050_8_5001_Name" korean="사막 브라기의 양손 검" />
+	<block key="WE5_050_8_5001_Name" korean="사막 브라기의 한손 지팡이" />
+	<block key="WE0_050_3_5001_Name" korean="암흑 군단 정예병의 검" />
+	<block key="WE4_050_3_5001_Name" korean="암흑 군단 정예병의 단검" />
+	<block key="WE6_050_3_5001_Name" korean="암흑 군단 정예병의 양손 지팡이" />
+	<block key="WE1_050_3_5001_Name" korean="암흑 군단 정예병의 양손 검" />
+	<block key="WE5_050_3_5001_Name" korean="암흑 군단 정예병의 한손 지팡이" />
+	<block key="WE9_050_3_5001_Name" korean="암흑 군단 정예병의 석궁" />
+	<block key="WE8_050_3_5001_Name" korean="암흑 군단 정예병의 장창" />
+	<block key="WE0_050_0_5002_Name" korean="은둔자의 검" />
+	<block key="WE4_050_0_5002_Name" korean="은둔자의 단검" />
+	<block key="WE6_050_0_5002_Name" korean="은둔자의 양손 지팡이" />
+	<block key="WE1_050_0_5002_Name" korean="은둔자의 양손 검" />
+	<block key="WE5_050_0_5002_Name" korean="은둔자의 한손 지팡이" />
+	<block key="WE0_050_3_5002_Name" korean="암흑 군단장의 검" />
+	<block key="WE4_050_3_5002_Name" korean="암흑 군단장의 단검" />
+	<block key="WE6_050_3_5002_Name" korean="암흑 군단장의 양손 지팡이" />
+	<block key="WE1_050_3_5002_Name" korean="암흑 군단장의 양손 검" />
+	<block key="WE5_050_3_5002_Name" korean="암흑 군단장의 한손 지팡이" />
+	<block key="WE9_050_3_5002_Name" korean="암흑 군단장의 석궁" />
+	<block key="WE8_050_3_5002_Name" korean="암흑 군단장의 장창" />
+	<block key="pvpWE0_001_2_4564_Name" korean="하급 학살자의 검" />
+	<block key="pvpWE4_001_2_4564_Name" korean="하급 학살자의 단검" />
+	<block key="pvpWE6_001_2_4564_Name" korean="하급 학살자의 양손 지팡이" />
+	<block key="pvpWE1_001_2_4564_Name" korean="하급 학살자의 양손 검" />
+	<block key="pvpWE5_001_2_4564_Name" korean="하급 학살자의 한손 지팡이" />
+	<block key="pvpWE9_002_2_4564_Name" korean="하급 학살자의 석궁" />
+	<block key="pvpWE8_002_2_4564_Name" korean="하급 학살자의 장창" />
+	<block key="pvpWE0_001_2_5069_Name" korean="중급 학살자의 검" />
+	<block key="pvpWE4_001_2_5069_Name" korean="중급 학살자의 단검" />
+	<block key="pvpWE6_001_2_5069_Name" korean="중급 학살자의 양손 지팡이" />
+	<block key="pvpWE1_001_2_5069_Name" korean="중급 학살자의 양손 검" />
+	<block key="pvpWE5_001_2_5069_Name" korean="중급 학살자의 한손 지팡이" />
+	<block key="pvpWE9_002_2_5069_Name" korean="중급 학살자의 석궁" />
+	<block key="pvpWE8_002_2_5069_Name" korean="중급 학살자의 장창" />
+	<block key="WE0_045_3_4502_CR_Name" korean="빛나는 아다만티움 검" />
+	<block key="WE4_045_3_4502_CR_Name" korean="빛나는 아다만티움 단검" />
+	<block key="WE6_045_3_4502_CR_Name" korean="빛나는 아다만티움 양손 지팡이" />
+	<block key="WE1_045_3_4502_CR_Name" korean="빛나는 아다만티움 양손 검" />
+	<block key="WE5_045_3_4502_CR_Name" korean="빛나는 아다만티움 한손 지팡이" />
+	<block key="WE9_045_3_4502_CR_Name" korean="빛나는 아다만티움 석궁" />
+	<block key="WE8_045_3_4502_CR_Name" korean="빛나는 아다만티움 장창" />
+	<block key="WE0_050_3_5002_CR_Name" korean="빛나는 강화 아다만티움 검" />
+	<block key="WE4_050_3_5002_CR_Name" korean="빛나는 강화 아다만티움 단검" />
+	<block key="WE6_050_3_5002_CR_Name" korean="빛나는 강화 아다만티움 양손 지팡이" />
+	<block key="WE1_050_3_5002_CR_Name" korean="빛나는 강화 아다만티움 양손 검" />
+	<block key="WE5_050_3_5002_CR_Name" korean="빛나는 강화 아다만티움 한손 지팡이" />
+	<block key="WE9_050_3_5002_CR_Name" korean="빛나는 강화 아다만티움 석궁" />
+	<block key="WE8_050_3_5002_CR_Name" korean="빛나는 강화 아다만티움 장창" />
+	<block key="WE0_050_3_5003_Name" korean="축복받은 암흑 군단장의 검" />
+	<block key="WE4_050_3_5003_Name" korean="축복받은 암흑 군단장의 단검" />
+	<block key="WE6_050_3_5003_Name" korean="축복받은 암흑 군단장의 양손 지팡이" />
+	<block key="WE1_050_3_5003_Name" korean="축복받은 암흑 군단장의 양손 검" />
+	<block key="WE5_050_3_5003_Name" korean="축복받은 암흑 군단장의 한손 지팡이" />
+	<block key="WE9_050_3_5003_Name" korean="축복받은 암흑 군단장의 석궁" />
+	<block key="WE8_050_3_5003_Name" korean="축복받은 암흑 군단장의 장창" />
+	<block key="WE0_005_0_3301_EV1_Name" korean="영웅의 한손검 VII" />
+	<block key="WE4_009_0_3301_EV1_Name" korean="영웅의 단검 VII" />
+	<block key="WE6_008_0_3301_EV1_Name" korean="영웅의 양손지팡이 VII" />
+	<block key="WE1_012_0_3301_EV1_Name" korean="영웅의 양손검 VII" />
+	<block key="WE5_012_0_3301_EV1_Name" korean="영웅의 한손지팡이 VII" />
+	<block key="WE9_002_0_1251_EV1_Name" korean="영웅의 석궁 VII" />
+	<block key="WE8_002_0_1251_EV1_Name" korean="영웅의 장창 VII" />
+	<block key="WE0_009_0_3351_EV1_Name" korean="영웅의 한손검 VIII" />
+	<block key="WE4_008_0_3351_EV1_Name" korean="영웅의 단검 VIII" />
+	<block key="WE6_018_0_3351_EV1_Name" korean="영웅의 양손지팡이 VIII" />
+	<block key="WE1_029_0_3351_EV1_Name" korean="영웅의 양손검 VIII" />
+	<block key="WE5_018_0_3351_EV1_Name" korean="영웅의 한손지팡이 VIII" />
+	<block key="WE9_004_0_2351_EV1_Name" korean="영웅의 석궁 VIII" />
+	<block key="WE8_004_0_0000_EV1_Name" korean="영웅의 장창 VIII" />
+	<block key="WE9_050_4_4501_Name" korean="고대 선인의 석궁" />
+	<block key="WE8_050_4_4501_Name" korean="고대 선인의 장창" />
+	<block key="WE0_045_0_4502_RE_Name" korean="희망의 검 VIII" />
+	<block key="WE4_045_0_4502_RE_Name" korean="희망의 단검 VIII" />
+	<block key="WE6_045_0_4502_RE_Name" korean="희망의 양손 지팡이 VIII" />
+	<block key="WE1_045_0_4502_RE_Name" korean="희망의 양손 검 VIII" />
+	<block key="WE5_045_0_4502_RE_Name" korean="희망의 한손 지팡이 VIII" />
+	<block key="WE9_045_0_4502_RE_Name" korean="희망의 석궁 VIII" />
+	<block key="WE8_045_0_4502_RE_Name" korean="희망의 장창 VIII" />
+	<block key="WE0_050_0_5002_RE_Name" korean="희망의 검 IX" />
+	<block key="WE4_050_0_5002_RE_Name" korean="희망의 단검 IX" />
+	<block key="WE6_050_0_5002_RE_Name" korean="희망의 양손 지팡이 IX" />
+	<block key="WE1_050_0_5002_RE_Name" korean="희망의 양손 검 IX" />
+	<block key="WE5_050_0_5002_RE_Name" korean="희망의 한손 지팡이 IX" />
+	<block key="WE9_045_0_5002_RE_Name" korean="희망의 석궁 IX" />
+	<block key="WE8_045_0_5002_RE_Name" korean="희망의 장창 IX" />
+	<block key="WE0_XMAS_0_2103_Name" korean="크리스마스의 검" />
+	<block key="WE4_XMAS_0_2103_Name" korean="크리스마스의 단검" />
+	<block key="WE6_XMAS_0_2103_Name" korean="크리스마스의 양손 지팡이" />
+	<block key="WE1_XMAS_0_2103_Name" korean="크리스마스의 양손 검" />
+	<block key="WE5_XMAS_0_2103_Name" korean="크리스마스의 한손 지팡이" />
+</blocks>

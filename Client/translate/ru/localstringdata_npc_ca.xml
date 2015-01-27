@@ -1,0 +1,305 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="N_f04_0_0001_0001_name" korean="Артиллерия" />
+	<block key="N_f04_0_0001_0001_namedetail" korean="Сотрудник кровь кахо морской капитан" />
+	<block key="N_f04_0_0001_0002_name" korean="Джоди" />
+	<block key="N_f04_0_0001_0002_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0003_name" korean="Эррол" />
+	<block key="N_f04_0_0001_0003_namedetail" korean="Pegasus Knight-Commander" />
+	<block key="N_f04_0_0001_0004_name" korean="Оскар" />
+	<block key="N_f04_0_0001_0004_namedetail" korean="Pegasus Бухгалтерия командир дивизии" />
+	<block key="N_f04_0_0001_0005_name" korean="Meulrek" />
+	<block key="N_f04_0_0001_0005_namedetail" korean="Мастер Истины" />
+	<block key="N_f04_0_0001_0006_name" korean="Куа No-Мар" />
+	<block key="N_f04_0_0001_0006_namedetail" korean="Попутчики охотники" />
+	<block key="N_f04_0_0001_0007_name" korean="Статья Lux" />
+	<block key="N_f04_0_0001_0007_namedetail" korean="Приключения короля" />
+	<block key="N_f04_0_0001_0008_name" korean="Ahkul" />
+	<block key="N_f04_0_0001_0008_namedetail" korean="Пустыня Разведчики Immortal" />
+	<block key="N_f04_0_0001_0018_name" korean="Мукан" />
+	<block key="N_f04_0_0001_0018_namedetail" korean="Гор сотрудник матрос кахо" />
+	<block key="N_f04_0_0001_0019_name" korean="Сар пластифицированный" />
+	<block key="N_f04_0_0001_0019_namedetail" korean="Магия мастера оружия" />
+	<block key="N_f04_0_0001_0020_name" korean="Энди" />
+	<block key="N_f04_0_0001_0020_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0021_name" korean="Рой" />
+	<block key="N_f04_0_0001_0021_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0022_name" korean="Гель для переноски" />
+	<block key="N_f04_0_0001_0022_namedetail" korean="Воздушное пространство уничтожения предохранителя" />
+	<block key="N_f04_0_0001_0023_name" korean="Эррол" />
+	<block key="N_f04_0_0001_0023_namedetail" korean="Pegasus Knight-Commander" />
+	<block key="N_f04_0_0001_0024_name" korean="Эррол" />
+	<block key="N_f04_0_0001_0024_namedetail" korean="Pegasus Knight-Commander" />
+	<block key="N_f04_0_0001_0025_name" korean="Мер Сиракузы" />
+	<block key="N_f04_0_0001_0025_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0026_name" korean="Леди Оливье" />
+	<block key="N_f04_0_0001_0026_namedetail" korean="Мороз Маг" />
+	<block key="N_f04_0_0001_0027_name" korean="Kia дерево" />
+	<block key="N_f04_0_0001_0027_namedetail" korean="Royal научно-исследовательский институт" />
+	<block key="N_f04_0_0001_0028_name" korean="Лу-Плата" />
+	<block key="N_f04_0_0001_0028_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0029_name" korean="Хоффман" />
+	<block key="N_f04_0_0001_0029_namedetail" korean="Воздушное пространство уничтожения предохранителя" />
+	<block key="N_f04_0_0001_0030_name" korean="Rayisaendeo" />
+	<block key="N_f04_0_0001_0030_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0031_name" korean="Норрис" />
+	<block key="N_f04_0_0001_0031_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0032_name" korean="Rogal" />
+	<block key="N_f04_0_0001_0032_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0033_name" korean="Ребекка" />
+	<block key="N_f04_0_0001_0033_namedetail" korean="Торговец оружием" />
+	<block key="N_f04_0_0001_0034_name" korean="Морсби" />
+	<block key="N_f04_0_0001_0034_namedetail" korean="Сумки, пищевые торговцы" />
+	<block key="N_f04_0_0001_0035_name" korean="Оскар" />
+	<block key="N_f04_0_0001_0035_namedetail" korean="Pegasus Рыцари заместитель" />
+	<block key="N_f04_0_0001_0036_name" korean="Оскар" />
+	<block key="N_f04_0_0001_0036_namedetail" korean="Pegasus Рыцари заместитель" />
+	<block key="N_f04_0_0001_0037_name" korean="Cylon" />
+	<block key="N_f04_0_0001_0037_namedetail" korean="Pegasus Warbringer" />
+	<block key="N_f04_0_0001_0038_name" korean="Гувахати" />
+	<block key="N_f04_0_0001_0038_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0039_name" korean="Робинсон" />
+	<block key="N_f04_0_0001_0039_namedetail" korean="Археолог" />
+	<block key="N_f04_0_0001_0040_name" korean="Sears" />
+	<block key="N_f04_0_0001_0040_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0041_name" korean="Железа" />
+	<block key="N_f04_0_0001_0041_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0042_name" korean="Перемещение больших" />
+	<block key="N_f04_0_0001_0042_namedetail" korean="Pegasus штурмовик" />
+	<block key="N_f04_0_0001_0043_name" korean="Ewoo Witz" />
+	<block key="N_f04_0_0001_0043_namedetail" korean="Эльфийская Альянс Света" />
+	<block key="N_f04_0_0001_0044_name" korean="Cylon" />
+	<block key="N_f04_0_0001_0044_namedetail" korean="Солдат Конфедерации Света" />
+	<block key="N_f04_0_0001_0045_name" korean="Хун, El" />
+	<block key="N_f04_0_0001_0045_namedetail" korean="Альянс Воинов Света Круа Куна" />
+	<block key="N_f04_0_0001_0046_name" korean="Лара" />
+	<block key="N_f04_0_0001_0046_namedetail" korean="Альянс Света Shearing" />
+	<block key="N_f04_0_0001_0047_name" korean="Smack That" />
+	<block key="N_f04_0_0001_0047_namedetail" korean="Доспехами" />
+	<block key="N_f04_0_0001_0048_name" korean="Являются ключевыми" />
+	<block key="N_f04_0_0001_0048_namedetail" korean="Доспехами" />
+	<block key="N_f04_0_0001_0049_name" korean="Белла Керр" />
+	<block key="N_f04_0_0001_0049_namedetail" korean="Мастер Истины" />
+	<block key="N_f04_0_0001_0050_name" korean="Реми Вы" />
+	<block key="N_f04_0_0001_0050_namedetail" korean="Попутчики охотники" />
+	<block key="N_f04_0_0001_0051_name" korean="Nas" />
+	<block key="N_f04_0_0001_0051_namedetail" korean="Жнец" />
+	<block key="N_f04_0_0001_0052_name" korean="Холмы заполнить" />
+	<block key="N_f04_0_0001_0052_namedetail" korean="Старики" />
+	<block key="N_f04_0_0001_0053_name" korean="На основании сборка" />
+	<block key="N_f04_0_0001_0053_namedetail" korean="Торговец оружием" />
+	<block key="N_f04_0_0001_0054_name" korean="Estee" />
+	<block key="N_f04_0_0001_0054_namedetail" korean="Галантерейщик" />
+	<block key="N_f04_0_0001_0055_name" korean="Рико" />
+	<block key="N_f04_0_0001_0055_namedetail" korean="Приключения нагрузка короля" />
+	<block key="N_f04_0_0001_0056_name" korean="Hyunet" />
+	<block key="N_f04_0_0001_0056_namedetail" korean="Приключения нагрузка короля" />
+	<block key="N_f04_0_0001_0057_name" korean="Чернила" />
+	<block key="N_f04_0_0001_0057_namedetail" korean="Шеф-повара Приключения короля" />
+	<block key="N_f04_0_0001_0058_name" korean="Teal Вход" />
+	<block key="N_f04_0_0001_0058_namedetail" korean="Кахо Гор Старший сотрудник" />
+	<block key="N_f04_0_0001_0059_name" korean="Энтони" />
+	<block key="N_f04_0_0001_0059_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0060_name" korean="Маркес" />
+	<block key="N_f04_0_0001_0060_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0061_name" korean="Latina" />
+	<block key="N_f04_0_0001_0061_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0062_name" korean="Ключ Мир" />
+	<block key="N_f04_0_0001_0062_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0063_name" korean="Гектор D '" />
+	<block key="N_f04_0_0001_0063_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0064_name" korean="Годы" />
+	<block key="N_f04_0_0001_0064_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0065_name" korean="Пегас" />
+	<block key="N_f04_0_0001_0065_namedetail" korean="Pegasus Рыцари" />
+	<block key="N_f04_elora_002_name" korean="Энергия генерируемого Эллоры" />
+	<block key="N_f04_elora_002_namedetail" korean="" />
+	<block key="N_f04_elora_003_name" korean="Эллора мегалитические" />
+	<block key="N_f04_elora_003_namedetail" korean="" />
+	<block key="N_f04_elora_004_name" korean="Эллора мегалитические" />
+	<block key="N_f04_elora_004_namedetail" korean="" />
+	<block key="N_f04_elora_005_name" korean="Дух Эллоры" />
+	<block key="N_f04_elora_005_namedetail" korean="" />
+	<block key="N_f04_elora_006_name" korean="Дух Эллоры" />
+	<block key="N_f04_elora_006_namedetail" korean="" />
+	<block key="N_f04_elora_007_name" korean="Дух Эллоры" />
+	<block key="N_f04_elora_007_namedetail" korean="" />
+	<block key="N_f04_elora_008_name" korean="Дух Эллоры" />
+	<block key="N_f04_elora_008_namedetail" korean="" />
+	<block key="N_f04_elora_009_name" korean="Дух Эллоры" />
+	<block key="N_f04_elora_009_namedetail" korean="" />
+	<block key="N_f04_elora_010_name" korean="Дух Эллоры" />
+	<block key="N_f04_elora_010_namedetail" korean="" />
+	<block key="N_f04_zelna_001_name" korean="Сила геля Naris" />
+	<block key="N_f04_zelna_001_namedetail" korean="" />
+	<block key="N_f04_0_0001_0066_name" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0066_namedetail" korean="" />
+	<block key="N_f04_0_0001_0067_name" korean="Wyvern Оливье" />
+	<block key="N_f04_0_0001_0067_namedetail" korean="" />
+	<block key="N_f04_0_0001_0068_name" korean="Огромный камень статуя богини" />
+	<block key="N_f04_0_0001_0068_namedetail" korean="" />
+	<block key="N_f04_0_0001_0069_name" korean="Сияющий богиня Горгулья" />
+	<block key="N_f04_0_0001_0069_namedetail" korean="" />
+	<block key="N_f04_0_0001_0070_name" korean="Templar Священники" />
+	<block key="N_f04_0_0001_0070_namedetail" korean="" />
+	<block key="N_f04_elora_011_name" korean="Сильный аура Эллоры" />
+	<block key="N_f04_elora_011_namedetail" korean="" />
+	<block key="N_f04_0_0001_0071_name" korean="Душа Pegasus рыцарей" />
+	<block key="N_f04_0_0001_0071_namedetail" korean="" />
+	<block key="N_f04_huMMer02_001_name" korean="Конрад" />
+	<block key="N_f04_huMMer02_001_namedetail" korean="Сумки, пищевые торговцы" />
+	<block key="N_f04_HuMMer03_001_name" korean="Жерар" />
+	<block key="N_f04_HuMMer03_001_namedetail" korean="Доспехами" />
+	<block key="N_f04_hufmer01_001_name" korean="Елена" />
+	<block key="N_f04_hufmer01_001_namedetail" korean="Сумки, пищевые торговцы" />
+	<block key="N_f04_hufMer02_001_name" korean="Дженис" />
+	<block key="N_f04_hufMer02_001_namedetail" korean="Сумки, пищевые торговцы" />
+	<block key="N_f04_HuMMer04_001_name" korean="Мышки" />
+	<block key="N_f04_HuMMer04_001_namedetail" korean="Оружие дилер" />
+	<block key="N_f04_HuFSol02_001_name" korean="Призрак Солдаты" />
+	<block key="N_f04_HuFSol02_001_namedetail" korean="Альянс Света" />
+	<block key="N_f04_HuMsol02_001_name" korean="Призрак Солдаты" />
+	<block key="N_f04_HuMsol02_001_namedetail" korean="Альянс Света" />
+	<block key="N_f04_0_0001_0072_name" korean="Pegasus Джоди" />
+	<block key="N_f04_0_0001_0072_namedetail" korean="" />
+	<block key="N_f04_0_0001_0073_name" korean="Эррол Пегаса" />
+	<block key="N_f04_0_0001_0073_namedetail" korean="" />
+	<block key="N_f04_0_0001_0074_name" korean="Pegasus Оскар" />
+	<block key="N_f04_0_0001_0074_namedetail" korean="" />
+	<block key="N_f04_0_0001_0075_name" korean="Pegasus Энди" />
+	<block key="N_f04_0_0001_0075_namedetail" korean="" />
+	<block key="N_f04_0_0001_0076_name" korean="Pegasus Рой" />
+	<block key="N_f04_0_0001_0076_namedetail" korean="" />
+	<block key="N_f04_0_0001_0077_name" korean="Эррол Пегаса" />
+	<block key="N_f04_0_0001_0077_namedetail" korean="" />
+	<block key="N_f04_0_0001_0078_name" korean="Эррол Пегаса" />
+	<block key="N_f04_0_0001_0078_namedetail" korean="" />
+	<block key="N_f04_0_0001_0079_name" korean="Pegasus Оскар" />
+	<block key="N_f04_0_0001_0079_namedetail" korean="" />
+	<block key="N_f04_HuMSol_B_002_name" korean="Pegasus статьи раздела" />
+	<block key="N_f04_HuMSol_B_002_namedetail" korean="" />
+	<block key="N_f04_HuMSol_B_003_name" korean="Первый боевой" />
+	<block key="N_f04_HuMSol_B_003_namedetail" korean="Pegasus Рыцари" />
+	<block key="N_f04_force_ac_001_name" korean="Усилитель мощности света" />
+	<block key="N_f04_force_ac_001_namedetail" korean="" />
+	<block key="N_f04_Ekzaran_001_name" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_001_namedetail" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_002_name" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_002_namedetail" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_003_name" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_003_namedetail" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_004_name" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_004_namedetail" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_005_name" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_005_namedetail" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_006_name" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_006_namedetail" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_007_name" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_007_namedetail" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_008_name" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_Ekzaran_008_namedetail" korean="Exergy выращенные реликвии" />
+	<block key="N_f04_0_0001_0080_name" korean="Автомобиль" />
+	<block key="N_f04_0_0001_0080_namedetail" korean="Капитан отдела Кахо кровь" />
+	<block key="N_f04_fire_orb_001_name" korean="Сердце древнего Пламя дракона" />
+	<block key="N_f04_fire_orb_001_namedetail" korean="" />
+	<block key="N_f04_fire_orb_002_name" korean="Сердце древнего pungryong" />
+	<block key="N_f04_fire_orb_002_namedetail" korean="" />
+	<block key="N_f04_fire_orb_003_name" korean="Сердце древнего рака Черный дракон" />
+	<block key="N_f04_fire_orb_003_namedetail" korean="" />
+	<block key="N_f04_0_0001_0081_name" korean="Эррол" />
+	<block key="N_f04_0_0001_0081_namedetail" korean="Pegasus Knight-Commander" />
+	<block key="N_f04_0_0001_0082_name" korean="Пегас" />
+	<block key="N_f04_0_0001_0082_namedetail" korean="Слова Оскар" />
+	<block key="N_f04_0_0001_0083_name" korean="Carry Tia" />
+	<block key="N_f04_0_0001_0083_namedetail" korean="Королевский институт детоксикации эксперта" />
+	<block key="N_f04_0_0001_0084_name" korean="Медведь Гринсборо" />
+	<block key="N_f04_0_0001_0084_namedetail" korean="Эксперт по выживанию" />
+	<block key="N_f04_0_0001_0085_name" korean="Леди Оливье" />
+	<block key="N_f04_0_0001_0085_namedetail" korean="Мороз Маг" />
+	<block key="N_f04_0_0001_0086_name" korean="Помните, участок земли" />
+	<block key="N_f04_0_0001_0086_namedetail" korean="" />
+	<block key="N_f04_0_0001_0087_name" korean="Запомнить кусок голубого неба" />
+	<block key="N_f04_0_0001_0087_namedetail" korean="" />
+	<block key="N_f04_0_0001_0088_name" korean="Помните, скульптуру богини" />
+	<block key="N_f04_0_0001_0088_namedetail" korean="" />
+	<block key="N_f04_0_0001_0089_name" korean="Запомнить кусок побережья" />
+	<block key="N_f04_0_0001_0089_namedetail" korean="" />
+	<block key="N_f04_0_0001_0090_name" korean="Закрытые части хранения" />
+	<block key="N_f04_0_0001_0090_namedetail" korean="" />
+	<block key="N_f04_0_0001_0091_name" korean="Алтарь богини" />
+	<block key="N_f04_0_0001_0091_namedetail" korean="" />
+	<block key="N_f04_potal_001_name" korean="Вернуться защищены" />
+	<block key="N_f04_potal_001_namedetail" korean="" />
+	<block key="N_f04_hufkep_001_name" korean="Эллис" />
+	<block key="N_f04_hufkep_001_namedetail" korean="Врачи белые" />
+	<block key="N_f04_HuMDmag_001_name" korean="Белла Лука" />
+	<block key="N_f04_HuMDmag_001_namedetail" korean="Перемещение компания портал" />
+	<block key="N_f04_potal_002_name" korean="Вернуться защищены" />
+	<block key="N_f04_potal_002_namedetail" korean="" />
+	<block key="N_f04_hufkep_002_name" korean="Ирия" />
+	<block key="N_f04_hufkep_002_namedetail" korean="Врачи белые" />
+	<block key="N_f04_HuMDmag_002_name" korean="Azur" />
+	<block key="N_f04_HuMDmag_002_namedetail" korean="Перемещение компания портал" />
+	<block key="N_f04_Board_0003_name" korean="Бурном море Бюллетень" />
+	<block key="N_f04_Board_0003_namedetail" korean="" />
+	<block key="N_f04_Board_0004_name" korean="Морской Бюллетень жадности" />
+	<block key="N_f04_Board_0004_namedetail" korean="" />
+	<block key="N_f04_Board_0005_name" korean="Каменная статуя Совета богини зоны" />
+	<block key="N_f04_Board_0005_namedetail" korean="" />
+	<block key="N_f04_0_0001_0100_name" korean="Перри называется" />
+	<block key="N_f04_0_0001_0100_namedetail" korean="Pegasus Рыцари" />
+	<block key="N_f04_0_0001_0092_name" korean="Джейден" />
+	<block key="N_f04_0_0001_0092_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0093_name" korean="Джейден Пегаса" />
+	<block key="N_f04_0_0001_0093_namedetail" korean="" />
+	<block key="N_f04_0_0001_0094_name" korean="Удобный" />
+	<block key="N_f04_0_0001_0094_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0095_Name" korean="La шапочка ваниль" />
+	<block key="N_f04_0_0001_0095_NameDetail" korean="Crescent сверху" />
+	<block key="N_f04_0_0001_0096_Name" korean="Эррол Пегаса" />
+	<block key="N_f04_0_0001_0096_NameDetail" korean="" />
+	<block key="N_f04_Board_0006_Name" korean="Бюллетень подлокотник Хэйлунцзян" />
+	<block key="N_f04_Board_0006_NameDetail" korean="" />
+	<block key="N_f04_0_0001_0097_Name" korean="Synth Мейер" />
+	<block key="N_f04_0_0001_0097_NameDetail" korean="Shadow Clan" />
+	<block key="N_f04_0_0001_0098_Name" korean="За масштабе" />
+	<block key="N_f04_0_0001_0098_NameDetail" korean="Shadow Clan" />
+	<block key="N_f04_0_0001_0099_Name" korean="Бекка Nuto" />
+	<block key="N_f04_0_0001_0099_NameDetail" korean="Shadow Clan" />
+	<block key="N_f04_RabiNi1S1_001_Name" korean="Винни D Руни крови" />
+	<block key="N_f04_RabiNi1S1_001_NameDetail" korean="Crescent топ bobusang" />
+	<block key="N_f04_0_0001_0101_Name" korean="Rokkin" />
+	<block key="N_f04_0_0001_0101_NameDetail" korean="Оружие дилер" />
+	<block key="N_d22_Potal_001_Name" korean="Кратное различие текстов" />
+	<block key="N_d22_Potal_001_NameDetail" korean="" />
+	<block key="N_d22_Potal_002_Name" korean="Кратное различие текстов" />
+	<block key="N_d22_Potal_002_NameDetail" korean="" />
+	<block key="N_d22_Potal_003_Name" korean="Кратное различие текстов" />
+	<block key="N_d22_Potal_003_NameDetail" korean="" />
+	<block key="N_d22_Potal_004_Name" korean="Кратное различие текстов" />
+	<block key="N_d22_Potal_004_NameDetail" korean="" />
+	<block key="N_d22_Potal_005_Name" korean="Кратное различие текстов" />
+	<block key="N_d22_Potal_005_NameDetail" korean="" />
+	<block key="N_d22_Potal_006_Name" korean="Кратное различие текстов" />
+	<block key="N_d22_Potal_006_NameDetail" korean="" />
+	<block key="N_d22_Potal_007_Name" korean="Кратное различие текстов" />
+	<block key="N_d22_Potal_007_NameDetail" korean="" />
+	<block key="N_d22_Potal_008_Name" korean="Кратное различие текстов" />
+	<block key="N_d22_Potal_008_NameDetail" korean="" />
+	<block key="N_d22_Potal_011_Name" korean="Кратное различие текстов" />
+	<block key="N_d22_Potal_011_NameDetail" korean="" />
+	<block key="N_d22_Potal_012_Name" korean="Кратное различие текстов" />
+	<block key="N_d22_Potal_012_NameDetail" korean="" />
+	<block key="N_d22_Potal_013_Name" korean="Кратное различие текстов" />
+	<block key="N_d22_Potal_013_NameDetail" korean="" />
+	<block key="N_f04_Board_0007_Name" korean="Разрушение прибрежной борту" />
+	<block key="N_f04_Board_0007_NameDetail" korean="" />
+	<block key="N_f04_0_0001_0102_Name" korean="Рестораны в Лос-Анджелесе шапочка" />
+	<block key="N_f04_0_0001_0102_NameDetail" korean="Crescent сверху" />
+</blocks>

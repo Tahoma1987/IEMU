@@ -1,0 +1,169 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="E_C02_GHorse_001_Name" korean="초원 얼룩말" />
+	<block key="E_C02_GHorse_001_NameDetail" korean="" />
+	<block key="E_C02_GHorse_002_Name" korean="날쌘 얼룩말" />
+	<block key="E_C02_GHorse_002_NameDetail" korean="" />
+	<block key="E_C02_Rhino_001_Name" korean="늙은 코뿔소" />
+	<block key="E_C02_Rhino_001_NameDetail" korean="" />
+	<block key="E_C02_Rhino_002_Name" korean="사나운 코불소" />
+	<block key="E_C02_Rhino_002_NameDetail" korean="" />
+	<block key="E_C02_Rhino_003_Name" korean="조련된 코뿔소" />
+	<block key="E_C02_Rhino_003_NameDetail" korean="" />
+	<block key="E_C02_Giraffe_001_Name" korean="초원 기린" />
+	<block key="E_C02_Giraffe_001_NameDetail" korean="" />
+	<block key="E_C02_Giraffe_002_Name" korean="날쌘 기린" />
+	<block key="E_C02_Giraffe_002_NameDetail" korean="" />
+	<block key="E_C02_ChildB_001_Name" korean="악령에 씌인 남자 아이" />
+	<block key="E_C02_ChildB_001_NameDetail" korean="" />
+	<block key="E_C02_ChildG_002_Name" korean="악령에 씌인 여자 아이" />
+	<block key="E_C02_ChildG_002_NameDetail" korean="" />
+	<block key="E_C02_TucaPatro_001_Name" korean="투칸족 순찰병" />
+	<block key="E_C02_TucaPatro_001_NameDetail" korean="" />
+	<block key="E_C02_BrhaTride_001_Name" korean="투칸족 야수 조련사" />
+	<block key="E_C02_BrhaTride_001_NameDetail" korean="" />
+	<block key="E_C02_TucaFpris_001_Name" korean="투칸족 전투 사제" />
+	<block key="E_C02_TucaFpris_001_NameDetail" korean="" />
+	<block key="E_C02_BrhaCata_001_Name" korean="투칸족 투석병" />
+	<block key="E_C02_BrhaCata_001_NameDetail" korean="" />
+	<block key="E_C02_Lion_001_Name" korean="라토라스" />
+	<block key="E_C02_Lion_001_NameDetail" korean="" />
+	<block key="E_C02_Lion_002_Name" korean="조련된 라토라스" />
+	<block key="E_C02_Lion_002_NameDetail" korean="" />
+	<block key="E_C02_Lion_003_Name" korean="굶주린 라토라스" />
+	<block key="E_C02_Lion_003_NameDetail" korean="" />
+	<block key="E_C02_Lioness_001_Name" korean="리오네스" />
+	<block key="E_C02_Lioness_001_NameDetail" korean="" />
+	<block key="E_C02_Lioness_002_Name" korean="굶주린 리오네스" />
+	<block key="E_C02_Lioness_002_NameDetail" korean="" />
+	<block key="E_C02_Crocodile_001_Name" korean="초원 악어" />
+	<block key="E_C02_Crocodile_001_NameDetail" korean="" />
+	<block key="E_C02_Gazelle_001_Name" korean="뾰족뿔 가젤" />
+	<block key="E_C02_Gazelle_001_NameDetail" korean="" />
+	<block key="E_C02_Elephant_001_Name" korean="코르누" />
+	<block key="E_C02_Elephant_001_NameDetail" korean="" />
+	<block key="E_C02_Elephant_002_Name" korean="피룬" />
+	<block key="E_C02_Elephant_002_NameDetail" korean="" />
+	<block key="E_C02_Basilisk_001_Name" korean="초원 바실리스크" />
+	<block key="E_C02_Basilisk_001_NameDetail" korean="" />
+	<block key="E_C02_FanaTony_001_Name" korean="아만 라즐로" />
+	<block key="E_C02_FanaTony_001_NameDetail" korean="" />
+	<block key="E_C02_VampHecto_001_Name" korean="촌장 한더스" />
+	<block key="E_C02_VampHecto_001_NameDetail" korean="" />
+	<block key="E_C02_Hbee1_001_Name" korean="사나운 말벌" />
+	<block key="E_C02_Hbee1_001_NameDetail" korean="" />
+	<block key="E_C02_SoulWater_001_Name" korean="말라가는 물의 정령" />
+	<block key="E_C02_SoulWater_001_NameDetail" korean="" />
+	<block key="E_C02_FanaRabart_001_Name" korean="천리안 라바트" />
+	<block key="E_C02_FanaRabart_001_NameDetail" korean="" />
+	<block key="E_C02_RabartEye_001_Name" korean="라바트의 눈" />
+	<block key="E_C02_RabartEye_001_NameDetail" korean="" />
+	<block key="E_C02_Balanin_001_Name" korean="광산 감독관 발라닌" />
+	<block key="E_C02_Balanin_001_NameDetail" korean="" />
+	<block key="E_C02_DevilDog_001_Name" korean="아드헬" />
+	<block key="E_C02_DevilDog_001_NameDetail" korean="" />
+	<block key="E_C02_FanaRecon_001_Name" korean="모하바 용병단 칼잡이" />
+	<block key="E_C02_FanaRecon_001_NameDetail" korean="" />
+	<block key="E_C02_FanaRecon_003_Name" korean="모하바 용병단 칼잡이" />
+	<block key="E_C02_FanaRecon_003_NameDetail" korean="" />
+	<block key="E_C02_MohaScout_001_Name" korean="모하바 용병단 매복꾼" />
+	<block key="E_C02_MohaScout_001_NameDetail" korean="" />
+	<block key="E_C02_MohaScout_003_Name" korean="모하바 용병단 매복꾼" />
+	<block key="E_C02_MohaScout_003_NameDetail" korean="" />
+	<block key="E_C02_MohaHealer_001_Name" korean="모하바 용병단 바람술사" />
+	<block key="E_C02_MohaHealer_001_NameDetail" korean="" />
+	<block key="E_C02_MohaHealer_002_Name" korean="모하바 용병단 바람술사" />
+	<block key="E_C02_MohaHealer_002_NameDetail" korean="" />
+	<block key="E_C02_FanaThera_001_Name" korean="크피르 도적단 응급치료사" />
+	<block key="E_C02_FanaThera_001_NameDetail" korean="" />
+	<block key="E_C02_MohaShotr_001_Name" korean="모하바 용병단 싸움꾼" />
+	<block key="E_C02_MohaShotr_001_NameDetail" korean="" />
+	<block key="E_C02_MohaShotr_002_Name" korean="모하바 용병단 싸움꾼" />
+	<block key="E_C02_MohaShotr_002_NameDetail" korean="" />
+	<block key="E_C02_mohaSnipe_001_Name" korean="모하바 용병단 사자 조련사" />
+	<block key="E_C02_mohaSnipe_001_NameDetail" korean="" />
+	<block key="E_C02_Ostrich_001_Name" korean="초원 타조" />
+	<block key="E_C02_Ostrich_001_NameDetail" korean="" />
+	<block key="E_C02_BaldEagle_001_Name" korean="굶주린 팔케" />
+	<block key="E_C02_BaldEagle_001_NameDetail" korean="" />
+	<block key="E_C02_BaldThun_001_Name" korean="초원 팔케" />
+	<block key="E_C02_BaldThun_001_NameDetail" korean="" />
+	<block key="E_C02_BullBlack_001_Name" korean="검은털 들소" />
+	<block key="E_C02_BullBlack_001_NameDetail" korean="" />
+	<block key="E_C02_BullBrown_001_Name" korean="온순한 들소" />
+	<block key="E_C02_BullBrown_001_NameDetail" korean="" />
+	<block key="E_C02_PeliBill_001_Name" korean="초원 펠리컨" />
+	<block key="E_C02_PeliBill_001_NameDetail" korean="" />
+	<block key="E_C02_BoarMane_001_Name" korean="초원 멧돼지" />
+	<block key="E_C02_BoarMane_001_NameDetail" korean="" />
+	<block key="E_C02_Etur_001_Name" korean="갈라진 등 거북이" />
+	<block key="E_C02_Etur_001_NameDetail" korean="" />
+	<block key="E_C02_ImmoMagi_001_Name" korean="꿈을 먹는 악마" />
+	<block key="E_C02_ImmoMagi_001_NameDetail" korean="" />
+	<block key="E_C02_ImmoSoldi_001_Name" korean="욕망을 부르는 악마" />
+	<block key="E_C02_ImmoSoldi_001_NameDetail" korean="" />
+	<block key="E_C02_GoleAncgu_001_Name" korean="암석 정령" />
+	<block key="E_C02_GoleAncgu_001_NameDetail" korean="" />
+	<block key="E_C02_MohaScout_002_Name" korean="크피르 도적단 광산 보초" />
+	<block key="E_C02_MohaScout_002_NameDetail" korean="" />
+	<block key="E_C02_FanaRecon_002_Name" korean="크피르 도적단 광산 순찰자" />
+	<block key="E_C02_FanaRecon_002_NameDetail" korean="" />
+	<block key="E_C02_FanaTroop_001_Name" korean="크피르 도적단 광산 감시자" />
+	<block key="E_C02_FanaTroop_001_NameDetail" korean="" />
+	<block key="E_C02_FanaStone_001_Name" korean="크피르 도적단 장사" />
+	<block key="E_C02_FanaStone_001_NameDetail" korean="" />
+	<block key="E_C02_VampFarm_001_Name" korean="악령에 씌인 농부" />
+	<block key="E_C02_VampFarm_001_NameDetail" korean="" />
+	<block key="E_C02_VampLance_001_Name" korean="악령에 씌인 경비병" />
+	<block key="E_C02_VampLance_001_NameDetail" korean="" />
+	<block key="E_C02_VampWoman_001_Name" korean="악령에 씌인 여인" />
+	<block key="E_C02_VampWoman_001_NameDetail" korean="" />
+	<block key="E_C02_GhosAncien_001_Name" korean="고대 수도사의 망령" />
+	<block key="E_C02_GhosAncien_001_NameDetail" korean="" />
+	<block key="E_C02_GhosManag_001_Name" korean="고대 제사장의 망령" />
+	<block key="E_C02_GhosManag_001_NameDetail" korean="" />
+	<block key="E_C02_CabeElitg_001_Name" korean="고대 병사의 해골" />
+	<block key="E_C02_CabeElitg_001_NameDetail" korean="" />
+	<block key="E_C02_AgulWoker_001_Name" korean="초원습지 아굴 일꾼" />
+	<block key="E_C02_AgulWoker_001_NameDetail" korean="" />
+	<block key="E_C02_AgulHunti_001_Name" korean="초원습지 아굴 수렵꾼" />
+	<block key="E_C02_AgulHunti_001_NameDetail" korean="" />
+	<block key="E_C02_AgulFight_001_Name" korean="초원습지 아굴 싸움꾼" />
+	<block key="E_C02_AgulFight_001_NameDetail" korean="" />
+	<block key="E_C02_AgulMagi_001_Name" korean="초원습지 아굴 주술사" />
+	<block key="E_C02_AgulMagi_001_NameDetail" korean="" />
+	<block key="E_C02_AgulMugl_001_Name" korean="아굴 우두머리 글램룩" />
+	<block key="E_C02_AgulMugl_001_NameDetail" korean="" />
+	<block key="E_C02_MoorJavel_001_Name" korean="성난무러미 투창병" />
+	<block key="E_C02_MoorJavel_001_NameDetail" korean="" />
+	<block key="E_C02_MoorBow_001_Name" korean="성난무러미 궁병" />
+	<block key="E_C02_MoorBow_001_NameDetail" korean="" />
+	<block key="E_C02_MoorTroop_001_Name" korean="성난무러미 전투병" />
+	<block key="E_C02_MoorTroop_001_NameDetail" korean="" />
+	<block key="E_C02_MoorCharge_001_Name" korean="성난무러미 돌격병" />
+	<block key="E_C02_MoorCharge_001_NameDetail" korean="" />
+	<block key="E_C02_Shaman_001_Name" korean="성난무러미 사제" />
+	<block key="E_C02_Shaman_001_NameDetail" korean="" />
+	<block key="E_C02_CarmDeckh_001_Name" korean="카라드 해적단 약탈자" />
+	<block key="E_C02_CarmDeckh_001_NameDetail" korean="" />
+	<block key="E_C02_CarmWatch_001_Name" korean="카라드 해적단 보초" />
+	<block key="E_C02_CarmWatch_001_NameDetail" korean="" />
+	<block key="E_C02_CarmTreas_001_Name" korean="카라드 해적단 도끼잡이" />
+	<block key="E_C02_CarmTreas_001_NameDetail" korean="" />
+	<block key="E_C02_CarmBarub_001_Name" korean="카라드 해적단 작전관" />
+	<block key="E_C02_CarmBarub_001_NameDetail" korean="" />
+	<block key="E_C02_Raptor_001_Name" korean="렙터" />
+	<block key="E_C02_Raptor_001_NameDetail" korean="" />
+	<block key="E_C02_Hydra_001_Name" korean="습지 히드라" />
+	<block key="E_C02_Hydra_001_NameDetail" korean="" />
+	<block key="E_C02_WingSnake_001_Name" korean="날개 방울뱀" />
+	<block key="E_C02_WingSnake_001_NameDetail" korean="" />
+	<block key="E_C02_Brindle_001_Name" korean="호랑무늬 앵무" />
+	<block key="E_C02_Brindle_001_NameDetail" korean="" />
+</blocks>

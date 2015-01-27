@@ -1,0 +1,122 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="EnchantStone0000_Name" korean="테스트용 보석1" />
+	<block key="EnchantStone0001_Name" korean="테스트용 보석2" />
+	<block key="EnchantStone0002_Name" korean="테스트용 보석3" />
+	<block key="ES_AD_0000_Name" korean="루비 - 물리 공격력 Lv 1" />
+	<block key="ES_AD_0001_Name" korean="루비 - 물리 공격력 Lv 2" />
+	<block key="ES_AD_0002_Name" korean="루비 - 물리 공격력 Lv 3" />
+	<block key="ES_AD_0003_Name" korean="루비 - 물리 공격력 Lv 4" />
+	<block key="ES_AD_0004_Name" korean="루비 - 물리 공격력 Lv 5" />
+	<block key="ES_AD_0005_Name" korean="루비 - 물리 공격력 Lv 6" />
+	<block key="ES_AD_0006_Name" korean="루비 - 물리 공격력 Lv 7" />
+	<block key="ES_AD_0007_Name" korean="루비 - 물리 공격력 Lv 8" />
+	<block key="ES_AD_0008_Name" korean="루비 - 물리 공격력 Lv 9" />
+	<block key="ES_AD_0009_Name" korean="루비 - 물리 공격력 Lv 10" />
+	<block key="ES_AP_0000_Name" korean="루비 - 마법공격력 Lv 1" />
+	<block key="ES_AP_0001_Name" korean="루비 - 마법공격력 Lv 2" />
+	<block key="ES_AP_0002_Name" korean="루비 - 마법공격력 Lv 3" />
+	<block key="ES_AP_0003_Name" korean="루비 - 마법공격력 Lv 4" />
+	<block key="ES_AP_0004_Name" korean="루비 - 마법공격력 Lv 5" />
+	<block key="ES_AP_0005_Name" korean="루비 - 마법공격력 Lv 6" />
+	<block key="ES_AP_0006_Name" korean="루비 - 마법공격력 Lv 7" />
+	<block key="ES_AP_0007_Name" korean="루비 - 마법공격력 Lv 8" />
+	<block key="ES_AP_0008_Name" korean="루비 - 마법공격력 Lv 9" />
+	<block key="ES_AP_0009_Name" korean="루비 - 마법공격력 Lv 10" />
+	<block key="ES_DP_0000_Name" korean="사파이어 - 물리 방어력 Lv 1" />
+	<block key="ES_DP_0001_Name" korean="사파이어 - 물리 방어력 Lv 2" />
+	<block key="ES_DP_0002_Name" korean="사파이어 - 물리 방어력 Lv 3" />
+	<block key="ES_DP_0003_Name" korean="사파이어 - 물리 방어력 Lv 4" />
+	<block key="ES_DP_0004_Name" korean="사파이어 - 물리 방어력 Lv 5" />
+	<block key="ES_DP_0005_Name" korean="사파이어 - 물리 방어력 Lv 6" />
+	<block key="ES_DP_0006_Name" korean="사파이어 - 물리 방어력 Lv 7" />
+	<block key="ES_DP_0007_Name" korean="사파이어 - 물리 방어력 Lv 8" />
+	<block key="ES_DP_0008_Name" korean="사파이어 - 물리 방어력 Lv 9" />
+	<block key="ES_DP_0009_Name" korean="사파이어 - 물리 방어력 Lv 10" />
+	<block key="ES_MD_0000_Name" korean="사파이어 - 마법 방어력 Lv 1" />
+	<block key="ES_MD_0001_Name" korean="사파이어 - 마법 방어력 Lv 2" />
+	<block key="ES_MD_0002_Name" korean="사파이어 - 마법 방어력 Lv 3" />
+	<block key="ES_MD_0003_Name" korean="사파이어 - 마법 방어력 Lv 4" />
+	<block key="ES_MD_0004_Name" korean="사파이어 - 마법 방어력 Lv 5" />
+	<block key="ES_MD_0005_Name" korean="사파이어 - 마법 방어력 Lv 6" />
+	<block key="ES_MD_0006_Name" korean="사파이어 - 마법 방어력 Lv 7" />
+	<block key="ES_MD_0007_Name" korean="사파이어 - 마법 방어력 Lv 8" />
+	<block key="ES_MD_0008_Name" korean="사파이어 - 마법 방어력 Lv 9" />
+	<block key="ES_MD_0009_Name" korean="사파이어 - 마법 방어력 Lv 10" />
+	<block key="ES_ACD_0000_Name" korean="페리도트 - 물리 치명타 피해 Lv 1" />
+	<block key="ES_ACD_0001_Name" korean="페리도트 - 물리 치명타 피해 Lv 2" />
+	<block key="ES_ACD_0002_Name" korean="페리도트 - 물리 치명타 피해 Lv 3" />
+	<block key="ES_ACD_0003_Name" korean="페리도트 - 물리 치명타 피해 Lv 4" />
+	<block key="ES_ACD_0004_Name" korean="페리도트 - 물리 치명타 피해 Lv 5" />
+	<block key="ES_ACD_0005_Name" korean="페리도트 - 물리 치명타 피해 Lv 6" />
+	<block key="ES_ACD_0006_Name" korean="페리도트 - 물리 치명타 피해 Lv 7" />
+	<block key="ES_ACD_0007_Name" korean="페리도트 - 물리 치명타 피해 Lv 8" />
+	<block key="ES_ACD_0008_Name" korean="페리도트 - 물리 치명타 피해 Lv 9" />
+	<block key="ES_ACD_0009_Name" korean="페리도트 - 물리 치명타 피해 Lv 10" />
+	<block key="ES_ACP_0000_Name" korean="페리도트 - 마법 치명타 피해 Lv 1" />
+	<block key="ES_ACP_0001_Name" korean="페리도트 - 마법 치명타 피해 Lv 2" />
+	<block key="ES_ACP_0002_Name" korean="페리도트 - 마법 치명타 피해 Lv 3" />
+	<block key="ES_ACP_0003_Name" korean="페리도트 - 마법 치명타 피해 Lv 4" />
+	<block key="ES_ACP_0004_Name" korean="페리도트 - 마법 치명타 피해 Lv 5" />
+	<block key="ES_ACP_0005_Name" korean="페리도트 - 마법 치명타 피해 Lv 6" />
+	<block key="ES_ACP_0006_Name" korean="페리도트 - 마법 치명타 피해 Lv 7" />
+	<block key="ES_ACP_0007_Name" korean="페리도트 - 마법 치명타 피해 Lv 8" />
+	<block key="ES_ACP_0008_Name" korean="페리도트 - 마법 치명타 피해 Lv 9" />
+	<block key="ES_ACP_0009_Name" korean="페리도트 - 마법 치명타 피해 Lv 10" />
+	<block key="ES_HP_0000_Name" korean="다이아몬드 - 최대 HP Lv 1" />
+	<block key="ES_HP_0001_Name" korean="다이아몬드 - 최대 HP Lv 2" />
+	<block key="ES_HP_0002_Name" korean="다이아몬드 - 최대 HP Lv 3" />
+	<block key="ES_HP_0003_Name" korean="다이아몬드 - 최대 HP Lv 4" />
+	<block key="ES_HP_0004_Name" korean="다이아몬드 - 최대 HP Lv 5" />
+	<block key="ES_HP_0005_Name" korean="다이아몬드 - 최대 HP Lv 6" />
+	<block key="ES_HP_0006_Name" korean="다이아몬드 - 최대 HP Lv 7" />
+	<block key="ES_HP_0007_Name" korean="다이아몬드 - 최대 HP Lv 8" />
+	<block key="ES_HP_0008_Name" korean="다이아몬드 - 최대 HP Lv 9" />
+	<block key="ES_HP_0009_Name" korean="다이아몬드 - 최대 HP Lv 10" />
+	<block key="ES_MP_0000_Name" korean="다이아몬드 - 최대 MP Lv 1" />
+	<block key="ES_MP_0001_Name" korean="다이아몬드 - 최대 MP Lv 2" />
+	<block key="ES_MP_0002_Name" korean="다이아몬드 - 최대 MP Lv 3" />
+	<block key="ES_MP_0003_Name" korean="다이아몬드 - 최대 MP Lv 4" />
+	<block key="ES_MP_0004_Name" korean="다이아몬드 - 최대 MP Lv 5" />
+	<block key="ES_MP_0005_Name" korean="다이아몬드 - 최대 MP Lv 6" />
+	<block key="ES_MP_0006_Name" korean="다이아몬드 - 최대 MP Lv 7" />
+	<block key="ES_MP_0007_Name" korean="다이아몬드 - 최대 MP Lv 8" />
+	<block key="ES_MP_0008_Name" korean="다이아몬드 - 최대 MP Lv 9" />
+	<block key="ES_MP_0009_Name" korean="다이아몬드 - 최대 MP Lv 10" />
+	<block key="ES_CDD_0000_Name" korean="토파즈 - 치명타 방어 Lv 1" />
+	<block key="ES_CDD_0001_Name" korean="토파즈 - 치명타 방어 Lv 2" />
+	<block key="ES_CDD_0002_Name" korean="토파즈 - 치명타 방어 Lv 3" />
+	<block key="ES_CDD_0003_Name" korean="토파즈 - 치명타 방어 Lv 4" />
+	<block key="ES_CDD_0004_Name" korean="토파즈 - 치명타 방어 Lv 5" />
+	<block key="ES_CDD_0005_Name" korean="토파즈 - 치명타 방어 Lv 6" />
+	<block key="ES_CDD_0006_Name" korean="토파즈 - 치명타 방어 Lv 7" />
+	<block key="ES_CDD_0007_Name" korean="토파즈 - 치명타 방어 Lv 8" />
+	<block key="ES_CDD_0008_Name" korean="토파즈 - 치명타 방어 Lv 9" />
+	<block key="ES_CDD_0009_Name" korean="토파즈 - 치명타 방어 Lv 10" />
+	<block key="ES_PKA_0000_Name" korean="가넷 - 대인 공격력 Lv 1" />
+	<block key="ES_PKA_0001_Name" korean="가넷 - 대인 공격력 Lv 2" />
+	<block key="ES_PKA_0002_Name" korean="가넷 - 대인 공격력 Lv 3" />
+	<block key="ES_PKA_0003_Name" korean="가넷 - 대인 공격력 Lv 4" />
+	<block key="ES_PKA_0004_Name" korean="가넷 - 대인 공격력 Lv 5" />
+	<block key="ES_PKA_0005_Name" korean="가넷 - 대인 공격력 Lv 6" />
+	<block key="ES_PKA_0006_Name" korean="가넷 - 대인 공격력 Lv 7" />
+	<block key="ES_PKA_0007_Name" korean="가넷 - 대인 공격력 Lv 8" />
+	<block key="ES_PKA_0008_Name" korean="가넷 - 대인 공격력 Lv 9" />
+	<block key="ES_PKA_0009_Name" korean="가넷 - 대인 공격력 Lv 10" />
+	<block key="ES_PKD_0000_Name" korean="가넷 - 대인 방어력 Lv 1" />
+	<block key="ES_PKD_0001_Name" korean="가넷 - 대인 방어력 Lv 2" />
+	<block key="ES_PKD_0002_Name" korean="가넷 - 대인 방어력 Lv 3" />
+	<block key="ES_PKD_0003_Name" korean="가넷 - 대인 방어력 Lv 4" />
+	<block key="ES_PKD_0004_Name" korean="가넷 - 대인 방어력 Lv 5" />
+	<block key="ES_PKD_0005_Name" korean="가넷 - 대인 방어력 Lv 6" />
+	<block key="ES_PKD_0006_Name" korean="가넷 - 대인 방어력 Lv 7" />
+	<block key="ES_PKD_0007_Name" korean="가넷 - 대인 방어력 Lv 8" />
+	<block key="ES_PKD_0008_Name" korean="가넷 - 대인 방어력 Lv 9" />
+	<block key="ES_PKD_0009_Name" korean="가넷 - 대인 방어력 Lv 10" />
+</blocks>

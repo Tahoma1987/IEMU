@@ -1,0 +1,211 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="FB_0_0000_Name" korean="라이루드 도감" />
+	<block key="FB_0_0001_Name" korean="라이닉 도감" />
+	<block key="FB_0_0002_Name" korean="부유해마 도감" />
+	<block key="FB_0_0003_Name" korean="거친 그림자 펜리스 도감" />
+	<block key="FB_0_0004_Name" korean="애꾸눈 챠카이 도감" />
+	<block key="FB_0_0005_Name" korean="외눈박이 훈바바 도감" />
+	<block key="FB_0_0006_Name" korean="블랙윈드 도감" />
+	<block key="FB_0_0007_Name" korean="암흑마룡 카라샤 도감" />
+	<block key="FB_0_0008_Name" korean="악몽의 메간테스 도감" />
+	<block key="FB_0_0009_Name" korean="스칼레다 도감" />
+	<block key="FB_0_0010_Name" korean="서리 어금니 포치 도감" />
+	<block key="FB_0_0011_Name" korean="심연의 바이렛 도감" />
+	<block key="FB_0_0012_Name" korean="고통의 카버너스 도감" />
+	<block key="FB_0_0013_Name" korean="거대거미 타슬란 도감" />
+	<block key="FB_0_0014_Name" korean="아포칼립스 도감" />
+	<block key="FB_0_0015_Name" korean="바라누스 도감" />
+	<block key="FB_0_0016_Name" korean="우두머리 트루탄 도감" />
+	<block key="FB_0_0017_Name" korean="고스트 도감" />
+	<block key="FB_0_0018_Name" korean="마그마 하운드 도감" />
+	<block key="FB_0_0019_Name" korean="본슬로프 도감" />
+	<block key="FB_0_0020_Name" korean="공포의 케라브 도감" />
+	<block key="FB_0_0021_Name" korean="늑대왕 라샤카 도감" />
+	<block key="FB_0_0022_Name" korean="나이트메어 도감" />
+	<block key="FB_0_0023_Name" korean="키샤르 도감" />
+	<block key="FB_0_0024_Name" korean="얼음 송곳니 크루거 도감" />
+	<block key="FB_0_0025_Name" korean="맹독 캐스퍼트 도감" />
+	<block key="FB_0_0026_Name" korean="광폭한 우루 도감" />
+	<block key="FB_0_0027_Name" korean="아로트 도감" />
+	<block key="FB_0_0028_Name" korean="가르므 도감" />
+	<block key="FB_0_0029_Name" korean="난폭한 블래크 도감" />
+	<block key="FB_0_0030_Name" korean="매서운 부리 로도스 도감" />
+	<block key="FB_0_0031_Name" korean="서리꽃 레이도스 도감" />
+	<block key="FB_0_0032_Name" korean="마룡 스트라이거 도감" />
+	<block key="FB_0_0033_Name" korean="백색의 트로이 도감" />
+	<block key="FB_0_0034_Name" korean="폭군 카라스 도감" />
+	<block key="FB_0_0035_Name" korean="심술쟁이 그로스 도감" />
+	<block key="FB_0_0036_Name" korean="하얀 날개 아마란스 도감" />
+	<block key="FB_0_0037_Name" korean="궁극의 드라우프 도감" />
+	<block key="FB_0_0038_Name" korean="광룡 파라가스 도감" />
+	<block key="FB_0_0039_Name" korean="푸른 날개 블레이드 도감" />
+	<block key="FB_0_0040_Name" korean="흑룡 발라크 도감" />
+	<block key="FB_0_0041_Name" korean="달빛 루시퍼트 도감" />
+	<block key="FB_0_0042_Name" korean="공역의 날개 페무토 도감" />
+	<block key="FB_0_0000_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0001_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0002_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0003_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0004_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0005_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0006_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0007_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0008_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0009_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0010_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0011_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0012_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0013_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0014_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0015_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0016_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0017_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0018_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0019_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0020_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0021_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0022_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0023_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0024_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0025_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0026_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0027_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0028_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0029_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0030_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0031_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0032_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0033_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0034_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0035_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0036_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0037_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0038_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0039_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0040_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0041_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0042_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0043_Name" korean="알비노 아벤느 도감" />
+	<block key="FB_0_0043_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0044_Name" korean="논 포쎄 아포칼립스 도감" />
+	<block key="FB_0_0044_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0045_Name" korean="공포의 파이루드 도감" />
+	<block key="FB_0_0045_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0046_Name" korean="공허의 크라비드 도감" />
+	<block key="FB_0_0046_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0047_Name" korean="공허의 레토른시아 도감" />
+	<block key="FB_0_0047_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0048_Name" korean="붉은뿔 갈라도쿠 도감" />
+	<block key="FB_0_0048_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0049_Name" korean="흰수염 화이트티어 도감" />
+	<block key="FB_0_0049_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0050_Name" korean="금빛 날개 아브라스 도감" />
+	<block key="FB_0_0050_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0051_Name" korean="공허의 카고일 도감" />
+	<block key="FB_0_0051_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0052_Name" korean="여명의 카고일 도감" />
+	<block key="FB_0_0052_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0053_Name" korean="그리들리 도감" />
+	<block key="FB_0_0053_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0054_Name" korean="레이지 도감" />
+	<block key="FB_0_0054_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0055_Name" korean="스노비시 도감" />
+	<block key="FB_0_0055_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0056_Name" korean="엔비 도감" />
+	<block key="FB_0_0056_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0057_Name" korean="아브리셔스 도감" />
+	<block key="FB_0_0057_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0058_Name" korean="인디그네 도감" />
+	<block key="FB_0_0058_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0059_Name" korean="러스트 도감" />
+	<block key="FB_0_0059_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0060_Name" korean="불사의 벨던 도감" />
+	<block key="FB_0_0060_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0061_Name" korean="아바르네 도감" />
+	<block key="FB_0_0061_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0062_Name" korean="페가수스 도감" />
+	<block key="FB_0_0062_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0063_Name" korean="극염의 칼립토 도감" />
+	<block key="FB_0_0063_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0064_Name" korean="암흑의 데모너스 도감" />
+	<block key="FB_0_0064_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0065_Name" korean="아이샤 하미온 도감" />
+	<block key="FB_0_0065_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0066_Name" korean="홍염의 슈테란 도감" />
+	<block key="FB_0_0066_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0067_Name" korean="쪽빛의 크테란 도감" />
+	<block key="FB_0_0067_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0068_Name" korean="칼날 어금니 파루치 도감" />
+	<block key="FB_0_0068_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0069_Name" korean="황혼의 그라비온 도감" />
+	<block key="FB_0_0069_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0070_Name" korean="황금의 샤키바 도감" />
+	<block key="FB_0_0071_Name" korean="타락의 로데쉬 도감" />
+	<block key="FB_0_0072_Name" korean="천둥 드래곤 톨루스 도감" />
+	<block key="FB_0_0073_Name" korean="백은의 챠누스 도감" />
+	<block key="FB_0_0074_Name" korean="독액의 베가루스 도감" />
+	<block key="FB_0_0075_Name" korean="영광의 포요 도감" />
+	<block key="FB_0_0076_Name" korean="신기루의 파노스 도감" />
+	<block key="FB_0_0077_Name" korean="불꽃의 타라쿠 도감" />
+	<block key="FB_0_0078_Name" korean="긴 뿔의 바쟌 도감" />
+	<block key="FB_0_0079_Name" korean="열사의 마튜라 도감" />
+	<block key="FB_0_0080_Name" korean="파멸의 본 크노스 도감" />
+	<block key="FB_0_0081_Name" korean="영악한 쳐피 도감" />
+	<block key="FB_0_0082_Name" korean="데니반 도감" />
+	<block key="FB_0_0083_Name" korean="트리티 도감" />
+	<block key="FB_0_0084_Name" korean="바쟈닌 도감" />
+	<block key="FB_0_0085_Name" korean="침스 도감" />
+	<block key="FB_0_0086_Name" korean="금빛의 키바렌 도감" />
+	<block key="FB_0_0087_Name" korean="지혜의 데바 도감" />
+	<block key="FB_0_0088_Name" korean="영리한 토로 도감" />
+	<block key="FB_0_0089_Name" korean="썩지 않는 본 애쉬 도감" />
+	<block key="FB_0_0090_Name" korean="그리폰 도감" />
+	<block key="FB_0_0091_Name" korean="도스라쿠 도감" />
+	<block key="FB_0_0092_Name" korean="살육의 아델라크 도감" />
+	<block key="FB_0_0093_Name" korean="예비 도감" />
+	<block key="FB_0_0094_Name" korean="예비 도감" />
+	<block key="FB_0_0095_Name" korean="예비 도감" />
+	<block key="FB_0_0096_Name" korean="예비 도감" />
+	<block key="FB_0_0097_Name" korean="예비 도감" />
+	<block key="FB_0_0098_Name" korean="예비 도감" />
+	<block key="FB_0_0099_Name" korean="예비 도감" />
+	<block key="FB_0_0100_Name" korean="예비 도감" />
+	<block key="FB_0_0070_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0071_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0072_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0073_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0074_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0075_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0076_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0077_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0078_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0079_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0080_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0081_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0082_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0083_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0084_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0085_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0086_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0087_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0088_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0089_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0090_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0091_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0092_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0093_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0094_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0095_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0096_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0097_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0098_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0099_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+	<block key="FB_0_0100_Description" korean="<UI_Y>우 클릭 시 도감 등록 가능</UI_Y>" />
+</blocks>

@@ -1,0 +1,706 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Dialog_1050001_Title" korean="자경단 렉터 로스터" />
+	<block key="Dialog_1050001_Text0" korean="허허~! 젊은 친구는 최근에 왔나? 
+<br><br>
+해적들이 물러나게 좀 도와줬으면 좋겠군. 난 해적들 때문에 어부 일도 못하게 됐지." />
+	<block key="Dialog_1050001_Text1" korean="뭐? 무러미가 호수를 폐쇄한 이유? 그걸 내가 어찌 알아! 아니 그걸 알면 내가 해결했지!
+<br><br>
+거참, 촌장 녀석이 보냈다니 어쩔 수도 없군.
+<br><br>
+글쎄 뭐, 촌장이 이놈저놈 마구잡이로 사람을 들여놓기 시작한 후로 무러미하고 분위기가 안 좋긴 했지. 결정적인 건 해적이겠지만 말이야." />
+	<block key="Dialog_1050001_Text1_attach_0" korean="<br><br>
+무러미하고 일이 아니라도 해적부터 해치우지 않으면 안 돼.
+<br><br>
+해적에 대해 알고 싶다면 저기 안젤라한테 가봐. 해적에 대해서는 철저히 물고 늘어지는 중이거든." />
+	<block key="Dialog_1050001_answer_0_text" korean="무러미가 호수를 폐쇄한 이유를 알고 싶습니다." />
+	<block key="Dialog_1050002_Title" korean="촌장 니콜라스 콜" />
+	<block key="Dialog_1050002_Text0" korean="지금처럼 험한 때 여긴 뭣 하러 오셨소? 해적에 혹한까지 겹치니 갈대바람마을은 예전의 명성을 잃은지 오래라오.<br>
+거기에 내 아들 놈마저 해적이 되겠다고 집을 나갔으니.. 이 일을 어쩌면 좋을지 도통 모르겠구려." />
+	<block key="Dialog_1050002_Text1" korean="이제 마을은 점점 안정될거요. 이 마을을 지키기 위해서라면 내 목숨까지 던질 각오가 되어 있지.<br> 아들놈이 아직 철이 없지만, 분명 갈대바람마을을 위해 열심히 일 해 줄 것이라 믿소." />
+	<block key="Dialog_1050003_Title" korean="자경단 존 듀어든" />
+	<block key="Dialog_1050003_Text0" korean="이거이거, 다들 표정이 너무 안 좋군.
+<br><br>
+그렇지 않습니까? 아무리 힘들어도 힘들다는 표시를 너무 하면 안 되는데 말입니다. 해적들이 문제라지만 그래봐야 도적들인데 너무 걱정을 사서 한다니까요." />
+	<block key="Dialog_1050004_Title" korean="자경단 안젤라 스케인" />
+	<block key="Dialog_1050004_Text0" korean="못 보던 얼굴인데 최근에 온 모양이죠?
+<br><br>
+우리 부모님은 해적들에게 돌아가셨어요. 그래서 자경단에서 일하고 있죠." />
+	<block key="Dialog_1050004_Text1" korean="무러미하고 문제가 생긴 이유? 지금 그런 거 따지게 생겼어요?
+<br><br>
+그런 거 알고 싶으면 연금술사나 찾아가보시죠. 괴짜라서 이런 거 대답은 잘 해줄 테니까.
+<br><br>
+나참, 해적들하고 싸울 마음도 없어 보이는 사람이 마을에 들어와서는." />
+	<block key="Dialog_1050004_answer_2_text" korean="무러미가 왜 호수를 폐쇄했는지 아십니까?" />
+	<block key="Dialog_1050005_Title" korean="여관 주인 에이미 헤이글" />
+	<block key="Dialog_1050005_Text0" korean="어서오세요 여행자님! 이게 얼마만의 손님인지 모르겠네요.<br>
+원래 우리 마을은 사람들로 북적거리던 마을이었지만 지금은 해적때문에 아무도 놀러오지 않아요. 완전히 적자라니까요." />
+	<block key="Dialog_1050005_Text1" korean="아직 사람들이 몰려들진 않지만 점점 경기가 회복되고 있는게 느껴져요. 이곳도 머지않아 다시 예전의 모습을 되 찾겠죠." />
+	<block key="Dialog_1050005_answer_11_text" korean="자경단에서 용병들의 활동에 의구심을 품고 있다고 말한다." />
+	<block key="Dialog_1050006_Title" korean="여관주인 에이미 헤이글" />
+	<block key="Dialog_1050006_Text0" korean="어서오세요 여행자님! 이게 얼마만의 손님인지 모르겠네요.<br>
+원래 우리 마을은 사람들로 북적거리던 마을이었지만 지금은 해적때문에 아무도 놀러오지 않아요. 완전히 적자라니까요." />
+	<block key="Dialog_1050006_Text1" korean="아직 사람들이 몰려들진 않지만 점점 경기가 회복되고 있는게 느껴져요. 이곳도 머지않아 다시 예전의 모습을 되 찾겠죠." />
+	<block key="Dialog_1050006_answer_2_text" korean="존 폰드는 자신이 부당한 대우를 받고 있다며 이곳을 떠날 거라 합니다. 당신도 떠나고 싶다고 말한 적이 있다 하던데, 어떻게 하실 건가요?" />
+	<block key="Dialog_1050007_Title" korean="신룡 기사 라일리 스튜어트" />
+	<block key="Dialog_1050007_Text0" korean="대체 뭘 했는지 모르겠지만 우리 형님이 칭찬을 줄줄 늘어놓더구만. 쳇, 뭘 그렇게 잘 하는지 모르겠네.
+<br><br>
+그래도 여기서는 내가 책임자니까 멋대로 다니지 말아주면 좋겠군." />
+	<block key="Dialog_1050008_Title" korean="연금술사 리스트 베일(갈대바람마을)" />
+	<block key="Dialog_1050008_Text0" korean="무슨 일이 있으십니까?<br>여행자들은 언제나 부상을 조심해야합니다.<br>물론 연금술을 배우셨다면 설령 부상을 당하더라도 상처를 치료할 약을 만들 수 있겠죠.<br>그러니 연금술의 숙련도에도 신경을 써야 좋습니다." />
+	<block key="Dialog_1050008_answer_4_text" korean="연금술 단계 올리기" />
+	<block key="Dialog_1050009_Title" korean="방랑 요리사 로인 테슬로우" />
+	<block key="Dialog_1050009_Text0" korean="요리 수업을 위해 왔는데 이제 다 텄네요. 설마 무러미족과 말도 못 나눌 정도로 사이가 나빠졌을 줄이야 누가 알았겠어요." />
+	<block key="Dialog_1050009_answer_5_text" korean="생명의 호수로 보낼 선물을 받으러 왔다고 말한다." />
+	<block key="Dialog_1050009_answer_6_text" korean="음식 상점" />
+	<block key="Dialog_1050010_Title" korean="방랑 전사 로튼 그레인" />
+	<block key="Dialog_1050010_Text0" korean="당신도 목숨 아깝지 않은 사람 중에 하나인가?
+<br><br>
+왜 다들 목숨 걸고 이곳까지 오는 건지…" />
+	<block key="Dialog_1050011_Title" korean="왕립 예술원 조각가 그레이스 맥케인" />
+	<block key="Dialog_1050011_Text0" korean="당신은 수도에서 왔다면서요? 혹시 수도 소식을 알고 있는 게 있나요?
+<br><br>
+가족들이 수도에 있는데…대체 어떻게 되었을지 너무 걱정이에요. 빨리 수도로 돌아가고 싶은데 해적들 때문에 여기서 나가는 것도 위험하고.
+<br><br>
+아아, 어떻게 해야 하나요?" />
+	<block key="Dialog_1050012_Title" korean="나무꾼 고든 스테일" />
+	<block key="Dialog_1050012_Text0" korean="예전엔 이곳도 활기넘치는 마을이었는데..<br>해적단의 습격이 시작되면서 모든 것이 엉망이 되었어.<br>선박 건조에 필요한 나무를 공급하던 내 일도 덩달아 사라져버렸고 말이야. 망할 해적놈들." />
+	<block key="Dialog_1050013_Title" korean="음악가 아리아 로테" />
+	<block key="Dialog_1050013_Text0" korean="어서 오세요, 선한 영혼을 지닌 분.
+<br><br>
+저는 외람되게도 음악을 만드는 일을 하고 있답니다. 제게 허락되었는지 어떤지는 알 수 없지만 제가 가장 행복해하는 일이에요.
+<br><br>
+능력이 된다면 이 마을에 흐르는 험하고 불안한 공기를 바꿀 수 있는 음악을 만들고 싶어요.
+<br><br>
+하지만 다들 너무 힘들어서 여유를 갖지 못하고 있네요. 어서 평온이 돌아오면 좋겠어요." />
+	<block key="Dialog_1050013_answer_0_text" korean="무러미족에게 보낼 선물이 있는지 묻는다." />
+	<block key="Dialog_1050014_Title" korean="나무 조각가 발터 고리온" />
+	<block key="Dialog_1050014_Text0" korean="흠, 외지인인가? 아니, 나는 외지인이라고 해서 꺼리지 않으니 걱정말게.
+<br><br>
+예술가는 편협한 법이라 하지만 그건 예술에 한정된 이야기야. 다른 때에는 오히려 다른 사람들보다 넓게 생각하지.
+<br><br>
+그렇지 않으면 어떻게 새로운 것을 만들겠나." />
+	<block key="Dialog_1050014_answer_4_text" korean="무러미족에게 보낼 물건이 다 됐는지 묻는다." />
+	<block key="Dialog_1050015_Title" korean="선박 설계사 리카드 코드윙" />
+	<block key="Dialog_1050015_Text0" korean="으으으으! 이봐! 대체 전투함은 어떻게 만드는 거야! 아니 어선하고 뭐가 다르다고 이렇게 골치냔 말이다!
+<br><br>
+도무지 설계 통과가 안 되는군! 제길. 아니, 그냥 화풀이야. 미안하군." />
+	<block key="Dialog_1050016_Title" korean="선박장인 갈레온 미싱" />
+	<block key="Dialog_1050016_Text0" korean="젠장, 일을 할래도 설계가 나와야지 말이야…" />
+	<block key="Dialog_1050017_Title" korean="해녀 레이나 하드베일" />
+	<block key="Dialog_1050017_Text0" korean="처음 보는 사람이군요. 흠.
+<br><br>
+마을 내에서 그렇게 무장하고 다니는 걸 보니, 용병인가요? 그럼 빨리 나가서 해적이나 잡아줘요. 내 대신 물일 할 거 아니면.
+<br><br>
+해적들이 나대던 초기에 어부들이 많이 죽는 바람에 저만 힘들단 말이에요." />
+	<block key="Dialog_1050018_Title" korean="수산물 가공직인 시스 페이건" />
+	<block key="Dialog_1050018_Text0" korean="처음 보는 사람이군요. 흠.
+<br><br>
+마을 내에서 그렇게 무장하고 다니는 걸 보니, 용병인가요? 그럼 빨리 나가서 해적이나 잡아줘요. 내 대신 물일 할 거 아니면.
+<br><br>
+해적들이 나대던 초기에 어부들이 많이 죽는 바람에 저만 힘들단 말이에요." />
+	<block key="Dialog_1050019_Title" korean="수비대대장 미키 사이볼트" />
+	<block key="Dialog_1050019_Text0" korean="하카나스를 위하여!<br>
+수비대 진지까지 오시느라 수고가 많았습니다. 용병들은 해적과 적당히 싸우면서 하루하루 급여만 받아가고 있는데 정말 난처합니다.<br>
+기사님의 합류가 큰 힘이 될 겁니다." />
+	<block key="Dialog_1050019_Text1" korean="우리가 해적에게 당한 것은, 경계를 소홀히 했기 때문입니다. 다시는 이런 일이 일어나지 않도록 이 수비대 진지를 더 확장할 생각입니다." />
+	<block key="Dialog_1050019_answer_16_text" korean="해적 비스무트" />
+	<block key="Dialog_1050020_Title" korean="용병 이본 블랜더" />
+	<block key="Dialog_1050020_Text0" korean="아야야.. 마을 밖의 해적들과 17대 1로 싸우다가 그만…<br>
+나쁜 놈들. 내 몸 상태가 정상이 되면 다시 해적들을 쓸어버릴거에요." />
+	<block key="Dialog_1050020_Text1" korean="내가 처치하려고 했는데 먼저 선수를 쳤군요! 아깝다. 입도 뻥긋 못하게 도륙을 내버릴 수 있었는데요." />
+	<block key="Dialog_1050020_answer_10_text" korean="자경단이 품고 있는 불만을 진정 시킬 수 있을지 묻는다." />
+	<block key="Dialog_1050021_Title" korean="용병 멜리사 슬레이터" />
+	<block key="Dialog_1050021_Text0" korean="해적들을 처치하긴 했는데… 이젠 좀 심심하네." />
+	<block key="Dialog_1050021_Text1" korean="우리 오빠말야. 왜 해적단에 들어갔는지 아직도 이해가 안가. 누구보다 갈대마을을 사랑하는 사람이었는데." />
+	<block key="Dialog_1050022_Title" korean="파르나 여신" />
+	<block key="Dialog_1050022_Text0" korean="인간이여, 우리 종족은 인간들에게 볼 일이 없습니다. 돌아가세요." />
+	<block key="Dialog_1050022_Text1" korean="해적 사건을 무사히 해결하셨군요. 하지만 저는 아직 인간을 신용할 수 없습니다.
+<br><br>
+오래 전, 정말 오래 전부터 봤던 종족이지만…엘로라가 말하기를 많은 가능성을 지니게 하고 싶었다고 했지만…아직도 이해할 수 없어요." />
+	<block key="Dialog_1050022_Text2" korean="여러 일을 해주셨군요. 당신에 대해서만 믿어 보도록 할까요." />
+	<block key="Dialog_1050023_Title" korean="전투병 아그라" />
+	<block key="Dialog_1050023_Text0" korean="……(말을 하지 않는다.)" />
+	<block key="Dialog_1050023_Text1" korean="켁, 인간 아냐. 뭐야, 아무리 들어오는 걸 인정받았다고 해도 내가 친하게 지낼 거라는 생각은 하지 말아줬으면 좋겠는데?" />
+	<block key="Dialog_1050024_Title" korean="전투병 차크라" />
+	<block key="Dialog_1050024_Text0" korean="……(말을 하지 않는다.)" />
+	<block key="Dialog_1050024_Text1" korean="아이고, 아그라 저 녀석 성질하고는... 여신님께서 허락하셨는데 잔말은 많아요.
+<br><br>
+그래서 무슨 일입니까? 아그라가 기분 나빠하니까 용건만 간단히 하세요." />
+	<block key="Dialog_1050025_Title" korean="호위대장 타타라" />
+	<block key="Dialog_1050025_Text0" korean="무러미가 다 같은 무러미가 아니듯, 인간도 다 같은 인간은 아니겠지요. 당신은.. 나쁘게는 보이지 않는군요." />
+	<block key="Dialog_1050025_answer_18_text" korean="통곡절벽 마을로 갈 수 없는 이유" />
+	<block key="Dialog_1050026_Title" korean="주술사 고라스" />
+	<block key="Dialog_1050026_Text0" korean="무러미와 인간은 같은 곳을 봅니다.<br>
+지금은 무러미가 인간을 미워한다 생각하실 수 있겠지만.. 원래는 그렇지 않았답니다." />
+	<block key="Dialog_1050026_Text1" korean="오랜만에 보는 인간이로군요. 
+<br>
+당신은 쉽게 흥분하는 성향입니까? 지금까지 봐온 바로는, 인간은 쉽게 흥분하더군요. 특히 욕심 많은 인간일수록 심해요." />
+	<block key="Dialog_1050026_answer_8_text" korean="갈대바람 마을에서 가져온 선물을 건넨다." />
+	<block key="Dialog_1050026_answer_9_text" korean="얼음의 저주를 풀어 달라고 말한다." />
+	<block key="Dialog_1050027_Title" korean="수호사제 게리스" />
+	<block key="Dialog_1050027_Text0" korean="생명의 호수에 인간이 들어오다니. 정신이 나가도 한 참 나갔군." />
+	<block key="Dialog_1050028_Title" korean="수호사제 다미스" />
+	<block key="Dialog_1050028_Text0" korean="……(말을 하지 않는다.)" />
+	<block key="Dialog_1050028_Text1" korean="……흥! (아직도 말을 하지 않는다.)" />
+	<block key="Dialog_1050029_Title" korean="악사 이호" />
+	<block key="Dialog_1050029_Text0" korean="……(말을 하지 않는다.)" />
+	<block key="Dialog_1050029_Text1" korean="인간의 음악은 어떤가요? 무러미의 음악과 어떤 차이가 있는지 궁금하네요." />
+	<block key="Dialog_1050029_Text2" korean="좋은 실로폰이군요. 아아, 갈대바람 마을에 오셨다는 악사께서? 아쉽군요. 직접 만나서 이야기를 해보고 싶은데.
+<br><br>
+상황이 상황이라 이런 건 받을 수 없습니다. 그 악사가 직접 출입 허가를 얻어서 온다면 몰라도." />
+	<block key="Dialog_1050029_answer_1_text" korean="갈대바람 마을의 음악가가 악기를 보냈다고 말한다." />
+	<block key="Dialog_1050030_Title" korean="물길 관리자 시즈나하" />
+	<block key="Dialog_1050030_Text0" korean="……(말을 하지 않는다.)" />
+	<block key="Dialog_1050030_Text1" korean="본래 이곳 생명의 호수가 지금보다 더 컸다는 것을 알고 있나요?
+<br><br>
+지금 다툼이 생겨 갈라진 성난 무러미들이 있는 늪지도 원래 호수의 일부였어요. 산에서 내려오는 물이 그쪽을 통해 이곳 생명의 호수로 합류했죠." />
+	<block key="Dialog_1050031_Title" korean="물길 관리자 키로시하" />
+	<block key="Dialog_1050031_Text0" korean="……(말을 하지 않는다.)" />
+	<block key="Dialog_1050031_Text1" korean="변절자의 늪지가 원래는 호수였다는 걸 아십니까? 그게 늪지가 된 건 제 탓이에요." />
+	<block key="Dialog_1050032_Title" korean="무기 직인 리고아" />
+	<block key="Dialog_1050032_Text0" korean="……(말을 하지 않는다.)" />
+	<block key="Dialog_1050032_Text1" korean="지금 들고 계신 그 무기, 참 괜찮아 보이는군요. 그래도 우리 종족이 쓰기에는 무거워 보여요.
+<br><br>
+가벼우면서 성능 좋은 무기를 좀 더 연구해야겠어요." />
+	<block key="Dialog_1050032_answer_1_text" korean="무기 상점" />
+	<block key="Dialog_1050033_Title" korean="방어구 직인 가쿠우" />
+	<block key="Dialog_1050033_Text0" korean="……(말을 하지 않는다.)" />
+	<block key="Dialog_1050033_Text1" korean="방어구가 있다면 내게 좀 보여줄 수 있겠나? 인간의 기술을 확인해보고 싶군." />
+	<block key="Dialog_1050033_answer_1_text" korean="방어구 상점" />
+	<block key="Dialog_1050034_Title" korean="연금술사 하다루" />
+	<block key="Dialog_1050034_Text0" korean="인간 출입이 허가 됐나. 감옥 안에 있는 인간보다는 나아 보이지만 겉보기로는 알 수 없겠지." />
+	<block key="Dialog_1050034_Text1" korean="인간 출입이 허가 됐나. 썩 달갑진 않지만 이렇게 된 거, 인정할 수 밖에. 호수에 있으면서 조용히만 해 줘." />
+	<block key="Dialog_1050035_Title" korean="건물 관리자 치가루" />
+	<block key="Dialog_1050035_Text0" korean="……(말을 하지 않는다.)" />
+	<block key="Dialog_1050035_Text1" korean="드디어 인간 출입이 허가된 모양이군요.
+<br><br>
+인간의 건축물이 항상 궁금했어요." />
+	<block key="Dialog_1050036_Title" korean="게일 맥베인" />
+	<block key="Dialog_1050036_Text0" korean="이봐! 이봐, 이봐!
+<br><br>
+나 좀 여기서 꺼내줘! 아니 이 무러미들이 사람을 가둬두고 말이야. 대체 내가 뭘 어쨌다고 이러는 거야!" />
+	<block key="Dialog_1050036_Text1" korean="으엑?! 계약서를 받아오다니!
+<br><br>
+이제 무러미하고 하는 거래는 끝장이잖아!
+<br><br>
+아아, 살아 나가도 이 손해 생각하면 사는 것 같지 않을 거야!" />
+	<block key="Dialog_1050036_answer_8_text" korean="계약서까지 가져왔으니 순순히 생명의 서약서를 남기고 여기서 나가라고 말한다." />
+	<block key="Dialog_1050037_Title" korean="벨 벡슨" />
+	<block key="Dialog_1050037_Text0" korean="캬아! 드디어 다른 사람을 보는군!
+<br><br>
+이봐! 시간 있으면 나 좀 여기서 빼줘! 그럼 댁한테도 돈 되는 이야기 해줄게!
+<br><br>
+어이, 돈 싫어?" />
+	<block key="Dialog_1050038_Title" korean="레인 오거스트" />
+	<block key="Dialog_1050038_Text0" korean="저는 인간을 무러미족에게 안내하는 일을 하고 있습니다. 그런데 해적들이 어리석은 짓을 벌려 입장이 곤란하게 되었습니다." />
+	<block key="Dialog_1050039_Title" korean="키이라 호크아이" />
+	<block key="Dialog_1050039_Text0" korean="음? 여기까지 어떻게…? 무러미의 호의를 샀나보군. 실력이 꽤 좋은 모양이야." />
+	<block key="Dialog_1050040_Title" korean="음? 여기까지 어떻게…? 무러미의 호의를 샀나보군. 실력이 꽤 좋은 모양이야." />
+	<block key="Dialog_1050040_Text0" korean="외무관을 하는 게 아니었어. 저런 저급한 것들에게 협조를 요청해야 하다니, 이 내가! 레일본 가문의 내가 말이야!
+<br><br>
+무러미족은 말도 안 통해. 이몸이 얼마나 훌륭한지, 귀족 가문이 어떤지도 모른단 말이야. 아, 골치 아픈 일이야." />
+	<block key="Dialog_1050041_Title" korean="수석 장인 호우룬" />
+	<block key="Dialog_1050041_Text0" korean="인간이여. 나는 파르나의 땅을 좋아하지만 요새처럼 일을 할 수 없는 환경이 되고 보니 차라리 하카나스에서 일할 걸 그랬나 하는 회의가 드는군." />
+	<block key="Dialog_1050041_Text1" korean="그래도 우린 전처럼 자유롭게 채굴할 수 있을 날이 올 거라 믿고 있네." />
+	<block key="Dialog_1050042_Title" korean="파를라크 영지 관리관 시아혼" />
+	<block key="Dialog_1050042_Text0" korean="영지 하나 얻나 했더니, 이게 뭐람? 이봐요, 이 영지 당신이 관리할래요? 단돈 100000골드만 내면 이 영지, 당신거라구요. 빨리 하카나스 수도성에서 편안하게 포도주나 마시고 싶어요." />
+	<block key="Dialog_1050043_Title" korean="채석 장인 티크혼" />
+	<block key="Dialog_1050043_Text0" korean="쉿! 조용히 하게나. 이 채굴장을 다시 되찾으려면 적을 먼저 알아야 하지 않겠나. 그런데 자네.. 인간인데 어떻게 여기 온건가?" />
+	<block key="Dialog_1050043_Text1" korean="언젠간 전처럼 자유롭게 채굴할 수 있을 날이 오겠지." />
+	<block key="Dialog_1050044_Title" korean="건축 설계사 하타혼" />
+	<block key="Dialog_1050044_Text0" korean="이 곳의 눈의 오르는 끝내줘. 석재를 다루는 사람이라면 모두 통곡절벽마을로 오고 싶어하지. 설인들도 그런 거 아닐까? 아니라구?" />
+	<block key="Dialog_1050045_Title" korean="건축 설계사 에이혼" />
+	<block key="Dialog_1050045_Text0" korean="못 보던 얼굴이군. 여긴 설인들이 언제 어디서 튀어나올지 모르니 조심해야 해." />
+	<block key="Dialog_1050046_Title" korean="기계 설계사 마나난" />
+	<block key="Dialog_1050046_Text0" korean="호수가 개방된 것이 모두 당신 덕이라 들었습니다. 인간이란 종족에 대해 다시 한번 감탄했습니다.
+<br><br>
+이제 인간들의 설계도를 어렵지 않게 구할 수 있겠군요." />
+	<block key="Dialog_1050046_Text1" korean="얼음성의 문?
+<br><br>
+아아, 생각 난다. 흠흠, 그건 꽤 걸작이었지. 멋대로 열려고 하면 안전장치 몇 개가 순식간에 작동해서 바깥에서는 절대 못 열게 되거든.
+<br><br>
+마법에도 강하고 충격에도 강해. 기사단 하나 정도는 와야 부술 수 있을걸?
+<br><br>
+아, 자랑은 관두고. 바깥에서 여는 법이라면 직접 만든 타라난이 알고 있을 거야." />
+	<block key="Dialog_1050046_answer_0_text" korean="얼음성에 대해 알고 있냐고 묻는다." />
+	<block key="Dialog_1050046_answer_1_text" korean="잡화 상점" />
+	<block key="Dialog_1050047_Title" korean="기계 제작자 타라난" />
+	<block key="Dialog_1050047_Text0" korean="처음 오신 분입니까? 무러미가 드디어 호수 폐쇄를 풀었나보군요. 재료가 없어서 고생이었는데 다행입니다.
+<br>그래도 아직 부족한 재료가 많으니까 언제 부탁 좀 드릴지도 모르겠네요. 무기를 갖고 있는 걸 보니, 싸움은 할 수 있겠죠?" />
+	<block key="Dialog_1050047_answer_3_text" korean="잡화 상점" />
+	<block key="Dialog_1050048_Title" korean="전사 라하칸" />
+	<block key="Dialog_1050048_Text0" korean="기껏 상주하고 있는 인간 기사 한 명이 무더기로 있는 설인들에게 돌격을 감행하자고 하는데 이를 어쩌면 좋습니까?
+<br><br>
+제대로 증원 오기 전까지 돌격은 안 된다고 아무리 말해도 제대로 못 알아듣네요. 아무리 지난 습격 때 활약이 있었지만, 어휴우…" />
+	<block key="Dialog_1050048_Text1" korean="하하, 론도 백작이라. 대련 상대로 최고였습니다.
+<br><br>
+그런 사람이 지금은 없애야 할 적이라니. 아, 저는 그저 대련만 했던 정도라 자세한 이야기는 모릅니다.
+<br><br>
+아이샤라는 약혼자가 있었다는 것 정도는 알지만. 론도 백작과 아이샤 양쪽을 잘 아는 사람이 마침 폭포마을 폐허에 있으니 찾아가 보시죠.
+<br><br>
+레온 제니스라는 연금술사입니다." />
+	<block key="Dialog_1050048_answer_4_text" korean="인간과 친하다던데 론도와 아이샤에 대해 알고 있는지 묻는다." />
+	<block key="Dialog_1050049_Title" korean="용맹전사 투로칸" />
+	<block key="Dialog_1050049_Text0" korean="내가 바로 크로쿤의 족장 투로칸일세.<br>내 명성은 익히 들어 알고 있겠지?<br>그나저나 론도의 서리군단 때문에 골치가 아프군.<br>우리 크로쿤들이 용맹하다지만 론도의 힘이 워낙 강대해서 현재로선 뾰족한 방법이 없다." />
+	<block key="Dialog_1050050_Title" korean="주술사 아칸툴" />
+	<block key="Dialog_1050050_Text0" korean="주술의 기본은 뭐라고 생각합니까? 세상 만물에 부탁하는 것이죠. 부탁하는 마음을 잊지 않고 겸허하게 사는 것이 주술의 기본 중 기본입니다.
+<br><br>
+헌데 그 마음가짐을 간직하고 있는 종족이 무러미밖에 없습니다. 언제 꼭 그들이 지닌 주술을 배우러 가야겠습니다." />
+	<block key="Dialog_1050050_Text1" korean="인간과 친하게 지냈단 말입니까? 내가?
+<br><br>
+딱히 친하게 지냈던 건 아니었는데 그렇게 비쳤던 모양입니다. 흠…저는 사실 겸허한 자세로 살라고 인간들에게 충고를 하는 입장이었던 터라.
+<br><br>
+오히려 전사 라하칸에게 가보시는 게 좋을 겁니다." />
+	<block key="Dialog_1050050_answer_0_text" korean="인간과 친하게 지냈다던데 론도와 아이샤에 대해 알고 있는지 묻는다." />
+	<block key="Dialog_1050051_Title" korean="주술사 티오툴" />
+	<block key="Dialog_1050051_Text0" korean="주술의 기본은 뭐라고 생각합니까? 세상 만물에 부탁하는 것이죠. 부탁하는 마음을 잊지 않고 겸허하게 사는 것이 주술의 기본 중 기본입니다.<br>
+헌데 그 마음가짐을 간직하고 있는 종족이 무러미 밖에 없습니다. 언제 꼭 그들이 지닌 주술을 배우러 가야 하는데…" />
+	<block key="Dialog_1050052_Title" korean="론도의 연인 아이샤 페더레인" />
+	<block key="Dialog_1050052_Text0" korean="파르나 여신님의 힘을 이어받은 미천한 물의 무녀, 아이샤입니다.<br>
+당신에게서 이상한 기운이 느껴지는군요.<br>
+론도와 비슷하면서도 달라요. 왠지 친숙하네요." />
+	<block key="Dialog_1050053_Title" korean="신룡 기사 넥슨 퓨리온" />
+	<block key="Dialog_1050053_Text0" korean="난 론도의 성을 돌파하고 서리 군단의 세력을 일소하라는 명령을 받았네. 물론 다른 사람들에게는 말하지 않고 있지. 마신의 부활은 쉽게 입에 담아서는 안 되는 일이니까.
+<br><br>
+어찌됐든, 명령은 명령. 나는 최선을 다해 싸울 뿐이네." />
+	<block key="Dialog_1050054_Title" korean="방랑 예술가 파텍 그라시아" />
+	<block key="Dialog_1050054_Text0" korean="내가 지금 집중하고 있는 게 안 보이나? 말걸지 말라고." />
+	<block key="Dialog_1050055_Title" korean="크로쿤 연습공 엔지 그라시아" />
+	<block key="Dialog_1050055_Text0" korean="새로 보는 얼굴이다! 무러미가 드디어 문을 다시 연 거야?<br>
+있잖아. 인간의 건축물들은 어때? 파르나의 땅이 원래대로 돌아오면 인간의 기술을 배우러 가볼거야." />
+	<block key="Dialog_1050056_Title" korean="영혼의 연금술사 레온 제니스" />
+	<block key="Dialog_1050056_Text0" korean="놀랍군요. 못 보던 얼굴을 보니... 여긴 죽음의 땅입니다.
+<br><br>
+너무 많은 인간과 크로쿤이 죽어서 영혼이 소용돌이 치고 있어요. 앞으로 얼마나 시간이 흘러야 나아질지…" />
+	<block key="Dialog_1050056_answer_3_text" korean="물약/잡화 상점" />
+	<block key="Dialog_1050057_Title" korean="순찰대원 알리시아 에일본" />
+	<block key="Dialog_1050057_Text0" korean="여긴 상황이 안 좋아요. 언제 론도가 설인을 이끌고 나타날지 모르거든요." />
+	<block key="Dialog_1050058_Title" korean="자경단 로엔 스미스" />
+	<block key="Dialog_1050058_Text0" korean="으아앗! 해적놈들! 감히 내가 누군줄 알고!
+<br><br>
+으라차! 아싸! 이얍! 우핫! 크앗!
+<br><br>
+어, 어…해적이 아니네…" />
+	<block key="Dialog_1050059_Title" korean="용병 워든 맥시마" />
+	<block key="Dialog_1050059_Text0" korean="살려주세요! 살려주세요!<br>
+해적단 녀석들을 다 터뜨려버리려던 찰나에 붙잡혀버렸습니다.<br>
+….설마 그냥 가실 건 아니시죠?" />
+	<block key="Dialog_1050060_Title" korean="세공사 시이사" />
+	<block key="Dialog_1050060_Text0" korean="당신, 인간이로군. 해적은 아닌 것 같은데 여기에는 무슨 일이야?<br>
+당신이 나를 구해줄 수 있다면 좋겠어. 갇혀 있는 건 불안해. 해적들이 날 구워먹으면 어떤 맛이 날지 얘기하는 걸 들었다구." />
+	<block key="Dialog_1050060_Text1" korean="당신은 다른 무러미들에게서도 신뢰를 얻었어. 우린 열심히 일하는 모습을 좋아하거든." />
+	<block key="Dialog_1050060_Text2" korean="잡혀 있는 사람들이 풀려나는 건 어렵지 않아.
+<br><br>
+당신 정도 실력이면 괜찮을 거야.
+<br><br>
+변절자의 늪지에 가면 대사제 베르나라고 있어. 게일 맥베인과 계약서를 나눴다지. 계약서를 뺏어다가 게일 맥베인에게 포기하도록 만들면 되지 않을까?" />
+	<block key="Dialog_1050060_answer_20_text" korean="잡아둔 인간들을 풀어줄 수 없는지 묻는다." />
+	<block key="Dialog_1050061_Title" korean="정신차린 무러미 에이아" />
+	<block key="Dialog_1050061_Text0" korean="저는 아크라트 초원에 파견 나갔다가 오랜만에 고향에 왔어요.
+<br>
+그렇게 오래 지나지도 않았는데 돌아오고 보니 혼란스러워요.
+<br>
+모든게 바뀌어 버렸어요." />
+	<block key="Dialog_1050062_Title" korean="정신차린 젊은 무러미" />
+	<block key="Dialog_1050062_Text0" korean="돌아가고 싶어요, 맑은 물이 흐르는 생명의 호수로…" />
+	<block key="Dialog_1050063_Title" korean="정신차린 늙은 무러미" />
+	<block key="Dialog_1050063_Text0" korean="이제 돌아가고 싶구려. 정신 나간 짓을 했던 자신을 생명의 호숫물로 씻고 싶으니…" />
+	<block key="Dialog_1050064_Title" korean="정신차린 어린 무러미" />
+	<block key="Dialog_1050064_Text0" korean="파르나 여신님을 보고 싶어요. 왜 라단의 눈 같은 무섭게 생긴 걸 좋아했는지 모르겠어요.
+<br><br>
+예쁜 여신님을 보러 가고 싶어요." />
+	<block key="Dialog_1050065_Title" korean="마을 주부 베르나 코드윙" />
+	<block key="Dialog_1050065_Text0" korean="뭐에요? 타지 사람들은 믿을 수 없어요. 얼마 전만 해도 용병들이라고 몰려와서 마을을 난장판으로 만들고 심지어 내 패물까지 가지고 갔다구요. 열받아!" />
+	<block key="Dialog_1050065_Text1" korean="이 마을 사람이 아니면 믿을 수 없어요. 다만… 당신에게는 고맙게 생각하고 있다구요. 흥!" />
+	<block key="Dialog_1050066_Title" korean="용병 존 폰드" />
+	<block key="Dialog_1050066_Text0" korean="여기에서 용병 노릇을 계속 할지 고민입니다. 이곳 주민은 툭하면 우리 용병들을 의심하지 뭡니까?" />
+	<block key="Dialog_1050067_Title" korean="성냥팔이 소녀 트리마" />
+	<block key="Dialog_1050067_Text0" korean="성냥 사세요..! 성냥 팔아요! <br>
+기사님, 성냥 사세요. 너무 추워요…" />
+	<block key="Dialog_1050067_answer_10_text" korean="트리마의 가판대" />
+	<block key="Dialog_1050068_Title" korean="마을 주민 로버트 할리스" />
+	<block key="Dialog_1050068_Text0" korean="난 어부 일을 할 때 진정 살아 있다는 느낌을 받곤 했소. 그물 안에서 힘차게 퍼덕이는 물고기들을 상대하며 말이오. 
+<br><br>
+하지만, 지금은 망할 해적들 때문에 다른 일을 한 지 좀 됐다오. 뭐라도 해야지 원, 몸이 근질거려 가만있질 못하겠소." />
+	<block key="Dialog_1050069_Title" korean="대장장이 척 베일" />
+	<block key="Dialog_1050069_Text0" korean="뭘 손 볼 텐가?" />
+	<block key="Dialog_1050069_Answer_3_Text" korean="방어구 상점" />
+	<block key="Dialog_1050070_Title" korean="종족 연구원 폴 트래블" />
+	<block key="Dialog_1050070_Text0" korean="저는 종족 연구원입니다. 아주 매력적인 무러미들을 만나기 위해 여기까지 찾아왔죠." />
+	<block key="Dialog_1050070_Text1" korean="세공에 뛰어난 재능을 가진 무러미에 비하면 내 작품은 보잘것없어 보이는 게 당연한데…
+<br><br>
+난 그저 무러미 종족과 친해지고 싶었을 뿐인데 그녀가 그렇게 심한 말을 하다니… 으흑~" />
+	<block key="Dialog_1050071_Title" korean="필립 슬레이터" />
+	<block key="Dialog_1050071_Text0" korean="응? 멜리사를 안다니 반갑군. 난 해적단 소속 필립 슬레이터다.<br>
+해적단에서 거액의 돈을 주고 날 영입했지.<br>
+내가 나설 차례는 최후의 최후의 최후. 과연 그 날이 올까?" />
+	<block key="Dialog_1050072_Title" korean="보물 사냥꾼 조니" />
+	<block key="Dialog_1050072_Text0" korean="흐음~ 자네도 우리처럼 해적들의 보물을 슬~쩍 하러 왔나? 그런 게 아니라면 방해되지 않게 저~리 가 있으라구.
+<br><br>
+아, 그리고 우린 악당들의 보물만 슬쩍하니 자네의 쌈짓돈은 걱정 붙들어 매." />
+	<block key="Dialog_1050073_Title" korean="보물 사냥꾼 대니" />
+	<block key="Dialog_1050073_Text0" korean="쉿! 자세를 낮추세요! 그러다 들키겠어요. 제발 그냥 조용히 있어주세요." />
+	<block key="Dialog_1050074_Title" korean="대장장이 론 베일" />
+	<block key="Dialog_1050074_Text0" korean="우리 형제들은 삼대째 내려오는 기술을 보유하고 있어요. 갈대바람 마을에선 아주 유~명 했지요!
+<br><br>
+당신도 그 소문을 듣고 절 찾아오셨나요?" />
+	<block key="Dialog_1050075_Title" korean="어린 무러미 포메리" />
+	<block key="Dialog_1050075_Text0" korean="자~반짝반짝 예쁜 반지가 왔어요!<br>싸다 싸! 지금 사두시면 내년엔 가격이 두배!<br>지금 사시면 땡 잡는 거예요~" />
+	<block key="Dialog_1050075_answer_5_text" korean="포메리의 반지 상점" />
+	<block key="Dialog_1050076_Title" korean="도망친 무러미" />
+	<block key="Dialog_1050076_Text0" korean="크, 큰일 났어요! 어떻게~ 어떻게~ 
+<br><br>
+내 친구들이, 내 친구들이!" />
+	<block key="Dialog_1050077_Title" korean="대장장이 댄 베일" />
+	<block key="Dialog_1050077_Text0" korean="뭘 의뢰하러 오셨습니까? 보다시피 전 조금 바쁩니다. 어서 말씀하세요.
+<br><br>
+아… 혹시 기분 나빠지신 건 아니시죠…?" />
+	<block key="Dialog_1050077_answer_1_text" korean="장비 상점" />
+	<block key="Dialog_1050078_Title" korean="연금술사 로사 페더레인" />
+	<block key="Dialog_1050078_Text0" korean="크로쿤과 인간을 받아들인건 파르나 여신님의 자애로움 때문이었어요. 론도가 그렇게 변하지만 않았어도 이 곳은 여전히 아름다운 땅이었을텐데..<br>" />
+	<block key="Dialog_1050078_Text1" korean="당신은 내 마음을 이해하지 못할거에요.
+<br><br>론도와 아이샤는 우리에게는 단순한 연인 그 이상, 파르나의 희망이었어요." />
+	<block key="Dialog_1050078_answer_10_text" korean="물약 상점" />
+	<block key="Dialog_1050079_Title" korean="죽어가는 남자" />
+	<block key="Dialog_1050079_Text0" korean="으… 마, 막아주세요…" />
+	<block key="Dialog_1050080_Title" korean="진리의 마법사 카일론 윌" />
+	<block key="Dialog_1050080_Text0" korean="론도 녀석은 우리가 키워낸 괴물이야. 단지 연고가 없다는 이유로 신룡기사단이 론도를 내치면서 모든 것이 꼬이기 시작했지.
+일은 신룡기사단이 냈지만, 진리의 마법사회는 그 잘못을 바로잡고 싶어하네." />
+	<block key="Dialog_1050081_Title" korean="크로쿤 전사 클로니 엔터" />
+	<block key="Dialog_1050081_Text0" korean="돌격은 싸움의 눈이지! 아니 조각 하나 할 때면 눈은 자기가 하겠다고 기를 쓰면서, 싸움에서 돌격을 회피하다니 그게 할 짓이야?" />
+	<block key="Dialog_1050082_Title" korean="파를라크 영지 자경단 시그리드 테일" />
+	<block key="Dialog_1050082_Text0" korean="그 살기 좋던 마을을 설인들이 이 꼴로 만들었지 뭡니까?! 게다가 저희 형은 저와 같이 마을을 지키려다 행방불명 됐습니다… 
+<br><br>
+저는 꼭 형을 찾을 겁니다. 혹시 저와 닮은 사람을 발견하게 된다면 제게 꼭 좀 말씀해주세요!" />
+	<block key="Dialog_1050083_Title" korean="공지용 게시판" />
+	<block key="Dialog_1050083_Text0" korean="허가 없이 게시물을 붙이지 말 것
+<br><br>
+<b>[촌장 겸 자경단장 니콜라스 콜]</b>" />
+	<block key="Dialog_1050084_Title" korean="섀도우 클랜 신스 메이어" />
+	<block key="Dialog_1050084_Text0" korean="신스 메이어입니다. 공주님의 행방을 쫓아 여기까지 왔죠. 론도가 머무는 파르나의 땅에 반드시 돌아올 거라고 생각했으니까요. <br>
+공주님이 얼음성에 들어가는 모습까지는 확인했는데.. 하지만 그 이후는 알 수 없게 되어버렸어요. <br> 론도가 미행을 눈치채고 저를 감시하기 시작했거든요." />
+	<block key="Dialog_1050085_Title" korean="은색 수반" />
+	<block key="Dialog_1050085_Text0" korean="인간이로군요. 우린 인간에게 볼 일이 없습니다." />
+	<block key="Dialog_1050085_answer_2_text" korean="무러미와 대화를 시도한다." />
+	<block key="Dialog_1050085_answer_3_text" korean="저를 찾았다고 들었습니다." />
+	<block key="Dialog_1050086_Title" korean="끌려온 해적" />
+	<block key="Dialog_1050086_Text0" korean="나는 아무 말도 안 하겠어." />
+	<block key="Dialog_1050087_Title" korean="소누라" />
+	<block key="Dialog_1050087_Text0" korean="흐흑… 저희가 살아 나갈 수 있을까요…?" />
+	<block key="Dialog_1050088_Title" korean="아르하" />
+	<block key="Dialog_1050088_Text0" korean="성난 무러미들은 너무 잔인합니다…" />
+	<block key="Dialog_1050089_Title" korean="무지카" />
+	<block key="Dialog_1050089_Text0" korean="도망치지 못한 친구들이 안쪽에 있어요! 친구들이 위험해요!" />
+	<block key="Dialog_1050090_Title" korean="사제 케플리 싱어" />
+	<block key="Dialog_1050090_Text0" korean="오, 역시! 하늘이 무너져도 솟아날 구멍은 있군요?! 당신같은 분을 이런 곳에서 만나다니 말이에요!" />
+	<block key="Dialog_1050091_Title" korean="풍차관리인 제니타" />
+	<block key="Dialog_1050091_Text0" korean="풍차는 바람만 불면 혼자서 빙글빙글 잘 돌아가지. 내가 못하는게 아니라 바람이 없어서 안 도는 거야. <br>
+….<br>
+사실 스위치만 누르면 작동하지만 이상하게 추워서 그런가.. 영 귀찮아서 말야. 퐁차 관리하기도 귀찮고.." />
+	<block key="Dialog_1050092_Title" korean="어부 주드루" />
+	<block key="Dialog_1050092_Text0" korean="남들은 저보고 배우를 하라고도 말하지만, 저는 어부일이 참 좋습니다. 진짜 살아있다는 느낌을 받거든요.<br>
+지금은 그물을 쳐 놓고도 무서워 제대로 바다에 나가지 못하니.. 저도 참 한심합니다." />
+	<block key="Dialog_1050093_Title" korean="용병 제이슨 미카" />
+	<block key="Dialog_1050093_Text0" korean="제..제길.. 곤란한 상황이 발생했습니다.<br>
+이 해적들, 뭔가를 털어가는데에는 일인자들입니다." />
+	<block key="Dialog_1050094_Title" korean="무러미 대제사장 안타리온" />
+	<block key="Dialog_1050094_Text0" korean="환영하오 인간이여. 우리는 파르나의 자손들. <br>
+지금 세상은 마신의 후손으로 혼란스럽고 무러미조차 둘로 나뉘어 반목하고 있소.<br>
+파르나 여신님이 떠난 파르나의 땅이라니. 대제사장으로서 부끄러울 따름이오." />
+	<block key="Dialog_1050095_Title" korean="무러미 아줌마 일라" />
+	<block key="Dialog_1050095_Text0" korean="저 바다 위 작은 소녀<br>노래하네 조용하게<br><br>소녀의 꿈 어디갔나<br>그리운 이 노래만 남아 있네." />
+	<block key="Dialog_1050096_Title" korean="무러미 신관 다라스" />
+	<block key="Dialog_1050096_Text0" korean="라단의 눈에 물든 성난 무러미들이 아름다운 호수를 늪지로 바꾸어 버렸소.<br>
+인간에게서 시작된 탐욕이 무러미들을 덮쳐, 이제는 둘로 분열되어 버렸으니.. 누구를 탓하겠소?" />
+	<block key="Dialog_1050097_Title" korean="무러미 세공사 라이라" />
+	<block key="Dialog_1050097_Text0" korean="오랜만의 인간족, 반갑군요?<br>
+나는 파르나 여신님이 내리신 재주로 세공품을 만드는 라이라입니다.<br>
+인간 세공사들도 꽤 만들지만, 아직 무러미에겐 따라갈 수 없죠." />
+	<block key="Dialog_1050098_Title" korean="아굴족 전사 카이타" />
+	<block key="Dialog_1050098_Text0" korean="외모만 보고 아굴족을 판단하지 말아주겠나?<br>
+난 지독한 마신의 저주에 걸려 아굴족이 되었는데, 되고 보니 이 물고기 얼굴도 나름 개성있고 매력적이야." />
+	<block key="Dialog_1050099_Title" korean="인어 여왕 세이렌" />
+	<block key="Dialog_1050099_Text0" korean="우리를 볼 수 있다니, 놀라운 인간이네?<br>
+우리는 영원히 아름답지만 인간은 늙어. 하지만 인간이 젊음을 불태우는 그 시간, 그 시간을 우리는 무척 좋아해.<br>
+같이 놀래?" />
+	<block key="Dialog_1050105_Title" korean="크로쿤 경비대장 카일론" />
+	<block key="Dialog_1050105_Text0" korean="저 앞의 폭포마을은 원래 나의 고향이오.<br>
+정말 아름다운 곳이었지. 모든 것이 얼어붙기 전 까지는 말이오.<br>
+나는 반드시 저 폭포마을을 되찾고 싶소." />
+	<block key="Dialog_1050106_Title" korean="늙은 어부 산티고" />
+	<block key="Dialog_1050106_Text0" korean="이번이 내 마지막 항해였지.. 정말 엄청난 항해였어. 이제 은퇴해도 여한이 없다네." />
+	<block key="Dialog_1050107_Title" korean="고대무러미 나란드" />
+	<block key="Dialog_1050107_Text0" korean="자,잠깐! 인간님. 당황하지 마시고 제 말을 잘 들으시면 아무 문제 없을겁니다." />
+	<block key="Dialog_1050108_Title" korean="아굴족 전사 키이타" />
+	<block key="Dialog_1050108_Text0" korean="나는 원래 무러미다! 믿어줘라!!!" />
+	<block key="Dialog_1050109_Title" korean="크로쿤 야수 조련사 앨리샤" />
+	<block key="Dialog_1050109_Text0" korean="아가야, 누나가 지금 기분이 좋아.. 참 좋은 기회잖아? 펠로우 일 아니면 가라." />
+	<block key="Dialog_1050101_Title" korean="무러미 청년 무러미오" />
+	<block key="Dialog_1050101_Text0" korean="오, 줄러미. 당신의 사랑도 없이 지루하게 사느니 그들의 미움에 죽겠소!" />
+	<block key="Dialog_1050102_Title" korean="성난 무러미 처녀 줄러미" />
+	<block key="Dialog_1050102_Text0" korean="무러미오.. 나의 사랑은 너무도 많아 반도 헤아릴 수 없답니다…굴.." />
+	<block key="Dialog_1050103_Title" korean="신룡 기사단 울프릭스" />
+	<block key="Dialog_1050103_Text0" korean="아니, 기사님 반갑습니다. 여긴 어쩐 일이십니까?<br>
+저는 이 곳에서 늑대가 출몰한다는 소식을 듣고 파견되었지 말입니다." />
+	<block key="Dialog_1050104_Title" korean="촌장아들 리드(해적단본거지)" />
+	<block key="Dialog_1050104_Text0" korean="난 리드에요. 날 알고 있어요? 당신도 세보이지만, 바라나크님 만큼은 아니에요." />
+	<block key="Dialog_1050110_Title" korean="레슐레" />
+	<block key="Dialog_1050110_Text0" korean="아이구..다리에 영 힘이 없어... 이보게, 날 좀 도와주지 않겠수?" />
+	<block key="Dialog_1050130_Title" korean="촌장아들 리드(갈대바람마을)" />
+	<block key="Dialog_1050130_Text0" korean="전 이담에 커서 훌륭한 어른이 될 거에요.<br>기사님처럼 멋진 어른말이에요." />
+	<block key="Dialog_1050200_Title" korean="신룡기사단 울프릭스" />
+	<block key="Dialog_1050200_Text0" korean="이 곳까지는 어쩐 일이십니까? 네, 저 신룡기사단 울프릭스지 말입니다. 이 곳에도 늑대가 있다는 제보가 들어와 파견됐지 말입니다!" />
+	<block key="Dialog_1070210_Title" korean="무러미 세공사 시이사" />
+	<block key="Dialog_1070210_Text0" korean="나는 길을 잃은 게 아냐! 무러미는 길을 잃지 않는다구! 그런 눈으로 날 동정하지 마!" />
+	<block key="Dialog_1070220_Title" korean="무러미 세공사 시이사" />
+	<block key="Dialog_1070220_Text0" korean="어쩌다보니 해적들에게 잡혀버렸어. 내가 해적들에게 잡히게 될 줄은 꿈에도 몰랐는데.." />
+	<block key="Dialog_1070230_Title" korean="무러미 세공사 시이사" />
+	<block key="Dialog_1070230_Text0" korean="위험한 곳이니 얼른 가라구? 흥! 나는 무러미야. 무러미는 인간보다 백 배 똑똑하단말야!" />
+	<block key="Dialog_1070240_Title" korean="무러미 세공사 시이사" />
+	<block key="Dialog_1070240_Text0" korean="저번엔 고마웠어. 내가 노래를 들려줄게 잘 들어봐." />
+	<block key="Dialog_1070250_Title" korean="멜리사 슬레이터" />
+	<block key="Dialog_1070250_Text0" korean="안녕, 친구. 미키가 말해준 내용 다 숙지했어?<br>
+모르면 그냥 기다리고 있어. 아무래도 해적단에 정보 없이 들어가는 건 자살행위니까." />
+	<block key="Dialog_1070260_Title" korean="멜리사 슬레이터" />
+	<block key="Dialog_1070260_Text0" korean="여기까지 들어와도 눈치를 못 채다니. 해적단도 별 수 없나봐. 우리가 끝장내주자!" />
+	<block key="Dialog_1070270_Title" korean="의문의 여인" />
+	<block key="Dialog_1070270_Text0" korean="물의 거울은 진실된 것을 투영하는 거울이야. 사악한 것을 물리치고 정한 것을 수호하는 파르나 여신님의 힘이 담겨져 있지." />
+	<block key="Dialog_1070280_Title" korean="의문의 여인" />
+	<block key="Dialog_1070280_Text0" korean="태양망루는 단순한 망루가 아니야. 파르나의 뜻을 온누리에 비추기 위해 크로쿤 장인들이 만든 역작이지. 그 빛이 당신을 인도할거야." />
+	<block key="Dialog_1070290_Title" korean="의문의 여인" />
+	<block key="Dialog_1070290_Text0" korean="하늘에 떠 있는 저 땅은 빛의 전쟁 때 파르나 여신께서 젤나리스에 맞서 싸우던 파편들이지. 트라이트얼은 젤나리스에 의해 산산조각 났지만 파르나 여신님의 힘이 수호하는 이 곳을 건드리지는 못했어.<br>
+눈사태 오르쿠스는 젤나리스에게 붙었다가 파르나 여신님의 저주를 받아 영원히 저 부유한 파편들을 지키는 벌을 받은거야. 오르쿠스는 누구보다 파르나 여신님을 싫어하는 펠로우라고 할 수 있지." />
+	<block key="Dialog_1070300_Title" korean="의문의 여인" />
+	<block key="Dialog_1070300_Text0" korean="파르나 여신님의 마지막 안배가 인어의 섬에 있어. 그들은 노래를 사랑하고, 무러미의 마지막 힘을 지켜나가고 있지. 무러미와 한 없이 닮았지만 무러미와는 다르고, 인간의 생각을 가졌지만 인간이 아닌 자들.. <br> 파르나 여신님이 이 땅을 지키는 한 인어들은 여전히 여신을 찬미하는 노래를 부를거야." />
+	<block key="Dialog_1070310_Title" korean="의문의 여인" />
+	<block key="Dialog_1070310_Text0" korean="얼어붙은 폭포.. 크로쿤족의 정기를 얼어붙게 만든 사란트의 강대한 힘이 느껴져.. 하지만 저 얼음 안에서 여전히 꿈틀대며 흐르는 크로쿤들의 포효가 들려?<br>" />
+	<block key="Dialog_1070320_Title" korean="물의 무녀 아이샤 페더레인" />
+	<block key="Dialog_1070320_Text0" korean="파르나 여신님의 힘을 이어받은 미천한 물의 무녀, 아이샤입니다.<br>
+당신에게서 이상한 기운이 느껴지는군요.<br>
+론도와 비슷하면서도 달라요. 왠지 친숙하네요." />
+	<block key="Dialog_1070330_Title" korean="물의 무녀 아이샤 페더레인" />
+	<block key="Dialog_1070330_Text0" korean="…………….." />
+	<block key="Dialog_1070340_Title" korean="신룡 기사단 울프릭스" />
+	<block key="Dialog_1070340_Text0" korean="놀라셨습니까? 가는 곳마다 만나게 되는게 인연인가 싶지 말입니다! 실은 이 곳에서 늑대 울음소리가 났습니다! 늑대를 처치하기 위해선 뭐가 필요하겠습니까? 제가 있는게 당연하지 말입니다!" />
+	<block key="Dialog_1070350_Title" korean="물약 상점 루디아" />
+	<block key="Dialog_1070350_Text0" korean="이 추운 땅에서 물약 하나 없이 살 수 있겠어요?" />
+	<block key="Dialog_1070350_answer_0_text" korean="물약 상점" />
+	<block key="Dialog_1070360_Title" korean="음식 상점 짐 클로스" />
+	<block key="Dialog_1070360_Text0" korean="맛있는 음식 있습니다. 하카나스 왕성 출신 요리사의 진미를 맛 보세요!" />
+	<block key="Dialog_1070360_answer_0_text" korean="음식 상점" />
+	<block key="Dialog_1070370_Title" korean="음식 상점 네이트 에메셀" />
+	<block key="Dialog_1070370_Text0" korean="음식은 에너지를 보충하기 위한 거야! 맛은 중요하지 않다구." />
+	<block key="Dialog_1070370_answer_0_text" korean="음식 상점" />
+	<block key="Dialog_1070380_Title" korean="음식 상점 애쉬 툴" />
+	<block key="Dialog_1070380_Text0" korean="냉기 칼로 만드는 짜릿한 요리 맛보세요!" />
+	<block key="Dialog_1070380_answer_0_text" korean="음식 상점" />
+	<block key="Dialog_1070390_Title" korean="음식 상점 죠 브랜든" />
+	<block key="Dialog_1070390_Text0" korean="요리는 불 맛이지! 불맛 한 번 보겠어?" />
+	<block key="Dialog_1070390_answer_0_text" korean="음식 상점" />
+	<block key="Dialog_1070400_Title" korean="물약 잡화 상인 에밀 로우니" />
+	<block key="Dialog_1070400_Text0" korean="추운 파르나의 땅에선 물약이랑 잡화가 필수적이지." />
+	<block key="Dialog_1070400_answer_0_text" korean="물약 잡화 상점" />
+	<block key="Dialog_1070410_Title" korean="장비 상점 리차드 마이어" />
+	<block key="Dialog_1070410_Text0" korean="장비가 그게 뭡니까? 자, 빨리 제 상점에서 골라보세요." />
+	<block key="Dialog_1070410_answer_0_text" korean="장비 상점" />
+	<block key="Dialog_1050112_Title" korean="수비대 병사 로널즈" />
+	<block key="Dialog_1050112_Text0" korean="제 친구 미키는 지나치게 바른생활 사나이에요. 보급도 정해진 일자에만 주니 사람들이 배고픈게 당연하죠!" />
+	<block key="Dialog_1050113_Title" korean="수비대 병사 페이지" />
+	<block key="Dialog_1050113_Text0" korean="아주 신나는 날이군요. 해적 물리치기 딱 좋은날이에요. 야후!" />
+	<block key="Dialog_1050114_Title" korean="수비대 병사 치프" />
+	<block key="Dialog_1050114_Text0" korean="데윌 녀석은 제 상대가 안 되죠. 비슷하게 생겼다구요? 조금 다르다구요. 여기 얼굴에 점 안 보이시나요?" />
+	<block key="Dialog_1050115_Title" korean="수비대 병사 데윌" />
+	<block key="Dialog_1050115_Text0" korean="치프와 데윌로 묶지마! 내가 더 잘 싸우는데 왜 내가 뒤에 나오냐고!!" />
+	<block key="Dialog_1050116_Title" korean="길 잃은 늑대" />
+	<block key="Dialog_1050116_Text0" korean="캬웅…캬웅…캬웅…." />
+	<block key="Dialog_1050117_Title" korean="무러미 처녀 줄러미" />
+	<block key="Dialog_1050117_Text0" korean="아아, 저주가 풀렸어요!<br>역시 사랑의 힘은 위대해요!" />
+	<block key="Dialog_2020303_Title" korean="게시판" />
+	<block key="Dialog_2020303_Text0" korean="허가받지 않은 게시물 부착을 엄금함
+<br><br>
+<b>[대제사장 안타리온]</b>" />
+	<block key="Dialog_2040101_Title" korean="사라 베일" />
+	<block key="Dialog_2040101_Text0" korean="무기를 팔아요." />
+	<block key="Dialog_2040101_answer_0_text" korean="무기 상점" />
+	<block key="Dialog_2040102_Title" korean="대장장이 욜" />
+	<block key="Dialog_2040102_Text0" korean="장비를 팝니다." />
+	<block key="Dialog_2040102_answer_0_text" korean="장비 상점" />
+	<block key="Dialog_2040301_Title" korean="잭슨" />
+	<block key="Dialog_2040301_Text0" korean="찾는 물건이 있으십니까?<br>좋은 물건 많습니다. 천천히 살펴보십시오." />
+	<block key="Dialog_2040301_answer_0_text" korean="잡화 상점" />
+	<block key="Dialog_2040302_Title" korean="견습생 마이라" />
+	<block key="Dialog_2040302_Text0" korean="이래뵈도 쓸만한 물약 많아요." />
+	<block key="Dialog_2040302_answer_0_text" korean="물약 상점" />
+	<block key="Dialog_2040303_Title" korean="파라디나" />
+	<block key="Dialog_2040303_Text0" korean="진짜 없는게 없어요." />
+	<block key="Dialog_2040303_answer_0_text" korean="물약/잡화 상점" />
+	<block key="Dialog_2040304_Title" korean="샤론 멕베일" />
+	<block key="Dialog_2040304_Text0" korean="나야말로 진짜 없는게 없어요." />
+	<block key="Dialog_2040304_answer_0_text" korean="물약/잡화 상점" />
+	<block key="Dialog_2040401_Title" korean="힐러리" />
+	<block key="Dialog_2040401_Text0" korean="프리스트만 오세요." />
+	<block key="Dialog_2040401_answer_0_text" korean="프리스트 스킬 배우기" />
+	<block key="Dialog_2040402_Title" korean="판테라" />
+	<block key="Dialog_2040402_Text0" korean="위저드만 오세요." />
+	<block key="Dialog_2040402_answer_0_text" korean="위저드 스킬 배우기" />
+	<block key="Dialog_2040403_Title" korean="옵티무스" />
+	<block key="Dialog_2040403_Text0" korean="가디언만 오세요." />
+	<block key="Dialog_2040403_answer_0_text" korean="가디언 스킬 배우기" />
+	<block key="Dialog_2040404_Title" korean="엑스워드" />
+	<block key="Dialog_2040404_Text0" korean="버서커만 오세요" />
+	<block key="Dialog_2040404_answer_0_text" korean="버서커 스킬 배우기." />
+	<block key="Dialog_2040405_Title" korean="엔샤" />
+	<block key="Dialog_2040405_Text0" korean="네이쳐만 오세요." />
+	<block key="Dialog_2040405_answer_0_text" korean="네이쳐 스킬 배우기" />
+	<block key="Dialog_2040406_Title" korean="크리막스" />
+	<block key="Dialog_2040406_Text0" korean="어쌔신만 오세요." />
+	<block key="Dialog_2040406_answer_0_text" korean="어쌔신 스킬 배우기" />
+	<block key="Dialog_2040601_Title" korean="가렌스" />
+	<block key="Dialog_2040601_Text0" korean="펠로우에 대해서 뭐든 물어보세요." />
+	<block key="Dialog_2040601_answer_0_text" korean="펠로우 용품 상점" />
+	<block key="Dialog_2040601_answer_1_text" korean="펠로우 성장 봉인 해제" />
+	<block key="Dialog_2040601_answer_2_text" korean="펠로우 보유 공간 확장" />
+	<block key="Dialog_2040601_answer_3_text" korean="주변 지역의 지상 펠로우" />
+	<block key="Dialog_2040601_answer_4_text" korean="주변 지역의 비행 펠로우" />
+	<block key="Dialog_2040602_Title" korean="카메로" />
+	<block key="Dialog_2040602_Text0" korean="펠로우에 대해서 뭐든 물어보세요." />
+	<block key="Dialog_2040602_answer_0_text" korean="펠로우 용품 상점" />
+	<block key="Dialog_2040602_answer_1_text" korean="펠로우 성장 봉인 해제" />
+	<block key="Dialog_2040602_answer_2_text" korean="펠로우 보유 공간 확장" />
+	<block key="Dialog_2040602_answer_3_text" korean="주변 지역의 지상 펠로우" />
+	<block key="Dialog_2040602_answer_4_text" korean="주변 지역의 비행 펠로우" />
+	<block key="Dialog_2040603_Title" korean="그렌트" />
+	<block key="Dialog_2040603_Text0" korean="펠로우에 대해서 뭐든 물어보세요." />
+	<block key="Dialog_2040603_answer_0_text" korean="펠로우 용품 상점" />
+	<block key="Dialog_2040603_answer_1_text" korean="펠로우 성장 봉인 해제" />
+	<block key="Dialog_2040603_answer_2_text" korean="펠로우 보유 공간 확장" />
+	<block key="Dialog_2040603_answer_3_text" korean="펠로우 보유 공간 확장" />
+	<block key="Dialog_2040603_answer_5_text" korean="주변 지역의 지상 펠로우" />
+	<block key="Dialog_2040603_answer_6_text" korean="주변 지역의 비행 펠로우" />
+	<block key="Dialog_3040001_Title" korean="선장 빅 버킨" />
+	<block key="Dialog_3040001_Text0" korean="이곳 파르나의 땅에서 여행은 어떠셨는가? 내 배는 이제 막 하카나스 수도성으로 떠날 참인데, 함께 타시겠소?" />
+	<block key="Dialog_3040001_Answer_0_Text" korean="하카나스 수도성으로 이동" />
+	<block key="Dialog_3030801_Title" korean="포탈이동사 세바스찬" />
+	<block key="Dialog_3030801_Text0" korean="저는 이곳 척박한 땅을 개척하는 이들에게 작으나마 도움이 되길 원하고 있지요. 어디로 이동하고 싶으신가요?" />
+	<block key="Dialog_3030801_Answer_0_Text" korean="포탈 이동하기" />
+	<block key="Dialog_3030802_Title" korean="포탈이동사 찰스" />
+	<block key="Dialog_3030802_Text0" korean="이곳 수비대 진지에 있는 이동포탈은 아직 갈대바람 마을 밖에 연결되어 있지 않습니다. 그곳으로 가시겠습니까?" />
+	<block key="Dialog_3030802_Answer_0_Text" korean="포탈 이동하기" />
+	<block key="Dialog_3030803_Title" korean="포탈이동사 다라스" />
+	<block key="Dialog_3030803_Text0" korean="이 이동포탈로 우리는 인간들의 왕국인 하카나스와 연락을 주고 받고 있습니다. 모험자여, 이동하고자 하는 장소를 말해보시오." />
+	<block key="Dialog_3030803_Answer_0_Text" korean="포탈 이동하기" />
+	<block key="Dialog_3030804_Title" korean="포탈이동사 리카툴" />
+	<block key="Dialog_3030804_Text0" korean="모험자여! 그대는 어디로 가려는 것이오?" />
+	<block key="Dialog_3030804_Answer_0_Text" korean="포탈 이동하기" />
+	<block key="Dialog_3030805_Title" korean="포탈이동사 다윈" />
+	<block key="Dialog_3030805_Text0" korean="이곳은 아직 통곡절벽 마을까지 이동할 수 있는 루트 밖에 개척되지 않았습니다. 그곳으로 이동하시겠습니까?" />
+	<block key="Dialog_3030805_Answer_0_Text" korean="포탈 이동하기" />
+	<block key="Dialog_3040801_Title" korean="상급 포탈이동사 세바스찬" />
+	<block key="Dialog_3040801_Text0" korean="하카나스 수도성에는 엘로라 여신의 은총을 받은 강력한 마법력 덕택에 대륙 어디든지 순식간에 이동할 수 있습니다. 가고자 하는 곳을 말해보십시오." />
+	<block key="Dialog_3040801_Answer_0_Text" korean="포탈 이동하기" />
+	<block key="Dialog_3600001_Title" korean="무러미 탐험가 에베트" />
+	<block key="Dialog_3600001_Text0" korean="안녕하십니까, 저는 무러미 탐험가인 에베트입니다. 오랜만에 돌아온 고향이 엉망이 되어 조사하던 중이었습니다. <br> 아무래도 이 혼란의 원인은 이 베일에 싸인 동굴에 있는 것 같습니다. 당신은 인간이니 그나마 라단의 눈에 가까이 다가갈 수 있겠군요. 당신의 힘이 필요합니다." />
+	<block key="Dialog_3600002_Title" korean="무러미 간호사 리세르" />
+	<block key="Dialog_3600002_Text0" korean="수 많은 무러미들이 죽거나 다쳤어요. 어떻게든 그들을 살리고 싶어서 여기까지 왔지만 라단의 눈 때문에 들어갈 수가 없네요. 절 도와주시겠어요?" />
+	<block key="Dialog_3600003_Title" korean="고등 마법사 코우슬로" />
+	<block key="Dialog_3600003_Text0" korean="파를라크 얼음성은 론도를 위한 요새나 마찬가지입니다. 동료들과 함께 진입했지만 결과는 참담했습니다. 크윽… 간신히 도망치긴 했지만 움직이기조차 힘듭니다." />
+	<block key="Dialog_3600004_Title" korean="동굴 앞 라비니 바니라" />
+	<block key="Dialog_3600004_Text0" korean="여행자냥? 우리 초승달 상단은 각 지역에 파견되어 여행자에게 필요한 물건을 공급하고 있당.<br>난 일반적인 물건을 거래하지 않는당.<br><br>나와 거래하고 싶으면 특별한 주화가 필요하당.<br>그 주화가 생기면 언제든 날 찾아와랑!<br>좋은 물건과 바꿔주겠당!" />
+	<block key="Dialog_3600004_Answer_3_Text" korean="라비니 상점" />
+	<block key="Dialog_3600005_Title" korean="영지 앞 라비니 바니라" />
+	<block key="Dialog_3600005_Text0" korean="여행자냥? 우리 초승달 상단은 각 지역에 파견되어 여행자에게 필요한 물건을 공급하고 있당.<br>난 일반적인 물건을 거래하지 않는당.<br><br>나와 거래하고 싶으면 특별한 주화가 필요하당.<br>그 주화가 생기면 언제든 날 찾아와랑!<br>좋은 물건과 바꿔주겠당!" />
+	<block key="Dialog_3600005_Answer_4_text" korean="라비니 상점" />
+	<block key="Dialog_3600100_Title" korean="해적 비스무트" />
+	<block key="Dialog_3600100_Text0" korean="비스무트는 카라드 해적단에서도 성격이 포악하기로 악명 높은 해적입니다. 요새는 바라나크에게 모든 것을 일임하고 정말로 술에 취해 산다고 하더군요. <br> 바라나크를 처리해야만 비스무트의 얼굴이라도 볼 수 있을텐데.. 바라나크도 약한 해적이 아니라서 쉬운 일은 아닙니다." />
+	<block key="Dialog_3600101_Title" korean="사로잡힌 라비니 포포라" />
+	<block key="Dialog_3600101_Text0" korean="내 이름은 라비니 포포라당!<br>여기 좋은 게 있다길래 슬쩍하러…아니아니, 구경만 좀 하러왔다 잡혀버렸당!<br>날 구해주면 좋은 걸 주겠당! 그러니 어서 나를 구해랑!<br>그…그냥 가면 후회할거당! 정말이당! 진짜당!" />
+	<block key="Dialog_3100801_Title" korean="포탈이동사 필립" />
+	<block key="Dialog_3100801_Text0" korean="이 넓고 아름다운 하카나스 대해에 오신 것을 환영합니다. 어디로 이동하고 싶으신가요?" />
+	<block key="Dialog_3100801_Answer_0_Text" korean="포탈 이동하기" />
+	<block key="Dialog_3100802_Title" korean="포탈이동사 해리슨" />
+	<block key="Dialog_3100802_Text0" korean="바엘리스 요새에 오신 것을 환영합니다. 어디로 이동하고 싶으신가요?" />
+	<block key="Dialog_3100802_Answer_0_Text" korean="포탈 이동하기" />
+	<block key="Dialog_2020337_Title" korean="게시판" />
+	<block key="Dialog_2020337_Text0" korean="타도하자 카라드 해적단! 우리는 승리한다!
+<br><br>
+<b>[수비대장 미키 사이볼트]</b>" />
+	<block key="Dialog_1050118_Title" korean="크로쿤 경비병 카오룬" />
+	<block key="Dialog_1050118_Text0" korean="그 드럼통인지 드롱인지 하는 인간놈은 만나봤냐?<br>트로와 누님이 그 놈 때문에 얼마나 고생하시는지 몰라요. 저런 호박같은 놈은 파업해주는게 오히려 고맙다니까! 퉤!" />
+	<block key="Dialog_1050119_Title" korean="경비병 신디" />
+	<block key="Dialog_1050119_Text0" korean="그 로트와일러인지 크로완지 하는 크로쿤은 만나봤어요?<br>광부 대장이 그 크로쿤이랑은 절대 같이 일 안한다고 어찌나 투덜대던지…<br>살다살다 저렇게 박터지게 싸우는 건 또 처음 봤다니까요." />
+	<block key="Dialog_1050120_Title" korean="호위 마법사 에스카" />
+	<block key="Dialog_1050120_Text0" korean="계곡의 일꾼들을 설인에게서 지키는 임무를 받고 수도성에서 파견 나왔는데… 막상 와보니 같은 편끼리 이렇게 박터지게 싸우고 있지 뭐야?<br>설인에게 맞서기는 커녕 백은 생산도 내팽개치고 이 모양이라구. 에휴…" />
+	<block key="Dialog_1050121_Title" korean="광부 대장 드론" />
+	<block key="Dialog_1050121_Text0" korean="살다살다 진짜 저렇게 무지막지한 여자는 처음 봤다!<br>고집이 무슨 황소 뺨치는 미노타우르스급 고집이라니까?!<br>저런 십장생같은 사고방식의 소유자랑 어떻게 같이 일을 하란건지 원!" />
+	<block key="Dialog_1050122_Title" korean="광부 리사" />
+	<block key="Dialog_1050122_Text0" korean="드론아저씨랑 여기 온 지도 꽤 오래됐는데, 내 언젠간 이렇게 터질 줄 알았다니까요.<br>드론아저씨랑 트로와아줌마랑 처음 만났을 때부터 엄청 삐걱댔거든요. 원래는 크로쿤들이랑 한 곳에 같이 머물기로 돼 있었는데, 두 사람이 하도 티격대서 지금 광부들만 따로 나와서 살잖아요. 에휴~" />
+	<block key="Dialog_1050123_Title" korean="크로쿤 장인 트로와" />
+	<block key="Dialog_1050123_Text0" korean="내 살다살다 저렇게 경우없는 털북숭이 인간은 처음 본다. 세상 인간들이 다 저놈처럼 수박같다면 난 미련없이 이 세상을 떠날거다." />
+	<block key="Dialog_1050124_Title" korean="라비니 코로나" />
+	<block key="Dialog_1050124_Text0" korean="뭘 사러왔냥? 없는 거 빼고 다 있당!<br>광부들한테 인기 있는 럼주도 판당!" />
+	<block key="Dialog_1050124_Answer_0_Text" korean="잡화 상점" />
+	<block key="Dialog_1050125_Title" korean="크로쿤 장인 마리아난" />
+	<block key="Dialog_1050125_Text0" korean="인간이 이 곳에 오는 건 오랜만이로군.<br>하지만 우리가 모두 널 환영할거라 생각한다면 오산이다." />
+	<block key="Dialog_1050126_Title" korean="용병 에이든 헤이글" />
+	<block key="Dialog_1050126_Text0" korean="난 원래 이마을 저마을 떠돌며 일하는 용병이지만 고향 마을이 위험하다는 소식을 듣고 돌아왔다.<br>마을을 위협하고 식량을 약탈한 것도 모자라 이젠 살 길마저 막으려 하다니, 저런 놈들은 죽어서도 천벌을 받을 거야!" />
+	<block key="Dialog_1050127_Title" korean="용맹전사 파다칸" />
+	<block key="Dialog_1050127_Text0" korean="크로쿤족의 번영을 위하여!<br>내가 바로 크로쿤족의 용맹전사 파다칸이다!<br>족장이신 투로칸 님의 오른팔이지! 우하하하!<br>지금 아주 중요한 임무로 홀로 부유섬에 가 계시는 투로칸 님을 대신하여 내가 이 마을을 지키고 있다!" />
+	<block key="Dialog_1050128_Title" korean="대사제 푸리스" />
+	<block key="Dialog_1050128_Text0" korean="인간이 여기까지 들어온 건 아이샤 이후로 처음이군요.<br>저는 다른 무러미들처럼 인간을 미워하지는 않습니다. 단지 파르나 여신님이 내려주신 이 축복 가득한 땅을 론도로부터 지키고 싶을 뿐입니다." />
+	<block key="Dialog_9015742_Title" korean="주변 지역의 지상 펠로우" />
+	<block key="Dialog_9015742_Text0" korean="[일반 지상 펠로우]<br>흰눈꽃 순록<br>흰발톱 늑대<br>흰갈기 그리바<br>심줄쟁이 그로스<br>검은색 사우르스" />
+	<block key="Dialog_9015743_Title" korean="주변 지역의 비행 펠로우" />
+	<block key="Dialog_9015743_Text0" korean="[일반 비행 펠로우]<br>라이쿠 500m<br>은빛 슬레이드 550m<br>하얀날개 아마란스 650m" />
+	<block key="Dialog_9015744_Title" korean="주변 지역의 지상 펠로우" />
+	<block key="Dialog_9015744_Text0" korean="[일반 지상 펠로우]<br>약삭빠른 푸른 늑대<br>사나운 푸른 늑대" />
+	<block key="Dialog_9015744_Text0_attach_0" korean="<br><br>[정예 지상 펠로우]<br>늑대왕 라샤카<br>아이스 하운드<br>프로즌 사우르스" />
+	<block key="Dialog_9015745_Title" korean="주변 지역의 비행 펠로우" />
+	<block key="Dialog_9015745_Text0" korean="[일반 비행 펠로우]<br>혹한의 비명새 600m<br>폭풍의 드레이크 600m" />
+	<block key="Dialog_9015745_Text0_attach_0" korean="<br><br>[정예 비행 펠로우]<br>마룡 스트라이거 600m" />
+	<block key="Dialog_9015746_Title" korean="주변 지역의 지상 펠로우" />
+	<block key="Dialog_9015746_Text0" korean="[일반 지상 펠로우]<br>흉폭한 회색곰<br>길들여진 설원 호랑이<br>회색 샤우벨<br>거친발톱 라이거<br>설원호랑이<br>얼음사자<br>숲지기 레디어<br>얼음독 거미<br>살얼음 거북" />
+	<block key="Dialog_9015746_Text0_attach_0" korean="<br><br>[정예 지상 펠로우]<br>광폭한 우루<br>눈보라 늑대<br>난폭한 블래크<br>얼음송곳니 크루거<br>서리꽃 레이도스" />
+	<block key="Dialog_9015747_Title" korean="주변 지역의 비행 펠로우" />
+	<block key="Dialog_9015747_Text0" korean="[일반 비행 펠로우]<br>눈바람 와이번 600m<br>흰털 올빼미 600m<br>서리 와이번 700m" />
+	<block key="Dialog_9015747_Text0_attach_0" korean="<br><br>[정예 비행 펠로우]<br>매서운 부리 로도스 750m<br>냉혹한 서리뼈 와이번 900m" />
+	<block key="Dialog_1030005_Title" korean="파를라크 야영지 게시판" />
+	<block key="Dialog_1030005_Text0" korean="서리군단과 맞서기 위해서는 도움의 손길이 필요합니다." />
+	<block key="Dialog_2021801_Title" korean="엘룬 상인" />
+	<block key="Dialog_2021801_Text0" korean="어서 와랑! 혹시 엘룬 가지고 있냥?<br>그럼 대환영이당!<br>일반 상점에선 구경조차 못하는 물건들을 보여주겠당!<br>한 번 천천히 둘러봐랑.<br>물론 엘룬이 없는 사람에겐 팔지 않는당.<br>" />
+	<block key="Dialog_2021801_answer_0_text" korean="엘룬 상점" />
+	<block key="Dialog_2021801_answer_1_text" korean="품질에 대한 자신감" />
+	<block key="Dialog_9015764_Title" korean="품질에 대한 자신감" />
+	<block key="Dialog_9015764_Text0" korean="우리 엘룬 판매상 조합은 절대 인간들처럼 구리구리한 물건 따위 취급하지 않는당.<br>품질을 의심하는 자는 인간밖에 없당. 의심 나쁘당!<br>우리 엘룬 판매상 조합이 제공하는 물건은 모두 미들라스 제일이당! 확실하당!" />
+	<block key="Dialog_9015775_Title" korean="고든 스테일" />
+	<block key="Dialog_9015775_Text0" korean="예전엔 이곳도 활기넘치는 마을이었는데..<br>해적단의 습격이 시작되면서 모든 것이 엉망이 되었어.<br>선박 건조에 필요한 나무를 공급하던 내 일도 덩달아 사라져버렸고 말이야. 망할 해적놈들." />
+	<block key="Dialog_1050129_Title" korean="견습 마법사 시오네" />
+	<block key="Dialog_1050129_Text0" korean="우리 진리의 마법사는 당신이 라단의 눈을 물리칠 적임자란 사실을 믿어 의심치 않습니다." />
+	<block key="Dialog_1050129_answer_0_text" korean="라단의 눈" />
+	<block key="Dialog_9020030_Title" korean="라단의 눈" />
+	<block key="Dialog_9020030_Text0" korean="라단의 눈은 무러미를 타락시키는 원흉이자 변절자의 늪지가 생긴 원인입니다.<br>라단의, 아니 고대 반신의 눈... 우리 진리의 마법사가 이 동굴까지 파견된 것은 바로 그것을 물리치기 위함이죠." />
+	<block key="Dialog_9015776_Title" korean="트라이거트" />
+	<block key="Dialog_9015776_Text0" korean="무슨 일이십니까?<br>이곳은 여행자들이 다니기에는 위험한 지역입니다.<br> 보다시피 통곡절벽 마을로 가는 길은 산사태로 무너졌고 또 어디서 이런 일이 일어날지 알 수 없죠.<br><br>지역 주민이나 여행자들의 안전을 위해 최선을 다하여 복구 작업을 진행할 생각입니다." />
+	<block key="Dialog_9015777_Title" korean="그루버" />
+	<block key="Dialog_9015777_Text0" korean="파르나의 땅은 제 고향입니다.<br>이런 산사태는 사실 많이 겪어봐서 대처방법쯤은 잘 알고있습니다. 두고 보십시오.<br><br>제가 반드시 예전 모습으로 되돌릴테니 말입니다." />
+	<block key="Dialog_9015778_Title" korean="미네" />
+	<block key="Dialog_9015778_Text0" korean="최근 산사태가 연달아 발생하고 있어 광부들 사이에 불안감이 조성되고 있어요.<br>상황이 눈으로 보이는 것보다 더 심각할 수도 있다는 생각 말이죠. 자연 현상이 아니라 다른 무엇인가의 힘이 작용했다는 소문마저 돌고 있는 상황이니..<br><br>그저 사태가 심각해지지 않았으면 좋겠습니다." />
+	<block key="Dialog_2021602_Title" korean="무기제작기술자 블렉스(갈대바람마을)" />
+	<block key="Dialog_2021602_Text0" korean="무기 제작 기술은 아무나 배울 수 있는게 아니라우!" />
+	<block key="Dialog_2021602_answer_0_text" korean="무기 제작 기술 단계 올리기" />
+	<block key="Dialog_2021603_Title" korean="방어구제작기술자 플레튼(갈대바람마을)" />
+	<block key="Dialog_2021603_Text0" korean="방어구를 만들 줄 아는 것은 단언컨대 가장 큰 축복이죠." />
+	<block key="Dialog_2021603_answer_0_text" korean="방어구 제작 기술 단계 올리기" />
+	<block key="Dialog_2021604_Title" korean="펠로우연구학자 테이런트(갈대바람마을)" />
+	<block key="Dialog_2021604_Text0" korean="강한 펠로우를 얻고 싶다고 이 펠로우 저 펠로우 길들이는 방법은 추천하지 않아.<br>왜 사람들은 꼭 내 펠로우가 약하다고만 생각하지?<br>펠로우 연구기술을 꾸준히 지속하면 어떤 펠로우도 충분히 강해질 수 있다고." />
+	<block key="Dialog_2021604_answer_0_text" korean="펠로우 연구 단계 올리기" />
+	<block key="Dialog_2021605_Title" korean="장신구기술자 루빈 트와로브(갈대바람마을)" />
+	<block key="Dialog_2021605_Text0" korean="아름다움은 사람을 돋보이게 해주죠. 간편하면서도 세련되고, 독특한 느낌을 가진 장신구가 필요하지 않나요?<br>장신구 제작 기술이라면 얼마든지 가능한 일이라고 생각해요." />
+	<block key="Dialog_2021605_answer_0_text" korean="장신구 기술 단계 올리기" />
+</blocks>

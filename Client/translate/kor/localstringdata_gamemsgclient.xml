@@ -1,0 +1,1260 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="GMC_0" korean="교체 스킬은 이동 중에는 사용할 수 없습니다." />
+	<block key="GMC_1" korean="재사용 대기 중입니다." />
+	<block key="GMC_2" korean="서버와 접속이 종료되었습니다." />
+	<block key="GMC_3" korean="필요한 에너지가 부족합니다." />
+	<block key="GMC_4" korean="네드인이 사망했습니다. 숫자 0번 부활키를 눌러주세요." />
+	<block key="GMC_5" korean="펠로우가 사망했습니다. 부활 스킬을 사용하세요." />
+	<block key="GMC_6" korean="잘못된 타겟입니다." />
+	<block key="GMC_7" korean="교체 스킬은 죽은 상태에서는 사용할 수 없습니다." />
+	<block key="GMC_8" korean="네드인은 교체할 수 없습니다." />
+	<block key="GMC_9" korean="타겟 선택이 필요합니다." />
+	<block key="GMC_19" korean="착용 가능한 레벨이 아닙니다." />
+	<block key="GMC_20" korean="아이템을 끌어서 교체할 수 있습니다." />
+	<block key="GMC_21" korean="거래 가능한 소지금이 없습니다." />
+	<block key="GMC_22" korean="버릴 수 없는 아이템 입니다." />
+	<block key="GMC_23" korean="연결 가능한 펠로우가 없습니다." />
+	<block key="GMC_24" korean="아이템을 팔 수 없습니다." />
+	<block key="GMC_25" korean="관련 아이템이 착용되어 있지 않습니다." />
+	<block key="GMC_26" korean="내구력이 0 입니다." />
+	<block key="GMC_27" korean="아이템이 가능 레벨이 아닙니다." />
+	<block key="GMC_28" korean="결속 파워가 부족합니다." />
+	<block key="GMC_29" korean="결속 아이템이 없습니다." />
+	<block key="GMC_30" korean="아이템을 착용 할 수 없는 상태입니다." />
+	<block key="GMC_31" korean="정제 할 수 있는 갯수를 초과 입력 하셨습니다." />
+	<block key="GMC_32" korean="생산 할 수 있는 갯수를 초과 입력 하셨습니다." />
+	<block key="GMC_33" korean="필요한 아이템 개수가 부족합니다." />
+	<block key="GMC_35" korean="착용 가능한 직업이 아닙니다." />
+	<block key="GMC_36" korean="착용 및 사용 가능한 능력치가 부족합니다." />
+	<block key="GMC_37" korean="전투 중에는 방어구 아이템을 착용 할 수 없습니다." />
+	<block key="GMC_38" korean="전투 중에는 방어구 아이템을 탈착 할 수 없습니다." />
+	<block key="GMC_39" korean="[ItemName] 아이템을 [ItemCount]개 획득했습니다." />
+	<block key="GMC_40" korean="[ItemName] 아이템을 삭제했습니다." />
+	<block key="GMC_41" korean="[ItemName] 아이템이 [ItemCount]개 줄었습니다." />
+	<block key="GMC_42" korean="착용 위치가 맞지 않습니다." />
+	<block key="GMC_43" korean="슬롯을 확장하시겠습니까?" />
+	<block key="GMC_44" korean="[Cost]이 소모됩니다." />
+	<block key="GMC_45" korean="적당한 위치가 아닙니다." />
+	<block key="GMC_46" korean="동작 중에는 아이템을 착용/교체 할 수 없습니다." />
+	<block key="GMC_47" korean="챠지 중에는 아이템을 사용할 수 없습니다." />
+	<block key="GMC_48" korean="사용 할 수 없는 대상입니다." />
+	<block key="GMC_49" korean="[ItemName] 아이템을 사용하시겠습니까?" />
+	<block key="GMC_50" korean="[WeaponType] 종류가 이미 착용 중입니다." />
+	<block key="GMC_71" korean="거래할 수 없는 아이템입니다." />
+	<block key="GMC_73" korean="[Target]님이 거래를 요청하셨습니다. 수락하시겠습니까?" />
+	<block key="GMC_100" korean="휴식지역 캐릭터 표현제한 모드가 적용되었습니다. ([ShortcutKey])" />
+	<block key="GMC_101" korean="휴식지역 캐릭터 표현제한 모드가 해제되었습니다. ([ShortcutKey])" />
+	<block key="GMC_102" korean="RTS 카메라 모드가 적용될 수 없는 장소입니다." />
+	<block key="GMC_139" korean="[GaugeParam]가 [Value]개 미만일 때만 사용할 수 있습니다." />
+	<block key="GMC_140" korean="더 이상 레벨을 상승시킬 수 없습니다." />
+	<block key="GMC_141" korean="수련 펠로우는 스킬을 배울수 없습니다." />
+	<block key="GMC_142" korean="현재 무기로는 사용 할 수 없는 스킬입니다." />
+	<block key="GMC_143" korean="무기를 착용하지 않은 상태에서는 사용 할 수 없는 스킬입니다." />
+	<block key="GMC_144" korean="[GaugeParam]가 부족하여 사용할 수 없습니다." />
+	<block key="GMC_145" korean="[GaugeParam]게이지가 [Value]이상일 때만 사용할 수 있습니다." />
+	<block key="GMC_146" korean="[GaugeParam]게이지가 [Value]이하일 때만 사용할 수 있습니다." />
+	<block key="GMC_147" korean="스킬 포인트가 부족합니다." />
+	<block key="GMC_148" korean="스킬을 적용할 타겟이 설정되어 있지 않습니다." />
+	<block key="GMC_149" korean="부활 시킬 펠로우가 존재하지 않습니다." />
+	<block key="GMC_150" korean="이동 중에는 사용할 수 없는 스킬 입니다." />
+	<block key="GMC_151" korean="전역 재사용 시간이 진행 중입니다." />
+	<block key="GMC_152" korean="[SkillName]에 대한 [TimeType]이 진행 중입니다." />
+	<block key="GMC_153" korean="재사용 시간이 진행 중입니다." />
+	<block key="GMC_154" korean="배울 수 있는 스킬 슬롯이 없습니다." />
+	<block key="GMC_155" korean="교체할 펠로우가 없습니다." />
+	<block key="GMC_156" korean="스킬 사용 중에는 움직 일 수 없습니다." />
+	<block key="GMC_157" korean="[UserName]님은 배울 수 없는 직업 스킬입니다." />
+	<block key="GMC_158" korean="사정거리가 너무 가깝습니다." />
+	<block key="GMC_159" korean="링크된 스킬의 레벨이 낮습니다." />
+	<block key="GMC_160" korean="해당 스킬을 배우기 위해서는 링크되어 있는 스킬을 먼저 배워야 합니다." />
+	<block key="GMC_161" korean="누적 스킬 포인트가 부족합니다." />
+	<block key="GMC_162" korean="투명화 상태가 아니면 사용할수 없는 스킬입니다." />
+	<block key="GMC_163" korean="타겟이 스킬 사용 시야각 안에 없습니다." />
+	<block key="GMC_164" korean="공격방향이 맞지 않습니다." />
+	<block key="GMC_165" korean="[SkillName] 스킬이 활성화되었습니다." />
+	<block key="GMC_166" korean="해당 스킬은 전투상태일 때는 사용할 수 없습니다." />
+	<block key="GMC_167" korean="해당 스킬은 비전투상태일 때는 사용할 수 없습니다." />
+	<block key="GMC_168" korean="해당 스킬이 비활성화 되어 있어서 사용할 수 없습니다." />
+	<block key="GMC_169" korean="해당 스킬은 투명화 상태에서만 사용 할 수 있습니다." />
+	<block key="GMC_170" korean="패시브 스킬입니다." />
+	<block key="GMC_171" korean="거리가 멀어 사용할 수 없습니다." />
+	<block key="GMC_172" korean="선택한 대상은 현재 스킬을 적용할 수 없는 상태입니다." />
+	<block key="GMC_173" korean="대상과의 거리가 맞지 않습니다." />
+	<block key="GMC_174" korean="챠지가 취소 되었습니다." />
+	<block key="GMC_175" korean="공중에서 사용할 수 없습니다." />
+	<block key="GMC_176" korean="시전 중 이동할 수 없는 스킬입니다." />
+	<block key="GMC_177" korean="펠로우가 소환되어 있지 않습니다." />
+	<block key="GMC_178" korean="소환된 펠로우의 스킬이 아닙니다." />
+	<block key="GMC_179" korean="시전 지역을 선택하세요." />
+	<block key="GMC_180" korean="대상이 시야에 없어 해당 스킬을 사용할 수 없습니다." />
+	<block key="GMC_181" korean="장애물로 인해 해당 스킬을 사용할 수 없습니다." />
+	<block key="GMC_300" korean="사용가능한 시간이 되지 않았습니다." />
+	<block key="GMC_401" korean="탑승 중에는 감정표현을 할 수 없습니다." />
+	<block key="GMC_402" korean="사망 상태에서는 할 수 없는 행동입니다." />
+	<block key="GMC_500" korean="사용할 수 없는 이름입니다." />
+	<block key="GMC_501" korean="더 이상 캐릭터를 생성할 수 없습니다." />
+	<block key="GMC_600" korean="/같은장소에 10초이상 머물다가 처음 이동할 때에만 음성출력" />
+	<block key="GMC_601" korean="/기존의 펠로우를 대기 중에 3번재 펠로우로 교체할때" />
+	<block key="GMC_602" korean="/펠로우의 생명력이 10%이하로 떨어질대" />
+	<block key="GMC_603" korean="/스페이스바를 눌러서 펠로우를 모을때" />
+	<block key="GMC_604" korean="/대기상태인 3번째 펠로우의 스킬 사용버튼을 눌렀을때" />
+	<block key="GMC_605" korean="/전투불능 상태에서 부활할때" />
+	<block key="GMC_606" korean="/내 펠로우가 아닌 펠로우를 3번이상연속으로 클릭했을때" />
+	<block key="GMC_607" korean="/대기 상태에서 전투상태로 변활때" />
+	<block key="GMC_608" korean="/생성스킬이나 잠재스킬등 강력한 스킬을 펠로우가 사용했을때" />
+	<block key="GMC_700" korean="변경된 일부 항목은 재 시작시 적용 됩니다." />
+	<block key="GMC_701" korean="옵션을 기본값으로 설정하시겠습니까?" />
+	<block key="GMC_800" korean="파티를 해체합니다." />
+	<block key="GMC_801" korean="파티를 탈퇴했습니다." />
+	<block key="GMC_802" korean="[Target]님이 파티에 초대했습니다." />
+	<block key="GMC_803" korean="[Target]님이 파티초대를 거절했습니다." />
+	<block key="GMC_804" korean="[Target]님이 탈퇴했습니다." />
+	<block key="GMC_805" korean="[Target]님이 추방당했습니다." />
+	<block key="GMC_806" korean="모든 플레이어가 제한없이 아이템을 획득할 수 있습니다." />
+	<block key="GMC_807" korean="모든 플레이어가 순서대로 돌아가며 아이템을 획득합니다." />
+	<block key="GMC_808" korean="한명의 담당자를 정해서 아이템을 획득하게 합니다." />
+	<block key="GMC_809" korean="모든 아이템을 아이템 획득 방식에서 정한 방식에 따라 획득합니다." />
+	<block key="GMC_810" korean="희귀 이상의 아이템을 아이템 획득 방식에서 정한 방식에 따라 획득합니다." />
+	<block key="GMC_811" korean="영웅 이상의 아이템을 아이템 획득 방식에서 정한 방식에 따라 획득합니다." />
+	<block key="GMC_812" korean="전설 이상의 아이템을 아이템 획득 방식에서 정한 방식에 따라 획득합니다." />
+	<block key="GMC_813" korean="파티관련 정보가 변경되었습니다." />
+	<block key="GMC_814" korean="파티가 해체 되었습니다." />
+	<block key="GMC_815" korean="[Target]님으로 파티장이 변경되었습니다." />
+	<block key="GMC_816" korean="일반 이상의 아이템을 아이템 획득 방식에서 정한 방식에 따라 획득합니다." />
+	<block key="GMC_817" korean="[Target]님이 파티/공격대에 참가했습니다." />
+	<block key="GMC_818" korean="[ItemName] 아이템의 주사위 굴리기에 참여하시겠습니까?" />
+	<block key="GMC_819" korean="[UserName]님이 [Number] 숫자를 굴리셨습니다." />
+	<block key="GMC_820" korean="[UserName]님이 주사위 굴리기를 포기하셨습니다." />
+	<block key="GMC_821" korean="아이템 획득방식이 변경되었습니다." />
+	<block key="GMC_822" korean="[Level]레벨을 달성했습니다." />
+	<block key="GMC_823" korean="[Target]님께 파티를 신청하였습니다." />
+	<block key="GMC_824" korean="[Target]님이 파티에 지원했습니다.
+수락하시겠습니까?" />
+	<block key="GMC_825" korean="[Target]님이 공격대에 지원하셨습니다.
+수락하시겠습니까?" />
+	<block key="GMC_826" korean="[Target]님이 소환 요청을 하셨습니다.<br>수락하시겠습니까?" />
+	<block key="GMC_827" korean="[Target]님이 탑승을 신청하였습니다.<br>수락하시겠습니까?<br>(남은 자리 : [Second])" />
+	<block key="GMC_828" korean="[Target]님이 탑승을 요청하셨습니다. 수락하시겠습니까?" />
+	<block key="GMC_829" korean="[Target]님이 당신의 탑승 요청을 거절 했습니다." />
+	<block key="GMC_830" korean="[Target]님께 보낸 탑승 요청의 응답 대기시간이 지났습니다." />
+	<block key="GMC_831" korean="[Target]님이 탑승 초대를 거절 했습니다." />
+	<block key="GMC_832" korean="[Target]님께 보낸 탑승 초대의 응답 대기시간이 지났습니다." />
+	<block key="GMC_850" korean="[Target]님이 당신을 공격대에 초대했습니다." />
+	<block key="GMC_851" korean="[Target]님께 공격대를 신청했습니다." />
+	<block key="GMC_852" korean="전투 준비가 완료 되었습니까?" />
+	<block key="GMC_900" korean="가방에 오르추출기가 없습니다." />
+	<block key="GMC_1000" korean="네드인만 수집이 가능합니다." />
+	<block key="GMC_1001" korean="[Target]님이 [QuestName] 호위 퀘스트를 시작합니다. 수락하시겠습니까?" />
+	<block key="GMC_1002" korean="[QuestName] 퀘스트가 완료되었습니다." />
+	<block key="GMC_1003" korean="[QuestName] 퀘스트가 실패되었습니다. 퀘스트를 취소하고 다시 받으세요." />
+	<block key="GMC_1004" korean="[NpcName] 대화하기" />
+	<block key="GMC_1005" korean="[QuestName] 퀘스트를 수락했습니다." />
+	<block key="GMC_1006" korean="[QuestName] 퀘스트를 완료했습니다." />
+	<block key="GMC_1007" korean="[QuestName] 퀘스트를 취소했습니다." />
+	<block key="GMC_1008" korean="[UserName]님이 [QuestName] 퀘스트를 공유 할 수 없습니다." />
+	<block key="GMC_1009" korean="[QuestName] 퀘스트가 공유되었습니다. 수락하시겠습니까?" />
+	<block key="GMC_1010" korean="퀘스트를 수행할 수 없는 상태입니다." />
+	<block key="GMC_1011" korean="선택 가능한 아이템을 다시 선택해 주세요." />
+	<block key="GMC_1012" korean="선택 가능한 아이템은 [ItemCount]개 입니다." />
+	<block key="GMC_2100" korean="[Target]님이 결투를 신청했습니다.
+수락하시겠습니까?" />
+	<block key="GMC_2101" korean="[Target]님에게 결투를 신청했습니다." />
+	<block key="GMC_2102" korean="[Target]님이 결투 신청을 거절했습니다." />
+	<block key="GMC_2103" korean="결투 응답 시간이 초과되어 결투가 취소되었습니다." />
+	<block key="GMC_2104" korean="결투에서 승리했습니다." />
+	<block key="GMC_2105" korean="결투에서 패배했습니다." />
+	<block key="GMC_2106" korean="결투 지역을 벗어났습니다." />
+	<block key="GMC_2107" korean="[Winner]님이 [Loser]님과의 결투에서 승리했습니다." />
+	<block key="GMC_2108" korean="거리가 멀어 결투를 신청할 수 없습니다." />
+	<block key="GMC_2109" korean="결투가 취소되었습니다." />
+	<block key="GMC_2110" korean="결투 대상과 거리가 멀어 결투가 취소되었습니다." />
+	<block key="GMC_2111" korean="전투 중에는 일반 상태로 전환할 수 없습니다." />
+	<block key="GMC_2112" korean="결투 신청을 거절했습니다." />
+	<block key="GMC_2200" korean="[Target]님의 사냥이 시작되었습니다." />
+	<block key="GMC_2201" korean="[Target]님이 학살 중입니다." />
+	<block key="GMC_2202" korean="[Target]님이 피의 축제를 선포했습니다." />
+	<block key="GMC_2203" korean="[Target]님의 사냥이 저지되었습니다." />
+	<block key="GMC_2204" korean="[Target]님의 학살이 제압되었습니다." />
+	<block key="GMC_2205" korean="[Target]님의 피의 축제가 종결되었습니다." />
+	<block key="GMC_2206" korean="[Target]님이 절대적인 힘을 얻었습니다." />
+	<block key="GMC_2207" korean="[Target]님의 절대적인 힘이 소멸되었습니다." />
+	<block key="GMC_2208" korean="사냥을 저지하여 보너스 연속 킬 수가 [Value] 증가했습니다." />
+	<block key="GMC_2209" korean="학살을 제압하여 보너스 연속 킬 수가 [Value] 증가했습니다." />
+	<block key="GMC_2210" korean="피의 축제를 종결지어 보너스 연속 킬 수가 [Value] 증가했습니다." />
+	<block key="GMC_2211" korean="절대자를 소멸시켜 보너스 연속 킬 수가 [Value] 증가했습니다." />
+	<block key="GMC_3000" korean="이동 불가 상태입니다." />
+	<block key="GMC_3001" korean="액션 블가 상태입니다." />
+	<block key="GMC_3002" korean="공포 상태 입니다." />
+	<block key="GMC_4000" korean="같은 계정의 접속으로 인해 강제 종료되었습니다." />
+	<block key="GMC_4001" korean="서비스 운영에 의해 강제 종료되었습니다." />
+	<block key="GMC_4002" korean="프로그램 오류에 의해 강제 종료되었습니다." />
+	<block key="GMC_4003" korean="장기간 대기로 인해 강제 종료되었습니다." />
+	<block key="GMC_4004" korean="기타 사유에 의해 강제 종료되었습니다." />
+	<block key="GMC_4005" korean="이미 접속 중입니다." />
+	<block key="GMC_4006" korean="접속에 실패했습니다." />
+	<block key="GMC_4007" korean="로그인 서버와 연결할 수 없습니다. 잠시 후 다시 접속해 주세요." />
+	<block key="GMC_4008" korean="게임 서버와 연결할 수 없습니다. 잠시 후 다시 접속해 주세요." />
+	<block key="GMC_4009" korean="접속 처리 순서와 관련된 문제가 발생했습니다." />
+	<block key="GMC_4010" korean="존재하지 않는 아이디입니다." />
+	<block key="GMC_4011" korean="잘못된 비밀번호입니다." />
+	<block key="GMC_4012" korean="블럭된 아이디입니다." />
+	<block key="GMC_4013" korean="블럭된 계정입니다." />
+	<block key="GMC_4014" korean="게임 유저가 아닙니다." />
+	<block key="GMC_4015" korean="다른 곳에서 같은 계정이 접속 중입니다." />
+	<block key="GMC_4016" korean="DB 쿼리 문제가 발생했습니다." />
+	<block key="GMC_4017" korean="계정이 최대치입니다." />
+	<block key="GMC_4018" korean="메인 서버와 연결 중이 아닙니다." />
+	<block key="GMC_4019" korean="최대 입장 제한 유저 수를 초과했습니다." />
+	<block key="GMC_4020" korean="잘못된 패킷입니다." />
+	<block key="GMC_4021" korean="알 수 없는 에러가 발생했습니다." />
+	<block key="GMC_4022" korean="채널 입장에 실패했습니다." />
+	<block key="GMC_4023" korean="DB 관련 문제가 발생했습니다." />
+	<block key="GMC_4024" korean="캐릭터 생성 개수가 최대치입니다." />
+	<block key="GMC_4025" korean="존재하지 않는 캐릭터입니다." />
+	<block key="GMC_4026" korean="캐릭터 이름을 입력해 주세요.
+한글 2~8자(영문 2~16자)까지 생성 가능합니다" />
+	<block key="GMC_4027" korean="모두 숫자, 특수문자, 금지어는 사용할 수 없습니다.
+한글 2~8자, 영문 4~16자로 다시 입력해 주십시요." />
+	<block key="GMC_4028" korean="[Slang] 단어는 금지어라 사용할 수 없습니다." />
+	<block key="GMC_4029" korean="두번째 다운로드 시도 중입니다." />
+	<block key="GMC_4030" korean="등록된 월드가 아닙니다." />
+	<block key="GMC_4031" korean="작동 중인 월드가 아닙니다." />
+	<block key="GMC_4032" korean="같은 월드를 선택하였습니다." />
+	<block key="GMC_4033" korean="선택한 월드의 유저가 포화상태입니다." />
+	<block key="GMC_4034" korean="블럭유저 입니다." />
+	<block key="GMC_4035" korean="패킷오류가 발생하였습니다." />
+	<block key="GMC_4036" korean="시스템적인 에러가 발생하였습니다." />
+	<block key="GMC_4037" korean="로그인 인증 서버와 연결이 끊어졌습니다. 게임을 종료합니다." />
+	<block key="GMC_4038" korean="게임 서버와 연결이 끊어졌습니다. 게임을 종료합니다." />
+	<block key="GMC_4039" korean="비밀번호는 2-20자리까지 가능 합니다." />
+	<block key="GMC_4040" korean="아이디는 2-20자리까지 가능 합니다." />
+	<block key="GMC_5000" korean="명령 인자 개수가 틀립니다(초과)" />
+	<block key="GMC_5001" korean="명령 인자 개수가 틀립니다(미만)" />
+	<block key="GMC_5002" korean="명령어가 적합하지 않습니다. 대/소문자를 확인하세요." />
+	<block key="GMC_5003" korean="첫번째 인자값이 적합하지 않습니다." />
+	<block key="GMC_5004" korean="두번째 인자값이 적합하지 않습니다." />
+	<block key="GMC_5005" korean="세번째 인자값이 적합하지 않습니다." />
+	<block key="GMC_5006" korean="두번째 혹은 세번째 인자값이 적합하지 않습니다." />
+	<block key="GMC_6000" korean="%s(제작가능횟수:%d)#제작비용: %d골드 %d실버 %d쿠퍼" />
+	<block key="GMC_6001" korean=" %s# 강화비용:%d골드 %d실버 %d쿠퍼#현재 아이템을 강화 하시겠습니까?" />
+	<block key="GMC_6002" korean="필요 금액 : %d골드 %d실버 %d쿠퍼 정말로 해당 금액을 사용하여 형질을 배우시겠습니까?" />
+	<block key="GMC_6003" korean="%s(정제가능횟수:%d)#정제비용: %d골드 %d실버 %d코퍼" />
+	<block key="GMC_6004" korean="%s#판매가: %d골드 %d실버 %d코퍼" />
+	<block key="GMC_6005" korean="해당 스킬을 배우기 위해서는 [BuyMoney]가 필요합니다. 배우시겠습니까?" />
+	<block key="GMC_6006" korean="획득할 아이템이 없습니다!" />
+	<block key="GMC_6007" korean="보상을 선택해야 합니다." />
+	<block key="GMC_6008" korean="비밀번호를 입력해 주세요." />
+	<block key="GMC_6009" korean="캐릭터를 삭제하려면 [Key]를 입력해 주세요." />
+	<block key="GMC_6010" korean="고객님의 확인을 위해서 한번 더 비밀번호를 입력해 주세요." />
+	<block key="GMC_6011" korean="선택하신 캐릭터의 삭제가 실패 했습니다." />
+	<block key="GMC_6012" korean="선택하신 캐릭터의 삭제가 완료 되었습니다." />
+	<block key="GMC_6013" korean="부활버튼을 누르거나 제한시간이 지나면
+가장 가까운 부활위치에서 부활합니다." />
+	<block key="GMC_6014" korean="(일반/시스템) 탭은 삭제할 수 없습니다." />
+	<block key="GMC_6015" korean="당신은 사망했습니다. [Time] 뒤에 가장 가까운 부활 장소에서 부활합니다." />
+	<block key="GMC_6016" korean="(일반/시스템) 탭은 삭제할 수 없습니다." />
+	<block key="GMC_6017" korean="채팅창 이름은 중복될 수 없습니다." />
+	<block key="GMC_6018" korean="채팅창 이름을 입력해 주십시요." />
+	<block key="GMC_6019" korean="올바른 값을 입력해 주십시요." />
+	<block key="GMC_6020" korean="선택한 아이템을 제작하기 위한 재료가 부족합니다." />
+	<block key="GMC_6021" korean="%s#(소지갯수: %d / 필요갯수: %d)" />
+	<block key="GMC_6022" korean="현재 정제 할수 있는 아이템이 부족합니다." />
+	<block key="GMC_6023" korean="[Target](으)로 이동 하시겠습니까?" />
+	<block key="GMC_6024" korean="해당 지점과 연결되는 경로가 없습니다." />
+	<block key="GMC_6025" korean="소지금이 부족합니다." />
+	<block key="GMC_6026" korean="현재 위치의 비행선 경로를 추가 하시겠습니까?" />
+	<block key="GMC_6027" korean="%s 레벨데이타가 없습니다." />
+	<block key="GMC_6028" korean="%s 레벨데이타가 없습니다.<br><br>게임을 종료합니다." />
+	<block key="GMC_6029" korean="사용할 수 없는 이름입니다." />
+	<block key="GMC_6030" korean="사용할 수 없는 이름입니다." />
+	<block key="GMC_6031" korean="사용할 수 없는 이름입니다." />
+	<block key="GMC_6032" korean="사용할 수 없는 이름입니다." />
+	<block key="GMC_6033" korean="사용할 수 없는 이름입니다." />
+	<block key="GMC_6034" korean="사용할 수 없는 이름입니다." />
+	<block key="GMC_6035" korean="사용할 수 없는 이름입니다." />
+	<block key="GMC_6036" korean="사용할 수 없는 이름입니다." />
+	<block key="GMC_6037" korean="공백/특수문자/비속어를 포함하지 않은 2-40자리까지 가능 합니다." />
+	<block key="GMC_6038" korean="2-40자리까지 가능 합니다." />
+	<block key="GMC_6039" korean="한글 2~8자, 영문 4~16자로 이름을 입력해 주십시요." />
+	<block key="GMC_6040" korean="현재 준비 중입니다." />
+	<block key="GMC_6041" korean="게임을 종료하시겠습니까?" />
+	<block key="GMC_6042" korean="[$4ItemName$o]아이템을 파괴하시겠습니까?" />
+	<block key="GMC_6043" korean="아이템 분류를 선택해 주세요." />
+	<block key="GMC_6044" korean="중복된 키가 존재 합니다." />
+	<block key="GMC_6045" korean="[Target]님이 게임을 종료하셨습니다." />
+	<block key="GMC_6046" korean="[Target]님이 게임에 접속하셨습니다." />
+	<block key="GMC_6047" korean="[Region] 지역을 발견했습니다." />
+	<block key="GMC_6048" korean="[Target]님이 초대를 거절하였습니다." />
+	<block key="GMC_6049" korean="[Target]님께 보낸 초대가 응답 대기시간이 지났습니다." />
+	<block key="GMC_6050" korean="[Param] [ChangeValue] 감소" />
+	<block key="GMC_6051" korean="[Param] [ChangeValue] 증가" />
+	<block key="GMC_6052" korean="[BuffName] 버프가 적용되었습니다." />
+	<block key="GMC_6053" korean="[BuffName] 버프가 해제되었습니다." />
+	<block key="GMC_6054" korean="[Param] 상태가 적용되었습니다." />
+	<block key="GMC_6055" korean="[Param] 상태가 해제되었습니다." />
+	<block key="GMC_6056" korean="[Year] [Month] [Day] [Time] [Minute] [Second]" />
+	<block key="GMC_6057" korean="[Day] [Time] [Minute] [Second]" />
+	<block key="GMC_6058" korean="귀환위치로 지정하시겠습니까?" />
+	<block key="GMC_6059" korean="귀환위치로 지정할 수 없습니다." />
+	<block key="GMC_6060" korean="[Name] 지역이 귀환위치로 지정되었습니다" />
+	<block key="GMC_6061" korean="사용할 수 있는 이름입니다." />
+	<block key="GMC_6062" korean="[ItemName] 아이템이 필요합니다." />
+	<block key="GMC_6063" korean="[MonName] 몬스터가 [MyName]의 추적을 포기했습니다." />
+	<block key="GMC_6064" korean="스킬포인트가 [Count] 증가했습니다." />
+	<block key="GMC_6065" korean="가방을 착용할 수 없습니다. 아이템을 정리해야 합니다." />
+	<block key="GMC_6066" korean="[UserName]님이 [ItemName] [ItemCount]개를 획득하셨습니다." />
+	<block key="GMC_6067" korean="가방이 비어있지 않습니다." />
+	<block key="GMC_6068" korean="패시브 스킬은 단축 슬롯에 등록할 수 없습니다." />
+	<block key="GMC_6069" korean="[Cost]비용이 소모됩니다.
+[CreatreName] 펠로우를 놓아주시겠습니까?" />
+	<block key="GMC_6070" korean="비용이 부족합니다." />
+	<block key="GMC_6071" korean="현재 존에 해당하는 퀘스트가 아닙니다." />
+	<block key="GMC_6072" korean="퀘스트 보상 완료 엔피씨가 현재 존에 있지 않습니다." />
+	<block key="GMC_6073" korean="부활 후유증을 치료 시 [Cost]가 소모됩니다.
+치료하시겠습니까?" />
+	<block key="GMC_6074" korean="[Param] 상태" />
+	<block key="GMC_6075" korean="[Param] 상태 해제" />
+	<block key="GMC_6076" korean="[Param] [ChangeValue] 감소" />
+	<block key="GMC_6077" korean="[Param] [ChangeValue] 증가" />
+	<block key="GMC_6078" korean="캐스팅 중입니다." />
+	<block key="GMC_6079" korean="[GaugeParam] 피해 [Value] 무효화" />
+	<block key="GMC_6080" korean="[Count]회 반격 가능" />
+	<block key="GMC_6081" korean="[TotalTime]초 동안 [DotTime]초 마다 [Value]의 [GaugeParam] 피해" />
+	<block key="GMC_6082" korean="[Time]초 마다 [Skill] 발동" />
+	<block key="GMC_6083" korean="[TotalTime]초 동안 [DotTime]초 마다 [Value]의 [GaugeParam] 회복" />
+	<block key="GMC_6084" korean="[Value]를 획득하였습니다." />
+	<block key="GMC_6085" korean="[Value]를 소모하였습니다." />
+	<block key="GMC_6086" korean="창고에 [Value]를 입금하였습니다." />
+	<block key="GMC_6087" korean="창고에서 [Value]를 출금하였습니다." />
+	<block key="GMC_6088" korean="허용된 수의 캐릭터가 모두 생성되어 추가 생성이 불가능합니다." />
+	<block key="GMC_6089" korean="캐릭터명을 입력해 주세요" />
+	<block key="GMC_6090" korean="[Skill] 기술을 배우지 않아 착용할 수 없습니다." />
+	<block key="GMC_6091" korean="해당 스킬을 배우기 위해서는 [BuyMoney]가 필요합니다. 배우시겠습니까?" />
+	<block key="GMC_6092" korean="당신은 사망했습니다." />
+	<block key="GMC_6093" korean="당신의 [FellowName] 펠로우가 사망하였습니다." />
+	<block key="GMC_6094" korean="[Name]님이 사망하였습니다." />
+	<block key="GMC_6095" korean="[Name]님의 [FellowName]펠로우가 사망하였습니다." />
+	<block key="GMC_6096" korean="[Name]님이 사망하였습니다." />
+	<block key="GMC_6097" korean="[Number]회 미납" />
+	<block key="GMC_6098" korean="[Name]님이 자리비움 상태가 되었습니다." />
+	<block key="GMC_6099" korean="[Name]님의 자리비움 상태가 해제되었습니다." />
+	<block key="GMC_6100" korean="[Param] 수치 [ChangeValue] 감소" />
+	<block key="GMC_6101" korean="[Param] 수치 [ChangeValue] 증가" />
+	<block key="GMC_6102" korean="메시지 박스를 닫고 진행해 주세요." />
+	<block key="GMC_6103" korean="변경할 펠로우의 이름을 입력해 주세요." />
+	<block key="GMC_6104" korean="유저의 이름을 입력해 주세요." />
+	<block key="GMC_6105" korean="[ItemName] 강화에 성공하여 +[Level] 단계가 되었습니다." />
+	<block key="GMC_6106" korean="[ItemName] 강화에 실패하여 +[Level] 단계가 되었습니다." />
+	<block key="GMC_6107" korean="영혼석 장착에 성공했습니다." />
+	<block key="GMC_6108" korean="영혼석 장착에 실패했습니다." />
+	<block key="GMC_6109" korean="죽은 대상에게만 사용할 수 있습니다." />
+	<block key="GMC_6110" korean="1인전용 시나리오 채널에 입장했습니다." />
+	<block key="GMC_6111" korean="파티초대를 거절했습니다." />
+	<block key="GMC_6112" korean="[Portal] 포탈이 활성화 되었습니다." />
+	<block key="GMC_6113" korean="위치 : 지하 [Number]층" />
+	<block key="GMC_6114" korean="위치 : 지상 [Number]층" />
+	<block key="GMC_6115" korean="[Time] 동안 [Param] 상태 적용" />
+	<block key="GMC_6116" korean="[Time] 동안 [Param] [ChangeValue] 증가" />
+	<block key="GMC_6117" korean="[Time] 동안 [Param] [ChangeValue] 감소" />
+	<block key="GMC_6118" korean="던전이 초기화 되었습니다." />
+	<block key="GMC_6119" korean="던전을 초기화 할 수 없는 상태입니다." />
+	<block key="GMC_6120" korean="호위퀘스트 도중에는 채널이동을 할 수 없습니다." />
+	<block key="GMC_6121" korean="다른 행동 중일 때는 채널을 이동할 수 없습니다." />
+	<block key="GMC_6122" korean="공격대 초대를 거절했습니다." />
+	<block key="GMC_6123" korean="[Target]님이 전투 준비를 거절했습니다." />
+	<block key="GMC_6124" korean="[Target]님에게 보낸 전투준비 응답시간이 지났습니다." />
+	<block key="GMC_6125" korean="던전이 생성되었습니다." />
+	<block key="GMC_6126" korean="[ItemName]을
+강화하시겠습니까?" />
+	<block key="GMC_6127" korean="[ItemName]을
+추출하시겠습니까?
+
+추출한 아이템은 <font color="#E53215">파괴</font>됩니다." />
+	<block key="GMC_6128" korean="[ItemName]에
+축복 효과를 주시겠습니까?" />
+	<block key="GMC_6129" korean="[ItemName]의
+레벨을 상승시키겠습니까?" />
+	<block key="GMC_6130" korean="파티 지원을 거절했습니다." />
+	<block key="GMC_6131" korean="공격대 지원을 거절했습니다." />
+	<block key="GMC_6132" korean="현재 사양에 맞게 옵션이 임의로 설정 되었습니다" />
+	<block key="GMC_6133" korean="[ItemName]을
+추출하시겠습니까?
+
+[Level]단계 강화된 아이템이 추출로 <font color="#E53215">파괴</font>됩니다." />
+	<block key="GMC_6134" korean="[ItemName]을
+추출하시겠습니까?
+
+추출로 <font color="#E53215">파괴</font>되는 아이템의 등급이 높습니다." />
+	<block key="GMC_6135" korean="[Exp] 경험치를 획득했습니다." />
+	<block key="GMC_6136" korean="파티에 가입 되지 않았습니다." />
+	<block key="GMC_6137" korean="재입장 시간이[Time] 남았습니다. 다시 시도해 주십시오." />
+	<block key="GMC_6138" korean="[ItemName] 강화에 실패하여, 강화 단계가 초기화 되었습니다." />
+	<block key="GMC_6139" korean="[ItemName] 강화에 실패하여, 아이템이 파괴되었습니다." />
+	<block key="GMC_6140" korean="[Path] 경로에 스크린샷이 저장되었습니다." />
+	<block key="GMC_6141" korean="[Target]님의 소환 요청을 거절하였습니다." />
+	<block key="GMC_6142" korean="오토 방지 메세지를 입력해주십시오." />
+	<block key="GMC_6143" korean="\[Message]\ 왼쪽 메시지를 똑같이 입력해주십시오." />
+	<block key="GMC_6144" korean="[Target] 님이 오토였습니다." />
+	<block key="GMC_6145" korean="[Target] 님이 오토가 아니었습니다." />
+	<block key="GMC_6146" korean="오토 방지 메세지를 보냈습니다." />
+	<block key="GMC_6147" korean="주의! 삭제하면 [Name]의 모든 정보와 펠로우가 사라지며 복구가 불가능합니다." />
+	<block key="GMC_6148" korean="잠시 후 게임이 종료됩니다." />
+	<block key="GMC_6149" korean="잠시 후 캐릭터 대기실로 이동합니다." />
+	<block key="GMC_6150" korean="[ItemName]의 기간 만료 시간이 [Time] 남았습니다." />
+	<block key="GMC_6151" korean="[ItemName]의 기간 만료 시간이 [Time] 남았습니다." />
+	<block key="GMC_6152" korean="[ItemName]의 기간이 만료되었습니다." />
+	<block key="GMC_6153" korean="던전 난이도 선택 중입니다." />
+	<block key="GMC_6155" korean="[Target] 님이 탑승 요청을 거절하였습니다." />
+	<block key="GMC_6156" korean="[Target] 님이 탑승 초대를 거절하였습니다." />
+	<block key="GMC_6157" korean="탑승요청을 하기에 거리가 멉니다" />
+	<block key="GMC_6158" korean="탑승초대를 하기에 거리가 멉니다" />
+	<block key="GMC_6159" korean="다인탑승이 불가능한 펠로우입니다." />
+	<block key="GMC_6160" korean="다인탑승이 불가능한 펠로우입니다." />
+	<block key="GMC_6166" korean="정말 [Target]을 하차시키시겠습니까?" />
+	<block key="GMC_6167" korean="[UserName]님이 [Cost]를 획득하셨습니다." />
+	<block key="GMC_6168" korean="[ItemName]은
+현재 착용 중인 아이템입니다.
+
+정말로 추출하시겠습니까?" />
+	<block key="GMC_6169" korean="[ItemName] 강화에 실패했습니다." />
+	<block key="GMC_6170" korean="다른 행위 중입니다." />
+	<block key="GMC_6171" korean="[ItemUseAction] 중입니다." />
+	<block key="GMC_6172" korean="[DungeonName]의 [Grade] 난이도 재입장 시간을 초기화 하시겠습니까?" />
+	<block key="GMC_6300" korean="길드 이름을 입력해 주세요." />
+	<block key="GMC_6301" korean="인사말을 입력해 주세요." />
+	<block key="GMC_6302" korean="이름을 입력해 주세요." />
+	<block key="GMC_6303" korean="\길드해체\를 입력해 주세요." />
+	<block key="GMC_6304" korean="[Order]번째 길드원이 비어 있습니다.//%d번째 길드원이 비어 있습니다." />
+	<block key="GMC_6305" korean="[Target]님의 길드 창단의 발기인으로서 길드 창단을 동의 하십니까?" />
+	<block key="GMC_6306" korean="[Target]길드에서 길드원이 되어 달라고 요청이 왔습니다. 수락 하시겠습니까?" />
+	<block key="GMC_6307" korean="길드가 해체되었습니다." />
+	<block key="GMC_6308" korean="[Name]길드에서 탈퇴하였습니다." />
+	<block key="GMC_6309" korean="[Name]길드에서 추방당했습니다." />
+	<block key="GMC_6310" korean="길드마스터는 길드를 탈퇴할 수 없습니다." />
+	<block key="GMC_6311" korean="[Guild] 길드에 초대되었습니다.
+수락 하시겠습니까?" />
+	<block key="GMC_6312" korean="길드에 가입되지 않았습니다." />
+	<block key="GMC_6313" korean="[Name]길드에서 추방당했습니다." />
+	<block key="GMC_6314" korean="길드가 생성되었습니다." />
+	<block key="GMC_6315" korean="길드에 가입되었습니다." />
+	<block key="GMC_6316" korean="[Target]님을 길드에 초대하였습니다." />
+	<block key="GMC_6317" korean="길드 초대를 거절하였습니다." />
+	<block key="GMC_6321" korean="길드 승급시 [Value]가 소모됩니다. <br>길드 승급 하시겠습니까?" />
+	<block key="GMC_6322" korean="유저 문장 등록 버튼을 활성화 하시겠습니까? <br>[Value]엘룬이 소모됩니다." />
+	<block key="GMC_6323" korean="길드마크를 변경하시겠습니까?<br>[Value]가 소모됩니다." />
+	<block key="GMC_6341" korean="연합이 생성 되었습니다." />
+	<block key="GMC_6342" korean="[Name] 연합을
+해산 하시겠습니까?" />
+	<block key="GMC_6343" korean="[Name] 연합명으로 변경 되었습니다." />
+	<block key="GMC_6344" korean="[Name] 길드를
+연합에서 추방 하시겠습니까?
+
+추방된 길드는 1일간 연합 가입이 제한됩니다." />
+	<block key="GMC_6345" korean="[Name] 연합에서
+탈퇴 하시겠습니까?
+
+탈퇴하면 1일간 연합 가입이 제한됩니다." />
+	<block key="GMC_6346" korean="[Guild] 길드의
+연합 요청을 수락 하시겠습니까?" />
+	<block key="GMC_6347" korean="[Target] 길드로 연합 초대 메시지를 보냈습니다." />
+	<block key="GMC_6348" korean="연합 초대를 거절했습니다." />
+	<block key="GMC_6349" korean="[Target]님이 연합 초대를 거절했습니다." />
+	<block key="GMC_6350" korean="[Target]님에게 보낸 연합 요청 응답 대기시간이 초과됐습니다." />
+	<block key="GMC_6351" korean="[Guild] 길드가 [Unite] 연합에 가입됐습니다." />
+	<block key="GMC_6352" korean="연합이 생성됐습니다." />
+	<block key="GMC_6353" korean="[Guild] 길드가 연합에 가입됐습니다." />
+	<block key="GMC_6354" korean="연합에 소속되지 않았습니다." />
+	<block key="GMC_6355" korean="연합장만이 길드를 초대할 수 있습니다." />
+	<block key="GMC_6356" korean="최대 3개의 길드까지 연합할 수 있습니다." />
+	<block key="GMC_6357" korean="[Name] 연합이 해산됐습니다." />
+	<block key="GMC_6358" korean="[Guild] 길드가 [Unite] 연합에서 추방됐습니다." />
+	<block key="GMC_6359" korean="[Guild] 길드가 [Unite] 연합에서 탈퇴했습니다." />
+	<block key="GMC_6360" korean="이미 연합에 소속되었습니다." />
+	<block key="GMC_6363" korean="현재 길드명은 연합명으로 사용할 수 없습니다." />
+	<block key="GMC_6324" korean="길드원 [Name]님이 접속하였습니다." />
+	<block key="GMC_6400" korean="교배할 펠로우가 없습니다." />
+	<block key="GMC_6401" korean="해당 계열 영혼의 기운 아이템이 부족합니다." />
+	<block key="GMC_6402" korean="교배 가능한 레벨이 아닙니다." />
+	<block key="GMC_6403" korean="같은 성별은 교배 할수 없습니다." />
+	<block key="GMC_6404" korean="배고픈 상태에서만 먹이를 줄 수 있습니다." />
+	<block key="GMC_6405" korean="[Target]님이 교배 요청을 했습니다." />
+	<block key="GMC_6406" korean="알의 재료를 슬롯에 넣어 주세요." />
+	<block key="GMC_6407" korean="펠로우는 한 마리만 가지고 다닐 수 있습니다. 현재 가지고 있는 펠로우를 펠로우 보관소에 맡긴 다음 다시 부화시켜 주세요." />
+	<block key="GMC_6409" korean="아직 배고픈 상태가 아닙니다." />
+	<block key="GMC_6410" korean="[Name] 길들이기에 성공하였습니다." />
+	<block key="GMC_6411" korean="[Name]를 놓아주었습니다." />
+	<block key="GMC_6412" korean="[Name] 펠로우가 사망했습니다." />
+	<block key="GMC_6413" korean="펠로우 버리기가 취소되었습니다." />
+	<block key="GMC_6414" korean="펠로우 버리기 중입니다." />
+	<block key="GMC_6415" korean="더 이상 펠로우 인벤토리를 확장할 수 없습니다." />
+	<block key="GMC_6416" korean="펠로우 인벤토리 확장에 필요한 비용이 부족합니다." />
+	<block key="GMC_6417" korean="캐릭터 레벨이 낮아서 펠로우 인벤토리를 확장할 수 없습니다." />
+	<block key="GMC_6418" korean="펠로우 인벤토리가 확장되었습니다." />
+	<block key="GMC_6419" korean="보관함에 길들여진 펠로우가 없습니다." />
+	<block key="GMC_6420" korean="더 이상 슬롯을 확장할 수 없습니다." />
+	<block key="GMC_6421" korean="내릴 수 없는 펠로우입니다." />
+	<block key="GMC_6422" korean="지도를 확인 할 수 없는 지역입니다." />
+	<block key="GMC_6423" korean="기력이 부족하면 펠로우 탑승이 해제됩니다." />
+	<block key="GMC_6424" korean="기력이 모두 소진되어 펠로우 탑승이 해제됩니다." />
+	<block key="GMC_6425" korean="[FellowName] 펠로우를 봉인하시겠습니까?
+
+<font color="#FF7800">봉인하면 다시 되돌릴 수 없습니다.</font>" />
+	<block key="GMC_6426" korean="[FellowName] 펠로우의 봉인이 진행 중입니다." />
+	<block key="GMC_6427" korean="[FellowName] 펠로우를 탑승 펠로우로 변형하시겠습니까?" />
+	<block key="GMC_6428" korean="[FellowName] 펠로우의 변형이 진행중입니다." />
+	<block key="GMC_6429" korean="[FellowName]의 봉인을 해제하시겠습니까?<br><font color="#FF7800">봉인을 해제할 경우, 펠로우 보관함에 펫으로 등록됩니다.</font>" />
+	<block key="GMC_6430" korean="[FellowName] 펠로우의 봉인해제가 진행 중입니다." />
+	<block key="GMC_6431" korean="[FellowName] 펠로우를 펫으로 변형하시겠습니까?" />
+	<block key="GMC_6432" korean="펠로우 변형이 완료되었습니다." />
+	<block key="GMC_6433" korean="펠로우 봉인이 완료되었습니다." />
+	<block key="GMC_6434" korean="펠로우 봉인해제가 완료되었습니다." />
+	<block key="GMC_6435" korean="봉인 옵션 부여가 완료되었습니다." />
+	<block key="GMC_6436" korean="펠로우 합성이 완료되었습니다." />
+	<block key="GMC_6437" korean="이미 봉인 옵션 부여가 진행 중입니다." />
+	<block key="GMC_6438" korean="이미 펠로우 강화가 진행 중입니다." />
+	<block key="GMC_6439" korean="펠로우 레벨이 최대치 입니다" />
+	<block key="GMC_6440" korean="캐릭터의 레벨보다 펠로우 레벨이 높아 봉인할 수 없습니다." />
+	<block key="GMC_6441" korean="봉인석 등급이 맞지 않습니다." />
+	<block key="GMC_6442" korean="펠로우 착용 아이템을 해제 하세요" />
+	<block key="GMC_6443" korean="봉인펠로우 제거 후에 다시 시도해 주십시오." />
+	<block key="GMC_6444" korean="펠로우 강화가 진행 중입니다." />
+	<block key="GMC_6445" korean="[ItemName]에 봉인펠로우의 옵션을 부여하시겠습니까?" />
+	<block key="GMC_6446" korean="제거시 [Cost] 비용이 소모됩니다.
+[ItemName] 을 제거 하시겠습니까?
+주의 : 제거된 봉인펠로우는 사라집니다." />
+	<block key="GMC_6447" korean="봉인펠로우가 제거 되었습니다." />
+	<block key="GMC_6448" korean="빈 슬롯이 없습니다." />
+	<block key="GMC_6449" korean="캐릭터의 레벨이 낮아 더 이상 강화할 수 없습니다." />
+	<block key="GMC_6450" korean="해당 아이템으로 변형 할 수 없는 레벨입니다." />
+	<block key="GMC_6451" korean="해당 아이템으로 변형 할 수 없는 등급입니다." />
+	<block key="GMC_6452" korean="변형할 수 없는 펠로우입니다." />
+	<block key="GMC_6454" korean="봉인 할 대상 펠로우의 레벨 또는 등급이 맞지 않습니다" />
+	<block key="GMC_6460" korean="길들이기 포인트가 10% 이하 남았습니다." />
+	<block key="GMC_6500" korean="방어력이 강하며 근접 전투에 능한 파이터. 파티의 최전선에서 파티원을 보호하며 방패가 되는 역할을 주로 수행한다. 근거리 무기를 다루는 능력 또한 뛰어나다." />
+	<block key="GMC_6501" korean="생명과 정신의 힘을 다루는 사제는 파티에 있어서 없어서는 안될 중요한 직업이다. 동료가 상처를 입었을 때 치유 하거나 보호막을 통해 보호해 줌으로써 파티를 위급한 상황에서 벗어나게 해 준다." />
+	<block key="GMC_6502" korean="불, 얼음, 번개를 이용하여 적에게 강력한 공격을 할 수 있는 공격형 직업. 방어력은 약하지만 강한 공격력으로 대상에게 공격 받기 전에 대상을 제압한다. 원소들을 이용한 다양한 특수 공격 또한 많이 보유하고 있다." />
+	<block key="GMC_6503" korean="네이처 설명 준비중" />
+	<block key="GMC_6504" korean="암살자 설명 준비중" />
+	<block key="GMC_6600" korean="강화할 수 있는 아이템이 존재 하지 않습니다." />
+	<block key="GMC_6601" korean="강화석이 없습니다." />
+	<block key="GMC_6602" korean="강화될 아이템의 강화인덱스와 저장된 강화 인덱스가 달라서 강화할 수 없습니다." />
+	<block key="GMC_6603" korean="레벨이 맞지 않아 강화할 수 없습니다." />
+	<block key="GMC_6604" korean="강화석 수가 부족해 강화할 수 없습니다." />
+	<block key="GMC_6605" korean="강화 정보가 없습니다." />
+	<block key="GMC_6700" korean="펠로우 장비 아이템과 결속 결정 아이템을 선택하여 주세요." />
+	<block key="GMC_6701" korean="결합이 실패했습니다. 펠로우 장비 아이템의 파워 슬롯이 결속 결정의 필요 파워 슬롯 보다 적습니다." />
+	<block key="GMC_6702" korean="결합이 실패했습니다. 펠로우 장비 아이템 레벨이 결속에 필요한 레벨보다 낮습니다." />
+	<block key="GMC_6703" korean="펠로우 장비#결속 파워 슬롯:" />
+	<block key="GMC_6704" korean="결속 결정#필요 결속 파워 슬롯:" />
+	<block key="GMC_6800" korean="[SkillName] 스킬을 배우시겠습니까?" />
+	<block key="GMC_6801" korean="[SkillName] 스킬을 레벨업을 하시겠습니까?" />
+	<block key="GMC_6802" korean="스킬을 초기화 하시겠습니까?" />
+	<block key="GMC_6803" korean="캐스팅이 취소되었습니다." />
+	<block key="GMC_6804" korean="[SkillName] 스킬을 배우지 않았습니다." />
+	<block key="GMC_6900" korean="이미 죽어있는 대상입니다." />
+	<block key="GMC_6901" korean="대상이 앞에 있어야 합니다." />
+	<block key="GMC_7000" korean="등록할 친구의 이름을 입력하세요." />
+	<block key="GMC_7001" korean="[Target]님이 친구로 등록되었습니다." />
+	<block key="GMC_7002" korean="[Target]님이 친구 등록 해제되었습니다." />
+	<block key="GMC_7003" korean="차단 이름 입력" />
+	<block key="GMC_7004" korean="차단 메모 입력" />
+	<block key="GMC_7005" korean="[Target]님이 차단 되었습니다." />
+	<block key="GMC_7006" korean="[Target]님이 차단 해제되었습니다." />
+	<block key="GMC_7007" korean="[Target]님에게 소환 요청 하였습니다." />
+	<block key="GMC_7008" korean="[Target]님이 소환 요청을 거절하였습니다." />
+	<block key="GMC_7009" korean="[Target]님께 보낸 소환요청의 응답 대기시간이 지났습니다 ." />
+	<block key="GMC_8000" korean="해당스킬을 배울때 필요한 캐릭터 레벨이 부족합니다." />
+	<block key="GMC_8001" korean="해당스킬을 배울때 필요한 포인트가 부족합니다." />
+	<block key="GMC_8002" korean="해당스킬을 배울때 필요한 탭포인트 총합이 부족합니다." />
+	<block key="GMC_8003" korean="이미 배운 스킬입니다." />
+	<block key="GMC_8004" korean="[SkillName] 스킬을 배웠습니다." />
+	<block key="GMC_8005" korean="이전 레벨의 스킬을 먼저 배워야 합니다." />
+	<block key="GMC_9000" korean="[Target]님께 거래를 신청했습니다." />
+	<block key="GMC_9007" korean="채널 이동을 할 수 없는 필드입니다." />
+	<block key="GMC_9008" korean="채널 [Number]번으로 이동했습니다." />
+	<block key="GMC_9009" korean="상대방이 거래를 결정했습니다." />
+	<block key="GMC_9010" korean="상대방이 거래 결정을 취소했습니다." />
+	<block key="GMC_9011" korean="거래가 성사되었습니다." />
+	<block key="GMC_9012" korean="거래가 취소 되었습니다." />
+	<block key="GMC_9013" korean="[Target]님이 거래 신청을 거절했습니다." />
+	<block key="GMC_9014" korean="[Target]님께 보낸 거래 신청이 응답 대기시간이 지났습니다." />
+	<block key="GMC_9015" korean="[ItemName] [ItemCount]개를 구입했습니다." />
+	<block key="GMC_9016" korean="[ItemName] [ItemCount]개가 거래되었습니다." />
+	<block key="GMC_9017" korean="[ItemName] [ItemCount]개를 획득했습니다." />
+	<block key="GMC_9018" korean="[ItemName] [ItemCount]개가 판매 마감되어 반환되었습니다." />
+	<block key="GMC_9019" korean="[ItemName] [ItemCount]개가 등록 취소되어 반환되었습니다." />
+	<block key="GMC_9020" korean="[ItemName] [ItemCount]개가 판매되었습니다." />
+	<block key="GMC_9021" korean="[ItemName] [ItemCount]개가 보관되었습니다." />
+	<block key="GMC_9022" korean="[ItemName] [ItemCount]개를 파괴하였습니다." />
+	<block key="GMC_9023" korean="[ItemName] [ItemCount]개가 판매 대행에 등록되었습니다." />
+	<block key="GMC_9024" korean="[ItemName] [ItemCount]개가 파괴되었습니다." />
+	<block key="GMC_9025" korean="[ItemName] [ItemCount]개가 부화되었습니다." />
+	<block key="GMC_9026" korean="[ItemName] [ItemCount]개가 첨부되었습니다." />
+	<block key="GMC_9027" korean="아이템을 결합하여 [ItemName]아이템 [ItemCount]개를 획득했습니다." />
+	<block key="GMC_9100" korean="진행 중인 작업이 있습니다." />
+	<block key="GMC_9101" korean="강화할 아이템을 선택하세요." />
+	<block key="GMC_9102" korean="추출할 아이템을 선택하세요." />
+	<block key="GMC_9103" korean="강화 단계가 최대이므로 더 이상 강화할 수 없습니다." />
+	<block key="GMC_9104" korean="강화할 수 없는 아이템입니다." />
+	<block key="GMC_9105" korean="추출할 수 없는 아이템입니다." />
+	<block key="GMC_9106" korean="추출 도구의 레벨이 낮아 추출할 수 없습니다." />
+	<block key="GMC_9107" korean="[Target]님이 [ItemName] [Value]단계 강화에 성공했습니다." />
+	<block key="GMC_9200" korean="[Value]의 영혼 결속 포인트를 획득했습니다." />
+	<block key="GMC_9201" korean="[FellowName]의 영혼결속이 보통으로 되었습니다." />
+	<block key="GMC_9202" korean="영혼결속이 강함으로 되었습니다." />
+	<block key="GMC_9203" korean="[FellowName]의 영혼 결속이 매우강함이 되었습니다. 펠로우를 다음 레벨로 성장 시키려면 야수 조련사를 찾아가십시요." />
+	<block key="GMC_9204" korean="아이템이 염색 되었습니다." />
+	<block key="GMC_9205" korean="헤어가 염색 되었습니다." />
+	<block key="GMC_9206" korean="[Value]의 정산금을 획득했습니다." />
+	<block key="GMC_9207" korean="수리가 안되는 아이템입니다." />
+	<block key="GMC_9208" korean="염색이 안되는 아이템입니다." />
+	<block key="GMC_9209" korean="염색할 아이템을 등록하세요." />
+	<block key="GMC_9210" korean="염색 아이템이 필요합니다." />
+	<block key="GMC_9211" korean="강화할 아이템을 등록하세요." />
+	<block key="GMC_9212" korean="영혼석 착용할 아이템을 등록하세요." />
+	<block key="GMC_9213" korean="강화할 수 없는 아이템입니다." />
+	<block key="GMC_9214" korean="영혼석 착용을 할 수 없는 아이템입니다." />
+	<block key="GMC_9215" korean="[Target]의 성장 봉인을 해제하시겠습니까? 성장 봉인을 해제하면 다음 레벨로 계속 성장이 가능하지만 더 이상 영혼석 추출이 불가능 합니다." />
+	<block key="GMC_9216" korean="펠로우의 성장 봉인 해제가 완료되었습니다." />
+	<block key="GMC_9217" korean="이미 성장 봉인이 해제된 펠로우 입니다." />
+	<block key="GMC_9218" korean="펠로우가 소환되어 있지 않습니다." />
+	<block key="GMC_9219" korean="[Target]의 내구도가 0이 되었습니다." />
+	<block key="GMC_9220" korean="펠로우를 위한 아이템입니다." />
+	<block key="GMC_9221" korean="수리할 아이템이 없습니다." />
+	<block key="GMC_9222" korean="전체 아이템을 수리하시겠습니까?" />
+	<block key="GMC_9223" korean="[ItemName] 아이템을 수리하시겠습니까?" />
+	<block key="GMC_9224" korean="수리할 필요가 없습니다." />
+	<block key="GMC_9225" korean="착용 가능한 레벨을 초과하여 [ItemName]의 효과가 적용되지 않습니다." />
+	<block key="GMC_9300" korean="상대방이 거래 완료를 설정했습니다." />
+	<block key="GMC_9400" korean="판매할 아이템이 없습니다." />
+	<block key="GMC_9401" korean="판매 가격이 지정되지 않았습니다." />
+	<block key="GMC_9403" korean="수수료가 부족합니다." />
+	<block key="GMC_9404" korean="정산할 아이템이 없습니다." />
+	<block key="GMC_9405" korean="귀속된 아이템은 등록할 수 없습니다." />
+	<block key="GMC_9406" korean="판매 대행에 등록할 수 없는 아이템입니다." />
+	<block key="GMC_9407" korean="판매 대행에 등록한 아이템이 판매되었습니다." />
+	<block key="GMC_9900" korean="진행 중인 작업이 있어 전투자세로 변경할 수 없습니다." />
+	<block key="GMC_9901" korean="자세변경이 완료된 후 다시 시도하시기 바랍니다." />
+	<block key="GMC_9902" korean="지상에서만 사용할 수 있습니다." />
+	<block key="GMC_9903" korean="이미 진행 중인 작업이 있어 다른 작업을 시작할 수 없습니다." />
+	<block key="GMC_9904" korean="점프 중에는 사용할 수 없습니다." />
+	<block key="GMC_9905" korean="전투자세에서는 사용할 수 없습니다." />
+	<block key="GMC_9980" korean="봉인할 대상 펠로우를 선택하세요." />
+	<block key="GMC_9981" korean="변형할 대상 펠로우를 선택하세요." />
+	<block key="GMC_9990" korean="펠로우 봉인이 취소되었습니다." />
+	<block key="GMC_9991" korean="펠로우 변형이 취소되었습니다." />
+	<block key="GMC_9992" korean="강화가 취소되었습니다." />
+	<block key="GMC_9993" korean="추출이 취소되었습니다." />
+	<block key="GMC_9999" korean="지금은 사용할 수 없습니다." />
+	<block key="GMC_10000" korean="새 우편이 도착했습니다." />
+	<block key="GMC_10001" korean="더 이상 아이템을 첨부할 수 없습니다." />
+	<block key="GMC_10002" korean="이미 첨부된 아이템입니다." />
+	<block key="GMC_10003" korean="[AttachedName]이외 [Count]종" />
+	<block key="GMC_10004" korean="첨부된 아이템이 있는 우편이 있습니다. 삭제하시겠습니까?" />
+	<block key="GMC_10005" korean="우편을 발송했습니다." />
+	<block key="GMC_10006" korean="[Count]개의 새 우편이 있습니다." />
+	<block key="GMC_10100" korean="길들일 수 없는 대상입니다." />
+	<block key="GMC_10101" korean="탑승 중에는 길들일수 없습니다." />
+	<block key="GMC_10102" korean="탑승 중인 펠로우는 버릴수 없습니다." />
+	<block key="GMC_10103" korean="길들이기에 실패했습니다." />
+	<block key="GMC_10104" korean="펠로우 보관함이 가득 찼습니다." />
+	<block key="GMC_10105" korean="대상의 길들이기 가능 높이보다 높은 위치에서 점프해야 합니다." />
+	<block key="GMC_10106" korean="길들이기 스킬은 점프 중에 사용할 수 없습니다." />
+	<block key="GMC_10107" korean="펠로우의 이름이 [Target]로 변경되었습니다." />
+	<block key="GMC_10108" korean="선택한 몬스터는 길들이기 조건이 맞지 않습니다.." />
+	<block key="GMC_10109" korean="전투 중인 대상에게는 길들이기를 시도 할 수 없습니다." />
+	<block key="GMC_10110" korean="길들일 대상이 선택되어야 합니다." />
+	<block key="GMC_10111" korean="펠로우를 소환한 상태에서만 이름 변경이 가능합니다." />
+	<block key="GMC_10112" korean="펠로우 길들이기가 성공했습니다." />
+	<block key="GMC_10113" korean="리액션 중인 대상은 길들이기를 할 수 없습니다." />
+	<block key="GMC_10114" korean="길들이기 포인트가 부족하여 길들이기를 할 수 없습니다." />
+	<block key="GMC_10115" korean="결투 중에는 길들이기를 할 수 없습니다." />
+	<block key="GMC_11000" korean="[Name] 펠로우가 도감에 등록되었습니다." />
+	<block key="GMC_11001" korean="수집한 펠로우 도감이 없습니다." />
+	<block key="GMC_15000" korean="점프 중에는 지상형 펫/탑승 펠로우를 소환 할 수 없습니다." />
+	<block key="GMC_15001" korean="이미 탑승/하차가 진행 중입니다." />
+	<block key="GMC_15002" korean="이동 중에는 펠로우 아이템을 사용할 수 없습니다." />
+	<block key="GMC_15003" korean="탑승/하차 할 수 없는 지역입니다." />
+	<block key="GMC_15004" korean="펠로우 탑승이 불가능한 위치입니다." />
+	<block key="GMC_15005" korean="펠로우 소환이 불가능한 지역입니다." />
+	<block key="GMC_15006" korean="비행 불가능 지역입니다." />
+	<block key="GMC_15007" korean="비행 중에는 하차할 수 없습니다." />
+	<block key="GMC_15008" korean="비행 중 펠로우를 버릴 수 없습니다." />
+	<block key="GMC_15009" korean="고도를 낮추지 않으면 펠로우 기력이 급격히 소모됩니다." />
+	<block key="GMC_15011" korean="주변에 사물이 있어 펠로우를 소환할 수 없습니다." />
+	<block key="GMC_15014" korean="승객은 사용할 수 없는 행동입니다." />
+	<block key="GMC_15100" korean="탑승 전용 무기는 탑승 중일 때에만 교체가 가능합니다." />
+	<block key="GMC_15101" korean="탑승 중일때에는 탑승 전용 무기를 착용해야만 공격이 가능합니다." />
+	<block key="GMC_15200" korean="영혼석 변환을 할 펠로우가 없습니다." />
+	<block key="GMC_15201" korean="탑승 중에는 영혼석 변환을 할 수 없습니다." />
+	<block key="GMC_15300" korean="펠로우 명령 스킬은 제거할 수 없습니다." />
+	<block key="GMC_15301" korean="펠로우 스킬을 사용할 대상이 없습니다." />
+	<block key="GMC_15302" korean="소환된 펠로우가 없습니다." />
+	<block key="GMC_15303" korean="펠로우 명령형 스킬은 옮길 수 없습니다." />
+	<block key="GMC_15304" korean="[FellowName] 펠로우가 [FellowSkillName] 스킬을 사용합니다." />
+	<block key="GMC_15305" korean="펠로우가 공격할 대상이 선택되어 있지 않습니다." />
+	<block key="GMC_15306" korean="펠로우와 대상이 너무 가까워 [FellowSkillName] 스킬을 사용할 수 없습니다." />
+	<block key="GMC_15307" korean="펠로우를 소환할 수 없습니다." />
+	<block key="GMC_15400" korean="앉아있을 때 할 수 없는 행동입니다." />
+	<block key="GMC_15401" korean="길들이기 중에는 앉을 수 없습니다." />
+	<block key="GMC_15402" korean="탑승 상태에서는 앉을 수 없습니다." />
+	<block key="GMC_15403" korean="스킬 사용 중에는 앉을 수 없습니다." />
+	<block key="GMC_15404" korean="음식을 먹고 있는 중입니다." />
+	<block key="GMC_15500" korean="점프 중에는 조작 행위를 할 수 없습니다." />
+	<block key="GMC_15501" korean="작업이 취소되었습니다." />
+	<block key="GMC_15600" korean="점프 중에는 아이템을 획득할 수 없습니다." />
+	<block key="GMC_15700" korean="안전하게 비행 할 수 있습니다." />
+	<block key="GMC_15701" korean="더 이상 위로 올라가면 위험합니다." />
+	<block key="GMC_15702" korean="비행 불가 지역에 근접하여 펠로우가 즉시 해제 됩니다." />
+	<block key="GMC_15703" korean="비행 불가 지역에 진입하여 펠로우가 강제 해제 됩니다." />
+	<block key="GMC_15712" korean="펠로우의 고도 제한에 근접하여 소환 해제 될 수 있습니다." />
+	<block key="GMC_16001" korean="[TabName]탭을 삭제하시겠습니까?" />
+	<block key="GMC_16002" korean="변경할 탭의 이름을 입력하세요." />
+	<block key="GMC_16003" korean="변경하거나 삭제할 수 없는 탭입니다." />
+	<block key="GMC_16004" korean="탭이름으로 사용할 수 없습니다." />
+	<block key="GMC_16005" korean="이미 사용 중인 탭이름입니다." />
+	<block key="GMC_18000" korean="[TechniqueName] 기술의 단계를 올리시겠습니까?" />
+	<block key="GMC_18002" korean="현재 [TechniqueName] 기술의 마스터아이템 수가 부족합니다 ([Value])" />
+	<block key="GMC_18003" korean="[TechniqueName] 제작을 배워야 합니다" />
+	<block key="GMC_18004" korean="[TechniqueName] [Grade]단계를 배웠습니다." />
+	<block key="GMC_18005" korean="[TechniqueName] 숙련도 1 을 획득하였습니다. ([Value])" />
+	<block key="GMC_18006" korean="제작 기술을 배워야 합니다." />
+	<block key="GMC_18007" korean="채집 숙련도가 부족해 채집할 수 없습니다. (요구숙련도 : [Grade]단계 [value])" />
+	<block key="GMC_18100" korean="제작 설비와 거리가 멀어 제작을 할 수 없습니다" />
+	<block key="GMC_18101" korean="제작 할 아이템을 선택해야 합니다" />
+	<block key="GMC_18102" korean="제작에 필요한 재료아이템이 부족합니다" />
+	<block key="GMC_18103" korean="[ItemName] 제작에 [Result]했습니다. (포인트 [Mastery] 증가)" />
+	<block key="GMC_18104" korean="[ItemName] 제작에 [Result]했습니다." />
+	<block key="GMC_18105" korean="[ReinforceLevel] [ItemName] 제작에 [Result]했습니다." />
+	<block key="GMC_18106" korean="[ReinforceLevel] [ItemName] 제작에 [Result]했습니다. (포인트 [Mastery] 증가)" />
+	<block key="GMC_19000" korean="입찰에 성공 하였습니다." />
+	<block key="GMC_19001" korean="[Target]님이 상위 입찰을 하였습니다." />
+	<block key="GMC_19002" korean="[Target] 님에게 [ItemName] 이 낙찰 되었습니다." />
+	<block key="GMC_19003" korean="[Name] 님의 가방에 빈 공간이 없습니다." />
+	<block key="GMC_21000" korean="레벨 [Level] 이상만 입장할 수 있습니다." />
+	<block key="GMC_30000" korean="전투 중에는 게임을 종료할 수 없습니다." />
+	<block key="GMC_30001" korean="공격 가능한 거리가 아닙니다." />
+	<block key="GMC_30002" korean="대상이 사망했습니다." />
+	<block key="GMC_30003" korean="전투 중에 무기를 집어 넣을 수 없습니다." />
+	<block key="GMC_30004" korean="전투 중에는 앉을 수 없습니다." />
+	<block key="GMC_60000" korean="물 속에서 할 수 없는 행동입니다." />
+	<block key="GMC_400" korean="탑승 중에는 할 수 없는 행동입니다." />
+	<block key="GMC_870" korean="매칭이 등록되었습니다." />
+	<block key="GMC_871" korean="매칭이 취소되었습니다." />
+	<block key="GMC_6453" korean="레벨이 맞지 않아 봉인해제 할 수 없습니다." />
+	<block key="GMC_9028" korean="[Target]님이 랜덤박스에서 [ItemName]을 획득했습니다." />
+	<block key="GMC_15601" korean="다른 위치에서 시도하세요." />
+	<block key="GMC_16000" korean="새로운 탭의 이름을 입력하세요." />
+	<block key="GMC_17000" korean="[MapName] 거점전을 신청하시겠습니까?" />
+	<block key="GMC_17001" korean="[MapName]에 거점전 신청" />
+	<block key="GMC_17002" korean="길드마스터가 아닙니다." />
+	<block key="GMC_18001" korean="[TechniqueName] 의 최대단계 입니다." />
+	<block key="GMC_50000" korean="[Attacker]의 공격이 [Target]에게 시도되었으나, 저항에 막혔습니다." />
+	<block key="GMC_50001" korean="[Attacker]의 공격이 [Target]에게 시도되었으나, 저항에 막혔습니다." />
+	<block key="GMC_50002" korean="[Attacker]의 공격이 [Target]에게 시도되었으나, 저항에 막혔습니다." />
+	<block key="GMC_50003" korean="[Attacker]의 공격이 [Target]에게 시도되었으나, 저항에 막혔습니다." />
+	<block key="GMC_50004" korean="[Attacker]의 공격이 [Target]에게 시도되었으나, 저항에 막혔습니다." />
+	<block key="GMC_50005" korean="[Attacker]의 공격이 [Target]에게 시도되었으나, 저항에 막혔습니다." />
+	<block key="GMC_50020" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나, 저항에 막혔습니다." />
+	<block key="GMC_50021" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나, 저항에 막혔습니다." />
+	<block key="GMC_50022" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나, 저항에 막혔습니다." />
+	<block key="GMC_50023" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나, 저항에 막혔습니다." />
+	<block key="GMC_50024" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나, 저항에 막혔습니다." />
+	<block key="GMC_50025" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나, 저항에 막혔습니다." />
+	<block key="GMC_50100" korean="[Attacker]의 공격이 [Target]에게 시도되었으나, 회피되었습니다." />
+	<block key="GMC_50101" korean="[Attacker]의 공격이 [Target]에게 시도되었으나, 빗맞았습니다." />
+	<block key="GMC_50102" korean="[Attacker]의 공격이 [Target]에게 시도되었으나, 방어에 막혔습니다." />
+	<block key="GMC_50103" korean="[Attacker]의 공격이 [Target]에게 시도되었으나, 방패에 막혔습니다." />
+	<block key="GMC_50104" korean="[Attacker]의 공격이 [Target]에게 시도되었으나, 무기에 막혔습니다." />
+	<block key="GMC_50120" korean="[Attacker]의 [SkillName] 스킬을 [Target]이 회피하였습니다" />
+	<block key="GMC_50121" korean="[Attacker]의 [SkillName] 스킬로 [Target]을(를) 공격하였으나 빗맞았습니다." />
+	<block key="GMC_50122" korean="[Attacker]의 [SkillName] 스킬이 [Target]의 방어에 막혔습니다." />
+	<block key="GMC_50123" korean="[Attacker]의 [SkillName] 스킬이 [Target]의 방패에 막혔습니다." />
+	<block key="GMC_50124" korean="[Attacker]의 [SkillName] 스킬이 [Target]의 무기에 막혔습니다." />
+	<block key="GMC_50500" korean="[Attacker]의 공격으로 [Target]의 생명력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_50501" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 생명력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_50502" korean="[Attacker]의 [BuffName]효과로 [Target]의 생명력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_50503" korean="[BuffName]효과로 [Target]의 생명력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_50504" korean="[Target]의 생명력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_50520" korean="[Attacker]의 공격으로 [Target]의 생명력이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_50521" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 생명력이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_50522" korean="[Attacker]의 [BuffName] 효과로 [Target]의 생명력이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_50523" korean="[BuffName] 효과로 [Target]의 생명력이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_50524" korean="[Target]의 생명력이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_50540" korean="[Attacker]의 공격으로 [Target]의 생명력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_50541" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 생명력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_50542" korean="[Attacker]의 [BuffName]효과로 [Target]의 생명력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_50543" korean="[BuffName]효과로 [Target]의 생명력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_50544" korean="[Target]의 생명력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_51000" korean="[Attacker]의 공격으로 [Target]의 마나가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_51001" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 마나가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_51002" korean="[Attacker]의 [BuffName] 효과로 [Target]의 마나가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_51003" korean="[BuffName]효과로 [Target]의 마나가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_51004" korean="[Target]의 마나가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_51020" korean="[Attacker]의 공격으로 [Target]의 마나가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_51021" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 마나가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_51022" korean="[Attacker]의 [BuffName] 효과로 [Target]의 마나가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_51023" korean="[BuffName] 효과로 [Target]의 마나가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_51024" korean="[Target]의 마나가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_51040" korean="[Attacker]의 공격으로 [Target]의 마나가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_51041" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 마나가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_51042" korean="[Attacker]의 [BuffName] 효과로 [Target]의 마나가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_51043" korean="[BuffName] 효과로 [Target]의 마나가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_51044" korean="[Target]의 마나가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_51500" korean="[Attacker]의 공격으로 [Target]의 빛의징표가 [Value]개 감소되었습니다." />
+	<block key="GMC_51501" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 빛의징표가 [Value]개 감소되었습니다." />
+	<block key="GMC_51502" korean="[Attacker]의 [BuffName]효과로 [Target]의 빛의징표가 [Value]개 감소되었습니다." />
+	<block key="GMC_51503" korean="[BuffName]효과로 [Target]의 빛의징표가 [Value]개 감소되었습니다." />
+	<block key="GMC_51504" korean="[Target]의 빛의징표가 [Value]개 감소되었습니다." />
+	<block key="GMC_51520" korean="[Attacker]의 공격으로 [Target]의 빛의징표가 [Value]개 증가하였습니다." />
+	<block key="GMC_51521" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 빛의징표가 [Value]개 증가하였습니다." />
+	<block key="GMC_51522" korean="[Attacker]의 [BuffName] 효과로 [Target]의 빛의징표가 [Value]개 증가하였습니다." />
+	<block key="GMC_51523" korean="[BuffName] 효과로 [Target]의 빛의징표가 [Value]개 증가하였습니다." />
+	<block key="GMC_51524" korean="[Target]의 빛의징표가 [Value]개 증가하였습니다." />
+	<block key="GMC_51540" korean="[Attacker]의 공격으로 [Target]의 빛의징표가 [Value]개 감소되었습니다." />
+	<block key="GMC_51541" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 빛의징표가 [Value]개 감소되었습니다." />
+	<block key="GMC_51542" korean="[Attacker]의 [BuffName]효과로 [Target]의 빛의징표가 [Value]개 감소되었습니다." />
+	<block key="GMC_51543" korean="[BuffName]효과로 [Target]의 빛의징표가 [Value]개 감소되었습니다." />
+	<block key="GMC_51544" korean="[Target]의 빛의징표가 [Value]개 감소되었습니다." />
+	<block key="GMC_52000" korean="[Attacker]의 공격으로 [Target]의 기력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52001" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 기력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52002" korean="[Attacker]의 [BuffName]효과로 [Target]의 기력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52003" korean="[BuffName]효과로 [Target]의 기력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52004" korean="[Target]의 기력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52020" korean="[Attacker]의 공격으로 [Target]의 기력이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_52021" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 기력이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_52022" korean="[Attacker]의 [BuffName] 효과로 [Target]의 기력이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_52023" korean="[BuffName] 효과로 [Target]의 기력이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_52024" korean="[Target]의 기력이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_52040" korean="[Attacker]의 공격으로 [Target]의 기력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52041" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 기력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52042" korean="[Attacker]의 [BuffName]효과로 [Target]의 기력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52043" korean="[BuffName]효과로 [Target]의 기력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52044" korean="[Target]의 기력이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52500" korean="[Attacker]의 공격으로 [Target]의 분노가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52501" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 분노가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52502" korean="[Attacker]의 [BuffName]효과로 [Target]의 분노가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52503" korean="[BuffName]효과로 [Target]의 분노가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52504" korean="[Target]의 분노 [Value] 감소되었습니다." />
+	<block key="GMC_52520" korean="[Attacker]의 공격으로 [Target]의 분노가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_52521" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 분노가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_52522" korean="[Attacker]의 [BuffName] 효과로 [Target]의 분노가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_52523" korean="[BuffName] 효과로 [Target]의 분노가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_52524" korean="[Target]의 분노가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_52540" korean="[Attacker]의 공격으로 [Target]의 분노가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52541" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 분노가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52542" korean="[Attacker]의 [BuffName]효과로 [Target]의 분노가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52543" korean="[BuffName]효과로 [Target]의 분노가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_52544" korean="[Target]의 분노가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53000" korean="[Attacker]의 공격으로 [Target]의 스태미너가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53001" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 스태미너가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53002" korean="[Attacker]의 [BuffName]효과로 [Target]의 스태미너가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53003" korean="[BuffName]효과로 [Target]의 스태미너가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53004" korean="[Target]의 스태미너가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53020" korean="[Attacker]의 공격으로 [Target]의 스태미너가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_53021" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 스태미너가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_53022" korean="[Attacker]의 [BuffName] 효과로 [Target]의 스태미너가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_53023" korean="[BuffName] 효과로 [Target]의 스태미너가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_53024" korean="[Target]의 스태미너가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_53040" korean="[Attacker]의 공격으로 [Target]의 스태미너가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53041" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 스태미너가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53042" korean="[Attacker]의 [BuffName]효과로 [Target]의 스태미너가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53043" korean="[BuffName]효과로 [Target]의 스태미너가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53044" korean="[Target]의 스태미너가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53500" korean="[Attacker]의 공격으로 [Target]의 리액션 저항 점수가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53501" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 리액션 저항 점수가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53502" korean="[Attacker]의 [BuffName]효과로 [Target]의 리액션 저항 점수가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53503" korean="[BuffName]효과로 [Target]의 리액션 저항 점수가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53504" korean="[Target]의 리액션 저항 점수가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53520" korean="[Attacker]의 공격으로 [Target]의 리액션 저항 점수가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_53521" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 리액션 저항 점수가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_53522" korean="[Attacker]의 [BuffName]효과로 [Target]의 리액션 저항 점수가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_53523" korean="[BuffName]효과로 [Target]의 리액션 저항 점수가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_53524" korean="[Target]의 리액션 저항 점수가 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_53540" korean="[Attacker]의 공격으로 [Target]의 리액션 저항 점수가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53541" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 리액션 저항 점수가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53542" korean="[Attacker]의 [BuffName]효과로 [Target]의 리액션 저항 점수가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53543" korean="[BuffName]효과로 [Target]의 리액션 저항 점수가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_53544" korean="[Target]의 리액션 저항 점수가 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40000" korean="[Attacker]의 공격으로 [Target]의 화염 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40001" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 화염 속성[Value]이 감소되었습니다." />
+	<block key="GMC_40002" korean="[Attacker]의 [BuffName]효과로 [Target]의 화염 속성[Value]이 감소되었습니다." />
+	<block key="GMC_40003" korean="[BuffName]효과로 [Target]의 화염 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40004" korean="[Target]의 화염 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40020" korean="[Attacker]의 공격으로 [Target]의 화염 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_40021" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 화염 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_40022" korean="[Attacker]의 [BuffName] 효과로 [Target]의 화염 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_40023" korean="[BuffName] 효과로 [Target]의 화염 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_40024" korean="[Target]의 화염 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_40040" korean="[Attacker]의 공격으로 [Target]의 화염 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40041" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 화염 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40042" korean="[Attacker]의 [BuffName]효과로 [Target]의 화염 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40043" korean="[BuffName]효과로 [Target]의 화염 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40044" korean="[Target]의 화염 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40500" korean="[Attacker]의 공격으로 [Target]의 냉기 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40501" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 냉기 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40502" korean="[Attacker]의 [BuffName]효과로 [Target]의 냉기 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40503" korean="[BuffName]효과로 [Target]의 냉기 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40504" korean="[Target]의 냉기 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40520" korean="[Attacker]의 공격으로 [Target]의 냉기 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_40521" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 냉기 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_40522" korean="[Attacker]의 [BuffName] 효과로 [Target]의 냉기 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_40523" korean="[BuffName] 효과로 [Target]의 냉기 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_40524" korean="[Target]의 냉기 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_40540" korean="[Attacker]의 공격으로 [Target]의 냉기 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40541" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 냉기 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40542" korean="[Attacker]의 [BuffName]효과로 [Target]의 냉기 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40543" korean="[BuffName]효과로 [Target]의 냉기 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_40544" korean="[Target]의 냉기 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41000" korean="[Attacker]의 공격으로 [Target]의 빛 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41001" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 빛 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41002" korean="[Attacker]의 [BuffName]효과로 [Target]의 빛 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41003" korean="[BuffName]효과로 [Target]의 빛 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41004" korean="[Target]의 빛 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41020" korean="[Attacker]의 공격으로 [Target]의 빛 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_41021" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 빛 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_41022" korean="[Attacker]의 [BuffName] 효과로 [Target]의 빛 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_41023" korean="[BuffName] 효과로 [Target]의 빛 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_41024" korean="[Target]의 빛 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_41040" korean="[Attacker]의 공격으로 [Target]의 빛 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41041" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 빛 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41042" korean="[Attacker]의 [BuffName]효과로 [Target]의 빛 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41043" korean="[BuffName]효과로 [Target]의 빛 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41044" korean="[Target]의 빛 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41500" korean="[Attacker]의 공격으로 [Target]의 어둠 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41501" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 어둠 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41502" korean="[Attacker]의 [BuffName]효과로 [Target]의 어둠 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41503" korean="[BuffName]효과로 [Target]의 어둠 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41504" korean="[Target]의 어둠 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41520" korean="[Attacker]의 공격으로 [Target]의 어둠 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_41521" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 어둠 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_41522" korean="[Attacker]의 [BuffName] 효과로 [Target]의 어둠 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_41523" korean="[BuffName] 효과로 [Target]의 어둠 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_41524" korean="[Target]의 어둠 속성이 [Value] 만큼 회복되었습니다." />
+	<block key="GMC_41540" korean="[Attacker]의 공격으로 [Target]의 어둠 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41541" korean="[Attacker]의 [SkillName] 스킬로 [Target]의 어둠 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41542" korean="[Attacker]의 [BuffName]효과로 [Target]의 어둠 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41543" korean="[BuffName]효과로 [Target]의 어둠 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_41544" korean="[Target]의 어둠 속성이 [Value] 만큼 감소되었습니다." />
+	<block key="GMC_59000" korean="[Attacker]의 [BuffName]효과가 [Target]에게 적용되었습니다." />
+	<block key="GMC_59001" korean="[Attacker]의 [BuffName]효과가 [Target]에게서 해제되었습니다." />
+	<block key="GMC_59002" korean="[BuffName]효과가 [Target]에게 적용되었습니다." />
+	<block key="GMC_59003" korean="[BuffName]효과가 [Target]에게서 해제되었습니다." />
+	<block key="GMC_6455" korean="[FellowCommandName] 명령어가 사용되었습니다." />
+	<block key="GMC_6456" korean="탑승 펠로우일 때 사용이 가능합니다." />
+	<block key="GMC_6457" korean="변형 펠로우일 때 사용이 가능합니다." />
+	<block key="GMC_6458" korean="변형 아이템이 아닙니다." />
+	<block key="GMC_15711" korean="펠로우의 최대 고도에 근접하고 있습니다." />
+	<block key="GMC_15713" korean="펠로우의 최대 고도를 초과하여 소환 해제 되었습니다." />
+	<block key="GMC_15013" korean="현재 지역이 펠로우 고도보다 높아 소환 할 수 없습니다." />
+	<block key="GMC_15012" korean="현재 지역이 펠로우 고도보다 높아 비행을 할 수 없습니다." />
+	<block key="GMC_30005" korean="전투 중에는 사용 할 수 없습니다." />
+	<block key="GMC_10007" korean="친구 목록이 비어 있습니다." />
+	<block key="GMC_6163" korean="입력된 내용이 없습니다." />
+	<block key="GMC_6164" korean="이대로 사용하시겠습니까?" />
+	<block key="GMC_6165" korean="외치기를 취소하시겠습니까?" />
+	<block key="GMC_6325" korean="[Name]님이 길드에서 탈퇴하였습니다." />
+	<block key="GMC_6326" korean="[Name]님을 길드에서 추방하였습니다." />
+	<block key="GMC_6327" korean="[Name]님의 계급을 [Rank]으로 변경하였습니다." />
+	<block key="GMC_6328" korean="길드 계급이 [Rank]으로 변경되었습니다." />
+	<block key="GMC_6329" korean="[Name]님의 계급이 [Rank]으로 변경되었습니다." />
+	<block key="GMC_6330" korean="[Name]님에게 길드장을 양도하였습니다." />
+	<block key="GMC_6331" korean="길드 계급이 길드원으로 변경되었습니다." />
+	<block key="GMC_6332" korean="길드장을 양도받았습니다." />
+	<block key="GMC_6333" korean="길드 계급이 길드장으로 변경되었습니다." />
+	<block key="GMC_6334" korean="[Name]님의 계급이 길드장으로 변경되었습니다." />
+	<block key="GMC_6335" korean="[Name]길드가 해체되었습니다." />
+	<block key="GMC_6336" korean="길드 공지를 수정하였습니다." />
+	<block key="GMC_6337" korean="길드 공지가 수정되었습니다." />
+	<block key="GMC_6338" korean="길드가 [Value]등급으로 승급되었습니다." />
+	<block key="GMC_15015" korean="길들이기 중에는 스킬을 사용할 수 없습니다." />
+	<block key="GMC_6162" korean="[Target]님께 탑승초대 하였습니다." />
+	<block key="GMC_6173" korean="잘못된 명령어 입니다." />
+	<block key="GMC_853" korean="모든 공격대원의 준비가 완료되었습니다." />
+	<block key="GMC_854" korean="아직 준비되지 않은 공격대원이 있습니다." />
+	<block key="GMC_833" korean="[Target]님의 파티에 참가했습니다." />
+	<block key="GMC_834" korean="[Target]님을
+추방하시겠습니까?" />
+	<block key="GMC_6161" korean="[Target]님께 탑승요청 하였습니다." />
+	<block key="GMC_6174" korean="엘룬을 소모하여 부활하시겠습니까?" />
+	<block key="GMC_20001" korean="엘룬이 부족합니다. 충전하시겠습니까?" />
+	<block key="GMC_6175" korean="사용금지 단어가 포함된 문장입니다." />
+	<block key="GMC_6176" korean="서버를 변경하면 해당 서버의 대기열에서 빠지게 됩니다." />
+	<block key="GMC_6177" korean="신고가 접수되었습니다." />
+	<block key="GMC_6178" korean="3회차 입력 실패 시 클라이언트가 종료됩니다." />
+	<block key="GMC_6154" korean="[ServerName] 서버의 접속 인원이 많아 인원을 제한하고 있습니다. 잠시만 기다려 주세요." />
+	<block key="GMC_15016" korean="이동 할 수 없는 지역입니다." />
+	<block key="GMC_10116" korean="길들이기 중인 대상은 길들일 수 없습니다." />
+	<block key="GMC_10117" korean="길들이기 중인 대상은 길들일 수 없습니다." />
+	<block key="GMC_6179" korean="파티공용 시나리오 채널에 입장했습니다." />
+	<block key="GMC_6180" korean="강화 단계는 [Min] ~ [Max] 단계 중 결정 됩니다." />
+	<block key="GMC_138" korean="현재 장착 중인 무기는 사용할 수 없습니다." />
+	<block key="GMC_9906" korean="사망 상태에서는 할 수 없는 행동입니다." />
+	<block key="GMC_10118" korean="길들이기 포인트 [Value] 감소" />
+	<block key="GMC_20002" korean=" 가 철회되었습니다." />
+	<block key="GMC_20003" korean="상점을 열 수 없는 지역입니다." />
+	<block key="GMC_20004" korean="캐시 충전 URL을 가져오는데 실패하였습니다. 잠시 후 다시 시도 해주시기 바랍니다." />
+	<block key="GMC_6459" korean="펠로우가 [Level] 레벨이 되었습니다." />
+	<block key="GMC_6339" korean="길드 포인트가 부족해 등급을 올릴 수 없습니다." />
+	<block key="GMC_9029" korean="[ItemName]이(가) 보관함에서 가방으로 이동되었습니다." />
+	<block key="GMC_20005" korean="이전 결제가 진행 중입니다." />
+	<block key="GMC_20000" korean="보관함에 신규 아이템이 있습니다." />
+	<block key="GMC_20006" korean="[CashName] 충전 웹페이지로 이동하시겠습니까?" />
+	<block key="GMC_4041" korean="게임 접속 요청이 장시간 대기로 인해 강제종료됩니다." />
+	<block key="GMC_4042" korean="캐릭터 정보 요청이 장시간 대기로 인해 강제종료됩니다." />
+	<block key="GMC_6181" korean="<[CharacterName]> 캐릭터를 복구하시겠습니까?" />
+	<block key="GMC_9030" korean="[ItemName] [ItemCount]개가 소모되었습니다." />
+	<block key="GMC_9301" korean="상대방이 거래완료를 결정했습니다." />
+	<block key="GMC_6182" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="GMC_9227" korean="특성을 초기화 하시겠습니까?" />
+	<block key="GMC_50006" korean="[Attacker]의 공격이 [Target]에게 시도되었으나, 대인 저항에 막혔습니다." />
+	<block key="GMC_50026" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나, 대인 저항에 막혔습니다." />
+	<block key="GMC_4043" korean="삭제 대기 중인 캐릭터는 월드에 접속 할 수 없습니다." />
+	<block key="GMC_6185" korean="2차 비밀번호가 [FailCnt]회 틀렸습니다. 총 5회 중 [RemainCnt]회 남았습니다." />
+	<block key="GMC_6186" korean="2차 비밀번호가 5회 틀렸습니다.
+홈페이지에서 초기화 이후 이용해 주십시오." />
+	<block key="GMC_19004" korean="[Target] 님이 승리하여 [ItemName] 을 획득하였습니다." />
+	<block key="GMC_6184" korean="길들이기 포인트가 이미 가득 찬 상태입니다." />
+	<block key="GMC_6183" korean="길들이기 포인트를 회복합니다." />
+	<block key="GMC_6187" korean="[Time] 후에 사용 할 수 있습니다." />
+	<block key="GMC_20007" korean="게임 내 인벤토리로 옮기신 후에는 청약철회가 불가능합니다. 인벤토리로 옮기시겠습니까?" />
+	<block key="GMC_20008" korean="선택한 아이템이 없습니다." />
+	<block key="GMC_6188" korean="결투 중에는 오토 신고 메시지를 보낼 수 없습니다." />
+	<block key="GMC_6189" korean="과도한 게임 이용은 정상적인 일상 생활에 지장을 줄 수 있습니다.
+게임 이용시간이 [Time]시간 경과 하였습니다." />
+	<block key="GMC_6190" korean="[PenaltyPreventions]되었으나, 강화에 실패하여 파괴되었습니다." />
+	<block key="GMC_6191" korean="[PenaltyPreventions]되었으나, 강화에 실패하여 초기화 되었습니다." />
+	<block key="GMC_6192" korean="[PenaltyPreventions]되었으나, 강화에 실패하였습니다." />
+	<block key="GMC_6193" korean="[PenaltyPreventions]되었으나, 강화에 실패하여 [Level]단계가 되었습니다." />
+	<block key="GMC_6195" korean="현재 지역에서는 축복 부활이 불가능 합니다." />
+	<block key="GMC_6196" korean="8 자리의 숫자를 정확히 입력해 주십시오." />
+	<block key="GMC_6194" korean="입력한 2차비밀번호가 동일하지 않습니다." />
+	<block key="GMC_6340" korean="길드 마크가 변경되었습니다." />
+	<block key="GMC_835" korean="[PartyLoot]으로 변경되었습니다." />
+	<block key="GMC_836" korean="[PartyLoot] - [LootGameType] : [ItemGrade] 으로 변경되었습니다." />
+	<block key="GMC_6197" korean="[ChatTime]초 후 다시 입력할 수 있습니다." />
+	<block key="GMC_837" korean="[PartyLoot] : [UserName] 님으로 변경되었습니다." />
+	<block key="GMC_20009" korean="청약 철회는 한번에 하나씩만 가능합니다." />
+	<block key="GMC_20010" korean="엘룬이 [NeedRubyCnt]개 부족합니다.
+충전 하시겠습니까?" />
+	<block key="GMC_6198" korean="[DungeonName] 던전을 초기화 하시겠습니까?" />
+	<block key="GMC_6199" korean="PK 지역에서는 오토 신고 메시지를 보낼 수 없습니다." />
+	<block key="GMC_6200" korean="안전지역에서는 오토 신고 메시지를 보낼 수 없습니다." />
+	<block key="GMC_6201" korean="인던에서는 오토 신고 메시지를 보낼 수 없습니다." />
+	<block key="GMC_6202" korean="인증 중입니다.
+잠시만 기다려주십시오." />
+	<block key="GMC_6203" korean="서버 리스트를 불러오고 있는 중입니다.
+잠시만 기다려 주십시오." />
+	<block key="GMC_4044" korean="게임에 접속 중입니다.
+잠시만 기다려 주십시오." />
+	<block key="GMC_4045" korean="캐릭터 정보 요청 중입니다.
+잠시만 기다려 주십시오." />
+	<block key="GMC_6204" korean="무인도에 있는 동안은 할 수 없는 행동입니다." />
+	<block key="GMC_9031" korean="추출로 [ItemName] 아이템을 [ItemCount]개 획득했습니다" />
+	<block key="GMC_6205" korean="채널 이동 진행 중에는 할 수 없는 행동입니다." />
+	<block key="GMC_51" korean="사용 가능한 성별이 아닙니다." />
+	<block key="GMC_6318" korean="[SkillName] 스킬을 [Value] 동안 발동하시겠습니까?" />
+	<block key="GMC_6319" korean="[SkillName] 스킬을 해제하시겠습니까?" />
+	<block key="GMC_6320" korean="[SkillName] 스킬이 해제되었습니다." />
+	<block key="GMC_9226" korean="더 강한 효과가 이미 적용되어 있습니다." />
+	<block key="GMC_4046" korean="채널 변경 중입니다.
+잠시만 기다려주십시오." />
+	<block key="GMC_18008" korean="레벨이 낮아서 [TechniqueName] 기술을 배울 수 없습니다. (필요레벨:[NeedLevel])" />
+	<block key="GMC_18009" korean="[TechniqueName] 단계가 낮아서 [Recipe] 레시피를 배울 수 없습니다." />
+	<block key="GMC_6207" korean="[AreaName] 지역으로 이동하시겠습니까?" />
+	<block key="GMC_6206" korean="[ItemName] 아이템을 업적창([AchievementShortcutKey])을 열어 받을 수 있습니다." />
+	<block key="GMC_2113" korean="결투 중에는 사용 할 수 없습니다." />
+	<block key="GMC_6461" korean="펠로우가 최고 레벨이 되어야 강화를 할 수 있습니다." />
+	<block key="GMC_6462" korean="펠로우의 강화 레벨이 최고상태 입니다." />
+	<block key="GMC_6463" korean="[itemName] [rubyCount]개 필요" />
+	<block key="GMC_6464" korean="봉인펠로우의 레벨이 최고 레벨일때만 강화가 가능합니다." />
+	<block key="GMC_702" korean="실시간 최적화 옵션이 적용되었습니다." />
+	<block key="GMC_703" korean="실시간 최적화 옵션이 해제되었습니다." />
+	<block key="GMC_704" korean="프레임 저하로 인해 실시간 최적화 옵션의 최고 단계가 적용되었습니다." />
+	<block key="GMC_705" korean="LOD, 캐릭터 표현제한 옵션을 변경하면 실시간 최적화 옵션이 해제 됩니다. 계속 진행 하시겠습니까?" />
+	<block key="GMC_6465" korean="봉인 펠로우 아이템 필요" />
+	<block key="GMC_4047" korean="캐릭터 생성정보를 요청 중입니다." />
+	<block key="GMC_4048" korean="캐릭터 선택창으로 이동 중입니다." />
+	<block key="GMC_6466" korean="강화 확률이 100% 가 되어 더 이상 펠로우를 추가 할 수 없습니다." />
+	<block key="GMC_52" korean="[ItemName]아이템을 정말 판매하시겠습니까?" />
+	<block key="GMC_6208" korean="[Target]님이 [ActorName] 펠로우 길들이기에 성공하였습니다." />
+	<block key="GMC_6209" korean="[Target]님이 [ActorName]에게서 [ItemName]아이템을 획득하였습니다." />
+	<block key="GMC_6467" korean="강화를 할 수 없는 펠로우입니다." />
+	<block key="GMC_855" korean="공격대에 가입되지 않았습니다." />
+	<block key="GMC_856" korean="공격대장이 아니라서 공격대명령을 사용할 수 없습니다." />
+	<block key="GMC_6210" korean="단축키 ([shortWhisper]) 로 최근 받은 귓속말을 답장할 수 있습니다.
+다음 명령어 입력 후 Space 입력 시 채팅 모드가 변경됩니다.
+ /일반, /s, /ㄴ
+ /지역, /c, /ㅊ
+ /귓속말, /w, /ㅈ
+ /공격대, /b, /ㅠ
+ /공격대명령, /q, /ㅂ
+ /길드, /g, /ㅎ
+ /연합, /u, /ㅕ
+ /민병대, /m, /ㅡ" />
+	<block key="GMC_6469" korean="펠로우 강화가 성공하여 +[ReinforceLevel] 단계가 되었습니다." />
+	<block key="GMC_6470" korean="펠로우 강화에 실패하였습니다." />
+	<block key="GMC_6468" korean="강화에 소모되는 아이템이 필요하지 않습니다." />
+	<block key="GMC_6471" korean="[itemName] [itemCount]개 필요합니다. 구입 후 다시 진행해주십시오." />
+	<block key="GMC_6472" korean="대상 펠로우보다 봉인 펠로우의 레벨이 낮습니다." />
+	<block key="GMC_15715" korean="펠로우의 최소 고도에 근접하고 있습니다." />
+	<block key="GMC_15716" korean="펠로우의 최소 고도에 진입하여 소환 해제 되었습니다." />
+	<block key="GMC_15717" korean="현재 지역이 펠로우 최소 고도보다 낮아 소환 할 수 없습니다." />
+	<block key="GMC_15017" korean="최소 비행 높이보다 낮아 펠로우를 소환 할 수 없습니다." />
+	<block key="GMC_6473" korean="강화가 된 봉인펠로우는 강화재료로 사용할 수 없습니다." />
+	<block key="GMC_6211" korean="튜토리얼을 종료하면 다시 플레이 할 수 없습니다.
+그래도 종료하시겠습니까?" />
+	<block key="GMC_15050" korean="승객이 탑승 중입니다. 정말 하차하겠습니까?" />
+	<block key="GMC_15051" korean="탑승 중인 펠로우를 정말 하차 하시겠습니까?" />
+	<block key="GMC_6212" korean="[Target]님이 [ActorName] 펠로우의 [Value]차 강화에 성공하였습니다." />
+	<block key="GMC_6214" korean="[Exp] 경험치를 획득 하였습니다.[PlusExp]" />
+	<block key="GMC_6474" korean="봉인해제 가능 레벨이 맞지 않아 봉인해제를 할 수 없습니다." />
+	<block key="GMC_6475" korean="봉인해제 가능 등급이 맞지 않아 봉인해제를 할 수 없습니다." />
+	<block key="GMC_6476" korean="봉인해제를 할 수 없는 아이템입니다." />
+	<block key="GMC_9108" korean="귀속을 해제할 아이템을 선택해 주세요." />
+	<block key="GMC_9109" korean="귀속해제를 할 수 없는 아이템입니다." />
+	<block key="GMC_9110" korean="착용 중인 아이템은 귀속해제 할 수 없습니다." />
+	<block key="GMC_9111" korean="[ItemName]의 귀속을 해제 하시겠습니까?" />
+	<block key="GMC_9112" korean="귀속해제 가능 횟수가 부족하여 더 이상 해제 할 수 없습니다." />
+	<block key="GMC_9113" korean="귀속해제 가능 레벨이 맞지 않아 귀속해제를 할 수 없습니다." />
+	<block key="GMC_9114" korean="귀속해제 가능 등급이 맞지 않아 귀속해제를 할 수 없습니다." />
+	<block key="GMC_9115" korean="귀속해제 횟수를 초기화할 아이템을 선택해 주세요." />
+	<block key="GMC_9116" korean="귀속해제 횟수를 초기화 할 수 없는 아이템입니다." />
+	<block key="GMC_9117" korean="[ItemName]의 귀속해제 횟수를 초기화 하시겠습니까?" />
+	<block key="GMC_9995" korean="귀속해제가 취소되었습니다." />
+	<block key="GMC_9996" korean="귀속해제 횟수 초기화가 취소되었습니다." />
+	<block key="GMC_6221" korean="추출할 봉인 펠로우를 선택해 주세요." />
+	<block key="GMC_6215" korean="펠로우 봉인 추출 아이템의 등급이 낮아 사용할 수 없습니다." />
+	<block key="GMC_6216" korean="펠로우 봉인 추출을 할 수 없는 아이템입니다." />
+	<block key="GMC_6217" korean="조건이 맞지않아 봉인석을 추출 할 수 없습니다." />
+	<block key="GMC_6218" korean="봉인 펠로우 추출이 취소 되었습니다." />
+	<block key="GMC_6219" korean="봉인 펠로우를 추출할 아이템을 선택해 주세요." />
+	<block key="GMC_6220" korean="[FellowName]을(를) 추출하시겠습니까?<br><font color="#FF7800">추출하실 경우, 펠로우 보관함에 1레벨의 펫으로 등록됩니다.</font>" />
+	<block key="GMC_9982" korean="봉인해제할 봉인된 펠로우 아이템을 선택해 주세요." />
+	<block key="GMC_9994" korean="봉인해제가 취소되었습니다." />
+	<block key="GMC_9118" korean="[ItemName]의 귀속이 해제되었습니다" />
+	<block key="GMC_9119" korean="[ItemName]의 귀속 해제 횟수가 회복 되었습니다." />
+	<block key="GMC_6213" korean="[Cost]가 필요합니다." />
+	<block key="GMC_6477" korean="봉인 펠로우 아이템이 아닙니다." />
+	<block key="GMC_6478" korean="봉인석 추출이 진행 중 입니다." />
+	<block key="GMC_6479" korean="봉인석이 추출 되었습니다." />
+	<block key="GMC_16100" korean="[Attacker]의 공격으로 [Target]에게 [Value]의 피해를 입혔습니다." />
+	<block key="GMC_16101" korean="[Attacker]의 공격으로 [Target]에게 치명타 [Value]의 피해를 입혔습니다." />
+	<block key="GMC_16102" korean="[Attacker]의 공격이 [Target]에게 시도되었으나 회피되었습니다." />
+	<block key="GMC_16103" korean="[Attacker]의 공격이 [Target]에게 시도되었으나 빗맞았습니다." />
+	<block key="GMC_16104" korean="[Attacker]의 공격이 [Target]에게 시도되었으나 방어에 막혔습니다." />
+	<block key="GMC_16105" korean="[Attacker]의 공격이 [Target]에게 시도되었으나 방패에 막혔습니다." />
+	<block key="GMC_16106" korean="[Attacker]의 공격이 [Target]에게 시도되었으나 무기에 막혔습니다." />
+	<block key="GMC_16107" korean="[Attacker]의 [SkillName] 스킬로 [Target]에게 [Value]의 피해를 입혔습니다." />
+	<block key="GMC_16108" korean="[Attacker]의 [SkillName] 스킬로 [Target]에게 치명타 [Value]의 피해를 입혔습니다." />
+	<block key="GMC_16109" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나 회피되었습니다." />
+	<block key="GMC_16110" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나 빗맞았습니다." />
+	<block key="GMC_16111" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나 방어에 막혔습니다." />
+	<block key="GMC_16112" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나 방패에 막혔습니다." />
+	<block key="GMC_16113" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나 무기에 막혔습니다." />
+	<block key="GMC_16114" korean="[Attacker]의 [SkillName] 스킬로 [Target]에게 [Value]만큼 회복시켰습니다." />
+	<block key="GMC_16115" korean="[Attacker]의 [BuffName]효과가 [Target]에게 적용되었습니다." />
+	<block key="GMC_16116" korean="[Attacker]의 [BuffName]효과가 [Target]에게서 해제되었습니다." />
+	<block key="GMC_16117" korean="[Attacker]의 [BuffName]효과로 [Target]에게 [Value]의 피해를 입었습니다." />
+	<block key="GMC_16118" korean="[Attacker]의 [BuffName]효과로 [Target]에게 [Value]만큼 회복시켰습니다." />
+	<block key="GMC_16119" korean="[BuffName]효과가 [Target]에게 적용되었습니다." />
+	<block key="GMC_16120" korean="[BuffName]효과가 [Target]에게서 해제되었습니다." />
+	<block key="GMC_16121" korean="[BuffName]효과로 [Target]에게 [Value]의 피해를 입었습니다." />
+	<block key="GMC_16122" korean="[BuffName]효과로 [Target]에게 [Value]만큼 회복시켰습니다." />
+	<block key="GMC_16500" korean="[Attacker]의 공격이 [Target]에게 시도되었으나 저항에 막혔습니다." />
+	<block key="GMC_16501" korean="[Attacker]의 공격이 [Target]에게 시도되었으나 저항에 막혔습니다." />
+	<block key="GMC_16502" korean="[Attacker]의 공격이 [Target]에게 시도되었으나 저항에 막혔습니다." />
+	<block key="GMC_16510" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나 저항에 막혔습니다." />
+	<block key="GMC_16511" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나 저항에 막혔습니다." />
+	<block key="GMC_16512" korean="[Attacker]의 [SkillName] 스킬이 [Target]에게 공격되었으나 저항에 막혔습니다." />
+	<block key="GMC_17500" korean="엑자란 민병대에 가입 하시겠습니까?" />
+	<block key="GMC_17501" korean="엑자란 민병대에서 탈퇴 하시겠습니까?" />
+	<block key="GMC_17502" korean="[BuffName] 버프를
+받으시겠습니까?" />
+	<block key="GMC_17503" korean="엑자란 민병대에 이미 가입되어 있습니다." />
+	<block key="GMC_17504" korean="엑자란 민병대에 가입되어 있지 않습니다." />
+	<block key="GMC_17505" korean="엑자란 민병대에 가입했습니다." />
+	<block key="GMC_17506" korean="엑자란 민병대를 탈퇴했습니다." />
+	<block key="GMC_17507" korean="길드가 3등급으로 승급하여 엑자란 민병대에서 탈퇴되었습니다." />
+	<block key="GMC_6361" korean="길드장 해임이 시작되었습니다." />
+	<block key="GMC_6362" korean="[Name] 길드장이 해임 되었습니다." />
+	<block key="GMC_868" korean="[ItemName] 아이템을 사용 가능한 직업 [Count]명만 주사위 굴리기 참여합니다." />
+	<block key="GMC_869" korean="[ItemName] 아이템의 주사위 굴리기에 참여하시겠습니까?" />
+	<block key="GMC_6364" korean="길드장이 게임에 접속하여 길드장 해임이 취소되었습니다." />
+	<block key="GMC_6365" korean="길드장 예정자가 [Name]님으로 변경되었습니다." />
+	<block key="GMC_6480" korean="[Name]의 펠로우" />
+	<block key="GMC_6481" korean="[Name]의 펫" />
+	<block key="GMC_6366" korean="<font color="#75FC4C">[Name] 연합</font>에게 전쟁을 선포했습니다." />
+	<block key="GMC_6367" korean="<font color="#75FC4C">[Name] 연합</font>에서 전쟁을 선포했습니다." />
+	<block key="GMC_6368" korean="전쟁 선포할 연합명을 입력해 주세요." />
+	<block key="GMC_6369" korean="<font color="#75FC4C">[Name] 연합</font>에게
+항복 하시겠습니까?" />
+	<block key="GMC_6370" korean="<font color="#75FC4C">[Request] 연합</font>에서 <font color="#75FC4C">[Accept] 연합</font>에게 전쟁을 선포했습니다." />
+	<block key="GMC_6371" korean="<font color="#75FC4C">[Request] 연합</font>과 <font color="#75FC4C">[Accept] 연합</font>의 전쟁이 시작되었습니다." />
+	<block key="GMC_6372" korean="<font color="#75FC4C">[Accept] 연합</font>이 <font color="#75FC4C">[Request] 연합</font>의 기세에 눌려 전쟁 선포를 거절했습니다." />
+	<block key="GMC_6373" korean="연합 전쟁 결과 <font color="#75FC4C">[Request] 연합</font>이 항복하고, <font color="#75FC4C">[Accept] 연합</font>이 승리 했습니다." />
+	<block key="GMC_6374" korean="연합 전쟁 결과 <font color="#75FC4C">[Request] 연합</font>이 패배하고, <font color="#75FC4C">[Accept] 연합</font>이 승리 했습니다." />
+	<block key="GMC_6375" korean="연합원 [Name]님이 접속하셨습니다." />
+	<block key="GMC_6222" korean="이대로 외형을 변경하시겠습니까?<br>외형 변경권 1개가 소모됩니다." />
+	<block key="GMC_6223" korean="외형 변경 화면을 나가시겠습니까?<br>지금까지 변경하신 외형이 삭제됩니다." />
+	<block key="GMC_6224" korean="외형 변경 화면으로 이동하시겠습니까?" />
+	<block key="GMC_6225" korean="외형 변경권을 소지해 주세요." />
+	<block key="gmc_6230" korean="분해 할 아이템을 선택해 주세요." />
+	<block key="gmc_6227" korean="분해 할 수 없는 아이템입니다." />
+	<block key="gmc_6228" korean="분해 도구의 등급이 낮아 분해 할 수 없습니다." />
+	<block key="gmc_9997" korean="분해가 취소되었습니다." />
+	<block key="gmc_6229" korean="[ItemName] 아이템을 분해하시겠습니까?" />
+	<block key="gmc_6231" korean="봉인 옵션을 변경할 봉인석을 선택해 주세요." />
+	<block key="gmc_6233" korean="봉인 옵션을 변경 할 수 없는 아이템입니다." />
+	<block key="gmc_6232" korean="봉인 옵션 변경 아이템의 등급이 낮아 봉인 옵션을 변경 할 수 없습니다." />
+	<block key="gmc_6482" korean="봉인 옵션 변경이 취소되었습니다." />
+	<block key="gmc_6483" korean="[itemName]의 봉인 옵션이 변경되었습니다." />
+	<block key="gmc_6234" korean="[ItemName]의 봉인 옵션을 변경하시겠습니까?<br><font color="#FF7800">주의: 고정 옵션의 경우 옵션이 변경되지 않습니다.</font>" />
+	<block key="gmc_6378" korean="[Killer]님이 [Death]님을 처치했습니다." />
+	<block key="gmc_6379" korean="[Killer]님에게 [Death]님이 당했습니다." />
+	<block key="gmc_6235" korean="착용하고 있는 아이템은 분해할 수 없습니다." />
+	<block key="gmc_25000" korean="보석을 넣을 수 있는 슬롯이 없습니다." />
+	<block key="gmc_25001" korean="[ItemName] 아이템을 장착하시겠습니까?" />
+	<block key="gmc_25002" korean="[ItemName] 아이템을 사용하여, [Count]개의 보석 슬롯을 활성화 하시겠습니까?<br><font color="#FF7800">주의: 기존의 장착되어 있던 팔찌는 사라집니다.</font>" />
+	<block key="gmc_25003" korean="[ItemName] 아이템을 사용하여, [Count]개의 보석 슬롯을 활성화 하시겠습니까?<br><font color="#FF7800">주의: 기존의 장착되어 있던 팔찌는 사라집니다.</font>" />
+	<block key="gmc_25004" korean="[ItemName] 아이템을 추출하시겠습니까?" />
+	<block key="gmc_25005" korean="[ItemName] 아이템을 추출하시겠습니까?<br>추출시 [Price]골드가 소모됩니다." />
+	<block key="gmc_25006" korean="[ItemName] 아이템을 추출하시겠습니까?<br>추출시 [Price]엘룬이 소모됩니다." />
+	<block key="gmc_25007" korean="추출에 실패하여, [ItemName] 아이템이 파괴되었습니다." />
+	<block key="gmc_25008" korean="[ItemName] 아이템이 추출되었습니다." />
+	<block key="gmc_25009" korean="소지금액이 부족하여 추출을 할 수 없습니다." />
+	<block key="gmc_25010" korean="추출할 수 있는 보석 아이템이 없습니다." />
+	<block key="gmc_25011" korean="보석 추출이 취소되었습니다" />
+	<block key="gmc_25012" korean="추출 할 수 없는 아이템 입니다." />
+	<block key="gmc_6380" korean="전쟁 선포를 취소 하시겠습니까?" />
+	<block key="gmc_6381" korean="<font color="#75FC4C">[Request] 연합</font>이 <font color="#75FC4C">[Accept] 연합</font>에게 전쟁 선포를 취소했습니다." />
+	<block key="gmc_9228" korean="펠로우가 소환되어 있어야 하거나 Ctrl키와 조합하여 보관함의 펠로우에게 사용 가능합니다." />
+	<block key="gmc_9229" korean="[FellowName] 펠로우에게 아이템을 사용하시겠습니까?" />
+	<block key="gmc_9983" korean="펠로우 아이템 사용이 취소되었습니다." />
+	<block key="gmc_9124" korean="아이템을 사용할 펠로우를 선택해 주세요." />
+	<block key="gmc_6236" korean="힘 1 당 물리 공격력 [Str_Att]이 증가 합니다." />
+	<block key="gmc_6237" korean="지능 1 당 마법 공격력 [Int_SpAtt]이 증가 합니다." />
+	<block key="gmc_6238" korean="민첩 1 당 물리 치명타율 [Dex_PhAttCri], 회피율 [Dex_PhAvd], 물리 치명타 피해 [Dex_WpCriPow]이 증가 합니다." />
+	<block key="gmc_6239" korean="정신력 1당 마법 치명타율 [Mtl_SpAttCri], 마나 [Mtl_mp], 마법 치명타 피해 [Mtl_SpCriPow]이 증가 합니다." />
+	<block key="gmc_6240" korean="체력 1 당 생명력 [Vtl_hp], 치명타 피해 방어 [Vtl_CriDamReduce]이 증가 합니다." />
+	<block key="gmc_19005" korean="낙찰자가 존재하지 않아 경매를 다시 시작합니다." />
+	<block key="gmc_6241" korean="출석체크가 갱신되어 창을 닫습니다." />
+	<block key="gmc_6242" korean="5초 당 [RecHpPow]의 생명력이 자연 회복됩니다." />
+	<block key="gmc_25013" korean="보석이 장착되어 있는 상태에선 팔찌 아이템을 장착 할 수 없습니다." />
+	<block key="gmc_18107" korean="[ItemName]을 제작 하시겠습니까? 제작 실패 시 재료 아이템은 파괴 됩니다." />
+	<block key="gmc_6243" korean="외형 변경 모드로 이동중입니다." />
+	<block key="gmc_6244" korean="외형 변경 모드 종료후 이용가능합니다." />
+	<block key="gmc_6245" korean="자리비움 상태가 되어 펠로우가 해제됩니다." />
+	<block key="gmc_6246" korean="[TIME] 후에 자리비움 상태로 변경됩니다." />
+	<block key="gmc_706" korean="사용자의 모니터 사양이 낮을 경우, 게임 플레이가 원활하지 않을 수 있습니다." />
+	<block key="gmc_6247" korean="초기화 방지가 선택되지 않아 강화 실패 시<br>아이템이 초기화될 수 있습니다.<br><br>강화를 계속 하시겠습니까?" />
+	<block key="gmc_6248" korean="파괴 방지가 선택되지 않아 강화 실패 시<br>아이템이 파괴될 수 있습니다.<br><br>강화를 계속 하시겠습니까?" />
+	<block key="gmc_6249" korean="초기화, 파괴 방지가 선택되지 않아 강화 실패 시<br>아이템이 초기화 또는 파괴될 수 있습니다.<br><br>강화를 계속 하시겠습니까?" />
+</blocks>

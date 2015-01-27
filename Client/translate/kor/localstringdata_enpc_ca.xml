@@ -1,0 +1,107 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="e_f04_flybabray_001_Name" korean="키이즈" />
+	<block key="e_f04_flybabray_001_NameDetail" korean="" />
+	<block key="e_f04_force_ac_001_Name" korean="기운 증폭기" />
+	<block key="e_f04_force_ac_001_NameDetail" korean="" />
+	<block key="E_f04_SkullH1_001_Name" korean="결사대" />
+	<block key="E_f04_SkullH1_001_NameDetail" korean="고대의 군단" />
+	<block key="E_f04_CabeElit_001_Name" korean="돌격대장" />
+	<block key="E_f04_CabeElit_001_NameDetail" korean="고대의 군단" />
+	<block key="E_f04_SkullB2_002_Name" korean="장궁병" />
+	<block key="E_f04_SkullB2_002_NameDetail" korean="고대의 군단" />
+	<block key="e_f04_ImmoMagi_003_Name" korean="해골 주문사" />
+	<block key="e_f04_ImmoMagi_003_NameDetail" korean="불사 군단" />
+	<block key="e_f04_ImmoKnigh_003_Name" korean="검은 용기사" />
+	<block key="e_f04_ImmoKnigh_003_NameDetail" korean="불사 군단" />
+	<block key="e_f04_ImmoSoldi_002_Name" korean="용기사의 하수인" />
+	<block key="e_f04_ImmoSoldi_002_NameDetail" korean="불사 군단" />
+	<block key="E_f04_Wisp_001_Name" korean="투명한 기운" />
+	<block key="E_f04_Wisp_001_NameDetail" korean="" />
+	<block key="E_f04_Wisp_002_Name" korean="투명한 기운" />
+	<block key="E_f04_Wisp_002_NameDetail" korean="" />
+	<block key="E_f04_Soul_Stone_001_name" korean="생명의 조각" />
+	<block key="E_f04_Soul_Stone_001_namedetail" korean="" />
+	<block key="e_f05_whale_0001_name" korean="공허의 레토른시아" />
+	<block key="e_f05_whale_0001_namedetail" korean="" />
+	<block key="e_f05_dragbone_001_name" korean="공허의 크라비드" />
+	<block key="e_f05_dragbone_001_namedetail" korean="" />
+	<block key="E_D22_flybabray_001_name" korean="코우즈" />
+	<block key="E_D22_flybabray_001_namedetail" korean="" />
+	<block key="E_F04_Griffon_0001_name" korean="공허의 카고일" />
+	<block key="E_F04_Griffon_0001_namedetail" korean="" />
+	<block key="E_F04_Griffon_0002_name" korean="여명의 카고일" />
+	<block key="E_F04_Griffon_0002_namedetail" korean="" />
+	<block key="e_f04_DimpM1_0000_name" korean="불사군단 임프" />
+	<block key="e_f04_DimpM1_0000_namedetail" korean="" />
+	<block key="E_F04_StormEgg_0001_name" korean="드라쿠의 알" />
+	<block key="E_F04_StormEgg_0001_namedetail" korean="" />
+	<block key="E_F04_VampBat_0001_name" korean="우두머리 암흑 박쥐" />
+	<block key="E_F04_VampBat_0001_namedetail" korean="" />
+	<block key="E_F04_VampBat_0002_name" korean="암흑 박쥐" />
+	<block key="E_F04_VampBat_0002_namedetail" korean="" />
+	<block key="E_f04_Beldon_0001_name" korean="불사의 벨던" />
+	<block key="E_f04_Beldon_0001_namedetail" korean="" />
+	<block key="e_f04_ImmoLilis_002_name" korean="불사 군단 리리스" />
+	<block key="e_f04_ImmoLilis_002_namedetail" korean="" />
+	<block key="e_f04_ImmoSoldi_003_name" korean="불사 군단 병사" />
+	<block key="e_f04_ImmoSoldi_003_namedetail" korean="" />
+	<block key="e_f04_ImmoHopli_004_name" korean="불사 군단 중장병" />
+	<block key="e_f04_ImmoHopli_004_namedetail" korean="" />
+	<block key="e_f04_ImmoKnigh_006_name" korean="불사 군단 기사" />
+	<block key="e_f04_ImmoKnigh_006_namedetail" korean="" />
+	<block key="e_f04_ImmoMagi_006_name" korean="불사 군단 주술사" />
+	<block key="e_f04_ImmoMagi_006_namedetail" korean="" />
+	<block key="E_f04_ElquFairy_001_name" korean="이케리아" />
+	<block key="E_f04_ElquFairy_001_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_001_name" korean="붉은 빛 위습" />
+	<block key="E_f04_Spirwisp_001_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_002_name" korean="푸른 빛 위습" />
+	<block key="E_f04_Spirwisp_002_namedetail" korean="" />
+	<block key="E_f04_ChaoDeram_001_name" korean="데 포르타" />
+	<block key="E_f04_ChaoDeram_001_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_003_name" korean="어둠에 물든 원혼" />
+	<block key="E_f04_Spirwisp_003_namedetail" korean="" />
+	<block key="E_f04_ghost_001_name" korean="방황하는 원혼" />
+	<block key="E_f04_ghost_001_namedetail" korean="" />
+	<block key="E_f04_GoleAncf_001_name" korean="플레암" />
+	<block key="E_f04_GoleAncf_001_namedetail" korean="" />
+	<block key="E_f04_GoleAncu_002_name" korean="파이람" />
+	<block key="E_f04_GoleAncu_002_namedetail" korean="" />
+	<block key="E_f04_hatchling_001_name" korean="블레이" />
+	<block key="E_f04_hatchling_001_namedetail" korean="" />
+	<block key="E_F04_ColdAncfi_001_name" korean="클레시어" />
+	<block key="E_F04_ColdAncfi_001_namedetail" korean="" />
+	<block key="E_f04_MoorCharg_001_name" korean="얼어붙은 정령" />
+	<block key="E_f04_MoorCharg_001_namedetail" korean="" />
+	<block key="E_f04_Moorjavel_001_name" korean="한기서린 정령" />
+	<block key="E_f04_Moorjavel_001_namedetail" korean="" />
+	<block key="E_F04_Golebomb_001_name" korean="살아있는 화염 폭탄" />
+	<block key="E_F04_Golebomb_001_namedetail" korean="" />
+	<block key="E_F04_spidTa_001_name" korean="아바르네" />
+	<block key="E_F04_spidTa_001_namedetail" korean="영혼 포식자" />
+	<block key="E_F04_spid_001_name" korean="영혼 약탈자" />
+	<block key="E_F04_spid_001_namedetail" korean="" />
+	<block key="E_F04_spid_002_name" korean="영혼 탐식자" />
+	<block key="E_F04_spid_002_namedetail" korean="" />
+	<block key="E_F04_spidEgg_0001_name" korean="고대 용의 알" />
+	<block key="E_F04_spidEgg_0001_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_004_name" korean="저주받은 영혼" />
+	<block key="E_f04_Spirwisp_004_namedetail" korean="" />
+	<block key="E_f04_Spirwisp_005_name" korean="고통받는 영혼" />
+	<block key="E_f04_Spirwisp_005_namedetail" korean="" />
+	<block key="E_F04_Spid_003_Name" korean="영혼 거미" />
+	<block key="E_F04_Spid_003_NameDetail" korean="" />
+	<block key="E_F04_Spir_001_Name" korean="타락한 빛의 요정" />
+	<block key="E_F04_Spir_001_NameDetail" korean="" />
+	<block key="e_f04_flybabray_003_Name" korean="케니즈" />
+	<block key="e_f04_flybabray_003_NameDetail" korean="" />
+	<block key="e_f04_flybabray_004_Name" korean="쿠미즈" />
+	<block key="e_f04_flybabray_004_NameDetail" korean="" />
+</blocks>

@@ -1,0 +1,562 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="help_title_guide" korean="플레이 가이드" />
+	<block key="help_infolink_knowhow" korean="강해지는 법" />
+	<block key="help_infolink_knowhow_tip" korean="강해지는 법" />
+	<block key="help_infolink_knowhow_0" korean="<font color="#e5c015">1. 레벨 업을 하면 스탯이 상승하여 캐릭터가 강해집니다.</font>
+  - 공격력, 치명타율, 생명력이 증가합니다.
+  - 몬스터 상대로 명중율, 회피율, 방어력의 효율이 높아집니다.
+  - 새로운 스킬과 더 높은 레벨 장비를 사용할 수 있습니다." />
+	<block key="help_infolink_knowhow_1" korean="<font color="#e5c015">Tip. 부활 후유증 상태에서는 캐릭터의 능력이 감소합니다.
+        부활 후유증은 백색의 치료사에게서 제거할 수 있습니다.</font>" />
+	<block key="help_infolink_knowhow_2" korean="<font color="#e5c015">2. 아이템을 강화하면 공격력과 방어력이 상승합니다.</font>
+  - 강화석을 우 클릭 후 강화할 아이템을 클릭합니다.
+  - 강화석 레벨이 높을 수록 강화 확률이 증가합니다.
+  - 강화석은 추출도구로 아이템을 파괴 후 획득할 수 있습니다.
+  - 추출도구는 상점에서 구입할 수 있습니다." />
+	<block key="help_infolink_knowhow_3" korean="<font color="#e5c015">3. 제작된 물약은 상점 물약보다 효과가 매우 좋습니다.</font>
+  - 연금술 제작으로 성능 좋은 물약을 제작할 수 있습니다.
+  - 연금술은 하카나스 수도성에서 배울 수 있습니다." />
+	<block key="help_infolink_knowhow_4" korean="<font color="#e5c015">4. 혼자 처치하기 힘든 몬스터나 던전은 파티를 추천합니다.</font>
+  - 파티는 <font color="#e5c015">/파티초대 ID</font> 명령어로 초대할 수 있습니다." />
+	<block key="help_infolink_knowhow_5" korean="<font color="#e5c015">5. 펠로우 봉인석으로 아이템에 옵션을 부여할 수 있습니다.</font>
+  - 펠로우 봉인석을 우 클릭 후 강화할 아이템을 클릭합니다.
+  - 펠로우 봉인석 슬롯이 있는 아이템만 가능합니다." />
+	<block key="help_infolink_knowhow_6" korean="<font color="#e5c015">6. 특성을 장착하면, 스킬 효율을 극대화 시킬 수 있습니다.</font>
+  - 특성은 20레벨 이상부터 장착할 수 있습니다.
+  - 특성은 특성 포인트를 소모하여 장착할 수 있습니다.
+  - 특성 포인트는 펠로우 봉인석으로 획득할 수 있습니다." />
+	<block key="help_title_mainui" korean="인터페이스" />
+	<block key="help_infolink_mainui" korean="메인 화면" />
+	<block key="help_infolink_mainui_tip" korean="메인 화면 구성" />
+	<block key="help_infolink_mainui_0" korean="1. <font color="#e5c015">상태 정보</font> : 레벨, 이름, 생명력, 소모게이지 표시" />
+	<block key="help_infolink_mainui_1" korean="2. <font color="#e5c015">채팅 창</font> : 대화, 전투, 시스템 메시지 표시" />
+	<block key="help_infolink_mainui_2" korean="3. <font color="#e5c015">기본 정보</font> : 활력 표시" />
+	<block key="help_infolink_mainui_3" korean="4. <font color="#e5c015">퀵 슬롯</font> : 스킬, 아이템을 등록하여 단축키로 사용" />
+	<block key="help_infolink_mainui_4" korean="5. <font color="#e5c015">미니 맵</font> : 채널, 주변 지형, 퀘스트 정보, 상점등을 표시" />
+	<block key="help_infolink_mainui_5" korean="6. <font color="#e5c015">퀘스트 알림</font> : 현재 수행중인 퀘스트 정보 표시" />
+	<block key="help_infolink_mainui_6" korean="7. <font color="#e5c015">게임 메뉴</font> : 캐릭터 정보, 가방, 스킬등의 메뉴 표시" />
+	<block key="help_infolink_gamemenu" korean="게임 메뉴" />
+	<block key="help_infolink_gamemenu_tip" korean="게임 메뉴 설명" />
+	<block key="help_infolink_gamemenu_0" korean="게임메뉴의 버튼을 클릭하여 기능 선택 가능" />
+	<block key="help_infolink_gamemenu_1" korean="1. <font color="#e5c015">엘로라의 상점</font> : 엘룬, 캐시 아이템 구매" />
+	<block key="help_infolink_gamemenu_2" korean="2. <font color="#e5c015">엘로라의 보관함</font> : 캐시 아이템, 이벤트 보상 등 보관" />
+	<block key="help_infolink_gamemenu_3" korean="3. <font color="#e5c015">정보</font> : 캐릭터, 펠로우에 대한 정보" />
+	<block key="help_infolink_gamemenu_4" korean="4. <font color="#e5c015">컨텐츠</font> : 게임 컨텐츠 관련 기능 등에 대한 메뉴" />
+	<block key="help_infolink_gamemenu_5" korean="5. <font color="#e5c015">커뮤니티</font> : 친구/파티/길드 등에 대한 메뉴" />
+	<block key="help_infolink_gamemenu_6" korean="6 <font color="#e5c015">시스템</font> : 게임 시스템 관련 기능 등에 대한 메뉴" />
+	<block key="help_infolink_charui" korean="캐릭터 정보창" />
+	<block key="help_infolink_charui_tip" korean="캐릭터 정보창 설명" />
+	<block key="help_infolink_charui_0" korean="게임 메뉴의 캐릭터를 클릭하거나, 단축키 <font color="#e5c015">P</font>로 열수 있습니다." />
+	<block key="help_infolink_charui_1" korean="장비를 착용/해제 하거나, 능력치를 확인할 수 있습니다." />
+	<block key="help_infolink_bagui" korean="가방" />
+	<block key="help_infolink_bagui_tip" korean="가방 설명" />
+	<block key="help_infolink_bagui_0" korean="게임 메뉴의 가방을 클릭하거나, 단축키 <font color="#e5c015">I</font>로 열수 있습니다." />
+	<block key="help_infolink_bagui_1" korean="1. <font color="#e5c015">가방 슬롯</font> : 가방을 등록하면 추가로 공간을 확장합니다." />
+	<block key="help_infolink_bagui_2" korean="2. <font color="#e5c015">정렬 버튼</font> : 자동으로 아이템 종류에 따라 정렬합니다." />
+	<block key="help_infolink_bagui_3" korean="3. <font color="#e5c015">소지금</font> : 소지중인 돈을 확인할 수 있습니다." />
+	<block key="help_infolink_bagui_4" korean="4. <font color="#e5c015">아이템 분할</font> :
+  - 수량이 2개 이상인 아이템에 <font color="#e5c015">shift + 우클릭</font>하여 원하는 수량만큼 분할할 수 있습니다." />
+	<block key="help_infolink_raderui" korean="미니맵" />
+	<block key="help_infolink_raderui_tip" korean="미니맵 설명" />
+	<block key="help_infolink_raderui_0" korean="1. 클릭하여 다른 채널로 이동할 수 있습니다." />
+	<block key="help_infolink_raderui_1" korean="2. 현재 위치한 지역 이름을 표시합니다." />
+	<block key="help_infolink_raderui_2" korean="3. <font color="#e5c015">기능</font> : 확대/축소, 투명화, 미니맵 표시 설정" />
+	<block key="help_infolink_raderui_3" korean="4. <font color="#e5c015">펠로우 관련 기능 가능 여부</font> : 탑승, 소환, 비행
+  - 가능 : 초록색 표시
+  - 불가능 : 회색 표시" />
+	<block key="help_infolink_raderui_4" korean="5. 현재 위치한 고도를 표시합니다." />
+	<block key="help_infolink_raderui_5" korean="6. 미니맵 숨기기/나타내기" />
+	<block key="help_infolink_mapui" korean="전체지도" />
+	<block key="help_infolink_mapui_tip" korean="전체지도 설명" />
+	<block key="help_infolink_mapui_0" korean="게임 메뉴의 지도를 클릭하거나, 단축키 <font color="#e5c015">M</font>으로 열수 있습니다." />
+	<block key="help_infolink_mapui_1" korean="1. 현재 위치한 지역 이름을 표시합니다." />
+	<block key="help_infolink_mapui_2" korean="2. 클릭하여 다른 지역의 지도를 확인할 수 있습니다." />
+	<block key="help_infolink_mapui_3" korean="3. 클릭하여 월드 맵을 확인할 수 있습니다." />
+	<block key="help_infolink_quickui" korean="단축슬롯" />
+	<block key="help_infolink_quickui_tip" korean="단축슬롯 설명" />
+	<block key="help_infolink_quickui_0" korean="일반/탑승 상태에 따라 자동으로 슬롯이 변환됩니다." />
+	<block key="help_infolink_quickui_1" korean="스킬을 드래그한 상태에서 클래스/탑승 버튼에 잠시 오버하면, 오버된 종류의 슬롯으로 변경됩니다." />
+	<block key="help_infolink_quickui_2" korean="1. <font color="#e5c015">클래스 슬롯</font> : 클래스 스킬과 아이템을 등록할 수 있습니다." />
+	<block key="help_infolink_quickui_3" korean="2. <font color="#e5c015">탑승 슬롯</font> : 탑승 스킬과 아이템을 등록할 수 있습니다." />
+	<block key="help_infolink_communityui" korean="채팅창" />
+	<block key="help_infolink_communityui_tip" korean="채팅창 설명" />
+	<block key="help_infolink_communityui_0" korean="1. 채팅창 옵션을 변경하거나, 추가/삭제할 수 있습니다." />
+	<block key="help_infolink_communityui_1" korean="2. 전투, 파티탭은 드래그하여 분리할 수 있습니다." />
+	<block key="help_infolink_communityui_2" korean="3. 클릭하여 채팅 종류를 변경할 수 있습니다." />
+	<block key="help_title_operate" korean="기본 조작" />
+	<block key="help_infolink_move" korean="이동" />
+	<block key="help_infolink_move_tip" korean="이동 방법" />
+	<block key="help_infolink_move_0" korean="<font color="#e5c015">W</font> : 앞으로 이동" />
+	<block key="help_infolink_move_1" korean="<font color="#e5c015">S</font> : 뒤로 이동" />
+	<block key="help_infolink_move_2" korean="<font color="#e5c015">A</font> : 좌로 이동" />
+	<block key="help_infolink_move_3" korean="<font color="#e5c015">D</font> : 우로 이동" />
+	<block key="help_infolink_combat" korean="기본 전투" />
+	<block key="help_infolink_combat_tip" korean="기본 전투 방법" />
+	<block key="help_infolink_combat_0" korean="1. <font color="#e5c015">공격 대상 선택</font>
+  - 캐릭터 정면의 몬스터는 오토타겟팅됩니다.
+  - 몬스터를 클릭하여 선택할 수 있습니다." />
+	<block key="help_infolink_combat_1" korean="2. <font color="#e5c015">기본 공격 명령</font>
+  - 마우스 더블 클릭, 우 클릭으로 공격할 수 있습니다.
+  - 퀵 슬롯에 등록된 자동 공격으로 공격할 수 있습니다." />
+	<block key="help_infolink_combat_2" korean="3. <font color="#e5c015">원거리 공격 회피</font>
+  - 원거리 공격 시 투사체가 발사됩니다.
+  - 캐릭터를 이동하여 적의 공격 투사체를 회피할 수 있습니다." />
+	<block key="help_infolink_camera" korean="카메라 조작" />
+	<block key="help_infolink_camera_tip" korean="카메라 조작 방법" />
+	<block key="help_infolink_camera_0" korean="1. <font color="#e5c015">Page Up</font> 버튼을 누르면 화면이 왼쪽으로 움직입니다." />
+	<block key="help_infolink_camera_1" korean="2. <font color="#e5c015">Page Down</font> 버튼을 누르면 화면이 오른쪽으로 움직입니다." />
+	<block key="help_infolink_shortcut" korean="단축키" />
+	<block key="help_infolink_shortcut_tip" korean="단축키 설정 방법" />
+	<block key="help_infolink_shortcut_0" korean="ESC키를 누르고 게임 옵션에서 <font color="#e5c015">단축키 탭</font>을 클릭합니다." />
+	<block key="help_infolink_shortcut_1" korean="변경할 단축키를 클릭한 후 원하는 키를 누르면 변경됩니다." />
+	<block key="help_infolink_chatcommand" korean="채팅 명령어" />
+	<block key="help_infolink_chatcommand_tip" korean="채팅 명령어 종류" />
+	<block key="help_infolink_chatcommand_0" korean="<font color="#e5c015">/s, /S, /ㄴ</font> : 일반 채팅으로 전환" />
+	<block key="help_infolink_chatcommand_1" korean="<font color="#e5c015">/c, /C, /ㅊ</font> : 지역 채팅으로 전환" />
+	<block key="help_infolink_chatcommand_2" korean="<font color="#e5c015">/w, /W, /ㅈ</font> : 귓속말로 전환 후 ID를 입력하고 Space키 입력" />
+	<block key="help_infolink_chatcommand_3" korean="<font color="#e5c015">/b, /B, /ㅠ</font> : 공격대 채팅으로 전환" />
+	<block key="help_infolink_chatcommand_4" korean="<font color="#e5c015">/q, /Q, /ㅂ</font> : 공격대 명령 채팅으로 전환" />
+	<block key="help_infolink_chatcommand_5" korean="<font color="#e5c015">/p, /P, /ㅔ</font> : 파티 채팅으로 전환" />
+	<block key="help_infolink_chatcommand_6" korean="<font color="#e5c015">/g, /G, /ㅎ</font> : 길드 채팅으로 전환" />
+	<block key="help_infolink_chatcommand_7" korean="<font color="#e5c015">/u, /U, /ㅕ</font> : 연합 채팅으로 전환" />
+	<block key="help_infolink_chatcommand_8" korean="<font color="#e5c015">/m, /M, /ㅡ</font> : 민병대 채팅으로 전환" />
+	<block key="help_infolink_actionkey" korean="액션키 활용" />
+	<block key="help_infolink_actionkey_tip" korean="액션키 활용 방법" />
+	<block key="help_infolink_actionkey_0" korean="단축키 <font color="#e5c015">F</font>로 루팅, NPC대화, 오브젝트 작동을 할 수 있습니다." />
+	<block key="help_infolink_quickmenu" korean="퀵 메뉴" />
+	<block key="help_infolink_quickmenu_tip" korean="퀵 메뉴 사용" />
+	<block key="help_infolink_quickmenu_0" korean="상태 정보를 우 클릭하여, <font color="#e5c015">인던/파티 메뉴</font>를 사용할 수 있습니다." />
+	<block key="help_infolink_quickmenu_1" korean="상대 캐릭터를 우 클릭하여, <font color="#e5c015">커뮤니티 메뉴</font>를 사용할 수 있습니다." />
+	<block key="help_infolink_crossbowmode" korean="석궁 모드" />
+	<block key="help_infolink_crossbowmode_tip" korean="석궁 모드 설명" />
+	<block key="help_infolink_crossbowmode_0" korean="게임 옵션에서 탑승 시 <font color="#e5c015">마우스 고정 옵션</font>을 선택하면, 탑승했을 때 조준선이 고정되어 바라보는 방향과 일치하게 됩니다." />
+	<block key="help_title_skill" korean="스킬" />
+	<block key="help_infolink_skillui" korean="스킬 창" />
+	<block key="help_infolink_skillui_tip" korean="스킬 창 설명" />
+	<block key="help_infolink_skillui_0" korean="게임 메뉴의 스킬을 클릭하거나, 단축키 <font color="#e5c015">K</font>로 열수 있습니다." />
+	<block key="help_infolink_skillui_1" korean="1. <font color="#e5c015">클래스 스킬</font> : 클래스 고유 스킬 목록" />
+	<block key="help_infolink_skillui_2" korean="2. <font color="#e5c015">탑승 스킬</font> : 탑승 시 사용할 수 있는 석궁, 창 스킬 목록" />
+	<block key="help_infolink_skilllearn" korean="스킬 자동 습득" />
+	<block key="help_infolink_skilllearn_tip" korean="스킬 자동 습득" />
+	<block key="help_infolink_skilllearn_0" korean="캐릭터 레벨이 상승하면, 레벨에 맞는 스킬이 <font color="#e5c015">자동 습득</font>됩니다." />
+	<block key="help_infolink_skilllearn_1" korean="신규스킬 버튼을 클릭하면 스킬 목록을 확인할 수 있습니다." />
+	<block key="help_infolink_skilllevel" korean="스킬 레벨 상승" />
+	<block key="help_infolink_skilllevel_tip" korean="스킬 레벨 상승" />
+	<block key="help_infolink_skilllevel_0" korean="캐릭터 레벨이 상승하면, 레벨에 맞는 스킬이 <font color="#e5c015">자동 레벨 상승</font> 합니다." />
+	<block key="help_infolink_charge" korean="챠지 스킬" />
+	<block key="help_infolink_charge_tip" korean="챠지 스킬 설명" />
+	<block key="help_infolink_charge_0" korean="챠지 타입 스킬을 누르고 있는 만큼 게이지가 상승합니다." />
+	<block key="help_infolink_charge_1" korean="상승한 챠지 단계에 따라 발동 시 효과가 다르게 적용됩니다." />
+	<block key="help_infolink_skillcombo" korean="콤보 스킬" />
+	<block key="help_infolink_skillcombo_tip" korean="콤보 스킬 설명" />
+	<block key="help_infolink_skillcombo_0" korean="콤보 스킬은 하나의 스킬이 2개 이상의 발동 효과를 가집니다." />
+	<block key="help_infolink_skillcombo_1" korean="콤보 스킬을 연타할 때마다 설정된 콤보 효과가 발동됩니다." />
+	<block key="help_infolink_recom" korean="링크 스킬" />
+	<block key="help_infolink_recom_tip" korean="링크 스킬 설명" />
+	<block key="help_infolink_recom_0" korean="링크 스킬은 효용성이 높은 스킬을 자동으로 추천해주어, 쉽게 추가적인 효과를 발동 시키는 스킬을 연계해줍니다." />
+	<block key="help_infolink_skilllink" korean="연계 스킬" />
+	<block key="help_infolink_skilllink_tip" korean="연계 스킬 설명" />
+	<block key="help_infolink_skilllink_0" korean="넘어짐, 밀려남과 같은 특정 상황이나, 특정 스킬을 사용했을 때만 사용할 수 있는 스킬을 캐릭터 우측에 표시해 줍니다." />
+	<block key="help_infolink_talent" korean="특성" />
+	<block key="help_infolink_talent_tip" korean="특성 설명" />
+	<block key="help_infolink_talent_0" korean="1. 캐릭터 정보 창에서 <font color="#e5c015">특성 탭</font>을 클릭하여 확인할 수 있습니다." />
+	<block key="help_infolink_talent_1" korean="2. 현재 가지고 있는 <font color="#e5c015">특성력</font>을 확인할 수 있습니다." />
+	<block key="help_infolink_talent_2" korean="  - 특성력은 봉인된 펠로우를 드래그하여 획득할 수 있습니다." />
+	<block key="help_infolink_talent_3" korean="3. 클래스 마다 고유의 3가지 종류의 특성을 가집니다." />
+	<block key="help_infolink_talent_4" korean="4. 레벨에 따라 특성 슬롯이 확장되어 특성을 장착할 수 있습니다." />
+	<block key="help_title_item" korean="아이템" />
+	<block key="help_infolink_set" korean="세트 아이템" />
+	<block key="help_infolink_set_tip" korean="세트 아이템 설명" />
+	<block key="help_infolink_set_0" korean="세트 아이템은 같은 종류의 아이템을 착용했을 경우 착용 개수에 따라 추가 효과가 적용됩니다." />
+	<block key="help_infolink_fellowoption" korean="봉인 옵션 부여" />
+	<block key="help_infolink_fellowoption_tip" korean="봉인 옵션 부여" />
+	<block key="help_infolink_fellowoption_0" korean="봉인된 펠로우를 슬롯을 가진 무기에 드래그하면, 무기에 추가 효과를 부여할 수 있습니다." />
+	<block key="help_infolink_extraction" korean="추출" />
+	<block key="help_infolink_extraction_tip" korean="추출 설명" />
+	<block key="help_infolink_extraction_0" korean="1. 추출 도구는 잡화 상인에게서 구입할 수 있습니다." />
+	<block key="help_infolink_extraction_1" korean="2. 추출 도구를 우 클릭하면, 추출 가능 한 아이템이 표시됩니다." />
+	<block key="help_infolink_extraction_2" korean="3. 추출할 아이템을 클릭하면 <font color="#e5c015">강화석</font>을 추출할 수 있습니다." />
+	<block key="help_infolink_extraction_3" korean="  - 레벨, 등급이 높을수록 고 레벨 강화석을 획득합니다." />
+	<block key="help_infolink_reinforce" korean="강화" />
+	<block key="help_infolink_reinforce_tip" korean="강화 설명" />
+	<block key="help_infolink_reinforce_0" korean="1. 강화석을 우 클릭하면, 강화 가능한 아이템이 표시됩니다." />
+	<block key="help_infolink_reinforce_1" korean="2. 강화할 아이템을 클릭할 경우 아이템 능력치가 상승합니다." />
+	<block key="help_infolink_reinforce_2" korean="  - <font color="#e5c015">무기</font> : 공격력 상승" />
+	<block key="help_infolink_reinforce_3" korean="  - <font color="#e5c015">방어구/방패/아티팩트</font> : 방어력 상승" />
+	<block key="help_infolink_reinforce_4" korean="3. <font color="#e5c015">5, 10, 15, 20</font> 단계에서는 능력치가 추가로 상승합니다." />
+	<block key="help_infolink_reinforce_5" korean="4. 강화는 최대 20단계까지 가능합니다." />
+	<block key="help_infolink_reinforce_6" korean="  - <font color="#e5c015">1~5단계</font> : 실패해도 단계가 하락하지 않습니다." />
+	<block key="help_infolink_reinforce_7" korean="  - <font color="#e5c015">6~10단계</font> : 실패시 단계가 하락할 수 있습니다." />
+	<block key="help_infolink_reinforce_8" korean="  - <font color="#e5c015">11~15단계</font> : 실패시 단계하락, 초기화 될 수 있습니다." />
+	<block key="help_infolink_reinforce_9" korean="  - <font color="#e5c015">16~20단계</font> : 실패시 단계하락, 초기화, 파괴될 수 있습니다." />
+	<block key="help_infolink_randombox" korean="랜덤박스" />
+	<block key="help_infolink_randombox_tip" korean="랜덤박스 설명" />
+	<block key="help_infolink_randombox_0" korean="랜덤박스를 클릭하면 클래스에 따라 여러가지의 아이템을 <font color="#e5c015">확률적</font>으로 획득할 수 있습니다." />
+	<block key="help_title_quest" korean="퀘스트" />
+	<block key="help_infolink_questui" korean="퀘스트 창" />
+	<block key="help_infolink_questui_tip" korean="퀘스트 창 설명" />
+	<block key="help_infolink_questui_0" korean="게임 메뉴에서 퀘스트를 클릭하거나 <font color="#e5c015">J</font>키로 열 수 있습니다." />
+	<block key="help_infolink_questui_1" korean="1. 퀘스트 목록에서 퀘스트를 종류별로 확인할 수 있습니다." />
+	<block key="help_infolink_questui_2" korean="2. 퀘스트 이름을 클릭하면, 상세 정보를 확인할 수 있습니다." />
+	<block key="help_infolink_questtype" korean="퀘스트 종류" />
+	<block key="help_infolink_questtype_tip" korean="퀘스트 종류 설명" />
+	<block key="help_infolink_questtype_0" korean="위 그림에서 좌측부터 획득, 진행, 완료 표시" />
+	<block key="help_infolink_questtype_1" korean="1. <font color="#e5c015">시나리오</font> : 메인 스토리를 따라가는 시나리오 퀘스트입니다." />
+	<block key="help_infolink_questtype_2" korean="2. <font color="#e5c015">일반</font> : 시나리오를 중심으로 관련된 일반 퀘스트입니다." />
+	<block key="help_infolink_questtype_3" korean="3. <font color="#e5c015">의뢰</font> : 반복적으로 수행할 수 있는 반복 퀘스트입니다." />
+	<block key="help_infolink_questhelper" korean="퀘스트 알림" />
+	<block key="help_infolink_questhelper_tip" korean="퀘스트 알림 설명" />
+	<block key="help_infolink_questhelper_0" korean="1. 퀘스트 마크를 클릭하면 <font color="#e5c015">수행 위치</font>를 확인할 수 있습니다." />
+	<block key="help_infolink_questhelper_1" korean="2. 퀘스트 이름을 클릭하면 <font color="#e5c015">상세 정보</font>를 확인할 수 있습니다." />
+	<block key="help_infolink_questhelper_2" korean="3. 선택/해제하여 <font color="#e5c015">알림</font>을 표시하거나 끌 수 있습니다." />
+	<block key="help_title_contents" korean="컨텐츠" />
+	<block key="help_infolink_dungeonlevel" korean="던전 난이도" />
+	<block key="help_infolink_dungeonlevel_tip" korean="던전 난이도 설명" />
+	<block key="help_infolink_dungeonlevel_0" korean="던전에 입장할 때 난이도를 선택할 수 있습니다." />
+	<block key="help_infolink_dungeonlevel_1" korean="다음 난이도를 플레이하려면 이전 난이도를 완료해야 합니다." />
+	<block key="help_infolink_uniteparty" korean="10인 공격대" />
+	<block key="help_infolink_uniteparty_tip" korean="10인 공격대 설명" />
+	<block key="help_infolink_uniteparty_0" korean="파티장은 파티 메뉴에서 공격대로 편성할 수 있습니다." />
+	<block key="help_infolink_uniteparty_1" korean="공격대는 최대 10명까지 편성할 수 있습니다." />
+	<block key="help_infolink_pvp" korean="결투" />
+	<block key="help_infolink_pvp_tip" korean="결투 설명" />
+	<block key="help_infolink_pvp_0" korean="상대방 <font color="#e5c015">우 클릭 메뉴, /결투 ID 명령어, 결투 신청 액션 메뉴</font>로 결투를 신청할 수 있습니다." />
+	<block key="help_infolink_pvp_1" korean="1. 대상의 HP를 0으로 만드는 공격 성공 시 <font color="#e5c015">승리</font>합니다." />
+	<block key="help_infolink_pvp_2" korean="2. 항복 버튼을 클릭하거나, 결투 장소를 벗어나면 <font color="#e5c015">패배</font>합니다." />
+	<block key="help_infolink_guild" korean="길드" />
+	<block key="help_infolink_guild_tip" korean="길드 설명" />
+	<block key="help_infolink_guild_0" korean="하카나스 수도성에서 길드 관리소에 위치한 <font color="#e5c015">길드 마스터</font>와 대화하여 길드를 생성할 수 있습니다." />
+	<block key="help_infolink_guild_1" korean="길드 레벨이 상승함에 따라 자동으로 <font color="#e5c015">길드 스킬</font>을 활성화됩니다." />
+	<block key="help_title_system" korean="시스템" />
+	<block key="help_infolink_partyinvite" korean="파티" />
+	<block key="help_infolink_partyinvite_tip" korean="파티 설명" />
+	<block key="help_infolink_partyinvite_0" korean="상대방 <font color="#e5c015">우 클릭 메뉴, /파티초대 ID 명령어, 파티 초대 액션 메뉴</font>로 파티에 초대할 수 있습니다." />
+	<block key="help_infolink_partyinvite_1" korean="1. 파티장은 전리품 분배 방식을 변경할 수 있습니다." />
+	<block key="help_infolink_partyinvite_2" korean="2. 파티원의 정보는 상태 정보 하단에서 확인할 수 있습니다." />
+	<block key="help_infolink_partyinvite_3" korean="3. 파티원의 수에 비례하여 획득 경험치량과 드랍율이 증가하는 버프를 얻을 수 있습니다." />
+	<block key="help_infolink_tradeui" korean="개인 거래" />
+	<block key="help_infolink_tradeui_tip" korean="개인 거래 설명" />
+	<block key="help_infolink_tradeui_0" korean="상대방 <font color="#e5c015">우 클릭 메뉴, 1:1 거래 신청 액션 메뉴</font>로 대상과 거래할 수 있습니다." />
+	<block key="help_infolink_tradeui_1" korean="1. 자신의 아이템, 돈을 등록할 수 있습니다." />
+	<block key="help_infolink_tradeui_2" korean="2. 상대방의 아이템, 돈을 확인할 수 있습니다." />
+	<block key="help_infolink_channelui" korean="채널 이동" />
+	<block key="help_infolink_channelui_tip" korean="채널 이동 설명" />
+	<block key="help_infolink_channelui_0" korean="한 지역에 다수의 유저가 몰릴 경우 한산한 채널로 이동하여, 원활한 플레이를 즐길 수 있습니다." />
+	<block key="help_infolink_portal" korean="포탈 이동" />
+	<block key="help_infolink_portal_tip" korean="포탈 이동 설명" />
+	<block key="help_infolink_portal_0" korean="1. <font color="#FFBB00">상급 포탈이동장치</font>" />
+	<block key="help_infolink_portal_1" korean="  - 상급 포탈이동장치는 최초지역에만 위치합니다." />
+	<block key="help_infolink_portal_2" korean="  - 상급 포탈이동장치는 다른 지역으로 이동이 가능합니다.
+    (지역 내 이동도 가능)" />
+	<block key="help_infolink_portal_3" korean="  - 포탈이동장치는 귀환위치 지정이 가능합니다." />
+	<block key="help_infolink_portal_4" korean="2. <font color="#FFBB00">포탈이동장치</font>" />
+	<block key="help_infolink_portal_5" korean="  - 포탈이동장치는 주요 지역에 위치해있습니다." />
+	<block key="help_infolink_portal_6" korean="  - 포탈 이동장치는 지역 내 이동만 가능합니다.
+    (다른 지역으로 이동 불가)" />
+	<block key="help_infolink_portal_7" korean="  - 포탈이동장치는 귀환위치 지정이 가능합니다." />
+	<block key="help_infolink_mail" korean="우편" />
+	<block key="help_infolink_mail_tip" korean="우편 설명" />
+	<block key="help_infolink_mail_0" korean="마을에 배치된 <font color="#e5c015">우편함</font>을 클릭하여 우편을 보내거나 받은 우편을 확인할 수 있습니다." />
+	<block key="help_infolink_auction" korean="판매 대행" />
+	<block key="help_infolink_auction_tip" korean="판매 대행 설명" />
+	<block key="help_infolink_auction_0" korean="지역마다 큰 마을에 배치된 <font color="#e5c015">거래중개인</font>과 대화하여 아이템을 판매 대행할 수 있습니다." />
+	<block key="help_infolink_auction_1" korean="1. <font color="#e5c015">구매</font> : 다른 유저가 등록한 아이템을 구입할 수 있습니다." />
+	<block key="help_infolink_auction_2" korean="2. <font color="#e5c015">판매</font> : 다른 유저에게 판매할 수 있도록 등록합니다." />
+	<block key="help_infolink_auction_3" korean="3. <font color="#e5c015">정산</font> : 판매된 자신의 아이템을 돈으로 정산받을 수 있습니다." />
+	<block key="help_infolink_pcstorage" korean="창고" />
+	<block key="help_infolink_pcstorage_tip" korean="창고 설명" />
+	<block key="help_infolink_pcstorage_0" korean="마을에 배치된 <font color="#e5c015">창고지기</font>와 대화하여 자신의 아이템을 보관할 수 있습니다." />
+	<block key="help_infolink_pcstorage_1" korean="막힌 슬롯은 비용을 지불하여 확장할 수 있습니다." />
+	<block key="help_infolink_collection" korean="채집" />
+	<block key="help_infolink_collection_tip" korean="채집 설명" />
+	<block key="help_infolink_collection_0" korean="1. 곳곳에 배치된 약초, 광석을 채칩할 수 있습니다." />
+	<block key="help_infolink_collection_1" korean="2. 채집한 재료는 <font color="#e5c015">제작</font>에 사용할 수 있습니다." />
+	<block key="help_infolink_collection_2" korean="3. 채집 시 <font color="#e5c015">숙련도</font>가 상승하며, 숙련도가 높으면 더 다양한 재료를 채집할 수 있습니다." />
+	<block key="help_infolink_partyboard" korean="파티 게시판" />
+	<block key="help_infolink_partyboard_tip" korean="파티 게시판 설명" />
+	<block key="help_infolink_partyboard_0" korean="<font color="#e5c015">T</font>키를 눌러 파티 게시판을 생성할 수 있습니다." />
+	<block key="help_infolink_partyboard_1" korean="1. 파티 모집글을 레벨, 종류, 이름으로 검색할 수 있습니다." />
+	<block key="help_infolink_partyboard_2" korean="2. 모집글을 클릭하여 파티에 지원할 수 있습니다." />
+	<block key="help_infolink_partyboard_3" korean="3. 게시물을 등록하여 파티원을 모집할 수 있습니다." />
+	<block key="help_infolink_partyauction" korean="파티 경매" />
+	<block key="help_infolink_partyauction_tip" korean="파티 경매 설명" />
+	<block key="help_infolink_partyauction_0" korean="파티에서 전리품 분배 규칙을 경매로 할 경우, 지정된 등급 이상의 아이템을 획득하면 파티원끼리 경매하여 획득할 수 있습니다." />
+	<block key="help_infolink_partyauction_1" korean="낙찰자가 입찰한 금액은 낙찰자를 제외한 파티원 모두에게 분배됩니다." />
+	<block key="help_infolink_vitality" korean="활력" />
+	<block key="help_infolink_vitality_tip" korean="활력 시스템 설명" />
+	<block key="help_infolink_vitality_0" korean="1. <font color="#e5c015">활력</font>이란?
+  - 정상적인 플레이가 가능한 제한 시간입니다.
+  - 활력을 모두 소진하면 컨텐츠 이용에 제약을 받습니다." />
+	<block key="help_infolink_vitality_1" korean="2. <font color="#e5c015">활력 게이지</font>
+  - 1일 잔여 시간 : 12시간
+  - 주간 잔여 시간 : 35시간
+  - PC방 보너스 주간 잔여 시간 : 15시간" />
+	<block key="help_infolink_vitality_2" korean="3. <font color="#e5c015">활력 게이지 소모</font>
+  - 플레이 시간만큼 활력이 소모됩니다.
+  - <font color="#e5c015">마을</font> 및 <font color="#e5c015">인스턴스 던전 입구</font>에서는 소모되지 않습니다." />
+	<block key="help_infolink_vitality_3" korean="4. <font color="#e5c015">활력 저하</font>
+  - 잔여 활력을 소진할 시 표시되는 디버프입니다.
+  - 활력 저하 상태에서는 이하의 컨텐츠 이용 제약을 받습니다.
+    * 캐릭터/펠로우 경험치 획득 불가
+    * 길드 포인트 획득 불가
+    * 아이템 루팅 불가
+    * 파티 불가
+    * 채집 불가
+    * 퀘스트 수락 및 완료 불가" />
+	<block key="help_infolink_vitality_4" korean="5. <font color="#e5c015">활력 초기화</font>
+  - 1일 잔여 시간 : 매일 04시
+  - 주간 잔여 시간 : 매주 수요일 04시
+  - PC방 보너스 주간 잔여 시간 : 매주 수요일 04시" />
+	<block key="help_infolink_vitality_5" korean="6. <font color="#e5c015">활력 상자</font>
+  - 매일 최초 접속 시 활력 버프를 부여 받습니다.
+  - 활력 버프가 종료될 시 활력 상자를 지급 받습니다.
+  - 활력 상자는 가방에 최대 3개까지 소지 가능합니다." />
+	<block key="help_title_production" korean="제작" />
+	<block key="help_infolink_productionhow" korean="제작 방법" />
+	<block key="help_infolink_productionhow_tip" korean="제작 방법" />
+	<block key="help_infolink_productionhow_0" korean="<font color="#e5c015">아이템 제작 방법</font>
+  - 제작하려는 종류에 맞는 오브젝트에 <font color="#e5c015">F</font>키를 누릅니다.
+  - 제작하려는 아이템의 레시피에 맞게 재료를 준비합니다.
+  - 제작 버튼을 눌러 아이템을 제작합니다." />
+	<block key="help_infolink_productionhow_1" korean="1. <font color="#e5c015">제작 종류</font>
+  - 아이템 제작 종류입니다.
+  - 총 6가지로 무기, 방어구, 장신구, 펠로우 연구, 연금술, 요리가 있습니다." />
+	<block key="help_infolink_productionhow_2" korean="2. <font color="#e5c015">레시피 목록</font>
+  - 습득한 레시피의 목록입니다.
+  - <font color="#e5c015">제작 가능 목록 보기</font>를 체크하여 제작 가능한 항목만 볼 수 있습니다." />
+	<block key="help_infolink_productionhow_3" korean="3. <font color="#e5c015">요구 제작 재료 정보</font>
+  - 제작 아이템에 요구되는 재료 아이템의 정보입니다." />
+	<block key="help_infolink_productionhow_4" korean="4. <font color="#e5c015">제작</font>
+  - 수량을 조절하여 제작할 수 있습니다.
+  - 모두 제작 버튼을 클릭 시 제작가능 최대수량으로 제작합니다.
+  - 일반 재료 2배 사용을 활성화해 대성공 확률을 높일 수 있습니다." />
+	<block key="help_infolink_productionitem" korean="제작 아이템" />
+	<block key="help_infolink_productionitem_tip" korean="제작 아이템" />
+	<block key="help_infolink_productionitem_0" korean="제작 분야 별로 제작할 수 있는 아이템은 이하와 같습니다." />
+	<block key="help_infolink_productionitem_1" korean="1. <font color="#e5c015">무기 제작</font>
+  - 무기 제작 재료
+  - 클래스 무기
+  - 탑승 무기(석궁, 창)" />
+	<block key="help_infolink_productionitem_2" korean="2. <font color="#e5c015">방어구 제작</font>
+  - 방어구 제작 재료
+  - 클래스 방어구
+  - 보조 장비" />
+	<block key="help_infolink_productionitem_3" korean="3. <font color="#e5c015">장신구 제작</font>
+  - 장신구 제작 재료
+  - 반지
+  - 목걸이" />
+	<block key="help_infolink_productionitem_4" korean="4. <font color="#e5c015">펠로우 연구</font>
+  - 펠로우 연구 재료
+  - 펠로우 장비
+  - 길들이기 징표" />
+	<block key="help_infolink_productionitem_5" korean="5. <font color="#e5c015">연금술</font>
+  - 생명력 회복 비약
+  - 마나 회복 비약
+  - 기력 회복 비약
+  - 능력치 강화 비약
+  - 붕대
+  - 기타 소모성 아이템" />
+	<block key="help_infolink_productionitem_6" korean="6. <font color="#e5c015">요리</font>
+  - 생명력 회복 요리
+  - 마나 회복 요리" />
+	<block key="help_infolink_productiongrade" korean="제작 단계 승급" />
+	<block key="help_infolink_productiongrade_tip" korean="제작 단계 승급" />
+	<block key="help_infolink_productiongrade_0" korean="1. <font color="#e5c015">제작 단계 승급 방법</font>
+  - 각 제작 기술자를 통해 기술 단계 올리기가 가능합니다.
+  - 제작 기술자들은 대도시에 위치해 있습니다." />
+	<block key="help_infolink_productiongrade_1" korean="2. <font color="#e5c015">제작 단계 승급 조건</font>
+  - 현재 단계에서 2개 이상의 아이템의 제작숙련도를 마스터해야 합니다.
+  - 아이템의 제작 숙련도는 해당 아이템을 만들 때마다 증가합니다." />
+	<block key="help_infolink_productionperfect" korean="제작 대성공" />
+	<block key="help_infolink_productionperfect_tip" korean="제작 대성공" />
+	<block key="help_infolink_productionperfect_0" korean="1. <font color="#e5c015">제작 대성공</font>이란?
+  - 아이템을 제작할 시 일정확률로 대성공이 발생합니다.
+  - 대성공을 하면 수량이 증가하거나, 품질이 상승합니다." />
+	<block key="help_infolink_productionperfect_1" korean="2. <font color="#e5c015">제작 대성공 확률 증가</font>
+  - 제작하려는 아이템의 제작숙련도가 높을 수록 확률이 증가합니다.
+  - 일반 재료 2배 사용 시 확률이 증가합니다." />
+	<block key="help_infolink_productionweapon" korean="무기" />
+	<block key="help_infolink_productionweapon_tip" korean="무기 제작" />
+	<block key="help_infolink_productionweapon_0" korean="무기 제작을 위해서는 <font color="#e5c015">무기 제작대</font>가 필요합니다." />
+	<block key="help_infolink_productionarmor" korean="방어구" />
+	<block key="help_infolink_productionarmor_tip" korean="방어구 제작" />
+	<block key="help_infolink_productionarmor_0" korean="방어구 제작을 위해서는 <font color="#e5c015">방어구 제작대</font>가 필요합니다." />
+	<block key="help_infolink_productionfellow" korean="펠로우 연구" />
+	<block key="help_infolink_productionfellow_tip" korean="펠로우 연구" />
+	<block key="help_infolink_productionfellow_0" korean="펠로우 연구를 위해서는 <font color="#e5c015">펠로우 연구대</font>가 필요합니다." />
+	<block key="help_infolink_productionfood" korean="요리" />
+	<block key="help_infolink_productionfood_tip" korean="요리 제작" />
+	<block key="help_infolink_productionfood_0" korean="요리 제작을 위해서는 <font color="#e5c015">조리기구</font>가 필요합니다." />
+	<block key="help_infolink_productionfood_1" korean="<font color="#e5c015">일정 단계 이상의 요리는 특수한 효과가 있습니다.</font>
+  - 능력치 상승 버프
+  - <font color="#e5c015">불사의 사막</font> 지역 디버프 저항" />
+	<block key="help_infolink_productionpotion" korean="연금술" />
+	<block key="help_infolink_productionpotion_tip" korean="물약 제작" />
+	<block key="help_infolink_productionpotion_0" korean="연금술을 위해서는 <font color="#e5c015">실험기구</font>가 필요합니다." />
+	<block key="help_infolink_productionaccessory" korean="장신구" />
+	<block key="help_infolink_productionaccessory_tip" korean="장신구 제작" />
+	<block key="help_infolink_productionaccessory_0" korean="장신구 제작을 위해서는 <font color="#e5c015">장신구 제작대</font>가 필요합니다." />
+	<block key="help_title_fellow" korean="펠로우" />
+	<block key="help_infolink_fellowui" korean="펠로우 정보창" />
+	<block key="help_infolink_fellowui_tip" korean="펠로우 정보창" />
+	<block key="help_infolink_fellowui_0" korean="게임 메뉴에서 펠로우를 클릭하거나, <font color="#e5c015">Y</font>키로 열 수 있습니다." />
+	<block key="help_infolink_fellowui_1" korean="1. <font color="#e5c015">펠로우 정보</font> : 스킬, 아이템, 능력치를 확인할 수 있습니다." />
+	<block key="help_infolink_fellowui_2" korean="2. <font color="#e5c015">펠로우 보관함</font> : 보유 중인 펠로우를 확인할 수 있습니다." />
+	<block key="help_infolink_fellowui_3" korean="3. <font color="#e5c016">정보창 최소화</font> : 정보창을 간소화할 수 있습니다." />
+	<block key="help_infolink_fellowui_4" korean="4. <font color="#e5c017">펠로우 강화</font> : 펠로우를 강화할 수 있습니다." />
+	<block key="help_infolink_fellowui_5" korean="5. <font color="#e5c018">펠로우 이름 변경</font> : 펠로우의 이름을 바꿀 수 있습니다.
+  - 펠로우 이름 변경에는 엘룬이 소모됩니다." />
+	<block key="help_infolink_fellowui_6" korean="6. <font color="#e5c019">펠로우 소환/해제</font> : 선택된 펠로우를 탑승/해제할 수 있습니다.
+  - <font color="#e5c015">U</font>키를 눌러 쉽게 소환/해제 할 수 있습니다." />
+	<block key="help_infolink_fellowui_7" korean="7. <font color="#e5c020">펠로우 놓아주기</font> : 선택한 펠로우를 놓아줍니다.
+  - 펠로우를 놓아줄 시 일정 비용이 요구됩니다." />
+	<block key="help_infolink_fellowbook" korean="펠로우 도감" />
+	<block key="help_infolink_fellowbook_tip" korean="펠로우 도감" />
+	<block key="help_infolink_fellowbook_0" korean="게임 메뉴에서 도감을 클릭하거나, <font color="#e5c015">B</font>키로 열 수 있습니다." />
+	<block key="help_infolink_fellowbook_1" korean="1개 이상의 도감을 획득 후 사용해야 열 수 있습니다." />
+	<block key="help_infolink_fellowsummon" korean="펠로우 소환/해제" />
+	<block key="help_infolink_fellowsummon_tip" korean="펠로우 소환/해제" />
+	<block key="help_infolink_fellowsummon_0" korean="1. 보관함에 등록된 펠로우를 더블 클릭, 우 클릭하거나 <font color="#e5c015">U</font>키를 눌러 소환/해제할 수 있습니다." />
+	<block key="help_infolink_fellowsummon_1" korean="2. 우측 상단에 <font color="#e5c015">최소화 버튼</font>을 눌러 보관함을 간편하게 퀵 슬롯처럼 사용할 수 있습니다." />
+	<block key="help_infolink_fellowboard" korean="펠로우 길들이기" />
+	<block key="help_infolink_fellowboard_tip" korean="펠로우 길들이기" />
+	<block key="help_infolink_fellowboard_0" korean="길들이기가 가능한 몬스터 중 길들이고 싶은 몬스터를 선택하여, <font color="#e5c015">길들이기 스킬</font>을 사용합니다." />
+	<block key="help_infolink_fellowboard_1" korean="몬스터 뒤쪽으로 몬스터가 인지하지 못하게 조심히 다가가 <font color="#e5c015">점프</font>하여 올라 탑니다." />
+	<block key="help_infolink_fellowboard_2" korean="1. <font color="#e5c015">몬스터 상태</font>에 따라 적절한 키를 입력해야 합니다." />
+	<block key="help_infolink_fellowboard_3" korean="2. <font color="#e5c015">성공/실패 게이지</font>로 진행 상태를 확인할 수 있습니다." />
+	<block key="help_infolink_fellowboard_4" korean="3. 캐릭터의 레벨에 비해 펠로우의 레벨이 높을수록 <font color="#e5c015">길들일 수 있는 확률</font>이 점점 낮아집니다." />
+	<block key="help_infolink_fellowwithme" korean="펫" />
+	<block key="help_infolink_fellowwithme_tip" korean="펫" />
+	<block key="help_infolink_fellowwithme_0" korean="1. 펠로우를 펫으로 변경 시킬 수 있는 <font color="#e5c015">펫 주문서</font>는 사냥에서 획득 할 수 있습니다." />
+	<block key="help_infolink_fellowwithme_1" korean="2. 펫은 주인의 명령에 따라 함께 적을 공격합니다." />
+	<block key="help_infolink_fellowitem" korean="펠로우 아이템" />
+	<block key="help_infolink_fellowitem_tip" korean="펠로우 아이템" />
+	<block key="help_infolink_fellowitem_0" korean="펠로우의 기본 능력치를 추가적으로 상승 시킬 수 있습니다." />
+	<block key="help_infolink_fellowitem_1" korean="1. <font color="#e5c015">종류</font> : 안장, 목걸이, 영혼석" />
+	<block key="help_infolink_fellowitem_2" korean="2. <font color="#e5c015">능력치</font> : 기력 상승을 기본으로, 등급에 따라 옵션 부여" />
+	<block key="help_infolink_fellowseal" korean="펠로우 봉인" />
+	<block key="help_infolink_fellowseal_tip" korean="펠로우 봉인" />
+	<block key="help_infolink_fellowseal_0" korean="1. 잡화 상점 또는 드랍으로 획득하는 <font color="#e5c015">펠로우 봉인석</font>을 이용하여 펠로우를 봉인할 수 있습니다." />
+	<block key="help_infolink_fellowseal_1" korean="2. 봉인된 펠로우는 다음과 같은 용도로 사용할 수 있습니다." />
+	<block key="help_infolink_fellowseal_2" korean="  - 장비 슬롯에 드래그로 장착하여 <font color="#e5c015">옵션 추가</font>" />
+	<block key="help_infolink_fellowseal_3" korean="  - <font color="#e5c015">특성력으로 전환</font>하여, 특성 장착" />
+	<block key="help_infolink_fellowcompose" korean="펠로우 성장" />
+	<block key="help_infolink_fellowcompose_tip" korean="펠로우 성장" />
+	<block key="help_infolink_fellowcompose_0" korean="1. <font color="#e5c015">펠로우 경험치 획득 방법</font>
+  - 펠로우를 소환해놓을 경우
+  - 펠로우와 함께 전투에 참가할 경우" />
+	<block key="help_infolink_fellowcompose_1" korean="2. <font color="#e5c015">펠로우 성장 시 혜택</font>
+  - 펠로우의 전체적인 능력치가 상승합니다.
+  - 펠로우가 새로운 스킬을 습득할 수 있습니다.
+  - 펠로우가 습득한 레벨의 스킬이 증가할 수 있습니다." />
+	<block key="help_infolink_fellowcombat" korean="지상 탑승 전투" />
+	<block key="help_infolink_fellowcombat_tip" korean="지상 탑승 전투" />
+	<block key="help_infolink_fellowcombat_0" korean="펠로우에 탑승하여, 탑승 전투를 할 수 있습니다." />
+	<block key="help_infolink_fellowcombat_1" korean="1. <font color="#e5c015">탑승무기</font> : 석궁 또는 창을 사용할 수 있습니다." />
+	<block key="help_infolink_fellowcombat_2" korean="2. <font color="#e5c015">콤보연계</font> : 창 스킬의 경우 콤보 사용 단계에 따라 연계 스킬을 사용할 수 있습니다." />
+	<block key="help_infolink_fellowcombat_3" korean="3. <font color="#e5c015">펠로우 교체</font> : 전투 중 펠로우 기력이 모두 소모되면, 보관함에서 다른 펠로우로 바로 교체하여 탑승할 수 있습니다." />
+	<block key="help_infolink_fellowsky" korean="비행 탑승 전투" />
+	<block key="help_infolink_fellowsky_tip" korean="비행 탑승 전투" />
+	<block key="help_infolink_fellowsky_0" korean="<font color="#e5c015">1. 비행 고도 UI를 통해 비행 가능 높이를 알 수 있습니다.</font>
+  - 지역별 고도 상한선보다 높게 올라갈 수 없습니다.
+  - 펠로우의 최대 비행 높이보다 높게 올라갈 수 없습니다.
+  - 고도의 80%만큼 상승 했을 때부터 경고를 출력합니다." />
+	<block key="help_infolink_fellowsky_1" korean="<font color="#e5c015">2. 비행 펠로우에 탑승하여 공중 전투 및 이동이 가능합니다.</font>
+  - Space : 위로 상승합니다.
+  - Shift + x : 수직으로 하강합니다.
+  - Space + Space : 빠른 속도로 활강합니다.
+  - u : 떨어졌을 때 u키를 누르면 펠로우에 자동 탑승됩니다." />
+	<block key="help_infolink_attributionclear" korean="아이템 귀속 해제" />
+	<block key="help_infolink_attributionclear_tip" korean="아이템 귀속 해제" />
+	<block key="help_infolink_attributionclear_0" korean="1. <font color="#e5c015">귀속해제 주문서 획득 경로</font>
+  - 라비니 은화 상점, 엘룬 상점" />
+	<block key="help_infolink_attributionclear_1" korean="2. 귀속해제 대상 아이템과 주문서의 등급은 동일해야 합니다." />
+	<block key="help_infolink_attributionclear_2" korean="3. 귀속 해제 시 아이템의 귀속 해제 가능 수가 감소합니다." />
+	<block key="help_infolink_itembreak" korean="아이템 분해" />
+	<block key="help_infolink_itembreak_tip" korean="아이템 분해" />
+	<block key="help_infolink_itembreak_0" korean="1. <font color="#e5c015">분해도구 획득 경로</font>
+  - 정예, 영웅 : 잡화 상점 NPC
+  - 전설 : 엘룬 상점" />
+	<block key="help_infolink_itembreak_1" korean="2. <font color="#e5c015">아이템 분해 조건</font>
+  - 분해도구와 분해할 아이템의 등급은 같아야 합니다.
+  - 장착 중인 아이템은 분해할 수 없습니다.
+  - 가방에 3개 이상의 빈 슬롯이 있어야 합니다." />
+	<block key="help_infolink_itembreak_2" korean="3. 아이템을 분해하면 <font color="#e5c015">주화 아이템으로 환원</font>됩니다.
+  - PVE 아이템 : 라비니족의 은화, 금화
+  - PVP 아이템 : 엑자란 주화, 금화" />
+	<block key="help_infolink_guildalliance" korean="길드 연합" />
+	<block key="help_infolink_guildalliance_tip" korean="길드 연합" />
+	<block key="help_infolink_guildalliance_0" korean="1. <font color="#e5c015">길드 연합</font>이란?
+  - 3등급 이상 길드 간 최대 3개 길드까지 연합할 수 있습니다." />
+	<block key="help_infolink_guildalliance_1" korean="2. <font color="#e5c015">길드 연합 생성</font>
+  - NPC 연합 마스터를 통해 길드 연합을 생성할 수 있습니다.
+  - NPC 연합 마스터는 하카나스 수도성 - 길드 관리소에 위치해 있습니다.
+  - 길드 연합 창설과 가입은 3등급 이상의 길드만 가능합니다." />
+	<block key="help_infolink_guildalliance_2" korean="3. 길드 연합의 길드명과 길드 마크는 <font color="#e5c015">연합장의 길드</font>를 따릅니다." />
+	<block key="help_infolink_militia" korean="엑자란 민병대" />
+	<block key="help_infolink_militia_tip" korean="엑자란 민병대" />
+	<block key="help_infolink_militia_0" korean="1. <font color="#e5c015">엑자란 민병대</font>란?
+  - 2등급 이하의 길드 또는 개인이 서로 연합할 수 있습니다." />
+	<block key="help_infolink_militia_1" korean="2. <font color="#e5c015">엑자란 민병대 가입</font>
+  - NPC 글리온을 통해 엑자란 민병대에 가입할 수 있습니다.
+  - NPC 글리온은 엑자란 무법지대-진리의 관문에 위치해 있습니다." />
+	<block key="help_infolink_militia_2" korean="3. <font color="#e5c015">엑자란 민병대 혜택</font>
+  - 1 실버를 지불하고 민병대 버프를 받을 수 있습니다.
+  - 무법지대에서 민병대는 모두 아군입니다.
+  - 민병대 채팅을 이용할 수 있습니다." />
+	<block key="help_infolink_militia_3" korean="4. <font color="#e5c015">엑자란 민병대 탈퇴</font>
+  - 10골드를 지불하여 탈퇴할 수 있습니다.
+  - 소속된 길드 등급이 3 이상일 시, 자동 탈퇴됩니다." />
+	<block key="help_infolink_alliancepk" korean="연합 전쟁" />
+	<block key="help_infolink_alliancepk_tip" korean="연합 전쟁" />
+	<block key="help_infolink_alliancepk_0" korean="1. <font color="#e5c015">연합 전쟁 선포 방법</font>
+  - 연합장은 다른 연합에게 연합 전쟁 신청을 할 수 있습니다.
+  - 연합 전쟁 신청 시 10 골드가 요구됩니다." />
+	<block key="help_infolink_alliancepk_1" korean="2. 전쟁 중인 연합에는 전쟁 선포를 할 수 없습니다." />
+	<block key="help_infolink_alliancepk_2" korean="3. 전쟁 선포의 <font color="#e5c015">수락/거절 여부</font>는 서버 전체에 공지됩니다." />
+	<block key="help_infolink_alliancepk_3" korean="4. <font color="#e5c015">연합 전쟁 승리 조건</font>
+  - <font color="#e5c015">1000킬</font>을 먼저 달성한 경우
+  - 상대 연합의 <font color="#e5c015">항복</font>을 받아낸 경우" />
+	<block key="help_infolink_alliancepk_4" korean="5. <font color="#e5c015">전쟁 결과</font>는 서버 전체에 공지됩니다." />
+	<block key="help_infolink_alliancepk_5" korean="6. <font color="#e5c015">연합 전쟁 현황 확인</font>
+  - 각 지역 대도시에 위치한 연합전쟁현황 NPC를 통해 전쟁 현황과 최근 전쟁결과를 확인할 수 있습니다." />
+	<block key="help_infolink_uiediting" korean="UI 위치 편집" />
+	<block key="help_infolink_uiediting_tip" korean="UI 위치 편집" />
+	<block key="help_infolink_uiediting_0" korean="1. <font color="#e5c015">UI 위치 편집 이용 방법</font>
+  - 게임메뉴 - 시스템 - UI 위치 편집" />
+	<block key="help_infolink_uiediting_1" korean="2. <font color="#e5c015">UI 위치 편집</font>
+  - UI 영역을 드래그하여 원하는 위치에 배치합니다." />
+	<block key="help_infolink_uiediting_2" korean="3. <font color="#e5c015">UI 편집 모드 진입 시 기능</font> 
+  - <font color="#e5c015">초기화</font> : UI 위치를 기본 배치 상태로 초기화합니다.
+  - <font color="#e5c015">적용</font> : 편집된 UI 위치를 적용 시킵니다.
+  - <font color="#e5c015">취소</font> : 편집을 중단하고, UI 상태를 편집 이전 상태로 되돌립니다." />
+	<block key="help_infolink_fellowextraction" korean="펠로우 봉인석 추출" />
+	<block key="help_infolink_fellowextraction_tip" korean="펠로우 봉인석 추출" />
+	<block key="help_infolink_fellowextraction_0" korean="1. <font color="#e5c015">봉인석 추출봉 획득 경로</font>
+  - 정예, 영웅 : 라비니 은화 상점
+  - 영웅, 전설 : 엘룬 상점" />
+	<block key="help_infolink_fellowextraction_1" korean="2. 봉인석 추출봉을 사용하여 <font color="#e5c015">봉인석이 적용된 장비 아이템</font>을 클릭합니다." />
+	<block key="help_infolink_fellowextraction_2" korean="3. <font color="#e5c015">추출하고자 하는 봉인 펠로우를 클릭</font>하면 해당 펠로우가 추출됩니다." />
+	<block key="help_infolink_fellowextraction_3" korean="*주의 : 추출된 펠로우는 펠로우 보관함에 <font color="#e5c015">모든 성장 수치가 초기화된 1레벨의 펫</font>으로 등록됩니다." />
+	<block key="help_infolink_fellowoptionchange" korean="봉인옵션 변경" />
+	<block key="help_infolink_fellowoptionchange_tip" korean="봉인옵션 변경" />
+	<block key="help_infolink_fellowoptionchange_0" korean="1. <font color="#e5c015">봉인옵션 변경도구 획득 경로</font>
+  - 정예, 영웅 : 라비니 은화 상점
+  - 영웅, 전설 : 엘룬 상점" />
+	<block key="help_infolink_fellowoptionchange_1" korean="2. 봉인옵션 변경도구를 사용하여 펠로우 봉인석의 <font color="#e5c015">옵션 수치를 변경</font>할 수 있습니다.
+  - 고정 옵션의 경우, 수치가 변경되지 않습니다." />
+	<block key="help_infolink_fellowoptionchange_2" korean="3. <font color="#e5c015">봉인옵션 변경 이용 조건</font>
+  - 봉인옵션 변경도구와 대상 봉인석의 등급은 동일해야 합니다.
+  - 장비 아이템에 장착된 봉인석에는 사용할 수 없습니다." />
+	<block key="help_infolink_fellowoptionchange_3" korean="4. <font color="#e5c015">봉인옵션 변경 사항</font>을 확인할 수 있습니다.
+  - 초록색 표시 옵션 : 기존 수치보다 <font color="#e5c015">증가</font>된 옵션
+  - 붉은색 표시 옵션 : 기존 수치보다 <font color="#e5c015">감소</font>된 옵션
+  - 흰색 표시 옵션 : 기존 수치와 동일" />
+</blocks>

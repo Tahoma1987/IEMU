@@ -1,0 +1,401 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="EX_0_0000_Name" korean="라이노의 뿔" />
+	<block key="EX_0_0000_description" korean="부러진 라이노의 뿔. 상당히 날카롭다" />
+	<block key="EX_0_0001_Name" korean="라이노의 갑옷 조각" />
+	<block key="EX_0_0001_description" korean="부서진 라이노의 갑옷 조각. 형체를 알아 볼 수 없다" />
+	<block key="EX_0_0002_Name" korean="얼음의 부스러기" />
+	<block key="EX_0_0002_description" korean="커다란 얼음에서 떨어진 부스러기" />
+	<block key="EX_0_0003_Name" korean="화염의 부스러기" />
+	<block key="EX_0_0003_description" korean="물질화된 화염체에서 떨어진 부스러기" />
+	<block key="EX_0_0004_Name" korean="정령의 조각" />
+	<block key="EX_0_0004_description" korean="정령들이 죽으면서 남긴 조각. 신비로운 기운이 느껴진다" />
+	<block key="EX_0_0005_Name" korean="정령의 머리핀" />
+	<block key="EX_0_0005_description" korean="정령들이 머리에 꽂는 머리핀. 자연의 향기가 느껴진다" />
+	<block key="EX_0_0006_Name" korean="조각난 늑대의 이빨" />
+	<block key="EX_0_0006_description" korean="조각이난 늑대의 이빨. 단단하고 날카로워 보인다" />
+	<block key="EX_0_0007_Name" korean="늑대 가죽" />
+	<block key="EX_0_0007_description" korean="늑대의 가죽. 질기고 따뜻해 보인다" />
+	<block key="EX_0_0008_Name" korean="너덜너덜한 멧돼지 가죽" />
+	<block key="EX_0_0008_description" korean="너덜너덜해진 멧돼지의 가죽. 별로 쓸 곳이 없어 보인다" />
+	<block key="EX_0_0009_Name" korean="멧돼지 창자" />
+	<block key="EX_0_0009_description" korean="멧돼지의 내장. 상당히 역한 냄새가 난다" />
+	<block key="EX_0_0010_Name" korean="브라기 부적" />
+	<block key="EX_0_0010_description" korean="브라기 감독관이 아끼는 부적. 무슨 효능이 있는지는 알 수 없다" />
+	<block key="EX_0_0011_Name" korean="이 빠진 도끼날" />
+	<block key="EX_0_0011_description" korean="이가 다 빠진 도끼날. 더 이상 사용 할 수 없어 보인다" />
+	<block key="EX_0_0012_Name" korean="이 빠진 칼날" />
+	<block key="EX_0_0012_description" korean="이가 다 빠진 칼날. 더 이상 사용 할 수 없어 보인다" />
+	<block key="EX_0_0013_Name" korean="부러진 지팡이" />
+	<block key="EX_0_0013_description" korean="두 동강이 나버린 지팡이. 땔감으로 사용하자" />
+	<block key="EX_0_0014_Name" korean="망가진 화살" />
+	<block key="EX_0_0014_description" korean="촉이 부러져 사용할 수 없는 화살" />
+	<block key="EX_0_0015_Name" korean="화염 군단의 계급장" />
+	<block key="EX_0_0015_description" korean="화염 군단의 높은 계급이 소지하는 계급장" />
+	<block key="EX_0_0016_Name" korean="화염의 수호물" />
+	<block key="EX_0_0016_description" korean="화염 군단의 친위대가 지키는 물건" />
+	<block key="EX_0_0017_Name" korean="찢겨진 곰 가죽" />
+	<block key="EX_0_0017_description" korean="찢겨진 자국이 선명한 곰 가죽. 가치가 많이 떨어져 보인다" />
+	<block key="EX_0_0018_Name" korean="곰의 발톱" />
+	<block key="EX_0_0018_description" korean="곰의 날카로운 발톱. 살아있는 곰의 모습이 떠오른다" />
+	<block key="EX_0_0019_Name" korean="불타오르는 돌조각" />
+	<block key="EX_0_0019_description" korean="불에 타고 있는 돌조각. 물을 부어도 꺼지지 않는다" />
+	<block key="EX_0_0020_Name" korean="설인의 발굽" />
+	<block key="EX_0_0020_description" korean="설인의 발에서 떨어진 발굽. 아직도 눈이 뭉쳐있다" />
+	<block key="EX_0_0021_Name" korean="설인 가죽" />
+	<block key="EX_0_0021_description" korean="새하얀 설인의 가죽. 보온성이 뛰어나다" />
+	<block key="EX_0_0022_Name" korean="주술사의 부적" />
+	<block key="EX_0_0022_description" korean="주술사가 갖고 있던 부적. 문양이 특이하게 생겼다" />
+	<block key="EX_0_0023_Name" korean="설인 사냥꾼의 화살" />
+	<block key="EX_0_0023_description" korean="설인 사냥꾼이 사용하던 화살. 다른 화살과는 다르게 흰색이다" />
+	<block key="EX_0_0024_Name" korean="눈보라 심장" />
+	<block key="EX_0_0024_description" korean="차가운 눈보라 심장. 추운 지역에서 오래 살던 생명체의 심장이다" />
+	<block key="EX_0_0025_Name" korean="얼어붙은 늑대의 발톱" />
+	<block key="EX_0_0025_description" korean="차갑게 얼어있는 늑대의 발톱. 아직도 냉기가 남아있다" />
+	<block key="EX_0_0026_Name" korean="얼어붙은 늑대의 송곳니" />
+	<block key="EX_0_0026_description" korean="차갑게 얼어있는 늑대의 송곳니. 송곳니의 날카로움에 얼음이 덧씌워져 더욱 뾰족해 보인다" />
+	<block key="EX_0_0027_Name" korean="얼음 주먹" />
+	<block key="EX_0_0027_description" korean="차갑게 얼어있는 주먹. 녹으면 사라질 것 같다" />
+	<block key="EX_0_0028_Name" korean="얼어붙은 뼈조각" />
+	<block key="EX_0_0028_description" korean="차갑게 얼어있는 뼈조각. 세게 던지면 산산조각 날 것 같다" />
+	<block key="EX_0_0029_Name" korean="갈기털" />
+	<block key="EX_0_0029_description" korean="멧돼지의 부드러운 털" />
+	<block key="EX_0_0030_Name" korean="거친 갈기털" />
+	<block key="EX_0_0030_description" korean="멧돼지의 거친 털. 야생의 느낌이 묻어있다" />
+	<block key="EX_0_0031_Name" korean="날카로운 칼날" />
+	<block key="EX_0_0031_description" korean="예리함이 살아있는 칼날. 손을 대면 베일 것 같다" />
+	<block key="EX_0_0032_Name" korean="낡은 천조각" />
+	<block key="EX_0_0032_description" korean="상당히 오래된 천조각" />
+	<block key="EX_0_0033_Name" korean="누더기 조각" />
+	<block key="EX_0_0033_description" korean="오래 사용하여 구멍이 뚫려있는 누더기 조각" />
+	<block key="EX_0_0034_Name" korean="늑대 고기" />
+	<block key="EX_0_0034_description" korean="늑대의 고기. 육질이 좋아보인다" />
+	<block key="EX_0_0035_Name" korean="늑대 발톱" />
+	<block key="EX_0_0035_description" korean="늑대의 날카로운 발톱. 육식동물의 발톱이라 매우 날카롭다" />
+	<block key="EX_0_0036_Name" korean="늑대 어금니" />
+	<block key="EX_0_0036_description" korean="늑대의 어금니. 늑대의 이빨은 어금니조차도 날카롭다" />
+	<block key="EX_0_0037_Name" korean="단단한 멧돼지 어금니" />
+	<block key="EX_0_0037_description" korean="단단해 보이는 멧돼지의 어금니. 돌도 씹을 수 있을 것 같다" />
+	<block key="EX_0_0038_Name" korean="멧돼지 고기" />
+	<block key="EX_0_0038_description" korean="멧돼지의 고기. 육질이 좋아 보인다" />
+	<block key="EX_0_0039_Name" korean="멧돼지 어금니" />
+	<block key="EX_0_0039_description" korean="멧돼지의 어금니" />
+	<block key="EX_0_0040_Name" korean="벌목용 도끼" />
+	<block key="EX_0_0040_description" korean="벌목할 때 사용하는 도끼. 무게가 꽤 나간다" />
+	<block key="EX_0_0041_Name" korean="벌목용 톱" />
+	<block key="EX_0_0041_description" korean="쓰러진 나무를 자를 때 사용하는 톱" />
+	<block key="EX_0_0042_Name" korean="부서진 갑옷 조각" />
+	<block key="EX_0_0042_description" korean="부서져버린 갑옷의 조각. 그리 단단해 보이지는 않는다" />
+	<block key="EX_0_0043_Name" korean="부서진 나무 갑옷조각" />
+	<block key="EX_0_0043_description" korean="부서져버린 나무 갑옷의 조각. 견고해보이지는 않으나 가볍다" />
+	<block key="EX_0_0044_Name" korean="부서진 얼음 결정" />
+	<block key="EX_0_0044_description" korean="부서져버린 얼음의 결정. 녹을듯 하지만 녹지 않는다" />
+	<block key="EX_0_0045_Name" korean="브라기 전투병 계급장" />
+	<block key="EX_0_0045_description" korean="브라기 전투병이 소지하는 계급장. 높은 계급은 아니다" />
+	<block key="EX_0_0046_Name" korean="브라기 정예 계급장" />
+	<block key="EX_0_0046_description" korean="브라기 정예 병사들이 소지하는 계급장" />
+	<block key="EX_0_0047_Name" korean="브라기 족장의 징표" />
+	<block key="EX_0_0047_description" korean="브라기 족장임을 증명하는 징표" />
+	<block key="EX_0_0048_Name" korean="요정의 가루" />
+	<block key="EX_0_0048_description" korean="요정의 몸에서 떨어진 가루. 효능은 알 수 없다." />
+	<block key="EX_0_0049_Name" korean="여우 고기" />
+	<block key="EX_0_0049_description" korean="여우의 고기. 맛있어 보인다" />
+	<block key="EX_0_0050_Name" korean="작은 망치" />
+	<block key="EX_0_0050_description" korean="상당히 작은 크기의 망치" />
+	<block key="EX_0_0051_Name" korean="잡초" />
+	<block key="EX_0_0051_description" korean="어디에서나 볼 수 있는 흔한 풀" />
+	<block key="EX_0_0052_Name" korean="투명한 날개" />
+	<block key="EX_0_0052_description" korean="뒤가 다 보일 정도로 투명한 날개" />
+	<block key="EX_0_0053_Name" korean="흡광초 뿌리" />
+	<block key="EX_0_0053_description" korean="식인식물 흡광초의 뿌리. 좋은 약재료 쓰인다" />
+	<block key="EX_0_0054_Name" korean="희미한 광채" />
+	<block key="EX_0_0054_description" korean="희미한 빛이 나는 돌 덩어리" />
+	<block key="EX_0_0055_Name" korean="브라기 부적" />
+	<block key="EX_0_0055_description" korean="브라기 들이  소중하게 여기는 부적" />
+	<block key="EX_0_0056_Name" korean="낡은 곡괭이" />
+	<block key="EX_0_0056_description" korean="상당히 낡은 곡괭이. 내려치면 부서질 것 같다" />
+	<block key="EX_0_0057_Name" korean="여우 꼬리" />
+	<block key="EX_0_0057_description" korean="여우의 부드러운 꼬리. 귀족부인들이 좋아할 것 같다" />
+	<block key="EX_0_0058_Name" korean="그을린 뼈" />
+	<block key="EX_0_0058_description" korean="군데군데 그을린 자국이 있는 뼈" />
+	<block key="EX_0_0059_Name" korean="그을린 갑옷 조각" />
+	<block key="EX_0_0059_description" korean="낡은 갑옷 조각 곳곳에 그을음이 남아있다" />
+	<block key="EX_0_0060_Name" korean="유령의 천조각" />
+	<block key="EX_0_0060_description" korean="오랜 원한이 느껴지는 천. 차가운 기운이 느껴진다" />
+	<block key="EX_0_0061_Name" korean="불에 탄 기사단의 징표" />
+	<block key="EX_0_0061_description" korean="검게 타버린 기사단의 징표" />
+	<block key="EX_0_0062_Name" korean="뜨거운 돌" />
+	<block key="EX_0_0062_description" korean="손을 데일 듯한 뜨거운 기운이 남아있다" />
+	<block key="EX_0_0063_Name" korean="화염 핵" />
+	<block key="EX_0_0063_description" korean="마치 작은 태양을 보듯, 끊임없는 불꽃이 발산되고 있다" />
+	<block key="EX_0_0064_Name" korean="거미 다리" />
+	<block key="EX_0_0064_description" korean="큰 거미 다리." />
+	<block key="EX_0_0065_Name" korean="타란툴라의 독주머니" />
+	<block key="EX_0_0065_description" korean="타란툴라의 맹독이 들어있는 독주머니이다." />
+	<block key="EX_0_0066_Name" korean="거미줄" />
+	<block key="EX_0_0066_description" korean="끈끈하고 질긴 거미줄." />
+	<block key="EX_0_0067_Name" korean="털달린 거미다리" />
+	<block key="EX_0_0067_description" korean="털이 무성한 거미다리." />
+	<block key="EX_0_0068_Name" korean="순록의 힘줄" />
+	<block key="EX_0_0068_description" korean="단단한 순록의 힘줄이다." />
+	<block key="EX_0_0069_Name" korean="순록의 갈기털" />
+	<block key="EX_0_0069_description" korean="순록의 갈기털이다." />
+	<block key="EX_0_0070_Name" korean="거친 늑대 가죽" />
+	<block key="EX_0_0070_description" korean="거친 늑대의 가죽. 가죽갑옷 재료로 사용된다." />
+	<block key="EX_0_0071_Name" korean="어둠의 기운" />
+	<block key="EX_0_0071_description" korean="사악한 기운으로 이루어진 에너지." />
+	<block key="EX_0_0072_Name" korean="젖소 고기" />
+	<block key="EX_0_0072_description" korean="젖소 고기. 요리 재료로 사용된다." />
+	<block key="EX_0_0073_Name" korean="늑대인간의 꼬리" />
+	<block key="EX_0_0073_description" korean="늑대인간의 꼬리이다." />
+	<block key="EX_0_0074_Name" korean="약품 주머니" />
+	<block key="EX_0_0074_description" korean="조자한 의료약품이 담긴 주머니." />
+	<block key="EX_0_0075_Name" korean="화염 함정" />
+	<block key="EX_0_0075_description" korean="늑대인간이 사용하는 화염 함정." />
+	<block key="EX_0_0076_Name" korean="투척 나이프" />
+	<block key="EX_0_0076_description" korean="늑대인간이 사용하는 투척 나이프이다." />
+	<block key="EX_0_0077_Name" korean="멧돼지 발굽" />
+	<block key="EX_0_0077_description" korean="멧돼지의 발굽이다." />
+	<block key="EX_0_0078_Name" korean="수정뿔 파편" />
+	<block key="EX_0_0078_description" korean="수정뿔 파편이다. 상점에 고가에 팔릴 꺼 같다." />
+	<block key="EX_0_0079_Name" korean="먹다 남은 당근" />
+	<block key="EX_0_0079_description" korean="토끼가 먹다 남은 당근이다." />
+	<block key="EX_0_0080_Name" korean="부드러운 토끼 털" />
+	<block key="EX_0_0080_description" korean="부드러운 토끼 털이다. 따듯한 옷을 만들 때 좋을 꺼 같다." />
+	<block key="EX_0_0081_Name" korean="거대 벌 더듬이" />
+	<block key="EX_0_0081_description" korean="거대한 벌의 더듬이." />
+	<block key="EX_0_0082_Name" korean="벌의 날개" />
+	<block key="EX_0_0082_description" korean="벌의 날개이다." />
+	<block key="EX_0_0083_Name" korean="벌의 눈알" />
+	<block key="EX_0_0083_description" korean="벌의 눈알이다." />
+	<block key="EX_0_0084_Name" korean="거북이 발톱" />
+	<block key="EX_0_0084_description" korean="거북이 발톱이다." />
+	<block key="EX_0_0085_Name" korean="단단한 거북이 등껍질" />
+	<block key="EX_0_0085_description" korean="매우 단단한 거북이의 등껍질이다. 방어구 재료로 사용된다." />
+	<block key="EX_0_0086_Name" korean="독액" />
+	<block key="EX_0_0086_description" korean="뱀의 맹독이다." />
+	<block key="EX_0_0087_Name" korean="개구리 뒷다리" />
+	<block key="EX_0_0087_description" korean="개구리 뒷다리이다." />
+	<block key="EX_0_0088_Name" korean="소의 발굽" />
+	<block key="EX_0_0088_description" korean="물소의 발굽이다." />
+	<block key="EX_0_0089_Name" korean="소의 꼬리털" />
+	<block key="EX_0_0089_description" korean="물소의 꼬리털이다." />
+	<block key="EX_0_0090_Name" korean="곰의 이빨" />
+	<block key="EX_0_0090_description" korean="곰의 이빨이다." />
+	<block key="EX_0_0091_Name" korean="펠리컨의 턱" />
+	<block key="EX_0_0091_description" korean="매우 단단한 펠리컨의 턱이다." />
+	<block key="EX_0_0092_Name" korean="가벼운 깃털" />
+	<block key="EX_0_0092_description" korean="가벼운 조류의 깃털이다." />
+	<block key="EX_0_0093_Name" korean="끈적이는 점액" />
+	<block key="EX_0_0093_description" korean="끈적하고 기분 나쁜 점액이다." />
+	<block key="EX_0_0094_Name" korean="두꺼운 물고기 비늘" />
+	<block key="EX_0_0094_description" korean="두껍고 반짝이는 물꼬기 비늘이다." />
+	<block key="EX_0_0095_Name" korean="들소의 단단한 발굽" />
+	<block key="EX_0_0095_description" korean="들소의 단단한 발굽이다." />
+	<block key="EX_0_0096_Name" korean="들소의 거친 꼬리털" />
+	<block key="EX_0_0096_description" korean="들소의 거친 꼬리털이다." />
+	<block key="EX_0_0097_Name" korean="표범 꼬리" />
+	<block key="EX_0_0097_description" korean="표범의 꼬리이다." />
+	<block key="EX_0_0098_Name" korean="뾰족한 어금니" />
+	<block key="EX_0_0098_description" korean="동물의 뾰족한 어금니이다." />
+	<block key="EX_0_0099_Name" korean="피 묻은 낫" />
+	<block key="EX_0_0099_description" korean="흡혈귀가 사용하는 피 묻은 낫이다. 음산한 기운이 감돈다." />
+	<block key="EX_0_0100_Name" korean="피 묻은 손톱" />
+	<block key="EX_0_0100_description" korean="피가 묻은 흡혈귀의 손톱이다." />
+	<block key="EX_0_0101_Name" korean="흡혈귀의 심장" />
+	<block key="EX_0_0101_description" korean="흡혈귀의 심장이다." />
+	<block key="EX_0_0102_Name" korean="낡은 두건" />
+	<block key="EX_0_0102_description" korean="낡아서 해진 두건이다." />
+	<block key="EX_0_0103_Name" korean="피로 얼룩진 기사단 징표" />
+	<block key="EX_0_0103_description" korean="과거 기사단원이었음을 증명하는 기사단 징표이다." />
+	<block key="EX_0_0104_Name" korean="피로 얼룩진 옷자락" />
+	<block key="EX_0_0104_description" korean="피로 얼룩진 옷자락이다." />
+	<block key="EX_0_0105_Name" korean="오래된 잡동사니" />
+	<block key="EX_0_0105_description" korean="오래된 잡동사니이다." />
+	<block key="EX_0_0106_Name" korean="피 묻은 요리모자" />
+	<block key="EX_0_0106_description" korean="피가 군데군데 묻은 요리사 모자이다." />
+	<block key="EX_0_0107_Name" korean="조련 막대기" />
+	<block key="EX_0_0107_description" korean="야수 조련 용 막대기이다. 야수가 왠지 말을 잘들어야 할 꺼 같다." />
+	<block key="EX_0_0108_Name" korean="조각난 쇠사슬" />
+	<block key="EX_0_0108_description" korean="조각난 쇠사슬이다." />
+	<block key="EX_0_0109_Name" korean="날카로운 냉기발톱" />
+	<block key="EX_0_0109_description" korean="산틴의 날카로운 발톱이다." />
+	<block key="EX_0_0110_Name" korean="얼어붙은 조련막대" />
+	<block key="EX_0_0110_description" korean="조련사가 사용하는 막대이다." />
+	<block key="EX_0_0111_Name" korean="냉기 마력의 원천" />
+	<block key="EX_0_0111_description" korean="마도사의 마력이 담겨있다." />
+	<block key="EX_0_0112_Name" korean="냉기설인 토템" />
+	<block key="EX_0_0112_description" korean="설인들이 지니고 다니는 작은 인형 모양의 토템이다." />
+	<block key="EX_0_0113_Name" korean="얼어붙은 거미다리" />
+	<block key="EX_0_0113_description" korean="얼어붙은 거미다리이다." />
+	<block key="EX_0_0114_Name" korean="차가운 거미줄" />
+	<block key="EX_0_0114_description" korean="차갑고 단단한 거미줄이다." />
+	<block key="EX_0_0115_Name" korean="낡은 노예족쇄" />
+	<block key="EX_0_0115_description" korean="오래되고 낡은 노예 족쇄이다." />
+	<block key="EX_0_0116_Name" korean="부식된 지팡이" />
+	<block key="EX_0_0116_description" korean="썩은 지팡이다." />
+	<block key="EX_0_0117_Name" korean="부폐된 뼈" />
+	<block key="EX_0_0117_description" korean="썩은 뼈 조각이다." />
+	<block key="EX_0_0118_Name" korean="긴 거미 다리" />
+	<block key="EX_0_0118_description" korean="길고 흉물스러운 거미다리이다." />
+	<block key="EX_0_0119_Name" korean="오래된 시녀의 머리핀" />
+	<block key="EX_0_0119_description" korean="오래 전 왕궁의 시녀들이 쓰던 머리핀이다." />
+	<block key="EX_0_0120_Name" korean="하급 악마 조종 지침서 1권" />
+	<block key="EX_0_0120_description" korean="하급 악마 조종 지침서 1권. 총 3권으로 완결. 이 책을 마스터한 당신은 진정한 악마 계약자." />
+	<block key="EX_0_0121_Name" korean="하급 악마 계약의 징표" />
+	<block key="EX_0_0121_description" korean="하급 악마와 계약했을 때 악마가 주는 계약의 징표이다." />
+	<block key="EX_0_0122_Name" korean="충만한 어둠의 기운" />
+	<block key="EX_0_0122_description" korean="어둠의 기운이 충만한 에너지. 매우 음산한 기운이 감돈다." />
+	<block key="EX_0_0123_Name" korean="작은 악마의 날개" />
+	<block key="EX_0_0123_description" korean="작은 악마의 날개이다." />
+	<block key="EX_0_0124_Name" korean="짧은 악마의 꼬리" />
+	<block key="EX_0_0124_description" korean="짧은 악마 꼬리다. 작은 악마들의 꼬리 같다." />
+	<block key="EX_0_0125_Name" korean="부식된 기사단 징표" />
+	<block key="EX_0_0125_description" korean="오랜 시간 동안 부식된 옛 기사단의 징표이다." />
+	<block key="EX_0_0126_Name" korean="부식된 뼛조각" />
+	<block key="EX_0_0126_description" korean="오랜 시간 동안 부식된 뼛조각이다." />
+	<block key="EX_0_0127_Name" korean="부식된 왕관" />
+	<block key="EX_0_0127_description" korean="고대 왕의 왕관이다. 매우 낡았고 보석들은 다 빠져있다." />
+	<block key="EX_0_0128_Name" korean="검은 용 해츨링의 비늘" />
+	<block key="EX_0_0128_description" korean="검은 새끼용의 비늘이다. 방어구 제작 재료로 사용된다." />
+	<block key="EX_0_0129_Name" korean="검은 용 해츨링의 발톱" />
+	<block key="EX_0_0129_description" korean="검은 새끼용의 발톱이다." />
+	<block key="EX_0_0130_Name" korean="폭탄 신관" />
+	<block key="EX_0_0130_description" korean="폭탄 신관이다. 물에 젖으면 안된다고 적혀있다." />
+	<block key="EX_0_0131_Name" korean="낡은 모자" />
+	<block key="EX_0_0131_description" korean="낡아서 해진 모자이다." />
+	<block key="EX_0_0132_Name" korean="너덜너덜한 갑옷 조각" />
+	<block key="EX_0_0132_description" korean="너덜너덜한 갑옷 조각이다." />
+	<block key="EX_0_0133_Name" korean="꼬질꼬질한 해적기" />
+	<block key="EX_0_0133_description" korean="카라드 해적단의 꼬질꼬질한 해적기." />
+	<block key="EX_0_0135_Name" korean="크피르 도적단 문장" />
+	<block key="EX_0_0135_description" korean="크피르 도적단임을 증명하는 문장이다." />
+	<block key="EX_0_0136_Name" korean="낡은 복면" />
+	<block key="EX_0_0136_description" korean="낡아서 해진 복면이다. 쓰면 도적단처럼 보일 꺼 같다." />
+	<block key="EX_0_0137_Name" korean="부식된 기사단장 징표" />
+	<block key="EX_0_0137_description" korean="옛 기사단장의 징표이다." />
+	<block key="EX_0_0138_Name" korean="부식된 갑옷조각" />
+	<block key="EX_0_0138_description" korean="부식된 갑옷조각이다." />
+	<block key="EX_0_0139_Name" korean="호박말벌 체액" />
+	<block key="EX_0_0139_description" korean="호박말벌의 체액이다." />
+	<block key="EX_0_0140_Name" korean="부드러운 여우털" />
+	<block key="EX_0_0140_description" korean="부드러운 여우털이다." />
+	<block key="EX_0_0141_Name" korean="독 주머니" />
+	<block key="EX_0_0141_Description" korean="독 기운 억제 주문서를 만드는데 필요한 재료" />
+	<block key="EX_0_0142_Name" korean="맹독 주머니" />
+	<block key="EX_0_0142_Description" korean="독 기운 억제 주문서를 만드는데 필요한 재료" />
+	<block key="EX_0_0143_Name" korean="화염의 정수" />
+	<block key="EX_0_0143_Description" korean="화염 기운 억제 주문서를 만드는데 필요한 재료" />
+	<block key="EX_0_0144_Name" korean="강렬한 화염의 정수" />
+	<block key="EX_0_0144_Description" korean="화염 기운 억제 주문서를 만드는데 필요한 재료" />
+	<block key="EX_0_0145_Name" korean="냉기의 정수" />
+	<block key="EX_0_0145_Description" korean="냉기 기운 억제 주문서를 만드는데 필요한 재료" />
+	<block key="EX_0_0146_Name" korean="강렬한 냉기의 정수" />
+	<block key="EX_0_0146_Description" korean="냉기 기운 억제 주문서를 만드는데 필요한 재료" />
+	<block key="EX_0_0147_Name" korean="빛의 정수" />
+	<block key="EX_0_0147_Description" korean="빛 기운 억제 주문서를 만드는데 필요한 재료" />
+	<block key="EX_0_0148_Name" korean="강렬한 빛의 정수" />
+	<block key="EX_0_0148_Description" korean="빛 기운 억제 주문서를 만드는데 필요한 재료" />
+	<block key="EX_0_0149_Name" korean="어둠의 정수" />
+	<block key="EX_0_0149_Description" korean="어둠 기운 억제 주문서를 만드는데 필요한 재료" />
+	<block key="EX_0_0150_Name" korean="강렬한 어둠의 정수" />
+	<block key="EX_0_0150_Description" korean="어둠 기운 억제 주문서를 만드는데 필요한 재료" />
+	<block key="EX_0_0151_Name" korean="정화의 돌" />
+	<block key="EX_0_0151_Description" korean="얼어붙은 폐허의 어둠의 마법으로 봉인된 물체를 정화시킵니다." />
+	<block key="EX_0_0152_Name" korean="문어의 점액" />
+	<block key="EX_0_0152_Description" korean="문어의 점액으로 추정되는 끈적한 액체. 메스꺼운 악취가 난다." />
+	<block key="EX_0_0153_Name" korean="흙 묻은 동전" />
+	<block key="EX_0_0153_Description" korean="펜던트인줄 알고 주워보니 낡은 동전이었다." />
+	<block key="EX_0_0154_Name" korean="피 묻은 꽃잎" />
+	<block key="EX_0_0154_Description" korean="원한이 서려있는 꽃잎" />
+	<block key="EX_0_0155_Name" korean="엑자란 주화" />
+	<block key="EX_0_0155_Description" korean="엑자란 상점에서 사용할 수 있는 화폐" />
+	<block key="EX_0_0156_Name" korean="하카나스 기념주화" />
+	<block key="EX_0_0156_Description" korean="하카나스 설립을 기념하는 주화<BR>하카나스 수도성에 있는 <UI_Y>[하카나스 주화 교환원] 마들렌</UI_Y>을 통해 각종 하카나스 상자로 교환 할 수 있다." />
+	<block key="EX_0_0157_Name" korean="빛의 동맹 휘장" />
+	<block key="EX_0_0157_Description" korean="과거 마신 군대와 맞서 싸웠던 용사들의 휘장" />
+	<block key="EX_0_0158_Name" korean="SK hynix SSD" />
+	<block key="EX_0_0158_Description" korean="SK hynix 제휴 프로모션 아이템. 
+- 많이 수집할수록 최고급 SSD 당첨 확률이 높아집니다." />
+	<block key="EX_0_0160_Name" korean="이즈호라의 동괴" />
+	<block key="EX_0_0161_Name" korean="이즈호라의 은괴" />
+	<block key="EX_0_0162_Name" korean="이즈호라의 금괴" />
+	<block key="EX_0_0163_Name" korean="이즈호라의 열쇠조각" />
+	<block key="EX_0_0160_Description" korean="<UI_G>상점에 비싼 가격에 판매할 수 있다.</UI_G>" />
+	<block key="EX_0_0161_Description" korean="<UI_G>상점에 비싼 가격에 판매할 수 있다.</UI_G>" />
+	<block key="EX_0_0162_Description" korean="<UI_G>상점에 비싼 가격에 판매할 수 있다.</UI_G>" />
+	<block key="EX_0_0163_Description" korean="여러 개의 조각으로 부서져버린 열쇠조각
+
+<UI_G>열쇠조각을 모아 공역의 틈새 입구에 있는 라비니상인에게 가면 온전한 열쇠로 교환할 수 있습니다.</UI_G>" />
+	<block key="ex_0_0159_Name" korean="축구공" />
+	<block key="EX_0_0164_Name" korean="전설의 인장" />
+	<block key="EX_0_0164_Description" korean="<UI_Y>전설난이도 인스턴스던전 입장</UI_Y>
+<UI_G>  불이 삼킨 유적</UI_G>
+<UI_G>  카를레앙의 대저택</UI_G>
+<UI_G>  얼어붙은 마트렌 폐허</UI_G>
+
+<UI_Y>카브임의 교단에서 시간과 공간을 왜곡시켜 부활시킨 강력한 공간을 입장할 수 있게 해주는 열쇠이다.</UI_Y>
+
+<UI_G>거래 할 수 없는 아이템으로 퀘스트를 통해 얻을 수 있다.</UI_G>" />
+	<block key="EX_0_0165_Name" korean="축복받은 전설의 인장" />
+	<block key="EX_0_0165_Description" korean="<UI_Y>전설난이도 인스턴스던전 입장</UI_Y>
+<UI_G>  불이 삼킨 유적</UI_G>
+<UI_G>  카를레앙의 대저택</UI_G>
+<UI_G>  얼어붙은 마트렌 폐허</UI_G>
+
+<UI_Y>카브임의 교단에서 시간과 공간을 왜곡시켜 부활시킨 강력한 공간을 입장할 수 있게 해주는 열쇠이다.</UI_Y>
+
+<UI_G>거래가 가능한 아이템으로 제작/드랍을 통해 얻을 수 있다.</UI_G>" />
+	<block key="EX_0_0166_Name" korean="초승달 상단 출석 확인서" />
+	<block key="EX_0_0166_Description" korean="초승달 상단 출석 이벤트 아이템" />
+	<block key="EX_0_0167_Name" korean="엑자란 7대 죄악 고서 조각" />
+	<block key="EX_0_0167_Description" korean="엑자란의 7대 죄악이라는 펠로우에 대한 내용이 적힌 조각" />
+	<block key="EX_0_0168_Name" korean="엑자란 고대 역사서 조각" />
+	<block key="EX_0_0168_Description" korean="엑자란의 역사가 고스란히 적혀있는 고서의 일부분" />
+	<block key="EX_0_0169_Name" korean="동괴" />
+	<block key="EX_0_0170_Name" korean="은괴" />
+	<block key="EX_0_0171_Name" korean="금괴" />
+	<block key="EX_0_0169_Description" korean="<UI_G>상점에 비싼 가격에 판매할 수 있다.</UI_G>" />
+	<block key="EX_0_0170_Description" korean="<UI_G>상점에 비싼 가격에 판매할 수 있다.</UI_G>" />
+	<block key="EX_0_0171_Description" korean="<UI_G>상점에 비싼 가격에 판매할 수 있다.</UI_G>" />
+	<block key="EX_0_0172_Name" korean="엑자란 금화" />
+	<block key="EX_0_0172_Description" korean="엑자란 상점에서 사용할 수 있는 고급 화폐" />
+	<block key="EX_0_0173_Name" korean="할로윈 데이 출석 확인서" />
+	<block key="EX_0_0173_Description" korean="할로윈 데이 출석 이벤트 아이템" />
+	<block key="EX_0_0174_Name" korean="엑자란 보물 열쇠" />
+	<block key="EX_0_0174_Description" korean="달무리 호수 중앙에 있는 보물 상자를 열 수 있는 열쇠
+
+<UI_G>주의! 상자를 여는 중 취소하면 사라집니다.</UI_G>" />
+	<block key="EX_0_0175_Name" korean="엑자리움 채굴기" />
+	<block key="EX_0_0175_Description" korean="달무리 호수 중앙에 있는 엑자리움을 캘 수 있는 채굴기
+
+<UI_G>주의! 채굴 중 취소하면 사라집니다.</UI_G>" />
+	<block key="EX_0_0176_Name" korean="아케론 주화" />
+	<block key="EX_0_0176_Description" korean="아케론 상점에서 사용할 수 있는 화폐" />
+	<block key="EX_0_0177_Name" korean="아케론 금화" />
+	<block key="EX_0_0177_Description" korean="아케론 상점에서 사용할 수 있는 고급 화폐" />
+	<block key="EX_0_0178_Name" korean="유리의 출석 확인서" />
+	<block key="EX_0_0178_Description" korean="유리가 주는 화합의 땅 이벤트 출석 확인서" />
+	<block key="EX_0_0179_Name" korean="달빛 시장의 쿤자이트 주화" />
+	<block key="EX_0_0179_Description" korean="초승달 상단과 그림자 상단의 공통 관리로 운영되는 암시장, <UI_G>[달빛 시장]</UI_G>에서만 통용되는 주화
+
+<O_Y>12월 10일 이후 등장하는 쿤자이트 주화 교환 상인을 통해 아이템으로 교환 할 수 있다.</O_Y>" />
+	<block key="EX_0_0180_Name" korean="달빛 시장의 황금 주화" />
+	<block key="EX_0_0180_Description" korean="초승달 상단과 그림자 상단의 공통 관리로 운영되는 암시장, <UI_G>[달빛 시장]</UI_G>에서만 통용되는 주화
+
+<O_Y>12월 10일 이후 등장하는 황금 주화 교환 상인을 통해 아이템으로 교환 할 수 있다.</O_Y>" />
+	<block key="EX_0_0181_Name" korean="달빛 시장의 청금석 메달" />
+	<block key="EX_0_0181_Description" korean="초승달 상단과 그림자 상단의 공통 관리로 운영되는 암시장, <UI_G>[달빛 시장]</UI_G>에서만 통용되는 메달
+
+<O_Y>12월 10일 이후 등장하는 청금석 메달 교환 상인을 통해 아이템으로 교환 할 수 있다.</O_Y>" />
+	<block key="EX_0_0182_Name" korean="달빛 시장의 황금 메달" />
+	<block key="EX_0_0182_Description" korean="초승달 상단과 그림자 상단의 공통 관리로 운영되는 암시장, <UI_G>[달빛 시장]</UI_G>에서만 통용되는 메달
+
+<O_Y>12월 10일 이후 등장하는 황금 메달 교환 상인을 통해 아이템으로 교환 할 수 있다.</O_Y>" />
+</blocks>

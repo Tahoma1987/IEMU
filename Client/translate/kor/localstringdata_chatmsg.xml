@@ -1,0 +1,134 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="ChatMsg_emotion_win_my_target" korean="당신은 [Target]님을 보며 승리를 기뻐합니다." />
+	<block key="ChatMsg_emotion_lose_my_target" korean="당신은 [Target]님을 보며 패배감을 느낍니다." />
+	<block key="ChatMsg_emotion_confession_my_target" korean="당신은 [Target]님에게 수줍게 고백합니다." />
+	<block key="ChatMsg_emotion_surprise_my_target" korean="당신은 [Target]님을 보고 크게 놀랍니다." />
+	<block key="ChatMsg_emotion_charge_my_target" korean="당신은 [Target]님을 향해 돌격합니다." />
+	<block key="ChatMsg_emotion_shame_my_target" korean="당신은 [Target]님을 보며 부끄러워 합니다." />
+	<block key="ChatMsg_emotion_greeting_my_target" korean="당신은 [Target]님에게 손인사를 합니다." />
+	<block key="ChatMsg_emotion_joyful_my_target" korean="당신은 [Target]님을 보며 기뻐합니다." />
+	<block key="ChatMsg_emotion_cry_my_target" korean="당신은 [Target]님을 보며 엉엉 웁니다." />
+	<block key="ChatMsg_emotion_smile_my_target" korean="당신은 [Target]님을 보며 크게 웃습니다." />
+	<block key="ChatMsg_emotion_cheerup_my_target" korean="당신은 [Target]님을 응원합니다." />
+	<block key="ChatMsg_emotion_mockery_my_target" korean="당신은 [Target]님을 조롱합니다." />
+	<block key="ChatMsg_emotion_cheers_my_target" korean="당신은 [Target]님을 보며 환호합니다." />
+	<block key="ChatMsg_emotion_penalty1_my_target" korean="당신은 [Target]님에게 땀을 흘리며 벌칙을 받습니다." />
+	<block key="ChatMsg_emotion_penalty2_my_target" korean="당신은 [Target]님에게 벌칙을 받으며 힘들어 합니다." />
+	<block key="ChatMsg_emotion_refuse_my_target" korean="당신은 [Target]님에게 거절의 의사를 밝힙니다." />
+	<block key="ChatMsg_emotion_angry_my_target" korean="당신은 [Target]님을 보며 화를 냅니다." />
+	<block key="ChatMsg_emotion_applause_my_target" korean="당신은 [Target]님을 보며 박수를 칩니다." />
+	<block key="ChatMsg_emotion_salute_my_target" korean="당신은 [Target]님에게 경례를 합니다." />
+	<block key="ChatMsg_emotion_beg_my_target" korean="당신은 [Target]님에게 구걸을 합니다." />
+	<block key="ChatMsg_emotion_cheek_my_target" korean="당신은 [Target]님의 따귀를 힘껏 때립니다." />
+	<block key="ChatMsg_emotion_slapped_my_target" korean="당신은 [Target]님에게 따귀를 맞고 아파합니다." />
+	<block key="ChatMsg_emotion_beg2_my_target" korean="당신은 [Target]님에게 떼를 씁니다. 징징징" />
+	<block key="ChatMsg_emotion_step_my_target" korean="당신은 [Target]님을 힘껏 밟습니다. 퍽퍽퍽" />
+	<block key="ChatMsg_emotion_affirmation_my_target" korean="당신은 [Target]님을 보며 긍정의 의사를 밝힙니다." />
+	<block key="ChatMsg_emotion_win_others_target" korean="[Actor]님이 [Target]님을 보며 승리를 기뻐합니다." />
+	<block key="ChatMsg_emotion_lose_others_target" korean="[Actor]님이 [Target]님을 보며 패배감을 느낍니다." />
+	<block key="ChatMsg_emotion_confession_others_target" korean="[Actor]님이 [Target]님에게 수줍게 고백합니다." />
+	<block key="ChatMsg_emotion_surprise_others_target" korean="[Actor]님이 [Target]님을 보고 크게 놀랍니다." />
+	<block key="ChatMsg_emotion_charge_others_target" korean="[Actor]님이 [Target]님을 향해 돌격합니다." />
+	<block key="ChatMsg_emotion_shame_others_target" korean="[Actor]님이 [Target]님을 보며 부끄러워 합니다." />
+	<block key="ChatMsg_emotion_greeting_others_target" korean="[Actor]님이 [Target]님에게 손인사를 합니다." />
+	<block key="ChatMsg_emotion_joyful_others_target" korean="[Actor]님이 [Target]님을 보며 기뻐합니다." />
+	<block key="ChatMsg_emotion_cry_others_target" korean="[Actor]님이 [Target]님을 보며 엉엉 웁니다." />
+	<block key="ChatMsg_emotion_smile_others_target" korean="[Actor]님이 [Target]님을 보며 크게 웃습니다." />
+	<block key="ChatMsg_emotion_cheerup_others_target" korean="[Actor]님이 [Target]님을 응원합니다." />
+	<block key="ChatMsg_emotion_mockery_others_target" korean="[Actor]님이 [Target]님을 조롱합니다." />
+	<block key="ChatMsg_emotion_cheers_others_target" korean="[Actor]님이 [Target]님을 보며 환호합니다." />
+	<block key="ChatMsg_emotion_penalty1_others_target" korean="[Actor]님이 [Target]님에게 땀을 흘리며 벌칙을 받습니다." />
+	<block key="ChatMsg_emotion_penalty2_others_target" korean="[Actor]님이 [Target]님에게 벌칙을 받으며 힘들어 합니다." />
+	<block key="ChatMsg_emotion_refuse_others_target" korean="[Actor]님이 [Target]님에게 거절의 의사를 밝힙니다." />
+	<block key="ChatMsg_emotion_angry_others_target" korean="[Actor]님이 [Target]님을 보며 화를 냅니다." />
+	<block key="ChatMsg_emotion_applause_others_target" korean="[Actor]님이 [Target]님을 보며 박수를 칩니다." />
+	<block key="ChatMsg_emotion_salute_others_target" korean="[Actor]님이 [Target]님에게 경례를 합니다." />
+	<block key="ChatMsg_emotion_beg_others_target" korean="[Actor]님이 [Target]님에게 구걸을 합니다." />
+	<block key="ChatMsg_emotion_cheek_others_target" korean="[Actor]님이 [Target]님의 따귀를 힘껏 때립니다." />
+	<block key="ChatMsg_emotion_slapped_others_target" korean="[Actor]님이 [Target]님에게 따귀를 맞고 아파합니다." />
+	<block key="ChatMsg_emotion_beg2_others_target" korean="[Actor]님이 [Target]님에게 떼를 씁니다. 징징징" />
+	<block key="ChatMsg_emotion_step_others_target" korean="[Actor]님이 [Target]님을 힘껏 밟습니다. 퍽퍽퍽" />
+	<block key="ChatMsg_emotion_affirmation_others_target" korean="[Actor]님이 [Target]님을 보며 긍정의 의사를 밝힙니다." />
+	<block key="ChatMsg_emotion_win_yours" korean="[Actor]님이 당신을 보며 승리를 기뻐합니다." />
+	<block key="ChatMsg_emotion_lose_yours" korean="[Actor]님이 당신을 보며 패배감을 느낍니다." />
+	<block key="ChatMsg_emotion_confession_yours" korean="[Actor]님이 당신에게 수줍게 고백합니다." />
+	<block key="ChatMsg_emotion_surprise_yours" korean="[Actor]님이 당신을 보고 크게 놀랍니다." />
+	<block key="ChatMsg_emotion_charge_yours" korean="[Actor]님이 당신을 향해 돌격합니다." />
+	<block key="ChatMsg_emotion_shame_yours" korean="[Actor]님이 당신을 보며 부끄러워 합니다." />
+	<block key="ChatMsg_emotion_greeting_yours" korean="[Actor]님이 당신에게 손인사를 합니다." />
+	<block key="ChatMsg_emotion_joyful_yours" korean="[Actor]님이 당신을 보며 기뻐합니다." />
+	<block key="ChatMsg_emotion_cry_yours" korean="[Actor]님이 당신을 보며 엉엉 웁니다." />
+	<block key="ChatMsg_emotion_smile_yours" korean="[Actor]님이 당신을 보며 크게 웃습니다." />
+	<block key="ChatMsg_emotion_cheerup_yours" korean="[Actor]님이 당신을 응원합니다." />
+	<block key="ChatMsg_emotion_mockery_yours" korean="[Actor]님이 당신을 조롱합니다." />
+	<block key="ChatMsg_emotion_cheers_yours" korean="[Actor]님이 당신을 보며 환호합니다." />
+	<block key="ChatMsg_emotion_penalty1_yours" korean="[Actor]님이 당신에게 땀을 흘리며 벌칙을 받습니다." />
+	<block key="ChatMsg_emotion_penalty2_yours" korean="[Actor]님이 당신에게 벌칙을 받으며 힘들어 합니다." />
+	<block key="ChatMsg_emotion_refuse_yours" korean="[Actor]님이 당신에게 거절의 의사를 밝힙니다." />
+	<block key="ChatMsg_emotion_angry_yours" korean="[Actor]님이 당신을 보며 화를 냅니다." />
+	<block key="ChatMsg_emotion_applause_yours" korean="[Actor]님이 당신을 보며 박수를 칩니다." />
+	<block key="ChatMsg_emotion_salute_yours" korean="[Actor]님이 당신에게 경례를 합니다." />
+	<block key="ChatMsg_emotion_beg_yours" korean="[Actor]님이 당신에게 구걸을 합니다." />
+	<block key="ChatMsg_emotion_cheek_yours" korean="[Actor]님이 당신의 따귀를 힘껏 때립니다." />
+	<block key="ChatMsg_emotion_slapped_yours" korean="[Actor]님이 당신에게 따귀를 맞고 아파합니다." />
+	<block key="ChatMsg_emotion_beg2_yours" korean="[Actor]님이 당신에게 떼를 씁니다. 징징징" />
+	<block key="ChatMsg_emotion_step_yours" korean="[Actor]님이 당신을 힘껏 밟습니다. 퍽퍽퍽" />
+	<block key="ChatMsg_emotion_affirmation_yours" korean="[Actor]님이 당신을 보며 긍정의 의사를 밝힙니다." />
+	<block key="ChatMsg_emotion_win_my_notarget" korean="당신은 승리를 기뻐합니다." />
+	<block key="ChatMsg_emotion_lose_my_notarget" korean="당신은 패배감을 느낍니다." />
+	<block key="ChatMsg_emotion_confession_my_notarget" korean="당신은 수줍게 고백합니다." />
+	<block key="ChatMsg_emotion_surprise_my_notarget" korean="당신은 크게 놀랍니다." />
+	<block key="ChatMsg_emotion_charge_my_notarget" korean="당신은 돌격합니다." />
+	<block key="ChatMsg_emotion_shame_my_notarget" korean="당신은 부끄러워 합니다." />
+	<block key="ChatMsg_emotion_greeting_my_notarget" korean="당신은 손인사를 합니다." />
+	<block key="ChatMsg_emotion_joyful_my_notarget" korean="당신은 기뻐합니다." />
+	<block key="ChatMsg_emotion_cry_my_notarget" korean="당신은 엉엉 웁니다." />
+	<block key="ChatMsg_emotion_smile_my_notarget" korean="당신은 크게 웃습니다." />
+	<block key="ChatMsg_emotion_cheerup_my_notarget" korean="당신은 응원합니다." />
+	<block key="ChatMsg_emotion_mockery_my_notarget" korean="당신은 조롱합니다." />
+	<block key="ChatMsg_emotion_cheers_my_notarget" korean="당신은 환호합니다." />
+	<block key="ChatMsg_emotion_penalty1_my_notarget" korean="당신은 땀을 흘리며 벌칙을 받습니다." />
+	<block key="ChatMsg_emotion_penalty2_my_notarget" korean="당신은 벌칙을 받으며 힘들어 합니다." />
+	<block key="ChatMsg_emotion_refuse_my_notarget" korean="당신은 거절의 의사를 밝힙니다." />
+	<block key="ChatMsg_emotion_angry_my_notarget" korean="당신은 화를 냅니다." />
+	<block key="ChatMsg_emotion_applause_my_notarget" korean="당신은 박수를 칩니다." />
+	<block key="ChatMsg_emotion_salute_my_notarget" korean="당신은 경례를 합니다." />
+	<block key="ChatMsg_emotion_beg_my_notarget" korean="당신은 구걸을 합니다." />
+	<block key="ChatMsg_emotion_cheek_my_notarget" korean="당신은 따귀를 힘껏 때립니다." />
+	<block key="ChatMsg_emotion_slapped_my_notarget" korean="당신은 따귀를 맞고 아파합니다." />
+	<block key="ChatMsg_emotion_beg2_my_notarget" korean="당신은 떼를 씁니다. 징징징" />
+	<block key="ChatMsg_emotion_step_my_notarget" korean="당신은 힘껏 밟습니다. 퍽퍽퍽" />
+	<block key="ChatMsg_emotion_affirmation_my_notarget" korean="당신은 긍정의 의사를 밝힙니다." />
+	<block key="ChatMsg_emotion_win_others_notarget" korean="[Actor]님이 승리를 기뻐합니다." />
+	<block key="ChatMsg_emotion_lose_others_notarget" korean="[Actor]님이 패배감을 느낍니다." />
+	<block key="ChatMsg_emotion_confession_others_notarget" korean="[Actor]님이 수줍게 고백합니다." />
+	<block key="ChatMsg_emotion_surprise_others_notarget" korean="[Actor]님이 크게 놀랍니다." />
+	<block key="ChatMsg_emotion_charge_others_notarget" korean="[Actor]님이 돌격합니다." />
+	<block key="ChatMsg_emotion_shame_others_notarget" korean="[Actor]님이 부끄러워 합니다." />
+	<block key="ChatMsg_emotion_greeting_others_notarget" korean="[Actor]님이 손인사를 합니다." />
+	<block key="ChatMsg_emotion_joyful_others_notarget" korean="[Actor]님이 기뻐합니다." />
+	<block key="ChatMsg_emotion_cry_others_notarget" korean="[Actor]님이 엉엉 웁니다." />
+	<block key="ChatMsg_emotion_smile_others_notarget" korean="[Actor]님이 크게 웃습니다." />
+	<block key="ChatMsg_emotion_cheerup_others_notarget" korean="[Actor]님이 응원합니다." />
+	<block key="ChatMsg_emotion_mockery_others_notarget" korean="[Actor]님이 조롱합니다." />
+	<block key="ChatMsg_emotion_cheers_others_notarget" korean="[Actor]님이 환호합니다." />
+	<block key="ChatMsg_emotion_penalty1_others_notarget" korean="[Actor]님이 땀을 흘리며 벌칙을 받습니다." />
+	<block key="ChatMsg_emotion_penalty2_others_notarget" korean="[Actor]님이 벌칙을 받으며 힘들어 합니다." />
+	<block key="ChatMsg_emotion_refuse_others_notarget" korean="[Actor]님이 거절의 의사를 밝힙니다." />
+	<block key="ChatMsg_emotion_angry_others_notarget" korean="[Actor]님이 화를 냅니다." />
+	<block key="ChatMsg_emotion_applause_others_notarget" korean="[Actor]님이 박수를 칩니다." />
+	<block key="ChatMsg_emotion_salute_others_notarget" korean="[Actor]님이 경례를 합니다." />
+	<block key="ChatMsg_emotion_beg_others_notarget" korean="[Actor]님이 구걸을 합니다." />
+	<block key="ChatMsg_emotion_cheek_others_notarget" korean="[Actor]님이 따귀를 힘껏 때립니다." />
+	<block key="ChatMsg_emotion_slapped_others_notarget" korean="[Actor]님이 따귀를 맞고 아파합니다." />
+	<block key="ChatMsg_emotion_beg2_others_notarget" korean="[Actor]님이 떼를 씁니다. 징징징" />
+	<block key="ChatMsg_emotion_step_others_notarget" korean="[Actor]님이 힘껏 밟습니다. 퍽퍽퍽" />
+	<block key="ChatMsg_emotion_affirmation_others_notarget" korean="[Actor]님이 긍정의 의사를 밝힙니다." />
+</blocks>

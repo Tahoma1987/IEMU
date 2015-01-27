@@ -1,0 +1,1294 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="am_co_gr_001_10_Name" korean="벌써 10렙" />
+	<block key="am_co_gr_001_10_Description" korean="10레벨 달성" />
+	<block key="am_co_gr_001_10_condition_0" korean="10레벨 달성" />
+	<block key="am_co_gr_001_20_Name" korean="수도성의 수호 기사" />
+	<block key="am_co_gr_001_20_Description" korean="20레벨 달성" />
+	<block key="am_co_gr_001_20_condition_0" korean="20레벨 달성" />
+	<block key="am_co_gr_001_30_Name" korean="내가 지켜주마" />
+	<block key="am_co_gr_001_30_Description" korean="30레벨 달성" />
+	<block key="am_co_gr_001_30_condition_0" korean="30레벨 달성" />
+	<block key="am_co_gr_001_40_Name" korean="보람찬 레벨업" />
+	<block key="am_co_gr_001_40_Description" korean="40레벨 달성" />
+	<block key="am_co_gr_001_40_condition_0" korean="40레벨 달성" />
+	<block key="am_co_mo_008_10_Name" korean="주섬주섬" />
+	<block key="am_co_mo_008_10_Description" korean="드랍으로 10 골드 획득" />
+	<block key="am_co_mo_008_10_condition_0" korean="획득 골드" />
+	<block key="am_co_mo_008_50_Name" korean="티끌 모아 태산" />
+	<block key="am_co_mo_008_50_Description" korean="드랍으로 50 골드 획득" />
+	<block key="am_co_mo_008_50_condition_0" korean="획득 골드" />
+	<block key="am_co_mo_008_100_Name" korean="동전 줍기의 달인" />
+	<block key="am_co_mo_008_100_Description" korean="드랍으로 100 골드 획득" />
+	<block key="am_co_mo_008_100_condition_0" korean="획득 골드" />
+	<block key="am_co_mo_009_10_Name" korean="작은 답례" />
+	<block key="am_co_mo_009_10_Description" korean="퀘스트 완료로 10 골드 획득" />
+	<block key="am_co_mo_009_10_condition_0" korean="획득 골드" />
+	<block key="am_co_mo_009_50_Name" korean="마땅한 보상" />
+	<block key="am_co_mo_009_50_Description" korean="퀘스트 완료로 50 골드 획득" />
+	<block key="am_co_mo_009_50_condition_0" korean="획득 골드" />
+	<block key="am_co_mo_009_100_Name" korean="내게 조공을 바쳐라" />
+	<block key="am_co_mo_009_100_Description" korean="퀘스트 완료로 100 골드 획득" />
+	<block key="am_co_mo_009_100_condition_0" korean="획득 골드" />
+	<block key="am_co_mo_010_10_Name" korean="장사의 참맛" />
+	<block key="am_co_mo_010_10_Description" korean="판매대행으로 10 골드 획득" />
+	<block key="am_co_mo_010_10_condition_0" korean="획득 골드" />
+	<block key="am_co_mo_010_50_Name" korean="장사란 이런 것이다" />
+	<block key="am_co_mo_010_50_Description" korean="판매대행으로 50 골드 획득" />
+	<block key="am_co_mo_010_50_condition_0" korean="획득 골드" />
+	<block key="am_co_mo_010_100_Name" korean="장사의 달인" />
+	<block key="am_co_mo_010_100_Description" korean="판매대행으로 100 골드 획득" />
+	<block key="am_co_mo_010_100_condition_0" korean="획득 골드" />
+	<block key="am_co_mo_016_50_Name" korean="저축의 즐거움" />
+	<block key="am_co_mo_016_50_Description" korean="50골드 보유하기" />
+	<block key="am_co_mo_016_50_condition_0" korean="보유 골드" />
+	<block key="am_co_mo_016_100_Name" korean="저축왕" />
+	<block key="am_co_mo_016_100_Description" korean="100골드 보유하기" />
+	<block key="am_co_mo_016_100_condition_0" korean="보유 골드" />
+	<block key="am_co_mo_013_10_Name" korean="쇼핑은 즐거워" />
+	<block key="am_co_mo_013_10_Description" korean="상점에서 아이템 구입으로 10 골드 사용" />
+	<block key="am_co_mo_013_10_condition_0" korean="사용 골드" />
+	<block key="am_co_mo_013_50_Name" korean="단골손님" />
+	<block key="am_co_mo_013_50_Description" korean="상점에서 아이템 구입으로 50 골드 사용" />
+	<block key="am_co_mo_013_50_condition_0" korean="사용 골드" />
+	<block key="am_co_mo_013_100_Name" korean="상점을 거덜내는 자" />
+	<block key="am_co_mo_013_100_Description" korean="상점에서 아이템 구입으로 100 골드 사용" />
+	<block key="am_co_mo_013_100_condition_0" korean="사용 골드" />
+	<block key="am_co_mo_026_100_Name" korean="엘룬은 정말이지 너무 멋져요" />
+	<block key="am_co_mo_026_100_Description" korean="엘룬 100개 사용" />
+	<block key="am_co_mo_026_100_condition_0" korean="사용 엘룬 수" />
+	<block key="am_co_mo_026_1000_Name" korean="엘룬의 수호자" />
+	<block key="am_co_mo_026_1000_Description" korean="엘룬 1000개 사용" />
+	<block key="am_co_mo_026_1000_condition_0" korean="사용 엘룬 수" />
+	<block key="am_co_ac_019_100_Name" korean="장사꾼 입문" />
+	<block key="am_co_ac_019_100_Description" korean="판매 대행을 이용하여 아이템 100번 판매" />
+	<block key="am_co_ac_019_100_condition_0" korean="아이템 판매 수" />
+	<block key="am_co_ac_019_500_Name" korean="판매의 귀재" />
+	<block key="am_co_ac_019_500_Description" korean="판매 대행을 이용하여 아이템 500번 판매" />
+	<block key="am_co_ac_019_500_condition_0" korean="아이템 판매 수" />
+	<block key="am_co_ac_019_1000_Name" korean="대륙의 거상" />
+	<block key="am_co_ac_019_1000_Description" korean="판매 대행을 이용하여 아이템 1000번 판매" />
+	<block key="am_co_ac_019_1000_condition_0" korean="아이템 판매 수" />
+	<block key="am_co_ac_020_100_Name" korean="소비의 시작" />
+	<block key="am_co_ac_020_100_Description" korean="판매 대행을 이용하여 아이템 100번 구매" />
+	<block key="am_co_ac_020_100_condition_0" korean="아이템 구매 수" />
+	<block key="am_co_ac_020_500_Name" korean="V.I.P 컨슈머" />
+	<block key="am_co_ac_020_500_Description" korean="판매 대행을 이용하여 아이템 500번 구매" />
+	<block key="am_co_ac_020_500_condition_0" korean="아이템 구매 수" />
+	<block key="am_co_ac_020_1000_Name" korean="대륙의 큰 손" />
+	<block key="am_co_ac_020_1000_Description" korean="판매 대행을 이용하여 아이템 1000번 구매" />
+	<block key="am_co_ac_020_1000_condition_0" korean="아이템 구매 수" />
+	<block key="am_co_ac_025_100_Name" korean="하카나스의 대중교통" />
+	<block key="am_co_ac_025_100_Description" korean="포탈 100번 이용" />
+	<block key="am_co_ac_025_100_condition_0" korean="포탈 이용 수" />
+	<block key="am_co_ac_025_500_Name" korean="인간 포탈" />
+	<block key="am_co_ac_025_500_Description" korean="포탈 500번 이용" />
+	<block key="am_co_ac_025_500_condition_0" korean="포탈 이용 수" />
+	<block key="am_co_ac_027_7_Name" korean="크고 아름다운 창고" />
+	<block key="am_co_ac_027_7_Description" korean="창고 슬롯 7줄 확장" />
+	<block key="am_co_ac_027_7_condition_0" korean="창고 슬롯 확장 수" />
+	<block key="am_co_ac_030_100_Name" korean="백일 동안" />
+	<block key="am_co_ac_030_100_Description" korean="누적 접속 횟수 100일" />
+	<block key="am_co_ac_030_100_condition_0" korean="누적 접속 일 수" />
+	<block key="am_co_ac_030_365_Name" korean="벌써 일년" />
+	<block key="am_co_ac_030_365_Description" korean="누적 접속 횟수 365일" />
+	<block key="am_co_ac_030_365_condition_0" korean="누적 접속 일 수" />
+	<block key="am_co_ac_031_10_Name" korean="죽지도 않고 또 왔네" />
+	<block key="am_co_ac_031_10_Description" korean="사망 10번" />
+	<block key="am_co_ac_031_10_condition_0" korean="사망 수" />
+	<block key="am_co_ac_031_100_Name" korean="좀비" />
+	<block key="am_co_ac_031_100_Description" korean="사망 100번" />
+	<block key="am_co_ac_031_100_condition_0" korean="사망 수" />
+	<block key="am_co_ac_031_200_Name" korean="불사신" />
+	<block key="am_co_ac_031_200_Description" korean="사망 200번" />
+	<block key="am_co_ac_031_200_condition_0" korean="사망 수" />
+	<block key="am_fe_ga_033_50_Name" korean="펠로우 전문가" />
+	<block key="am_fe_ga_033_50_Description" korean="등급에 관계 없이 모든 펠로우 길들이기 100번 성공" />
+	<block key="am_fe_ga_033_50_condition_0" korean="길들이기 성공 수" />
+	<block key="am_fe_ga_033_100_Name" korean="펠로우 마스터" />
+	<block key="am_fe_ga_033_100_Description" korean="등급에 관계 없이 모든 펠로우 길들이기 300번 성공" />
+	<block key="am_fe_ga_033_100_condition_0" korean="길들이기 성공 수" />
+	<block key="am_fe_ga_034_30_Name" korean="일반 펠로우 애호가" />
+	<block key="am_fe_ga_034_30_Description" korean="일반 펠로우 길들이기 30번 성공" />
+	<block key="am_fe_ga_034_30_condition_0" korean="길들이기 성공 수" />
+	<block key="am_fe_ga_034_60_Name" korean="일반 펠로우 수집가" />
+	<block key="am_fe_ga_034_60_Description" korean="일반 펠로우 길들이기 200번 성공" />
+	<block key="am_fe_ga_034_60_condition_0" korean="길들이기 성공 수" />
+	<block key="am_fe_ga_035_20_Name" korean="정예 펠로우 애호가" />
+	<block key="am_fe_ga_035_20_Description" korean="정예 펠로우 길들이기 20번 성공" />
+	<block key="am_fe_ga_035_20_condition_0" korean="길들이기 성공 수" />
+	<block key="am_fe_ga_035_40_Name" korean="정예 펠로우 수집가" />
+	<block key="am_fe_ga_035_40_Description" korean="정예 펠로우 길들이기 100번 성공" />
+	<block key="am_fe_ga_035_40_condition_0" korean="길들이기 성공 수" />
+	<block key="am_fe_ga_036_10_Name" korean="영웅 펠로우 애호가" />
+	<block key="am_fe_ga_036_10_Description" korean="영웅 펠로우 길들이기 10번 성공" />
+	<block key="am_fe_ga_036_10_condition_0" korean="길들이기 성공 수" />
+	<block key="am_fe_ga_036_20_Name" korean="영웅 펠로우 수집가" />
+	<block key="am_fe_ga_036_20_Description" korean="영웅 펠로우 길들이기 50번 성공" />
+	<block key="am_fe_ga_036_20_condition_0" korean="길들이기 성공 수" />
+	<block key="am_fe_ga_037_50_Name" korean="따…딱히 슬롯이 모자라서 놔주는건 아니라구" />
+	<block key="am_fe_ga_037_50_Description" korean="등급에 관계 없이 모든 펠로우 놓아주기 100번" />
+	<block key="am_fe_ga_037_50_condition_0" korean="놓아주기 수" />
+	<block key="am_fe_ga_037_100_Name" korean="방생을 통해 반열에 오르다" />
+	<block key="am_fe_ga_037_100_Description" korean="등급에 관계 없이 모든 펠로우 놓아주기 300번" />
+	<block key="am_fe_ga_037_100_condition_0" korean="놓아주기 수" />
+	<block key="am_fe_ga_038_30_Name" korean="[일반] 헤어져야 할 시간" />
+	<block key="am_fe_ga_038_30_Description" korean="일반 펠로우 놓아주기 30번" />
+	<block key="am_fe_ga_038_30_condition_0" korean="놓아주기 수" />
+	<block key="am_fe_ga_038_60_Name" korean="[일반] 진정으로 위하는 마음" />
+	<block key="am_fe_ga_038_60_Description" korean="일반 펠로우 놓아주기 200번" />
+	<block key="am_fe_ga_038_60_condition_0" korean="놓아주기 수" />
+	<block key="am_fe_ga_039_20_Name" korean="[정예] 헤어져야 할 시간" />
+	<block key="am_fe_ga_039_20_Description" korean="정예 펠로우 놓아주기 20번" />
+	<block key="am_fe_ga_039_20_condition_0" korean="놓아주기 수" />
+	<block key="am_fe_ga_039_40_Name" korean="[정예] 진정으로 위하는 마음" />
+	<block key="am_fe_ga_039_40_Description" korean="정예 펠로우 놓아주기 100번" />
+	<block key="am_fe_ga_039_40_condition_0" korean="놓아주기 수" />
+	<block key="am_fe_ga_040_10_Name" korean="[영웅] 헤어져야 할 시간" />
+	<block key="am_fe_ga_040_10_Description" korean="영웅 펠로우 놓아주기 10번" />
+	<block key="am_fe_ga_040_10_condition_0" korean="놓아주기 수" />
+	<block key="am_fe_ga_040_20_Name" korean="[영웅] 진정으로 위하는 마음" />
+	<block key="am_fe_ga_040_20_Description" korean="영웅 펠로우 놓아주기 50번" />
+	<block key="am_fe_ga_040_20_condition_0" korean="놓아주기 수" />
+	<block key="am_fe_us_041_50_Name" korean="커졌다 작아졌다" />
+	<block key="am_fe_us_041_50_Description" korean="등급에 관계 없이 모든 펠로우 변형 100번" />
+	<block key="am_fe_us_041_50_condition_0" korean="변형 수" />
+	<block key="am_fe_us_041_100_Name" korean="펠로우 변형 전문가" />
+	<block key="am_fe_us_041_100_Description" korean="등급에 관계 없이 모든 펠로우 변형 300번" />
+	<block key="am_fe_us_041_100_condition_0" korean="변형 수" />
+	<block key="am_fe_us_042_30_Name" korean="[일반] 또 다른 모습으로" />
+	<block key="am_fe_us_042_30_Description" korean="일반 펠로우 변형 50번" />
+	<block key="am_fe_us_042_30_condition_0" korean="변형 수" />
+	<block key="am_fe_us_042_60_Name" korean="[일반] 변형이 제일 쉬웠어요" />
+	<block key="am_fe_us_042_60_Description" korean="일반 펠로우 변형 200번" />
+	<block key="am_fe_us_042_60_condition_0" korean="변형 수" />
+	<block key="am_fe_us_043_20_Name" korean="[정예] 또 다른 모습으로" />
+	<block key="am_fe_us_043_20_Description" korean="정예 펠로우 변형 20번" />
+	<block key="am_fe_us_043_20_condition_0" korean="변형 수" />
+	<block key="am_fe_us_043_40_Name" korean="[정예] 변형이 제일 쉬웠어요" />
+	<block key="am_fe_us_043_40_Description" korean="정예 펠로우 변형 100번" />
+	<block key="am_fe_us_043_40_condition_0" korean="변형 수" />
+	<block key="am_fe_us_044_10_Name" korean="[영웅] 또 다른 모습으로" />
+	<block key="am_fe_us_044_10_Description" korean="영웅 펠로우 변형 10번" />
+	<block key="am_fe_us_044_10_condition_0" korean="변형 수" />
+	<block key="am_fe_us_044_20_Name" korean="[영웅] 변형이 제일 쉬웠어요" />
+	<block key="am_fe_us_044_20_Description" korean="영웅 펠로우 변형 50번" />
+	<block key="am_fe_us_044_20_condition_0" korean="변형 수" />
+	<block key="am_fe_us_045_50_Name" korean="보이진 않아도 함께 싸워요" />
+	<block key="am_fe_us_045_50_Description" korean="등급에 관계 없이 모든 펠로우 봉인 100번" />
+	<block key="am_fe_us_045_50_condition_0" korean="봉인 수" />
+	<block key="am_fe_us_045_100_Name" korean="펠로우 봉인 전문가" />
+	<block key="am_fe_us_045_100_Description" korean="등급에 관계 없이 모든 펠로우 봉인 300번" />
+	<block key="am_fe_us_045_100_condition_0" korean="봉인 수" />
+	<block key="am_fe_us_046_30_Name" korean="일반 펠로우 50회 봉인" />
+	<block key="am_fe_us_046_30_Description" korean="일반 펠로우 봉인 50번" />
+	<block key="am_fe_us_046_30_condition_0" korean="봉인 수" />
+	<block key="am_fe_us_046_60_Name" korean="일반 펠로우 200회 봉인" />
+	<block key="am_fe_us_046_60_Description" korean="일반 펠로우 봉인 200번" />
+	<block key="am_fe_us_046_60_condition_0" korean="봉인 수" />
+	<block key="am_fe_us_047_20_Name" korean="정예 펠로우 20회 봉인" />
+	<block key="am_fe_us_047_20_Description" korean="정예 펠로우 봉인 20번" />
+	<block key="am_fe_us_047_20_condition_0" korean="봉인 수" />
+	<block key="am_fe_us_047_40_Name" korean="정예 펠로우 50회 봉인" />
+	<block key="am_fe_us_047_40_Description" korean="정예 펠로우 봉인 50번" />
+	<block key="am_fe_us_047_40_condition_0" korean="봉인 수" />
+	<block key="am_fe_us_048_10_Name" korean="영웅 펠로우 10회 봉인" />
+	<block key="am_fe_us_048_10_Description" korean="영웅 펠로우 봉인 10번" />
+	<block key="am_fe_us_048_10_condition_0" korean="봉인 수" />
+	<block key="am_fe_us_048_20_Name" korean="영웅 펠로우 20회 봉인" />
+	<block key="am_fe_us_048_20_Description" korean="영웅 펠로우 봉인 20번" />
+	<block key="am_fe_us_048_20_condition_0" korean="봉인 수" />
+	<block key="am_qu_co_049_100_Name" korean="이야기 속으로" />
+	<block key="am_qu_co_049_100_Description" korean="종류에 상관없이 퀘스트 100개 완료" />
+	<block key="am_qu_co_049_100_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_049_300_Name" korean="퀘스트 300개 완료!" />
+	<block key="am_qu_co_049_300_Description" korean="종류에 상관없이 퀘스트 300개 완료" />
+	<block key="am_qu_co_049_300_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_049_600_Name" korean="하카나스의 이야기꾼" />
+	<block key="am_qu_co_049_600_Description" korean="종류에 상관없이 퀘스트 600개 완료" />
+	<block key="am_qu_co_049_600_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_049_1000_Name" korean="이카루스 대륙의 장로" />
+	<block key="am_qu_co_049_1000_Description" korean="종류에 상관없이 퀘스트 1000개 완료" />
+	<block key="am_qu_co_049_1000_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_050_90_Name" korean="공주님은 어디에" />
+	<block key="am_qu_co_050_90_Description" korean="메인 퀘스트 90개 완료" />
+	<block key="am_qu_co_050_90_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_050_180_Name" korean="이야기 탐구가" />
+	<block key="am_qu_co_050_180_Description" korean="메인 퀘스트 180개 완료" />
+	<block key="am_qu_co_050_180_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_051_100_Name" korean="따뜻한 마음씨" />
+	<block key="am_qu_co_051_100_Description" korean="서브 퀘스트 100개 완료" />
+	<block key="am_qu_co_051_100_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_051_200_Name" korean="무엇이든지 도와드립니다" />
+	<block key="am_qu_co_051_200_Description" korean="서브 퀘스트 200개 완료" />
+	<block key="am_qu_co_051_200_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_051_300_Name" korean="이카루스 대륙의 고민 해결사" />
+	<block key="am_qu_co_051_300_Description" korean="서브 퀘스트 300개 완료" />
+	<block key="am_qu_co_051_300_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_052_100_Name" korean="너의 열정을 보여줘" />
+	<block key="am_qu_co_052_100_Description" korean="반복 퀘스트 100번 완료" />
+	<block key="am_qu_co_052_100_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_052_300_Name" korean="끈기의 사나이" />
+	<block key="am_qu_co_052_300_Description" korean="반복 퀘스트 300번 완료" />
+	<block key="am_qu_co_052_300_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_053_100_Name" korean="오늘의 임무는?" />
+	<block key="am_qu_co_053_100_Description" korean="일일 퀘스트 100번 완료" />
+	<block key="am_qu_co_053_100_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_053_300_Name" korean="이카루스 대륙의 일일 해결사" />
+	<block key="am_qu_co_053_300_Description" korean="일일 퀘스트 300번 완료" />
+	<block key="am_qu_co_053_300_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_zo_054_82_Name" korean="브라카르 숲의 모험가" />
+	<block key="am_qu_zo_054_82_Description" korean="브라카르 숲 퀘스트 52개 완료" />
+	<block key="am_qu_zo_054_82_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_zo_055_111_Name" korean="하카나스 수도성의 경비병" />
+	<block key="am_qu_zo_055_111_Description" korean="하카나스 수도성 퀘스트 70개 완료" />
+	<block key="am_qu_zo_055_111_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_zo_056_223_Name" korean="하카나스 직할령의 해결사" />
+	<block key="am_qu_zo_056_223_Description" korean="하카나스 직할령 퀘스트 150개 완료" />
+	<block key="am_qu_zo_056_223_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_zo_057_115_Name" korean="파르나의 땅의 수호기사" />
+	<block key="am_qu_zo_057_115_Description" korean="파르나의 땅 퀘스트 130개 완료" />
+	<block key="am_qu_zo_057_115_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_zo_059_83_Name" korean="하카나스 대해의 항해사" />
+	<block key="am_qu_zo_059_83_Description" korean="하카나스 대해 퀘스트 48개 완료" />
+	<block key="am_qu_zo_059_83_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_dg_co_061_1_Name" korean="[시나리오] 불이 삼킨 유적" />
+	<block key="am_dg_co_061_1_Description" korean="불이삼킨유적 시나리오 난이도 클리어 1회" />
+	<block key="am_dg_co_061_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_061_10_Name" korean="[시나리오] 불이 삼킨 유적의 용사" />
+	<block key="am_dg_co_061_10_Description" korean="불이삼킨유적 시나리오 난이도 클리어 10회" />
+	<block key="am_dg_co_061_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_062_1_Name" korean="[정예] 불이 삼킨 유적" />
+	<block key="am_dg_co_062_1_Description" korean="불이삼킨유적 정예 난이도 클리어 1회" />
+	<block key="am_dg_co_062_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_062_10_Name" korean="[정예] 불이 삼킨 유적의 용사" />
+	<block key="am_dg_co_062_10_Description" korean="불이삼킨유적 정예 난이도 클리어 10회" />
+	<block key="am_dg_co_062_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_063_1_Name" korean="[영웅] 불이 삼킨 유적" />
+	<block key="am_dg_co_063_1_Description" korean="불이삼킨유적 영웅 난이도 클리어 1회" />
+	<block key="am_dg_co_063_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_063_10_Name" korean="[영웅] 불이 삼킨 유적의 용사" />
+	<block key="am_dg_co_063_10_Description" korean="불이삼킨유적 영웅 난이도 클리어 10회" />
+	<block key="am_dg_co_063_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_064_1_Name" korean="[전설] 불이 삼킨 유적" />
+	<block key="am_dg_co_064_1_Description" korean="불이삼킨유적 전설 난이도 클리어 1회" />
+	<block key="am_dg_co_064_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_064_10_Name" korean="[전설] 불이 삼킨 유적의 용사" />
+	<block key="am_dg_co_064_10_Description" korean="불이삼킨유적 전설 난이도 클리어 10회" />
+	<block key="am_dg_co_064_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_065_1_Name" korean="[시나리오] 카를레앙 대저택" />
+	<block key="am_dg_co_065_1_Description" korean="카를레앙 대저택 시나리오 난이도 클리어 1회" />
+	<block key="am_dg_co_065_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_065_10_Name" korean="[시나리오] 카를레앙 대저택의 구원자" />
+	<block key="am_dg_co_065_10_Description" korean="카를레앙 대저택 시나리오 난이도 클리어 10회" />
+	<block key="am_dg_co_065_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_066_1_Name" korean="[정예] 카를레앙 대저택" />
+	<block key="am_dg_co_066_1_Description" korean="카를레앙 대저택 정예 난이도 클리어 1회" />
+	<block key="am_dg_co_066_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_066_10_Name" korean="[정예] 카를레앙 대저택의 구원자" />
+	<block key="am_dg_co_066_10_Description" korean="카를레앙 대저택 정예 난이도 클리어 10회" />
+	<block key="am_dg_co_066_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_067_1_Name" korean="[영웅] 카를레앙 대저택" />
+	<block key="am_dg_co_067_1_Description" korean="카를레앙 대저택 영웅 난이도 클리어 1회" />
+	<block key="am_dg_co_067_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_067_10_Name" korean="[영웅] 카를레앙 대저택의 구원자" />
+	<block key="am_dg_co_067_10_Description" korean="카를레앙 대저택 영웅 난이도 클리어 10회" />
+	<block key="am_dg_co_067_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_068_1_Name" korean="[전설] 카를레앙 대저택" />
+	<block key="am_dg_co_068_1_Description" korean="카를레앙 대저택 전설 난이도 클리어 1회" />
+	<block key="am_dg_co_068_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_068_10_Name" korean="[전설] 카를레앙 대저택의 구원자" />
+	<block key="am_dg_co_068_10_Description" korean="카를레앙 대저택 전설 난이도 클리어 10회" />
+	<block key="am_dg_co_068_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_069_1_Name" korean="[시나리오] 얼어붙은 마트렌 폐허" />
+	<block key="am_dg_co_069_1_Description" korean="마트렌 폐허 시나리오 난이도 클리어 1회" />
+	<block key="am_dg_co_069_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_069_10_Name" korean="[시나리오] 얼어붙은 마트렌 폐허의 파괴자" />
+	<block key="am_dg_co_069_10_Description" korean="마트렌 폐허 시나리오 난이도 클리어 10회" />
+	<block key="am_dg_co_069_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_070_1_Name" korean="[정예] 얼어붙은 마트렌 폐허" />
+	<block key="am_dg_co_070_1_Description" korean="마트렌 폐허 정예 난이도 클리어 1회" />
+	<block key="am_dg_co_070_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_070_10_Name" korean="[정예] 얼어붙은 마트렌 폐허의 파괴자" />
+	<block key="am_dg_co_070_10_Description" korean="마트렌 폐허 정예 난이도 클리어 10회" />
+	<block key="am_dg_co_070_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_071_1_Name" korean="[영웅] 얼어붙은 마트렌 폐허" />
+	<block key="am_dg_co_071_1_Description" korean="마트렌 폐허 영웅 난이도 클리어 1회" />
+	<block key="am_dg_co_071_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_071_10_Name" korean="[영웅] 얼어붙은 마트렌 폐허의 파괴자" />
+	<block key="am_dg_co_071_10_Description" korean="마트렌 폐허 영웅 난이도 클리어 10회" />
+	<block key="am_dg_co_071_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_072_1_Name" korean="[전설] 얼어붙은 마트렌 폐허" />
+	<block key="am_dg_co_072_1_Description" korean="마트렌 폐허 전설 난이도 클리어 1회" />
+	<block key="am_dg_co_072_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_072_10_Name" korean="[전설] 얼어붙은 마트렌 폐허의 파괴자" />
+	<block key="am_dg_co_072_10_Description" korean="마트렌 폐허 전설 난이도 클리어 10회" />
+	<block key="am_dg_co_072_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_073_1_Name" korean="[시나리오] 베일에 싸인 동굴" />
+	<block key="am_dg_co_073_1_Description" korean="베일에 싸인 동굴 시나리오 난이도 클리어 1회" />
+	<block key="am_dg_co_073_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_073_10_Name" korean="[시나리오] 베일에 싸인 동굴의 선지자" />
+	<block key="am_dg_co_073_10_Description" korean="베일에 싸인 동굴 시나리오 난이도 클리어 10회" />
+	<block key="am_dg_co_073_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_074_1_Name" korean="[정예] 베일에 싸인 동굴" />
+	<block key="am_dg_co_074_1_Description" korean="베일에 싸인 동굴 정예 난이도 클리어 1회" />
+	<block key="am_dg_co_074_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_074_10_Name" korean="[정예] 베일에 싸인 동굴의 선지자" />
+	<block key="am_dg_co_074_10_Description" korean="베일에 싸인 동굴 정예 난이도 클리어 10회" />
+	<block key="am_dg_co_074_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_075_1_Name" korean="[영웅] 베일에 싸인 동굴" />
+	<block key="am_dg_co_075_1_Description" korean="베일에 싸인 동굴 영웅 난이도 클리어 1회" />
+	<block key="am_dg_co_075_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_075_10_Name" korean="[영웅] 베일에 싸인 동굴의 선지자" />
+	<block key="am_dg_co_075_10_Description" korean="베일에 싸인 동굴 영웅 난이도 클리어 10회" />
+	<block key="am_dg_co_075_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_076_1_Name" korean="[전설] 베일에 싸인 동굴" />
+	<block key="am_dg_co_076_1_Description" korean="베일에 싸인 동굴 전설 난이도 클리어 1회" />
+	<block key="am_dg_co_076_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_076_10_Name" korean="[전설] 베일에 싸인 동굴의 선지자" />
+	<block key="am_dg_co_076_10_Description" korean="베일에 싸인 동굴 전설 난이도 클리어 10회" />
+	<block key="am_dg_co_076_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_077_1_Name" korean="[시나리오] 파를라크 얼음 성채" />
+	<block key="am_dg_co_077_1_Description" korean="파를라크 얼음 성채 시나리오 난이도 클리어 1회" />
+	<block key="am_dg_co_077_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_077_10_Name" korean="[시나리오] 파를라크 얼음 성채의 영웅" />
+	<block key="am_dg_co_077_10_Description" korean="파를라크 얼음 성채 시나리오 난이도 클리어 10회" />
+	<block key="am_dg_co_077_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_078_1_Name" korean="[정예] 파를라크 얼음 성채" />
+	<block key="am_dg_co_078_1_Description" korean="파를라크 얼음 성채 정예 난이도 클리어 1회" />
+	<block key="am_dg_co_078_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_078_10_Name" korean="[정예] 파를라크 얼음 성채의 영웅" />
+	<block key="am_dg_co_078_10_Description" korean="파를라크 얼음 성채 정예 난이도 클리어 10회" />
+	<block key="am_dg_co_078_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_079_1_Name" korean="[영웅] 파를라크 얼음 성채" />
+	<block key="am_dg_co_079_1_Description" korean="파를라크 얼음 성채 영웅 난이도 클리어 1회" />
+	<block key="am_dg_co_079_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_079_10_Name" korean="[영웅] 파를라크 얼음 성채의 영웅" />
+	<block key="am_dg_co_079_10_Description" korean="파를라크 얼음 성채 영웅 난이도 클리어 10회" />
+	<block key="am_dg_co_079_10_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_080_1_Name" korean="[전설] 파를라크 얼음 성채" />
+	<block key="am_dg_co_080_1_Description" korean="파를라크 얼음 성채 전설 난이도 클리어 1회" />
+	<block key="am_dg_co_080_1_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_080_10_Name" korean="[전설] 파를라크 얼음 성채의 영웅" />
+	<block key="am_dg_co_080_10_Description" korean="파를라크 얼음 성채 전설 난이도 클리어 10회" />
+	<block key="am_dg_co_080_10_condition_0" korean="클리어 수" />
+	<block key="am_it_ga_081_1_Name" korean="정예 기사단원의 장비" />
+	<block key="am_it_ga_081_1_Description" korean="착용 장비 모두가 정예 등급 이상" />
+	<block key="am_it_ga_081_1_condition_0" korean="착용 장비 모두가 정예 등급 이상" />
+	<block key="am_it_ga_082_1_Name" korean="영웅의 장비" />
+	<block key="am_it_ga_082_1_Description" korean="착용 장비 모두가 영웅 등급 이상" />
+	<block key="am_it_ga_082_1_condition_0" korean="착용 장비 모두가 영웅 등급 이상" />
+	<block key="am_it_re_084_100_Name" korean="[일반] 강화의 달인" />
+	<block key="am_it_re_084_100_Description" korean="일반 아이템 강화 100회 성공" />
+	<block key="am_it_re_084_100_condition_0" korean="강화 수" />
+	<block key="am_it_re_085_100_Name" korean="[정예] 강화의 달인" />
+	<block key="am_it_re_085_100_Description" korean="정예 아이템 강화 100회 성공" />
+	<block key="am_it_re_085_100_condition_0" korean="강화 수" />
+	<block key="am_it_re_086_100_Name" korean="[영웅] 강화의 달인" />
+	<block key="am_it_re_086_100_Description" korean="영웅 아이템 강화 100회 성공" />
+	<block key="am_it_re_086_100_condition_0" korean="강화 수" />
+	<block key="am_it_re_088_100_Name" korean="[일반] 저주받은 강화의 달인" />
+	<block key="am_it_re_088_100_Description" korean="일반 아이템 강화 100회 실패" />
+	<block key="am_it_re_088_100_condition_0" korean="강화 수" />
+	<block key="am_it_re_089_100_Name" korean="[정예] 저주받은 강화의 달인" />
+	<block key="am_it_re_089_100_Description" korean="정예 아이템 강화 100회 실패" />
+	<block key="am_it_re_089_100_condition_0" korean="강화 수" />
+	<block key="am_it_re_090_100_Name" korean="[영웅] 저주받은 강화의 달인" />
+	<block key="am_it_re_090_100_Description" korean="영웅 아이템 강화 100회 실패" />
+	<block key="am_it_re_090_100_condition_0" korean="강화 수" />
+	<block key="am_it_re_091_5_Name" korean="[일반] 가장 강한 장비" />
+	<block key="am_it_re_091_5_Description" korean="일반 아이템 강화 5단계 성공" />
+	<block key="am_it_re_091_5_condition_0" korean="아이템 강화 5단계 성공" />
+	<block key="am_it_re_092_15_Name" korean="[정예] 가장 강한 장비" />
+	<block key="am_it_re_092_15_Description" korean="정예 아이템 강화 15단계 성공" />
+	<block key="am_it_re_092_15_condition_0" korean="아이템 강화 15단계 성공" />
+	<block key="am_it_re_093_20_Name" korean="[영웅] 가장 강한 장비" />
+	<block key="am_it_re_093_20_Description" korean="영웅 아이템 강화 20단계 성공" />
+	<block key="am_it_re_093_20_condition_0" korean="아이템 강화 20단계 성공" />
+	<block key="am_it_re_094_50_Name" korean="장비를 제물로 강화석을 소환한다" />
+	<block key="am_it_re_094_50_Description" korean="추출로 50레벨의 강화석 습득" />
+	<block key="am_it_re_094_50_condition_0" korean="추출로 50레벨의 강화석 습득" />
+	<block key="am_it_re_095_100_Name" korean="아이템 100회 추출" />
+	<block key="am_it_re_095_100_Description" korean="아이템 100회 추출" />
+	<block key="am_it_re_095_100_condition_0" korean="추출 수" />
+	<block key="am_it_re_095_500_Name" korean="아이템 500회 추출" />
+	<block key="am_it_re_095_500_Description" korean="아이템 500회 추출" />
+	<block key="am_it_re_095_500_condition_0" korean="추출 수" />
+	<block key="am_it_re_095_1000_Name" korean="강화석 자판기" />
+	<block key="am_it_re_095_1000_Description" korean="아이템 1000회 추출" />
+	<block key="am_it_re_095_1000_condition_0" korean="추출 수" />
+	<block key="am_it_re_096_100_Name" korean="[일반] 장비 파괴자" />
+	<block key="am_it_re_096_100_Description" korean="일반 아이템 추출 100회" />
+	<block key="am_it_re_096_100_condition_0" korean="추출 수" />
+	<block key="am_it_re_097_100_Name" korean="[정예] 장비 파괴자" />
+	<block key="am_it_re_097_100_Description" korean="정예 아이템 추출 100회" />
+	<block key="am_it_re_097_100_condition_0" korean="추출 수" />
+	<block key="am_it_re_098_100_Name" korean="[영웅] 장비 파괴자" />
+	<block key="am_it_re_098_100_Description" korean="영웅 아이템 추출 100회" />
+	<block key="am_it_re_098_100_condition_0" korean="추출 수" />
+	<block key="am_it_pr_103_200_Name" korean="방어구 제작의 달인" />
+	<block key="am_it_pr_103_200_Description" korean="방어구 제작 1000회 성공" />
+	<block key="am_it_pr_103_200_condition_0" korean="제작 수" />
+	<block key="am_it_pr_104_10_Name" korean="수습 방어구 제작자" />
+	<block key="am_it_pr_104_10_Description" korean="방어구 제작 100회 일반 성공" />
+	<block key="am_it_pr_104_10_condition_0" korean="제작 수" />
+	<block key="am_it_pr_104_100_Name" korean="숙련 방어구 제작자" />
+	<block key="am_it_pr_104_100_Description" korean="방어구 제작 300회 일반 성공" />
+	<block key="am_it_pr_104_100_condition_0" korean="제작 수" />
+	<block key="am_it_pr_105_10_Name" korean="행운의 방어구 제작자" />
+	<block key="am_it_pr_105_10_Description" korean="방어구 제작 100회 대성공" />
+	<block key="am_it_pr_105_10_condition_0" korean="제작 수" />
+	<block key="am_it_pr_105_100_Name" korean="축복받은 방어구 제작자" />
+	<block key="am_it_pr_105_100_Description" korean="방어구 제작 300회 대성공" />
+	<block key="am_it_pr_105_100_condition_0" korean="제작 수" />
+	<block key="am_it_pr_099_200_Name" korean="무기 제작의 달인" />
+	<block key="am_it_pr_099_200_Description" korean="무기 제작 1000회 성공" />
+	<block key="am_it_pr_099_200_condition_0" korean="제작 수" />
+	<block key="am_it_pr_100_10_Name" korean="수습 무기 제작자" />
+	<block key="am_it_pr_100_10_Description" korean="무기 제작 100회 일반 성공" />
+	<block key="am_it_pr_100_10_condition_0" korean="제작 수" />
+	<block key="am_it_pr_100_100_Name" korean="숙련 무기 제작자" />
+	<block key="am_it_pr_100_100_Description" korean="무기 제작 300회 일반 성공" />
+	<block key="am_it_pr_100_100_condition_0" korean="제작 수" />
+	<block key="am_it_pr_101_10_Name" korean="행운의 무기 제작자" />
+	<block key="am_it_pr_101_10_Description" korean="무기 제작 100회 대성공" />
+	<block key="am_it_pr_101_10_condition_0" korean="제작 수" />
+	<block key="am_it_pr_101_100_Name" korean="축복받은 무기 제작자" />
+	<block key="am_it_pr_101_100_Description" korean="무기 제작 300회 대성공" />
+	<block key="am_it_pr_101_100_condition_0" korean="제작 수" />
+	<block key="am_it_pr_107_200_Name" korean="장신구 제작의 달인" />
+	<block key="am_it_pr_107_200_Description" korean="장신구 제작 1000회 성공" />
+	<block key="am_it_pr_107_200_condition_0" korean="제작 수" />
+	<block key="am_it_pr_108_10_Name" korean="수습 장신구 제작자" />
+	<block key="am_it_pr_108_10_Description" korean="장신구 제작 100회 일반 성공" />
+	<block key="am_it_pr_108_10_condition_0" korean="제작 수" />
+	<block key="am_it_pr_108_100_Name" korean="숙련 장신구 제작자" />
+	<block key="am_it_pr_108_100_Description" korean="장신구 제작 300회 일반 성공" />
+	<block key="am_it_pr_108_100_condition_0" korean="제작 수" />
+	<block key="am_it_pr_109_10_Name" korean="행운의 장신구 제작자" />
+	<block key="am_it_pr_109_10_Description" korean="장신구 제작 100회 대성공" />
+	<block key="am_it_pr_109_10_condition_0" korean="제작 수" />
+	<block key="am_it_pr_109_100_Name" korean="축복받은 장신구 제작자" />
+	<block key="am_it_pr_109_100_Description" korean="장신구 제작 300회 대성공" />
+	<block key="am_it_pr_109_100_condition_0" korean="제작 수" />
+	<block key="am_it_pr_111_200_Name" korean="펠로우 제작의 달인" />
+	<block key="am_it_pr_111_200_Description" korean="펠로우 제작 1000회 성공" />
+	<block key="am_it_pr_111_200_condition_0" korean="제작 수" />
+	<block key="am_it_pr_112_10_Name" korean="수습 펠로우 제작자" />
+	<block key="am_it_pr_112_10_Description" korean="펠로우 제작 100회 일반 성공" />
+	<block key="am_it_pr_112_10_condition_0" korean="제작 수" />
+	<block key="am_it_pr_112_100_Name" korean="숙련 펠로우 제작자" />
+	<block key="am_it_pr_112_100_Description" korean="펠로우 제작 300회 일반 성공" />
+	<block key="am_it_pr_112_100_condition_0" korean="제작 수" />
+	<block key="am_it_pr_113_10_Name" korean="행운의 펠로우 제작자" />
+	<block key="am_it_pr_113_10_Description" korean="펠로우 제작 100회 대성공" />
+	<block key="am_it_pr_113_10_condition_0" korean="제작 수" />
+	<block key="am_it_pr_113_100_Name" korean="축복받은 펠로우 제작자" />
+	<block key="am_it_pr_113_100_Description" korean="펠로우 제작 300회 대성공" />
+	<block key="am_it_pr_113_100_condition_0" korean="제작 수" />
+	<block key="am_it_pr_115_200_Name" korean="연금술의 달인" />
+	<block key="am_it_pr_115_200_Description" korean="연금술 제작 1000회 성공" />
+	<block key="am_it_pr_115_200_condition_0" korean="제작 수" />
+	<block key="am_it_pr_116_10_Name" korean="연금술사의 길" />
+	<block key="am_it_pr_116_10_Description" korean="연금술 제작 100회 일반 성공" />
+	<block key="am_it_pr_116_10_condition_0" korean="제작 수" />
+	<block key="am_it_pr_116_100_Name" korean="숙련된 연금술사" />
+	<block key="am_it_pr_116_100_Description" korean="연금술 제작 300회 일반 성공" />
+	<block key="am_it_pr_116_100_condition_0" korean="제작 수" />
+	<block key="am_it_pr_117_10_Name" korean="하나로는 부족해" />
+	<block key="am_it_pr_117_10_Description" korean="연금술 제작 100회 대성공" />
+	<block key="am_it_pr_117_10_condition_0" korean="제작 수" />
+	<block key="am_it_pr_117_100_Name" korean="행운을 부르는 황금손" />
+	<block key="am_it_pr_117_100_Description" korean="연금술 제작 300회 대성공" />
+	<block key="am_it_pr_117_100_condition_0" korean="제작 수" />
+	<block key="am_it_pr_119_200_Name" korean="요리의 달인" />
+	<block key="am_it_pr_119_200_Description" korean="요리 제작 1000회 성공" />
+	<block key="am_it_pr_119_200_condition_0" korean="제작 수" />
+	<block key="am_it_pr_120_10_Name" korean="요리사의 길" />
+	<block key="am_it_pr_120_10_Description" korean="요리 제작 100회 일반 성공" />
+	<block key="am_it_pr_120_10_condition_0" korean="제작 수" />
+	<block key="am_it_pr_120_100_Name" korean="숙련된 요리사" />
+	<block key="am_it_pr_120_100_Description" korean="요리 제작 300회 일반 성공" />
+	<block key="am_it_pr_120_100_condition_0" korean="제작 수" />
+	<block key="am_it_pr_121_10_Name" korean="넉넉한 인심으로" />
+	<block key="am_it_pr_121_10_Description" korean="요리 제작 100회 대성공" />
+	<block key="am_it_pr_121_10_condition_0" korean="제작 수" />
+	<block key="am_it_pr_121_100_Name" korean="손만 대면 대박이야!" />
+	<block key="am_it_pr_121_100_Description" korean="요리 제작 300회 대성공" />
+	<block key="am_it_pr_121_100_condition_0" korean="제작 수" />
+	<block key="am_cb_du_123_1_Name" korean="첫 술에 배부르랴" />
+	<block key="am_cb_du_123_1_Description" korean="직업에 상관없이 결투에서 100번 승리" />
+	<block key="am_cb_du_123_1_condition_0" korean="승리 수" />
+	<block key="am_cb_du_123_100_Name" korean="결투의 제왕" />
+	<block key="am_cb_du_123_100_Description" korean="직업에 상관없이 결투에서 550번 승리" />
+	<block key="am_cb_du_123_100_condition_0" korean="승리 수" />
+	<block key="am_cb_du_124_1_Name" korean="가디언에게 승리" />
+	<block key="am_cb_du_124_1_Description" korean="가디언과의 결투에서 10번 승리" />
+	<block key="am_cb_du_124_1_condition_0" korean="승리 수" />
+	<block key="am_cb_du_124_10_Name" korean="난 가디언만 노린다" />
+	<block key="am_cb_du_124_10_Description" korean="가디언과의 결투에서 100번 승리" />
+	<block key="am_cb_du_124_10_condition_0" korean="승리 수" />
+	<block key="am_cb_du_125_1_Name" korean="버서커에게 승리" />
+	<block key="am_cb_du_125_1_Description" korean="버서커와의 결투에서 10번 승리" />
+	<block key="am_cb_du_125_1_condition_0" korean="승리 수" />
+	<block key="am_cb_du_125_10_Name" korean="난 버서커만 노린다" />
+	<block key="am_cb_du_125_10_Description" korean="버서커와의 결투에서 100번 승리" />
+	<block key="am_cb_du_125_10_condition_0" korean="승리 수" />
+	<block key="am_cb_du_126_1_Name" korean="어쌔신에게 승리" />
+	<block key="am_cb_du_126_1_Description" korean="어쌔신과의 결투에서 10번 승리" />
+	<block key="am_cb_du_126_1_condition_0" korean="승리 수" />
+	<block key="am_cb_du_126_10_Name" korean="난 어쌔신만 노린다" />
+	<block key="am_cb_du_126_10_Description" korean="어쌔신과의 결투에서 100번 승리" />
+	<block key="am_cb_du_126_10_condition_0" korean="승리 수" />
+	<block key="am_cb_du_127_1_Name" korean="프리스트에게 승리" />
+	<block key="am_cb_du_127_1_Description" korean="프리스트와의 결투에서 10번 승리" />
+	<block key="am_cb_du_127_1_condition_0" korean="승리 수" />
+	<block key="am_cb_du_127_10_Name" korean="난 프리스트만 노린다" />
+	<block key="am_cb_du_127_10_Description" korean="프리스트와의 결투에서 100번 승리" />
+	<block key="am_cb_du_127_10_condition_0" korean="승리 수" />
+	<block key="am_cb_du_128_1_Name" korean="위자드에게 승리" />
+	<block key="am_cb_du_128_1_Description" korean="위저드와의 결투에서 10번 승리" />
+	<block key="am_cb_du_128_1_condition_0" korean="승리 수" />
+	<block key="am_cb_du_128_10_Name" korean="난 위자드만 노린다" />
+	<block key="am_cb_du_128_10_Description" korean="위저드와의 결투에서 100번 승리" />
+	<block key="am_cb_du_128_10_condition_0" korean="승리 수" />
+	<block key="am_cb_du_130_1_Name" korean="패배는 승리의 어머니" />
+	<block key="am_cb_du_130_1_Description" korean="직업에 상관없이 결투에서 100번 패배" />
+	<block key="am_cb_du_130_1_condition_0" korean="패배 수" />
+	<block key="am_cb_du_130_100_Name" korean="이렇게 지기도 쉽지가 않은데" />
+	<block key="am_cb_du_130_100_Description" korean="직업에 상관없이 결투에서 550번 패배" />
+	<block key="am_cb_du_130_100_condition_0" korean="패배 수" />
+	<block key="am_cb_du_131_1_Name" korean="가디언에게 패배" />
+	<block key="am_cb_du_131_1_Description" korean="가디언과의 결투에서 10번 패배" />
+	<block key="am_cb_du_131_1_condition_0" korean="패배 수" />
+	<block key="am_cb_du_131_10_Name" korean="가디언이 나만 노린다" />
+	<block key="am_cb_du_131_10_Description" korean="가디언과의 결투에서 100번 패배" />
+	<block key="am_cb_du_131_10_condition_0" korean="패배 수" />
+	<block key="am_cb_du_132_1_Name" korean="버서커에게 패배" />
+	<block key="am_cb_du_132_1_Description" korean="버서커와의 결투에서 10번 패배" />
+	<block key="am_cb_du_132_1_condition_0" korean="패배 수" />
+	<block key="am_cb_du_132_10_Name" korean="버서커가 나만 노린다" />
+	<block key="am_cb_du_132_10_Description" korean="버서커와의 결투에서 100번 패배" />
+	<block key="am_cb_du_132_10_condition_0" korean="패배 수" />
+	<block key="am_cb_du_133_1_Name" korean="어쌔신에게 패배" />
+	<block key="am_cb_du_133_1_Description" korean="어쌔신과의 결투에서 10번 패배" />
+	<block key="am_cb_du_133_1_condition_0" korean="패배 수" />
+	<block key="am_cb_du_133_10_Name" korean="어쌔신이 나만 노린다" />
+	<block key="am_cb_du_133_10_Description" korean="어쌔신과의 결투에서 100번 패배" />
+	<block key="am_cb_du_133_10_condition_0" korean="패배 수" />
+	<block key="am_cb_du_134_1_Name" korean="프리스트에게 패배" />
+	<block key="am_cb_du_134_1_Description" korean="프리스트와의 결투에서 10번 패배" />
+	<block key="am_cb_du_134_1_condition_0" korean="패배 수" />
+	<block key="am_cb_du_134_10_Name" korean="프리스트가 나만 노린다" />
+	<block key="am_cb_du_134_10_Description" korean="프리스트와의 결투에서 100번 패배" />
+	<block key="am_cb_du_134_10_condition_0" korean="패배 수" />
+	<block key="am_cb_du_135_1_Name" korean="위자드에게 패배" />
+	<block key="am_cb_du_135_1_Description" korean="위저드와의 결투에서 10번 패배" />
+	<block key="am_cb_du_135_1_condition_0" korean="패배 수" />
+	<block key="am_cb_du_135_10_Name" korean="위자드가 나만 노린다" />
+	<block key="am_cb_du_135_10_Description" korean="위저드와의 결투에서 100번 패배" />
+	<block key="am_cb_du_135_10_condition_0" korean="패배 수" />
+	<block key="am_cb_pv_137_1_Name" korean="이게 바로 살생의 맛이로구나" />
+	<block key="am_cb_pv_137_1_Description" korean="PVP지역에서 1명 처치" />
+	<block key="am_cb_pv_137_1_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_137_100_Name" korean="무법지대의 강자" />
+	<block key="am_cb_pv_137_100_Description" korean="PVP지역에서 500명 처치" />
+	<block key="am_cb_pv_137_100_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_137_500_Name" korean="무법지대의 지배자" />
+	<block key="am_cb_pv_137_500_Description" korean="PVP지역에서 1000명 처치" />
+	<block key="am_cb_pv_137_500_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_138_10_Name" korean="사냥 시작" />
+	<block key="am_cb_pv_138_10_Description" korean="PVP지역에서 10명 연속 처치" />
+	<block key="am_cb_pv_138_10_condition_0" korean="연속으로 죽인 수" />
+	<block key="am_cb_pv_138_30_Name" korean="멈추지 않는 사냥" />
+	<block key="am_cb_pv_138_30_Description" korean="PVP지역에서 30명 연속 처치" />
+	<block key="am_cb_pv_138_30_condition_0" korean="연속으로 죽인 수" />
+	<block key="am_cb_pv_138_50_Name" korean="아무도 나를 막을 수 없다" />
+	<block key="am_cb_pv_138_50_Description" korean="PVP지역에서 50명 연속 처치" />
+	<block key="am_cb_pv_138_50_condition_0" korean="연속으로 죽인 수" />
+	<block key="am_cb_pv_138_100_Name" korean="무법지대의 신" />
+	<block key="am_cb_pv_138_100_Description" korean="PVP지역에서 100명 연속 처치" />
+	<block key="am_cb_pv_138_100_condition_0" korean="연속으로 죽인 수" />
+	<block key="am_cb_pv_139_1_Name" korean="가디언 사냥" />
+	<block key="am_cb_pv_139_1_Description" korean="PVP지역에서 가디언 10명 처치" />
+	<block key="am_cb_pv_139_1_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_139_10_Name" korean="무법지대의 가디언 사냥꾼" />
+	<block key="am_cb_pv_139_10_Description" korean="PVP지역에서 가디언 100명 처치" />
+	<block key="am_cb_pv_139_10_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_140_1_Name" korean="버서커 사냥" />
+	<block key="am_cb_pv_140_1_Description" korean="PVP지역에서 버서커 10명 처치" />
+	<block key="am_cb_pv_140_1_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_140_10_Name" korean="무법지대의 버서커 사냥꾼" />
+	<block key="am_cb_pv_140_10_Description" korean="PVP지역에서 버서커 100명 처치" />
+	<block key="am_cb_pv_140_10_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_141_1_Name" korean="어쌔신 사냥" />
+	<block key="am_cb_pv_141_1_Description" korean="PVP지역에서 어쌔신 10명 처치" />
+	<block key="am_cb_pv_141_1_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_141_10_Name" korean="무법지대의 어쌔신 사냥꾼" />
+	<block key="am_cb_pv_141_10_Description" korean="PVP지역에서 어쌔신 100명 처치" />
+	<block key="am_cb_pv_141_10_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_142_1_Name" korean="프리스트 사냥" />
+	<block key="am_cb_pv_142_1_Description" korean="PVP지역에서 프리스트 10명 처치" />
+	<block key="am_cb_pv_142_1_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_142_10_Name" korean="무법지대의 프리스트 사냥꾼" />
+	<block key="am_cb_pv_142_10_Description" korean="PVP지역에서 프리스트 100명 처치" />
+	<block key="am_cb_pv_142_10_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_143_1_Name" korean="위저드 사냥" />
+	<block key="am_cb_pv_143_1_Description" korean="PVP지역에서 위저드 10명 처치" />
+	<block key="am_cb_pv_143_1_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_143_10_Name" korean="무법지대의 위저드 사냥꾼" />
+	<block key="am_cb_pv_143_10_Description" korean="PVP지역에서 위저드 100명 처치" />
+	<block key="am_cb_pv_143_10_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_145_1_Name" korean="어머니 저기 천국이 보여요" />
+	<block key="am_cb_pv_145_1_Description" korean="PVP지역에서 1번 사망" />
+	<block key="am_cb_pv_145_1_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_145_100_Name" korean="이 묏자리는 내가 선점했다" />
+	<block key="am_cb_pv_145_100_Description" korean="PVP지역에서 500번 사망" />
+	<block key="am_cb_pv_145_100_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_145_500_Name" korean="피의 꽃 자판기" />
+	<block key="am_cb_pv_145_500_Description" korean="PVP지역에서 1000번 사망" />
+	<block key="am_cb_pv_145_500_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_146_1_Name" korean="두고보자 가디언" />
+	<block key="am_cb_pv_146_1_Description" korean="PVP지역에서 가디언에게 10번 사망" />
+	<block key="am_cb_pv_146_1_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_146_10_Name" korean="가디언의 사냥감" />
+	<block key="am_cb_pv_146_10_Description" korean="PVP지역에서 가디언에게 100번 사망" />
+	<block key="am_cb_pv_146_10_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_147_1_Name" korean="두고보자 버서커" />
+	<block key="am_cb_pv_147_1_Description" korean="PVP지역에서 버서커에게 10번 사망" />
+	<block key="am_cb_pv_147_1_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_147_10_Name" korean="버서커의 사냥감" />
+	<block key="am_cb_pv_147_10_Description" korean="PVP지역에서 버서커에게 100번 사망" />
+	<block key="am_cb_pv_147_10_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_148_1_Name" korean="두고보자 어쌔신" />
+	<block key="am_cb_pv_148_1_Description" korean="PVP지역에서 어쌔신에게 10번 사망" />
+	<block key="am_cb_pv_148_1_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_148_10_Name" korean="어쌔신의 사냥감" />
+	<block key="am_cb_pv_148_10_Description" korean="PVP지역에서 어쌔신에게 100번 사망" />
+	<block key="am_cb_pv_148_10_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_149_1_Name" korean="두고보자 프리스트" />
+	<block key="am_cb_pv_149_1_Description" korean="PVP지역에서 프리스트에게 10번 사망" />
+	<block key="am_cb_pv_149_1_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_149_10_Name" korean="프리스트의 사냥감" />
+	<block key="am_cb_pv_149_10_Description" korean="PVP지역에서 프리스트에게 100번 사망" />
+	<block key="am_cb_pv_149_10_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_150_1_Name" korean="두고보자 위자드" />
+	<block key="am_cb_pv_150_1_Description" korean="PVP지역에서 위저드에게 10번 사망" />
+	<block key="am_cb_pv_150_1_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_150_10_Name" korean="위자드의 사냥감" />
+	<block key="am_cb_pv_150_10_Description" korean="PVP지역에서 위저드에게 100번 사망" />
+	<block key="am_cb_pv_150_10_condition_0" korean="사망 수" />
+	<block key="am_cb_pv_152_1_Name" korean="착하게 살자" />
+	<block key="am_cb_pv_152_1_Description" korean="연속 학살 pvp 버프 적용자 1명 처치" />
+	<block key="am_cb_pv_152_1_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_152_10_Name" korean="잡았다. 요놈!" />
+	<block key="am_cb_pv_152_10_Description" korean="연속 학살 pvp 버프 적용자 10명 처치" />
+	<block key="am_cb_pv_152_10_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_152_100_Name" korean="4885 너 맞지!" />
+	<block key="am_cb_pv_152_100_Description" korean="연속 학살 pvp 버프 적용자 100명 처치" />
+	<block key="am_cb_pv_152_100_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_154_1_Name" korean="사냥은 끝났다" />
+	<block key="am_cb_pv_154_1_Description" korean="사냥꾼 버프 받은 유저 1명 처치" />
+	<block key="am_cb_pv_154_1_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_154_10_Name" korean="사냥꾼의 천적" />
+	<block key="am_cb_pv_154_10_Description" korean="사냥꾼 버프 받은 유저 10명 처치" />
+	<block key="am_cb_pv_154_10_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_155_1_Name" korean="학살은 끝났다" />
+	<block key="am_cb_pv_155_1_Description" korean="학살자 버프 받은 유저 1명 처치" />
+	<block key="am_cb_pv_155_1_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_155_10_Name" korean="학살자의 천적" />
+	<block key="am_cb_pv_155_10_Description" korean="학살자 버프 받은 유저 10명 처치" />
+	<block key="am_cb_pv_155_10_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_156_1_Name" korean="사신은 없다" />
+	<block key="am_cb_pv_156_1_Description" korean="사신 버프 받은 유저 1명 처치" />
+	<block key="am_cb_pv_156_1_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_156_10_Name" korean="사신의 천적" />
+	<block key="am_cb_pv_156_10_Description" korean="사신 버프 받은 유저 10명 처치" />
+	<block key="am_cb_pv_156_10_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_157_1_Name" korean="절대적인 것은 없다" />
+	<block key="am_cb_pv_157_1_Description" korean="절대자 버프 받은 유저 1명 처치" />
+	<block key="am_cb_pv_157_1_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_157_10_Name" korean="절대자의 천적" />
+	<block key="am_cb_pv_157_10_Description" korean="절대자 버프 받은 유저 10명 처치" />
+	<block key="am_cb_pv_157_10_condition_0" korean="죽인 수" />
+	<block key="am_cb_pv_158_50_Name" korean="그래 바로 이 맛이야!" />
+	<block key="am_cb_pv_158_50_Description" korean="pvp 버프 50번 받기" />
+	<block key="am_cb_pv_158_50_condition_0" korean="버프 받은 수" />
+	<block key="am_cb_pv_158_100_Name" korean="이 구역의 미친개는 나야!" />
+	<block key="am_cb_pv_158_100_Description" korean="pvp 버프 100번 받기" />
+	<block key="am_cb_pv_158_100_condition_0" korean="버프 받은 수" />
+	<block key="am_cb_pv_160_1_Name" korean="사냥 할 시간이군." />
+	<block key="am_cb_pv_160_1_Description" korean="사냥꾼 버프 1번 받기" />
+	<block key="am_cb_pv_160_1_condition_0" korean="버프 받은 수" />
+	<block key="am_cb_pv_160_10_Name" korean="살아있네~" />
+	<block key="am_cb_pv_160_10_Description" korean="사냥꾼 버프 10번 받기" />
+	<block key="am_cb_pv_160_10_condition_0" korean="버프 받은 수" />
+	<block key="am_cb_pv_161_1_Name" korean="공포는 항상 당신 옆에" />
+	<block key="am_cb_pv_161_1_Description" korean="학살자 버프 1번 받기" />
+	<block key="am_cb_pv_161_1_condition_0" korean="버프 받은 수" />
+	<block key="am_cb_pv_161_10_Name" korean="공포는 나누면 배가 되지" />
+	<block key="am_cb_pv_161_10_Description" korean="학살자 버프 10번 받기" />
+	<block key="am_cb_pv_161_10_condition_0" korean="버프 받은 수" />
+	<block key="am_cb_pv_162_1_Name" korean="넌 이미 죽어있다." />
+	<block key="am_cb_pv_162_1_Description" korean="사신 버프 1번 받기" />
+	<block key="am_cb_pv_162_1_condition_0" korean="버프 받은 수" />
+	<block key="am_cb_pv_162_10_Name" korean="가시는 길은 편히 보내 드릴게." />
+	<block key="am_cb_pv_162_10_Description" korean="사신 버프 10번 받기" />
+	<block key="am_cb_pv_162_10_condition_0" korean="버프 받은 수" />
+	<block key="am_cb_pv_163_1_Name" korean="힘이 넘치는 구나!" />
+	<block key="am_cb_pv_163_1_Description" korean="절대자 버프 1번 받기" />
+	<block key="am_cb_pv_163_1_condition_0" korean="버프 받은 수" />
+	<block key="am_cb_pv_163_10_Name" korean="나는 전설이다." />
+	<block key="am_cb_pv_163_10_Description" korean="절대자 버프 10번 받기" />
+	<block key="am_cb_pv_163_10_condition_0" korean="버프 받은 수" />
+	<block key="am_co_gr_001_5_Name" korean="기사단도 한걸음 부터" />
+	<block key="am_co_gr_001_5_Description" korean="5레벨 달성" />
+	<block key="am_co_gr_001_5_condition_0" korean="5레벨 달성" />
+	<block key="am_co_gr_001_15_Name" korean="기사단의 모습" />
+	<block key="am_co_gr_001_15_Description" korean="15레벨 달성" />
+	<block key="am_co_gr_001_15_condition_0" korean="15레벨 달성" />
+	<block key="am_co_gr_001_25_Name" korean="하카나스의 용사" />
+	<block key="am_co_gr_001_25_Description" korean="25레벨 달성" />
+	<block key="am_co_gr_001_25_condition_0" korean="25레벨 달성" />
+	<block key="am_co_gr_001_35_Name" korean="노력의 결과" />
+	<block key="am_co_gr_001_35_Description" korean="35레벨 달성" />
+	<block key="am_co_gr_001_35_condition_0" korean="35레벨 달성" />
+	<block key="am_co_gr_001_45_Name" korean="어느새?!" />
+	<block key="am_co_gr_001_45_Description" korean="45레벨 달성" />
+	<block key="am_co_gr_001_45_condition_0" korean="45레벨 달성" />
+	<block key="tt_0_0_0002_contents_title_name" korean="장사의 달인" />
+	<block key="tt_0_0_0003_contents_title_name" korean="백만장자" />
+	<block key="tt_0_0_0004_contents_title_name" korean="상점을 거덜낸" />
+	<block key="tt_0_0_0005_contents_title_name" korean="엘룬의 수호자" />
+	<block key="tt_0_0_0006_contents_title_name" korean="대륙의 거상" />
+	<block key="tt_0_0_0007_contents_title_name" korean="대륙의 큰 손" />
+	<block key="tt_0_0_0008_contents_title_name" korean="인간 포탈" />
+	<block key="tt_0_0_0009_contents_title_name" korean="불사신" />
+	<block key="tt_0_0_0010_contents_title_name" korean="펠로우 마스터" />
+	<block key="tt_0_0_0011_contents_title_name" korean="보살" />
+	<block key="tt_0_0_0012_contents_title_name" korean="펠로우 변형 전문가" />
+	<block key="tt_0_0_0013_contents_title_name" korean="펠로우 봉인 전문가" />
+	<block key="tt_0_0_0014_contents_title_name" korean="장로" />
+	<block key="tt_0_0_0015_contents_title_name" korean="브라카르 숲의 모험가" />
+	<block key="tt_0_0_0016_contents_title_name" korean="수도성의 경비병" />
+	<block key="tt_0_0_0017_contents_title_name" korean="직할령의 해결사" />
+	<block key="tt_0_0_0018_contents_title_name" korean="파르나의 수호기사" />
+	<block key="tt_0_0_0019_contents_title_name" korean="대해의 항해사" />
+	<block key="tt_0_0_0020_contents_title_name" korean="강화의 제왕" />
+	<block key="tt_0_0_0021_contents_title_name" korean="장비 파괴자" />
+	<block key="tt_0_0_0022_contents_title_name" korean="결투의 제왕" />
+	<block key="tt_0_0_0023_contents_title_name" korean="발로 컨트롤 하는" />
+	<block key="tt_0_0_0024_contents_title_name" korean="승리자" />
+	<block key="tt_0_0_0025_contents_title_name" korean="지배자" />
+	<block key="tt_0_0_0026_contents_title_name" korean="보안관" />
+	<block key="tt_0_0_0027_contents_title_name" korean="사냥꾼" />
+	<block key="tt_0_0_0028_contents_title_name" korean="학살자" />
+	<block key="tt_0_0_0029_contents_title_name" korean="사신" />
+	<block key="tt_0_0_0030_contents_title_name" korean="절대자" />
+	<block key="tt_0_0_0031_contents_title_name" korean="왕국 기사" />
+	<block key="tt_0_0_0032_contents_title_name" korean="왕국 영웅" />
+	<block key="tt_0_0_0033_contents_title_name" korean="트라이트얼의 영웅" />
+	<block key="tt_0_0_0000_contents_title_name" korean="공역의 기사" />
+	<block key="tt_0_0_0001_contents_title_name" korean="페가수스의 주인" />
+	<block key="tt_0_0_0034_contents_title_name" korean="수비대" />
+	<block key="tt_0_0_0035_contents_title_name" korean="처단자" />
+	<block key="tt_0_0_0036_contents_title_name" korean="수호자" />
+	<block key="tt_0_0_0037_contents_title_name" korean="심판관" />
+	<block key="tt_0_0_0038_contents_title_name" korean="무법자" />
+	<block key="am_dg_co_080_100_Name" korean="[전설] 전설을 뛰어넘어" />
+	<block key="am_dg_co_080_100_Description" korean="모든 전설 난이도 클리어" />
+	<block key="am_dg_co_080_100_condition_0" korean="불이삼킨유적" />
+	<block key="am_dg_co_080_100_condition_1" korean="카를레앙 대저택" />
+	<block key="am_dg_co_080_100_condition_2" korean="마트렌 폐허" />
+	<block key="am_dg_co_080_100_condition_3" korean="베일에 싸인 동굴" />
+	<block key="am_dg_co_080_100_condition_4" korean="파를라크 얼음 성채" />
+	<block key="am_cb_mt_003_1000_Name" korean="사냥 시작" />
+	<block key="am_cb_mt_003_1000_Description" korean="등급에 관계 없이 몬스터 1000마리 처치" />
+	<block key="am_cb_mt_003_1000_condition_0" korean="몬스터 처치 수" />
+	<block key="am_cb_mt_003_5000_Name" korean="환경 미화" />
+	<block key="am_cb_mt_003_5000_Description" korean="등급에 관계 없이 몬스터 5000마리 처치" />
+	<block key="am_cb_mt_003_5000_condition_0" korean="몬스터 처치 수" />
+	<block key="am_cb_mt_004_500_Name" korean="약자에게 강하다" />
+	<block key="am_cb_mt_004_500_Description" korean="일반 몬스터 500마리 처치" />
+	<block key="am_cb_mt_004_500_condition_0" korean="몬스터 처치 수" />
+	<block key="am_cb_mt_004_1000_Name" korean="더 강한거 없어?" />
+	<block key="am_cb_mt_004_1000_Description" korean="일반 몬스터 1000마리 처치" />
+	<block key="am_cb_mt_004_1000_condition_0" korean="몬스터 처치 수" />
+	<block key="am_cb_mt_005_500_Name" korean="정예 몬스터 사냥꾼" />
+	<block key="am_cb_mt_005_500_Description" korean="정예 몬스터 500마리 처치" />
+	<block key="am_cb_mt_005_500_condition_0" korean="몬스터 처치 수" />
+	<block key="am_cb_mt_005_1000_Name" korean="정예를 위한 사냥터는 없다." />
+	<block key="am_cb_mt_005_1000_Description" korean="정예 몬스터 1000마리 처치" />
+	<block key="am_cb_mt_005_1000_condition_0" korean="몬스터 처치 수" />
+	<block key="am_cb_mt_006_500_Name" korean="뜨거운 맛을 보여주지." />
+	<block key="am_cb_mt_006_500_Description" korean="영웅 몬스터 500마리 처치" />
+	<block key="am_cb_mt_006_500_condition_0" korean="몬스터 처치 수" />
+	<block key="am_cb_mt_006_1000_Name" korean="절대 저 분을 놀라게 해선 안돼." />
+	<block key="am_cb_mt_006_1000_Description" korean="영웅 몬스터 1000마리 처치" />
+	<block key="am_cb_mt_006_1000_condition_0" korean="몬스터 처치 수" />
+	<block key="am_co_ac_001_2_Name" korean="감옥 탈출" />
+	<block key="am_co_ac_001_2_Description" korean="사란트 감옥 탈출 하기" />
+	<block key="am_co_ac_001_2_condition_0" korean="감옥 탈출" />
+	<block key="am_co_gr_001_18_Name" korean="힘든 시간이었다…" />
+	<block key="am_co_gr_001_18_Description" korean="18레벨 달성" />
+	<block key="am_co_gr_001_18_condition_0" korean="18레벨 달성" />
+	<block key="am_co_gr_001_23_Name" korean="고난이 곧 강해짐의 증거" />
+	<block key="am_co_gr_001_23_Description" korean="23레벨 달성" />
+	<block key="am_co_gr_001_23_condition_0" korean="23레벨 달성" />
+	<block key="tt_0_0_0039_contents_title_name" korean="환경 미화원" />
+	<block key="tt_0_0_0040_contents_title_name" korean="몬스터 학살자" />
+	<block key="tt_0_0_0041_contents_title_name" korean="페가수스 정예 기사단" />
+	<block key="tt_0_0_0042_contents_title_name" korean="페가수스 기사단" />
+	<block key="tt_0_0_0043_contents_title_name" korean="불이삼킨유적 정복자" />
+	<block key="tt_0_0_0044_contents_title_name" korean="카를레앙 대저택 정복자" />
+	<block key="tt_0_0_0045_contents_title_name" korean="마트렌 폐허 정복자" />
+	<block key="tt_0_0_0046_contents_title_name" korean="베일에 싸인 동굴 정복자" />
+	<block key="tt_0_0_0047_contents_title_name" korean="파를라크 얼음 성채 정복자" />
+	<block key="am_co_mo_008_10000_Name" korean="돈줍기 시작" />
+	<block key="am_co_mo_008_10000_Description" korean="드랍으로 1 골드 획득" />
+	<block key="am_co_mo_008_10000_condition_0" korean="획득 골드" />
+	<block key="am_co_mo_009_10000_Name" korean="수고비는 꼼꼼하게" />
+	<block key="am_co_mo_009_10000_Description" korean="퀘스트 완료로 1 골드 획득" />
+	<block key="am_co_mo_009_10000_condition_0" korean="획득 골드" />
+	<block key="am_co_mo_016_10000_Name" korean="티끌 모아 1골드" />
+	<block key="am_co_mo_016_10000_Description" korean="1골드 보유하기" />
+	<block key="am_co_mo_016_10000_condition_0" korean="보유 골드" />
+	<block key="am_fe_ga_037_1_Name" korean="방생의 의미" />
+	<block key="am_fe_ga_037_1_Description" korean="등급에 관계 없이 모든 펠로우 놓아주기 1번" />
+	<block key="am_fe_ga_037_1_condition_0" korean="놓아주기 수" />
+	<block key="am_it_re_084_1_Name" korean="강화란건 말이다…" />
+	<block key="am_it_re_084_1_Description" korean="일반 아이템 강화 1회 성공" />
+	<block key="am_it_re_084_1_condition_0" korean="강화 수" />
+	<block key="am_it_re_095_1_Name" korean="쓰레기도 다시보자" />
+	<block key="am_it_re_095_1_Description" korean="아이템 1회 추출" />
+	<block key="am_it_re_095_1_condition_0" korean="추출 수" />
+	<block key="am_cb_mt_003_10_Name" korean="첫 사냥" />
+	<block key="am_cb_mt_003_10_Description" korean="등급에 관계 없이 몬스터 10마리 처치" />
+	<block key="am_cb_mt_003_10_condition_0" korean="몬스터 처치 수" />
+	<block key="am_cb_mt_003_100_Name" korean="나의 앞길을 막지마!" />
+	<block key="am_cb_mt_003_100_Description" korean="등급에 관계 없이 몬스터 100마리 처치" />
+	<block key="am_cb_mt_003_100_condition_0" korean="몬스터 처치 수" />
+	<block key="am_cb_mt_005_1_Name" korean="어서 와, 정예는 처음이지?" />
+	<block key="am_cb_mt_005_1_Description" korean="정예 몬스터 1마리 처치" />
+	<block key="am_cb_mt_005_1_condition_0" korean="몬스터 처치 수" />
+	<block key="am_co_ac_031_1_Name" korean="어라?!!" />
+	<block key="am_co_ac_031_1_Description" korean="사망 1번" />
+	<block key="am_co_ac_031_1_condition_0" korean="사망 수" />
+	<block key="am_qu_co_049_10_Name" korean="처음으로 보여주는 호의" />
+	<block key="am_qu_co_049_10_Description" korean="종류에 상관없이 퀘스트 10개 완료" />
+	<block key="am_qu_co_049_10_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_qu_co_049_30_Name" korean="도움을 드려요" />
+	<block key="am_qu_co_049_30_Description" korean="종류에 상관없이 퀘스트 30개 완료" />
+	<block key="am_qu_co_049_30_condition_0" korean="퀘스트 완료 수" />
+	<block key="am_fe_ga_033_3_Name" korean="처음 생긴 친구" />
+	<block key="am_fe_ga_033_3_Description" korean="등급에 관계 없이 모든 펠로우 길들이기 3번 성공" />
+	<block key="am_fe_ga_033_3_condition_0" korean="길들이기 성공 수" />
+	<block key="am_qu_zo_058_107_Name" korean="멸망의 공역 수호자" />
+	<block key="am_qu_zo_058_107_Description" korean="멸망의 공역 퀘스트 107개 완료" />
+	<block key="am_qu_zo_058_107_condition_0" korean="퀘스트 완료 수" />
+	<block key="tt_0_0_0048_contents_title_name" korean="공역의 수호자" />
+	<block key="am_dg_co_0000_Name" korean="[시나리오] 공역의 틈새" />
+	<block key="am_dg_co_0000_Description" korean="공역의 틈새 시나리오 난이도 클리어 1회" />
+	<block key="am_dg_co_0000_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0001_Name" korean="[시나리오] 공역의 틈새의 선구자" />
+	<block key="am_dg_co_0001_Description" korean="공역의 틈새 시나리오 난이도 클리어 10회" />
+	<block key="am_dg_co_0001_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0002_Name" korean="[정예] 공역의 틈새" />
+	<block key="am_dg_co_0002_Description" korean="공역의 틈새 정예 난이도 클리어 1회" />
+	<block key="am_dg_co_0002_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0003_Name" korean="[정예] 공역의 틈새의 선구자" />
+	<block key="am_dg_co_0003_Description" korean="공역의 틈새 정예 난이도 클리어 10회" />
+	<block key="am_dg_co_0003_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0004_Name" korean="[영웅] 공역의 틈새" />
+	<block key="am_dg_co_0004_Description" korean="공역의 틈새 영웅 난이도 클리어 1회" />
+	<block key="am_dg_co_0004_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0005_Name" korean="[영웅] 공역의 틈새의 선구자" />
+	<block key="am_dg_co_0005_Description" korean="공역의 틈새 영웅 난이도 클리어 10회" />
+	<block key="am_dg_co_0005_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0006_Name" korean="[전설] 공역의 틈새" />
+	<block key="am_dg_co_0006_Description" korean="공역의 틈새 전설 난이도 클리어 1회" />
+	<block key="am_dg_co_0006_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0007_Name" korean="[전설] 공역의 틈새의 선구자" />
+	<block key="am_dg_co_0007_Description" korean="공역의 틈새 전설 난이도 클리어 10회" />
+	<block key="am_dg_co_0007_condition_0" korean="클리어 수" />
+	<block key="am_fe_ga_0000_Name" korean="나이트메어 넌 내꺼야!" />
+	<block key="am_fe_ga_0000_Description" korean="나이트메어 길들이기 성공" />
+	<block key="am_fe_ga_0000_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0001_Name" korean="나이트메어 길들이기 실패" />
+	<block key="am_fe_ga_0001_Description" korean="나이트메어 길들이기 10회 실패" />
+	<block key="am_fe_ga_0001_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0002_Name" korean="공포의 케라브 넌 내꺼야!" />
+	<block key="am_fe_ga_0002_Description" korean="공포의 케라브 길들이기 성공" />
+	<block key="am_fe_ga_0002_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0003_Name" korean="공포의 케라브 길들이기 실패" />
+	<block key="am_fe_ga_0003_Description" korean="공포의 케라브 길들이기 10회 실패" />
+	<block key="am_fe_ga_0003_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0004_Name" korean="맹독 캐스퍼트 넌 내꺼야!" />
+	<block key="am_fe_ga_0004_Description" korean="맹독 캐스퍼트 길들이기 성공" />
+	<block key="am_fe_ga_0004_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0005_Name" korean="맹독 캐스퍼트 길들이기 실패" />
+	<block key="am_fe_ga_0005_Description" korean="맹독 캐스퍼트 길들이기 10회 실패" />
+	<block key="am_fe_ga_0005_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0006_Name" korean="고스트 넌 내꺼야!" />
+	<block key="am_fe_ga_0006_Description" korean="고스트 길들이기 성공" />
+	<block key="am_fe_ga_0006_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0007_Name" korean="고스트 길들이기 실패" />
+	<block key="am_fe_ga_0007_Description" korean="고스트 길들이기 10회 실패" />
+	<block key="am_fe_ga_0007_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0008_Name" korean="붉은마룡 아그나스 넌 내꺼야!" />
+	<block key="am_fe_ga_0008_Description" korean="붉은마룡 아그나스 길들이기 성공" />
+	<block key="am_fe_ga_0008_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0009_Name" korean="붉은마룡 아그나스 길들이기 실패" />
+	<block key="am_fe_ga_0009_Description" korean="붉은마룡 아그나스 길들이기 10회 실패" />
+	<block key="am_fe_ga_0009_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0010_Name" korean="아포칼립스 넌 내꺼야!" />
+	<block key="am_fe_ga_0010_Description" korean="아포칼립스 길들이기 성공" />
+	<block key="am_fe_ga_0010_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0011_Name" korean="아포칼립스 길들이기 실패" />
+	<block key="am_fe_ga_0011_Description" korean="아포칼립스 길들이기 10회 실패" />
+	<block key="am_fe_ga_0011_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0012_Name" korean="폭군 카라스 넌 내꺼야!" />
+	<block key="am_fe_ga_0012_Description" korean="폭군 카라스 길들이기 성공" />
+	<block key="am_fe_ga_0012_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0013_Name" korean="폭군 카라스 길들이기 실패" />
+	<block key="am_fe_ga_0013_Description" korean="폭군 카라스 길들이기 10회 실패" />
+	<block key="am_fe_ga_0013_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0014_Name" korean="논 포쎄 아포칼립스 넌 내꺼야!" />
+	<block key="am_fe_ga_0014_Description" korean="논 포쎄 아포칼립스 길들이기 성공" />
+	<block key="am_fe_ga_0014_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0015_Name" korean="논 포쎄 아포칼립스 길들이기 실패" />
+	<block key="am_fe_ga_0015_Description" korean="논 포쎄 아포칼립스 길들이기 10회 실패" />
+	<block key="am_fe_ga_0015_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0016_Name" korean="가르므 넌 내꺼야!" />
+	<block key="am_fe_ga_0016_Description" korean="가르므 길들이기 성공" />
+	<block key="am_fe_ga_0016_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0017_Name" korean="가르므 길들이기 실패" />
+	<block key="am_fe_ga_0017_Description" korean="가르므 길들이기 10회 실패" />
+	<block key="am_fe_ga_0017_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0018_Name" korean="암흑마룡 카라샤 넌 내꺼야!" />
+	<block key="am_fe_ga_0018_Description" korean="암흑마룡 카라샤 길들이기 성공" />
+	<block key="am_fe_ga_0018_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0019_Name" korean="암흑마룡 카라샤 길들이기 실패" />
+	<block key="am_fe_ga_0019_Description" korean="암흑마룡 카라샤 길들이기 10회 실패" />
+	<block key="am_fe_ga_0019_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0020_Name" korean="공허의 레토른시아 넌 내꺼야!" />
+	<block key="am_fe_ga_0020_Description" korean="공허의 레토른시아 길들이기 성공" />
+	<block key="am_fe_ga_0020_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0021_Name" korean="공허의 레토른시아 길들이기 실패" />
+	<block key="am_fe_ga_0021_Description" korean="공허의 레토른시아 길들이기 10회 실패" />
+	<block key="am_fe_ga_0021_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0022_Name" korean="광룡 파라가스 넌 내꺼야!" />
+	<block key="am_fe_ga_0022_Description" korean="광룡 파라가스 길들이기 성공" />
+	<block key="am_fe_ga_0022_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0023_Name" korean="광룡 파라가스 길들이기 실패" />
+	<block key="am_fe_ga_0023_Description" korean="광룡 파라가스 길들이기 10회 실패" />
+	<block key="am_fe_ga_0023_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0024_Name" korean="공역의 날개 페무토 넌 내꺼야!" />
+	<block key="am_fe_ga_0024_Description" korean="공역의 날개 페무토 길들이기 성공" />
+	<block key="am_fe_ga_0024_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0025_Name" korean="공역의 날개 페무토 길들이기 실패" />
+	<block key="am_fe_ga_0025_Description" korean="공역의 날개 페무토 길들이기 10회 실패" />
+	<block key="am_fe_ga_0025_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0026_Name" korean="달빛 루시퍼트 넌 내꺼야!" />
+	<block key="am_fe_ga_0026_Description" korean="달빛 루시퍼트 길들이기 성공" />
+	<block key="am_fe_ga_0026_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0027_Name" korean="달빛 루시퍼트 길들이기 실패" />
+	<block key="am_fe_ga_0027_Description" korean="달빛 루시퍼트 길들이기 10회 실패" />
+	<block key="am_fe_ga_0027_condition_0" korean="길들이기 실패 수" />
+	<block key="am_cb_mt_0000_Name" korean="무자비한 제라닌<카브임 추종자> 처치" />
+	<block key="am_cb_mt_0000_Description" korean="무자비한 제라닌<카브임 추종자> 1회 처치" />
+	<block key="am_cb_mt_0000_condition_0" korean="처치 수" />
+	<block key="am_cb_mt_0001_Name" korean="궁병대장 포세이나 처치" />
+	<block key="am_cb_mt_0001_Description" korean="궁병대장 포세이나 1회 처치" />
+	<block key="am_cb_mt_0001_condition_0" korean="처치 수" />
+	<block key="am_cb_mt_0002_Name" korean="마병대장 우슬라 처치" />
+	<block key="am_cb_mt_0002_Description" korean="마병대장 우슬라 1회 처치" />
+	<block key="am_cb_mt_0002_condition_0" korean="처치 수" />
+	<block key="am_cb_mt_0003_Name" korean="족장 케르온 처치" />
+	<block key="am_cb_mt_0003_Description" korean="족장 케르온 1회 처치" />
+	<block key="am_cb_mt_0003_condition_0" korean="처치 수" />
+	<block key="am_cb_mt_0004_Name" korean="비스무트 처치" />
+	<block key="am_cb_mt_0004_Description" korean="비스무트 1회 처치" />
+	<block key="am_cb_mt_0004_condition_0" korean="처치 수" />
+	<block key="am_cb_mt_0005_Name" korean="어둠의 기사 아슈람 처치" />
+	<block key="am_cb_mt_0005_Description" korean="어둠의 기사 아슈람 1회 처치" />
+	<block key="am_cb_mt_0005_condition_0" korean="처치 수" />
+	<block key="am_cb_mt_0006_Name" korean="데비 처치" />
+	<block key="am_cb_mt_0006_Description" korean="데비 1회 처치" />
+	<block key="am_cb_mt_0006_condition_0" korean="처치 수" />
+	<block key="am_it_ga_0000_Name" korean="일반 등급의 아이템 습득" />
+	<block key="am_it_ga_0000_Description" korean="일반 등급의 아이템 1개 습득" />
+	<block key="am_it_ga_0000_condition_0" korean="습득 수" />
+	<block key="am_it_ga_0001_Name" korean="일단 주웠더니... 어느새" />
+	<block key="am_it_ga_0001_Description" korean="일반 등급의 아이템 1000개 습득" />
+	<block key="am_it_ga_0001_condition_0" korean="습득 수" />
+	<block key="am_it_ga_0002_Name" korean="정예 등급의 아이템 습득" />
+	<block key="am_it_ga_0002_Description" korean="정예 등급의 아이템 1개 습득" />
+	<block key="am_it_ga_0002_condition_0" korean="습득 수" />
+	<block key="am_it_ga_0003_Name" korean="정예 아이템은 내 운명" />
+	<block key="am_it_ga_0003_Description" korean="정예 등급의 아이템 500개 습득" />
+	<block key="am_it_ga_0003_condition_0" korean="습득 수" />
+	<block key="am_it_ga_0004_Name" korean="영웅으로서의 첫걸음" />
+	<block key="am_it_ga_0004_Description" korean="영웅 등급의 아이템 1개 습득" />
+	<block key="am_it_ga_0004_condition_0" korean="습득 수" />
+	<block key="am_it_ga_0005_Name" korean="위대한 영웅의 탄생" />
+	<block key="am_it_ga_0005_Description" korean="영웅 등급의 아이템 100개 습득" />
+	<block key="am_it_ga_0005_condition_0" korean="습득 수" />
+	<block key="am_it_ga_0006_Name" korean="전설 속의 누군가처럼" />
+	<block key="am_it_ga_0006_Description" korean="전설 등급의 아이템 1개 습득" />
+	<block key="am_it_ga_0006_condition_0" korean="습득 수" />
+	<block key="am_it_ga_0007_Name" korean="살아있는 전설" />
+	<block key="am_it_ga_0007_Description" korean="전설 등급의 아이템 10개 습득" />
+	<block key="am_it_ga_0007_condition_0" korean="습득 수" />
+	<block key="am_it_ga_0008_Name" korean="월드컵 아이템 습득" />
+	<block key="am_it_ga_0008_Description" korean="월드컵 아이템 1회 습득" />
+	<block key="am_it_ga_0008_condition_0" korean="습득 수" />
+	<block key="am_it_ga_0009_Name" korean="착용 장비 모두가 전설 등급 이상" />
+	<block key="am_it_ga_0009_Description" korean="착용 장비 모두가 전설 등급 이상" />
+	<block key="am_it_ga_0009_condition_0" korean="습득 수" />
+	<block key="tt_0_0_0049_contents_title_name" korean="나이트메어를 길들인" />
+	<block key="tt_0_0_0050_contents_title_name" korean="공포의 케라브를 길들인" />
+	<block key="tt_0_0_0051_contents_title_name" korean="맹독 캐스퍼트를 길들인" />
+	<block key="tt_0_0_0052_contents_title_name" korean="고스트를 길들인" />
+	<block key="tt_0_0_0053_contents_title_name" korean="붉은마룡 아그나스를 길들인" />
+	<block key="tt_0_0_0054_contents_title_name" korean="아포칼립스를 길들인" />
+	<block key="tt_0_0_0055_contents_title_name" korean="폭군 카라스를 길들인" />
+	<block key="tt_0_0_0056_contents_title_name" korean="논 포쎄 아포칼립스를 길들인" />
+	<block key="tt_0_0_0057_contents_title_name" korean="가르므를 길들인" />
+	<block key="tt_0_0_0058_contents_title_name" korean="암흑마룡 카라샤를 길들인" />
+	<block key="tt_0_0_0059_contents_title_name" korean="공허의 레토른시아를 길들인" />
+	<block key="tt_0_0_0060_contents_title_name" korean="광룡 파라가스를 길들인" />
+	<block key="tt_0_0_0061_contents_title_name" korean="공역의 날개 페무토를 길들인" />
+	<block key="tt_0_0_0062_contents_title_name" korean="달빛 루시퍼트를 길들인" />
+	<block key="am_fe_ga_0028_Name" korean="공허의 카고일 넌 내꺼야!" />
+	<block key="am_fe_ga_0028_Description" korean="공허의 카고일 길들이기 성공" />
+	<block key="am_fe_ga_0028_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0029_Name" korean="공허의 카고일 길들이기 실패" />
+	<block key="am_fe_ga_0029_Description" korean="공허의 카고일 길들이기 10회 실패" />
+	<block key="am_fe_ga_0029_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0030_Name" korean="여명의 카고일 넌 내꺼야!" />
+	<block key="am_fe_ga_0030_Description" korean="여명의 카고일 길들이기 성공" />
+	<block key="am_fe_ga_0030_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0031_Name" korean="여명의 카고일 길들이기 실패" />
+	<block key="am_fe_ga_0031_Description" korean="여명의 카고일 길들이기 10회 실패" />
+	<block key="am_fe_ga_0031_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0032_Name" korean="불사의 벨던 넌 내꺼야!" />
+	<block key="am_fe_ga_0032_Description" korean="불사의 벨던 길들이기 성공" />
+	<block key="am_fe_ga_0032_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0033_Name" korean="불사의 벨던 길들이기 실패" />
+	<block key="am_fe_ga_0033_Description" korean="불사의 벨던 길들이기 10회 실패" />
+	<block key="am_fe_ga_0033_condition_0" korean="길들이기 실패 수" />
+	<block key="tt_0_0_0063_contents_title_name" korean="공허의 카고일을 길들인" />
+	<block key="tt_0_0_0064_contents_title_name" korean="여명의 카고일을 길들인" />
+	<block key="tt_0_0_0065_contents_title_name" korean="불사의 벨던을 길들인" />
+	<block key="am_it_re_0000_Name" korean="전설을 확인하기 위한 조건" />
+	<block key="am_it_re_0000_Description" korean="8강화 이상의 영웅 혹은 전설급 장비 모두 착용" />
+	<block key="am_it_re_0000_condition_0" korean="모든 착용 장비 영웅등급에 10강 이상" />
+	<block key="am_it_re_0000_condition_1" korean="불이 삼킨 유적 영웅 난이도" />
+	<block key="am_it_re_0000_condition_2" korean="카를레앙 대저택 영웅 난이도" />
+	<block key="am_it_re_0000_condition_3" korean="얼어붙은 마트렌 폐허 영웅 난이도" />
+	<block key="am_it_re_0000_condition_4" korean="베일에 싸인 동굴 영웅 난이도" />
+	<block key="am_it_re_0000_condition_5" korean="파를라크 얼음 성채 영웅 난이도" />
+	<block key="am_fe_ga_0034_Name" korean="공포의 파이루드 넌 내꺼야!" />
+	<block key="am_fe_ga_0034_Description" korean="공포의 파이루드 길들이기 성공" />
+	<block key="am_fe_ga_0035_Name" korean="악몽의 메간테스 넌 내꺼야!" />
+	<block key="am_fe_ga_0035_Description" korean="악몽의 메간테스 길들이기 성공" />
+	<block key="am_fe_ga_0036_Name" korean="심연의 바이렛 넌 내꺼야!" />
+	<block key="am_fe_ga_0036_Description" korean="심연의 바이렛 길들이기 성공" />
+	<block key="am_fe_ga_0037_Name" korean="아이샤의 하미온 넌 내꺼야!" />
+	<block key="am_fe_ga_0037_Description" korean="아이샤의 하미온 길들이기 성공" />
+	<block key="am_fe_ga_0038_Name" korean="아이샤의 하미온 길들이기 실패" />
+	<block key="am_fe_ga_0038_Description" korean="아이샤의 하미온 길들이기 10회 실패" />
+	<block key="am_fe_ga_0038_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0039_Name" korean="극염의 칼립토 넌 내꺼야!" />
+	<block key="am_fe_ga_0039_Description" korean="극염의 칼립토 길들이기 성공" />
+	<block key="am_fe_ga_0040_Name" korean="극염의 칼립토 길들이기 실패" />
+	<block key="am_fe_ga_0040_Description" korean="극염의 칼립토 길들이기 10회 실패" />
+	<block key="am_fe_ga_0040_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0041_Name" korean="암흑의 데모너스 넌 내꺼야!" />
+	<block key="am_fe_ga_0041_Description" korean="암흑의 데모너스 길들이기 성공" />
+	<block key="am_fe_ga_0042_Name" korean="암흑의 데모너스 길들이기 실패" />
+	<block key="am_fe_ga_0042_Description" korean="암흑의 데모너스 길들이기 10회 실패" />
+	<block key="am_fe_ga_0042_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0043_Name" korean="황혼의 그라비온 넌 내꺼야!" />
+	<block key="am_fe_ga_0043_Description" korean="황혼의 그라비온 길들이기 성공" />
+	<block key="am_fe_ga_0044_Name" korean="황혼의 그라비온 길들이기 실패" />
+	<block key="am_fe_ga_0044_Description" korean="황혼의 그라비온 길들이기 10회 실패" />
+	<block key="am_fe_ga_0044_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0045_Name" korean="전설 펠로우 애호가" />
+	<block key="am_fe_ga_0045_Description" korean="전설 펠로우 길들이기 5번 성공" />
+	<block key="am_fe_ga_0045_condition_0" korean="길들이기 성공 수" />
+	<block key="am_fe_ga_0046_Name" korean="전설 펠로우 수집가" />
+	<block key="am_fe_ga_0046_Description" korean="전설 펠로우 길들이기 10번 성공" />
+	<block key="am_fe_ga_0046_condition_0" korean="길들이기 성공 수" />
+	<block key="am_fe_ga_0047_Name" korean="[전설] 헤어져야 할 시간" />
+	<block key="am_fe_ga_0047_Description" korean="전설 펠로우 놓아주기 1번" />
+	<block key="am_fe_ga_0047_condition_0" korean="놓아주기 수" />
+	<block key="am_fe_ga_0048_Name" korean="[전설] 진정으로 위하는 마음" />
+	<block key="am_fe_ga_0048_Description" korean="전설 펠로우 놓아주기 5번" />
+	<block key="am_fe_ga_0048_condition_0" korean="놓아주기 수" />
+	<block key="am_fe_us_0000_Name" korean="[전설] 또 다른 모습으로" />
+	<block key="am_fe_us_0000_Description" korean="전설 펠로우 변형 5번" />
+	<block key="am_fe_us_0000_condition_0" korean="변형 수" />
+	<block key="am_fe_us_0001_Name" korean="[전설] 변형이 제일 쉬웠어요" />
+	<block key="am_fe_us_0001_Description" korean="전설 펠로우 변형 10번" />
+	<block key="am_fe_us_0001_condition_0" korean="변형 수" />
+	<block key="am_fe_us_0002_Name" korean="전설 펠로우 5회 봉인" />
+	<block key="am_fe_us_0002_Description" korean="전설 펠로우 봉인 5번" />
+	<block key="am_fe_us_0002_condition_0" korean="봉인 수" />
+	<block key="am_fe_us_0003_Name" korean="전설 펠로우 10회 봉인" />
+	<block key="am_fe_us_0003_Description" korean="전설 펠로우 봉인 10번" />
+	<block key="am_fe_us_0003_condition_0" korean="봉인 수" />
+	<block key="tt_0_0_0066_contents_title_name" korean="공포의 파이루드를 길들인" />
+	<block key="tt_0_0_0067_contents_title_name" korean="악몽의 메간테스를 길들인" />
+	<block key="tt_0_0_0068_contents_title_name" korean="심연의 바이렛을 길들인" />
+	<block key="tt_0_0_0069_contents_title_name" korean="아이샤의 하미온을 길들인" />
+	<block key="tt_0_0_0070_contents_title_name" korean="극염의 칼립토를 길들인" />
+	<block key="tt_0_0_0071_contents_title_name" korean="암흑의 데모너스를 길들인" />
+	<block key="tt_0_0_0072_contents_title_name" korean="황혼의 그라비온을 길들인" />
+	<block key="tt_0_0_0073_contents_title_name" korean="전설에 도전하는 자" />
+	<block key="tt_0_0_0074_contents_title_name" korean="천둥 드래곤 톨루스를 길들인" />
+	<block key="tt_0_0_0075_contents_title_name" korean="백은의 챠누스를 길들인" />
+	<block key="tt_0_0_0076_contents_title_name" korean="독액의 베가루스를 길들인" />
+	<block key="tt_0_0_0077_contents_title_name" korean="영광의 포요를 길들인" />
+	<block key="tt_0_0_0078_contents_title_name" korean="신기루의 파노스를 길들인" />
+	<block key="tt_0_0_0079_contents_title_name" korean="불꽃의 타라쿠를 길들인" />
+	<block key="tt_0_0_0080_contents_title_name" korean="긴 뿔의 바쟌을 길들인" />
+	<block key="tt_0_0_0081_contents_title_name" korean="열사의 마튜라를 길들인" />
+	<block key="tt_0_0_0082_contents_title_name" korean="파멸의 본 크노스를 길들인" />
+	<block key="am_fe_ga_0049_Name" korean="천둥 드래곤 톨루스 넌 내꺼야!" />
+	<block key="am_fe_ga_0049_Description" korean="천둥 드래곤 톨루스 길들이기 성공" />
+	<block key="am_fe_ga_0050_Name" korean="천둥 드래곤 톨루스 길들이기 실패" />
+	<block key="am_fe_ga_0050_Description" korean="천둥 드래곤 톨루스 길들이기 10회 실패" />
+	<block key="am_fe_ga_0050_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0051_Name" korean="백은의 챠누스 넌 내꺼야!" />
+	<block key="am_fe_ga_0051_Description" korean="백은의 챠누스 길들이기 성공" />
+	<block key="am_fe_ga_0052_Name" korean="백은의 챠누스 길들이기 실패" />
+	<block key="am_fe_ga_0052_Description" korean="백은의 챠누스 길들이기 10회 실패" />
+	<block key="am_fe_ga_0052_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0053_Name" korean="독액의 베가루스 넌 내꺼야!" />
+	<block key="am_fe_ga_0053_Description" korean="독액의 베가루스 길들이기 성공" />
+	<block key="am_fe_ga_0054_Name" korean="독액의 베가루스 길들이기 실패" />
+	<block key="am_fe_ga_0054_Description" korean="독액의 베가루스 길들이기 10회 실패" />
+	<block key="am_fe_ga_0054_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0055_Name" korean="영광의 포요 넌 내꺼야!" />
+	<block key="am_fe_ga_0055_Description" korean="영광의 포요 길들이기 성공" />
+	<block key="am_fe_ga_0056_Name" korean="영광의 포요 길들이기 실패" />
+	<block key="am_fe_ga_0056_Description" korean="영광의 포요 길들이기 10회 실패" />
+	<block key="am_fe_ga_0056_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0057_Name" korean="신기루의 파노스 넌 내꺼야!" />
+	<block key="am_fe_ga_0057_Description" korean="신기루의 파노스 길들이기 성공" />
+	<block key="am_fe_ga_0058_Name" korean="신기루의 파노스 길들이기 실패" />
+	<block key="am_fe_ga_0058_Description" korean="신기루의 파노스 길들이기 10회 실패" />
+	<block key="am_fe_ga_0058_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0059_Name" korean="불꽃의 타라쿠 넌 내꺼야!" />
+	<block key="am_fe_ga_0059_Description" korean="불꽃의 타라쿠 길들이기 성공" />
+	<block key="am_fe_ga_0060_Name" korean="불꽃의 타라쿠 길들이기 실패" />
+	<block key="am_fe_ga_0060_Description" korean="불꽃의 타라쿠 길들이기 10회 실패" />
+	<block key="am_fe_ga_0060_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0061_Name" korean="긴 뿔의 바쟌 넌 내꺼야!" />
+	<block key="am_fe_ga_0061_Description" korean="긴 뿔의 바쟌 길들이기 성공" />
+	<block key="am_fe_ga_0062_Name" korean="긴 뿔의 바쟌 길들이기 실패" />
+	<block key="am_fe_ga_0062_Description" korean="긴 뿔의 바쟌 길들이기 10회 실패" />
+	<block key="am_fe_ga_0062_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0063_Name" korean="열사의 마튜라 넌 내꺼야!" />
+	<block key="am_fe_ga_0063_Description" korean="열사의 마튜라 길들이기 성공" />
+	<block key="am_fe_ga_0064_Name" korean="열사의 마튜라 길들이기 실패" />
+	<block key="am_fe_ga_0064_Description" korean="열사의 마튜라 길들이기 10회 실패" />
+	<block key="am_fe_ga_0064_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0065_Name" korean="파멸의 본 크노스 넌 내꺼야!" />
+	<block key="am_fe_ga_0065_Description" korean="파멸의 본 크노스 길들이기 성공" />
+	<block key="am_fe_ga_0066_Name" korean="파멸의 본 크노스 길들이기 실패" />
+	<block key="am_fe_ga_0066_Description" korean="파멸의 본 크노스 길들이기 10회 실패" />
+	<block key="am_fe_ga_0066_condition_0" korean="길들이기 실패 수" />
+	<block key="am_dg_co_0008_Name" korean="[시나리오] 고대의 사원" />
+	<block key="am_dg_co_0008_Description" korean="고대의 사원 시나리오 난이도 클리어 1회" />
+	<block key="am_dg_co_0008_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0009_Name" korean="[시나리오] 고대의 사원의 탐험가" />
+	<block key="am_dg_co_0009_Description" korean="고대의 사원 시나리오 난이도 클리어 10회" />
+	<block key="am_dg_co_0009_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0010_Name" korean="[정예] 고대의 사원" />
+	<block key="am_dg_co_0010_Description" korean="고대의 사원 정예 난이도 클리어 1회" />
+	<block key="am_dg_co_0010_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0011_Name" korean="[정예] 고대의 사원의 탐험가" />
+	<block key="am_dg_co_0011_Description" korean="고대의 사원 정예 난이도 클리어 10회" />
+	<block key="am_dg_co_0011_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0012_Name" korean="[영웅] 고대의 사원" />
+	<block key="am_dg_co_0012_Description" korean="고대의 사원 영웅 난이도 클리어 1회" />
+	<block key="am_dg_co_0012_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0013_Name" korean="[영웅] 고대의 사원의 탐험가" />
+	<block key="am_dg_co_0013_Description" korean="고대의 사원 영웅 난이도 클리어 10회" />
+	<block key="am_dg_co_0013_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0014_Name" korean="[전설] 고대의 사원" />
+	<block key="am_dg_co_0014_Description" korean="고대의 사원 전설 난이도 클리어 1회" />
+	<block key="am_dg_co_0014_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0015_Name" korean="[전설] 고대의 사원의 탐험가" />
+	<block key="am_dg_co_0015_Description" korean="고대의 사원 전설 난이도 클리어 10회" />
+	<block key="am_dg_co_0015_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0016_Name" korean="[시나리오] 불사군단 요새" />
+	<block key="am_dg_co_0016_Description" korean="불사군단 요새 시나리오 난이도 클리어 1회" />
+	<block key="am_dg_co_0016_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0017_Name" korean="[시나리오] 불사군단 요새의 정복자" />
+	<block key="am_dg_co_0017_Description" korean="불사군단 요새 시나리오 난이도 클리어 10회" />
+	<block key="am_dg_co_0017_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0018_Name" korean="[정예] 불사군단 요새" />
+	<block key="am_dg_co_0018_Description" korean="불사군단 요새 정예 난이도 클리어 1회" />
+	<block key="am_dg_co_0018_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0019_Name" korean="[정예] 불사군단 요새의 정복자" />
+	<block key="am_dg_co_0019_Description" korean="불사군단 요새 정예 난이도 클리어 10회" />
+	<block key="am_dg_co_0019_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0020_Name" korean="[영웅] 불사군단 요새" />
+	<block key="am_dg_co_0020_Description" korean="불사군단 요새 영웅 난이도 클리어 1회" />
+	<block key="am_dg_co_0020_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0021_Name" korean="[영웅] 불사군단 요새의 정복자" />
+	<block key="am_dg_co_0021_Description" korean="불사군단 요새 영웅 난이도 클리어 10회" />
+	<block key="am_dg_co_0021_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0022_Name" korean="[전설] 불사군단 요새" />
+	<block key="am_dg_co_0022_Description" korean="불사군단 요새 전설 난이도 클리어 1회" />
+	<block key="am_dg_co_0022_condition_0" korean="클리어 수" />
+	<block key="am_dg_co_0023_Name" korean="[전설] 불사군단 요새의 정복자" />
+	<block key="am_dg_co_0023_Description" korean="불사군단 요새 전설 난이도 클리어 10회" />
+	<block key="am_dg_co_0023_condition_0" korean="클리어 수" />
+	<block key="am_cb_mt_0007_Name" korean="학살자 제논<붉은 혁명단> 처치" />
+	<block key="am_cb_mt_0007_Description" korean="학살자 제논<붉은 혁명단> 1회 처치" />
+	<block key="am_cb_mt_0008_Name" korean="선발대장 카심<붉은 혁명단> 처치" />
+	<block key="am_cb_mt_0008_Description" korean="선발대장 카심<붉은 혁명단> 1회 처치" />
+	<block key="am_cb_mt_0009_Name" korean="마검사 라자트<붉은 혁명단> 처치" />
+	<block key="am_cb_mt_0009_Description" korean="마검사 라자트<붉은 혁명단> 1회 처치" />
+	<block key="am_cb_mt_0010_Name" korean="돌격대장 무파딘<붉은 혁명단> 처치" />
+	<block key="am_cb_mt_0010_Description" korean="돌격대장 무파딘<붉은 혁명단> 1회 처치" />
+	<block key="am_qu_zo_0000_Name" korean="불사의 사막 탐험가" />
+	<block key="am_qu_zo_0000_Description" korean="불사의 사막 퀘스트 268개 완료" />
+	<block key="am_qu_zo_0000_condition_0" korean="퀘스트 완료 수" />
+	<block key="tt_0_0_0083_contents_title_name" korean="사막의 탐험가" />
+	<block key="tt_0_0_0084_contents_title_name" korean="사막의 정복자" />
+	<block key="tt_0_0_0085_contents_title_name" korean="황금의 샤키바를 길들인" />
+	<block key="tt_0_0_0086_contents_title_name" korean="타락의 로데쉬를 길들인" />
+	<block key="am_co_gr_0000_Name" korean="드디어 50레벨" />
+	<block key="am_co_gr_0000_Description" korean="50레벨 달성" />
+	<block key="am_co_gr_0000_condition_0" korean="50레벨 달성" />
+	<block key="am_fe_ga_0067_Name" korean="황금의 샤키바 넌 내꺼야!" />
+	<block key="am_fe_ga_0067_Description" korean="황금의 샤키바 길들이기 성공" />
+	<block key="am_fe_ga_0068_Name" korean="황금의 샤키바 길들이기 실패" />
+	<block key="am_fe_ga_0068_Description" korean="황금의 샤키바 길들이기 10회 실패" />
+	<block key="am_fe_ga_0068_condition_0" korean="길들이기 실패 수" />
+	<block key="am_fe_ga_0069_Name" korean="타락의 로데쉬 넌 내꺼야!" />
+	<block key="am_fe_ga_0069_Description" korean="타락의 로데쉬 길들이기 성공" />
+	<block key="am_fe_ga_0070_Name" korean="타락의 로데쉬 길들이기 실패" />
+	<block key="am_fe_ga_0070_Description" korean="타락의 로데쉬 길들이기 10회 실패" />
+	<block key="am_fe_ga_0070_condition_0" korean="길들이기 실패 수" />
+	<block key="tt_0_0_0087_contents_title_name" korean="이누기의 친구" />
+	<block key="tt_0_0_0088_contents_title_name" korean="대지의 균형을 바로 잡은 자" />
+	<block key="tt_0_0_0089_contents_title_name" korean="어둠의 방랑자" />
+	<block key="tt_0_0_0090_contents_title_name" korean="고대의 사원 탐험가" />
+	<block key="tt_0_0_0091_contents_title_name" korean="불사군단 요새의 탐험가" />
+	<block key="tt_0_0_0092_contents_title_name" korean="사막의 빛나는 별" />
+	<block key="tt_0_0_0093_contents_title_name" korean="약속 따윈 없어!" />
+	<block key="tt_0_0_0094_contents_title_name" korean="대박예감 2015!" />
+</blocks>

@@ -1,0 +1,335 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Quest_Mission_Str_Type_0" korean="[NAME] говорить" />
+	<block key="Quest_Mission_Str_Type_1" korean="[NAME] помощь" />
+	<block key="Quest_Mission_Str_Type_2" korean="[ИМЯ]" />
+	<block key="Quest_Mission_Str_Type_3" korean="[NAME] Найти" />
+	<block key="Quest_Mission_Str_Type_4" korean="[NAME] эскорт" />
+	<block key="Quest_Mission_Str_Type_5" korean="[NAME] сообщил" />
+	<block key="Quest_Mission_Str_Type_6" korean="Диалоговое окно [NAME]" />
+	<block key="Quest_Mission_Str_Type_7" korean="[NAME] работа" />
+	<block key="Quest_Mission_Str_Type_8" korean="[NAME] уничтожение" />
+	<block key="Quest_Mission_Str_Type_9" korean="[NAME] получить компенсацию" />
+	<block key="Quest_Mission_Str_Type_10" korean="[NAME] прибытие" />
+	<block key="Quest_Mission_Str_Type_11" korean="[NAME] носить" />
+	<block key="Quest_Mission_Str_Type_12" korean="Kepley певица спасение" />
+	<block key="Quest_Mission_Str_Type_13" korean="[NAME] поставляется" />
+	<block key="Quest_Mission_Str_Type_14" korean="[NAME], чтобы доставить товар" />
+	<block key="Quest_Mission_Str_Type_15" korean="[NAME2] нарушение" />
+	<block key="Quest_Mission_Str_Type_16" korean="[Имя] применения" />
+	<block key="Quest_Mission_Str_Type_17" korean="[NAME] Укрощение" />
+	<block key="Quest_Mission_Str_Type_18" korean="[NAME] и ЖЖ" />
+	<block key="Quest_Mission_Str_Type_19" korean="[NAME], чтобы доставить товар" />
+	<block key="Quest_Mission_Str_Type_20" korean="Заполните силовых характеристик от характеристик бисера" />
+	<block key="Quest_Mission_Str_Type_21" korean="[NAME] Монтаж" />
+	<block key="Quest_Mission_Str_Type_22" korean="[NAME] сражение с" />
+	<block key="Quest_Mission_Str_Type_23" korean="[NAME] интернат боевой" />
+	<block key="Quest_Mission_Str_Type_24" korean="[NAME] [NAME2] для выживания" />
+	<block key="Quest_Mission_Str_Type_25" korean="И выживет" />
+	<block key="Quest_Mission_Str_Type_26" korean="Побега с воронами" />
+	<block key="Quest_Mission_Str_Type_27" korean="[NAME] купить" />
+	<block key="Quest_Mission_Str_Type_28" korean="[NAME] Необходимость" />
+	<block key="Quest_Mission_Str_Type_29" korean="Огонь, горящий огонь от предметов" />
+	<block key="Quest_Mission_Str_Type_30" korean="Пострадавшие лечение" />
+	<block key="Quest_Mission_Str_Type_31" korean="[NAME] Установка" />
+	<block key="Quest_Mission_Str_Type_32" korean="Заполните ведро" />
+	<block key="Quest_Mission_Str_Type_33" korean="[NAME] пыткам" />
+	<block key="Quest_Mission_Str_Type_34" korean="[NAME] Боб цикл" />
+	<block key="Quest_Mission_Str_Type_35" korean="[NAME], чтобы петь душу" />
+	<block key="Quest_Mission_Str_Type_36" korean="Brage рассматриваться как комбатантов копья рыцарей Shenron" />
+	<block key="Quest_Mission_Str_Type_37" korean="Оленеводы сайты, чтобы запечатать" />
+	<block key="Quest_Mission_Str_Type_38" korean="[NAME] подтвердили" />
+	<block key="Quest_Mission_Str_Type_39" korean="[NAME] Падение" />
+	<block key="Quest_Mission_Str_Type_40" korean="Уилер перевозки выстрелить" />
+	<block key="Quest_Mission_Str_Type_41" korean="Поздравляю. Икар G ☆ STAR've выполнили все задания." />
+	<block key="Quest_Mission_Str_Type_42" korean="Найти Shenron тамплиеров гарнизона Кроу" />
+	<block key="Quest_Mission_Str_Type_43" korean="Молот получены из сокровищнице Харлан Новости" />
+	<block key="Quest_Mission_Str_Type_44" korean="Крепления и диалог в размере Канас, а также секс-" />
+	<block key="Quest_Mission_Str_Type_45" korean="Проверка на море джакузи" />
+	<block key="Quest_Mission_Str_Type_46" korean="Запрос волшебный структуру вспышки" />
+	<block key="Quest_Mission_Str_Type_47" korean="По диалог в уничтожении воздушного пространства" />
+	<block key="Quest_Mission_Str_Type_48" korean="Собранные в поток эшелона заначки" />
+	<block key="Quest_Mission_Str_Type_49" korean="Проверка ангел каменную статую" />
+	<block key="Quest_Mission_Str_Type_50" korean="Чтобы вырастить уровня [NAME]" />
+	<block key="Quest_Mission_Str_Type_51" korean="Лекс де сопровождать Келл деревне В лесу" />
+	<block key="Quest_Mission_Str_Type_52" korean="Восстановление Маркер Pegasus рыцарей" />
+	<block key="Quest_Mission_Str_Type_53" korean="Атака Бессмертный Легион 2 минут crackin" />
+	<block key="Quest_Mission_Str_Type_54" korean="Назначение позицию возврата" />
+	<block key="Quest_Mission_Str_Type_55" korean="Довести до Кертис White" />
+	<block key="Quest_Mission_Str_Type_56" korean="Канаш также прибыл и пол" />
+	<block key="Quest_Mission_Str_Type_57" korean="Прибыл в воздушном пространстве разрушения" />
+	<block key="Quest_Mission_Str_Type_58" korean="[NAME] купить" />
+	<block key="Quest_Mission_Str_Type_59" korean="Проведут вас в сказочном Chicky" />
+	<block key="Quest_Mission_Str_Type_60" korean="Ах участке бурной перерыв в" />
+	<block key="Quest_Mission_Str_Type_61" korean="Обещание Эллоры использования" />
+	<block key="Quest_Mission_Str_Type_62" korean="Потирая плавает в [имя]" />
+	<block key="Quest_Mission_Str_Type_63" korean="Подземный Рыцари Ворона и диалог конференция" />
+	<block key="Quest_Mission_Str_Type_64" korean="Для того, чтобы книгу капитану Мелвин одного" />
+	<block key="Quest_Mission_Str_Type_65" korean="Помощь для древних Администраторы мест с Кунта аренды" />
+	<block key="Quest_Mission_Str_Type_66" korean="Древний чары, чтобы уничтожить" />
+	<block key="Quest_Mission_Str_Type_67" korean="Перейти к блеск лесном лагере Кроу и беседы" />
+	<block key="Quest_Mission_Str_Type_68" korean="Перейти в столицу, чтобы встретиться с королем ул" />
+	<block key="Quest_Mission_Str_Type_69" korean="Арбалет со специальными взрывчатых веществ, чтобы уничтожить Brage" />
+	<block key="Quest_Mission_Str_Type_70" korean="Руины администратора, чтобы помочь вам вызвать призраков" />
+	<block key="Quest_Mission_Str_Type_71" korean="Brage разрушение барьера сильного удара с полного заряда" />
+	<block key="Quest_Mission_Str_Type_72" korean="Buff цикл для борьбы с знак Эллоры" />
+	<block key="Quest_Mission_Str_Type_73" korean="Brage атаки проникновения содействовать в знак Эллоры" />
+	<block key="Quest_Mission_Str_Type_74" korean="Пламя выйти с разрывными стрелами трех наложенных Brage" />
+	<block key="Quest_Mission_Str_Type_75" korean="Использование глубокого выпада после быстрой движения yeonrakbyeong" />
+	<block key="Quest_Mission_Str_Type_76" korean="Пользуясь оглушает щит удар после боя обороны Brage" />
+	<block key="Quest_Mission_Str_Type_77" korean="[NAME] для использования в восточном городе" />
+	<block key="Quest_Mission_Str_Type_78" korean="Погоня за Екатерина" />
+	<block key="Quest_Mission_Str_Type_79" korean="Нет артиллерийских снарядов снарядов, загруженные в" />
+	<block key="Quest_Mission_Str_Type_80" korean="Пираты древней Церкви" />
+	<block key="Quest_Mission_Str_Type_81" korean="Агура семья на помощь" />
+	<block key="Quest_Mission_Str_Type_82" korean="Питание для голодных солдат" />
+	<block key="Quest_Mission_Str_Type_83" korean="Ремонт сломанной перила" />
+	<block key="Quest_Mission_Str_Type_84" korean="Поставляется в mureo дать письмо Mio Рамми" />
+	<block key="Quest_Mission_Str_Type_85" korean="Mureo письма, отправленные на MIO-линии Ларами" />
+	<block key="Quest_Mission_Str_Type_86" korean="Tatara письмо воды, подаваемой к шаману" />
+	<block key="Quest_Mission_Str_Type_87" korean="Агура забил группы и получить зверя крови" />
+	<block key="Quest_Mission_Str_Type_88" korean="Загрязненная восстановления dokcho" />
+	<block key="Quest_Mission_Str_Type_89" korean="Посвятите лицо богини в храме" />
+	<block key="Quest_Mission_Str_Type_90" korean="Yeti Hunt" />
+	<block key="Quest_Mission_Str_Type_91" korean="Питание коллекции Croix Kuhn" />
+	<block key="Quest_Mission_Str_Type_92" korean="Пение песни из Русалки" />
+	<block key="Quest_Mission_Str_Type_93" korean="Оживление светящиеся древесины" />
+	<block key="Quest_Mission_Str_Type_94" korean="Глаза возродить лес" />
+	<block key="Quest_Mission_Str_Type_95" korean="Направляясь к гораздо гнездящихся поместья" />
+	<block key="Quest_Mission_Str_Type_96" korean="Croix Kuhn структура обморожения" />
+	<block key="Quest_Mission_Str_Type_97" korean="Злой Рамми бесплатное лечение в пещеру тайны" />
+	<block key="Quest_Mission_Str_Type_98" korean="[NAME] опечатаны" />
+	<block key="Quest_Mission_Str_Type_99" korean="Чтобы уничтожить северные сайты цепи" />
+	<block key="Quest_Mission_Str_Type_100" korean="Айша легче найти файлы поместья" />
+	<block key="Quest_Mission_Str_Type_101" korean="Рондо разговор Прослушивание" />
+	<block key="Quest_Mission_Str_Type_102" korean="Спасение для бесплатной Рамми" />
+	<block key="Quest_Mission_Str_Type_103" korean="Mureo дать Рамми Mio сделан, чтобы доставить кольцо" />
+	<block key="Quest_Mission_Str_Type_104" korean="Ввод в южных сайтов" />
+	<block key="Quest_Mission_Str_Type_105" korean="10 уровнях, используя инструмент для извлечения" />
+	<block key="Quest_Mission_Str_Type_106" korean="Найти скрытые стержневого вывода" />
+	<block key="Quest_Mission_Str_Type_107" korean="Вместо этого возьмите деревянную цикл палочка стержень мэра города" />
+	<block key="Quest_Mission_Str_Type_108" korean="Для лечения пистолет, чтобы найти священника проклял" />
+	<block key="Quest_Mission_Str_Type_109" korean="Cara-де-Пираты выиграл 20 человек в Крайстчерч" />
+	<block key="Quest_Mission_Str_Type_110" korean="А резные деревянные статуи, вырезанные из дерева" />
+	<block key="Quest_Mission_Str_Type_111" korean="Отворил двери темницы Попо ла сохранены цикл" />
+	<block key="Quest_Mission_Str_Type_112" korean="Чтобы разорвать проклятие куклу" />
+	<block key="Quest_Mission_Str_Type_113" korean="Убейте другого игрока" />
+	<block key="Quest_Mission_Str_Type_114" korean="[NAME], чтобы собирать" />
+	<block key="Quest_Mission_Str_Type_115" korean="Сотрудник пополняющейся библиотеке" />
+	<block key="Quest_Mission_Str_Type_116" korean="[NAME], чтобы заменить воду eongi" />
+	<block key="Quest_Mission_Str_Type_117" korean="[NAME], чтобы узнать" />
+	<block key="Quest_Mission_Str_Type_118" korean="Паралич яд распыляется на продукты питания в бою" />
+	<block key="Quest_Mission_Str_Type_119" korean="[NAME], чтобы освободить" />
+	<block key="Quest_Mission_Str_Type_120" korean="[NAME] Похищение" />
+	<block key="Quest_Mission_Str_Type_121" korean="Чтобы уничтожить пушку" />
+	<block key="Quest_Mission_Str_Type_122" korean="[NAME] Создание" />
+	<block key="Quest_Mission_Str_Type_123" korean="Помощь для возбудителя разводят варианты" />
+	<block key="Quest_Mission_Str_Type_124" korean="Для Джека Церкви" />
+	<block key="Quest_Mission_Str_Type_125" korean="Ключ Клее к лечению" />
+	<block key="Quest_Mission_Str_Type_126" korean="Руины борьбе с пауков" />
+	<block key="Quest_Mission_Str_Type_127" korean="Выполните миссию и вернуться пять видов Кроу" />
+	<block key="Quest_Mission_Str_Type_128" korean="[NAME] На" />
+	<block key="Quest_Mission_Str_Type_129" korean="Бессмертный помощь Легион" />
+	<block key="Quest_Mission_Str_Type_130" korean="Помощь Frost Легион" />
+	<block key="Quest_Mission_Str_Type_131" korean="Перейти к команде Каньяс jikhal воспользоваться порталом" />
+	<block key="Quest_Mission_Str_Type_132" korean="Уровень [NAME], чтобы добиться признания как царство статьи" />
+	<block key="Quest_Mission_Str_Type_133" korean="Уровень [NAME] для достижения оборудовать характерные условия" />
+	<block key="Quest_Mission_Str_Type_134" korean="Уровень [NAME], чтобы быть достигнуто, и исправить Пегас Рыцарь" />
+	<block key="Quest_Mission_Str_Type_135" korean="Признанный уровень [NAME] достигается Героев Королевство" />
+	<block key="Quest_Mission_Str_Type_136" korean="Кобб быть куча борьба" />
+	<block key="Quest_Mission_Str_Type_137" korean="Добавить новый дух Кики" />
+	<block key="Quest_Mission_Str_Type_138" korean="Сделать тело" />
+	<block key="Quest_Mission_Str_Type_139" korean="Пожарные" />
+	<block key="Quest_Mission_Str_Type_140" korean="Топ запись из четырех, которые" />
+	<block key="Quest_Mission_Str_Type_141" korean="Сознание Джерси Рондо" />
+	<block key="Quest_Mission_Str_Type_142" korean="Кобб аренды Мастер и загрузить мастера помощь" />
+	<block key="Quest_Mission_Str_Type_143" korean="Yeti толстой кишки астаксантин поражение" />
+	<block key="Quest_Mission_Str_Type_144" korean="Помощь в погоне за Yeti толстой кишки Santin" />
+	<block key="Quest_Mission_Str_Type_145" korean="Купить вкусные блюда из поясницы Те медленно" />
+	<block key="Quest_Mission_Str_Type_146" korean="Довольно кукла, чтобы купить от галантерейщик Джексона" />
+	<block key="Quest_Mission_Str_Type_147" korean="Доспехи трейдеры, чтобы купить теплую обувь от Чака Бейла" />
+	<block key="Quest_Mission_Str_Type_148" korean="Купить страшные на вид куклы от галантерейщик теории Шах" />
+	<block key="Quest_Mission_Str_Type_149" korean="Купить конопли деревьев матчи" />
+	<block key="Quest_Mission_Str_Type_150" korean="Купить нефти из порта кольца Мэри" />
+	<block key="Quest_Mission_Str_Type_151" korean="Чтобы помочь Silver Lake Агура" />
+	<block key="Quest_Mission_Str_Type_152" korean="Для лечения воспаления mureo mijok" />
+	<block key="Quest_Mission_Str_Type_153" korean="Помощь для Синего Волка" />
+	<block key="Quest_Mission_Str_Type_154" korean="Оболочки восстановления" />
+	<block key="Quest_Mission_Str_Type_155" korean="Zen Kit с GMS из материала, полученного алхимии: Bubble весы для производства" />
+	<block key="Quest_Mission_Str_Type_156" korean="Чтобы получить масштабах от Zen Kit" />
+	<block key="Quest_Mission_Str_Type_157" korean="Мешок пузыря, чтобы получить от GMS" />
+	<block key="Quest_Mission_Str_Type_158" korean="[NAME] по борьбе с" />
+	<block key="Quest_Mission_Str_Type_159" korean="[NAME], сделав пожертвование" />
+	<block key="Quest_Mission_Str_Type_160" korean="Проверяет тела" />
+	<block key="Quest_Mission_Str_Type_161" korean="Купить яблоки от поясницы Те медленно" />
+	<block key="Quest_Mission_Str_Type_162" korean="Миссия и изысканный с сотнями трутней и троянских программ, является получение" />
+	<block key="Quest_Mission_Str_Type_163" korean="Выполните Азии миссию душу, чтобы получить волны рупий серебро" />
+	<block key="Quest_Mission_Str_Type_164" korean="Поместите исследования воды на поверхность зеркало штук показано" />
+	<block key="Quest_Mission_Str_Type_165" korean="[NAME], чтобы доставить ванили" />
+	<block key="Quest_Mission_Str_Type_166" korean="[NAME], чтобы поглотить" />
+	<block key="Quest_Mission_Str_Type_167" korean="Снег приносит синий тонированное тела сбоев быстрый цикл" />
+	<block key="Quest_Mission_Str_Type_168" korean="Найти местонахождение Феррелл" />
+	<block key="Quest_Mission_Str_Type_169" korean="Найти местонахождение Spry" />
+	<block key="Quest_Mission_Str_Type_170" korean="Горгулья Церкви" />
+	<block key="Quest_Mission_Str_Type_171" korean="Идзу Hora помощь Корпуса солдаты" />
+	<block key="Quest_Mission_Str_Type_172" korean="Идзу Hora помощи корпуса лейтенант" />
+	<block key="Quest_Mission_Str_Type_173" korean="Выполните дополнительные обязанности Робинсон, чтобы получить первый материал" />
+	<block key="Quest_Mission_Str_Type_174" korean="Выполните дополнительные обязанности Робинсон, чтобы получить второй материал" />
+	<block key="Quest_Mission_Str_Type_175" korean="Выполните дополнительные обязанности Робинсон, чтобы получить третий материал" />
+	<block key="Quest_Mission_Str_Type_176" korean="Доставка Робинсон числа закрытый ящик" />
+	<block key="Quest_Mission_Str_Type_177" korean="Идзу Hora помощь Корпус Персонал" />
+	<block key="Quest_Mission_Str_Type_178" korean="В гости к Робинсонам сотрудник храма потерял свой свет, чтобы получить набор образец" />
+	<block key="Quest_Mission_Str_Type_179" korean="Для выполнения обязанностей Робинсон переехал, чтобы получить свой заказ материалов" />
+	<block key="Quest_Mission_Str_Type_180" korean="Для выполнения обязанностей Робинзона порошка для получения кредита" />
+	<block key="Quest_Mission_Str_Type_181" korean="Убить солдаты приказали клиренс воздушного пространства злых духов жилище получить места" />
+	<block key="Quest_Mission_Str_Type_182" korean="Земля, приобретенная в результате совершения решения Хоффман" />
+	<block key="Quest_Mission_Str_Type_183" korean="Prairies для лечения мужчин Хаоса" />
+	<block key="Quest_Mission_Str_Type_184" korean="Помощь в Генеральной корпуса Идзу Гора" />
+	<block key="Quest_Mission_Str_Type_185" korean="[NAME] на лечение членов низкого уровня партии" />
+	<block key="Quest_Mission_Str_Type_186" korean="Признание Каррик-уровне для достижения суб-[имя]" />
+	<block key="Quest_Mission_Str_Type_187" korean="Снег приносит синий тонированное тела сбоев быстрый цикл" />
+	<block key="Quest_Mission_Str_Type_188" korean="Переезд в воздушном пространстве разрушения через мочевой пузырь" />
+	<block key="Quest_Mission_Str_Type_189" korean="Помощь в лес ревущих зверя" />
+	<block key="Quest_Mission_Str_Type_190" korean="Seukan публичной сцене на помощь" />
+	<block key="Quest_Mission_Str_Type_191" korean="Поднять напряжение могучий" />
+	<block key="Quest_Mission_Str_Type_192" korean="Малый подрядчик помощь, чтобы вернуть постоянной времени" />
+	<block key="Quest_Mission_Str_Type_193" korean="Информация, полученная от другой Кете" />
+	<block key="Quest_Mission_Str_Type_194" korean="Это изменение приводит к коллекции сказки" />
+	<block key="Quest_Mission_Str_Type_195" korean="Корпус помощь и мороз бутылка постоянная времени восстановления Sorcerer" />
+	<block key="Quest_Mission_Str_Type_196" korean="Elemental очистка воды и льда" />
+	<block key="Quest_Mission_Str_Type_197" korean="Убить кучу черепа темной магии пребывает" />
+	<block key="Quest_Mission_Str_Type_198" korean="Мороз Yeti помощи толпа" />
+	<block key="Quest_Mission_Str_Type_199" korean="Топ новолуние, чтобы собрать подтверждение посещаемости" />
+	<block key="Quest_Mission_Str_Type_200" korean="Семь смертных грехов отчет возбудителя вырос сбора штук" />
+	<block key="Quest_Mission_Str_Type_201" korean="Сбор древней истории и поднял кусок возбудитель" />
+	<block key="Quest_Mission_Str_Type_202" korean="Приобретение Bonginseok очень звука" />
+	<block key="Quest_Mission_Str_Type_203" korean="Приобретение Bonginseok Гнева" />
+	<block key="Quest_Mission_Str_Type_204" korean="Приобретение Bonginseok снег Виши" />
+	<block key="Quest_Mission_Str_Type_205" korean="Приобретение Bonginseok по Гавр Risher" />
+	<block key="Quest_Mission_Str_Type_206" korean="Зависть приобретение bonginseok" />
+	<block key="Quest_Mission_Str_Type_207" korean="Приобретение Bonginseok Инди качели" />
+	<block key="Quest_Mission_Str_Type_208" korean="Приобретение Bonginseok из Lust" />
+	<block key="Quest_Mission_Str_Type_209" korean="[NAME] Техническое обслуживание" />
+	<block key="Quest_Mission_Str_Type_210" korean="[NAME] по расследованию" />
+	<block key="Quest_Mission_Str_Type_211" korean="[NAME] огонь запугивание" />
+	<block key="Quest_Mission_Str_Type_212" korean="[NAME], чтобы восстановить" />
+	<block key="Quest_Mission_Str_Type_213" korean="[NAME] Открыть" />
+	<block key="Quest_Mission_Str_Type_214" korean="Я Герман доставка в поле яда" />
+	<block key="Quest_Mission_Str_Type_215" korean="Питьевая вода для жителей одного триллиона месяцев обезвоженных" />
+	<block key="Quest_Mission_Str_Type_216" korean="[NAME], чтобы сдаться" />
+	<block key="Quest_Mission_Str_Type_217" korean="[NAME] коллекция" />
+	<block key="Quest_Mission_Str_Type_218" korean="[NAME] Коллекция" />
+	<block key="Quest_Mission_Str_Type_219" korean="Venom решить еду yongbyeongdan" />
+	<block key="Quest_Mission_Str_Type_220" korean="Запрос поддержки отдохнуть под строителей" />
+	<block key="Quest_Mission_Str_Type_221" korean="Получить необходимые материалы для строительства" />
+	<block key="Quest_Mission_Str_Type_222" korean="Слушайте бороться за полет произошел тест" />
+	<block key="Quest_Mission_Str_Type_223" korean="В время летать на весь Challenger" />
+	<block key="Quest_Mission_Str_Type_224" korean="Найти улики о местонахождении Карл" />
+	<block key="Quest_Mission_Str_Type_225" korean="Откажитесь от Духа гнев появился флот" />
+	<block key="Quest_Mission_Str_Type_226" korean="[NAME] использованы для" />
+	<block key="Quest_Mission_Str_Type_227" korean="Охрана собака теги с доставкой писать Samira" />
+	<block key="Quest_Mission_Str_Type_228" korean="Multi-Guard Аль Гечек" />
+	<block key="Quest_Mission_Str_Type_229" korean="Змея борьбы операции" />
+	<block key="Quest_Mission_Str_Type_230" korean="Все yongbyeongdan лагерь Haba subibyeong напали" />
+	<block key="Quest_Mission_Str_Type_231" korean="Заголовок как колыбель Кошмар" />
+	<block key="Quest_Mission_Str_Type_232" korean="Задать вопрос столпов четырех элементов в Кендалл." />
+	<block key="Quest_Mission_Str_Type_233" korean="Добавить лошадиных сил [NAME]" />
+	<block key="Quest_Mission_Str_Type_234" korean="Портрет Yusei доставить Алхимик Hasisi" />
+	<block key="Quest_Mission_Str_Type_235" korean="Принят к остаткам Yusei Alchemist Hasisi" />
+	<block key="Quest_Mission_Str_Type_236" korean="Вернуться к Yusei" />
+	<block key="Quest_Mission_Str_Type_237" korean="Хотел обратить своих сверстников" />
+	<block key="Quest_Mission_Str_Type_238" korean="Торговец передачи богатства Бартоло" />
+	<block key="Quest_Mission_Str_Type_239" korean="Признаки исследовательский противочумный" />
+	<block key="Quest_Mission_Str_Type_240" korean="Соберите следы чумы" />
+	<block key="Quest_Mission_Str_Type_241" korean="Сообщить о чуме в Золотых Пикс" />
+	<block key="Quest_Mission_Str_Type_242" korean="Признанный Brage помощи проекции силы" />
+	<block key="Quest_Mission_Str_Type_243" korean="Brage Шаман помощь, чтобы быть признанным мудрости" />
+	<block key="Quest_Mission_Str_Type_244" korean="[NAME] осудил" />
+	<block key="Quest_Mission_Str_Type_245" korean="Рекомендации передается к клану нажать" />
+	<block key="Quest_Mission_Str_Type_246" korean="[NAME] Reclaim" />
+	<block key="Quest_Mission_Str_Type_247" korean="Грифон Рыцари Принцесса Рания Доставка подарков" />
+	<block key="Quest_Mission_Str_Type_248" korean="Рок ритуал вызывать духов прогресса" />
+	<block key="Quest_Mission_Str_Type_249" korean="Egeria дарения Бен" />
+	<block key="Quest_Mission_Str_Type_250" korean="Подарки доставлены в Риа-де-Маи Бен" />
+	<block key="Quest_Mission_Str_Type_251" korean="[NAME] Найти" />
+	<block key="Quest_Mission_Str_Type_252" korean="[NAME], чтобы получить" />
+	<block key="Quest_Mission_Str_Type_253" korean="Паста специи ингредиенты в посуде Ниагара" />
+	<block key="Quest_Mission_Str_Type_254" korean="Посмертная оценка Клодель" />
+	<block key="Quest_Mission_Str_Type_255" korean="Клад в приобретении песка" />
+	<block key="Quest_Mission_Str_Type_256" korean="Медь требуется для инкассации музыкальная шкатулка" />
+	<block key="Quest_Mission_Str_Type_257" korean="Mithril нужно собрать музыку ремонт коробки" />
+	<block key="Quest_Mission_Str_Type_258" korean="Mercure обязаны собирать корни музыки ремонта коробки" />
+	<block key="Quest_Mission_Str_Type_259" korean="Музыкальная шкатулка Музыкальная шкатулка запасные части, необходимые для приобретения" />
+	<block key="Quest_Mission_Str_Type_260" korean="[NAME] музыкальная шкатулка ремонт Возвращаясь к" />
+	<block key="Quest_Mission_Str_Type_261" korean="Bihaengseok ремонт претендентом" />
+	<block key="Quest_Mission_Str_Type_262" korean="Возвращение поврежденных волос bihaengseok" />
+	<block key="Quest_Mission_Str_Type_263" korean="Слушая рассказ коллектора" />
+	<block key="Quest_Mission_Str_Type_264" korean="Помощь для Mandrake" />
+	<block key="Quest_Mission_Str_Type_265" korean="Перейти к пустыне бессмертия через Ла-Мут" />
+	<block key="Quest_Mission_Str_Type_266" korean="Bonginseok коллекция [NAME]" />
+	<block key="Quest_Mission_Str_Type_267" korean="Слушая рассказ Чарльза" />
+	<block key="Quest_Mission_Str_Type_268" korean="Отправить личное соответствие в тень клана штаб-квартире с помощью ворона связи по скалам" />
+	<block key="Quest_Mission_Str_Type_269" korean="Король пустыни Кен ползучести на престол" />
+	<block key="Quest_Mission_Str_Type_270" korean="Помощь для сопровождения транспортных вагонов называемые Das" />
+	<block key="Quest_Mission_Str_Type_271" korean="Хэллоуин подтверждение посещаемости Сбор" />
+	<block key="Quest_Mission_Str_Type_272" korean="Исследование коробки Махал муара" />
+	<block key="Quest_Mission_Str_Type_273" korean="Ведущий, забив сомнительную тактику, чтобы получить" />
+	<block key="Quest_Mission_Str_Type_274" korean="[NAME] визит" />
+	<block key="Quest_Mission_Str_Type_275" korean="Просмотр недостающие Сборник" />
+	<block key="Quest_Mission_Str_Type_276" korean="Чтобы заменить коллекцию серебряных монет в семейной группе La La Винни Винни" />
+	<block key="Quest_Mission_Str_Type_277" korean="Собирайте монеты, чтобы заменить возбудителя возбудитель разводят и поднял золотые монеты" />
+	<block key="Quest_Mission_Str_Type_278" korean="Найти улики, касающиеся местонахождения и брошенных читать дневник Карл" />
+	<block key="Quest_Mission_Str_Type_279" korean="Выжить от нападения повестку духов" />
+	<block key="Quest_Mission_Str_Type_280" korean="Найти девушку в пустыне" />
+	<block key="Quest_Mission_Str_Type_281" korean="Yongbyeongdan, чтобы получить мешок золотых монет в непосредственной близости от трейдеров со всего yongbyeongdan сообщению" />
+	<block key="Quest_Mission_Str_Type_282" korean="Доступные в дар [имя] производства или запасов" />
+	<block key="Quest_Mission_Str_Type_283" korean="Для восстановления молотка yongbyeongdan проверки кузнеца" />
+	<block key="Quest_Mission_Str_Type_284" korean="Для восстановления колбу алхимика yongbyeongdan Целителя" />
+	<block key="Quest_Mission_Str_Type_285" korean="Приготовить специи, чтобы оправиться от yongbyeongdan yeomtamkkun" />
+	<block key="Quest_Mission_Str_Type_286" korean="Позвоните в основу ювелирного производителя, чтобы оправиться от хищников yongbyeongdan" />
+	<block key="Quest_Mission_Str_Type_287" korean="[NAME], чтобы услышать историю" />
+	<block key="Quest_Mission_Str_Type_288" korean="Уровень [NAME], чтобы быть признанным как достижение Покоритель пустыни" />
+	<block key="Quest_Mission_Str_Type_289" korean="[NAME], чтобы приобрести или держать" />
+	<block key="Quest_Mission_Str_Type_290" korean="[NAME] производство или запасы" />
+	<block key="Quest_Mission_Str_Type_291" korean="[NAME] Сбор" />
+	<block key="Quest_Mission_Str_Type_292" korean="[NAME] говорят," />
+	<block key="Quest_Mission_Str_Type_293" korean="Отвечая на вопрос, Хан агитировать за шин анализа порядка" />
+	<block key="Quest_Mission_Str_Type_294" korean="[NAME], чтобы урегулировать" />
+	<block key="Quest_Mission_Str_Type_295" korean="[NAME] выбрать" />
+	<block key="Quest_Mission_Str_Type_296" korean="Будьте похищены в Круа Ши Храма Найти MER" />
+	<block key="Quest_Mission_Str_Type_297" korean="Бессмертный Легион выведать, замаскированный под односельчанина" />
+	<block key="Quest_Mission_Str_Type_298" korean="Kuhn ремесленные образцы, чтобы доставить знать руны Croix" />
+	<block key="Quest_Mission_Str_Type_299" korean="MER доставка стоимость отключить брелки" />
+	<block key="Quest_Mission_Str_Type_300" korean="Бессмертный Легион близко к инкубатория" />
+	<block key="Quest_Mission_Str_Type_301" korean="Входит в внутренней части крепости, чтобы спасти Рания 0 акций" />
+	<block key="Quest_Mission_Str_Type_302" korean="Рания 0 акций хрустальный шар, чтобы показать значение Mer" />
+	<block key="Quest_Mission_Str_Type_303" korean="[NAME], чтобы показать когти де-Леон" />
+	<block key="Quest_Mission_Str_Type_304" korean="Получение старый доверие пламя чаша манипуляции" />
+	<block key="Quest_Mission_Str_Type_305" korean="Грифон рыцарей, чтобы спасти заключенных" />
+	<block key="Quest_Mission_Str_Type_306" korean="Croix животных кун казармы зачистки Земли" />
+	<block key="Quest_Mission_Str_Type_307" korean="[NAME] достаточно положить" />
+	<block key="Quest_Mission_Str_Type_308" korean="[NAME], чтобы работать" />
+	<block key="Quest_Mission_Str_Type_309" korean="[NAME], чтобы светить" />
+	<block key="Quest_Mission_Str_Type_310" korean="Спасти статью в кругу бессмертия" />
+	<block key="Quest_Mission_Str_Type_311" korean="[NAME] на сжигание" />
+	<block key="Quest_Mission_Str_Type_312" korean="[NAME] зажигания" />
+	<block key="Quest_Mission_Str_Type_313" korean="Найти местонахождение обуви Папоротник" />
+	<block key="Quest_Mission_Str_Type_314" korean="Кун Охотники забил Croix и получить перья грифона" />
+	<block key="Quest_Mission_Str_Type_315" korean="Является ли войти в храм руины" />
+	<block key="Quest_Mission_Str_Type_316" korean="Кто был принести в жертву тело, чтобы исправить паука" />
+	<block key="Quest_Mission_Str_Type_317" korean="Убейте огонь Престол, содержащий священные опекунов для получения энергии" />
+	<block key="Quest_Mission_Str_Type_318" korean="Приобретение Bonginseok пустыни приручили леопарда [NAME]" />
+	<block key="Quest_Mission_Str_Type_319" korean="Denba bonginseok приобретение одомашнивания [имя] в песке" />
+	<block key="Quest_Mission_Str_Type_320" korean="Адела bonginseok приобретение большого одомашненных [имя]" />
+	<block key="Quest_Mission_Str_Type_321" korean="Торо bonginseok умный приобретение одомашнивания [NAME]" />
+	<block key="Quest_Mission_Str_Type_322" korean="Бар jyanin приручили приобретение bonginseok [название]" />
+	<block key="Quest_Mission_Str_Type_323" korean="Открой наши звери" />
+	<block key="Quest_Mission_Str_Type_324" korean="Чтобы определить компенсацию" />
+	<block key="Quest_Mission_Str_Type_325" korean="[NAME], чтобы изменить способ, который принимает во bonginseok" />
+</blocks>

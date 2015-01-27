@@ -1,0 +1,288 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="FM_000_0000_name" korean="일반 펫 주문서" />
+	<block key="FM_000_0000_Description" korean="일반 등급 펠로우를 변형 시킬 수 있는 주문서
+하위 등급을 포함하여 캐릭터 레벨 이하의 펠로우만 펫으로 변형할 수 있습니다.
+
+<It_G>우 클릭 후 펫으로 변형하고 싶은 펠로우에 사용</It_G>" />
+	<block key="FM_000_0001_name" korean="정예 펫 주문서" />
+	<block key="FM_000_0001_Description" korean="정예 등급 펠로우를 변형 시킬 수 있는 주문서
+하위 등급을 포함하여 캐릭터 레벨 이하의 펠로우만 펫으로 변형할 수 있습니다.
+
+<It_G>우 클릭 후 펫으로 변형하고 싶은 펠로우에 사용</It_G>" />
+	<block key="FM_000_0002_name" korean="영웅 펫 주문서" />
+	<block key="FM_000_0002_Description" korean="영웅 등급 펠로우를 변형 시킬 수 있는 주문서
+하위 등급을 포함하여 캐릭터 레벨 이하의 펠로우만 펫으로 변형할 수 있습니다.
+
+<It_G>우 클릭 후 펫으로 변형하고 싶은 펠로우에 사용</It_G>" />
+	<block key="FM_000_0014_name" korean="전설 펫 주문서" />
+	<block key="FM_000_0014_Description" korean="전설 등급 펠로우를 변형 시킬 수 있는 주문서
+하위 등급을 포함하여 캐릭터 레벨 이하의 펠로우만 펫으로 변형할 수 있습니다.
+
+<It_G>우 클릭 후 펫으로 변형하고 싶은 펠로우에 사용</It_G>" />
+	<block key="FM_000_0003_name" korean="엑자란 영웅 펫 주문서" />
+	<block key="FM_000_0003_Description" korean="영웅 등급 펠로우를 변형 시킬 수 있는 주문서
+하위 등급을 포함하여 캐릭터 레벨 이하의 펠로우만 펫으로 변형할 수 있습니다.
+
+<It_G>우 클릭 후 펫으로 변형하고 싶은 펠로우에 사용</It_G>" />
+	<block key="FM_000_0004_name" korean="25레벨 펫 주문서" />
+	<block key="FM_000_0004_Description" korean="1~25Lv 펠로우을 변형 시킬 수 있는 주문서로 일반 등급 펠로우에게 사용이 가능하다.
+우클릭 후 팻으로 변형하고 싶은 펠로우에 사용
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 펫으로 변경된 펠로우는 다시 펠로우로 변경이 불가능</It_G>" />
+	<block key="FM_000_0005_name" korean="25레벨 펫 주문서" />
+	<block key="FM_000_0005_Description" korean="1~25Lv 펠로우을 변형 시킬 수 있는 주문서로 정예 등급 펠로우에게 사용이 가능하다.
+우클릭 후 팻으로 변형하고 싶은 펠로우에 사용
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 펫으로 변경된 펠로우는 다시 펠로우로 변경이 불가능</It_G>" />
+	<block key="FM_000_0006_name" korean="30레벨 펫 주문서" />
+	<block key="FM_000_0006_Description" korean="1~30Lv 펠로우을 변형 시킬 수 있는 주문서로 일반 등급 펠로우에게 사용이 가능하다.
+우클릭 후 팻으로 변형하고 싶은 펠로우에 사용
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 펫으로 변경된 펠로우는 다시 펠로우로 변경이 불가능</It_G>" />
+	<block key="FM_000_0007_name" korean="30레벨 펫 주문서" />
+	<block key="FM_000_0007_Description" korean="1~30Lv 펠로우을 변형 시킬 수 있는 주문서로 정예 등급 펠로우에게 사용이 가능하다.
+우클릭 후 팻으로 변형하고 싶은 펠로우에 사용
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 펫으로 변경된 펠로우는 다시 펠로우로 변경이 불가능</It_G>" />
+	<block key="FM_000_0008_name" korean="30레벨 펫 주문서" />
+	<block key="FM_000_0008_Description" korean="1~30Lv 펠로우을 변형 시킬 수 있는 주문서로 영웅 등급 펠로우에게 사용이 가능하다.
+우클릭 후 펫/펠로우 형태로 변형하고 싶은 펠로우에 사용
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 펫으로 변경된 펠로우는 다시 펠로우로 변경이 불가능</It_G>" />
+	<block key="SF1_0_000_0000_name" korean="10레벨 일반 봉인석" />
+	<block key="SF1_0_000_0000_Description" korean="1~10Lv 펠로우을 봉인 시킬 수 있는 봉인석으로 일반 등급 펠로우에게 사용이 가능하다.
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 봉인펠로우는 장비 옵션 부여, 특성력 증가</It_G>
+<It_G> - 한번 봉인된 펠로우는 다시 봉인해제가 불가능</It_G>" />
+	<block key="SF1_0_000_0001_name" korean="정예 봉인석" />
+	<block key="SF1_0_000_0001_Description" korean="정예 등급 펠로우를 봉인 시킬 수 있는 봉인석
+하위 등급을 포함하여 캐릭터 레벨 이하의 펠로우만 봉인할 수 있습니다.
+
+<It_G>우 클릭 후 봉인하고자 하는 펠로우/펫에 사용</It_G>
+<It_G>봉인 펠로우는 장비 옵션 부여, 특성력 증가</It_G>
+<It_G>한번 봉인된 펠로우는 다시 봉인 해제 불가</It_G>" />
+	<block key="SF1_1_000_0000_name" korean="영웅 봉인석" />
+	<block key="SF1_1_000_0000_Description" korean="영웅 등급 펠로우를 봉인 시킬 수 있는 봉인석
+하위 등급을 포함하여 캐릭터 레벨 이하의 펠로우만 봉인할 수 있습니다.
+
+<It_G>우 클릭 후 봉인하고자 하는 펠로우/펫에 사용</It_G>
+<It_G>봉인 펠로우는 장비 옵션 부여, 특성력 증가</It_G>
+<It_G>한번 봉인된 펠로우는 다시 봉인 해제 불가</It_G>" />
+	<block key="SF1_4_000_0000_name" korean="전설 봉인석" />
+	<block key="SF1_4_000_0000_Description" korean="전설 등급 펠로우를 봉인 시킬 수 있는 봉인석
+하위 등급을 포함하여 캐릭터 레벨 이하의 펠로우만 봉인할 수 있습니다.
+
+<It_G>우 클릭 후 봉인하고자 하는 펠로우/펫에 사용</It_G>
+<It_G>봉인 펠로우는 장비 옵션 부여, 특성력 증가</It_G>
+<It_G>한번 봉인된 펠로우는 다시 봉인 해제 불가</It_G>" />
+	<block key="SF1_1_000_0001_name" korean="40레벨 일반 봉인석" />
+	<block key="SF1_1_000_0001_Description" korean="1~40Lv 펠로우을 봉인 시킬 수 있는 봉인석으로 일반 등급 펠로우에게 사용이 가능하다.
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 봉인펠로우는 장비 옵션 부여, 특성력 증가</It_G>
+<It_G> - 한번 봉인된 펠로우는 다시 봉인해제가 불가능</It_G>" />
+	<block key="SF1_1_000_0002_name" korean="50레벨 일반 봉인석" />
+	<block key="SF1_1_000_0002_Description" korean="1~50Lv 펠로우을 봉인 시킬 수 있는 봉인석으로 일반 등급 펠로우에게 사용이 가능하다.
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 봉인펠로우는 장비 옵션 부여, 특성력 증가</It_G>
+<It_G> - 한번 봉인된 펠로우는 다시 봉인해제가 불가능</It_G>" />
+	<block key="SF1_2_000_0000_name" korean="20레벨 일반 봉인석" />
+	<block key="SF1_2_000_0000_Description" korean="1~20Lv 펠로우을 봉인 시킬 수 있는 봉인석으로 일반 등급 펠로우에게 사용이 가능하다.
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 봉인펠로우는 장비 옵션 부여, 특성력 증가</It_G>
+<It_G> - 한번 봉인된 펠로우는 다시 봉인해제가 불가능</It_G>" />
+	<block key="SF1_2_000_0001_name" korean="25레벨 봉인석" />
+	<block key="SF1_2_000_0001_Description" korean="1~25Lv 펠로우을 봉인 시킬 수 있는 봉인석으로 정예 등급 펠로우에게 사용이 가능하다.
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 봉인펠로우는 장비 옵션 부여, 특성력 증가</It_G>
+<It_G> - 한번 봉인된 펠로우는 다시 봉인해제가 불가능</It_G>" />
+	<block key="SF1_3_000_0000_name" korean="30레벨 일반 봉인석" />
+	<block key="SF1_3_000_0000_Description" korean="1~30Lv 펠로우을 봉인 시킬 수 있는 봉인석으로 일반 등급 펠로우에게 사용이 가능하다.
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 봉인펠로우는 장비 옵션 부여, 특성력 증가</It_G>
+<It_G> - 한번 봉인된 펠로우는 다시 봉인해제가 불가능</It_G>" />
+	<block key="SF1_3_000_0001_name" korean="30레벨 봉인석" />
+	<block key="SF1_3_000_0001_Description" korean="1~30Lv 펠로우을 봉인 시킬 수 있는 봉인석으로 일반 등급 펠로우에게 사용이 가능하다.
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 봉인펠로우는 장비 옵션 부여, 특성력 증가</It_G>
+<It_G> - 한번 봉인된 펠로우는 다시 봉인해제가 불가능</It_G>" />
+	<block key="FM_000_9000_name" korean="체험 : 20레벨 펫 주문서" />
+	<block key="FM_000_9000_Description" korean="1~20Lv 펠로우을 변형 시킬 수 있는 주문서로 일반 등급 펠로우에게 사용이 가능하다.
+우클릭 후 팻으로 변형하고 싶은 펠로우에 사용
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 펫으로 변경된 펠로우는 다시 펠로우로 변경이 불가능</It_G>" />
+	<block key="SF1_1_000_9000_name" korean="체험 : 20레벨 봉인석" />
+	<block key="SF1_1_000_9000_Description" korean="1~30Lv 펠로우을 봉인 시킬 수 있는 봉인석으로 일반 등급 펠로우에게 사용이 가능하다.
+(캐릭터 레벨 이하만 가능)
+
+<It_G> - 펠로우의 레벨과 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 봉인펠로우는 장비 옵션 부여, 특성력 증가</It_G>
+<It_G> - 한번 봉인된 펠로우는 다시 봉인해제가 불가능</It_G>" />
+	<block key="FM_000_0009_Name" korean="일반 펠로우 주문서" />
+	<block key="FM_000_0009_Description" korean="일반 등급 펠로우를 변형 시킬 수 있는 주문서
+하위 등급을 포함하여 캐릭터 레벨 이하의 펫만 펠로우로 변형할 수 있습니다.
+
+<It_G>우 클릭 후 펠로우로 변형하고 싶은 펫에 사용</It_G>" />
+	<block key="FM_000_0011_Name" korean="정예 펠로우 주문서" />
+	<block key="FM_000_0011_Description" korean="정예 등급 펠로우를 변형 시킬 수 있는 주문서
+하위 등급을 포함하여 캐릭터 레벨 이하의 펫만 펠로우로 변형할 수 있습니다.
+
+<It_G>우 클릭 후 펠로우로 변형하고 싶은 펫에 사용</It_G>" />
+	<block key="FM_000_0012_Name" korean="영웅 펠로우 주문서" />
+	<block key="FM_000_0012_Description" korean="영웅 등급 펠로우를 변형 시킬 수 있는 주문서
+하위 등급을 포함하여 캐릭터 레벨 이하의 펫만 펠로우로 변형할 수 있습니다.
+
+<It_G>우 클릭 후 펠로우로 변형하고 싶은 펫에 사용</It_G>" />
+	<block key="FM_000_0013_Name" korean="전설 펠로우 주문서" />
+	<block key="FM_000_0013_Description" korean="전설 등급 펠로우를 변형 시킬 수 있는 주문서
+하위 등급을 포함하여 캐릭터 레벨 이하의 펫만 펠로우로 변형할 수 있습니다.
+
+<It_G>우 클릭 후 펠로우로 변형하고 싶은 펫에 사용</It_G>" />
+	<block key="FM_000_0010_Name" korean="펫 변형 아이템(테스트)" />
+	<block key="FM_000_0010_Description" korean="펠로우 상태에서 펫으로 변형되는 아이템으로 테스트 용이다." />
+	<block key="SF1_1_000_0003_Name" korean="엑자란 영웅 봉인석" />
+	<block key="SF1_1_000_0003_Description" korean="영웅 등급 펠로우를 봉인 시킬 수 있는 봉인석
+하위 등급을 포함하여 캐릭터 레벨 이하의 펠로우만 봉인할 수 있습니다.
+
+<It_G>우 클릭 후 봉인하고자 하는 펠로우/펫에 사용</It_G>
+<It_G>봉인 펠로우는 장비 옵션 부여, 특성력 증가</It_G>
+<It_G>한번 봉인된 펠로우는 다시 봉인 해제 불가</It_G>" />
+	<block key="IT_FE_UF_0000_Name" korean="정예 봉인해제 주문석" />
+	<block key="IT_FE_UF_0000_Description" korean="봉인되어 있는 펠로우의 봉인을 해제할 수 있는 주문석
+정예 이하의 봉인된 펠로우만 가능하다.
+<O_Y>봉인 해제 시, 펫으로 펠로우 보관함에 등록된다.</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 캐릭터 레벨 이하의 펠로우만 봉인해제 가능</It_G>" />
+	<block key="IT_FE_UF_0001_Name" korean="영웅 봉인해제 주문석" />
+	<block key="IT_FE_UF_0001_Description" korean="봉인되어 있는 영웅 펠로우의 봉인을 해제할 수 있는 주문석
+영웅 이하의 봉인된 펠로우만 가능하다.
+<O_Y>봉인 해제 시, 펫으로 펠로우 보관함에 등록된다.</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 캐릭터 레벨 이하의 펠로우만 봉인해제 가능</It_G>" />
+	<block key="CA_FE_UF_0000_Name" korean="정예 봉인해제 주문석" />
+	<block key="CA_FE_UF_0000_Description" korean="봉인되어 있는 펠로우의 봉인을 해제할 수 있는 주문석
+정예 이하의 봉인된 펠로우만 가능하다.
+<O_Y>봉인 해제 시, 펫으로 펠로우 보관함에 등록된다.</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 캐릭터 레벨 이하의 펠로우만 봉인해제 가능</It_G>" />
+	<block key="CA_FE_UF_0001_Name" korean="영웅 봉인해제 주문석" />
+	<block key="CA_FE_UF_0001_Description" korean="봉인되어 있는 영웅 펠로우의 봉인을 해제할 수 있는 주문석
+영웅 이하의 봉인된 펠로우만 가능하다.
+<O_Y>봉인 해제 시, 펫으로 펠로우 보관함에 등록된다.</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>
+<It_G> - 캐릭터 레벨 이하의 펠로우만 봉인해제 가능</It_G>" />
+	<block key="IT_FE_EF_0000_Name" korean="정예 봉인석 추출봉" />
+	<block key="IT_FE_EF_0000_Description" korean="아이템에 장착된 정예 펠로우 봉인석을 추출 할 수 있는 추출봉으로 정예 이하의 펠로우만 가능하다.
+<O_Y>추출 시, 1레벨의 펫으로 펠로우 보관함에 등록</O_Y>
+<O_Y>추출 시, 강화 수치 및 강화 효과는 모두 초기화</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>" />
+	<block key="IT_FE_EF_0001_Name" korean="아케론 정예 봉인석 추출봉" />
+	<block key="IT_FE_EF_0001_Description" korean="아이템에 장착된 정예 펠로우 봉인석을 추출 할 수 있는 추출봉으로 정예 이하의 펠로우만 가능하다.
+<O_Y>추출 시, 1레벨의 펫으로 펠로우 보관함에 등록</O_Y>
+<O_Y>추출 시, 강화 수치 및 강화 효과는 모두 초기화</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>" />
+	<block key="IT_FE_EF_0002_Name" korean="정예 봉인석 추출봉III" />
+	<block key="IT_FE_EF_0002_Description" korean="정예 봉인석 추출봉III" />
+	<block key="IT_FE_EF_0003_Name" korean="정예 봉인석 추출봉IV" />
+	<block key="IT_FE_EF_0003_Description" korean="정예 봉인석 추출봉IV" />
+	<block key="IT_FE_EF_0004_Name" korean="정예 봉인석 추출봉V" />
+	<block key="IT_FE_EF_0004_Description" korean="정예 봉인석 추출봉V" />
+	<block key="IT_FE_EF_0005_Name" korean="영웅 봉인석 추출봉" />
+	<block key="IT_FE_EF_0005_Description" korean="아이템에 장착된 영웅 펠로우 봉인석을 추출 할 수 있는 추출봉으로 영웅 이하의 펠로우만 가능하다.
+<O_Y>추출 시, 1레벨의 펫으로 펠로우 보관함에 등록</O_Y>
+<O_Y>추출 시, 강화 수치 및 강화 효과는 모두 초기화</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>" />
+	<block key="IT_FE_EF_0006_Name" korean="아케론 영웅 봉인석 추출봉" />
+	<block key="IT_FE_EF_0006_Description" korean="아이템에 장착된 영웅 펠로우 봉인석을 추출 할 수 있는 추출봉으로 영웅 이하의 펠로우만 가능하다.
+<O_Y>추출 시, 1레벨의 펫으로 펠로우 보관함에 등록</O_Y>
+<O_Y>추출 시, 강화 수치 및 강화 효과는 모두 초기화</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>" />
+	<block key="IT_FE_EF_0007_Name" korean="영웅 봉인석 추출봉III" />
+	<block key="IT_FE_EF_0007_Description" korean="영웅 봉인석 추출봉III" />
+	<block key="IT_FE_EF_0008_Name" korean="영웅 봉인석 추출봉IV" />
+	<block key="IT_FE_EF_0008_Description" korean="영웅 봉인석 추출봉IV" />
+	<block key="IT_FE_EF_0009_Name" korean="영웅 봉인석 추출봉V" />
+	<block key="IT_FE_EF_0009_Description" korean="영웅 봉인석 추출봉V" />
+	<block key="CA_FE_EF_0000_Name" korean="축복받은 정예 봉인석 추출봉" />
+	<block key="CA_FE_EF_0000_Description" korean="아이템에 장착된 정예 펠로우 봉인석을 추출 할 수 있는 추출봉으로 정예 이하의 펠로우만 가능하다.
+<O_Y>추출 시, 1레벨의 펫으로 펠로우 보관함에 등록</O_Y>
+<O_Y>추출 시, 강화 수치 및 강화 효과는 모두 초기화</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>" />
+	<block key="CA_FE_EF_0001_Name" korean="정예 봉인석 추출봉II" />
+	<block key="CA_FE_EF_0001_Description" korean="정예 봉인석 추출봉II" />
+	<block key="CA_FE_EF_0002_Name" korean="정예 봉인석 추출봉III" />
+	<block key="CA_FE_EF_0002_Description" korean="정예 봉인석 추출봉III" />
+	<block key="CA_FE_EF_0003_Name" korean="정예 봉인석 추출봉IV" />
+	<block key="CA_FE_EF_0003_Description" korean="정예 봉인석 추출봉IV" />
+	<block key="CA_FE_EF_0004_Name" korean="영웅 봉인석 추출봉" />
+	<block key="CA_FE_EF_0004_Description" korean="아이템에 장착된 영웅 펠로우 봉인석을 추출 할 수 있는 추출봉으로 영웅 이하의 펠로우만 가능하다.
+<O_Y>추출 시, 1레벨의 펫으로 펠로우 보관함에 등록</O_Y>
+<O_Y>추출 시, 강화 수치 및 강화 효과는 모두 초기화</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>" />
+	<block key="CA_FE_EF_0005_Name" korean="축복받은 영웅 봉인석 추출봉" />
+	<block key="CA_FE_EF_0005_Description" korean="아이템에 장착된 영웅 펠로우 봉인석을 추출 할 수 있는 추출봉으로 영웅 이하의 펠로우만 가능하다.
+<O_Y>추출 시, 1레벨의 펫으로 펠로우 보관함에 등록</O_Y>
+<O_Y>추출 시, 강화 수치 및 강화 효과는 모두 초기화</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>" />
+	<block key="CA_FE_EF_0006_Name" korean="영웅 봉인석 추출봉II" />
+	<block key="CA_FE_EF_0006_Description" korean="영웅 봉인석 추출봉II" />
+	<block key="CA_FE_EF_0007_Name" korean="영웅 봉인석 추출봉III" />
+	<block key="CA_FE_EF_0007_Description" korean="영웅 봉인석 추출봉III" />
+	<block key="CA_FE_EF_0008_Name" korean="영웅 봉인석 추출봉IV" />
+	<block key="CA_FE_EF_0008_Description" korean="영웅 봉인석 추출봉IV" />
+	<block key="CA_FE_EF_0009_Name" korean="전설 봉인석 추출봉" />
+	<block key="CA_FE_EF_0009_Description" korean="아이템에 장착된 전설 펠로우 봉인석을 추출 할 수 있는 추출봉으로 전설 이하의 펠로우만 가능하다.
+<O_Y>추출 시, 1레벨의 펫으로 펠로우 보관함에 등록</O_Y>
+<O_Y>추출 시, 강화 수치 및 강화 효과는 모두 초기화</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>" />
+	<block key="CA_FE_EF_0010_Name" korean="축복받은 전설 봉인석 추출봉" />
+	<block key="CA_FE_EF_0010_Description" korean="아이템에 장착된 전설 펠로우 봉인석을 추출 할 수 있는 추출봉으로 전설 이하의 펠로우만 가능하다.
+<O_Y>추출 시, 1레벨의 펫으로 펠로우 보관함에 등록</O_Y>
+<O_Y>추출 시, 강화 수치 및 강화 효과는 모두 초기화</O_Y>
+
+<It_G> - 펠로우의 등급을 맞춰야만 사용 가능</It_G>" />
+</blocks>

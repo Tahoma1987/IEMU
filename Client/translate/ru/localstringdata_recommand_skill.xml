@@ -1,0 +1,24 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="rs_gd_deepstab_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_gd_strongatk_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_gd_upperatt_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_gd_swordforce_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_gd_drawing_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_tf_backattack_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_tf_sprigcut_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_tf_sprigtread_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_tf_leafcut_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_lightningshot_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_prudence_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_wildshot_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_gd_holyweblink_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_heartatk_description" korean="\u003cЦвет шрифта = \" />
+	<block key="rs_tf_knistorm_description" korean="\u003cЦвет шрифта = \" />
+</blocks>

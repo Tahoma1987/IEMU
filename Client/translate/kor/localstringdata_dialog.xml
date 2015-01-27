@@ -1,0 +1,914 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korea_korean -->
+<!-- china_chinese -->
+<!-- america_english -->
+<blocks>
+	<keys num_keys="4" key1="key" key2="korea_korean" key3="china_chinese" key4="america_english" />
+	<block key="Dialog_1010000_Title" korea_korean="일이삼사오육칠팔구십일이삼사오육칠팔구십일이삼" />
+	<block key="Dialog_Answer_Common_Title_0" korea_korean="대화 완료" />
+	<block key="Dialog_1010001_Title" korea_korean="나는 섀도우 클랜의 크로우라고 하오. 어서 이 곳을 탈출하도록 합시다." />
+	<block key="Dialog_1010001_Text0" korea_korean="나는 섀도우 클랜의 크로우라고 하오. 어서 이 곳을 탈출하도록 합시다." />
+	<block key="Dialog_1010001_Answer_0_Text" korea_korean="무장하기" />
+	<block key="Dialog_1010001_Answer_1_Text" korea_korean="얼음 생명체를 물리쳐라" />
+	<block key="Dialog_1010001_Answer_2_Text" korea_korean="비행선이 있는 장소" />
+	<block key="Dialog_1030001_Title" korea_korean="정찰대원 루이" />
+	<block key="Dialog_1030001_Text0" korea_korean="지원군을 보내준다고 했는데. 당신 혼자는 아니겠지?<br><br>기사단장님에게 다시 한번 전갈을 보내야 겠소. 그러면, 훈련중인 병력이라도 꼭 보내주실거라 기대하오.<br><br>이 곳은 현재 매우 심각한 상황이오.<br><br>얼마 전부터 브라기 본거지에서 가끔씩 함성 소리가 들리고 있는데, 저들의 전투 준비가 마무리 되고 있는 것 같소.<br><br>당장 야영지 주변의 위험과도 싸워야 할 일이 많으니 나를 도와주시겠소?" />
+	<block key="Dialog_1030001_Answer_0_Text" korea_korean="엘리멘탈 종적의 생존자" />
+	<block key="Dialog_1030001_Answer_1_Text" korea_korean="포자샘물 마을의 위협" />
+	<block key="Dialog_1030001_Answer_2_Text" korea_korean="군단장 아크라신" />
+	<block key="Dialog_1030001_Answer_3_Text" korea_korean="원래 위치로 귀환" />
+	<block key="Dialog_1030002_Title" korea_korean="일리시야" />
+	<block key="Dialog_1030002_Text0" korea_korean="나를 구출하러 오셨나요? 엘로힘이시여. 정말 감사합니다." />
+	<block key="Dialog_1030002_Answer_0_Text" korea_korean="종족의 힘을 깨닫다" />
+	<block key="Dialog_1030003_Title" korea_korean="살아남은 알렉스" />
+	<block key="Dialog_1030003_Text0" korea_korean="나의 이야기를 듣고, 이 원한을 풀어다오. 우리는모렌타에서 생산되는 버섯을 약탈하던 하찮은 암살자들이었어. 그 저주받은 물건이 나타나기 전까지는 말이지." />
+	<block key="Dialog_1030003_Answer_0_Text" korea_korean="얼어붙은 폐허의 진실" />
+	<block key="Dialog_1030004_Title" korea_korean="현명한 바글라글" />
+	<block key="Dialog_1030004_Text0" korea_korean="모렌타에 살고 있던 우리 머쉬들은 일부에 걸려있던 정신병이 다수로 퍼지면서, 탈출하여 이곳에서 인간들의 보호를 받으며 살고 있지요. 하지만, 언젠가는 모렌타로 돌아가 예전처럼 평화롭게 살게 될 것입니다." />
+	<block key="Dialog_1030004_Answer_0_Text" korea_korean="아크라신의 보물상자" />
+	<block key="Dialog_2020002_Title" korea_korean="음식잡화 상인" />
+	<block key="Dialog_2020002_Text0" korea_korean="싼 물건 많이 있어요." />
+	<block key="Dialog_2020002_Answer_0_Text" korea_korean="음식상점" />
+	<block key="Dialog_2020002_Answer_1_Text" korea_korean="잡화상점" />
+	<block key="Dialog_1020001_Title" korea_korean="비행선 선장 프레니글" />
+	<block key="Dialog_1020001_Text0" korea_korean="브라기 놈들이 우리 비행선을 공격한 것이 분명해! 
+<br><br>
+나의 원래 계획은 하카나스 성으로 곧바로 가는 것이었는데, 자네를 구하기 위해 위험을 감수하고 사란트의 성에 간 것이야. 
+<br><br>
+그 무시무시한 성을 운좋게 떠나왔는데, 정령의 숲을 지나는 순간 브라기가 쏜 석궁에 비행선이 추락하고 말았어! 
+<br><br>
+부상자가 많아서 큰일이야. 빨리 이 위험한 상황을 정리하고, 우리를 공격하려는 주변의 야생동물과 맞서 싸워야 해." />
+	<block key="Dialog_1020002_Title" korea_korean="크로쿤족 기관장 트라굴란" />
+	<block key="Dialog_1020002_Text0" korea_korean="비행선이 다시 하늘로 날아 오를 수 있도록 핵심 장비를 수리하고 있어요.<br><br>엔진 실린더는 부서졌고, 구동축 증기 파이프는 뒤틀려서 완벽하게 수리하기가 어렵군요.<br><br>핵심 장비가 고쳐져야 엔진이 살아날텐데 말입니다. 쉽지 않은 일이겠죠?" />
+	<block key="Dialog_1020003_Title" korea_korean="섀도우 클랜 신스" />
+	<block key="Dialog_1020003_Text0" korea_korean="추락의 충격에서 회복이 되셨나요? 이 곳이 어디인지 말씀드리죠.<br><br>정령의 숲은 높은 산으로 둘러싸인 내륙에 위치하고 있어서 하카나스 왕국의 손길이 미치지 못하는 곳으로 지금은 약탈자 브라기가 지배하고 있는 숲이랍니다.<br><br>저는 섀도우클랜 단장님이신 크로우님을 대신해서 이 곳의 경비를 서고 있어요." />
+	<block key="Dialog_1020003_Answer_0_Text" korea_korean="" />
+	<block key="Dialog_1020004_Title" korea_korean="엘프 어린이" />
+	<block key="Dialog_1020004_Text0" korea_korean="저랑 놀아주실래요?" />
+	<block key="Dialog_1020005_Title" korea_korean="엘프 여자" />
+	<block key="Dialog_1020005_Text0" korea_korean="안녕하세요." />
+	<block key="Dialog_1020006_Title" korea_korean="수호신 펠로우" />
+	<block key="Dialog_1020006_Text0" korea_korean="모든 펠로우가 수호신이 될 수 있는건 아닙니다." />
+	<block key="Dialog_1020007_Title" korea_korean="엘프 남자" />
+	<block key="Dialog_1020007_Text0" korea_korean="혹시 근처에 마을을 보셨습니까?
+이주할 곳을 찾아야 하는데.." />
+	<block key="Dialog_1020009_Title" korea_korean="유적 조사단장" />
+	<block key="Dialog_1020009_Text0" korea_korean="브라기들 때문에 조사에 상당한 차질이 있답니다. 조사할 것들은 아직 산더미처럼 쌓여있는데 말이죠." />
+	<block key="Dialog_1020010_Title" korea_korean="연구학자" />
+	<block key="Dialog_1020010_Text0" korea_korean="아까 작성했던 보고서를 어디에 놓았더라.." />
+	<block key="Dialog_1020011_Title" korea_korean="왕립 조사단원" />
+	<block key="Dialog_1020011_Text0" korea_korean="정령의 숲은 아직도 조사해야 할 부분이 많이 남아있는 것 같군요. 그러니 하카나스 왕국에서 큰 관심을 가지는 것이 아니겠습니까?" />
+	<block key="Dialog_1010003_Title" korea_korean="비행선 선장" />
+	<block key="Dialog_1010003_Text0" korea_korean="어서 서둘러야 합니다" />
+	<block key="Dialog_1020012_Title" korea_korean="섀도우클랜 단장 크로우" />
+	<block key="Dialog_1020012_Text0" korea_korean="오…! 당신은.. 믿을 수가 없군! 위험을 헤치고 여기까지 나를 찾아오다니….  
+<br><br>
+나는 사악한 화염 골렘과 브라기 일당이 이 관문을 점령하지 못하도록 이 곳을 지키고 있었소. 나는 계속해서 다른 사람이 정령의 숲을 탈출 하는 것을 도와주어야 할 것 같소. 
+<br><br>
+그러니 당신은 서둘러 라니아 공주에 대한 소식을 왕국에 있는 국왕 폐하에게 알려야 하오." />
+	<block key="Dialog_1020013_Title" korea_korean="비행선 선원 알렌" />
+	<block key="Dialog_1020013_Text0" korea_korean="정신을 차리셨군요. 몸은 괜찮습니까? 
+<br><br>
+우리는 정령의 숲 한가운데에 추락했습니다. 어떤 놈들이 우리가 탄 비행선을 공격한 것 같군요." />
+	<block key="Dialog_1020014_Title" korea_korean="숲의 안내자 엘프" />
+	<block key="Dialog_1020014_Text0" korea_korean="조심하십시오! 이 주변 숲은 온통 위험한 기운으로 둘러싸여 있습니다. 엘로힘의 가호가 함께 하기를 바라겠습니다." />
+	<block key="Dialog_1020014_Answer_0_Text" korea_korean="불이 삼킨 유적으로 가기" />
+	<block key="Dialog_1020014_Answer_1_Text" korea_korean="얼어붙은 폐허로 가기" />
+	<block key="Dialog_1020014_Answer_2_Text" korea_korean="불이 삼킨 유적에 대하여" />
+	<block key="Dialog_1020014_Answer_3_Text" korea_korean="얼어붙은 폐허에 대하여" />
+	<block key="Dialog_1020015_Title" korea_korean="유적 조사단장" />
+	<block key="Dialog_1020015_Text0" korea_korean="하지만, 카렌디아의 성물을 보고는 마음이 바뀌어 그 것을 훔쳐갔지요." />
+	<block key="Dialog_1020015_Answer_0_Text" korea_korean="흥미로운 이야기군요." />
+	<block key="Dialog_1020016_Title" korea_korean="유적 조사단장" />
+	<block key="Dialog_1020016_Text0" korea_korean="생각할수록 분하군요." />
+	<block key="Dialog_1020016_Answer_0_Text" korea_korean="카렌디아의 성물" />
+	<block key="Dialog_1020017_Title" korea_korean="유적 조사단장" />
+	<block key="Dialog_1020017_Text0" korea_korean="유물을 찾아왔다고 하는데 어디 봅시다." />
+	<block key="Dialog_1020017_Answer_0_Text" korea_korean="여기 있습니다." />
+	<block key="Dialog_1020018_Title" korea_korean="유적 조사단장" />
+	<block key="Dialog_1020018_Text0" korea_korean="아! 이것은 카렌디아의 성물이 맞군요." />
+	<block key="Dialog_1020018_Answer_0_Text" korea_korean="네." />
+	<block key="Dialog_1020019_Title" korea_korean="유적 조사단장" />
+	<block key="Dialog_1020019_Text0" korea_korean="브라기 샤먼을 혼내주셨다니 정말 기쁩니다." />
+	<block key="Dialog_1020019_Answer_0_Text" korea_korean="카렌디아의 성물." />
+	<block key="Dialog_1020020_Title" korea_korean="배신한 토벌대원" />
+	<block key="Dialog_1020020_Text0" korea_korean="이제와서 돌아가봤자, 군법에 의해 처벌될 뿐이지.." />
+	<block key="Dialog_1020020_Answer_2_Text" korea_korean="어떻게 하면 유물을 주겠소?" />
+	<block key="Dialog_1020022_Title" korea_korean="배신한 토벌대원" />
+	<block key="Dialog_1020022_Text0" korea_korean="으읔 졌다.. 졌어. 카렌디아의 성물을 돌려주겠다." />
+	<block key="Dialog_1020022_Answer_0_Text" korea_korean="잘 생각했소." />
+	<block key="Dialog_1020090_Title" korea_korean="금을 좋아하는 머쉬" />
+	<block key="Dialog_1020090_Text0" korea_korean="이거 비밀인데 누구한테도 말하면 안되요!! 세상에서 가장 빛나는 금을 내가 가지고 있어요. 헤헤헤헷~" />
+	<block key="Dialog_1020091_Title" korea_korean="대장장이 기어론" />
+	<block key="Dialog_1020091_Text0" korea_korean="인간. 그 무기 손 좀 봐줄까?" />
+	<block key="Dialog_1020092_Title" korea_korean="하카나스 기사" />
+	<block key="Dialog_1020092_Text0" korea_korean="동굴안에 무엇이 존재하는지 알아 봐야겠습니다." />
+	<block key="Dialog_1020093_Title" korea_korean="하카나스 파견병사" />
+	<block key="Dialog_1020093_Text0" korea_korean="대장님께서 동굴에 관한 정보를 줄 수 있는 분을 찾는 중이십니다." />
+	<block key="Dialog_1020021_Title" korea_korean="원소의 정령" />
+	<block key="Dialog_1020021_Text0" korea_korean="그대 안에 또 다른 기운이 느껴지는군." />
+	<block key="Dialog_1020025_Title" korea_korean="초급 전사 스킬 마스터" />
+	<block key="Dialog_1020025_Text0" korea_korean="평소에 열심히 단련하면 어떤 위급한 상황에서도 용기를 잃지 않을 수 있지! 자네, 전사 수련에 관한 책이 필요한가?" />
+	<block key="Dialog_1020026_Title" korea_korean="초급 사제 스킬 마스터" />
+	<block key="Dialog_1020026_Text0" korea_korean="우리도 하카나스로 가던 중이었죠. 우리는 이런 상황에 처하더라도 언제 어디서든 저희 본분을 다 해야 한답니다. 혹시, 사제 수련에 관한 책이 필요한가요?" />
+	<block key="Dialog_1020027_Title" korea_korean="크로쿤족 기관장 하말란" />
+	<block key="Dialog_1020027_Text0" korea_korean="브라기가 거대 석궁으로 자신들의 숲을 날아가는 비행선을 공격한다는 이야기를 다른 기관장에게 들은 적이 있었죠.<br><br>조심했어야 되는데, 정령의 숲을 날아가면서 비행고도가 너무 낮았어요.<br><br>약탈자 브라기가 숲에서 우리를 찾아내기 전에 비행선이 수리되어야 할텐데.. 어려운 상황입니다." />
+	<block key="Dialog_1020029_Title" korea_korean="고기굽는 상인 견습생" />
+	<block key="Dialog_1020029_Text0" korea_korean="브라기 놈들 때문에 고립된 상황만 아니라면, 나름 소풍 분위기 였을 텐데 말이야.." />
+	<block key="Dialog_1020030_Title" korea_korean="구경 중인 상인 견습생" />
+	<block key="Dialog_1020030_Text0" korea_korean="잘 좀 돌려봐. 이 친구야! 고기 타잖아!" />
+	<block key="Dialog_1020031_Title" korea_korean="크로쿤 기관장" />
+	<block key="Dialog_1020031_Text0" korea_korean="이렇게나 엉망이 되다니.. 어디서부터 작업을 시작해야 할 지 모르겠군." />
+	<block key="Dialog_1020032_Title" korea_korean="크로우의 펠로우 레오" />
+	<block key="Dialog_1020032_Text0" korea_korean="크르릉.. 크릉. 킁킁" />
+	<block key="Dialog_1020033_Title" korea_korean="유적 조사단원" />
+	<block key="Dialog_1020033_Text0" korea_korean="이 유적은 고대 엘프 문양 장식이 음각으로 새겨져 있는 것으로 봐서.. 앗, 깜짝이야! 당신 누구세요?" />
+	<block key="Dialog_1020034_Title" korea_korean="멘디옴 견습 상인" />
+	<block key="Dialog_1020034_Text0" korea_korean="어서오세요. 멘디옴 상인 연합의 정령의 숲, 비행선 추락지 지점입니다. 비록 급조됐지만, 없는 물건은 없답니다." />
+	<block key="Dialog_1020035_Title" korea_korean="멘디옴 호객꾼" />
+	<block key="Dialog_1020035_Text0" korea_korean="어서옵셔! 어떤 급박한 상황이 닥치더라도 고객의 편의를 최우선으로! 멘디옴 상점입니다." />
+	<block key="Dialog_1020038_Title" korea_korean="신룡 기사단장 파올로 로어먼" />
+	<block key="Dialog_1020038_Text0" korea_korean="브라기 토벌을 위해 하카나스 성을 떠날 때는 이렇게 긴 시간을 이 곳에서 보낼 줄은 몰랐어. 브라기를 지배하는 것은 화염 골렘이라는 사실도 알게 되었네.<br><br>화염 골렘을 무찌르기 위해 불이 삼킨 유적으로 들어갔다가 많은 신룡기사가 목숨을 잃었네. 그렇지만, 우리는 최선을 다할 것이야.<br><br>브라기는 우리를 공격하기 위해 계속해서 거대 석궁을 야영지쪽으로 발사하고 있지. 자네가 우리를 도와서 브라기와 싸워준다면, 우리도 그대를 도와주겠네." />
+	<block key="Dialog_1020038_Text0_F" korea_korean="브라기 토벌을 위해 하카나스 성을 떠날 때는 이렇게 긴 시간을 이 곳에서 보낼 줄은 몰랐어. 진정한 위협은 브라기 자체의 힘이 아니라 화염골렘이라는 것도 몰랐고 말이야. 우선 화염골렘을 정리하지 않으면 브라기와 아무리 싸워도 끝이 없어.
+<br><br>
+화염 골렘을 무찌르기 위해 불이 삼킨 유적으로 들어갔다가 많은 신룡기사가 목숨을 잃었네. 하지만, 우리는 신룡 기사단이야. 포기라는 말은 있을 수 없지.
+<br><br>
+브라기는 우리를 공격하기 위해 계속해서 거대 석궁을 야영지쪽으로 발사하고 있어 곤란을 겪고 있네. 기동력이 떨어지는 기사로는 대처에 한계가 있어. 자네가 브라기를 제압하는 데 도움을 준다면 우리도 자네를 도와주겠네." />
+	<block key="Dialog_1020038_Text1" korea_korean="자네가 화염골렘을 처치해준다면 큰 도움이 될 걸세.
+<br><br>
+우리 신룡 기사단이 아무리 용맹하다지만 이곳에서 브라기와 싸운 기간이 너무 길어졌어. 화염골렘을 처치하러 나간 인원들이 복귀하지도 못했고.
+<br><br>
+살아있는 대원을 찾아오기만 하더라도 사기를 높일 수 있을 걸세. 힘내주게." />
+	<block key="Dialog_1020039_Title" korea_korean="브라기 토벌 대원" />
+	<block key="Dialog_1020039_Text0" korea_korean="응? 당신, 처음 보는 얼굴인데! 조사대원이오?" />
+	<block key="Dialog_1020040_Title" korea_korean="브라기 토벌 대원" />
+	<block key="Dialog_1020040_Text0" korea_korean="브라기라면 몰라도, 유령은 절대 마주치고 싶지 않소! 으흐, 생각만해도 무섭군." />
+	<block key="Dialog_1020041_Title" korea_korean="크로쿤 대장장이 스밀란" />
+	<block key="Dialog_1020041_Text0" korea_korean="세상에 살고있는 여러 종족 중에서 우리 크로쿤 족은 손재주가 뛰어나 대장 기술에서는 최고의 능력을 가졌다고 볼 수 있지요.<br><br>화염 골렘이 지하 통로를 지키고 있어서 하카나스 왕국으로 쉽게 돌아갈 수 없는 상황에서 기사단의 갑옷과 장비를 관리하는 것은 우리의 몫이죠." />
+	<block key="Dialog_1020042_Title" korea_korean="멘디옴 마차 상인" />
+	<block key="Dialog_1020042_Text0" korea_korean="안녕하세요. 뭔가 필요한 물건이라도 있나요?" />
+	<block key="Dialog_1020043_Title" korea_korean="중급 전사 스킬 마스터" />
+	<block key="Dialog_1020043_Text0" korea_korean="그대의 검에 힘을 불어 넣을 강한 스킬을 알고 싶다면, 내가 갖고 있는 책들이 많은 도움이 될 걸세!" />
+	<block key="Dialog_1020044_Title" korea_korean="중급 사제 스킬 마스터" />
+	<block key="Dialog_1020044_Text0" korea_korean="더 강한 사제가 되기 위해서는 성스러운 책의 도움이 절대적으로 필요하죠." />
+	<block key="Dialog_1020045_Title" korea_korean="유적 조사단원" />
+	<block key="Dialog_1020045_Text0" korea_korean="조사할 것은 너무나 많은데, 이곳에서 죽치고 있어야 하니, 정말 따분하네요." />
+	<block key="Dialog_1020046_Title" korea_korean="유적 조사단원" />
+	<block key="Dialog_1020046_Text0" korea_korean="정령의 숲에는 아주 옛날에 버려진 유적들이 많이 있죠. 우린 그 유적을 조사하러 이곳에 왔답니다." />
+	<block key="Dialog_1020047_Title" korea_korean="크로쿤 대장장이 쿠할란" />
+	<block key="Dialog_1020047_Text0" korea_korean="브라기와 싸우면서 이 야영지를 만들었었지. 그런데, 브라기 감독관과 그 부하들의 공격을 받았을 때 분신과도 같은 내 망치를 잃어버렸어.<br><br>브라기 감독관이 내 망치를 집어드는 모습을 똑똑히 보았지.<br><br>망치를 잃어버린 뒤로는 작업 속도도 예전 같지 않고, 신이 나지도 않아. 어릴적부터 작업할 때 사용하던 망치라 다른 망치에는 손에 딱맞는 느낌이 없단 말이지." />
+	<block key="Dialog_1020047_Answer_7_Text" korea_korean="크로쿤 족 대장장이와 대화하기" />
+	<block key="Dialog_1020047_Answer_8_Text" korea_korean="크로쿤 족 대장장이와 대화하기" />
+	<block key="Dialog_1020048_Title" korea_korean="숲의 안내자 베리버프" />
+	<block key="Dialog_1020048_Text0" korea_korean="나는 숲이나 정글 혹은 어딘가에 숨겨져 있는 위험과 행운을 찾아주기 위해 신룡 기사단의 일원이 되었지.<br><br>정령의 숲에 살고 있는 브라기는 흥미로운 존재야. 그들의 세계를 지배하고 있는 원리는 탐욕과 폭력이라네.<br><br>브라기는 숲을 망치고, 생명체를 죽이고, 신이 우리에게 선사한 모든 자원을 훼손하고 있어.<br><br>브라기와 싸워서 이 모든 소중한 것들을 지켜야 하네.<br><br>성스러운 엘로힘의 가호가 늘 함께하길!" />
+	<block key="Dialog_1020049_Title" korea_korean="유적 조사단원" />
+	<block key="Dialog_1020049_Text0" korea_korean="우앙! 짜증나 짜증나. 기껏 열심히 발굴 조사를 했더니만, 별 이상한 것들이 나타나서는 방해만 하고 있어, 정말!!" />
+	<block key="Dialog_1020050_Title" korea_korean="신룡 기사단장 로어먼" />
+	<block key="Dialog_1020050_Text0" korea_korean="이곳까지 혼자서 오다니, 자네 굉장히 강한가보군. 바로 이곳에서 모든 일이 시작되었다네!" />
+	<block key="Dialog_1020050_Answer_0_Text" korea_korean="화염골렘의 부하" />
+	<block key="Dialog_1020050_Answer_1_Text" korea_korean="화염골렘" />
+	<block key="Dialog_1020050_Answer_2_Text" korea_korean="원래 위치로 귀환" />
+	<block key="Dialog_1020051_Title" korea_korean="이동수단 관리인" />
+	<block key="Dialog_1020051_Text0" korea_korean="저는 다른 마을로 재빨리 이동하는 탑승 펠로우를 다루는 사람입죠! 물론, 지금은 탑승 펠로우들을 데려오지 않았기 때문에 사용할 수 없지만 말입니다." />
+	<block key="Dialog_1020052_Title" korea_korean="포탈 이동사 로메로" />
+	<block key="Dialog_1020052_Text0" korea_korean="이 포탈을 이용하면, 네드 대륙의 정해진 장소로 순식간에 이동을 할 수가 있다네.<br><br>그런데, 아직은 기능이 완전하지 않아서 작동이 되지 않아. 하지만, 가끔은 제대로 작동할 때가 있지.<br><br>포탈이 고쳐지면 브라기의 공격을 피해서 모두가 이 숲을 빠져나갈 수 있을텐데 말이야." />
+	<block key="Dialog_1020052_Answer_0_Text" korea_korean="유적지 폐허 야영지로 가기" />
+	<block key="Dialog_1020052_Answer_1_Text" korea_korean="광채나무 숲 야영지로 가기" />
+	<block key="Dialog_1020052_Answer_2_Text" korea_korean="사란트의 성으로 가기" />
+	<block key="Dialog_1020053_Title" korea_korean="신룡 기사단 부관 알렉스" />
+	<block key="Dialog_1020053_Text0" korea_korean="고립된 후 우리는 정령의 숲을 탐험하다가 고대 유적지 폐허 남부에서 어둠에서 태어난 생명체가 존재하는 것을 발견했소.<br><br>살아있을 때 원통함과 한을 안고 죽은 이 유령들은 사악한 기운을 뿜어내며 무차별로 살아있는 생명체를 공격하오.<br><br>
+나는 이 유령들이 언제 대규모로 기사단 야영지까지 공격할지 몰라서 부하들과 경계를 서고 있소." />
+	<block key="Dialog_1020053_Answer_6_Text" korea_korean="물약을 구해왔다고 말한다" />
+	<block key="Dialog_1020054_Title" korea_korean="정찰대원 보리스" />
+	<block key="Dialog_1020054_Text0" korea_korean="부관 알렉스님과 함께 이 곳에서 며칠동안 경계를 서고 있소.<br><br>가끔씩 밤에 유령이 우리를 공격하는데, 그 으스스한 느낌이란 꿈에 나타날까 두렵소. 신룡 기사단 정찰대원 중에 나같은 겁쟁이는 없는데 말이오.<br><br>생각해보니 유령 때문에 겁쟁이가 된 것 같은데, 뭔가 용기를 주는 뭔가가 필요하오.<br><br>나를 도와준다면 그 은혜는 잊지 않겠소." />
+	<block key="Dialog_1020056_Title" korea_korean="정찰대원 세린" />
+	<block key="Dialog_1020056_Text0" korea_korean="이 숲은 아름다운 곳이지요?<br><br>숲의 아름다운 모습에 방심하면 안됩니다.<br><br>
+우리는 사악한 정령들과 싸우면서, 언덕 너머에 있는 브라기 본거지의 동태를 살피고 있습니다.<br><br>브라기 본거지에는 브라기 정예 병력과 브라기의 우두머리인 족장이 있지요." />
+	<block key="Dialog_1020056_Answer_6_Text" korea_korean="정찰대원 세린과 대화하기" />
+	<block key="Dialog_1020057_Title" korea_korean="숲의 안내자 카일라스" />
+	<block key="Dialog_1020057_Text0" korea_korean="우리 엘프가 고대에 평화롭게 왕국의 숲에 살고 있을 때는 자연이 말하는 소리를 들을 수가 있었지.<br><br>나무나 돌멩이가 말하는 소리를 말이야.<br><br>많은 엘프가 타락해버린 지금은 아무 소리도 들을 수가 없어. 언제가 타락한 엘프들을 만나게 되면 조심하도록 하게. <br><br>그들의 이름은 카오스 엘프야.<br><br>성스러운 엘로힘의 가호가 늘 함께하길!" />
+	<block key="Dialog_1020059_Title" korea_korean="비행선 선원 카나" />
+	<block key="Dialog_1020059_Text0" korea_korean="어머. 깨어나셨군요.<br><br>지금은 비행선이 추락한 지 8시간 정도 지났답니다. 보다시피 추락시의 강한 충격으로 부상당한 사람이 많아요.<br><br>일단은 부상자들을 한 곳에 모아 놓았지만, 상처를 치료할 의약품과 도움의 손길이 많이 부족해요." />
+	<block key="Dialog_1020060_Title" korea_korean="섀도우클랜 프롬" />
+	<block key="Dialog_1020060_Text0" korea_korean="일이 급하게 되었어요. 사란트에게 잡혀간 라니아 공주님을 구하기 위해 크로우님과 사란트의 성에 갔지만 일은 실패하고 말았지요. 대신에, 감옥에서 당신을 구출하게 되었지만 말이에요.<br><br>
+서둘러 이곳을 탈출하여 라니아 공주에 대한 소식을 하카나스 왕국에 있는 국왕 폐하에게 알려야 해요. 
+<br><br>그런데, 추락 현장에서 늑대들에게 납치된 사람들을 놔두고 쉽게 떠날 수가 없군요. 저기를 보세요. 사나운 늑대가 부근을 배회하고 있어요." />
+	<block key="Dialog_1020061_Title" korea_korean="신룡 기사단원 롤렌" />
+	<block key="Dialog_1020061_Text0" korea_korean="자세를 낮추시오!<br><br>거대 석궁이 떨어지고 있소!<br><br>이곳은 브라기 전투병과 맞서고 있는 최전방 방어선이오. 브라기는 이 방어선을 뚫기 위해 거대 석궁을 이용해 이 곳을 계속해서 공격하고 있소.<br><br>이곳이 뚫린다면 우리는 야영지를 버리고 정처없이 떠돌아야 된다오.<br><br>절대 그런 일이 벌어져서는 안될 것이오. 우리 모두는 목숨을 바쳐 이 방어선을 지켜낼것이오." />
+	<block key="Dialog_1020071_Title" korea_korean="불이 삼킨 유적 포탈" />
+	<block key="Dialog_1020071_Text0" korea_korean="불이 삼킨 유적으로 들어갈 수 있는 포탈입니다." />
+	<block key="Dialog_1020071_answer_0_text" korea_korean="불이 삼킨 유적 들어가기" />
+	<block key="Dialog_1020072_Title" korea_korean="정령의 숲 귀환 포탈" />
+	<block key="Dialog_1020072_Text0" korea_korean="정령의 숲으로 돌아갈 수 있는 포탈입니다." />
+	<block key="Dialog_1020072_answer_0_text" korea_korean="정령의 숲으로 귀환하기" />
+	<block key="Dialog_1020073_Title" korea_korean="정찰대원 닐스" />
+	<block key="Dialog_1020073_Text0" korea_korean="이곳에서 오랫동안 약탈자 브라기와 싸워왔소.<br><br>많은 숫자의 적을 쓰러뜨렸지만 아직도 전투는 끝날 조짐이 보이지 않는 구려.<br><br>할아버지도 정찰대원이셔서 신룡 기사단에 지원했지만, 이렇게 긴 시간 동안 왕국으로 돌아가지 못할 줄 몰랐소." />
+	<block key="Dialog_1020074_Title" korea_korean="정찰대원 마커스" />
+	<block key="Dialog_1020074_Text0" korea_korean="신룡 기사단은 하카나스 국왕의 명령을 받들어 왕국을 수호하며 적들에게 성스러운 심판을 내리고 있소.<br><br>그 시초는 빛의 전쟁 시기에 용장 아칼두스와 그의 부하들이오. 이들이 하카나스 왕국을 세우는 밑거름이 되었지.<br><br>우리는 과거의 긍지와 자긍심을 절대 잃지 않을 것이오." />
+	<block key="Dialog_1020075_Title" korea_korean="정찰대원 누메릭스" />
+	<block key="Dialog_1020075_Text0" korea_korean="우리의 적은 악마의 화신 사란트와 그를 따르는 6개의 정예 군단이오.<br><br>사란트는 악의 힘에 물들기 전에 왕국을 이끄는 고귀한 마법사였지. 하지만, 자신의 몸 속에 흐르는 악마의 피를 느끼고 자신을 사랑하던 왕국민을 향해 피로서 복수하였소.<br><br>6군단은 인간이 상대하기 힘들 정도로 월등한 신체 조건을 가진 괴물들이지. 그들과 맞서 싸우기 위해서는 피나는 훈련이 필요하다오." />
+	<block key="Dialog_1020076_Title" korea_korean="정찰대원 플로릭스" />
+	<block key="Dialog_1020076_Text0" korea_korean="브라기와의 전투가 언제 끝이 날지 모르겠소. 누군가 브라기 거대 석궁을 파괴해주면 좋을텐데…<br><br>그 거대 석궁 때문에 많은 피해를 입고 있소.<br><br>이 길을 따라가면 거대 석궁의 공격을 받고 있는 신룡기사들을 직접 볼 수 있을 것이오." />
+	<block key="Dialog_1020077_Title" korea_korean="정찰대원 일리아스" />
+	<block key="Dialog_1020077_Text0" korea_korean="이 길을 따라 가면 브라기 주둔지를 우회해서 갈 수 있소.<br><br>그리고 고대 유적지 폐허 남부에 도착할 수 있지. 그 곳에는 우리 신룡 기사단이 경계를 서고 있소.<br><br>내 친구 정찰대원 보리스도 그 곳에 있지." />
+	<block key="Dialog_1020078_Title" korea_korean="정찰대원 커티스" />
+	<block key="Dialog_1020078_Text0" korea_korean="용감한 사람이군.<br><br>여기서부터는 부라기와 맞서고 있는 지역이오. 마음의 준비를 단단히 하시오.<br><br>거대 석궁이 떨어지는 곳에 있으면 큰 피해를 당하니 조심하시오." />
+	<block key="Dialog_1020079_Title" korea_korean="정찰대원 쿤타리스" />
+	<block key="Dialog_1020079_Text0" korea_korean="안녕하시오? 내가 유용한 정보를 가르쳐 주겠소.<br><br>유령 중에서 성지 관리자라고 불리는 종류는 일반 사람의 눈에는 그 모습이 보이지가 않소.<br><br>이 성지 관리자와 만나게 되면 도망가는게 최고요.<br><br>성지 관리자는 고대 유적지 폐허 밖으로 나오는 일은 없으니 다행이라고 할 수 있지." />
+	<block key="Dialog_1020080_Title" korea_korean="사제 케플리 싱어" />
+	<block key="Dialog_1020080_Text0" korea_korean="누.. 누군가요? 
+<br><br>
+나… 나를 도와주러.. 왔.. 나요?" />
+	<block key="Dialog_1020080_Text1" korea_korean="드디어! 정령의 숲을 지배하는 사악한 화염 골렘을 처치했군요!! 
+<br><br>
+당신 덕분이에요! 우리가 해냈어요!" />
+	<block key="Dialog_1020081_Title" korea_korean="정찰대원 콘스란스" />
+	<block key="Dialog_1020081_Text0" korea_korean="당… 당신은? 누… 누구요..?
+<br><br>
+우리를 도와주시오." />
+	<block key="Dialog_1020082_Title" korea_korean="브라기 채집꾼 이누기" />
+	<block key="Dialog_1020082_Text0" korea_korean="<br><br>
+[아무 말이 없다]
+<br><br>" />
+	<block key="Dialog_1020083_Title" korea_korean="야수 조련사 엑셀" />
+	<block key="Dialog_1020083_Text0" korea_korean="크르르르, 카릉! 아, 아차, 미, 미아, 미안.
+<br><br>
+도, 동물, 들하고 너무 오, 오래…있어어, 서! 사람 말, 하기, 힘들어.
+<br><br>
+무, 무슨? 일, 있어?" />
+	<block key="Dialog_1020083_Answer_5_Text" korea_korean="길들이는 방법" />
+	<block key="Dialog_1020083_Answer_6_Text" korea_korean="펠로우 상점" />
+	<block key="Dialog_1020083_Answer_7_Text" korea_korean="펠로우 성장 봉인 해제" />
+	<block key="Dialog_4020001_Title" korea_korean="가방 상인" />
+	<block key="Dialog_4020001_Text0" korea_korean="어서 오십시요. 무엇을 도와드릴까요?" />
+	<block key="Dialog_4020001_Answer_0_Text" korea_korean="가방을 확장하고 싶습니다" />
+	<block key="Dialog_2020004_Title" korea_korean="스킬 마스터" />
+	<block key="Dialog_2020004_Text0" korea_korean="자네, 깨달음을 원하는가. 여기 자네에게 도움이 될 만한 책들이 있네." />
+	<block key="Dialog_2020004_Answer_0_Text" korea_korean="스킬북 구입" />
+	<block key="Dialog_2021001_Title" korea_korean="멘디옴 장비 상인" />
+	<block key="Dialog_2021001_Text0" korea_korean="비행선이 추락했어도 장사는 해야겠죠? 그게 바로 멘디옴의 상인정신이란 겁니다. 자~ 구경해보세요~" />
+	<block key="Dialog_2021001_Answer_0_Text" korea_korean="장비 아이템" />
+	<block key="Dialog_2023001_Title" korea_korean="장비 상인 케니" />
+	<block key="Dialog_2023001_Text0" korea_korean="안녕하세요?<br><br>저는 장비들을 팔러 하카나스 왕국으로 가던 중이었어요. 많은 돈을 벌려고 했는데, 비행선 추락으로 이정도 밖에 안남아서 어렵겠군요.<br><br>그래도 추락에도 불구하고 남아 있는 물품이 있는데, 보시겠어요?" />
+	<block key="Dialog_2023001_Answer_0_Text" korea_korean="장비 아이템" />
+	<block key="Dialog_2024001_Title" korea_korean="초급 스킬 마스터 발드락스" />
+	<block key="Dialog_2024001_Text0" korea_korean="열심히 단련하면 어떤 상황에서도 용기를 잃지 않을 수 있지. 지금처럼 위험한 상황에서도 말이야.<br><br>이 곳을 탈출하려면 우리 모두는 강해져야만 하네. 자네가 전투에 필요한 배움을 원한다면 내가 가르침을 주겠네.<br><br>어때? 나에게 수련을 받겠는가?" />
+	<block key="Dialog_2024001_Answer_0_Text" korea_korean="스킬 배우기" />
+	<block key="Dialog_2024001_Answer_1_Text" korea_korean="스킬북에 대해서 말해주세요." />
+	<block key="Dialog_2026001_Title" korea_korean="펠로우 브리더" />
+	<block key="Dialog_2026001_Text0" korea_korean="자네의 동반자를 소중히 생각하게나" />
+	<block key="Dialog_2026001_Answer_0_Text" korea_korean="펠로우 알 교환" />
+	<block key="Dialog_2021002_Title" korea_korean="무기 상인 글렌" />
+	<block key="Dialog_2021002_Text0" korea_korean="전쟁에 나서는 기사를 따라오면 장사가 잘 될 줄 알았는데, 생각보다 벌이가 좋지 않아.<br><br>자네를 보니 무기를 새로 장만하는게 어떻겠나?<br><br>하카나스 왕국에서 사는 물건보다는 못하겠지만, 쓸만한 무기가 많이 있다네.<br><br>한번 구경해 보게." />
+	<block key="Dialog_2021002_Answer_0_Text" korea_korean="무기 아이템" />
+	<block key="Dialog_2023002_Title" korea_korean="잡화 음식 상인 아디나" />
+	<block key="Dialog_2023002_Text0" korea_korean="안녕하세요?<br><br>이 곳의 상황이 위험하지만 고립되어 왕국으로 돌아갈 수 없는 상황에서 제가 할 수 있는 일은 해야지요.<br><br>그건 돈을 버는 일이에요.<br><br>제가 파는 잡화와 음식을 살펴보세요. 쓸만한 것들이 있을 거에요. 그리고, 비싸기는 하지만 가방도 있답니다." />
+	<block key="Dialog_2023002_Answer_0_Text" korea_korean="잡화, 음식" />
+	<block key="Dialog_2026002_Title" korea_korean="펠로우 브리더" />
+	<block key="Dialog_2026002_Text0" korea_korean="자네의 동반자를 소중히 생각하게나" />
+	<block key="Dialog_2026002_Answer_0_Text" korea_korean="펠로우 알 교환" />
+	<block key="Dialog_2024002_Title" korea_korean="전사 스킬 마스터 더글라스" />
+	<block key="Dialog_2024002_Text0" korea_korean="전사는 전투의 최선봉에서 적들의 공격을 온 몸으로 막아내고, 용맹을 즐기지.<br><br>자네도 전사인가? 만약에 자네가 용맹스런 전사라면 나에게 수련을 받도록 하게나." />
+	<block key="Dialog_2024002_Answer_0_Text" korea_korean="전사 스킬 배우기" />
+	<block key="Dialog_2025001_Title" korea_korean="가방 상인" />
+	<block key="Dialog_2025001_Text0" korea_korean="어서 오십시요. 무엇을 도와드릴까요?" />
+	<block key="Dialog_2025001_Answer_0_Text" korea_korean="가방을 확장하고 싶습니다" />
+	<block key="Dialog_2024003_Title" korea_korean="상급 전사 스킬 마스터" />
+	<block key="Dialog_2024003_Text0" korea_korean="자네, 깨달음을 원하는가. 여기 자네에게 도움이 될 만한 책들이 있네." />
+	<block key="Dialog_2024003_Answer_0_Text" korea_korean="스킬북 구입" />
+	<block key="Dialog_2021003_Title" korea_korean="방어구 상인 아말란" />
+	<block key="Dialog_2021003_Text0" korea_korean="이 방어구를 보세요!<br><br>튼튼한 재질로 만들어져 있어서 어떤 공격도 효과적으로 막아 줄 것처럼 보이지 않습니까?<br><br>나중에 후회하지 마시고, 훌륭한 방어구를 구입하세요." />
+	<block key="Dialog_2021003_Answer_0_Text" korea_korean="방어구 아이템" />
+	<block key="Dialog_2023003_Title" korea_korean="물약 상인 콜먼" />
+	<block key="Dialog_2023003_Text0" korea_korean="물약을 사러 오셨군요.<br><br>정령의 숲에 있는 물약 상인은 제가 유일하지요.<br><br>
+제가 파는 물약이 얼마난 많은 용사와 암살자, 마법사와 네이쳐.. 음.. 그리고 사제님의 목숨을 구했는지 몰라요.<br><br>필요한 물약은 미리 챙겨두세요." />
+	<block key="Dialog_2023003_Answer_0_Text" korea_korean="물약" />
+	<block key="Dialog_2023004_Title" korea_korean="잡화 물약 상인 제니" />
+	<block key="Dialog_2023004_Text0" korea_korean="안녕하세요?<br><br>신룡 기사단의 보호 덕분에 이곳까지 와서 장사를 하게 되었네요.<br><br>제가 파는 잡화와 음식을 살펴보세요. 쓸만한 것들이 있을 거에요. 그리고, 비싸기는 하지만 가방도 있답니다." />
+	<block key="Dialog_2023004_Answer_0_Text" korea_korean="잡화, 음식" />
+	<block key="Dialog_2026003_Title" korea_korean="펠로우 브리더" />
+	<block key="Dialog_2026003_Text0" korea_korean="자네의 동반자를 소중히 생각하게나" />
+	<block key="Dialog_2026003_Answer_0_Text" korea_korean="펠로우 알 교환" />
+	<block key="Dialog_2025002_Title" korea_korean="가방 상인" />
+	<block key="Dialog_2025002_Text0" korea_korean="어서 오십시요. 무엇을 도와드릴까요?" />
+	<block key="Dialog_2025002_Answer_0_Text" korea_korean="가방을 확장하고 싶습니다" />
+	<block key="Dialog_2024004_Title" korea_korean="초급 사제 스킬 마스터" />
+	<block key="Dialog_2024004_Text0" korea_korean="우리도 하카나스로 가던 중이었죠. 저희는 이런 상황에 처하더라도 언제 어디서든 저희 본분을 다 해야 한답니다. 혹시, 사제 수련에 관한 책이 필요한가요?" />
+	<block key="Dialog_2024004_Answer_0_Text" korea_korean="스킬 배우기" />
+	<block key="Dialog_2024004_Answer_1_Text" korea_korean="스킬북에 대해서 말해주세요." />
+	<block key="Dialog_2024005_Title" korea_korean="사제 스킬 마스터 에리나" />
+	<block key="Dialog_2024005_Text0" korea_korean="자애의 길을 선택한 자여.<br><br>성스러운 빛으로 많은 생명을 구하고 고통을 치유해주세요.<br><br>당신에게 부족한 부분이 있다면, 내가 수련을 도와드리도록 하지요." />
+	<block key="Dialog_2024005_Answer_0_Text" korea_korean="사제 스킬 배우기" />
+	<block key="Dialog_2024006_Title" korea_korean="고급 사제 스킬 마스터" />
+	<block key="Dialog_2024006_Text0" korea_korean="자애의 길을 선택한 자여. 많은 생명을 구하길 바라겠네" />
+	<block key="Dialog_2024006_Answer_0_Text" korea_korean="스킬북 구입" />
+	<block key="Dialog_2028001_Title" korea_korean="포탈 이동사 프로이드" />
+	<block key="Dialog_2028001_Text0" korea_korean="포탈은 다른 장소로 당신을 보내 줄 수가 있지. 화염 골렘의 사악한 기운이 마법 에테르를 약화시켜서 정령의 숲만 가능하다네.
+<br><br>
+물론. 시공간을 뛰어 넘는 마법의 대가로 약간의 수수료를 받고 있다네. 포탈을 이용할텐가?" />
+	<block key="Dialog_2028001_Answer_0_Text" korea_korean="신룡 기사단 주둔지로 가기" />
+	<block key="Dialog_2028001_Answer_1_Text" korea_korean="광채나무 숲 야영지로 가기" />
+	<block key="Dialog_2028002_Title" korea_korean="포탈 이동사 스펜서" />
+	<block key="Dialog_2028002_Text0" korea_korean="포탈은 다른 장소로 당신을 보내 줄 수가 있지. 화염 골렘의 사악한 기운이 마법 에테르를 약화시켜서 정령의 숲만 가능하다네.
+<br><br>
+물론. 시공간을 뛰어 넘는 마법의 대가로 약간의 수수료를 받고 있다네. 포탈을 이용할텐가?" />
+	<block key="Dialog_2028002_Answer_0_Text" korea_korean="신룡 기사단 주둔지로 가기" />
+	<block key="Dialog_2028002_Answer_1_Text" korea_korean="유적지 폐허 야영지로 가기" />
+	<block key="Dialog_2999998_Title" korea_korean="무기, 보조장비 상인" />
+	<block key="Dialog_2999998_Text0" korea_korean="무기, 보조장비 장비 다 있음." />
+	<block key="Dialog_2999998_Answer_0_Text" korea_korean="무기, 보조장비 상점" />
+	<block key="Dialog_2999999_Title" korea_korean="방어구 상인" />
+	<block key="Dialog_2999999_Text0" korea_korean="방어구 장비 다 있음." />
+	<block key="Dialog_2999999_Answer_0_Text" korea_korean="방어구 상점" />
+	<block key="Dialog_9011001_Title" korea_korean="펠로우 알 교환" />
+	<block key="Dialog_9011001_Text0" korea_korean="펠로우 생명의 구슬로 교환하기 위해서는 계열별 다섯 개의 영혼의 기운이 필요합니다." />
+	<block key="Dialog_9011001_Answer_0_Text" korea_korean="포유계 생명의 구슬 교환" />
+	<block key="Dialog_9011001_Answer_1_Text" korea_korean="유익계 생명의 구슬 교환" />
+	<block key="Dialog_9011001_Answer_2_Text" korea_korean="파충계 생명의 구슬 교환" />
+	<block key="Dialog_9011001_Answer_3_Text" korea_korean="곤충계 생명의 구슬 교환" />
+	<block key="Dialog_9011001_Answer_4_Text" korea_korean="정령계 생명의 구슬 교환" />
+	<block key="Dialog_9011002_Title" korea_korean="불이 삼킨 유적에 대하여" />
+	<block key="Dialog_9011002_Text0" korea_korean="불이 삼킨 유적은 고대 악마의 힘이 담겨있는 화염 데모닉 스톤에 의해 생성된 화염 골렘과 그의 부하 몬스터들이 지배하고 있는 곳입니다." />
+	<block key="Dialog_9011002_Answer_0_Text" korea_korean="불이 삼킨 유적 공략 팁" />
+	<block key="Dialog_9011002_Answer_1_Text" korea_korean="불이 삼킨 유적 보스 공략 팁" />
+	<block key="Dialog_9011003_Title" korea_korean="불이 삼킨 유적 공략 팁" />
+	<block key="Dialog_9011003_Text0" korea_korean="불이 삼킨 유적을 공략하기 위해서는 얼음 속성이 담긴 무기를 사용해야만 적을 효과적으로 공격할 수 있습니다. 만약, 화염 속성 피해가 심해지면 동굴 중간에 있는 물이 고여있는 샘에서 몸을 식히셔야 합니다." />
+	<block key="Dialog_9011004_Title" korea_korean="불이 삼킨 유적 보스 공략 팁" />
+	<block key="Dialog_9011004_Text0" korea_korean="화염 골렘이 소환하는 소환수를 화염 족장 주변에서 자폭하게 만들면 그 충격으로 인해 화염 족장에게 강한 데미지를 입힐 수 있습니다." />
+	<block key="Dialog_9011005_Title" korea_korean="얼어붙은 폐허에 대하여" />
+	<block key="Dialog_9011005_Text0" korea_korean="정령의 숲에서 신선한 버섯뜰로 이어지는 산길은 데모닉 스톤의 영향으로 인해 온통 눈과 얼음으로 둘러싸인 지역으로 변해버렸습니다. 현재, 그곳을 수인 군단이 점령하고 있습니다." />
+	<block key="Dialog_9011005_Answer_0_Text" korea_korean="얼어붙은 폐허 공략 팁" />
+	<block key="Dialog_9011005_Answer_1_Text" korea_korean="얼어붙은 폐허 보스 공략 팁" />
+	<block key="Dialog_9011006_Title" korea_korean="얼어붙은 폐허 공략 팁" />
+	<block key="Dialog_9011006_Text0" korea_korean="얼어붙은 폐허는 얼음 속성 몬스터들이 점령하고 있습니다. 따라서, 불 속성의 무기를 사용해야 그 몬스터들을 상대하기 수월합니다." />
+	<block key="Dialog_9011007_Title" korea_korean="얼어붙은 폐허 보스 공략 팁" />
+	<block key="Dialog_9011007_Text0" korea_korean="돌격 대장 샨틴은 다양한 얼음 속성의 범위 공격을 하기 때문에, 이 공격을 잘 피하면서 샨틴에게 강력한 불 속성 공격을 해야 합니다." />
+	<block key="Dialog_3020001_Title" korea_korean="초급 전사 스킬 마스터" />
+	<block key="Dialog_3020001_Text0" korea_korean="스킬북은 전사들이 사용하는 스킬을 배우거나, 이미 배운 스킬을 강화하는데 필요한 책이라네. 헌데, 이 책을 사용하기 위해서는 스킬 포인트가 필요하다네." />
+	<block key="Dialog_3020001_Answer_0_Text" korea_korean="알겠습니다." />
+	<block key="Dialog_3020002_Title" korea_korean="초급 사제 스킬 마스터" />
+	<block key="Dialog_3020002_Text0" korea_korean="스킬북이란, 사제들이 사용하는 스킬을 배우거나, 이미 배운 스킬을 강화하는데 필요한 책입니다. 먼저, 이 책을 사용하기 위해서는 스킬 포인트가 있어야 하죠." />
+	<block key="Dialog_3020002_Answer_0_Text" korea_korean="알겠습니다." />
+	<block key="Dialog_3020003_Title" korea_korean="배신한 토벌대원" />
+	<block key="Dialog_3020003_Text0" korea_korean="나를 힘으로 이긴다면, 카렌디아의 유물을 돌려주겠다." />
+	<block key="Dialog_3020003_Answer_0_Text" korea_korean="그렇게 하지요." />
+	<block key="Dialog_3020004_Title" korea_korean="크로쿤 대장장이 쿠할란" />
+	<block key="Dialog_3020004_Text0" korea_korean="무슨 일로 나를 찾아왔어? 화염 골렘을 처치하고, 지하 통로를 빠져나갈 방법을 알려 달라고?" />
+	<block key="Dialog_3020004_Answer_0_Text" korea_korean="대화 완료" />
+	<block key="Dialog_3020005_Title" korea_korean="신룡 기사단 부관 알렉스" />
+	<block key="Dialog_3020005_Text0" korea_korean="진실된 시야의 물약을 구해 왔다구? 흐음… 이 유령을 보는 물약이 정말로 효력이 있을지는 모르겠군." />
+	<block key="Dialog_3020005_Answer_0_Text" korea_korean="대화 완료" />
+	<block key="Dialog_3020006_Title" korea_korean="크로쿤 대장장이 쿠할란" />
+	<block key="Dialog_3020006_Text0" korea_korean="한기서린 천을 가지고 돌아왔군? 대단하군. 대단해." />
+	<block key="Dialog_3020006_Answer_0_Text" korea_korean="대화 완료" />
+	<block key="Dialog_3020007_Title" korea_korean="정찰대원 세린" />
+	<block key="Dialog_3020007_Text0" korea_korean="다시 만나뵙게 되네요. 성공하셨군요? 제가 만들어 준 물약이 유령을 보는 효능이 있다니 정말 대단하군요." />
+	<block key="Dialog_3020007_Answer_0_Text" korea_korean="대화 완료" />
+	<block key="Dialog_9014005_Title" korea_korean="창고지기" />
+	<block key="Dialog_9014005_Text0" korea_korean="자~자~ 거기 여행자 양반. 뭘 그렇게 많은 짐을 전부 다 끙끙대며 가지고 다니슈. 창+고에 보관하면 간단할 걸 가지고. 아무도 안훔쳐가니 걱정 말고 맡기쇼." />
+	<block key="Dialog_9014005_Answer_0_Text" korea_korean="내 창고 이용하기" />
+	<block key="Dialog_9014006_Title" korea_korean="판매 대행 담당자" />
+	<block key="Dialog_9014006_Text0" korea_korean="팔고 싶은 물건이 있다고? 내가 좋은 가격에 살 사람을 찾아주지. 자, 얼마에 팔고 싶은가? 아. 물론 다른 사람이 팔려는 물건을 사는 것도 가능하니 찾는 물건이 있다면 한번 둘러보게나." />
+	<block key="Dialog_9014006_Answer_0_Text" korea_korean="판매 대행 이용하기" />
+	<block key="Dialog_2024008_Title" korea_korean="초급 마법사 스킬 마스터" />
+	<block key="Dialog_2024008_Text0" korea_korean="초급 마법사의 스킬북이 필요하신가요?" />
+	<block key="Dialog_2024008_Answer_0_Text" korea_korean="초급 마법사의 스킬북 구입" />
+	<block key="Dialog_2024009_Title" korea_korean="마법사 스킬 마스터 디아나" />
+	<block key="Dialog_2024009_Text0" korea_korean="마법을 사용하는 것은 자연의 순리에 어긋난 변화를 주는 일이다.<br><br>불과 물 그리고 빛의 본질을 이해하지 못한다면 자연의 질서가 무너져 자신도 크게 다칠 수가 있어.<br><br>마법을 사용할 준비가 되어 있는가? 준비가 되어 있다면 나에게 배울 것이 있을거야." />
+	<block key="Dialog_2024009_Answer_0_Text" korea_korean="마법사 스킬 배우기" />
+	<block key="Dialog_2024010_Title" korea_korean="초급 암살자 스킬 마스터" />
+	<block key="Dialog_2024010_Text0" korea_korean="초급 암살자의 스킬북이 필요하신가요?" />
+	<block key="Dialog_2024010_Answer_0_Text" korea_korean="초급 암살자의 스킬북 구입" />
+	<block key="Dialog_2024011_Title" korea_korean="암살자 스킬 마스터 란스" />
+	<block key="Dialog_2024011_Text0" korea_korean="왕국의 유명한 암살자이었던 할아버지는 적에게 기습을 할 수만 있다면 내 살을 약간 내주는 것은 상관이 없다고 하셨어. 그 말에 따라 항상 그 순간을 준비하고 있지.
+<br><br>
+자네가 그 신비한 기술을 배우고자 한다면 약간의 기술을 조용히 가르쳐 주도록 하지." />
+	<block key="Dialog_2024011_Answer_0_Text" korea_korean="암살자 스킬 배우기" />
+	<block key="Dialog_2024012_Title" korea_korean="초급 네이쳐 스킬 마스터" />
+	<block key="Dialog_2024012_Text0" korea_korean="초급 네이쳐의 스킬북이 필요하신가요?" />
+	<block key="Dialog_2024012_Answer_0_Text" korea_korean="초급 네이쳐의 스킬북 구입" />
+	<block key="Dialog_2024013_Title" korea_korean="네이쳐 스킬 마스터 아메릭스" />
+	<block key="Dialog_2024013_Text0" korea_korean="운명이 그대를 이곳까지 안내하였소. 이 땅에서 벌어지는 모든 일이 조화와 균형의 원리에 따라 흘러온 것처럼…     
+<br><br>
+그대가 네이쳐로서 아직 최고의 경지에 이르지 못했다면, 성장에 필요한 지도를 해주겠네." />
+	<block key="Dialog_2024013_Answer_0_Text" korea_korean="네이쳐 스킬 배우기" />
+	<block key="Dialog_3020701_Title" korea_korean="마석 변환" />
+	<block key="Dialog_3020701_Text0" korea_korean="어서 오십시요. 무엇을 도와드릴까요?" />
+	<block key="Dialog_3020701_Answer_1_Text" korea_korean="마석 장착을 하고 싶습니다." />
+	<block key="Dialog_3020701_Answer_2_Text" korea_korean="마석 제거를 하고 싶습니다." />
+	<block key="Dialog_3020701_Answer_3_Text" korea_korean="마석 수리를 하고 싶습니다." />
+	<block key="Dialog_1040001_Title" korea_korean="엘프 순례자 마그렌" />
+	<block key="Dialog_1040001_Text0" korea_korean="바람결에 실린 생명의 소리를 들으며.
+<br>안녕하십니까, 다른 땅의 형제여.
+<br><br>
+저는 마그렌이라 지음받은 어린 엘프입니다. 오랜 생명의 흔적을 따라 이곳에 왔지요. 운명의 매듭이 이끈 것인지 제가 왔을 때 이곳은 혼란에 휩싸여 있더군요.
+<br><br>
+그대에게도 혼란의 파도가 닥치기 전에 어서 이곳을 피하십시오." />
+	<block key="Dialog_1040002_Title" korea_korean="국왕 론 프레인" />
+	<block key="Dialog_1040002_Text0" korea_korean="대신들은 대책을 내놓아보게. 이는 단지 왕가만을 위한 일이 아님을 유념에 두게.
+<br><br>
+으음…자네는 누구인가? 어찌 아무도 제지하는 이가 없단 말인가. 내대신이 그냥 보내줬단 말인가?" />
+	<block key="Dialog_1040003_Title" korea_korean="대마법사 율너스" />
+	<block key="Dialog_1040003_Text0" korea_korean="이 초라한 늙은이가 율너스일세. 대마법사라니, 그런 거창한 소리를 들을 정도로 깊은 인간은 아니라네.
+<br><br>
+그저 깊고 깊은 죄를 지어 어찌해야 그 죄를 갚을 수 있을 것인지 고민하고 있을 뿐인 늙은이지." />
+	<block key="Dialog_1040003_Answer_14_Text" korea_korean="여행을 떠날 준비가 끝났습니다.." />
+	<block key="Dialog_1040004_Title" korea_korean="전사 스킬 마스터 블레이크" />
+	<block key="Dialog_1040004_Text0" korea_korean="검이 가는 길은 죽 곧은 길!
+<br><br>
+오른손에는 정의를 위한 검을!
+<br>
+왼손에는 수호를 위한 방패를!
+<br>
+가슴에는 사랑을 위한 한송이 꽃을!
+<br><br>
+전사의 마음가짐을 잊지 않고 있는가!!" />
+	<block key="Dialog_1040004_Answer_4_Text" korea_korean="상급 전사 스킬 배우기" />
+	<block key="Dialog_1040005_Title" korea_korean="마법사 스킬 마스터 위즈리드" />
+	<block key="Dialog_1040005_Text0" korea_korean="힘에 취하지 말고 힘을 취하라.
+<br><br>
+우리는 어긋난 균형 속을 어긋나지 않게 걷고.
+<br>
+우리는 벗어난 섭리 속을 벗어나지 않고 간다.
+<br><br>
+마법사는 스스로 얻으려 하지 않으면 무엇 하나도 주어지지 않아. 뭘 원하지, 애송이 마법사?" />
+	<block key="Dialog_1040005_Answer_4_Text" korea_korean="상급 마법사 스킬 배우기" />
+	<block key="Dialog_1040006_Title" korea_korean="사제 스킬 마스터 밀리아" />
+	<block key="Dialog_1040006_Text0" korea_korean="세상 만물을 찬미하며..
+<br><br>
+파괴 속에서도 재생을 믿고 있나요?
+<br>
+어떤 것이라도 다시 살아오는 것을 믿고 있나요?
+<br><br>
+믿고 있다면, 제가 도움을 드릴 수 있겠지요." />
+	<block key="Dialog_1040006_Answer_4_Text" korea_korean="상급 사제 스킬 배우기" />
+	<block key="Dialog_1040007_Title" korea_korean="암살자 스킬 마스터 시드" />
+	<block key="Dialog_1040007_Text0" korea_korean="어둠 속에서 빛을 위해.
+<br><br>
+형제여, 오늘은 안녕하신가?
+<br>
+형제여, 내일은 안녕할 수 있을까?
+<br><br>
+시궁창 속에 살더라도 내일을 위할 수 있는 삶이라면 후회는 없겠지. 그래, 무슨 일인가?" />
+	<block key="Dialog_1040007_Answer_4_Text" korea_korean="상급 암살자 스킬 배우기" />
+	<block key="Dialog_1040008_Title" korea_korean="네이처 스킬 마스터 이안" />
+	<block key="Dialog_1040008_Text0" korea_korean="풍요란 얻은 만큼 베풀 때 나옵니다.
+<br><br>
+자연에서 얻은 것은 자연으로.
+<br>
+억지를 버리고 순리를 따라서.
+<br><br>
+자신이 할 수 있는 바를 다한다면 그것으로 충분합니다. 나머지는 순리가 이끌 일이니. 먼저 걷기 시작한 자로서 드릴 수 있는 것은 모두 드리겠습니다." />
+	<block key="Dialog_1040008_Answer_4_Text" korea_korean="상급 네이쳐 스킬 배우기" />
+	<block key="Dialog_1040009_Title" korea_korean="수호신룡 벨제로스" />
+	<block key="Dialog_1040009_Text0" korea_korean="나는 오랜 맹약 속에서 살아가는 존재.
+<br><br>
+찰나를 지나는 광채여, 무슨 일로 이 맹약자를 찾아와 이야기를 나누려고 하는가." />
+	<block key="Dialog_1040010_Title" korea_korean="잡화&음식 상인 맥" />
+	<block key="Dialog_1040010_Text0" korea_korean="안녕하세요, 어서오세요.
+<br><br>
+있는 것은 다 있고 없는 것은 절대로 없는 잡화 상점입니다!" />
+	<block key="Dialog_1040011_Title" korea_korean="목동 덴젤" />
+	<block key="Dialog_1040011_Text0" korea_korean="소는 다 잃어버리고 이게 뭔 꼴이냐.
+<br><br>
+이제 대장한테 돌아가면 죽었다. 무슨 일이에요? 다친 사람 처음 봐요?" />
+	<block key="Dialog_1040012_Title" korea_korean="엘프 수행원 마리엘" />
+	<block key="Dialog_1040012_Text0" korea_korean="아, 안녕…하세요?
+<br><br>
+이곳은 지금 사람들이 돌아다니기 힘든 위험한 곳이라고 들었는데.
+<br><br>
+저도 단련을 좀 해둘 걸 그랬어요. 그럼 마그렌 님을 지킬 수 있었을 텐데." />
+	<block key="Dialog_1040013_Title" korea_korean="유적지 병사 카렐" />
+	<block key="Dialog_1040013_Text0" korea_korean="안녕하십니까! 유적지 상주군입니다!
+<br><br>
+네, 군이라고 해도 저 혼잡니다. 그런 거죠. 이런 변두리에 파견해둘 병사 하나도 아깝다.
+<br><br>
+갑자기 이런 사태가 되지만 않았으면 한직이긴 해도 편한 곳이었는데 말입니다." />
+	<block key="Dialog_1040014_Title" korea_korean="여사제 마리아" />
+	<block key="Dialog_1040014_Text0" korea_korean="세상 만물을 찬미하며..
+<br><br>
+이런 위험한 장소에 오시다니 용맹이 대단한 분이로군요. 저는 이곳에서 다친 분들을 돌보고 있는 마리아라고 합니다.<br><br>
+미천한 몸으로 사제의 업을 맡고 있습니다." />
+	<block key="Dialog_1040015_Title" korea_korean="목동대장 허버트" />
+	<block key="Dialog_1040015_Text0" korea_korean="엉? 뭐야 댁은. 늑대인간 투성인데 돌아다니다니 머리가 헤까닥했거나 실력이 좋거나 둘 중에 하나 같은데.
+<br><br>
+으하하, 농담이야. 농담. 실력이 제법 괜찮은 모양이지? 좋겠네, 그거. 나도 실력 좀 좋아봤으면 좋겠다." />
+	<block key="Dialog_1040016_Title" korea_korean="늑대 사냥꾼 아모스" />
+	<block key="Dialog_1040016_Text0" korea_korean="엉? 뭐야 댁은. 늑대인간 투성인데 돌아다니다니 머리가 헤까닥했거나 실력이 좋거나 둘 중에 하나 같은데.
+<br><br>
+으하하, 농담이야. 농담. 실력이 제법 괜찮은 모양이지? 좋겠네, 그거. 나도 실력 좀 좋아봤으면 좋겠다." />
+	<block key="Dialog_1040017_Title" korea_korean="파견병사 랄프" />
+	<block key="Dialog_1040017_Text0" korea_korean="검은 나의 몸!
+<br><br>
+이상 사태에 의해 파견된 랄프입니다! 주민 통제 중인데 무슨 일이십니까?" />
+	<block key="Dialog_1040018_Title" korea_korean="목동 젠슨" />
+	<block key="Dialog_1040018_Text0" korea_korean="내 목동 생활 중에 가장 어려웠던 늑대 대습격 이후로 이런 일은 없을 거라 생각했수. 이게 뭐요, 대체.<br><br>돌보던 소는 다 흩어지고, 대체 몇 명이 죽었는지 모르겠수.<br><br>세상이 대체 어떻게 되는 거요!" />
+	<block key="Dialog_1040019_Title" korea_korean="상인 미그란" />
+	<block key="Dialog_1040019_Text0" korea_korean="호호호호, 뭐든지 있는 기네스 상단입니다~지금은 그렇지도 않은가? 이런 상황에 뭐 물건이나 돌아야 말이죠. 저는 판매는 안 하고 있으니까 물건 살 일 있으면 다른 애들한테 말씀하세요.
+<br><br>
+아니면 저한테 볼 일 있나요?" />
+	<block key="Dialog_1040020_Title" korea_korean="물약 상인 니캄" />
+	<block key="Dialog_1040020_Text0" korea_korean="위험이~있으며언~~~물약 상인은 돈을 번다네에에~
+<br><br>
+…근데 사실은 그렇지도 않아요. 이거 마진 얼마 안 남거든요. 연금술사들이 얼마나 독한데요. 그치들은 피 대신 돈을 흘릴지도 몰라요.
+<br><br>
+그래도 물약은 있어야죠. 급하게 치료할 때는 필요하니까. 적당히 갖춰져 있으니까 살펴보시죠." />
+	<block key="Dialog_1040020_answer_0_text" korea_korean="물약 상점" />
+	<block key="Dialog_1040021_Title" korea_korean="농부 더크" />
+	<block key="Dialog_1040021_Text0" korea_korean="젊은이에게는 소중한 이가 있소? 그렇군, 우문이었구먼. 아니, 실언이었구먼.
+<br><br>
+소중한 이를 다 잃은 늙은이의 넋두리라고 생각하시구려. 이젠 뭐가 됐든 좋으니 제발 죽여줬으면 싶다고 생각하는 못난 늙은이의 헛소리라고 생각하시구려…
+<br><br>
+단순한 이야기라오. 가족들이 죽고 나는 살았다는 이야기. 밭일을 하다가 버섯이라도 따서 가져가려고, 애가 좋아할까 싶어서 버섯이나 따려고 숲에 들어갔는데 다녀오니 전부, 전부…그 흉물스런 놈들에게 당했더구려…" />
+	<block key="Dialog_1040022_Title" korea_korean="농부 데릭" />
+	<block key="Dialog_1040022_Text0" korea_korean="이 망할 놈들! 망할 토끼 놈들! 이제 괜찮아졌나 싶었더니 사람 없다고 이놈들이!
+<br><br>
+이봐! 자넨 또 뭐야? 서리라도 하려고?" />
+	<block key="Dialog_1040023_Title" korea_korean="소피아" />
+	<block key="Dialog_1040023_Text0" korea_korean="이런 상황에 이런 장소까지 오다니 대단한 분이네요. 데릭 아저씨가 좀 이상하죠? 사람 좋은 아저씨인데 이웃들이 거의 다…그렇게 되셨으니까요. 그 후로 좀 안 좋아지셨어요.
+<br><br>
+저는 수도성에 볼 일이 있어서 나갔다가 화를 피했죠. 사촌이 그쪽 술집에서 종업원을 하고 있거든요. 그래도 별로 행운 같지는 않네요.
+<br><br>
+제가 있었으면 더 많이 살았을 텐데. 휴우…이래봬도 마을에서 유일하게 검을 다루었으니까요. 하지만 그게 무슨 소용이었는지 모르겠어요. 중요할 때 없었으니." />
+	<block key="Dialog_1040024_Title" korea_korean="상인 로렌" />
+	<block key="Dialog_1040024_Text0" korea_korean="한산한 마을이 아니라 스산한 마을이죠? 맹수도, 맹수가 아닌 동물도 꼭 돌풍처럼 마을을 휩슬고 지나갔으니까요. 사람처럼 약한 동물은 견디기 힘들었겠죠.
+<br><br>
+이곳에 마을을 만들까 해요. 그 전보다 좀 더 본격적인 마을로. 수도성도 가깝고, 땅은 기름지고, 숲은 풍요로운 좋은 위치잖아요?
+<br><br>
+원래 상인이었으니까 손님 모으는 건 자신 있다구요. 손님이 아니라 주민이 되겠지만 무슨 상관이겠어요?" />
+	<block key="Dialog_1040025_Title" korea_korean="쉐도우클랜 단장 크로우" />
+	<block key="Dialog_1040025_Text0" korea_korean="당신인가. 지금은 무슨 일을 하고 있나?
+<br><br>
+하고 있는 일이 마무리 되면 좀 느긋하게 이야기를 하고 싶군. 나도 산적해 있는 일이 보통 많은 게 아니라 시간이 안 나는군.
+<br><br>
+자네가 왕궁 인근에서 일어나는 일을 처리하고 있다는 이야기를 들었네. 덕분에 내 일이 조금은 편해졌어. 일단 맡겨진 일부터 처리하게.
+<br><br>
+이야기는 그 다음에 하지." />
+	<block key="Dialog_1040026_Title" korea_korean="진리의 마법사 엘스레드" />
+	<block key="Dialog_1040026_Text0" korea_korean="마법사란 무엇인가! 난 연구야말로 마법사가 해야할 일이라고 생각하네. 상스럽게 싸움질을 하는 건 기사들에게 맡겨! 마법사라면 모름지기 세상 이치에 대한 탐구를 해야지!
+<br><br>
+마법사 아니면 누가 이런 과업을 수행할 수 있겠는가!" />
+	<block key="Dialog_1040027_Title" korea_korean="종업원 레일라" />
+	<block key="Dialog_1040027_Text0" korea_korean="대낮부터 술집이라니, 백수? 아니면 양아치? 할 일 없이 노닥거리다니, 일 없는 노친네도 아니고 뭐 하는 거야? 그런 게 아니라면 다른 볼 일?
+<br><br>
+요즘 어수선하다고 술집에서 죽치는 인간이 너무 늘었어. 질 나쁜 용병 무리도 많아졌고. 어지간하면 소란은 피우지 말도록 해.
+<br><br>
+말은 이렇지만 비싼 술 팔아주면 나야 좋지. 어중이떠중이는 마진도 얼마 안 나오는 싸구려 술만 퍼대거든." />
+	<block key="Dialog_1040028_Title" korea_korean="시민 바렐리" />
+	<block key="Dialog_1040028_Text0" korea_korean="젊은이는 뭐 하는 사람이야? 그렇게 무장하고 돌아다니는 걸 보니 용병이나 뭐 그런 사람인가?
+<br><br>
+내 아들은 병사라우. 원래 농사나 지으라고 했는데 얘가 말을 안 듣고 말이야. 요즘처럼 흉흉한 때에 산 서프스 목장으로 파견까지 나갔지 뭐야.
+<br><br>
+걱징돼서 잠도 못 자겠어…" />
+	<block key="Dialog_1040029_Title" korea_korean="파견병사 하워드" />
+	<block key="Dialog_1040029_Text0" korea_korean="검은 나의 몸!
+<br><br>
+1차 파견대 하워드입니다. 무슨 일이십니까? 현재 왕성 동부지역은 통행을 통제하고 있으니 협조 바랍니다.!" />
+	<block key="Dialog_1040030_Title" korea_korean="시민 샬롯" />
+	<block key="Dialog_1040030_Text0" korea_korean="요즘 한숨이 늘었어요. 남자친구가 위험한 곳에 파견을 나갔거든요. 그 사람, 병사로 일은 하고 있어도 검도 잘 못 쓰고 배짱도 없어서 무사할지 걱정이에요.
+<br><br>
+그리고 그 사람이 안 보이니까 주변에서 남자들이 너무 귀찮게 하는 거 있죠? 금방 전사 소식이 날아올 거라느니 하면서 치근대는데 참, 그런 식으로 여자를 꼬시려는 건지 어떤 건지 모르겠어요.
+<br><br>
+세상에 남자가 한 명 밖에 없어도 그런 식으로 접근하는 남자한테는 넘어가지 않을 거예요. 안 그래요?" />
+	<block key="Dialog_1040031_Title" korea_korean="내무관리 스튜어트" />
+	<block key="Dialog_1040031_Text0" korea_korean="말이 좋아 내무관리지 온갖 잡무란 잡무는 다 맡고 있는 처집니다. 밑에서는 고충처리 해달라고 찌르고 위에서는 예산 문제로 타박하고, 아주 못해먹을 일이에요. 다른 사람들은 왕궁에서 일한다면 출세했다고 하는데 출세는 개뿔, 박봉에 짐말 취급이라 못해먹겠단 말이지요.
+<br><br>
+그래도 이걸 저 아니면 못하니까 어쩔 수 없이 하고는 있습니다. 권력투쟁에는 관심 없고 싸움도 못 하고 마법도 못 쓰는 몸이 나라에 보탬이 될 만한 일은 이 정도 뿐이니까요." />
+	<block key="Dialog_1040032_Title" korea_korean="북부 경비대장 멜빈 한" />
+	<block key="Dialog_1040032_Text0" korea_korean="검은 나의 몸!
+<br><br>
+북부 제 1 감시탑을 맡고 있는 멜빈 한이라 합니다. 최근 주민통제 중인데 무슨 일이십니까?
+<br><br>
+율너스 어르신께서? 그렇군요. 단신으로 이곳까지 올 정도라면 제법 솜씨가 있는 모양입니다." />
+	<block key="Dialog_1040033_Title" korea_korean="늑대 사냥꾼 루크" />
+	<block key="Dialog_1040033_Text0" korea_korean="본직이 늑대 사냥꾼인데 내가 늑대는 안 잡고 뭐하는 짓인지. 어이, 자네. 혹시 산 서프스 목장 인근을 헤집고 다녔다는 게 자넨가?
+<br><br>
+늑대인간이라니 그거 정말 센 거야? 난 잭 말고는 아무한테도 뒤지지 않는데 주변에서 말리는 바람에 늑대인간은 잡아본 적이 없거든. 젠장, 이름 날릴 수 있는 기회였는데 아까워 죽겠어.
+<br><br>
+여긴 늑대도 없고, 표범이야 나름대로 잡을 맛이 나지만 딱딱한 병사들 밖에 없어서 재미가 없어." />
+	<block key="Dialog_1040034_Title" korea_korean="늑대 사냥꾼 카알" />
+	<block key="Dialog_1040034_Text0" korea_korean="뭐냐 넌, 볼 일 없으면 꺼져. 아니면 네가 내 원한을 갚아주기라도 할 건가?
+<br><br>
+난 그저 내 아들의 복수만 할 수 있으면 충분해. 늙어빠진 몸이라 직접 잡기 힘들어도 포기하지 않는다. 놈의 남은 눈을 도려내서 집어 삼켜주겠다.
+<br><br>
+큭…크크큭, 낄낄낄낄!!!" />
+	<block key="Dialog_1040035_Title" korea_korean="북부 경비대원 리암" />
+	<block key="Dialog_1040035_Text0" korea_korean="검은 나의 몸!
+<br><br>
+민간인은 출입을 통제하고 있습니다! 아, 왕궁에서 의뢰가 있었습니까? 그렇다면 상관없지만 너무 함부로 돌아다니지 말아 주십시오." />
+	<block key="Dialog_1040036_Title" korea_korean="세공기술자 일라드" />
+	<block key="Dialog_1040036_Text0" korea_korean="세상이 뭐가 어떻든 상관 없어! 내게는 만지작거릴 수 있는 도구하고 재료만 있으면 충분해.
+<br><br>
+여긴 질 좋은 가죽을 얻을 수 있거든? 떠날 수 없지, 떠날 수 없어. 이런 좋은 장소는 떠날 수 없어. 주민 통제 따위 내 할 바 아냐!" />
+	<block key="Dialog_1040037_Title" korea_korean="늑대 사냥꾼 토마스" />
+	<block key="Dialog_1040037_Text0" korea_korean="동물은 무서운 거야. 자네는 아직 젊어서 팔팔한 모양이지만, 나도 한때는 무서운 거 모르고 날뛴 적이 있지. 근데, 무서워. 동물은 무서워.
+<br><br>
+난 앞으로도 제대로 할 수가 없을 것 같아. 사냥꾼으로서의 나는…이미 죽었어." />
+	<block key="Dialog_1040038_Title" korea_korean="낚시꾼 로크" />
+	<block key="Dialog_1040038_Text0" korea_korean="낚시는 세월을 낚는 거네 어쩌네 말하지만 그건 다 헛소리야! 그렇게 생각하지 않아?
+<br><br>
+왜, 봐, 사냥꾼도 더 많고 큰 사냥감을 잡고 싶어하잖아? 나도 마찬가지. 이 낚시꾼 로크! 큰 낚싯대를 드리우고 있는 건 세월 따위를 낚기 위해서가 아냐!" />
+	<block key="Dialog_1040039_Title" korea_korean="진리의 마법사 아젤라" />
+	<block key="Dialog_1040039_Text0" korea_korean="저는 과분하게도 진리의 마법사 중 말석을 차지하고 있는 아젤라입니다.
+<br><br>
+크로우 단장의 밀명으로 움직이고 계시다니, 막중한 임무로군요. 크로우 단장이 맡는 일 중에 가벼운 것은 하나도 없지요.
+<br><br>
+그래서 이곳에 오신 모양이군요. 확실히 이곳에서 일어나고 있는 일은 저 하나로는 도저히 대처할 수 없는 심각한 문제입니다." />
+	<block key="Dialog_1040040_Title" korea_korean="촌장 제임스" />
+	<block key="Dialog_1040040_Text0" korea_korean="안녕하시오, 내가 켈우즈 마을 촌장 제임스라오.
+<br><br>
+변방의 마을이긴 하지만 그래도 백작령이기도 해서 규모는 제법 있는 편이지. 그렇지 않소?
+<br><br>
+어쨌거나 하카나스 왕국 식량의 반 가까이 생산하는 지역이기도 하고. 그러니 이런 염병할 일이…미안하오, 말이 거칠었소. 이런 빌어처먹을 일이 일어나니 내년 식량 상황이 어떻게 될지 모르겠소.
+<br><br>
+빨리 다음 농사 준비를 시작해야 될 텐데 어찌될지 모르겠소." />
+	<block key="Dialog_1040041_Title" korea_korean="농부 매튜" />
+	<block key="Dialog_1040041_Text0" korea_korean="흡혈귀가 다 뭐라고, 농사를 못 짓게 합니까!
+<br><br>
+그냥 땅 갈고 곡식 기르면서 사는 인생에 왜 이런 일이 일어나는 건지. 어떤 놈이 뭔 짓을 하는지 내가 알 바 아니지만 이렇게 평범하게 사는 사람들까지 휘말리게 만들어서 뭐 좋은 꼴을 본다고.
+<br><br>
+무슨 이유가 있든 남한테 피해 입히지 말고 살라는 게 우리 부모님 가르침이었는데, 이놈들은 배워먹을 만큼 배운 놈일 텐데 왜 이러는지 모르겠습니다. 허이구…" />
+	<block key="Dialog_1040042_Title" korea_korean="약사 아우렐라" />
+	<block key="Dialog_1040042_Text0" korea_korean="원하는 게 있으신가요? 재료만 가져오면 뭐든지 만들어드립니다~
+<br><br>
+사랑이 이뤄지지 않으시나요? 그렇다면 사랑의 비약은 어떠신가요.<br>
+잠 들기 힘드신가요? 그렇다면 열흘 쯤은 거뜬히 잠들 수 있는 수면제는 어떠신가요.<br>
+직장 술자리가 많으신가요? 그렇다면 마셔도마셔도 취하지 않는 취하지 않는 밤이 있습니다~!" />
+	<block key="Dialog_1040043_Title" korea_korean="북부 경비대원 드렉스" />
+	<block key="Dialog_1040043_Text0" korea_korean="히엑?! 누, 누구십니까? 난 여기 숨어있는 중이니까 말 걸지 말아요! 훠이! 훠이!" />
+	<block key="Dialog_1040044_Title" korea_korean="북부 경비대원 로건" />
+	<block key="Dialog_1040044_Text0" korea_korean="검은 나의 몸!
+<br><br>
+아까부터 보고 있었습니다. 대단한 배짱이군요. 그냥 실력에 자신이 있는 겁니까? 그렇게 자신있게 돌아다닐 수 있다는 건 그것 자체로도 대단한 실력입니다.
+<br><br>
+다치지 않도록 항상 정진하는 걸 잊지 마십시오." />
+	<block key="Dialog_1040045_Title" korea_korean="시녀 제시카" />
+	<block key="Dialog_1040045_Text0" korea_korean="무슨 일이시온지요. 이곳은 아무나 올 수 있는 곳이 아닙니다. 비록 고용인 거주구역이라고 해도 엄연히 백작 저택에 부속된 곳이니까요.
+<br><br>
+저는 백작 영애이신 고디바 아가씨의 시중을 맡고 있는 제시카라 합니다. 손님의 성함과 신분을 밝혀주시겠습니까?
+<br><br>
+밝힐 수 없다면 이곳에서 한시라도 빨리 나가주셔야겠습니다. 지금 백작가는 손님을 맞이할 상황이 아닙니다." />
+	<block key="Dialog_1040046_Title" korea_korean="고디바 아가씨" />
+	<block key="Dialog_1040046_Text0" korea_korean="아버지의 과오는 제가 책임질 일입니다. 제가 하지 않았다는 핑계는 댈 수 없지요.
+<br><br>
+국왕 전하께서 벌을 내리신다면 달게 받을 것이고 작위를 폐하시겠다면 그것 또한 당연한 일입니다. 하지만 제가 흡혈귀 연구를 멈출 일은 없을 것입니다.
+<br><br>
+남은 사람이 한 명도 없더라도, 누가 아무리 욕된 말을 하더라도 아버지께서 만들어 내신 과오를 수습하는 것이 귀족의 딸로 태어난 제 긍지니까요." />
+	<block key="Dialog_1040047_Title" korea_korean="신입 경비원 레토" />
+	<block key="Dialog_1040047_Text0" korea_korean="어떻게 해야하지, 어떻게 해야하지. 히익?!
+<br><br>
+다, 당신 누구야! 언제 여기에? 여, 여기가 어딘지 알아! 북방영주 카를레앙 백작님의 저택이라고! 아무나 들어올 수 있는 곳이 아니야!" />
+	<block key="Dialog_1040048_Title" korea_korean="북부 경비대원 오스틴" />
+	<block key="Dialog_1040048_Text0" korea_korean="크피르 도적단 담당자 오스틴입니다." />
+	<block key="Dialog_1040049_Title" korea_korean="신룡 기사단 레일라" />
+	<block key="Dialog_1040049_Text0" korea_korean="이곳은 신룡 기사단 파견기지입니다! 일반인의 출입은 엄중히 차단하고 있습니다. 당장 물러나십시오! 
+<br><br>
+네? 크로우 단장의 명령으로 움직인다고요? 그렇다면 어쩔 수 없지만 너무 헤집고 다니지 말아 주세요." />
+	<block key="Dialog_1040050_Title" korea_korean="신룡 기사단 지휘관 로스탐" />
+	<block key="Dialog_1040050_Text0" korea_korean="신룡 기사단 파견기지 지휘관 로스탐입니다. 무슨 일입니까? 이곳에서 벌어지는 일은 일반에 공개되어 있지 않습니다. 그것이 아무리 크로우 단장의 명령이라고 해도 말입니다.
+<br><br>
+정보는 어디에서 어떻게 흘러나갈지 모르는 것, 우리는 지금 가장 중대한 위협인 사란트는 물론이고 분별없이 날뛰는 도적단까지 막아야 하는 처지입니다. 중임을 맡고 있는 우리 기사단은 누구라도 경계해야 하는 처지이니 이해를 바랍니다." />
+	<block key="Dialog_1040051_Title" korea_korean="왕립조사원 필립" />
+	<block key="Dialog_1040051_Text0" korea_korean="난 왕궁에서 파견된 조사원입니다. 얼어붙은 폐허를 조사하러 왔지. 사란트가 살던 마을이니 뭐 하나라도 정보가 있지 않을까 싶은데 쓸만한 게 없군요.
+<br><br>
+거기다가 설인들은 뭐 그리 무서운지. 모르고 들어갔다가 낭패를 당할 뻔했지 뭡니까. 그냥 왕궁에 돌아갔다가는 큰일인데." />
+	<block key="Dialog_1040052_Title" korea_korean="농부의 아내 나탈리" />
+	<block key="Dialog_1040052_Text0" korea_korean="당신은 누군가요? 또 저더러 안전한 곳 운운하며 수도성으로 보낼 생각인가요?
+<br><br>
+어림없어요. 남편이 오기 전에는 어디도 가지 않아요. 당신들에게는 그냥 농부 한 명이라도 나한테는 누구보다 소중한 남편이란 말이에요!" />
+	<block key="Dialog_1040053_Title" korea_korean="상인 오거스트" />
+	<block key="Dialog_1040053_Text0" korea_korean="에휴휴, 신룡 기사단에 붙어 다니면 벌이는 안정되지만 영 심심하단 말이야.
+<br><br>
+당신은 기사가 아니지? 그거 다행이야. 저치들은 무슨 재미로 세상을 사는지 모를 정도로 무뚝뚝하고 퉁명스런지. 일주일 동안 똑같은 메뉴가 식사로 나와도 불평도 안 하더라니까?
+<br><br>
+에휴휴, 왜, 잡소리 말고 무기나 팔라고? 알아서 골라. 기사단도 쓰는 물건이라 썩 나쁜 물건은 없어." />
+	<block key="Dialog_1040053_Answer_2_text" korea_korean="무기 상점" />
+	<block key="Dialog_1040054_Title" korea_korean="일급 순찰병 젤로스" />
+	<block key="Dialog_1040054_Text0" korea_korean="후우, 여기까지만 와도 춥군.
+<br><br>
+추운 곳에서 순찰행동은 참 어렵습니다. 따뜻한 곳이라면 없는 입김이 있고, 눈 위에 남은 발자국은 쉽게 지울 수도 없기 때문이죠.
+<br><br>
+그리고 추운 곳에 사는 생물들은 강인합니다. 무시무시하게 강인하죠. 어지간한 능력으로는 손도 못 대는데, 어쩌다가 제가 이런 곳에 떨어진 걸까요…" />
+	<block key="Dialog_1040055_Title" korea_korean="진리의 마법사 에드카" />
+	<block key="Dialog_1040055_Text0" korea_korean="세상은 신비로 가득하고 우리는 그 신비를 파헤치기 위해 살아가오. 안녕하시오, 젊은 친구.
+<br><br>
+나는 진리의 마법사 에드가라 하오. 지금은 보잘 것 없는 이름이지만 앞으로는 드높은 이름으로 세상에 알려질 것이오." />
+	<block key="Dialog_1040056_Title" korea_korean="상인 사이번" />
+	<block key="Dialog_1040056_Text0" korea_korean="어서 오십시오. 별로 다양한 물건은 구비하지 못했지만 필요한 물건은 대충 다 있을 겁니다." />
+	<block key="Dialog_1040056_answer_1_text" korea_korean="잡화 상점" />
+	<block key="Dialog_1040057_Title" korea_korean="광부 일라일스" />
+	<block key="Dialog_1040057_Text0" korea_korean="난 원래 광부입니다. 크로쿤 족과 함께 좋은 광물을 찾아서 좋은 제품을 만드는 일을 하고 있었죠. 크로쿤 족은 만드는 재능만 있지 광 캐는 재능은 별로 없어요.
+<br><br>
+빨리 얼어붙은 폐허가 열려서 다시 그들과 같이 일하게 되기를 바라고 있습니다." />
+	<block key="Dialog_1040058_Title" korea_korean="일급 순찰병 로제트" />
+	<block key="Dialog_1040058_Text0" korea_korean="당신은 누구죠? 돌아다니는 모습이 기민한 것이 은밀한 행동도 제법 할 수 있는 모양인데.
+<br><br>
+하지만 기사단도 아니고 병사도 아니라면 그 재능을 맘껏 활용할 수 없지 않나요? 저처럼 말이에요. 저는 좀도둑질이나 해먹고 살았지만 지금은 로스탐 대장 덕분에 순찰병으로 꽤 날리고 있거든요." />
+	<block key="Dialog_1040059_Title" korea_korean="신룡 기사단 비밀 순찰병" />
+	<block key="Dialog_1040059_Text0" korea_korean="쉬-잇!
+<br><br>
+은밀한 임무를 수행중입니다. 그렇게 아무렇게나 말을 걸지 마십시오." />
+	<block key="Dialog_1040060_Title" korea_korean="진리의 마법사 바로스" />
+	<block key="Dialog_1040060_Text0" korea_korean="강력한 마법 사용 능력을 가진 마법사입니다." />
+	<block key="Dialog_1040061_Title" korea_korean="어린 목동 제프" />
+	<block key="Dialog_1040061_Text0" korea_korean="뭔가 몸이 아픕니다. 정신이 없어요." />
+	<block key="Dialog_1040062_Title" korea_korean="늑대 인간이 된 제프" />
+	<block key="Dialog_1040062_Text0" korea_korean="내가.. 이렇게 흉칙해지다니 어떻게 된거죠?" />
+	<block key="Dialog_1040063_Title" korea_korean="하카나스 왕국 포탈" />
+	<block key="Dialog_1040063_Text0" korea_korean="하카나스 왕국으로 갈 수 있는 포탈입니다." />
+	<block key="Dialog_1040063_Answer_0_Text" korea_korean="하카나스 왕국으로 이동하기" />
+	<block key="Dialog_1040064_Title" korea_korean="정령의 숲 포탈" />
+	<block key="Dialog_1040064_Text0" korea_korean="정령의 숲으로 갈 수 있는 포탈입니다." />
+	<block key="Dialog_1040064_Answer_0_Text" korea_korean="정령의 숲으로 이동하기" />
+	<block key="Dialog_1040065_Title" korea_korean="농가의 생존자 휴" />
+	<block key="Dialog_1040065_Text0" korea_korean="이제 세상은 끝났어, 내 가족도 끝났고 내 이웃도 끝났어. 끝나버렸어…
+<br><br>
+내 아버지는 늑대에 물려죽고, 내 어머니는 순록에 받쳐죽고, 내 아내는 다 도망쳐 놓고 곰에게 맞아 죽었지. 키키키킥!
+<br>
+…다 도망쳤는데! 살 수 있었는데!!!" />
+	<block key="Dialog_2023005_title" korea_korean="잡화 보부상인 맥" />
+	<block key="Dialog_2023005_text0" korea_korean="안녕하세요, 어서 오세요.
+<br><br>
+있는 것은 다 있고 없는 것은 절대로 없는 잡화 상점입니다!" />
+	<block key="Dialog_2023005_answer_0_text" korea_korean="잡화 상점" />
+	<block key="Dialog_2023006_title" korea_korean="장비 보부상인 볼트" />
+	<block key="Dialog_2023006_text0" korea_korean="어섭셔~<br><br>세상에 있는 장비란 장비는 전부! 있지는 않습니다만 구입하시면 후회가 없을 장비만 있습니다!" />
+	<block key="Dialog_2023006_answer_0_text" korea_korean="장비 상점" />
+	<block key="Dialog_2023007_title" korea_korean="무기 보부상인 로번" />
+	<block key="Dialog_2023007_text0" korea_korean="생명을 맡기는 무기! 어디 아무 곳에서나 구할 수 있겠습니까!<br><br>신뢰를 바탕으로 하는 로빈이 모십니다~!" />
+	<block key="Dialog_2023007_answer_0_text" korea_korean="무기 상점" />
+	<block key="Dialog_2023008_title" korea_korean="무기 상인 폴" />
+	<block key="Dialog_2023008_text0" korea_korean="한손, 양손, 지팡이, 단검, 활! 종류를 가리지 않고 갖춰 놨습니다! 말씀만 하십시오!" />
+	<block key="Dialog_2023008_answer_0_text" korea_korean="무기 상점" />
+	<block key="Dialog_2023009_title" korea_korean="무기 상인 페이건" />
+	<block key="Dialog_2023009_text0" korea_korean="무기는 때에 따라 바꿔줘야죠. 손님, 돈푼 아끼려고 손에 맞지 않는 무기 들다가 위험에 빠지지 마시고!<br><br>바로 지금!<br>바꾸세요!" />
+	<block key="Dialog_2023009_answer_0_text" korea_korean="무기 상점" />
+	<block key="Dialog_2023010_title" korea_korean="방어구 상인 롤리노아" />
+	<block key="Dialog_2023010_text0" korea_korean="전투는 방어부터! 방어는 최고의 공격!<br><br>찾으시는 물건이 뭡니까? 충분히 만족시켜 드리겠습니다!" />
+	<block key="Dialog_2023010_answer_0_text" korea_korean="방어구 상점" />
+	<block key="Dialog_2023011_title" korea_korean="방어구 상인 클라크" />
+	<block key="Dialog_2023011_text0" korea_korean="선수필승도 좋지만 그게 빗나갔을 때도 준비를 해야죠.<br><br>기사들이 하는 결투도 아니고 맹수나 야만족은 튼튼하지 않습니까. 그런 상황에서 믿을 건 방어구 뿐이죠!" />
+	<block key="Dialog_2023011_answer_0_text" korea_korean="방어구 상점" />
+	<block key="Dialog_2023012_title" korea_korean="잡화 상인 벤자민" />
+	<block key="Dialog_2023012_text0" korea_korean="쓸만한 물건 많습니다!<br><br>어허! 그냥 지나가시면 섭합니다!" />
+	<block key="Dialog_2023012_answer_0_text" korea_korean="잡화 상점" />
+	<block key="Dialog_2023013_title" korea_korean="장비 상인 제프" />
+	<block key="Dialog_2023013_text0" korea_korean="싸움터를 전전하다보면 작은 차이로 결과가 바뀌기도 하죠.<br><br>남보다 앞서는 사람의 선택! 여기에 있습니다!" />
+	<block key="Dialog_2023013_answer_0_text" korea_korean="장비 상점" />
+	<block key="Dialog_2023014_title" korea_korean="물약 상인 롤란" />
+	<block key="Dialog_2023014_text0" korea_korean="긴급 상황에서는 역시 물약만큼 믿을 수 있는 것도 없죠. 저렴하게는 못 모시지만 충실하게 모십니다!" />
+	<block key="Dialog_2023014_answer_0_text" korea_korean="물약 상점" />
+	<block key="Dialog_2023015_title" korea_korean="방어구 상인 크론" />
+	<block key="Dialog_2023015_text0" korea_korean="일류는 역시 방어구도 까다롭게 고릅니다. 공격하는 기법만 생각하면 살아남기 어려워요. 무엇을 원하십니까?" />
+	<block key="Dialog_2023015_answer_0_text" korea_korean="방어구 상점" />
+	<block key="Dialog_2023016_title" korea_korean="무기 상인 베크" />
+	<block key="Dialog_2023016_text0" korea_korean="이런 곳에서 무기를 구하는 겁니까? 뭐, 상관이야 없지만 어지간히 준비성이 없군요.
+<br><br>
+만족할 수 있을지 모르지만 무기는 적당히 있으니 한 번 골라보시죠." />
+	<block key="Dialog_2023016_answer_0_text" korea_korean="무기 상점" />
+	<block key="Dialog_2023017_title" korea_korean="방어구 보부상인 스벤트" />
+	<block key="Dialog_2023017_text0" korea_korean="뛰어난 사람은 뛰어난 물건을 알아보는 법이지.<br><br>괜찮은 물건은 많네. 돈만 있으면 살 수 있지." />
+	<block key="Dialog_2023017_answer_0_text" korea_korean="방어구 상점" />
+	<block key="Dialog_2023018_title" korea_korean="방어구 상인 벤틀리" />
+	<block key="Dialog_2023018_text0" korea_korean="야전에서 생존률을 높이려면 무기보다는 방어구에 신경을 쓰는 게 좋지요. 찾으시는 물건 있습니까?" />
+	<block key="Dialog_2023018_answer_0_text" korea_korean="방어구 상점" />
+	<block key="Dialog_2023019_title" korea_korean="잡화 상인 리나" />
+	<block key="Dialog_2023019_text0" korea_korean="둘러보세요. 찾는 물건을 만나길 바랄게요." />
+	<block key="Dialog_2023019_answer_0_text" korea_korean="잡화 상점" />
+	<block key="Dialog_2023020_title" korea_korean="음식 상인 매기" />
+	<block key="Dialog_2023020_text0" korea_korean="배가 고프면 아무것도 할 수 없죠! 사람은 역시 배가 불러야 싸우든 놀든 한다니까요!" />
+	<block key="Dialog_2023020_answer_0_text" korea_korean="음식 상점" />
+	<block key="Dialog_2023021_title" korea_korean="음식 상인 지나" />
+	<block key="Dialog_2023021_text0" korea_korean="맛있~는 음식 있습니다! 어디 다른 곳에서는 이렇게 괜찮은 음식 구할 수 있을까요~?" />
+	<block key="Dialog_2023021_answer_0_text" korea_korean="음식 상점" />
+	<block key="Dialog_2023022_title" korea_korean="잡화 상인 몰리" />
+	<block key="Dialog_2023022_text0" korea_korean="잡화점이 잡다하다고 하지 마! 잡화점은 잡다한 게 아니라 모든 것을 파는 것뿐이야! 필요하다고 하는 걸 구하다 보니 이렇게 된 거라고!" />
+	<block key="Dialog_2023022_answer_0_text" korea_korean="잡화 상점" />
+	<block key="Dialog_2023023_title" korea_korean="음식 상인 페기" />
+	<block key="Dialog_2023023_text0" korea_korean="영양이면 영양~맛이면 맛~어느 쪽이든 놓치기 힘들다면 바로 여기에서 사세요!" />
+	<block key="Dialog_2023023_answer_0_text" korea_korean="음식 상점" />
+	<block key="Dialog_2023024_title" korea_korean="음식 상인 로라" />
+	<block key="Dialog_2023024_text0" korea_korean="음식은 손맛이죠. 정성스럽게 조리한 음식이 가득합니다. 구경만 하세요, 구경만~보고 나면 사게 될 테니까~" />
+	<block key="Dialog_2023024_answer_0_text" korea_korean="음식 상점" />
+	<block key="Dialog_2023025_title" korea_korean="물약 상인 엘리나" />
+	<block key="Dialog_2023025_text0" korea_korean="크으~연금술사는 아무튼 지독하다니까요. 물약 가격을 내리는 법이 없어요. 그래도 이거 없이 어디 밖에 나갈 수나 있나요?<br><br>조금 부족하다 싶더라도 두둑히 보충하고 가세요." />
+	<block key="Dialog_2023025_answer_0_text" korea_korean="물약 상점" />
+	<block key="Dialog_1040066_title" korea_korean="포탈 이동사 아프리스" />
+	<block key="Dialog_1040066_text0" korea_korean="이 포탈을 이용하면, 네드 대륙의 정해진 장소로 순식간에 이동을 할 수가 있지. 
+<br><br>
+물론. 시공간을 뛰어 넘는 마법의 대가로 약간의 수수료를 받고 있네. 포탈을 이용할텐가?" />
+	<block key="Dialog_1040066_answer_0_text" korea_korean="하카나스 성으로 가기" />
+	<block key="Dialog_1040067_title" korea_korean="포탈 이동사 프리온" />
+	<block key="Dialog_1040067_text0" korea_korean="이 포탈을 이용하면, 네드 대륙의 정해진 장소로 순식간에 이동을 할 수가 있지. 
+<br><br>
+물론. 시공간을 뛰어 넘는 마법의 대가로 약간의 수수료를 받고 있네. 포탈을 이용할텐가?" />
+	<block key="Dialog_1040067_answer_0_text" korea_korean="엘프 유적지로 가기" />
+	<block key="Dialog_1040067_answer_1_text" korea_korean="켈우즈 마을 제작소로 가기" />
+	<block key="Dialog_1040067_answer_2_text" korea_korean="포효의 숲 주둔지로 가기" />
+	<block key="Dialog_1040067_answer_3_text" korea_korean="신룡 기사단 주둔지로 가기 [정령의 숲]" />
+	<block key="Dialog_1040068_title" korea_korean="포탈 이동사 엔틸로프" />
+	<block key="Dialog_1040068_text0" korea_korean="이 포탈을 이용하면, 네드 대륙의 정해진 장소로 순식간에 이동을 할 수가 있지. 
+<br><br>
+물론. 시공간을 뛰어 넘는 마법의 대가로 약간의 수수료를 받고 있네. 포탈을 이용할텐가?" />
+	<block key="Dialog_1040068_answer_0_text" korea_korean="하카나스 성으로 가기" />
+	<block key="Dialog_1040068_answer_1_text" korea_korean="포효의 숲 주둔지로 가기" />
+	<block key="Dialog_1040069_title" korea_korean="포탈 이동사 아론워드" />
+	<block key="Dialog_1040069_text0" korea_korean="이 포탈을 이용하면, 네드 대륙의 정해진 장소로 순식간에 이동을 할 수가 있지. 
+<br><br>
+물론. 시공간을 뛰어 넘는 마법의 대가로 약간의 수수료를 받고 있네. 포탈을 이용할텐가?" />
+	<block key="Dialog_1040069_answer_0_text" korea_korean="켈우즈 마을 제작소로 가기" />
+	<block key="Dialog_1040069_answer_1_text" korea_korean="하카나스 성으로 가기" />
+	<block key="Dialog_1040070_title" korea_korean="신룡기사 르브론 코터" />
+	<block key="Dialog_1040070_text0" korea_korean="나의 검은 빛과 함께!<br><br>저는 병사들을 이끌고 이곳에 주둔하고 있습니다. 요즘 흉흉한 일이 있지만 아젤라님과 함께 이곳을 지키기 위해 전력을 다하고 있습니다." />
+	<block key="Dialog_1040071_title" korea_korean="지방 귀족 발레로아" />
+	<block key="Dialog_1040071_text0" korea_korean="원대한 꿈을 이루기 위해 이 곳에 왔지. 언젠가는 왕국을 쥐고 흔드는 큰 권력을 가질거야. 정말이라구! 그때를 위해서 든든한 인맥을 만들어야 해.  나에게 힘을 줄 수 있는 사람들을 만드는 일에 도움이 필요한 데, 도와주겠어?" />
+	<block key="Dialog_1040072_title" korea_korean="고등 기사 생가를렌" />
+	<block key="Dialog_1040072_text0" korea_korean="왕국 안에서 벌어지는 불길한 사건들에 대해 의견을 이야기하는 중이오. 혹시 나에게 할 말이 있소?" />
+	<block key="Dialog_1040073_title" korea_korean="경매상 하리드만" />
+	<block key="Dialog_1040073_text0" korea_korean="지금은 경매장이 정신없이 돌아가는 시간이야. 할 말이 있으면 한가한 시간에.. 알겠지?" />
+	<block key="Dialog_1040074_title" korea_korean="운송선 선장 요로프" />
+	<block key="Dialog_1040074_text0" korea_korean="이익만 남는다면 언제라도 출발할 준비가 되어 있어. 가고 싶은 곳이 있는가?" />
+	<block key="Dialog_1040075_title" korea_korean="비행선 선장 스피니트" />
+	<block key="Dialog_1040075_text0" korea_korean="기다려 보게. 아직 여행자가 다 모이지 않았어." />
+	<block key="Dialog_1040076_title" korea_korean="왕국 은행장 트리센" />
+	<block key="Dialog_1040076_text0" korea_korean="부자가 되려면 숲을 보게나. 나무를 보지 말고… 돈의 흐름을 보고 있다가 적당한 시기가 되면, 투자하겠다는 결단만 하면 되네. 조언이 필요하면 언제든지 물어보게." />
+	<block key="Dialog_1040077_title" korea_korean="진리의 마법사 리네타" />
+	<block key="Dialog_1040077_text0" korea_korean="우리는 악의 기운에 맞서, 정의를 수호하는 일을 해오고 있습니다. 이 일은 사명으로만 되지는 않아요. 정말로 선을 사랑하는 마음과 올바르지 않은 일은 절대 하지 않겠다는 결심이 필요하죠." />
+	<block key="Dialog_1040078_title" korea_korean="수석 대장장이 투호린" />
+	<block key="Dialog_1040078_text0" korea_korean="여~대장장이 일에 흥미가 있으신가? 단순히 흥미가 있다고 해도 나쁘지 않지.
+<br><br>
+장인을 자부하는 이 몸이지만 옛날처럼 구닥다리 사고방식을 지니고 있지는 않으니까." />
+	<block key="Dialog_1040079_title" korea_korean="무덤지기 하슬림" />
+	<block key="Dialog_1040079_text0" korea_korean="어허이! 깜짝이야! 거, 기척 좀 죽이고 돌아다니쇼! 지금 나 죽여줍쇼!하고 다니는 거요? 다행히 저기 마법사님이 와줘서 다행이지만 좀비가 얼마나 민감한데.
+<br><br>
+그리고, 여기 기어 다니는 좀비 때문에 지금 신경이 얼마나 곤두섰는지 모르겠수? 바닥에 신발 끄는 소리만 들려도 경기가 날 마당이란 말요!" />
+	<block key="Dialog_1040080_title" korea_korean="방어구 장인 스윈" />
+	<block key="Dialog_1040080_text0" korea_korean="흠흠…그런 옷차림이라니, 세상은 말이지, 실용성만 갖고 살 수는 없어. 패션이라는 걸 신경 쓰기는 하는 건가? 그렇지 않고서야 어떻게 그런 몰골로 돌아다닐 수 있는 건가.
+<br><br>
+아아, 그래. 물론 실용성도 중요하지. 방어라는 목적에 충실해야 하는 건 기본이야.
+<br><br>
+하지만 튼튼하다고 해서 기사단이 누더기처럼 기운 갑옷을 입을 수는 없지. 효율적이라고 해서 일체성 없는 옷을 입은 모험가는 어떻고. 사람은 세상에 인식되는 자신의 모습을 의식하면서 살아야 하는 법이야." />
+	<block key="Dialog_1040081_title" korea_korean="수도성 경비대 디에고" />
+	<block key="Dialog_1040081_text0" korea_korean="충~성!<br><br>근무 중 이상 없…그런데 누구십니까?<br><br>최근 포효의 숲에서 살던 짐승들이 숲을 벗어나 돌아다니고 있으니 조심하십시오. 그 중에는 검은 용족의 해츨링도 있다고 합니다." />
+	<block key="Dialog_1040082_title" korea_korean="수도성 경비대 브로디" />
+	<block key="Dialog_1040082_text0" korea_korean="충~성.<br><br>혹시 포효의 숲에 있는 기사단 캠프에 가봤습니까? 멋있는 신룡 기사단이 주둔하고 있는 곳 말입니다. 저도 그렇게 될 수 있을까요?<br><br>…주변에서는 헛꿈 꾸지 말라고 하지만 말입니다." />
+	<block key="Dialog_1040083_title" korea_korean="제프의 엄마 에이다" />
+	<block key="Dialog_1040083_text0" korea_korean="누, 누구…인가요? 여긴 어디죠?<br><br>내 아들, 내 아들 제프는 어디에 있나요?!" />
+	<block key="Dialog_1040084_title" korea_korean="왕비 베네피시아" />
+	<block key="Dialog_1040084_text0" korea_korean="공주는 구해내지 못했습니까?<br><br>마음을 지키는 마법은 알고 있지만 몸을 지키는 마법은 모르는 아이라 걱정이군요.<br><br>…괜찮아요. 저는 우리 왕국의 기사와 마법사 여러분을 믿습니다. 아니, 기사와 마법사만이 아닌 우리 왕국 모든 국민을 믿습니다.<br><br>꼭, 라니아를 구해내줄 거라고 믿어요!" />
+	<block key="Dialog_9011008_title" korea_korean="길들이기 교본" />
+	<block key="Dialog_9011008_text0" korea_korean="길들이기를 배워봅시다.
+<br><br>
+1. 먼저 길들이기가 가능한 동물을 선택합시다.<br><br>
+2. 선택한 동물을 길들일 태세를 갖춥시다.(길들이기 스킬 사용)<br><br>
+3. 조심스럽게 적당한 거리까지 다가간 후 점프! 거리를 잘못 맞추면 싸우게 되어버리니 주의하세요.<br><br>
+4. 이제는 동물과 마음이 통하길 기다리며 등을 안고 버팁니다!<br><br>
+5. 성공하신다면 든든한 동반자 펠로우를 얻게 되신 겁니다. 실패하면 한바탕 싸우셔야겠죠.
+<br><br>그럼 행운을 빕니다.
+<br><br>
+하카나스 왕국 조련사 협회 발간
+<br>야수 조련사 엑셀 편집" />
+	<block key="Dialog_3020702_Title" korea_korean="염색사 라블레즈" />
+	<block key="Dialog_3020702_Text0" korea_korean="어서 오십시요. 무엇을 도와드릴까요?" />
+	<block key="Dialog_3020702_Answer_0_Text" korea_korean="아이템에 염색을 하고싶습니다." />
+	<block key="Dialog_3020702_Answer_1_Text" korea_korean="머리에 염색을 하고싶습니다." />
+	<block key="Dialog_3020901_Title" korea_korean="성스러운 치료사" />
+	<block key="Dialog_3020901_Text0" korea_korean="당신에게서 영혼의 아픔이 느껴지는군요." />
+	<block key="Dialog_3020901_Answer_0_Text" korea_korean="부활 후유증을 치료하고 싶습니다." />
+	<block key="Dialog_9999999_Title" korea_korean="다이얼로그 마지막 번호" />
+	<block key="Dialog_9999999_Text0" korea_korean="다이얼로그 마지막 번호" />
+	<block key="Dialog_3020703_Title" korea_korean="염색사 이리나" />
+	<block key="Dialog_3020703_Text0" korea_korean="어서 오십시요. 무엇을 도와드릴까요?" />
+	<block key="Dialog_3020703_Answer_0_Text" korea_korean="아이템에 염색을 하고싶습니다." />
+	<block key="Dialog_3020703_Answer_1_Text" korea_korean="머리에 염색을 하고싶습니다." />
+	<block key="Dialog_3020704_Title" korea_korean="염색사 로즈" />
+	<block key="Dialog_3020704_Text0" korea_korean="어서 오십시요. 무엇을 도와드릴까요?" />
+	<block key="Dialog_3020704_Answer_0_Text" korea_korean="아이템에 염색을 하고싶습니다." />
+	<block key="Dialog_3020704_Answer_1_Text" korea_korean="머리에 염색을 하고싶습니다." />
+	<block key="Dialog_1000001_Title" korea_korean="G☆STAR 이벤트 도우미" />
+	<block key="Dialog_1000001_Text0" korea_korean="어서 오세요!<br><br>G☆STAR 2010! 즐겁게 보내고 계신가요?<br><br>NED와 함께 더 즐거운 시간 보내세요!" />
+	<block key="Dialog_1040085_Title" korea_korean="순간이동 마법사 다이렌" />
+	<block key="Dialog_1040085_Text0" korea_korean="마법사의 전당은 하카나스 성 내부의 비밀스러운 곳에 위치하고 있습니다. 그곳에 가기 위해서는 저 같은 순간이동 마법사의 도움이 필요하지요. 지금 마법사의 전당으로 이동하시겠습니까?" />
+	<block key="Dialog_1040085_Answer_0_Text" korea_korean="마법사의 전당으로 이동" />
+	<block key="Dialog_1040086_Title" korea_korean="순간이동 마법사 류코스" />
+	<block key="Dialog_1040086_Text0" korea_korean="이곳에서 나가실때도, 저와 같은 순간이동 마법사의 도움이 필요하지요. 지금 하카나스 성으로 이동하시겠습니까?" />
+	<block key="Dialog_1040086_Answer_0_Text" korea_korean="하카나스 성으로 이동" />
+	<block key="Dialog_1040087_Title" korea_korean="안데르 필그림" />
+	<block key="Dialog_1040087_Text0" korea_korean="……(어두운 표정을 짓고 있다." />
+	<block key="Dialog_1040088_Title" korea_korean="섀도우 클랜 비하인드" />
+	<block key="Dialog_1040088_Text0" korea_korean="쉿, 탐색 임무 중입니다. 목소리를 낮춰 주십시오." />
+	<block key="Dialog_1040089_Title" korea_korean="신룡 기사 라플리스" />
+	<block key="Dialog_1040089_Text0" korea_korean="내게 무슨 일이지? 아무 용건도 없이 기사에게 말을 걸려는 건가?" />
+	<block key="Dialog_1040090_Title" korea_korean="모험가 스티븐스" />
+	<block key="Dialog_1040090_Text0" korea_korean="뭐야! 귀찮게 하지 말고 날 내버려 둬!<br><br>이 세상은 마음 놓고 취하지도 못하게 하는 거냐!" />
+	<block key="Dialog_1040091_Title" korea_korean="공주의 유모 실리네" />
+	<block key="Dialog_1040091_Text0" korea_korean="공주님 몸에 아무 일도 없어야 할 텐데요." />
+	<block key="Dialog_1040092_Title" korea_korean="공작 영애 에카테리나" />
+	<block key="Dialog_1040092_Text0" korea_korean="흥, 천한 것이 누구에게 함부로 말을 거는 것이냐!" />
+	<block key="Dialog_1040092_answer_0_Text" korea_korean="공작 영애가 의심스럽다. 왜 여기 있는지 물어보자." />
+	<block key="Dialog_1040093_Title" korea_korean="시녀 리스" />
+	<block key="Dialog_1040093_Text0" korea_korean="흐, 흡혈귀?! 아, 아니구나…정말, 아닌가요?<br><br>당신은 누구죠? 겨우 여기까지 도망쳤지만, 경비병들도 저택에서 일하던 친구들도 전부 흡혈귀가 됐어요.<br><br>도저히, 도저히 무서워서 견딜 수가 없어요!!" />
+	<block key="Dialog_9011009_Title" korea_korean="공작 영애 에카테리나" />
+	<block key="Dialog_9011009_Text0" korea_korean="그건 알아서 뭐하려고? 그 잘난 라니아 공주 전하께 고해 바치시려고?<br><br>고해 바치시지! 그 계집애가 있다면 말이야!<br><br>하긴, 그럴 수도 없겠구나. 너는 바로 여기서 사라지게 될 테니까!" />
+</blocks>

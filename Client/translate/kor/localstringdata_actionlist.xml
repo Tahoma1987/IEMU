@@ -1,0 +1,55 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="actionlist_normal_Attack_title" korean="일반 공격" />
+	<block key="actionlist_normal_Attack_desc" korean="지정된 대상을 공격합니다." />
+	<block key="actionlist_normal_Looting_title" korean="아이템 줍기" />
+	<block key="actionlist_normal_Looting_desc" korean="대상이 드랍한 아이템을 줍습니다." />
+	<block key="actionlist_normal_BattleOrNoBattle_title" korean="전투/일반 전환" />
+	<block key="actionlist_normal_BattleOrNoBattle_desc" korean="캐릭터의 전투 상태를 발동 / 해제 시킵니다." />
+	<block key="actionlist_normal_WalkOrRun_title" korean="걷기/뛰기 전환" />
+	<block key="actionlist_normal_WalkOrRun_desc" korean="캐릭터를 걷기 / 뛰기 상태로 전환합니다." />
+	<block key="actionlist_community_InviteToParty_title" korean="파티 초대/참여" />
+	<block key="actionlist_community_InviteToParty_desc" korean="상대방을 파티에 초대하거나, 상대방의 파티에 참가 신청을 합니다." />
+	<block key="actionlist_community_RequestBattle_title" korean="결투 신청" />
+	<block key="actionlist_community_RequestBattle_desc" korean="상대방에게 결투를 신청합니다." />
+	<block key="actionlist_community_RequestTrade_title" korean="1:1 거래 신청" />
+	<block key="actionlist_community_RequestTrade_desc" korean="상대방에게 1:1 거래를 신청합니다." />
+	<block key="actionlist_skill_Taming_title" korean="길들이기" />
+	<block key="actionlist_skill_Taming_desc" korean="선택한 대상을 길들일 수 있는 길들이기 상태가 됩니다. 길들이기 상태에서 선택한 대상의 뒤쪽으로 숨어들어가 일정 거리 이상 접근하면 길들이기가 시작됩니다. 대상에게 들키거나, 대상 선택을 취소하면 길들이기 상태가 해제됩니다." />
+	<block key="actionlist_skill_Absorption_title" korean="영혼흡수" />
+	<block key="actionlist_skill_Absorption_desc" korean="선택한 대상의 영혼을 흡수합니다. 흡수한 영혼으로 해당 영혼의 특수한 특성을 배우거나, 영혼을 변화시켜 영혼석을 만들 수 있습니다." />
+	<block key="actionlist_emotion_0_title" korean="승리" />
+	<block key="actionlist_emotion_0_desc" korean="전투에 승리해서 기뻐하는 동작. /승리" />
+	<block key="actionlist_emotion_1_title" korean="패배" />
+	<block key="actionlist_emotion_1_desc" korean="전투에 패배해 슬퍼하는 동작. /패배" />
+	<block key="actionlist_emotion_2_title" korean="고백" />
+	<block key="actionlist_emotion_2_desc" korean="상대방에게 사랑을 고백하는 동작. /고백" />
+	<block key="actionlist_emotion_3_title" korean="놀람" />
+	<block key="actionlist_emotion_3_desc" korean="깜짝 놀라는 동작. /놀람" />
+	<block key="actionlist_emotion_4_title" korean="돌격" />
+	<block key="actionlist_emotion_4_desc" korean="전방으로 힘차게 전진하라는 동작. /돌격" />
+	<block key="actionlist_emotion_5_title" korean="웃기" />
+	<block key="actionlist_emotion_5_desc" korean="신나게 웃는 동작. /웃기" />
+	<block key="actionlist_emotion_6_title" korean="응원" />
+	<block key="actionlist_emotion_6_desc" korean="몸을 크게 움직이면서 상대방을 응원하는 동작. /응원" />
+	<block key="actionlist_emotion_7_title" korean="거절" />
+	<block key="actionlist_emotion_7_desc" korean="상대방의 말을 거절하는 동작. /거절" />
+	<block key="actionlist_emotion_8_title" korean="박수" />
+	<block key="actionlist_emotion_8_desc" korean="박수를 치면서 상대방을 칭찬하는 동작. /박수" />
+	<block key="actionlist_emotion_9_title" korean="긍정" />
+	<block key="actionlist_emotion_9_desc" korean="고개를 끄덕이면서 상대방의 말에 동감하는 동작. /긍정" />
+	<block key="actionlist_normal_Change2Magicstone_title" korean="영혼석 변환" />
+	<block key="actionlist_normal_Change2Magicstone_desc" korean="펠로우의 영혼을 영혼석으로 변환합니다. 영혼석 변환이 끝나면 해당 펠로우는 사라지게 됩니다." />
+	<block key="actionlist_normal_CreatureRide_title" korean="펠로우 탑승(U)" />
+	<block key="actionlist_normal_CreatureRide_desc" korean="소환하고 있는 펠로우에 탑승합니다.<br>( F ) 키를 누르면 펠로우 정보창을 열 수 있습니다.<br>펠로우 얼굴을 클릭하면 소환/소환 해제가 가능합니다" />
+	<block key="actionlist_normal_swapweapon_title" korean="무기 교체" />
+	<block key="actionlist_normal_swapweapon_desc" korean="착용하고 있는 무기를 교체합니다." />
+	<block key="actionlist_normal_SitOrStand_title" korean="앉기/일어서기" />
+	<block key="actionlist_normal_SitOrStand_desc" korean="캐릭터를 앉기/일어서기 상태로 전환합니다.<br>앉기 상태에선 평소보다 HP/MP가 좀 더 빠르게 회복됩니다." />
+</blocks>

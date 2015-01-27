@@ -1,0 +1,21 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="area_sp_p_0001_name" korean="사란트의 감옥" />
+	<block key="area_sf_r_0005_name" korean="비행선 추락지" />
+	<block key="area_sf_r_0001_name" korean="신룡기사단 주둔지" />
+	<block key="area_sf_r_0002_name" korean="유적지 폐허 야영지" />
+	<block key="area_sf_r_0003_name" korean="광채나무 숲 캠프" />
+	<block key="area_hk_r_0001_name" korean="엘프 유적지 캠프" />
+	<block key="area_hk_r_0007_name" korean="산서프스 피난 캠프" />
+	<block key="area_hk_r_0002_name" korean="산서프스 피난 캠프" />
+	<block key="area_hk_r_0003_name" korean="하카나스 성" />
+	<block key="area_hk_r_0004_name" korean="북부 경비탑" />
+	<block key="area_hk_r_0005_name" korean="켈우즈 마을" />
+	<block key="area_hk_r_0006_name" korean="포효의 숲 주둔지" />
+</blocks>

@@ -1,0 +1,515 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="E_01_0_0245_0000_Name" korean="레오" />
+	<block key="E_01_0_0245_0000_NameDetail" korean="" />
+	<block key="E_00_0_0686_0000_Name" korean="독수리" />
+	<block key="E_00_0_0686_0000_NameDetail" korean="" />
+	<block key="E_00_0_0083_0000_Name" korean="곰" />
+	<block key="E_00_0_0083_0000_NameDetail" korean="" />
+	<block key="E_00_0_0602_0000_Name" korean="브라기 정찰병" />
+	<block key="E_00_0_0602_0000_NameDetail" korean="" />
+	<block key="E_00_0_0704_0000_Name" korean="폭풍의 용" />
+	<block key="E_00_0_0704_0000_NameDetail" korean="" />
+	<block key="E_00_0_0245_0000_Name" korean="레오" />
+	<block key="E_00_0_0245_0000_NameDetail" korean="" />
+	<block key="E_00_0_0605_0000_Name" korean="브라기 약탈 용사(영상용)" />
+	<block key="E_00_0_0605_0000_NameDetail" korean="" />
+	<block key="E_00_0_1100_0000_Name" korean="어둠의 마법사 대사제(영상용)" />
+	<block key="E_00_0_1100_0000_NameDetail" korean="" />
+	<block key="E_99_0_1501_0000_Name" korean="빛의 사자" />
+	<block key="E_99_0_1501_0000_NameDetail" korean="" />
+	<block key="E_99_0_0644_0000_Name" korean="사신" />
+	<block key="E_99_0_0644_0000_NameDetail" korean="" />
+	<block key="E_99_0_0003_0000_Name" korean="카라드 해적단 칼잡이" />
+	<block key="E_99_0_0003_0000_NameDetail" korean="" />
+	<block key="E_99_0_0002_0000_Name" korean="카라드 해적단 돌격병" />
+	<block key="E_99_0_0002_0000_NameDetail" korean="" />
+	<block key="E_99_0_0004_0000_Name" korean="제이슨 클래키" />
+	<block key="E_99_0_0004_0000_NameDetail" korean="카라드 해적단" />
+	<block key="E_99_0_0007_0000_Name" korean="검은 불꽃 숨결" />
+	<block key="E_99_0_0007_0000_NameDetail" korean="폭풍의 용" />
+	<block key="E_99_0_0011_0000_Name" korean="난폭한 보케플로스" />
+	<block key="E_99_0_0011_0000_NameDetail" korean="" />
+	<block key="E_99_0_0006_0000_Name" korean="카라드 해적단 갑판원" />
+	<block key="E_99_0_0006_0000_NameDetail" korean="" />
+	<block key="E_99_0_0008_0000_Name" korean="카라드 해적단 연락병" />
+	<block key="E_99_0_0008_0000_NameDetail" korean="" />
+	<block key="E_99_0_0005_0000_Name" korean="무자비한 제라딘" />
+	<block key="E_99_0_0005_0000_NameDetail" korean="카라드 해적단" />
+	<block key="E_99_0_0009_0000_Name" korean="불꽃 날개" />
+	<block key="E_99_0_0009_0000_NameDetail" korean="폭풍의 용" />
+	<block key="E_99_0_0010_0000_Name" korean="암흑마룡 카라샤" />
+	<block key="E_99_0_0010_0000_NameDetail" korean="사란트의 심복" />
+	<block key="E_99_0_0014_0000_Name" korean="카라드 해적단 돌격병" />
+	<block key="E_99_0_0014_0000_NameDetail" korean="" />
+	<block key="E_99_0_0012_0000_Name" korean="카라드 해적단 검객" />
+	<block key="E_99_0_0012_0000_NameDetail" korean="" />
+	<block key="E_03_0_1300_0001_Name" korean="해안가 카라드 해적단" />
+	<block key="E_03_0_1300_0001_NameDetail" korean="" />
+	<block key="E_03_0_0003_0000_Name" korean="무자비한 비스무트" />
+	<block key="E_03_0_0003_0000_NameDetail" korean="비스무트 해적단 선장" />
+	<block key="E_99_0_0008_0001_Name" korean="카라드 해적단 연락병" />
+	<block key="E_99_0_0008_0001_NameDetail" korean="" />
+	<block key="E_99_0_0008_0002_Name" korean="카라드 해적단 연락병" />
+	<block key="E_99_0_0008_0002_NameDetail" korean="" />
+	<block key="e_f04_DragAster_001_Name" korean="플로티어" />
+	<block key="e_f04_DragAster_001_NameDetail" korean="" />
+	<block key="e_f04_DragBonwy_001_Name" korean="짙은 암흑 드래곤 바이티" />
+	<block key="e_f04_DragBonwy_001_NameDetail" korean="" />
+	<block key="e_f04_DragAster_002_Name" korean="하이에버드" />
+	<block key="e_f04_DragAster_002_NameDetail" korean="" />
+	<block key="e_f04_ImmoSoldi_001_Name" korean="불사 군단 병사" />
+	<block key="e_f04_ImmoSoldi_001_NameDetail" korean="" />
+	<block key="e_f04_Dimp_001_Name" korean="불사 군단 임프" />
+	<block key="e_f04_Dimp_001_NameDetail" korean="" />
+	<block key="e_f04_DragCaras_002_Name" korean="칼날 악몽 바라네" />
+	<block key="e_f04_DragCaras_002_NameDetail" korean="" />
+	<block key="e_f04_DragAgnas_001_Name" korean="키샤르" />
+	<block key="e_f04_DragAgnas_001_NameDetail" korean="" />
+	<block key="e_f04_FishFloat_001_Name" korean="가피시" />
+	<block key="e_f04_FishFloat_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoHopli_001_Name" korean="불사 군단 중장병" />
+	<block key="e_f04_ImmoHopli_001_NameDetail" korean="" />
+	<block key="e_f04_FishFloat_002_Name" korean="가피시" />
+	<block key="e_f04_FishFloat_002_NameDetail" korean="" />
+	<block key="e_f04_DragCaras_005_Name" korean="해양 몬스터" />
+	<block key="e_f04_DragCaras_005_NameDetail" korean="" />
+	<block key="e_f04_DragRasha_001_Name" korean="천둥 갑옷새" />
+	<block key="e_f04_DragRasha_001_NameDetail" korean="" />
+	<block key="e_f04_FlyRay_001_Name" korean="멸망의 포식자 즈메우" />
+	<block key="e_f04_FlyRay_001_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0001_Name" korean="낡은 상자" />
+	<block key="a00_CM_rooting_0001_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0002_Name" korean="낡은 상자" />
+	<block key="a00_CM_rooting_0002_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0003_Name" korean="낡은 주머니" />
+	<block key="a00_CM_rooting_0003_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0004_Name" korean="고급 주머니" />
+	<block key="a00_CM_rooting_0004_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0005_Name" korean="낡은 부유 주머니" />
+	<block key="a00_CM_rooting_0005_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0006_Name" korean="고급 부유 주머니" />
+	<block key="a00_CM_rooting_0006_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0007_Name" korean="고급 상자" />
+	<block key="a00_CM_rooting_0007_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0008_Name" korean="최고급 부유 주머니" />
+	<block key="a00_CM_rooting_0008_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0009_Name" korean="최고급 상자" />
+	<block key="a00_CM_rooting_0009_NameDetail" korean="" />
+	<block key="e_f04_ImmoKnigh_001_Name" korean="불사 군단 기사" />
+	<block key="e_f04_ImmoKnigh_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoUranu_001_Name" korean="불사 군단 우라누스" />
+	<block key="e_f04_ImmoUranu_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoGorak_001_Name" korean="불사 군단 고락투스" />
+	<block key="e_f04_ImmoGorak_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoTeran_001_Name" korean="불사 군단 테라누스" />
+	<block key="e_f04_ImmoTeran_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoToomb_001_Name" korean="불사 군단 툼바" />
+	<block key="e_f04_ImmoToomb_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoImpsu_001_Name" korean="불사 군단 가고일 소환사" />
+	<block key="e_f04_ImmoImpsu_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoMagi_001_Name" korean="불사 군단 주술사" />
+	<block key="e_f04_ImmoMagi_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoLilis_001_Name" korean="불사 군단 리리스" />
+	<block key="e_f04_ImmoLilis_001_NameDetail" korean="" />
+	<block key="E_f04_zelna_001_Name" korean="강한 젤나리스의 기운" />
+	<block key="E_f04_zelna_001_NameDetail" korean="" />
+	<block key="E_f04_zelna_002_Name" korean="약한 젤나리스의 기운" />
+	<block key="E_f04_zelna_002_NameDetail" korean="" />
+	<block key="E_05_0_0001_0000_Name" korean="신전 가고일" />
+	<block key="E_05_0_0001_0000_NameDetail" korean="" />
+	<block key="E_05_0_0002_0000_Name" korean="흑요석 가고일" />
+	<block key="E_05_0_0002_0000_NameDetail" korean="" />
+	<block key="E_05_0_0003_0000_Name" korean="암석 가고일" />
+	<block key="E_05_0_0003_0000_NameDetail" korean="" />
+	<block key="E_f04_SoulStone_001_Name" korean="불사 군단 마석" />
+	<block key="E_f04_SoulStone_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoKnigh_002_Name" korean="불사 군단 기사" />
+	<block key="e_f04_ImmoKnigh_002_NameDetail" korean="" />
+	<block key="e_f04_ImmoMagi_002_Name" korean="불사 군단 주술사" />
+	<block key="e_f04_ImmoMagi_002_NameDetail" korean="" />
+	<block key="e_f04_magic_door_001_Name" korean="불사의 마법구" />
+	<block key="e_f04_magic_door_001_NameDetail" korean="" />
+	<block key="SO_TEST_1_0066_Name" korean="즈메우의 블랙홀" />
+	<block key="SO_TEST_1_0066_NameDetail" korean="" />
+	<block key="E_D07_AmonDos_001_Name" korean="어둠의 대마도사 아-몬도스" />
+	<block key="E_D07_AmonDos_001_NameDetail" korean="" />
+	<block key="E_D07_GoleHogmu_001_Name" korean="용 공격대장 호그문쿠트" />
+	<block key="E_D07_GoleHogmu_001_NameDetail" korean="" />
+	<block key="E_D07_GoleAncgu_001_Name" korean="부패 골렘 포탄병" />
+	<block key="E_D07_GoleAncgu_001_NameDetail" korean="" />
+	<block key="E_D07_GoleComrot_001_Name" korean="부패 골렘 공격병" />
+	<block key="E_D07_GoleComrot_001_NameDetail" korean="" />
+	<block key="E_D07_GoleRot_001_Name" korean="부패 골렘 자폭마" />
+	<block key="E_D07_GoleRot_001_NameDetail" korean="" />
+	<block key="E_D07_GagoTampl_01_Name" korean="칼날 뼈 가고일" />
+	<block key="E_D07_GagoTampl_01_NameDetail" korean="" />
+	<block key="E_D07_DragCaras_001_Name" korean="대 암흑마룡 카라샤" />
+	<block key="E_D07_DragCaras_001_NameDetail" korean="" />
+	<block key="E_D07_FanaDawiz_001_Name" korean="어둠의 강령술사" />
+	<block key="E_D07_FanaDawiz_001_NameDetail" korean="" />
+	<block key="E_D07_LightBug_001_Name" korean="발광 벌레" />
+	<block key="E_D07_LightBug_001_NameDetail" korean="" />
+	<block key="E_D07_BurdGole_001_Name" korean="수송 골렘 제플린" />
+	<block key="E_D07_BurdGole_001_NameDetail" korean="" />
+	<block key="E_D07_BugsBurbo_001_Name" korean="시체 약탈자 버보" />
+	<block key="E_D07_BugsBurbo_001_NameDetail" korean="" />
+	<block key="E_D07_RadaEyes_001_Name" korean="어둠의 눈 마법 토템" />
+	<block key="E_D07_RadaEyes_001_NameDetail" korean="" />
+	<block key="E_D07_LightBug_002_Name" korean="발광 벌레" />
+	<block key="E_D07_LightBug_002_NameDetail" korean="" />
+	<block key="E_D07_GagoTampl_02_Name" korean="칼날 뼈 가고일" />
+	<block key="E_D07_GagoTampl_02_NameDetail" korean="" />
+	<block key="E_D07_GoleRot_002_Name" korean="부패 골렘 자폭마" />
+	<block key="E_D07_GoleRot_002_NameDetail" korean="" />
+	<block key="E_F09_TtanTran_001_Name" korean="거신 트라누아" />
+	<block key="E_F09_TtanTran_001_NameDetail" korean="" />
+	<block key="E_F09_TtanYataDC_001_Name" korean="거신 야타이만" />
+	<block key="E_F09_TtanYataDC_001_NameDetail" korean="" />
+	<block key="E_C01_ChaoDawiz0_001_Name" korean="암흑 마법사" />
+	<block key="E_C01_ChaoDawiz0_001_NameDetail" korean="" />
+	<block key="E_C01_ImmoKnigh_001_Name" korean="불멸 악마 기사" />
+	<block key="E_C01_ImmoKnigh_001_NameDetail" korean="" />
+	<block key="E_C01_ImmoSoldi_001_Name" korean="불멸 악마" />
+	<block key="E_C01_ImmoSoldi_001_NameDetail" korean="" />
+	<block key="E_C01_ImmoLilis_001_Name" korean="레나" />
+	<block key="E_C01_ImmoLilis_001_NameDetail" korean="" />
+	<block key="E_C01_HuMsol_0001_Name" korean="배신한 병사" />
+	<block key="E_C01_HuMsol_0001_NameDetail" korean="" />
+	<block key="E_C01_FanaDevco_0001_Name" korean="카브임 마법사" />
+	<block key="E_C01_FanaDevco_0001_NameDetail" korean="" />
+	<block key="E_C01_CabeShura_0001_Name" korean="대장군 러셀" />
+	<block key="E_C01_CabeShura_0001_NameDetail" korean="" />
+	<block key="E_C01_FanaDevco_001_Name" korean="카브임 대마법사" />
+	<block key="E_C01_FanaDevco_001_NameDetail" korean="" />
+	<block key="E_C01_FanaDevco_002_Name" korean="카브임 대마법사" />
+	<block key="E_C01_FanaDevco_002_NameDetail" korean="" />
+	<block key="E_02_0_Yataball_0001_Name" korean="대천공구" />
+	<block key="E_02_0_Yataball_0001_NameDetail" korean="" />
+	<block key="E_02_0_Yataball_0002_Name" korean="천공구" />
+	<block key="E_02_0_Yataball_0002_NameDetail" korean="" />
+	<block key="e_p01_bonedrag_0001_Name" korean="바이렛" />
+	<block key="e_p01_bonedrag_0001_NameDetail" korean="달 그림자 전설" />
+	<block key="E_P01_SkulKnight_01_Name" korean="리나이트 검사" />
+	<block key="E_P01_SkulKnight_01_NameDetail" korean="강화 해골단" />
+	<block key="E_p01_CarmDeck_02_Name" korean="일등 갑판원" />
+	<block key="E_p01_CarmDeck_02_NameDetail" korean="정예 해적단" />
+	<block key="E_p01_CarmWatch_02_Name" korean="일등 망루병" />
+	<block key="E_p01_CarmWatch_02_NameDetail" korean="정예 해적단" />
+	<block key="E_p01_CarmTreas_02_Name" korean="일등 수호병" />
+	<block key="E_p01_CarmTreas_02_NameDetail" korean="정예 해적단" />
+	<block key="E_p01_GhostE_01_Name" korean="유령 신도" />
+	<block key="E_p01_GhostE_01_NameDetail" korean="카브임 본단" />
+	<block key="E_p01_GhostH_01_Name" korean="유령 교주" />
+	<block key="E_p01_GhostH_01_NameDetail" korean="카브임 본단" />
+	<block key="E_p01_MwerJack_02_Name" korean="분노의 헌터 잭" />
+	<block key="E_p01_MwerJack_02_NameDetail" korean="늑대인간 왕" />
+	<block key="E_p01_FanaStones_02_Name" korean="폭주한 큰형 클레키" />
+	<block key="E_p01_FanaStones_02_NameDetail" korean="카브임 교단" />
+	<block key="E_p01_FanaStone_02_Name" korean="일등 강화 수호병" />
+	<block key="E_p01_FanaStone_02_NameDetail" korean="정예 해적단" />
+	<block key="E_P01_liger_0002_Name" korean="공포의 파이루드" />
+	<block key="E_P01_liger_0002_NameDetail" korean="격동의 수호자" />
+	<block key="E_p01_Megantes_002_Name" korean="악몽의 메간테스" />
+	<block key="E_p01_Megantes_002_NameDetail" korean="마트렌 산 수호신" />
+	<block key="e_p01_bonedrag_0002_Name" korean="심연의 바이렛" />
+	<block key="e_p01_bonedrag_0002_NameDetail" korean="달 그림자 전설" />
+	<block key="E_P01_megan_0001_Name" korean="메간테스" />
+	<block key="E_P01_megan_0001_NameDetail" korean="마트렌 산 수호신" />
+	<block key="E_P01_afohorse_0001_Name" korean="논 포쎄 아포칼립스" />
+	<block key="E_P01_afohorse_0001_NameDetail" korean="붉은 그림자 명마" />
+	<block key="E_P01_Devildog_0001_Name" korean="지옥개" />
+	<block key="E_P01_Devildog_0001_NameDetail" korean="메간테스의 들개" />
+	<block key="E_d01_VampCook_01_Name" korean="피 맛을 아는 요리사" />
+	<block key="E_d01_VampCook_01_NameDetail" korean="" />
+	<block key="E_P01_Etrule_0002_Name" korean="레이지" />
+	<block key="E_P01_Etrule_0002_NameDetail" korean="달무리 호수" />
+	<block key="E_p01_Etrule_0001_name" korean="오염된 거북이" />
+	<block key="E_p01_Etrule_0001_NameDetail" korean="달무리 호수" />
+	<block key="E_p01_hound_0001_name" korean="저주받은 하운드" />
+	<block key="E_p01_hound_0001_NameDetail" korean="" />
+	<block key="E_p01_Black_0002_name" korean="인디그네" />
+	<block key="E_p01_Black_0002_NameDetail" korean="달 그림자 드래곤" />
+	<block key="E_p01_cripan_0001_name" korean="회색 크리판" />
+	<block key="E_p01_cripan_0001_NameDetail" korean="격동의 매" />
+	<block key="E_P01_liger_0001_Name" korean="파이루드" />
+	<block key="E_P01_liger_0001_NameDetail" korean="격동의 수호자" />
+	<block key="E_p01_hound_0002_name" korean="그리들리" />
+	<block key="E_p01_hound_0002_NameDetail" korean="" />
+	<block key="E_F04_Pegasus_002_Name" korean="나이트메어" />
+	<block key="E_F04_Pegasus_002_NameDetail" korean="붉은 그림자 명마" />
+	<block key="E_p01_Rhisau_001_Name" korean="검은 바라누스" />
+	<block key="E_p01_Rhisau_001_NameDetail" korean="해안 사우루스" />
+	<block key="E_p01_Rhisau_002_Name" korean="스노비시" />
+	<block key="E_p01_Rhisau_002_NameDetail" korean="해안 사우루스" />
+	<block key="E_P01_Yfirebird_0002_Name" korean="엔비" />
+	<block key="E_P01_Yfirebird_0002_NameDetail" korean="격동의 매" />
+	<block key="E_p01_cripan_0002_Name" korean="아브리셔스" />
+	<block key="E_p01_cripan_0002_NameDetail" korean="격동의 매" />
+	<block key="E_p01_MwerAttack_01_Name" korean="습격자" />
+	<block key="E_p01_MwerAttack_01_NameDetail" korean="늑대인간" />
+	<block key="E_p01_WwerAssas_01_Name" korean="암살자" />
+	<block key="E_p01_WwerAssas_01_NameDetail" korean="늑대인간" />
+	<block key="E_p01_MwerModif_01_Name" korean="남자 변형체" />
+	<block key="E_p01_MwerModif_01_NameDetail" korean="늑대인간" />
+	<block key="E_p01_WwerModif_01_Name" korean="여자 변형체" />
+	<block key="E_p01_WwerModif_01_NameDetail" korean="늑대인간" />
+	<block key="E_p01_MwerAttack_02_Name" korean="습격자" />
+	<block key="E_p01_MwerAttack_02_NameDetail" korean="강화 늑대인간" />
+	<block key="E_p01_WwerAssas_02_Name" korean="암살자" />
+	<block key="E_p01_WwerAssas_02_NameDetail" korean="강화 늑대인간" />
+	<block key="E_p01_MwerModif_02_Name" korean="남자 변형체" />
+	<block key="E_p01_MwerModif_02_NameDetail" korean="강화 늑대인간" />
+	<block key="E_p01_WwerModif_02_Name" korean="여자 변형체" />
+	<block key="E_p01_WwerModif_02_NameDetail" korean="강화 늑대인간" />
+	<block key="E_p01_FanaStones_01_Name" korean="큰형 클레키" />
+	<block key="E_p01_FanaStones_01_NameDetail" korean="카브임 교단" />
+	<block key="E_p01_FanaTony_01_Name" korean="작은형 클레키" />
+	<block key="E_p01_FanaTony_01_NameDetail" korean="카브임 교단" />
+	<block key="E_p01_CarmBoatm_01_Name" korean="막내 클레키" />
+	<block key="E_p01_CarmBoatm_01_NameDetail" korean="카브임 교단" />
+	<block key="E_p01_FanaRecon_01_Name" korean="정찰병" />
+	<block key="E_p01_FanaRecon_01_NameDetail" korean="카브임 추종자" />
+	<block key="E_p01_FanaTroop_01_Name" korean="전투병" />
+	<block key="E_p01_FanaTroop_01_NameDetail" korean="카브임 추종자" />
+	<block key="E_p01_CarmBeard_01_Name" korean="연락병" />
+	<block key="E_p01_CarmBeard_01_NameDetail" korean="카브임 추종자" />
+	<block key="E_p01_FanaDevco_01_Name" korean="저주 술사" />
+	<block key="E_p01_FanaDevco_01_NameDetail" korean="카브임 추종자" />
+	<block key="E_p01_FanaMidget_01_Name" korean="폭파병" />
+	<block key="E_p01_FanaMidget_01_NameDetail" korean="카브임 추종자" />
+	<block key="E_p01_FanaSniper_01_Name" korean="저격병" />
+	<block key="E_p01_FanaSniper_01_NameDetail" korean="카브임 추종자" />
+	<block key="E_p01_FanaRecon_02_Name" korean="정찰병" />
+	<block key="E_p01_FanaRecon_02_NameDetail" korean="카브임 교단" />
+	<block key="E_p01_FanaTroop_02_Name" korean="전투병" />
+	<block key="E_p01_FanaTroop_02_NameDetail" korean="카브임 교단" />
+	<block key="E_p01_CarmBeard_02_Name" korean="연락병" />
+	<block key="E_p01_CarmBeard_02_NameDetail" korean="카브임 교단" />
+	<block key="E_p01_FanaDevco_02_Name" korean="저주 술사" />
+	<block key="E_p01_FanaDevco_02_NameDetail" korean="카브임 교단" />
+	<block key="E_p01_FanaMidget_02_Name" korean="폭파병" />
+	<block key="E_p01_FanaMidget_02_NameDetail" korean="카브임 교단" />
+	<block key="E_p01_FanaSniper_02_Name" korean="저격수" />
+	<block key="E_p01_FanaSniper_02_NameDetail" korean="카브임 교단" />
+	<block key="E_p01_MwerJack_01_Name" korean="엑자란 헌터 잭" />
+	<block key="E_p01_MwerJack_01_NameDetail" korean="늑대인간 왕" />
+	<block key="E_p01_WolfWild_01_Name" korean="엑자란 늑대" />
+	<block key="E_p01_WolfWild_01_NameDetail" korean="늑대인간 왕의 애완견" />
+	<block key="E_p01_CabeAshu_01_Name" korean="리나이트 기사" />
+	<block key="E_p01_CabeAshu_01_NameDetail" korean="강화 해골단" />
+	<block key="E_p01_CarmDeck_01_Name" korean="갑판원" />
+	<block key="E_p01_CarmDeck_01_NameDetail" korean="해적단" />
+	<block key="E_p01_CarmWatch_01_Name" korean="정찰원" />
+	<block key="E_p01_CarmWatch_01_NameDetail" korean="해적단" />
+	<block key="E_p01_CarmTreas_01_Name" korean="수호병" />
+	<block key="E_p01_CarmTreas_01_NameDetail" korean="해적단" />
+	<block key="E_p01_FanaStone_01_Name" korean="문어 조련사" />
+	<block key="E_p01_FanaStone_01_NameDetail" korean="정예 해적단" />
+	<block key="E_p01_OctoRocko_01_Name" korean="바위 문어" />
+	<block key="E_p01_OctoRocko_01_NameDetail" korean="" />
+	<block key="E_p01_SkulBlakn_01_Name" korean="리나이트 전사" />
+	<block key="E_p01_SkulBlakn_01_NameDetail" korean="강화 해골단" />
+	<block key="E_p01_SkulBlarc_01_Name" korean="리나이트 궁사" />
+	<block key="E_p01_SkulBlarc_01_NameDetail" korean="강화 해골단" />
+	<block key="E_p01_SkulBlaso_01_Name" korean="보병" />
+	<block key="E_p01_SkulBlaso_01_NameDetail" korean="해골단" />
+	<block key="E_p01_SkulBlarc_02_Name" korean="궁병" />
+	<block key="E_p01_SkulBlarc_02_NameDetail" korean="해골단" />
+	<block key="E_p01_HorsWind_001_Name" korean="다크호스" />
+	<block key="E_p01_HorsWind_001_NameDetail" korean="리나이트의 명마" />
+	<block key="E_p01_SkulBlaso_03_Name" korean="리카르도" />
+	<block key="E_p01_SkulBlaso_03_NameDetail" korean="해골" />
+	<block key="E_p01_dark_ex_01_Name" korean="타락한 엑자리움" />
+	<block key="E_p01_dark_ex_01_NameDetail" korean="" />
+	<block key="E_P01_Dragdark_0001_Name" korean="검은색 서리와이번" />
+	<block key="E_P01_Dragdark_0001_NameDetail" korean="" />
+	<block key="E_P01_Seahors_0001_Name" korean="궁극의 드라우프" />
+	<block key="E_P01_Seahors_0001_NameDetail" korean="" />
+	<block key="E_P01_Yfirebird_0001_Name" korean="잿빛 새끼불새" />
+	<block key="E_P01_Yfirebird_0001_NameDetail" korean="격동의 매" />
+	<block key="E_p01_Black_0001_name" korean="암흑 카버너스" />
+	<block key="E_p01_Black_0001_NameDetail" korean="달 그림자 드래곤" />
+	<block key="E_d00_0_RabMer_0001_name" korean="라비니 로버니" />
+	<block key="E_d00_0_RabMer_0001_NameDetail" korean="보물 수집꾼" />
+	<block key="E_d01_0_RabMer_0001_name" korean="라비니 로버니" />
+	<block key="E_d01_0_RabMer_0001_NameDetail" korean="보물 수집꾼" />
+	<block key="E_d02_0_RabMer_0001_name" korean="라비니 로버니" />
+	<block key="E_d02_0_RabMer_0001_NameDetail" korean="보물 수집꾼" />
+	<block key="E_d00_0_RabMer_0002_name" korean="라비니 로버니" />
+	<block key="E_d00_0_RabMer_0002_NameDetail" korean="보물 수집꾼" />
+	<block key="E_d01_0_RabMer_0002_name" korean="라비니 로버니" />
+	<block key="E_d01_0_RabMer_0002_NameDetail" korean="보물 수집꾼" />
+	<block key="E_d02_0_RabMer_0002_name" korean="라비니 로버니" />
+	<block key="E_d02_0_RabMer_0002_NameDetail" korean="보물 수집꾼" />
+	<block key="E_d03_0_RabMer_0001_name" korean="라비니 로버니" />
+	<block key="E_d03_0_RabMer_0001_NameDetail" korean="보물 수집꾼" />
+	<block key="E_d03_0_RabMer_0002_name" korean="라비니 로버니" />
+	<block key="E_d03_0_RabMer_0002_NameDetail" korean="보물 수집꾼" />
+	<block key="E_d04_0_RabMer_0001_name" korean="라비니 로버니" />
+	<block key="E_d04_0_RabMer_0001_NameDetail" korean="보물 수집꾼" />
+	<block key="E_d04_0_RabMer_0002_name" korean="라비니 로버니" />
+	<block key="E_d04_0_RabMer_0002_NameDetail" korean="보물 수집꾼" />
+	<block key="E_d22_0_RabMer_0001_name" korean="라비니 로버니" />
+	<block key="E_d22_0_RabMer_0001_NameDetail" korean="보물 수집꾼" />
+	<block key="E_d22_0_RabMer_0002_name" korean="라비니 로버니" />
+	<block key="E_d22_0_RabMer_0002_NameDetail" korean="보물 수집꾼" />
+	<block key="IN_RabMerpum_0_001_name" korean="로버니 호박" />
+	<block key="IN_RabMerpum_0_001_NameDetail" korean="변신한 로버니" />
+	<block key="E_p01_BlackBaby_0001_name" korean="사나운 이베마" />
+	<block key="E_p01_BlackBaby_0001_NameDetail" korean="달 그림자 해츨링" />
+	<block key="E_p01_BlackBaby_0002_name" korean="러스트" />
+	<block key="E_p01_BlackBaby_0002_NameDetail" korean="달 그림자 해츨링" />
+	<block key="E_Event_0001_name" korean="어둠의 기사 아슈람" />
+	<block key="E_Event_0001_NameDetail" korean="" />
+	<block key="E_Event_0002_name" korean="드라쿠" />
+	<block key="E_Event_0002_NameDetail" korean="" />
+	<block key="E_Event_0003_name" korean="검은뿔 다이노쿠" />
+	<block key="E_Event_0003_NameDetail" korean="" />
+	<block key="E_Event_0004_name" korean="라이쿠" />
+	<block key="E_Event_0004_NameDetail" korean="" />
+	<block key="E_Event_0005_name" korean="붉은뿔 갈라도쿠" />
+	<block key="E_Event_0005_NameDetail" korean="" />
+	<block key="E_Event_Brag_01_Name" korean="브라기 행인" />
+	<block key="E_Event_Brag_01_NameDetail" korean="채집꾼" />
+	<block key="E_F00_DraLittle_0001_name" korean="붉은 기운의 라이쿠" />
+	<block key="E_F00_DraLittle_0001_NameDetail" korean="" />
+	<block key="E_f05_Dragbone_001_name" korean="공허의 크라비드" />
+	<block key="E_f05_Dragbone_001_NameDetail" korean="" />
+	<block key="E_f05_Whale_0001_name" korean="공허의 레토른시아" />
+	<block key="E_f05_Whale_0001_nameDetail" korean="" />
+	<block key="e_f04_DragRasha_002_Name" korean="붉은 갑옷새" />
+	<block key="e_f04_DragRasha_002_NameDetail" korean="" />
+	<block key="E_p01_RabMer_001_Name" korean="라비니 로버니" />
+	<block key="E_p01_RabMer_001_NameDetail" korean="보물 수집꾼" />
+	<block key="E_Event_01_name" korean="아포칼립스" />
+	<block key="E_Event_01_namedetail" korean="이벤트" />
+	<block key="E_Event_02_name" korean="맹독 캐스퍼트" />
+	<block key="E_Event_02_namedetail" korean="이벤트" />
+	<block key="E_Event_03_name" korean="폭군 카라스" />
+	<block key="E_Event_03_namedetail" korean="이벤트" />
+	<block key="E_Event_04_name" korean="공포의 케라브" />
+	<block key="E_Event_04_namedetail" korean="이벤트" />
+	<block key="E_Event_05_name" korean="암흑마룡 카라샤" />
+	<block key="E_Event_05_namedetail" korean="이벤트" />
+	<block key="E_Event_06_name" korean="광룡 파라가스" />
+	<block key="E_Event_06_namedetail" korean="이벤트" />
+	<block key="E_Event_07_name" korean="공역의 날개 페무토" />
+	<block key="E_Event_07_namedetail" korean="이벤트" />
+	<block key="E_Event_08_name" korean="달빛 루시퍼트" />
+	<block key="E_Event_08_namedetail" korean="이벤트" />
+	<block key="E_Event_09_name" korean="공허의 카고일" />
+	<block key="E_Event_09_namedetail" korean="이벤트" />
+	<block key="E_Event_10_name" korean="여명의 카고일" />
+	<block key="E_Event_10_namedetail" korean="이벤트" />
+	<block key="E_Event_11_name" korean="가르므" />
+	<block key="E_Event_11_namedetail" korean="이벤트" />
+	<block key="E_Event_12_name" korean="붉은 마룡 아그나스" />
+	<block key="E_Event_12_namedetail" korean="이벤트" />
+	<block key="E_Event_13_name" korean="고스트" />
+	<block key="E_Event_13_namedetail" korean="이벤트" />
+	<block key="E_Event_14_name" korean="본 슬로프" />
+	<block key="E_Event_14_namedetail" korean="이벤트" />
+	<block key="E_Event_15_name" korean="공허의 크라비드" />
+	<block key="E_Event_15_namedetail" korean="이벤트" />
+	<block key="E_Event_16_name" korean="거대거미 타슬란" />
+	<block key="E_Event_16_namedetail" korean="이벤트" />
+	<block key="E_Event_17_name" korean="거친 그림자 펜리스" />
+	<block key="E_Event_17_namedetail" korean="이벤트" />
+	<block key="E_Event_18_name" korean="라이루드" />
+	<block key="E_Event_18_namedetail" korean="이벤트" />
+	<block key="E_Event_19_name" korean="창공의 윈드러너" />
+	<block key="E_Event_19_namedetail" korean="이벤트" />
+	<block key="E_Event_20_name" korean="늑대왕 라샤카" />
+	<block key="E_Event_20_namedetail" korean="이벤트" />
+	<block key="E_Event_21_name" korean="마룡 스트라이거" />
+	<block key="E_Event_21_namedetail" korean="이벤트" />
+	<block key="E_Event_22_name" korean="암흑 날개 카마라" />
+	<block key="E_Event_22_namedetail" korean="이벤트" />
+	<block key="E_Event_23_name" korean="광폭한 우루" />
+	<block key="E_Event_23_namedetail" korean="이벤트" />
+	<block key="E_Event_24_name" korean="백색의 트로이" />
+	<block key="E_Event_24_namedetail" korean="이벤트" />
+	<block key="E_Event_25_name" korean="서리 와이번 가이라" />
+	<block key="E_Event_25_namedetail" korean="이벤트" />
+	<block key="E_Event_26_name" korean="궁극의 드라우프" />
+	<block key="E_Event_26_namedetail" korean="이벤트" />
+	<block key="E_Event_27_name" korean="푸른 날개 블레이드" />
+	<block key="E_Event_27_namedetail" korean="이벤트" />
+	<block key="E_Event_28_name" korean="홍련의 레오니드" />
+	<block key="E_Event_28_namedetail" korean="이벤트" />
+	<block key="E_Event_29_name" korean="흑룡 발라크" />
+	<block key="E_Event_29_namedetail" korean="이벤트" />
+	<block key="E_Event_30_name" korean="금빛 날개 아브라스" />
+	<block key="E_Event_30_namedetail" korean="이벤트" />
+	<block key="E_d00_LskulArch_01_name" korean="그을린 해골 저격수" />
+	<block key="E_d00_LskulArch_01_namedetail" korean="유적 강화 마법사" />
+	<block key="E_d00_LskulArch_02_name" korean="그을린 해골 저격수" />
+	<block key="E_d00_LskulArch_02_namedetail" korean="" />
+	<block key="E_d01_Lfanadev_01_name" korean="그림자 주술사" />
+	<block key="E_d01_Lfanadev_01_namedetail" korean="저택 강화 마법사" />
+	<block key="E_d02_Lsnomagic_01_name" korean="설인 예언자" />
+	<block key="E_d02_Lsnomagic_01_namedetail" korean="" />
+	<block key="E_d02_Lsnohunter_01_name" korean="설인 저격수" />
+	<block key="E_d02_Lsnohunter_01_namedetail" korean="폐허 강화 마법사" />
+	<block key="E_d01_Ev_01_name" korean="흡혈귀 시녀" />
+	<block key="E_d01_Ev_01_namedetail" korean="" />
+	<block key="E_d01_Ev_02_name" korean="흡혈귀 식모" />
+	<block key="E_d01_Ev_02_namedetail" korean="" />
+	<block key="E_d01_Ev_03_name" korean="흡혈귀 요리사" />
+	<block key="E_d01_Ev_03_namedetail" korean="" />
+	<block key="E_d01_Ev_04_name" korean="흡혈귀 정원사" />
+	<block key="E_d01_Ev_04_namedetail" korean="" />
+	<block key="E_d01_Ev_05_name" korean="흡혈귀 잡역부" />
+	<block key="E_d01_Ev_05_namedetail" korean="" />
+	<block key="E_d01_Ev_06_name" korean="저주 술사" />
+	<block key="E_d01_Ev_06_namedetail" korean="" />
+	<block key="E_F05_KrokEngee_004_name" korean="[정예] 타락한 크로쿤 전갈 탑승자" />
+	<block key="E_F05_KrokEngee_004_namedetail" korean="" />
+	<block key="E_F05_KrokBowma_003_name" korean="[정예] 타락한 크로쿤 전갈 궁수" />
+	<block key="E_F05_KrokBowma_003_namedetail" korean="" />
+	<block key="E_F05_KrokPries_002_name" korean="[정예] 타락한 크로쿤 전갈 사제" />
+	<block key="E_F05_KrokPries_002_namedetail" korean="" />
+	<block key="E_F05_KrokGladi_005_name" korean="[정예] 타락한 크로쿤 전갈 검투사" />
+	<block key="E_F05_KrokGladi_005_namedetail" korean="" />
+	<block key="e_f01_fanadawiz_002_name" korean="카브임 마법사" />
+	<block key="e_f01_fanadawiz_002_namedetail" korean="" />
+	<block key="E_P01_liger_0003_name" korean="새끼 파이루드" />
+	<block key="E_P01_liger_0003_namedetail" korean="" />
+	<block key="E_P01_megan_0003_name" korean="새끼 메간테스" />
+	<block key="E_P01_megan_0003_namedetail" korean="" />
+	<block key="e_p01_bonedrag_0003_name" korean="새끼 바이렛" />
+	<block key="e_p01_bonedrag_0003_namedetail" korean="" />
+	<block key="E_P01_Atan_0001_name" korean="아탄" />
+	<block key="E_P01_Atan_0001_namedetail" korean="우두머리 지옥개" />
+	<block key="E_P01_Berite_0001_name" korean="베리트" />
+	<block key="E_P01_Berite_0001_namedetail" korean="우두머리 지옥개" />
+	<block key="E_P01_Karnin_0001_name" korean="카르닌" />
+	<block key="E_P01_Karnin_0001_namedetail" korean="우두머리 지옥개" />
+	<block key="E_Event_31_Name" korean="빛나는 큰 호박" />
+	<block key="E_Event_31_NameDetail" korean="할로윈 이벤트" />
+	<block key="E_Event_32_Name" korean="빛나는 작은 호박" />
+	<block key="E_Event_32_NameDetail" korean="할로윈 이벤트" />
+	<block key="E_Event_33_Name" korean="불량 큰 호박" />
+	<block key="E_Event_33_NameDetail" korean="할로윈 이벤트" />
+	<block key="E_Event_34_Name" korean="불량 작은 호박" />
+	<block key="E_Event_34_NameDetail" korean="할로윈 이벤트" />
+	<block key="E_p01_Mineturtle_000_Name" korean="카로네" />
+	<block key="E_p01_Mineturtle_000_NameDetail" korean="광산 수호 거북" />
+	<block key="E_Event_35_Name" korean="빛나는 꼬마 눈사람" />
+	<block key="E_Event_35_NameDetail" korean="크리스마스 이벤트" />
+	<block key="E_Event_36_Name" korean="빛나는 악동 눈사람" />
+	<block key="E_Event_36_NameDetail" korean="크리스마스 이벤트" />
+	<block key="E_Event_37_Name" korean="꼬마 눈사람" />
+	<block key="E_Event_37_NameDetail" korean="크리스마스 이벤트" />
+	<block key="E_Event_38_Name" korean="악동 눈사람" />
+	<block key="E_Event_38_NameDetail" korean="크리스마스 이벤트" />
+	<block key="E_99_0_1501_0001_Name" korean="빛의 사자" />
+	<block key="E_99_0_1501_0002_Name" korean="빛의 사자" />
+</blocks>

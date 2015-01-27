@@ -1,0 +1,95 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="map_c01_enter_0" korean="서부 시가지" />
+	<block key="map_c01_enter_1" korean="승리의 대광장/공업 지구" />
+	<block key="map_c01_enter_2" korean="상업 지구" />
+	<block key="map_c01_enter_3" korean="하카나스 성 정문" />
+	<block key="map_c01_forge_0" korean="하카나스 성 정문" />
+	<block key="map_c01_forge_1" korean="공업 지구" />
+	<block key="map_c01_forge_2" korean="승리의 대광장" />
+	<block key="map_c01_west_0" korean="남부 시가지" />
+	<block key="map_c01_west_1" korean="하카나스 성 서문" />
+	<block key="map_c01_west_2" korean="펠로우 연구소" />
+	<block key="map_c01_fellow_0" korean="하카나스 성 서문" />
+	<block key="map_c01_fellow_1" korean="펠로우 연구소" />
+	<block key="map_c01_fellow_2" korean="서부 시가지" />
+	<block key="map_c01_road01_0" korean="서부 시가지" />
+	<block key="map_c01_road01_1" korean="승리의 대광장" />
+	<block key="map_c01_road01_2" korean="상업 지구" />
+	<block key="map_c01_road01_3" korean="하카나스 성 정문" />
+	<block key="map_c01_square01_0" korean="서부 시가지" />
+	<block key="map_c01_square01_1" korean="영광의 길" />
+	<block key="map_c01_square02_0" korean="영광의 길" />
+	<block key="map_c01_square02_1" korean="경비대 수련장" />
+	<block key="map_c01_square03_0" korean="경매장 및 은행" />
+	<block key="map_c01_square03_1" korean="하카나스 왕성" />
+	<block key="map_c01_square03_2" korean="경비대 수련장" />
+	<block key="map_c01_square03_3" korean="하카나스 성 정문" />
+	<block key="map_c01_castle01_0" korean="승리의 대광장" />
+	<block key="map_c01_castle01_1" korean="바엘라스 기념 도서관" />
+	<block key="map_c01_castle01_2" korean="하카나스 왕성" />
+	<block key="map_c01_castle02_0" korean="왕국 의회" />
+	<block key="map_c01_castle02_1" korean="엘로라 성소" />
+	<block key="map_c01_castle02_2" korean="바엘라스 기념 도서관" />
+	<block key="map_c01_castle02_3" korean="하카나스 왕성" />
+	<block key="map_c01_castle03_0" korean="하카나스 왕성" />
+	<block key="map_c01_castle03_1" korean="엘로라 성소" />
+	<block key="map_c01_castle04_0" korean="하카나스 왕성" />
+	<block key="map_c01_castle04_1" korean="왕국 수림지" />
+	<block key="map_c01_castle04_2" korean="엘로라 성소" />
+	<block key="map_c01_east01_0" korean="공업 지구" />
+	<block key="map_c01_east01_1" korean="상업 지구" />
+	<block key="map_c01_east01_2" korean="동부 시가지" />
+	<block key="map_c01_east02_0" korean="상업 지구" />
+	<block key="map_c01_east02_1" korean="경비대 수련장" />
+	<block key="map_c01_east02_2" korean="하카나스 동문" />
+	<block key="map_c01_east02_3" korean="동부 시가지" />
+	<block key="map_c01_plain01_0" korean="수도성 동부 관문" />
+	<block key="map_c01_plain01_1" korean="하카나스 동문" />
+	<block key="map_c01_plain01_2" korean="거친 모험가 항구" />
+	<block key="map_c01_plain02_0" korean="하카나스 수도성" />
+	<block key="map_c01_plain02_1" korean="거친 모험가 항구" />
+	<block key="map_c01_plain02_2" korean="수도성 동문 관문" />
+	<block key="map_c01_plain03_0" korean="하카나스 수도성 관문" />
+	<block key="map_c01_plain03_1" korean="엘그레인 농장지대" />
+	<block key="map_c01_plain03_2" korean="하카나스 수도성" />
+	<block key="map_c01_plain04_0" korean="엘그레인 농장지대" />
+	<block key="map_c01_plain04_1" korean="길드 농장" />
+	<block key="map_c01_plain04_2" korean="하카나스 수도성 관문" />
+	<block key="map_c01_plain05_0" korean="하카나스 수도성" />
+	<block key="map_c01_plain05_1" korean="엘그레인 농장지대" />
+	<block key="map_c01_plain05_2" korean="길드 농장" />
+	<block key="map_c01_plain06_0" korean="영광의 전장" />
+	<block key="map_c01_plain06_1" korean="하카나스 서문" />
+	<block key="map_c01_plain06_2" korean="길드 농장" />
+	<block key="map_f02_four_0" korean="켈우즈 마을" />
+	<block key="map_f02_four_1" korean="북부 경비탑" />
+	<block key="map_f02_four_2" korean="켈우즈 농장" />
+	<block key="map_f02_two_0" korean="켈우즈 마을" />
+	<block key="map_f02_two_1" korean="수호 신룡의 관문" />
+	<block key="map_f03_first_0" korean="해적단 소굴" />
+	<block key="map_f03_first_1" korean="생명의 호수" />
+	<block key="map_f03_first_2" korean="갈대 바람 마을" />
+	<block key="map_f03_second_0" korean="변절자의 늪지" />
+	<block key="map_f03_second_1" korean="통곡 절벽 마을" />
+	<block key="map_f03_second_2" korean="폭포 마을 폐허" />
+	<block key="map_f03_three_0" korean="폭포 마을 폐허" />
+	<block key="map_f03_three_1" korean="변절자의 늪지" />
+	<block key="map_f03_three_2" korean="통곡 절벽 마을" />
+	<block key="map_f03_four_0" korean="폭포 마을 폐허" />
+	<block key="map_f03_four_1" korean="파를라크 영지" />
+	<block key="map_f03_four_2" korean="통곡 절벽 마을" />
+	<block key="map_f03_five_0" korean="파를라크 얼음성" />
+	<block key="map_f03_five_1" korean="푸른 달빛 마을" />
+	<block key="map_f03_five_2" korean="폭포 마을 폐허" />
+	<block key="map_f03_first01_0" korean="변절자의 늪지" />
+	<block key="map_f03_first01_1" korean="갈대 바람 해안" />
+	<block key="map_f03_first01_2" korean="생명의 호수" />
+	<block key="map_f03_first01_3" korean="통곡 절벽 마을" />
+</blocks>

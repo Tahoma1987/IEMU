@@ -1,0 +1,1004 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="prudence_Name" korean="[석궁] 폭발 사격" />
+	<block key="prudence_description_1" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_2" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_3" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_4" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_5" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_6" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_7" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_8" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_9" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_10" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_11" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_12" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_13" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_14" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_15" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_16" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_17" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_18" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_19" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudence_description_20" korean="폭풍의 기운을 담은 화살을 발사하여 대상 및 대상 주변의 적에게 데미지를 주고 일정 시간 넘어지게 한다." />
+	<block key="prudencelink_name" korean="[석궁] 폭발 사격" />
+	<block key="prudencelink_description_1" korean="내부데이터" />
+	<block key="prudenceob_name" korean="[석궁] 폭발 사격" />
+	<block key="prudenceob_description_1" korean="내부데이터" />
+	<block key="repeatingshoot_Name" korean="[석궁] 연속 사격" />
+	<block key="repeatingshoot_description_1" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot_description_2" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot_description_3" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot_description_4" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot_description_5" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot_description_6" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot_description_7" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot_description_8" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot_description_9" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot_description_10" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot2_Name" korean="[석궁] 연속 사격" />
+	<block key="repeatingshoot2_description_1" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot2_description_2" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot2_description_3" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot2_description_4" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot2_description_5" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot2_description_6" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot2_description_7" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot2_description_8" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot2_description_9" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="repeatingshoot2_description_10" korean="세 발의 화살을 연속해서 발사한다. 화살에 맞은 대상은 일정 거리만큼 밀려나며 짧은 시간 경직 된다." />
+	<block key="aimedshot_Name" korean="[석궁] 신중한 조준" />
+	<block key="aimedshot_description_1" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_2" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_3" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_4" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_5" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_6" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_7" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_8" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_9" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_10" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_11" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_12" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_13" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_14" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_15" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_16" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_17" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_18" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_19" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="aimedshot_description_20" korean="대상을 신중하게 조준하여 약점을 찾아 피해를 더 준다." />
+	<block key="arrowrain_Name" korean="[석궁] 화살비" />
+	<block key="arrowrain_description_1" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_2" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_3" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_4" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_5" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_6" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_7" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_8" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_9" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_10" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_11" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_12" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_13" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_14" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_15" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_16" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_17" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_18" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_19" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_20" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="arrowrain_description_21" korean="선택한 범위에 6초 동안 화살 비를 퍼붓는다. 범위 내의 대상은 넘어지며 매 초마다 피해를 입는다." />
+	<block key="concentration_Name" korean="[석궁] 집중" />
+	<block key="concentration_description_1" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_2" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_3" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_4" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_5" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_6" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_7" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_8" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_9" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_10" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_11" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_12" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_13" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_14" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_15" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_16" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_17" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_18" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_19" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_20" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="concentration_description_21" korean="집중하여 신중한 조준 사용 시 50% 확률로 대상의 약점을 노출 시킨다." />
+	<block key="slowshoot_Name" korean="[석궁] 발목 노리기" />
+	<block key="slowshoot_description_1" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_2" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_3" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_4" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_5" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_6" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_7" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_8" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_9" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_10" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_11" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_12" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_13" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_14" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_15" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_16" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_17" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_18" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_19" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshoot_description_20" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_name" korean="[석궁] 발목 노리기" />
+	<block key="slowshootlink_description_1" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_2" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_3" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_4" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_5" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_6" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_7" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_8" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_9" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_10" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_11" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_12" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_13" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_14" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_15" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_16" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_17" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_18" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_19" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink_description_20" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_name" korean="[석궁] 발목 노리기" />
+	<block key="slowshootlink2_description_1" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_2" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_3" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_4" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_5" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_6" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_7" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_8" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_9" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_10" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_11" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_12" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_13" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_14" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_15" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_16" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_17" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_18" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_19" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="slowshootlink2_description_20" korean="연사 3타 이후 발동 스킬로 대상의 이동 속도를 감소 시킵니다. [약점 노출]의 경우 3초간 기절 상태가 적용 됩니다." />
+	<block key="speedup_Name" korean="[석궁] 속사" />
+	<block key="speedup_description_1" korean="20초 동안 쿨타임 10% 감소되며, 재빠른 손놀림 패시브를 배운 상태 일 경우, 50%의 확률로 바람의 축복(쿨타임 20% 추가 감소 및 물리 공격력이 20% 상승) 효과가 발동한다." />
+	<block key="speedup_description_2" korean="20초 동안 쿨타임 15% 감소되며, 재빠른 손놀림 패시브를 배운 상태 일 경우, 50%의 확률로 바람의 축복(쿨타임 25% 추가 감소 및 물리 공격력이 25% 상승) 효과가 발동한다." />
+	<block key="speedup_description_3" korean="20초 동안 쿨타임 20% 감소되며, 재빠른 손놀림 패시브를 배운 상태 일 경우, 50%의 확률로 바람의 축복(쿨타임 30% 추가 감소 및 물리 공격력이 30% 상승) 효과가 발동한다." />
+	<block key="speedupcrilink_name" korean="[석궁] 속사" />
+	<block key="speedupcrilink_description_1" korean="20초 동안 공격 속도가 30% 증가하며, 재빠른 손놀림 패시브를 배운 상태 일 경우, 50%의 확률로 20%의 쿨타임 감소 효과가 발동한다." />
+	<block key="speedupcrilink_description_2" korean="20초 동안 공격 속도가 40% 증가하며, 재빠른 손놀림 패시브를 배운 상태 일 경우, 50%의 확률로 30%의 쿨타임 감소 효과가 발동한다." />
+	<block key="speedupcrilink_description_3" korean="20초 동안 공격 속도가 30% 증가하며, 재빠른 손놀림 패시브를 배운 상태 일 경우, 50%의 확률로 20%의 쿨타임 감소 효과가 발동한다." />
+	<block key="speedupcrilink_description_4" korean="20초 동안 공격 속도가 30% 증가하며, 재빠른 손놀림 패시브를 배운 상태 일 경우, 50%의 확률로 20%의 쿨타임 감소 효과가 발동한다." />
+	<block key="speeduplink_name" korean="[석궁] 속사" />
+	<block key="speeduplink_description_1" korean="20초 동안 공격 속도가 30% 증가하며, 재빠른 손놀림 패시브를 배운 상태 일 경우, 50%의 확률로 20%의 쿨타임 감소 효과가 발동한다." />
+	<block key="speeduplink_description_2" korean="20초 동안 공격 속도가 40% 증가하며, 재빠른 손놀림 패시브를 배운 상태 일 경우, 50%의 확률로 30%의 쿨타임 감소 효과가 발동한다." />
+	<block key="speeduplink_description_3" korean="20초 동안 공격 속도가 30% 증가하며, 재빠른 손놀림 패시브를 배운 상태 일 경우, 50%의 확률로 20%의 쿨타임 감소 효과가 발동한다." />
+	<block key="speeduplink_description_4" korean="20초 동안 공격 속도가 30% 증가하며, 재빠른 손놀림 패시브를 배운 상태 일 경우, 50%의 확률로 20%의 쿨타임 감소 효과가 발동한다." />
+	<block key="stormshot_name" korean="폭풍사격" />
+	<block key="stormshot_description_1" korean="90도 전방 모든 대상에게 화살을 폭풍과 같이 퍼 붓는다." />
+	<block key="stormshot2_name" korean="폭풍사격" />
+	<block key="stormshot2_description_1" korean="내부데이터" />
+	<block key="balance_Name" korean="균형감" />
+	<block key="balance_description_1" korean="균형감이 상승되어 공격을 할 수 있게 된다(탑승 후 사용 가능)." />
+	<block key="balance_description_2" korean="균형감이 상승되어 공격을 할 수 있게 된다(탑승 후 사용 가능)." />
+	<block key="balance_description_3" korean="균형감이 상승되어 공격을 할 수 있게 된다(탑승 후 사용 가능)." />
+	<block key="balance_description_4" korean="균형감이 상승되어 공격을 할 수 있게 된다(탑승 후 사용 가능)." />
+	<block key="balance_description_5" korean="균형감이 상승되어 공격을 할 수 있게 된다(탑승 후 사용 가능)." />
+	<block key="balance_description_6" korean="균형감이 상승되어 공격을 할 수 있게 된다(탑승 후 사용 가능)." />
+	<block key="balance_description_7" korean="균형감이 상승되어 공격을 할 수 있게 된다(탑승 후 사용 가능)." />
+	<block key="balance_description_8" korean="균형감이 상승되어 공격을 할 수 있게 된다(탑승 후 사용 가능)." />
+	<block key="balance_description_9" korean="균형감이 상승되어 공격을 할 수 있게 된다(탑승 후 사용 가능)." />
+	<block key="balance_description_10" korean="균형감이 상승되어 공격을 할 수 있게 된다(탑승 후 사용 가능)." />
+	<block key="concentrationup_Name" korean="집중력 강화" />
+	<block key="concentrationup_description_1" korean="탑승으로 인한 흔들림에도 집중력을 강화시켜 공격의 정확도가 상승된다(탑승 후 사용 가능)." />
+	<block key="concentrationup_description_2" korean="탑승으로 인한 흔들림에도 집중력을 강화시켜 공격의 정확도가 상승된다(탑승 후 사용 가능)." />
+	<block key="concentrationup_description_3" korean="탑승으로 인한 흔들림에도 집중력을 강화시켜 공격의 정확도가 상승된다(탑승 후 사용 가능)." />
+	<block key="concentrationup_description_4" korean="탑승으로 인한 흔들림에도 집중력을 강화시켜 공격의 정확도가 상승된다(탑승 후 사용 가능)." />
+	<block key="concentrationup_description_5" korean="탑승으로 인한 흔들림에도 집중력을 강화시켜 공격의 정확도가 상승된다(탑승 후 사용 가능)." />
+	<block key="concentrationup_description_6" korean="탑승으로 인한 흔들림에도 집중력을 강화시켜 공격의 정확도가 상승된다(탑승 후 사용 가능)." />
+	<block key="concentrationup_description_7" korean="탑승으로 인한 흔들림에도 집중력을 강화시켜 공격의 정확도가 상승된다(탑승 후 사용 가능)." />
+	<block key="concentrationup_description_8" korean="탑승으로 인한 흔들림에도 집중력을 강화시켜 공격의 정확도가 상승된다(탑승 후 사용 가능)." />
+	<block key="concentrationup_description_9" korean="탑승으로 인한 흔들림에도 집중력을 강화시켜 공격의 정확도가 상승된다(탑승 후 사용 가능)." />
+	<block key="concentrationup_description_10" korean="탑승으로 인한 흔들림에도 집중력을 강화시켜 공격의 정확도가 상승된다(탑승 후 사용 가능)." />
+	<block key="whipping_Name" korean="채찍질" />
+	<block key="whipping_description_1" korean="펠로우를 채찍질하여 좀더 스피드를 낼 수 있도록 한다(탑승 후 사용 가능)." />
+	<block key="whipping_description_2" korean="펠로우를 채찍질하여 좀더 스피드를 낼 수 있도록 한다(탑승 후 사용 가능)." />
+	<block key="whipping_description_3" korean="펠로우를 채찍질하여 좀더 스피드를 낼 수 있도록 한다(탑승 후 사용 가능)." />
+	<block key="whipping_description_4" korean="펠로우를 채찍질하여 좀더 스피드를 낼 수 있도록 한다(탑승 후 사용 가능)." />
+	<block key="whipping_description_5" korean="펠로우를 채찍질하여 좀더 스피드를 낼 수 있도록 한다(탑승 후 사용 가능)." />
+	<block key="whipping_description_6" korean="펠로우를 채찍질하여 좀더 스피드를 낼 수 있도록 한다(탑승 후 사용 가능)." />
+	<block key="whipping_description_7" korean="펠로우를 채찍질하여 좀더 스피드를 낼 수 있도록 한다(탑승 후 사용 가능)." />
+	<block key="whipping_description_8" korean="펠로우를 채찍질하여 좀더 스피드를 낼 수 있도록 한다(탑승 후 사용 가능)." />
+	<block key="whipping_description_9" korean="펠로우를 채찍질하여 좀더 스피드를 낼 수 있도록 한다(탑승 후 사용 가능)." />
+	<block key="whipping_description_10" korean="펠로우를 채찍질하여 좀더 스피드를 낼 수 있도록 한다(탑승 후 사용 가능)." />
+	<block key="confident_Name" korean="당당함" />
+	<block key="confident_description_1" korean="탑승도중에 펠로우에서 떨어지지 않도록 집중한다(탑승 후 사용 가능)." />
+	<block key="confident_description_2" korean="탑승도중에 펠로우에서 떨어지지 않도록 집중한다(탑승 후 사용 가능)." />
+	<block key="confident_description_3" korean="탑승도중에 펠로우에서 떨어지지 않도록 집중한다(탑승 후 사용 가능)." />
+	<block key="confident_description_4" korean="탑승도중에 펠로우에서 떨어지지 않도록 집중한다(탑승 후 사용 가능)." />
+	<block key="confident_description_5" korean="탑승도중에 펠로우에서 떨어지지 않도록 집중한다(탑승 후 사용 가능)." />
+	<block key="confident_description_6" korean="탑승도중에 펠로우에서 떨어지지 않도록 집중한다(탑승 후 사용 가능)." />
+	<block key="confident_description_7" korean="탑승도중에 펠로우에서 떨어지지 않도록 집중한다(탑승 후 사용 가능)." />
+	<block key="confident_description_8" korean="탑승도중에 펠로우에서 떨어지지 않도록 집중한다(탑승 후 사용 가능)." />
+	<block key="confident_description_9" korean="탑승도중에 펠로우에서 떨어지지 않도록 집중한다(탑승 후 사용 가능)." />
+	<block key="confident_description_10" korean="탑승도중에 펠로우에서 떨어지지 않도록 집중한다(탑승 후 사용 가능)." />
+	<block key="lancemastery_Name" korean="창 마스터리" />
+	<block key="lancemastery_description_1" korean="펠로우 탑승 상태에서 창의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="lancemastery_description_2" korean="펠로우 탑승 상태에서 창의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="lancemastery_description_3" korean="펠로우 탑승 상태에서 창의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="lancemastery_description_4" korean="펠로우 탑승 상태에서 창의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="lancemastery_description_5" korean="펠로우 탑승 상태에서 창의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="lancemastery_description_6" korean="펠로우 탑승 상태에서 창의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="lancemastery_description_7" korean="펠로우 탑승 상태에서 창의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="lancemastery_description_8" korean="펠로우 탑승 상태에서 창의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="lancemastery_description_9" korean="펠로우 탑승 상태에서 창의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="lancemastery_description_10" korean="펠로우 탑승 상태에서 창의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="crossbowmastery_Name" korean="석궁 마스터리" />
+	<block key="crossbowmastery_description_1" korean="펠로우 탑승 상태에서 석궁의 효용성 높인다(탑승 후 사용 가능)." />
+	<block key="crossbowmastery_description_2" korean="펠로우 탑승 상태에서 석궁의 효용성 높인다(탑승 후 사용 가능)." />
+	<block key="crossbowmastery_description_3" korean="펠로우 탑승 상태에서 석궁의 효용성 높인다(탑승 후 사용 가능)." />
+	<block key="crossbowmastery_description_4" korean="펠로우 탑승 상태에서 석궁의 효용성 높인다(탑승 후 사용 가능)." />
+	<block key="crossbowmastery_description_5" korean="펠로우 탑승 상태에서 석궁의 효용성 높인다(탑승 후 사용 가능)." />
+	<block key="crossbowmastery_description_6" korean="펠로우 탑승 상태에서 석궁의 효용성 높인다(탑승 후 사용 가능)." />
+	<block key="crossbowmastery_description_7" korean="펠로우 탑승 상태에서 석궁의 효용성 높인다(탑승 후 사용 가능)." />
+	<block key="crossbowmastery_description_8" korean="펠로우 탑승 상태에서 석궁의 효용성 높인다(탑승 후 사용 가능)." />
+	<block key="crossbowmastery_description_9" korean="펠로우 탑승 상태에서 석궁의 효용성 높인다(탑승 후 사용 가능)." />
+	<block key="crossbowmastery_description_10" korean="펠로우 탑승 상태에서 석궁의 효용성 높인다(탑승 후 사용 가능)." />
+	<block key="flagmastery_Name" korean="깃발 마스터리" />
+	<block key="flagmastery_description_1" korean="펠로우 탑승 상태에서 깃발의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="flagmastery_description_2" korean="펠로우 탑승 상태에서 깃발의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="flagmastery_description_3" korean="펠로우 탑승 상태에서 깃발의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="flagmastery_description_4" korean="펠로우 탑승 상태에서 깃발의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="flagmastery_description_5" korean="펠로우 탑승 상태에서 깃발의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="flagmastery_description_6" korean="펠로우 탑승 상태에서 깃발의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="flagmastery_description_7" korean="펠로우 탑승 상태에서 깃발의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="flagmastery_description_8" korean="펠로우 탑승 상태에서 깃발의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="flagmastery_description_9" korean="펠로우 탑승 상태에서 깃발의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="flagmastery_description_10" korean="펠로우 탑승 상태에서 깃발의 효용성을 높인다(탑승 후 사용 가능)." />
+	<block key="dash_Name" korean="질주" />
+	<block key="dash_description_1" korean="창을 앞으로 든 상태에서 적진을 향하여 질주한다(탑승 후 사용 가능)." />
+	<block key="dash_description_2" korean="창을 앞으로 든 상태에서 적진을 향하여 질주한다(탑승 후 사용 가능)." />
+	<block key="dash_description_3" korean="창을 앞으로 든 상태에서 적진을 향하여 질주한다(탑승 후 사용 가능)." />
+	<block key="dash_description_4" korean="창을 앞으로 든 상태에서 적진을 향하여 질주한다(탑승 후 사용 가능)." />
+	<block key="dash_description_5" korean="창을 앞으로 든 상태에서 적진을 향하여 질주한다(탑승 후 사용 가능)." />
+	<block key="dash_description_6" korean="창을 앞으로 든 상태에서 적진을 향하여 질주한다(탑승 후 사용 가능)." />
+	<block key="dash_description_7" korean="창을 앞으로 든 상태에서 적진을 향하여 질주한다(탑승 후 사용 가능)." />
+	<block key="dash_description_8" korean="창을 앞으로 든 상태에서 적진을 향하여 질주한다(탑승 후 사용 가능)." />
+	<block key="dash_description_9" korean="창을 앞으로 든 상태에서 적진을 향하여 질주한다(탑승 후 사용 가능)." />
+	<block key="dash_description_10" korean="창을 앞으로 든 상태에서 적진을 향하여 질주한다(탑승 후 사용 가능)." />
+	<block key="target_Name" korean="타겟 지정" />
+	<block key="target_description_1" korean="대상을 타겟팅하여 모두들에게 노출 시켜 공격이 집중되게 한다(탑승 후 사용 가능)." />
+	<block key="target_description_2" korean="대상을 타겟팅하여 모두들에게 노출 시켜 공격이 집중되게 한다(탑승 후 사용 가능)." />
+	<block key="target_description_3" korean="대상을 타겟팅하여 모두들에게 노출 시켜 공격이 집중되게 한다(탑승 후 사용 가능)." />
+	<block key="target_description_4" korean="대상을 타겟팅하여 모두들에게 노출 시켜 공격이 집중되게 한다(탑승 후 사용 가능)." />
+	<block key="target_description_5" korean="대상을 타겟팅하여 모두들에게 노출 시켜 공격이 집중되게 한다(탑승 후 사용 가능)." />
+	<block key="target_description_6" korean="대상을 타겟팅하여 모두들에게 노출 시켜 공격이 집중되게 한다(탑승 후 사용 가능)." />
+	<block key="target_description_7" korean="대상을 타겟팅하여 모두들에게 노출 시켜 공격이 집중되게 한다(탑승 후 사용 가능)." />
+	<block key="target_description_8" korean="대상을 타겟팅하여 모두들에게 노출 시켜 공격이 집중되게 한다(탑승 후 사용 가능)." />
+	<block key="target_description_9" korean="대상을 타겟팅하여 모두들에게 노출 시켜 공격이 집중되게 한다(탑승 후 사용 가능)." />
+	<block key="target_description_10" korean="대상을 타겟팅하여 모두들에게 노출 시켜 공격이 집중되게 한다(탑승 후 사용 가능)." />
+	<block key="position_Name" korean="진지 구축" />
+	<block key="position_description_1" korean="특정 지역을 진지로 지정하여, 그 안 아군의 회복 속도를 높인다(탑승 후 사용 가능)." />
+	<block key="position_description_2" korean="특정 지역을 진지로 지정하여, 그 안 아군의 회복 속도를 높인다(탑승 후 사용 가능)." />
+	<block key="position_description_3" korean="특정 지역을 진지로 지정하여, 그 안 아군의 회복 속도를 높인다(탑승 후 사용 가능)." />
+	<block key="position_description_4" korean="특정 지역을 진지로 지정하여, 그 안 아군의 회복 속도를 높인다(탑승 후 사용 가능)." />
+	<block key="position_description_5" korean="특정 지역을 진지로 지정하여, 그 안 아군의 회복 속도를 높인다(탑승 후 사용 가능)." />
+	<block key="position_description_6" korean="특정 지역을 진지로 지정하여, 그 안 아군의 회복 속도를 높인다(탑승 후 사용 가능)." />
+	<block key="position_description_7" korean="특정 지역을 진지로 지정하여, 그 안 아군의 회복 속도를 높인다(탑승 후 사용 가능)." />
+	<block key="position_description_8" korean="특정 지역을 진지로 지정하여, 그 안 아군의 회복 속도를 높인다(탑승 후 사용 가능)." />
+	<block key="position_description_9" korean="특정 지역을 진지로 지정하여, 그 안 아군의 회복 속도를 높인다(탑승 후 사용 가능)." />
+	<block key="position_description_10" korean="특정 지역을 진지로 지정하여, 그 안 아군의 회복 속도를 높인다(탑승 후 사용 가능)." />
+	<block key="ridingcbow_Name" korean="석궁 장착" />
+	<block key="ridingcbow_description_1" korean="탑승 무기인 석궁을 착용할 수 있습니다." />
+	<block key="ridingcbow_description_2" korean="탑승 무기인 석궁을 착용할 수 있습니다." />
+	<block key="ridingcbow_description_3" korean="탑승 무기인 석궁을 착용할 수 있습니다." />
+	<block key="ridingcbow_description_4" korean="탑승 무기인 석궁을 착용할 수 있습니다." />
+	<block key="ridingcbow_description_5" korean="탑승 무기인 석궁을 착용할 수 있습니다." />
+	<block key="ridingcbow_description_6" korean="탑승 무기인 석궁을 착용할 수 있습니다." />
+	<block key="ridingcbow_description_7" korean="탑승 무기인 석궁을 착용할 수 있습니다." />
+	<block key="ridingcbow_description_8" korean="탑승 무기인 석궁을 착용할 수 있습니다." />
+	<block key="ridingcbow_description_9" korean="탑승 무기인 석궁을 착용할 수 있습니다." />
+	<block key="ridingcbow_description_10" korean="탑승 무기인 석궁을 착용할 수 있습니다." />
+	<block key="ridingflag_Name" korean="깃발 장착" />
+	<block key="ridingflag_description_1" korean="탑승 무기인 깃발을 착용할 수 있습니다." />
+	<block key="ridingflagspeedup_description_1" korean="탑승 무기인 깃발을 착용할 수 있습니다." />
+	<block key="ridingflagspeedup_description_2" korean="탑승 무기인 깃발을 착용할 수 있습니다." />
+	<block key="ridingflagspeedup_description_3" korean="탑승 무기인 깃발을 착용할 수 있습니다." />
+	<block key="ridingflagspeedup_description_4" korean="탑승 무기인 깃발을 착용할 수 있습니다." />
+	<block key="ridingflagspeedup_description_5" korean="탑승 무기인 깃발을 착용할 수 있습니다." />
+	<block key="ridingflagspeedup_description_6" korean="탑승 무기인 깃발을 착용할 수 있습니다." />
+	<block key="ridingflagspeedup_description_7" korean="탑승 무기인 깃발을 착용할 수 있습니다." />
+	<block key="ridingflagspeedup_description_8" korean="탑승 무기인 깃발을 착용할 수 있습니다." />
+	<block key="ridingflagspeedup_description_9" korean="탑승 무기인 깃발을 착용할 수 있습니다." />
+	<block key="ridingflagspeedup_description_10" korean="탑승 무기인 깃발을 착용할 수 있습니다." />
+	<block key="ridingspear_Name" korean="양손창 장착" />
+	<block key="ridingspear_description_1" korean="탑승 무기인 양손창을 착용할 수 있습니다." />
+	<block key="ridingspear_description_2" korean="탑승 무기인 양손창을 착용할 수 있습니다." />
+	<block key="ridingspear_description_3" korean="탑승 무기인 양손창을 착용할 수 있습니다." />
+	<block key="ridingspear_description_4" korean="탑승 무기인 양손창을 착용할 수 있습니다." />
+	<block key="ridingspear_description_5" korean="탑승 무기인 양손창을 착용할 수 있습니다." />
+	<block key="ridingspear_description_6" korean="탑승 무기인 양손창을 착용할 수 있습니다." />
+	<block key="ridingspear_description_7" korean="탑승 무기인 양손창을 착용할 수 있습니다." />
+	<block key="ridingspear_description_8" korean="탑승 무기인 양손창을 착용할 수 있습니다." />
+	<block key="ridingspear_description_9" korean="탑승 무기인 양손창을 착용할 수 있습니다." />
+	<block key="ridingspear_description_10" korean="탑승 무기인 양손창을 착용할 수 있습니다." />
+	<block key="cruel_Name" korean="무자비한 창술" />
+	<block key="cruel_description_1" korean="거친 창놀림으로 주변의 적들 무자비하게 공격한다(탑승 후 사용 가능)." />
+	<block key="cruel_description_2" korean="거친 창놀림으로 주변의 적들 무자비하게 공격한다(탑승 후 사용 가능)." />
+	<block key="cruel_description_3" korean="거친 창놀림으로 주변의 적들 무자비하게 공격한다(탑승 후 사용 가능)." />
+	<block key="cruel_description_4" korean="거친 창놀림으로 주변의 적들 무자비하게 공격한다(탑승 후 사용 가능)." />
+	<block key="cruel_description_5" korean="거친 창놀림으로 주변의 적들 무자비하게 공격한다(탑승 후 사용 가능)." />
+	<block key="cruel_description_6" korean="거친 창놀림으로 주변의 적들 무자비하게 공격한다(탑승 후 사용 가능)." />
+	<block key="cruel_description_7" korean="거친 창놀림으로 주변의 적들 무자비하게 공격한다(탑승 후 사용 가능)." />
+	<block key="cruel_description_8" korean="거친 창놀림으로 주변의 적들 무자비하게 공격한다(탑승 후 사용 가능)." />
+	<block key="cruel_description_9" korean="거친 창놀림으로 주변의 적들 무자비하게 공격한다(탑승 후 사용 가능)." />
+	<block key="cruel_description_10" korean="거친 창놀림으로 주변의 적들 무자비하게 공격한다(탑승 후 사용 가능)." />
+	<block key="care_Name" korean="수호의 손길" />
+	<block key="care_description_1" korean="수호자의 힘을 빌어 아군의 피해를 치유한다(탑승 후 사용 가능)." />
+	<block key="care_description_2" korean="수호자의 힘을 빌어 아군의 피해를 치유한다(탑승 후 사용 가능)." />
+	<block key="care_description_3" korean="수호자의 힘을 빌어 아군의 피해를 치유한다(탑승 후 사용 가능)." />
+	<block key="care_description_4" korean="수호자의 힘을 빌어 아군의 피해를 치유한다(탑승 후 사용 가능)." />
+	<block key="care_description_5" korean="수호자의 힘을 빌어 아군의 피해를 치유한다(탑승 후 사용 가능)." />
+	<block key="care_description_6" korean="수호자의 힘을 빌어 아군의 피해를 치유한다(탑승 후 사용 가능)." />
+	<block key="care_description_7" korean="수호자의 힘을 빌어 아군의 피해를 치유한다(탑승 후 사용 가능)." />
+	<block key="care_description_8" korean="수호자의 힘을 빌어 아군의 피해를 치유한다(탑승 후 사용 가능)." />
+	<block key="care_description_9" korean="수호자의 힘을 빌어 아군의 피해를 치유한다(탑승 후 사용 가능)." />
+	<block key="care_description_10" korean="수호자의 힘을 빌어 아군의 피해를 치유한다(탑승 후 사용 가능)." />
+	<block key="pursuer_Name" korean="추적자의 집요함" />
+	<block key="pursuer_description_1" korean="펠로우와 캐릭터가 한몸이 되어 직선상의 적들을 난사한다(탑승 후 사용 가능)." />
+	<block key="pursuer_description_2" korean="펠로우와 캐릭터가 한몸이 되어 직선상의 적들을 난사한다(탑승 후 사용 가능)." />
+	<block key="pursuer_description_3" korean="펠로우와 캐릭터가 한몸이 되어 직선상의 적들을 난사한다(탑승 후 사용 가능)." />
+	<block key="pursuer_description_4" korean="펠로우와 캐릭터가 한몸이 되어 직선상의 적들을 난사한다(탑승 후 사용 가능)." />
+	<block key="pursuer_description_5" korean="펠로우와 캐릭터가 한몸이 되어 직선상의 적들을 난사한다(탑승 후 사용 가능)." />
+	<block key="pursuer_description_6" korean="펠로우와 캐릭터가 한몸이 되어 직선상의 적들을 난사한다(탑승 후 사용 가능)." />
+	<block key="pursuer_description_7" korean="펠로우와 캐릭터가 한몸이 되어 직선상의 적들을 난사한다(탑승 후 사용 가능)." />
+	<block key="pursuer_description_8" korean="펠로우와 캐릭터가 한몸이 되어 직선상의 적들을 난사한다(탑승 후 사용 가능)." />
+	<block key="pursuer_description_9" korean="펠로우와 캐릭터가 한몸이 되어 직선상의 적들을 난사한다(탑승 후 사용 가능)." />
+	<block key="pursuer_description_10" korean="펠로우와 캐릭터가 한몸이 되어 직선상의 적들을 난사한다(탑승 후 사용 가능)." />
+	<block key="powerarkcs_Name" korean="[창] 힘껏베기" />
+	<block key="powerarkcs_description_1" korean="창에 힘을 모아 전방에 있는 대상을 날려 버린다. (탑승 후 사용 가능)" />
+	<block key="powerarkcs_description_2" korean="창에 힘을 모아 전방에 있는 대상을 날려 버린다. (탑승 후 사용 가능)" />
+	<block key="powerarkcs_description_3" korean="창에 힘을 모아 전방에 있는 대상을 날려 버린다. (탑승 후 사용 가능)" />
+	<block key="powerarkcs_description_4" korean="창에 힘을 모아 전방에 있는 대상을 날려 버린다. (탑승 후 사용 가능)" />
+	<block key="powerarkcs_description_5" korean="창에 힘을 모아 전방에 있는 대상을 날려 버린다. (탑승 후 사용 가능)" />
+	<block key="powerarkcs_description_6" korean="창에 힘을 모아 전방에 있는 대상을 날려 버린다. (탑승 후 사용 가능)" />
+	<block key="powerarkcs_description_7" korean="창에 힘을 모아 전방에 있는 대상을 날려 버린다. (탑승 후 사용 가능)" />
+	<block key="powerarkcs_description_8" korean="창에 힘을 모아 전방에 있는 대상을 날려 버린다. (탑승 후 사용 가능)" />
+	<block key="powerarkcs_description_9" korean="창에 힘을 모아 전방에 있는 대상을 날려 버린다. (탑승 후 사용 가능)" />
+	<block key="powerarkcs_description_10" korean="창에 힘을 모아 전방에 있는 대상을 날려 버린다. (탑승 후 사용 가능)" />
+	<block key="gustofwind_Name" korean="돌풍" />
+	<block key="gustofwind_description_1" korean="전방을 X 자로 벤 뒤 창을 돌려 360도 대상을 모두 공격한다. (탑승 후 사용 가능)" />
+	<block key="gustofwind_description_2" korean="전방을 X 자로 벤 뒤 창을 돌려 360도 대상을 모두 공격한다. (탑승 후 사용 가능)" />
+	<block key="gustofwind_description_3" korean="전방을 X 자로 벤 뒤 창을 돌려 360도 대상을 모두 공격한다. (탑승 후 사용 가능)" />
+	<block key="gustofwind_description_4" korean="전방을 X 자로 벤 뒤 창을 돌려 360도 대상을 모두 공격한다. (탑승 후 사용 가능)" />
+	<block key="gustofwind_description_5" korean="전방을 X 자로 벤 뒤 창을 돌려 360도 대상을 모두 공격한다. (탑승 후 사용 가능)" />
+	<block key="gustofwind_description_6" korean="전방을 X 자로 벤 뒤 창을 돌려 360도 대상을 모두 공격한다. (탑승 후 사용 가능)" />
+	<block key="gustofwind_description_7" korean="전방을 X 자로 벤 뒤 창을 돌려 360도 대상을 모두 공격한다. (탑승 후 사용 가능)" />
+	<block key="gustofwind_description_8" korean="전방을 X 자로 벤 뒤 창을 돌려 360도 대상을 모두 공격한다. (탑승 후 사용 가능)" />
+	<block key="gustofwind_description_9" korean="전방을 X 자로 벤 뒤 창을 돌려 360도 대상을 모두 공격한다. (탑승 후 사용 가능)" />
+	<block key="gustofwind_description_10" korean="전방을 X 자로 벤 뒤 창을 돌려 360도 대상을 모두 공격한다. (탑승 후 사용 가능)" />
+	<block key="gustofwind2_Name" korean="[창] 지옥의 돌풍" />
+	<block key="gustofwind2_description_1" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind2_description_2" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind2_description_3" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind2_description_4" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind2_description_5" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind2_description_6" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind2_description_7" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind2_description_8" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind2_description_9" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind2_description_10" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind2_description_11" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind2_description_12" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind2_description_13" korean="창을 회전 시켜, 돌풍을 일으키고 360도 내 모든 대상을 공격합니다." />
+	<block key="gustofwind3_Name" korean="돌풍" />
+	<block key="gustofwind3_description_1" korean="내부데이터" />
+	<block key="gustofwinda_name" korean="돌풍" />
+	<block key="gustofwinda_description_1" korean="내부데이터" />
+	<block key="gustofwindb_name" korean="돌풍" />
+	<block key="gustofwindb_description_1" korean="내부데이터" />
+	<block key="lanceatk_Name" korean="[창] 3단 찌르기" />
+	<block key="lanceatk_description_1" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_2" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_3" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_4" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_5" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_6" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_7" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_8" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_9" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_10" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_11" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_12" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_13" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_14" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_15" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_16" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_17" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_18" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_19" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk_description_20" korean="3단 콤보 스킬로 전방에 대상을 3번 콤보로 찌른다. (탑승 후 사용 가능)" />
+	<block key="lanceatk2_Name" korean="[창] 3단 찌르기" />
+	<block key="lanceatk2_description_1" korean="내부데이터" />
+	<block key="lanceatk3_Name" korean="[창] 3단 찌르기" />
+	<block key="lanceatk3_description_1" korean="내부데이터" />
+	<block key="normalattack_name" korean="자동 공격" />
+	<block key="normalattack_description_1" korean="대상을 자동으로 공격합니다. 자동 공격은 활성화하거나 비활성화 시킬 수 있습니다." />
+	<block key="comboatk_Name" korean="[창] 2단 치기" />
+	<block key="comboatk_description_1" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_2" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_3" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_4" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_5" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_6" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_7" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_8" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_9" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_10" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_11" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_12" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_13" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_14" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_15" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_16" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_17" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_18" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_19" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk_description_20" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="comboatk2_Name" korean="[창] 2단 치기" />
+	<block key="comboatk2_description_1" korean="1타에 전방을 내려쳐 대상을 넘어뜨린 뒤 2타로 넘어진 대상을 공중으로 올립니다." />
+	<block key="poweratkcs_Name" korean="[창] 집중의 일격" />
+	<block key="poweratkcs_description_1" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_2" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_3" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_4" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_5" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_6" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_7" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_8" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_9" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_10" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_11" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_12" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_13" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_14" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_15" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_16" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_17" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_18" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_19" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="poweratkcs_description_20" korean="기운을 창 끝에 모아 전방의 대상을 공격합니다.
+
+- 챠지 1단계 : 전방의 대상을 넘어뜨립니다.
+- 풀챠지 : 거대한 창의 기운을 발사하여 10M 전방 모든 대상에게 피해를 줍니다." />
+	<block key="heartatk_Name" korean="[창] 심장 찌르기" />
+	<block key="heartatk_description_1" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_2" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_3" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_4" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_5" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_6" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_7" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_8" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_9" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_10" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_11" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_12" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_13" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_14" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_15" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_16" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_17" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_18" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_19" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="heartatk_description_20" korean="기운을 모아 대상을 힘껏 찔러 날려 버립니다." />
+	<block key="mocarashafire01_Name" korean="불꽃뱉기" />
+	<block key="mocarashafire01_description_1" korean="적을향해 불꽃을 발사한다." />
+	<block key="moasterasfire01_Name" korean="검은번개" />
+	<block key="weakness_Name" korean="약점 노출" />
+	<block key="weakness_description_1" korean="약점이 노출되어 방어력이 50% 감소 되며, 일부 스킬 공격에 큰 반응을 보인다." />
+	<block key="poisonshot_Name" korean="[석궁] 맹독 사격" />
+	<block key="poisonshot_description_1" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_2" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_3" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_4" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_5" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_6" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_7" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_8" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_9" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_10" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_11" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_12" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_13" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_14" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_15" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_16" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_17" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_18" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_19" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshot_description_20" korean="대상에게 직접 피해를 준 뒤 12초에 걸쳐 2초마다 지속적으로 HP를 감소 시킨다. 
+약점 노출 상태의 대상에게는 5M 반경 내 모든 대상에게 20초에 걸쳐 1초마다 지속적으로 HP를 감소시킨다." />
+	<block key="poisonshotlink_name" korean="[석궁] 맹독 사격" />
+	<block key="poisonshotlink_description_1" korean="내부데이터" />
+	<block key="poisonshotlink2_name" korean="[석궁] 맹독 사격" />
+	<block key="poisonshotlink2_description_1" korean="내부데이터" />
+	<block key="godhands_Name" korean="[석궁] 재빠른 손놀림" />
+	<block key="godhands_description_1" korean="속사 사용 시 50%의 확률로 쿨타임을 감소 시킨다." />
+	<block key="arrowrainlink_name" korean="화살비" />
+	<block key="wildshot_Name" korean="[석궁] 집중 난사" />
+	<block key="wildshot_description_1" korean="대상을 집중하여 10발의 화살을 빠르게 발사한다." />
+	<block key="wildshot_description_2" korean="대상을 집중하여 10발의 화살을 빠르게 발사한다." />
+	<block key="wildshot_description_3" korean="대상을 집중하여 10발의 화살을 빠르게 발사한다." />
+	<block key="wildshot_description_4" korean="대상을 집중하여 10발의 화살을 빠르게 발사한다." />
+	<block key="wildshot_description_5" korean="대상을 집중하여 10발의 화살을 빠르게 발사한다." />
+	<block key="wildshot_description_6" korean="대상을 집중하여 10발의 화살을 빠르게 발사한다." />
+	<block key="wildshot_description_7" korean="대상을 집중하여 10발의 화살을 빠르게 발사한다." />
+	<block key="wildshot_description_8" korean="대상을 집중하여 10발의 화살을 빠르게 발사한다." />
+	<block key="wildshot_description_9" korean="대상을 집중하여 10발의 화살을 빠르게 발사한다." />
+	<block key="wildshot_description_10" korean="대상을 집중하여 10발의 화살을 빠르게 발사한다." />
+	<block key="lightningshot_Name" korean="[석궁] 번개 사격" />
+	<block key="lightningshot_description_1" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_2" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_3" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_4" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_5" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_6" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_7" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_8" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_9" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_10" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_11" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_12" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_13" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_14" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_15" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_16" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_17" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_18" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_19" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot_description_20" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_Name" korean="[석궁] 번개 사격" />
+	<block key="lightningshot2_description_1" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_2" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_3" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_4" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_5" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_6" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_7" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_8" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_9" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_10" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_11" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_12" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_13" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_14" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_15" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_16" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_17" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_18" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_19" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="lightningshot2_description_20" korean="연사 4타 이후 발동 스킬로 번개의 기운이 깃든 화살을 세번 연속 발사합니다. [약점 노출]의 경우 5초간 감전 상태가 적용 됩니다." />
+	<block key="hack_name" korean="[창] 난격" />
+	<block key="hack_Description_1" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_2" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_3" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_4" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_5" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_6" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_7" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_8" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_9" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_10" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_11" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_12" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_13" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_14" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack_Description_15" korean="연속 공격으로 대상을 공격합니다. 연타 시 최대 5회까지 공격하며, 특정 타격 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[급소강타]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[심장파괴]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[영혼의 일격]</G_Y> 스킬 발동." />
+	<block key="hack2_Name" korean="[창] 난격" />
+	<block key="hack3_Name" korean="[창] 난격" />
+	<block key="hack4_Name" korean="[창] 난격" />
+	<block key="hack5_Name" korean="[창] 난격" />
+	<block key="pointattack_name" korean="[창] 급소강타" />
+	<block key="pointattack_Description_1" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_2" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_3" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_4" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_5" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_6" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_7" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_8" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_9" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_10" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_11" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_12" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_13" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="pointattack_Description_14" korean="난격 3타 이후 발동 스킬로 대상을 경직시킵니다." />
+	<block key="heartcrash_name" korean="[창] 심장파괴" />
+	<block key="heartcrash_Description_1" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="heartcrash_Description_2" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="heartcrash_Description_3" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="heartcrash_Description_4" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="heartcrash_Description_5" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="heartcrash_Description_6" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="heartcrash_Description_7" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="heartcrash_Description_8" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="heartcrash_Description_9" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="heartcrash_Description_10" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="heartcrash_Description_11" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="heartcrash_Description_12" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="heartcrash_Description_13" korean="난격 4타 이후 발동 스킬로 대상을 넘어뜨립니다." />
+	<block key="soulcrash_name" korean="[창] 영혼의 일격" />
+	<block key="soulcrash_Description_1" korean="난격 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="soulcrash_Description_2" korean="난격 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="soulcrash_Description_3" korean="난격 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="soulcrash_Description_4" korean="난격 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="soulcrash_Description_5" korean="난격 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="soulcrash_Description_6" korean="난격 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="soulcrash_Description_7" korean="난격 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="soulcrash_Description_8" korean="난격 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="soulcrash_Description_9" korean="난격 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="soulcrash_Description_10" korean="난격 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="soulcrash_Description_11" korean="난격 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="soulcrash_Description_12" korean="난격 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="continuousshot_Name" korean="[석궁] 연사" />
+	<block key="continuousshot_description_1" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_2" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_3" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_4" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_5" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_6" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_7" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_8" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_9" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_10" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_11" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_12" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_13" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_14" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_15" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot_description_16" korean="연속 공격으로 대상을 공격합니다. 연사 시 최대 5회까지 공격하며, 특정 발사 구간에서 스킬이 발동 합니다.
+
+- [3타] 후 <G_Y>[발목 노리기]</G_Y> 스킬 발동.
+- [4타] 후 <G_Y>[번개 사격]</G_Y> 스킬 발동.
+- [5타] 후 <G_Y>[폭탄 사격]</G_Y> 스킬 발동." />
+	<block key="continuousshot2_Name" korean="[석궁] 연사" />
+	<block key="continuousshot3_Name" korean="[석궁] 연사" />
+	<block key="continuousshot4_Name" korean="[석궁] 연사" />
+	<block key="continuousshot5_Name" korean="[석궁] 연사" />
+	<block key="stromshot_Name" korean="[석궁] 폭풍 사격" />
+	<block key="wildshotcl_Name" korean="[석궁] 집중 난사" />
+	<block key="wildshotcl_description_1" korean="내부데이터" />
+	<block key="wildshotcm_Name" korean="[석궁] 집중 난사" />
+	<block key="wildshotcm_description_1" korean="내부데이터" />
+	<block key="bombshot_name" korean="[석궁] 폭탄 사격" />
+	<block key="bombshot_Description_1" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_2" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_3" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_4" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_5" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_6" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_7" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_8" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_9" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_10" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_11" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_12" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_13" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="bombshot_Description_14" korean="연사 5타 이후 발동 스킬로 대상을 날려버립니다." />
+	<block key="hitstrike_name" korean="[창] 연격" />
+	<block key="hitstrike_description_1" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_2" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_3" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_4" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_5" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_6" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_7" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_8" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_9" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_10" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_11" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_12" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_13" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_14" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike_description_15" korean="대상을 연속으로 두 번 빠르게 베어버립니다." />
+	<block key="hitstrike2_name" korean="[창] 연격" />
+	<block key="wildshotcs_Name" korean="[석궁] 집중 난사" />
+	<block key="wildshotcs_description_1" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_2" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_3" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_4" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_5" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_6" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_7" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_8" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_9" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_10" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_11" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_12" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_13" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_14" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_15" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_16" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_17" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_18" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_19" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+	<block key="wildshotcs_description_20" korean="기운을 화살 끝에 모아 대상에게 난사합니다.
+
+- 챠지 1단계 : 6발의 화살을 난사 합니다.
+- 풀챠지 : 12발의 화살을 난사 합니다." />
+</blocks>

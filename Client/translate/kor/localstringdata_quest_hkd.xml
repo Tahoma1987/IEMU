@@ -1,0 +1,597 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="HKD_0_0_0001_1_Title" korean="속전속결" />
+	<block key="HKD_0_0_0001_1_RewarderDesc" korean="지휘관 바르키르" />
+	<block key="HKD_0_0_0001_1_Request_Text" korean="내가 생각하는 전투의 기본은 속전속결이네.<br>공적단의 지상병력이 주둔지를 압박하고 있다해서 그 잔챙이들 모두를 상대할 이유는 없다는 말이야.<br>지휘관을 우선 때려잡아 적의 사기를 꺾어버려야지.<br>그렇지 않은가?! 좋아. [UserName]!" />
+	<block key="HKD_0_0_0001_1_Request_Text_attach_0" korean="<br><br>자네에게 그 임무를 맡기겠네. 주둔지 앞의 대해 통로를 따라 가다보면 지휘관 펠라가 있을거야. 가는 길에 설치는 공적단의 폭탄마와 함께 처리해버리게.<br>직할령에서 활약했다는 그 무용을 기대하지." />
+	<block key="HKD_0_0_0001_1_Accepted_Text" korean="지휘관 펠라와 폭탄마를 함께 쓸어버리게!" />
+	<block key="HKD_0_0_0001_1_Ongoing_Text" korean="전투의 기본은 속전속결이라 하지 않았나?<br>어서 지휘관 펠라와 폭탄마를 처치하고 오게." />
+	<block key="HKD_0_0_0001_1_Complete_Text" korean="벌써 펠라와 폭탄마를 처치했다고?<br>와하하하!! 자네 무용담이 거짓은 아닌 모양이군." />
+	<block key="HKD_0_0_0001_2_Title" korean="폭탄으로인한 화재" />
+	<block key="HKD_0_0_0001_2_RewarderDesc" korean="지휘관 바르키르" />
+	<block key="HKD_0_0_0001_2_Request_Text" korean="공적단의 폭탄마놈들이 몇번이나 폭탄을 던져대는 바람에 주둔지 곳곳에 대형 화재가 발생했었네.<br>이제는 철저히 방비하고 있어 더는 전처럼 불이나진 않겠지. 자네는 주둔지 앞의 파손된 보급품들에 옮겨붙은 불을 좀 꺼주면 좋겠군.<br><br>물통에 물을 담아 놓았으니 이걸 가지고 가게." />
+	<block key="HKD_0_0_0001_2_Accepted_Text" korean="파손된 보급품의 불을 꺼주게." />
+	<block key="HKD_0_0_0001_2_Ongoing_Text" korean="파손된 보급품의 불은 다 끄고 왔나?<br>딱 봐도 활활 타오르고 있을테니 찾기 쉬울거야." />
+	<block key="HKD_0_0_0001_2_Complete_Text" korean="수고했네.<br>폭탄때문에 이게 다들 무슨 고생인지 모르겠군." />
+	<block key="HKD_0_0_0001_Title" korean="통로를 지켜라" />
+	<block key="HKD_0_0_0001_RewarderDesc" korean="지휘관 바르키르" />
+	<block key="HKD_0_0_0001_Request_Text" korean="공적단이 대해 통로에 폭탄을 설치해놓은 모양이야.<br>정신나간 놈들! 가만, 결국 폭탄이란 터져야 비로소 소용이 있는 것 아닌가? 흠..폭탄을 해체한다면 통로가 무너지는 것을 막을 수 있을거야.<br><br>통로 아래에 숨겨놓은 폭탄도 있을테니 대해 통로 곳곳을 수색해 폭탄을 해체하게." />
+	<block key="HKD_0_0_0001_Accepted_Text" korean="대해 통로 근방을 이잡듯이 뒤져서라도 폭탄을 해체하게!" />
+	<block key="HKD_0_0_0001_Ongoing_Text" korean="뭘하고 있는건가?!<br>폭탄이 언제 터질지 모르는 상황에 여유를 부리다니!<br>어서 폭탄을 찾게!" />
+	<block key="HKD_0_0_0001_Complete_Text" korean="하하하!<br>공적단 놈들, 폭탄이 해체된 사실을 알면 어떤 표정일지 궁금하구만! 수고했네, 수고했어!" />
+	<block key="HKD_0_0_0002_Title" korean="철벽 방어" />
+	<block key="HKD_0_0_0002_RewarderDesc" korean="지휘관 바르키르" />
+	<block key="HKD_0_0_0002_Request_Text" korean="공적단의 척후병들이 주둔지를 배회하면서 우리의 허점을 노리고 있네.<br>가소로운 놈들..지금이라도 녀석들의 눈과 귀를 막아야겠어. 그들이 여기서 보고 들은 것들을 떠들고 다니게 할 수는 없지않나?<br><br>주둔지 앞에서 서성거리는 공적단 척후병을 없애주게. 고작 척후병 따위에게 발목을 붙잡혀선 안되네." />
+	<block key="HKD_0_0_0002_Accepted_Text" korean="공적단 척후병을 처치하여 전력노출을 막게." />
+	<block key="HKD_0_0_0002_Ongoing_Text" korean="우리 정보를 모두 노출시켜서 좋을 것이 뭐가 있겠나? 더 이상의 전력노출은 막아야해.<br>자네만 믿고있겠네." />
+	<block key="HKD_0_0_0002_Complete_Text" korean="수고했네!<br>잠입에 능한 녀석들이라곤 하지만, 그것 외엔 두려울 것도 없었군." />
+	<block key="HKD_0_0_0003_Title" korean="물건 찾기" />
+	<block key="HKD_0_0_0003_RewarderDesc" korean="정찰대원 소리나" />
+	<block key="HKD_0_0_0003_Request_Text" korean="공적단이 약탈해간 물품을 따로 보관해둔 흔적은 발견하지 못했어요. 아마도 직접 지니고 있을거라 생각해요. 신룡기사단의 물건에 손을 대다니..<br>공적단에게 대가를 치르게 해야 합니다.<br><br>[UserName]님, 공적단 약탈자들을 응징하고 훔쳐간 물건을 되찾아 주십시오!" />
+	<block key="HKD_0_0_0003_Accepted_Text" korean="공적단 약탈자들을 응징하고 약탈당한 물건을 되찾아 주십시오." />
+	<block key="HKD_0_0_0003_Ongoing_Text" korean="공적단이 약탈한 물건은 찾아오셨나요?" />
+	<block key="HKD_0_0_0003_Complete_Text" korean="역시 제 예상이 맞았군요!<br>[UserName]님 덕분에 약탈당한 물건을 회수할 수 있었어요. 고맙습니다." />
+	<block key="HKD_0_0_0004_Title" korean="통로 주변의 위협" />
+	<block key="HKD_0_0_0004_RewarderDesc" korean="정찰대원 젤란" />
+	<block key="HKD_0_0_0004_Request_Text" korean="수비대가 공격할 틈을 만드려면 통로 주변의 공중을 정리할 필요가 있습니다. 공적단은 자신들이 길들인 난폭한 펠로우를 이용해 야영지를 공격하고 있습니다.<br>공적단의 펠로우를 없애 통로 주변을 정리해야겠습니다. 길들여진 스카너를 처치하여 주십시오.<br><br>스카너는 통로 아래, 135m 고도 부근에서 발견되었다고하니 비행 펠로우를 타고 내려가십시오." />
+	<block key="HKD_0_0_0004_Accepted_Text" korean="길들여진 스카너를 처치하여 통로 주변을 정리해주십시오." />
+	<block key="HKD_0_0_0004_Ongoing_Text" korean="보고에 따르면 길들여진 스카너는 통로 아래에서 주로 발견되었다고합니다. 찾는데 어려움이 있으실 겁니다." />
+	<block key="HKD_0_0_0004_Complete_Text" korean="감사합니다!<br>이제야 우리도 반격할 발판을 마련한 것 같습니다." />
+	<block key="HKD_0_0_0005_Title" korean="공격 개시" />
+	<block key="HKD_0_0_0005_RewarderDesc" korean="지휘관 바르키르" />
+	<block key="HKD_0_0_0005_Request_Text" korean="그간 공적단 놈들이 툭하면 쏘아대는 대포가 여간 신경쓰이는 일이 아니었는데 좋은 방법이 생각났네.<br>통로에서 해체한 폭탄 말이야. 어딘가 쓸모가 있을거라 생각했는데 이렇게 빨리 쓰이게 될 줄은 몰랐군.<br><br>폭탄을 사용해서 놈들의 대포를 파괴하면 좋겠어.<br>다시는 대포 따위 사용할 수 없게 박살을 내버리게!" />
+	<block key="HKD_0_0_0005_Accepted_Text" korean="폭탄으로 공적단의 대포를 파괴하게!" />
+	<block key="HKD_0_0_0005_Ongoing_Text" korean="놈들의 폭탄으로 놈들의 무기를 부순다.<br>으하하하! 생각만해도 속이 시원하군!" />
+	<block key="HKD_0_0_0005_Complete_Text" korean="대포가 박살이 났구만!<br>그 장관을 내 직접 봤어야 했는데 아쉽군, 아쉬워!" />
+	<block key="HKD_0_0_0006_Title" korean="통로 건설 현장으로" />
+	<block key="HKD_0_0_0006_RewarderDesc" korean="진타란" />
+	<block key="HKD_0_0_0006_Request_Text" korean="이곳 상황이 좋아지면 통로 건설 현장으로 인원을 지원해야할 것 같네. 헌데 누구를 보내는 것이 좋을지 고민이군. 현장 감독관인 진타라가 일처리는 좋은데 조금 괴팍한 면이 있다는 소문이 있어서 말이야.<br>그래서 말인데 [UserName], 자네가 가주게.<br><br>건설현장의 진타란에게 내가 보내서 왔다고하면 어떤 주문이 있을 것이네." />
+	<block key="HKD_0_0_0006_Accepted_Text" korean="건설 현장의 진타란에게 가보게." />
+	<block key="HKD_0_0_0006_Ongoing_Text" korean="수비대에 지원 요청을 한 것이 언젠데 왜 이제서야 도착하는거야?" />
+	<block key="HKD_0_0_0006_Complete_Text" korean="수비대에 지원 요청을 한 것이 언젠데 왜 이제서야 도착하는거야?" />
+	<block key="HKD_0_0_0007_Title" korean="감시탑 보호" />
+	<block key="HKD_0_0_0007_RewarderDesc" korean="정찰대원 소리나" />
+	<block key="HKD_0_0_0007_Request_Text" korean="대포를 부순다해도 결국 그 대포를 사용하는 건 공적단원들이니 위험요소는 사라지지 않아요.<br>엄밀히 말해 우릴 귀찮게 하는 것은 대포라기보다는 포병과 공중에서 포격 위치를 알려주는 정찰병이에요.<br><br>[UserName]님, 공적단 포병과 정찰병을 처치하세요.<br>주둔지 옆, 240m 고도 부근의 부유섬으로 가면 그들을 찾을 수 있을 거에요!" />
+	<block key="HKD_0_0_0007_Accepted_Text" korean="공적단 포병과 정찰병의 처리를 맡길게요!" />
+	<block key="HKD_0_0_0007_Ongoing_Text" korean="감시탑을 보수하고 방어하는 것으론 부족해요. 최선의 공격이 곧 최선의 방어라는 말을 요즘 실감하고 있어요." />
+	<block key="HKD_0_0_0007_Complete_Text" korean="과연, 공격이 가장 훌륭한 방어가 되었군요." />
+	<block key="HKD_0_0_0008_Title" korean="스칸 공적단과 맞서라" />
+	<block key="HKD_0_0_0008_RewarderDesc" korean="정찰대원 소리나" />
+	<block key="HKD_0_0_0008_Request_Text" korean="공적단을 이끄는 지휘부가 무너지지 않으면 언제끝날지 모를 소모전만 계속 되겠군요. 의미가 없을 것 같군요. 주둔지 공격을 지휘하는 지휘관 스카이림을 쓰러트리는 것은 선택이 아닌 필수입니다.<br><br>건너편 250m 고도 부근의 부유섬에서 공적단의 지휘관 스카이림을 처치하고 적의 기세를 꺽어주세요." />
+	<block key="HKD_0_0_0008_Accepted_Text" korean="지휘부를 꺾는다면 확실히 기선을 제압할 수 있을 거에요." />
+	<block key="HKD_0_0_0008_Ongoing_Text" korean="신중한 것도 좋지만 지금은 결단력이 필요해요.<br>지휘관 스카이림 제거에 망설이지 마세요.<br>자, 가세요!" />
+	<block key="HKD_0_0_0008_Complete_Text" korean="스카이림이 쓰러졌군요. 잘하셨습니다. 이제 지휘관의 부재가 어느정도의 영향을 미칠지 지켜보도록 하지요." />
+	<block key="HKD_0_0_0009_Title" korean="공중 지원 봉쇄" />
+	<block key="HKD_0_0_0009_RewarderDesc" korean="정찰대원 젤란" />
+	<block key="HKD_0_0_0009_Request_Text" korean="공적단이 지금껏 폭탄이며, 대포로 화력을 앞세웠기에 강하다고 생각하는 사람들이 있습니다.<br>사실 그들이 강한 이유는 공중을 확실히 장악하고 있기 때문이 아니겠습니까? 공적단이 길들인 무레네들이 건너편 부유섬 160m 고도 부근에서 계속 목격되고 있습니다.<br><br>공적단의 공중 연계를 막아야합니다.<br>길들여진 무레네를 해치워 주십시오!" />
+	<block key="HKD_0_0_0009_Accepted_Text" korean="공적단에게 길들여진 무레네를 해치워 주십시오." />
+	<block key="HKD_0_0_0009_Ongoing_Text" korean="길들여진 무레네들과 상대할 땐 주변 공적단 정찰병과의 연계가 이루어지지 않도록 주의하셔야합니다." />
+	<block key="HKD_0_0_0009_Complete_Text" korean="잘하셨습니다! 그들의 연계가 하나씩 무너지고 있습니다." />
+	<block key="HKD_0_0_0010_Title" korean="눈 앞의 위협" />
+	<block key="HKD_0_0_0010_RewarderDesc" korean="감독관 진타란" />
+	<block key="HKD_0_0_0010_Request_Text" korean="내 건축 실력은 엄연한 예술인데 무지렁이같은 공적단 놈들이 내 작품을 방해한단 말이야. 이봐, 수비대의 지원이 왜 늦어졌는지 그 사정은 나중에 듣겠어.<br><br>일단 건설현장 앞에서 알짱거리는 공적단 타격대와 강탈자를 치워버려. 보는 것만으로도 머리가 아프다구." />
+	<block key="HKD_0_0_0010_Accepted_Text" korean="공적단 타격대와 강탈자를 멀리 치워버리라구." />
+	<block key="HKD_0_0_0010_Ongoing_Text" korean="방금 내가 한 말 잊었어? 공적단 타격대와 강탈자가 건설현장 앞을 기웃거리는데 무슨 작업을 하라는 거야?" />
+	<block key="HKD_0_0_0010_Complete_Text" korean="공적 타격대와 강탈자 녀석들을 다 쫒아버렸다고?<br>좋아, 좋아!" />
+	<block key="HKD_0_0_0011_Title" korean="오플라이엄 채취" />
+	<block key="HKD_0_0_0011_RewarderDesc" korean="작업자 마줄란" />
+	<block key="HKD_0_0_0011_Request_Text" korean="건설 현장이 공적단의 습격을 받든 어쩌든 일은 해야하지 않겠소? 문제는 건설 자재가 부족한 것이지.<br>그래도 그렇지. 내가 광부도 아닌데 오플라이엄을 캐오라니! ..가만, 당신 주둔지에서 온 그 실력있는 기사아니오? 잘됐군. 오플라이엄을 좀 구해다 주시오." />
+	<block key="HKD_0_0_0011_Request_Text_attach_0" korean="<br><br>주둔지 방향에 있는 섬으로 가서 공중에 떠있는 오플라이엄 잘 찾아보시오. 오플라이엄은 280m 고도 부근의 섬들에 주로 있을테니 유의하시오.<br>잘 찾아보고 내게 오플라이엄 4개만 가져다 주시오." />
+	<block key="HKD_0_0_0011_Accepted_Text" korean="오플라이엄은 공중에 떠있을테니 잘 찾아보시오." />
+	<block key="HKD_0_0_0011_Ongoing_Text" korean="오플라이엄은 어딨소?<br>..이거야 원. 전문광부라도 불러야 하나." />
+	<block key="HKD_0_0_0011_Complete_Text" korean="오플라이엄을 가져왔군!<br>실력있는 기사라고해서 싸움실력만 있는줄 알았더니 오플라이엄 채취도 수준급이었구만." />
+	<block key="HKD_0_0_0012_Title" korean="떠내려간 물건들" />
+	<block key="HKD_0_0_0012_RewarderDesc" korean="작업자 마줄란" />
+	<block key="HKD_0_0_0012_Request_Text" korean="건설 자재도 부족한 마당에 그나마 있는 물자를 공적단놈들이 습격하면서 죄다 물에 떠내려가 버렸소. 그걸 회수해야 작업을 할 수가 있는데..재료가 없어서 쉬는 것이지 일을 하기 싫어서 노는 것은 아니오.<br>아니, 나야 당연히 열심히 일하고 싶지!" />
+	<block key="HKD_0_0_0012_Request_Text_attach_0" korean="<br><br>여하튼 물자들은 바다 위에 떠다니고 있을거요.<br>통로 아래, 100m 고도 부근의 바다 위에서 떠내려간 물품자루,물품상자,고급상자를 찾아주시오." />
+	<block key="HKD_0_0_0012_Accepted_Text" korean="바다 위에 떠다니고 있을 내 물품자루와 물품상자, 고급상자를 찾아주시오." />
+	<block key="HKD_0_0_0012_Ongoing_Text" korean="바쁜 사람 붙들고 일을 시켜서 미안하군.<br>좀 쉬엄쉬엄 하시오. 전혀 서두를 것 없소.<br>천천히! ..이만하면 알아듣겠지..<br>아, 방금은 혼잣말이었소!<br><br>(어째서인지 서둘러서 물건을 찾아주면 마줄란이 실망할 것 같은 예감이 든다.)" />
+	<block key="HKD_0_0_0012_Complete_Text" korean="아니, 서두를 것 없다니까..거 사람 성격하고는.." />
+	<block key="HKD_0_0_0013_Title" korean="작업에 필요한 펠로우" />
+	<block key="HKD_0_0_0013_RewarderDesc" korean="펠로우 경비대
+후안" />
+	<block key="HKD_0_0_0013_Request_Text" korean="건설 현장 작업에 쓰려고 데려온 제 펠로우들이 제가 한눈을 판 사이에 모두 도망가 버렸습니다. 건설 현장 근방,  270m 고도 부근에서 배회하고 있으니 지금이 데려올 기회입니다.<br><br>기사님이 도망간 아크라트 초원새들을 다시 데려와 주실 수 있겠습니까? 다시 도망갈지도 모르니 봉인을 해서 봉인석 상태로 가져다 주십시오." />
+	<block key="HKD_0_0_0013_Accepted_Text" korean="아크라트 초원새를 봉인해서 제게 봉인석을 가져다 주시면 됩니다." />
+	<block key="HKD_0_0_0013_Ongoing_Text" korean="그렇게 아껴줬는데 절 버리고 다 도망을 가다니..아무리 정성을 다해 돌봐줘도 펠로우의 야성이란게 남아있었나 봅니다." />
+	<block key="HKD_0_0_0013_Complete_Text" korean="이 녀석들을 더는 볼 수 없을지도 모른다고 생각했는데 정말 감사합니다!" />
+	<block key="HKD_0_0_0019_Title" korean="꼭 필요한 식량" />
+	<block key="HKD_0_0_0019_RewarderDesc" korean="감독관 진타란" />
+	<block key="HKD_0_0_0019_Request_Text" korean="건설 현장 뒤편에는 공중 농장이 있어.<br>450m 고도 부근에 높이 떠있는 농장이지. 현장에 보급할 농작물을 재배하는데 최근, 유독 성장이 더딘 작물들이 있어서 무슨 이유인지 알아봐야겠단 말이야.<br>가서 성장이 더딘 당근과 수박을 가져다 달라구.<br><br>언젠가 다 먹을 식량인데 그렇게 성장이 느려서야 현장 인원들이나 나나 굶고 일할 수는 없잖아?" />
+	<block key="HKD_0_0_0019_Accepted_Text" korean="공중농장에서 성장이 더딘 당근과 수박을 가져오라구." />
+	<block key="HKD_0_0_0019_Ongoing_Text" korean="뭘 하는거야 후딱 다녀오지 않구?" />
+	<block key="HKD_0_0_0019_Complete_Text" korean="내가 부탁한 작물은 가져왔나? 좋아, 이리주라구." />
+	<block key="HKD_0_0_0015_Title" korean="바엘리스 요새로" />
+	<block key="HKD_0_0_0015_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0015_Request_Text" korean="건설 현장이 이렇게 난장판이 되었는데 신룡기사단은 주둔지나 지키고 있고 말이야.<br>바엘리스에 섀도우 클랜이 주둔하고 있다던데 거기가서 현장에 병사를 좀 보내달라고 말해봐.<br>알겠지?<br><br>잊지말구 바엘리스 요새로 가서 섀도우클랜의 크로우 단장을 찾아가 내 말을 전하라구!" />
+	<block key="HKD_0_0_0015_Accepted_Text" korean="바엘리스 요새로 가서 크로우 단장을 찾아가봐." />
+	<block key="HKD_0_0_0015_Ongoing_Text" korean="[UserName] 자네인가. 마침 잘왔네.<br>음? 진타란이 병사를 보내달라는 말을 했다고?<br>이제 공적단과 전면전이 벌어질텐데 굳이 병사를 보낼 여유는 없을 것 같군.<br><br>하지만 자네 부탁이니 일단 현장에 보낼 인원을 추려보지." />
+	<block key="HKD_0_0_0015_Complete_Text" korean="[UserName] 자네인가. 마침 잘왔네.<br>음? 진타란이 병사를 보내달라는 말을 했다고?<br>이제 공적단과 전면전이 벌어질텐데 굳이 병사를 보낼 여유는 없을 것 같군.<br><br>하지만 자네 부탁이니 일단 현장에 보낼 인원을 추려보지." />
+	<block key="HKD_0_0_0014_Title" korean="주변을 오염시키는 채소" />
+	<block key="HKD_0_0_0014_RewarderDesc" korean="작업자 팜쿠란" />
+	<block key="HKD_0_0_0014_Request_Text" korean="요정과 라비니가 공중 농장에 눌러 앉아버려 한동안 관리를 못했더니 엉망이 되버렸소.<br>작물이 상하더라도 편차가 있는 법인데 주변의 멀쩡한 작물까지 오염시키는 유별난 것이 있다는게 문제요!" />
+	<block key="HKD_0_0_0014_Request_Text_attach_0" korean="<br><br>공중 농장으로 가서 잡초랑 다를 바가 없는 오염된 야채를 수거해주겠소?<br>그럼 피해 확산은 좀 막을 수 있을 것 같은데..<br>오염된 야채는 335m 고도 부근의 공중농장에서 찾을 수 있을 것이오." />
+	<block key="HKD_0_0_0014_Accepted_Text" korean="오염된 야채를 공중 농장에서 수거해주시오." />
+	<block key="HKD_0_0_0014_Ongoing_Text" korean="..이봐요, 내가 금을 가져오라고 한 것도 아니지 않소?<br>어서 가서 오염된 야채를 수거해주시오!" />
+	<block key="HKD_0_0_0014_Complete_Text" korean="이제야 한시름 놓았군. 고맙소!" />
+	<block key="HKD_0_0_0015_1_Title" korean="대해의 펠로우 장인" />
+	<block key="HKD_0_0_0015_1_RewarderDesc" korean="왓슨" />
+	<block key="HKD_0_0_0015_1_Request_Text" korean="그 도감에 나온 펠로우 장인 말인데, 요새 근처에 머물고 있는 것 같더군.<br>혹 라이닉을 길들일 의향이 있다면 그를 찾아가보게.<br>라이닉을 길들일 수 있다면 자네에게 큰 힘이 될 거야." />
+	<block key="HKD_0_0_0015_1_Accepted_Text" korean="돌아올 때는 라이닉과 함께이길 바라네." />
+	<block key="HKD_0_0_0015_1_Ongoing_Text" korean="누군데 날 찾나?" />
+	<block key="HKD_0_0_0015_1_Complete_Text" korean="내가 펠로우 장인은 맞네만… 누군데 날 찾나?" />
+	<block key="HKD_0_0_0015_2_Title" korean="사일런스 마법서" />
+	<block key="HKD_0_0_0015_2_RewarderDesc" korean="왓슨" />
+	<block key="HKD_0_0_0015_2_Request_Text" korean="자네도 라이닉을 노리고 찾아온 거군. 뭐, 좋네. 내 연구를 도와준다면 나도 자네를 돕지.<br>나는 지금 대해의 생태계를 연구하고 있네. 무지개 산호섬에 사는 아굴과 무러미족, 그리고 푸른 군도 주변 230m 고도 부근에서 비행하는 피테로가 가지고 있는 바닷빛 정수가 내 연구에 실마리가 되어줄 것 같더군.<br>가능한 많은 바닷빛 정수를 부탁하겠네." />
+	<block key="HKD_0_0_0015_2_Request_Text_attach_0" korean="<br><br>단, 무지개 산호섬에는 동료와 함께 가는 것이 좋을 걸세. 아굴과 무러미를 처치하면 반드시 바닷빛 정수를 얻을 수 있지만 혼자서는 힘들거든.<br>피테로는 혼자서도 쉽게 처치할 수 있지만 그 대신 바닷빛 정수를 반드시 얻을지는 장담할 수 없네.<br>어느 쪽으로 가던 자네의 선택에 달렸네." />
+	<block key="HKD_0_0_0015_2_Accepted_Text" korean="바닷빛 정수를 가져오면 사일런스 마법서에 대해 알려주겠네." />
+	<block key="HKD_0_0_0015_2_Ongoing_Text" korean="무지개 산호섬의 아굴과 무러미족, 그리고 푸른 군도의 피테로가 가지고 있는 바닷빛 정수를 가져다 주게.<br>단, 무지개 산호섬은 동료와 함께 가는 것이 좋을 걸세. 아굴과 무러미를 처치하면 반드시 바닷빛 정수를 얻을 수 있지만 혼자서는 힘들거든.<br><br>피테로는 혼자서도 쉽게 처치할 수 있지만 그 대신 바닷빛 정수를 반드시 얻을지는 장담할 수 없네.<br>어느 쪽으로 가던 자네의 선택에 달렸네." />
+	<block key="HKD_0_0_0015_2_Complete_Text" korean="고맙네. 이 정도 양이면 충분하겠군.<br>약속대로 사일런스 마법서에 대해 알려주지.<br>사일런스 마법서는 주위 소리를 흡수하는 마법서라네. 라이닉의 입을 다물게 하기 위해 만들었지.<br><br>제조법을 써주겠네.<br>마법서를 만들어서 라이닉에게 사용하면 녀석을 길들일 수 있을 걸세." />
+	<block key="HKD_0_0_0016_Title" korean="식수 구해오기" />
+	<block key="HKD_0_0_0016_RewarderDesc" korean="작업자 팜쿠란" />
+	<block key="HKD_0_0_0016_Request_Text" korean="식수가 부족해서 큰일이오.<br>작업자들은 물론이고 농장에서도 필요하니 쓸 때는 많은데 통로를 공적단이 휘저어 놓았으니 보급도 문제고..<br>그래서 말인데 건설 현장 뒤편의 공중 농장으로 가면 410m 고도 부근의 부유섬 아래 물 웅덩이가 있소.<br><br>그곳의 물 상태를 좀 확인했으면 좋겠소.<br>마셔도 좋은 물인지 검사는 내가 할테니 물 한 통만 떠오시오." />
+	<block key="HKD_0_0_0016_Accepted_Text" korean="공중 농장의 가장 높은 부유섬 아래 물 웅덩이를 찾아 물을 채워오시오." />
+	<block key="HKD_0_0_0016_Ongoing_Text" korean="물은 떠오셨소?<br>대해의 부유섬들은 모두 고도차가 제각각이라 뭔가를 찾으려면 우선 높이 올라가는게 최고요." />
+	<block key="HKD_0_0_0016_Complete_Text" korean="고맙소.<br>이제 마셔도 좋은 안전한 물인지 확인을 좀 해야겠소.<br>일단 마줄란부터 마시게하고 탈이 나는지 확인하면 되겠지.<br><br>(아무래도 과학적인 검사 방법은 아닌듯하다.)" />
+	<block key="HKD_0_0_0017_Title" korean="농장을 점령한 요정" />
+	<block key="HKD_0_0_0017_RewarderDesc" korean="상인
+쿠카트" />
+	<block key="HKD_0_0_0017_Request_Text" korean="최근 공중 농장에 요정들이 대거 나타났는데 대체 뭐가 불만인지 떠날 생각을 하지 않는군요. 하여튼 요정들이란.. 요정 여왕까지 합세해서 농장에 버티고 있으니 수확이 제대로 이루어질리 없습니다.<br><br>요정과 여왕이 농장을 장악하면 전 망한다구요. 난폭한 대해요정과 요졍여왕 르미테른을 처치해 주십시오!<br>410m 고도 부근에서 그들을 발견할 수 있을 겁니다!" />
+	<block key="HKD_0_0_0017_Accepted_Text" korean="난폭한 대해요정과 요정여왕 르미테른을 처치해주십시오!" />
+	<block key="HKD_0_0_0017_Ongoing_Text" korean="벌써 요정을 처치하신겁니까?!<br>아! ..아직이로군요.." />
+	<block key="HKD_0_0_0017_Complete_Text" korean="이제 골칫거리 하나가 사라진 것 같군요.<br>고맙습니다!" />
+	<block key="HKD_0_0_0018_Title" korean="농장을 점령한 라비니" />
+	<block key="HKD_0_0_0018_RewarderDesc" korean="상인 쿠카트" />
+	<block key="HKD_0_0_0018_Request_Text" korean="요즘에야 오염이니 뭐니 사건이 많았지만 어쨌거나 공중농장에서 수확하는 작물들은 수도성에서도 흔히 볼 수 없는 최고의 상품들입니다. 매번 서리하러 침입하는 토끼놈들을 보면 알 수 있잖습니까?<br>요정들은 최소한 작물에는 손을 댄 적이 없는데 라비니들은 지독한 놈들이에요.<br><br>하여튼 토끼들이란..라비니 약탈자를 처치하고 녀석들이 훔쳐간 야채를 수거해주십시오.<br>녀석들은 380m 고도 부근의 농장에 있습니다!" />
+	<block key="HKD_0_0_0018_Accepted_Text" korean="라비니 약탈자들이 훔쳐간 야채를 찾아주십시오." />
+	<block key="HKD_0_0_0018_Ongoing_Text" korean="토끼는 어떻게 되었습니까?<br>이런..아직인가 보군요." />
+	<block key="HKD_0_0_0018_Complete_Text" korean="아이고!<br>그동안 신나게 훔쳐 먹더니 토끼놈들 꼴 좋다!" />
+	<block key="HKD_0_0_0020_Title" korean="반격의 시작" />
+	<block key="HKD_0_0_0020_RewarderDesc" korean="섀도우 클랜
+크로우" />
+	<block key="HKD_0_0_0020_Request_Text" korean="공적단 파괴자들이 사용하는 강하폭탄은 위력이 상당하더군. 대해 통로에 설치되었던 폭탄으로 공적단을 한 방 먹여주었다지? 나 역시 그 방법에 흥미가 있네.<br>공적단 파괴자들에게서 강하폭탄을 탈취해오게.<br><br>푸른군도에서 건설현장으로 가는 길목에 있는 섬들 부근에서 파괴자를 찾을 수 있을거야." />
+	<block key="HKD_0_0_0020_Accepted_Text" korean="공적단 파괴자를 제거하고 강하폭탄을 가져오게." />
+	<block key="HKD_0_0_0020_Ongoing_Text" korean="폭탄을 다룰 때는 신중해야 하네.<br>나도 폭탄은 익숙치 않아 딱히 해줄 말은 없군." />
+	<block key="HKD_0_0_0020_Complete_Text" korean="이것이 강하폭탄이로군.<br>위력을 시험할 날이 곧 오겠지." />
+	<block key="HKD_0_0_0021_Title" korean="섀도우 클랜의 정찰" />
+	<block key="HKD_0_0_0021_RewarderDesc" korean="섀도우 클랜 포워드" />
+	<block key="HKD_0_0_0021_Request_Text" korean="적을 확실히 알아야 대처도 순조로운 법.<br>이미 공적단의 동태 파악을 위해 포워드를 우트란 부유섬으로 은밀히 보냈네. 그가 수집한 정보들을 토대로 곧 작전이 수립될거야.<br><br>바엘리스 요새 북쪽의 우트란 부유섬에서 그를 찾게.<br>우트란 부유섬은 510m 고도 이상의 높은 곳이니 자네의 펠로우로 갈 수 있는지 잘 확인하게." />
+	<block key="HKD_0_0_0021_Accepted_Text" korean="우트란 부유섬으로 가서 포워드를 찾게." />
+	<block key="HKD_0_0_0021_Ongoing_Text" korean="쉿! 크로우 단장님께서 보내셨습니까?" />
+	<block key="HKD_0_0_0021_Complete_Text" korean="쉿! 크로우 단장님께서 보내셨습니까?" />
+	<block key="HKD_0_0_0022_Title" korean="공중 전력 약화" />
+	<block key="HKD_0_0_0022_RewarderDesc" korean="섀도우 클랜
+신스" />
+	<block key="HKD_0_0_0022_Request_Text" korean="공적단의의 주력은 공중 병력입니다.<br>펠로우 조련사 중에서도 정예라 불리는 하늘용사가 남아있는 한 우트란 부유섬을 공격하는 것도 쉽진 않을겁니다. 그들을 처리해야겠습니다.<br><br>푸른군도 주변, 260m 고도 부근에서 비행중인 하늘용사들을 찾을 수 있을겁니다. 하늘용사를 찾아 제거하십시오." />
+	<block key="HKD_0_0_0022_Accepted_Text" korean="하늘용사를 제거해주신다면 공적단의 전력도 약해질 것입니다." />
+	<block key="HKD_0_0_0022_Ongoing_Text" korean="궁금하신 거라도 있으십니까?" />
+	<block key="HKD_0_0_0022_Complete_Text" korean="잘해주셨습니다.<br>하늘용사가 당했으니 외부에서 활동중인 공적단의 기세도 많이 꺾일겁니다." />
+	<block key="HKD_0_0_0022_1_Title" korean="위협적인 도발" />
+	<block key="HKD_0_0_0022_1_RewarderDesc" korean="섀도우 클랜 포워드" />
+	<block key="HKD_0_0_0022_1_Request_Text" korean="공적단을 일거에 소탕할 수는 없겠지만 옷이 가랑비에 젖듯이 타격을 줄 수는 있습니다.<br>적들이 방어가 튼튼한 이 우트란 부유섬에 틀어박히는 것은 환영할만한 일이 못됩니다.<br>음..적을 도발하여 밖으로 끌어내보도록 할까요?<br><br>갑판병을 처치한다면 우트란 부유섬의 운용에도 피해를 줄 수 있을겁니다.<br>공적단 갑판병을 처치해주십시오." />
+	<block key="HKD_0_0_0022_1_Accepted_Text" korean="자신들이 누구와 상대하고 있는지 똑똑히 알 수 있게 공적단 갑판병을 처치해주십시오." />
+	<block key="HKD_0_0_0022_1_Ongoing_Text" korean="공적단 갑판병 주변엔 우트란 선원들이 다수 포진해있으니 주의하십시오." />
+	<block key="HKD_0_0_0022_1_Complete_Text" korean="갑판병에게 타격을 줬으니 우트란 부유섬도 그 피해가 무시할 수준은 아닐겁니다." />
+	<block key="HKD_0_0_0023_Title" korean="돌진하는 적" />
+	<block key="HKD_0_0_0023_RewarderDesc" korean="섀도우 클랜 신스" />
+	<block key="HKD_0_0_0023_Request_Text" korean="곁가지를 차근차근 쳐내니 결국 상대해볼만한 녀석이 나오는군요.<br>선라이즈폴은 공적단의 돌격대장으로 알려진 녀석인데 그의 흔적이 발견되었다는 보고가 들어왔습니다.<br>우트란 부유섬 앞 높이 떠있는 섬들 중380m 고도 부근의 섬 하나로 향했다고하니 잘 찾아보셔야 합니다.<br><br>선라이즈폴을 찾아 숨통을 끊어버리십시오!" />
+	<block key="HKD_0_0_0023_Accepted_Text" korean="선라이즈폴을 찾아 숨통을 끊어버리십시오." />
+	<block key="HKD_0_0_0023_Ongoing_Text" korean="선라이즈폴은 어떻게 되었습니까?" />
+	<block key="HKD_0_0_0023_Complete_Text" korean="좋습니다!<br>선라이즈폴이 쓰러졌으니 이제 본격적인 공격을 시작할 수 있을 것 같군요." />
+	<block key="HKD_0_0_0024_Title" korean="연락이 끊긴 마법학자" />
+	<block key="HKD_0_0_0024_RewarderDesc" korean="마법학자 매작스" />
+	<block key="HKD_0_0_0024_Request_Text" korean="매작스는 이번 부유섬 공략에 필요한 정보의 대부분을 우리에게 알려준 마법사야.<br>헌데 며칠 전부터 연락이 닿질 않아.<br>뭔가 일이 생긴 것이 틀림없어.<br><br>마지막으로 연락했을 때, 푸른 군도의 250m 고도 부근의 섬에 있다고 들었는데 우선 그곳으로 가는 것이 좋겠군. 매작스를 찾아 무슨 일인지 알아봐." />
+	<block key="HKD_0_0_0024_Accepted_Text" korean="푸른 군도로 가서 매작스를 찾아봐." />
+	<block key="HKD_0_0_0024_Ongoing_Text" korean="아직도 출발하지 않았나? 어서 서둘러!" />
+	<block key="HKD_0_0_0024_Complete_Text" korean="나..날 찾으러 온 거요?" />
+	<block key="HKD_0_0_0024_1_Title" korean="무소식이 희소식" />
+	<block key="HKD_0_0_0024_1_RewarderDesc" korean="호위대장 토르투스" />
+	<block key="HKD_0_0_0024_1_Request_Text" korean="토르투스 대장이 보냈단 말이오? 그러고보니..<br>아차! 정기적으로 연락하던 날이 지나버렸군!<br>우트란 부유섬의 감시병력을 따돌리다보니 내가 연락하는 것을 잊었소. 본의아니게 걱정을 끼쳤군.<br><br>난 무사하니 조만간 바엘리스 요새로 복귀하겠다고 토르투스 대장에게 전해주시오.<br>난 마저 해야할 일이 남았으니 먼저 가보시오." />
+	<block key="HKD_0_0_0024_1_Accepted_Text" korean="토르투스 대장에게 상황 설명을 좀 부탁하겠소." />
+	<block key="HKD_0_0_0024_1_Ongoing_Text" korean="매작스가 공적단의 감시를 피하다가 정기 연락을 잊어버렸다고 했단 말이지?<br>명백한 내 불찰이야.<br>호위병정도는 붙여줬어야 했는데..<br>어쨌든 그가 무사하다니 다행이군. 수고했네." />
+	<block key="HKD_0_0_0024_1_Complete_Text" korean="매작스가 공적단의 감시를 피하다가 정기 연락을 잊어버렸다고 했단 말이지?<br>명백한 내 불찰이야.<br>호위병정도는 붙여줬어야 했는데..<br>어쨌든 그가 무사하다니 다행이군. 수고했네." />
+	<block key="HKD_0_0_0025_Title" korean="대반격" />
+	<block key="HKD_0_0_0025_RewarderDesc" korean="섀도우 클랜 포워드" />
+	<block key="HKD_0_0_0025_Request_Text" korean="크로우님께 보고를 드리기 전에 해야할 일이 있습니다.<br>이곳을 정찰하면서 곳곳에 쌓아놓은 포탄을 발견했습니다. 공적단의 무기를 보고도 그냥 지나칠 수는 없는 노릇입니다. 모두 제거해야하지 않겠습니까?<br><br>근방의 야적포탄을 파괴하여 다시는 사용하지 못하도록 해주십시오." />
+	<block key="HKD_0_0_0025_Accepted_Text" korean="공적단이 두번 다신 사용할 수 없도록 야적포탄을 파괴하십시오." />
+	<block key="HKD_0_0_0025_Ongoing_Text" korean="포탄은 조심해서 다뤄주십시오. ." />
+	<block key="HKD_0_0_0025_Complete_Text" korean="야적포탄은 잘 처리하셨습니까?<br>덕분에 수고를 덜었군요." />
+	<block key="HKD_0_0_0026_Title" korean="공주의 흔적" />
+	<block key="HKD_0_0_0026_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0026_Request_Text" korean="현재 모인 정보를 종합하면 공주님은 신의 장벽 안에 계신 것 같습니다.<br>하지만 그 곳은 투칸족의 활동 지역이라 공적단과 대치 중인 현재로선 움직일 수 없습니다.<br><br>우선 바엘리스 요새로 돌아가 크로우님께 공주님이 신의 장벽으로 향했다고 전해주십시오." />
+	<block key="HKD_0_0_0026_Accepted_Text" korean="크로우님께 공주님의 행방을 전해주십시오." />
+	<block key="HKD_0_0_0026_Ongoing_Text" korean="(그의 시선이 부유섬에 고정되어있다.)" />
+	<block key="HKD_0_0_0026_Complete_Text" korean="포워드의 고생이 헛된 것은 아니었네.<br>장소가 좁혀지고 있으니 그것만으로도 충분해.<br>그건 그렇고 자네에게 줄 선물이 있네.<br>나보다는 자네에게 더 필요할 것 같더군." />
+	<block key="HKD_0_0_0027_Title" korean="최강의 전사" />
+	<block key="HKD_0_0_0027_RewarderDesc" korean="섀도우 클랜
+신스" />
+	<block key="HKD_0_0_0027_Request_Text" korean="가지치기는 이제 끝났습니다.<br>이젠 적의 심장을 그대로 찔러야 합니다.<br>단장 바라모스가 죽으면 공적단도 금세 와해될겁니다. 선라이즈폴을 쓰러트렸던 그 힘이라면 바라모스와도 겨룰만 합니다.<br><br>우트란 부유섬의 바라모스를 찾아 제거하십시오. 대해의 안정을 위해서라도 그는 반드시 제거되야합니다." />
+	<block key="HKD_0_0_0027_Accepted_Text" korean="우트란 부유섬의 바라모스를 찾아 제거하십시오." />
+	<block key="HKD_0_0_0027_Ongoing_Text" korean="바라모스는 누가 뭐라해도 공적단의 두목입니다.<br>조심하십시오." />
+	<block key="HKD_0_0_0027_Complete_Text" korean="드디어!<br>당신이었기에 가능한 일이었습니다.<br>클랜을 대표해 경의를 표합니다." />
+	<block key="HKD_0_0_0028_Title" korean="스칸 공적단의 주력" />
+	<block key="HKD_0_0_0028_RewarderDesc" korean="섀도우 클랜 신스" />
+	<block key="HKD_0_0_0028_Request_Text" korean="적의 주력군이 우트란 부유섬으로 복귀하여 전투를 준비하고 있다는 보고를 받았습니다.<br>더 늦어지기 전에 우리가 선수를 쳐야하지 않겠습니까?<br><br>우트란 부유섬에 모인 보물추적자와 520m 고도 부근에서 비행 중인 강습약탈자를 처치하여 승기를 우리쪽으로 굳혀야합니다." />
+	<block key="HKD_0_0_0028_Accepted_Text" korean="적의 주력은 강습약탈자와 보물추적자입니다.<br>모두 처치하십시오." />
+	<block key="HKD_0_0_0028_Ongoing_Text" korean="적들은 부유섬에 뼈를 묻게 될 겁니다.<br>
+(신스의 날카로운 눈빛에서 낯선 살기가 느껴진다.)" />
+	<block key="HKD_0_0_0028_Complete_Text" korean="잘해주셨습니다!<br>공적단과의 전투도 이제 막바지입니다." />
+	<block key="HKD_0_0_0029_Title" korean="방어 약화" />
+	<block key="HKD_0_0_0029_RewarderDesc" korean="호위대장 토르투스" />
+	<block key="HKD_0_0_0029_Request_Text" korean="우트란 부유섬을 장악하기 위해선 내부로 들어가야 하는데 저항이 만만치 않아.<br>최후의 발악이라 볼 수도 있지만, 거대석궁의 존재가 거슬려. 우선 포탑부터 무력화 시켜야겠어.<br><br>할 수 있겠지?<br>가서 공적단의 거대석궁을 박살내버려!" />
+	<block key="HKD_0_0_0029_Accepted_Text" korean="우트란 부유섬의 거대 석궁을 잿더미로 만들어버려!" />
+	<block key="HKD_0_0_0029_Ongoing_Text" korean="우트란 부유섬의 거대 석궁때문에 많은 사람들이 희생되었지.<br>그런 무기가 사람을 죽이다니..철저히 부셔버려!" />
+	<block key="HKD_0_0_0029_Complete_Text" korean="석궁을 박살내고 왔다고? 좋아.<br>공적단이 기댈 것은 이제 아무 것도 없어." />
+	<block key="HKD_0_0_0030_Title" korean="악의 협력자들" />
+	<block key="HKD_0_0_0030_RewarderDesc" korean="호위대장 토르투스" />
+	<block key="HKD_0_0_0030_Request_Text" korean="공적단에 협력하는 크로쿤이 있다는 말 들어봤나?<br>한때, 대해 통로 건설에 관여했던 기술자 와진쿤과 설계자 주라쿤이 우트란 부유섬을 만들었지.<br>도적들을 도와주다니 머저리같은 놈들!<br><br>기술자 와진쿤과 설계자 주라쿤을 처치하고 부유섬의 설계도와 기술도면을 가져와.<br>그런 기술을 공적단 손에 둘 수는 없지." />
+	<block key="HKD_0_0_0030_Accepted_Text" korean="공적단에 가담한 크로쿤 기술자 와진쿤과 설계자 주라쿤의 도면을 가져와." />
+	<block key="HKD_0_0_0030_Ongoing_Text" korean="크로쿤 기술자 와진쿤과 설계자 주라쿤의 도면은 어딘가에 큰 쓸모가 있을거야.<br>그들은 우트란 부유섬 북쪽 끝과 남쪽 끝에 각각 있다는 정보가 있으니 잘 찾아봐." />
+	<block key="HKD_0_0_0030_Complete_Text" korean="설계도면과 기술도면을 가져왔군.<br>그 변절자들은 해치웠나?<br>..그래. 잘했네." />
+	<block key="HKD_0_0_0044_Title" korean="산호섬의 지배자" />
+	<block key="HKD_0_0_0044_RewarderDesc" korean="작업자 제니퍼" />
+	<block key="HKD_0_0_0044_Request_Text" korean="거신이 통로를 파괴했던 날, 저와 제 친구들은 겨우 살아남아 이곳 산호섬에 표류했죠.<br>다들 살아남은 것에 안도하고 있을 찰나, 소러펜이라는 무러미가 제 동료들을 모두 죽였어요!<br>그리곤 다짜고자 자기랑 결혼하자고 하지 않겠어요?" />
+	<block key="HKD_0_0_0044_Request_Text_attach_0" korean="<br><br>그는 내 친구들을 죽인자에요.<br>미치지 않고서야 어떻게 그런 말을 할 수 있죠?<br>일단은 소러펜의 부하들도 저를 감시만 하고있을 뿐이지만, 저도 언제 죽을지 몰라서 겁이나요.<br>부디 소러펜을 죽여 제 친구들의 복수를 해주세요!" />
+	<block key="HKD_0_0_0044_Accepted_Text" korean="산호왕 소러펜을 죽여 제 친구들의 복수를 해주세요!" />
+	<block key="HKD_0_0_0044_Ongoing_Text" korean="제 친구들을 죽여놓고 어떻게 제게 청혼을 할 수가 있는건지 이해할 수가 없어요.<br>게다가 그자는 무러미라구요!" />
+	<block key="HKD_0_0_0044_Complete_Text" korean="소러펜은 어떻게 되었나요? 죽었다구요?<br>제 친구들의 복수를 대신 해주셨군요. 감사합니다." />
+	<block key="HKD_0_0_0045_Title" korean="복수의 대상" />
+	<block key="HKD_0_0_0045_RewarderDesc" korean="작업자 제니퍼" />
+	<block key="HKD_0_0_0045_Request_Text" korean="혹시 이 주변의 아굴을 봤나요?<br>소러팬을 따르던 위험한 괴물들이에요.<br>표류한 저와 제 친구들을 소러펜에게 끌고간 것도 바로 아굴들이었어요. 아굴만 아니었어도..<br>..제 친구들이 죽지는 않았을거에요.<br><br>일꾼, 수렵꾼 가릴것 없이 아굴은 모두 처치해주세요!" />
+	<block key="HKD_0_0_0045_Accepted_Text" korean="아굴이란 아굴은 모두 처치해주세요!" />
+	<block key="HKD_0_0_0045_Ongoing_Text" korean="이곳 산호섬은 제게 악몽과 같은 곳이에요.<br>이곳에 살고있는 그 어떤 생명체도 보고 싶지 않아요." />
+	<block key="HKD_0_0_0045_Complete_Text" korean="아굴을 처치하셨다구요?<br>제 친구들을 대신해서 감사드려요." />
+	<block key="HKD_0_0_0046_Title" korean="분실한 작업상자" />
+	<block key="HKD_0_0_0046_RewarderDesc" korean="작업자 제니퍼" />
+	<block key="HKD_0_0_0046_Request_Text" korean="배가 파손되면서 작업 상자들이 사방으로 흩어졌어요.<br>그 작업상자에 뭐가 들어있냐구요?<br>제 과거가 고스란히 담긴 공구, 그리고 제 친구들의 물건들이죠. 하나 하나 소중하지 않은 것이 없어요.<br>제 작업상자를 되찾아주시겠어요?" />
+	<block key="HKD_0_0_0046_Accepted_Text" korean="근방에 흩어진 작업상자를 되찾아주세요." />
+	<block key="HKD_0_0_0046_Ongoing_Text" korean="제 작업상자는 찾으셨나요?<br>이곳 근처에 흩어져 있을거에요." />
+	<block key="HKD_0_0_0046_Complete_Text" korean="바로 이거에요!<br>제 소중한 작업상자!<br>찾아주셔서 고마워요." />
+	<block key="HKD_0_0_0047_Title" korean="괴상한 생명체" />
+	<block key="HKD_0_0_0047_RewarderDesc" korean="작업자 제니퍼" />
+	<block key="HKD_0_0_0047_Request_Text" korean="하늘을 떠다니는 물고기를 보셨나요?<br>소러펜이 만들어낸 생명체에요.<br>소러펜이 만든 생명체를 그대로 둘 수는 없어요.<br><br>근처 하늘을 떠다니는 마법으로 뒤틀린 물고기를 잡아주세요!" />
+	<block key="HKD_0_0_0047_Accepted_Text" korean="하늘을 떠다니는 마법으로 뒤틀린 물고기를 잡으세요!" />
+	<block key="HKD_0_0_0047_Ongoing_Text" korean="마법으로 뒤틀린 물고기를 보면서 이런 생각을 했어요.<br>소러펜이 제게도 저런 마법을 걸려했던 것이 아닐까..생각만으로도 끔찍해요." />
+	<block key="HKD_0_0_0047_Complete_Text" korean="뒤틀린 물고기를 모두 처치하셨군요.<br>잘하셨습니다." />
+	<block key="HKD_0_0_0031_Title" korean="라니아 공주" />
+	<block key="HKD_0_0_0031_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0031_Request_Text" korean="포워드가 신의 장벽 안에서 공주님의 흔적을 발견했다고 판단했다면 난 그의 생각을 존중해주고 싶군. 사실 내 판단도 그와 같거든. 그간 공적단이 대해를 유린하는 와중에도 신의장벽은 유난히 조용했다는 사실이 마음에 걸리네. 그리고 영특하신 공주님이라면 어떤 단서라도 남기셨을거라 믿네. 공주님의 흔적을 찾아주게." />
+	<block key="HKD_0_0_0031_Accepted_Text" korean="작은 단서라도 상관없네. 자네라면 잘 해주겠지." />
+	<block key="HKD_0_0_0031_Ongoing_Text" korean="혹여나 아직도 공주님을 지키지 못했다는 죄책감에 사로잡혀있다면 벗어나게." />
+	<block key="HKD_0_0_0031_Complete_Text" korean="과연 영특한 공주님이로군." />
+	<block key="HKD_0_0_0032_Title" korean="화염에서 나타난 존재" />
+	<block key="HKD_0_0_0032_RewarderDesc" korean="섀도우 클랜
+신스" />
+	<block key="HKD_0_0_0032_Request_Text" korean="공적단이 사라지면 소란스러웠던 대해가 조용해지나 싶었더니 제 희망사항에 불과했군요. 마신의 추종자들이 모습을 드러냈으니 클랜이 선택할 길은 단 하나뿐입니다. 공적단과의 전투가 끝난 직후라 형제들의 피로가 쌓인 것이 마음에 걸리지만 싸움은 피할 수 없습니다." />
+	<block key="HKD_0_0_0032_Accepted_Text" korean="마신 추종자들의 발호를 지켜볼 수는 없는 노릇이지요." />
+	<block key="HKD_0_0_0032_Ongoing_Text" korean="화염골렘 파랄탄은 특히 조심하는 것이 좋을 것입니다." />
+	<block key="HKD_0_0_0032_Complete_Text" korean="제 기대를 저버리지 않으시는군요!" />
+	<block key="HKD_0_0_0033_Title" korean="마계 연구" />
+	<block key="HKD_0_0_0033_RewarderDesc" korean="섀도우 클랜
+신스" />
+	<block key="HKD_0_0_0033_Request_Text" korean="저는 마신 무리들의 강한 힘 뒤에 숨겨진 무언가가 있다고 믿습니다. 마계 운석이 떨어졌을 때에도 투칸족에게 많은 변화가 있었질 않습니까? 마계 운석에서 흘러나온 기운이 투칸족을 변화시켰는지 어땠는지 정확히 알려진 바는 없지만, 충분히 가능성있는 이야기입니다. 화염 경비병들에게서 마계 돌조각을 수거해오신다면 그걸 연구해보고 싶습니다." />
+	<block key="HKD_0_0_0033_Accepted_Text" korean="제가 필요한 것은 온전한 돌조각입니다." />
+	<block key="HKD_0_0_0033_Ongoing_Text" korean="운석의 기운에 물들면 투칸족처럼 괴물로 변하게 되는 걸까요?" />
+	<block key="HKD_0_0_0033_Complete_Text" korean="이것이 마계의 돌조각이로군요. 겉으로 봐선 평범한 돌처럼 보이는데.." />
+	<block key="HKD_0_0_0034_Title" korean="신의 장벽으로" />
+	<block key="HKD_0_0_0034_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0034_Request_Text" korean="투칸족의 투사 헤라투가 공주님의 수정구를 갖고있는걸 목격했다는 보고가 들어왔네.<br>공주님이 신의 장벽으로 향했다는 포워드의 보고와 일치해. 헤라투는 잔인하기로 악명이 높지.<br><br>공주님의 단서를 찾는 동시에 그자를 제거하는 것이 좋겠어. [UserName]!<br>신의 장벽으로 가서 투사 헤라투를 응징하고 공주님의 수정구를 되찾아오는 임무를 맡기겠네." />
+	<block key="HKD_0_0_0034_Accepted_Text" korean="공주님의 수정구를 되찾아오게.<br>투사 헤라투는 알아서 처리하게." />
+	<block key="HKD_0_0_0034_Ongoing_Text" korean="투칸족은 그간 대해 주민들을 납치해 살육을 일삼은 거인들이네. 공적단보다 더 잔인한 자들이지.<br>헤라투는 그중에서도 악명이 제일 높은자야.<br>공교롭게도 공주님의 수정구를 그가 지니고 있으니 차라리 잘되었네. 어서 가서 그를 없애버리게." />
+	<block key="HKD_0_0_0034_Complete_Text" korean="공주님의 수정구를 찾아왔나?<br>수고 많았네!<br>이제 이 수정구가 공주님의 행방을 다시 추적할 유일한 단서가 되었군." />
+	<block key="HKD_0_0_0035_Title" korean="장벽 안의 위험한 존재" />
+	<block key="HKD_0_0_0035_RewarderDesc" korean="호위대장 토르투스" />
+	<block key="HKD_0_0_0035_Request_Text" korean="공주님의 흔적을 찾으러 신의 장벽으로 간다고?<br>잘됐군. 그곳에 가면 신의 장벽을 차지하고 있는 투칸족이 있지. 대해의 주민들이 이 거인족들에게 얼마나 많은 피해를 입었는지 자넨 상상도 못할거야.<br><br>그중에서도 부서진손 부족과 거친날 부족이 가장 죽일 놈들이지. 신의 장벽으로 가서 부서진손 부족의 집행자와 거친날 부족의 용사를 박살내버려!" />
+	<block key="HKD_0_0_0035_Accepted_Text" korean="투칸족 집행자와 용사를 박살내버려!" />
+	<block key="HKD_0_0_0035_Ongoing_Text" korean="부서진손 부족과 거친날 부족은 투칸족 내부에서도 상당히 강성한 부족이라고 하더군.<br>하지만 그렇기 때문에 더 본때를 보여줘야지.<br>인간이 얼마나 강한 존재인지 확실히 알려주고 와!" />
+	<block key="HKD_0_0_0035_Complete_Text" korean="부서진손 부족 집행자와 거친날 부족 용사에게 본때를 보여주고 왔나? 잘했네." />
+	<block key="HKD_0_0_0036_Title" korean="장벽 안의 사람들" />
+	<block key="HKD_0_0_0036_RewarderDesc" korean="호위대장 토르투스" />
+	<block key="HKD_0_0_0036_Request_Text" korean="투칸족놈들이 대해 주민을 납치해갔다는군.<br>납치된 주민들이 어떻게 될 것 같나? 투칸족과 사이좋게 술이라도 할 것 같아?<br>잡아먹히지나 않으면 다행이지.<br><br>노예로 살거나 제물로 쓰이거나..빌어먹을 거인족놈들..잡혀온 주민과 위기에 처한 주민들은 신의 장벽 곳곳에서 찾을 수 있을거다.<br>잡혀온 주민과 위기에 처한 주민들을 구해! 어서!" />
+	<block key="HKD_0_0_0036_Accepted_Text" korean="잡혀온 주민들을 무사히 구출하는 것이 자네 임무야." />
+	<block key="HKD_0_0_0036_Ongoing_Text" korean="납치된 주민들은 우리가 노닥거리는 이 시간에도 누군가의 도움을 간절히 바라겠지.<br>나와 더 나눌 잡담이라도 있나? 어서 가!" />
+	<block key="HKD_0_0_0036_Complete_Text" korean="주민들은 무사히 구했나?<br>수고했네.<br>..그리고 고맙군." />
+	<block key="HKD_0_0_0037_Title" korean="추락한 요새 제넨" />
+	<block key="HKD_0_0_0037_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0037_Request_Text" korean="공주님의 수정구를 통해 론도의 진정한 목적을 알게 되었네. 4대 주신의 남겨진 힘을 신의 장벽에서 모으고 추락한 공중요새 제넨으로 가서 4대 주신의 탑을 작동시킬 생각이었던 거야.<br>그 힘을 이용해서 마신을 깨울 진정한 존재로 공주님을 각성시킨다. 그것이 론도의 목적이야." />
+	<block key="HKD_0_0_0037_Request_Text_attach_0" korean="<br><br>반드시 론도를 막아야하네.<br>정찰대원 클레멘스를 제넨으로 파견했으니 우선 그에게 가보게. 나도 곧 뒤따르지." />
+	<block key="HKD_0_0_0037_Accepted_Text" korean="제넨 요새로 가서 정찰대원 클레멘스를 만나게." />
+	<block key="HKD_0_0_0037_Ongoing_Text" korean="고맙네.<br>그간 자네가 찾은 공주님의 흔적이 있었기에 가능했어. 이젠 단서가 아니라 진짜 공주님을 되찾을 때야." />
+	<block key="HKD_0_0_0037_Complete_Text" korean="[UserName]님! 오셨군요.<br>정찰대원 클레멘스라고 합니다.<br>크로우님의 지시로 이곳에서 기다리고 있었습니다." />
+	<block key="HKD_0_0_0037_1_Title" korean="각성" />
+	<block key="HKD_0_0_0037_1_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0037_1_Request_Text" korean="론도가 공주님을 데리고 탑안으로 들어갔습니다.<br>상황을 지켜보니 이제 곧 의식이 시작될 것 같습니다.<br>크로우님이 예상한 것보다 너무 빠릅니다." />
+	<block key="HKD_0_0_0037_1_Request_Text_attach_0" korean="<br><br>론도를 막아야할텐데..<br>크로우님이 오시는 것을 기다리다간 늦습니다.<br>크로우님이 오실 때까지 시간을 벌어주십시오.<br>공주님이 론도의 뜻대로 각성되는 일은 막아야 합니다!" />
+	<block key="HKD_0_0_0037_1_Accepted_Text" korean="탑으로 진입하여 론도를 막아주십시오!" />
+	<block key="HKD_0_0_0037_1_Ongoing_Text" korean="크로우님이 오시면 바로 상황을 보고하겠습니다.<br>우선 론도의 시선을 잡아끌 시간이 필요합니다.<br>부탁드리겠습니다!" />
+	<block key="HKD_0_0_0037_1_Complete_Text" korean="괜찮은가? 이번 일로 너무 자책하지 말게.<br>론도를 상대하기엔 아직 실력이 부족했던 것 뿐이야.<br>결코 자네의 잘못이 아니네.<br><br>언제고 다시 공주님을 되찾을 기회가 올거야.<br>그날을 위해 계속 정진하게." />
+	<block key="HKD_0_0_0038_Title" korean="하카나스 왕국에 보고" />
+	<block key="HKD_0_0_0038_RewarderDesc" korean="율너스" />
+	<block key="HKD_0_0_0038_Request_Text" korean="공주님의 소식을 수도성에서도 애타게 기다리고 있을걸세. 비록 공주님을 구하지는 못했지만 말이야..<br>여하튼 대해의 일은 클랜의 형제들과 함께 마무리해야할 것 같네.<br><br>자네가 상황을 대신 전해줬으면 해.<br>수도성으로 돌아가 율너스님께 상황을 전해드리게." />
+	<block key="HKD_0_0_0038_Accepted_Text" korean="멀리 배웅하지는 않겠네." />
+	<block key="HKD_0_0_0038_Ongoing_Text" korean="공주님에 대한 소식을 가져왔다고?<br>그래, 어찌 되었는가?" />
+	<block key="HKD_0_0_0038_Complete_Text" korean="공주님에 대한 소식을 가져왔다고?<br>그래, 어찌 되었는가?" />
+	<block key="HKD_0_0_0039_Title" korean="폭풍의 용" />
+	<block key="HKD_0_0_0039_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0039_Request_Text" korean="폭풍의 용들이 대해를 노리고 움직임이 최근 포착됐네. 이투드렌이라 불리는 용이 현재 제넨에 있다는군.<br> 분명 제넨을 교두보삼아 대해로 활동영역을 넓히려는 속셈이겠지. 제넨 요새로 가서 이투드렌을 처치하게.<br><br>이투드렌이 죽으면 폭풍의 용도 섣불리 움직이지 못할거야. 잘 처리해주리라 믿네." />
+	<block key="HKD_0_0_0039_Accepted_Text" korean="제넨 요새에 있는 폭풍의 용 이투드렌을 처치하게." />
+	<block key="HKD_0_0_0039_Ongoing_Text" korean="음..제넨 요새에는 이투드렌 말고 다른 폭풍의 용은 없다는 보고네. 선발대로 혼자 왔다는 말인가..<br>대단한 자신감이군. 우리에겐 좋은 일이네.<br>어서 제넨으로 가서 이투드렌을 처치하게." />
+	<block key="HKD_0_0_0039_Complete_Text" korean="이투드렌은 죽었나?<br>잘했네. 폭풍의 용이 설치게 놔둘 순 없지." />
+	<block key="HKD_0_0_0040_Title" korean="서리 군단의 위협" />
+	<block key="HKD_0_0_0040_RewarderDesc" korean="호위대장 토르투스" />
+	<block key="HKD_0_0_0040_Request_Text" korean="좋지 않은 소식이로군.<br>서리 군단이 제넨 요새를 차지하고 있다는 보고야.<br>과거의 영광스러웠던 요새가 서리군단 따위에게 유린당하고 있다니..자네에게 서리군단을 상대할 수 있는 기회를 주지.<br><br>긴말 필요없네. 제넨 요새에 온 것을 후회하도록 서리군단 경비병과 수호병을 처치해!" />
+	<block key="HKD_0_0_0040_Accepted_Text" korean="긴말 필요있나?<br>서리군단 경비병과 수호병을 박살내버려." />
+	<block key="HKD_0_0_0040_Ongoing_Text" korean="[UserName], 자네가 얼마나 빨리 서리군단 경비병과 수호병을 처치하고 오는지 기대하지." />
+	<block key="HKD_0_0_0040_Complete_Text" korean="서리군단 수호병과 경비병을 박살내고 왔나?<br>서리군단 놈들 꼴 좋군." />
+	<block key="HKD_0_0_0041_Title" korean="흩어진 과거" />
+	<block key="HKD_0_0_0041_RewarderDesc" korean="섀도우 클랜 신스" />
+	<block key="HKD_0_0_0041_Request_Text" korean="요새 제넨은 현재 바다에 추락해 볼품없게 변했지만 과거 마신과의 전투로 명성이 높았습니다.<br>바로 그곳에 엘로라 여신의 기운이 발견되었다는군요. 유물 확보 또한 다른 임무 못지않게 중요한 일이아니겠습니까?<br><br>공중 요새 제넨으로 가서 엘로라 여신의 기운을 찾으십시오. 제넨 요새 곳곳에 있을테니 잘 찾아보셔야 합니다." />
+	<block key="HKD_0_0_0041_Accepted_Text" korean="제넨 요새 곳곳에 흩어진 엘로라 여신의 기운을 찾으십시오." />
+	<block key="HKD_0_0_0041_Ongoing_Text" korean="여신의 유물을 확보하는 것은 매우 중요한 일입니다.<br>세계 전체에 퍼져있는 유물을 찾는데 많은 인력이 투입되고있는 상황에 제넨에서 여신의 기운이 발견되었다는 이야기를 듣고 내심 기뻤습니다.<br><br>자, 어서 제넨에 남아있는 엘로라 여신의 기운을 찾으십시오." />
+	<block key="HKD_0_0_0041_Complete_Text" korean="엘로라 여신의 기운이로군요!<br>미약하지만 분명 엘로라의 성소에서 느꼈던 것과 같습니다. 수고하셨습니다." />
+	<block key="HKD_0_0_0042_Title" korean="클레멘스를 찾아라" />
+	<block key="HKD_0_0_0042_RewarderDesc" korean="섀도우클랜 클레멘스" />
+	<block key="HKD_0_0_0042_Request_Text" korean="거신이 대해를 활보하면서 모든 것이 엉망이 되어버렸습니다. 거신의 힘은 굳이 설명하지 않아도 잘 아실겁니다. 일반적인 거인과는 다른 존재죠.<br>거신을 이대로 방치할 수 없습니다.<br>정보 수집을 위해 클랜원 한 명을 거신이 있는 야타이만의 결계로 미리 보냈습니다.<br><br>660m 고도 부근에 있는 야타이만의 결계 내부로 진입하여 클레멘스를 찾으십시오.<br>자세한 것은 그가 말해 줄 것입니다." />
+	<block key="HKD_0_0_0042_Accepted_Text" korean="야타이만의 결계 내부로 진입하여 클레멘스를 찾으십시오." />
+	<block key="HKD_0_0_0042_Ongoing_Text" korean="제넨 요새 이후로 다시 뵙는군요. [UserName]님.<br>섀도우 클랜의 정찰대원 클레멘스입니다." />
+	<block key="HKD_0_0_0042_Complete_Text" korean="제넨 요새 이후로 다시 뵙는군요. [UserName]님.<br>섀도우 클랜의 정찰대원 클레멘스입니다." />
+	<block key="HKD_0_0_0043_Title" korean="신의 장벽 수리" />
+	<block key="HKD_0_0_0043_RewarderDesc" korean="섀도우 클랜 신스" />
+	<block key="HKD_0_0_0043_Request_Text" korean="생각하지도 못한 거신들의 교활함이 정말 놀랍습니다. 그들은 수리 도구를 이용하여 장벽의 균열을 만든 것이었습니다.<br>하지만 어째서 이 도구가 거신의 손에 들어가게 된 것일까요? 누군가 의도적으로 야타이만에게 도구를 준 것은 아닌지.. 아니, 아닙니다.<br><br>지금 중요한 것은 의문을 해결하는 것보다 장벽의 수리란 것을 잠시 잊을뻔 했습니다." />
+	<block key="HKD_0_0_0043_Accepted_Text" korean="장벽은 곧 복구가 되겠지요?<br>아닙니다. 잘 된다고 믿읍시다." />
+	<block key="HKD_0_0_0043_Ongoing_Text" korean="신의 도구는 잘 챙기셨습니까?" />
+	<block key="HKD_0_0_0043_Complete_Text" korean="장벽의 균열은 확실히 다 복원이 되었군요.<br>후-이제 걱정을 덜었습니다." />
+	<block key="HKD_0_0_0048_Title" korean="공격 방어" />
+	<block key="HKD_0_0_0048_RewarderDesc" korean="수비대 주둔지 게시판" />
+	<block key="HKD_0_0_0048_Request_Text" korean="공적단 폭탄마 4명을 잡은 자에게 포상함.<br><br>신룡기사단 지휘관 바르키르" />
+	<block key="HKD_0_0_0048_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0048_Ongoing_Text" korean="공적단 폭탄마 4명을 잡은 자에게 포상함.<br><br>신룡기사단 지휘관 바르키르" />
+	<block key="HKD_0_0_0048_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0049_Title" korean="공적단 정찰방해" />
+	<block key="HKD_0_0_0049_RewarderDesc" korean="수비대 주둔지 게시판" />
+	<block key="HKD_0_0_0049_Request_Text" korean="공적단 정찰병 4명을 잡은 자에게 포상함.<br><br>신룡기사단 지휘관 바르키르" />
+	<block key="HKD_0_0_0049_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0049_Ongoing_Text" korean="공적단 정찰병 4명을 잡은 자에게 포상함.<br><br>신룡기사단 지휘관 바르키르" />
+	<block key="HKD_0_0_0049_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0050_Title" korean="펠로우 먹이 구함" />
+	<block key="HKD_0_0_0050_RewarderDesc" korean="수비대 주둔지 게시판" />
+	<block key="HKD_0_0_0050_Request_Text" korean="신룡기사단 펠로우에게 먹일 스카너의 먹이를 가져오는 자에게 포상함.<br><br>신룡기사단 지휘관 바르키르" />
+	<block key="HKD_0_0_0050_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0050_Ongoing_Text" korean="신룡기사단 펠로우에게 먹일 스카너의 먹이를 가져오는 자에게 포상함.<br><br>신룡기사단 지휘관 바르키르" />
+	<block key="HKD_0_0_0050_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0051_Title" korean="약탈 퇴치" />
+	<block key="HKD_0_0_0051_RewarderDesc" korean="수비대 주둔지 게시판" />
+	<block key="HKD_0_0_0051_Request_Text" korean="공적단 약탈자 4명을 잡은 자에게 포상함.<br><br>신룡기사단 지휘관 바르키르" />
+	<block key="HKD_0_0_0051_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0051_Ongoing_Text" korean="공적단 약탈자 4명을 잡은 자에게 포상함.<br><br>신룡기사단 지휘관 바르키르" />
+	<block key="HKD_0_0_0051_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0051_1_Title" korean="화기 무력화" />
+	<block key="HKD_0_0_0051_1_RewarderDesc" korean="수비대 주둔지 게시판" />
+	<block key="HKD_0_0_0051_1_Request_Text" korean="공적단 대포 4개를 파괴한 자에게 포상함.<br><br>신룡기사단 지휘관 바르키르" />
+	<block key="HKD_0_0_0051_1_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0051_1_Ongoing_Text" korean="공적단 대포 4개를 파괴한 자에게 포상함.<br><br>신룡기사단 지휘관 바르키르" />
+	<block key="HKD_0_0_0051_1_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0052_Title" korean="물품 회수" />
+	<block key="HKD_0_0_0052_RewarderDesc" korean="작업 현장 게시판" />
+	<block key="HKD_0_0_0052_Request_Text" korean="마줄란의 물품자루 2개, 물품상자 2개.<br>고급상자 1개를 회수해오는 자에게 포상함.<br><br>현장 감독 진타란" />
+	<block key="HKD_0_0_0052_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0052_Ongoing_Text" korean="마줄란의 물품자루 2개, 물품상자 2개.<br>고급상자 1개를 회수해오는 자에게 포상함.<br><br>현장 감독 진타란" />
+	<block key="HKD_0_0_0052_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0053_Title" korean="농장 복구" />
+	<block key="HKD_0_0_0053_RewarderDesc" korean="작업 현장 게시판" />
+	<block key="HKD_0_0_0053_Request_Text" korean="라비니 농장약탈자 4마리를 잡은 자에게 포상함.<br><br>현장 감독 진타란" />
+	<block key="HKD_0_0_0053_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0053_Ongoing_Text" korean="라비니 농장약탈자 4마리를 잡은 자에게 포상함.<br><br>현장 감독 진타란" />
+	<block key="HKD_0_0_0053_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0054_Title" korean="농장 관리" />
+	<block key="HKD_0_0_0054_RewarderDesc" korean="작업 현장 게시판" />
+	<block key="HKD_0_0_0054_Request_Text" korean="오염된 채소 6개를 뽑아 제거하고 농장 관리에 기여한 자에게 포상함.<br><br>현장 감독 진타란" />
+	<block key="HKD_0_0_0054_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0054_Ongoing_Text" korean="오염된 채소 6개를 뽑아 제거하고 농장 관리에 기여한 자에게 포상함.<br><br>현장 감독 진타란" />
+	<block key="HKD_0_0_0054_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0054_1_Title" korean="현장 정리" />
+	<block key="HKD_0_0_0054_1_RewarderDesc" korean="작업 현장 게시판" />
+	<block key="HKD_0_0_0054_1_Request_Text" korean="공적단 타격대 4명을 잡은 자에게 포상함.<br><br>현장 감독 진타란" />
+	<block key="HKD_0_0_0054_1_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0054_1_Ongoing_Text" korean="공적단 타격대 4명을 잡은 자에게 포상함.<br><br>현장 감독 진타란" />
+	<block key="HKD_0_0_0054_1_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0054_2_Title" korean="건설 작업 추진" />
+	<block key="HKD_0_0_0054_2_RewarderDesc" korean="작업 현장 게시판" />
+	<block key="HKD_0_0_0054_2_Request_Text" korean="건설 현장 작업 재개에 필요한 오플라이엄 4개를 구함.<br><br>현장 감독 진타란" />
+	<block key="HKD_0_0_0054_2_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0054_2_Ongoing_Text" korean="건설 현장 작업 재개에 필요한 오플라이엄 4개를 구함.<br><br>현장 감독 진타란" />
+	<block key="HKD_0_0_0054_2_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0056_Title" korean="부유섬 공격 I" />
+	<block key="HKD_0_0_0056_RewarderDesc" korean="바엘리스 요새 게시판" />
+	<block key="HKD_0_0_0056_Request_Text" korean="공적단 갑판병 4명을 처치하는 자에게 포상함.<br><br>섀도우 클랜 크로우" />
+	<block key="HKD_0_0_0056_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0056_Ongoing_Text" korean="공적단 갑판병 4명을 처치하는 자에게 포상함.<br><br>섀도우 클랜 크로우" />
+	<block key="HKD_0_0_0056_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0057_Title" korean="요새 방어" />
+	<block key="HKD_0_0_0057_RewarderDesc" korean="바엘리스 요새 게시판" />
+	<block key="HKD_0_0_0057_Request_Text" korean="공적단 하늘용사 4명을 처치하는 자에게 포상함.<br><br>섀도우 클랜 크로우" />
+	<block key="HKD_0_0_0057_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0057_Ongoing_Text" korean="공적단 하늘용사 4명을 처치하는 자에게 포상함.<br><br>섀도우 클랜 크로우" />
+	<block key="HKD_0_0_0057_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0058_Title" korean="부유섬 공격 II" />
+	<block key="HKD_0_0_0058_RewarderDesc" korean="바엘리스 요새 게시판" />
+	<block key="HKD_0_0_0058_Request_Text" korean="공적단 강습약탈자 4명을 처치하는 자에게 포상함.<br><br>섀도우 클랜 크로우" />
+	<block key="HKD_0_0_0058_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0058_Ongoing_Text" korean="공적단 강습약탈자 4명을 처치하는 자에게 포상함.<br><br>섀도우 클랜 크로우" />
+	<block key="HKD_0_0_0058_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0059_Title" korean="위험 진압" />
+	<block key="HKD_0_0_0059_RewarderDesc" korean="바엘리스 요새 게시판" />
+	<block key="HKD_0_0_0059_Request_Text" korean="인명을 살상하는 투칸족을 처치하고 그 증거로 부적을 가져오는 자에게 포상함.<br><br>섀도우 클랜 크로우" />
+	<block key="HKD_0_0_0059_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0059_Ongoing_Text" korean="인명을 살상하는 투칸족을 처치하고 그 증거로 부적을 가져오는 자에게 포상함.<br><br>섀도우 클랜 크로우" />
+	<block key="HKD_0_0_0059_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0060_Title" korean="구출 작전" />
+	<block key="HKD_0_0_0060_RewarderDesc" korean="바엘리스 요새 게시판" />
+	<block key="HKD_0_0_0060_Request_Text" korean="투칸족에게 잡혀간 사람들을 구출하는 자에게 포상함.<br><br>섀도우 클랜 크로우" />
+	<block key="HKD_0_0_0060_Accepted_Text" korean="" />
+	<block key="HKD_0_0_0060_Ongoing_Text" korean="투칸족에게 잡혀간 사람들을 구출하는 자에게 포상함.<br><br>섀도우 클랜 크로우" />
+	<block key="HKD_0_0_0060_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_0_0_0061_Title" korean="대해 시찰" />
+	<block key="HKD_0_0_0061_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0061_Request_Text" korean="그간 고생이 많았지만 대해에서 발생한 문제들이 모두 처리된 건 아니네. 공주님을 구하기 위해서 전력을 기울이는 것도 중요하지만 대해의 문제도 방관할 수 없지.<br>산적해있는 문제들을 면밀히 조사해서 수도성에 보고를 올릴 생각이네.<br><br>(말이 끝남과 동시에 크로우 단장이 쪽지를 내민다. 쪽지를 받아 펼쳐보니 이렇게 쓰여있다.)" />
+	<block key="HKD_0_0_0061_Request_Text_attach_0" korean="<br><br>-대해 시찰 -거신의 흔적Ⅰ<br>-대해 시찰 -정령의 변화<br>-대해 시찰 -군단의 증표<br>-대해 시찰 -거신의 흔적Ⅱ<br>-대해 시찰 -광기의 거인들<br><br>자네가 처리해줬으면 하는 임무네.<br>순서대로 처리하고 일이 마무리되면 내게 보고하게.<br>한 번에 끝날일은 아니니 서두를 것 없어.<br>그리고 앞으로는 통신용 마법구를 통해 전달하겠네." />
+	<block key="HKD_0_0_0061_Accepted_Text" korean="어디서부터 시작해야할지는 내가 차차 알려주도록 하지." />
+	<block key="HKD_0_0_0061_Ongoing_Text" korean="금방 끝날 일이 아니니 다른 임무와 함께 병행하도록 하게." />
+	<block key="HKD_0_0_0061_Complete_Text" korean="수고했네.<br>이로써 대해의 일은 어느정도 마무리가 된 것 같군.<br>자네의 보고서를 토대로 왕국에 대해의 사정을 알릴 생각이네. 아마도 세부적인 일처리는 주둔 중인 신룡기사단이 맡게 될 것 같군.<br><br>그리고 거신의 일은..신스 메이어에게 지시해 둔 것이 있으니 앞으로 그녀와 상의하도록 하게." />
+	<block key="HKD_0_0_0061_1_Title" korean="대해 시찰 - 거신의 흔적 Ⅰ" />
+	<block key="HKD_0_0_0061_1_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0061_1_Request_Text" korean="대해 통로가 건설 도중에 거신의 습격을 받아 파손된 사실은 알고있겠지?<br>당시 거신의 몸에서 떨어져 나온 파편들이 대해 통로 주변에서 발견되었는데 지금은 공적단이 모두 수거했다고 하는군. 그리 반가운 소식은 아닌 것 같네." />
+	<block key="HKD_0_0_0061_1_Request_Text_attach_0" korean="<br><br>아무리 작은 파편도 그 안에 깃든 마력을 생각한다면..공적단이 전리품처럼 다룰 물건은 아니야.<br>통로 근처에 있는 모든 공적단을 뒤져서라도 파편을 회수해오게." />
+	<block key="HKD_0_0_0061_1_Accepted_Text" korean="통로 근처의 모든 공적단에게서 거신의 파편을 회수하게." />
+	<block key="HKD_0_0_0061_1_Ongoing_Text" korean="어떤 자들이 거신의 파편을 가져갔는지 파악할 수 없어 통로 근처의 모든 공적단을 용의선상에 올려둔 것이네.<br>번거롭겠지만 잘 처리하리라 믿네." />
+	<block key="HKD_0_0_0061_1_Complete_Text" korean="거신의 파편은 모두 수거했나?<br>잘했네. 이제 다음 장소로 넘어가도록 하지." />
+	<block key="HKD_0_0_0061_2_Title" korean="대해 시찰 - 정령의 변화" />
+	<block key="HKD_0_0_0061_2_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0061_2_Request_Text" korean="내 말 잘 들리나?<br>대해에 퍼져있는 마력의 영향 때문에 걱정을 했는데 다행히 통신용 마법구는 잘 작동하는군.<br>건설현장의 감독관 진타란이 공중농장을 점령한 요정들 문제를 해결해달라던데..원인 파악이 우선인듯 싶네." />
+	<block key="HKD_0_0_0061_2_Request_Text_attach_0" korean="<br><br>정령들은 쉽사리 분노하지도 해를 끼치지도 않지.<br>요정들이 흉폭하게 변한 것은 분명 이유가 있을거야.<br>공중농장으로 가서 요정들의 날개를 가져다 주게.<br>요정들의 변화를 내가 직접 확인해야겠네." />
+	<block key="HKD_0_0_0061_2_Accepted_Text" korean="공중농장의 요정들에게서 요정의 날개를 가져오게." />
+	<block key="HKD_0_0_0061_2_Ongoing_Text" korean="요정들이 변화한 이유가 무엇이라 생각하나?<br>정령은 그리 쉽게 변할 존재가 아니네.<br>급격히 변화한 것엔 타당한 이유가 있기 때문이야.<br>마력의 영향, 인간을 향한 분노?<br>어떤 것도 이유가 될 수는 있겠지.." />
+	<block key="HKD_0_0_0061_2_Complete_Text" korean="요정의 날개를 다 모았군.<br>모든 일이 마무리되면 내게 가져오게.<br>이제 장소를 이동해볼까?" />
+	<block key="HKD_0_0_0061_3_Title" korean="대해 시찰 - 군단의 증표" />
+	<block key="HKD_0_0_0061_3_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0061_3_Request_Text" korean="제넨 요새에 주둔했던 서리군단은 아직 요새를 떠날 생각이 없는 것 같군.<br>완전히 쫒아내지 못한다면 천천히 무너뜨리는 수 밖에 없겠지. 다만 아군의 사기가 저하될까 걱정되네.<br><br>서리군단병을 처치하고 서리군단의 증표를 가져다주게.사기진작에 큰 도움이 될거야." />
+	<block key="HKD_0_0_0061_3_Accepted_Text" korean="제넨요새의 서리군단병을 처치하고 서리군단 증표를 가져오게." />
+	<block key="HKD_0_0_0061_3_Ongoing_Text" korean="앞으로 서리군단이 대해에 얼씬거리는 일이 없도록 짓밞아야하네." />
+	<block key="HKD_0_0_0061_3_Complete_Text" korean="서리군단은 어땠나?<br>쉬운 상대는 아니었을텐데 잘해주었네.<br>다음 장소로 이동하도록 하지." />
+	<block key="HKD_0_0_0061_4_Title" korean="대해 시찰 - 거신의 흔적 Ⅱ" />
+	<block key="HKD_0_0_0061_4_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0061_4_Request_Text" korean="우트란 부유섬에 마신과 관련된 물건이 있다는 정보를 입수했네. 마계기운이 깃든 돌조각이라는데..<br>내 추측으론 마신보다는 거신과 더욱 밀접할 것 같군." />
+	<block key="HKD_0_0_0061_4_Request_Text_attach_0" korean="<br><br>공적단이 약탈을 통해 얻은터라 출처를 알기는 힘든 물건일테지. 우트란 부유섬으로 가서 마력이 깃든 돌조각을 찾아오게.<br>분명 그곳의 공적단들이 가지고 있을거야.<br>꽤나 험한 전투가 될테니 조심하게." />
+	<block key="HKD_0_0_0061_4_Accepted_Text" korean="우트란 부유섬으로 가서 마력이 깃든 돌조각을 찾아오게." />
+	<block key="HKD_0_0_0061_4_Ongoing_Text" korean="마계 기운이 깃든 돌조각이 어떤 영향력을 미치는지 파악하기 위해서라도 서둘러 회수하는 것이 좋겠네.<br>세상에 있어서 좋은 물건은 아니니 말이야." />
+	<block key="HKD_0_0_0061_4_Complete_Text" korean="돌조각을 모두 회수했군. 잘했네.<br>마계 기운은 인간들에게 노출되어서 좋을 것이 없으니 서둘러 회수해야하는 것이 맞지.<br>이제 남은 장소는.." />
+	<block key="HKD_0_0_0061_5_Title" korean="대해 시찰 - 광기의 거인들" />
+	<block key="HKD_0_0_0061_5_RewarderDesc" korean="크로우" />
+	<block key="HKD_0_0_0061_5_Request_Text" korean="이제 마지막 장소만 남았군. 바로 신의 장벽말이야.<br>자네도 알다시피 투칸족이 차지하고 있는 곳이지.<br>투칸족을 지배하는 광기의 근원을 조사해야겠네.<br>내 생각엔 마계의 기운이 투칸족의 피에 흐르는 것이 아닌가 싶은데..<br><br>신의 장벽으로 가서 투칸족의 혈액을 가져오게.<br>제대로된 혈액을 채취하기가 쉽지 않을테니 인내심을 갖는게 좋을거야." />
+	<block key="HKD_0_0_0061_5_Accepted_Text" korean="투칸족의 혈액을 가져오게." />
+	<block key="HKD_0_0_0061_5_Ongoing_Text" korean="투칸족의 광기가 거인의 본성이라고 생각하진 않네.<br>광포한 성질이 있는 것은 사실이지만 마계의 기운이 대해에서 발견되고 있는 이상 의심하지 않을 수 없지." />
+	<block key="HKD_0_0_0061_5_Complete_Text" korean="수고했네. 이쯤에서 시찰은 마무리해도 좋을 것 같군.<br>그간 모은 자료들을 내게 가져와 보고하게.<br>바엘리스에서 보도록 하지." />
+	<block key="HKD_0_0_0062_Title" korean="[10인]트라누아를 처치하라" />
+	<block key="HKD_0_0_0062_RewarderDesc" korean="베카누토" />
+	<block key="HKD_0_0_0062_Request_Text" korean="마계의 운석이 떨어져서 대지가 녹아버린 게 보이시죠? 거신 트라누아는 저곳에 떨어진 운석 파편의 힘을 자신의 것으로 흡수하고 있어요.<br><br>사란트가 거신의 힘을 이용하려고 꽁꽁 숨겨놓은 모양인데 봉인의 기운이 약해지면서 섀도우 클랜의 정보망에 걸려들었죠." />
+	<block key="HKD_0_0_0062_Request_Text_attach_0" korean="<br><br>우선은 운석의 정수부터 파괴해야 하는데 붉은 뿔 갈라도쿠의 능력이 있어야만 가능해요. 큰 운석 추락지에 3개 작은 운석 추락지에 1개가 있으니 모두 파괴한 후에 투칸 족이 지키고 있는 마계의 횃불에 불을 피워 트라누아를 깨울 수 있습니다.<br><br>힘이 모두 돌아온 건 아니지만 상대가 거신이라는 걸 잊지마세요." />
+	<block key="HKD_0_0_0062_Accepted_Text" korean="트라누아가 마계의 기운을 모아서 강대해지기 전인 지금이 기회입니다." />
+	<block key="HKD_0_0_0062_Ongoing_Text" korean="트라누아가 마계의 운석이 가진 힘을 모두 흡수하게 된다면 막을 수 없어요. 지금이 트라누아를 처치할 적기란 말입니다." />
+	<block key="HKD_0_0_0062_Complete_Text" korean="당신이 유명한 이유를 알겠네요. 정말 대단한 전투였습니다!" />
+	<block key="HKD_0_0_0062_1_Title" korean="[10인]트라누아를 처치하라" />
+	<block key="HKD_0_0_0062_1_RewarderDesc" korean="베카누토" />
+	<block key="HKD_0_0_0062_1_Request_Text" korean="마계의 운석이 떨어져서 대지가 녹아버린 게 보이시죠? 거신 트라누아는 저곳에 떨어진 운석 파편의 힘을 자신의 것으로 흡수하고 있어요.<br><br>사란트가 거신의 힘을 이용하려고 꽁꽁 숨겨놓은 모양인데 봉인의 기운이 약해지면서 섀도우 클랜의 정보망에 걸려들었죠." />
+	<block key="HKD_0_0_0062_1_Request_Text_attach_0" korean="<br><br>우선은 운석의 정수부터 파괴해야 하는데 붉은 뿔 갈라도쿠의 능력이 있어야만 가능해요. 큰 운석 추락지에 3개 작은 운석 추락지에 1개가 있으니 모두 파괴한 후에 투칸 족이 지키고 있는 마계의 횃불에 불을 피워 트라누아를 깨울 수 있습니다.<br><br>힘이 모두 돌아온 건 아니지만 상대가 거신이라는 걸 잊지마세요." />
+	<block key="HKD_0_0_0062_1_Accepted_Text" korean="트라누아가 마계의 기운을 모아서 강대해지기 전인 지금이 기회입니다." />
+	<block key="HKD_0_0_0062_1_Ongoing_Text" korean="트라누아가 마계의 운석이 가진 힘을 모두 흡수하게 된다면 막을 수 없어요. 지금이 트라누아를 처치할 적기란 말입니다." />
+	<block key="HKD_0_0_0062_1_Complete_Text" korean="당신이 유명한 이유를 알겠네요. 정말 대단한 전투였습니다!" />
+	<block key="YA_0_0_0001_Title" korean="거신을 처치하라" />
+	<block key="YA_0_0_0001_RewarderDesc" korean="섀도우클랜 클레멘스" />
+	<block key="YA_0_0_0001_Request_Text" korean="거신 야타이만은 이곳에 잠든 상태입니다.<br>힘을 비축해서 다시 깨어나기 전에 야타이만을 깨워 제거해야 합니다. 우선 야타이만의 결계에 설치된 천공의 봉인석부터 파괴해야하는데..<br>일반적인 공격으론 끄떡도 하질 않더군요." />
+	<block key="YA_0_0_0001_Request_Text_attach_0" korean="<br><br>제가 듣기론 라이닉만이 천공의 봉인석을 부술 수 있는 능력이 있다고 하니 라이닉을 이용해 천공의 봉인석을 파괴하십시오.<br>제가 서있는 곳을 기점으로 동,서,북 세 방향에 세워진 천공의 봉인석 3개를 파괴한 후에 깨어난 야타이만을 제거하십시오. 준비는 되셨습니까?<br>상대는 거신입니다. 결코 방심하지 마십시오." />
+	<block key="YA_0_0_0001_Accepted_Text" korean="상대는 거신입니다. 결코 방심하셔선 안됩니다!" />
+	<block key="YA_0_0_0001_Ongoing_Text" korean="도움이 필요하면 말씀하십시오.<br>아, 저 말고요. 저는 정보 수집하느라 좀 바빠서.." />
+	<block key="YA_0_0_0001_Complete_Text" korean="거신 야타이만을 쓰러트렸단 말입니까?!<br>정말 잘해주셨습니다.<br>" />
+	<block key="YA_0_0_0002_Title" korean="[10인]거신을 처치하라" />
+	<block key="YA_0_0_0002_RewarderDesc" korean="클레멘스" />
+	<block key="YA_0_0_0002_Request_Text" korean="거신 야타이만은 이곳에 잠든 상태입니다.<br>힘을 비축해서 다시 깨어나기 전에 야타이만을 깨워 제거해야 합니다. 우선 야타이만의 결계에 설치된 천공의 봉인석부터 파괴해야하는데..<br>일반적인 공격으론 끄떡도 하질 않더군요." />
+	<block key="YA_0_0_0002_Request_Text_attach_0" korean="<br><br>제가 듣기론 라이닉만이 천공의 봉인석을 부술 수 있는 능력이 있다고 하니 라이닉을 이용해 천공의 봉인석을 파괴하십시오.<br>제가 서있는 곳을 기점으로 동,서,북 세 방향에 세워진 천공의 봉인석 3개를 파괴한 후에 깨어난 야타이만을 제거하십시오. 준비는 되셨습니까?<br>상대는 거신입니다. 결코 방심하지 마십시오." />
+	<block key="YA_0_0_0002_Accepted_Text" korean="상대는 거신입니다. 결코 방심하셔선 안됩니다!" />
+	<block key="YA_0_0_0002_Ongoing_Text" korean="도움이 필요하면 말씀하십시오.<br>아, 저 말고요. 저는 정보 수집하느라 좀 바빠서.." />
+	<block key="YA_0_0_0002_Complete_Text" korean="[UserName]님의 실력은 정말 대단하군요! 앞으로도 왕국의 번영을 위해서 큰 활약 펼치시길 바랍니다." />
+	<block key="YA_0_0_0002_1_Title" korean="[10인]거신을 처치하라" />
+	<block key="YA_0_0_0002_1_RewarderDesc" korean="클레멘스" />
+	<block key="YA_0_0_0002_1_Request_Text" korean="거신 야타이만은 이곳에 잠든 상태입니다.<br>힘을 비축해서 다시 깨어나기 전에 야타이만을 깨워 제거해야 합니다. 우선 야타이만의 결계에 설치된 천공의 봉인석부터 파괴해야하는데..<br>일반적인 공격으론 끄떡도 하질 않더군요." />
+	<block key="YA_0_0_0002_1_Request_Text_attach_0" korean="<br><br>제가 듣기론 라이닉만이 천공의 봉인석을 부술 수 있는 능력이 있다고 하니 라이닉을 이용해 천공의 봉인석을 파괴하십시오.<br>제가 서있는 곳을 기점으로 동,서,북 세 방향에 세워진 천공의 봉인석 3개를 파괴한 후에 깨어난 야타이만을 제거하십시오. 준비는 되셨습니까?<br>상대는 거신입니다. 결코 방심하지 마십시오." />
+	<block key="YA_0_0_0002_1_Accepted_Text" korean="상대는 거신입니다. 결코 방심하셔선 안됩니다!" />
+	<block key="YA_0_0_0002_1_Ongoing_Text" korean="도움이 필요하면 말씀하십시오.<br>아, 저 말고요. 저는 정보 수집하느라 좀 바빠서.." />
+	<block key="YA_0_0_0002_1_Complete_Text" korean="[UserName]님의 실력은 정말 대단하군요! 앞으로도 왕국의 번영을 위해서 큰 활약 펼치시길 바랍니다." />
+	<block key="HKD_9_0_0001_Title" korean="버릴 것 없는 무레네" />
+	<block key="HKD_9_0_0001_RewarderDesc" korean="수비대 주둔지 게시판" />
+	<block key="HKD_9_0_0001_Request_Text" korean="왕립 연구소에서는 무레네의 비늘로 전혀 새로운 강화 갑옷을 만드는 연구를 진행중입니다.<br>무레네의 비늘을 기증해주시는 분께 소정의 보상을 지급해드립니다.<br><br>왕립 연구소장" />
+	<block key="HKD_9_0_0001_Accepted_Text" korean="" />
+	<block key="HKD_9_0_0001_Ongoing_Text" korean="왕립 연구소에서는 무레네의 비늘로 전혀 새로운 강화 갑옷을 만드는 연구를 진행중입니다.<br>무레네의 비늘을 기증해주시는 분께 소정의 보상을 지급해드립니다.<br><br>왕립 연구소장" />
+	<block key="HKD_9_0_0001_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_9_0_0002_Title" korean="공적단의 표식" />
+	<block key="HKD_9_0_0002_RewarderDesc" korean="수비대 주둔지 게시판" />
+	<block key="HKD_9_0_0002_Request_Text" korean="공적단 위장을 위해 공적단 표식을 모으고 있습니다.<br>공적단 표식을 가져오신 분께 보상을 지급합니다.<br>많은 지원 부탁드립니다.<br><br>신룡기사단 수비대" />
+	<block key="HKD_9_0_0002_Accepted_Text" korean="" />
+	<block key="HKD_9_0_0002_Ongoing_Text" korean="공적단 위장을 위해 공적단 표식을 모으고 있습니다.<br>공적단 표식을 가져오신 분께 보상을 지급합니다.<br>많은 지원 부탁드립니다.<br><br>신룡기사단 수비대" />
+	<block key="HKD_9_0_0002_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_9_0_0003_Title" korean="수비대에게 필요한 일" />
+	<block key="HKD_9_0_0003_RewarderDesc" korean="수비대 주둔지 게시판" />
+	<block key="HKD_9_0_0003_Request_Text" korean="최근 철의 생산량이 줄어들어 물자 보급이 제대로 이루어지지 못하고 있습니다.<br>대포를 다루는 포병들이 지닌 망가진 고철을 수집해오실 분을 기다리고 있습니다.<br><br>신룡기사단 수비대" />
+	<block key="HKD_9_0_0003_Accepted_Text" korean="" />
+	<block key="HKD_9_0_0003_Ongoing_Text" korean="최근 철의 생산량이 줄어들어 물자 보급이 제대로 이루어지지 못하고 있습니다.<br>대포를 다루는 포병들이 지닌 망가진 고철을 수집해오실 분을 기다리고 있습니다.<br><br>신룡기사단 수비대" />
+	<block key="HKD_9_0_0003_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_9_0_0004_Title" korean="인부들에게 필요한 것" />
+	<block key="HKD_9_0_0004_RewarderDesc" korean="공중 농장 게시판" />
+	<block key="HKD_9_0_0004_Request_Text" korean="오랜 공사로 인부들이 제대로 된 채소와 과일을 공급받지 못하고 있습니다. 당근과 수박을 가져오시는 분께 소정의 보상을 드립니다.<br><br>대해 현장사무소장" />
+	<block key="HKD_9_0_0004_Accepted_Text" korean="" />
+	<block key="HKD_9_0_0004_Ongoing_Text" korean="오랜 공사로 인부들이 제대로 된 채소와 과일을 공급받지 못하고 있습니다. 당근과 수박을 가져오시는 분께 소정의 보상을 드립니다.<br><br>대해 현장사무소장" />
+	<block key="HKD_9_0_0004_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_9_0_0005_Title" korean="다리를 아름답게" />
+	<block key="HKD_9_0_0005_RewarderDesc" korean="공중 농장 게시판" />
+	<block key="HKD_9_0_0005_Request_Text" korean="다리 공사가 끝난 뒤 다리를 아름답게 꾸미기 위한 요정의 가루를 모으고 있습니다.<br>요정의 가루를 가져오신 분께 보상을 드립니다.<br><br>대해 현장사무소장" />
+	<block key="HKD_9_0_0005_Accepted_Text" korean="" />
+	<block key="HKD_9_0_0005_Ongoing_Text" korean="다리 공사가 끝난 뒤 다리를 아름답게 꾸미기 위한 요정의 가루를 모으고 있습니다.<br>요정의 가루를 가져오신 분께 보상을 드립니다.<br><br>대해 현장사무소장" />
+	<block key="HKD_9_0_0005_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_9_0_0006_Title" korean="국고 환수" />
+	<block key="HKD_9_0_0006_RewarderDesc" korean="바엘리스 요새 게시판" />
+	<block key="HKD_9_0_0006_Request_Text" korean="공적단이 부당하게 가져간 하카나스 왕국의 보물을 되찾아 오십시오. 공적단의 보물을 되찾아 온 자에게 큰 보상이 따를 것입니다.<br><br>왕국 은행" />
+	<block key="HKD_9_0_0006_Accepted_Text" korean="" />
+	<block key="HKD_9_0_0006_Ongoing_Text" korean="공적단이 부당하게 가져간 하카나스 왕국의 보물을 되찾아 오십시오. 공적단의 보물을 되찾아 온 자에게 큰 보상이 따를 것입니다.<br><br>왕국 은행" />
+	<block key="HKD_9_0_0006_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_9_0_0007_Title" korean="얼어붙은 흔적" />
+	<block key="HKD_9_0_0007_RewarderDesc" korean="바엘리스 요새 게시판" />
+	<block key="HKD_9_0_0007_Request_Text" korean="서리군단이 어떻게 더운 지역에서도 차가운 냉기를 유지하는지 조사하고 있습니다. 서리군단이 지닌 서리결정을 가져오시는 분께 보상을 지급합니다.<br><br>왕립 연구소장" />
+	<block key="HKD_9_0_0007_Accepted_Text" korean="" />
+	<block key="HKD_9_0_0007_Ongoing_Text" korean="서리군단이 어떻게 더운 지역에서도 차가운 냉기를 유지하는지 조사하고 있습니다. 서리군단이 지닌 서리결정을 가져오시는 분께 보상을 지급합니다.<br><br>왕립 연구소장" />
+	<block key="HKD_9_0_0007_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_9_0_0008_Title" korean="[정예] 더럽혀진 종족" />
+	<block key="HKD_9_0_0008_RewarderDesc" korean="바엘리스 요새 게시판" />
+	<block key="HKD_9_0_0008_Request_Text" korean="이곳에서 파르나의 자식이던 무러미들은 타락했다!<br>처단하라! 그들의 더럽혀진 피를 다시 파르나에게 돌려 보내고, 그들의 비늘을 가져와 경고로 삼으리라!<br><br>인간을 위한 모임" />
+	<block key="HKD_9_0_0008_Accepted_Text" korean="" />
+	<block key="HKD_9_0_0008_Ongoing_Text" korean="이곳에서 파르나의 자식이던 무러미들은 타락했다!<br>처단하라! 그들의 더럽혀진 피를 다시 파르나에게 돌려 보내고, 그들의 비늘을 가져와 경고로 삼으리라!<br><br>인간을 위한 모임" />
+	<block key="HKD_9_0_0008_Complete_Text" korean="보상을 확인하십시오." />
+	<block key="HKD_2_1_0001_Title" korean="[영웅]라비니와 야타이만의 결계" />
+	<block key="HKD_2_1_0001_RewarderDesc" korean="라비니 바니라" />
+	<block key="HKD_2_1_0001_Request_Text" korean="우리 초승달 상단은 지역 사회 발전과 안녕에도 큰 관심을 가지고 있당. 그만큼 우리 라비니도 당당한 사회의 구성원이라는 말이당.<br>하카나스 대해를 공포로 몰아넣은 원흉이 이곳 야타이만의 결계에 잠든 거신 야타이만이라는 말을 들었당.<br>그런 거신을 상대할 수 있겠냥?<br>자신있다면 우리 초승달 상단은 인간, 너 고용하겠당." />
+	<block key="HKD_2_1_0001_Request_Text_attach_0" korean="<br><br>야타이만의 결계로 가서 거신 야타이만을 처치하고 와랑!<br>그럼 우리가 특별히 제작한 라비니족의 동화를 주겠당.<br>이 동화만 있으면 우리 상단이 제공하는 최상급 품질의 상품과 교환할 수 있당!" />
+	<block key="HKD_2_1_0001_Accepted_Text" korean="야타이만의 결계로 가서 거신 야타이만을 처치하고 와랑!" />
+	<block key="HKD_2_1_0001_Ongoing_Text" korean="야타이만의 결계로 가서 거신 야타이만을 처치하고 와랑!<br>그럼 우리가 특별히 제작한 라비니족의 동화를 주겠당.<br>이 동화만 있으면 우리 상단이 제공하는 최상급 품질의 상품과 교환할 수 있당!" />
+	<block key="HKD_2_1_0001_Complete_Text" korean="정말 인간, 네가 거신 야타이만을 해치우고 왔냥?<br>인간 하나는 잘 고른 것 같당.<br>역시 초승달 상단의 안목이 빛을 발하는 순간이당!<br><br>자, 여기 약속한 라비니족의 동화당.<br>이 동화만 모아오면 우리 상단의 상품과 교환해줄테니 잊어버리지 말고 잘 모아둬랑." />
+	<block key="HKD_2_1_0002_Title" korean="[10인][영웅]라비니와 야타이만의 결계" />
+	<block key="HKD_2_1_0002_RewarderDesc" korean="라비니 바니라" />
+	<block key="HKD_2_1_0002_Request_Text" korean="우리 초승달 상단은 지역 사회 발전과 안녕에도 큰 관심을 가지고 있당. 그만큼 우리 라비니도 당당한 사회의 구성원이라는 말이당.<br>하카나스 대해를 공포로 몰아넣은 원흉이 이곳 야타이만의 결계에 잠든 거신 야타이만이라는 말을 들었당.<br>그런 거신을 상대할 수 있겠냥?<br>자신있다면 우리 초승달 상단은 인간, 너 고용하겠당." />
+	<block key="HKD_2_1_0002_Request_Text_attach_0" korean="<br><br>야타이만의 결계로 가서 거신 야타이만을 처치하고 와랑!<br>그럼 우리가 특별히 제작한 라비니족의 은화를 주겠당.<br>이 은화만 있으면 우리 상단이 제공하는 최상급 품질의 상품과 교환할 수 있당!" />
+	<block key="HKD_2_1_0002_Accepted_Text" korean="야타이만의 결계로 가서 거신 야타이만을 처치하고 와랑!" />
+	<block key="HKD_2_1_0002_Ongoing_Text" korean="야타이만의 결계로 가서 거신 야타이만을 처치하고 와랑!<br>그럼 우리가 특별히 제작한 라비니족의 은화를 주겠당.<br>이 은화만 있으면 우리 상단이 제공하는 최상급 품질의 상품과 교환할 수 있당!" />
+	<block key="HKD_2_1_0002_Complete_Text" korean="정말 인간, 네가 거신 야타이만을 해치우고 왔냥?<br>인간 하나는 잘 고른 것 같당.<br>역시 초승달 상단의 안목이 빛을 발하는 순간이당!<br><br>자, 여기 약속한 라비니족의 은화당.<br>이 은화만 모아오면 우리 상단의 상품과 교환해줄테니 잊어버리지 말고 잘 모아둬랑." />
+	<block key="HKD_2_1_0003_Title" korean="[10인][영웅]라비니와 큰바람섬" />
+	<block key="HKD_2_1_0003_RewarderDesc" korean="라비니 버크" />
+	<block key="HKD_2_1_0003_Request_Text" korean="바니라가 말해줘서 알고 있겠지만 초승달 상단은 지역 발전과 사회 안녕에 큰 관심을 가지고 있는 당당한 사회의 구성원이당.<br>큰바람섬의 트라누아가 마계 운석의 힘을 흡수해서 점점 강해지고 있다는 말을 들었는뎅, 그런 거신을 상대할 수 있겠냥?<br>바니라의 말처럼 강한 인간이라면 너, 고용하겠당!" />
+	<block key="HKD_2_1_0003_Request_Text_attach_0" korean="<br><br>큰바람섬으로 가서 거신 트라누아를 처치하고 와랑!<br>그럼 우리가 특별히 제작한 라비니족의 은화를 주겠당." />
+	<block key="HKD_2_1_0003_Accepted_Text" korean="큰바람섬으로 가서 트라누아를 처치하고 와랑!<br>은화는 챙겨왔으니 걱정하지 않아도 된당!" />
+	<block key="HKD_2_1_0003_Ongoing_Text" korean="큰바람섬으로 가서 트라누아를 처치하고 와랑!<br>은화는 챙겨왔으니 걱정하지 않아도 된당!<br>단, 거래와 교환은 바니라와 해랑. 난 아무것도 챙겨오질 못해서 줄게 없당." />
+	<block key="HKD_2_1_0003_Complete_Text" korean="바니라가 인간 보는 눈은 있는 것같당.<br>약속대로 라비니족의 은화는 챙겨준당. 하지만 거래와 교환은 불가능하당.<br>다시 한 번 말하지만 거래와 교환은 바니라를 찾아가랑!" />
+	<block key="YA_0_0_0002_2_Title" korean="[10인]거신을 처치하라" />
+	<block key="YA_0_0_0002_2_RewarderDesc" korean="클레멘스" />
+	<block key="YA_0_0_0002_2_Request_Text" korean="거신 야타이만은 이곳에 잠든 상태입니다.<br>힘을 비축해서 다시 깨어나기 전에 야타이만을 깨워 제거해야 합니다. 우선 야타이만의 결계에 설치된 천공의 봉인석부터 파괴해야하는데..<br>일반적인 공격으론 끄떡도 하질 않더군요." />
+	<block key="YA_0_0_0002_2_Request_Text_attach_0" korean="<br><br>제가 듣기론 라이닉만이 천공의 봉인석을 부술 수 있는 능력이 있다고 하니 라이닉을 이용해 천공의 봉인석을 파괴하십시오.<br>제가 서있는 곳을 기점으로 동,서,북 세 방향에 세워진 천공의 봉인석 3개를 파괴한 후에 깨어난 야타이만을 제거하십시오. 준비는 되셨습니까?<br>상대는 거신입니다. 결코 방심하지 마십시오." />
+	<block key="YA_0_0_0002_2_Accepted_Text" korean="상대는 거신입니다. 결코 방심하셔선 안됩니다!" />
+	<block key="YA_0_0_0002_2_Ongoing_Text" korean="도움이 필요하면 말씀하십시오.<br>아, 저 말고요. 저는 정보 수집하느라 좀 바빠서.." />
+	<block key="YA_0_0_0002_2_Complete_Text" korean="[UserName]님의 실력은 정말 대단하군요! 앞으로도 왕국의 번영을 위해서 큰 활약 펼치시길 바랍니다." />
+	<block key="HKD_0_0_0062_2_Title" korean="[10인]트라누아를 처치하라" />
+	<block key="HKD_0_0_0062_2_RewarderDesc" korean="베카누토" />
+	<block key="HKD_0_0_0062_2_Request_Text" korean="마계의 운석이 떨어져서 대지가 녹아버린 게 보이시죠? 거신 트라누아는 저곳에 떨어진 운석 파편의 힘을 자신의 것으로 흡수하고 있어요.<br><br>사란트가 거신의 힘을 이용하려고 꽁꽁 숨겨놓은 모양인데 봉인의 기운이 약해지면서 섀도우 클랜의 정보망에 걸려들었죠." />
+	<block key="HKD_0_0_0062_2_Request_Text_attach_0" korean="<br><br>우선은 운석의 정수부터 파괴해야 하는데 붉은 뿔 갈라도쿠의 능력이 있어야만 가능해요. 큰 운석 추락지에 3개 작은 운석 추락지에 1개가 있으니 모두 파괴한 후에 투칸 족이 지키고 있는 마계의 횃불에 불을 피워 트라누아를 깨울 수 있습니다.<br><br>힘이 모두 돌아온 건 아니지만 상대가 거신이라는 걸 잊지마세요." />
+	<block key="HKD_0_0_0062_2_Accepted_Text" korean="트라누아가 마계의 기운을 모아서 강대해지기 전인 지금이 기회입니다." />
+	<block key="HKD_0_0_0062_2_Ongoing_Text" korean="트라누아가 마계의 운석이 가진 힘을 모두 흡수하게 된다면 막을 수 없어요. 지금이 트라누아를 처치할 적기란 말입니다." />
+	<block key="HKD_0_0_0062_2_Complete_Text" korean="당신이 유명한 이유를 알겠네요. 정말 대단한 전투였습니다!" />
+</blocks>

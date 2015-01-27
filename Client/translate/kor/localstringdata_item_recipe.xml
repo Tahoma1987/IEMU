@@ -1,0 +1,3678 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="RC_1_1_10001_Name" korean="구리 주괴" />
+	<block key="RC_1_2_10001_Name" korean="철 주괴" />
+	<block key="RC_1_3_10001_Name" korean="미스릴 주괴" />
+	<block key="RC_1_1_11011_Name" korean="구리 한손검" />
+	<block key="RC_1_1_21011_Name" korean="구리 양손검" />
+	<block key="RC_1_1_31011_Name" korean="구리 단검" />
+	<block key="RC_1_1_41011_Name" korean="구리 한손지팡이" />
+	<block key="RC_1_1_51011_Name" korean="구리 양손지팡이" />
+	<block key="RC_1_2_12011_Name" korean="강철 한손검" />
+	<block key="RC_1_2_22011_Name" korean="강철 양손검" />
+	<block key="RC_1_2_32011_Name" korean="강철 단검" />
+	<block key="RC_1_2_42011_Name" korean="강철 한손지팡이" />
+	<block key="RC_1_2_52011_Name" korean="강철 양손지팡이" />
+	<block key="RC_1_2_12021_Name" korean="강화된 강철 한손검" />
+	<block key="RC_1_2_22021_Name" korean="강화된 강철 양손검" />
+	<block key="RC_1_2_32021_Name" korean="강화된 강철 단검" />
+	<block key="RC_1_2_42021_Name" korean="강화된 강철 한손지팡이" />
+	<block key="RC_1_2_52021_Name" korean="강화된 강철 양손지팡이" />
+	<block key="RC_1_3_13011_Name" korean="미스릴 한손검" />
+	<block key="RC_1_3_23011_Name" korean="미스릴 양손검" />
+	<block key="RC_1_3_33011_Name" korean="미스릴 단검" />
+	<block key="RC_1_3_43011_Name" korean="미스릴 한손지팡이" />
+	<block key="RC_1_3_53011_Name" korean="미스릴 양손지팡이" />
+	<block key="RC_1_3_13021_Name" korean="강화된 미스릴 한손검" />
+	<block key="RC_1_3_23021_Name" korean="강화된 미스릴 양손검" />
+	<block key="RC_1_3_33021_Name" korean="강화된 미스릴 단검" />
+	<block key="RC_1_3_43021_Name" korean="강화된 미스릴 한손지팡이" />
+	<block key="RC_1_3_53021_Name" korean="강화된 미스릴 양손지팡이" />
+	<block key="RC_1_3_13031_Name" korean="빛나는 미스릴 한손검" />
+	<block key="RC_1_3_23031_Name" korean="빛나는 미스릴 양손검" />
+	<block key="RC_1_3_33031_Name" korean="빛나는 미스릴 단검" />
+	<block key="RC_1_3_43031_Name" korean="빛나는 미스릴 한손지팡이" />
+	<block key="RC_1_3_53031_Name" korean="빛나는 미스릴 양손지팡이" />
+	<block key="RC_2_1_10001_Name" korean="구리 합금" />
+	<block key="RC_2_2_10001_Name" korean="철 합금" />
+	<block key="RC_2_3_10001_Name" korean="미스릴 합금" />
+	<block key="RC_2_1_10011_Name" korean="거친 천" />
+	<block key="RC_2_2_10011_Name" korean="얇은 천" />
+	<block key="RC_2_3_10011_Name" korean="두꺼운 천" />
+	<block key="RC_2_1_11011_3_Name" korean="구리 수호 중갑" />
+	<block key="RC_2_1_11011_4_Name" korean="구리 수호 장갑" />
+	<block key="RC_2_1_11011_5_Name" korean="구리 수호 신발" />
+	<block key="RC_2_1_11012_3_Name" korean="구리 광폭 중갑" />
+	<block key="RC_2_1_11012_4_Name" korean="구리 광폭 장갑" />
+	<block key="RC_2_1_11012_5_Name" korean="구리 광폭 신발" />
+	<block key="RC_2_1_21011_3_Name" korean="구리 그림자 경갑" />
+	<block key="RC_2_1_21011_4_Name" korean="구리 그림자 장갑" />
+	<block key="RC_2_1_21011_5_Name" korean="구리 그림자 신발" />
+	<block key="RC_2_1_31011_3_Name" korean="거친 원소 로브" />
+	<block key="RC_2_1_31011_4_Name" korean="거친 원소 장갑" />
+	<block key="RC_2_1_31011_5_Name" korean="거친 원소 신발" />
+	<block key="RC_2_1_31012_3_Name" korean="거친 신념 로브" />
+	<block key="RC_2_1_31012_4_Name" korean="거친 신념 장갑" />
+	<block key="RC_2_1_31012_5_Name" korean="거친 신념 신발" />
+	<block key="RC_2_1_41011_1_Name" korean="구리 방패" />
+	<block key="RC_2_1_51011_1_Name" korean="구리 아티펙트" />
+	<block key="RC_2_2_12011_2_Name" korean="강철 수호 어깨" />
+	<block key="RC_2_2_12011_3_Name" korean="강철 수호 중갑" />
+	<block key="RC_2_2_12011_4_Name" korean="강철 수호 장갑" />
+	<block key="RC_2_2_12011_5_Name" korean="강철 수호 신발" />
+	<block key="RC_2_2_12012_2_Name" korean="강철 광폭 어깨" />
+	<block key="RC_2_2_12012_3_Name" korean="강철 광폭 중갑" />
+	<block key="RC_2_2_12012_4_Name" korean="강철 광폭 장갑" />
+	<block key="RC_2_2_12012_5_Name" korean="강철 광폭 신발" />
+	<block key="RC_2_2_22011_2_Name" korean="강철 그림자 어깨" />
+	<block key="RC_2_2_22011_3_Name" korean="강철 그림자 경갑" />
+	<block key="RC_2_2_22011_4_Name" korean="강철 그림자 장갑" />
+	<block key="RC_2_2_22011_5_Name" korean="강철 그림자 신발" />
+	<block key="RC_2_2_32011_2_Name" korean="얇은 원소 어깨" />
+	<block key="RC_2_2_32011_3_Name" korean="얇은 원소 로브" />
+	<block key="RC_2_2_32011_4_Name" korean="얇은 원소 장갑" />
+	<block key="RC_2_2_32011_5_Name" korean="얇은 원소 신발" />
+	<block key="RC_2_2_32012_2_Name" korean="얇은 신념 어깨" />
+	<block key="RC_2_2_32012_3_Name" korean="얇은 신념 로브" />
+	<block key="RC_2_2_32012_4_Name" korean="얇은 신념 장갑" />
+	<block key="RC_2_2_32012_5_Name" korean="얇은 신념 신발" />
+	<block key="RC_2_2_42011_1_Name" korean="강철 방패" />
+	<block key="RC_2_2_52011_1_Name" korean="강철 아티펙트" />
+	<block key="RC_2_2_12021_2_Name" korean="강화된 강철 수호 어깨" />
+	<block key="RC_2_2_12021_3_Name" korean="강화된 강철 수호 중갑" />
+	<block key="RC_2_2_12021_4_Name" korean="강화된 강철 수호 장갑" />
+	<block key="RC_2_2_12021_5_Name" korean="강화된 강철 수호 신발" />
+	<block key="RC_2_2_12022_2_Name" korean="강화된 강철 광폭 어깨" />
+	<block key="RC_2_2_12022_3_Name" korean="강화된 강철 광폭 중갑" />
+	<block key="RC_2_2_12022_4_Name" korean="강화된 강철 광폭 장갑" />
+	<block key="RC_2_2_12022_5_Name" korean="강화된 강철 광폭 신발" />
+	<block key="RC_2_2_22021_2_Name" korean="강화된 강철 그림자 어깨" />
+	<block key="RC_2_2_22021_3_Name" korean="강화된 강철 그림자 경갑" />
+	<block key="RC_2_2_22021_4_Name" korean="강화된 강철 그림자 장갑" />
+	<block key="RC_2_2_22021_5_Name" korean="강화된 강철 그림자 신발" />
+	<block key="RC_2_2_32021_2_Name" korean="강화된 얇은 어깨" />
+	<block key="RC_2_2_32021_3_Name" korean="강화된 얇은 원소 로브" />
+	<block key="RC_2_2_32021_4_Name" korean="강화된 얇은 원소 장갑" />
+	<block key="RC_2_2_32021_5_Name" korean="강화된 얇은 원소 신발" />
+	<block key="RC_2_2_32022_2_Name" korean="강화된 얇은 신념 어깨" />
+	<block key="RC_2_2_32022_3_Name" korean="강화된 얇은 신념 로브" />
+	<block key="RC_2_2_32022_4_Name" korean="강화된 얇은 신념 장갑" />
+	<block key="RC_2_2_32022_5_Name" korean="강화된 얇은 신념 신발" />
+	<block key="RC_2_2_42021_1_Name" korean="강화된 강철 방패" />
+	<block key="RC_2_2_52021_1_Name" korean="강화된 강철 아티펙트" />
+	<block key="RC_2_3_13011_1_Name" korean="미스릴 수호 투구" />
+	<block key="RC_2_3_13011_2_Name" korean="미스릴 수호 어깨" />
+	<block key="RC_2_3_13011_3_Name" korean="미스릴 수호 중갑" />
+	<block key="RC_2_3_13011_4_Name" korean="미스릴 수호 장갑" />
+	<block key="RC_2_3_13011_5_Name" korean="미스릴 수호 신발" />
+	<block key="RC_2_3_13012_1_Name" korean="미스릴 광폭 투구" />
+	<block key="RC_2_3_13012_2_Name" korean="미스릴 광폭 어깨" />
+	<block key="RC_2_3_13012_3_Name" korean="미스릴 광폭 중갑" />
+	<block key="RC_2_3_13012_4_Name" korean="미스릴 광폭 장갑" />
+	<block key="RC_2_3_13012_5_Name" korean="미스릴 광폭 신발" />
+	<block key="RC_2_3_23011_1_Name" korean="미스릴 그림자 투구" />
+	<block key="RC_2_3_23011_2_Name" korean="미스릴 그림자 어깨" />
+	<block key="RC_2_3_23011_3_Name" korean="미스릴 그림자 경갑" />
+	<block key="RC_2_3_23011_4_Name" korean="미스릴 그림자 장갑" />
+	<block key="RC_2_3_23011_5_Name" korean="미스릴 그림자 신발" />
+	<block key="RC_2_3_33011_1_Name" korean="두꺼운 원소 모자" />
+	<block key="RC_2_3_33011_2_Name" korean="두꺼운 원소 어깨" />
+	<block key="RC_2_3_33011_3_Name" korean="두꺼운 원소 로브" />
+	<block key="RC_2_3_33011_4_Name" korean="두꺼운 원소 장갑" />
+	<block key="RC_2_3_33011_5_Name" korean="두꺼운 원소 신발" />
+	<block key="RC_2_3_33012_1_Name" korean="두꺼운 신념 모자" />
+	<block key="RC_2_3_33012_2_Name" korean="두꺼운 신념 어깨" />
+	<block key="RC_2_3_33012_3_Name" korean="두꺼운 신념 로브" />
+	<block key="RC_2_3_33012_4_Name" korean="두꺼운 신념 장갑" />
+	<block key="RC_2_3_33012_5_Name" korean="두꺼운 신념 신발" />
+	<block key="RC_2_3_43011_1_Name" korean="미스릴 방패" />
+	<block key="RC_2_3_53011_1_Name" korean="미스릴 아티펙트" />
+	<block key="RC_2_3_13021_1_Name" korean="강화된 미스릴 수호 투구" />
+	<block key="RC_2_3_13021_2_Name" korean="강화된 미스릴 수호 어깨" />
+	<block key="RC_2_3_13021_3_Name" korean="강화된 미스릴 수호 중갑" />
+	<block key="RC_2_3_13021_4_Name" korean="강화된 미스릴 수호 장갑" />
+	<block key="RC_2_3_13021_5_Name" korean="강화된 미스릴 수호 신발" />
+	<block key="RC_2_3_13022_1_Name" korean="강화된 미스릴 광폭 투구" />
+	<block key="RC_2_3_13022_2_Name" korean="강화된 미스릴 광폭 어깨" />
+	<block key="RC_2_3_13022_3_Name" korean="강화된 미스릴 광폭 중갑" />
+	<block key="RC_2_3_13022_4_Name" korean="강화된 미스릴 광폭 장갑" />
+	<block key="RC_2_3_13022_5_Name" korean="강화된 미스릴 광폭 신발" />
+	<block key="RC_2_3_23021_1_Name" korean="강화된 미스릴 그림자 투구" />
+	<block key="RC_2_3_23021_2_Name" korean="강화된 미스릴 그림자 어깨" />
+	<block key="RC_2_3_23021_3_Name" korean="강화된 미스릴 그림자 경갑" />
+	<block key="RC_2_3_23021_4_Name" korean="강화된 미스릴 그림자 장갑" />
+	<block key="RC_2_3_23021_5_Name" korean="강화된 미스릴 그림자 신발" />
+	<block key="RC_2_3_33021_1_Name" korean="강화된 두꺼운 원소 모자" />
+	<block key="RC_2_3_33021_2_Name" korean="강화된 두꺼운 원소 어깨" />
+	<block key="RC_2_3_33021_3_Name" korean="강화된 두꺼운 원소 로브" />
+	<block key="RC_2_3_33021_4_Name" korean="강화된 두꺼운 원소 장갑" />
+	<block key="RC_2_3_33021_5_Name" korean="강화된 두꺼운 원소 신발" />
+	<block key="RC_2_3_33022_1_Name" korean="강화된 두꺼운 신념 모자" />
+	<block key="RC_2_3_33022_2_Name" korean="강화된 두꺼운 신념 어깨" />
+	<block key="RC_2_3_33022_3_Name" korean="강화된 두꺼운 신념 로브" />
+	<block key="RC_2_3_33022_4_Name" korean="강화된 두꺼운 신념 장갑" />
+	<block key="RC_2_3_33022_5_Name" korean="강화된 두꺼운 신념 신발" />
+	<block key="RC_2_3_43021_1_Name" korean="강화된 미스릴 방패" />
+	<block key="RC_2_3_53021_1_Name" korean="강화된 미스릴 아티펙트" />
+	<block key="RC_2_3_13031_1_Name" korean="빛나는 미스릴 수호 투구" />
+	<block key="RC_2_3_13031_2_Name" korean="빛나는 미스릴 수호 어깨" />
+	<block key="RC_2_3_13031_3_Name" korean="빛나는 미스릴 수호 중갑" />
+	<block key="RC_2_3_13031_4_Name" korean="빛나는 미스릴 수호 장갑" />
+	<block key="RC_2_3_13031_5_Name" korean="빛나는 미스릴 수호 신발" />
+	<block key="RC_2_3_13032_1_Name" korean="빛나는 미스릴 광폭 투구" />
+	<block key="RC_2_3_13032_2_Name" korean="빛나는 미스릴 광폭 어깨" />
+	<block key="RC_2_3_13032_3_Name" korean="빛나는 미스릴 광폭 중갑" />
+	<block key="RC_2_3_13032_4_Name" korean="빛나는 미스릴 광폭 장갑" />
+	<block key="RC_2_3_13032_5_Name" korean="빛나는 미스릴 광폭 신발" />
+	<block key="RC_2_3_23031_1_Name" korean="빛나는 미스릴 그림자 투구" />
+	<block key="RC_2_3_23031_2_Name" korean="빛나는 미스릴 그림자 어깨" />
+	<block key="RC_2_3_23031_3_Name" korean="빛나는 미스릴 그림자 경갑" />
+	<block key="RC_2_3_23031_4_Name" korean="빛나는 미스릴 그림자 장갑" />
+	<block key="RC_2_3_23031_5_Name" korean="빛나는 미스릴 그림자 신발" />
+	<block key="RC_2_3_33031_1_Name" korean="빛나는 두꺼운 원소 모자" />
+	<block key="RC_2_3_33031_2_Name" korean="빛나는 두꺼운 원소 어깨" />
+	<block key="RC_2_3_33031_3_Name" korean="빛나는 두꺼운 원소 로브" />
+	<block key="RC_2_3_33031_4_Name" korean="빛나는 두꺼운 원소 장갑" />
+	<block key="RC_2_3_33031_5_Name" korean="빛나는 두꺼운 원소 신발" />
+	<block key="RC_2_3_33032_1_Name" korean="빛나는 두꺼운 신념 모자" />
+	<block key="RC_2_3_33032_2_Name" korean="빛나는 두꺼운 신념 어깨" />
+	<block key="RC_2_3_33032_3_Name" korean="빛나는 두꺼운 신념 로브" />
+	<block key="RC_2_3_33032_4_Name" korean="빛나는 두꺼운 신념 장갑" />
+	<block key="RC_2_3_33032_5_Name" korean="빛나는 두꺼운 신념 신발" />
+	<block key="RC_2_3_43031_1_Name" korean="빛나는 미스릴 방패" />
+	<block key="RC_2_3_53031_1_Name" korean="빛나는 미스릴 아티펙트" />
+	<block key="RC_3_1_11011_Name" korean="10레벨 일반 생명력 비약" />
+	<block key="RC_3_1_21011_Name" korean="10레벨 일반 마나 비약" />
+	<block key="RC_3_1_31011_Name" korean="1단계 일반 분노 물약" />
+	<block key="RC_3_1_41011_Name" korean="1단계 일반 스태미너 물약" />
+	<block key="RC_3_2_12011_Name" korean="20레벨 일반 생명력 비약" />
+	<block key="RC_3_2_22011_Name" korean="20레벨 일반 마나 비약" />
+	<block key="RC_3_2_32011_Name" korean="2단계 일반 분노 물약" />
+	<block key="RC_3_2_42011_Name" korean="2단계 일반 스태미너 물약" />
+	<block key="RC_3_2_12021_Name" korean="10레벨 정예 생명력 비약" />
+	<block key="RC_3_2_22021_Name" korean="10레벨 정예 마나 비약" />
+	<block key="RC_3_2_32021_Name" korean="2단계 정예 분노 물약" />
+	<block key="RC_3_2_42021_Name" korean="2단계 정예 스태미너 물약" />
+	<block key="RC_3_3_13011_Name" korean="30레벨 일반 생명력 비약" />
+	<block key="RC_3_3_23011_Name" korean="30레벨 일반 마나 비약" />
+	<block key="RC_3_3_33011_Name" korean="3단계 일반 분노 물약" />
+	<block key="RC_3_3_43011_Name" korean="3단계 일반 스태미너 물약" />
+	<block key="RC_3_3_53011_Name" korean="엘로라의 신뢰" />
+	<block key="RC_3_3_13021_Name" korean="20레벨 정예 생명력 비약" />
+	<block key="RC_3_3_23021_Name" korean="20레벨 정예 마나 비약" />
+	<block key="RC_3_3_33021_Name" korean="3단계 정예 분노 물약" />
+	<block key="RC_3_3_43021_Name" korean="3단계 정예 스태미너 물약" />
+	<block key="RC_3_3_13031_Name" korean="20레벨 영웅 생명력 비약" />
+	<block key="RC_3_3_23031_Name" korean="20레벨 영웅 마나 비약" />
+	<block key="RC_3_3_33031_Name" korean="3단계 영웅 분노 물약" />
+	<block key="RC_3_3_43031_Name" korean="3단계 영웅 스태미너 물약" />
+	<block key="RC_4_1_11011_Name" korean="1단계 일반 공격 음식" />
+	<block key="RC_4_1_21011_Name" korean="1단계 일반 방어 음식" />
+	<block key="RC_4_1_31011_Name" korean="달콤하고 질긴 통구이" />
+	<block key="RC_4_1_31012_Name" korean="달콤하고 질긴 고기 스프" />
+	<block key="RC_4_2_12011_Name" korean="2단계 일반 공격 음식" />
+	<block key="RC_4_2_22011_Name" korean="2단계 일반 방어 음식" />
+	<block key="RC_4_2_32011_Name" korean="달콤하고 평범한 통구이" />
+	<block key="RC_4_2_32012_Name" korean="달콤하고 평범한 고기 스프" />
+	<block key="RC_4_2_12021_Name" korean="2단계 정예 공격 음식" />
+	<block key="RC_4_2_22021_Name" korean="2단계 정예 방어 음식" />
+	<block key="RC_4_2_32021_Name" korean="2단계 정예 생명력 음식" />
+	<block key="RC_4_2_32022_Name" korean="2단계 정예 마나 음식" />
+	<block key="RC_4_3_13011_Name" korean="3단계 일반 공격 음식" />
+	<block key="RC_4_3_23011_Name" korean="3단계 일반 방어 음식" />
+	<block key="RC_4_3_33011_Name" korean="달콤하고 쫄깃한 통구이" />
+	<block key="RC_4_3_33012_Name" korean="달콤하고 쫄깃한 고기 스프" />
+	<block key="RC_4_3_13021_Name" korean="3단계 정예 공격 음식" />
+	<block key="RC_4_3_23021_Name" korean="3단계 정예 방어 음식" />
+	<block key="RC_4_3_33021_Name" korean="숙련자의 정예 생명력 음식" />
+	<block key="RC_4_3_33022_Name" korean="숙련자의 정예 마나 음식" />
+	<block key="RC_4_3_13031_Name" korean="3단계 영웅 공격 음식" />
+	<block key="RC_4_3_23031_Name" korean="3단계 영웅 방어 음식" />
+	<block key="RC_4_3_33031_Name" korean="숙련자의 영웅 생명력 음식" />
+	<block key="RC_4_3_33032_Name" korean="숙련자의 영웅 마나 음식" />
+	<block key="RC_5_1_10001_Name" korean="은가루" />
+	<block key="RC_5_2_10001_Name" korean="금가루" />
+	<block key="RC_5_3_10001_Name" korean="세공된 자수정" />
+	<block key="RC_5_1_11011_Name" korean="물리 은 반지" />
+	<block key="RC_5_1_21011_Name" korean="마법 은 반지" />
+	<block key="RC_5_1_31011_Name" korean="물리 은 목걸이" />
+	<block key="RC_5_1_41011_Name" korean="마법 은 목걸이" />
+	<block key="RC_5_2_12011_Name" korean="물리 금 반지" />
+	<block key="RC_5_2_22011_Name" korean="마법 금 반지" />
+	<block key="RC_5_2_32011_Name" korean="물리 금 목걸이" />
+	<block key="RC_5_2_42011_Name" korean="마법 금 목걸이" />
+	<block key="RC_5_2_12021_Name" korean="강화된 물리 금 반지" />
+	<block key="RC_5_2_22021_Name" korean="강화된 마법 금 반지" />
+	<block key="RC_5_2_32021_Name" korean="강화된 물리 금 목걸이" />
+	<block key="RC_5_2_42021_Name" korean="강화된 마법 금 목걸이" />
+	<block key="RC_5_3_13011_Name" korean="물리 자수정 반지" />
+	<block key="RC_5_3_23011_Name" korean="마법 자수정 반지" />
+	<block key="RC_5_3_33011_Name" korean="물리 자수정 목걸이" />
+	<block key="RC_5_3_43011_Name" korean="마법 자수정 목걸이" />
+	<block key="RC_5_3_13021_Name" korean="강화된 물리 자수정 반지" />
+	<block key="RC_5_3_23021_Name" korean="강화된 마법 자수정 반지" />
+	<block key="RC_5_3_33021_Name" korean="강화된 물리 자수정 목걸이" />
+	<block key="RC_5_3_43021_Name" korean="강화된 마법 자수정 목걸이" />
+	<block key="RC_5_3_13031_Name" korean="빛나는 물리 자수정 반지" />
+	<block key="RC_5_3_23031_Name" korean="빛나는 마법 자수정 반지" />
+	<block key="RC_5_3_33031_Name" korean="빛나는 물리 자수정 목걸이" />
+	<block key="RC_5_3_43031_Name" korean="빛나는 마법 자수정 목걸이" />
+	<block key="RC_6_1_10001_Name" korean="미약한 정령수" />
+	<block key="RC_6_2_10001_Name" korean="약한 정령수" />
+	<block key="RC_6_3_10001_Name" korean="평범한 저주받은 정령수" />
+	<block key="RC_6_1_11011_Name" korean="평범한 저주받은 신룡의 발톱" />
+	<block key="RC_6_1_21011_Name" korean="평범한 저주받은 신룡의 안장" />
+	<block key="RC_6_1_31011_Name" korean="평범한 저주받은 신룡의 영혼석" />
+	<block key="RC_6_2_12011_Name" korean="평범한 저주받은 수호의 발톱" />
+	<block key="RC_6_2_22011_Name" korean="평범한 저주받은 수호의 안장" />
+	<block key="RC_6_2_32011_Name" korean="평범한 저주받은 수호의 영혼석" />
+	<block key="RC_6_2_12021_Name" korean="뛰어난 수호의 발톱" />
+	<block key="RC_6_2_22021_Name" korean="뛰어난 수호의 안장" />
+	<block key="RC_6_2_32021_Name" korean="뛰어난 수호의 영혼석" />
+	<block key="RC_6_3_13011_Name" korean="평범한 저주받은 발톱" />
+	<block key="RC_6_3_23011_Name" korean="평범한 저주받은 안장" />
+	<block key="RC_6_3_33011_Name" korean="평범한 저주받은 영혼석" />
+	<block key="RC_6_3_13021_Name" korean="뛰어난 저주받은 발톱" />
+	<block key="RC_6_3_23021_Name" korean="뛰어난 저주받은 안장" />
+	<block key="RC_6_3_33021_Name" korean="뛰어난 저주받은 영혼석" />
+	<block key="RC_6_3_13031_Name" korean="희귀한 저주받은 발톱" />
+	<block key="RC_6_3_23031_Name" korean="희귀한 저주받은 안장" />
+	<block key="RC_6_3_33031_Name" korean="희귀한 저주받은 영혼석" />
+	<block key="RC_6_1_41021_Name" korean="어둠 억제 주문서" />
+	<block key="RC_6_1_41022_Name" korean="불꽃의 심장" />
+	<block key="RC_6_1_41023_Name" korean="블랙윈드의 혈통서" />
+	<block key="RC_3_1_61021_Name" korean="불꽃 폭탄" />
+	<block key="RC_2_1_11031_2_Name" korean="화염이 깃든 수호 어깨" />
+	<block key="RC_2_1_11031_3_Name" korean="화염이 깃든 수호 중갑" />
+	<block key="RC_2_1_11031_4_Name" korean="화염이 깃든 수호 장갑" />
+	<block key="RC_2_1_11031_5_Name" korean="화염이 깃든 수호 신발" />
+	<block key="RC_2_1_11032_2_Name" korean="화염이 깃든 광폭 어깨" />
+	<block key="RC_2_1_11032_3_Name" korean="화염이 깃든 광폭 중갑" />
+	<block key="RC_2_1_11032_4_Name" korean="화염이 깃든 광폭 장갑" />
+	<block key="RC_2_1_11032_5_Name" korean="화염이 깃든 광폭 신발" />
+	<block key="RC_2_1_21031_2_Name" korean="화염이 깃든 그림자 어깨" />
+	<block key="RC_2_1_21031_3_Name" korean="화염이 깃든 그림자 경갑" />
+	<block key="RC_2_1_21031_4_Name" korean="화염이 깃든 그림자 장갑" />
+	<block key="RC_2_1_21031_5_Name" korean="화염이 깃든 그림자 신발" />
+	<block key="RC_2_1_31031_2_Name" korean="화염이 깃든 원소 어깨" />
+	<block key="RC_2_1_31031_3_Name" korean="화염이 깃든 원소 로브" />
+	<block key="RC_2_1_31031_4_Name" korean="화염이 깃든 원소 장갑" />
+	<block key="RC_2_1_31031_5_Name" korean="화염이 깃든 원소 신발" />
+	<block key="RC_2_1_31032_2_Name" korean="화염이 깃든 신념 어깨" />
+	<block key="RC_2_1_31032_3_Name" korean="화염이 깃든 신념 로브" />
+	<block key="RC_2_1_31032_4_Name" korean="화염이 깃든 신념 장갑" />
+	<block key="RC_2_1_31032_5_Name" korean="화염이 깃든 신념 신발" />
+	<block key="RC_2_1_11033_2_Name" korean="저주받은 수호 어깨" />
+	<block key="RC_2_1_11033_3_Name" korean="저주받은 수호 중갑" />
+	<block key="RC_2_1_11033_4_Name" korean="저주받은 수호 장갑" />
+	<block key="RC_2_1_11033_5_Name" korean="저주받은 수호 신발" />
+	<block key="RC_2_1_11034_2_Name" korean="저주받은 광폭 어깨" />
+	<block key="RC_2_1_11034_3_Name" korean="저주받은 광폭 중갑" />
+	<block key="RC_2_1_11034_4_Name" korean="저주받은 광폭 장갑" />
+	<block key="RC_2_1_11034_5_Name" korean="저주받은 광폭 신발" />
+	<block key="RC_2_1_21033_2_Name" korean="저주받은 그림자 어깨" />
+	<block key="RC_2_1_21033_3_Name" korean="저주받은 그림자 경갑" />
+	<block key="RC_2_1_21033_4_Name" korean="저주받은 그림자 장갑" />
+	<block key="RC_2_1_21033_5_Name" korean="저주받은 그림자 신발" />
+	<block key="RC_2_1_31033_2_Name" korean="저주받은 원소 어깨" />
+	<block key="RC_2_1_31033_3_Name" korean="저주받은 원소 로브" />
+	<block key="RC_2_1_31033_4_Name" korean="저주받은 원소 장갑" />
+	<block key="RC_2_1_31033_5_Name" korean="저주받은 원소 신발" />
+	<block key="RC_2_1_31034_2_Name" korean="저주받은 신념 어깨" />
+	<block key="RC_2_1_31034_3_Name" korean="저주받은 신념 로브" />
+	<block key="RC_2_1_31034_4_Name" korean="저주받은 신념 장갑" />
+	<block key="RC_2_1_31034_5_Name" korean="저주받은 신념 신발" />
+	<block key="RC_2_2_12031_1_Name" korean="혹한의 수호 투구" />
+	<block key="RC_2_2_12031_2_Name" korean="혹한의 수호 어깨" />
+	<block key="RC_2_2_12031_3_Name" korean="혹한의 수호 중갑" />
+	<block key="RC_2_2_12031_4_Name" korean="혹한의 수호 장갑" />
+	<block key="RC_2_2_12031_5_Name" korean="혹한의 수호 신발" />
+	<block key="RC_2_2_12032_1_Name" korean="혹한의 광폭 투구" />
+	<block key="RC_2_2_12032_2_Name" korean="혹한의 광폭 어깨" />
+	<block key="RC_2_2_12032_3_Name" korean="혹한의 광폭 중갑" />
+	<block key="RC_2_2_12032_4_Name" korean="혹한의 광폭 장갑" />
+	<block key="RC_2_2_12032_5_Name" korean="혹한의 광폭 신발" />
+	<block key="RC_2_2_22031_1_Name" korean="혹한의 그림자 투구" />
+	<block key="RC_2_2_22031_2_Name" korean="혹한의 그림자 어깨" />
+	<block key="RC_2_2_22031_3_Name" korean="혹한의 그림자 경갑" />
+	<block key="RC_2_2_22031_4_Name" korean="혹한의 그림자 장갑" />
+	<block key="RC_2_2_22031_5_Name" korean="혹한의 그림자 신발" />
+	<block key="RC_2_2_32031_1_Name" korean="혹한의 원소 모자" />
+	<block key="RC_2_2_32031_2_Name" korean="혹한의 원소 어깨" />
+	<block key="RC_2_2_32031_3_Name" korean="혹한의 원소 로브" />
+	<block key="RC_2_2_32031_4_Name" korean="혹한의 원소 장갑" />
+	<block key="RC_2_2_32031_5_Name" korean="혹한의 원소 신발" />
+	<block key="RC_2_2_32032_1_Name" korean="혹한의 신념 모자" />
+	<block key="RC_2_2_32032_2_Name" korean="혹한의 신념 어깨" />
+	<block key="RC_2_2_32032_3_Name" korean="혹한의 신념 로브" />
+	<block key="RC_2_2_32032_4_Name" korean="혹한의 신념 장갑" />
+	<block key="RC_2_2_32032_5_Name" korean="혹한의 신념 신발" />
+	<block key="RC_5_1_51011_Name" korean="왕실 근위대 반지" />
+	<block key="RC_5_1_51012_Name" korean="왕실 근위대 반지" />
+	<block key="RC_5_1_51013_Name" korean="왕실 근위대 반지" />
+	<block key="RC_5_1_51014_Name" korean="왕실 근위대 반지" />
+	<block key="RC_5_1_51015_Name" korean="왕실 근위대 반지" />
+	<block key="RC_3_1_61022_Name" korean="마늘 엑기스" />
+	<block key="RC_3_1_61023_Name" korean="성수" />
+	<block key="RC_6_1_41024_Name" korean="드래곤 인장" />
+	<block key="RC_6_1_41025_Name" korean="대해의 신성한 주문서" />
+	<block key="RC_6_1_41026_Name" korean="라단의 정수" />
+	<block key="RC_7_1_25001_Name" korean="엑자리움 가루" />
+	<block key="RC_7_1_25002_Name" korean="엑자리움 주괴" />
+	<block key="RC_7_1_25003_Name" korean="엑자리움 합금" />
+	<block key="RC_7_1_25004_Name" korean="엑자리움 섬유" />
+	<block key="RC_7_2_25001_Name" korean="하급 사냥꾼의 검" />
+	<block key="RC_7_2_25002_Name" korean="하급 사냥꾼의 단검" />
+	<block key="RC_7_2_25003_Name" korean="하급 사냥꾼의 양손 지팡이" />
+	<block key="RC_7_2_25004_Name" korean="하급 사냥꾼의 양손 검" />
+	<block key="RC_7_2_25005_Name" korean="하급 사냥꾼의 한손 지팡이" />
+	<block key="RC_7_2_25011_Name" korean="하급 사냥꾼의 석궁" />
+	<block key="RC_7_2_25012_Name" korean="하급 사냥꾼의 장창" />
+	<block key="RC_7_3_25011_Name" korean="하급 사냥꾼의 수호 투구" />
+	<block key="RC_7_3_25012_Name" korean="하급 사냥꾼의 수호 어깨" />
+	<block key="RC_7_3_25013_Name" korean="하급 사냥꾼의 수호 중갑" />
+	<block key="RC_7_3_25014_Name" korean="하급 사냥꾼의 수호 장갑" />
+	<block key="RC_7_3_25015_Name" korean="하급 사냥꾼의 수호 신발" />
+	<block key="RC_7_3_25021_Name" korean="하급 사냥꾼의 광폭 투구" />
+	<block key="RC_7_3_25022_Name" korean="하급 사냥꾼의 광폭 어깨" />
+	<block key="RC_7_3_25023_Name" korean="하급 사냥꾼의 광폭 중갑" />
+	<block key="RC_7_3_25024_Name" korean="하급 사냥꾼의 광폭 장갑" />
+	<block key="RC_7_3_25025_Name" korean="하급 사냥꾼의 광폭 신발" />
+	<block key="RC_7_3_25031_Name" korean="하급 사냥꾼의 그림자 투구" />
+	<block key="RC_7_3_25032_Name" korean="하급 사냥꾼의 그림자 어깨" />
+	<block key="RC_7_3_25033_Name" korean="하급 사냥꾼의 그림자 경갑" />
+	<block key="RC_7_3_25034_Name" korean="하급 사냥꾼의 그림자 장갑" />
+	<block key="RC_7_3_25035_Name" korean="하급 사냥꾼의 그림자 신발" />
+	<block key="RC_7_3_25041_Name" korean="하급 사냥꾼의 원소 모자" />
+	<block key="RC_7_3_25042_Name" korean="하급 사냥꾼의 원소 어깨" />
+	<block key="RC_7_3_25043_Name" korean="하급 사냥꾼의 원소 로브" />
+	<block key="RC_7_3_25044_Name" korean="하급 사냥꾼의 원소 장갑" />
+	<block key="RC_7_3_25045_Name" korean="하급 사냥꾼의 원소 신발" />
+	<block key="RC_7_3_25051_Name" korean="하급 사냥꾼의 신념 모자" />
+	<block key="RC_7_3_25052_Name" korean="하급 사냥꾼의 신념 어깨" />
+	<block key="RC_7_3_25053_Name" korean="하급 사냥꾼의 신념 로브" />
+	<block key="RC_7_3_25054_Name" korean="하급 사냥꾼의 신념 장갑" />
+	<block key="RC_7_3_25055_Name" korean="하급 사냥꾼의 신념 신발" />
+	<block key="RC_7_4_25001_Name" korean="하급 사냥꾼의 방패" />
+	<block key="RC_7_4_25002_Name" korean="하급 사냥꾼의 아티펙트" />
+	<block key="RC_7_5_25001_Name" korean="하급 사냥꾼의 목걸이" />
+	<block key="RC_7_5_25002_Name" korean="하급 사냥꾼의 반지" />
+	<block key="RC_7_2_30001_Name" korean="중급 사냥꾼의 검" />
+	<block key="RC_7_2_30002_Name" korean="중급 사냥꾼의 단검" />
+	<block key="RC_7_2_30003_Name" korean="중급 사냥꾼의 양손 지팡이" />
+	<block key="RC_7_2_30004_Name" korean="중급 사냥꾼의 양손 검" />
+	<block key="RC_7_2_30005_Name" korean="중급 사냥꾼의 한손 지팡이" />
+	<block key="RC_7_2_30011_Name" korean="중급 사냥꾼의 석궁" />
+	<block key="RC_7_2_30012_Name" korean="중급 사냥꾼의 장창" />
+	<block key="RC_7_3_30011_Name" korean="중급 사냥꾼의 수호 투구" />
+	<block key="RC_7_3_30012_Name" korean="중급 사냥꾼의 수호 어깨" />
+	<block key="RC_7_3_30013_Name" korean="중급 사냥꾼의 수호 중갑" />
+	<block key="RC_7_3_30014_Name" korean="중급 사냥꾼의 수호 장갑" />
+	<block key="RC_7_3_30015_Name" korean="중급 사냥꾼의 수호 신발" />
+	<block key="RC_7_3_30021_Name" korean="중급 사냥꾼의 광폭 투구" />
+	<block key="RC_7_3_30022_Name" korean="중급 사냥꾼의 광폭 어깨" />
+	<block key="RC_7_3_30023_Name" korean="중급 사냥꾼의 광폭 중갑" />
+	<block key="RC_7_3_30024_Name" korean="중급 사냥꾼의 광폭 장갑" />
+	<block key="RC_7_3_30025_Name" korean="중급 사냥꾼의 광폭 신발" />
+	<block key="RC_7_3_30031_Name" korean="중급 사냥꾼의 그림자 투구" />
+	<block key="RC_7_3_30032_Name" korean="중급 사냥꾼의 그림자 어깨" />
+	<block key="RC_7_3_30033_Name" korean="중급 사냥꾼의 그림자 경갑" />
+	<block key="RC_7_3_30034_Name" korean="중급 사냥꾼의 그림자 장갑" />
+	<block key="RC_7_3_30035_Name" korean="중급 사냥꾼의 그림자 신발" />
+	<block key="RC_7_3_30041_Name" korean="중급 사냥꾼의 원소 모자" />
+	<block key="RC_7_3_30042_Name" korean="중급 사냥꾼의 원소 어깨" />
+	<block key="RC_7_3_30043_Name" korean="중급 사냥꾼의 원소 로브" />
+	<block key="RC_7_3_30044_Name" korean="중급 사냥꾼의 원소 장갑" />
+	<block key="RC_7_3_30045_Name" korean="중급 사냥꾼의 원소 신발" />
+	<block key="RC_7_3_30051_Name" korean="중급 사냥꾼의 신념 모자" />
+	<block key="RC_7_3_30052_Name" korean="중급 사냥꾼의 신념 어깨" />
+	<block key="RC_7_3_30053_Name" korean="중급 사냥꾼의 신념 로브" />
+	<block key="RC_7_3_30054_Name" korean="중급 사냥꾼의 신념 장갑" />
+	<block key="RC_7_3_30055_Name" korean="중급 사냥꾼의 신념 신발" />
+	<block key="RC_7_4_30001_Name" korean="중급 사냥꾼의 방패" />
+	<block key="RC_7_4_30002_Name" korean="중급 사냥꾼의 아티펙트" />
+	<block key="RC_7_5_30001_Name" korean="중급 사냥꾼의 목걸이" />
+	<block key="RC_7_5_30002_Name" korean="중급 사냥꾼의 반지" />
+	<block key="RC_7_2_35001_Name" korean="상급 사냥꾼의 검" />
+	<block key="RC_7_2_35002_Name" korean="상급 사냥꾼의 단검" />
+	<block key="RC_7_2_35003_Name" korean="상급 사냥꾼의 양손 지팡이" />
+	<block key="RC_7_2_35004_Name" korean="상급 사냥꾼의 양손 검" />
+	<block key="RC_7_2_35005_Name" korean="상급 사냥꾼의 한손 지팡이" />
+	<block key="RC_7_2_35011_Name" korean="상급 사냥꾼의 석궁" />
+	<block key="RC_7_2_35012_Name" korean="상급 사냥꾼의 장창" />
+	<block key="RC_7_3_35011_Name" korean="상급 사냥꾼의 수호 투구" />
+	<block key="RC_7_3_35012_Name" korean="상급 사냥꾼의 수호 어깨" />
+	<block key="RC_7_3_35013_Name" korean="상급 사냥꾼의 수호 중갑" />
+	<block key="RC_7_3_35014_Name" korean="상급 사냥꾼의 수호 장갑" />
+	<block key="RC_7_3_35015_Name" korean="상급 사냥꾼의 수호 신발" />
+	<block key="RC_7_3_35021_Name" korean="상급 사냥꾼의 광폭 투구" />
+	<block key="RC_7_3_35022_Name" korean="상급 사냥꾼의 광폭 어깨" />
+	<block key="RC_7_3_35023_Name" korean="상급 사냥꾼의 광폭 중갑" />
+	<block key="RC_7_3_35024_Name" korean="상급 사냥꾼의 광폭 장갑" />
+	<block key="RC_7_3_35025_Name" korean="상급 사냥꾼의 광폭 신발" />
+	<block key="RC_7_3_35031_Name" korean="상급 사냥꾼의 그림자 투구" />
+	<block key="RC_7_3_35032_Name" korean="상급 사냥꾼의 그림자 어깨" />
+	<block key="RC_7_3_35033_Name" korean="상급 사냥꾼의 그림자 경갑" />
+	<block key="RC_7_3_35034_Name" korean="상급 사냥꾼의 그림자 장갑" />
+	<block key="RC_7_3_35035_Name" korean="상급 사냥꾼의 그림자 신발" />
+	<block key="RC_7_3_35041_Name" korean="상급 사냥꾼의 원소 모자" />
+	<block key="RC_7_3_35042_Name" korean="상급 사냥꾼의 원소 어깨" />
+	<block key="RC_7_3_35043_Name" korean="상급 사냥꾼의 원소 로브" />
+	<block key="RC_7_3_35044_Name" korean="상급 사냥꾼의 원소 장갑" />
+	<block key="RC_7_3_35045_Name" korean="상급 사냥꾼의 원소 신발" />
+	<block key="RC_7_3_35051_Name" korean="상급 사냥꾼의 신념 모자" />
+	<block key="RC_7_3_35052_Name" korean="상급 사냥꾼의 신념 어깨" />
+	<block key="RC_7_3_35053_Name" korean="상급 사냥꾼의 신념 로브" />
+	<block key="RC_7_3_35054_Name" korean="상급 사냥꾼의 신념 장갑" />
+	<block key="RC_7_3_35055_Name" korean="상급 사냥꾼의 신념 신발" />
+	<block key="RC_7_4_35001_Name" korean="상급 사냥꾼의 방패" />
+	<block key="RC_7_4_35002_Name" korean="상급 사냥꾼의 아티펙트" />
+	<block key="RC_7_5_35001_Name" korean="상급 사냥꾼의 목걸이" />
+	<block key="RC_7_5_35002_Name" korean="상급 사냥꾼의 반지" />
+	<block key="RC_7_2_40001_Name" korean="특급 사냥꾼의 검" />
+	<block key="RC_7_2_40002_Name" korean="특급 사냥꾼의 단검" />
+	<block key="RC_7_2_40003_Name" korean="특급 사냥꾼의 양손 지팡이" />
+	<block key="RC_7_2_40004_Name" korean="특급 사냥꾼의 양손 검" />
+	<block key="RC_7_2_40005_Name" korean="특급 사냥꾼의 한손 지팡이" />
+	<block key="RC_7_2_40011_Name" korean="특급 사냥꾼의 석궁" />
+	<block key="RC_7_2_40012_Name" korean="특급 사냥꾼의 장창" />
+	<block key="RC_7_3_40011_Name" korean="특급 사냥꾼의 수호 투구" />
+	<block key="RC_7_3_40012_Name" korean="특급 사냥꾼의 수호 어깨" />
+	<block key="RC_7_3_40013_Name" korean="특급 사냥꾼의 수호 중갑" />
+	<block key="RC_7_3_40014_Name" korean="특급 사냥꾼의 수호 장갑" />
+	<block key="RC_7_3_40015_Name" korean="특급 사냥꾼의 수호 신발" />
+	<block key="RC_7_3_40021_Name" korean="특급 사냥꾼의 광폭 투구" />
+	<block key="RC_7_3_40022_Name" korean="특급 사냥꾼의 광폭 어깨" />
+	<block key="RC_7_3_40023_Name" korean="특급 사냥꾼의 광폭 중갑" />
+	<block key="RC_7_3_40024_Name" korean="특급 사냥꾼의 광폭 장갑" />
+	<block key="RC_7_3_40025_Name" korean="특급 사냥꾼의 광폭 신발" />
+	<block key="RC_7_3_40031_Name" korean="특급 사냥꾼의 그림자 투구" />
+	<block key="RC_7_3_40032_Name" korean="특급 사냥꾼의 그림자 어깨" />
+	<block key="RC_7_3_40033_Name" korean="특급 사냥꾼의 그림자 경갑" />
+	<block key="RC_7_3_40034_Name" korean="특급 사냥꾼의 그림자 장갑" />
+	<block key="RC_7_3_40035_Name" korean="특급 사냥꾼의 그림자 신발" />
+	<block key="RC_7_3_40041_Name" korean="특급 사냥꾼의 원소 모자" />
+	<block key="RC_7_3_40042_Name" korean="특급 사냥꾼의 원소 어깨" />
+	<block key="RC_7_3_40043_Name" korean="특급 사냥꾼의 원소 로브" />
+	<block key="RC_7_3_40044_Name" korean="특급 사냥꾼의 원소 장갑" />
+	<block key="RC_7_3_40045_Name" korean="특급 사냥꾼의 원소 신발" />
+	<block key="RC_7_3_40051_Name" korean="특급 사냥꾼의 신념 모자" />
+	<block key="RC_7_3_40052_Name" korean="특급 사냥꾼의 신념 어깨" />
+	<block key="RC_7_3_40053_Name" korean="특급 사냥꾼의 신념 로브" />
+	<block key="RC_7_3_40054_Name" korean="특급 사냥꾼의 신념 장갑" />
+	<block key="RC_7_3_40055_Name" korean="특급 사냥꾼의 신념 신발" />
+	<block key="RC_7_4_40001_Name" korean="특급 사냥꾼의 방패" />
+	<block key="RC_7_4_40002_Name" korean="특급 사냥꾼의 아티펙트" />
+	<block key="RC_7_5_40001_Name" korean="특급 사냥꾼의 목걸이" />
+	<block key="RC_7_5_40002_Name" korean="특급 사냥꾼의 반지" />
+	<block key="RC_2_3_13033_1_Name" korean="타락한 추종자의 수호 투구" />
+	<block key="RC_2_3_13033_2_Name" korean="타락한 추종자의 수호 어깨" />
+	<block key="RC_2_3_13033_3_Name" korean="타락한 추종자의 수호 중갑" />
+	<block key="RC_2_3_13033_4_Name" korean="타락한 추종자의 수호 장갑" />
+	<block key="RC_2_3_13033_5_Name" korean="타락한 추종자의 수호 신발" />
+	<block key="RC_2_3_13034_1_Name" korean="타락한 추종자의 광폭 투구" />
+	<block key="RC_2_3_13034_2_Name" korean="타락한 추종자의 광폭 어깨" />
+	<block key="RC_2_3_13034_3_Name" korean="타락한 추종자의 광폭 중갑" />
+	<block key="RC_2_3_13034_4_Name" korean="타락한 추종자의 광폭 장갑" />
+	<block key="RC_2_3_13034_5_Name" korean="타락한 추종자의 광폭 신발" />
+	<block key="RC_2_3_23033_1_Name" korean="타락한 추종자의 그림자 투구" />
+	<block key="RC_2_3_23033_2_Name" korean="타락한 추종자의 그림자 어깨" />
+	<block key="RC_2_3_23033_3_Name" korean="타락한 추종자의 그림자 경갑" />
+	<block key="RC_2_3_23033_4_Name" korean="타락한 추종자의 그림자 장갑" />
+	<block key="RC_2_3_23033_5_Name" korean="타락한 추종자의 그림자 신발" />
+	<block key="RC_2_3_33033_1_Name" korean="타락한 추종자의 원소 투구" />
+	<block key="RC_2_3_33033_2_Name" korean="타락한 추종자의 원소 어깨" />
+	<block key="RC_2_3_33033_3_Name" korean="타락한 추종자의 원소 로브" />
+	<block key="RC_2_3_33033_4_Name" korean="타락한 추종자의 원소 장갑" />
+	<block key="RC_2_3_33033_5_Name" korean="타락한 추종자의 원소 신발" />
+	<block key="RC_2_3_33034_1_Name" korean="타락한 추종자의 신념 투구" />
+	<block key="RC_2_3_33034_2_Name" korean="타락한 추종자의 신념 어깨" />
+	<block key="RC_2_3_33034_3_Name" korean="타락한 추종자의 신념 로브" />
+	<block key="RC_2_3_33034_4_Name" korean="타락한 추종자의 신념 장갑" />
+	<block key="RC_2_3_33034_5_Name" korean="타락한 추종자의 신념 신발" />
+	<block key="RC_2_3_13533_1_Name" korean="얼음 군단장의 수호 투구" />
+	<block key="RC_2_3_13533_2_Name" korean="얼음 군단장의 수호 어깨" />
+	<block key="RC_2_3_13533_3_Name" korean="얼음 군단장의 수호 중갑" />
+	<block key="RC_2_3_13533_4_Name" korean="얼음 군단장의 수호 장갑" />
+	<block key="RC_2_3_13533_5_Name" korean="얼음 군단장의 수호 신발" />
+	<block key="RC_2_3_13534_1_Name" korean="얼음 군단장의 광폭 투구" />
+	<block key="RC_2_3_13534_2_Name" korean="얼음 군단장의 광폭 어깨" />
+	<block key="RC_2_3_13534_3_Name" korean="얼음 군단장의 광폭 중갑" />
+	<block key="RC_2_3_13534_4_Name" korean="얼음 군단장의 광폭 장갑" />
+	<block key="RC_2_3_13534_5_Name" korean="얼음 군단장의 광폭 신발" />
+	<block key="RC_2_3_23533_1_Name" korean="얼음 군단장의 그림자 투구" />
+	<block key="RC_2_3_23533_2_Name" korean="얼음 군단장의 그림자 어깨" />
+	<block key="RC_2_3_23533_3_Name" korean="얼음 군단장의 그림자 경갑" />
+	<block key="RC_2_3_23533_4_Name" korean="얼음 군단장의 그림자 장갑" />
+	<block key="RC_2_3_23533_5_Name" korean="얼음 군단장의 그림자 신발" />
+	<block key="RC_2_3_33533_1_Name" korean="얼음 군단장의 원소 투구" />
+	<block key="RC_2_3_33533_2_Name" korean="얼음 군단장의 원소 어깨" />
+	<block key="RC_2_3_33533_3_Name" korean="얼음 군단장의 원소 로브" />
+	<block key="RC_2_3_33533_4_Name" korean="얼음 군단장의 원소 장갑" />
+	<block key="RC_2_3_33533_5_Name" korean="얼음 군단장의 원소 신발" />
+	<block key="RC_2_3_33534_1_Name" korean="얼음 군단장의 신념 투구" />
+	<block key="RC_2_3_33534_2_Name" korean="얼음 군단장의 신념 어깨" />
+	<block key="RC_2_3_33534_3_Name" korean="얼음 군단장의 신념 로브" />
+	<block key="RC_2_3_33534_4_Name" korean="얼음 군단장의 신념 장갑" />
+	<block key="RC_2_3_33534_5_Name" korean="얼음 군단장의 신념 신발" />
+	<block key="RC_3_1_61024_Name" korean="거품비늘" />
+	<block key="RC_3_1_61025_Name" korean="맹독 해독제" />
+	<block key="RC_3_1_61026_Name" korean="엑자란 징표" />
+	<block key="RC_6_1_41027_Name" korean="불꽃 바람 비약" />
+	<block key="RC_6_1_41027_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_1_41028_Name" korean="불새의 기운" />
+	<block key="RC_6_1_41028_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_1_41029_Name" korean="사일런스 마법서" />
+	<block key="RC_6_1_41029_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_1_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_2_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_1_11011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_1_21011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_1_31011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_1_41011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_1_51011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_2_12011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_2_22011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_2_32011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_2_42011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_2_52011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_2_12021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_2_22021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_2_32021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_2_42021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_2_52021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_13011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_23011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_33011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_43011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_53011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_13021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_23021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_33021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_43021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_53021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_13031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_23031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_33031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_43031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_3_53031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_10011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_10011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_10011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11011_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11011_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11011_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11012_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11012_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11012_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_21011_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_21011_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_21011_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31011_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31011_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31011_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31012_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31012_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31012_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_41011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_51011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12011_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12011_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12011_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12011_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12012_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12012_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12012_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12012_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22011_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22011_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22011_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22011_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32011_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32011_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32011_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32011_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32012_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32012_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32012_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32012_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_42011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_52011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12021_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12021_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12021_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12021_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12022_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12022_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12022_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12022_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22021_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22021_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22021_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22021_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32021_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32021_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32021_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32021_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32022_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32022_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32022_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32022_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_42021_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_52021_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13011_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13011_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13011_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13011_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13012_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13012_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13012_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13012_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13012_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23011_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23011_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23011_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23011_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33011_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33011_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33011_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33011_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33012_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33012_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33012_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33012_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33012_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_43011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_53011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13021_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13021_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13021_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13021_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13021_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13022_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13022_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13022_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13022_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13022_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23021_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23021_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23021_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23021_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23021_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33021_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33021_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33021_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33021_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33021_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33022_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33022_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33022_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33022_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33022_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_43021_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_53021_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13031_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13031_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13031_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13031_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13031_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13032_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13032_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13032_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13032_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13032_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23031_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23031_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23031_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23031_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23031_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33031_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33031_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33031_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33031_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33031_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33032_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33032_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33032_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33032_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33032_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_43031_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_53031_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_11011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_21011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_31011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_41011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_2_12011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_2_22011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_2_32011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_2_42011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_2_12021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_2_22021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_2_32021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_2_42021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_13011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_23011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_33011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_43011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_53011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_13021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_23021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_33021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_43021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_13031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_23031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_33031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_43031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_1_11011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_1_21011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_1_31011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_1_31012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_12011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_22011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_32011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_32012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_12021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_22021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_32021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_32022_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_13011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_23011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_33011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_33012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_13021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_23021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_33021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_33022_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_13031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_23031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_33031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_33032_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_1_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_2_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_1_11011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_1_21011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_1_31011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_1_41011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_2_12011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_2_22011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_2_32011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_2_42011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_2_12021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_2_22021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_2_32021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_2_42021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_13011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_23011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_33011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_43011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_13021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_23021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_33021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_43021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_13031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_23031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_33031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_3_43031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_1_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_3_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_1_11011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_1_21011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_1_31011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_12011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_22011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_32011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_12021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_22021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_32021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_3_13011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_3_23011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_3_33011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_3_13021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_3_23021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_3_33021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_3_13031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_3_23031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_3_33031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_1_41021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_1_41022_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_1_41023_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_61021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11031_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11031_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11031_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11031_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11032_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11032_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11032_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11032_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_21031_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_21031_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_21031_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_21031_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31031_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31031_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31031_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31031_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31032_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31032_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31032_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31032_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11033_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11033_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11033_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11033_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11034_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11034_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11034_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_11034_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_21033_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_21033_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_21033_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_21033_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31033_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31033_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31033_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31033_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31034_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31034_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31034_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_1_31034_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12031_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12031_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12031_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12031_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12031_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12032_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12032_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12032_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12032_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_12032_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22031_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22031_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22031_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22031_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_22031_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32031_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32031_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32031_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32031_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32031_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32032_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32032_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32032_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32032_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_2_32032_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_1_51011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_1_51012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_1_51013_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_1_51014_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_1_51015_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_61022_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_61023_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_1_41024_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_1_41025_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_1_41026_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_1_25001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_1_25002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_1_25003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_1_25004_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_25001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_25002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_25003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_25004_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_25005_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_25011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_25012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25013_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25014_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25015_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25022_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25023_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25024_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25025_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25032_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25033_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25034_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25035_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25041_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25042_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25043_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25044_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25045_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25051_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25052_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25053_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25054_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_25055_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_4_25001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_4_25002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_25001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_25002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_30001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_30002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_30003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_30004_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_30005_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_30011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_30012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30013_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30014_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30015_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30022_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30023_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30024_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30025_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30032_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30033_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30034_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30035_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30041_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30042_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30043_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30044_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30045_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30051_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30052_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30053_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30054_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_30055_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_4_30001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_4_30002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_30001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_30002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_35001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_35002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_35003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_35004_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_35005_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_35011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_35012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35013_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35014_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35015_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35022_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35023_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35024_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35025_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35032_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35033_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35034_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35035_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35041_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35042_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35043_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35044_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35045_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35051_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35052_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35053_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35054_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_35055_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_4_35001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_4_35002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_35001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_35002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_40001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_40002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_40003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_40004_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_40005_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_40011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_40012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40013_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40014_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40015_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40022_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40023_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40024_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40025_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40032_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40033_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40034_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40035_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40041_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40042_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40043_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40044_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40045_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40051_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40052_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40053_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40054_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_40055_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_4_40001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_4_40002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_40001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_40002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13033_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13033_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13033_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13033_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13033_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13034_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13034_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13034_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13034_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13034_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23033_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23033_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23033_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23033_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23033_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33033_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33033_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33033_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33033_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33033_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33034_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33034_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33034_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33034_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33034_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13533_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13533_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13533_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13533_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13533_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13534_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13534_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13534_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13534_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_13534_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23533_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23533_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23533_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23533_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_23533_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33533_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33533_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33533_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33533_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33533_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33534_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33534_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33534_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33534_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_3_33534_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_61024_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_61025_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_61026_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_10511_Name" korean="5레벨 일반 생명력 비약" />
+	<block key="RC_3_1_11511_Name" korean="15레벨 일반 생명력 비약" />
+	<block key="RC_3_2_12511_Name" korean="25레벨 일반 생명력 비약" />
+	<block key="RC_3_2_20511_Name" korean="5레벨 일반 마나 비약" />
+	<block key="RC_3_3_21511_Name" korean="15레벨 일반 마나 비약" />
+	<block key="RC_3_3_22511_Name" korean="25레벨 일반 마나 비약" />
+	<block key="RC_4_1_30511_Name" korean="질긴 통구이" />
+	<block key="RC_4_1_30512_Name" korean="질긴 고기 스프" />
+	<block key="RC_4_2_31511_Name" korean="평범한 통구이" />
+	<block key="RC_4_2_31512_Name" korean="평범한 고기 스프" />
+	<block key="RC_4_3_32511_Name" korean="쫄깃한 통구이" />
+	<block key="RC_4_3_32512_Name" korean="쫄깃한 고기 스프" />
+	<block key="RC_3_1_50511_Name" korean="수제 얇은 무명 붕대" />
+	<block key="RC_3_1_51011_Name" korean="수제 무명 붕대" />
+	<block key="RC_3_1_51511_Name" korean="수제 튼튼한 무명 붕대" />
+	<block key="RC_3_1_52011_Name" korean="수제 오르가 깃든 무명 붕대" />
+	<block key="RC_3_1_52511_Name" korean="수제 얇은 페르트 붕대" />
+	<block key="RC_3_1_53011_Name" korean="수제 페르트 붕대" />
+	<block key="RC_3_1_53511_Name" korean="수제 튼튼한 페르트 붕대" />
+	<block key="RC_3_1_54011_Name" korean="수제 오르가 깃든 페르트 붕대" />
+	<block key="RC_3_1_54511_Name" korean="수제 얇은 스웨어 붕대" />
+	<block key="RC_3_1_55011_Name" korean="수제 스웨어 붕대" />
+	<block key="RC_3_1_55511_Name" korean="수제 튼튼한 스웨어 붕대" />
+	<block key="RC_3_1_56011_Name" korean="수제 오르가 깃든 스웨어 붕대" />
+	<block key="RC_3_1_56511_Name" korean="수제 얇은 마논 붕대" />
+	<block key="RC_3_1_57011_Name" korean="수제 마논 붕대" />
+	<block key="RC_3_1_57511_Name" korean="수제 튼튼한 마논 붕대" />
+	<block key="RC_3_1_60511_Name" korean="최하급 힘 증가 물약" />
+	<block key="RC_3_1_60512_Name" korean="하급 힘 증가 물약" />
+	<block key="RC_3_1_60513_Name" korean="중급 힘 증가 물약" />
+	<block key="RC_3_1_60514_Name" korean="고급 힘 증가 물약" />
+	<block key="RC_3_1_60515_Name" korean="최고급 힘 증가 물약" />
+	<block key="RC_3_1_60521_Name" korean="최하급 민첩 증가 물약" />
+	<block key="RC_3_1_60522_Name" korean="하급 민첩 증가 물약" />
+	<block key="RC_3_1_60523_Name" korean="중급 민첩 증가 물약" />
+	<block key="RC_3_1_60524_Name" korean="고급 민첩 증가 물약" />
+	<block key="RC_3_1_60525_Name" korean="최고급 민첩 증가 물약" />
+	<block key="RC_3_1_60531_Name" korean="최하급 지능 증가 물약" />
+	<block key="RC_3_1_60532_Name" korean="하급 지능 증가 물약" />
+	<block key="RC_3_1_60533_Name" korean="중급 지능 증가 물약" />
+	<block key="RC_3_1_60534_Name" korean="고급 지능 증가 물약" />
+	<block key="RC_3_1_60535_Name" korean="최고급 지능 증가 물약" />
+	<block key="RC_3_1_60541_Name" korean="최하급 체력 증가 물약" />
+	<block key="RC_3_1_60542_Name" korean="하급 체력 증가 물약" />
+	<block key="RC_3_1_60543_Name" korean="중급 체력 증가 물약" />
+	<block key="RC_3_1_60544_Name" korean="고급 체력 증가 물약" />
+	<block key="RC_3_1_60545_Name" korean="최고급 체력 증가 물약" />
+	<block key="RC_3_1_60551_Name" korean="최하급 정신력 증가 물약" />
+	<block key="RC_3_1_60552_Name" korean="하급 정신력 증가 물약" />
+	<block key="RC_3_1_60553_Name" korean="중급 정신력 증가 물약" />
+	<block key="RC_3_1_60554_Name" korean="고급 정신력 증가 물약" />
+	<block key="RC_3_1_60555_Name" korean="최고급 정신력 증가 물약" />
+	<block key="RC_3_1_60561_Name" korean="최하급 무기치명타 증가 물약" />
+	<block key="RC_3_1_60562_Name" korean="하급 무기치명타 증가 물약" />
+	<block key="RC_3_1_60563_Name" korean="중급 무기치명타 증가 물약" />
+	<block key="RC_3_1_60564_Name" korean="고급 무기치명타 증가 물약" />
+	<block key="RC_3_1_60565_Name" korean="최고급 무기치명타 증가 물약" />
+	<block key="RC_3_1_60571_Name" korean="최하급 마법치명타 증가 물약" />
+	<block key="RC_3_1_60572_Name" korean="하급 마법치명타 증가 물약" />
+	<block key="RC_3_1_60573_Name" korean="중급 마법치명타 증가 물약" />
+	<block key="RC_3_1_60574_Name" korean="고급 마법치명타 증가 물약" />
+	<block key="RC_3_1_60575_Name" korean="최고급 마법치명타 증가 물약" />
+	<block key="RC_3_1_71011_Name" korean="기력 회복 물약" />
+	<block key="RC_3_1_71012_Name" korean="고농축 기력 회복 물약" />
+	<block key="RC_3_1_71013_Name" korean="정제된 기력 회복 물약" />
+	<block key="RC_3_1_10511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_11511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_2_12511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_2_20511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_21511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_3_22511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_1_30511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_1_30512_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_31511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_31512_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_32511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_32512_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_50511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_51011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_51511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_52011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_52511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_53011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_53511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_54011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_54511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_55011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_55511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_56011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_56511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_57011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_57511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60512_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60513_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60514_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60515_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60521_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60522_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60523_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60524_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60525_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60531_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60532_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60533_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60534_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60535_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60541_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60542_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60543_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60544_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60545_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60551_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60552_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60553_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60554_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60555_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60561_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60562_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60563_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60564_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60565_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60571_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60572_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60573_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60574_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_60575_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_71011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_71012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_71013_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_71014_Name" korean="기사단의 기력 회복 물약" />
+	<block key="RC_3_1_71014_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_71015_Name" korean="서리 봉쇄 룬" />
+	<block key="RC_3_1_71015_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_1_25001_Name" korean="하급 사냥꾼의 발톱" />
+	<block key="RC_8_1_25002_Name" korean="하급 사냥꾼의 안장" />
+	<block key="RC_8_1_25003_Name" korean="하급 사냥꾼의 영혼석" />
+	<block key="RC_8_2_30001_Name" korean="중급 사냥꾼의 발톱" />
+	<block key="RC_8_2_30002_Name" korean="중급 사냥꾼의 안장" />
+	<block key="RC_8_2_30003_Name" korean="중급 사냥꾼의 영혼석" />
+	<block key="RC_8_3_35001_Name" korean="상급 사냥꾼의 발톱" />
+	<block key="RC_8_3_35002_Name" korean="상급 사냥꾼의 안장" />
+	<block key="RC_8_3_35003_Name" korean="상급 사냥꾼의 영혼석" />
+	<block key="RC_8_4_40001_Name" korean="특급 사냥꾼의 발톱" />
+	<block key="RC_8_4_40002_Name" korean="특급 사냥꾼의 안장" />
+	<block key="RC_8_4_40003_Name" korean="특급 사냥꾼의 영혼석" />
+	<block key="RC_8_1_25001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_1_25002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_1_25003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_2_30001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_2_30002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_2_30003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_3_35001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_3_35002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_3_35003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_4_40001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_4_40002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_4_40003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_71016_Name" korean="기력 회복 비약 I" />
+	<block key="RC_3_1_71017_Name" korean="기력 회복 비약 II" />
+	<block key="RC_3_1_71018_Name" korean="기력 회복 비약 III" />
+	<block key="RC_3_1_71019_Name" korean="기력 회복 비약 IV" />
+	<block key="RC_3_1_71020_Name" korean="기력 회복 비약 V" />
+	<block key="RC_3_1_71021_Name" korean="기력 회복 비약 VI" />
+	<block key="RC_3_1_71016_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_71017_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_71018_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_71019_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_71020_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_71021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_3_00001_Name" korean="데비의 향수" />
+	<block key="RC_6_2_00001_Name" korean="아벤느의 징표" />
+	<block key="RC_6_2_00002_Name" korean="난폭한 블래크의 징표" />
+	<block key="RC_6_2_00003_Name" korean="로도스의 징표" />
+	<block key="RC_6_2_00004_Name" korean="레이도스의 징표" />
+	<block key="RC_6_2_00005_Name" korean="마룡 스트라이거의 징표" />
+	<block key="RC_6_2_00006_Name" korean="백색의 트로이의 징표" />
+	<block key="RC_6_3_00003_Name" korean="폭군 카라스의 징표" />
+	<block key="RC_6_2_00007_Name" korean="그로스의 징표" />
+	<block key="RC_6_2_00008_Name" korean="아마란스의 징표" />
+	<block key="RC_6_3_00001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00004_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00005_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00006_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_3_00003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00007_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00008_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00009_Name" korean="알비노 아벤느의 징표" />
+	<block key="RC_6_2_00010_Name" korean="이보크의 징표" />
+	<block key="RC_6_2_00011_Name" korean="푸른색 사우르스의 징표" />
+	<block key="RC_6_2_00012_Name" korean="공역의 날개 페무토의 징표" />
+	<block key="RC_6_2_00013_Name" korean="푸른 날개 블레이드의 징표" />
+	<block key="RC_6_2_00009_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00010_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00013_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00014_Name" korean="한기서린 구슬" />
+	<block key="RC_6_2_00015_Name" korean="늑대왕 라샤카의 징표" />
+	<block key="RC_6_2_00016_Name" korean="아이샤의 기운" />
+	<block key="RC_6_2_00017_Name" korean="불사의 장막" />
+	<block key="RC_6_2_00018_Name" korean="아슈람의 인장" />
+	<block key="RC_6_2_00014_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00015_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00016_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00017_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00018_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00019_Name" korean="궁극의 드라우프의 징표" />
+	<block key="RC_6_2_00020_Name" korean="광룡 파라가스의 징표" />
+	<block key="RC_6_2_00021_Name" korean="흑룡 발라크의 징표" />
+	<block key="RC_6_2_00022_Name" korean="달빛 루시퍼트의 징표" />
+	<block key="RC_6_2_00023_Name" korean="암흑마룡 카라샤의 징표" />
+	<block key="RC_6_2_00019_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00020_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00022_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00023_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00024_name" korean="검은 뿔 다이노쿠 징표" />
+	<block key="RC_6_2_00025_name" korean="불굴의 라하브 징표" />
+	<block key="RC_6_2_00026_name" korean="창공의 윈드러너의 징표" />
+	<block key="RC_6_2_00024_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00025_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00026_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00027_name" korean="혹한의 검" />
+	<block key="RC_6_2_00028_name" korean="혹한의 단검" />
+	<block key="RC_6_2_00029_name" korean="혹한의 양손검" />
+	<block key="RC_6_2_00030_name" korean="혹한의 한손지팡이" />
+	<block key="RC_6_2_00031_name" korean="혹한의 양손지팡이" />
+	<block key="RC_6_2_00032_name" korean="혹한의 방패" />
+	<block key="RC_6_2_00033_name" korean="혹한의 아티펙트" />
+	<block key="RC_6_2_00034_name" korean="타락한 추종자의 검" />
+	<block key="RC_6_2_00035_name" korean="타락한 추종자의 단검" />
+	<block key="RC_6_2_00036_name" korean="타락한 추종자의 양손검" />
+	<block key="RC_6_2_00037_name" korean="타락한 추종자의 한손지팡이" />
+	<block key="RC_6_2_00038_name" korean="타락한 추종자의 양손지팡이" />
+	<block key="RC_6_2_00039_name" korean="타락한 추종자의 방패" />
+	<block key="RC_6_2_00040_name" korean="타락한 추종자의 아티펙트" />
+	<block key="RC_6_2_00027_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00028_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00029_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00030_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00031_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00032_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00033_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00034_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00035_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00036_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00037_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00038_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00039_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00040_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00041_Name" korean="냉혹한 무파사 징표" />
+	<block key="RC_6_2_00042_Name" korean="암흑 날개 카마라 징표" />
+	<block key="RC_6_2_00043_name" korean="천둥 갑옷 제피로스 징표" />
+	<block key="RC_6_2_00041_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00042_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00043_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_10001_name" korean="강화된 미스릴 주괴" />
+	<block key="RC_1_4_11011_name" korean="빛나는 강화 미스릴 한손검" />
+	<block key="RC_1_4_21011_name" korean="빛나는 강화 미스릴 양손검" />
+	<block key="RC_1_4_31011_name" korean="빛나는 강화 미스릴 단검" />
+	<block key="RC_1_4_41011_name" korean="빛나는 강화 미스릴 한손지팡이" />
+	<block key="RC_1_4_51011_name" korean="빛나는 강화 미스릴 양손지팡이" />
+	<block key="RC_1_4_61011_name" korean="빛나는 강화 미스릴 석궁" />
+	<block key="RC_1_4_71011_name" korean="빛나는 강화 미스릴 장창" />
+	<block key="RC_1_4_10002_name" korean="투랄리움 주괴" />
+	<block key="RC_1_4_11012_name" korean="빛나는 투랄리움 한손검" />
+	<block key="RC_1_4_21012_name" korean="빛나는 투랄리움 양손검" />
+	<block key="RC_1_4_31012_name" korean="빛나는 투랄리움 단검" />
+	<block key="RC_1_4_41012_name" korean="빛나는 투랄리움 한손지팡이" />
+	<block key="RC_1_4_51012_name" korean="빛나는 투랄리움 양손지팡이" />
+	<block key="RC_1_4_61012_name" korean="빛나는 투랄리움 석궁" />
+	<block key="RC_1_4_71012_name" korean="빛나는 투랄리움 장창" />
+	<block key="RC_2_4_10001_name" korean="강화된 미스릴 합금" />
+	<block key="RC_2_4_10002_name" korean="강화된 두꺼운 천" />
+	<block key="RC_2_4_13011_1_name" korean="빛나는 강화 미스릴 수호 투구" />
+	<block key="RC_2_4_13011_2_name" korean="빛나는 강화 미스릴 수호 어깨" />
+	<block key="RC_2_4_13011_3_name" korean="빛나는 강화 미스릴 수호 중갑" />
+	<block key="RC_2_4_13011_4_name" korean="빛나는 강화 미스릴 수호 장갑" />
+	<block key="RC_2_4_13011_5_name" korean="빛나는 강화 미스릴 수호 신발" />
+	<block key="RC_2_4_13012_1_name" korean="빛나는 강화 미스릴 광폭 투구" />
+	<block key="RC_2_4_13012_2_name" korean="빛나는 강화 미스릴 광폭 어깨" />
+	<block key="RC_2_4_13012_3_name" korean="빛나는 강화 미스릴 광폭 중갑" />
+	<block key="RC_2_4_13012_4_name" korean="빛나는 강화 미스릴 광폭 장갑" />
+	<block key="RC_2_4_13012_5_name" korean="빛나는 강화 미스릴 광폭 신발" />
+	<block key="RC_2_4_23011_1_name" korean="빛나는 강화 미스릴 그림자 투구" />
+	<block key="RC_2_4_23011_2_name" korean="빛나는 강화 미스릴 그림자 어깨" />
+	<block key="RC_2_4_23011_3_name" korean="빛나는 강화 미스릴 그림자 경갑" />
+	<block key="RC_2_4_23011_4_name" korean="빛나는 강화 미스릴 그림자 장갑" />
+	<block key="RC_2_4_23011_5_name" korean="빛나는 강화 미스릴 그림자 신발" />
+	<block key="RC_2_4_33011_1_name" korean="빛나는 강화 두꺼운 원소 모자" />
+	<block key="RC_2_4_33011_2_name" korean="빛나는 강화 두꺼운 원소 어깨" />
+	<block key="RC_2_4_33011_3_name" korean="빛나는 강화 두꺼운 원소 로브" />
+	<block key="RC_2_4_33011_4_name" korean="빛나는 강화 두꺼운 원소 장갑" />
+	<block key="RC_2_4_33011_5_name" korean="빛나는 강화 두꺼운 원소 신발" />
+	<block key="RC_2_4_33012_1_name" korean="빛나는 강화 두꺼운 신념 모자" />
+	<block key="RC_2_4_33012_2_name" korean="빛나는 강화 두꺼운 신념 어깨" />
+	<block key="RC_2_4_33012_3_name" korean="빛나는 강화 두꺼운 신념 로브" />
+	<block key="RC_2_4_33012_4_name" korean="빛나는 강화 두꺼운 신념 장갑" />
+	<block key="RC_2_4_33012_5_name" korean="빛나는 강화 두꺼운 신념 신발" />
+	<block key="RC_2_4_43011_1_name" korean="빛나는 강화 미스릴 방패" />
+	<block key="RC_2_4_53011_1_name" korean="빛나는 강화 미스릴 아티펙트" />
+	<block key="RC_2_4_10003_name" korean="투랄리움 합금" />
+	<block key="RC_2_4_10004_name" korean="부드러운 천" />
+	<block key="RC_2_4_13013_1_name" korean="빛나는 투랄리움 수호 투구" />
+	<block key="RC_2_4_13013_2_name" korean="빛나는 투랄리움 수호 어깨" />
+	<block key="RC_2_4_13013_3_name" korean="빛나는 투랄리움 수호 중갑" />
+	<block key="RC_2_4_13013_4_name" korean="빛나는 투랄리움 수호 장갑" />
+	<block key="RC_2_4_13013_5_name" korean="빛나는 투랄리움 수호 신발" />
+	<block key="RC_2_4_13014_1_name" korean="빛나는 투랄리움 광폭 투구" />
+	<block key="RC_2_4_13014_2_name" korean="빛나는 투랄리움 광폭 어깨" />
+	<block key="RC_2_4_13014_3_name" korean="빛나는 투랄리움 광폭 중갑" />
+	<block key="RC_2_4_13014_4_name" korean="빛나는 투랄리움 광폭 장갑" />
+	<block key="RC_2_4_13014_5_name" korean="빛나는 투랄리움 광폭 신발" />
+	<block key="RC_2_4_23012_1_name" korean="빛나는 투랄리움 그림자 투구" />
+	<block key="RC_2_4_23012_2_name" korean="빛나는 투랄리움 그림자 어깨" />
+	<block key="RC_2_4_23012_3_name" korean="빛나는 투랄리움 그림자 경갑" />
+	<block key="RC_2_4_23012_4_name" korean="빛나는 투랄리움 그림자 장갑" />
+	<block key="RC_2_4_23012_5_name" korean="빛나는 투랄리움 그림자 신발" />
+	<block key="RC_2_4_33013_1_name" korean="빛나는 부드러운 원소 모자" />
+	<block key="RC_2_4_33013_2_name" korean="빛나는 부드러운 원소 어깨" />
+	<block key="RC_2_4_33013_3_name" korean="빛나는 부드러운 원소 로브" />
+	<block key="RC_2_4_33013_4_name" korean="빛나는 부드러운 원소 장갑" />
+	<block key="RC_2_4_33013_5_name" korean="빛나는 부드러운 원소 신발" />
+	<block key="RC_2_4_33014_1_name" korean="빛나는 부드러운 신념 모자" />
+	<block key="RC_2_4_33014_2_name" korean="빛나는 부드러운 신념 어깨" />
+	<block key="RC_2_4_33014_3_name" korean="빛나는 부드러운 신념 로브" />
+	<block key="RC_2_4_33014_4_name" korean="빛나는 부드러운 신념 장갑" />
+	<block key="RC_2_4_33014_5_name" korean="빛나는 부드러운 신념 신발" />
+	<block key="RC_2_4_43012_1_name" korean="빛나는 투랄리움 방패" />
+	<block key="RC_2_4_53012_1_name" korean="빛나는 투랄리움 아티펙트" />
+	<block key="RC_5_4_10001_name" korean="정교한 자수정" />
+	<block key="RC_5_4_13531_name" korean="빛나는 정교한 자수정 목걸이" />
+	<block key="RC_5_4_13532_name" korean="빛나는 정교한 자수정 반지" />
+	<block key="RC_5_4_10002_name" korean="세공된 사파이어" />
+	<block key="RC_5_4_14031_name" korean="빛나는 사파이어 목걸이" />
+	<block key="RC_5_4_14032_name" korean="빛나는 사파이어 반지" />
+	<block key="RC_6_4_10001_name" korean="농축된 평범한 정령수" />
+	<block key="RC_6_4_13531_name" korean="희귀한 신성한 발톱" />
+	<block key="RC_6_4_23531_name" korean="희귀한 신성한 안장" />
+	<block key="RC_6_4_33531_name" korean="희귀한 신성한 영혼석" />
+	<block key="RC_6_4_10002_name" korean="강한 정령수" />
+	<block key="RC_6_4_14031_name" korean="희귀한 악몽의 발톱" />
+	<block key="RC_6_4_24031_name" korean="희귀한 악몽의 안장" />
+	<block key="RC_6_4_34031_name" korean="희귀한 악몽의 영혼석" />
+	<block key="RC_1_4_10001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_11011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_21011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_31011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_41011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_51011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_61011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_71011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_10002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_11012_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_21012_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_31012_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_41012_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_51012_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_61012_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_71012_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_10001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_10002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13011_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13011_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13011_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13011_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13011_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13012_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13012_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13012_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13012_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13012_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_23011_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_23011_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_23011_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_23011_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_23011_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33011_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33011_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33011_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33011_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33011_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33012_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33012_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33012_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33012_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33012_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_43011_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_53011_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_10003_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_10004_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13013_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13013_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13013_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13013_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13013_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13014_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13014_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13014_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13014_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_13014_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_23012_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_23012_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_23012_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_23012_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_23012_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33013_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33013_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33013_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33013_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33013_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33014_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33014_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33014_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33014_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_33014_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_43012_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_53012_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_10001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_13531_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_13532_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_10002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_14031_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_14032_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_4_10001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_4_13531_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_4_23531_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_4_33531_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_4_10002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_4_14031_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_4_24031_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_4_34031_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_1_13501_name" korean="35레벨 일반 생명력 비약" />
+	<block key="RC_4_1_14001_name" korean="40레벨 일반 생명력 비약" />
+	<block key="RC_4_1_23501_name" korean="35레벨 일반 마나 비약" />
+	<block key="RC_4_1_24001_name" korean="40레벨 일반 마나 비약" />
+	<block key="RC_3_1_71022_name" korean="기력 회복 비약 VII" />
+	<block key="RC_4_2_13501_name" korean="35레벨 정예 생명력 비약" />
+	<block key="RC_4_2_23501_name" korean="35레벨 정예 마나 비약" />
+	<block key="RC_4_3_13501_name" korean="35레벨 영웅 생명력 비약" />
+	<block key="RC_4_3_23501_name" korean="35레벨 영웅 마나 비약" />
+	<block key="RC_4_2_14001_name" korean="40레벨 정예 생명력 비약" />
+	<block key="RC_4_2_24001_name" korean="40레벨 정예 마나 비약" />
+	<block key="RC_4_3_14001_name" korean="40레벨 영웅 생명력 비약" />
+	<block key="RC_4_4_24001_name" korean="40레벨 영웅 마나 비약" />
+	<block key="RC_4_4_33511_name" korean="담백한 통구이" />
+	<block key="RC_4_4_33512_name" korean="담백한 고기 스프" />
+	<block key="RC_4_4_34011_name" korean="달콤하고 담백한 통구이" />
+	<block key="RC_4_4_34012_name" korean="달콤하고 담백한 고기 스프" />
+	<block key="RC_4_1_13501_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_1_14001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_1_23501_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_1_24001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_1_71022_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_13501_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_23501_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_13501_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_23501_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_14001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_2_24001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_3_14001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_4_24001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_4_33511_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_4_33512_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_4_34011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_4_34012_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_14011_name" korean="총사령관의 한손검" />
+	<block key="RC_1_4_24011_name" korean="총사령관의 양손검" />
+	<block key="RC_1_4_34011_name" korean="총사령관의 단검" />
+	<block key="RC_1_4_44011_name" korean="총사령관의 한손지팡이" />
+	<block key="RC_1_4_54011_name" korean="총사령관의 양손지팡이" />
+	<block key="RC_1_4_64011_name" korean="총사령관의 석궁" />
+	<block key="RC_1_4_74011_name" korean="총사령관의 장창" />
+	<block key="RC_2_4_14013_1_name" korean="총사령관의 수호 투구" />
+	<block key="RC_2_4_14013_2_name" korean="총사령관의 수호 어깨" />
+	<block key="RC_2_4_14013_3_name" korean="총사령관의 수호 중갑" />
+	<block key="RC_2_4_14013_4_name" korean="총사령관의 수호 장갑" />
+	<block key="RC_2_4_14013_5_name" korean="총사령관의 수호 신발" />
+	<block key="RC_2_4_14014_1_name" korean="총사령관의 광폭 투구" />
+	<block key="RC_2_4_14014_2_name" korean="총사령관의 광폭 어깨" />
+	<block key="RC_2_4_14014_3_name" korean="총사령관의 광폭 중갑" />
+	<block key="RC_2_4_14014_4_name" korean="총사령관의 광폭 장갑" />
+	<block key="RC_2_4_14014_5_name" korean="총사령관의 광폭 신발" />
+	<block key="RC_2_4_24012_1_name" korean="총사령관의 그림자 투구" />
+	<block key="RC_2_4_24012_2_name" korean="총사령관의 그림자 어깨" />
+	<block key="RC_2_4_24012_3_name" korean="총사령관의 그림자 경갑" />
+	<block key="RC_2_4_24012_4_name" korean="총사령관의 그림자 장갑" />
+	<block key="RC_2_4_24012_5_name" korean="총사령관의 그림자 신발" />
+	<block key="RC_2_4_34013_1_name" korean="총사령관의 원소 모자" />
+	<block key="RC_2_4_34013_2_name" korean="총사령관의 원소 어깨" />
+	<block key="RC_2_4_34013_3_name" korean="총사령관의 원소 로브" />
+	<block key="RC_2_4_34013_4_name" korean="총사령관의 원소 장갑" />
+	<block key="RC_2_4_34013_5_name" korean="총사령관의 원소 신발" />
+	<block key="RC_2_4_34014_1_name" korean="총사령관의 신념 모자" />
+	<block key="RC_2_4_34014_2_name" korean="총사령관의 신념 어깨" />
+	<block key="RC_2_4_34014_3_name" korean="총사령관의 신념 로브" />
+	<block key="RC_2_4_34014_4_name" korean="총사령관의 신념 장갑" />
+	<block key="RC_2_4_34014_5_name" korean="총사령관의 신념 신발" />
+	<block key="RC_2_4_44012_1_name" korean="총사령관의 방패" />
+	<block key="RC_2_4_54012_1_name" korean="총사령관의 아티펙트" />
+	<block key="RC_1_4_14011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_24011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_34011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_44011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_54011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_64011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_74011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14013_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14013_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14013_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14013_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14013_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14014_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14014_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14014_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14014_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14014_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_24012_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_24012_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_24012_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_24012_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_24012_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34013_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34013_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34013_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34013_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34013_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34014_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34014_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34014_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34014_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34014_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_44012_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_54012_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00044_name" korean="홍련의 레오니드 징표" />
+	<block key="RC_6_2_00045_name" korean="붉은뿔 갈라도쿠 징표" />
+	<block key="RC_6_2_00046_name" korean="흰수염 화이트티어 징표" />
+	<block key="RC_6_2_00047_name" korean="금빛 날개 아브라스 징표" />
+	<block key="RC_6_2_00048_name" korean="강철 발톱 로커스 징표" />
+	<block key="RC_6_2_00049_name" korean="공허의 레토른시아 징표" />
+	<block key="RC_6_2_00050_name" korean="공허의 크라비드 징표" />
+	<block key="RC_6_2_00044_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00045_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00046_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00047_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00048_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00049_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00050_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00051_name" korean="카고일 징표" />
+	<block key="RC_6_2_00051_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_6_00000_name" korean="중급 엑자란 저항 주문서" />
+	<block key="RC_7_6_00000_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_6_00001_name" korean="상급 엑자란 저항 주문서" />
+	<block key="RC_7_6_00001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_6_10000_name" korean="이동 주문서 : 엑자란 무법지대" />
+	<block key="RC_7_6_10000_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00052_name" korean="벨던의 징표" />
+	<block key="RC_6_2_00052_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00053_name" korean="아바르네의 징표" />
+	<block key="RC_6_2_00053_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00054_name" korean="하미온의 징표" />
+	<block key="RC_6_2_00054_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00055_name" korean="칼립토의 징표" />
+	<block key="RC_6_2_00055_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00056_name" korean="데모너스의 징표" />
+	<block key="RC_6_2_00056_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00057_name" korean="차원의 실" />
+	<block key="RC_6_2_00057_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_4_5_10000_name" korean="축복받은 전설의 인장" />
+	<block key="RC_4_5_10000_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00058_name" korean="상급 길들이기 비약" />
+	<block key="RC_6_2_00058_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00059_name" korean="상급 펠로우 교감제" />
+	<block key="RC_6_2_00059_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_14021_name" korean="찬란한 선도자의 검" />
+	<block key="RC_1_4_24021_name" korean="찬란한 선도자의 단검" />
+	<block key="RC_1_4_34021_name" korean="찬란한 선도자의 양손 지팡이" />
+	<block key="RC_1_4_44021_name" korean="찬란한 선도자의 양손 검" />
+	<block key="RC_1_4_54021_name" korean="찬란한 선도자의 한손 지팡이" />
+	<block key="RC_1_4_64021_name" korean="찬란한 선도자의 석궁" />
+	<block key="RC_1_4_74021_name" korean="찬란한 선도자의 장창" />
+	<block key="RC_2_4_14023_1_name" korean="찬란한 선도자의 수호 투구" />
+	<block key="RC_2_4_14023_2_name" korean="찬란한 선도자의 수호 어깨" />
+	<block key="RC_2_4_14023_3_name" korean="찬란한 선도자의 수호 중갑" />
+	<block key="RC_2_4_14023_4_name" korean="찬란한 선도자의 수호 장갑" />
+	<block key="RC_2_4_14023_5_name" korean="찬란한 선도자의 수호 신발" />
+	<block key="RC_2_4_14024_1_name" korean="찬란한 선도자의 광폭 투구" />
+	<block key="RC_2_4_14024_2_name" korean="찬란한 선도자의 광폭 어깨" />
+	<block key="RC_2_4_14024_3_name" korean="찬란한 선도자의 광폭 중갑" />
+	<block key="RC_2_4_14024_4_name" korean="찬란한 선도자의 광폭 장갑" />
+	<block key="RC_2_4_14024_5_name" korean="찬란한 선도자의 광폭 신발" />
+	<block key="RC_2_4_24022_1_name" korean="찬란한 선도자의 그림자 투구" />
+	<block key="RC_2_4_24022_2_name" korean="찬란한 선도자의 그림자 어깨" />
+	<block key="RC_2_4_24022_3_name" korean="찬란한 선도자의 그림자 경갑" />
+	<block key="RC_2_4_24022_4_name" korean="찬란한 선도자의 그림자 장갑" />
+	<block key="RC_2_4_24022_5_name" korean="찬란한 선도자의 그림자 신발" />
+	<block key="RC_2_4_34023_1_name" korean="찬란한 선도자의 원소 모자" />
+	<block key="RC_2_4_34023_2_name" korean="찬란한 선도자의 원소 어깨" />
+	<block key="RC_2_4_34023_3_name" korean="찬란한 선도자의 원소 로브" />
+	<block key="RC_2_4_34023_4_name" korean="찬란한 선도자의 원소 장갑" />
+	<block key="RC_2_4_34023_5_name" korean="찬란한 선도자의 원소 신발" />
+	<block key="RC_2_4_34024_1_name" korean="찬란한 선도자의 신념 모자" />
+	<block key="RC_2_4_34024_2_name" korean="찬란한 선도자의 신념 어깨" />
+	<block key="RC_2_4_34024_3_name" korean="찬란한 선도자의 신념 로브" />
+	<block key="RC_2_4_34024_4_name" korean="찬란한 선도자의 신념 장갑" />
+	<block key="RC_2_4_34024_5_name" korean="찬란한 선도자의 신념 신발" />
+	<block key="RC_2_4_44022_1_name" korean="찬란한 선도자의 방패" />
+	<block key="RC_2_4_54022_1_name" korean="찬란한 선도자의 아티펙트" />
+	<block key="RC_5_4_14033_name" korean="찬란한 선도자의 목걸이" />
+	<block key="RC_5_4_14034_name" korean="찬란한 선도자의 반지I" />
+	<block key="RC_5_4_14035_name" korean="찬란한 선도자의 반지II" />
+	<block key="RC_1_4_14021_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_24021_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_34021_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_44021_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_54021_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_64021_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_74021_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14023_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14023_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14023_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14023_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14023_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14024_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14024_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14024_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14024_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_14024_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_24022_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_24022_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_24022_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_24022_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_24022_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34023_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34023_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34023_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34023_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34023_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34024_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34024_2_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34024_3_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34024_4_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_34024_5_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_44022_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_54022_1_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_14033_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_14034_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_14035_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_5_40001_name" korean="파이루드의 핏빛 목걸이" />
+	<block key="RC_8_5_40002_name" korean="파이루드의 저주받은 반지" />
+	<block key="RC_8_5_40003_name" korean="파이루드의 어둠 반지" />
+	<block key="RC_8_5_40004_name" korean="바이렛의 핏빛 목걸이" />
+	<block key="RC_8_5_40005_name" korean="바이렛의 저주받은 반지" />
+	<block key="RC_8_5_40006_name" korean="바이렛의 어둠 반지" />
+	<block key="RC_8_5_40007_name" korean="메간테스의 핏빛 목걸이" />
+	<block key="RC_8_5_40008_name" korean="메간테스의 저주받은 반지" />
+	<block key="RC_8_5_40009_name" korean="메간테스의 어둠 반지" />
+	<block key="RC_8_5_40001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_5_40002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_5_40003_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_5_40004_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_5_40005_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_5_40006_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_5_40007_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_5_40008_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_5_40009_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00060_name" korean="샤키바의 징표" />
+	<block key="RC_6_2_00061_name" korean="톨루스의 징표" />
+	<block key="RC_6_2_00062_name" korean="챠누스의 징표" />
+	<block key="RC_6_2_00063_name" korean="베가루스의 징표" />
+	<block key="RC_6_2_00064_name" korean="포요의 징표" />
+	<block key="RC_6_2_00065_name" korean="파노스의 징표" />
+	<block key="RC_6_2_00066_name" korean="데바의 징표" />
+	<block key="RC_6_2_00067_name" korean="타라쿠의 징표" />
+	<block key="RC_6_2_00068_name" korean="바쟌의 징표" />
+	<block key="RC_6_2_00069_name" korean="토로의 징표" />
+	<block key="RC_6_2_00070_name" korean="러티쉬의 징표" />
+	<block key="RC_6_2_00071_name" korean="라디쉬의 징표" />
+	<block key="RC_6_2_00072_name" korean="로데쉬의 징표" />
+	<block key="RC_6_2_00073_name" korean="본 애쉬의 징표" />
+	<block key="RC_6_2_00074_name" korean="그리폰의 징표" />
+	<block key="RC_6_2_00075_name" korean="마튜라의 징표" />
+	<block key="RC_6_2_00076_name" korean="키바렌의 징표" />
+	<block key="RC_6_2_00077_name" korean="본 크노스의 징표" />
+	<block key="RC_6_2_00078_name" korean="도스라쿠의 징표" />
+	<block key="RC_6_2_00079_name" korean="알리바의 징표" />
+	<block key="RC_6_2_00080_name" korean="바쟈닌의 징표" />
+	<block key="RC_6_2_00081_name" korean="트리티의 징표" />
+	<block key="RC_6_2_00082_name" korean="침스의 징표" />
+	<block key="RC_6_2_00083_name" korean="아델라크의 징표" />
+	<block key="RC_6_2_00084_name" korean="쳐피의 징표" />
+	<block key="RC_6_2_00085_name" korean="데니반의 징표" />
+	<block key="RC_6_2_00060_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00061_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00062_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00063_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00064_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00065_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00066_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00067_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00068_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00069_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00070_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00071_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00072_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00073_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00074_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00075_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00076_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00077_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00078_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00079_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00080_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00081_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00082_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00083_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00084_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_2_00085_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_1_25005_name" korean="케로움 가루" />
+	<block key="RC_7_1_25006_name" korean="케로움 주괴" />
+	<block key="RC_7_1_25007_name" korean="케로움 합금" />
+	<block key="RC_7_1_25008_name" korean="케로움 섬유" />
+	<block key="RC_7_2_45001_name" korean="하급 학살자의 검" />
+	<block key="RC_7_2_45002_name" korean="하급 학살자의 단검" />
+	<block key="RC_7_2_45003_name" korean="하급 학살자의 양손 지팡이" />
+	<block key="RC_7_2_45004_name" korean="하급 학살자의 양손 검" />
+	<block key="RC_7_2_45005_name" korean="하급 학살자의 한손 지팡이" />
+	<block key="RC_7_2_45011_name" korean="하급 학살자의 석궁" />
+	<block key="RC_7_2_45012_name" korean="하급 학살자의 장창" />
+	<block key="RC_7_3_45011_name" korean="하급 학살자의 수호 중갑 투구" />
+	<block key="RC_7_3_45012_name" korean="하급 학살자의 수호 중갑 어깨" />
+	<block key="RC_7_3_45013_name" korean="하급 학살자의 수호 중갑" />
+	<block key="RC_7_3_45014_name" korean="하급 학살자의 수호 중갑 장갑" />
+	<block key="RC_7_3_45015_name" korean="하급 학살자의 수호 중갑 신발" />
+	<block key="RC_7_3_45021_name" korean="하급 학살자의 광폭 중갑 투구" />
+	<block key="RC_7_3_45022_name" korean="하급 학살자의 광폭 중갑 어깨" />
+	<block key="RC_7_3_45023_name" korean="하급 학살자의 광폭 중갑" />
+	<block key="RC_7_3_45024_name" korean="하급 학살자의 광폭 중갑 장갑" />
+	<block key="RC_7_3_45025_name" korean="하급 학살자의 광폭 중갑 신발" />
+	<block key="RC_7_3_45031_name" korean="하급 학살자의 그림자 경갑 투구" />
+	<block key="RC_7_3_45032_name" korean="하급 학살자의 그림자 경갑 어깨" />
+	<block key="RC_7_3_45033_name" korean="하급 학살자의 그림자 경갑" />
+	<block key="RC_7_3_45034_name" korean="하급 학살자의 그림자 경갑 장갑" />
+	<block key="RC_7_3_45035_name" korean="하급 학살자의 그림자 경갑 신발" />
+	<block key="RC_7_3_45041_name" korean="하급 학살자의 원소 로브 투구" />
+	<block key="RC_7_3_45042_name" korean="하급 학살자의 원소 로브 어깨" />
+	<block key="RC_7_3_45043_name" korean="하급 학살자의 원소 로브" />
+	<block key="RC_7_3_45044_name" korean="하급 학살자의 원소 로브 장갑" />
+	<block key="RC_7_3_45045_name" korean="하급 학살자의 원소 로브 신발" />
+	<block key="RC_7_3_45051_name" korean="하급 학살자의 신념 로브 투구" />
+	<block key="RC_7_3_45052_name" korean="하급 학살자의 신념 로브 어깨" />
+	<block key="RC_7_3_45053_name" korean="하급 학살자의 신념 로브" />
+	<block key="RC_7_3_45054_name" korean="하급 학살자의 신념 로브 장갑" />
+	<block key="RC_7_3_45055_name" korean="하급 학살자의 신념 로브 신발" />
+	<block key="RC_7_4_45001_name" korean="하급 학살자의 방패" />
+	<block key="RC_7_4_45002_name" korean="하급 학살자의 아티팩트" />
+	<block key="RC_7_5_45001_name" korean="하급 학살자의 목걸이" />
+	<block key="RC_7_5_45002_name" korean="하급 학살자의 반지 I" />
+	<block key="RC_7_5_45003_name" korean="하급 학살자의 반지 II" />
+	<block key="RC_7_2_50001_name" korean="중급 학살자의 검" />
+	<block key="RC_7_2_50002_name" korean="중급 학살자의 단검" />
+	<block key="RC_7_2_50003_name" korean="중급 학살자의 양손 지팡이" />
+	<block key="RC_7_2_50004_name" korean="중급 학살자의 양손 검" />
+	<block key="RC_7_2_50005_name" korean="중급 학살자의 한손 지팡이" />
+	<block key="RC_7_2_50011_name" korean="중급 학살자의 석궁" />
+	<block key="RC_7_2_50012_name" korean="중급 학살자의 장창" />
+	<block key="RC_7_3_50011_name" korean="중급 학살자의 수호 중갑 투구" />
+	<block key="RC_7_3_50012_name" korean="중급 학살자의 수호 중갑 어깨" />
+	<block key="RC_7_3_50013_name" korean="중급 학살자의 수호 중갑" />
+	<block key="RC_7_3_50014_name" korean="중급 학살자의 수호 중갑 장갑" />
+	<block key="RC_7_3_50015_name" korean="중급 학살자의 수호 중갑 신발" />
+	<block key="RC_7_3_50021_name" korean="중급 학살자의 광폭 중갑 투구" />
+	<block key="RC_7_3_50022_name" korean="중급 학살자의 광폭 중갑 어깨" />
+	<block key="RC_7_3_50023_name" korean="중급 학살자의 광폭 중갑" />
+	<block key="RC_7_3_50024_name" korean="중급 학살자의 광폭 중갑 장갑" />
+	<block key="RC_7_3_50025_name" korean="중급 학살자의 광폭 중갑 신발" />
+	<block key="RC_7_3_50031_name" korean="중급 학살자의 그림자 경갑 투구" />
+	<block key="RC_7_3_50032_name" korean="중급 학살자의 그림자 경갑 어깨" />
+	<block key="RC_7_3_50033_name" korean="중급 학살자의 그림자 경갑" />
+	<block key="RC_7_3_50034_name" korean="중급 학살자의 그림자 경갑 장갑" />
+	<block key="RC_7_3_50035_name" korean="중급 학살자의 그림자 경갑 신발" />
+	<block key="RC_7_3_50041_name" korean="중급 학살자의 원소 로브 투구" />
+	<block key="RC_7_3_50042_name" korean="중급 학살자의 원소 로브 어깨" />
+	<block key="RC_7_3_50043_name" korean="중급 학살자의 원소 로브" />
+	<block key="RC_7_3_50044_name" korean="중급 학살자의 원소 로브 장갑" />
+	<block key="RC_7_3_50045_name" korean="중급 학살자의 원소 로브 신발" />
+	<block key="RC_7_3_50051_name" korean="중급 학살자의 신념 로브 투구" />
+	<block key="RC_7_3_50052_name" korean="중급 학살자의 신념 로브 어깨" />
+	<block key="RC_7_3_50053_name" korean="중급 학살자의 신념 로브" />
+	<block key="RC_7_3_50054_name" korean="중급 학살자의 신념 로브 장갑" />
+	<block key="RC_7_3_50055_name" korean="중급 학살자의 신념 로브 신발" />
+	<block key="RC_7_4_50001_name" korean="중급 학살자의 방패" />
+	<block key="RC_7_4_50002_name" korean="중급 학살자의 아티팩트" />
+	<block key="RC_7_5_50001_name" korean="중급 학살자의 목걸이" />
+	<block key="RC_7_5_50002_name" korean="중급 학살자의 반지 I" />
+	<block key="RC_7_5_50003_name" korean="중급 학살자의 반지 II" />
+	<block key="RC_8_4_45001_name" korean="하급 학살자의 발톱" />
+	<block key="RC_8_4_45002_name" korean="하급 학살자의 안장" />
+	<block key="RC_8_4_45003_name" korean="하급 학살자의 영혼석" />
+	<block key="RC_8_4_50001_name" korean="중급 학살자의 발톱" />
+	<block key="RC_8_4_50002_name" korean="중급 학살자의 안장" />
+	<block key="RC_8_4_50003_name" korean="중급 학살자의 영혼석" />
+	<block key="RC_7_6_10001_name" korean="이동 주문서 : 아케론 무법지대" />
+	<block key="RC_7_1_25005_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_1_25006_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_1_25007_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_1_25008_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_45001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_45002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_45003_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_45004_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_45005_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_45011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_45012_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45012_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45013_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45014_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45015_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45021_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45022_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45023_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45024_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45025_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45031_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45032_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45033_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45034_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45035_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45041_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45042_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45043_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45044_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45045_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45051_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45052_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45053_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45054_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_45055_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_4_45001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_4_45002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_45001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_45002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_45003_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_50001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_50002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_50003_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_50004_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_50005_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_50011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_2_50012_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50011_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50012_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50013_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50014_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50015_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50021_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50022_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50023_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50024_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50025_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50031_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50032_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50033_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50034_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50035_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50041_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50042_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50043_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50044_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50045_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50051_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50052_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50053_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50054_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_3_50055_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_4_50001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_4_50002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_50001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_50002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_5_50003_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_4_45001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_4_45002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_4_45003_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_4_50001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_4_50002_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_8_4_50003_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_6_10001_description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_10001_Name" korean="아다만티움 주괴" />
+	<block key="RC_1_5_11011_Name" korean="빛나는 아다만티움 한손검" />
+	<block key="RC_1_5_21011_Name" korean="빛나는 아다만티움 양손검" />
+	<block key="RC_1_5_31011_Name" korean="빛나는 아다만티움 단검" />
+	<block key="RC_1_5_41011_Name" korean="빛나는 아다만티움 한손지팡이" />
+	<block key="RC_1_5_51011_Name" korean="빛나는 아다만티움 양손지팡이" />
+	<block key="RC_1_5_61011_Name" korean="빛나는 아다만티움 석궁" />
+	<block key="RC_1_5_71011_Name" korean="빛나는 아다만티움 장창" />
+	<block key="RC_1_5_10002_Name" korean="강화된 아다만티움 주괴" />
+	<block key="RC_1_5_11012_Name" korean="빛나는 강화 아다만티움 한손검" />
+	<block key="RC_1_5_21012_Name" korean="빛나는 강화 아다만티움 양손검" />
+	<block key="RC_1_5_31012_Name" korean="빛나는 강화 아다만티움 단검" />
+	<block key="RC_1_5_41012_Name" korean="빛나는 강화 아다만티움 한손지팡이" />
+	<block key="RC_1_5_51012_Name" korean="빛나는 강화 아다만티움 양손지팡이" />
+	<block key="RC_1_5_61012_Name" korean="빛나는 강화 아다만티움 석궁" />
+	<block key="RC_1_5_71012_Name" korean="빛나는 강화 아다만티움 장창" />
+	<block key="RC_2_5_10001_Name" korean="아다만티움 합금" />
+	<block key="RC_2_5_10002_Name" korean="광택나는 천" />
+	<block key="RC_2_5_13011_1_Name" korean="빛나는 아다만티움 수호 투구" />
+	<block key="RC_2_5_13011_2_Name" korean="빛나는 아다만티움 수호 어깨" />
+	<block key="RC_2_5_13011_3_Name" korean="빛나는 아다만티움 수호 중갑" />
+	<block key="RC_2_5_13011_4_Name" korean="빛나는 아다만티움 수호 장갑" />
+	<block key="RC_2_5_13011_5_Name" korean="빛나는 아다만티움 수호 신발" />
+	<block key="RC_2_5_13012_1_Name" korean="빛나는 아다만티움 광폭 투구" />
+	<block key="RC_2_5_13012_2_Name" korean="빛나는 아다만티움 광폭 어깨" />
+	<block key="RC_2_5_13012_3_Name" korean="빛나는 아다만티움 광폭 중갑" />
+	<block key="RC_2_5_13012_4_Name" korean="빛나는 아다만티움 광폭 장갑" />
+	<block key="RC_2_5_13012_5_Name" korean="빛나는 아다만티움 광폭 신발" />
+	<block key="RC_2_5_23011_1_Name" korean="빛나는 아다만티움 그림자 투구" />
+	<block key="RC_2_5_23011_2_Name" korean="빛나는 아다만티움 그림자 어깨" />
+	<block key="RC_2_5_23011_3_Name" korean="빛나는 아다만티움 그림자 경갑" />
+	<block key="RC_2_5_23011_4_Name" korean="빛나는 아다만티움 그림자 장갑" />
+	<block key="RC_2_5_23011_5_Name" korean="빛나는 아다만티움 그림자 신발" />
+	<block key="RC_2_5_33011_1_Name" korean="빛나는 광택의 원소 모자" />
+	<block key="RC_2_5_33011_2_Name" korean="빛나는 광택의 원소 어깨" />
+	<block key="RC_2_5_33011_3_Name" korean="빛나는 광택의 원소 로브" />
+	<block key="RC_2_5_33011_4_Name" korean="빛나는 광택의 원소 장갑" />
+	<block key="RC_2_5_33011_5_Name" korean="빛나는 광택의 원소 신발" />
+	<block key="RC_2_5_33012_1_Name" korean="빛나는 광택의 신념 모자" />
+	<block key="RC_2_5_33012_2_Name" korean="빛나는 광택의 신념 어깨" />
+	<block key="RC_2_5_33012_3_Name" korean="빛나는 광택의 신념 로브" />
+	<block key="RC_2_5_33012_4_Name" korean="빛나는 광택의 신념 장갑" />
+	<block key="RC_2_5_33012_5_Name" korean="빛나는 광택의 신념 신발" />
+	<block key="RC_2_5_43011_1_Name" korean="빛나는 아다만티움 방패" />
+	<block key="RC_2_5_53011_1_Name" korean="빛나는 아다만티움 아티펙트" />
+	<block key="RC_2_5_10003_Name" korean="강화된 아다만티움 합금" />
+	<block key="RC_2_5_10004_Name" korean="강화된 광택나는 천" />
+	<block key="RC_2_5_13013_1_Name" korean="빛나는 강화 아다만티움 수호 투구" />
+	<block key="RC_2_5_13013_2_Name" korean="빛나는 강화 아다만티움 수호 어깨" />
+	<block key="RC_2_5_13013_3_Name" korean="빛나는 강화 아다만티움 수호 중갑" />
+	<block key="RC_2_5_13013_4_Name" korean="빛나는 강화 아다만티움 수호 장갑" />
+	<block key="RC_2_5_13013_5_Name" korean="빛나는 강화 아다만티움 수호 신발" />
+	<block key="RC_2_5_13014_1_Name" korean="빛나는 강화 아다만티움 광폭 투구" />
+	<block key="RC_2_5_13014_2_Name" korean="빛나는 강화 아다만티움 광폭 어깨" />
+	<block key="RC_2_5_13014_3_Name" korean="빛나는 강화 아다만티움 광폭 중갑" />
+	<block key="RC_2_5_13014_4_Name" korean="빛나는 강화 아다만티움 광폭 장갑" />
+	<block key="RC_2_5_13014_5_Name" korean="빛나는 강화 아다만티움 광폭 신발" />
+	<block key="RC_2_5_23012_1_Name" korean="빛나는 강화 아다만티움 그림자 투구" />
+	<block key="RC_2_5_23012_2_Name" korean="빛나는 강화 아다만티움 그림자 어깨" />
+	<block key="RC_2_5_23012_3_Name" korean="빛나는 강화 아다만티움 그림자 경갑" />
+	<block key="RC_2_5_23012_4_Name" korean="빛나는 강화 아다만티움 그림자 장갑" />
+	<block key="RC_2_5_23012_5_Name" korean="빛나는 강화 아다만티움 그림자 신발" />
+	<block key="RC_2_5_33013_1_Name" korean="빛나는 강화 광택의 원소 모자" />
+	<block key="RC_2_5_33013_2_Name" korean="빛나는 강화 광택의 원소 어깨" />
+	<block key="RC_2_5_33013_3_Name" korean="빛나는 강화 광택의 원소 로브" />
+	<block key="RC_2_5_33013_4_Name" korean="빛나는 강화 광택의 원소 장갑" />
+	<block key="RC_2_5_33013_5_Name" korean="빛나는 강화 광택의 원소 신발" />
+	<block key="RC_2_5_33014_1_Name" korean="빛나는 강화 광택의 신념 모자" />
+	<block key="RC_2_5_33014_2_Name" korean="빛나는 강화 광택의 신념 어깨" />
+	<block key="RC_2_5_33014_3_Name" korean="빛나는 강화 광택의 신념 로브" />
+	<block key="RC_2_5_33014_4_Name" korean="빛나는 강화 광택의 신념 장갑" />
+	<block key="RC_2_5_33014_5_Name" korean="빛나는 강화 광택의 신념 신발" />
+	<block key="RC_2_5_43012_1_Name" korean="빛나는 강화 아다만티움 방패" />
+	<block key="RC_2_5_53012_1_Name" korean="빛나는 강화 아다만티움 아티펙트" />
+	<block key="RC_5_5_10001_Name" korean="세공된 에메랄드" />
+	<block key="RC_5_5_13531_Name" korean="빛나는 에메랄드 목걸이" />
+	<block key="RC_5_5_13532_Name" korean="빛나는 에메랄드 반지" />
+	<block key="RC_5_5_10002_Name" korean="정교한 에메랄드" />
+	<block key="RC_5_5_14031_Name" korean="빛나는 정교한 에메랄드 목걸이" />
+	<block key="RC_5_5_14032_Name" korean="빛나는 정교한 에메랄드 반지" />
+	<block key="RC_3_5_14511_Name" korean="45레벨 일반 생명력 비약" />
+	<block key="RC_3_5_15011_Name" korean="50레벨 일반 생명력 비약" />
+	<block key="RC_3_5_34511_Name" korean="기력 회복 비약 VIII" />
+	<block key="RC_3_5_24511_Name" korean="45레벨 일반 마나 비약" />
+	<block key="RC_3_5_25011_Name" korean="50레벨 일반 마나 비약" />
+	<block key="RC_3_5_71022_Name" korean="기력 회복 비약 IX" />
+	<block key="RC_3_5_14521_Name" korean="45레벨 정예 생명력 비약" />
+	<block key="RC_3_5_24521_Name" korean="45레벨 정예 마나 비약" />
+	<block key="RC_3_5_14531_Name" korean="45레벨 영웅 생명력 비약" />
+	<block key="RC_3_5_24531_Name" korean="45레벨 영웅 마나 비약" />
+	<block key="RC_3_5_15021_Name" korean="50레벨 정예 생명력 비약" />
+	<block key="RC_3_5_25021_Name" korean="50레벨 정예 마나 비약" />
+	<block key="RC_3_5_15031_Name" korean="50레벨 영웅 생명력 비약" />
+	<block key="RC_3_5_25031_Name" korean="50레벨 영웅 마나 비약" />
+	<block key="RC_5_4_14001_Name" korean="연한 통구이 I" />
+	<block key="RC_5_4_14501_Name" korean="연한 통구이 II" />
+	<block key="RC_5_4_15001_Name" korean="연한 통구이 III" />
+	<block key="RC_5_4_24001_Name" korean="숯불 주먹밥 I" />
+	<block key="RC_5_4_24501_Name" korean="숯불 주먹밥 II" />
+	<block key="RC_5_4_25001_Name" korean="숯불 주먹밥 III" />
+	<block key="RC_5_4_34001_Name" korean="사골국 I" />
+	<block key="RC_5_4_34501_Name" korean="사골국 II" />
+	<block key="RC_5_4_35001_Name" korean="사골국 III" />
+	<block key="RC_5_4_44001_Name" korean="고기 스프 I" />
+	<block key="RC_5_4_44501_Name" korean="고기 스프 II" />
+	<block key="RC_5_4_45001_Name" korean="고기 스프 III" />
+	<block key="RC_1_4_15011_Name" korean="암흑 군단장의 한손검" />
+	<block key="RC_1_4_25011_Name" korean="암흑 군단장의 단검" />
+	<block key="RC_1_4_35011_Name" korean="암흑 군단장의 양손지팡이" />
+	<block key="RC_1_4_45011_Name" korean="암흑 군단장의 양손검" />
+	<block key="RC_1_4_55011_Name" korean="암흑 군단장의 한손 지팡이" />
+	<block key="RC_1_4_65011_Name" korean="암흑 군단장의 석궁" />
+	<block key="RC_1_4_75011_Name" korean="암흑 군단장의 장창" />
+	<block key="RC_2_4_15013_1_Name" korean="암흑 군단장의 수호 투구" />
+	<block key="RC_2_4_15013_2_Name" korean="암흑 군단장의 수호 어깨" />
+	<block key="RC_2_4_15013_3_Name" korean="암흑 군단장의 수호 중갑" />
+	<block key="RC_2_4_15013_4_Name" korean="암흑 군단장의 수호 장갑" />
+	<block key="RC_2_4_15013_5_Name" korean="암흑 군단장의 수호 신발" />
+	<block key="RC_2_4_15014_1_Name" korean="암흑 군단장의 광폭 투구" />
+	<block key="RC_2_4_15014_2_Name" korean="암흑 군단장의 광폭 어깨" />
+	<block key="RC_2_4_15014_3_Name" korean="암흑 군단장의 광폭 중갑" />
+	<block key="RC_2_4_15014_4_Name" korean="암흑 군단장의 광폭 장갑" />
+	<block key="RC_2_4_15014_5_Name" korean="암흑 군단장의 광폭 신발" />
+	<block key="RC_2_4_25012_1_Name" korean="암흑 군단장의 그림자 투구" />
+	<block key="RC_2_4_25012_2_Name" korean="암흑 군단장의 그림자 어깨" />
+	<block key="RC_2_4_25012_3_Name" korean="암흑 군단장의 그림자 경갑" />
+	<block key="RC_2_4_25012_4_Name" korean="암흑 군단장의 그림자 장갑" />
+	<block key="RC_2_4_25012_5_Name" korean="암흑 군단장의 그림자 신발" />
+	<block key="RC_2_4_35013_1_Name" korean="암흑 군단장의 원소 모자" />
+	<block key="RC_2_4_35013_2_Name" korean="암흑 군단장의 원소 어깨" />
+	<block key="RC_2_4_35013_3_Name" korean="암흑 군단장의 원소 로브" />
+	<block key="RC_2_4_35013_4_Name" korean="암흑 군단장의 원소 장갑" />
+	<block key="RC_2_4_35013_5_Name" korean="암흑 군단장의 원소 신발" />
+	<block key="RC_2_4_35014_1_Name" korean="암흑 군단장의 신념 모자" />
+	<block key="RC_2_4_35014_2_Name" korean="암흑 군단장의 신념 어깨" />
+	<block key="RC_2_4_35014_3_Name" korean="암흑 군단장의 신념 로브" />
+	<block key="RC_2_4_35014_4_Name" korean="암흑 군단장의 신념 장갑" />
+	<block key="RC_2_4_35014_5_Name" korean="암흑 군단장의 신념 신발" />
+	<block key="RC_2_4_45012_1_Name" korean="암흑 군단장의 방패" />
+	<block key="RC_2_4_55012_1_Name" korean="암흑 군단장의 아티펙트" />
+	<block key="RC_1_5_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_11011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_21011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_31011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_41011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_51011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_61011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_71011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_10002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_11012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_21012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_31012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_41012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_51012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_61012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_5_71012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_10002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13011_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13011_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13011_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13011_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13012_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13012_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13012_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13012_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13012_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_23011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_23011_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_23011_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_23011_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_23011_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33011_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33011_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33011_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33011_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33012_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33012_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33012_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33012_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33012_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_43011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_53011_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_10003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_10004_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13013_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13013_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13013_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13013_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13013_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13014_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13014_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13014_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13014_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_13014_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_23012_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_23012_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_23012_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_23012_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_23012_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33013_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33013_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33013_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33013_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33013_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33014_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33014_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33014_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33014_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_33014_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_43012_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_5_53012_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_13531_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_13532_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_10002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_14031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_14032_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_14511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_15011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_34511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_24511_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_25011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_71022_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_14521_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_24521_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_14531_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_24531_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_15021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_25021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_15031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_3_5_25031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_14001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_14501_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_15001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_24001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_24501_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_25001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_34001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_34501_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_35001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_44001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_44501_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_4_45001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_15011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_25011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_35011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_45011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_55011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_65011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_1_4_75011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_15013_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_15013_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_15013_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_15013_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_15013_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_15014_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_15014_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_15014_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_15014_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_15014_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_25012_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_25012_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_25012_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_25012_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_25012_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_35013_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_35013_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_35013_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_35013_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_35013_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_35014_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_35014_2_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_35014_3_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_35014_4_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_35014_5_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_45012_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_2_4_55012_1_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_5_10001_Name" korean="빛나는 정령수" />
+	<block key="RC_6_5_14531_Name" korean="신기루의 발톱" />
+	<block key="RC_6_5_24531_Name" korean="신기루의 안장" />
+	<block key="RC_6_5_34531_Name" korean="신기루의 영혼석" />
+	<block key="RC_6_5_15031_Name" korean="열사의 사막 발톱" />
+	<block key="RC_6_5_25031_Name" korean="열사의 사막 안장" />
+	<block key="RC_6_5_35031_Name" korean="열사의 사막 영혼석" />
+	<block key="RC_6_5_10001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_5_14531_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_5_24531_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_5_34531_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_5_15031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_5_25031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_6_5_35031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30001_Name" korean="루비 - 물리 공격력 Lv 2" />
+	<block key="RC_5_5_30002_Name" korean="루비 - 물리 공격력 Lv 3" />
+	<block key="RC_5_5_30003_Name" korean="루비 - 물리 공격력 Lv 4" />
+	<block key="RC_5_5_30004_Name" korean="루비 - 물리 공격력 Lv 5" />
+	<block key="RC_5_5_30005_Name" korean="루비 - 물리 공격력 Lv 6" />
+	<block key="RC_5_5_30006_Name" korean="루비 - 물리 공격력 Lv 7" />
+	<block key="RC_5_5_30007_Name" korean="루비 - 마법공격력 Lv 2" />
+	<block key="RC_5_5_30008_Name" korean="루비 - 마법공격력 Lv 3" />
+	<block key="RC_5_5_30009_Name" korean="루비 - 마법공격력 Lv 4" />
+	<block key="RC_5_5_30010_Name" korean="루비 - 마법공격력 Lv 5" />
+	<block key="RC_5_5_30011_Name" korean="루비 - 마법공격력 Lv 6" />
+	<block key="RC_5_5_30012_Name" korean="루비 - 마법공격력 Lv 7" />
+	<block key="RC_5_5_30013_Name" korean="사파이어 - 물리 방어력 Lv 2" />
+	<block key="RC_5_5_30014_Name" korean="사파이어 - 물리 방어력 Lv 3" />
+	<block key="RC_5_5_30015_Name" korean="사파이어 - 물리 방어력 Lv 4" />
+	<block key="RC_5_5_30016_Name" korean="사파이어 - 물리 방어력 Lv 5" />
+	<block key="RC_5_5_30017_Name" korean="사파이어 - 물리 방어력 Lv 6" />
+	<block key="RC_5_5_30018_Name" korean="사파이어 - 물리 방어력 Lv 7" />
+	<block key="RC_5_5_30019_Name" korean="사파이어 - 마법 방어력 Lv 2" />
+	<block key="RC_5_5_30020_Name" korean="사파이어 - 마법 방어력 Lv 3" />
+	<block key="RC_5_5_30021_Name" korean="사파이어 - 마법 방어력 Lv 4" />
+	<block key="RC_5_5_30022_Name" korean="사파이어 - 마법 방어력 Lv 5" />
+	<block key="RC_5_5_30023_Name" korean="사파이어 - 마법 방어력 Lv 6" />
+	<block key="RC_5_5_30024_Name" korean="사파이어 - 마법 방어력 Lv 7" />
+	<block key="RC_5_5_30025_Name" korean="페리도트 - 물리 치명타 피해 Lv 2" />
+	<block key="RC_5_5_30026_Name" korean="페리도트 - 물리 치명타 피해 Lv 3" />
+	<block key="RC_5_5_30027_Name" korean="페리도트 - 물리 치명타 피해 Lv 4" />
+	<block key="RC_5_5_30028_Name" korean="페리도트 - 물리 치명타 피해 Lv 5" />
+	<block key="RC_5_5_30029_Name" korean="페리도트 - 물리 치명타 피해 Lv 6" />
+	<block key="RC_5_5_30030_Name" korean="페리도트 - 물리 치명타 피해 Lv 7" />
+	<block key="RC_5_5_30031_Name" korean="페리도트 - 마법 치명타 피해 Lv 2" />
+	<block key="RC_5_5_30032_Name" korean="페리도트 - 마법 치명타 피해 Lv 3" />
+	<block key="RC_5_5_30033_Name" korean="페리도트 - 마법 치명타 피해 Lv 4" />
+	<block key="RC_5_5_30034_Name" korean="페리도트 - 마법 치명타 피해 Lv 5" />
+	<block key="RC_5_5_30035_Name" korean="페리도트 - 마법 치명타 피해 Lv 6" />
+	<block key="RC_5_5_30036_Name" korean="페리도트 - 마법 치명타 피해 Lv 7" />
+	<block key="RC_5_5_30037_Name" korean="다이아몬드 - 최대 HP Lv 2" />
+	<block key="RC_5_5_30038_Name" korean="다이아몬드 - 최대 HP Lv 3" />
+	<block key="RC_5_5_30039_Name" korean="다이아몬드 - 최대 HP Lv 4" />
+	<block key="RC_5_5_30040_Name" korean="다이아몬드 - 최대 HP Lv 5" />
+	<block key="RC_5_5_30041_Name" korean="다이아몬드 - 최대 HP Lv 6" />
+	<block key="RC_5_5_30042_Name" korean="다이아몬드 - 최대 HP Lv 7" />
+	<block key="RC_5_5_30043_Name" korean="토파즈 - 치명타 방어 Lv 2" />
+	<block key="RC_5_5_30044_Name" korean="토파즈 - 치명타 방어 Lv 3" />
+	<block key="RC_5_5_30045_Name" korean="토파즈 - 치명타 방어 Lv 4" />
+	<block key="RC_5_5_30046_Name" korean="토파즈 - 치명타 방어 Lv 5" />
+	<block key="RC_5_5_30047_Name" korean="토파즈 - 치명타 방어 Lv 6" />
+	<block key="RC_5_5_30048_Name" korean="토파즈 - 치명타 방어 Lv 7" />
+	<block key="RC_5_5_30049_Name" korean="가넷 - 대인 공격력 Lv 2" />
+	<block key="RC_5_5_30050_Name" korean="가넷 - 대인 공격력 Lv 3" />
+	<block key="RC_5_5_30051_Name" korean="가넷 - 대인 공격력 Lv 4" />
+	<block key="RC_5_5_30052_Name" korean="가넷 - 대인 공격력 Lv 5" />
+	<block key="RC_5_5_30053_Name" korean="가넷 - 대인 공격력 Lv 6" />
+	<block key="RC_5_5_30054_Name" korean="가넷 - 대인 공격력 Lv 7" />
+	<block key="RC_5_5_30055_Name" korean="가넷 - 대인 방어력 Lv 2" />
+	<block key="RC_5_5_30056_Name" korean="가넷 - 대인 방어력 Lv 3" />
+	<block key="RC_5_5_30057_Name" korean="가넷 - 대인 방어력 Lv 4" />
+	<block key="RC_5_5_30058_Name" korean="가넷 - 대인 방어력 Lv 5" />
+	<block key="RC_5_5_30059_Name" korean="가넷 - 대인 방어력 Lv 6" />
+	<block key="RC_5_5_30060_Name" korean="가넷 - 대인 방어력 Lv 7" />
+	<block key="RC_5_5_30061_Name" korean="다이아몬드 - 최대 MP Lv 2" />
+	<block key="RC_5_5_30062_Name" korean="다이아몬드 - 최대 MP Lv 3" />
+	<block key="RC_5_5_30063_Name" korean="다이아몬드 - 최대 MP Lv 4" />
+	<block key="RC_5_5_30064_Name" korean="다이아몬드 - 최대 MP Lv 5" />
+	<block key="RC_5_5_30065_Name" korean="다이아몬드 - 최대 MP Lv 6" />
+	<block key="RC_5_5_30066_Name" korean="다이아몬드 - 최대 MP Lv 7" />
+	<block key="RC_5_5_30001_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30004_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30005_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30006_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30007_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30008_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30009_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30010_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30011_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30012_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30013_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30014_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30015_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30016_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30017_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30018_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30019_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30020_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30021_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30022_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30023_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30024_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30025_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30026_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30027_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30028_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30029_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30030_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30031_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30032_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30033_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30034_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30035_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30036_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30037_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30038_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30039_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30040_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30041_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30042_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30043_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30044_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30045_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30046_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30047_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30048_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30049_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30050_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30051_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30052_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30053_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30054_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30055_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30056_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30057_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30058_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30059_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30060_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30061_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30062_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30063_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30064_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30065_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_5_5_30066_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_6_10002_name" korean="구속된 아탄의 망령" />
+	<block key="RC_7_6_10002_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_6_10003_name" korean="구속된 카르닌의 망령" />
+	<block key="RC_7_6_10003_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+	<block key="RC_7_6_10004_name" korean="구속된 베리트의 망령" />
+	<block key="RC_7_6_10004_Description" korean="<UI_Y>우클릭하여 사용하면 제작리스트에 등록됩니다.</UI_Y>
+" />
+</blocks>

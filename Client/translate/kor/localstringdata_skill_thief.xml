@@ -1,0 +1,2169 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="TF_2comboslash_Name" korean="신체 베기" />
+	<block key="TF_2comboslash_Description_1" korean="대상을 날렵하게 두번 베어 피해를 입힙니다." />
+	<block key="TF_2comboslash_Description_2" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다." />
+	<block key="TF_2comboslash_Description_3" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다." />
+	<block key="TF_2comboslash_Description_4" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다." />
+	<block key="TF_2comboslash_Description_5" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다." />
+	<block key="TF_2comboslash_Description_6" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다." />
+	<block key="TF_2comboslash_Description_7" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다." />
+	<block key="TF_2comboslash_Description_8" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다." />
+	<block key="TF_2comboslash_Description_9" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다." />
+	<block key="TF_2comboslash_Description_10" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_2comboslash_Description_11" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_2comboslash_Description_12" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_2comboslash_Description_13" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_2comboslash_Description_14" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_2comboslash_Description_15" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_2comboslash_Description_16" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_2comboslash_Description_17" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_2comboslash_Description_18" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_2comboslash_Description_19" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_2comboslash_Description_20" korean="대상을 날렵하게 두번 베어 피해를 입힙니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[신체베기]</Y_Y> 사용 시 반경 2미터 내 대상에게 두 개의 단검으로 베면서 관통하는 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_2comboslash2_Name" korean="신체 베기" />
+	<block key="tf_agility_Name" korean="민첩함" />
+	<block key="tf_agility_Description_1" korean="회피율을 2% 증가시킨다." />
+	<block key="tf_agility_Description_2" korean="회피율을 4% 증가시킨다." />
+	<block key="tf_agility_Description_3" korean="회피율을 6% 증가시킨다." />
+	<block key="tf_agility_Description_4" korean="회피율을 8% 증가시킨다." />
+	<block key="tf_agility_Description_5" korean="회피율을 10% 증가시킨다." />
+	<block key="tf_agility_Description_6" korean="회피율을 12% 증가시킨다." />
+	<block key="tf_agility_Description_7" korean="회피율을 14% 증가시킨다." />
+	<block key="tf_agility_Description_8" korean="회피율을 16% 증가시킨다." />
+	<block key="tf_ambush_Name" korean="기습" />
+	<block key="tf_ambush_Description_1" korean="대상의 후방에서 공격 할 시 20%의 추가 피해를 입힌다." />
+	<block key="tf_ambush_Description_2" korean="대상의 후방에서 공격 할 시 40%의 추가 피해를 입힌다." />
+	<block key="tf_ambush_Description_3" korean="대상의 후방에서 공격 할 시 60%의 추가 피해를 입힌다." />
+	<block key="tf_ambush_Description_4" korean="대상의 후방에서 공격 할 시 20%의 추가 피해를 입힌다." />
+	<block key="tf_ambush_Description_5" korean="대상의 후방에서 공격 할 시 20%의 추가 피해를 입힌다." />
+	<block key="tf_ambush_Description_6" korean="대상의 후방에서 공격 할 시 20%의 추가 피해를 입힌다." />
+	<block key="tf_aterycut_Name" korean="동맥 절단" />
+	<block key="tf_aterycut_Description_1" korean="바닥에 넘어져 있는 대상을 공격하여 동맥을 절단해서 79~96의 피해를 주고 추가적으로 10초 동안 1초마다 20의 피해를 준다. 다리 후리기 스킬을 사용 한 다음에 사용 가능한 콤보 스킬이다." />
+	<block key="tf_aterycut_Description_2" korean="바닥에 넘어져 있는 대상을 공격하여 동맥을 절단해서 140~171의 피해를 주고 추가적으로 10초 동안 1초마다 10~20의 피해를 준다. 다리 후리기 스킬을 사용 한 다음에 사용 가능한 콤보 스킬이다." />
+	<block key="tf_aterycut_Description_3" korean="바닥에 넘어져 있는 대상을 공격하여 동맥을 절단해서 100~200의 피해를 주고 추가적으로 10초 동안 1초마다 10~20의 피해를 준다. 다리 후리기 스킬을 사용 한 다음에 사용 가능한 콤보 스킬이다." />
+	<block key="tf_avatarexplosion_Name" korean="분신 폭파" />
+	<block key="tf_avatarexplosion_Description_1" korean="소환한 자신의 분신을 폭파하여 분신 주변에 있던 대상에게 X ~ X의 피해를 준다." />
+	<block key="tf_avatarexplosion_Description_2" korean="소환한 자신의 분신을 폭파하여 분신 주변에 있던 대상에게 X ~ X의 피해를 준다." />
+	<block key="tf_avatarexplosion_Description_3" korean="소환한 자신의 분신을 폭파하여 분신 주변에 있던 대상에게 X ~ X의 피해를 준다." />
+	<block key="tf_avatarsummon_Name" korean="분신 소환" />
+	<block key="tf_avatarsummon_Description_1" korean="플레이어와 똑같은 모습의 분신을 소환하여 플레이어를 공격하고 있는 대상을 속인 뒤 플레이어는 분신의 뒷편에 은신 상태로 나타난다." />
+	<block key="tf_avatarsummon_Description_2" korean="플레이어와 똑같은 모습의 분신을 소환하여 플레이어를 공격하고 있는 대상을 속인 뒤 플레이어는 분신의 뒷편에 은신 상태로 나타난다." />
+	<block key="tf_avatarsummon_Description_3" korean="플레이어와 똑같은 모습의 분신을 소환하여 플레이어를 공격하고 있는 대상을 속인 뒤 플레이어는 분신의 뒷편에 은신 상태로 나타난다." />
+	<block key="TF_backattack_Name" korean="급살" />
+	<block key="TF_backattack_Description_1" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력이 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다." />
+	<block key="TF_backattack_Description_2" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력이 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다." />
+	<block key="TF_backattack_Description_3" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력이 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다." />
+	<block key="TF_backattack_Description_4" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력이 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다." />
+	<block key="TF_backattack_Description_5" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력이 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다." />
+	<block key="TF_backattack_Description_6" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력이 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다." />
+	<block key="TF_backattack_Description_7" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력이 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다." />
+	<block key="TF_backattack_Description_8" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력이 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다." />
+	<block key="TF_backattack_Description_9" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_backattack_Description_10" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_backattack_Description_11" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_backattack_Description_12" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_backattack_Description_13" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_backattack_Description_14" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_backattack_Description_15" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_backattack_Description_16" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_backattack_Description_17" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_backattack_Description_18" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_backattack_Description_19" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_backattack_Description_20" korean="쌍수로 한번에 공격하여 치명적인 공격을 시도합니다.
+
+- <G_Y>[최대 생명력 30% 이하]</G_Y>의 적 대상을 공격할 경우 기본 공격력의 240% 추가 피해를 입힙니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="backattack_change_Name" korean="급살" />
+	<block key="backattack_change1_Name" korean="급살" />
+	<block key="backattack_change1_name" korean="급살" />
+	<block key="tf_backhead_Name" korean="후두부 치기" />
+	<block key="tf_backhead_Description_1" korean="투명화 상태일 때 대상의 후방에서만 사용 가능한 스킬. 대상에게 3~5의 피해를 주고 3초동안 기절 시킨다." />
+	<block key="tf_backhead_Description_2" korean="투명화 상태일 때 대상의 후방에서만 사용 가능한 스킬. 대상에게 3~5의 피해를 주고 3초동안 기절 시킨다." />
+	<block key="tf_backhead_Description_3" korean="투명화 상태일 때 대상의 후방에서만 사용 가능한 스킬. 대상에게 3~5의 피해를 주고 3초동안 기절 시킨다." />
+	<block key="tf_bodyblow_Name" korean="신체 강타" />
+	<block key="tf_bodyblow_Description_1" korean="대상의 복부를 강타하여 무기 공격력에 추가로 57~70의 피해를 주고, 10초 동안 회복스킬 및 회복물약의 효과를 면역시키는 구토 상태에 빠지게 한다. 추가로 위협수치가 증가한다." />
+	<block key="tf_bodyblow_Description_2" korean="대상의 복부를 강타하여 무기 공격력에 추가로 92~113의 피해를 주고, 10초 동안 회복스킬 및 회복물약의 효과를 면역시키는 구토 상태에 빠지게 한다. 추가로 위협수치가 증가한다." />
+	<block key="tf_bodyblow_Description_3" korean="대상의 복부를 강타하여 무기 공격력에 추가로 48~62의 피해를 주고, 10초 동안 회복스킬 및 회복물약의 효과를 면역시키는 구토 상태에 빠지게 한다. 추가로 위협수치가 증가한다." />
+	<block key="tf_bodyblow_Description_4" korean="대상의 복부를 강타하여 무기 공격력에 추가로 3~6의 피해를 주고, 10초 동안 회복스킬 및 회복물약의 효과를 면역시키는 구토 상태에 빠지게 한다. 추가로 위협수치가 증가한다." />
+	<block key="TF_bola_Name" korean="볼라 던지기" />
+	<block key="TF_bola_Description_1" korean="대상에게 볼라를 던져 무기 공격력에 추가로 5 ~ 7의 피해를 주고 2초동안 이동불가 상태로 만들고, 3초간 이동속도를 50% 느리게 한다. 추가적으로 20%의 확률로 대상을 넘어트릴 수 있다." />
+	<block key="TF_bola_Description_2" korean="대상에게 볼라를 던져 무기 공격력에 추가로 15 ~ 25의 피해를 주고 2.5초동안 이동불가 상태로 만들고, 2.5초간 이동속도를 55% 느리게 한다. 추가적으로 대상을 넘어트릴 수 있다." />
+	<block key="TF_bola_Description_3" korean="대상에게 볼라를 던져 무기 공격력에 추가로 30 ~ 45의 피해를 주고 2.5초동안 이동불가 상태로 만들고, 2.5초간 이동속도를 60% 느리게 한다. 추가적으로 대상을 넘어트릴 수 있다." />
+	<block key="TF_bola_Description_4" korean="대상에게 볼라를 던져 무기 공격력에 추가로 50 ~ 65의 피해를 주고 3초동안 이동불가 상태로 만들고, 2초간 이동속도를 65% 느리게 한다. 추가적으로 대상을 넘어트릴 수 있다." />
+	<block key="TF_bola_Description_5" korean="대상에게 볼라를 던져 무기 공격력에 추가로 70 ~ 85의 피해를 주고 3초동안 이동불가 상태로 만들고, 2초간 이동속도를 70% 느리게 한다. 추가적으로 대상을 넘어트릴 수 있다." />
+	<block key="tf_concusion_Name" korean="뇌진탕" />
+	<block key="tf_concusion_Description_1" korean="투명화 상태일 때 가능한 스킬로 대상을 공격하여 43~52의 데미지를 주고 1초 동안 기절시킨다." />
+	<block key="tf_concusion_Description_2" korean="투명화 상태일 때 가능한 스킬로 대상을 공격하여 69~84의 데미지를 주고 2초 동안 기절시킨다." />
+	<block key="tf_concusion_Description_3" korean="투명화 상태일 때 가능한 스킬로 대상을 공격하여 16~18의 데미지를 주고 3초 동안 기절시킨다." />
+	<block key="tf_concusion_Description_4" korean="투명화 상태일 때 가능한 스킬로 대상을 공격하여 5~10의 데미지를 주고 4초 동안 기절시킨다." />
+	<block key="TF_crump_Name" korean="폭음탄" />
+	<block key="TF_crump_Description_1" korean="선택한 지역에 폭음탄을 터트려 대상의 주의를 집중 시킨다. 투명화 상태를 해제시키지 않으며, 이미 효과가 적용된 적에게 사용할 수 있다." />
+	<block key="TF_crump_Description_2" korean="선택한 지역에 폭음탄을 터트려 대상의 주의를 집중 시킨다. 투명화 상태를 해제시키지 않으며, 이미 효과가 적용된 적에게 사용할 수 있다." />
+	<block key="TF_crump_Description_3" korean="선택한 지역에 폭음탄을 터트려 대상의 주의를 집중 시킨다. 투명화 상태를 해제시키지 않으며, 이미 효과가 적용된 적에게 사용할 수 있다." />
+	<block key="tf_deepstab_Name" korean="깊게 찌르기" />
+	<block key="tf_deepstab_Description_1" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다." />
+	<block key="tf_deepstab_Description_2" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다." />
+	<block key="tf_deepstab_Description_3" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다." />
+	<block key="tf_deepstab_Description_4" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다." />
+	<block key="tf_deepstab_Description_5" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다." />
+	<block key="tf_deepstab_Description_6" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다." />
+	<block key="tf_deepstab_Description_7" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다." />
+	<block key="tf_deepstab_Description_8" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다." />
+	<block key="tf_deepstab_Description_9" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다." />
+	<block key="tf_deepstab_Description_10" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_deepstab_Description_11" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_deepstab_Description_12" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_deepstab_Description_13" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_deepstab_Description_14" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_deepstab_Description_15" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_deepstab_Description_16" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_deepstab_Description_17" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_deepstab_Description_18" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_deepstab_Description_19" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_deepstab_Description_20" korean="일정거리에서 부터 대상을 깊게 찔러 강력한 공격을 합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[깊게찌르기]</Y_Y> 사용 시 대상을 관통 공격을 합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_deepstabchange_Name" korean="깊게 찌르기" />
+	<block key="tf_extinction_Name" korean="상급 소멸" />
+	<block key="tf_extinction_Description_1" korean="전투중에 투명화 상태가 되게 한다." />
+	<block key="tf_extinction_Description_2" korean="전투중에 투명화 상태가 되게 한다." />
+	<block key="tf_extinction_Description_3" korean="전투중에 투명화 상태가 되게 한다." />
+	<block key="tf_extinctionbomb_Name" korean="소멸탄" />
+	<block key="tf_extinctionbomb_Description_1" korean="수정중" />
+	<block key="tf_extinctionbomb_Description_2" korean="수정중" />
+	<block key="tf_extinctionbomb_Description_3" korean="수정중" />
+	<block key="TF_flash_Name" korean="섬광격" />
+	<block key="TF_flash_Description_1" korean="강한 빛을 대상에게 터트려 10초 동안 공격 명중률을 40% 감소시킨다." />
+	<block key="TF_flash_Description_2" korean="강한 빛을 대상에게 터트려 30초 동안 공격 명중률을 55% 감소시킨다." />
+	<block key="TF_flash_Description_3" korean="강한 빛을 대상에게 터트려 5초 동안 공격 명중률을 70% 감소시킨다." />
+	<block key="TF_flashboom_Name" korean="섬광 폭탄" />
+	<block key="TF_flashboom_Description_1" korean="적이 물리 공격을 빚맞혔을 때 사용 가능하며 55~68의 피해를 주고 5초간 기절 시킨 뒤 대상의 뒤쪽에서 나타난다." />
+	<block key="TF_flashboom_Description_2" korean="적이 물리 공격을 빚맞혔을 때 사용 가능하며 79~96의 피해를 주고 5초간 기절 시킨 뒤 대상의 뒤쪽에서 나타난다." />
+	<block key="TF_flashboom_Description_3" korean="적이 물리 공격을 빚맞혔을 때 사용 가능하며 6~10의 피해를 주고 5초간 기절 시킨 뒤 대상의 뒤쪽에서 나타난다." />
+	<block key="TF_flashboom_Description_4" korean="적이 물리 공격을 빚맞혔을 때 사용 가능하며 6~10의 피해를 주고 5초간 기절 시킨 뒤 대상의 뒤쪽에서 나타난다." />
+	<block key="tf_gauntletgaurd_Name" korean="투갑 방어" />
+	<block key="tf_gauntletgaurd_Description_1" korean="일정 시간동안 투갑으로 적의 근접 공격을 방어한다." />
+	<block key="tf_gauntletgaurd_Description_2" korean="일정 시간동안 투갑으로 적의 근접 공격을 방어한다." />
+	<block key="tf_gauntletgaurd_Description_3" korean="일정 시간동안 투갑으로 적의 근접 공격을 방어한다." />
+	<block key="tf_heartblow_Name" korean="심장 치기" />
+	<block key="tf_heartblow_Description_1" korean="뇌진탕 이후 사용 가능하며, 대상의 심장을 쳐서 물리 공격력에 추가로 69~84피해를 주고 일정시간 동안 심장 약화 상태로 만든다. 심장 약화 상태에 걸린 대상은 방어력이 감소한다. 추가로 위협수치가 증가간다." />
+	<block key="tf_heartblow_Description_2" korean="뇌진탕 이후 사용 가능하며, 대상의 심장을 쳐서 물리 공격력에 추가로 120~147피해를 주고 일정시간 동안 심장 약화 상태로 만든다. 심장 약화 상태에 걸린 대상은 방어력이 감소한다. 추가로 위협수치가 증가간다." />
+	<block key="tf_heartblow_Description_3" korean="뇌진탕 이후 사용 가능하며, 대상의 심장을 쳐서 물리 공격력에 추가로 20~30피해를 주고 일정시간 동안 심장 약화 상태로 만든다. 심장 약화 상태에 걸린 대상은 방어력이 감소한다. 추가로 위협수치가 증가간다." />
+	<block key="tf_heartblow_Description_4" korean="뇌진탕 이후 사용 가능하며, 대상의 심장을 쳐서 물리 공격력에 추가로 20~30피해를 주고 일정시간 동안 심장 약화 상태로 만든다. 심장 약화 상태에 걸린 대상은 방어력이 감소한다. 추가로 위협수치가 증가간다." />
+	<block key="tf_heartpiercing_Name" korean="심장 찌르기" />
+	<block key="tf_heartpiercing_Description_1" korean="심장 치기 이후에 사용 가능하며, 대상에게 피해를 준다." />
+	<block key="tf_heartpiercing_Description_2" korean="심장 치기 이후에 사용 가능하며, 대상에게 피해를 준다." />
+	<block key="tf_heartpiercing_Description_3" korean="심장 치기 이후에 사용 가능하며, 대상에게 피해를 준다." />
+	<block key="tf_legattack_Name" korean="다리 걸기" />
+	<block key="tf_legattack_Description_1" korean="뇌진탕 이후에 사용 가능하며, 대상의 다리를 걸어 37~46의 피해를 주고 바닥에 넘어뜨린다. 추가적으로 10초동안 이동속도를 50% 감소시킨다." />
+	<block key="tf_legattack_Description_2" korean="뇌진탕 이후에 사용 가능하며, 대상의 다리를 걸어 79~96의 피해를 주고 바닥에 넘어뜨린다. 추가적으로 10초동안 이동속도를 60% 감소시킨다." />
+	<block key="tf_legattack_Description_3" korean="뇌진탕 이후에 사용 가능하며, 대상의 다리를 걸어 48~53의 피해를 주고 바닥에 넘어뜨린다. 추가적으로 10초동안 이동속도를 70% 감소시킨다." />
+	<block key="tf_legattack_Description_4" korean="뇌진탕 이후에 사용 가능하며, 대상의 다리를 걸어 48~53의 피해를 주고 바닥에 넘어뜨린다. 추가적으로 10초동안 이동속도를 70% 감소시킨다." />
+	<block key="tf_legattack_Description_5" korean="뇌진탕 이후에 사용 가능하며, 대상의 다리를 걸어 48~53의 피해를 주고 바닥에 넘어뜨린다. 추가적으로 10초동안 이동속도를 70% 감소시킨다." />
+	<block key="TF_memoryoff_Name" korean="돌려차기" />
+	<block key="TF_memoryoff_Description_1" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_2" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_3" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_4" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_5" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_6" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_7" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_8" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_9" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_10" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_11" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_12" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_13" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_14" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_15" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_16" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_17" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_18" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_19" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_Description_20" korean="돌려차기로 대상을 180도 회전시키는 공격을 합니다. 
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+적에게 <G_Y>침묵효과<G_Y>를 걸어 1.5초 동안 기절시킵니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[돌려차기]</Y_Y> 사용 시 기본 공격력의 200% 증가 피해를 주지만, <G_Y>침묵효과</G_Y>가 적용되지 않습니다." />
+	<block key="TF_memoryoff_change_Name" korean="돌려차기" />
+	<block key="memoryoff_change_Name" korean="돌려차기" />
+	<block key="TF_mirrorimage_Name" korean="잔상" />
+	<block key="TF_mirrorimage_Description_1" korean="잔상을 만들어 내어 15초간 회피율을 높힌다." />
+	<block key="TF_mirrorimage_Description_2" korean="잔상을 만들어 내어 15초간 회피율을 높힌다." />
+	<block key="TF_mirrorimage_Description_3" korean="잔상을 만들어 내어 15초간 회피율을 높힌다." />
+	<block key="TF_mirrorimage_Description_4" korean="잔상을 만들어 내어 15초간 회피율을 높힌다." />
+	<block key="TF_mirrorimage_Description_5" korean="잔상을 만들어 내어 15초간 회피율을 높힌다." />
+	<block key="TF_mirrorimage_Description_6" korean="잔상을 만들어 내어 15초간 회피율을 높힌다." />
+	<block key="TF_mirrorimage_Description_7" korean="잔상을 만들어 내어 15초간 회피율을 높힌다." />
+	<block key="TF_mirrorimage_Description_8" korean="잔상을 만들어 내어 15초간 회피율을 높힌다." />
+	<block key="TF_mirrorimage_Description_9" korean="잔상을 만들어 내어 15초간 회피율을 높힌다." />
+	<block key="TF_mirrorimage_Description_10" korean="잔상을 만들어 내어 15초간 회피율을 높힌다." />
+	<block key="tf_nelson_Name" korean="숨통 조르기" />
+	<block key="tf_nelson_Description_1" korean="투명화 상태에서 사용 가능하며, 대상의 목을 졸라 정신을 잃게 한다." />
+	<block key="tf_nelson_Description_2" korean="투명화 상태에서 사용 가능하며, 대상의 목을 졸라 정신을 잃게 한다." />
+	<block key="tf_nelson_Description_3" korean="투명화 상태에서 사용 가능하며, 대상의 목을 졸라 정신을 잃게 한다." />
+	<block key="tf_nelson_Description_4" korean="투명화 상태에서 사용 가능하며, 대상의 목을 졸라 정신을 잃게 한다." />
+	<block key="tf_nelson_Description_5" korean="투명화 상태에서 사용 가능하며, 대상의 목을 졸라 정신을 잃게 한다." />
+	<block key="tf_nelson_Description_6" korean="투명화 상태에서 사용 가능하며, 대상의 목을 졸라 정신을 잃게 한다." />
+	<block key="tf_netthrow_Name" korean="그물 던지기" />
+	<block key="tf_netthrow_Description_1" korean="대상에게 그물을 던져 2초 동안 행동 불가 상태로 만든다." />
+	<block key="tf_netthrow_Description_2" korean="대상에게 그물을 던져 3초 동안 행동 불가 상태로 만든다." />
+	<block key="tf_netthrow_Description_3" korean="대상에게 그물을 던져 4초 동안 행동 불가 상태로 만든다." />
+	<block key="tf_netthrow_Description_4" korean="대상에게 그물을 던져 5초 동안 행동 불가 상태로 만든다." />
+	<block key="tf_poisonpiercing_Name" korean="독 찌르기" />
+	<block key="tf_poisonpiercing_Description_1" korean="독이 묻은 무기로 대상을 공격하여 물리 공격력에 추가로 10~20의 피해를 주고, 10초간 신체 독 중독 상태에 빠트린다." />
+	<block key="tf_poisonpiercing_Description_2" korean="독이 묻은 무기로 대상을 공격하여 물리 공격력에 추가로 10~20의 피해를 주고, 10초간 신체 독 중독 상태에 빠트린다." />
+	<block key="tf_poisonpiercing_Description_3" korean="독이 묻은 무기로 대상을 공격하여 물리 공격력에 추가로 10~20의 피해를 주고, 10초간 신체 독 중독 상태에 빠트린다." />
+	<block key="tf_poisonpiercing_Description_4" korean="독이 묻은 무기로 대상을 공격하여 물리 공격력에 추가로 10~20의 피해를 주고, 10초간 신체 독 중독 상태에 빠트린다." />
+	<block key="tf_poisonpiercing_Description_5" korean="독이 묻은 무기로 대상을 공격하여 물리 공격력에 추가로 10~20의 피해를 주고, 10초간 신체 독 중독 상태에 빠트린다." />
+	<block key="tf_quickmove_Name" korean="기민한 움직임" />
+	<block key="tf_quickmove_Description_1" korean="기민한 움직임으로 날렵하게 이동합니다.
+
+ - 이동하는 동안 대상의 공격을 높은 확률로 회피합니다.
+
+ - <font color="#FFBB00">w+w : 정면이동</G_Y>
+
+ - <font color="#FFBB00">a+a / d+d : 왼쪽/오른쪽 횡이동</G_Y>
+
+ - <font color="#FFBB00">s+s : 후방 이동</G_Y>" />
+	<block key="tf_quickmove_Description_2" korean="기민한 움직임으로 날렵하게 이동합니다.
+
+ - 이동하는 동안 대상의 공격을 높은 확률로 회피합니다.
+
+ - <font color="#FFBB00">w+w : 정면이동</G_Y>
+
+ - <font color="#FFBB00">a+a / d+d : 왼쪽/오른쪽 횡이동</G_Y>
+
+ - <font color="#FFBB00">s+s : 후방 이동</G_Y>" />
+	<block key="tf_quickmove_Description_3" korean="기민한 움직임으로 날렵하게 이동합니다.
+
+ - 이동하는 동안 대상의 공격을 높은 확률로 회피합니다.
+
+ - <font color="#FFBB00">w+w : 정면이동</G_Y>
+
+ - <font color="#FFBB00">a+a / d+d : 왼쪽/오른쪽 횡이동</G_Y>
+
+ - <font color="#FFBB00">s+s : 후방 이동</G_Y>" />
+	<block key="tf_quickmove_Description_4" korean="기민한 움직임으로 날렵하게 이동합니다.
+
+ - 이동하는 동안 대상의 공격을 높은 확률로 회피합니다.
+
+ - <font color="#FFBB00">w+w : 정면이동</G_Y>
+
+ - <font color="#FFBB00">a+a / d+d : 왼쪽/오른쪽 횡이동</G_Y>
+
+ - <font color="#FFBB00">s+s : 후방 이동</G_Y>" />
+	<block key="tf_quickmove_Description_5" korean="기민한 움직임으로 날렵하게 이동합니다.
+
+ - 이동하는 동안 대상의 공격을 높은 확률로 회피합니다.
+
+ - <font color="#FFBB00">w+w : 정면이동</G_Y>
+
+ - <font color="#FFBB00">a+a / d+d : 왼쪽/오른쪽 횡이동</G_Y>
+
+ - <font color="#FFBB00">s+s : 후방 이동</G_Y>" />
+	<block key="tf_quickmove_Description_6" korean="기민한 움직임으로 날렵하게 이동합니다.
+
+ - 이동하는 동안 대상의 공격을 높은 확률로 회피합니다.
+
+ - <font color="#FFBB00">w+w : 정면이동</G_Y>
+
+ - <font color="#FFBB00">a+a / d+d : 왼쪽/오른쪽 횡이동</G_Y>
+
+ - <font color="#FFBB00">s+s : 후방 이동</G_Y>" />
+	<block key="tf_quickmove_Description_7" korean="기민한 움직임으로 날렵하게 이동합니다.
+
+ - 이동하는 동안 대상의 공격을 높은 확률로 회피합니다.
+
+ - <font color="#FFBB00">w+w : 정면이동</G_Y>
+
+ - <font color="#FFBB00">a+a / d+d : 왼쪽/오른쪽 횡이동</G_Y>
+
+ - <font color="#FFBB00">s+s : 후방 이동</G_Y>" />
+	<block key="tf_quickmove_Description_8" korean="기민한 움직임으로 날렵하게 이동합니다.
+
+ - 이동하는 동안 대상의 공격을 높은 확률로 회피합니다.
+
+ - <font color="#FFBB00">w+w : 정면이동</G_Y>
+
+ - <font color="#FFBB00">a+a / d+d : 왼쪽/오른쪽 횡이동</G_Y>
+
+ - <font color="#FFBB00">s+s : 후방 이동</G_Y>" />
+	<block key="tf_quickmove_Description_9" korean="기민한 움직임으로 날렵하게 이동합니다.
+
+ - 이동하는 동안 대상의 공격을 높은 확률로 회피합니다.
+
+ - <font color="#FFBB00">w+w : 정면이동</G_Y>
+
+ - <font color="#FFBB00">a+a / d+d : 왼쪽/오른쪽 횡이동</G_Y>
+
+ - <font color="#FFBB00">s+s : 후방 이동</G_Y>" />
+	<block key="tf_quickmove_Description_10" korean="기민한 움직임으로 날렵하게 이동합니다.
+
+ - 이동하는 동안 대상의 공격을 높은 확률로 회피합니다.
+
+ - <font color="#FFBB00">w+w : 정면이동</G_Y>
+
+ - <font color="#FFBB00">a+a / d+d : 왼쪽/오른쪽 횡이동</G_Y>
+
+ - <font color="#FFBB00">s+s : 후방 이동</G_Y>" />
+	<block key="tf_sandthrow_Name" korean="모래 돌풍" />
+	<block key="tf_sandthrow_Description_1" korean="플레이어 주변 일정 영역에 모래를 뿌려서 투명화 상태의 적을 포착한다." />
+	<block key="tf_sandthrow_Description_2" korean="플레이어 주변 일정 영역에 모래를 뿌려서 투명화 상태의 적을 포착한다." />
+	<block key="tf_sandthrow_Description_3" korean="플레이어 주변 일정 영역에 모래를 뿌려서 투명화 상태의 적을 포착한다." />
+	<block key="tf_shadowattack_Name" korean="그림자 공격" />
+	<block key="tf_shadowattack_Description_1" korean="일정 시간 동안 분신이 생성되어 같이 공격을 한다. (같은 공격을 1회 추가한다.) 스킬 공격도 같이 적용된다." />
+	<block key="tf_shadowattack_Description_2" korean="일정 시간 동안 분신이 생성되어 같이 공격을 한다. (같은 공격을 1회 추가한다.) 스킬 공격도 같이 적용된다." />
+	<block key="tf_shadowattack_Description_3" korean="일정 시간 동안 분신이 생성되어 같이 공격을 한다. (같은 공격을 1회 추가한다.) 스킬 공격도 같이 적용된다." />
+	<block key="TF_shadowextinction_Name" korean="그림자 소멸" />
+	<block key="TF_shadowextinction_Description_1" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다." />
+	<block key="TF_shadowextinction_Description_2" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다." />
+	<block key="TF_shadowextinction_Description_3" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_4" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_5" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_6" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_7" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_8" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_9" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_10" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_11" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_12" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_13" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_14" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_15" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_16" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_17" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_18" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_19" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="TF_shadowextinction_Description_20" korean="제자리에서 회전하며 대상을 공격하여 스턴 상태로 만들고, 뒤로 날렵하게 이동합니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_smokebomb_Name" korean="연막탄" />
+	<block key="tf_smokebomb_Description_1" korean="플레이어가 서 있는 위치에 연막탄을 터트려서 모든 공격에 대한 회피율을 10 초 동안 40%만큼 증가시킨다." />
+	<block key="tf_smokebomb_Description_2" korean="플레이어가 서 있는 위치에 연막탄을 터트려서 모든 공격에 대한 회피율을 10 초 동안 55%만큼 증가시킨다." />
+	<block key="tf_smokebomb_Description_3" korean="플레이어가 서 있는 위치에 연막탄을 터트려서 모든 공격에 대한 회피율을 10 초 동안 70%만큼 증가시킨다." />
+	<block key="tf_smokebomb_Description_4" korean="플레이어가 서 있는 위치에 연막탄을 터트려서 모든 공격에 대한 회피율을 10 초 동안 85%만큼 증가시킨다." />
+	<block key="tf_spinefracture_Name" korean="척추 골절" />
+	<block key="tf_spinefracture_Description_1" korean="섬광 폭탄 이후 사용 가능하며, 대상을 뒤에서 가격하여 물리 공격력에 추가로 68~83의 피해를 입히고 넘어지게 만든다. 10초 동안 이동 속도와 공격속도가 40% 감소한다." />
+	<block key="tf_spinefracture_Description_2" korean="섬광 폭탄 이후 사용 가능하며, 대상을 뒤에서 가격하여 물리 공격력에 추가로 140~171의 피해를 입히고 넘어지게 만든다. 10초 동안 이동 속도와 공격속도가 60% 감소한다." />
+	<block key="tf_spinefracture_Description_3" korean="섬광 폭탄 이후 사용 가능하며, 대상을 뒤에서 가격하여 물리 공격력에 추가로 60~80의 피해를 입히고 넘어지게 만든다. 10초 동안 이동 속도와 공격속도가 80% 감소한다." />
+	<block key="TF_sprint_Name" korean="전력 질주" />
+	<block key="TF_sprint_Description_1" korean="10초간 이동 속도를 향상 시킨다." />
+	<block key="TF_sprint_Description_2" korean="10초간 이동 속도를 향상 시킨다." />
+	<block key="TF_sprint_Description_3" korean="10초간 이동 속도를 향상 시킨다." />
+	<block key="TF_sprint_Description_4" korean="10초간 이동 속도를 향상 시킨다." />
+	<block key="TF_sprint_Description_5" korean="10초간 이동 속도를 향상 시킨다." />
+	<block key="TF_sprint_Description_6" korean="10초간 이동 속도를 향상 시킨다." />
+	<block key="TF_sprint_Description_7" korean="10초간 이동 속도를 향상 시킨다." />
+	<block key="TF_sprint_Description_8" korean="10초간 이동 속도를 향상 시킨다." />
+	<block key="TF_sprint_Description_9" korean="10초간 이동 속도를 향상 시킨다." />
+	<block key="TF_sprint_Description_10" korean="10초간 이동 속도를 향상 시킨다." />
+	<block key="tf_stomachblow_Name" korean="명치 타격" />
+	<block key="tf_stomachblow_Description_1" korean="대상의 명치를 칼날 손잡이로 쳐서 2 ~ 3의 피해를 주고 넘어지게 만든다." />
+	<block key="tf_stomachblow_Description_2" korean="대상의 명치를 칼날 손잡이로 쳐서 4 ~ 5의 피해를 주고 넘어지게 만든다." />
+	<block key="tf_stomachblow_Description_3" korean="대상의 명치를 칼날 손잡이로 쳐서 7 ~ 8의 피해를 주고 넘어지게 만든다." />
+	<block key="tf_stomachblow_Description_4" korean="대상의 명치를 칼날 손잡이로 쳐서 11 ~ 13의 피해를 주고 넘어지게 만든다." />
+	<block key="tf_stomachblow_Description_5" korean="대상의 명치를 칼날 손잡이로 쳐서 17 ~ 19의 피해를 주고 넘어지게 만든다." />
+	<block key="tf_stomachblow_Description_6" korean="대상의 명치를 칼날 손잡이로 쳐서 5 ~ 10의 피해를 주고 넘어지게 만든다." />
+	<block key="tf_stomachblow_Description_7" korean="대상의 명치를 칼날 손잡이로 쳐서 5 ~ 10의 피해를 주고 넘어지게 만든다." />
+	<block key="tf_stomachblow_Description_8" korean="대상의 명치를 칼날 손잡이로 쳐서 5 ~ 10의 피해를 주고 넘어지게 만든다." />
+	<block key="TF_transparency_Name" korean="투명화" />
+	<block key="TF_transparency_Description_1" korean="투명화 상태가 되어 적에게 모습이 보이지 않지만, 적과 거리가 가까울수록 발견되기 쉽다. 이동 속도가 50% 느려진다." />
+	<block key="TF_transparency_Description_2" korean="투명화 상태가 되어 적에게 모습이 보이지 않지만, 적과 거리가 가까울수록 발견되기 쉽다. 이동 속도가 40% 느려진다." />
+	<block key="TF_transparency_Description_3" korean="투명화 상태가 되어 적에게 모습이 보이지 않지만, 적과 거리가 가까울수록 발견되기 쉽다. 이동 속도가 30% 느려진다." />
+	<block key="TF_transparency_Description_4" korean="투명화 상태가 되어 적에게 모습이 보이지 않지만, 적과 거리가 가까울수록 발견되기 쉽다. 이동 속도가 20% 느려진다." />
+	<block key="tf_bola01_Name" korean="볼라" />
+	<block key="tf_bola01_description_1" korean="볼라 1" />
+	<block key="tf_bola01_description_2" korean="볼라 2" />
+	<block key="tf_bola01_description_3" korean="볼라 3" />
+	<block key="tf_crumpani_Name" korean="폭음탄(소환)" />
+	<block key="tf_crumpani_description_1" korean="폭음탄(소환)" />
+	<block key="tf_flashboom01_Name" korean="섬광 폭탄" />
+	<block key="tf_flashboom01_description_1" korean="섬광 폭탄" />
+	<block key="tf_shadowextinction0_Name" korean="그림자 소멸" />
+	<block key="tf_shadowextinction0_description_1" korean="그림자 소멸 1" />
+	<block key="tf_shadowextinction0_description_2" korean="그림자 소멸 2" />
+	<block key="tf_shadowextinction0_description_3" korean="그림자 소멸 3" />
+	<block key="tf_shadowextinction0_description_4" korean="그림자 소멸 4" />
+	<block key="tf_shadowextinction0_description_5" korean="그림자 소멸 5" />
+	<block key="tf_1handsword_Name" korean="한손 검 착용" />
+	<block key="tf_1handsword_description_1" korean="한손 검을 착용할 수 있습니다." />
+	<block key="tf_chain_Name" korean="사슬 착용" />
+	<block key="tf_chain_description_1" korean="사슬재질의 방어구를 착용할 수 있습니다." />
+	<block key="tf_cloth_Name" korean="천 착용" />
+	<block key="tf_cloth_description_1" korean="천재질의 방어구를 착용할 수 있습니다." />
+	<block key="tf_dagger_Name" korean="단검 착용" />
+	<block key="tf_dagger_description_1" korean="단검을 착용할 수 있습니다." />
+	<block key="tf_duel_Name" korean="쌍수 착용" />
+	<block key="tf_duel_description_1" korean="양손에 한손 무기를 한개씩 착용할 수 있습니다." />
+	<block key="tf_gauntlet_Name" korean="투갑 착용" />
+	<block key="tf_gauntlet_description_1" korean="투갑을 착용할 수 있습니다." />
+	<block key="tf_leather_Name" korean="가죽 착용" />
+	<block key="tf_leather_description_1" korean="가죽재질의 방어구를 착용할 수 있습니다." />
+	<block key="tf_aircombo_Name" korean="공중 연속 베기" />
+	<block key="tf_aircombo_description_1" korean="살의의 기술을 사용한 이후에 사용 가능한 스킬로 공중으로 뛰어 올라서 대상을 수차례 빠르게 베서 데미지를 준다." />
+	<block key="tf_attbreak_Name" korean="공격력 붕괴" />
+	<block key="tf_attbreak_description_1" korean="투갑으로 블락한 이후에 활성화 되는 스킬로 적 대상을 투갑으로 후려쳐서 데미지를 주고, 공격력을 일정 시간 동안 감소 시킨다." />
+	<block key="tf_bodybreak_Name" korean="신체 붕괴" />
+	<block key="tf_bodybreak_description_1" korean="공격력 붕괴 이후 사용할 수 있는 스킬로 적 대상에게 데미지를 주고, 넉다운 시킨다." />
+	<block key="tf_deathatt_Name" korean="살의의 기술" />
+	<block key="tf_deathatt_description_1" korean="투명화 때 사용할 수 있는 스킬로 적 대상을 공중으로 띄워서 공중 속박 상태로 만든다." />
+	<block key="tf_defbreak_Name" korean="방어력 붕괴" />
+	<block key="tf_defbreak_description_1" korean="투갑으로 블락한 이후에 활성화 되는 스킬로 적 대상을 투갑으로 후려쳐서 데미지를 주고, 방어력을 일정 시간 동안 감소 시킨다." />
+	<block key="tf_destruction_Name" korean="파멸" />
+	<block key="tf_destruction_description_1" korean="공중 연속 베기 이후에 사용 가능한 스킬로 적 대상을 바닥으로 내리쳐서 데미지를 주고, 떨어진 대상의 주변에 충격파를 줘서 영역의 적들에게도 데미지를 준다." />
+	<block key="tf_dropatt_Name" korean="바닥 떨구기" />
+	<block key="tf_dropatt_description_1" korean="살의의 기술이 걸린 대상을 발 뒷꿈치로 내리쳐서 데미지를 주고, 바닥으로 떨궈서 넉다운 시킨다." />
+	<block key="tf_lastatt_Name" korean="마무리 공격" />
+	<block key="tf_lastatt_description_1" korean="넉다운 된 대상을 공격하는 스킬로 적 대상을 공중에서 찍어서 데미지를 준다." />
+	<block key="tf_lungecombo_Name" korean="연속 찌르기" />
+	<block key="tf_lungecombo_description_1" korean="방어력 붕괴 이후에 사용할 수 있는 스킬로 투갑으로 적 대상을 기절 시킨 이후에 투갑과 한손 단검으로 수차례 가격하여 데미지를 준다." />
+	<block key="tf_mindbreak_Name" korean="정신 붕괴" />
+	<block key="tf_mindbreak_description_1" korean="공격력 붕괴 이후에 사용할 수 있는 스킬로 적대상에게 데미지를 주고,  일정 시간 동안 기절 시킨다." />
+	<block key="tf_nerveparalysis_Name" korean="신경 마비" />
+	<block key="tf_nerveparalysis_description_1" korean="공중 연속 베기 중에 사용할 수 있는 스킬로 적 대상의 신경을 마비 시켜서 다시 한 번 공중 속박 상태에 걸리게 한다." />
+	<block key="tf_backdash_Name" korean="간격 벌리기" />
+	<block key="tf_backdash_description_1" korean="대상과의 거리를 벌린다. (뒤 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_backdash_description_2" korean="대상과의 거리를 벌린다. (뒤 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_backdash_description_3" korean="대상과의 거리를 벌린다. (뒤 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_backdash_description_4" korean="대상과의 거리를 벌린다. (뒤 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_backdash_description_5" korean="대상과의 거리를 벌린다. (뒤 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_backdash_description_6" korean="대상과의 거리를 벌린다. (뒤 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_backdash_description_7" korean="대상과의 거리를 벌린다. (뒤 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_backdash_description_8" korean="대상과의 거리를 벌린다. (뒤 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_backdash_description_9" korean="대상과의 거리를 벌린다. (뒤 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_backdash_description_10" korean="대상과의 거리를 벌린다. (뒤 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_doublejump_Name" korean="2단 점프" />
+	<block key="tf_doublejump_description_1" korean="점프 상태에서 한번 더 점프를 할 수 있습니다.
+
+ - <G_Y>점프 후 공중에서</G_Y> 스페이스바 추가 입력 시 발동" />
+	<block key="tf_doublejump_description_2" korean="점프 상태에서 한번 더 점프를 할 수 있습니다.
+
+ - <G_Y>점프 후 공중에서</G_Y> 스페이스바 추가 입력 시 발동" />
+	<block key="tf_doublejump_description_3" korean="점프 상태에서 한번 더 점프를 할 수 있습니다.
+
+ - <G_Y>점프 후 공중에서</G_Y> 스페이스바 추가 입력 시 발동" />
+	<block key="tf_doublejump_description_4" korean="점프 상태에서 한번 더 점프를 할 수 있습니다.
+
+ - <G_Y>점프 후 공중에서</G_Y> 스페이스바 추가 입력 시 발동" />
+	<block key="tf_doublejump_description_5" korean="점프 상태에서 한번 더 점프를 할 수 있습니다.
+
+ - <G_Y>점프 후 공중에서</G_Y> 스페이스바 추가 입력 시 발동" />
+	<block key="tf_doublejump_description_6" korean="점프 상태에서 한번 더 점프를 할 수 있습니다.
+
+ - <G_Y>점프 후 공중에서</G_Y> 스페이스바 추가 입력 시 발동" />
+	<block key="tf_doublejump_description_7" korean="점프 상태에서 한번 더 점프를 할 수 있습니다.
+
+ - <G_Y>점프 후 공중에서</G_Y> 스페이스바 추가 입력 시 발동" />
+	<block key="tf_doublejump_description_8" korean="점프 상태에서 한번 더 점프를 할 수 있습니다.
+
+ - <G_Y>점프 후 공중에서</G_Y> 스페이스바 추가 입력 시 발동" />
+	<block key="tf_doublejump_description_9" korean="점프 상태에서 한번 더 점프를 할 수 있습니다.
+
+ - <G_Y>점프 후 공중에서</G_Y> 스페이스바 추가 입력 시 발동" />
+	<block key="tf_doublejump_description_10" korean="점프 상태에서 한번 더 점프를 할 수 있습니다.
+
+ - <G_Y>점프 후 공중에서</G_Y> 스페이스바 추가 입력 시 발동" />
+	<block key="tf_doublejumplink_Name" korean="2단 점프" />
+	<block key="tf_doublejumplink_description_1" korean="점프 상태에서 한번 더 점프를 할 수 있습니다.
+
+ - <G_Y>점프 후 공중에서</G_Y> 스페이스바 추가 입력 시 발동" />
+	<block key="tf_scissorskick_Name" korean="반달차기" />
+	<block key="tf_scissorskick_description_1" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_2" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_3" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_4" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_5" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_6" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_7" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_8" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_9" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_10" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_11" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_12" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_13" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_14" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_15" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_16" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_17" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_18" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_19" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskick_description_20" korean="대상을 차올려 공중에 띄웁니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y> 사용 시 150% 증가된 피해를 입힌다." />
+	<block key="tf_scissorskickchange_Name" korean="반달차기" />
+	<block key="tf_pour_Name" korean="쇄도" />
+	<block key="tf_pour_description_1" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_2" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_3" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_4" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_5" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_6" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_7" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_8" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_9" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_10" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_11" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_12" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_13" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_14" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_15" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_16" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_17" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_18" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_19" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pour_description_20" korean="사슬낫을 사용하여, 원거리 대상을 공격한 후 그곳으로 이동합니다.
+
+- <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[쇄도]</Y_Y> 사용 시 대상에게 잠시동안 <G_Y>기절효과</G_Y>를 발생시킵니다.
+
+- 공중에서도 사용 가능" />
+	<block key="tf_pourchange_Name" korean="쇄도" />
+	<block key="tf_crescentcut_Name" korean="달빛가르기" />
+	<block key="tf_crescentcut_description_1" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_description_1_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름" />
+	<block key="tf_crescentcut_description_2" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_description_2_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름" />
+	<block key="tf_crescentcut_description_3" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_description_3_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름" />
+	<block key="tf_crescentcut_description_4" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_description_4_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_description_5" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_description_5_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_description_6" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_description_6_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_description_7" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_description_7_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_description_8" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_description_8_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_description_9" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_description_9_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_description_10" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_description_10_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_Description_11" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_Description_11_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름" />
+	<block key="tf_crescentcut_Description_12" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_Description_12_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름" />
+	<block key="tf_crescentcut_Description_13" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_Description_13_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름" />
+	<block key="tf_crescentcut_Description_14" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_Description_14_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_Description_15" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_Description_15_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_Description_16" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_Description_16_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_Description_17" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_Description_17_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_Description_18" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_Description_18_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_Description_19" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_Description_19_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut_Description_20" korean="원거리의 대상을 날렵하게 베고 지나칩니다. 
+
+ - 연타 시 최대 5회까지 공격을 시도합니다.
+
+ - <Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[달빛가르기]</Y_Y> 사용 시 자신의 크리티컬 확률을 15% 증가
+ - 1타: 이동 공격" />
+	<block key="tf_crescentcut_Description_20_attach_0" korean="
+ - 2타: 이동 공격
+ - 3타: 이동 공격
+ - 4타: 이동 공격
+ - 5타: 이동 공격 시 대상 떠오름
+
+ - <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다." />
+	<block key="tf_crescentcut2_Name" korean="달빛가르기2타" />
+	<block key="tf_crescentcut3_Name" korean="달빛가르기3타" />
+	<block key="tf_crescentcut4_Name" korean="달빛가르기4타" />
+	<block key="tf_crescentcut5_Name" korean="달빛가르기5타" />
+	<block key="tf_footattack_Name" korean="차기" />
+	<block key="tf_footattack_description_1" korean="누어 있는 대상을 발로차, 앉는 상태로 만든다." />
+	<block key="tf_daggermake_Name" korean="단도 만들기" />
+	<block key="tf_daggermake_description_1" korean="단도를 만들어 낸다. 최대 10개까지 생성 가능하다. [전투 중 제작 불가]" />
+	<block key="tf_daggermake_description_2" korean="단도를 만들어 낸다. 최대 10개까지 생성 가능하다. [전투 중 제작 불가]" />
+	<block key="tf_daggermake_description_3" korean="단도를 만들어 낸다. 최대 10개까지 생성 가능하다. [전투 중 제작 불가]" />
+	<block key="tf_daggermake_description_4" korean="단도를 만들어 낸다. 최대 10개까지 생성 가능하다. [전투 중 제작 불가]" />
+	<block key="tf_daggermake_description_5" korean="단도를 만들어 낸다. 최대 10개까지 생성 가능하다. [전투 중 제작 불가]" />
+	<block key="tf_daggermake_description_6" korean="단도를 만들어 낸다. 최대 10개까지 생성 가능하다. [전투 중 제작 불가]" />
+	<block key="tf_daggermake_description_7" korean="단도를 만들어 낸다. 최대 10개까지 생성 가능하다. [전투 중 제작 불가]" />
+	<block key="tf_daggermake_description_8" korean="단도를 만들어 낸다. 최대 10개까지 생성 가능하다. [전투 중 제작 불가]" />
+	<block key="tf_daggermake_description_9" korean="단도를 만들어 낸다. 최대 10개까지 생성 가능하다. [전투 중 제작 불가]" />
+	<block key="tf_daggermake_description_10" korean="단도를 만들어 낸다. 최대 10개까지 생성 가능하다. [전투 중 제작 불가]" />
+	<block key="tf_throwdagger_air_Name" korean="단도 던지기" />
+	<block key="tf_throwdagger_air_description_1" korean="적 대상에게 단도를 4연속 던질 수 있습니다. 
+
+- <Y_Y>[단도 던지기]</Y_Y>를 반복 사용 시 <G_Y>[피로누적]</G_Y> 상태가 되며, 스태미너가 소모됩니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다.
+
+- <G_Y>[공중에서도 사용 가능]</G_Y>" />
+	<block key="tf_throwdagger_air_description_2" korean="적 대상에게 단도를 4연속 던질 수 있습니다. 
+
+- <Y_Y>[단도 던지기]</Y_Y>를 반복 사용 시 <G_Y>[피로누적]</G_Y> 상태가 되며, 스태미너가 소모됩니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다.
+
+- <G_Y>[공중에서도 사용 가능]</G_Y>" />
+	<block key="tf_throwdagger_air_description_3" korean="적 대상에게 단도를 4연속 던질 수 있습니다. 
+
+- <Y_Y>[단도 던지기]</Y_Y>를 반복 사용 시 <G_Y>[피로누적]</G_Y> 상태가 되며, 스태미너가 소모됩니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다.
+
+- <G_Y>[공중에서도 사용 가능]</G_Y>" />
+	<block key="tf_throwdagger_air_description_4" korean="적 대상에게 단도를 4연속 던질 수 있습니다. 
+
+- <Y_Y>[단도 던지기]</Y_Y>를 반복 사용 시 <G_Y>[피로누적]</G_Y> 상태가 되며, 스태미너가 소모됩니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다.
+
+- <G_Y>[공중에서도 사용 가능]</G_Y>" />
+	<block key="tf_throwdagger_air_description_5" korean="적 대상에게 단도를 4연속 던질 수 있습니다. 
+
+- <Y_Y>[단도 던지기]</Y_Y>를 반복 사용 시 <G_Y>[피로누적]</G_Y> 상태가 되며, 스태미너가 소모됩니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다.
+
+- <G_Y>[공중에서도 사용 가능]</G_Y>" />
+	<block key="tf_throwdagger_air_description_6" korean="적 대상에게 단도를 4연속 던질 수 있습니다. 
+
+- <Y_Y>[단도 던지기]</Y_Y>를 반복 사용 시 <G_Y>[피로누적]</G_Y> 상태가 되며, 스태미너가 소모됩니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다.
+
+- <G_Y>[공중에서도 사용 가능]</G_Y>" />
+	<block key="tf_throwdagger_air_description_7" korean="적 대상에게 단도를 4연속 던질 수 있습니다. 
+
+- <Y_Y>[단도 던지기]</Y_Y>를 반복 사용 시 <G_Y>[피로누적]</G_Y> 상태가 되며, 스태미너가 소모됩니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다.
+
+- <G_Y>[공중에서도 사용 가능]</G_Y>" />
+	<block key="tf_throwdagger_air_description_8" korean="적 대상에게 단도를 4연속 던질 수 있습니다. 
+
+- <Y_Y>[단도 던지기]</Y_Y>를 반복 사용 시 <G_Y>[피로누적]</G_Y> 상태가 되며, 스태미너가 소모됩니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다.
+
+- <G_Y>[공중에서도 사용 가능]</G_Y>" />
+	<block key="tf_throwdagger_air_description_9" korean="적 대상에게 단도를 4연속 던질 수 있습니다. 
+
+- <Y_Y>[단도 던지기]</Y_Y>를 반복 사용 시 <G_Y>[피로누적]</G_Y> 상태가 되며, 스태미너가 소모됩니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다.
+
+- <G_Y>[공중에서도 사용 가능]</G_Y>" />
+	<block key="tf_throwdagger_air_description_10" korean="적 대상에게 단도를 4연속 던질 수 있습니다. 
+
+- <Y_Y>[단도 던지기]</Y_Y>를 반복 사용 시 <G_Y>[피로누적]</G_Y> 상태가 되며, 스태미너가 소모됩니다.
+
+- <Y_Y>[맹독]</Y_Y> <R_Y>(27레벨 습득)</R_Y>사용 시 사용하고 있는 독(맹독, 신경독, 정신독)에 따라, 추가 효과가 다르게 발생됩니다.
+
+- <G_Y>[공중에서도 사용 가능]</G_Y>" />
+	<block key="tf_throwdagger2_air_name" korean="단도 던지기" />
+	<block key="tf_throwdagger3_air_name" korean="단도 던지기" />
+	<block key="tf_throwdagger4_air_name" korean="단도 던지기" />
+	<block key="tf_naturalability_Name" korean="타고난 움직임" />
+	<block key="tf_naturalability_description_1" korean="<G_Y>[전투 중 이동 시]</G_Y> 회피력이 15만틈 증가됩니다." />
+	<block key="tf_naturalability_description_2" korean="<G_Y>[전투 중 이동 시]</G_Y> 회피력이 15만틈 증가됩니다." />
+	<block key="tf_naturalability_description_3" korean="<G_Y>[전투 중 이동 시]</G_Y> 회피력이 15만틈 증가됩니다." />
+	<block key="tf_naturalability_description_4" korean="<G_Y>[전투 중 이동 시]</G_Y> 회피력이 15만틈 증가됩니다." />
+	<block key="tf_naturalability_description_5" korean="<G_Y>[전투 중 이동 시]</G_Y> 회피력이 15만틈 증가됩니다." />
+	<block key="tf_naturalability_description_6" korean="<G_Y>[전투 중 이동 시]</G_Y> 회피력이 15만틈 증가됩니다." />
+	<block key="tf_naturalability_description_7" korean="<G_Y>[전투 중 이동 시]</G_Y> 회피력이 15만틈 증가됩니다." />
+	<block key="tf_naturalability_description_8" korean="<G_Y>[전투 중 이동 시]</G_Y> 회피력이 15만틈 증가됩니다." />
+	<block key="tf_naturalability_description_9" korean="<G_Y>[전투 중 이동 시]</G_Y> 회피력이 15만틈 증가됩니다." />
+	<block key="tf_naturalability_description_10" korean="<G_Y>[전투 중 이동 시]</G_Y> 회피력이 15만틈 증가됩니다." />
+	<block key="tf_sprigcut_Name" korean="가지 베기" />
+	<block key="tf_sprigcut_description_1" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_2" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_3" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_4" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_5" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_6" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_7" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_8" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_9" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_10" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_11" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_12" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_13" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_14" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_15" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_16" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_17" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_18" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_19" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcut_description_20" korean="빠르게 접근해서 섬광같은 공격을 시도합니다.
+
+- 연타 시 최대 3회까지 공격이 가능합니다. 
+
+- <Y_Y>[반달차기]</Y_Y> 사용 후 <Y_Y>[가지베기]</Y_Y> 사용 시 공중 콤보를 사용할 수 있습니다." />
+	<block key="tf_sprigcutchange_Name" korean="가지 베기" />
+	<block key="tf_sprigcut2_Name" korean="가지 베기2타" />
+	<block key="tf_sprigcut3_Name" korean="가지 베기3타" />
+	<block key="sprigcut_change_name" korean="<G_Y>[반달차기]</G_Y> 사용 후 <G_Y>[가지베기]</G_Y>" />
+	<block key="tf_sprigbreak_Name" korean="가지 꺾기" />
+	<block key="tf_sprigbreak_description_1" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_2" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_3" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_4" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_5" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_6" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_7" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_8" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_9" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_10" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_11" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_12" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_13" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_14" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_15" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_16" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_17" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_18" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_19" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreak_description_20" korean="대상을 무릎으로 차올리고, 바닥으로 강하게 내려찹니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 내려찹니다." />
+	<block key="tf_sprigbreakchange_Name" korean="가지 꺾기" />
+	<block key="sprigbreakchange_Name" korean="가지 꺾기 - <G_Y>[공중 상태]</G_Y>" />
+	<block key="tf_sprigtread_Name" korean="가지 밟기" />
+	<block key="tf_sprigtread_description_1" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_2" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_3" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_4" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_5" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_6" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_7" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_8" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_9" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_10" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_11" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_12" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_13" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_14" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_15" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_16" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_17" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_18" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_19" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtread_description_20" korean="대상의 발목을 향해 두발을 회전해 현란한 공격을 시도합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+<Y_Y>[가지 꺾기]</Y_Y> 사용 후 사용할 수 있습니다.
+
+- 만약, 대상이 <G_Y>[공중 상태]</G_Y>면, 대상을 강하게 찍어내립니다." />
+	<block key="tf_sprigtreadchange_Name" korean="가지 밟기" />
+	<block key="tf_leafsmash_Name" korean="낙엽떨구기" />
+	<block key="tf_leafsmash_description_1" korean="사슬낫의 사슬을 이용하여 공중에서 대상을 잡아채 내리 꽂는다. [대상 공중 상태 필요]" />
+	<block key="tf_leafsmash_description_2" korean="사슬낫의 사슬을 이용하여 공중에서 대상을 잡아채 내리 꽂는다. [대상 공중 상태 필요]" />
+	<block key="tf_leafsmash_description_3" korean="사슬낫의 사슬을 이용하여 공중에서 대상을 잡아채 내리 꽂는다. [대상 공중 상태 필요]" />
+	<block key="tf_leafsmash_description_4" korean="사슬낫의 사슬을 이용하여 공중에서 대상을 잡아채 내리 꽂는다. [대상 공중 상태 필요]" />
+	<block key="tf_leafsmash_description_5" korean="사슬낫의 사슬을 이용하여 공중에서 대상을 잡아채 내리 꽂는다. [대상 공중 상태 필요]" />
+	<block key="tf_leafsmash_description_6" korean="사슬낫의 사슬을 이용하여 공중에서 대상을 잡아채 내리 꽂는다. [대상 공중 상태 필요]" />
+	<block key="tf_leafsmash_description_7" korean="사슬낫의 사슬을 이용하여 공중에서 대상을 잡아채 내리 꽂는다. [대상 공중 상태 필요]" />
+	<block key="tf_leafsmash_description_8" korean="사슬낫의 사슬을 이용하여 공중에서 대상을 잡아채 내리 꽂는다. [대상 공중 상태 필요]" />
+	<block key="tf_leafsmash_description_9" korean="사슬낫의 사슬을 이용하여 공중에서 대상을 잡아채 내리 꽂는다. [대상 공중 상태 필요]" />
+	<block key="tf_leafsmash_description_10" korean="사슬낫의 사슬을 이용하여 공중에서 대상을 잡아채 내리 꽂는다. [대상 공중 상태 필요]" />
+	<block key="tf_leafcut_Name" korean="낙엽가르기" />
+	<block key="tf_leafcut_description_1" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_2" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_3" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_4" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_5" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_6" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_7" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_8" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_9" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_10" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_11" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_12" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_13" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_14" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_15" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_16" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_17" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_18" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_19" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="tf_leafcut_description_20" korean="공중에서 빠르게 회전하며 대상을 공격합니다.
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[가지베기]</Y_Y> 3타 이후 사용 가능합니다." />
+	<block key="critical_link_Name" korean="상처 내기" />
+	<block key="critical_link_Description_1" korean="강력한 공격 시 대상에게 상처를 입힙니다.
+
+- <G_Y>50% 확률로 크리티컬 발생</G_Y> 및 <G_Y>[특정 스킬 사용 시]</G_Y> <R_Y>적대상</R_Y>에게 상처가 발생합니다.
+
+- 최대 5중첩이 가능합니다." />
+	<block key="critical_link_Description_2" korean="강력한 공격 시 대상에게 상처를 입힙니다.
+
+- <G_Y>50% 확률로 크리티컬 발생</G_Y> 및 <G_Y>[특정 스킬 사용 시]</G_Y> <R_Y>적대상</R_Y>에게 상처가 발생합니다.
+
+- 최대 5중첩이 가능합니다." />
+	<block key="critical_link_Description_3" korean="강력한 공격 시 대상에게 상처를 입힙니다.
+
+- <G_Y>50% 확률로 크리티컬 발생</G_Y> 및 <G_Y>[특정 스킬 사용 시]</G_Y> <R_Y>적대상</R_Y>에게 상처가 발생합니다.
+
+- 최대 5중첩이 가능합니다." />
+	<block key="critical_link_Description_4" korean="강력한 공격 시 대상에게 상처를 입힙니다.
+
+- <G_Y>50% 확률로 크리티컬 발생</G_Y> 및 <G_Y>[특정 스킬 사용 시]</G_Y> <R_Y>적대상</R_Y>에게 상처가 발생합니다.
+
+- 최대 5중첩이 가능합니다." />
+	<block key="critical_link_Description_5" korean="강력한 공격 시 대상에게 상처를 입힙니다.
+
+- <G_Y>50% 확률로 크리티컬 발생</G_Y> 및 <G_Y>[특정 스킬 사용 시]</G_Y> <R_Y>적대상</R_Y>에게 상처가 발생합니다.
+
+- 최대 5중첩이 가능합니다." />
+	<block key="critical_link_Description_6" korean="강력한 공격 시 대상에게 상처를 입힙니다.
+
+- <G_Y>50% 확률로 크리티컬 발생</G_Y> 및 <G_Y>[특정 스킬 사용 시]</G_Y> <R_Y>적대상</R_Y>에게 상처가 발생합니다.
+
+- 최대 5중첩이 가능합니다." />
+	<block key="critical_link_Description_7" korean="강력한 공격 시 대상에게 상처를 입힙니다.
+
+- <G_Y>50% 확률로 크리티컬 발생</G_Y> 및 <G_Y>[특정 스킬 사용 시]</G_Y> <R_Y>적대상</R_Y>에게 상처가 발생합니다.
+
+- 최대 5중첩이 가능합니다." />
+	<block key="critical_link_Description_8" korean="강력한 공격 시 대상에게 상처를 입힙니다.
+
+- <G_Y>50% 확률로 크리티컬 발생</G_Y> 및 <G_Y>[특정 스킬 사용 시]</G_Y> <R_Y>적대상</R_Y>에게 상처가 발생합니다.
+
+- 최대 5중첩이 가능합니다." />
+	<block key="critical_link_Description_9" korean="강력한 공격 시 대상에게 상처를 입힙니다.
+
+- <G_Y>50% 확률로 크리티컬 발생</G_Y> 및 <G_Y>[특정 스킬 사용 시]</G_Y> <R_Y>적대상</R_Y>에게 상처가 발생합니다.
+
+- 최대 5중첩이 가능합니다." />
+	<block key="critical_link_Description_10" korean="강력한 공격 시 대상에게 상처를 입힙니다.
+
+- <G_Y>50% 확률로 크리티컬 발생</G_Y> 및 <G_Y>[특정 스킬 사용 시]</G_Y> <R_Y>적대상</R_Y>에게 상처가 발생합니다.
+
+- 최대 5중첩이 가능합니다." />
+	<block key="tf_sidestepr_Name" korean="오른쪽 횡이동" />
+	<block key="tf_sidestepr_description_1" korean="날렵하게 오른쪽 횡으로 이동하며 공격을 100% 회피한다. (오른쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepr_description_2" korean="날렵하게 오른쪽 횡으로 이동하며 공격을 100% 회피한다. (오른쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepr_description_3" korean="날렵하게 오른쪽 횡으로 이동하며 공격을 100% 회피한다. (오른쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepr_description_4" korean="날렵하게 오른쪽 횡으로 이동하며 공격을 100% 회피한다. (오른쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepr_description_5" korean="날렵하게 오른쪽 횡으로 이동하며 공격을 100% 회피한다. (오른쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepr_description_6" korean="날렵하게 오른쪽 횡으로 이동하며 공격을 100% 회피한다. (오른쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepr_description_7" korean="날렵하게 오른쪽 횡으로 이동하며 공격을 100% 회피한다. (오른쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepr_description_8" korean="날렵하게 오른쪽 횡으로 이동하며 공격을 100% 회피한다. (오른쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepr_description_9" korean="날렵하게 오른쪽 횡으로 이동하며 공격을 100% 회피한다. (오른쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepr_description_10" korean="날렵하게 오른쪽 횡으로 이동하며 공격을 100% 회피한다. (오른쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepl_Name" korean="왼쪽 횡이동" />
+	<block key="tf_sidestepl_description_1" korean="날렵하게 왼쪽 횡으로 이동하며 공격을 100% 회피한다. (왼쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepl_description_2" korean="날렵하게 왼쪽 횡으로 이동하며 공격을 100% 회피한다. (왼쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepl_description_3" korean="날렵하게 왼쪽 횡으로 이동하며 공격을 100% 회피한다. (왼쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepl_description_4" korean="날렵하게 왼쪽 횡으로 이동하며 공격을 100% 회피한다. (왼쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepl_description_5" korean="날렵하게 왼쪽 횡으로 이동하며 공격을 100% 회피한다. (왼쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepl_description_6" korean="날렵하게 왼쪽 횡으로 이동하며 공격을 100% 회피한다. (왼쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepl_description_7" korean="날렵하게 왼쪽 횡으로 이동하며 공격을 100% 회피한다. (왼쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepl_description_8" korean="날렵하게 왼쪽 횡으로 이동하며 공격을 100% 회피한다. (왼쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepl_description_9" korean="날렵하게 왼쪽 횡으로 이동하며 공격을 100% 회피한다. (왼쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_sidestepl_description_10" korean="날렵하게 왼쪽 횡으로 이동하며 공격을 100% 회피한다. (왼쪽 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_frontdash_Name" korean="간격 좁히기" />
+	<block key="tf_frontdash_description_1" korean="날렵하게 정면의 대상과 간격을 좁힌다.  (앞 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_frontdash_description_2" korean="날렵하게 정면의 대상과 간격을 좁힌다.  (앞 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_frontdash_description_3" korean="날렵하게 정면의 대상과 간격을 좁힌다.  (앞 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_frontdash_description_4" korean="날렵하게 정면의 대상과 간격을 좁힌다.  (앞 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_frontdash_description_5" korean="날렵하게 정면의 대상과 간격을 좁힌다.  (앞 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_frontdash_description_6" korean="날렵하게 정면의 대상과 간격을 좁힌다.  (앞 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_frontdash_description_7" korean="날렵하게 정면의 대상과 간격을 좁힌다.  (앞 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_frontdash_description_8" korean="날렵하게 정면의 대상과 간격을 좁힌다.  (앞 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_frontdash_description_9" korean="날렵하게 정면의 대상과 간격을 좁힌다.  (앞 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_frontdash_description_10" korean="날렵하게 정면의 대상과 간격을 좁힌다.  (앞 이동 키 2회 연타 시 사용 가능)" />
+	<block key="tf_tpamp_Name" korean="스태미너 수급" />
+	<block key="tf_tpamp_description_1" korean="<G_Y>전투 상태</G_Y>에서도 스태미너를 회복 시킵니다. 
+
+- <G_Y>공격을 받을 시</G_Y> 회복량의 50%만큼 제한됩니다." />
+	<block key="tf_tpamp_description_2" korean="<G_Y>전투 상태</G_Y>에서도 스태미너를 회복 시킵니다. 
+
+- <G_Y>공격을 받을 시</G_Y> 회복량의 50%만큼 제한됩니다." />
+	<block key="tf_tpamp_description_3" korean="<G_Y>전투 상태</G_Y>에서도 스태미너를 회복 시킵니다. 
+
+- <G_Y>공격을 받을 시</G_Y> 회복량의 50%만큼 제한됩니다." />
+	<block key="tf_tpamp_description_4" korean="<G_Y>전투 상태</G_Y>에서도 스태미너를 회복 시킵니다. 
+
+- <G_Y>공격을 받을 시</G_Y> 회복량의 50%만큼 제한됩니다." />
+	<block key="tf_tpamp_description_5" korean="<G_Y>전투 상태</G_Y>에서도 스태미너를 회복 시킵니다. 
+
+- <G_Y>공격을 받을 시</G_Y> 회복량의 50%만큼 제한됩니다." />
+	<block key="tf_tpamp_description_6" korean="<G_Y>전투 상태</G_Y>에서도 스태미너를 회복 시킵니다. 
+
+- <G_Y>공격을 받을 시</G_Y> 회복량의 50%만큼 제한됩니다." />
+	<block key="tf_tpamp_description_7" korean="<G_Y>전투 상태</G_Y>에서도 스태미너를 회복 시킵니다. 
+
+- <G_Y>공격을 받을 시</G_Y> 회복량의 50%만큼 제한됩니다." />
+	<block key="tf_tpamp_description_8" korean="<G_Y>전투 상태</G_Y>에서도 스태미너를 회복 시킵니다. 
+
+- <G_Y>공격을 받을 시</G_Y> 회복량의 50%만큼 제한됩니다." />
+	<block key="tf_tpamp_description_9" korean="<G_Y>전투 상태</G_Y>에서도 스태미너를 회복 시킵니다. 
+
+- <G_Y>공격을 받을 시</G_Y> 회복량의 50%만큼 제한됩니다." />
+	<block key="tf_tpamp_description_10" korean="<G_Y>전투 상태</G_Y>에서도 스태미너를 회복 시킵니다. 
+
+- <G_Y>공격을 받을 시</G_Y> 회복량의 50%만큼 제한됩니다." />
+	<block key="tf_tplimit_Name" korean="수급 제한" />
+	<block key="tf_tplimit_description_1" korean="대상에게 공격을 받으면 스태미너 수급이 제한된다." />
+	<block key="tf_tplimit_description_2" korean="대상에게 공격을 받으면 스태미너 수급이 제한된다." />
+	<block key="tf_tplimit_description_3" korean="대상에게 공격을 받으면 스태미너 수급이 제한된다." />
+	<block key="tf_tplimit_description_4" korean="대상에게 공격을 받으면 스태미너 수급이 제한된다." />
+	<block key="tf_tplimit_description_5" korean="대상에게 공격을 받으면 스태미너 수급이 제한된다." />
+	<block key="tf_tplimit_description_6" korean="대상에게 공격을 받으면 스태미너 수급이 제한된다." />
+	<block key="tf_tplimit_description_7" korean="대상에게 공격을 받으면 스태미너 수급이 제한된다." />
+	<block key="tf_tplimit_description_8" korean="대상에게 공격을 받으면 스태미너 수급이 제한된다." />
+	<block key="tf_tplimit_description_9" korean="대상에게 공격을 받으면 스태미너 수급이 제한된다." />
+	<block key="tf_tplimit_description_10" korean="대상에게 공격을 받으면 스태미너 수급이 제한된다." />
+	<block key="tf_tired_Name" korean="피로" />
+	<block key="tf_tired_description_1" korean="기민한 움직임이 반복될 경우 피로감이 쌓인다. "피로누적" 상태가 되면 스태미너가 소모된다." />
+	<block key="tf_tired_description_2" korean="기민한 움직임이 반복될 경우 피로감이 쌓인다. "피로누적" 상태가 되면 스태미너가 소모된다." />
+	<block key="tf_tired_description_3" korean="기민한 움직임이 반복될 경우 피로감이 쌓인다. "피로누적" 상태가 되면 스태미너가 소모된다." />
+	<block key="tf_tired_description_4" korean="기민한 움직임이 반복될 경우 피로감이 쌓인다. "피로누적" 상태가 되면 스태미너가 소모된다." />
+	<block key="tf_tired_description_5" korean="기민한 움직임이 반복될 경우 피로감이 쌓인다. "피로누적" 상태가 되면 스태미너가 소모된다." />
+	<block key="tf_tired_description_6" korean="기민한 움직임이 반복될 경우 피로감이 쌓인다. "피로누적" 상태가 되면 스태미너가 소모된다." />
+	<block key="tf_tired_description_7" korean="기민한 움직임이 반복될 경우 피로감이 쌓인다. "피로누적" 상태가 되면 스태미너가 소모된다." />
+	<block key="tf_tired_description_8" korean="기민한 움직임이 반복될 경우 피로감이 쌓인다. "피로누적" 상태가 되면 스태미너가 소모된다." />
+	<block key="tf_tired_description_9" korean="기민한 움직임이 반복될 경우 피로감이 쌓인다. "피로누적" 상태가 되면 스태미너가 소모된다." />
+	<block key="tf_tired_description_10" korean="기민한 움직임이 반복될 경우 피로감이 쌓인다. "피로누적" 상태가 되면 스태미너가 소모된다." />
+	<block key="tf_tpincrease_Name" korean="피로누적" />
+	<block key="tf_tpincrease_description_1" korean="피로가 누적되어 기민한 움직임에도 스태미너가 소모된다." />
+	<block key="tf_tpincrease_description_2" korean="피로가 누적되어 기민한 움직임에도 스태미너가 소모된다." />
+	<block key="tf_tpincrease_description_3" korean="피로가 누적되어 기민한 움직임에도 스태미너가 소모된다." />
+	<block key="tf_tpincrease_description_4" korean="피로가 누적되어 기민한 움직임에도 스태미너가 소모된다." />
+	<block key="tf_tpincrease_description_5" korean="피로가 누적되어 기민한 움직임에도 스태미너가 소모된다." />
+	<block key="tf_tpincrease_description_6" korean="피로가 누적되어 기민한 움직임에도 스태미너가 소모된다." />
+	<block key="tf_tpincrease_description_7" korean="피로가 누적되어 기민한 움직임에도 스태미너가 소모된다." />
+	<block key="tf_tpincrease_description_8" korean="피로가 누적되어 기민한 움직임에도 스태미너가 소모된다." />
+	<block key="tf_tpincrease_description_9" korean="피로가 누적되어 기민한 움직임에도 스태미너가 소모된다." />
+	<block key="tf_tpincrease_description_10" korean="피로가 누적되어 기민한 움직임에도 스태미너가 소모된다." />
+	<block key="tf_backcritical_Name" korean="서늘한 뒷덜미" />
+	<block key="tf_backcritical_description_1" korean="어쌔신의 능력을 강화 시킵니다.
+
+ - <G_Y>[대상의 뒤]</G_Y>에서 공격할 경우 공격력이 50%, 치명타 확률 20%만큼 증가합니다." />
+	<block key="tf_backcritical_description_2" korean="어쌔신의 능력을 강화 시킵니다.
+
+ - <G_Y>[대상의 뒤]</G_Y>에서 공격할 경우 공격력이 50%, 치명타 확률 20%만큼 증가합니다." />
+	<block key="tf_backcritical_description_3" korean="어쌔신의 능력을 강화 시킵니다.
+
+ - <G_Y>[대상의 뒤]</G_Y>에서 공격할 경우 공격력이 50%, 치명타 확률 20%만큼 증가합니다." />
+	<block key="tf_backcritical_description_4" korean="어쌔신의 능력을 강화 시킵니다.
+
+ - <G_Y>[대상의 뒤]</G_Y>에서 공격할 경우 공격력이 50%, 치명타 확률 20%만큼 증가합니다." />
+	<block key="tf_backcritical_description_5" korean="어쌔신의 능력을 강화 시킵니다.
+
+ - <G_Y>[대상의 뒤]</G_Y>에서 공격할 경우 공격력이 50%, 치명타 확률 20%만큼 증가합니다." />
+	<block key="tf_backcritical_description_6" korean="어쌔신의 능력을 강화 시킵니다.
+
+ - <G_Y>[대상의 뒤]</G_Y>에서 공격할 경우 공격력이 50%, 치명타 확률 20%만큼 증가합니다." />
+	<block key="tf_backcritical_description_7" korean="어쌔신의 능력을 강화 시킵니다.
+
+ - <G_Y>[대상의 뒤]</G_Y>에서 공격할 경우 공격력이 50%, 치명타 확률 20%만큼 증가합니다." />
+	<block key="tf_backcritical_description_8" korean="어쌔신의 능력을 강화 시킵니다.
+
+ - <G_Y>[대상의 뒤]</G_Y>에서 공격할 경우 공격력이 50%, 치명타 확률 20%만큼 증가합니다." />
+	<block key="tf_backcritical_description_9" korean="어쌔신의 능력을 강화 시킵니다.
+
+ - <G_Y>[대상의 뒤]</G_Y>에서 공격할 경우 공격력이 50%, 치명타 확률 20%만큼 증가합니다." />
+	<block key="tf_backcritical_description_10" korean="어쌔신의 능력을 강화 시킵니다.
+
+ - <G_Y>[대상의 뒤]</G_Y>에서 공격할 경우 공격력이 50%, 치명타 확률 20%만큼 증가합니다." />
+	<block key="tf_normalattack_Name" korean="자동 공격" />
+	<block key="tf_normalattack_description_1" korean="대상을 자동으로 공격합니다. 자동 공격은 활성화하거나 비활성화 시킬 수 있습니다." />
+	<block key="tf_deathpoison_name" korean="맹독" />
+	<block key="deathpoison1_name" korean="신경독" />
+	<block key="deathpoison2_name" korean="정신독" />
+	<block key="tf_deathpoison_name_Description_1" korean="독을 자신의 무기에 발라 사용할 수 있습니다.
+ 
+ - [1회 선택 시] 맹독이 발생합니다. 
+
+ - [2회 선택 시] 신경독이 발생합니다.
+
+ - [3회 선택 시] 정신독이 발생합니다.
+
+ - 맹독은 일정시간 동안 추가 데미지를 주고 신경독은 공격속도 느리게 만들고 정신독은 적의 이동속도를 느리게 만듭니다." />
+	<block key="tf_daggersong_name" korean="단검의 노래" />
+	<block key="tf_daggersong_Description_1" korean="후방으로 돌면서 전방을 향해 한번에 다수의 수리검을 날립니다. 
+
+ - <G_Y>[공중 상태]</G_Y>에서도 사용 가능합니다." />
+	<block key="tf_daggersong_Description_2" korean="후방으로 돌면서 전방을 향해 한번에 다수의 수리검을 날립니다. 
+
+ - <G_Y>[공중 상태]</G_Y>에서도 사용 가능합니다." />
+	<block key="tf_daggersong_Description_3" korean="후방으로 돌면서 전방을 향해 한번에 다수의 수리검을 날립니다. 
+
+ - <G_Y>[공중 상태]</G_Y>에서도 사용 가능합니다." />
+	<block key="tf_daggersong_Description_4" korean="후방으로 돌면서 전방을 향해 한번에 다수의 수리검을 날립니다. 
+
+ - <G_Y>[공중 상태]</G_Y>에서도 사용 가능합니다." />
+	<block key="tf_daggersong_Description_5" korean="후방으로 돌면서 전방을 향해 한번에 다수의 수리검을 날립니다. 
+
+ - <G_Y>[공중 상태]</G_Y>에서도 사용 가능합니다." />
+	<block key="tf_daggersong_Description_6" korean="후방으로 돌면서 전방을 향해 한번에 다수의 수리검을 날립니다. 
+
+ - <G_Y>[공중 상태]</G_Y>에서도 사용 가능합니다." />
+	<block key="tf_daggersong_Description_7" korean="후방으로 돌면서 전방을 향해 한번에 다수의 수리검을 날립니다. 
+
+ - <G_Y>[공중 상태]</G_Y>에서도 사용 가능합니다." />
+	<block key="tf_daggersong_Description_8" korean="후방으로 돌면서 전방을 향해 한번에 다수의 수리검을 날립니다. 
+
+ - <G_Y>[공중 상태]</G_Y>에서도 사용 가능합니다." />
+	<block key="tf_daggersong_Description_9" korean="후방으로 돌면서 전방을 향해 한번에 다수의 수리검을 날립니다. 
+
+ - <G_Y>[공중 상태]</G_Y>에서도 사용 가능합니다." />
+	<block key="tf_daggersong_Description_10" korean="후방으로 돌면서 전방을 향해 한번에 다수의 수리검을 날립니다. 
+
+ - <G_Y>[공중 상태]</G_Y>에서도 사용 가능합니다." />
+	<block key="tf_deathpoison_Description_1" korean="단검에 독을 바릅니다.
+
+ - 맹독, 신경독, 정신독 중 선택하여 사용할 수 있습니다. 단검을 이용한 스킬 공격 시 독 효과가 적용됩니다. (평타 제외)
+" />
+	<block key="tf_deathpoison_Description_1_attach_0" korean="
+ -  모든 독은 최대3회 중첩 가능합니다.
+
+ - <Y_Y>[맹독]</Y_Y>: 적에게 맹독 디버프가 발생하여 HP를 감소시킵니다.
+ 
+ - <Y_Y>[신경독]</Y_Y>: 적에게 신경독 디버프가 발생하여 이동속도를 감소시킵니다.
+
+ - <Y_Y>[정신독]</Y_Y>: 적에게 정신독 디버프가 발생하여 공격력을 감소시킵니다." />
+	<block key="scissorskickchange_name" korean="< Y_Y>[기민한 움직임]</Y_Y> 사용 후 <Y_Y>[반달차기]</Y_Y>" />
+	<block key="tf_sprigtread2_name" korean="가지 밟기 - <G_Y>[공중상태]</G_Y>" />
+	<block key="tf_avoid_name" korean="회피증가" />
+	<block key="sprigtreadchange_name" korean="가지 밟기" />
+	<block key="tf_sprigcut1_1_Name" korean="맹독" />
+	<block key="tf_sprigcut2_2_Name" korean="신경독" />
+	<block key="tf_sprigcut2_3_Name" korean="정신독" />
+	<block key="tf_sprigcut2_1_Name" korean="맹독" />
+	<block key="sprigcut2_change_Name" korean="가지 베기" />
+	<block key="sprigcut3_change_Name" korean="가지 베기" />
+	<block key="tf_sprigcut2_4_Name" korean="신경독" />
+	<block key="tf_sprigcut2_5_Name" korean="정신독" />
+	<block key="tf_sprigcut3_1_Name" korean="맹독" />
+	<block key="tf_sprigcut3_2_Name" korean="신경독" />
+	<block key="tf_sprigcut3_3_Name" korean="정신독" />
+	<block key="sprigbreakchangelink_Name" korean="가지꺾기" />
+	<block key="tf_shadowextinction1_Name" korean="맹독" />
+	<block key="tf_shadowextinction2_Name" korean="신경독" />
+	<block key="tf_shadowextinction3_Name" korean="정신독" />
+	<block key="ft_deepstab_1_Name" korean="맹독" />
+	<block key="tf_deepstab_2_Name" korean="신경독" />
+	<block key="tf_deepstab_3_Name" korean="정신독" />
+	<block key="tf_daggersong2_Name" korean="단검의 노래" />
+	<block key="tf_throwdagger_air_1_Name" korean="맹독" />
+	<block key="tf_throwdagger_air2_Name" korean="신경독" />
+	<block key="tf_throwdagger_air3_Name" korean="정신독" />
+	<block key="tf_thowdagger1_1_Name" korean="맹독" />
+	<block key="tf_thowdagger1_2_Name" korean="신경독" />
+	<block key="tf_thowdagger1_3_Name" korean="정신독" />
+	<block key="tf_crescentcut1_1_Name" korean="달빛가르기" />
+	<block key="tf_crescentcut1_2_Name" korean="달빛가르기" />
+	<block key="tf_crescentcut1_3_Name" korean="달빛가르기" />
+	<block key="memoryoff_dummy_Name" korean="돌려차기" />
+	<block key="tf_deathpoison1_1_Name" korean="맹독" />
+	<block key="tf_backattack1_1_Name" korean="맹독" />
+	<block key="tf_backattack1_2_Name" korean="신경독" />
+	<block key="tf_backattack1_3_Name" korean="정신독" />
+	<block key="deathpoison2_1_Name" korean="신경독" />
+	<block key="tf_2comboslash1_1_Name" korean="맹독" />
+	<block key="tf_2comboslash1_2_Name" korean="신경독" />
+	<block key="tf_2comboslash1_3_Name" korean="정신독" />
+	<block key="deathpoison3_1_Name" korean="정신독" />
+	<block key="tf_dangerarea_Name" korean="위험지대" />
+	<block key="dangerarealink_Name" korean="위험지대" />
+	<block key="dangerarealink1_Name" korean="위험지대" />
+	<block key="dangerarealink2_Name" korean="위험지대" />
+	<block key="tf_dangerarea_Description_1" korean="10초 동안 일정 범위를 맹독 성질의 지대로 만들어 버립니다.
+
+ - <G_Y>[신경독]</G_Y>: 효과 적용 중 사용 시 신경독 성질의 지대가 생성되고 범위 내 적들의 방어력 20%, 명중률 30을 감소시킵니다.
+
+ - <G_Y>[정신독]</G_Y>: 효과 적용 중 사용 시 정신독 성질의 지대가 생성되고 범위 내 적들의 이동속도 30%, 캐스팅 속도 30%, 치명타 확률 50%를  감소시킵니다." />
+	<block key="tf_fiercewhisper_Name" korean="매서운 속삭임" />
+	<block key="tf_fiercewhisper_Description_1" korean="위협 수치를 감소하는 능력을 강화시킵니다. 
+
+ - <G_Y>[근접 공격 시]</G_Y> 10%만큼 자신의 어그로 점수를 감소시킵니다." />
+	<block key="tf_dodgebackdash_Name" korean="날렵한 움직임" />
+	<block key="tf_dodgebackdash_Description_1" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며 날렵하게 후방으로 회피합니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>에서 사용가능 합니다." />
+	<block key="tf_dodgebackdash2_Name" korean="날렵한 움직임" />
+	<block key="tf_dodgebackdash2_Description_1" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며 날렵하게 후방으로 회피합니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>에서 사용가능 합니다." />
+	<block key="tf_dangerareaatk_Name" korean="위험지대" />
+	<block key="tf_dangerareaatk_description_1" korean="두개의 단검으로 바닥을 있는 힘껏 내려쳐 독지대를 소환합니다. 
+
+ - 독지대는 15초 동안 소환되며 초당 283의 피해를 줍니다.
+ 
+ - 장착한 특성에 따라서 사용되는 스킬의 성질이 달라집니다." />
+	<block key="tf_skillbook1_name" korean="살아있는 단검" />
+	<block key="tf_skillbook2_name" korean="감각적인 움직임" />
+	<block key="tf_skillbook1_Description_1" korean="어쌔신의 감춰진 능력을 폭발시킵니다.
+
+ -  물리 치명타 피해가 300증가됩니다.
+
+ - <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="tf_skillbook2_Description_1" korean="어쌔신의 날렵함이 전투 중 발휘됩니다.
+
+ - 자신이 <G_Y>[공격 피격 시]</G_Y> 10초 동안 이동속도가 5% 증가합니다.
+
+ - 최대 5중첩이 가능합니다.
+
+ - <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="tf_dangerareaatkb1_name" korean="위험지대" />
+	<block key="dangerareaatklink2_name" korean="위험지대" />
+	<block key="tf_dangerareaatk4_name" korean="위험지대" />
+	<block key="dangerareaatklink6_name" korean="위험지대" />
+	<block key="tf_dangerareaatkr1_name" korean="위험지대" />
+	<block key="dangerareaatklink1_name" korean="위험지대" />
+	<block key="tf_dangerareaatk2_name" korean="위험지대" />
+	<block key="dangerareaatklink4_name" korean="위험지대" />
+	<block key="tf_dangerareaatk5_name" korean="위험지대" />
+	<block key="dangerareaatklink7_name" korean="위험지대" />
+	<block key="tf_dangerareaatk3_name" korean="위험지대" />
+	<block key="dangerareaatklink5_name" korean="위험지대" />
+	<block key="tf_dangerareaatkg1_name" korean="위험지대" />
+	<block key="dangerareaatklink3_name" korean="위험지대" />
+	<block key="tf_spincut_name" korean="축회전 베기" />
+	<block key="tf_spincutr_name" korean="축회전 베기" />
+	<block key="tf_spincutg_name" korean="축회전 베기" />
+	<block key="tf_spincutb_name" korean="축회전 베기" />
+	<block key="tf_spincutrg_name" korean="축회전 베기" />
+	<block key="tf_spincutrb_name" korean="축회전 베기" />
+	<block key="tf_spincutgb_name" korean="축회전 베기" />
+	<block key="tf_spincutrgb_name" korean="축회전 베기" />
+	<block key="tf_spincutr_link1_name" korean="축회전 베기" />
+	<block key="tf_boardbuffskill_Name" korean="[탑승]쾌속의 움직임" />
+	<block key="tf_boardbuffskill_description_1" korean="탑승 전투 전용 스킬로 쾌속의 움직임으로 물리치명타와 회피력이 증가합니다." />
+	<block key="tf_spincut_description_1" korean="전방으로 빠르게 대쉬하여 회전 점프로 적을 신속하게 띄워버리는 공격을 가합니다.
+
+ - 장착한 특성에 따라서 사용되는 스킬의 성질이 달라집니다." />
+	<block key="rs_tf_sprigbreak_description" korean="가지 꺾기" />
+	<block key="critical_scratch_Name" korean="출혈" />
+	<block key="tf_leafcutlink_Name" korean="낙엽가르기" />
+	<block key="tf_leafcutlink_description_1" korean="공중에서 빠르게 회전하며 대상을 공격합니다. (기력 5소모)
+<O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+- <Y_Y>[반달차기]</Y_Y>이후<Y_Y>[가지베기]</Y_Y> 3타 사용 시 발동됩니다." />
+	<block key="tf_calm_name" korean="침착한 대응" />
+	<block key="tf_calm_description_1" korean="침착한 대응으로 자신의 어그로 점수를 99% 낮춥니다." />
+	<block key="tf_newbies01_Name" korean="여신의 은총" />
+	<block key="tf_newbies01_Description_1" korean="엘로라 여신의 은총입니다.
+
+ - 모든 경험치가 20% 증가합니다.
+
+ - 40Lv이 되면 여신의 은총 효과를 받을 수 없습니다." />
+	<block key="tf_skillbook3_name" korean="강화된 단검" />
+	<block key="tf_skillbook3_Description_1" korean="어쌔신의 감춰진 능력을 폭발시킵니다.
+
+ -  물리 치명타가 3% 증가 됩니다.
+
+ - <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="tf_knifestorm_Name" korean="칼날폭풍" />
+	<block key="tf_knifestorm_Description_1" korean="칼날 폭풍을 소환하여 주변 4m 적에게 피해를 입힌다.
+
+ - <O_Y>치명타 적중 시</O_Y> 상처 발생." />
+	<block key="tf_weakpoint_Name" korean="약점 공략" />
+	<block key="tf_weakpoint_description_1" korean="상처가 발생된 적에게 강한 타격을 입힙니다.
+
+ - [가지 베기]를 강화 합니다.
+ - [상처]가 발생된 적에게 사용 시 2000의 추가 데미지가 적용 됩니다.
+ - 0.3%의 확률 대상 HP의 0.1%를 감소 시킵니다." />
+	<block key="tf_speedknife_Name" korean="신속한 칼날" />
+	<block key="tf_speedknife_description_1" korean="주변 2m의 적에게 빠른 타격을 가합니다." />
+	<block key="tf_quickblade_name" korean="신속한 칼날" />
+	<block key="tf_quickbladeb_name" korean="신속한 칼날" />
+	<block key="tf_quickblader_name" korean="신속한 칼날" />
+	<block key="tf_quickbladerb_name" korean="신속한 칼날" />
+	<block key="tf_quickbladeg_name" korean="신속한 칼날" />
+	<block key="tf_quickbladegb_name" korean="신속한 칼날" />
+	<block key="tf_quickbladegr_name" korean="신속한 칼날" />
+	<block key="tf_quickbladergb_name" korean="신속한 칼날" />
+	<block key="tf_quickbladelink_name" korean="신속한 칼날" />
+	<block key="tf_quickbladelink2_name" korean="신속한 칼날" />
+	<block key="tf_quickblade_description_1" korean="어쌔신의 민첩함을 활용하여 빠른 타격으로 적에게 강한 타격을 가합니다.
+
+ - 장착한 특성에 따라서 사용되는 스킬의 성질이 달라집니다." />
+	<block key="tf_knistorm_name" korean="칼날폭풍" />
+	<block key="tf_knistormg_name" korean="칼날폭풍" />
+	<block key="tf_knistormr_name" korean="칼날폭풍" />
+	<block key="tf_knistormb_name" korean="칼날폭풍" />
+	<block key="tf_knistormrg_name" korean="칼날폭풍" />
+	<block key="tf_knistormbg_name" korean="칼날폭풍" />
+	<block key="tf_knistormbr_name" korean="칼날폭풍" />
+	<block key="tf_knistormrgb_name" korean="칼날폭풍" />
+	<block key="knistormlinkg_name" korean="칼날폭풍" />
+	<block key="tf_knistorm_description_1" korean="칼날폭풍을 일으켜 주변 4m의 적에게 강한 타격을 입힙니다.
+
+ - 장착한 특성에 따라서 사용되는 스킬의 성질이 달라집니다." />
+	<block key="tf_glory_name" korean="어쌔신의 영광" />
+	<block key="tf_glory_description_1" korean="어쌔신의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 민첩 스텟이 더욱 강화 됩니다.
+
+ - <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="tf_glory_description_2" korean="어쌔신의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 민첩 스텟이 더욱 강화 됩니다." />
+	<block key="tf_glory_description_3" korean="어쌔신의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 민첩 스텟이 더욱 강화 됩니다." />
+	<block key="tf_glory_description_4" korean="어쌔신의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 민첩 스텟이 더욱 강화 됩니다." />
+	<block key="tf_glory_description_5" korean="어쌔신의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 민첩 스텟이 더욱 강화 됩니다." />
+	<block key="tf_glory_description_6" korean="어쌔신의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 민첩 스텟이 더욱 강화 됩니다." />
+	<block key="tf_glory_description_7" korean="어쌔신의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 민첩 스텟이 더욱 강화 됩니다." />
+	<block key="tf_glory_description_8" korean="어쌔신의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 민첩 스텟이 더욱 강화 됩니다." />
+	<block key="tf_glory_description_9" korean="어쌔신의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 민첩 스텟이 더욱 강화 됩니다." />
+	<block key="tf_glory_description_10" korean="어쌔신의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="tf_movedown_name" korean="[특성]죽음의 경계" />
+</blocks>

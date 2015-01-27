@@ -1,0 +1,1714 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="QU_0_0_0000_Name" korean="고대의 망치" />
+	<block key="QU_0_0_0000_description" korean="성지 관리자 유령이 가지고 있던 망치" />
+	<block key="QU_0_0_0001_Name" korean="쿠할린의 망치" />
+	<block key="QU_0_0_0001_description" korean="대장장이 쿠할린이 빼앗긴 망치" />
+	<block key="QU_0_0_0002_Name" korean="감독관의 상자 열쇠" />
+	<block key="QU_0_0_0002_description" korean="브라기 감독관이 재물을 넣어 둔 보물 상자를 열 수 있다" />
+	<block key="QU_0_0_0003_Name" korean="브라기 가죽끈" />
+	<block key="QU_0_0_0004_Name" korean="붉은 여우의 꼬리" />
+	<block key="QU_0_0_0005_Name" korean="돼지고기" />
+	<block key="QU_0_0_0006_Name" korean="빛나는 가루" />
+	<block key="QU_0_0_0006_description" korean="광채 정령의 몸에서 떨어진 가루" />
+	<block key="QU_0_0_0008_Name" korean="효과가 좋은 약병" />
+	<block key="QU_0_0_0009_Name" korean="빛나는 물이 담긴 물통" />
+	<block key="QU_0_0_0009_description" korean="광채 연못의 물이 담겨 있다" />
+	<block key="QU_0_0_0011_Name" korean="브라기 가죽끈" />
+	<block key="QU_0_0_0012_Name" korean="제룩스의 인증서" />
+	<block key="QU_0_0_0013_Name" korean="잃어버린 폭약" />
+	<block key="QU_0_0_0014_Name" korean="유적지 늑대 발톱" />
+	<block key="QU_0_0_0015_Name" korean="귀환 스크롤" />
+	<block key="QU_0_0_0016_Name" korean="고대의 크리스탈 조각" />
+	<block key="QU_0_0_0016_description" korean="강력한 고대의 힘을 가진 조각" />
+	<block key="QU_0_0_0017_Name" korean="찢어진 브라기의 옷" />
+	<block key="QU_0_0_0017_description" korean="펠로우에게 공격당한 흔적이 남아있다" />
+	<block key="QU_0_0_0018_Name" korean="브라기 염색초" />
+	<block key="QU_0_0_0019_Name" korean="화염 골렘의 조각" />
+	<block key="QU_0_0_0020_Name" korean="율너스에게 보내는 편지" />
+	<block key="QU_0_0_0021_Name" korean="엘프의 천리 망원경" />
+	<block key="QU_0_0_0022_Name" korean="토끼 가죽" />
+	<block key="QU_0_0_0023_Name" korean="서리거미실" />
+	<block key="QU_0_0_0024_Name" korean="수호진 잔해" />
+	<block key="QU_0_0_0025_Name" korean="유적 미로가 나온 지도" />
+	<block key="QU_0_0_0026_Name" korean="차가운 크리스탈" />
+	<block key="QU_0_0_0027_Name" korean="카렌디아의 유물" />
+	<block key="QU_0_0_0028_Name" korean="루비가 떨어져 나간 석상" />
+	<block key="QU_0_0_0029_Name" korean="꿀벌침" />
+	<block key="QU_0_0_0030_Name" korean="악의 기운이 서려있는 석판" />
+	<block key="QU_0_0_0031_Name" korean="연구 학자의 연구 보고서" />
+	<block key="QU_0_0_0032_Name" korean="정화된 석판" />
+	<block key="QU_0_0_0033_Name" korean="응급치료 상자" />
+	<block key="QU_0_0_0034_Name" korean="품질이 좋은 붕대" />
+	<block key="QU_0_0_0035_Name" korean="광채 결정" />
+	<block key="QU_0_0_0036_Name" korean="유적지 여우의 발" />
+	<block key="QU_0_0_0037_Name" korean="포장된 의약품" />
+	<block key="QU_0_0_0037_description" korean="고대 유적지 폐허 남부에 있는 정찰대원 보리스에게 전해줘야 한다" />
+	<block key="QU_0_0_0038_Name" korean="의약품 이름을 적은 양피지" />
+	<block key="QU_0_0_0038_description" korean="신룡기사단 주둔지에 있는 물약 상인 콜먼에게 전해줘야 한다" />
+	<block key="QU_0_0_0039_Name" korean="타슬란의 심장" />
+	<block key="QU_0_0_0039_description" korean="좋지 않은 느낌의 거미 심장. 무척 차갑다." />
+	<block key="QU_0_0_0040_Name" korean="물이 담긴 사제의 물통" />
+	<block key="QU_0_0_0040_description" korean="샘에서 얻은 물이 담겨 있다" />
+	<block key="QU_0_0_0041_Name" korean="크로우의 편지" />
+	<block key="QU_0_0_0043_Name" korean="유령 거미의 독이빨" />
+	<block key="QU_0_0_0044_Name" korean="고대 엘프의 서판" />
+	<block key="QU_0_0_0044_description" korean="고대 엘프가 쓴 글이 새겨져 있다" />
+	<block key="QU_0_0_0045_Name" korean="성난 붉은 여우의 가죽" />
+	<block key="QU_0_0_0046_Name" korean="단단한 멧돼지 어금니" />
+	<block key="QU_0_0_0047_Name" korean="정찰대원의 지혈제" />
+	<block key="QU_0_0_0047_description" korean="상처를 효과적으로 지혈한다" />
+	<block key="QU_0_0_0048_Name" korean="브라기의 주술용 목걸이" />
+	<block key="QU_0_0_0048_description" korean="브라기 샤먼이 주술 의식에 사용하는 목걸이" />
+	<block key="QU_0_0_0049_Name" korean="순록의 고기" />
+	<block key="QU_0_0_0049_description" korean="순록의 고기. 가끔 먹으면 별미." />
+	<block key="QU_0_0_0050_Name" korean="그림자의 혈흔" />
+	<block key="QU_0_0_0050_description" korean="수수께끼의 혈흔. 혈액은 순식간에 사라지고 남은 흔적." />
+	<block key="QU_0_0_0051_Name" korean="거미의 체액" />
+	<block key="QU_0_0_0051_description" korean="거미의 몸에 가득한 체액." />
+	<block key="QU_0_0_0052_Name" korean="엘프의 진통제" />
+	<block key="QU_0_0_0052_description" korean="재료를 알면 쓰기 싫어지는 엘프 특제 진통제." />
+	<block key="QU_0_0_0053_Name" korean="웅담" />
+	<block key="QU_0_0_0053_description" korean="곰의 쓸개. 한때의 만병 통치약." />
+	<block key="QU_0_0_0054_Name" korean="순록의 뿔" />
+	<block key="QU_0_0_0054_description" korean="녹용과는 다르다, 녹용과는. 약효도 모른다." />
+	<block key="QU_0_0_0055_Name" korean="거미의 독" />
+	<block key="QU_0_0_0055_description" korean="거미의 독. 어른이라면 죽지는 않을 것 같다." />
+	<block key="QU_0_0_0056_Name" korean="늑대의 발톱" />
+	<block key="QU_0_0_0056_description" korean="늑대의 몸에서 뽑은 발톱." />
+	<block key="QU_0_0_0057_Name" korean="늑대인간의 옷" />
+	<block key="QU_0_0_0057_description" korean="늑대인간이 걸치고 있던 옷." />
+	<block key="QU_0_0_0058_Name" korean="목동의 증표" />
+	<block key="QU_0_0_0058_description" korean="목동대장 발급 목동 증표. 무허가 목축은 불법이다. 소유자는 그렉." />
+	<block key="QU_0_0_0059_Name" korean="늑대인간의 가죽" />
+	<block key="QU_0_0_0059_description" korean="늑대인간의 몸에서 벗긴 가죽." />
+	<block key="QU_0_0_0060_Name" korean="곰의 심장" />
+	<block key="QU_0_0_0060_description" korean="곰의 심장. 꽤 크다." />
+	<block key="QU_0_0_0061_Name" korean="사냥꾼 대장의 증표" />
+	<block key="QU_0_0_0061_description" korean="왕국발급 사냥꾼 대장 증표. 무허가 수렵은 불법이다. 소유자는 잭." />
+	<block key="QU_0_0_0062_Name" korean="잭의 일기(책)" />
+	<block key="QU_0_0_0062_description" korean="잭이 자신의 변이를 기록한 일기. 수렵일지와 비슷한 형식이다." />
+	<block key="QU_0_0_0063_Name" korean="불이 삼킨 유적에 관한 보고서" />
+	<block key="QU_0_0_0063_description" korean="정찰대원 콘스란스가 작성한 보고서. 불이 삼킨 유적에서 벌어진 일이 서술되어 있다." />
+	<block key="QU_0_0_0064_Name" korean="식량자루" />
+	<block key="QU_0_0_0064_description" korean="식량이 담긴 자루. 꽤 무겁다." />
+	<block key="QU_0_0_0065_Name" korean="빛나는 나무결정" />
+	<block key="QU_0_0_0065_description" korean="모리네 호수에서 자라는 나무의 결정. 수호의 힘이 깃들었다고 한다." />
+	<block key="QU_0_0_0067_Name" korean="연장가방" />
+	<block key="QU_0_0_0067_description" korean="연장이 들어있는 가방." />
+	<block key="QU_0_0_0068_Name" korean="널빤지" />
+	<block key="QU_0_0_0068_description" korean="널찍한 나무 판자." />
+	<block key="QU_0_0_0069_Name" korean="석궁장인의 장갑" />
+	<block key="QU_0_0_0069_description" korean="투박하지만 튼튼하게 제작된 가죽장갑" />
+	<block key="QU_0_0_0070_Name" korean="석궁장인의 작업복" />
+	<block key="QU_0_0_0070_description" korean="약품의 독성에서 몸을 보호하기 위해 특별히 제작된 옷" />
+	<block key="QU_0_0_0071_Name" korean="손녀의 인형" />
+	<block key="QU_0_0_0071_description" korean="대여섯 먹은 여자아이에게 어울리는 인형." />
+	<block key="QU_0_0_0072_Name" korean="토끼 고기" />
+	<block key="QU_0_0_0072_description" korean="붉은색이 선명한 토끼 고기." />
+	<block key="QU_0_0_0074_Name" korean="꿀벌의 꿀주머니" />
+	<block key="QU_0_0_0074_description" korean="꿀벌의 꽁무니에서 빼낸 꿀집." />
+	<block key="QU_0_0_0075_Name" korean="벌집 조각" />
+	<block key="QU_0_0_0075_description" korean="벌을 전부 쫓아낸 벌집. 애벌래는 남아있다." />
+	<block key="QU_0_0_0077_Name" korean="안부편지" />
+	<block key="QU_0_0_0077_description" korean="안부를 묻는 편지." />
+	<block key="QU_0_0_0078_Name" korean="연애편지" />
+	<block key="QU_0_0_0078_description" korean="하트마크가 뿜어져 나올 듯한 편지." />
+	<block key="QU_0_0_0079_Name" korean="늑대인간의 머리" />
+	<block key="QU_0_0_0079_description" korean="혀를 빼문 늑대인간의 머리." />
+	<block key="QU_0_0_0080_Name" korean="토끼발" />
+	<block key="QU_0_0_0080_description" korean="토끼에서 잘라낸 발." />
+	<block key="QU_0_0_0081_Name" korean="왕국 명령장 4등급" />
+	<block key="QU_0_0_0081_description" korean="일반적인 업무에 스이는 왕국 명령장." />
+	<block key="QU_0_0_0082_Name" korean="질 좋은 소가죽" />
+	<block key="QU_0_0_0082_description" korean="무두질해서 매끈한 소가죽." />
+	<block key="QU_0_0_0083_Name" korean="거북이의 등껍질" />
+	<block key="QU_0_0_0083_description" korean="고기를 빼낸 딱딱한 등껍질." />
+	<block key="QU_0_0_0084_Name" korean="물소의 뿔" />
+	<block key="QU_0_0_0084_description" korean="끝이 완만하게 휘어진 물소의 뿔." />
+	<block key="QU_0_0_0085_Name" korean="늑대 고기" />
+	<block key="QU_0_0_0085_description" korean="노린내가 심한 늑대 고기. 거기다가 질기다." />
+	<block key="QU_0_0_0087_Name" korean="챠카이의 외눈" />
+	<block key="QU_0_0_0087_description" korean="챠카이의 남아있던 한쪽 눈." />
+	<block key="QU_0_0_0088_Name" korean="멧돼지의 어금니" />
+	<block key="QU_0_0_0088_description" korean="멧돼지의 길고 날카로운 어금니." />
+	<block key="QU_0_0_0089_Name" korean="흑표범의 가죽" />
+	<block key="QU_0_0_0089_description" korean="밤하늘과 같은 색의 흑표범 가죽." />
+	<block key="QU_0_0_0090_Name" korean="육즙이 많은 소고기" />
+	<block key="QU_0_0_0090_description" korean="탄력 있는 살덩어리." />
+	<block key="QU_0_0_0091_Name" korean="흡혈귀의 혈액" />
+	<block key="QU_0_0_0091_description" korean="점성이 높고 꿈틀거리는 흡혈귀의 피." />
+	<block key="QU_0_0_0092_Name" korean="성난 물소의 혈액" />
+	<block key="QU_0_0_0092_description" korean="검은색에 가까운 물소의 이상한 피." />
+	<block key="QU_0_0_0093_Name" korean="채소 무더기" />
+	<block key="QU_0_0_0093_description" korean="싱싱함을 유지하고 있는 채소." />
+	<block key="QU_0_0_0094_Name" korean="식량포대" />
+	<block key="QU_0_0_0094_description" korean="곡식이 담긴 포대." />
+	<block key="QU_0_0_0095_Name" korean="씨앗자루" />
+	<block key="QU_0_0_0095_description" korean="곡식과 채소의 시앗이 담긴 자루." />
+	<block key="QU_0_0_0096_Name" korean="말벌의 독침" />
+	<block key="QU_0_0_0096_description" korean="말벌 꽁부니에서 빼낸 독침." />
+	<block key="QU_0_0_0097_Name" korean="말벌집 조각" />
+	<block key="QU_0_0_0097_description" korean="말벌을 전부 쫓아낸 말벌집. 약재로 쓰인다." />
+	<block key="QU_0_0_0098_Name" korean="여왕 퀸비의 독침" />
+	<block key="QU_0_0_0098_description" korean="다른 말벌과는 비교할 수 없이 큰 독침." />
+	<block key="QU_0_0_0099_Name" korean="카브임 교단의 증표" />
+	<block key="QU_0_0_0099_description" korean="카브임 교도라는 것을 증명하기 위해 쓰는 증표." />
+	<block key="QU_0_0_0100_Name" korean="감찰관의 명령장" />
+	<block key="QU_0_0_0100_description" korean="왕국 감찰관이 사용하는 명령장. 행정에서는 거의 만능." />
+	<block key="QU_0_0_0101_Name" korean="흑표범의 이빨" />
+	<block key="QU_0_0_0101_description" korean="흑표범의 날카로운 이빨." />
+	<block key="QU_0_0_0103_Name" korean="계약의 단검" />
+	<block key="QU_0_0_0103_description" korean="어둠의 마법사가 어둠의 추종자에게 세례를 내릴 때 사용하는 단검." />
+	<block key="QU_0_0_0105_Name" korean="신선한 채소" />
+	<block key="QU_0_0_0105_description" korean="색이 선명한 채소." />
+	<block key="QU_0_0_0106_Name" korean="신선한 토끼 고기" />
+	<block key="QU_0_0_0106_description" korean="색이 선명한 토끼 고기." />
+	<block key="QU_0_0_0107_Name" korean="흡혈귀의 송곳니" />
+	<block key="QU_0_0_0107_description" korean="흡혈귀의 길게 자란 송곳니. 구멍이 뚫려 있다." />
+	<block key="QU_0_0_0108_Name" korean="늑대인간의 발톱" />
+	<block key="QU_0_0_0108_description" korean="늑대인간의 몸에서 뽑아낸 발톱. 흉기나 다름없다." />
+	<block key="QU_0_0_0109_Name" korean="카브임 교단의 증표" />
+	<block key="QU_0_0_0109_description" korean="카브임 교도라는 것을 증명하기 위해 쓰는 증표." />
+	<block key="QU_0_0_0110_Name" korean="서리 거미의 다리" />
+	<block key="QU_0_0_0110_description" korean="차갑고 섬뜩해보이는 서리 거미의 다리. 어떤 이들에게는 최고의 음식이라 극찬을 받는다." />
+	<block key="QU_0_0_0111_Name" korean="사란트의 일기장 상권" />
+	<block key="QU_0_0_0112_Name" korean="천연 상태의 광물" />
+	<block key="QU_0_0_0113_Name" korean="해츨링의 발톱" />
+	<block key="QU_0_0_0114_Name" korean="카라드 해적단의 비밀문서" />
+	<block key="QU_0_0_0115_Name" korean="곰 발바닥" />
+	<block key="QU_0_0_0115_description" korean="곰의 몸에서 가장 맛있다고 알려진 곰 발바닥" />
+	<block key="QU_0_0_0116_Name" korean="수정뿔" />
+	<block key="QU_0_0_0116_description" korean="겉보기에만 수정인 수정뿔. 뿔 달린 생물에게 갖춰진 일이 있다." />
+	<block key="QU_0_0_0117_Name" korean="늑대의 혈액" />
+	<block key="QU_0_0_0117_description" korean="늑대의 피. 채집하라고 하지 않으면 특별히 채집할 마음은 나지 않는다." />
+	<block key="QU_0_0_0118_Name" korean="광우의 뇌" />
+	<block key="QU_0_0_0118_description" korean="알 수 없는 원인으로 미쳐버린 소의 뇌. 이런 수상쩍은 소를 먹을 사람은 없다." />
+	<block key="QU_0_0_0119_Name" korean="곰의 가죽" />
+	<block key="QU_0_0_0119_description" korean="튼튼하긴 하지만 가공이 어려운 곰의 가죽." />
+	<block key="QU_0_0_0121_Name" korean="거북이의 붉은살" />
+	<block key="QU_0_0_0121_description" korean="식감이 좋고 담백한 거북이 고기" />
+	<block key="QU_0_0_0122_Name" korean="물뱀의 독니" />
+	<block key="QU_0_0_0122_description" korean="바늘로 쓸 수 있을 정도로 뾰족한 물뱀의 독니" />
+	<block key="QU_0_0_0123_Name" korean="물뱀의 껍질" />
+	<block key="QU_0_0_0123_description" korean="부드럽고 튼튼한 물뱀의 껍질" />
+	<block key="QU_0_0_0124_Name" korean="물뱀의 고기" />
+	<block key="QU_0_0_0124_description" korean="의외로 맛있는 물뱀 고기. 닭고기와 비슷한 식감이다." />
+	<block key="QU_0_0_0125_Name" korean="정령의 가루" />
+	<block key="QU_0_0_0125_description" korean="위습이 죽을 때 남기는 가루. 마법사에게 뭔가 사용법이…?" />
+	<block key="QU_0_0_0126_Name" korean="소가죽" />
+	<block key="QU_0_0_0126_description" korean="소의 가죽. 다용도로 쓰인다." />
+	<block key="QU_0_0_0127_Name" korean="쇠고기" />
+	<block key="QU_0_0_0127_description" korean="소의 고기. 다용도로 쓰인다." />
+	<block key="QU_0_0_0128_Name" korean="들소의 거친 가죽" />
+	<block key="QU_0_0_0128_description" korean="사육되지 않는 들소의 거칠고 질긴 가죽." />
+	<block key="QU_0_0_0129_Name" korean="들소의 질긴 고기" />
+	<block key="QU_0_0_0129_description" korean="운동량의 많아 질긴 들소의 고기. 먹을만한 게 아니다." />
+	<block key="QU_0_0_0130_Name" korean="순록의 가죽" />
+	<block key="QU_0_0_0130_description" korean="부드러운 순록의 가죽. 고급 가죽제품에 쓰인다." />
+	<block key="QU_0_0_0131_Name" korean="소의 굵은뿔" />
+	<block key="QU_0_0_0131_description" korean="튼튼한 소의 뿔. 다용도로 쓰인다." />
+	<block key="QU_0_0_0132_Name" korean="소의 뾰족뿔" />
+	<block key="QU_0_0_0132_description" korean="특이하게 돌돌 말려 뾰족한 소의 뿔. 어디다 써야 할까 난감하다." />
+	<block key="QU_0_0_0133_Name" korean="독사 가죽" />
+	<block key="QU_0_0_0133_description" korean="독사의 가죽" />
+	<block key="QU_0_0_0134_Name" korean="독사 고기" />
+	<block key="QU_0_0_0134_description" korean="독사의 고기" />
+	<block key="QU_0_0_0135_Name" korean="백작저택 권리서" />
+	<block key="QU_0_0_0135_description" korean="백작저택의 소유를 증명하는 권리서" />
+	<block key="QU_0_0_0136_Name" korean="어둠의 마법서" />
+	<block key="QU_0_0_0136_description" korean="정체불명의 마법서. 가까이 하면 저주를 받을 것 같다." />
+	<block key="QU_0_0_0137_Name" korean="구스트의 식칼" />
+	<block key="QU_0_0_0137_description" korean="백작의 요리사 구스트가 사용하던 식칼. 명검 한 자루 가격은 된다." />
+	<block key="QU_0_0_0138_Name" korean="잡화상인에게 보내는 선물" />
+	<block key="QU_0_0_0138_description" korean="빌레로아가 정성스럽게 준비하고 포장했다" />
+	<block key="QU_0_0_0139_Name" korean="은행장에게 보내는 선물" />
+	<block key="QU_0_0_0139_description" korean="빌레로아가 정성스럽게 준비하고 포장했다" />
+	<block key="QU_0_0_0140_Name" korean="포탈이동사에게 보내는 선물" />
+	<block key="QU_0_0_0140_description" korean="빌레로아가 정성스럽게 준비하고 포장했다" />
+	<block key="QU_0_0_0141_Name" korean="근위 기사에게 보내는 선물" />
+	<block key="QU_0_0_0141_description" korean="빌레로아가 정성스럽게 준비하고 포장했다" />
+	<block key="QU_0_0_0142_Name" korean="은빛송어 스테이크" />
+	<block key="QU_0_0_0142_description" korean="맛있게 구워진 물고기 스테이크" />
+	<block key="QU_0_0_0143_Name" korean="리네타의 수정구" />
+	<block key="QU_0_0_0143_description" korean="진리의 마법사가 사용하는 신비한 구슬" />
+	<block key="QU_0_0_0146_Name" korean="케니의 선물" />
+	<block key="QU_0_0_0146_description" korean="케니가 아디나에게 보낸 선물. 고향을 추억하는 음식이라고 한다." />
+	<block key="QU_0_0_0147_Name" korean="멧돼지의 통뼈" />
+	<block key="QU_0_0_0147_description" korean="돌만큼 단단한 뼈. 잘 부서지지 않는다." />
+	<block key="QU_0_0_0148_Name" korean="브라기 도끼" />
+	<block key="QU_0_0_0148_description" korean="단단한 강철로 엉성하게 만들어진 도끼. 강철이 아깝다." />
+	<block key="QU_0_0_0149_Name" korean="여우의 송곳니" />
+	<block key="QU_0_0_0149_description" korean="작고 날카로운 송곳니." />
+	<block key="QU_0_0_0150_Name" korean="장난감 공구 일체" />
+	<block key="QU_0_0_0150_description" korean="멧돼지의 뼈망치, 송곳니 바늘, 도끼날 끌 등 주워모은 재료로 만든 공구. 하지만 장난감이라고 하기 어려울 정도로 훌륭한 도구다." />
+	<block key="QU_0_0_0151_Name" korean="마법 주문석" />
+	<block key="QU_0_0_0151_description" korean="마법 주문을 기록해서 마법사가 아닌 사람이라도 발동시킬 수 있는 돌. 아직 텅 비어있다." />
+	<block key="QU_0_0_0153_Name" korean="기억의 책 사란트의 계획" />
+	<block key="QU_0_0_0153_description" korean="사란트의 계획 일부를 채집한 기억의 책." />
+	<block key="QU_0_0_0154_Name" korean="마신의 계약문" />
+	<block key="QU_0_0_0154_description" korean="저급한 어둠의 마법사가 몸에 새겨야 하는 계약서. 죽은 후라도 몸에서 떨어지면 영혼에 좋지 않다." />
+	<block key="QU_0_0_0155_Name" korean="어둠의 마력" />
+	<block key="QU_0_0_0155_description" korean="어둠의 마법사가 사용하는 마력. 정확히는 어둠의 세력이 사용하는 마력으로 현재 세계에 자연적으로 존재하지는 않는다." />
+	<block key="QU_0_0_0156_Name" korean="시체마력의 거미줄" />
+	<block key="QU_0_0_0156_description" korean="저주를 생업으로 삼는 주술사들이 만들어낸 시체 거미의 거미줄. 최근에는 어둠의 마력을 씌워 생명을 변이시키는 일에 쓰이고 있다." />
+	<block key="QU_0_0_0157_Name" korean="시독" />
+	<block key="QU_0_0_0157_description" korean="부패한 시체의 독. 강력한 마비를 일으킨다고 한다." />
+	<block key="QU_0_0_0158_Name" korean="부패된 심장" />
+	<block key="QU_0_0_0158_description" korean="시체의 몸에서 떼어내 어둠의 마법으로 처치한 심장. 부패된 상태인데 뛰고 있다." />
+	<block key="QU_0_0_0159_Name" korean="임프의 뿔" />
+	<block key="QU_0_0_0159_description" korean="곤충으로 비유하면 더듬이. 마법 지팡이와 같은 역할도 한다." />
+	<block key="QU_0_0_0160_Name" korean="임프의 마력석" />
+	<block key="QU_0_0_0160_description" korean="인간으로 비유하면 심장. 어둠의 마력을 생산하는 원동력이다." />
+	<block key="QU_0_0_0161_Name" korean="상처 없는 곰가죽" />
+	<block key="QU_0_0_0161_description" korean="어떻게 잡았을까 궁금한 상처 없는 곰가죽." />
+	<block key="QU_0_0_0162_Name" korean="흑표범의 가죽" />
+	<block key="QU_0_0_0162_description" korean="어떻게 잡았을까 궁금한 가죽" />
+	<block key="QU_0_0_0163_Name" korean="엘프의 휴대식량" />
+	<block key="QU_0_0_0163_description" korean="엘프 비전의 휴대식. 어떤 환경에서도 건강을 해치지 않는다는 소문이 있다. 하지만 과연 맛은…" />
+	<block key="QU_0_0_0164_Name" korean="강철 같은 설인 가죽" />
+	<block key="QU_0_0_0164_description" korean="무척 튼튼한 설인 용사의 가죽" />
+	<block key="QU_0_0_0165_Name" korean="엑자란 금화" />
+	<block key="QU_0_0_0165_description" korean="빛나는 엑자란의 금화. 엑자란 무법지대에서만 발굴된다고 전해지는 귀한 금화. 사용하면 뭔가 특별한 퀘스트를 주는 모양이다." />
+	<block key="QU_0_0_0166_Name" korean="아슈람의 갑옷 장식" />
+	<block key="QU_0_0_0166_description" korean="오래된 양식의 낡은 갑옷 조각" />
+	<block key="QU_0_0_0167_Name" korean="엑자란 시대의 마법 흔적" />
+	<block key="QU_0_0_0167_description" korean="특이한 마법이 시전된 흔적. 잘못 손대면 오염될 것 같은 불길한 기운이 감돈다." />
+	<block key="QU_0_0_0168_Name" korean="채집된 빛의 흔적" />
+	<block key="QU_0_0_0168_description" korean="빛의 신인 엘로라의 흔적이 느껴진다." />
+	<block key="QU_0_0_0169_Name" korean="채집된 죽음의 마력" />
+	<block key="QU_0_0_0169_description" korean="죽음의 흔적이 느껴진다." />
+	<block key="QU_0_0_0170_Name" korean="낡은 가죽가방" />
+	<block key="QU_0_0_0170_description" korean="모험가 스티븐스의 가방이다." />
+	<block key="QU_0_0_0173_Name" korean="하카나스 국새" />
+	<block key="QU_0_0_0173_description" korean="엘로라의 유물이지만 현재, 국새로 쓰이고 있다." />
+	<block key="QU_0_0_0174_Name" korean="곰 사냥꾼 군터의 가방" />
+	<block key="QU_0_0_0174_description" korean="조금은 낡은 가방이다. 꽤 묵직하다." />
+	<block key="QU_0_0_0176_Name" korean="방패게의 알찬 몸통" />
+	<block key="QU_0_0_0176_description" korean="빛깔이 그 신선도를 말해주고 있다. 매우 싱싱해 보인다." />
+	<block key="QU_0_0_0177_Name" korean="신선한 거북고기" />
+	<block key="QU_0_0_0177_description" korean="빛깔이 그 신선도를 말해주고 있다. 굉장히 쫄깃해 보인다." />
+	<block key="QU_0_0_0178_Name" korean="카라드 해적단의 무기" />
+	<block key="QU_0_0_0178_description" korean="무기의 표식으로 보아 카라드 해적단의 것의 분명하다." />
+	<block key="QU_0_0_0179_Name" korean="카라드 해적단의 갑옷" />
+	<block key="QU_0_0_0179_description" korean="갑옷의 표식으로 보아 카라드 해적단의 것이 분명하다." />
+	<block key="QU_0_0_0180_Name" korean="고성능 폭탄" />
+	<block key="QU_0_0_0180_description" korean="워든 맥시마가 잃어버린 폭탄으로 보인다. 재빨리 가져다 주는 것이 좋을 듯싶다." />
+	<block key="QU_0_0_0181_Name" korean="해적 두목이 받은 편지" />
+	<block key="QU_0_0_0181_description" korean="해적 두목이 정기적으로 받는 편지. 지시사항이 써 있을 거란 예감이 든다." />
+	<block key="QU_0_0_0182_Name" korean="해산물 모둠 전골" />
+	<block key="QU_0_0_0182_description" korean="무러미족을 위해 만들어진 전골 요리. 과연 무러미족의 입맛에 맞을까?" />
+	<block key="QU_0_0_0183_Name" korean="나무 실로폰" />
+	<block key="QU_0_0_0183_description" korean="무러미족을 위해 만들어진 나무 실로폰. 색다른 소리가 날 것 같다." />
+	<block key="QU_0_0_0184_Name" korean="무러미 나무 조각상" />
+	<block key="QU_0_0_0184_description" korean="무러미족을 위해 만들어진 무러미 나무 조각상이다." />
+	<block key="QU_0_0_0185_Name" korean="세공품 거래 계약서" />
+	<block key="QU_0_0_0185_description" korean="게일 맥베인이 성난 무러미족과 거래한 계약서이다.#" />
+	<block key="QU_0_0_0186_Name" korean="생명의 서약서" />
+	<block key="QU_0_0_0186_description" korean="게일 맥베인이 성난 무러미족과 거래한 생명의 서약서이다.#" />
+	<block key="QU_0_0_0187_Name" korean="인어의 비늘" />
+	<block key="QU_0_0_0187_description" korean="인어 여왕 세이렌이 준 인어의 비늘" />
+	<block key="QU_0_0_0188_Name" korean="영지 표식" />
+	<block key="QU_0_0_0188_description" korean="파를라크 영지민 표식. 발행자는 론도." />
+	<block key="QU_0_0_0189_Name" korean="소라 껍질" />
+	<block key="QU_0_0_0189_description" korean="무러미 세공에서 가장 값 비싼 재료로 평가되는 소라 껍질" />
+	<block key="QU_0_0_0190_Name" korean="검은 강옥 원석" />
+	<block key="QU_0_0_0190_description" korean="파르나 여신의 축복을 담을 수 있는 그릇을 만드는데 필요해 보인다." />
+	<block key="QU_0_0_0191_Name" korean="붉은 강옥 원석" />
+	<block key="QU_0_0_0191_description" korean="파르나 여신의 축복을 담을 수 있는 그릇을 만드는데 필요해 보인다." />
+	<block key="QU_0_0_0192_Name" korean="푸른 강옥 원석" />
+	<block key="QU_0_0_0192_description" korean="파르나 여신의 축복을 담을 수 있는 그릇을 만드는데 필요해 보인다." />
+	<block key="QU_0_0_0193_Name" korean="크로쿤의 세공 도구" />
+	<block key="QU_0_0_0193_description" korean="크로쿤의 장신 정신이 담긴 세공 도구이다." />
+	<block key="QU_0_0_0194_Name" korean="물의 펜던트 도면" />
+	<block key="QU_0_0_0194_description" korean="물의 펜던트를 만들기 위한 도면이다. 해석하기가 꽤 어려워 보인다." />
+	<block key="QU_0_0_0195_Name" korean="물의 펜던트 미완성" />
+	<block key="QU_0_0_0195_description" korean="미완성 된 물의 펜던트이다. 미완성이라 해도 완벽 자체에 가까워 보인다." />
+	<block key="QU_0_0_0196_Name" korean="물의 성물" />
+	<block key="QU_0_0_0196_description" korean="얼음의 저주를 풀기 위해 만들어진 도구이다." />
+	<block key="QU_0_0_0197_Name" korean="검은 향목" />
+	<block key="QU_0_0_0197_description" korean="영혼의 침향을 만들기 위한 재료로 보인다." />
+	<block key="QU_0_0_0198_Name" korean="영혼의 침향" />
+	<block key="QU_0_0_0198_description" korean="영혼과 이야기 할 수 있는 매개체로 보인다." />
+	<block key="QU_0_0_0199_Name" korean="라니아 공주의 편지" />
+	<block key="QU_0_0_0202_Name" korean="코퍼 저금통" />
+	<block key="QU_0_0_0202_description" korean="갈대바람 마을 주민인 베르나 코드윙의 저금통이다." />
+	<block key="QU_0_0_0203_Name" korean="용기의 펜던트" />
+	<block key="QU_0_0_0203_description" korean="트리마 코드윙에게 용기를 북돋아 주려는 할아버지의 마음이 담겨있다." />
+	<block key="QU_0_0_0204_Name" korean="거북이 고기" />
+	<block key="QU_0_0_0204_description" korean="힘 쓰는데 그렇게 좋다는 거북이 고기. 맛있어 보이지는 않는다." />
+	<block key="QU_0_0_0205_Name" korean="향기나는 풀잎" />
+	<block key="QU_0_0_0205_description" korean="향초에서 갓 딴 풀잎. 킁킁대면 좋은 냄새가 난다. 킁킁, 킁킁…!" />
+	<block key="QU_0_0_0206_Name" korean="베어진 나무" />
+	<block key="QU_0_0_0206_description" korean="썰매를 만들기 위한 재료이다." />
+	<block key="QU_0_0_0207_Name" korean="편지와 돈이든 봉투" />
+	<block key="QU_0_0_0207_description" korean="필립 슬레이터가 죽어가며 동생인 멜리사 슬레이터에게 남긴 마지막 유품이다." />
+	<block key="QU_0_0_0208_Name" korean="반짝이는 돌" />
+	<block key="QU_0_0_0208_description" korean="생명의 호수에 깔린 반짝이는 돌이다. 오염되지 않아 빛이 영롱하다." />
+	<block key="QU_0_0_0209_Name" korean="어설프게 세공한 목걸이" />
+	<block key="QU_0_0_0209_description" korean="무러미족과 친해지기 위해 종족 연구원 폴 트래블이 세공한 목걸이이다." />
+	<block key="QU_0_0_0210_Name" korean="무러미 알" />
+	<block key="QU_0_0_0210_description" korean="영롱한 빛을 내는 무러미 알이다." />
+	<block key="QU_0_0_0211_Name" korean="여신의 반지" />
+	<block key="QU_0_0_0211_description" korean="파르나 여신의 반지로 보인다. 생각보다 단순한 디자인이다." />
+	<block key="QU_0_0_0212_Name" korean="짐 꾸러미" />
+	<block key="QU_0_0_0212_description" korean="갈대바람 마을 주민들이 싸놓은 짐 꾸러미이다" />
+	<block key="QU_0_0_0213_Name" korean="연장 도구 상자" />
+	<block key="QU_0_0_0213_description" korean="대장장이 척 베일이 집에 두고 온 연장 도구 상자이다." />
+	<block key="QU_0_0_0214_Name" korean="음식 가방" />
+	<block key="QU_0_0_0214_description" korean="대장장이 척 베일의 부인이 만든 음식이 들어있다." />
+	<block key="QU_0_0_0215_Name" korean="도구 상자" />
+	<block key="QU_0_0_0215_description" korean="대장장이 론 베일이 챙기지 못한 도구로 보인다." />
+	<block key="QU_0_0_0216_Name" korean="세공 도구 상자" />
+	<block key="QU_0_0_0216_description" korean="세공 도구가 들어있는 상자이다. 꽤 무겁다." />
+	<block key="QU_0_0_0217_Name" korean="물의 정령 견본" />
+	<block key="QU_0_0_0217_description" korean="주변의 온도를 떨어뜨리는 물의 정령 견본이다." />
+	<block key="QU_0_0_0218_Name" korean="어린 무러미의 장난감" />
+	<block key="QU_0_0_0218_description" korean="어린 무러미들 사이에서 유행인 장난감. 포메리의 친구 것으로 보인다." />
+	<block key="QU_0_0_0219_Name" korean="의식 토템" />
+	<block key="QU_0_0_0219_description" korean="왕눈이 젠킨트가 훔쳐간 게리스의 의식 토템이다. 신비한 기운이 느껴지는 듯하다." />
+	<block key="QU_0_0_0220_Name" korean="수석 장인의 서신" />
+	<block key="QU_0_0_0220_description" korean="크로쿤 수석 장인이 친필로 쓴 서신이다." />
+	<block key="QU_0_0_0221_Name" korean="쫀득한 게살" />
+	<block key="QU_0_0_0221_description" korean="떨어진 식욕을 자극할 것만 같은 신선도를 가진 게살이다." />
+	<block key="QU_0_0_0222_Name" korean="갈고리" />
+	<block key="QU_0_0_0222_description" korean="썰매의 브레이크로 쓰여질 재료이다." />
+	<block key="QU_0_0_0223_Name" korean="무러미족 지느러미" />
+	<block key="QU_0_0_0223_description" korean="무러미족의 잘린 지느러미이다. 누가 이런 짓을?!" />
+	<block key="QU_0_0_0224_Name" korean="물 비늘 조각" />
+	<block key="QU_0_0_0224_description" korean="자세히 보면 알록달록한 빛깔을 가진 비늘이다." />
+	<block key="QU_0_0_0225_Name" korean="방패게 껍질" />
+	<block key="QU_0_0_0225_description" korean="무러미 세공 초심자들이 많이 쓰는 재료라고 한다." />
+	<block key="QU_0_0_0226_Name" korean="우두머리 머글록의 가죽" />
+	<block key="QU_0_0_0226_description" korean="절대 찢어질 것 같지 않은 가죽이다." />
+	<block key="QU_0_0_0227_Name" korean="아이샤의 드레스" />
+	<block key="QU_0_0_0227_description" korean="고이 개어 있는 수수한 드레스이다. 주인의 기품이 느껴진다." />
+	<block key="QU_0_0_0228_Name" korean="멜리사의 사진" />
+	<block key="QU_0_0_0228_description" korean="어렸을 적 멜리사의 사진이다. 사진 속의 멜리사는 천진난만한 미소를 짓고 있다." />
+	<block key="QU_0_0_0229_Name" korean="말린 고기" />
+	<block key="QU_0_0_0229_description" korean="보관하기 위해 말려 놓은 고기이다. 조금 퍽퍽해 보인다." />
+	<block key="QU_0_0_0230_Name" korean="철장 열쇠" />
+	<block key="QU_0_0_0230_description" korean="무러미가 갇혀 있는 철장의 열쇠이다." />
+	<block key="QU_0_0_0231_Name" korean="집게 다리" />
+	<block key="QU_0_0_0231_description" korean="방패게의 집게 다리이다. 찝히면 살점이 떨어질 것 같다." />
+	<block key="QU_0_0_0232_Name" korean="잃어버린 무기" />
+	<block key="QU_0_0_0232_description" korean="갈대바람 마을 자경단이 잃어버린 무기로 보인다." />
+	<block key="QU_0_0_0233_Name" korean="라단의 눈" />
+	<block key="QU_0_0_0233_description" korean="고대에 세상을 파괴하던 반신 라단이 가진 힘의 근원이다. 무러미족을 매혹시키는 힘이 있다." />
+	<block key="QU_0_0_0235_Name" korean="물의 무녀의 편지" />
+	<block key="QU_0_0_0235_description" korean="물의 무녀 아이샤가 쓴 편지" />
+	<block key="QU_0_0_0236_Name" korean="보물지도" />
+	<block key="QU_0_0_0236_description" korean="파르나 여신의 반지가 있는 곳을 표시해둔 보물지도로 보인다." />
+	<block key="QU_0_0_0238_Name" korean="가득 찬 물통" />
+	<block key="QU_0_0_0238_description" korean="내용물이 물통에 가득 차 있다." />
+	<block key="QU_0_0_0239_Name" korean="소화되지 못한 통마늘" />
+	<block key="QU_0_0_0239_description" korean="크루거의 위장에서 발견된 통마늘 조각. 씹지 않아 소화되지 못한 듯하다." />
+	<block key="QU_0_0_0240_Name" korean="부화 직전의 알" />
+	<block key="QU_0_0_0240_description" korean="순찰자 로세트는 폭풍의 용이 낳은 알이라고 한다." />
+	<block key="QU_0_0_0242_Name" korean="늑대의 힘줄" />
+	<block key="QU_0_0_0242_description" korean="석궁 활줄에 쓰이는 튼튼한 늑대 힘줄" />
+	<block key="QU_0_0_0243_Name" korean="석궁 부품" />
+	<block key="QU_0_0_0243_description" korean="석궁 제작시에 사용되는 중요한 부품" />
+	<block key="QU_0_0_0244_Name" korean="불새의 비늘" />
+	<block key="QU_0_0_0244_description" korean="화염룡족 불새의 비늘, 불새가 침입했다는 것을 증명하기 위한 증거" />
+	<block key="QU_0_0_0245_Name" korean="세발가락 곰의 발바닥" />
+	<block key="QU_0_0_0245_description" korean="곰에서 가장 맛있는 부위라는 발바닥" />
+	<block key="QU_0_0_0246_Name" korean="황소 심장" />
+	<block key="QU_0_0_0246_description" korean="구워서 먹으면 쫄깃한 맛이 일품" />
+	<block key="QU_0_0_0249_Name" korean="얼음성 성문 작동장치" />
+	<block key="QU_0_0_0251_Name" korean="정령의 일부" />
+	<block key="QU_0_0_0251_description" korean="갈대바람 마을 해안가에서 얻은 물의 정령의 일부이다." />
+	<block key="QU_0_0_0252_Name" korean="게일 맥베인의 가방" />
+	<block key="QU_0_0_0252_description" korean="왠지 열어보고 싶어진다." />
+	<block key="QU_0_0_0253_Name" korean="요정의 정" />
+	<block key="QU_0_0_0253_description" korean="엘퀴네스가 가지고 있던 요정의 물건" />
+	<block key="QU_0_0_0254_Name" korean="얼어붙은 심장" />
+	<block key="QU_0_0_0254_Description" korean="너무나도 차갑다." />
+	<block key="QU_0_0_0255_Name" korean="거북이가 머금은 물" />
+	<block key="QU_0_0_0255_Description" korean="생명의 호수의 맑은 물이다." />
+	<block key="QU_0_0_0256_Name" korean="콜먼이 만든 치료 물약" />
+	<block key="QU_0_0_0256_Description" korean="포탈이동사 로메로에게 전달해야 한다." />
+	<block key="QU_0_0_0257_Name" korean="바위 문어 강화제" />
+	<block key="QU_0_0_0257_Description" korean="바위 문어가 괴력을 가지도록 성장시키는 약물." />
+	<block key="QU_0_0_0258_Name" korean="해적단이 약탈한 물건" />
+	<block key="QU_0_0_0258_Description" korean="파르나의 땅에서 빼앗은 물건을 소중하게 포장했음." />
+	<block key="QU_0_0_0259_Name" korean="정신이드는 약" />
+	<block key="QU_0_0_0259_Description" korean="잠깐동안 정신이 맑아진다" />
+	<block key="QU_0_0_0260_Name" korean="부드러운 여우 가죽" />
+	<block key="QU_0_0_0260_Description" korean="보기 드문 여우 가죽이다. 팔면 꽤 이득을 볼 거 같다." />
+	<block key="QU_0_0_0261_Name" korean="병정벌의 독침" />
+	<block key="QU_0_0_0261_Description" korean="맹수들도 기절시키는 독침이다." />
+	<block key="QU_0_0_0262_Name" korean="묵직한 주머니" />
+	<block key="QU_0_0_0262_Description" korean="꽤 묵직하다. 귀중품이 들어있는 것 같다." />
+	<block key="QU_0_0_0263_Name" korean="의식의 마법구" />
+	<block key="QU_0_0_0263_Description" korean="돌개바람 언덕에서 카브임 교단이 가지고 있던 마법구. 하카나스 수도성이 보였던 마법구이다." />
+	<block key="QU_0_0_0264_Name" korean="이슬초" />
+	<block key="QU_0_0_0264_Description" korean="상처의 통증을 줄여주는 약초이다." />
+	<block key="QU_0_0_0265_Name" korean="탐스런 금괴" />
+	<block key="QU_0_0_0265_Description" korean="욕심나는 탐스런 금괴이다. 은은한 녹색 빛이 감돈다." />
+	<block key="QU_0_0_0266_Name" korean="어둠의 힘에 물든 고기" />
+	<block key="QU_0_0_0266_Description" korean="사냥꾼 잭이 이것을 먹으면 생명력을 회복한다." />
+	<block key="QU_0_0_0267_Name" korean="소방용 주문서" />
+	<block key="QU_0_0_0267_Description" korean="마법의 힘으로 불을 끌 수 있다" />
+	<block key="QU_0_0_0268_Name" korean="카브임 교단의 명령서" />
+	<block key="QU_0_0_0268_Description" korean="켈우즈 농장을 점령하라는 명령이 써있음" />
+	<block key="QU_0_0_0269_Name" korean="강화된 고대의 망치" />
+	<block key="QU_0_0_0269_Description" korean="봉인된 결계를 풀고 어둠을 다시 어둠으로 되돌릴 것이다." />
+	<block key="QU_0_0_0270_Name" korean="활성화된 요정의 정" />
+	<block key="QU_0_0_0270_Description" korean="요정의 정이 하늘로 떠오를 때 비로소 빛이 돌아오리라." />
+	<block key="QU_0_0_0271_Name" korean="빛을 잃은 반지" />
+	<block key="QU_0_0_0271_Description" korean="원래 반짝였던 반지는 빛을 잃고 말았다." />
+	<block key="QU_0_0_0272_Name" korean="왕가의 반지" />
+	<block key="QU_0_0_0272_Description" korean="왕가의 문양이 새겨진 반지. 라니아 공주님의 것일까? 레나와 이야기해보자." />
+	<block key="QU_0_0_0273_Name" korean="멧돼지 고기" />
+	<block key="QU_0_0_0273_Description" korean="잘 구워진 멧돼지 고기" />
+	<block key="QU_0_0_0274_Name" korean="통역 마법석" />
+	<block key="QU_0_0_0274_Description" korean="다른 종족의 말도 들을 수 있는 통역 마법석" />
+	<block key="QU_0_0_0275_Name" korean="커티스의 손수건" />
+	<block key="QU_0_0_0275_Description" korean="커티스의 땀내가 배어 만지고 싶지 않은 손수건" />
+	<block key="QU_0_0_0276_Name" korean="엑자란 문자로 써진 도감" />
+	<block key="QU_0_0_0276_Description" korean="하카나스 왕국 이전의 문자가 써있다." />
+	<block key="QU_0_0_0277_Name" korean="호수 요정의 기운" />
+	<block key="QU_0_0_0277_Description" korean="신비한 기운이 남아 있다." />
+	<block key="QU_0_0_0278_Name" korean="육질이 좋은 소고기" />
+	<block key="QU_0_0_0278_Description" korean="육질이 뛰어난 소고기" />
+	<block key="QU_0_0_0279_Name" korean="유니콘의 먹이" />
+	<block key="QU_0_0_0279_Description" korean="브라카르 숲 북부 유적지에서만 나오는 희귀한 유니콘의 먹이" />
+	<block key="QU_0_0_0280_Name" korean="바다 정수" />
+	<block key="QU_0_0_0280_Description" korean="하카나스 대해의 바닷물을 정제해서 완성시킨 바다 정수" />
+	<block key="QU_0_0_0281_Name" korean="설원 정수" />
+	<block key="QU_0_0_0281_Description" korean="파르나의 땅에서 채집한 만년설을 마법의 힘으로 가공해서 만든 정수" />
+	<block key="QU_0_0_0282_Name" korean="화염 정수" />
+	<block key="QU_0_0_0282_Description" korean="하카나스 직할령에 잠자고 있는 화염의 기운을 응축해 만든 정수" />
+	<block key="QU_0_0_0283_Name" korean="악곡" />
+	<block key="QU_0_0_0283_Description" korean="악의 세계를 여행하는 이카루스의 이야기를 담은 시집." />
+	<block key="QU_0_0_0284_Name" korean="어둠의 동맹" />
+	<block key="QU_0_0_0284_Description" korean="빛의 전쟁 시절 빛의 동맹과 대적한 어둠의 동맹의 관점에서 쓰인 일기." />
+	<block key="QU_0_0_0285_Name" korean="만들어진 4대주신" />
+	<block key="QU_0_0_0285_Description" korean="4대주신이 누군가에 필요에 의해 창조됐다고 주장하는 작자미상의 소설" />
+	<block key="QU_0_0_0286_Name" korean="젤나리스" />
+	<block key="QU_0_0_0286_Description" korean="젤나리스의 탄생과 비밀에 대해 담긴 비밀스러운 책. 가지고만 있어도 처벌 받는다." />
+	<block key="QU_0_0_0287_Name" korean="기억의 목걸이" />
+	<block key="QU_0_0_0287_Description" korean="호메르가 자신의 생명을 쏟아부어 레나의 기억을 가둬놓은 목걸이" />
+	<block key="QU_0_4_0001_Name" korean="플로티어 알" />
+	<block key="QU_0_4_0001_Description" korean="영양 만점에 맛도 좋아 귀족들 사이에서 인기가 높은 플로티어의 알" />
+	<block key="QU_0_4_0002_Name" korean="페가수스 기사단 표식" />
+	<block key="QU_0_4_0002_Description" korean="치열한 전투 끝에 사망한 페가수스 기사단원의 표식" />
+	<block key="QU_0_4_0003_Name" korean="에우비츠의 목걸이" />
+	<block key="QU_0_4_0003_Description" korean="기묘한 빛을 내뿜는 오래된 목걸이" />
+	<block key="QU_0_4_0004_Name" korean="이름모를검" />
+	<block key="QU_0_4_0004_Description" korean="날카로움을 잃지 않은 채 빛나고 있는 이름 모를 검" />
+	<block key="QU_0_4_0005_Name" korean="맛 좋은 물고기 뱃살" />
+	<block key="QU_0_4_0005_Description" korean="어떤 물고기 뱃살은 그냥 고기보다 더 맛있다고 한다" />
+	<block key="QU_0_4_0006_Name" korean="빛의 씨앗" />
+	<block key="QU_0_4_0006_Description" korean="엘로라 여신은 씨앗에 빛을 담으시고 이 씨앗을 인간에게 선물하셨다." />
+	<block key="QU_0_4_0007_Name" korean="붉은 갑옷새의 발톱 가루" />
+	<block key="QU_0_4_0007_Description" korean="붉은 갑옷새의 발톱 일부를 갈아서 나온 가루다." />
+	<block key="QU_0_4_0008_Name" korean="붉은 갑옷새의 심장" />
+	<block key="QU_0_4_0008_Description" korean="금방이라도 다시 뛸 것만 같은 붉은 갑옷새의 심장이다." />
+	<block key="QU_0_4_0009_Name" korean="즈메우의 알" />
+	<block key="QU_0_4_0009_Description" korean="꿈틀거리는 알은 당장이라도 부화할 것 같다" />
+	<block key="QU_0_4_0010_Name" korean="깜짝 인형" />
+	<block key="QU_0_4_0010_Description" korean="어째서 보물 상자에 인형이 담겨 있을까?" />
+	<block key="QU_0_4_0011_Name" korean="헌 신발짝" />
+	<block key="QU_0_4_0011_Description" korean="한 짝은 어디에 갔는지 보이지도 않는다." />
+	<block key="QU_0_4_0012_Name" korean="거미줄" />
+	<block key="QU_0_4_0012_Description" korean="너무 오래된 상자에는 거미줄이 스는 법이다." />
+	<block key="QU_0_4_0013_Name" korean="게 껍데기" />
+	<block key="QU_0_4_0013_Description" korean="맛있는 게였지만 이제는 껍데기 뿐" />
+	<block key="QU_0_4_0014_Name" korean="상한 물약" />
+	<block key="QU_0_4_0014_Description" korean="오래 되어 상해버린 물약. 먹으면 안 될 것 같다." />
+	<block key="QU_0_4_0015_Name" korean="빛의 보석" />
+	<block key="QU_0_4_0015_Description" korean="빛이 있으라 하되 빛이 새겨지니 보석으로 남겨 후대에 전하리라." />
+	<block key="QU_0_4_0016_Name" korean="엑자란 석판 탁본" />
+	<block key="QU_0_4_0016_Description" korean="석판의 탁본을 읽을 수 없다. 루플라에게 가져다 주자." />
+	<block key="QU_0_4_0017_Name" korean="엘로라의 정수" />
+	<block key="QU_0_4_0017_Description" korean="강한 힘에는 강한 책임이 뒤따른다. 즈메우의 최후를 기억하라." />
+	<block key="QU_0_3_0001_Name" korean="은빛 수반" />
+	<block key="QU_0_3_0001_Description" korean="" />
+	<block key="QU_0_3_0002_Name" korean="물의 무녀의 편지" />
+	<block key="QU_0_3_0002_Description" korean="" />
+	<block key="QU_0_3_0003_Name" korean="크로쿤 전사의 눈" />
+	<block key="QU_0_3_0003_Description" korean="" />
+	<block key="QU_0_3_0004_Name" korean="은빛 크로쿤 반지" />
+	<block key="QU_0_3_0004_Description" korean="" />
+	<block key="QU_0_3_0005_Name" korean="인어의 비늘" />
+	<block key="QU_0_3_0005_Description" korean="" />
+	<block key="QU_0_3_0006_Name" korean="물의 거울" />
+	<block key="QU_0_3_0006_Description" korean="" />
+	<block key="QU_0_3_0007_Name" korean="맛있는 음식" />
+	<block key="QU_0_3_0007_Description" korean="" />
+	<block key="QU_0_3_0008_Name" korean="예쁜 인형" />
+	<block key="QU_0_3_0008_Description" korean="" />
+	<block key="QU_0_3_0009_Name" korean="성냥" />
+	<block key="QU_0_3_0009_Description" korean="" />
+	<block key="QU_0_3_0010_Name" korean="기중기 부품" />
+	<block key="QU_0_3_0010_Description" korean="" />
+	<block key="QU_0_3_0011_Name" korean="해적 칼" />
+	<block key="QU_0_3_0011_Description" korean="" />
+	<block key="QU_0_3_0012_Name" korean="대포알" />
+	<block key="QU_0_3_0012_Description" korean="" />
+	<block key="QU_0_3_0013_Name" korean="강렬한 폭탄" />
+	<block key="QU_0_3_0013_Description" korean="" />
+	<block key="QU_0_3_0014_Name" korean="용병단 표식" />
+	<block key="QU_0_3_0014_Description" korean="" />
+	<block key="QU_0_3_0015_Name" korean="무러미 세공품" />
+	<block key="QU_0_3_0015_Description" korean="" />
+	<block key="QU_0_3_0016_Name" korean="무러미오의 편지" />
+	<block key="QU_0_3_0016_Description" korean="" />
+	<block key="QU_0_3_0017_Name" korean="줄러미의 편지" />
+	<block key="QU_0_3_0017_Description" korean="" />
+	<block key="QU_0_3_0018_Name" korean="페리토의 부리" />
+	<block key="QU_0_3_0018_Description" korean="" />
+	<block key="QU_0_3_0019_Name" korean="아굴 이빨" />
+	<block key="QU_0_3_0019_Description" korean="" />
+	<block key="QU_0_3_0020_Name" korean="방패게의 알" />
+	<block key="QU_0_3_0020_Description" korean="" />
+	<block key="QU_0_3_0021_Name" korean="제설 도구" />
+	<block key="QU_0_3_0021_Description" korean="" />
+	<block key="QU_0_3_0022_Name" korean="물의 오르" />
+	<block key="QU_0_3_0022_Description" korean="" />
+	<block key="QU_0_3_0023_Name" korean="크로쿤 석궁 화살" />
+	<block key="QU_0_3_0023_Description" korean="" />
+	<block key="QU_0_3_0024_Name" korean="얼음 송곳니" />
+	<block key="QU_0_3_0024_Description" korean="" />
+	<block key="QU_0_3_0025_Name" korean="인어의 악보 -상-" />
+	<block key="QU_0_3_0025_Description" korean="" />
+	<block key="QU_0_3_0026_Name" korean="인어의 악보 -중-" />
+	<block key="QU_0_3_0026_Description" korean="" />
+	<block key="QU_0_3_0027_Name" korean="인어의 악보 -하-" />
+	<block key="QU_0_3_0027_Description" korean="" />
+	<block key="QU_0_3_0028_Name" korean="크로쿤 식량" />
+	<block key="QU_0_3_0028_Description" korean="" />
+	<block key="QU_0_3_0029_Name" korean="청새치" />
+	<block key="QU_0_3_0029_Description" korean="" />
+	<block key="QU_0_3_0030_Name" korean="거북이 고기" />
+	<block key="QU_0_3_0030_Description" korean="" />
+	<block key="QU_0_3_0031_Name" korean="장작더미" />
+	<block key="QU_0_3_0031_Description" korean="" />
+	<block key="QU_0_3_0032_Name" korean="수비대 포탄" />
+	<block key="QU_0_3_0032_Description" korean="" />
+	<block key="QU_0_3_0033_Name" korean="오염된 독초" />
+	<block key="QU_0_3_0033_Description" korean="" />
+	<block key="QU_0_3_0034_Name" korean="태양망루 표식" />
+	<block key="QU_0_3_0034_Description" korean="" />
+	<block key="QU_0_3_0035_Name" korean="크로쿤 폭탄" />
+	<block key="QU_0_3_0035_Description" korean="" />
+	<block key="QU_0_3_0036_Name" korean="리드가 훔쳐간 은빛 수반" />
+	<block key="QU_0_3_0036_Description" korean="" />
+	<block key="QU_0_3_0037_Name" korean="빛나는 물의 거울 조각" />
+	<block key="QU_0_3_0037_Description" korean="" />
+	<block key="QU_0_3_0038_Name" korean="떠오른 물의 거울 조각" />
+	<block key="QU_0_3_0038_Description" korean="" />
+	<block key="QU_0_3_0039_Name" korean="노래하는 물의 거울 조각" />
+	<block key="QU_0_3_0039_Description" korean="" />
+	<block key="QU_0_3_0040_Name" korean="소생하는 물의 거울 조각" />
+	<block key="QU_0_3_0040_Description" korean="" />
+	<block key="QU_0_3_0041_Name" korean="잠든 물의 거울 조각" />
+	<block key="QU_0_3_0041_Description" korean="" />
+	<block key="QU_0_3_0042_Name" korean="단호박" />
+	<block key="QU_0_3_0042_Description" korean="단단해서 단호박. 달콤해지려면 시간이 걸린다" />
+	<block key="QU_0_3_0043_Name" korean="라비니 발" />
+	<block key="QU_0_3_0043_Description" korean="라비니 발을 가지고 있으면 행운이 찾아온다는 말이 있다." />
+	<block key="QU_0_3_0044_Name" korean="최상의 물고기" />
+	<block key="QU_0_3_0044_Description" korean="모리네 호수에서 크는 물고기. 민물고기임에도 비린내가 나지 않고 맛이 좋다" />
+	<block key="QU_0_3_0045_Name" korean="여신의 얼굴" />
+	<block key="QU_0_3_0045_Description" korean="" />
+	<block key="QU_0_3_0046_Name" korean="크로쿤 은빛 반지" />
+	<block key="QU_0_3_0046_Description" korean="" />
+	<block key="QU_0_3_0047_Name" korean="아굴 송곳니" />
+	<block key="QU_0_3_0047_Description" korean="" />
+	<block key="QU_0_3_0048_Name" korean="아굴 젠키드의 심장" />
+	<block key="QU_0_3_0048_Description" korean="" />
+	<block key="QU_0_3_0049_Name" korean="작은 이뮤럼꽃" />
+	<block key="QU_0_3_0049_Description" korean="여러가지 상태이상에 특효. 비전의 제작기술을 사용하면 신비의 영약을 만들 수 있다고 하던데?" />
+	<block key="QU_0_3_0050_Name" korean="자다란 마을 보증서" />
+	<block key="QU_0_3_0050_Description" korean="자다란 마을의 치안을 하카나스 왕국이 지켜준다는 내용이 담긴 보증서" />
+	<block key="QU_0_3_0051_Name" korean="말린 붉은 포자나무잎" />
+	<block key="QU_0_3_0051_Description" korean="" />
+	<block key="QU_0_3_0052_Name" korean="무두질 도구" />
+	<block key="QU_0_3_0052_Description" korean="무두장이들의 필수품. 장인은 연장을 가리지 않는다지만, 그래도 도구는 있어야 한다." />
+	<block key="QU_0_3_0053_Name" korean="훔친 물건" />
+	<block key="QU_0_3_0053_Description" korean="라비니들이 훔쳐서 몰래 챙겨놓은 물건들." />
+	<block key="QU_0_3_0054_Name" korean="크로쿤 전사의 눈" />
+	<block key="QU_0_3_0054_Description" korean="크로쿤 얼굴 석상의 눈에서 떨어져나온 보석" />
+	<block key="QU_0_3_0055_Name" korean="라단의 조각" />
+	<block key="QU_0_3_0055_Description" korean="라단의 눈을 형상화한 조각. 라단의 눈으로 이끌리는 성질을 가지고 있다." />
+	<block key="QU_0_3_0056_Name" korean="암흑의 기운" />
+	<block key="QU_0_3_0056_Description" korean="일반적인 몬스터를 강화시키는 흑마법 기운의 정수" />
+	<block key="QU_0_3_0057_Name" korean="(구)불이 삼킨 유적의 텔리오 동화" />
+	<block key="QU_0_3_0057_Description" korean="지금은 사용되지 않는 동화" />
+	<block key="QU_0_3_0058_Name" korean="라비니족의 동화" />
+	<block key="QU_0_3_0058_Description" korean="라비니족의 동화" />
+	<block key="QU_0_3_0059_Name" korean="라비니족의 은화" />
+	<block key="QU_0_3_0059_Description" korean="라비니족의 은화" />
+	<block key="QU_0_3_0060_Name" korean="(구)카를레앙 대저택의 텔리오 동화" />
+	<block key="QU_0_3_0060_Description" korean="지금은 사용되지 않는 동화" />
+	<block key="QU_0_3_0061_Name" korean="라비니족의 금화" />
+	<block key="QU_0_3_0061_Description" korean="라비니족의 금화" />
+	<block key="QU_0_3_0062_Name" korean="카를레앙 대저택의 텔리오 금화" />
+	<block key="QU_0_3_0062_Description" korean="카를레앙 대저택의 텔리오 금화" />
+	<block key="QU_0_3_0063_Name" korean="(구)얼어붙은 마트렌 폐허의 텔리오 동화" />
+	<block key="QU_0_3_0063_Description" korean="지금은 사용되지 않는 동화" />
+	<block key="QU_0_3_0064_Name" korean="얼어붙은 마들렌 폐허의 텔리오 은화" />
+	<block key="QU_0_3_0064_Description" korean="얼어붙은 마들렌 폐허의 텔리오 은화" />
+	<block key="QU_0_3_0065_Name" korean="얼어붙은 마들렌 폐허의 텔리오 금화" />
+	<block key="QU_0_3_0065_Description" korean="얼어붙은 마들렌 폐허의 텔리오 금화" />
+	<block key="QU_0_3_0066_Name" korean="(구)베일에 싸인 동굴의 텔리오 동화" />
+	<block key="QU_0_3_0066_Description" korean="지금은 사용되지 않는 동화" />
+	<block key="QU_0_3_0067_Name" korean="베일에 싸인 동굴의 텔리오 은화" />
+	<block key="QU_0_3_0067_Description" korean="베일에 싸인 동굴의 텔리오 은화" />
+	<block key="QU_0_3_0068_Name" korean="베일에 싸인 동굴의 텔리오 금화" />
+	<block key="QU_0_3_0068_Description" korean="베일에 싸인 동굴의 텔리오 금화" />
+	<block key="QU_0_3_0069_Name" korean="(구)파를라크 얼음성의 텔리오 동화" />
+	<block key="QU_0_3_0069_Description" korean="지금은 사용되지 않는 동화" />
+	<block key="QU_0_3_0070_Name" korean="파를라크 얼음성의 텔리오 은화" />
+	<block key="QU_0_3_0070_Description" korean="파를라크 얼음성의 텔리오 은화" />
+	<block key="QU_0_3_0071_Name" korean="파를라크 얼음성의 텔리오 금화" />
+	<block key="QU_0_3_0071_Description" korean="파를라크 얼음성의 텔리오 금화" />
+	<block key="QU_0_3_0072_Name" korean="곰가죽" />
+	<block key="QU_0_3_0072_Description" korean="파르나의 땅의 곰들에게서 구할 수 있는 곰가죽" />
+	<block key="QU_0_3_0073_Name" korean="푸줏간 고기몽둥이" />
+	<block key="QU_0_3_0073_Description" korean="몽둥이에 흐릿한 핏자국 같은 것이 보이지만 신경쓰지 말자. 철 없는 소년에게 애도를…." />
+	<block key="QU_0_3_0074_Name" korean="약혼반지 한 짝" />
+	<block key="QU_0_3_0074_Description" korean="조잡한 장식 가운데 M과 J의 사랑, 영원히라고 쓰여있다." />
+	<block key="QU_0_3_0075_Name" korean="투박한 나무 조각상" />
+	<block key="QU_0_3_0075_Description" korean="처음 깎아본 조각상이 이 정도면 꽤 잘 만든 것 같다." />
+	<block key="QU_0_3_0076_Name" korean="양초가 든 상자" />
+	<block key="QU_0_3_0076_Description" korean="킁킁대면 좋은 향기가 난다. 귀여운 트리마를 위해 어서 배달해주자." />
+	<block key="QU_0_3_0077_Name" korean="반지가 든 상자" />
+	<block key="QU_0_3_0077_Description" korean="빨리 배달하지 않으면 무러미 소녀의 탈을 쓴 꼬마악마에게 무슨 잔소리를 들을 지 모른다." />
+	<block key="QU_0_3_0078_Name" korean="새 고기" />
+	<block key="QU_0_3_0078_Description" korean="비릿한 냄새가 나는 것이 그렇게 먹음직스러워 보이지는 않다." />
+	<block key="QU_0_3_0079_Name" korean="돈 주머니" />
+	<block key="QU_0_3_0079_Description" korean="흔들면 짤랑짤랑 기분좋은 소리가 난다." />
+	<block key="QU_0_3_0080_Name" korean="성냥" />
+	<block key="QU_0_3_0080_Description" korean="트리마가 팔고 있는 성냥갑." />
+	<block key="QU_0_3_0081_Name" korean="조잡한 반지" />
+	<block key="QU_0_3_0081_Description" korean="포메리가 팔고 있는 반지. 솔직히 나 같아도 안 산다." />
+	<block key="QU_0_3_0082_Name" korean="따뜻한 신발" />
+	<block key="QU_0_3_0082_Description" korean="두툼하고 튼튼한 겨울용 털신발." />
+	<block key="QU_0_3_0083_Name" korean="무섭게 생긴 인형" />
+	<block key="QU_0_3_0083_Description" korean="요즘 아이들은 이런 걸 좋아하나 보다." />
+	<block key="QU_0_3_0084_Name" korean="쓸 만한 목재" />
+	<block key="QU_0_3_0085_Name" korean="설계도 조각" />
+	<block key="QU_0_3_0085_Description" korean="선박의 도면으로 짐작되는 종이 조각." />
+	<block key="QU_0_3_0086_Name" korean="꽃다발" />
+	<block key="QU_0_3_0086_Description" korean="서툰 솜씨로 어설프게 만든 꽃다발." />
+	<block key="QU_0_3_0087_Name" korean="엑자란 유물" />
+	<block key="QU_0_3_0087_Description" korean="엑자란 시대에 만들어진 것으로 추정되는 유물." />
+	<block key="QU_0_3_0088_Name" korean="유골" />
+	<block key="QU_0_3_0088_Description" korean="장렬히 싸우다 전사한 이름모를 병사의 유골." />
+	<block key="QU_0_3_0089_Name" korean="나무 수액" />
+	<block key="QU_0_3_0089_Description" korean="자작나무의 수액. 상처에 바르면 좋은 진정제가 된다고 한다." />
+	<block key="QU_1_3_0049_Name" korean="슈페른의 나무판" />
+	<block key="QU_1_3_0049_Description" korean="그리폰 슈페른이 발톱으로 그린 그림 문자 같은 것이 새겨져 있다." />
+	<block key="QU_1_3_0050_Name" korean="불사군단의 작전 지령서" />
+	<block key="QU_1_3_0050_Description" korean="그리폰을 사냥하는 이유를 알 수 있는 작전 지령서" />
+	<block key="QU_1_3_0051_Name" korean="그리폰의 유해" />
+	<block key="QU_1_3_0051_Description" korean="이미 많이 착취된 것인지 유해의 무게가 가볍다." />
+	<block key="QU_1_3_0052_Name" korean="마법 주문석" />
+	<block key="QU_1_3_0052_Description" korean="치메르가 있는 곳을 알려 주는 마법이 담긴 주문석." />
+	<block key="QU_1_3_0053_Name" korean="요새 설계도 조각" />
+	<block key="QU_1_3_0053_Description" korean="조각을 맞추면 요새 설계도를 복원할 수 있을 것 같다." />
+	<block key="QU_1_3_0054_Name" korean="진실의 거울" />
+	<block key="QU_1_3_0054_Description" korean="거울을 비추면 불사군단이 그 정체를 드러낼 것이다." />
+	<block key="QU_1_3_0055_Name" korean="요새의 열쇠" />
+	<block key="QU_1_3_0055_Description" korean="불사군단 요새의 결계를 해제 시키는 인증 열쇠" />
+	<block key="QU_1_3_0056_Name" korean="광역 폭탄" />
+	<block key="QU_1_3_0056_Description" korean="" />
+	<block key="QU_1_3_0057_Name" korean="대머리 독수리 알" />
+	<block key="QU_1_3_0057_Description" korean="단단함이 느껴지는 강인한 껍질의 알" />
+	<block key="QU_1_3_0058_Name" korean="반숙 독수리 알" />
+	<block key="QU_1_3_0058_Description" korean="아직 탄생하지도 않은 생명을 섭취하려는 자. 독수리의 원한을 맛보리라." />
+	<block key="QU_1_3_0059_Name" korean="식물 독" />
+	<block key="QU_1_3_0059_Description" korean="식물에서 추출한 강력한 독" />
+	<block key="QU_1_3_0060_Name" korean="동물 독" />
+	<block key="QU_1_3_0060_Description" korean="동물에게서 추출한 강력한 독" />
+	<block key="QU_1_3_0061_Name" korean="독액 상자" />
+	<block key="QU_1_3_0061_Description" korean="위험한 독액이 담긴 상자" />
+	<block key="QU_1_3_0062_Name" korean="수원 탐지기" />
+	<block key="QU_1_3_0062_Description" korean="이 곳에 수맥이 흐른다! 조상의 묘가 있다면 당장 옮겨라!" />
+	<block key="QU_1_3_0063_Name" korean="밀가루" />
+	<block key="QU_1_3_0063_Description" korean="" />
+	<block key="QU_1_3_0064_Name" korean="건물 자재" />
+	<block key="QU_1_3_0064_Description" korean="용병단 건물에서 뜯어낸 재활용 자재. 숲을 살리는데 일조한 기분이다." />
+	<block key="QU_1_3_0065_Name" korean="맹독탄" />
+	<block key="QU_1_3_0065_Description" korean="연금술사 하시시의 광기가 고스란히 담긴 거 같은 기분 나쁜 화학무기." />
+	<block key="QU_1_3_0066_Name" korean="사미라에게 보내는 편지" />
+	<block key="QU_1_3_0066_Description" korean="죽은 경비대원이 사미라에게 보내는 편지. 전해도 좋은 내용일지 읽어보자." />
+	<block key="QU_1_3_0067_Name" korean="소금을 바른 병" />
+	<block key="QU_1_3_0067_Description" korean="빠른 갈증 해소를 위해 소금을 첨가해서 물을 마시기에 용이한 병" />
+	<block key="QU_1_3_0068_Name" korean="모래지옥" />
+	<block key="QU_1_3_0068_Description" korean="사막에 순간적으로 모래 지옥을 만드는 약" />
+	<block key="QU_1_3_0069_Name" korean="모래 폭풍3" />
+	<block key="QU_1_3_0069_Description" korean="사막에 순간적으로 모래 폭풍을 만드는 약" />
+	<block key="QU_1_3_0070_Name" korean="모하바 용병단 방어구" />
+	<block key="QU_1_3_0070_Description" korean="용병단 재정이 매우 풍족한 것인지 하나같이 질이 좋다." />
+	<block key="QU_1_3_0071_Name" korean="화학탄" />
+	<block key="QU_1_3_0071_Description" korean="그 스승의 그 제자. 하시시의 제자 카르단의 광기가 고스란히 담긴 거 같은 화학탄." />
+	<block key="QU_1_3_0072_Name" korean="봉인의 돌" />
+	<block key="QU_1_3_0072_Description" korean="돌의 정령을 봉인할 수 있는 마법의 돌" />
+	<block key="QU_1_3_0073_Name" korean="오르 광석" />
+	<block key="QU_1_3_0073_Description" korean="" />
+	<block key="QU_1_3_0074_Name" korean="누르의 편지" />
+	<block key="QU_1_3_0074_Description" korean="" />
+	<block key="QU_1_3_0075_Name" korean="용기의 부적" />
+	<block key="QU_1_3_0075_Description" korean="약혼녀가 젤렉스에게 준 부적. 어쩐지 핑크색 하트가 뿜어져 나올 거 같다." />
+	<block key="QU_1_3_0076_Name" korean="그리폰의 보물(?)" />
+	<block key="QU_1_3_0076_Description" korean="강탈 당했던 그리폰의 보물…? 디마이의 개인적 보물이 아닐까…?" />
+	<block key="QU_1_3_0077_Name" korean="크로쿤의 무기" />
+	<block key="QU_1_3_0077_Description" korean="" />
+	<block key="QU_1_3_0078_Name" korean="크로쿤의 식량" />
+	<block key="QU_1_3_0078_Description" korean="먹을 걸 뺏긴 원한은 크다던데… 크로쿤의 원성이 들려올 것만 같다." />
+	<block key="QU_1_3_0079_Name" korean="금빛 깃털" />
+	<block key="QU_1_3_0079_Description" korean="찬란하게 빛나는 암석 절벽 천둥새의 금빛 깃털" />
+	<block key="QU_1_3_0080_Name" korean="도둑 맞은 마법서" />
+	<block key="QU_1_3_0080_Description" korean="불사군단의 스파이는 이 마법서를 훔치려다 사람을 죽인 것 같다." />
+	<block key="QU_1_3_0081_Name" korean="크로쿤 주술 부적" />
+	<block key="QU_1_3_0081_Description" korean="이것만 믿다가는 죽을 수도 있겠다… 라고 야성의 감이 속삭인다." />
+	<block key="QU_1_3_0082_Name" korean="비행 투척 폭탄" />
+	<block key="QU_1_3_0082_Description" korean="" />
+	<block key="QU_1_3_0083_Name" korean="통신용 피리" />
+	<block key="QU_1_3_0083_Description" korean="섀도우 클랜을 불러 모으는 통신용 피리" />
+	<block key="QU_1_3_0084_Name" korean="횃불" />
+	<block key="QU_1_3_0084_Description" korean="용병단 캠프를 불태우자!" />
+	<block key="QU_1_3_0085_Name" korean="수상한 지령서" />
+	<block key="QU_1_3_0085_Description" korean="익숙한 문양이 찍혀 있는 것 같다. 섀도우 클랜 엘레나에게 가져다 줘 보자." />
+	<block key="QU_1_3_0086_Name" korean="유세이의 옷자락" />
+	<block key="QU_1_3_0086_Description" korean="샌드웜에게 먹힌 걸까…? 시르히에게 가져다 줘 보자." />
+	<block key="QU_1_3_0087_Name" korean="유실된 오르 광석" />
+	<block key="QU_1_3_0087_Description" korean="줍는 사람이 임자. 생각보다 많은 양이 떨어져 있는 것 같다." />
+	<block key="QU_1_3_0088_Name" korean="샤를의 비행일지" />
+	<block key="QU_1_3_0088_Description" korean="남의 일기는 읽어봐야 제 맛…이 아니라 주인을 찾기 위해 읽어보자." />
+	<block key="QU_1_3_0089_Name" korean="날려 온 보물" />
+	<block key="QU_1_3_0089_Description" korean="모래 바람에 날려 온 보물들" />
+	<block key="QU_1_3_0090_Name" korean="고장난 오르골" />
+	<block key="QU_1_3_0090_Description" korean="고장나서 소리가 나지 않는다. 수리해 줄 만한 사람에게 가져다 주자." />
+	<block key="QU_1_3_0091_Name" korean="아람의 오르골" />
+	<block key="QU_1_3_0091_Description" korean="아람이 수리한 오르골. 진정한 주인은 따로 있을 것만 갔다." />
+	<block key="QU_1_3_0092_Name" korean="박쥐똥" />
+	<block key="QU_1_3_0092_Description" korean="보양식 재료로 쓰인다는데 별로 먹고 싶은 기분은 아니다." />
+	<block key="QU_1_3_0093_Name" korean="영혼의 불" />
+	<block key="QU_1_3_0093_Description" korean="억울하게 죽은 혼이 깃든 영혼의 불. 해안가로 흘려보내 주자." />
+	<block key="QU_1_3_0094_Name" korean="오래된 불꽃 그릇" />
+	<block key="QU_1_3_0094_Description" korean="영혼의 불을 담던 그릇. 사용한 지 오래 된 듯 기름이 말라 붙어 있다." />
+	<block key="QU_1_3_0095_Name" korean="조각하기 좋은 돌" />
+	<block key="QU_1_3_0095_Description" korean="" />
+	<block key="QU_1_3_0096_Name" korean="전서구" />
+	<block key="QU_1_3_0096_Description" korean="얌전한 전서구. 해안가로 가서 날려 보내 주자." />
+	<block key="QU_1_3_0097_Name" korean="질 좋은 xx고기" />
+	<block key="QU_1_3_0097_Description" korean="" />
+	<block key="QU_1_3_0098_Name" korean="질 좋은 00고기" />
+	<block key="QU_1_3_0098_Description" korean="" />
+	<block key="QU_1_3_0099_Name" korean="그라스의 뼈" />
+	<block key="QU_1_3_0099_Description" korean="살해당한 그라스의 뼈." />
+	<block key="QU_1_3_0100_Name" korean="광채나무의 뿌리 분말" />
+	<block key="QU_1_3_0100_Description" korean="" />
+	<block key="QU_1_3_0101_Name" korean="위습의 빛 무리" />
+	<block key="QU_1_3_0101_Description" korean="" />
+	<block key="QU_1_3_0102_Name" korean="기력 회복제" />
+	<block key="QU_1_3_0102_Description" korean="엘프의 특제 펠로우 기력 회복제. 제조 비법은 엘프들만이 알고 있다고…." />
+	<block key="QU_1_3_0103_Name" korean="늑대인간 계획서" />
+	<block key="QU_1_3_0103_Description" korean="카브임교단에서 만든 계획서. 산서프스 목장의 인간을 늑대인간으로 바꾸려는 내용이 담겨 있다." />
+	<block key="QU_1_3_0104_Name" korean="천연 폭포수" />
+	<block key="QU_1_3_0104_Description" korean="최근 하카나스 수도성에서 가장 인기있는 물로 유명한 직할령 폭포수." />
+	<block key="QU_1_3_0105_Name" korean="켈우즈 약초" />
+	<block key="QU_1_3_0105_Description" korean="켈우즈에서만 자라는 신비한 약초. 악한 기운을 빼내는데 효과가 있다고 한다." />
+	<block key="QU_1_3_0106_Name" korean="카브임 신도의 목걸이" />
+	<block key="QU_1_3_0106_Description" korean="지니고만 있어도 교단과 마법으로 연결되어 카브임 마법으로 가려진 것들을 볼 수 있게 해준다." />
+	<block key="QU_1_3_0108_Name" korean="인형의 재" />
+	<block key="QU_1_3_0108_Description" korean="저주인형이 타고 남은 잿가루. 불길하니 빨리 버려야 할 것 같다." />
+	<block key="QU_1_3_0110_Name" korean="블러디 럼" />
+	<block key="QU_1_3_0110_Description" korean="어린 아이는 먹지 마세요. 어른에 양보하세요" />
+	<block key="QU_9_0_0001_Name" korean="크로우토르투스섀도우레나부상병(벌목지)" />
+	<block key="QU_9_0_0002_Name" korean="크로우레나부상병(벌목지)" />
+	<block key="QU_9_0_0003_Name" korean="토르투스(늑대소굴)" />
+	<block key="QU_9_0_0004_Name" korean="크로우쿠할란토르투스(신룡기사단)" />
+	<block key="QU_9_0_0005_Name" korean="크로우(신룡기사단)" />
+	<block key="QU_9_0_0006_Name" korean="쿠할란(신룡기사단)" />
+	<block key="QU_9_0_0007_Name" korean="토르투스(늑대소굴)" />
+	<block key="QU_9_0_0008_Name" korean="어린목동제프(직할령)" />
+	<block key="QU_9_0_0009_Name" korean="비하인드(수도성)" />
+	<block key="QU_9_0_0010_Name" korean="안데르에카테리나(수도성)" />
+	<block key="QU_9_0_0011_Name" korean="나무 요정 치키 (알렉스 옆)" />
+	<block key="QU_9_0_0012_Name" korean="나무 요정 치키 (광채나무 캠프)" />
+	<block key="QU_9_0_0013_Name" korean="케플리 싱어(라단의 제물)" />
+	<block key="QU_9_0_0014_Name" korean="케플리 싱어(왕국 사제)" />
+	<block key="QU_9_0_0015_Name" korean="시녀 리스리나메이(카를레앙)" />
+	<block key="QU_9_0_0016_Name" korean="이누기(착한브라기)" />
+	<block key="QU_9_0_0017_Name" korean="커티스와흑표범" />
+	<block key="QU_9_0_0018_Name" korean="커티스(펠로우없음)" />
+	<block key="QU_9_0_0019_Name" korean="커티스의 흑표범" />
+	<block key="QU_9_0_0020_Name" korean="크로우(수도성)" />
+	<block key="QU_9_0_0021_Name" korean="산서프스수도성 포탈이동사" />
+	<block key="QU_9_0_0022_Name" korean="카브임 강화장치" />
+	<block key="QU_9_0_0023_Name" korean="숨겨진 석판" />
+	<block key="QU_9_0_0024_Name" korean="리크" />
+	<block key="QU_9_0_0025_Name" korean="해리" />
+	<block key="QU_9_0_0026_Name" korean="리크(퀘스트)" />
+	<block key="QU_9_0_0027_Name" korean="해리(퀘스트)" />
+	<block key="QU_9_0_0028_Name" korean="고등마법사 리네타(훈련장앞)" />
+	<block key="QU_9_0_0029_Name" korean="고등마법사 리네타(성벽앞)" />
+	<block key="QU_9_0_0030_Name" korean="고등마법사 리네타(엘그레인농장)" />
+	<block key="QU_9_0_0031_Name" korean="비하인드 스케일(엘그레인농장)" />
+	<block key="QU_9_0_0032_Name" korean="대장군 러셀(훈련장)" />
+	<block key="QU_9_0_0033_Name" korean="상급 마법사 호메르" />
+	<block key="QU_9_0_0034_Name" korean="상급 마법사 호메르" />
+	<block key="QU_9_0_0035_Name" korean="레나 <카를레앙 대저택>" />
+	<block key="QU_9_0_0036_Name" korean="레나 <돌개바람 언덕>" />
+	<block key="QU_9_0_0037_Name" korean="레나 <하카나스 수도성>" />
+	<block key="QU_9_0_0038_Name" korean="철장 <훈련소>" />
+	<block key="QU_9_0_0039_Name" korean="마린" />
+	<block key="QU_9_0_0040_Name" korean="러셀" />
+	<block key="QU_9_0_0041_Name" korean="스키프스" />
+	<block key="QU_9_0_0042_Name" korean="철장<북문>" />
+	<block key="QU_9_0_0043_Name" korean="토르투스(북부유적폐허 투명)" />
+	<block key="QU_9_4_0001_Name" korean="조디앤디로이(멸공시작지역)" />
+	<block key="QU_9_4_0002_Name" korean="에롤(드래곤)" />
+	<block key="QU_9_4_0003_Name" korean="에롤(고공캠프)" />
+	<block key="QU_9_4_0004_Name" korean="에롤(신전)" />
+	<block key="QU_9_4_0005_Name" korean="오스카(고공캠프)" />
+	<block key="QU_9_4_0006_Name" korean="오스카(신전)" />
+	<block key="QU_9_4_0007_Name" korean="오스카(퀘스트완료후)" />
+	<block key="QU_9_4_0008_Name" korean="엘로라의 기운" />
+	<block key="QU_9_4_0009_Name" korean="올리비에의 와이번" />
+	<block key="QU_9_4_0010_Name" korean="거대 여신 석상" />
+	<block key="QU_9_4_0011_Name" korean="거대 여신 석상(이펙트)" />
+	<block key="QU_9_4_0012_Name" korean="에롤(루플라옆)" />
+	<block key="QU_9_3_0001_Name" korean="시이사(갈대바람마을)" />
+	<block key="QU_9_3_0002_Name" korean="시이사(수비대기지)" />
+	<block key="QU_9_3_0003_Name" korean="시이사(해적단마을)" />
+	<block key="QU_9_3_0004_Name" korean="시이사(생명의호수)" />
+	<block key="QU_9_3_0005_Name" korean="멜리사(해적단기지)" />
+	<block key="QU_9_3_0006_Name" korean="멜리사(유령선앞)" />
+	<block key="QU_9_3_0007_Name" korean="의문의 여인(태양망루)" />
+	<block key="QU_9_3_0008_Name" korean="의문의 여인(야수울음)" />
+	<block key="QU_9_3_0009_Name" korean="의문의 여인(인어의섬)" />
+	<block key="QU_9_3_0010_Name" korean="의문의 여인(폭포마을)" />
+	<block key="QU_9_3_0011_Name" korean="레슐레" />
+	<block key="QU_9_3_0012_Name" korean="길 잃은 늑대" />
+	<block key="QU_9_3_0013_Name" korean="길 잃은 늑대(여관)" />
+	<block key="QU_9_3_0014_Name" korean="멜리사 (퀘스트완료)" />
+	<block key="QU_9_3_0015_Name" korean="아이샤(영지앞)" />
+	<block key="QU_9_3_0016_Name" korean="아이샤(영지안)" />
+	<block key="QU_9_3_0017_Name" korean="촌장아들리드" />
+	<block key="QU_9_3_0018_Name" korean="성난 무러미 처녀 줄러미" />
+	<block key="QU_9_3_0019_Name" korean="무러미 처녀 줄러미" />
+	<block key="QU_9_4_0013_Name" korean="작은 새(비밀 유적)" />
+	<block key="QU_9_4_0014_Name" korean="훈련병 엘사(다리 왼쪽)" />
+	<block key="QU_9_4_0015_Name" korean="나린(광채나무숲)" />
+	<block key="QU_9_4_0016_Name" korean="키르샤(북부유적)" />
+	<block key="QU_9_4_0017_Name" korean="물의 거울 A" />
+	<block key="QU_9_4_0018_Name" korean="물의 거울 B" />
+	<block key="QU_9_4_0019_Name" korean="물의 거울 C" />
+	<block key="QU_9_4_0020_Name" korean="물의 거울 D" />
+	<block key="QU_9_4_0021_Name" korean="물의 거울 E" />
+	<block key="QU_9_4_0022_Name" korean="여신의 얼굴" />
+	<block key="QU_9_4_0023_Name" korean="죽은 눈나무" />
+	<block key="QU_9_4_0024_Name" korean="빛나는 눈나무" />
+	<block key="QU_9_4_0025_Name" korean="잠들지 못하는 유령" />
+	<block key="QU_9_4_0026_Name" korean="해적단 등대(불켜짐)" />
+	<block key="QU_9_4_0027_Name" korean="해적단 등대(불꺼짐)" />
+	<block key="QU_1_3_0107_Name" korean="향기나는 편지" />
+	<block key="QU_1_3_0107_Description" korean="조언을 구한다는 편지에 왜 향수를 뿌린 걸까? 수상하다." />
+	<block key="QU_0_3_0090_Name" korean="스칸 공적단이 설치한 폭탄" />
+	<block key="QU_0_3_0091_Name" korean="약탈당한 물건" />
+	<block key="QU_0_3_0092_Name" korean="오플라이엄 채취도구" />
+	<block key="QU_0_3_0093_Name" korean="오플라이엄" />
+	<block key="QU_0_3_0094_Name" korean="마줄란의 고급상자" />
+	<block key="QU_0_3_0095_Name" korean="마줄란의 물품상자" />
+	<block key="QU_0_3_0096_Name" korean="마줄란의 물건자루" />
+	<block key="QU_0_3_0097_Name" korean="팜쿠란의 빈 물통" />
+	<block key="QU_0_3_0098_Name" korean="팜쿠란의 물이 꽉찬 물통" />
+	<block key="QU_0_3_0099_Name" korean="성장이 더딘 당근" />
+	<block key="QU_0_3_0100_Name" korean="성장이 더딘 수박" />
+	<block key="QU_0_3_0101_Name" korean="오염된 야채" />
+	<block key="QU_0_3_0102_Name" korean="성장 촉진제" />
+	<block key="QU_0_3_0103_Name" korean="스칸 공적단 강하폭탄" />
+	<block key="QU_0_3_0104_Name" korean="부유섬 설계도면" />
+	<block key="QU_0_3_0105_Name" korean="부유섬 기술도면" />
+	<block key="QU_0_3_0106_Name" korean="제니퍼의 작업상자" />
+	<block key="QU_0_3_0107_Name" korean="라니아 공주의 수정구" />
+	<block key="QU_0_3_0108_Name" korean="마계 기운이 서린 돌조각" />
+	<block key="QU_0_3_0109_Name" korean="엘로라 여신의 기운" />
+	<block key="QU_0_3_0110_Name" korean="신의 수리 도구" />
+	<block key="QU_0_3_0111_Name" korean="엑자란 동화" />
+	<block key="QU_0_3_0112_Name" korean="엑자란 은화" />
+	<block key="QU_0_3_0113_Name" korean="엑자란 금화" />
+	<block key="QU_9_3_0020_Name" korean="저주받은 안켈리온의 석궁" />
+	<block key="QU_9_3_0021_Name" korean="거품비늘" />
+	<block key="QU_0_3_0114_Name" korean="감옥 열쇠" />
+	<block key="QU_0_3_0114_Description" korean="감옥 문을 여는 열쇠." />
+	<block key="QU_0_3_0115_Name" korean="스카너의 먹이" />
+	<block key="QU_0_3_0116_Name" korean="대해 요정의 가루" />
+	<block key="QU_0_3_0117_Name" korean="투칸족 부적" />
+	<block key="QU_0_3_0118_Name" korean="시녀의 펜던트 조각" />
+	<block key="QU_0_3_0118_Description" korean="흙더미 속에서 발견한 시녀의 펜던트 조각이다." />
+	<block key="QU_0_3_0119_Name" korean="술병" />
+	<block key="QU_0_3_0119_Description" korean="지독한 술냄새가 나는 술병. 차라리 문어의 점액이 몸에 더 좋을 것 같다." />
+	<block key="QU_0_3_0120_Name" korean="오염된 엑자리움" />
+	<block key="QU_0_3_0120_Description" korean="까맣게 변한 엑자리움 광석 덩어리. 기분나쁜 느낌이 든다." />
+	<block key="QU_0_3_0121_Name" korean="불길한 책" />
+	<block key="QU_0_3_0121_Description" korean="표지만 봐도 오싹한 느낌이 든다. 펼쳤다간 저주라도 받을 것 같다." />
+	<block key="QU_0_3_0122_Name" korean="낡은 일기장" />
+	<block key="QU_0_3_0122_Description" korean="잉크가 번져서 알아보기 힘들다. 무슨 레앙이라는 사람의 일기인 듯 하다." />
+	<block key="QU_0_3_0123_Name" korean="요리책" />
+	<block key="QU_0_3_0123_Description" korean="남편이 좋아하는 쥐똥꼬리 쿠키 특집. 부록 말똥밥 스프 레시피." />
+	<block key="QU_0_3_0124_Name" korean="그림 동화책" />
+	<block key="QU_0_3_0124_Description" korean="과거로 날아간 주인공 미브는 과연 왕이 될 수 있을까요? 다음 권에 계속." />
+	<block key="QU_0_3_0125_Name" korean="수상한 수면제" />
+	<block key="QU_0_3_0125_Description" korean="실수로라도 마셨다간 영원히 잠들어버릴 것 같다." />
+	<block key="QU_0_3_0126_Name" korean="뼛조각" />
+	<block key="QU_0_3_0126_Description" korean="뼛조각이 담긴 자루. 흔들릴 때마다 달각달각 소리가 나서 기분나쁘다." />
+	<block key="QU_0_3_0127_Name" korean="시체풀" />
+	<block key="QU_0_3_0127_Description" korean="공동묘지에서 자라는 시체풀. 퀴퀴한 냄새가 난다." />
+	<block key="QU_0_3_0128_Name" korean="수상한 곡식자루" />
+	<block key="QU_0_3_0128_Description" korean="수확한지 얼마나 됐는지 짐작도 안 가는 곡식자루. 썩지는 않았다." />
+	<block key="QU_0_3_0129_Name" korean="정체불명의 알" />
+	<block key="QU_0_3_0129_Description" korean="무엇의 알인지는 모르겠다. 이상하게 꿈틀거리는게 기분 나쁘다." />
+	<block key="QU_0_3_0130_Name" korean="먹다 남은 고기" />
+	<block key="QU_0_3_0130_Description" korean="짐승이 먹다 남긴 듯 이빨자국이 선명히 남은 고기. 우웩." />
+	<block key="QU_0_3_0131_Name" korean="남은 수면제" />
+	<block key="QU_0_3_0131_Description" korean="유령이 마시고 남은 수면제. 이걸 마신 유령은 아마 영원히 잠들었을 것이다." />
+	<block key="QU_0_3_0132_Name" korean="녹이 슨 투구" />
+	<block key="QU_0_3_0132_Description" korean="서늘한 기운이 투구 주변에서 느껴진다." />
+	<block key="QU_0_3_0133_Name" korean="블랙윈드를 탄 바올 초상화" />
+	<block key="QU_0_3_0133_Description" korean="그림이라고는 믿을 수 없는 위엄이 말과 사람 모두에게 느껴진다." />
+	<block key="QU_0_3_0134_Name" korean="그을린 뼛조각" />
+	<block key="QU_0_3_0134_Description" korean="불에 그을린 뼛조각이다. 조각마다 룬문자의 흔적을 엿볼 수 있다." />
+	<block key="QU_0_3_0135_Name" korean="녹이 슨 얼어붙은 갑옷" />
+	<block key="QU_0_3_0135_Description" korean="형편없이 찌그러진 갑옷 주변을 냉기가 감싸고 있다." />
+	<block key="QU_0_3_0136_Name" korean="녹이 슨 마상검" />
+	<block key="QU_0_3_0136_Description" korean="날이 다 상해버려 무기로서의 가치가 없을 것 같다." />
+	<block key="QU_0_3_0138_Name" korean="묘지 명부" />
+	<block key="QU_0_3_0138_Description" korean="묘지의 망자들의 간략한 신상을 기록해놓은 문서다." />
+	<block key="QU_0_3_0139_Name" korean="기억의 조각" />
+	<block key="QU_0_3_0139_Description" korean="과거의 기억을 되돌아 볼 수 있는 마력의 파편이다." />
+	<block key="QU_0_3_0141_Name" korean="마비독" />
+	<block key="QU_0_3_0141_Description" korean="클랜에서 사용하는 강력한 마비독으로 살상효과는 없다." />
+	<block key="QU_0_3_0142_Name" korean="브라카르 공격 명령서" />
+	<block key="QU_0_3_0142_Description" korean="브라카르 숲을 공격하라는 세부적인 지시가 기록되어있다." />
+	<block key="QU_0_3_0143_Name" korean="찢겨진 손수건" />
+	<block key="QU_0_3_0143_Description" korean="훼손이 심해서 알아보긴 힘드나 이름을 수놓은 흔적이 있다." />
+	<block key="QU_0_3_0144_Name" korean="키샤르의 짐꾸러미" />
+	<block key="QU_0_3_0144_Description" korean="옷가지, 건조식량, 응급처치약 등이 마구잡이로 뒤섞여있다." />
+	<block key="QU_0_3_0145_Name" korean="브라카르 약초" />
+	<block key="QU_0_3_0145_Description" korean="통증 완화에 뛰어난 효과가 있는 약초다." />
+	<block key="QU_0_3_0146_Name" korean="바닷빛 정수" />
+	<block key="QU_0_3_0146_Description" korean="파랗고 작은 돌에 은은한 빛이 파도처럼 넘실거리고 있다." />
+	<block key="QU_0_3_0147_Name" korean="악에 물든 늑대의 눈" />
+	<block key="QU_0_3_0147_Description" korean="악령의 기운이 늑대의 눈동자에 미력하게 남아있다." />
+	<block key="QU_0_3_0148_Name" korean="아이스 하운드 모피" />
+	<block key="QU_0_3_0148_Description" korean="아이스 하운드에게는 미안하지만 북슬북슬하니 참 따뜻해 보인다." />
+	<block key="QU_0_3_0149_Name" korean="럼주" />
+	<block key="QU_0_3_0149_Description" korean="이 럼주 한 병이면 당신의 건강한 위장은 안녕히!" />
+	<block key="QU_0_3_0150_Name" korean="제어장치 부품" />
+	<block key="QU_0_3_0150_Description" korean="잘은 모르지만 제어장치에 이걸 끼우면 될 것 같다. 아마도. …맞나?" />
+	<block key="QU_0_3_0151_Name" korean="백은 광석" />
+	<block key="QU_0_3_0151_Description" korean="드론에게 받은 폭탄으로 캔 광석. 폭발에도 다행히 무사한 것 같다. 아마도." />
+	<block key="QU_0_3_0152_Name" korean="특제 곡괭이 자루" />
+	<block key="QU_0_3_0152_Description" korean="이게 바로 크로쿤 장인이 한칼한칼 다듬었다는 명품 곡괭이 자루란다." />
+	<block key="QU_0_3_0153_Name" korean="고대 수호자의 동력원" />
+	<block key="QU_0_3_0153_Description" korean="묘한 냄새가 나는 구슬. 웅웅소리가 나면서 진동하고 있다. 따뜻하다." />
+	<block key="QU_0_3_0154_Name" korean="쿤틴의 어금니" />
+	<block key="QU_0_3_0154_Description" korean="날카로운 곡괭이 날을 위해 기꺼이 이빨을 기부해주신 얼음 주먹 쿤틴에게 묵념." />
+	<block key="QU_0_3_0155_Name" korean="장인의 특제 곡괭이" />
+	<block key="QU_0_3_0155_Description" korean="이게 바로 크로쿤 장인이 심혈을 기울여 만들었다는 곡괭이 계의 명품이란다." />
+	<block key="QU_0_3_0156_Name" korean="백은 광석" />
+	<block key="QU_0_3_0156_Description" korean="과연 명품 곡괭이로 캔 광석은 뭐가 달라도 다른 것 같다. 기분 탓인가?" />
+	<block key="QU_0_3_0157_Name" korean="깨끗한 눈" />
+	<block key="QU_0_3_0157_Description" korean="방금 받은 깨끗한 눈. 먼지 한 톨이라도 들어갔다간 트로와가 날 죽일 것이다." />
+	<block key="QU_0_3_0158_Name" korean="눈 녹인 물" />
+	<block key="QU_0_3_0158_Description" korean="깨끗한 눈을 녹인 물. 한 방울이라도 흘렸다간 트로와가 날 끓여버릴 것이다." />
+	<block key="QU_0_3_0159_Name" korean="쌀" />
+	<block key="QU_0_3_0159_Description" korean="쌀을 훔친 걸 드론에게 들켰다간 날 자루에 넣고 묻어버릴 것이다." />
+	<block key="QU_0_3_0160_Name" korean="프로즌 사우르스 고기" />
+	<block key="QU_0_3_0160_Description" korean="오늘도 일용할 양식을 주시는 프로즌 사우르스들에게 묵념." />
+	<block key="QU_0_3_0161_Name" korean="정제된 백은" />
+	<block key="QU_0_3_0161_Description" korean="땅에 떨어뜨리기라도 했다간 못 쓰게 된단다. 조심히 가져가자." />
+	<block key="QU_0_3_0162_Name" korean="사과" />
+	<block key="QU_0_3_0162_Description" korean="사과할 일이 있나요? 사과하고 싶은 상대에게 이 사과를 건네보세요!" />
+	<block key="QU_0_3_0163_Name" korean="눈" />
+	<block key="QU_0_3_0163_Description" korean="대체 어디다 쓰려는 건진 모르겠지만 이번엔 깨끗하지 않아도 되나보다." />
+	<block key="QU_0_3_0164_Name" korean="눈 조각상" />
+	<block key="QU_0_3_0164_Description" korean="트로와가 드론을 생각하며 만들었다는 조각상. 짐승 이하로 보고 있나 보다." />
+	<block key="QU_0_3_0165_Name" korean="호숫물이 담긴 물통" />
+	<block key="QU_0_3_0165_Description" korean="깨끗해 보인다. 아니, 깨끗한 물이어야 한다. …안 그러면 트로와에게 수장당할 것이다." />
+	<block key="QU_0_3_0166_Name" korean="광부의 특제 곡괭이" />
+	<block key="QU_0_3_0166_Description" korean="드론이 어설프게 만든 곡괭이. 솔직히 몇 번 쓰면 못 쓰게 될 것 같다." />
+	<block key="QU_0_3_0167_Name" korean="사과" />
+	<block key="QU_0_3_0167_Description" korean="드론이 트로와에게 보내는 사과. 부디 잘 해결되어야 할 텐데…" />
+	<block key="QU_0_3_0168_Name" korean="파를라크 은화" />
+	<block key="QU_0_3_0168_Description" korean="파를라크 영지에서 통용되던 은화. 지금은 쓰이지 않는 듯 하다." />
+	<block key="QU_0_3_0169_Name" korean="얼음 수정" />
+	<block key="QU_0_3_0169_Description" korean="설인 파괴자의 힘은 이 수정에서 나온다는 소문이 사실인 듯 하다." />
+	<block key="QU_0_3_0170_Name" korean="열리지 않는 책" />
+	<block key="QU_0_3_0170_Description" korean="무언가 보이지 않는 힘으로 닫혀있는 듯, 아무리 애를 써도 열리지 않는다." />
+	<block key="QU_0_3_0171_Name" korean="꺼져가는 서리 불씨" />
+	<block key="QU_0_3_0171_Description" korean="론도가 지니고 있던 기묘한 마력이 담긴 불씨다." />
+	<block key="QU_0_3_0172_Name" korean="서리 불꽃" />
+	<block key="QU_0_3_0172_Description" korean="서리 불씨의 파편으로 불씨와 비슷한 성질을 지니고 있는 것 같다." />
+	<block key="QU_0_3_0173_Name" korean="해적단 술통" />
+	<block key="QU_0_3_0173_Description" korean="해적들이 즐겨 마신다는 럼주가 가득 든 술통. 무겁다." />
+	<block key="QU_0_3_0174_Name" korean="빼앗긴 짐" />
+	<block key="QU_0_3_0174_Description" korean="해적들에게 빼앗긴 짐. 안에 갖가지 약초들이 들어 있다." />
+	<block key="QU_0_3_0175_Name" korean="안개초" />
+	<block key="QU_0_3_0175_Description" korean="걸어서는 가지 못할 정도로 높은 곳에서만 핀다는 귀한 약초." />
+	<block key="QU_0_3_0176_Name" korean="무레네의 비늘" />
+	<block key="QU_0_3_0176_Description" korean="하카나스 대해 무레네의 비늘" />
+	<block key="QU_0_3_0177_Name" korean="공적단 표식" />
+	<block key="QU_0_3_0177_Description" korean="공적단임을 나타내는 표식이다. 쓸데없이 크고 아름다워 정작 공적단들은 가지고 다니는 걸 싫어한다." />
+	<block key="QU_0_3_0178_Name" korean="망가진 고철" />
+	<block key="QU_0_3_0178_Description" korean="보기와는 다르게 공적단은 질 좋은 철을 공수해서 쓰고 있다고 한다. 고철을 재활용해 좋은 갑옷을 만들 수 있다." />
+	<block key="QU_0_3_0179_Name" korean="요정의 가루" />
+	<block key="QU_0_3_0179_Description" korean="가루를 나무나 철에 바르면 보석을 붙인듯 반짝거려 건물 외관 장식에 많이 쓰인다." />
+	<block key="QU_0_3_0180_Name" korean="공적단의 보물" />
+	<block key="QU_0_3_0180_Description" korean="공적단이 애지중지하는 물건들. 어째서 팔지 않고 가지고 있는지는 의문." />
+	<block key="QU_0_3_0181_Name" korean="서리 결정" />
+	<block key="QU_0_3_0181_Description" korean="서리군단을 처치하면 떨어지는 서리 결정." />
+	<block key="QU_0_3_0182_Name" korean="더럽혀진 무러미의 비늘" />
+	<block key="QU_0_3_0182_Description" korean="더렵혀진 무러미의 비늘은 여전히 오묘한 색을 띄고 있다. 아름다움에 감춰진 타락을 경계하라." />
+	<block key="QU_0_3_0183_Name" korean="배 부품" />
+	<block key="QU_0_3_0183_Description" korean="선박 설계자가 만들고 싶어하는 최고의 배를 만들기 위해 특별히 공수된 부품." />
+	<block key="QU_0_3_0184_Name" korean="거북이 기름" />
+	<block key="QU_0_3_0184_Description" korean="거북이 기름은 질은 낮지만 불을 밝힐 수는 있어 갈대바람마을 주민들의 필수품으로 자리잡았다." />
+	<block key="QU_0_3_0185_Name" korean="순록의 뿔" />
+	<block key="QU_0_3_0185_Description" korean="순록의 뿔을 뜨거운 물에 삶아 그 물을 마시면 한 겨울을 건강하게 보낼 수 있다고 한다." />
+	<block key="QU_0_3_0186_Name" korean="늑대 고기" />
+	<block key="QU_0_3_0186_Description" korean="영양가가 높은 늑대 고기. 든든하게 먹고 돌아다니면 추위가 무섭지 않다." />
+	<block key="QU_0_3_0187_Name" korean="바위문어의 다리" />
+	<block key="QU_0_3_0187_Description" korean="문어 다리인데 문어처럼 생기지 않았다. 맛은 문어맛. 신기하고 풍미가 뛰어나 인기가 높다." />
+	<block key="QU_0_3_0188_Name" korean="해적단 의복" />
+	<block key="QU_0_3_0188_Description" korean="아무리 추운곳에서도 따뜻함을 유지시켜주는 마법이 걸린 해적단 의복" />
+	<block key="QU_0_3_0189_Name" korean="흰 늑대 가죽" />
+	<block key="QU_0_3_0189_Description" korean="하얀 늑대 가죽은 고가에 거래되고 있다." />
+	<block key="QU_0_3_0190_Name" korean="깨진 석상 조각" />
+	<block key="QU_0_3_0190_Description" korean="크로쿤 석상이 설인의 공격을 받아 깨져버린 형태. 설인들은 이 조각을 지니고 있으면 죽지 않는다고 믿는다." />
+	<block key="QU_0_3_0191_Name" korean="방패 진주" />
+	<block key="QU_0_3_0191_Description" korean="산란기 방패게에서 드물게 얻을 수 있는 방패 진주." />
+	<block key="QU_0_3_0192_Name" korean="저주받은 갑옷" />
+	<block key="QU_0_3_0192_Description" korean="죽은 병사들을 움직이게 만드는 것은 이 저주받은 갑옷 때문일지도 모른다." />
+	<block key="QU_0_3_0193_Name" korean="어둠 설인 가죽" />
+	<block key="QU_0_3_0193_Description" korean="파르나의 땅 어둠 설인 가죽은 무두장이들이 꼭 무두질해보고 싶은 희귀한 가죽이다." />
+	<block key="QU_0_3_0194_Name" korean="화염초" />
+	<block key="QU_0_3_0194_Description" korean="일반적인 환경에서는 어떤 것도 자랄 수 없는 격동의 대지에 피어난 신비한 풀" />
+	<block key="QU_0_3_0195_Name" korean="불타버린 병사들의 뼈" />
+	<block key="QU_0_3_0195_Description" korean="격동의 대지를 원래대로 돌리기 위해 전투를 벌이던 병사들은 지독한 열기에 하나 둘 쓰러져갔다." />
+	<block key="QU_0_3_0196_Name" korean="아로트의 배설물" />
+	<block key="QU_0_3_0196_Description" korean="격동의 대지 지역에서만 볼 수 있는 특이한 배설물" />
+	<block key="QU_0_3_0197_Name" korean="피의 결정" />
+	<block key="QU_0_3_0197_Description" korean="피의 꽃에서 희귀하게 생성되는 결정이다." />
+	<block key="QU_0_3_0198_Name" korean="붉은 용의 알" />
+	<block key="QU_0_3_0198_Description" korean="태어난지 하루면 성체가 된다는 무시무시한 성장속도를 지닌 붉은용의 알" />
+	<block key="QU_0_3_0199_Name" korean="플로티어의 고기" />
+	<block key="QU_0_3_0199_Description" korean="플로티어의 고기는 달콤한 맛이 일품으로 페가수스 기사단들이 가장 좋아하는 고기다." />
+	<block key="QU_0_3_0200_Name" korean="서리 뼈" />
+	<block key="QU_0_3_0200_Description" korean="서리뼈 와이번에게 나오는 뼈. 한기를 지니고 있다." />
+	<block key="QU_0_3_0201_Name" korean="용기사의 검" />
+	<block key="QU_0_3_0201_Description" korean="잠든 용의 심장을 수호하는 고대 용기사의 검" />
+	<block key="QU_0_3_0202_Name" korean="숫돌" />
+	<block key="QU_0_3_0202_Description" korean="해적한테 잠시 빌려온 숫돌." />
+	<block key="QU_1_3_0200_Name" korean="망루 파괴용 폭탄" />
+	<block key="QU_1_3_0200_Description" korean="자경단이 망루 파괴용으로 특별히 제작한 폭탄이라고 한다." />
+	<block key="QU_0_3_0203_Name" korean="토끼 대왕 브라우니의 가죽" />
+	<block key="QU_0_3_0203_Description" korean="대사제 푸리스의 의식에 필요한 첫번째 재료다." />
+	<block key="QU_0_3_0204_Name" korean="눈꽃 토끼의 발" />
+	<block key="QU_0_3_0204_Description" korean="대사제 푸리스의 의식에 필요한 첫번째 재료다." />
+	<block key="QU_0_3_0205_Name" korean="대사제 베르나의 수정구" />
+	<block key="QU_0_3_0205_Description" korean="대사제 푸리스의 의식에 필요한 두번째 재료다." />
+	<block key="QU_0_3_0206_Name" korean="성난 무러미의 비늘" />
+	<block key="QU_0_3_0206_Description" korean="대사제 푸리스의 의식에 필요한 두번째 재료다." />
+	<block key="QU_0_3_0207_Name" korean="하얀 날개 아마란스의 깃털" />
+	<block key="QU_0_3_0207_Description" korean="대사제 푸리스의 의식에 필요한 세번째 재료다." />
+	<block key="QU_0_3_0208_Name" korean="푸른 아로스의 솜털" />
+	<block key="QU_0_3_0208_Description" korean="대사제 푸리스의 의식에 필요한 세번째 재료다." />
+	<block key="QU_0_3_0209_Name" korean="라이쿠의 뿔" />
+	<block key="QU_0_3_0209_Description" korean="대사제 푸리스의 의식에 필요한 네번째 재료다." />
+	<block key="QU_0_3_0210_Name" korean="은빛 슬레이드의 발톱" />
+	<block key="QU_0_3_0210_Description" korean="대사제 푸리스의 의식에 필요한 네번째 재료다." />
+	<block key="QU_0_3_0211_Name" korean="첫번째 재료" />
+	<block key="QU_0_3_0211_Description" korean="대사제 푸리스가 부탁한 재료. 토끼 대왕 브라우니의 가죽과 눈꽃 토끼의 발들이 들어있다." />
+	<block key="QU_0_3_0212_Name" korean="두번째 재료" />
+	<block key="QU_0_3_0212_Description" korean="대사제 푸리스가 부탁한 재료. 대사제 베르나의 수정구와 성난 무러미의 비늘들이 들어있다." />
+	<block key="QU_0_3_0213_Name" korean="세번째 재료" />
+	<block key="QU_0_3_0213_Description" korean="대사제 푸리스가 부탁한 재료. 하얀 날개 아마란스의 깃털과 푸른 아로스의 솜털들이 들어있다." />
+	<block key="QU_0_3_0214_Name" korean="네번째 재료" />
+	<block key="QU_0_3_0214_Description" korean="대사제 푸리스가 부탁한 재료. 라이쿠의 뿔과 은빛 슬레이드의 발톱들이 들어있다." />
+	<block key="QU_0_3_0215_Name" korean="거신의 파편" />
+	<block key="QU_0_3_0215_Description" korean="거신의 몸 일부에서 떨어져 나온 파편을 공적단이 수거하였다." />
+	<block key="QU_0_3_0216_Name" korean="요정의 날개" />
+	<block key="QU_0_3_0216_Description" korean="반투명한 광채를 내뿜는 요정의 날개다. 날개에서 묘한 기운이 느껴진다." />
+	<block key="QU_0_3_0217_Name" korean="투칸족 혈액" />
+	<block key="QU_0_3_0217_Description" korean="투칸족 거인의 혈액이 담겨있다. 부글부글 끓어오르는 것처럼 보이는 것은 착각일까?" />
+	<block key="QU_0_3_0218_Name" korean="서리군단의 증표" />
+	<block key="QU_0_3_0218_Description" korean="서리군단 일원임을 증명하는 증표. 스산한 한기가 감돌고 있다." />
+	<block key="QU_0_3_0219_Name" korean="통신용 마법구" />
+	<block key="QU_0_3_0219_Description" korean="클랜에서 사용하는 통신용 마법구. 먼 거리에 있어도 긴밀한 연락을 취할 수 있다." />
+	<block key="QU_0_3_0220_Name" korean="떨어진 부품" />
+	<block key="QU_0_3_0220_Description" korean="바다 펠로우 조난 당시 충격으로 흩어진 부품들" />
+	<block key="QU_0_3_0221_Name" korean="숨겨진 보물" />
+	<block key="QU_0_3_0221_Description" korean="트라이트얼 멸망 당시 묻힌 숨겨진 보물이라고 한다" />
+	<block key="QU_0_3_0222_Name" korean="페가수스 보고서" />
+	<block key="QU_0_3_0222_Description" korean="암흑룡의 안식처에 대한 페가수스 기사단의 보고서" />
+	<block key="QU_0_3_0223_Name" korean="페가수스 기사단의 표식" />
+	<block key="QU_0_3_0223_Description" korean="페가수스 기사단임을 증명하는 표식" />
+	<block key="QU_0_3_0224_Name" korean="파나메르의 보석" />
+	<block key="QU_0_3_0224_Description" korean="희귀한 확률로 나타나는 파나메르의 보석은 아직도 어떤 방식으로 만들어지는지 알려져 있지 않다" />
+	<block key="QU_0_3_0225_Name" korean="이베마의 비늘" />
+	<block key="QU_0_3_0225_Description" korean="아름다운 색깔로 여러 장식에 사용되는 이베마의 비늘. 멸망의 공역에서만 나오기 때문에 매우 귀하다" />
+	<block key="QU_0_3_0226_Name" korean="진리의 신탁" />
+	<block key="QU_0_3_0226_Description" korean="엘로라 여신님이 살아 계심을 증명하는 진리의 신탁" />
+	<block key="QU_0_3_0227_Name" korean="오래된 문서" />
+	<block key="QU_0_3_0227_Description" korean="너무 오래되서 알아보기가 쉽지 않다" />
+	<block key="QU_0_3_0228_Name" korean="구호 물자" />
+	<block key="QU_0_3_0228_Description" korean="필수적인 식료품으로 가득찬 구호 물자" />
+	<block key="QU_0_3_0229_Name" korean="가피시의 독침" />
+	<block key="QU_0_3_0229_Description" korean="독 성분이 포함되어있으나 그 독성은 그리 강하진 않다고 알려져 있다." />
+	<block key="QU_0_3_0230_Name" korean="키이즈 고기" />
+	<block key="QU_0_3_0230_Description" korean="키이즈의 고기는 맛있다는 사람이 절반, 맛없다는 사람이 절반이다." />
+	<block key="QU_0_3_0231_Name" korean="트라이트얼의 악보 조각" />
+	<block key="QU_0_3_0231_Description" korean="트라이트얼에서 연주되던 악보로 보이는 조각이다." />
+	<block key="QU_0_3_0232_Name" korean="하카나스 대해 보고서" />
+	<block key="QU_0_3_0232_Description" korean="하카나스 전역을 조사하며 작성한 보고서다." />
+	<block key="QU_0_3_0233_Name" korean="정의의 신탁" />
+	<block key="QU_0_3_0233_Description" korean="엘로라 여신님이 살아 계심을 증명하는 정의의 신탁" />
+	<block key="QU_0_3_0234_Name" korean="용기의 신탁" />
+	<block key="QU_0_3_0234_Description" korean="엘로라 여신님이 살아 계심을 증명하는 용기의 신탁" />
+	<block key="QU_0_3_0235_Name" korean="해물 스프" />
+	<block key="QU_0_3_0235_Description" korean="문어조련사들이 먹는 특제 별미로 온갖 해물이 듬뿍 들어있다." />
+	<block key="QU_0_3_0236_Name" korean="연락병의 보고서" />
+	<block key="QU_0_3_0236_Description" korean="카브임 교도가 작성한 엑자란 정찰 보고서다." />
+	<block key="QU_0_3_0237_Name" korean="희귀한 거북이 등껍질" />
+	<block key="QU_0_3_0237_Description" korean="달무리 호수에 나타난 오염된 거북이의 등껍질이다. 그림자 상단이 꽤 가치있게 여기고있다." />
+	<block key="QU_0_3_0238_Name" korean="엑자란 유물목록 조각" />
+	<block key="QU_0_3_0238_Description" korean="엑자란 유물을 정리한 목록의 찢겨진 조각으로 기입된 내용을 알아보기가 힘들다." />
+	<block key="QU_0_3_0239_Name" korean="카브임 폭탄" />
+	<block key="QU_0_3_0239_Description" korean="카브임 폭파병이 사용하는 폭탄으로 보기보다 꽤 무겁다." />
+	<block key="QU_0_3_0240_Name" korean="말린 고기" />
+	<block key="QU_0_3_0240_Description" korean="해안가에 방치된 상자에서 구한 고기다. 풍기는 냄새로 보아 상한 듯 싶다." />
+	<block key="QU_0_3_0241_Name" korean="엑자란 영웅전 일부" />
+	<block key="QU_0_3_0241_Description" korean="엑자란을 빛낸 위인들의 업적과 언행등을 기록한 전기의 일부다." />
+	<block key="QU_0_3_0242_Name" korean="어느 병사의 일기" />
+	<block key="QU_0_3_0242_Description" korean=""고향으로 돌아가고 싶다.."는 첫 글귀가 인상적인 어느 병사의 일기다." />
+	<block key="QU_0_3_0243_Name" korean="수취인불명 편지" />
+	<block key="QU_0_3_0243_Description" korean="수취인불명의 편지다. 내용으로 봐선 편지를 보낼 생각이 없었던 듯 하다." />
+	<block key="QU_0_3_0244_Name" korean="늑대인간의 전설 일부" />
+	<block key="QU_0_3_0244_Description" korean="늑대인간의 기원과 세상에 퍼진 전설을 이야기로 묶은 책의 일부다." />
+	<block key="QU_0_3_0245_Name" korean="정제된 백은" />
+	<block key="QU_0_3_0245_Description" korean="백은을 생산하는 이들을 도와주고 보수로 얻어왔다." />
+	<block key="QU_0_3_0246_Name" korean="나무씨의 기운" />
+	<block key="QU_0_3_0246_Description" korean="나무 요정 키키가 건네준 정령의 기운이다." />
+	<block key="QU_0_3_0247_Name" korean="저주의 룬" />
+	<block key="QU_0_3_0247_Description" korean="카브임 교도가 소지하고 있던 룬조각이다. 저주의 용도로 사용된 것 같다." />
+	<block key="QU_0_3_0248_Name" korean="피로쓰여진 보고서" />
+	<block key="QU_0_3_0248_Description" korean="피로 흘겨쓴 글자라 알아보기 힘들지만 카브임이라는 글자만은 정확히 적은 것 같다." />
+	<block key="QU_0_3_0249_Name" korean="주둔지 보급식량" />
+	<block key="QU_0_3_0249_Description" korean="진리의 관문에서 붉은 그림자 주둔지로 보낸 보급식량이다." />
+	<block key="QU_0_3_0250_Name" korean="정체불명의 가루" />
+	<block key="QU_0_3_0250_Description" korean="식량 포대에 섞여 있던 붉은 빛이 감도는 가루다." />
+	<block key="QU_0_3_0251_Name" korean="내성 강화 비약" />
+	<block key="QU_0_3_0251_Description" korean="라이먼이 만든 비약이다. 해독제라기보다 독에 대한 내성을 강화시켜준다고 한다." />
+	<block key="QU_9_4_0034_Name" korean="크로우의 나이트메어(바엘리스)" />
+	<block key="QU_9_4_0035_Name" korean="레나(북부유적 투명)" />
+	<block key="QU_0_3_0252_Name" korean="해적단 포탄" />
+	<block key="QU_0_3_0252_Description" korean="카라드 해적단의 대포에 사용하는 포탄이다." />
+	<block key="QU_9_4_0036_Name" korean="그레스키(북부유적투명)" />
+	<block key="QU_9_4_0037_Name" korean="섀도우 클랜 마린(비행선선착장투명기본)" />
+	<block key="QU_9_4_0038_Name" korean="섀도우 클랜 마린(비행선선착장투명포탈)" />
+	<block key="QU_9_4_0039_Name" korean="촌장아들리드(갈대바람마을)" />
+	<block key="QU_0_3_0253_Name" korean="트라이트얼 문서 Ⅰ" />
+	<block key="QU_0_3_0253_Description" korean="멸망의 공역이 과거 트라이트얼이라 불리던 시절의 기록들이 담겨있는 오래된 문서. 누군가에 의해 찢겨진 것 같다." />
+	<block key="QU_0_3_0254_Name" korean="트라이트얼 문서 Ⅱ" />
+	<block key="QU_0_3_0254_Description" korean="멸망의 공역이 과거 트라이트얼이라 불리던 시절의 기록들이 담겨있는 오래된 문서. 누군가에 의해 찢겨진 것 같다." />
+	<block key="QU_0_3_0255_Name" korean="트라이트얼 문서 Ⅲ" />
+	<block key="QU_0_3_0255_Description" korean="멸망의 공역이 과거 트라이트얼이라 불리던 시절의 기록들이 담겨있는 오래된 문서. 누군가에 의해 찢겨진 것 같다." />
+	<block key="QU_0_3_0256_Name" korean="트라이트얼 문서 Ⅳ" />
+	<block key="QU_0_3_0256_Description" korean="멸망의 공역이 과거 트라이트얼이라 불리던 시절의 기록들이 담겨있는 오래된 문서. 누군가에 의해 찢겨진 것 같다." />
+	<block key="QU_0_3_0257_Name" korean="트라이엄" />
+	<block key="QU_0_3_0258_Name" korean="벨제로스의 기록" />
+	<block key="QU_0_3_0258_Description" korean="수호신룡 벨제로스의 전언이 담긴 기록. 용의 언어로 쓰여있어 알아볼 수가 없다." />
+	<block key="QU_0_3_0259_Name" korean="문어 다리" />
+	<block key="QU_0_3_0259_Description" korean="맛 좋은 문어 다리다." />
+	<block key="QU_0_3_0260_Name" korean="악령의 사념체" />
+	<block key="QU_0_3_0260_Description" korean="마계의 기운이 흘러나오는 사념체" />
+	<block key="QU_0_4_0018_Name" korean="정수 봉인함" />
+	<block key="QU_0_4_0018_Description" korean="엘로라의 정수가 지닌 신성한 힘을 유지해주는 봉인함." />
+	<block key="QU_0_4_0019_Name" korean="로빈슨의 쪽지" />
+	<block key="QU_0_4_0019_Description" korean="다음 임무를 알려주기위해 로빈슨이 적어준 쪽지다." />
+	<block key="QU_0_4_0020_Name" korean="빛나는 뼈조각" />
+	<block key="QU_0_4_0020_Description" korean="고대 군단의 몸체를 이루는 뼈다. 은은한 마력이 느껴진다." />
+	<block key="QU_0_4_0021_Name" korean="고대 군단의 뿔나팔" />
+	<block key="QU_0_4_0021_Description" korean="고대 군단을 통솔하는데 쓰였다는 뿔나팔이다. 마력이 담겨져 있다는 것 같다." />
+	<block key="QU_0_4_0022_Name" korean="마력을 머금은 비늘" />
+	<block key="QU_0_4_0022_Description" korean="약재로도 사용된다고 하는 가피시의 비늘이다." />
+	<block key="QU_0_4_0023_Name" korean="키이즈의 혈액" />
+	<block key="QU_0_4_0023_Description" korean="붉은 기포가 끓어오르듯 부글거리고 있다." />
+	<block key="QU_0_4_0024_Name" korean="생명의 파편" />
+	<block key="QU_0_4_0024_Description" korean="파편 하나 하나에 생명의 힘이 깃들어있는 것만 같다." />
+	<block key="QU_0_4_0025_Name" korean="주술사의 마력 구슬" />
+	<block key="QU_0_4_0025_Description" korean="불사 군단의 주술사가 사용하던 마력이 응집된 구슬이다." />
+	<block key="QU_0_4_0026_Name" korean="첫 번째 정화 재료" />
+	<block key="QU_0_4_0026_Description" korean="정수의 정화 작업에 필요한 첫 번째 재료를 담아놓은 상자" />
+	<block key="QU_0_4_0027_Name" korean="두 번째 정화 재료" />
+	<block key="QU_0_4_0027_Description" korean="정수의 정화 작업에 필요한 두 번째 재료를 담아놓은 상자" />
+	<block key="QU_0_4_0028_Name" korean="세 번째 정화 재료" />
+	<block key="QU_0_4_0028_Description" korean="정수의 정화 작업에 필요한 세 번째 재료를 담아놓은 상자" />
+	<block key="QU_0_4_0029_Name" korean="흑마법 두루마리" />
+	<block key="QU_0_4_0029_Description" korean="흑마법사들이 자주 사용하는 주문을 기록해놓은 두루마리로 보인다." />
+	<block key="QU_0_4_0030_Name" korean="군단의 뿔" />
+	<block key="QU_0_4_0030_Description" korean="불사 군단을 쓰러트렸음을 증명할 수 있는 뿔이다." />
+	<block key="QU_0_4_0031_Name" korean="레오니드의 정수" />
+	<block key="QU_0_4_0031_Description" korean="레오니드의 힘이 집결되어있는 작은 정수다." />
+	<block key="QU_0_4_0032_Name" korean="플로티어의 표본" />
+	<block key="QU_0_4_0032_Description" korean="플로티어의 신체 일부분이 보존된 표본." />
+	<block key="QU_0_4_0033_Name" korean="블래티어의 표본" />
+	<block key="QU_0_4_0033_Description" korean="블래티어의 신체 일부분이 보존된 표본." />
+	<block key="QU_0_4_0034_Name" korean="아즈라다의 표본" />
+	<block key="QU_0_4_0034_Description" korean="아즈라다의 신체 일부분이 보존된 표본." />
+	<block key="QU_0_4_0035_Name" korean="호로스의 표본" />
+	<block key="QU_0_4_0035_Description" korean="호로스의 신체 일부분이 보존된 표본." />
+	<block key="QU_0_4_0036_Name" korean="펠로우의 표본 세트" />
+	<block key="QU_0_4_0036_Description" korean="펠로우들의 표본을 분류하여 담아놓은 상자다." />
+	<block key="QU_0_4_0037_Name" korean="마력이 깃든 돌" />
+	<block key="QU_0_4_0037_Description" korean="강력한 마력이 담긴 돌" />
+	<block key="QU_0_4_0038_Name" korean="불사의 정수" />
+	<block key="QU_0_4_0038_Description" korean="정예등급 이상의 불사군단에게서 얻을 수 있는 정수" />
+	<block key="QU_0_4_0039_Name" korean="대지의 결정" />
+	<block key="QU_0_4_0039_Description" korean="대지의 기운 정화 주문서의 재료가 되는 결정으로 강력한 마력의 기운이 느껴진다." />
+	<block key="QU_0_4_0040_Name" korean="악령이 깃든 주문석" />
+	<block key="QU_0_4_0040_Description" korean="아즈호라가 제작한 주문석으로 일부 군단원이 지니고 있다." />
+	<block key="QU_9_4_0052_Name" korean="시공간 왜곡 장치" />
+	<block key="QU_9_4_0052_Description" korean="" />
+	<block key="QU_0_4_0041_Name" korean="암석 파편" />
+	<block key="QU_0_4_0041_Description" korean="" />
+	<block key="QU_0_4_0042_Name" korean="흑요석 파편" />
+	<block key="QU_0_4_0042_Description" korean="흑요석 가고일 석상의 파편 조각" />
+	<block key="QU_0_4_0043_Name" korean="가고일 혈액 표본" />
+	<block key="QU_0_4_0043_Description" korean="흉폭한 가고일의 혈액이 담겨있다." />
+	<block key="QU_0_4_0044_Name" korean="이동주문서 제작 재료" />
+	<block key="QU_0_4_0044_Description" korean="공역의 틈새로 이동할 수 있는 이동주문서 제작에 쓰이는 재료가 들어있는 상자" />
+	<block key="QU_0_4_0045_Name" korean="빛나는 돌조각" />
+	<block key="QU_0_4_0045_Description" korean="반짝반짝 빛이 나는 돌로 신비로운 기운이 느껴진다." />
+	<block key="QU_0_4_0046_Name" korean="여신의 가루" />
+	<block key="QU_0_4_0046_Description" korean="엘로라 여신의 기운이 담긴 가루" />
+	<block key="QU_0_4_0047_Name" korean="암흑 비명새의 비늘" />
+	<block key="QU_0_4_0047_Description" korean="멸망의 공역에 서식하는 암흑 비명새의 비늘" />
+	<block key="QU_0_4_0048_Name" korean="오염된 카크루의 뇌" />
+	<block key="QU_0_4_0048_Description" korean="공역의 틈새의 악한 기운에 의해 변형된 카크루의 뇌" />
+	<block key="QU_0_4_0049_Name" korean="용사의 인장" />
+	<block key="QU_0_4_0049_Description" korean="희망의 시험 혹은 용기의 시험을 통과한 용사에게 주어지는 인장" />
+	<block key="QU_0_4_0050_Name" korean="대지의 기운" />
+	<block key="QU_0_4_0050_Description" korean="풍요의 숲 짐승들이 가지고 있는 대지의 힘" />
+	<block key="QU_0_4_0051_Name" korean="설인의 뜨거운 심장" />
+	<block key="QU_0_4_0051_Description" korean="금방이라도 뜨거운 피를 흘릴 것만 같은 설인의 심장" />
+	<block key="QU_0_4_0052_Name" korean="박쥐고기" />
+	<block key="QU_0_4_0052_Description" korean="박쥐의 고기. 모양새와 달리 의외로 별미다." />
+	<block key="QU_0_0_0288_Name" korean="오염된 시간의 정수" />
+	<block key="QU_0_0_0288_Description" korean="세라티아가 회수를 부탁한 오염된 시간의 정수다." />
+	<block key="QU_0_0_0289_Name" korean="하수인의 밀서" />
+	<block key="QU_0_0_0289_Description" korean="혼돈의 하수인이라는 자로부터 온 밀서다. 아쉽게도 일부가 훼손되었다." />
+	<block key="QU_0_0_0290_Name" korean="유니콘의 뿔조각" />
+	<block key="QU_0_0_0290_Description" korean="미약하지만 신성한 기운이 뿔조각에 감도는듯하다." />
+	<block key="QU_0_0_0291_Name" korean="뒤틀린 마력의 표식" />
+	<block key="QU_0_0_0291_Description" korean="요정의 피부에 새겨진 표식으로 불길한 마력이 느껴진다." />
+	<block key="QU_0_0_0292_Name" korean="얼어붙은 시간의 정수" />
+	<block key="QU_0_0_0292_Description" korean="세라티아가 회수를 부탁한 얼어붙은 시간의 정수다." />
+	<block key="QU_0_0_0293_Name" korean="스크리머의 비늘" />
+	<block key="QU_0_0_0293_Description" korean="감촉은 매우 거칠지만 아주 튼튼한 것 같다." />
+	<block key="QU_0_0_0294_Name" korean="돈 주머니" />
+	<block key="QU_0_0_0294_Description" korean="손에 잡았을 때 꽤 묵직한 것으로 보아 액수가 상당할 것 같다." />
+	<block key="QU_0_0_0295_Name" korean="기운을 흡수하는 정수" />
+	<block key="QU_0_0_0295_Description" korean="어둠의 마력을 흡수하는 성질이 있는 기이한 정수다." />
+	<block key="QU_0_0_0296_Name" korean="화염의 결정" />
+	<block key="QU_0_0_0296_Description" korean="라에타가 내뿜은 불덩이에서 발견한 결정조각으로 매우 뜨겁다." />
+	<block key="QU_0_0_0297_Name" korean="화염 골렘의 핵" />
+	<block key="QU_0_0_0297_Description" korean="화염바위 골렘의 힘이 응집되어있는 핵이다. 매서운 불길과 같은 마력이 날뛰는 것이 느껴진다." />
+	<block key="QU_0_0_0298_Name" korean="암흑 사도의 순혈" />
+	<block key="QU_0_0_0298_Description" korean="어둠의 저주로 물든 카를레앙 백작의 순수한 혈액으로 시간이 흘러도 마르지 않는다." />
+	<block key="QU_0_0_0299_Name" korean="설인 대장의 심장" />
+	<block key="QU_0_0_0299_Description" korean="세차게 뛰고있는 설인대장 산틴의 심장으로 멈출 기미를 보이지 않는다." />
+	<block key="QU_0_4_0297_Name" korean="한기서린 얼음 결정" />
+	<block key="QU_0_4_0297_Description" korean="한기서린 정령에게서 얻을 수 있는 얼음 결정. 차가운 냉기가 느껴진다." />
+	<block key="QU_0_4_0298_Name" korean="오염된 빛의 가루" />
+	<block key="QU_0_4_0298_Description" korean="타락한 요정의 땅 위습에게서 얻은 오염된 빛의 가루. 더 이상 빛의 기운이 느껴지지 않는다." />
+	<block key="QU_0_4_0299_Name" korean="저주의 기운" />
+	<block key="QU_0_4_0299_Description" korean="방황하는 원혼에게서 얻을 수 있는 데 포르타의 저주의 기운" />
+	<block key="QU_0_4_0300_Name" korean="스파이크의 검" />
+	<block key="QU_0_4_0300_Description" korean="페가수스 기사단원 스파이크가 잃어버린 검" />
+	<block key="QU_0_4_0301_Name" korean="스파이크의 보고서" />
+	<block key="QU_0_4_0301_Description" korean="죽은자의 섬에서 일어난 상황 보고가 담긴 보고서" />
+	<block key="QU_0_4_0302_Name" korean="어둠의 결정" />
+	<block key="QU_0_4_0302_Description" korean="단단한 결정 주위로 불온한 마력의 움직임이 느껴진다." />
+	<block key="QU_0_4_0303_Name" korean="저주의 기운이 서린 돌" />
+	<block key="QU_0_4_0303_Description" korean="겉보기엔 평범한 돌이지만, 섬에 퍼져있는 저주의 기운이 서린 돌." />
+	<block key="QU_0_4_0304_Name" korean="영혼초" />
+	<block key="QU_0_4_0304_Description" korean="생명체의 영혼을 양분으로 삼아 성장하는 무서운 풀." />
+	<block key="qu_9_0_0044_Name" korean="고등마법사 리네타(하카나스 수도성)" />
+	<block key="qu_9_4_0028_Name" korean="라비니 포포라(직할령)" />
+	<block key="qu_9_4_0029_Name" korean="라비니 포포라(엑자란)" />
+	<block key="qu_9_4_0030_Name" korean="은빛 수반" />
+	<block key="qu_9_4_0031_Name" korean="선장 블레이더(워프 없음)" />
+	<block key="qu_9_4_0032_Name" korean="선장 블레이더" />
+	<block key="qu_9_4_0033_Name" korean="줄러미(무러미오 옆)" />
+	<block key="qu_9_4_0049_Name" korean="섀도우 클랜 마린(비행선선착장투명)" />
+	<block key="qu_9_4_0050_Name" korean="레이디 올리비에(드래곤)" />
+	<block key="qu_9_4_0051_Name" korean="레이디 올리비에(루플라 옆)" />
+	<block key="QU_0_0_0300_Name" korean="생명의 고드름" />
+	<block key="QU_0_0_0300_Description" korean="파르나 여신이 대지에 퍼트린 미약한 생명의 기운이 담겨있다." />
+	<block key="QU_0_0_0301_Name" korean="영혼의 조각" />
+	<block key="QU_0_0_0301_Description" korean="불안정한 영혼의 흐름이 느껴지는 물체다." />
+	<block key="QU_0_0_0302_Name" korean="원혼의 조각" />
+	<block key="QU_0_0_0302_Description" korean="불안정한 영혼의 흐름이 느껴지는 물체다." />
+	<block key="QU_0_0_0303_Name" korean="불타는 조각" />
+	<block key="QU_0_0_0303_Description" korean="화염의 기운이 아직도 남아있는 듯 불타오르고 있다. 자연적인 불길은 아니다." />
+	<block key="QU_0_0_0304_Name" korean="독수리 알" />
+	<block key="QU_0_0_0304_Description" korean="금방이라도 새끼 독수리가 알을 깨고 나올 것 처럼 움직이고 있다." />
+	<block key="QU_0_0_0305_Name" korean="독수리 뒷다리 고기" />
+	<block key="QU_0_0_0305_Description" korean="날렵한 몸과는 달리 튼실한 살이 붙어있는 다리 고기." />
+	<block key="QU_0_0_0306_Name" korean="소금이 가득 담긴 병" />
+	<block key="QU_0_0_0306_Description" korean="백색의 소금이 담겨져 있는 병." />
+	<block key="QU_0_0_0307_Name" korean="뱀 고기" />
+	<block key="QU_0_0_0307_Description" korean="뱀의 독과는 무관한 고기. 체력 보강에 제일이라고 한다." />
+	<block key="QU_0_0_0308_Name" korean="식물 독" />
+	<block key="QU_0_0_0308_Description" korean="맨드레이크에게서 채취한 독성분을 모은 병." />
+	<block key="QU_0_0_0309_Name" korean="동물 독" />
+	<block key="QU_0_0_0309_Description" korean="사막의 전갈에게서 채취한 독성분을 모은 병." />
+	<block key="QU_0_0_0310_Name" korean="온전한 수액" />
+	<block key="QU_0_0_0310_Description" korean="맨드레이크에게서 채취한 수액으로 불순한 물질이 없는 상태이다." />
+	<block key="QU_0_0_0311_Name" korean="강탈당한 밀" />
+	<block key="QU_0_0_0311_Description" korean="알세크 마을이 모하바 용병단에게 강탈당한 밀이다." />
+	<block key="QU_0_0_0312_Name" korean="여우 고기" />
+	<block key="QU_0_0_0312_Description" korean="여우의 고기. 식량 보급에 문제를 겪고있는 경비대에게 귀한 음식이 될 것 같다." />
+	<block key="QU_0_0_0313_Name" korean="용병단의 무기" />
+	<block key="QU_0_0_0313_Description" korean="잘 제련되어 날카로운 예기가 느껴지는 무기." />
+	<block key="QU_0_0_0314_Name" korean="정비가 필요한 무기" />
+	<block key="QU_0_0_0314_Description" korean="날이 상해 당장 정비하지 않으면 부러질 것 같다." />
+	<block key="QU_0_0_0315_Name" korean="건물 자재" />
+	<block key="QU_0_0_0315_Description" korean="조금만 손질하면 각종 건설 작업에 사용하기 부족함이 없어보이는 자재다." />
+	<block key="QU_0_0_0316_Name" korean="파손된 머리 석상" />
+	<block key="QU_0_0_0316_Description" korean="비행석의 머리 역할을 하던 석상으로 도전자의 비행석과 결합하면 특별한 기능을 하는듯 하다." />
+	<block key="QU_0_0_0317_Name" korean="대지의 연결석" />
+	<block key="QU_0_0_0317_Description" korean="도전자의 비행석이 작동하기 위해 필요한 에너지원을 공급하는 마력석이다." />
+	<block key="QU_0_0_0318_Name" korean="대장장이의 단단한 망치" />
+	<block key="QU_0_0_0318_Description" korean="대장장이가 애용하던 망치다." />
+	<block key="QU_0_0_0319_Name" korean="요리사의 고급 향신료" />
+	<block key="QU_0_0_0319_Description" korean="요리의 맛을 살리기 위해 필요한 그윽한 향이 느껴지는 향신료다." />
+	<block key="QU_0_0_0320_Name" korean="연금술사의 실험 플라스크" />
+	<block key="QU_0_0_0320_Description" korean="연금술사의 안전한 실험을 도와주는 플라스크다." />
+	<block key="QU_0_0_0321_Name" korean="장신구 제작자의 반지 틀" />
+	<block key="QU_0_0_0321_Description" korean="각종 장신구를 제작할 때 사용하는 틀로 장신구 제작자들의 애용품이다." />
+	<block key="QU_0_0_0322_Name" korean="끈적한 아교" />
+	<block key="QU_0_0_0322_Description" korean="물건을 이어붙일 때 사용하는 아교로 점성이 높다." />
+	<block key="QU_0_0_0323_Name" korean="튼튼한 공구" />
+	<block key="QU_0_0_0323_Description" korean="당장 작업 현장에서 사용해도 무방한 각종 공구들이다." />
+	<block key="QU_0_0_0324_Name" korean="낡은 밧줄" />
+	<block key="QU_0_0_0324_Description" korean="여기저기 상처난 밧줄이지만 워낙 튼튼하게 짜여져있어 사용하기에는 무리가 없어 보인다." />
+	<block key="QU_0_0_0325_Name" korean="오르 광석 잔해" />
+	<block key="QU_0_0_0325_Description" korean="오르 광석의 잔해들로 공중으로 떠오를 만큼 광석이라 하기엔 비정상적으로 가볍다." />
+	<block key="QU_0_0_0326_Name" korean="경비대 인식표" />
+	<block key="QU_0_0_0326_Description" korean="경비대원의 이름, 성별 등이 새겨져있는 표식이다." />
+	<block key="QU_0_0_0327_Name" korean="낡은 편지" />
+	<block key="QU_0_0_0327_Description" korean="수신인은 알세크 경비대의 사미라로 되어있다. 편지 상태는 양호한 편이다." />
+	<block key="QU_0_0_0328_Name" korean="용병단의 제련 도구" />
+	<block key="QU_0_0_0328_Description" korean="방어구를 손질하는데 사용하는 제련 도구다." />
+	<block key="QU_0_0_0329_Name" korean="용병단의 손상된 방어구" />
+	<block key="QU_0_0_0329_Description" korean="용병단이 주로 착용하는 방어구로 가볍지만 질기다." />
+	<block key="QU_0_0_0330_Name" korean="조사단 명찰" />
+	<block key="QU_0_0_0330_Description" korean="조사단원의 소속과 이름이 적혀있는 명찰이다." />
+	<block key="QU_0_0_0331_Name" korean="돌연변이 내장" />
+	<block key="QU_0_0_0331_Description" korean="샌드웜 유충의 내장으로 각종 기관이 비정상적으로 거대하다." />
+	<block key="QU_0_0_0332_Name" korean="암석 비늘" />
+	<block key="QU_0_0_0332_Description" korean="강철 이상의 단단함이 느껴지는 비늘이다." />
+	<block key="QU_0_0_0333_Name" korean="유세이의 옷자락" />
+	<block key="QU_0_0_0333_Description" korean="어린아이가 입으면 잘 어울릴 법한 하늘색 드레스다." />
+	<block key="QU_0_0_0334_Name" korean="유세이의 인형" />
+	<block key="QU_0_0_0334_Description" korean="어린아이가 가지고 놀기에 어울릴 봉제 인형이다." />
+	<block key="QU_0_0_0335_Name" korean="유세이의 초상화" />
+	<block key="QU_0_0_0335_Description" korean="여자아이의 얼굴이 그려져있다. 유세이의 얼굴과 매우 흡사하다." />
+	<block key="QU_0_0_0336_Name" korean="유세이의 유골" />
+	<block key="QU_0_0_0336_Description" korean="유세이의 것으로 추정되는 유골. 애타게 찾고있을 사람이 있을 것 같다." />
+	<block key="QU_0_0_0337_Name" korean="상인의 금화 자루" />
+	<block key="QU_0_0_0337_Description" korean="도금이 아닌 온전한 금으로 제조된 동전이 가득 담겨있다." />
+	<block key="QU_0_0_0338_Name" korean="흠집 난 오르 광석" />
+	<block key="QU_0_0_0338_Description" korean="오르 광석 곳곳에 크고 작은 흠집이 나있다." />
+	<block key="QU_0_0_0339_Name" korean="사막 버팔로의 뇌" />
+	<block key="QU_0_0_0339_Description" korean="뇌 전체에 어둠 마력의 흔적이 역력하다. 정신을 조종하는 주술에 의해 오염된듯하다." />
+	<block key="QU_0_0_0340_Name" korean="우로덴의 채광 용품" />
+	<block key="QU_0_0_0340_Description" korean="우로덴이 챙기지 못하고 광산에 두고온 채광 용품이 들어있다." />
+	<block key="QU_0_0_0341_Name" korean="바위 정령의 핵" />
+	<block key="QU_0_0_0341_Description" korean="거대한 바위 정령을 움직이는 핵이다. 뜨거운 열이 핵 전체에 퍼져있다." />
+	<block key="QU_0_0_0342_Name" korean="고운 주술 모래" />
+	<block key="QU_0_0_0342_Description" korean="모래 주술사들이 주술 사용 시 섞어 쓰는 모래." />
+	<block key="QU_0_0_0343_Name" korean="말라버린 대지 조각" />
+	<block key="QU_0_0_0343_Description" korean="대지의 정령을 감싸고 있는 바위 조각이다. 별다른 마력이 느껴지진 않는다." />
+	<block key="QU_0_0_0344_Name" korean="용기의 부적" />
+	<block key="QU_0_0_0344_Description" korean="그리폰 기사단원임을 증명하는 증표로 기사 수여식 때 지급받는 부적이다." />
+	<block key="QU_0_0_0345_Name" korean="박쥐 날개" />
+	<block key="QU_0_0_0345_Description" korean="박쥐의 날개로 짙은 칠흑빛이 감돌고 있다." />
+	<block key="QU_0_0_0346_Name" korean="모래에 파묻힌 보물" />
+	<block key="QU_0_0_0346_Description" korean="모래에 파묻혀있던 보물이다." />
+	<block key="QU_0_0_0347_Name" korean="고대 펠로우의 뼈" />
+	<block key="QU_0_0_0347_Description" korean="고대 펠로우의 유골. 보존 상태는 나쁘지 않으나 어떤 펠로우였는지 추정하기는 어렵다." />
+	<block key="QU_0_0_0348_Name" korean="잃어버린 오르골" />
+	<block key="QU_0_0_0348_Description" korean="부품이 빠져있거나 파손된 듯 작동하지 않는다." />
+	<block key="QU_0_0_0349_Name" korean="조각하기 좋은 석재" />
+	<block key="QU_0_0_0349_Description" korean="석상을 만들기에 좋은 재료." />
+	<block key="QU_0_0_0350_Name" korean="살아있는 석재" />
+	<block key="QU_0_0_0350_Description" korean="돌의 미세한 결이 부드럽게 깍여있는 석재이나 어둠의 마력이 느껴진다." />
+	<block key="QU_0_0_0351_Name" korean="강탈당한 보물" />
+	<block key="QU_0_0_0351_Description" korean="크로쿤에게 빼앗겼던 그리폰 기사단의 보물이다." />
+	<block key="QU_0_0_0352_Name" korean="크로쿤의 무기" />
+	<block key="QU_0_0_0352_Description" korean="크로쿤들이 주로 사용하는 무기로 날카로운 예기가 무기 날에 가득 담겨있다." />
+	<block key="QU_0_0_0353_Name" korean="크로쿤의 전투 식량" />
+	<block key="QU_0_0_0353_Description" korean="전투 시, 소지하기 편하게 말린 육류가 대부분인 식량 주머니다." />
+	<block key="QU_0_0_0354_Name" korean="박쥐 백과사전" />
+	<block key="QU_0_0_0354_Description" korean="박쥐의 전반적인 생태 환경 등에 대해 적어놓은 서적이라고 적혀있다." />
+	<block key="QU_0_0_0355_Name" korean="오아시스 악어 고기" />
+	<block key="QU_0_0_0355_Description" korean="두툼한 오아시스 악어의 고기." />
+	<block key="QU_0_0_0356_Name" korean="친위대의 충성 혈서" />
+	<block key="QU_0_0_0356_Description" korean="친위대가 충성을 맹새한 혈서다. 그 대상은 불사군단의..피가 얼룩져 보이지 않는다." />
+	<block key="QU_0_0_0357_Name" korean="친위 용사의 충성 혈서" />
+	<block key="QU_0_0_0357_Description" korean="친위 용사가 충성을 맹새한 혈서다. 그 대상은 불사군단의..피가 얼룩져 보이지 않는다." />
+	<block key="QU_0_0_0358_Name" korean="지배의 돌" />
+	<block key="QU_0_0_0358_Description" korean="브라기 광부가 오르 광산에서 발견한 돌. 알 수 없는 마력이 흐르고 있다." />
+	<block key="QU_0_0_0359_Name" korean="브라기 지휘관 바쿠의 머리" />
+	<block key="QU_0_0_0359_Description" korean="브라기 광산의 군대를 지휘하던 지휘관 바쿠의 머리." />
+	<block key="QU_0_0_0360_Name" korean="알리바의 뱃살" />
+	<block key="QU_0_0_0360_Description" korean="단단한 등껍질에 비해 매우 부드러운 알리바의 뱃살." />
+	<block key="QU_0_0_0361_Name" korean="사막 거북이 고기" />
+	<block key="QU_0_0_0361_Description" korean="사막 거북이의 담백한 고기." />
+	<block key="QU_0_0_0362_Name" korean="사막 버팔로 다리살" />
+	<block key="QU_0_0_0362_Description" korean="사막 버팔로의 두툼한 다리살." />
+	<block key="QU_0_0_0363_Name" korean="사막 거북이의 발 표본" />
+	<block key="QU_0_0_0363_Description" korean="사막 거북이의 발." />
+	<block key="QU_0_0_0364_Name" korean="알리바의 단단한 등껍질 표본" />
+	<block key="QU_0_0_0364_Description" korean="어지간한 창,칼에는 끄덕도 않을만큼 단단한 등껍질이다." />
+	<block key="QU_0_0_0365_Name" korean="탐색꾼이 습득한 보물" />
+	<block key="QU_0_0_0365_Description" korean="브라기 탐색꾼들이 모래 사장에서 건져낸 보물." />
+	<block key="QU_0_0_0366_Name" korean="수리한 오르골" />
+	<block key="QU_0_0_0366_Description" korean="보물 사냥꾼 아람의 손에 의해 말끔히 수리된 오르골." />
+	<block key="QU_0_0_0367_Name" korean="오르골 부품" />
+	<block key="QU_0_0_0367_Description" korean="고장난 오르골의 비어있는 부분에 딱 맞아 보이는 부품이다." />
+	<block key="QU_0_0_0368_Name" korean="교감의 토템" />
+	<block key="QU_0_0_0368_Description" korean="그리폰과의 교감을 더욱 긴밀하게 엮어준다고 하는 토템. 정신 마력이 담겨있는 듯 하다." />
+	<block key="QU_0_0_0369_Name" korean="모하바 용병단의 비밀서신" />
+	<block key="QU_0_0_0369_Description" korean="용병단 전령이 지니고 있던 비밀서신." />
+	<block key="QU_0_0_0370_Name" korean="용병단 작전일지" />
+	<block key="QU_0_0_0370_Description" korean="용병단의 공격 계획을 알 수 있는 작전일지." />
+	<block key="QU_0_0_0371_Name" korean="횃불" />
+	<block key="QU_0_0_0371_Description" korean="활활 타오르고 있는 횃불, 불이 잘 붙을 것 같다." />
+	<block key="QU_0_0_0372_Name" korean="금광석" />
+	<block key="QU_0_0_0372_Description" korean="" />
+	<block key="QU_0_0_0373_Name" korean="오르 광석" />
+	<block key="QU_0_0_0373_Description" korean="아름다운 빛깔의 오르 광석." />
+	<block key="QU_0_0_0374_Name" korean="오르 수송 지령서" />
+	<block key="QU_0_0_0374_Description" korean="" />
+	<block key="QU_0_0_0375_Name" korean="박쥐 송곳니" />
+	<block key="QU_0_0_0375_Description" korean="" />
+	<block key="QU_0_0_0376_Name" korean="그리폰의 알" />
+	<block key="QU_0_0_0376_Description" korean="" />
+	<block key="QU_0_0_0377_Name" korean="돌연변이 그리폰의 비늘" />
+	<block key="QU_0_0_0377_Description" korean="딱딱한 비늘로 변해버린 그리폰의 깃털." />
+	<block key="QU_0_0_0378_Name" korean="슈페른의 나무판" />
+	<block key="QU_0_0_0378_Description" korean="그리폰 슈페른이 발톱으로 그린 그림 문자 같은 것이 새겨져 있다." />
+	<block key="QU_0_0_0379_Name" korean="불사군단 요새 설계도" />
+	<block key="QU_0_0_0379_Description" korean="불사군단 요새 설계도면." />
+	<block key="QU_0_0_0380_Name" korean="진실의 거울" />
+	<block key="QU_0_0_0380_Description" korean="거울을 비추면 불사군단이 그 정체를 드러낼 것이다." />
+	<block key="QU_0_0_0381_Name" korean="결계 해제 열쇠" />
+	<block key="QU_0_0_0381_Description" korean="불사군단 요새의 결계를 해제시키는 열쇠." />
+	<block key="QU_0_0_0382_Name" korean="라니아 공주의 수정구슬" />
+	<block key="QU_0_0_0382_Description" korean="라니아 공주가 지니고 있던 수정구. 어둠에 물들어 빛을 잃었다." />
+	<block key="QU_0_0_0383_Name" korean="그리폰의 유해" />
+	<block key="QU_0_0_0383_Description" korean="잔혹하게 학살당한 그리폰의 유해." />
+	<block key="QU_0_0_0384_Name" korean="치메르의 지팡이" />
+	<block key="QU_0_0_0384_Description" korean="예언가 치메르의 지팡이. 신비로운 기운이 느껴진다." />
+	<block key="QU_0_0_0385_Name" korean="불사군단 작전 명령서" />
+	<block key="QU_0_0_0385_Description" korean="그리폰을 사냥하는 이유를 알 수 있는 작전 명령서." />
+	<block key="QU_0_0_0386_Name" korean="우마르크(금광수송로)" />
+	<block key="QU_0_0_0387_Name" korean="우마르크(오아시스)" />
+	<block key="QU_0_0_0388_Name" korean="우마르크(먼지바람들판)" />
+	<block key="QU_0_0_0389_Name" korean="제프너" />
+	<block key="QU_0_0_0390_Name" korean="라무트" />
+	<block key="QU_0_0_0391_Name" korean="독액 상자" />
+	<block key="QU_0_0_0391_Description" korean="식물과 동물의 독을 배합하여 제조된 독액이 들어있다." />
+	<block key="QU_0_0_0392_Name" korean="기중기 도르래" />
+	<block key="QU_0_0_0392_Description" korean="기중기의 도르래 역할을 하는 부품이다." />
+	<block key="QU_0_0_0393_Name" korean="레일의 부품" />
+	<block key="QU_0_0_0393_Description" korean="레일에 붙어있는 쇠조각." />
+	<block key="QU_0_0_0394_Name" korean="클랜의 추천서" />
+	<block key="QU_0_0_0394_Description" korean="독학 마법사 누르에게 이누기의 지도를 맡긴다는 내용이 적혀있는 듯 하다." />
+	<block key="QU_0_0_0395_Name" korean="라니아 공주의 선물" />
+	<block key="QU_0_0_0395_Description" korean="라니아 공주가 사절로서 황금 봉우리에 호의를 표하기 위해 준비했던 선물이었으나 공주가 납치된 후, 클랜이 보관하고 있었던 듯 하다." />
+	<block key="QU_0_0_0396_Name" korean="잃어버린 첫번째 보물" />
+	<block key="QU_0_0_0396_Description" korean="보물이 들어있는 보따리." />
+	<block key="QU_0_0_0397_Name" korean="잃어버린 두번째 보물" />
+	<block key="QU_0_0_0397_Description" korean="보물이 들어있는 보따리." />
+	<block key="QU_0_0_0398_Name" korean="잃어버린 세번째 보물" />
+	<block key="QU_0_0_0398_Description" korean="보물이 들어있는 보따리." />
+	<block key="QU_0_0_0399_Name" korean="양념 재료" />
+	<block key="QU_0_0_0399_Description" korean="음식의 맛을 살려주는 조미료다." />
+	<block key="QU_0_0_0400_Name" korean="섀도우 클랜 전서오" />
+	<block key="QU_9_4_0053_Name" korean="카알(비행사)과 나이브" />
+	<block key="QU_9_4_0054_Name" korean="유세이(기억을잃은소녀)" />
+	<block key="QU_9_4_0055_Name" korean="유세이의 무덤" />
+	<block key="QU_9_4_0056_Name" korean="유세이의 유골" />
+	<block key="QU_0_0_0401_Name" korean="독성이 있는 독수리 내장" />
+	<block key="QU_0_0_0401_Description" korean="대머리 독수리의 내장. 미약하지만 독성이 함유되어 있다." />
+	<block key="QU_0_0_0402_Name" korean="라다스(알세크)" />
+	<block key="QU_0_0_0403_Name" korean="라다스(금광수송로)" />
+	<block key="QU_0_0_0404_Name" korean="수송마차(알세크)" />
+	<block key="QU_0_0_0405_Name" korean="엘레나" />
+	<block key="QU_0_0_0406_Name" korean="수송마차(금광수송로)" />
+	<block key="QU_0_0_0407_Name" korean="크라바소스의 뇌" />
+	<block key="QU_0_0_0407_Description" korean="역병의 주술이 뇌 전체에 퍼져있다." />
+	<block key="QU_0_0_0408_Name" korean="신시아의 보고서" />
+	<block key="QU_0_0_0408_Description" korean="고대의 사원과 관련하여 신시아가 카브임 교단에 올리려던 보고서다. 암호로 기록되어있다." />
+	<block key="QU_0_0_0409_Name" korean="니바르의 마력 오브" />
+	<block key="QU_0_0_0409_Description" korean="환술사 니바르가 소유하고 있던 마력의 오브. 파괴의 단어가 지닌 힘이 일부 주입되어있다." />
+	<block key="QU_0_0_0410_Name" korean="파괴의 언어가 새겨진 룬석판" />
+	<block key="QU_0_0_0410_Description" korean="스캇라샤가 봉인한 파괴의 언어 일부가 새겨져있다. 음산한 기운이 석판 전체를 감싸고있다." />
+	<block key="QU_9_4_0057_Name" korean="버려진 일기" />
+	<block key="QU_0_0_0412_Name" korean="꽉 차있는 물통" />
+	<block key="QU_0_0_0412_Description" korean="오아시스의 물로 가득 차있다." />
+	<block key="QU_0_0_0413_Name" korean="황금 봉우리 출입허가증" />
+	<block key="QU_0_0_0413_Description" korean="황금 봉우리에 출입을 허가하는 증서. 그리폰 기사단에게 신의를 증명한 자만이 황금 봉우리 출입을 허가받을 수 있다." />
+	<block key="QU_0_0_0414_Name" korean="무명초" />
+	<block key="QU_0_0_0414_Description" korean="이름 없는 풀. 항간에 만병통치 약이라는 이야기 떠돈다." />
+	<block key="QU_0_0_0415_Name" korean="전갈의 독침" />
+	<block key="QU_0_0_0415_Description" korean="전갈의 맹독이 맺혀있는 독침이다." />
+	<block key="QU_0_0_0416_Name" korean="뱀의 독샘" />
+	<block key="QU_0_0_0416_Description" korean="뱀의 맹독을 만들어내는 독샘. 채집부터 운반까지 주의를 기울여야 할 것 같다." />
+	<block key="QU_0_0_0417_Name" korean="선인장 가시" />
+	<block key="QU_0_0_0417_Description" korean="사막 선인장이 위협을 느끼면 발사하는 가시들이다. 몸에 닿으면 따갑다." />
+	<block key="QU_0_0_0418_Name" korean="악어의 단단한 가죽" />
+	<block key="QU_0_0_0418_Description" korean="두터운 두께때문에 단단하기가 철에 비유되는 악어의 가죽이다." />
+	<block key="QU_0_0_0419_Name" korean="가고일 머리" />
+	<block key="QU_0_0_0419_Description" korean="요란한 괴성을 내는 가고일들의 머리. 황금 봉우리의 원로의장인 바흐리에게 가져다주면 흡족해할 것 같다." />
+	<block key="QU_0_0_0420_Name" korean="요정의 날개" />
+	<block key="QU_0_0_0420_Description" korean="요정의 반투명한 날개다. 요정 고유의 마력이 날개에 깃들어있다." />
+	<block key="QU_0_0_0421_Name" korean="콜렉터의 피묻은 보고서" />
+	<block key="QU_0_0_0421_Description" korean="콜렉터가 죽기 전에 자신의 행적을 기록한 보고서다. 온통 피로 물들어있다." />
+	<block key="QU_9_4_0058_Name" korean="라이어스" />
+	<block key="QU_9_4_0059_Name" korean="라이어스(stand)" />
+	<block key="QU_0_0_0422_Name" korean="하브퀸의 머리" />
+	<block key="QU_0_0_0422_Description" korean="사막 벌의 여왕으로 군림하는 하브퀸의 머리다." />
+	<block key="QU_0_0_0423_Name" korean="사막 말벌의 독침" />
+	<block key="QU_0_0_0423_Description" korean="사막 말벌의 강력한 독을 배출하는 독침." />
+	<block key="QU_0_0_0424_Name" korean="사막 벌집" />
+	<block key="QU_0_0_0424_Description" korean="달콤한 꿀 내음이 가득한 사막 벌집." />
+	<block key="QU_0_0_0425_Name" korean="사막 벌의 날개" />
+	<block key="QU_0_0_0425_Description" korean="사막 벌의 반투명한 날개." />
+	<block key="QU_0_0_0426_Name" korean="브라기 보급품" />
+	<block key="QU_0_0_0426_Description" korean="브라기들이 야외에서 활동할 때 즐겨먹는 식량 등의 잡동사니가 들어있다." />
+	<block key="QU_0_0_0427_Name" korean="도둑맞은 신전 보물" />
+	<block key="QU_0_0_0427_Description" korean="신전에 있던 조각상 일부. 보물이라기보다 볼품없는 조각에 가깝다." />
+	<block key="QU_0_0_0428_Name" korean="잘려진 팔" />
+	<block key="QU_0_0_0428_Description" korean="사람의 잘려진 팔. 맹수의 이빨처럼 날카로운 무언가에 물어뜯긴 듯하다." />
+	<block key="QU_0_0_0429_Name" korean="파괴의 언어 석판" />
+	<block key="QU_0_0_0429_Description" korean="고대의 사원에 봉인되었던 파괴의 언어가 새겨진 석판의 일부다." />
+	<block key="QU_0_0_0430_Name" korean="실험체의 뇌" />
+	<block key="QU_0_0_0430_Description" korean="역병 주술 실험체의 뇌. 불길한 마력이 느껴진다." />
+	<block key="QU_0_0_0431_Name" korean="시체 동물 혈액" />
+	<block key="QU_0_0_0431_Description" korean="시체가 된 동물들의 혈액이다." />
+	<block key="QU_0_0_0432_Name" korean="탈리온의 발톱" />
+	<block key="QU_0_0_0432_Description" korean="탈리온의 날카로운 발톱. 콜렉터에게 보여주면 좋을 것 같다.<br><UI_G>우클릭을 통하여 퀘스트를 받으실 수 있습니다.</UI_G>" />
+	<block key="QU_0_0_0433_Name" korean="탈리온의 심장" />
+	<block key="QU_0_0_0433_Description" korean="탈리온의 부패된 심장. 심장의 온전한 기능을 발휘하기엔 이미 썩어버린 것 같다." />
+	<block key="QU_0_0_0434_Name" korean="그을린 뼛가루" />
+	<block key="QU_0_0_0434_Description" korean="불에 그을린 뼛가루.<br><UI_G>우클릭을 통하여 퀘스트를 받으실 수 있습니다.</UI_G>" />
+	<block key="QU_0_0_0435_Name" korean="신전 사수의 화살" />
+	<block key="QU_0_0_0435_Description" korean="하라크로 신전의 사수들이 애용하는 화살. 날카로운 예기가 화살촉에서 느껴진다." />
+	<block key="QU_0_0_0436_Name" korean="신전 설계 부품" />
+	<block key="QU_0_0_0436_Description" korean="신전을 설계할 때 사용한 부품. 어떤 용도로 쓰였는지는 알 수 없다." />
+	<block key="QU_0_0_0437_Name" korean="표범 고기" />
+	<block key="QU_0_0_0437_Description" korean="표범의 담백한 고기. 풍요의 씨앗 조합에 가져다 주면 좋을 것 같다." />
+	<block key="QU_0_0_0438_Name" korean="신전의 부적" />
+	<block key="QU_0_0_0438_Description" korean="하라크로 신전의 크로쿤들이 사용하는 부적." />
+	<block key="QU_0_0_0439_Name" korean="크로쿤 경전" />
+	<block key="QU_0_0_0439_Description" korean="크로쿤의 사제들이 소지하고 있는 경전. 마신과 그의 부하들을 예찬하는 내용이 적혀있다." />
+	<block key="QU_0_0_0440_Name" korean="거미 조련 교본" />
+	<block key="QU_0_0_0440_Description" korean="거미를 길들이는 방법에 대해 상세히 기록된 교본." />
+	<block key="QU_0_0_0441_Name" korean="크로쿤의 화살" />
+	<block key="QU_0_0_0441_Description" korean="화살 촉의 날카로운 예기와 달리 화살대는 부러져있다." />
+	<block key="QU_0_0_0442_Name" korean="마력의 토템" />
+	<block key="QU_0_0_0442_Description" korean="불길한 마력이 느껴지는 토템이다." />
+	<block key="QU_0_0_0443_Name" korean="불사군단 공격 계획서" />
+	<block key="QU_0_0_0443_Description" korean="사막에 대한 불사군단의 공격 경로와 지시 사항등이 기록되어 있다." />
+	<block key="QU_0_0_0444_Name" korean="아델라크의 거미줄" />
+	<block key="QU_0_0_0444_Description" korean="아델라크의 몸에서 거미줄이다. 콜렉터에게 보여주면 좋을 것 같다.<br><UI_G>우클릭을 통하여 퀘스트를 받으실 수 있습니다.</UI_G>" />
+	<block key="QU_0_0_0445_Name" korean="희생자 유해" />
+	<block key="QU_0_0_0445_Description" korean="거미가 집어삼킨 희생자들의 유해다. 아직 소화되지 않은 부분들이 간간이 보인다." />
+	<block key="QU_0_0_0446_Name" korean="동물성 기름" />
+	<block key="QU_0_0_0446_Description" korean="거북이에게서 나온 동물성 기름이다." />
+	<block key="QU_0_0_0447_Name" korean="원시 집게의 다리" />
+	<block key="QU_0_0_0447_Description" korean="원시 집게의 두툼한 다리다." />
+	<block key="QU_0_0_0448_Name" korean="영혼의 유품" />
+	<block key="QU_0_0_0448_Description" korean="아하브의 딸이 지니고 있던 유품이다. 아하브에게 돌려주는 것이 좋겠다.<br><UI_G>우클릭을 통하여 퀘스트를 받으실 수 있습니다.</UI_G>" />
+	<block key="QU_0_0_0449_Name" korean="떠오른 보물" />
+	<block key="QU_0_0_0449_Description" korean="해적선의 보물이라고 하기엔 대포에 사용하는 화약통과 매우 흡사하다." />
+	<block key="QU_0_0_0450_Name" korean="원시 바다 거북의 등껍질" />
+	<block key="QU_0_0_0450_Description" korean="초승달 상단이 매우 고가에 구한다는 소문이 있는 원시 바다 거북의 등껍질이다." />
+	<block key="QU_0_0_0451_Name" korean="가고일 외피" />
+	<block key="QU_0_0_0451_Description" korean="일반적인 강철의 강도와 매우 흡사한 가고일의 외피다." />
+	<block key="QU_0_0_0452_Name" korean="저주의 부적" />
+	<block key="QU_0_0_0452_Description" korean="암흑의 마력이 깃들어있는 부적이다." />
+	<block key="QU_0_0_0453_Name" korean="파수꾼의 눈" />
+	<block key="QU_0_0_0453_Description" korean="암흑 파수꾼의 눈이다." />
+	<block key="QU_0_0_0454_Name" korean="살수의 독 주머니" />
+	<block key="QU_0_0_0454_Description" korean="펙투라의 살수들이 고유한 비전으로 제조하여 사용하는 독이 담겨있다." />
+	<block key="QU_0_0_0455_Name" korean="슈마의 도끼" />
+	<block key="QU_0_0_0455_Description" korean="사막 크로쿤의 실력있는 대장장이가 만든 매우 육중한 도끼다." />
+	<block key="QU_0_0_0456_Name" korean="라이가의 검" />
+	<block key="QU_0_0_0456_Description" korean="사막 크로쿤의 실력있는 대장장이가 만든 매우 예리한 검이다." />
+	<block key="QU_0_0_0457_Name" korean="예리츠의 단검" />
+	<block key="QU_0_0_0457_Description" korean="사막 크로쿤의 실력있는 대장장이가 만든 매우 날렵한 단검이다." />
+	<block key="QU_0_0_0458_Name" korean="펙투라 설계도" />
+	<block key="QU_0_0_0458_Description" korean="펙투라의 기본적인 구조가 담겨있는 설계도다." />
+	<block key="QU_0_0_0459_Name" korean="소환 룬석" />
+	<block key="QU_0_0_0459_Description" korean="불사군단의 소환병들이 이차원의 존재를 소환할 때 사용하는 룬석이다." />
+	<block key="QU_0_0_0460_Name" korean="모르간의 마력 팔찌" />
+	<block key="QU_0_0_0460_Description" korean="모르간이 자신의 마력을 응축 보관하는 용도로 사용한 팔찌다." />
+	<block key="QU_0_0_0461_Name" korean="탈로스의 뿔" />
+	<block key="QU_0_0_0461_Description" korean="탈로스의 암흑 마력이 깃들어 있는 뿔이다." />
+	<block key="QU_0_0_0462_Name" korean="그리폰의 깃털" />
+	<block key="QU_0_0_0462_Description" korean="그리폰의 깃털. 크로쿤 사냥꾼들은 자신의 용맹함을 증명하기 위해 사냥한 그리폰의 깃털을 뽑는 풍습이 있다." />
+	<block key="QU_0_0_0463_Name" korean="폭탄 부품" />
+	<block key="QU_0_0_0463_Description" korean="모르룬이 흘린 폭탄 부품." />
+	<block key="QU_0_0_0465_Name" korean="꽉 찬 오아시스 물" />
+	<block key="QU_0_0_0465_Description" korean="눈물의 오아시스 물이 가득 담겨있는 물통." />
+	<block key="QU_0_0_0468_Name" korean="사막 해안 펠리컨의 날개살" />
+	<block key="QU_0_0_0468_Description" korean="사막 해안 펠리컨의 두툼한 날개살이다. 구워먹으면 맛이 좋을 것 같다." />
+	<block key="QU_0_0_0469_Name" korean="원시 바다 거북의 알" />
+	<block key="QU_0_0_0469_Description" korean="통째로 넣어 스튜로 만들면 일품이라는 희귀한 재료. 요리사들이 좋아할 재료다." />
+	<block key="QU_0_0_0470_Name" korean="잘려진 나무 기둥" />
+	<block key="QU_0_0_0470_Description" korean="사막 브라기 돌격병이 무기로 사용하는 나무 기둥. 반으로 잘려져 있다." />
+	<block key="QU_0_0_0471_Name" korean="브라기 파병 요청서" />
+	<block key="QU_0_0_0471_Description" korean="사막 브라기의 파병을 요청하는 사막 크로쿤들의 문서다. 발신인은 주술사 마나츠로 되어있는듯하다.<br><UI_G>우클릭을 통하여 퀘스트를 받으실 수 있습니다.</UI_G>" />
+	<block key="QU_0_0_0472_Name" korean="노예 요정의 날개" />
+	<block key="QU_0_0_0472_Description" korean="샤키바의 영향력 아래 노예로 변화된 요정들의 날개. 샤키바의 능력 연구를 위해 콜렉터들이 필요로 하는 것 같다." />
+	<block key="QU_0_0_0473_Name" korean="눈물 원석" />
+	<block key="QU_0_0_0473_Description" korean="펠로우를 길들이는데 필요한 재료로 쓰인다고 알려진 원석. 콜렉터에게 가져가면 좋을 것 같다." />
+	<block key="QU_0_0_0474_Name" korean="피요의 혈액" />
+	<block key="QU_0_0_0474_Description" korean="피요의 혈액이다. 콜렉터들이 사막 올빼미족의 정기적인 신체 변화나 건강 상태를 확인할 용도로 사용한다." />
+	<block key="QU_9_4_0063_Name" korean="닉스" />
+	<block key="QU_0_0_0475_Name" korean="라니아 공주의 옷 조각" />
+	<block key="QU_0_0_0475_Description" korean="고급스러운 옷감으로 지어진 옷의 조각. 라니아 공주의 드레스의 옷감과 같다." />
+	<block key="QU_0_0_0476_Name" korean="신성한 기운이 담긴 돌" />
+	<block key="QU_0_0_0476_Description" korean="어딘가 신성한 기운을 풍기는 돌이다." />
+	<block key="QU_0_0_0477_Name" korean="라니아 공주의 기운이 담긴 돌" />
+	<block key="QU_0_0_0477_Description" korean="라니아 공주이 가진 엘로라 여신의 기운이 담긴 축복의 증표" />
+	<block key="QU_0_0_0478_Name" korean="안개풀" />
+	<block key="QU_0_0_0478_Description" korean="도전자의 비행로 아래, 자욱하게 깔린 모래 안개 속에서 피어난 풀. 특별한 독성을 양분삼아 자라난 풀이라고 한다." />
+	<block key="QU_0_0_0479_Name" korean="진실된 시야의 약병" />
+	<block key="QU_0_0_0479_Description" korean="진실된 시야의 물약을 제조 및 보관할 수 있는 약병이다." />
+	<block key="QU_0_0_0480_Name" korean="채집꾼의 약초" />
+	<block key="QU_0_0_0480_Description" korean="브라기 본거지 채집꾼이 채집하는 약초. 해독의 효과가 있다고 알려져 있다." />
+</blocks>

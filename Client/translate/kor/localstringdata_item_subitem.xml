@@ -1,0 +1,276 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="EW0_003_0_0002_Name" korean="브라기 사냥꾼의 단검(보조)" />
+	<block key="EW0_004_0_0001_Name" korean="브라기 일꾼의 고기꼬치" />
+	<block key="EW2_016_0_0000_Name" korean="구스트의 국자" />
+	<block key="EW4_002_0_0002_Name" korean="토니 클레키의 칼(보조)" />
+	<block key="EW4_011_0_9002_Name" korean="제이슨 클레키의 단검(보조)" />
+	<block key="EW4_013_0_9002_Name" korean="전투병의 단검(보조)" />
+	<block key="EW8_001_0_0000_Name" korean="해골 병사의 방패" />
+	<block key="EW8_003_0_0000_Name" korean="해골 친위 기사의 방패" />
+	<block key="EW8_027_0_0000_Name" korean="빛의 사자의 방패" />
+	<block key="EW8_013_0_0000_Name" korean="강철 파수꾼의 한손 방패" />
+	<block key="EW8_015_0_0000_Name" korean="브라기 족장의 방패" />
+	<block key="EW4_005_0_0001_Name" korean="얼음 군단장 론도의 검(보조)" />
+	<block key="EW2_041_0_0000_Name" korean="구스트의 후라이팬" />
+	<block key="SU0_001_0_9999_Name" korean="로비용 방패 001" />
+	<block key="SU0_002_0_9999_Name" korean="로비용 방패 002" />
+	<block key="SU0_003_0_9999_Name" korean="로비용 방패 003" />
+	<block key="SU0_004_0_9999_Name" korean="로비용 방패 004" />
+	<block key="SU0_005_0_9999_Name" korean="로비용 방패 005" />
+	<block key="SU0_006_0_9999_Name" korean="로비용 방패 006" />
+	<block key="SU0_007_0_9999_Name" korean="로비용 방패 007" />
+	<block key="SU0_008_0_9999_Name" korean="로비용 방패 008" />
+	<block key="SU0_009_0_9999_Name" korean="로비용 방패 009" />
+	<block key="SU0_010_0_9999_Name" korean="로비용 방패 010" />
+	<block key="SU0_011_0_9999_Name" korean="로비용 방패 011" />
+	<block key="SU0_012_0_9999_Name" korean="로비용 방패 012" />
+	<block key="SU0_013_0_9999_Name" korean="로비용 방패 013" />
+	<block key="SU0_014_0_9999_Name" korean="로비용 방패 014" />
+	<block key="SU0_015_0_9999_Name" korean="로비용 방패 015" />
+	<block key="SU0_016_0_9999_Name" korean="로비용 방패 016" />
+	<block key="SU0_017_0_9999_Name" korean="로비용 방패 017" />
+	<block key="SU0_018_0_9999_Name" korean="로비용 방패 018" />
+	<block key="SU0_019_0_9999_Name" korean="로비용 방패 019" />
+	<block key="SU0_020_0_9999_Name" korean="로비용 방패 020" />
+	<block key="SU0_021_0_9999_Name" korean="로비용 방패 021" />
+	<block key="SU0_022_0_9999_Name" korean="로비용 방패 022" />
+	<block key="SU0_017_0_1011_Name" korean="낡은 방패" />
+	<block key="SU0_017_0_1051_Name" korean="평범한 방패" />
+	<block key="SU0_017_0_2061_Name" korean="신룡 기사단의 방패" />
+	<block key="SU0_001_0_1101_Name" korean="쓸만한 방패" />
+	<block key="SU0_002_0_2102_Name" korean="요정의 방패" />
+	<block key="SU0_001_0_2101_Name" korean="숲의 방패" />
+	<block key="SU0_002_0_1151_Name" korean="일반병의 방패" />
+	<block key="SU0_006_0_2151_Name" korean="습격자의 방패" />
+	<block key="SU0_002_0_2141_Name" korean="고대 화염 골렘의 방패" />
+	<block key="SU0_006_0_2171_Name" korean="파견단의 방패" />
+	<block key="SU0_006_0_1201_Name" korean="숙련병의 방패" />
+	<block key="SU0_007_0_2201_Name" korean="흡혈귀의 방패" />
+	<block key="SU0_007_0_2202_Name" korean="민병대의 방패" />
+	<block key="SU0_007_0_2221_Name" korean="저주받은 방패" />
+	<block key="SU0_007_0_1251_Name" korean="정예병의 방패" />
+	<block key="SU0_003_0_3231_Name" korean="수비대의 방패" />
+	<block key="SU0_003_0_2251_Name" korean="창공의 방패" />
+	<block key="SU0_003_0_2254_Name" korean="설원의 방패" />
+	<block key="SU0_005_0_3341_Name" korean="혹한의 방패" />
+	<block key="SU0_003_0_2252_Name" korean="거신족의 방패" />
+	<block key="SU0_005_0_3342_Name" korean="야타이만의 방패" />
+	<block key="SU0_003_0_1301_Name" korean="신입 기사단원의 방패" />
+	<block key="SU0_004_0_2301_Name" korean="무러미족의 방패" />
+	<block key="SU0_004_0_2271_Name" korean="바람 민병단의 방패" />
+	<block key="SU0_010_0_3351_Name" korean="타락한 추종자의 방패" />
+	<block key="SU0_004_0_1351_Name" korean="숙련 기사단원의 방패" />
+	<block key="SU0_005_0_2351_Name" korean="서리군단의 방패" />
+	<block key="SU0_005_0_1401_Name" korean="크로쿤족의 방패" />
+	<block key="SU0_010_0_3301_Name" korean="얼음 군단장의 방패" />
+	<block key="SU0_353_1_1402_Name" korean="정예 기사단원의 방패" />
+	<block key="SU0_002_0_2142_Name" korean="페가수스 기사단의 방패" />
+	<block key="SU0_006_0_2191_Name" korean="불사군단의 방패" />
+	<block key="SU0_006_0_3401_Name" korean="총사령관의 방패" />
+	<block key="SU1_017_0_1011_Name" korean="낡은 아티펙트" />
+	<block key="SU1_017_0_1051_Name" korean="평범한 아티펙트" />
+	<block key="SU1_017_0_2061_Name" korean="신룡 기사단의 아티펙트" />
+	<block key="SU1_001_0_1101_Name" korean="쓸만한 아티펙트" />
+	<block key="SU1_002_0_2102_Name" korean="요정의 아티펙트" />
+	<block key="SU1_001_0_2101_Name" korean="숲의 아티펙트" />
+	<block key="SU1_002_0_1151_Name" korean="일반병의 아티펙트" />
+	<block key="SU1_006_0_2151_Name" korean="습격자의 아티펙트" />
+	<block key="SU1_002_0_2141_Name" korean="고대 화염 골렘의 아티펙트" />
+	<block key="SU1_006_0_2171_Name" korean="파견단의 아티펙트" />
+	<block key="SU1_006_0_1201_Name" korean="숙련병의 아티펙트" />
+	<block key="SU1_007_0_2201_Name" korean="흡혈귀의 아티펙트" />
+	<block key="SU1_007_0_2202_Name" korean="민병대의 아티펙트" />
+	<block key="SU1_007_0_2221_Name" korean="저주받은 가문의 아티펙트" />
+	<block key="SU1_007_0_1251_Name" korean="정예병의 아티펙트" />
+	<block key="SU1_003_0_3231_Name" korean="수비대의 아티펙트" />
+	<block key="SU1_003_0_2251_Name" korean="창공의 아티펙트" />
+	<block key="SU1_003_0_2254_Name" korean="설원의 아티펙트" />
+	<block key="SU1_004_0_2271_Name" korean="혹한의 아티펙트" />
+	<block key="SU1_003_0_2252_Name" korean="거신족의 아티펙트" />
+	<block key="SU1_004_0_2272_Name" korean="야타이만의 아티펙트" />
+	<block key="SU1_003_0_1301_Name" korean="신입 기사단원의 아티펙트" />
+	<block key="SU1_004_0_2301_Name" korean="무러미족의 아티펙트" />
+	<block key="SU1_005_0_1401_Name" korean="바람 민병단의 아티펙트" />
+	<block key="SU1_005_0_3341_Name" korean="타락한 추종자의 아티펙트" />
+	<block key="SU1_004_0_1351_Name" korean="숙련 기사단원의 아티펙트" />
+	<block key="SU1_005_0_2351_Name" korean="서리군단의 아티펙트" />
+	<block key="SU1_010_0_3351_Name" korean="크로쿤족의 아티펙트" />
+	<block key="SU1_010_0_3301_Name" korean="얼음 군단장의 아티펙트" />
+	<block key="SU1_353_1_1402_Name" korean="정예 기사단원의 아티펙트" />
+	<block key="SU1_002_0_2142_Name" korean="페가수스 기사단의 아티펙트" />
+	<block key="SU1_006_0_2191_Name" korean="불사군단의 아티펙트" />
+	<block key="SU1_006_0_3401_Name" korean="총사령관의 아티펙트" />
+	<block key="SU0_009_0_99999_Name" korean="인도자의 방패" />
+	<block key="SU1_009_0_99999_Name" korean="인도자의 아티펙트" />
+	<block key="SU0_812_0_2151_Name" korean="강인한 용사의 방패" />
+	<block key="SU1_812_0_2151_Name" korean="강인한 용사의 아티펙트" />
+	<block key="SU0_822_0_2251_Name" korean="전설의 방패" />
+	<block key="SU1_822_0_2251_Name" korean="전설의 아티펙트" />
+	<block key="SU0_823_0_3251_Name" korean="노련한 영웅의 방패" />
+	<block key="SU1_823_0_3251_Name" korean="노련한 영웅의 아티펙트" />
+	<block key="SU0_711_0_1101_Name" korean="구리 방패" />
+	<block key="SU1_711_0_1101_Name" korean="구리 아티펙트" />
+	<block key="SU0_721_0_1201_Name" korean="강철 방패" />
+	<block key="SU1_721_0_1201_Name" korean="강철 아티펙트" />
+	<block key="SU0_722_0_2201_Name" korean="강화된 강철 방패" />
+	<block key="SU1_722_0_2201_Name" korean="강화된 강철 아티펙트" />
+	<block key="SU0_731_0_1301_Name" korean="미스릴 방패" />
+	<block key="SU1_731_0_1301_Name" korean="미스릴 아티펙트" />
+	<block key="SU0_732_0_2301_Name" korean="강화된 미스릴 방패" />
+	<block key="SU1_732_0_2301_Name" korean="강화된 미스릴 아티펙트" />
+	<block key="SU0_733_0_3301_Name" korean="빛나는 미스릴 방패" />
+	<block key="SU1_733_0_3301_Name" korean="빛나는 미스릴 아티펙트" />
+	<block key="SU0_002_1_1151_Name" korean="일반병의 방패" />
+	<block key="SU0_006_1_2151_Name" korean="습격자의 방패" />
+	<block key="SU0_006_1_1201_Name" korean="숙련병의 방패" />
+	<block key="SU0_007_1_2201_Name" korean="흡혈귀의 방패" />
+	<block key="SU0_007_1_1251_Name" korean="정예병의 방패" />
+	<block key="SU0_003_1_2251_Name" korean="창공의 방패" />
+	<block key="SU0_003_1_1301_Name" korean="신입 기사단원의 방패" />
+	<block key="SU0_004_1_2301_Name" korean="무러미족의 방패" />
+	<block key="SU1_002_1_1151_Name" korean="일반병의 아티펙트" />
+	<block key="SU1_006_1_2151_Name" korean="습격자의 아티펙트" />
+	<block key="SU1_006_1_1201_Name" korean="숙련병의 아티펙트" />
+	<block key="SU1_007_1_2201_Name" korean="흡혈귀의 아티펙트" />
+	<block key="SU1_007_1_1251_Name" korean="정예병의 아티펙트" />
+	<block key="SU1_003_1_2251_Name" korean="창공의 아티펙트" />
+	<block key="SU1_003_1_1301_Name" korean="신입 기사단원의 아티펙트" />
+	<block key="SU1_004_1_2301_Name" korean="무러미족의 아티펙트" />
+	<block key="SU0_812_1_2151_Name" korean="강인한 용사의 방패" />
+	<block key="SU1_812_1_2151_Name" korean="강인한 용사의 아티펙트" />
+	<block key="SU0_822_1_2251_Name" korean="전설의 방패" />
+	<block key="SU1_822_1_2251_Name" korean="전설의 아티펙트" />
+	<block key="SU0_823_1_3251_Name" korean="노련한 영웅의 방패" />
+	<block key="SU1_823_1_3251_Name" korean="노련한 영웅의 아티펙트" />
+	<block key="pvpSU0_003_1_2528_Name" korean="하급 사냥꾼의 방패" />
+	<block key="pvpSU1_003_1_2528_Name" korean="하급 사냥꾼의 아티펙트" />
+	<block key="pvpSU0_003_1_3033_Name" korean="중급 사냥꾼의 방패" />
+	<block key="pvpSU1_003_1_3033_Name" korean="중급 사냥꾼의 아티펙트" />
+	<block key="pvpSU0_003_1_3538_Name" korean="상급 사냥꾼의 방패" />
+	<block key="pvpSU1_003_1_3538_Name" korean="상급 사냥꾼의 아티펙트" />
+	<block key="pvpSU0_003_1_4043_Name" korean="최상급 사냥꾼의 방패" />
+	<block key="pvpSU1_003_1_4043_Name" korean="최상급 사냥꾼의 아티펙트" />
+	<block key="SU1_333_1_3301_Name" korean="대신관의 아티펙트" />
+	<block key="SU0_333_1_3301_Name" korean="스칼리온의 방패" />
+	<block key="SU0_353_1_3501_Name" korean="무러미 족장의 방패" />
+	<block key="SU1_353_1_3501_Name" korean="무러미 족장의 아티펙트" />
+	<block key="SU0_002_0_2103_Name" korean="요정의 방패" />
+	<block key="SU0_006_0_2153_Name" korean="망자의 방패" />
+	<block key="SU0_007_0_2204_Name" korean="백작의 방패" />
+	<block key="SU0_003_0_2255_Name" korean="설인족의 방패" />
+	<block key="SU0_004_0_2306_Name" korean="광신도의 방패" />
+	<block key="SU0_005_0_2357_Name" korean="서리군단 정예병의 방패" />
+	<block key="SU1_002_0_2103_Name" korean="요정의 아티펙트" />
+	<block key="SU1_006_0_2152_Name" korean="망자의 아티펙트" />
+	<block key="SU1_007_0_2203_Name" korean="백작의 아티펙트" />
+	<block key="SU1_003_0_2253_Name" korean="설인족의 아티펙트" />
+	<block key="SU1_004_0_2302_Name" korean="광신도의 아티펙트" />
+	<block key="SU1_005_0_2352_Name" korean="서리군단 정예병의 아티펙트" />
+	<block key="SU0_353_1_3503_Name" korean="카라샤의 방패" />
+	<block key="SU1_353_1_3503_Name" korean="카라샤의 아티펙트" />
+	<block key="SU0_352_0_2357_Name" korean="야투콘틴의 아티펙트" />
+	<block key="SU1_352_0_2103_Name" korean="툰틴의 방패" />
+	<block key="SU0_006_0_2151_EV_Name" korean="기사단의 습격자 방패" />
+	<block key="SU1_006_0_2151_EV_Name" korean="기사단의 습격자 아티펙트" />
+	<block key="SU0_006_0_2171_RE_Name" korean="희망의 방패 I" />
+	<block key="SU0_006_0_2151_RE_Name" korean="희망의 방패 II" />
+	<block key="SU0_007_0_2201_RE_Name" korean="희망의 방패 III" />
+	<block key="SU0_003_0_2251_RE_Name" korean="희망의 방패 IV" />
+	<block key="SU0_003_0_2254_RE_Name" korean="희망의 방패 V" />
+	<block key="SU0_004_0_2301_RE_Name" korean="희망의 방패 VI" />
+	<block key="SU0_005_0_2351_RE_Name" korean="희망의 방패 VII" />
+	<block key="SU1_006_0_2171_RE_Name" korean="희망의 아티펙트 I" />
+	<block key="SU1_006_0_2151_RE_Name" korean="희망의 아티펙트 II" />
+	<block key="SU1_007_0_2201_RE_Name" korean="희망의 아티펙트 III" />
+	<block key="SU1_003_0_2251_RE_Name" korean="희망의 아티펙트 IV" />
+	<block key="SU1_003_0_2254_RE_Name" korean="희망의 아티펙트 V" />
+	<block key="SU1_004_0_2301_RE_Name" korean="희망의 아티펙트 VI" />
+	<block key="SU1_005_0_2351_RE_Name" korean="희망의 아티펙트 VII" />
+	<block key="SU0_010_0_3501_Name" korean="잔혹한 운명의 방패" />
+	<block key="SU1_010_0_3501_Name" korean="잔혹한 운명의 아티펙트" />
+	<block key="SU0_733_0_3351_Name" korean="빛나는 강화 미스릴 방패" />
+	<block key="SU1_733_0_3351_Name" korean="빛나는 강화 미스릴 아티펙트" />
+	<block key="SU0_733_0_3401_Name" korean="빛나는 투랄리움 방패" />
+	<block key="SU1_733_0_3401_Name" korean="빛나는 투랄리움 아티펙트" />
+	<block key="SU1_005_0_2402_Name" korean="이즈호라 군단 정예병의 아티펙트" />
+	<block key="SU0_005_0_2407_Name" korean="이즈호라 군단 정예병의 방패" />
+	<block key="SU0_005_0_3382_Name" korean="야타이만의 방패" />
+	<block key="SU1_004_0_3382_Name" korean="야타이만의 아티펙트" />
+	<block key="BX_SU0_005_0_2357_Name" korean="초승달 상단의 낡은 방패" />
+	<block key="BX_SU1_005_0_2352_Name" korean="초승달 상단의 낡은 아티펙트" />
+	<block key="BX_SU0_010_0_3301_Name" korean="초승달 상단의 방패" />
+	<block key="BX_SU1_010_0_3301_Name" korean="초승달 상단의 아티펙트" />
+	<block key="BX_SU0_005_0_2407_Name" korean="초승달 상단의 강화된 방패" />
+	<block key="BX_SU1_005_0_2402_Name" korean="초승달 상단의 강화된 아티펙트" />
+	<block key="BX_SU0_006_0_3401_Name" korean="초승달 상단의 빛나는 방패" />
+	<block key="BX_SU1_006_0_3401_Name" korean="초승달 상단의 빛나는 아티펙트" />
+	<block key="SU0_001_0_2101_EV1_Name" korean="영웅의 방패 I" />
+	<block key="SU0_002_0_2102_EV1_Name" korean="영웅의 방패 II" />
+	<block key="SU0_006_0_2151_EV1_Name" korean="영웅의 방패 III" />
+	<block key="SU0_007_0_2202_EV1_Name" korean="영웅의 방패 IV" />
+	<block key="SU0_005_0_3341_EV1_Name" korean="영웅의 방패 V" />
+	<block key="SU0_010_0_3351_EV1_Name" korean="영웅의 방패 VI" />
+	<block key="SU1_001_0_2101_EV1_Name" korean="영웅의 아티펙트 I" />
+	<block key="SU1_002_0_2102_EV1_Name" korean="영웅의 아티펙트 II" />
+	<block key="SU1_006_0_2151_EV1_Name" korean="영웅의 아티펙트 III" />
+	<block key="SU1_007_0_2202_EV1_Name" korean="영웅의 아티펙트 IV" />
+	<block key="SU1_004_0_2271_EV1_Name" korean="영웅의 아티펙트 V" />
+	<block key="SU1_005_0_3341_EV1_Name" korean="영웅의 아티펙트 VI" />
+	<block key="SU0_006_0_3402_Name" korean="축복받은 총사령관의 방패" />
+	<block key="SU1_006_0_3402_Name" korean="축복받은 총사령관의 아티펙트" />
+	<block key="BX_SU0_010_0_3302_Name" korean="초승달 상단의 방패" />
+	<block key="BX_SU1_010_0_3302_Name" korean="초승달 상단의 아티펙트" />
+	<block key="ew8_025_0_0000_Name" korean="혼돈 엘프의 방패" />
+	<block key="SU0_006_0_3403_Name" korean="찬란한 선도자의 방패" />
+	<block key="SU1_006_0_3403_Name" korean="찬란한 선도자의 아티펙트" />
+	<block key="SU0_451_1_1451_Name" korean="근위병의 방패" />
+	<block key="SU1_451_1_1451_Name" korean="근위병의 아티펙트" />
+	<block key="SU0_452_0_2451_Name" korean="알세크 경비대의 방패" />
+	<block key="SU1_452_0_2451_Name" korean="알세크 경비대의 아티펙트" />
+	<block key="SU0_452_0_2452_Name" korean="그리폰 기사단의 방패" />
+	<block key="SU1_452_0_2452_Name" korean="그리폰 기사단의 아티펙트" />
+	<block key="SU0_452_0_2453_Name" korean="모하바 용병단의 방패" />
+	<block key="SU1_452_0_2453_Name" korean="모하바 용병단의 아티펙트" />
+	<block key="SU0_452_0_2454_Name" korean="유적 수호자의 방패" />
+	<block key="SU1_452_0_2454_Name" korean="유적 수호자의 아티펙트" />
+	<block key="SU0_453_0_3451_Name" korean="카브임 교단의 방패" />
+	<block key="SU1_453_0_3451_Name" korean="카브임 교단의 아티펙트" />
+	<block key="SU0_501_1_1501_Name" korean="정예 근위병의 방패" />
+	<block key="SU1_501_1_1501_Name" korean="정예 근위병의 아티펙트" />
+	<block key="SU0_502_0_2503_Name" korean="사막 브라기의 방패" />
+	<block key="SU1_502_0_2503_Name" korean="사막 브라기의 아티펙트" />
+	<block key="SU0_502_0_2504_Name" korean="암흑 군단 정예병의 방패" />
+	<block key="SU1_502_0_2504_Name" korean="암흑 군단 정예병의 아티펙트" />
+	<block key="SU0_502_0_2502_Name" korean="은둔자의 방패" />
+	<block key="SU1_502_0_2502_Name" korean="은둔자의 아티펙트" />
+	<block key="SU0_503_0_3501_Name" korean="암흑 군단장의 방패" />
+	<block key="SU1_503_0_3501_Name" korean="암흑 군단장의 아티펙트" />
+	<block key="pvpSU0_003_1_4564_Name" korean="하급 학살자의 방패" />
+	<block key="pvpSU1_003_1_4564_Name" korean="하급 학살자의 아티팩트" />
+	<block key="pvpSU0_003_1_5069_Name" korean="중급 학살자의 방패" />
+	<block key="pvpSU1_003_1_5069_Name" korean="중급 학살자의 아티팩트" />
+	<block key="SU0_453_0_3451_CR_Name" korean="빛나는 아다만티움 방패" />
+	<block key="SU1_453_0_3451_CR_Name" korean="빛나는 아다만티움 아티펙트" />
+	<block key="SU0_503_0_3501_CR_Name" korean="빛나는 강화 아다만티움 방패" />
+	<block key="SU1_503_0_3501_CR_Name" korean="빛나는 강화 아다만티움 아티펙트" />
+	<block key="SU2_353_1_3503_Name" korean="카라샤의 투갑" />
+	<block key="SU0_503_0_3502_Name" korean="축복받은 암흑 군단장의 방패" />
+	<block key="SU1_503_0_3502_Name" korean="축복받은 암흑 군단장의 아티펙트" />
+	<block key="SU0_010_0_3301_EV1_Name" korean="영웅의 방패 VII" />
+	<block key="SU0_006_0_3401_EV1_Name" korean="영웅의 방패 VIII" />
+	<block key="SU1_010_0_3301_EV1_Name" korean="영웅의 아티펙트 VII" />
+	<block key="SU1_006_0_3401_EV1_Name" korean="영웅의 아티펙트 VIII" />
+	<block key="SU0_452_0_2452_RE_Name" korean="희망의 방패 VIII" />
+	<block key="SU0_502_0_2502_RE_Name" korean="희망의 방패 IX" />
+	<block key="SU1_452_0_2452_RE_Name" korean="희망의 아티펙트 VIII" />
+	<block key="SU1_502_0_2502_RE_Name" korean="희망의 아티펙트 IX" />
+	<block key="SU0_XMAS_1_3503_Name" korean="크리스마스의 방패" />
+	<block key="SU1_XMAS_1_3503_Name" korean="크리스마스의 아티펙트" />
+</blocks>

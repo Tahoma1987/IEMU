@@ -1,0 +1,210 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="AR9_001_0001_Name" korean="모노 세라 동복" />
+	<block key="AR9_001_0001_Description" korean="모노 세라 동복" />
+	<block key="AR9_001_0002_Name" korean="러스티 로즈" />
+	<block key="AR9_001_0002_Description" korean="러스티 로즈" />
+	<block key="AR9_001_0003_Name" korean="미작업 아이템" />
+	<block key="AR9_001_0003_Description" korean="미작업 아이템" />
+	<block key="CA_ST_CM_0001_Name" korean="하카나스 학생복" />
+	<block key="CA_ST_CM_0002_Name" korean="페가수스 예복" />
+	<block key="CA_ST_CM_0003_Name" korean="왕국 연수복" />
+	<block key="CA_ST_CM_0004_Name" korean="하카나스 예복" />
+	<block key="CA_ST_CM_0005_Name" korean="라비니 의상" />
+	<block key="CA_ST_CM_0006_Name" korean="밀리터리 세트 01" />
+	<block key="CA_ST_CM_0007_Name" korean="밀리터리 세트 02" />
+	<block key="CA_ST_CM_0008_Name" korean="악마의 머리띠" />
+	<block key="CA_ST_CM_0009_Name" korean="고양이 인형" />
+	<block key="EV_ST_CM_0000_Name" korean="태극 두건" />
+	<block key="EV_ST_CM_0000_Description" korean="<O_Y>아이템은 이벤트 종료 후 삭제 됩니다.</O_Y>" />
+	<block key="EV_ST_CM_0001_Name" korean="붉은 응원 머리띠" />
+	<block key="EV_ST_CM_0001_Description" korean="<O_Y>아이템은 이벤트 종료 후 삭제 됩니다.</O_Y>" />
+	<block key="EV_ST_CM_0002_Name" korean="붉은 응원복 세트" />
+	<block key="EV_ST_CM_0002_Description" korean="<O_Y>아이템은 이벤트 종료 후 삭제 됩니다.</O_Y>" />
+	<block key="EV_ST_CM_0003_Name" korean="그린 오리엔탈" />
+	<block key="EV_ST_CM_0003_Description" korean="<R_Y>그린 오리엔탈은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 오리엔탈은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0004_Name" korean="블루 오리엔탈" />
+	<block key="EV_ST_CM_0004_Description" korean="<R_Y>블루 오리엔탈은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 오리엔탈은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0005_Name" korean="레드 오리엔탈" />
+	<block key="EV_ST_CM_0005_Description" korean="<R_Y>레드 오리엔탈은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 오리엔탈은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0010_Name" korean="그린 하와이안(7일)" />
+	<block key="CA_ST_CM_0010_Description" korean="<R_Y>그린 하와이안(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 하와이안(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0011_Name" korean="레드 선셋(7일)" />
+	<block key="CA_ST_CM_0011_Description" korean="<R_Y>레드 선셋(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 선셋(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0012_Name" korean="블루 스카이(7일)" />
+	<block key="CA_ST_CM_0012_Description" korean="<R_Y>블루 스카이(7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 스카이(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0013_Name" korean="화이트 썸머(7일)" />
+	<block key="CA_ST_CM_0013_Description" korean="<R_Y>화이트 썸머(7일)는 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+화이트 썸머(7일)는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0014_Name" korean="전통복 아라(1일)" />
+	<block key="CA_ST_CM_0014_Description" korean="<R_Y>전통복 아라(1일)은 1일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 아라(1일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0015_Name" korean="전통복 아라(7일)" />
+	<block key="CA_ST_CM_0015_Description" korean="<R_Y>전통복 아라(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 아라(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0016_Name" korean="전통복 아라(30일)" />
+	<block key="CA_ST_CM_0016_Description" korean="<R_Y>전통복 아라(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 아라(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0017_Name" korean="전통복 윤슬(1일)" />
+	<block key="CA_ST_CM_0017_Description" korean="<R_Y>전통복 윤슬(1일)은 1일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 윤슬(1일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0018_Name" korean="전통복 윤슬(7일)" />
+	<block key="CA_ST_CM_0018_Description" korean="<R_Y>전통복 윤슬(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 윤슬(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0019_Name" korean="전통복 윤슬(30일)" />
+	<block key="CA_ST_CM_0019_Description" korean="<R_Y>전통복 윤슬(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 윤슬(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0020_Name" korean="전통복 다솜(1일)" />
+	<block key="CA_ST_CM_0020_Description" korean="<R_Y>전통복 다솜(1일)은 1일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 다솜(1일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0021_Name" korean="전통복 다솜(7일)" />
+	<block key="CA_ST_CM_0021_Description" korean="<R_Y>전통복 다솜(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 다솜(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0022_Name" korean="전통복 다솜(30일)" />
+	<block key="CA_ST_CM_0022_Description" korean="<R_Y>전통복 다솜(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 다솜(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0023_Name" korean="하카나스 학생복(7일)" />
+	<block key="CA_ST_CM_0023_Description" korean="<R_Y>하카나스 학생복(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 학생복(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0024_Name" korean="하카나스 학생복(30일)" />
+	<block key="CA_ST_CM_0024_Description" korean="<R_Y>하카나스 학생복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 학생복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0025_Name" korean="페가수스 예복(7일)" />
+	<block key="CA_ST_CM_0025_Description" korean="<R_Y>페가수스 예복(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>페가수스 예복(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0026_Name" korean="페가수스 예복(30일)" />
+	<block key="CA_ST_CM_0026_Description" korean="<R_Y>페가수스 예복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>페가수스 예복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0027_Name" korean="왕국 연수복(7일)" />
+	<block key="CA_ST_CM_0027_Description" korean="<R_Y>왕국 연수복(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>왕국 연수복(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0028_Name" korean="왕국 연수복(30일)" />
+	<block key="CA_ST_CM_0028_Description" korean="<R_Y>왕국 연수복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>왕국 연수복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0029_Name" korean="하카나스 예복(7일)" />
+	<block key="CA_ST_CM_0029_Description" korean="<R_Y>하카나스 예복(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 예복(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0030_Name" korean="하카나스 예복(30일)" />
+	<block key="CA_ST_CM_0030_Description" korean="<R_Y>하카나스 예복(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 예복(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0031_Name" korean="라비니 의상(7일)" />
+	<block key="CA_ST_CM_0031_Description" korean="<R_Y>라비니 의상(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>라비니 의상(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0032_Name" korean="라비니 의상(30일)" />
+	<block key="CA_ST_CM_0032_Description" korean="<R_Y>라비니 의상(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>라비니 의상(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0033_Name" korean="제복 마티니" />
+	<block key="CA_ST_CM_0034_Name" korean="제복 마티니(7일)" />
+	<block key="CA_ST_CM_0034_Description" korean="<R_Y>제복 마티니(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>제복 마티니(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0035_Name" korean="제복 마티니(30일)" />
+	<block key="CA_ST_CM_0035_Description" korean="<R_Y>제복 마티니(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>제복 마티니(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0036_Name" korean="밀리터리 엑스" />
+	<block key="CA_ST_CM_0037_Name" korean="밀리터리 엑스(7일)" />
+	<block key="CA_ST_CM_0037_Description" korean="<R_Y>밀리터리 엑스(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>밀리터리 엑스(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0038_Name" korean="밀리터리 엑스(30일)" />
+	<block key="CA_ST_CM_0038_Description" korean="<R_Y>밀리터리 엑스(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>밀리터리 엑스(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0039_Name" korean="페가수스 예복(15일)" />
+	<block key="CA_ST_CM_0039_Description" korean="<R_Y>페가수스 예복(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>페가수스 예복(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0040_Name" korean="하카나스 예복(15일)" />
+	<block key="CA_ST_CM_0040_Description" korean="<R_Y>하카나스 예복(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 예복(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0041_Name" korean="하카나스 학생복(15일)" />
+	<block key="CA_ST_CM_0041_Description" korean="<R_Y>하카나스 학생복(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 학생복(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0042_Name" korean="왕국 연수복(15일)" />
+	<block key="CA_ST_CM_0042_Description" korean="<R_Y>왕국 연수복(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>왕국 연수복(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0043_Name" korean="라비니 의상(15일)" />
+	<block key="CA_ST_CM_0043_Description" korean="<R_Y>라비니 의상(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>라비니 의상(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0044_Name" korean="제복 마티니(15일)" />
+	<block key="CA_ST_CM_0044_Description" korean="<R_Y>제복 마티니(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>제복 마티니(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0045_Name" korean="밀리터리 엑스(15일)" />
+	<block key="CA_ST_CM_0045_Description" korean="<R_Y>밀리터리 엑스(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>밀리터리 엑스(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0006_Name" korean="빨강 마녀 모자(4시간)" />
+	<block key="EV_ST_CM_0006_Description" korean="<R_Y>빨강 마녀 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>빨강 마녀 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0007_Name" korean="초록 마녀 모자(4시간)" />
+	<block key="EV_ST_CM_0007_Description" korean="<R_Y>초록마녀 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>초록마녀 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0008_Name" korean="주황 마녀 모자(4시간)" />
+	<block key="EV_ST_CM_0008_Description" korean="<R_Y>주황 마녀 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>주황 마녀 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0009_Name" korean="멋진 호박 모자(4시간)" />
+	<block key="EV_ST_CM_0009_Description" korean="<R_Y>멋진 호박 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>멋진 호박 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0010_Name" korean="슬픈 호박 모자(4시간)" />
+	<block key="EV_ST_CM_0010_Description" korean="<R_Y>슬픈 호박 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>슬픈 호박 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0011_Name" korean="즐거운 호박 모자(4시간)" />
+	<block key="EV_ST_CM_0011_Description" korean="<R_Y>즐거운 호박 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>즐거운 호박 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0012_Name" korean="호박 모자(4시간)" />
+	<block key="EV_ST_CM_0012_Description" korean="<R_Y>호박 모자(4시간)은 4시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>호박 모자(4시간)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0013_Name" korean="하얀 해골 의상" />
+	<block key="EV_ST_CM_0014_Name" korean="파란 해골 의상" />
+	<block key="CA_ST_CM_0046_Name" korean="블랙 뱀파이어(7일)" />
+	<block key="CA_ST_CM_0046_Description" korean="<R_Y>블랙 뱀파이어(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>블랙 뱀파이어(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0047_Name" korean="블랙 뱀파이어(30일)" />
+	<block key="CA_ST_CM_0047_Description" korean="<R_Y>블랙 뱀파이어(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>블랙 뱀파이어(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0048_Name" korean="화이트 뱀파이어(7일)" />
+	<block key="CA_ST_CM_0048_Description" korean="<R_Y>화이트 뱀파이어(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>화이트 뱀파이어(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0049_Name" korean="화이트 뱀파이어(30일)" />
+	<block key="CA_ST_CM_0049_Description" korean="<R_Y>화이트 뱀파이어(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>화이트 뱀파이어(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0015_Name" korean="블랙 뱀파이어(3일)" />
+	<block key="EV_ST_CM_0015_Description" korean="<R_Y>블랙 뱀파이어(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>블랙 뱀파이어(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0016_Name" korean="화이트 뱀파이어(3일)" />
+	<block key="EV_ST_CM_0016_Description" korean="<R_Y>화이트 뱀파이어(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>화이트 뱀파이어(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0017_Name" korean="레드 선셋(3일)" />
+	<block key="EV_ST_CM_0017_Description" korean="<R_Y>레드 선셋(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 선셋(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0018_Name" korean="블루 스카이(3일)" />
+	<block key="EV_ST_CM_0018_Description" korean="<R_Y>블루 스카이(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 스카이(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0019_Name" korean="화이트 썸머(3일)" />
+	<block key="EV_ST_CM_0019_Description" korean="<R_Y>화이트 썸머(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+화이트 썸머(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0020_Name" korean="그린 하와이안(3일)" />
+	<block key="EV_ST_CM_0020_Description" korean="<R_Y>그린 하와이안(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 하와이안(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0021_Name" korean="전통복 다솜(3일)" />
+	<block key="EV_ST_CM_0021_Description" korean="<R_Y>전통복 다솜(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 다솜(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0022_Name" korean="전통복 아라(3일)" />
+	<block key="EV_ST_CM_0022_Description" korean="<R_Y>전통복 아라(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>전통복 아라(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0023_Name" korean="불사의 사막 여우" />
+	<block key="EV_ST_CM_0024_Name" korean="하카나스 예복(7일)" />
+	<block key="EV_ST_CM_0024_Description" korean="<R_Y>하카나스 예복(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하카나스 예복(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0050_Name" korean="크리스마스 파티(7일)" />
+	<block key="CA_ST_CM_0050_Description" korean="<R_Y>크리스마스 파티(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>크리스마스 파티(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0051_Name" korean="크리스마스 파티(30일)" />
+	<block key="CA_ST_CM_0051_Description" korean="<R_Y>크리스마스 파티(30일)은 30일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>크리스마스 파티(30일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="EV_ST_CM_0025_Name" korean="루돌프 의상(3일)" />
+	<block key="EV_ST_CM_0025_Description" korean="<R_Y>루돌프 의상(3일)은 3일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>루돌프 의상(3일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0052_Name" korean="흰고양이" />
+	<block key="CA_ST_CM_0053_Name" korean="검정 고양이" />
+	<block key="CA_ST_CM_0054_Name" korean="하얀 해골 의상(15일)" />
+	<block key="CA_ST_CM_0054_Description" korean="<R_Y>하얀 해골 의상(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하얀 해골 의상(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0055_Name" korean="파란 해골 의상(15일)" />
+	<block key="CA_ST_CM_0055_Description" korean="<R_Y>파란 해골 의상(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>파란 해골 의상(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0056_Name" korean="블랙 뱀파이어(15일)" />
+	<block key="CA_ST_CM_0056_Description" korean="<R_Y>블랙 뱀파이어(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>블랙 뱀파이어(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0057_Name" korean="화이트 뱀파이어(15일)" />
+	<block key="CA_ST_CM_0057_Description" korean="<R_Y>화이트 뱀파이어(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>화이트 뱀파이어(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0058_Name" korean="레드 선셋(15일)" />
+	<block key="CA_ST_CM_0058_Description" korean="<R_Y>레드 선셋(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 선셋(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0059_Name" korean="블루 스카이(15일)" />
+	<block key="CA_ST_CM_0059_Description" korean="<R_Y>블루 스카이(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 스카이(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0060_Name" korean="화이트 썸머(15일)" />
+	<block key="CA_ST_CM_0060_Description" korean="<R_Y>화이트 썸머(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+화이트 썸머(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0061_Name" korean="그린 하와이안(15일)" />
+	<block key="CA_ST_CM_0061_Description" korean="<R_Y>그린 하와이안(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 하와이안(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0062_Name" korean="그린 오리엔탈(15일)" />
+	<block key="CA_ST_CM_0062_Description" korean="<R_Y>그린 오리엔탈(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 오리엔탈(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0063_Name" korean="블루 오리엔탈(15일)" />
+	<block key="CA_ST_CM_0063_Description" korean="<R_Y>블루 오리엔탈(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 오리엔탈(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0064_Name" korean="레드 오리엔탈(15일)" />
+	<block key="CA_ST_CM_0064_Description" korean="<R_Y>레드 오리엔탈(15일)은 15일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 오리엔탈(15일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0065_Name" korean="하얀 해골 의상(7일)" />
+	<block key="CA_ST_CM_0065_Description" korean="<R_Y>하얀 해골 의상(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>하얀 해골 의상(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0066_Name" korean="파란 해골 의상(7일)" />
+	<block key="CA_ST_CM_0066_Description" korean="<R_Y>파란 해골 의상(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.<br>파란 해골 의상(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0067_Name" korean="그린 오리엔탈(7일)" />
+	<block key="CA_ST_CM_0067_Description" korean="<R_Y>그린 오리엔탈(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+그린 오리엔탈(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0068_Name" korean="블루 오리엔탈(7일)" />
+	<block key="CA_ST_CM_0068_Description" korean="<R_Y>블루 오리엔탈(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+블루 오리엔탈(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="CA_ST_CM_0069_Name" korean="레드 오리엔탈(7일)" />
+	<block key="CA_ST_CM_0069_Description" korean="<R_Y>레드 오리엔탈(7일)은 7일간 착용 할 수 있으며, 이후 자동으로 사라집니다.
+레드 오리엔탈(7일)은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+</blocks>

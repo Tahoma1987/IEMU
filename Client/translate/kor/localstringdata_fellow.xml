@@ -1,0 +1,847 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="F_02_1_0007_0002_name" korean="사나운 회색 늑대" />
+	<block key="F_02_0_0309_0002_name" korean="우두머리 회색늑대" />
+	<block key="F_02_1_0007_0003_name" korean="유적지 회색 늑대" />
+	<block key="F_02_0_0309_0000_name" korean="식인 늑대 프릿샤" />
+	<block key="F_00_0_0245_0000_name" korean="페가수스" />
+	<block key="F_00_0_0245_0001_name" korean="나이트메어" />
+	<block key="F_00_0_0309_0000_name" korean="기사단 페가수스" />
+	<block key="F_03_0_0309_0001_name" korean="어둠의 그림자늑대" />
+	<block key="F_03_0_0245_0001_name" korean="애꾸눈 챠카이" />
+	<block key="F_03_0_0245_0002_name" korean="덩치 큰 흑표범" />
+	<block key="F_03_0_0309_0009_name" korean="어둠의 그림자늑대" />
+	<block key="F_03_0_0309_0010_name" korean="그림자 사냥개" />
+	<block key="F_03_0_0245_0003_name" korean="긴 발톱 흑표범" />
+	<block key="F_03_0_0245_0004_name" korean="긴 송곳니 흑표범" />
+	<block key="F_03_0_0083_0001_name" korean="우두머리 트루탄" />
+	<block key="F_03_0_0083_0003_name" korean="굶주린 불곰" />
+	<block key="F_03_0_0083_0005_name" korean="긴 발톱 불곰" />
+	<block key="F_03_0_0083_0006_name" korean="세발가락 검은 곰" />
+	<block key="F_03_0_0083_0007_name" korean="세발가락 검은 곰" />
+	<block key="F_02_1_0011_0000_name" korean="거친갈기 멧돼지" />
+	<block key="F_02_1_0011_0001_name" korean="거친갈기 멧돼지" />
+	<block key="F_02_1_0011_0002_name" korean="큰어금니 멧돼지" />
+	<block key="F_03_0_0672_0001_name" korean="성난 물소" />
+	<block key="F_03_0_0672_0002_name" korean="거친털 들소" />
+	<block key="F_03_0_0672_0003_name" korean="광폭해진 젖소" />
+	<block key="F_03_0_0672_0004_name" korean="난폭해진 황소" />
+	<block key="F_03_0_0672_0005_name" korean="난폭해진 황소" />
+	<block key="F_03_0_0309_0002_name" korean="거친 그림자 펜리스" />
+	<block key="F_04_0_0309_0000_name" korean="약삭빠른 푸른늑대" />
+	<block key="F_04_0_0309_0001_name" korean="사나운 푸른 늑대" />
+	<block key="F_04_0_0309_0002_name" korean="늑대왕 라샤카" />
+	<block key="F_51_0_0083_0000_name" korean="서리발톱 백곰" />
+	<block key="F_02_0_0676_0001_name" korean="거대거미 타슬란" />
+	<block key="F_03_0_0676_0001_name" korean="시체 거미" />
+	<block key="F_51_0_0611_0000_name" korean="서리 거미" />
+	<block key="F_02_1_0606_0002_name" korean="서리 어금니 포치" />
+	<block key="F_03_0_0672_0006_name" korean="길들여진 들소" />
+	<block key="F_03_0_0671_0001_name" korean="유적지 순록" />
+	<block key="F_03_0_0671_0002_name" korean="흰갈기 순록" />
+	<block key="F_03_0_0671_0003_name" korean="검은갈기 순록" />
+	<block key="F_03_0_0671_0005_name" korean="수정뿔 순록" />
+	<block key="F_03_0_0671_0007_name" korean="흰갈기 순록" />
+	<block key="F_03_0_0671_0008_name" korean="검은 발굽 순록" />
+	<block key="F_03_0_0671_0009_name" korean="흰 수염 로가튼" />
+	<block key="F_03_0_0692_0000_name" korean="모리네 호수 거북이" />
+	<block key="F_03_0_0769_0000_name" korean="블랙 윈드" />
+	<block key="F_03_0_0769_0001_name" korean="길들인 조랑말" />
+	<block key="F_02_1_0309_0000_name" korean="검은 늑대" />
+	<block key="F_02_0_0676_0002_name" korean="유적지 타란툴라" />
+	<block key="F_50_0_0245_0000_name" korean="마그마하운드" />
+	<block key="F_03_0_0692_0002_name" korean="라바 토르투스" />
+	<block key="F_03_0_1720_0000_name" korean="유니콘" />
+	<block key="F_03_0_0704_0001_name" korean="불새 불꽃 그림자" />
+	<block key="F_02_1_0606_0000_name" korean="광폭한 멧돼지" />
+	<block key="F_04_0_0245_0000_name" korean="설원 호랑이" />
+	<block key="F_04_0_0245_0001_name" korean="얼음 송곳니 크루거" />
+	<block key="F_04_0_0245_0002_name" korean="길들인 설원 호랑이" />
+	<block key="F_04_0_0083_0000_name" korean="흉폭한 회색곰" />
+	<block key="F_04_0_0083_0001_name" korean="광폭한 우루" />
+	<block key="F_03_0_0671_0010_name" korean="각진 뿔 순록" />
+	<block key="F_03_0_0245_0005_name" korean="이그니스 하운드" />
+	<block key="F_03_0_1715_0001_name" korean="암흑마룡 카라샤" />
+	<block key="F_02_0_0676_0003_name" korean="거대거미 파툴라" />
+	<block key="F_03_0_0704_0010_name" korean="천둥 갑옷새" />
+	<block key="F_02_1_0007_0000_name" korean="회색 늑대" />
+	<block key="F_03_0_1715_0003_name" korean="투명 드래곤" />
+	<block key="F_00_0_0001_0001_name" korean="가오리 운송선" />
+	<block key="F_03_0_1716_0000_name" korean="아루이드" />
+	<block key="F_03_0_1717_0000_name" korean="하얀 추적자" />
+	<block key="F_03_0_1718_0000_name" korean="불새 검은 폭풍" />
+	<block key="F_00_0_0001_0002_name" korean="부유고래" />
+	<block key="F_03_0_0769_0002_name" korean="전투마" />
+	<block key="F_03_0_0769_0003_name" korean="백마" />
+	<block key="F_03_0_0769_0004_name" korean="난폭한 보케플로스" />
+	<block key="F_03_0_1715_0004_name" korean="페가수스" />
+	<block key="F_03_0_1715_0005_name" korean="아리다" />
+	<block key="F_02_Liger_0001_name" korean="라이루드" />
+	<block key="F_02_Tou_0001_name" korean="스칼레다" />
+	<block key="F_02_Bsau_0001_name" korean="아론사우르스" />
+	<block key="F_04_Fdra_0001_name" korean="플로티어" />
+	<block key="F_04_Bdra_0001_name" korean="키샤르" />
+	<block key="F_02_Rhsau_0001_name" korean="바라누스" />
+	<block key="F_C01_Unic_0001_name" korean="래니티" />
+	<block key="F_03_0_0671_0004_name" korean="큰 유적지 순록" />
+	<block key="F_03_0_0671_0006_name" korean="흰갈기 순록" />
+	<block key="F_03_0_0671_0011_name" korean="순한 유적지 순록" />
+	<block key="F_03_0_0671_0012_name" korean="큰 뿔 로가슈" />
+	<block key="F_03_0_0671_0013_name" korean="큰 수정뿔 순록" />
+	<block key="F_03_0_0083_0004_name" korean="굶주린 불곰" />
+	<block key="F_03_Firebird_001_name" korean="아루이드" />
+	<block key="F_03_0_0309_0011_name" korean="어둠의 그림자늑대" />
+	<block key="F_03_0_0245_0006_name" korean="긴 송곳니 흑표범" />
+	<block key="F_03_0_0704_0011_name" korean="라에타" />
+	<block key="F_03_0_0769_0005_name" korean="저주받은 군마" />
+	<block key="F_03_0_0672_0008_name" korean="외눈박이 훈바바" />
+	<block key="F_03_0_0245_0007_name" korean="큰 이빨 흑표범" />
+	<block key="F_03_0_0672_0009_name" korean="포악한 검은 소" />
+	<block key="F_03_0_0245_0008_name" korean="거친 포효 알 샤이" />
+	<block key="F_03_0_0083_0008_name" korean="폭군 나탄" />
+	<block key="F_03_0_1715_0010_name" korean="적색 마룡 슈테른" />
+	<block key="F_03_0_0671_0014_name" korean="큰 뿔 순록" />
+	<block key="F_03_0_0704_0012_name" korean="하이에버드" />
+	<block key="F_03_0_1717_0002_name" korean="천둥 갑옷새" />
+	<block key="F_06_Ostrich_0001_name" korean="초원 타조" />
+	<block key="F_06_Eagle_0001_name" korean="팔케" />
+	<block key="F_06_Scolpi_0001_name" korean="긴꼬리 전갈" />
+	<block key="F_06_Scolpi_0002_name" korean="큰집게 전갈" />
+	<block key="F_03_bull_0001_name" korean="회색 샤우벨" />
+	<block key="F_03_Wolf_0001_name" korean="거친 흰발톱 늑대" />
+	<block key="F_03_Deer_0001_name" korean="흰눈꽃 순록" />
+	<block key="F_03_boar_0001_name" korean="흰갈기 그리바" />
+	<block key="F_14_Toucan_0001_name" korean="파란 저브저브 새" />
+	<block key="F_07_Toucan_0001_name" korean="아브리셔스" />
+	<block key="F_d08_Pega_0001_name" korean="나이트메어" />
+	<block key="F_d14_Blraba_0001_name" korean="블라바" />
+	<block key="F_c02_Brindle_0001_name" korean="호랑무늬 앵무" />
+	<block key="F_f03_Forst_0001_name" korean="서리 와이번 가이라" />
+	<block key="F_c02_Liones_0001_name" korean="리오네스" />
+	<block key="F_c02_Lion_0001_name" korean="라토라스" />
+	<block key="F_c02_Elep_0001_name" korean="코르누" />
+	<block key="F_c02_Elep_0002_name" korean="피룬" />
+	<block key="F_c02_Ddog_0001_name" korean="아드헬" />
+	<block key="F_d14_Etur_0001_name" korean="헬로나" />
+	<block key="F_d09_wolf_0001_name" korean="베나토르" />
+	<block key="F_f05_Eagle_0001_name" korean="베르사" />
+	<block key="F_f05_toucan_0001_name" korean="골드혼" />
+	<block key="F_f03_Forst_0002_name" korean="공포의 케라브" />
+	<block key="F_d03_Etur_0001_name" korean="불굴의 라하브" />
+	<block key="F_f01_leop_00_01_name" korean="타이슈마" />
+	<block key="F_f01_leop_00_02_name" korean="슈마크" />
+	<block key="F_f01_leop_00_03_name" korean="레오슈마" />
+	<block key="F_f03_Casp_0001_name" korean="캐스퍼트" />
+	<block key="F_f03_Casp_0002_name" korean="맹독 캐스퍼트" />
+	<block key="F_f03_matu_0001_name" korean="문지기 마투라" />
+	<block key="F_f03_Snowleo_0001_name" korean="거친발톱 라이거" />
+	<block key="F_03_Wolf_0003_name" korean="눈보라 늑대" />
+	<block key="F_02_Tou_0003_name" korean="스칼레다" />
+	<block key="F_f01_Ybird_0001_name" korean="작은 새" />
+	<block key="F_f03_Bdra_0001_name" korean="본 슬로프" />
+	<block key="F_d04_wolf_0001_name" korean="고스트" />
+	<block key="F_d04_wolf_0002_name" korean="프로스트" />
+	<block key="F_d04_wolf_0003_name" korean="미스트" />
+	<block key="F_f03_Tou_0001_name" korean="흰 털 올빼미" />
+	<block key="F_f03_Tou_0002_name" korean="흰 털 올빼미" />
+	<block key="F_02_1_0007_0001_name" korean="회색 늑대" />
+	<block key="F_03_0_1715_0006_name" korean="암흑마룡 카라샤" />
+	<block key="F_02_Tou_0002_name" korean="스칼레다" />
+	<block key="F_02_Liger_0003_name" korean="라이루드" />
+	<block key="F_04_Fdra_0002_name" korean="플로티어" />
+	<block key="F_d02_bear_0001_name" korean="서리발톱 백곰" />
+	<block key="F_d03_Etur_0002_name" korean="불굴의 라하브" />
+	<block key="F_03_Deer_0002_name" korean="흰눈꽃 순록" />
+	<block key="F_f01_wolf_0000_name" korean="사나운 회색 늑대" />
+	<block key="F_f01_wolf_0001_name" korean="우두머리 회색늑대" />
+	<block key="F_f01_wolf_0002_name" korean="유적지 회색 늑대" />
+	<block key="F_f01_wolfel_0000_name" korean="식인 늑대 프릿샤" />
+	<block key="F_f00_leoel_0000_name" korean="호위 기사단 흑표범" />
+	<block key="F_f00_leoel_0001_name" korean="레오" />
+	<block key="F_f00_wolf_0000_name" korean="호위 기사단 늑대" />
+	<block key="F_f02_wolf_0003_name" korean="어둠의 그림자늑대" />
+	<block key="F_f02_leoel_0000_name" korean="애꾸눈 챠카이" />
+	<block key="F_f02_leo_0002_name" korean="덩치 큰 흑표범" />
+	<block key="F_f02_wolf_0006_name" korean="어둠의 그림자늑대" />
+	<block key="F_f02_wolf_0007_name" korean="그림자 사냥개" />
+	<block key="F_f02_leo_0003_name" korean="긴 발톱 흑표범" />
+	<block key="F_f02_leo_0004_name" korean="긴 송곳니 흑표범" />
+	<block key="F_f02_bearel_0000_name" korean="우두머리 트루탄" />
+	<block key="F_f02_bear_0001_name" korean="굶주린 불곰" />
+	<block key="F_f02_bear_0002_name" korean="긴 발톱 불곰" />
+	<block key="F_f02_bear_0003_name" korean="세발가락 검은 곰" />
+	<block key="F_f02_bear_0004_name" korean="세발가락 검은 곰" />
+	<block key="F_f01_boar_0000_name" korean="거친갈기 멧돼지" />
+	<block key="F_f01_boar_0001_name" korean="거친갈기 멧돼지" />
+	<block key="F_f01_boar_0003_name" korean="큰어금니 멧돼지" />
+	<block key="F_f02_bull_0001_name" korean="성난 물소" />
+	<block key="F_f02_bull_0002_name" korean="거친털 들소" />
+	<block key="F_f02_bull_0003_name" korean="광폭해진 젖소" />
+	<block key="F_f02_bull_0004_name" korean="난폭해진 황소" />
+	<block key="F_f02_bull_0005_name" korean="난폭해진 황소" />
+	<block key="F_f02_wolf_0009_name" korean="거친 그림자 펜리스" />
+	<block key="F_f03_wolf_0000_name" korean="약삭빠른 푸른늑대" />
+	<block key="F_f03_wolf_0001_name" korean="사나운 푸른 늑대" />
+	<block key="F_f03_wolfel_0000_name" korean="늑대왕 라샤카" />
+	<block key="F_f02_spid_0000_name" korean="거대거미 타슬란" />
+	<block key="F_f02_spid_0002_name" korean="시체 거미" />
+	<block key="F_d02_spid_0000_name" korean="서리 거미" />
+	<block key="F_f01_boarel_0001_name" korean="서리 어금니 포치" />
+	<block key="F_f02_bull_0006_name" korean="길들여진 들소" />
+	<block key="F_f02_rein_0000_name" korean="유적지 순록" />
+	<block key="F_f02_rein_0001_name" korean="흰갈기 순록" />
+	<block key="F_f02_rein_0002_name" korean="검은갈기 순록" />
+	<block key="F_f02_rein_0003_name" korean="수정뿔 순록" />
+	<block key="F_f02_rein_0004_name" korean="흰갈기 순록" />
+	<block key="F_f02_rein_0005_name" korean="검은 발굽 순록" />
+	<block key="F_f02_rein_0006_name" korean="흰 수염 로가튼" />
+	<block key="F_f02_etur_0000_name" korean="모리네 호수 거북이" />
+	<block key="F_f02_hors_0000_name" korean="블랙 윈드" />
+	<block key="F_f02_hors_0001_name" korean="길들인 조랑말" />
+	<block key="F_f02_wolf_0010_name" korean="검은 늑대" />
+	<block key="F_f02_spid_0005_name" korean="유적지 타란툴라" />
+	<block key="F_f02_houn_0000_name" korean="마그마하운드" />
+	<block key="F_f02_eturel_0000_name" korean="라바 토르투스" />
+	<block key="F_f02_hors_0002_name" korean="유니콘" />
+	<block key="F_f02_drag_0001_name" korean="불새 불꽃 그림자" />
+	<block key="F_f02_boar_0003_name" korean="광폭한 멧돼지" />
+	<block key="F_f03_leo_0000_name" korean="설원 호랑이" />
+	<block key="F_f03_leoel_0000_name" korean="얼음 송곳니 크루거" />
+	<block key="F_f03_leo_0001_name" korean="길들인 설원 호랑이" />
+	<block key="F_f03_bear_0000_name" korean="흉폭한 회색곰" />
+	<block key="F_f03_bearel_0000_name" korean="광폭한 우루" />
+	<block key="F_f02_rein_0007_name" korean="각진 뿔 순록" />
+	<block key="F_f02_houn_0001_name" korean="이그니스 하운드" />
+	<block key="F_f01_spid_0000_name" korean="거대거미 파툴라" />
+	<block key="F_f02_drag_0007_name" korean="붉은 갑옷새" />
+	<block key="F_f02_drag_0008_name" korean="아루이드" />
+	<block key="F_f02_drag_0009_name" korean="하얀 추적자" />
+	<block key="F_f02_drag_0010_name" korean="불새 검은 폭풍" />
+	<block key="F_f02_hors_0003_name" korean="전투마" />
+	<block key="F_f02_hors_0004_name" korean="백마" />
+	<block key="F_f02_hors_0005_name" korean="난폭한 보케플로스" />
+	<block key="F_f02_pega_0000_name" korean="페가수스" />
+	<block key="F_f02_ydrag_0000_name" korean="아리다" />
+	<block key="F_02_Bsau_0002_name" korean="아론사우르스" />
+	<block key="F_04_Bdra_0002_name" korean="키샤르" />
+	<block key="F_02_Rhsau_0002_name" korean="바라누스" />
+	<block key="F_C01_Unic_0002_name" korean="래니티" />
+	<block key="F_f02_rein_0008_name" korean="큰 유적지 순록" />
+	<block key="F_f02_rein_0009_name" korean="흰갈기 순록" />
+	<block key="F_f02_rein_0010_name" korean="순한 유적지 순록" />
+	<block key="F_f02_rein_0011_name" korean="큰 뿔 로가슈" />
+	<block key="F_f02_rein_0012_name" korean="큰 수정뿔 순록" />
+	<block key="F_f02_rein_0013_name" korean="굶주린 불곰" />
+	<block key="F_f02_firedra_0000_name" korean="아루이드" />
+	<block key="F_f02_wolf_0011_name" korean="어둠의 그림자늑대" />
+	<block key="F_f02_leo_0000_name" korean="긴 송곳니 흑표범" />
+	<block key="F_f02_drag_0011_name" korean="라에타" />
+	<block key="F_d01_hors_0000_name" korean="저주받은 군마" />
+	<block key="F_f02_bull_0008_name" korean="외눈박이 훈바바" />
+	<block key="F_f02_leo_0001_name" korean="큰 이빨 흑표범" />
+	<block key="F_f02_bull_0009_name" korean="포악한 검은 소" />
+	<block key="F_f02_leo_0005_name" korean="거친 포효 알 샤이" />
+	<block key="F_f02_bear_0005_name" korean="폭군 나탄" />
+	<block key="F_f02_drag_0012_name" korean="적색 마룡 슈테른" />
+	<block key="F_f02_rein_0014_name" korean="큰 뿔 순록" />
+	<block key="F_f02_drag_0013_name" korean="하이에버드" />
+	<block key="F_f02_drag_0014_name" korean="붉은 갑옷새" />
+	<block key="F_06_Ostrich_0002_name" korean="초원 타조" />
+	<block key="F_06_Eagle_0002_name" korean="팔케" />
+	<block key="F_06_Scolpi_0003_name" korean="긴꼬리 전갈" />
+	<block key="F_06_Scolpi_0004_name" korean="큰집게 전갈" />
+	<block key="F_03_bull_0002_name" korean="회색 샤우벨" />
+	<block key="F_03_Wolf_0002_name" korean="거친 흰발톱 늑대" />
+	<block key="F_03_boar_0004_name" korean="흰갈기 그리바" />
+	<block key="F_14_Toucan_0002_name" korean="파란 저브저브 새" />
+	<block key="F_07_Toucan_0002_name" korean="아브리셔스" />
+	<block key="F_d08_Pega_0002_name" korean="나이트메어" />
+	<block key="F_d14_Blraba_0002_name" korean="블라바" />
+	<block key="F_c02_Brindle_0002_name" korean="호랑무늬 앵무" />
+	<block key="F_f03_Forst_0003_name" korean="서리 와이번 가이라" />
+	<block key="F_c02_Liones_0002_name" korean="리오네스" />
+	<block key="F_f03_Forst_0004_name" korean="공포의 케라브" />
+	<block key="F_c02_Lion_0002_name" korean="라토라스" />
+	<block key="F_c02_Elep_0005_name" korean="코르누" />
+	<block key="F_c02_Elep_0006_name" korean="피룬" />
+	<block key="F_c02_Ddog_0002_name" korean="아드헬" />
+	<block key="F_d14_Etur_0002_name" korean="헬로나" />
+	<block key="F_d09_wolf_0002_name" korean="베나토르" />
+	<block key="F_f05_Eagle_0002_name" korean="베르사" />
+	<block key="F_f05_toucan_0002_name" korean="골드혼" />
+	<block key="F_f01_leop_0000_name" korean="타이슈마" />
+	<block key="F_f01_leop_0001_name" korean="슈마크" />
+	<block key="F_f01_leop_0002_name" korean="레오슈마" />
+	<block key="F_f01_leop_0003_name" korean="캐스퍼트" />
+	<block key="F_f03_Casp_0003_name" korean="맹독 캐스퍼트" />
+	<block key="F_f03_matu_0002_name" korean="문지기 마투라" />
+	<block key="F_f03_Snowleo_0002_name" korean="거친발톱 라이거" />
+	<block key="F_03_Wolf_0004_name" korean="눈보라 늑대" />
+	<block key="F_02_Tou_0004_name" korean="스칼레다" />
+	<block key="F_f03_Bdra_0002_name" korean="본 슬로프" />
+	<block key="F_d04_wolf_0004_name" korean="고스트" />
+	<block key="F_d04_wolf_0005_name" korean="프로스트" />
+	<block key="F_d04_wolf_0006_name" korean="미스트" />
+	<block key="F_00_0_0001_0003_name" korean="부유 고래(컷신)" />
+	<block key="F_04_Bdra_0003_name" korean="본 와이번" />
+	<block key="F_d04_AfoHors_0001_name" korean="아포칼립스" />
+	<block key="F_d04_AfoHors_0002_name" korean="아포칼립스" />
+	<block key="F_d04_AfoHors_0003_name" korean="아포칼립스" />
+	<block key="F_01_1_Garmu_0001_name" korean="가르므" />
+	<block key="F_00_Bdra_0002_name" korean="화염의 뼈 와이번" />
+	<block key="F_00_Bdra_0003_name" korean="어둠의 뼈 와이번" />
+	<block key="F_00_Drag_0000_name" korean="인디그네" />
+	<block key="F_00_Drag_0001_name" korean="빛의 드래곤" />
+	<block key="F_00_hound_0000_name" korean="아이스 하운드" />
+	<block key="F_00_hound_0001_name" korean="그리들리" />
+	<block key="F_00_Bsau_0000_name" korean="샌드 사우르스" />
+	<block key="F_00_Bsau_0001_name" korean="프로즌 사우르스" />
+	<block key="F_f00_ydrag_0000_name" korean="아크라트 초원새" />
+	<block key="F_f00_owl_0001_name" korean="흰 털 올빼미" />
+	<block key="F_f09_SkyHor_0001_name" korean="부유 해마" />
+	<block key="F_f09_SkyHor_0002_name" korean="부유 해마" />
+	<block key="F_f09_Shriek_0001_name" korean="라이닉" />
+	<block key="F_f09_Shriek_0002_name" korean="라이닉" />
+	<block key="F_00_bull_0001_name" korean="갈색 소" />
+	<block key="F_00_DragAg_0001_name" korean="붉은 마룡 아그나스" />
+	<block key="F_00_eturel_0001_name" korean="거북이타입1" />
+	<block key="F_00_eturel_0002_name" korean="레이지" />
+	<block key="F_00_horse_0001_name" korean="말 타입1" />
+	<block key="F_f00_ydrag_0001_name" korean="새끼불새 타입2" />
+	<block key="F_f00_ydrag_0002_name" korean="새끼불새 타입3" />
+	<block key="F_f07_gorilra_0001_name" korean="숲 고릴라" />
+	<block key="F_f09_Megan_0001_name" korean="악몽의 메간테스" />
+	<block key="F_00_Bdra_0004_name" korean="심연의 바이렛" />
+	<block key="F_f00_owl_0002_name" korean="흰 털 올빼미" />
+	<block key="F_f09_Megan_0002_name" korean="악몽의 메간테스" />
+	<block key="F_00_Drag_0002_Name" korean="인디그네" />
+	<block key="F_00_eturel_0003_Name" korean="레이지" />
+	<block key="F_00_Bdra_0005_name" korean="심연의 바이렛" />
+	<block key="F_00_hound_0002_name" korean="그리들리" />
+	<block key="F_02_FireBird_0001_Name" korean="아로트" />
+	<block key="F_02_FireBird_0002_Name" korean="아로트" />
+	<block key="F_f09_Shriek_0003_Name" korean="스크리머" />
+	<block key="F_f09_Shriek_0004_Name" korean="스크리머" />
+	<block key="F_f09_Fdra_0001_Name" korean="길들여진 무레네" />
+	<block key="F_f09_Fdra_0002_Name" korean="길들여진 무레네" />
+	<block key="F_F03_Icehound_0000_Name" korean="아이스 하운드" />
+	<block key="F_F03_Saurwat_0000_Name" korean="프로즌 사우르스" />
+	<block key="F_F03_Icehound_0001_Name" korean="아이스 하운드" />
+	<block key="F_F03_Saurwat_0001_Name" korean="프로즌 사우르스" />
+	<block key="F_F03_Bull_0001_Name" korean="난폭한 블래크" />
+	<block key="F_F03_Rasha_0001_Name" korean="잿빛 드라이드" />
+	<block key="F_F03_DrLight_0001_Name" korean="폭풍의 드레이크" />
+	<block key="F_F03_IceEtule_0001_Name" korean="살얼음 거북" />
+	<block key="F_F03_LeoSnow_0001_Name" korean="냉혹한 무파사" />
+	<block key="F_F03_WhiteOwl_0001_Name" korean="매서운 부리 로도스" />
+	<block key="F_F03_Reinbase_0001_Name" korean="숲지기 레디어" />
+	<block key="F_F03_WhRein_0001_Name" korean="서리꽃 레이도스" />
+	<block key="F_F03_Shriek_0001_Name" korean="혹한의 비명새" />
+	<block key="F_F03_Shriek_0002_Name" korean="마룡 스트라이거" />
+	<block key="F_F03_SpidBase_0001_Name" korean="얼음 독 거미" />
+	<block key="F_F03_Bull_0002_Name" korean="난폭한 블래크" />
+	<block key="F_F03_Rasha_0002_Name" korean="잿빛 드라이드" />
+	<block key="F_F03_DrLight_0002_Name" korean="폭풍의 드레이크" />
+	<block key="F_F03_IceEtule_0002_Name" korean="살얼음 거북" />
+	<block key="F_F03_LeoSnow_0002_Name" korean="냉혹한 무파사" />
+	<block key="F_F03_WhiteOwl_0002_Name" korean="매서운 부리 로도스" />
+	<block key="F_F03_Reinbase_0002_Name" korean="숲지기 레디어" />
+	<block key="F_F03_WhRein_0002_Name" korean="서리꽃 레이도스" />
+	<block key="F_F03_Shriek_0003_Name" korean="혹한의 비명새" />
+	<block key="F_F03_Shriek_0004_Name" korean="마룡 스트라이거" />
+	<block key="F_F03_SpidBase_0002_Name" korean="얼음 독 거미" />
+	<block key="F_F03_DrAster_0001_Name" korean="눈바람 히포그리포" />
+	<block key="F_F03_DrAster_0002_Name" korean="눈바람 히포그리포" />
+	<block key="F_00_Bsau_0002_Name" korean="프로즌 사우르스" />
+	<block key="F_00_hound_0003_Name" korean="아이스 하운드" />
+	<block key="F_f09_Shriek_0005_Name" korean="피테로" />
+	<block key="F_f09_Shriek_0006_Name" korean="피테로" />
+	<block key="F_f04_DragBone_0001_Name" korean="공허의 크라비드" />
+	<block key="F_f04_DragBone_0002_Name" korean="공허의 크라비드" />
+	<block key="F_f04_DraYoung_001_Name" korean="적빛 드라이드" />
+	<block key="F_f04_DraYoung_002_Name" korean="홍련의 레오니드" />
+	<block key="F_f04_DraYoung_003_Name" korean="은빛 슬레이드" />
+	<block key="F_f04_DraYoung_004_Name" korean="이베마" />
+	<block key="F_f04_DraYoung_005_Name" korean="적빛 드라이드" />
+	<block key="F_f04_DraYoung_006_Name" korean="홍련의 레오니드" />
+	<block key="F_f04_DraYoung_007_Name" korean="은빛 슬레이드" />
+	<block key="F_f04_DraYoung_008_Name" korean="이베마" />
+	<block key="F_f04_DraLittle_001_Name" korean="붉은뿔 갈라도쿠" />
+	<block key="F_f04_DraLittle_002_Name" korean="드라쿠" />
+	<block key="F_f04_DraLittle_003_Name" korean="검은뿔 다이노쿠" />
+	<block key="F_f04_DraLittle_004_Name" korean="라이쿠" />
+	<block key="F_f04_DraLittle_005_Name" korean="붉은뿔 갈라도쿠" />
+	<block key="F_f04_DraLittle_006_Name" korean="드라쿠" />
+	<block key="F_f04_DraLittle_007_Name" korean="검은뿔 다이노쿠" />
+	<block key="F_f04_DraLittle_008_Name" korean="라이쿠" />
+	<block key="F_f02_boar_0001_Name" korean="큰어금니 멧돼지" />
+	<block key="F_f03_firebird_0002_Name" korean="푸른 아로스" />
+	<block key="F_F03_hound_0001_Name" korean="백색의 트로이" />
+	<block key="F_F03_megan_0001_Name" korean="폭군 카라스" />
+	<block key="F_F09_Eagle_0001_Name" korean="스카너" />
+	<block key="F_F09_Eagle_0002_Name" korean="벌쳐" />
+	<block key="F_F09_owl_0001_Name" korean="검은색 올빼미" />
+	<block key="F_P01_afohorse_0001_Name" korean="논 포쎄 아포칼립스" />
+	<block key="F_P01_liger_0001_Name" korean="공포의 파이루드" />
+	<block key="F_D03_saurus_0001_Name" korean="심연의 코아트라" />
+	<block key="F_F02_Bear_0006_Name" korean="반달곰(검은색)" />
+	<block key="F_F03_Boar_0001_Name" korean="심술쟁이 그로스" />
+	<block key="F_F09_Eagle_0003_Name" korean="산호수리" />
+	<block key="F_P01_megan_0001_Name" korean="붉은색 메간테스" />
+	<block key="F_F03_DraAgnas_0001_Name" korean="광룡 파라가스" />
+	<block key="F_F04_DraCaras_0001_Name" korean="흑룡 발라크" />
+	<block key="F_P01_Dragdark_0001_Name" korean="암흑 날개 카마라" />
+	<block key="F_F03_Drawhite_0001_Name" korean="공역의 날개 페무토" />
+	<block key="F_F03_WhitBird_0001_Name" korean="하얀 날개 아마란스" />
+	<block key="F_F02_FloWhite_0001_Name" korean="흰수염 화이트티어" />
+	<block key="F_P01_Etutle_0001_Name" korean="검은색 거북이" />
+	<block key="F_F04_blackuni_0001_Name" korean="플루토" />
+	<block key="F_F04_Matura_0001_Name" korean="달빛 루시퍼트" />
+	<block key="F_F03_Pegasus_0001_Name" korean="푸른 날개 블레이드" />
+	<block key="F_F03_Saurus_0001_Name" korean="스노비시" />
+	<block key="F_P01_Seahors_0001_Name" korean="궁극의 드라우프" />
+	<block key="F_F09_Toucan_0001_Name" korean="이보크" />
+	<block key="F_F03_Ybird_0001_Name" korean="알비노 아벤느" />
+	<block key="F_P01_Ybird_0001_Name" korean="엔비" />
+	<block key="F_F09_Ybird_0001_Name" korean="아벤느" />
+	<block key="F_F09_Ybird_0002_Name" korean="아라이크" />
+	<block key="F_F02_Ybird_0001_Name" korean="금빛 날개 아브라스" />
+	<block key="F_f03_firebird_0003_Name" korean="푸른 아로스" />
+	<block key="F_F03_hound_0002_Name" korean="백색의 트로이" />
+	<block key="F_F03_megan_0002_Name" korean="폭군 카라스" />
+	<block key="F_F09_Eagle_0004_Name" korean="스카너" />
+	<block key="F_F09_Eagle_0005_Name" korean="벌쳐" />
+	<block key="F_F09_owl_0002_Name" korean="검은색 올빼미" />
+	<block key="F_P01_afohorse_0002_Name" korean="논 포쎄 아포칼립스" />
+	<block key="F_P01_liger_0002_Name" korean="공포의 파이루드" />
+	<block key="F_D03_saurus_0002_Name" korean="심연의 코아트라" />
+	<block key="F_F02_Bear_0007_Name" korean="반달곰(검은색)" />
+	<block key="F_F03_Boar_0002_Name" korean="심술쟁이 그로스" />
+	<block key="F_F09_Eagle_0006_Name" korean="산호수리" />
+	<block key="F_P01_megan_0002_Name" korean="붉은색 메간테스" />
+	<block key="F_F03_DraAgnas_0002_Name" korean="광룡 파라가스" />
+	<block key="F_F04_DraCaras_0002_Name" korean="흑룡 발라크" />
+	<block key="F_P01_Dragdark_0002_Name" korean="암흑 날개 카마라" />
+	<block key="F_F03_Drawhite_0002_Name" korean="공역의 날개 페무토" />
+	<block key="F_F03_WhitBird_0002_Name" korean="하얀 날개 아마란스" />
+	<block key="F_F02_FloWhite_0002_Name" korean="흰수염 화이트티어" />
+	<block key="F_P01_Etutle_0002_Name" korean="검은색 거북이" />
+	<block key="F_F04_blackuni_0002_Name" korean="플루토" />
+	<block key="F_F04_Matura_0002_Name" korean="달빛 루시퍼트" />
+	<block key="F_F03_Pegasus_0002_Name" korean="푸른 날개 블레이드" />
+	<block key="F_F03_Saurus_0002_Name" korean="스노비시" />
+	<block key="F_P01_Seahors_0002_Name" korean="궁극의 드라우프" />
+	<block key="F_F09_Toucan_0002_Name" korean="이보크" />
+	<block key="F_F03_Ybird_0002_Name" korean="알비노 아벤느" />
+	<block key="F_P01_Ybird_0002_Name" korean="엔비" />
+	<block key="F_F09_Ybird_0003_Name" korean="아벤느" />
+	<block key="F_F09_Ybird_0004_Name" korean="아라이크" />
+	<block key="F_F02_Ybird_0002_Name" korean="금빛 날개 아브라스" />
+	<block key="F_p01_blahorse_0001_Name" korean="다크호스" />
+	<block key="F_02_1_0606_0003_Name" korean="서리 어금니 포치" />
+	<block key="F_01_1_Garmu_0002_Name" korean="가르므" />
+	<block key="F_01_1_Garmu_0003_Name" korean="가르므" />
+	<block key="F_03_0_0769_0006_Name" korean="전투마" />
+	<block key="F_03_0_0769_0007_Name" korean="백마" />
+	<block key="F_03_0_0769_0008_Name" korean="난폭한 보케플로스" />
+	<block key="F_03_0_0672_0007_Name" korean="길들여진 들소" />
+	<block key="F_04_0_0245_0003_Name" korean="길들인 설원 호랑이" />
+	<block key="F_F02_Leo_0006_Name" korean="긴 송곳니 흑표범" />
+	<block key="F_F02_Leo_0007_Name" korean="긴 송곳니 흑표범" />
+	<block key="F_F02_Bull_0007_Name" korean="성난 물소" />
+	<block key="F_F02_Bull_0010_Name" korean="성난 물소" />
+	<block key="F_D02_Bear_0002_Name" korean="서리발톱 백곰" />
+	<block key="F_D02_Bear_0003_Name" korean="서리발톱 백곰" />
+	<block key="F_f04_Drag_0000_Name" korean="파나메르" />
+	<block key="F_f04_Drag_0001_Name" korean="파나메르" />
+	<block key="F_f03_Wolf_0002_Name" korean="흰발톱 늑대" />
+	<block key="F_f03_Wolf_0003_Name" korean="흰발톱 늑대" />
+	<block key="F_P01_DraLittle_001_Name" korean="러스트" />
+	<block key="F_P01_DraLittle_002_Name" korean="러스트" />
+	<block key="F_C01_Bear_0001_Name" korean="반달곰 바크" />
+	<block key="F_C01_Bear_0002_Name" korean="초원 불곰" />
+	<block key="F_C01_Horse_0001_Name" korean="루시티" />
+	<block key="F_C01_Horse_0002_Name" korean="마이티" />
+	<block key="F_C01_Horse_0003_Name" korean="명마 바리오스" />
+	<block key="F_C01_Rein_0001_Name" korean="초원 순록" />
+	<block key="F_C01_Rein_0002_Name" korean="용감한 토니카이" />
+	<block key="F_C01_Leo_0001_Name" korean="배고픈 표범" />
+	<block key="F_C01_Leo_0002_Name" korean="잔인한 스카" />
+	<block key="F_C01_Tou_0001_Name" korean="창공의 윈드러너" />
+	<block key="F_C01_Bear_0003_Name" korean="반달곰 바크" />
+	<block key="F_C01_Bear_0004_Name" korean="초원 불곰" />
+	<block key="F_C01_Horse_0004_Name" korean="루시티" />
+	<block key="F_C01_Horse_0005_Name" korean="마이티" />
+	<block key="F_C01_Horse_0006_Name" korean="명마 바리오스" />
+	<block key="F_C01_Rein_0003_Name" korean="초원 순록" />
+	<block key="F_C01_Rein_0004_Name" korean="용감한 토니카이" />
+	<block key="F_C01_Leo_0003_Name" korean="배고픈 표범" />
+	<block key="F_C01_Leo_0004_Name" korean="잔인한 스카" />
+	<block key="F_C01_Tou_0002_Name" korean="창공의 윈드러너" />
+	<block key="F_F04_Eagle_0001_name" korean="호로스" />
+	<block key="F_F04_Tou_0001_name" korean="아즈라다" />
+	<block key="F_F04_Shirek_0001_name" korean="암흑 비명새" />
+	<block key="F_F04_FloatDra_0001_name" korean="블래티어" />
+	<block key="F_F04_DragFros_0001_name" korean="은빛 서리 와이번" />
+	<block key="F_F04_Eagle_0002_name" korean="호로스" />
+	<block key="F_F04_Tou_0002_name" korean="아즈라다" />
+	<block key="F_F04_Shirek_0002_name" korean="암흑 비명새" />
+	<block key="F_F04_FloatDra_0002_name" korean="블래티어" />
+	<block key="F_F04_DragFros_0002_name" korean="은빛 서리 와이번" />
+	<block key="F_00_DragAg_0002_name" korean="붉은 마룡 아그나스" />
+	<block key="F_00_Rapter_0000_name" korean="스케론" />
+	<block key="F_00_Rapter_0001_name" korean="스케론" />
+	<block key="F_f02_firebird_0000_name" korean="아리아드" />
+	<block key="F_f02_firebird_0001_name" korean="아리아드" />
+	<block key="F_f03_RashDrag_0001_name" korean="천둥 갑옷 제피로스" />
+	<block key="F_f03_RashDrag_0002_name" korean="천둥 갑옷 제피로스" />
+	<block key="F_F02_Lidrag_0001_name" korean="청색 마룡 크테른" />
+	<block key="F_F02_Lidrag_0002_name" korean="청색 마룡 크테른" />
+	<block key="F_f00_Elqfairy_0001_name" korean="요정 여왕 엘퀴네스" />
+	<block key="F_f00_Rynorex_0001_name" korean="간수장 렉스" />
+	<block key="F_f00_Bragie_0001_name" korean="브라기 족장" />
+	<block key="F_f00_ghost_0001_name" korean="고대 유적지 관리자" />
+	<block key="F_f00_Bragie_0002_name" korean="브라기 샤먼" />
+	<block key="F_f00_Bragie_0003_name" korean="브라기 사냥꾼" />
+	<block key="F_f00_Bragie_0004_name" korean="브라기 전투병" />
+	<block key="F_f00_Bragie_0005_name" korean="브라기 용사" />
+	<block key="F_f00_Bragie_0006_name" korean="브라기 약탈 용사" />
+	<block key="F_f00_Rynogua_0001_name" korean="라이노 경비병" />
+	<block key="F_f00_Spirwood_0001_name" korean="나무 요정" />
+	<block key="F_f00_ghost_0002_name" korean="고대 유적지 유령" />
+	<block key="F_f00_ydrag_0003_name" korean="길들인 참새" />
+	<block key="F_f00_ydrag_0004_name" korean="길들인 참새" />
+	<block key="F_f00_Spirwood_0002_name" korean="하카나스 나무 요정" />
+	<block key="F_f00_DraLittle_001_name" korean="붉은기운의 라이쿠" />
+	<block key="F_f00_DraLittle_002_name" korean="붉은기운의 라이쿠" />
+	<block key="F_f00_Carlreang_001_name" korean="암흑사도 카를레앙" />
+	<block key="F_f00_matucon_001_name" korean="대장장이 마투콘틴" />
+	<block key="F_f00_Iren_001_name" korean="혹한의 아이렌" />
+	<block key="F_f00_Guste_001_name" korean="요리사 구스트" />
+	<block key="F_f00_StoneOcto_001_name" korean="바위 문어" />
+	<block key="F_f00_Snowmagic_001_name" korean="설인 주술사" />
+	<block key="F_f00_mweattack_001_name" korean="늑대인간 사냥꾼" />
+	<block key="F_f00_firegolem_001_name" korean="화염바위 경비병" />
+	<block key="F_f05_Phonix_0001_name" korean="디아길" />
+	<block key="F_f05_Phonix_0002_name" korean="디아길" />
+	<block key="F_f05_SnRabbit_0001_name" korean="눈꽃 토끼" />
+	<block key="F_f05_SnRabbit_0002_name" korean="눈꽃 토끼" />
+	<block key="F_f05_Griffon_0001_name" korean="그리폰" />
+	<block key="F_f05_Griffon_0002_name" korean="그리폰" />
+	<block key="F_f05_Griffon_0003_name" korean="공허의 카고일" />
+	<block key="F_f05_Griffon_0004_name" korean="공허의 카고일" />
+	<block key="F_f05_Griffon_0005_name" korean="여명의 카고일" />
+	<block key="F_f05_Griffon_0006_name" korean="여명의 카고일" />
+	<block key="F_f05_Griffon_0007_name" korean="그리폰3" />
+	<block key="F_f05_Griffon_0008_name" korean="그리폰3" />
+	<block key="F_f05_Kingbat_0001_name" korean="대왕 박쥐" />
+	<block key="F_f05_Kingbat_0002_name" korean="대왕 박쥐" />
+	<block key="F_f07_gorilra_0002_name" korean="숲 고릴라" />
+	<block key="F_f07_gorilra_0003_name" korean="고릴라1" />
+	<block key="F_f07_gorilra_0004_name" korean="고릴라1" />
+	<block key="F_f07_gorilra_0005_name" korean="고릴라2" />
+	<block key="F_f07_gorilra_0006_name" korean="고릴라2" />
+	<block key="F_F05_Scolpi_0001_name" korean="대왕 집게 전갈" />
+	<block key="F_F05_Scolpi_0002_name" korean="대왕 집게 전갈" />
+	<block key="F_00_Whale_0001_name" korean="공허의 레토른시아" />
+	<block key="F_F04_WhiteOwl_0001_name" korean="강철 발톱 로커스" />
+	<block key="F_F04_WhiteOwl_0002_name" korean="강철 발톱 로커스" />
+	<block key="F_F04_DrLight_0001_name" korean="거친 바람 슬레이브" />
+	<block key="F_F04_DrLight_0002_name" korean="거친 바람 슬레이브" />
+	<block key="F_d22_Night_0001_name" korean="고스트 엠브라" />
+	<block key="F_d22_Night_0002_name" korean="고스트 엠브라" />
+	<block key="F_d22_Pega_0001_name" korean="고스트 마스토" />
+	<block key="F_d22_Pega_0002_name" korean="고스트 마스토" />
+	<block key="F_f04_GLtlDra_0001_name" korean="황금 라이쿠" />
+	<block key="F_f04_GLtlDra_0002_name" korean="황금 라이쿠" />
+	<block key="F_F04_DrRaba00_0001_name" korean="영광의 블라바" />
+	<block key="F_F04_DrRaba00_0002_name" korean="영광의 블라바" />
+	<block key="F_F04_DrRaba01_0001_name" korean="영광의 블라바" />
+	<block key="F_F04_DrRaba01_0002_name" korean="영광의 블라바" />
+	<block key="F_F04_YDra00_0001_name" korean="명예의 쥬레니온" />
+	<block key="F_F04_YDra00_0002_name" korean="명예의 쥬레니온" />
+	<block key="F_F04_YDra01_0001_name" korean="명예의 쥬레니온" />
+	<block key="F_F04_YDra01_0002_name" korean="명예의 쥬레니온" />
+	<block key="F_F04_YDra02_0001_name" korean="명예의 쥬레니온" />
+	<block key="F_F04_YDra02_0002_name" korean="명예의 쥬레니온" />
+	<block key="F_F04_YDra03_0001_name" korean="명예의 쥬레니온" />
+	<block key="F_F04_YDra03_0002_name" korean="명예의 쥬레니온" />
+	<block key="F_F05_YCasp00_0001_name" korean="은총의 캐스퍼트" />
+	<block key="F_F05_Ycasp00_0002_name" korean="은총의 캐스퍼트" />
+	<block key="F_F05_Ycasp01_0001_name" korean="은총의 캐스퍼트" />
+	<block key="F_F05_Ycasp01_0002_name" korean="은총의 캐스퍼트" />
+	<block key="F_F05_Ycasp02_0001_name" korean="은총의 캐스퍼트" />
+	<block key="F_F05_Ycasp02_0002_name" korean="은총의 캐스퍼트" />
+	<block key="F_f04_Beldon_0001_name" korean="불사의 벨던" />
+	<block key="F_f04_Beldon_0002_name" korean="불사의 벨던" />
+	<block key="F_f00_Santin_001_name" korean="설인 대장 산틴" />
+	<block key="F_f00_Jeranin_001_name" korean="무자비한 제라닌" />
+	<block key="F_f00_Devy_001_name" korean="데비" />
+	<block key="F_f00_Jepeto_001_name" korean="환술사 제페토" />
+	<block key="F_f00_SklKnight_001_name" korean="해골 기사단장" />
+	<block key="F_f00_SHunter_001_name" korean="설인 사낭꾼" />
+	<block key="F_f00_Midget_001_name" korean="카브임 폭파병" />
+	<block key="F_f00_Hatchling_001_name" korean="새끼 불꽃용" />
+	<block key="F_04_Tasla_0001_name" korean="아바르네" />
+	<block key="F_04_Tasla_0002_name" korean="아바르네" />
+	<block key="F_f05_FatOwl_0001_name" korean="뚱빼미" />
+	<block key="F_f05_FatOwl_0002_name" korean="뚱빼미" />
+	<block key="F_F05_ThdDrag_0001_name" korean="번개 드래곤" />
+	<block key="F_F05_ThdDrag_0002_name" korean="번개 드래곤" />
+	<block key="F_04_IcePega_001_name" korean="아이샤의 하미온" />
+	<block key="F_04_IcePega_002_name" korean="아이샤의 하미온" />
+	<block key="F_04_FirePega_001_name" korean="극염의 칼립토" />
+	<block key="F_04_FirePega_002_name" korean="극염의 칼립토" />
+	<block key="F_04_DarkPega_001_name" korean="암흑의 데모너스" />
+	<block key="F_04_DarkPega_002_name" korean="암흑의 데모너스" />
+	<block key="F_f00_Ashuram_001_name" korean="여명의 아슈람" />
+	<block key="F_f00_Ashuram_002_name" korean="공허의 아슈람" />
+	<block key="F_f00_Bismute_001_name" korean="여명의 비스무트" />
+	<block key="F_f00_Bismute_002_name" korean="공허의 비스무트" />
+	<block key="F_f00_Skalion_001_name" korean="여명의 스칼리온" />
+	<block key="F_f00_Skalion_002_name" korean="공허의 스칼리온" />
+	<block key="F_f00_Poseina_001_name" korean="여명의 포세이나" />
+	<block key="F_f00_Poseina_002_name" korean="공허의 포세이나" />
+	<block key="F_f05_BatKSnd_001_Name" korean="황금의 샤키바" />
+	<block key="F_f05_BatKSnd_002_Name" korean="황금의 샤키바" />
+	<block key="F_f05_BatSnd_001_Name" korean="금빛의 키바렌" />
+	<block key="F_f05_BatSnd_002_Name" korean="금빛의 키바렌" />
+	<block key="F_f05_ThdDrag_001_Name" korean="천둥 드래곤 톨루스" />
+	<block key="F_f05_ThdDrag_002_Name" korean="천둥 드래곤 톨루스" />
+	<block key="F_f05_GriffonGr_001_Name" korean="백은의 챠누스" />
+	<block key="F_f05_GriffonGr_002_Name" korean="백은의 챠누스" />
+	<block key="F_f05_BigScrop_001_Name" korean="독액의 베가루스" />
+	<block key="F_f05_BigScrop_002_Name" korean="독액의 베가루스" />
+	<block key="F_f05_FatOwl00_001_Name" korean="영광의 포요" />
+	<block key="F_f05_FatOwl00_002_Name" korean="영광의 포요" />
+	<block key="F_f05_CaspCat_001_Name" korean="신기루의 파노스" />
+	<block key="F_f05_CaspCat_002_Name" korean="신기루의 파노스" />
+	<block key="F_f05_LTurt00_001_Name" korean="지혜의 데바" />
+	<block key="F_f05_LTurt00_002_Name" korean="지혜의 데바" />
+	<block key="F_f05_Ceras00_001_Name" korean="불꽃의 타라쿠" />
+	<block key="F_f05_Ceras00_002_Name" korean="불꽃의 타라쿠" />
+	<block key="F_f05_Raptor00_001_Name" korean="긴 뿔의 바쟌" />
+	<block key="F_f05_Raptor00_002_Name" korean="긴 뿔의 바쟌" />
+	<block key="F_f05_FatOwl01_001_Name" korean="영리한 토로" />
+	<block key="F_f05_FatOwl01_002_Name" korean="영리한 토로" />
+	<block key="F_f05_Hydra00_001_Name" korean="괴력의 러티쉬" />
+	<block key="F_f05_Hydra00_002_Name" korean="괴력의 러티쉬" />
+	<block key="F_f05_Hydra01_001_Name" korean="마력의 라디쉬" />
+	<block key="F_f05_Hydra01_002_Name" korean="마력의 라디쉬" />
+	<block key="F_f05_Hydra02_001_Name" korean="타락의 로데쉬" />
+	<block key="F_f05_Hydra02_002_Name" korean="타락의 로데쉬" />
+	<block key="F_f05_BoneCru00_001_Name" korean="썩지 않는 본 애쉬" />
+	<block key="F_f05_BoneCru00_002_Name" korean="썩지 않는 본 애쉬" />
+	<block key="F_f05_GoldHorn_001_Name" korean="그리폰" />
+	<block key="F_f05_GoldHorn_002_Name" korean="그리폰" />
+	<block key="F_f05_SndMatura_001_Name" korean="열사의 마튜라" />
+	<block key="F_f05_SndMatura_002_Name" korean="열사의 마튜라" />
+	<block key="F_f05_Ceras01_001_Name" korean="도스라쿠" />
+	<block key="F_f05_Ceras01_002_Name" korean="도스라쿠" />
+	<block key="F_f05_FatOwl02_001_Name" korean="피요" />
+	<block key="F_f05_FatOwl02_002_Name" korean="피요" />
+	<block key="F_f05_SandSaurs_001_Name" korean="모래의 덴바" />
+	<block key="F_f05_SandSaurs_002_Name" korean="모래의 덴바" />
+	<block key="F_f05_DeadBear_001_Name" korean="저주받은 탈리온" />
+	<block key="F_f05_DeadBear_002_Name" korean="저주받은 탈리온" />
+	<block key="F_f05_DeadBull_001_Name" korean="저주받은 트레반" />
+	<block key="F_f05_DeadBull_002_Name" korean="저주받은 트레반" />
+	<block key="F_f05_DeadWolf_001_Name" korean="저주받은 코반" />
+	<block key="F_f05_DeadWolf_002_Name" korean="저주받은 코반" />
+	<block key="F_f05_SandTurt_001_Name" korean="사막거북이" />
+	<block key="F_f05_SandTurt_002_Name" korean="사막거북이" />
+	<block key="F_f05_SandCroco_001_Name" korean="바다 악어" />
+	<block key="F_f05_SandCroco_002_Name" korean="바다 악어" />
+	<block key="F_f05_LTurt01_001_Name" korean="알리바" />
+	<block key="F_f05_LTurt01_002_Name" korean="알리바" />
+	<block key="F_f05_BoneCru01_001_Name" korean="본 크루거" />
+	<block key="F_f05_BoneCru01_002_Name" korean="본 크루거" />
+	<block key="F_f05_BoneCru02_001_Name" korean="본 슬래쉬" />
+	<block key="F_f05_BoneCru02_002_Name" korean="본 슬래쉬" />
+	<block key="F_f05_Eagle00_001_Name" korean="대머리 독수리" />
+	<block key="F_f05_Eagle00_002_Name" korean="대머리 독수리" />
+	<block key="F_f05_SandLeop_001_Name" korean="사막 표범" />
+	<block key="F_f05_SandLeop_002_Name" korean="사막 표범" />
+	<block key="F_f05_SandSpid_001_Name" korean="사막 거미" />
+	<block key="F_f05_SandSpid_002_Name" korean="사막 거미" />
+	<block key="F_f05_Scorp00_001_Name" korean="집게 전갈" />
+	<block key="F_f05_Scorp00_002_Name" korean="집게 전갈" />
+	<block key="F_f05_Scorp01_001_Name" korean="독침 전갈" />
+	<block key="F_f05_Scorp01_002_Name" korean="독침 전갈" />
+	<block key="F_f05_Raptor01_001_Name" korean="바쟈닌" />
+	<block key="F_f05_Raptor01_002_Name" korean="바쟈닌" />
+	<block key="F_f05_Kangroo00_001_Name" korean="침스" />
+	<block key="F_f05_Kangroo00_002_Name" korean="침스" />
+	<block key="F_f05_Rhino00_001_Name" korean="라쿠" />
+	<block key="F_f05_Rhino00_002_Name" korean="라쿠" />
+	<block key="F_f05_Chocobo_001_Name" korean="트리티" />
+	<block key="F_f05_Chocobo_002_Name" korean="트리티" />
+	<block key="F_F05_DragRaba_001_Name" korean="돌연변이 그리폰" />
+	<block key="F_F05_DragRaba_002_Name" korean="돌연변이 그리폰" />
+	<block key="F_f00_Rondo_001_Name" korean="여명의 론도" />
+	<block key="F_f00_Rondo_002_Name" korean="공허의 론도" />
+	<block key="F_f00_Keron_001_Name" korean="여명의 케르온" />
+	<block key="F_f00_Keron_002_Name" korean="공허의 케르온" />
+	<block key="F_f00_Baranak_001_Name" korean="여명의 바라나크" />
+	<block key="F_f00_Baranak_002_Name" korean="공허의 바라나크" />
+	<block key="F_f00_Rabini_001_Name" korean="여명의 라비니" />
+	<block key="F_f00_Rabini_002_Name" korean="공허의 라비니" />
+	<block key="F_f00_GRondo_001_Name" korean="축 여명의 론도" />
+	<block key="F_f00_GRondo_002_Name" korean="축 공허의 론도" />
+	<block key="F_f00_GKeron_001_Name" korean="축 여명의 케르온" />
+	<block key="F_f00_GKeron_002_Name" korean="축 공허의 케르온" />
+	<block key="F_f00_GBaranak_001_Name" korean="축 여명의 바라나크" />
+	<block key="F_f00_GBaranak_002_Name" korean="축 공허의 바라나크" />
+	<block key="F_f00_GRabini_001_Name" korean="축 여명의 라비니" />
+	<block key="F_f00_GRabini_002_Name" korean="축 공허의 라비니" />
+	<block key="F_00_WhaleRed_0001_Name" korean="황혼의 그라비온" />
+	<block key="F_P01_Atan_0001_Name" korean="아탄" />
+	<block key="F_P01_Atan_0002_Name" korean="아탄" />
+	<block key="F_P01_Berite_0001_Name" korean="베리트" />
+	<block key="F_P01_Berite_0002_Name" korean="베리트" />
+	<block key="F_P01_Karnin_0001_Name" korean="카르닌" />
+	<block key="F_P01_Karnin_0002_Name" korean="카르닌" />
+	<block key="F_F03_BoarPoch_0001_Name" korean="칼날 어금니 파루치" />
+	<block key="F_F03_Shteren_0001_Name" korean="홍염의 슈테란" />
+	<block key="F_F03_Kteren_0001_Name" korean="쪽빛의 크테란" />
+	<block key="F_F03_BoarPoch_0002_Name" korean="칼날 어금니 파루치" />
+	<block key="F_F03_Shteren_0002_Name" korean="홍염의 슈테란" />
+	<block key="F_F03_Kteren_0002_Name" korean="쪽빛의 크테란" />
+	<block key="F_06_ESco_0001_Name" korean="난폭한 독침 전갈" />
+	<block key="F_06_ESco_0002_Name" korean="난폭한 집게 전갈" />
+	<block key="F_f05_SandSaurs_003_Name" korean="난폭한 사우르스" />
+	<block key="F_f05_Rhino00_003_Name" korean="난폭한 코뿔소" />
+	<block key="F_f00_Slyth_0001_Name" korean="신비한 짜루" />
+	<block key="F_f05_BoneCru03_001_Name" korean="파멸의 본 크노스" />
+	<block key="F_f05_BoneCru03_002_Name" korean="파멸의 본 크노스" />
+	<block key="F_f00_Devy0_001_Name" korean="여명의 데비" />
+	<block key="F_f00_Devy0_002_Name" korean="공허의 데비" />
+	<block key="F_f00_Carl0_001_Name" korean="여명의 카를레앙" />
+	<block key="F_f00_Carl0_002_Name" korean="공허의 카를레앙" />
+	<block key="F_f00_Jeranin0_001_Name" korean="여명의 제라닌" />
+	<block key="F_f00_Jeranin0_002_Name" korean="공허의 제라닌" />
+	<block key="F_f00_Santin0_001_Name" korean="여명의 산틴" />
+	<block key="F_f00_Santin0_002_Name" korean="공허의 산틴" />
+	<block key="F_f00_Devy1_001_Name" korean="축 여명의 데비" />
+	<block key="F_f00_Devy1_002_Name" korean="축 공허의 데비" />
+	<block key="F_f00_Carl1_001_Name" korean="축 여명의 카를레앙" />
+	<block key="F_f00_Carl1_002_Name" korean="축 공허의 카를레앙" />
+	<block key="F_f00_Jeranin1_001_Name" korean="축 여명의 제라닌" />
+	<block key="F_f00_Jeranin1_002_Name" korean="축 공허의 제라닌" />
+	<block key="F_f00_Santin1_001_Name" korean="축 여명의 산틴" />
+	<block key="F_f00_Santin1_002_Name" korean="축 공허의 산틴" />
+	<block key="F_f05_Rhino02_001_Name" korean="우노 라쿠" />
+	<block key="F_f05_Rhino02_002_Name" korean="우노 라쿠" />
+	<block key="F_f05_Boar00_001_Name" korean="사막 멧돼지" />
+	<block key="F_f05_Boar00_002_Name" korean="사막 멧돼지" />
+	<block key="F_f05_Bull00_001_Name" korean="사막 버팔로" />
+	<block key="F_f05_Bull00_002_Name" korean="사막 버팔로" />
+	<block key="F_f05_SandCroc1_001_Name" korean="오아시스 악어" />
+	<block key="F_f05_SandCroc1_002_Name" korean="오아시스 악어" />
+	<block key="F_f05_Adelake00_001_Name" korean="살육의 아델라크" />
+	<block key="F_f05_Adelake00_002_Name" korean="살육의 아델라크" />
+	<block key="F_f05_eatSpid_001_Name" korean="골짜기 식인 거미" />
+	<block key="F_f05_eatSpid_002_Name" korean="골짜기 식인 거미" />
+	<block key="F_F05_FloatDR_001_Name" korean="태양의 수호자" />
+	<block key="F_F05_FloatDR_002_Name" korean="태양의 수호자" />
+	<block key="F_f05_CaspCat01_001_Name" korean="영악한 쳐피" />
+	<block key="F_f05_CaspCat01_002_Name" korean="영악한 쳐피" />
+	<block key="F_f05_EVDevy_001_Name" korean="롤리팝 데비" />
+	<block key="F_f05_JapCat01_001_Name" korean="잿빛 고양이" />
+	<block key="F_f05_LTurt02_001_Name" korean="데니반" />
+	<block key="F_f05_LTurt02_002_Name" korean="데니반" />
+	<block key="F_06_ESco_0003_Name" korean="길들여진 전투 전갈" />
+	<block key="F_06_ESco_0004_Name" korean="길들여진 전투 전갈" />
+	<block key="F_P02_Mphonix_001_Name" korean="망각의 피니온" />
+	<block key="F_P02_Mphonix_002_Name" korean="망각의 피니온" />
+	<block key="F_P02_UGarmu_0001_Name" korean="혼돈의 마그나투" />
+	<block key="F_P02_UGarmu_0002_Name" korean="혼돈의 마그나투" />
+	<block key="F_P02_IroHors_0001_Name" korean="비애의 칼립포스" />
+	<block key="F_P02_IroHors_0002_Name" korean="비애의 칼립포스" />
+	<block key="F_P02_Ceras01_001_Name" korean="샤라쿠" />
+	<block key="F_P02_Ceras01_002_Name" korean="샤라쿠" />
+	<block key="F_P02_Garesha_001_Name" korean="고난의 쟈미롯" />
+	<block key="F_P02_Garesha_002_Name" korean="고난의 쟈미롯" />
+	<block key="F_P02_PoisCroc_001_Name" korean="포엘" />
+	<block key="F_P02_PoisCroc_002_Name" korean="포엘" />
+	<block key="F_P02_BigScrop_001_Name" korean="베미구스" />
+	<block key="F_P02_BigScrop_002_Name" korean="베미구스" />
+	<block key="F_P02_BatSnd_001_Name" korean="히바라트" />
+	<block key="F_P02_BatSnd_002_Name" korean="히바라트" />
+	<block key="F_P02_Eagle00_001_Name" korean="규리온" />
+	<block key="F_P02_Eagle00_002_Name" korean="규리온" />
+	<block key="F_P02_Firebird_001_Name" korean="쿠노스" />
+	<block key="F_P02_Firebird_002_Name" korean="쿠노스" />
+	<block key="F_P02_DrRaba_001_Name" korean="블라트" />
+	<block key="F_P02_DrRaba_002_Name" korean="블라트" />
+	<block key="F_f00_SnowMan0_001_Name" korean="여명의 눈사람" />
+	<block key="F_f00_SnowMan0_002_Name" korean="공허의 눈사람" />
+	<block key="F_f00_Izhora0_001_Name" korean="여명의 이즈호라" />
+	<block key="F_f00_Izhora0_002_Name" korean="공허의 이즈호라" />
+	<block key="F_f00_lilith0_001_Name" korean="여명의 리리스" />
+	<block key="F_f00_lilith0_002_Name" korean="공허의 리리스" />
+	<block key="F_f00_Kiis0_001_Name" korean="여명의 키이즈" />
+	<block key="F_f00_Kiis0_002_Name" korean="공허의 키이즈" />
+	<block key="F_f00_SnowMan1_001_Name" korean="축 여명의 눈사람" />
+	<block key="F_f00_SnowMan1_002_Name" korean="축 공허의 눈사람" />
+	<block key="F_f00_Izhora1_001_Name" korean="축 여명의 이즈호라" />
+	<block key="F_f00_Izhora1_002_Name" korean="축 공허의 이즈호라" />
+	<block key="F_f00_lilith1_001_Name" korean="축 여명의 리리스" />
+	<block key="F_f00_lilith1_002_Name" korean="축 공허의 리리스" />
+	<block key="F_f00_Kiis1_001_Name" korean="축 여명의 키이즈" />
+	<block key="F_f00_Kiis1_002_Name" korean="축 공허의 키이즈" />
+	<block key="F_F00_XamsDeer_001_Name" korean="루돌프" />
+	<block key="F_f00_XSnowMan_001_Name" korean="꼬마 눈사람" />
+	<block key="F_f00_XSnowMan_002_Name" korean="악동 눈사람" />
+	<block key="F_f03_DrFrBoy0_0001_Name" korean="파독의 포에리온" />
+	<block key="F_f03_DrFrBoy0_0002_Name" korean="파독의 포에리온" />
+	<block key="F_f03_DrFrBoy1_0001_Name" korean="빙설의 갈레리온" />
+	<block key="F_f03_DrFrBoy1_0002_Name" korean="빙설의 갈레리온" />
+	<block key="F_f04_DrFrBoy2_0001_Name" korean="성광의 루네리온" />
+	<block key="F_f04_DrFrBoy2_0002_Name" korean="성광의 루네리온" />
+	<block key="F_d08_BPega_0001_Name" korean="각성 나이트메어" />
+	<block key="F_d08_BPega_0002_Name" korean="각성 나이트메어" />
+	<block key="F_f09_BMegan_0001_Name" korean="각성 메간테스" />
+	<block key="F_f09_BMegan_0002_Name" korean="각성 메간테스" />
+	<block key="F_00_BBdra_0001_Name" korean="각성 바이렛" />
+	<block key="F_00_BBdra_0002_Name" korean="각성 바이렛" />
+	<block key="F_P01_Bafo_0001_Name" korean="각성 논 포쎄" />
+	<block key="F_P01_Bafo_0002_Name" korean="각성 논 포쎄" />
+	<block key="F_P01_Bliger_0001_Name" korean="각성 파이루드" />
+	<block key="F_P01_Bliger_0002_Name" korean="각성 파이루드" />
+	<block key="F_00_BDragAg_0001_Name" korean="각성 아그나스" />
+	<block key="F_00_BDragAg_0002_Name" korean="각성 아그나스" />
+	<block key="F_01_1_BGarmu_0001_Name" korean="각성 가르므" />
+	<block key="F_01_1_BGarmu_0002_Name" korean="각성 가르므" />
+	<block key="F_f03_BForst_0001_Name" korean="각성 케라브" />
+	<block key="F_f03_BForst_0002_Name" korean="각성 케라브" />
+	<block key="F_f03_BCasp_0001_Name" korean="각성 캐스퍼트" />
+	<block key="F_f03_BCasp_0002_Name" korean="각성 캐스퍼트" />
+	<block key="F_d04_Bwolf_0001_Name" korean="각성 고스트" />
+	<block key="F_d04_Bwolf_0002_Name" korean="각성 고스트" />
+	<block key="F_d04_BAfoHors_0002_Name" korean="각성 아포칼립스" />
+	<block key="F_d04_BAfoHors_0001_Name" korean="각성 아포칼립스" />
+	<block key="F_F03_Bmegan_0001_Name" korean="각성 카라스" />
+	<block key="F_F03_Bmegan_0002_Name" korean="각성 카라스" />
+	<block key="F_f05_BGriffon_0001_Name" korean="각성 여명의 카고일" />
+	<block key="F_f05_BGriffon_0002_Name" korean="각성 여명의 카고일" />
+	<block key="F_f05_BGriffon_0003_Name" korean="각성 공허의 카고일" />
+	<block key="F_f05_BGriffon_0004_Name" korean="각성 공허의 카고일" />
+	<block key="F_F03_BDrawhi_0001_Name" korean="각성 페무토" />
+	<block key="F_F03_BDrawhi_0002_Name" korean="각성 페무토" />
+	<block key="F_f04_BBeldon_0001_Name" korean="각성 벨던" />
+	<block key="F_f04_BBeldon_0002_Name" korean="각성 벨던" />
+	<block key="F_03_0_B1715_0001_Name" korean="각성 카라샤" />
+	<block key="F_03_0_B1715_0002_Name" korean="각성 카라샤" />
+	<block key="F_00_BWhale_0001_Name" korean="각성 레토른시아" />
+	<block key="F_F04_BMatura_0001_Name" korean="각성 루시퍼트" />
+	<block key="F_F04_BMatura_0002_Name" korean="각성 루시퍼트" />
+	<block key="F_F03_BDAgnas_0001_Name" korean="각성 파라가스" />
+	<block key="F_F03_BDAgnas_0002_Name" korean="각성 파라가스" />
+</blocks>

@@ -1,0 +1,16 @@
+<LOGIN_SERVER>
+	<default ip="127.0.0.1" port="5694" />
+	<direct ip="127.0.0.1" port="5694" />
+	<command ip="127.0.0.1" port="5694" />
+	<!-- Web Real Server -->
+	<web_develop ip="127.0.0.1" port="5694" />
+	<web_alpha ip="127.0.0.1" port="5694" />
+	<!-- Web Test Server -->
+	<web_uts_test ip="127.0.0.1" port="5694" />
+	<!-- Beta -->
+	<web_beta ip="127.0.0.1" port="5694" />
+	<!-- UTS -->
+	<web_uts ip="127.0.0.1" port="5694" />
+	<!-- Real -->
+	<web_service ip="127.0.0.1" port="5694" />
+</LOGIN_SERVER>

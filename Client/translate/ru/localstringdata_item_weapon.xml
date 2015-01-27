@@ -1,0 +1,1535 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="EW0_001_0_0000_Name" korean="(Старый) одной рукой меч Саран агент" />
+	<block key="EW0_003_0_0000_Name" korean="Начало Браге работников" />
+	<block key="EW0_003_0_0001_Name" korean="Brage охотники topkal" />
+	<block key="EW0_004_0_0000_Name" korean="Шашлык из мяса работников Brage" />
+	<block key="EW0_006_0_0000_Name" korean="Одноручных мечей Brage Scout" />
+	<block key="EW0_006_0_0001_Name" korean="Одноручных мечей Браге разведчиков (для расстояния)" />
+	<block key="EW0_008_0_0000_Name" korean="Одноручных мечей Commando Elite Brage" />
+	<block key="EW0_009_0_0000_Name" korean="Один двуручный меч Скелет солдата" />
+	<block key="EW0_999_0_0000_Name" korean="Расти cheolgeom (только NPC)" />
+	<block key="EW0_999_0_0001_Name" korean="Меч (только NPC)" />
+	<block key="EW0_010_0_0000_Name" korean="Кара-де-Pirate склад будучи одной рукой топор" />
+	<block key="EW0_011_0_0000_Name" korean="Главный специалист лодке далеко topkal" />
+	<block key="EW0_012_0_0000_Name" korean="Меч Pirate King в Карнаке" />
+	<block key="EW0_012_0_0001_Name" korean="Одна рука панели mureo mijok бою" />
+	<block key="EW0_013_0_0000_Name" korean="Бросив нож Кара De Pirate сторожевая башня бутылка" />
+	<block key="EW0_014_0_0000_Name" korean="Кара-де-пират пират меч матрос" />
+	<block key="EW0_014_0_0001_Name" korean="Разведывательная группа \u003cпоследователи графа\u003e Карл" />
+	<block key="EW0_014_0_0002_Name" korean="Mureo mijok в метании копья Спирмена" />
+	<block key="EW0_015_0_0000_Name" korean="Ppyeochang из Агура охоты спортсмена" />
+	<block key="EW0_016_0_0000_Name" korean="Ppyeokal главный маггловскую вид" />
+	<block key="EW0_017_0_0000_Name" korean="Одноручных мечей Череп Паладин" />
+	<block key="EW0_019_0_0000_Name" korean="Гладиатор меч в одной руке Круа Куна" />
+	<block key="EW0_020_0_0000_Name" korean="Гладиатор топор в одной руке и круассан Kuhn" />
+	<block key="EW0_021_0_0000_Name" korean="Рай руками меч" />
+	<block key="EW0_022_0_0000_Name" korean="Меч, например, Ritz" />
+	<block key="EW0_023_0_0000_Name" korean="Меч статей Темный Легион" />
+	<block key="EW0_024_0_0000_Name" korean="Меч наслоения командира Heľpa" />
+	<block key="EW0_025_0_0000_Name" korean="Меч wooranuseu" />
+	<block key="EW0_047_0_0000_Name" korean="Меч Льва Света" />
+	<block key="EW0_053_0_0000_Name" korean="Рондо двуручный меч Эрл" />
+	<block key="EW1_002_0_0000_Name" korean="Руки гарнизон адъютанта Шумахер топором" />
+	<block key="EW1_004_0_0000_Name" korean="Серп ahsyuram" />
+	<block key="EW1_012_0_0000_Name" korean="Ice бригадный генерал Рондо двуручный меч" />
+	<block key="EW2_000_0_0000_Name" korean="Mureo mijok для копья (прозрачного неорганического) Спирмена" />
+	<block key="EW2_001_0_0000_Name" korean="Окно Yeti охотников" />
+	<block key="EW2_001_0_0001_Name" korean="Окно Yeti воинов" />
+	<block key="EW2_001_0_0002_Name" korean="Rhino в боевой топор" />
+	<block key="EW2_002_0_0000_Name" korean="Кирка в рабочих Brage" />
+	<block key="EW2_002_0_0001_Name" korean="Brage топор работники" />
+	<block key="EW2_003_0_0000_Name" korean="Молот рабочих Brage" />
+	<block key="EW2_005_0_0000_Name" korean="Brage комиссар оружия" />
+	<block key="EW2_005_0_0001_Name" korean="Brage начальник вооружения (инспекторы напрягать)" />
+	<block key="EW2_005_0_0002_Name" korean="Оружие Генерального инспектора Гектора Уилкинсон" />
+	<block key="EW2_005_0_0003_Name" korean="Вампир охраняет оружия (одной рукой)" />
+	<block key="EW2_007_0_0000_Name" korean="Brage топор работники" />
+	<block key="EW2_008_0_0000_Name" korean="Работники Браге в мотыгой" />
+	<block key="EW2_009_0_0000_Name" korean="NPC охранники _ окно" />
+	<block key="EW2_010_0_0000_Name" korean="Топор Скелет солдата" />
+	<block key="EW2_011_0_0000_Name" korean="Rhino топор в одной руке бою" />
+	<block key="EW2_013_0_0000_Name" korean="Затворы воинов Yeti" />
+	<block key="EW2_015_0_0000_Name" korean="Кость палка истребитель Агура" />
+	<block key="EW2_016_0_0001_Name" korean="Scoop порывов" />
+	<block key="EW2_019_0_0000_Name" korean="Kuhn леопарда пассажирский окно Круа" />
+	<block key="EW2_020_0_0000_Name" korean="Молот кузнеца Мату kontin" />
+	<block key="EW2_022_0_0000_Name" korean="Молоток Man кузнеца (NPC)" />
+	<block key="EW2_030_0_0000_Name" korean="Муту передали гиганты Блант" />
+	<block key="EW2_033_0_0000_Name" korean="Гигант топор в одной руке sunchalbyeong" />
+	<block key="EW2_044_0_0000_Name" korean="Оружие Rex" />
+	<block key="EW2_045_0_0000_Name" korean="Ювелирные изделия молоток Дебби" />
+	<block key="EW2_046_0_0000_Name" korean="Окно ahsyuram" />
+	<block key="EW2_048_0_0000_Name" korean="Тотем Avalanche подняться Сиракузы" />
+	<block key="EW3_001_0_0001_Name" korean="Rhino в боевой топор" />
+	<block key="EW3_002_0_0001_Name" korean="В оконных решеток Rhino" />
+	<block key="EW3_002_0_0002_Name" korean="Зара берсерк топор обеими руками, а не" />
+	<block key="EW3_003_0_0000_Name" korean="Аккра божественный молоток" />
+	<block key="EW3_004_0_0000_Name" korean="Войти ветеранов Brage" />
+	<block key="EW3_005_0_0000_Name" korean="NPC охранники _ yangsonchang" />
+	<block key="EW3_005_0_0001_Name" korean="Warbringer трезубец сказал Mion" />
+	<block key="EW3_006_0_0000_Name" korean="Ice Hammer из руководителей на Корфу" />
+	<block key="EW3_007_0_0000_Name" korean="Mureo mijok бутылка штурмовой Trident" />
+	<block key="EW3_008_0_0000_Name" korean="Окно из охранников вампиров" />
+	<block key="EW3_008_0_0001_Name" korean="Решётки рекомендуется вампира" />
+	<block key="EW3_009_0_0000_Name" korean="Кирка Vampire фермера" />
+	<block key="EW3_010_0_0000_Name" korean="Двуручного дробящего Кнут Terra" />
+	<block key="EW3_011_0_0000_Name" korean="Yangsonchang панель инструментов" />
+	<block key="EW4_001_0_0000_Name" korean="Кинжал La Beanie семьи" />
+	<block key="EW4_002_0_0000_Name" korean="Ножи порывов" />
+	<block key="EW4_002_0_0001_Name" korean="Ножи вампиров женщины" />
+	<block key="EW4_011_0_9000_Name" korean="Главный специалист лодке далеко topkal (кинжал)" />
+	<block key="EW4_011_0_9001_Name" korean="Ключ Кинжал Джейсон Клермон" />
+	<block key="EW4_013_0_9000_Name" korean="Бросив нож Кара De Pirate болезнь сторожевая башня (кинжал)" />
+	<block key="EW4_013_0_9001_Name" korean="Commando \u003cГраф последователей\u003e Кинжал" />
+	<block key="EW4_028_0_0000_Name" korean="Карл Тони Клегг Key" />
+	<block key="EW4_029_0_0000_Name" korean="Рондо граф yidoryu" />
+	<block key="EW5_001_0_0000_Name" korean="Персонал Браге шамана" />
+	<block key="EW5_001_0_0001_Name" korean="Персонал святой администратора призрак" />
+	<block key="EW5_001_0_0002_Name" korean="Сурин bulgiun призрак палочка" />
+	<block key="EW5_002_0_0000_Name" korean="Персонал первосвященника озера Бернадетт" />
+	<block key="EW5_006_0_0000_Name" korean="Mureo mijok Персонал священника" />
+	<block key="EW5_006_0_0001_Name" korean="Привидениями руины древнего тростника" />
+	<block key="EW5_007_0_0000_Name" korean="Персонал Ворона" />
+	<block key="EW5_007_0_0001_Name" korean="Персонал терапевта" />
+	<block key="EW5_008_0_0000_Name" korean="Кость шамана Персонал Агура" />
+	<block key="EW5_010_0_0000_Name" korean="Сотрудники крови Шаман (мужчины)" />
+	<block key="EW5_011_0_0000_Name" korean="Персонал Матильды" />
+	<block key="EW5_012_0_0000_Name" korean="Ahyiren палочка холода" />
+	<block key="EW5_023_0_0000_Name" korean="Жнец серп" />
+	<block key="EW5_024_0_0000_Name" korean="Персонал менеджера Древние руины" />
+	<block key="EW6_000_0_0000_Name" korean="Певица Ke Персонал Плимута" />
+	<block key="EW6_006_0_0000_Name" korean="Сотрудники Kaito в 01" />
+	<block key="EW6_007_0_0000_Name" korean="Сотрудники Kaito в 02" />
+	<block key="EW6_008_0_0000_Name" korean="Сотрудники Mita Nas 01" />
+	<block key="EW6_009_0_0000_Name" korean="Сотрудники Mita Nas 02" />
+	<block key="EW6_010_0_0000_Name" korean="Персонал Камилла" />
+	<block key="EW6_011_0_0000_Name" korean="Мана Квартиры придерживаться обеими руками" />
+	<block key="EW6_015_0_0000_Name" korean="Сотрудники дежурной передал 1100" />
+	<block key="EW7_001_0_0000_Name" korean="Метательный кинжал Scout Brage (расстояние)" />
+	<block key="EW7_001_0_0001_Name" korean="Окно Yeti охотников" />
+	<block key="EW7_002_0_0001_Name" korean="Лук охотника в Brage" />
+	<block key="EW7_002_0_0002_Name" korean="Стрелок \u003cГраф последователей\u003e Лук" />
+	<block key="EW7_002_0_0003_Name" korean="Лук скелета Арчер" />
+	<block key="EW7_003_0_0000_Name" korean="Лук блеск лесные духи" />
+	<block key="EW7_004_0_0000_Name" korean="Носовая часть толстой кишки Фоссе или gungbyeong" />
+	<block key="EW7_005_0_0000_Name" korean="Лук mureo mijok gungbyeong" />
+	<block key="EW7_006_0_0000_Name" korean="Pirate King Po свечение в Карнаке" />
+	<block key="EW7_027_0_0000_Name" korean="Mureo mijok в метании копья Спирмена" />
+	<block key="EW0_034_0_ch_0000_Name" korean="NPC сельскохозяйственное оборудование 1" />
+	<block key="EW2_008_0_ch_0000_Name" korean="NPC 2 сельскохозяйственная техника (рейка)" />
+	<block key="EW3_009_0_ch_0000_Name" korean="NPC сельхозтехника 3 (kalkwi)" />
+	<block key="EW3_017_0_ch_0000_Name" korean="NPC сельскохозяйственное оборудование 4 (кирка)" />
+	<block key="EW0_035_0_0000_Name" korean="NPC нож" />
+	<block key="EW2_021_0_0000_Name" korean="NPC молоток" />
+	<block key="EW4_005_0_0000_Name" korean="Меч Ледяной бригадный генерал Рондо" />
+	<block key="EW0_026_0_0000_Name" korean="Одной рукой меч стали хранителями" />
+	<block key="EW3_012_0_0000_Name" korean="Yangsonchang ледяной замок, охрана" />
+	<block key="EW3_014_0_0000_Name" korean="Молот могучего де Бальбоа" />
+	<block key="EW5_013_0_0000_Name" korean="Маг штаба холодно" />
+	<block key="EW5_014_0_0000_Name" korean="Персонал Санкт-Мадо бутылки льда" />
+	<block key="EW7_010_0_0000_Name" korean="Носовая часть ледяной замок, Страж" />
+	<block key="EW0_027_0_0000_Name" korean="Меч Рондо" />
+	<block key="EW0_050_0_0000_Name" korean="Gstar побережье приспешники 1 двуручный меч" />
+	<block key="EW0_051_0_0000_Name" korean="Gstar побережье приспешники 2 двуручный меч" />
+	<block key="EW0_052_0_0000_Name" korean="Одноручных мечей побережье Gstar приспешников 3" />
+	<block key="EW4_028_0_0001_Name" korean="Gstar побережье приспешники кинжал 1" />
+	<block key="CW0_001_0_0000_Name" korean="Улучшенная Молот Древних" />
+	<block key="CW0_002_0_0000_Name" korean="Определение активного фея" />
+	<block key="WE0_000_0_9999_Name" korean="000_0 лобби для работы одной рукой меч" />
+	<block key="WE0_000_1_9999_Name" korean="000_1 лобби для работы одной рукой меч" />
+	<block key="WE0_000_2_9999_Name" korean="000_2 лобби для работы одной рукой меч" />
+	<block key="WE0_000_3_9999_Name" korean="000_3 лобби для работы одной рукой меч" />
+	<block key="WE0_001_0_9999_Name" korean="001_0 лобби для работы одной рукой меч" />
+	<block key="WE0_001_1_9999_Name" korean="001_1 лобби для работы одной рукой меч" />
+	<block key="WE0_001_2_9999_Name" korean="001_2 лобби для работы одной рукой меч" />
+	<block key="WE0_001_3_9999_Name" korean="001_3 лобби для работы одной рукой меч" />
+	<block key="WE0_002_0_9999_Name" korean="002_0 лобби для работы одной рукой меч" />
+	<block key="WE0_002_1_9999_Name" korean="002_1 лобби для работы одной рукой меч" />
+	<block key="WE0_002_2_9999_Name" korean="002_2 лобби для работы одной рукой меч" />
+	<block key="WE0_002_3_9999_Name" korean="002_3 лобби для работы одной рукой меч" />
+	<block key="WE0_003_0_9999_Name" korean="003_0 лобби для работы одной рукой меч" />
+	<block key="WE0_003_1_9999_Name" korean="003_1 лобби для работы одной рукой меч" />
+	<block key="WE0_003_2_9999_Name" korean="003_2 лобби для работы одной рукой меч" />
+	<block key="WE0_003_3_9999_Name" korean="003_3 лобби для работы одной рукой меч" />
+	<block key="WE0_004_0_9999_Name" korean="004_0 лобби для работы одной рукой меч" />
+	<block key="WE0_004_1_9999_Name" korean="004_1 лобби для работы одной рукой меч" />
+	<block key="WE0_004_2_9999_Name" korean="004_2 лобби для работы одной рукой меч" />
+	<block key="WE0_004_3_9999_Name" korean="004_3 лобби для работы одной рукой меч" />
+	<block key="WE0_005_0_9999_Name" korean="005_0 лобби для работы одной рукой меч" />
+	<block key="WE0_005_1_9999_Name" korean="005_1 лобби для работы одной рукой меч" />
+	<block key="WE0_005_2_9999_Name" korean="005_2 лобби для работы одной рукой меч" />
+	<block key="WE0_005_3_9999_Name" korean="005_3 лобби для работы одной рукой меч" />
+	<block key="WE0_006_0_9999_Name" korean="006_0 лобби для работы одной рукой меч" />
+	<block key="WE0_006_1_9999_Name" korean="006_1 лобби для работы одной рукой меч" />
+	<block key="WE0_006_2_9999_Name" korean="006_2 лобби для работы одной рукой меч" />
+	<block key="WE0_006_3_9999_Name" korean="006_3 лобби для работы одной рукой меч" />
+	<block key="WE0_106_0_9999_Name" korean="106_0 лобби для работы одной рукой меч" />
+	<block key="WE0_106_1_9999_Name" korean="106_1 лобби для работы одной рукой меч" />
+	<block key="WE0_106_2_9999_Name" korean="106_2 лобби для работы одной рукой меч" />
+	<block key="WE0_007_0_9999_Name" korean="007_0 лобби для работы одной рукой меч" />
+	<block key="WE0_007_1_9999_Name" korean="007_1 лобби для работы одной рукой меч" />
+	<block key="WE0_007_2_9999_Name" korean="007_2 лобби для работы одной рукой меч" />
+	<block key="WE0_007_3_9999_Name" korean="007_3 лобби для работы одной рукой меч" />
+	<block key="WE0_107_0_9999_Name" korean="107_0 лобби для работы одной рукой меч" />
+	<block key="WE0_107_1_9999_Name" korean="107_1 лобби для работы одной рукой меч" />
+	<block key="WE0_107_2_9999_Name" korean="107_2 лобби для работы одной рукой меч" />
+	<block key="WE0_008_0_9999_Name" korean="008_0 лобби для работы одной рукой меч" />
+	<block key="WE0_008_1_9999_Name" korean="008_1 лобби для работы одной рукой меч" />
+	<block key="WE0_008_2_9999_Name" korean="008_2 лобби для работы одной рукой меч" />
+	<block key="WE0_008_3_9999_Name" korean="008_3 лобби для работы одной рукой меч" />
+	<block key="WE0_108_0_9999_Name" korean="108_0 лобби для работы одной рукой меч" />
+	<block key="WE0_108_1_9999_Name" korean="108_1 лобби для работы одной рукой меч" />
+	<block key="WE0_108_2_9999_Name" korean="108_2 лобби для работы одной рукой меч" />
+	<block key="WE0_009_0_9999_Name" korean="009_0 лобби для работы одной рукой меч" />
+	<block key="WE0_009_1_9999_Name" korean="009_1 лобби для работы одной рукой меч" />
+	<block key="WE0_009_2_9999_Name" korean="009_2 лобби для работы одной рукой меч" />
+	<block key="WE0_009_3_9999_Name" korean="009_3 лобби для работы одной рукой меч" />
+	<block key="WE0_109_0_9999_Name" korean="109_0 лобби для работы одной рукой меч" />
+	<block key="WE0_109_1_9999_Name" korean="109_1 лобби для работы одной рукой меч" />
+	<block key="WE0_109_2_9999_Name" korean="109_2 лобби для работы одной рукой меч" />
+	<block key="WE0_010_0_9999_Name" korean="010_0 лобби для работы одной рукой меч" />
+	<block key="WE0_010_1_9999_Name" korean="010_1 лобби для работы одной рукой меч" />
+	<block key="WE0_010_2_9999_Name" korean="010_2 лобби для работы одной рукой меч" />
+	<block key="WE0_010_3_9999_Name" korean="010_3 лобби для работы одной рукой меч" />
+	<block key="WE0_110_0_9999_Name" korean="110_0 лобби для работы одной рукой меч" />
+	<block key="WE0_110_1_9999_Name" korean="110_1 лобби для работы одной рукой меч" />
+	<block key="WE0_110_2_9999_Name" korean="110_2 лобби для работы одной рукой меч" />
+	<block key="WE0_011_0_9999_Name" korean="011_0 лобби для работы одной рукой меч" />
+	<block key="WE0_011_1_9999_Name" korean="011_1 лобби для работы одной рукой меч" />
+	<block key="WE0_011_2_9999_Name" korean="011_2 лобби для работы одной рукой меч" />
+	<block key="WE0_011_3_9999_Name" korean="011_3 лобби для работы одной рукой меч" />
+	<block key="WE0_111_0_9999_Name" korean="111_0 лобби для работы одной рукой меч" />
+	<block key="WE0_111_1_9999_Name" korean="111_1 лобби для работы одной рукой меч" />
+	<block key="WE0_111_2_9999_Name" korean="111_2 лобби для работы одной рукой меч" />
+	<block key="WE0_012_0_9999_Name" korean="012_0 лобби для работы одной рукой меч" />
+	<block key="WE0_012_1_9999_Name" korean="012_1 лобби для работы одной рукой меч" />
+	<block key="WE0_012_2_9999_Name" korean="012_2 лобби для работы одной рукой меч" />
+	<block key="WE0_012_3_9999_Name" korean="012_3 лобби для работы одной рукой меч" />
+	<block key="WE0_112_0_9999_Name" korean="112_0 лобби для работы одной рукой меч" />
+	<block key="WE0_112_1_9999_Name" korean="112_1 лобби для работы одной рукой меч" />
+	<block key="WE0_112_2_9999_Name" korean="112_2 лобби для работы одной рукой меч" />
+	<block key="WE1_000_0_9999_Name" korean="000_0 для двуручного меча лобби" />
+	<block key="WE1_000_1_9999_Name" korean="000_1 для двуручного меча лобби" />
+	<block key="WE1_000_2_9999_Name" korean="000_2 для двуручного меча лобби" />
+	<block key="WE1_000_3_9999_Name" korean="000_3 для двуручного меча лобби" />
+	<block key="WE1_001_0_9999_Name" korean="001_0 для двуручного меча лобби" />
+	<block key="WE1_001_1_9999_Name" korean="001_1 для двуручного меча лобби" />
+	<block key="WE1_001_2_9999_Name" korean="001_2 для двуручного меча лобби" />
+	<block key="WE1_001_3_9999_Name" korean="001_3 для двуручного меча лобби" />
+	<block key="WE1_002_0_9999_Name" korean="002_0 для двуручного меча лобби" />
+	<block key="WE1_002_1_9999_Name" korean="002_1 для двуручного меча лобби" />
+	<block key="WE1_002_2_9999_Name" korean="002_2 для двуручного меча лобби" />
+	<block key="WE1_002_3_9999_Name" korean="002_3 для двуручного меча лобби" />
+	<block key="WE1_003_0_9999_Name" korean="003_0 для двуручного меча лобби" />
+	<block key="WE1_003_1_9999_Name" korean="003_1 для двуручного меча лобби" />
+	<block key="WE1_003_2_9999_Name" korean="003_2 для двуручного меча лобби" />
+	<block key="WE1_003_3_9999_Name" korean="003_3 для двуручного меча лобби" />
+	<block key="WE1_004_0_9999_Name" korean="004_0 для двуручного меча лобби" />
+	<block key="WE1_004_1_9999_Name" korean="004_1 для двуручного меча лобби" />
+	<block key="WE1_004_2_9999_Name" korean="004_2 для двуручного меча лобби" />
+	<block key="WE1_004_3_9999_Name" korean="004_3 для двуручного меча лобби" />
+	<block key="WE1_005_0_9999_Name" korean="005_0 для двуручного меча лобби" />
+	<block key="WE1_005_1_9999_Name" korean="005_1 для двуручного меча лобби" />
+	<block key="WE1_005_2_9999_Name" korean="005_2 для двуручного меча лобби" />
+	<block key="WE1_005_3_9999_Name" korean="005_3 для двуручного меча лобби" />
+	<block key="WE1_006_0_9999_Name" korean="006_0 для двуручного меча лобби" />
+	<block key="WE1_006_1_9999_Name" korean="006_1 для двуручного меча лобби" />
+	<block key="WE1_006_2_9999_Name" korean="006_2 для двуручного меча лобби" />
+	<block key="WE1_006_3_9999_Name" korean="006_3 для двуручного меча лобби" />
+	<block key="WE1_106_0_9999_Name" korean="Лобби-передала меч 106_0" />
+	<block key="WE1_106_1_9999_Name" korean="Лобби-передала меч 106_1" />
+	<block key="WE1_106_2_9999_Name" korean="Лобби-передала меч 106_2" />
+	<block key="WE1_007_0_9999_Name" korean="007_0 для двуручного меча лобби" />
+	<block key="WE1_007_1_9999_Name" korean="007_1 для двуручного меча лобби" />
+	<block key="WE1_007_2_9999_Name" korean="007_2 для двуручного меча лобби" />
+	<block key="WE1_007_3_9999_Name" korean="007_3 для двуручного меча лобби" />
+	<block key="WE1_107_0_9999_Name" korean="Лобби-передала меч 107_0" />
+	<block key="WE1_107_1_9999_Name" korean="Лобби-передала меч 107_1" />
+	<block key="WE1_107_2_9999_Name" korean="Лобби-передала меч 107_2" />
+	<block key="WE1_008_0_9999_Name" korean="008_0 для двуручного меча лобби" />
+	<block key="WE1_008_1_9999_Name" korean="008_1 для двуручного меча лобби" />
+	<block key="WE1_008_2_9999_Name" korean="008_2 для двуручного меча лобби" />
+	<block key="WE1_008_3_9999_Name" korean="008_3 для двуручного меча лобби" />
+	<block key="WE1_108_0_9999_Name" korean="Лобби-передала меч 108_0" />
+	<block key="WE1_108_1_9999_Name" korean="Лобби-передала меч 108_1" />
+	<block key="WE1_108_2_9999_Name" korean="Лобби-передала меч 108_2" />
+	<block key="WE1_009_0_9999_Name" korean="009_0 для двуручного меча лобби" />
+	<block key="WE1_009_1_9999_Name" korean="009_1 для двуручного меча лобби" />
+	<block key="WE1_009_2_9999_Name" korean="009_2 для двуручного меча лобби" />
+	<block key="WE1_009_3_9999_Name" korean="009_3 для двуручного меча лобби" />
+	<block key="WE1_109_0_9999_Name" korean="Лобби-передала меч 109_0" />
+	<block key="WE1_109_1_9999_Name" korean="Лобби-передала меч 109_1" />
+	<block key="WE1_109_2_9999_Name" korean="Лобби-передала меч 109_2" />
+	<block key="WE1_010_0_9999_Name" korean="010_0 для двуручного меча лобби" />
+	<block key="WE1_010_1_9999_Name" korean="010_1 для двуручного меча лобби" />
+	<block key="WE1_010_2_9999_Name" korean="010_2 для двуручного меча лобби" />
+	<block key="WE1_010_3_9999_Name" korean="010_3 для двуручного меча лобби" />
+	<block key="WE1_110_0_9999_Name" korean="Лобби-передала меч 110_0" />
+	<block key="WE1_110_1_9999_Name" korean="Лобби-передала меч 110_1" />
+	<block key="WE1_110_2_9999_Name" korean="Лобби-передала меч 110_2" />
+	<block key="WE1_011_0_9999_Name" korean="011_0 для двуручного меча лобби" />
+	<block key="WE1_011_1_9999_Name" korean="011_1 для двуручного меча лобби" />
+	<block key="WE1_011_2_9999_Name" korean="011_2 для двуручного меча лобби" />
+	<block key="WE1_011_3_9999_Name" korean="011_3 для двуручного меча лобби" />
+	<block key="WE1_111_0_9999_Name" korean="Лобби-передала меч 111_0" />
+	<block key="WE1_111_1_9999_Name" korean="Лобби-передала меч 111_1" />
+	<block key="WE1_111_2_9999_Name" korean="Лобби-передала меч 111_2" />
+	<block key="WE1_012_0_9999_Name" korean="012_0 для двуручного меча лобби" />
+	<block key="WE1_012_1_9999_Name" korean="012_1 для двуручного меча лобби" />
+	<block key="WE1_012_2_9999_Name" korean="012_2 для двуручного меча лобби" />
+	<block key="WE1_012_3_9999_Name" korean="012_3 для двуручного меча лобби" />
+	<block key="WE1_112_0_9999_Name" korean="Лобби-передала меч 112_0" />
+	<block key="WE1_112_1_9999_Name" korean="Лобби-передала меч 112_1" />
+	<block key="WE1_112_2_9999_Name" korean="Лобби-передала меч 112_2" />
+	<block key="WE5_000_0_9999_Name" korean="Палка с одной стороны, для лобби 000_0" />
+	<block key="WE5_000_1_9999_Name" korean="Палка с одной стороны, для лобби 000_1" />
+	<block key="WE5_000_2_9999_Name" korean="Палка с одной стороны, для лобби 000_2" />
+	<block key="WE5_000_3_9999_Name" korean="Палка с одной стороны, для лобби 000_3" />
+	<block key="WE5_001_0_9999_Name" korean="Палка с одной стороны, для лобби 001_0" />
+	<block key="WE5_001_1_9999_Name" korean="Палка с одной стороны, для лобби 001_1" />
+	<block key="WE5_001_2_9999_Name" korean="Палка с одной стороны, для лобби 001_2" />
+	<block key="WE5_001_3_9999_Name" korean="Палка с одной стороны, для лобби 001_3" />
+	<block key="WE5_002_0_9999_Name" korean="Палка с одной стороны, для лобби 002_0" />
+	<block key="WE5_002_1_9999_Name" korean="Палка с одной стороны, для лобби 002_1" />
+	<block key="WE5_002_2_9999_Name" korean="Палка с одной стороны, для лобби 002_2" />
+	<block key="WE5_002_3_9999_Name" korean="Палка с одной стороны, для лобби 002_3" />
+	<block key="WE5_003_0_9999_Name" korean="Палка с одной стороны, для лобби 003_0" />
+	<block key="WE5_003_1_9999_Name" korean="Палка с одной стороны, для лобби 003_1" />
+	<block key="WE5_003_2_9999_Name" korean="Палка с одной стороны, для лобби 003_2" />
+	<block key="WE5_003_3_9999_Name" korean="Палка с одной стороны, для лобби 003_3" />
+	<block key="WE5_004_0_9999_Name" korean="Палка с одной стороны, для лобби 004_0" />
+	<block key="WE5_004_1_9999_Name" korean="Палка с одной стороны, для лобби 004_1" />
+	<block key="WE5_004_2_9999_Name" korean="Палка с одной стороны, для лобби 004_2" />
+	<block key="WE5_004_3_9999_Name" korean="Палка с одной стороны, для лобби 004_3" />
+	<block key="WE5_005_0_9999_Name" korean="Палка с одной стороны, для лобби 005_0" />
+	<block key="WE5_005_1_9999_Name" korean="Палка с одной стороны, для лобби 005_1" />
+	<block key="WE5_005_2_9999_Name" korean="Палка с одной стороны, для лобби 005_2" />
+	<block key="WE5_005_3_9999_Name" korean="Палка с одной стороны, для лобби 005_3" />
+	<block key="WE5_006_0_9999_Name" korean="Палка с одной стороны, для лобби 006_0" />
+	<block key="WE5_006_1_9999_Name" korean="Палка с одной стороны, для лобби 006_1" />
+	<block key="WE5_006_2_9999_Name" korean="Палка с одной стороны, для лобби 006_2" />
+	<block key="WE5_006_3_9999_Name" korean="Палка с одной стороны, для лобби 006_3" />
+	<block key="WE5_106_0_9999_Name" korean="Палка с одной стороны, для лобби 106_0" />
+	<block key="WE5_106_1_9999_Name" korean="Палка с одной стороны, для лобби 106_1" />
+	<block key="WE5_106_2_9999_Name" korean="Палка с одной стороны, для лобби 106_2" />
+	<block key="WE5_007_0_9999_Name" korean="Палка с одной стороны, для лобби 007_0" />
+	<block key="WE5_007_1_9999_Name" korean="Палка с одной стороны, для лобби 007_1" />
+	<block key="WE5_007_2_9999_Name" korean="Палка с одной стороны, для лобби 007_2" />
+	<block key="WE5_007_3_9999_Name" korean="Палка с одной стороны, для лобби 007_3" />
+	<block key="WE5_107_0_9999_Name" korean="Палка с одной стороны, для лобби 107_0" />
+	<block key="WE5_107_1_9999_Name" korean="Палка с одной стороны, для лобби 107_1" />
+	<block key="WE5_107_2_9999_Name" korean="Палка с одной стороны, для лобби 107_2" />
+	<block key="WE5_008_0_9999_Name" korean="Палка с одной стороны, для лобби 008_0" />
+	<block key="WE5_008_1_9999_Name" korean="Палка с одной стороны, для лобби 008_1" />
+	<block key="WE5_008_2_9999_Name" korean="Палка с одной стороны, для лобби 008_2" />
+	<block key="WE5_008_3_9999_Name" korean="Палка с одной стороны, для лобби 008_3" />
+	<block key="WE5_108_0_9999_Name" korean="Палка с одной стороны, для лобби 108_0" />
+	<block key="WE5_108_1_9999_Name" korean="Палка с одной стороны, для лобби 108_1" />
+	<block key="WE5_108_2_9999_Name" korean="Палка с одной стороны, для лобби 108_2" />
+	<block key="WE5_009_0_9999_Name" korean="Палка с одной стороны, для лобби 009_0" />
+	<block key="WE5_009_1_9999_Name" korean="Палка с одной стороны, для лобби 009_1" />
+	<block key="WE5_009_2_9999_Name" korean="Палка с одной стороны, для лобби 009_2" />
+	<block key="WE5_009_3_9999_Name" korean="Палка с одной стороны, для лобби 009_3" />
+	<block key="WE5_109_0_9999_Name" korean="Палка с одной стороны, для лобби 109_0" />
+	<block key="WE5_109_1_9999_Name" korean="Палка с одной стороны, для лобби 109_1" />
+	<block key="WE5_109_2_9999_Name" korean="Палка с одной стороны, для лобби 109_2" />
+	<block key="WE5_010_0_9999_Name" korean="Палка с одной стороны, для лобби 010_0" />
+	<block key="WE5_010_1_9999_Name" korean="Палка с одной стороны, для лобби 010_1" />
+	<block key="WE5_010_2_9999_Name" korean="Палка с одной стороны, для лобби 010_2" />
+	<block key="WE5_010_3_9999_Name" korean="Палка с одной стороны, для лобби 010_3" />
+	<block key="WE5_110_0_9999_Name" korean="Палка с одной стороны, для лобби 110_0" />
+	<block key="WE5_110_1_9999_Name" korean="Палка с одной стороны, для лобби 110_1" />
+	<block key="WE5_110_2_9999_Name" korean="Палка с одной стороны, для лобби 110_2" />
+	<block key="WE5_011_0_9999_Name" korean="Палка с одной стороны, для лобби 011_0" />
+	<block key="WE5_011_1_9999_Name" korean="Палка с одной стороны, для лобби 011_1" />
+	<block key="WE5_011_2_9999_Name" korean="Палка с одной стороны, для лобби 011_2" />
+	<block key="WE5_011_3_9999_Name" korean="Палка с одной стороны, для лобби 011_3" />
+	<block key="WE5_111_0_9999_Name" korean="Палка с одной стороны, для лобби 111_0" />
+	<block key="WE5_111_1_9999_Name" korean="Палка с одной стороны, для лобби 111_1" />
+	<block key="WE5_111_2_9999_Name" korean="Палка с одной стороны, для лобби 111_2" />
+	<block key="WE5_012_0_9999_Name" korean="Палка с одной стороны, для лобби 012_0" />
+	<block key="WE5_012_1_9999_Name" korean="Палка с одной стороны, для лобби 012_1" />
+	<block key="WE5_012_2_9999_Name" korean="Палка с одной стороны, для лобби 012_2" />
+	<block key="WE5_012_3_9999_Name" korean="Палка с одной стороны, для лобби 012_3" />
+	<block key="WE5_112_0_9999_Name" korean="Палка с одной стороны, для лобби 112_0" />
+	<block key="WE5_112_1_9999_Name" korean="Палка с одной стороны, для лобби 112_1" />
+	<block key="WE5_112_2_9999_Name" korean="Палка с одной стороны, для лобби 112_2" />
+	<block key="WE6_000_0_9999_Name" korean="000_0 палка с обеими руками за лобби" />
+	<block key="WE6_000_1_9999_Name" korean="000_1 палка с обеими руками за лобби" />
+	<block key="WE6_000_2_9999_Name" korean="000_2 палка с обеими руками за лобби" />
+	<block key="WE6_000_3_9999_Name" korean="000_3 палка с обеими руками за лобби" />
+	<block key="WE6_001_0_9999_Name" korean="001_0 палка с обеими руками за лобби" />
+	<block key="WE6_001_1_9999_Name" korean="001_1 палка с обеими руками за лобби" />
+	<block key="WE6_001_2_9999_Name" korean="001_2 палка с обеими руками за лобби" />
+	<block key="WE6_001_3_9999_Name" korean="001_3 палка с обеими руками за лобби" />
+	<block key="WE6_002_0_9999_Name" korean="002_0 палка с обеими руками за лобби" />
+	<block key="WE6_002_1_9999_Name" korean="002_1 палка с обеими руками за лобби" />
+	<block key="WE6_002_2_9999_Name" korean="002_2 палка с обеими руками за лобби" />
+	<block key="WE6_002_3_9999_Name" korean="002_3 палка с обеими руками за лобби" />
+	<block key="WE6_003_0_9999_Name" korean="003_0 палка с обеими руками за лобби" />
+	<block key="WE6_003_1_9999_Name" korean="003_1 палка с обеими руками за лобби" />
+	<block key="WE6_003_2_9999_Name" korean="003_2 палка с обеими руками за лобби" />
+	<block key="WE6_003_3_9999_Name" korean="003_3 палка с обеими руками за лобби" />
+	<block key="WE6_004_0_9999_Name" korean="004_0 палка с обеими руками за лобби" />
+	<block key="WE6_004_1_9999_Name" korean="004_1 палка с обеими руками за лобби" />
+	<block key="WE6_004_2_9999_Name" korean="004_2 палка с обеими руками за лобби" />
+	<block key="WE6_004_3_9999_Name" korean="004_3 палка с обеими руками за лобби" />
+	<block key="WE6_005_0_9999_Name" korean="005_0 палка с обеими руками за лобби" />
+	<block key="WE6_005_1_9999_Name" korean="005_1 палка с обеими руками за лобби" />
+	<block key="WE6_005_2_9999_Name" korean="005_2 палка с обеими руками за лобби" />
+	<block key="WE6_005_3_9999_Name" korean="005_3 палка с обеими руками за лобби" />
+	<block key="WE6_006_0_9999_Name" korean="006_0 палка с обеими руками за лобби" />
+	<block key="WE6_006_1_9999_Name" korean="006_1 палка с обеими руками за лобби" />
+	<block key="WE6_006_2_9999_Name" korean="006_2 палка с обеими руками за лобби" />
+	<block key="WE6_006_3_9999_Name" korean="006_3 палка с обеими руками за лобби" />
+	<block key="WE6_106_0_9999_Name" korean="106_0 палка с обеими руками за лобби" />
+	<block key="WE6_106_1_9999_Name" korean="106_1 палка с обеими руками за лобби" />
+	<block key="WE6_106_2_9999_Name" korean="106_2 палка с обеими руками за лобби" />
+	<block key="WE6_007_0_9999_Name" korean="007_0 палка с обеими руками за лобби" />
+	<block key="WE6_007_1_9999_Name" korean="007_1 палка с обеими руками за лобби" />
+	<block key="WE6_007_2_9999_Name" korean="007_2 палка с обеими руками за лобби" />
+	<block key="WE6_007_3_9999_Name" korean="007_3 палка с обеими руками за лобби" />
+	<block key="WE6_107_0_9999_Name" korean="107_0 палка с обеими руками за лобби" />
+	<block key="WE6_107_1_9999_Name" korean="107_1 палка с обеими руками за лобби" />
+	<block key="WE6_107_2_9999_Name" korean="107_2 палка с обеими руками за лобби" />
+	<block key="WE6_008_0_9999_Name" korean="008_0 палка с обеими руками за лобби" />
+	<block key="WE6_008_1_9999_Name" korean="008_1 палка с обеими руками за лобби" />
+	<block key="WE6_008_2_9999_Name" korean="008_2 палка с обеими руками за лобби" />
+	<block key="WE6_008_3_9999_Name" korean="008_3 палка с обеими руками за лобби" />
+	<block key="WE6_108_0_9999_Name" korean="108_0 палка с обеими руками за лобби" />
+	<block key="WE6_108_1_9999_Name" korean="108_1 палка с обеими руками за лобби" />
+	<block key="WE6_108_2_9999_Name" korean="108_2 палка с обеими руками за лобби" />
+	<block key="WE6_009_0_9999_Name" korean="009_0 палка с обеими руками за лобби" />
+	<block key="WE6_009_1_9999_Name" korean="009_1 палка с обеими руками за лобби" />
+	<block key="WE6_009_2_9999_Name" korean="009_2 палка с обеими руками за лобби" />
+	<block key="WE6_009_3_9999_Name" korean="009_3 палка с обеими руками за лобби" />
+	<block key="WE6_109_0_9999_Name" korean="109_0 палка с обеими руками за лобби" />
+	<block key="WE6_109_1_9999_Name" korean="109_1 палка с обеими руками за лобби" />
+	<block key="WE6_109_2_9999_Name" korean="109_2 палка с обеими руками за лобби" />
+	<block key="WE6_010_0_9999_Name" korean="010_0 палка с обеими руками за лобби" />
+	<block key="WE6_010_1_9999_Name" korean="010_1 палка с обеими руками за лобби" />
+	<block key="WE6_010_2_9999_Name" korean="010_2 палка с обеими руками за лобби" />
+	<block key="WE6_010_3_9999_Name" korean="010_3 палка с обеими руками за лобби" />
+	<block key="WE6_110_0_9999_Name" korean="110_0 палка с обеими руками за лобби" />
+	<block key="WE6_110_1_9999_Name" korean="110_1 палка с обеими руками за лобби" />
+	<block key="WE6_110_2_9999_Name" korean="110_2 палка с обеими руками за лобби" />
+	<block key="WE6_011_0_9999_Name" korean="011_0 палка с обеими руками за лобби" />
+	<block key="WE6_011_1_9999_Name" korean="011_1 палка с обеими руками за лобби" />
+	<block key="WE6_011_2_9999_Name" korean="011_2 палка с обеими руками за лобби" />
+	<block key="WE6_011_3_9999_Name" korean="011_3 палка с обеими руками за лобби" />
+	<block key="WE6_111_0_9999_Name" korean="111_0 палка с обеими руками за лобби" />
+	<block key="WE6_111_1_9999_Name" korean="111_1 палка с обеими руками за лобби" />
+	<block key="WE6_111_2_9999_Name" korean="111_2 палка с обеими руками за лобби" />
+	<block key="WE6_012_0_9999_Name" korean="012_0 палка с обеими руками за лобби" />
+	<block key="WE6_012_1_9999_Name" korean="012_1 палка с обеими руками за лобби" />
+	<block key="WE6_012_2_9999_Name" korean="012_2 палка с обеими руками за лобби" />
+	<block key="WE6_012_3_9999_Name" korean="012_3 палка с обеими руками за лобби" />
+	<block key="WE6_112_0_9999_Name" korean="112_0 палка с обеими руками за лобби" />
+	<block key="WE6_112_1_9999_Name" korean="112_1 палка с обеими руками за лобби" />
+	<block key="WE6_112_2_9999_Name" korean="112_2 палка с обеими руками за лобби" />
+	<block key="WE4_000_0_9999_Name" korean="Кинжал лобби 000_0" />
+	<block key="WE4_000_1_9999_Name" korean="Кинжал лобби 000_1" />
+	<block key="WE4_000_2_9999_Name" korean="Кинжал лобби 000_2" />
+	<block key="WE4_000_3_9999_Name" korean="Кинжал лобби 000_3" />
+	<block key="WE4_001_0_9999_Name" korean="Кинжал лобби 001_0" />
+	<block key="WE4_001_1_9999_Name" korean="Кинжал лобби 001_1" />
+	<block key="WE4_001_2_9999_Name" korean="Кинжал лобби 001_2" />
+	<block key="WE4_001_3_9999_Name" korean="Кинжал лобби 001_3" />
+	<block key="WE4_002_0_9999_Name" korean="Кинжал лобби 002_0" />
+	<block key="WE4_002_1_9999_Name" korean="Кинжал лобби 002_1" />
+	<block key="WE4_002_2_9999_Name" korean="Кинжал лобби 002_2" />
+	<block key="WE4_002_3_9999_Name" korean="Кинжал лобби 002_3" />
+	<block key="WE4_003_0_9999_Name" korean="Кинжал лобби 003_0" />
+	<block key="WE4_003_1_9999_Name" korean="Кинжал лобби 003_1" />
+	<block key="WE4_003_2_9999_Name" korean="Кинжал лобби 003_2" />
+	<block key="WE4_003_3_9999_Name" korean="Кинжал лобби 003_3" />
+	<block key="WE4_004_0_9999_Name" korean="Кинжал лобби 004_0" />
+	<block key="WE4_004_1_9999_Name" korean="Кинжал лобби 004_1" />
+	<block key="WE4_004_2_9999_Name" korean="Кинжал лобби 004_2" />
+	<block key="WE4_004_3_9999_Name" korean="Кинжал лобби 004_3" />
+	<block key="WE4_005_0_9999_Name" korean="Кинжал лобби 005_0" />
+	<block key="WE4_005_1_9999_Name" korean="Кинжал лобби 005_1" />
+	<block key="WE4_005_2_9999_Name" korean="Кинжал лобби 005_2" />
+	<block key="WE4_005_3_9999_Name" korean="Кинжал лобби 005_3" />
+	<block key="WE4_006_0_9999_Name" korean="Кинжал лобби 006_0" />
+	<block key="WE4_006_1_9999_Name" korean="Кинжал лобби 006_1" />
+	<block key="WE4_006_2_9999_Name" korean="Кинжал лобби 006_2" />
+	<block key="WE4_006_3_9999_Name" korean="Кинжал лобби 006_3" />
+	<block key="WE4_106_0_9999_Name" korean="Кинжал лобби 106_0" />
+	<block key="WE4_106_1_9999_Name" korean="Кинжал лобби 106_1" />
+	<block key="WE4_106_2_9999_Name" korean="Кинжал лобби 106_2" />
+	<block key="WE4_007_0_9999_Name" korean="Кинжал лобби 007_0" />
+	<block key="WE4_007_1_9999_Name" korean="Кинжал лобби 007_1" />
+	<block key="WE4_007_2_9999_Name" korean="Кинжал лобби 007_2" />
+	<block key="WE4_007_3_9999_Name" korean="Кинжал лобби 007_3" />
+	<block key="WE4_107_0_9999_Name" korean="Кинжал лобби 107_0" />
+	<block key="WE4_107_1_9999_Name" korean="Кинжал лобби 107_1" />
+	<block key="WE4_107_2_9999_Name" korean="Кинжал лобби 107_2" />
+	<block key="WE4_008_0_9999_Name" korean="Кинжал лобби 008_0" />
+	<block key="WE4_008_1_9999_Name" korean="Кинжал лобби 008_1" />
+	<block key="WE4_008_2_9999_Name" korean="Кинжал лобби 008_2" />
+	<block key="WE4_008_3_9999_Name" korean="Кинжал лобби 008_3" />
+	<block key="WE4_108_0_9999_Name" korean="Кинжал лобби 108_0" />
+	<block key="WE4_108_1_9999_Name" korean="Кинжал лобби 108_1" />
+	<block key="WE4_108_2_9999_Name" korean="Кинжал лобби 108_2" />
+	<block key="WE4_009_0_9999_Name" korean="Кинжал лобби 009_0" />
+	<block key="WE4_009_1_9999_Name" korean="Кинжал лобби 009_1" />
+	<block key="WE4_009_2_9999_Name" korean="Кинжал лобби 009_2" />
+	<block key="WE4_009_3_9999_Name" korean="Кинжал лобби 009_3" />
+	<block key="WE4_109_0_9999_Name" korean="Кинжал лобби 109_0" />
+	<block key="WE4_109_1_9999_Name" korean="Кинжал лобби 109_1" />
+	<block key="WE4_109_2_9999_Name" korean="Кинжал лобби 109_2" />
+	<block key="WE4_010_0_9999_Name" korean="Кинжал лобби 010_0" />
+	<block key="WE4_010_1_9999_Name" korean="Кинжал лобби 010_1" />
+	<block key="WE4_010_2_9999_Name" korean="Кинжал лобби 010_2" />
+	<block key="WE4_010_3_9999_Name" korean="Кинжал лобби 010_3" />
+	<block key="WE4_110_0_9999_Name" korean="Кинжал лобби 110_0" />
+	<block key="WE4_110_1_9999_Name" korean="Кинжал лобби 110_1" />
+	<block key="WE4_110_2_9999_Name" korean="Кинжал лобби 110_2" />
+	<block key="WE4_011_0_9999_Name" korean="Кинжал лобби 011_0" />
+	<block key="WE4_011_1_9999_Name" korean="Кинжал лобби 011_1" />
+	<block key="WE4_011_2_9999_Name" korean="Кинжал лобби 011_2" />
+	<block key="WE4_011_3_9999_Name" korean="Кинжал лобби 011_3" />
+	<block key="WE4_111_0_9999_Name" korean="Кинжал лобби 111_0" />
+	<block key="WE4_111_1_9999_Name" korean="Кинжал лобби 111_1" />
+	<block key="WE4_111_2_9999_Name" korean="Кинжал лобби 111_2" />
+	<block key="WE4_012_0_9999_Name" korean="Кинжал лобби 012_0" />
+	<block key="WE4_012_1_9999_Name" korean="Кинжал лобби 012_1" />
+	<block key="WE4_012_2_9999_Name" korean="Кинжал лобби 012_2" />
+	<block key="WE4_012_3_9999_Name" korean="Кинжал лобби 012_3" />
+	<block key="WE4_112_0_9999_Name" korean="Кинжал лобби 112_0" />
+	<block key="WE4_112_1_9999_Name" korean="Кинжал лобби 112_1" />
+	<block key="WE4_112_2_9999_Name" korean="Кинжал лобби 112_2" />
+	<block key="WE8_000_0_9999_Name" korean="Лобби для окна 000_0" />
+	<block key="WE8_000_1_9999_Name" korean="Лобби для окна 000_1" />
+	<block key="WE8_000_2_9999_Name" korean="Лобби для окна 000_2" />
+	<block key="WE8_000_3_9999_Name" korean="Лобби для окна 000_3" />
+	<block key="WE8_001_0_9999_Name" korean="Лобби для окна 001_0" />
+	<block key="WE8_001_1_9999_Name" korean="Лобби для окна 001_1" />
+	<block key="WE8_001_2_9999_Name" korean="Лобби для окна 001_2" />
+	<block key="WE8_001_3_9999_Name" korean="Лобби для окна 001_3" />
+	<block key="WE8_002_0_9999_Name" korean="Лобби для окна 002_0" />
+	<block key="WE8_002_1_9999_Name" korean="Лобби для окна 002_1" />
+	<block key="WE8_002_2_9999_Name" korean="Лобби для окна 002_2" />
+	<block key="WE8_002_3_9999_Name" korean="Лобби для окна 002_3" />
+	<block key="WE8_003_0_9999_Name" korean="Лобби для окна 003_0" />
+	<block key="WE8_003_1_9999_Name" korean="Лобби для окна 003_1" />
+	<block key="WE8_003_2_9999_Name" korean="Лобби для окна 003_2" />
+	<block key="WE8_003_3_9999_Name" korean="Лобби для окна 003_3" />
+	<block key="WE8_004_0_9999_Name" korean="Лобби для окна 004_0" />
+	<block key="WE8_004_1_9999_Name" korean="Лобби для окна 004_1" />
+	<block key="WE8_004_2_9999_Name" korean="Лобби для окна 004_2" />
+	<block key="WE8_004_3_9999_Name" korean="Лобби для окна 004_3" />
+	<block key="WE8_005_0_9999_Name" korean="Лобби для окна 005_0" />
+	<block key="WE8_005_1_9999_Name" korean="Лобби для окна 005_1" />
+	<block key="WE8_005_2_9999_Name" korean="Лобби для окна 005_2" />
+	<block key="WE8_005_3_9999_Name" korean="Лобби для окна 005_3" />
+	<block key="WE8_006_0_9999_Name" korean="Лобби для окна 006_0" />
+	<block key="WE8_006_1_9999_Name" korean="Лобби для окна 006_1" />
+	<block key="WE8_006_2_9999_Name" korean="Лобби для окна 006_2" />
+	<block key="WE8_006_3_9999_Name" korean="Лобби для окна 006_3" />
+	<block key="WE8_106_0_9999_Name" korean="Лобби для окна 106_0" />
+	<block key="WE8_106_1_9999_Name" korean="Лобби для окна 106_1" />
+	<block key="WE8_106_2_9999_Name" korean="Лобби для окна 106_2" />
+	<block key="WE8_007_0_9999_Name" korean="Лобби для окна 007_0" />
+	<block key="WE8_007_1_9999_Name" korean="Лобби для окна 007_1" />
+	<block key="WE8_007_2_9999_Name" korean="Лобби для окна 007_2" />
+	<block key="WE8_007_3_9999_Name" korean="Лобби для окна 007_3" />
+	<block key="WE8_107_0_9999_Name" korean="Лобби для окна 107_0" />
+	<block key="WE8_107_1_9999_Name" korean="Лобби для окна 107_1" />
+	<block key="WE8_107_2_9999_Name" korean="Лобби для окна 107_2" />
+	<block key="WE8_008_0_9999_Name" korean="Лобби для окна 008_0" />
+	<block key="WE8_008_1_9999_Name" korean="Лобби для окна 008_1" />
+	<block key="WE8_008_2_9999_Name" korean="Лобби для окна 008_2" />
+	<block key="WE8_008_3_9999_Name" korean="Лобби для окна 008_3" />
+	<block key="WE8_108_0_9999_Name" korean="Лобби для окна 108_0" />
+	<block key="WE8_108_1_9999_Name" korean="Лобби для окна 108_1" />
+	<block key="WE8_108_2_9999_Name" korean="Лобби для окна 108_2" />
+	<block key="WE8_009_0_9999_Name" korean="Лобби для окна 009_0" />
+	<block key="WE8_009_1_9999_Name" korean="Лобби для окна 009_1" />
+	<block key="WE8_009_2_9999_Name" korean="Лобби для окна 009_2" />
+	<block key="WE8_009_3_9999_Name" korean="Лобби для окна 009_3" />
+	<block key="WE8_109_0_9999_Name" korean="Лобби для окна 109_0" />
+	<block key="WE8_109_1_9999_Name" korean="Лобби для окна 109_1" />
+	<block key="WE8_109_2_9999_Name" korean="Лобби для окна 109_2" />
+	<block key="WE8_010_0_9999_Name" korean="Лобби для окна 010_0" />
+	<block key="WE8_010_1_9999_Name" korean="Лобби для окна 010_1" />
+	<block key="WE8_010_2_9999_Name" korean="Лобби для окна 010_2" />
+	<block key="WE8_010_3_9999_Name" korean="Лобби для окна 010_3" />
+	<block key="WE8_110_0_9999_Name" korean="Лобби для окна 110_0" />
+	<block key="WE8_110_1_9999_Name" korean="Лобби для окна 110_1" />
+	<block key="WE8_110_2_9999_Name" korean="Лобби для окна 110_2" />
+	<block key="WE8_011_0_9999_Name" korean="Лобби для окна 011_0" />
+	<block key="WE8_011_1_9999_Name" korean="Лобби для окна 011_1" />
+	<block key="WE8_011_2_9999_Name" korean="Лобби для окна 011_2" />
+	<block key="WE8_011_3_9999_Name" korean="Лобби для окна 011_3" />
+	<block key="WE8_111_0_9999_Name" korean="Лобби для окна 111_0" />
+	<block key="WE8_111_1_9999_Name" korean="Лобби для окна 111_1" />
+	<block key="WE8_111_2_9999_Name" korean="Лобби для окна 111_2" />
+	<block key="WE8_012_0_9999_Name" korean="Лобби для окна 012_0" />
+	<block key="WE8_012_1_9999_Name" korean="Лобби для окна 012_1" />
+	<block key="WE8_012_2_9999_Name" korean="Лобби для окна 012_2" />
+	<block key="WE8_012_3_9999_Name" korean="Лобби для окна 012_3" />
+	<block key="WE8_112_0_9999_Name" korean="Лобби для окна 112_0" />
+	<block key="WE8_112_1_9999_Name" korean="Лобби для окна 112_1" />
+	<block key="WE8_112_2_9999_Name" korean="Лобби для окна 112_2" />
+	<block key="WE9_000_0_9999_Name" korean="Арбалет для лобби 000_0" />
+	<block key="WE9_000_1_9999_Name" korean="Арбалет для лобби 000_1" />
+	<block key="WE9_000_2_9999_Name" korean="Арбалет для лобби 000_2" />
+	<block key="WE9_000_3_9999_Name" korean="Арбалет для лобби 000_3" />
+	<block key="WE9_001_0_9999_Name" korean="Арбалет для лобби 001_0" />
+	<block key="WE9_001_1_9999_Name" korean="Арбалет для лобби 001_1" />
+	<block key="WE9_001_2_9999_Name" korean="Арбалет для лобби 001_2" />
+	<block key="WE9_001_3_9999_Name" korean="Арбалет для лобби 001_3" />
+	<block key="WE9_002_0_9999_Name" korean="Арбалет для лобби 002_0" />
+	<block key="WE9_002_1_9999_Name" korean="Арбалет для лобби 002_1" />
+	<block key="WE9_002_2_9999_Name" korean="Арбалет для лобби 002_2" />
+	<block key="WE9_002_3_9999_Name" korean="Арбалет для лобби 002_3" />
+	<block key="WE9_003_0_9999_Name" korean="Арбалет для лобби 003_0" />
+	<block key="WE9_003_1_9999_Name" korean="Арбалет для лобби 003_1" />
+	<block key="WE9_003_2_9999_Name" korean="Арбалет для лобби 003_2" />
+	<block key="WE9_003_3_9999_Name" korean="Арбалет для лобби 003_3" />
+	<block key="WE9_004_0_9999_Name" korean="Арбалет для лобби 004_0" />
+	<block key="WE9_004_1_9999_Name" korean="Арбалет для лобби 004_1" />
+	<block key="WE9_004_2_9999_Name" korean="Арбалет для лобби 004_2" />
+	<block key="WE9_004_3_9999_Name" korean="Арбалет для лобби 004_3" />
+	<block key="WE9_005_0_9999_Name" korean="Арбалет для лобби 005_0" />
+	<block key="WE9_005_1_9999_Name" korean="Арбалет для лобби 005_1" />
+	<block key="WE9_005_2_9999_Name" korean="Арбалет для лобби 005_2" />
+	<block key="WE9_005_3_9999_Name" korean="Арбалет для лобби 005_3" />
+	<block key="WE9_006_0_9999_Name" korean="Арбалет для лобби 006_0" />
+	<block key="WE9_006_1_9999_Name" korean="Арбалет для лобби 006_1" />
+	<block key="WE9_006_2_9999_Name" korean="Арбалет для лобби 006_2" />
+	<block key="WE9_006_3_9999_Name" korean="Арбалет для лобби 006_3" />
+	<block key="WE9_106_0_9999_Name" korean="Арбалет для лобби 106_0" />
+	<block key="WE9_106_1_9999_Name" korean="Арбалет для лобби 106_1" />
+	<block key="WE9_106_2_9999_Name" korean="Арбалет для лобби 106_2" />
+	<block key="WE9_007_0_9999_Name" korean="Арбалет для лобби 007_0" />
+	<block key="WE9_007_1_9999_Name" korean="Арбалет для лобби 007_1" />
+	<block key="WE9_007_2_9999_Name" korean="Арбалет для лобби 007_2" />
+	<block key="WE9_007_3_9999_Name" korean="Арбалет для лобби 007_3" />
+	<block key="WE9_107_0_9999_Name" korean="Арбалет для лобби 107_0" />
+	<block key="WE9_107_1_9999_Name" korean="Арбалет для лобби 107_1" />
+	<block key="WE9_107_2_9999_Name" korean="Арбалет для лобби 107_2" />
+	<block key="WE9_008_0_9999_Name" korean="Арбалет для лобби 008_0" />
+	<block key="WE9_008_1_9999_Name" korean="Арбалет для лобби 008_1" />
+	<block key="WE9_008_2_9999_Name" korean="Арбалет для лобби 008_2" />
+	<block key="WE9_008_3_9999_Name" korean="Арбалет для лобби 008_3" />
+	<block key="WE9_108_0_9999_Name" korean="Арбалет для лобби 108_0" />
+	<block key="WE9_108_1_9999_Name" korean="Арбалет для лобби 108_1" />
+	<block key="WE9_108_2_9999_Name" korean="Арбалет для лобби 108_2" />
+	<block key="WE9_009_0_9999_Name" korean="Арбалет для лобби 009_0" />
+	<block key="WE9_009_1_9999_Name" korean="Арбалет для лобби 009_1" />
+	<block key="WE9_009_2_9999_Name" korean="Арбалет для лобби 009_2" />
+	<block key="WE9_009_3_9999_Name" korean="Арбалет для лобби 009_3" />
+	<block key="WE9_109_0_9999_Name" korean="Арбалет для лобби 109_0" />
+	<block key="WE9_109_1_9999_Name" korean="Арбалет для лобби 109_1" />
+	<block key="WE9_109_2_9999_Name" korean="Арбалет для лобби 109_2" />
+	<block key="WE9_010_0_9999_Name" korean="Арбалет для лобби 010_0" />
+	<block key="WE9_010_1_9999_Name" korean="Арбалет для лобби 010_1" />
+	<block key="WE9_010_2_9999_Name" korean="Арбалет для лобби 010_2" />
+	<block key="WE9_010_3_9999_Name" korean="Арбалет для лобби 010_3" />
+	<block key="WE9_110_0_9999_Name" korean="Арбалет для лобби 110_0" />
+	<block key="WE9_110_1_9999_Name" korean="Арбалет для лобби 110_1" />
+	<block key="WE9_110_2_9999_Name" korean="Арбалет для лобби 110_2" />
+	<block key="WE9_011_0_9999_Name" korean="Арбалет для лобби 011_0" />
+	<block key="WE9_011_1_9999_Name" korean="Арбалет для лобби 011_1" />
+	<block key="WE9_011_2_9999_Name" korean="Арбалет для лобби 011_2" />
+	<block key="WE9_011_3_9999_Name" korean="Арбалет для лобби 011_3" />
+	<block key="WE9_111_0_9999_Name" korean="Арбалет для лобби 111_0" />
+	<block key="WE9_111_1_9999_Name" korean="Арбалет для лобби 111_1" />
+	<block key="WE9_111_2_9999_Name" korean="Арбалет для лобби 111_2" />
+	<block key="WE9_012_0_9999_Name" korean="Арбалет для лобби 012_0" />
+	<block key="WE9_012_1_9999_Name" korean="Арбалет для лобби 012_1" />
+	<block key="WE9_012_2_9999_Name" korean="Арбалет для лобби 012_2" />
+	<block key="WE9_012_3_9999_Name" korean="Арбалет для лобби 012_3" />
+	<block key="WE9_112_0_9999_Name" korean="Арбалет для лобби 112_0" />
+	<block key="WE9_112_1_9999_Name" korean="Арбалет для лобби 112_1" />
+	<block key="WE9_112_2_9999_Name" korean="Арбалет для лобби 112_2" />
+	<block key="WE0_014_0_0000_Name" korean="Расти cheolgeom" />
+	<block key="WE6_001_0_0000_Name" korean="Расти палка с двумя руками" />
+	<block key="WE4_017_0_0000_Name" korean="Расти кинжал" />
+	<block key="WE5_001_0_0001_Name" korean="Расти палочка в одной руке" />
+	<block key="WE1_001_0_0000_Name" korean="Расти меч обеими руками" />
+	<block key="WE7_001_0_0000_Name" korean="Расти лук" />
+	<block key="WE0_014_0_1051_Name" korean="Обычный меч" />
+	<block key="WE1_001_0_1051_Name" korean="Обычная двуручный меч" />
+	<block key="WE4_017_0_1051_Name" korean="Обычный кинжал" />
+	<block key="WE2_017_0_1051_Name" korean="Warhammer обычный" />
+	<block key="WE6_001_0_1051_Name" korean="Обычная двуручный палки" />
+	<block key="WE7_001_0_1051_Name" korean="Обычный лук" />
+	<block key="WE5_001_0_1051_Name" korean="Обычный тростниковый в одной руке" />
+	<block key="WE0_002_0_2051_Name" korean="Меч тамплиеров Shenron" />
+	<block key="WE1_002_0_2051_Name" korean="Shenron тамплиеров меч обеими руками" />
+	<block key="WE4_003_0_2051_Name" korean="Shenron тамплиеров Кинжал" />
+	<block key="WE2_027_0_2051_Name" korean="Warhammer Рыцари Shenron" />
+	<block key="WE6_002_0_2051_Name" korean="Shenron руки рыцарей тростника" />
+	<block key="WE7_004_0_2051_Name" korean="Носовая часть рыцарей Shenron" />
+	<block key="WE5_002_0_2051_Name" korean="Shenron одной стороны палочки из рыцарей" />
+	<block key="WE0_021_0_2101_Name" korean="Меч лесу" />
+	<block key="WE4_001_0_2101_Name" korean="Кинжал лесу" />
+	<block key="WE6_003_0_2101_Name" korean="Руки лесной палочки" />
+	<block key="WE7_010_0_2101_Name" korean="Лук лесу" />
+	<block key="WE1_003_0_2101_Name" korean="Меч обеими руками в лесу" />
+	<block key="WE3_010_0_2101_Name" korean="Лес Топор" />
+	<block key="WE5_003_0_2101_Name" korean="Лес тростника в одной руке" />
+	<block key="WE2_005_0_2101_Name" korean="Warhammer леса" />
+	<block key="WE0_021_0_1101_Name" korean="Полезная Меч" />
+	<block key="WE4_001_0_1101_Name" korean="Полезная кинжал" />
+	<block key="WE6_003_0_1101_Name" korean="Полезная палка с двумя руками" />
+	<block key="WE7_010_0_1101_Name" korean="Полезная лук" />
+	<block key="WE1_003_0_1101_Name" korean="Полезная двуручный меч" />
+	<block key="WE3_010_0_1101_Name" korean="Полезная боевой топор" />
+	<block key="WE5_003_0_1101_Name" korean="Полезная с одной стороны палочки" />
+	<block key="WE2_005_0_1101_Name" korean="Полезная Warhammer" />
+	<block key="WE0_015_0_2102_Name" korean="Меч фея" />
+	<block key="WE4_002_0_2102_Name" korean="Кинжал Fairy" />
+	<block key="WE6_011_0_2102_Name" korean="Руки феи палочки" />
+	<block key="WE7_003_0_2102_Name" korean="Лук фея" />
+	<block key="WE1_004_0_2102_Name" korean="Двуручный меч Fairy" />
+	<block key="WE3_020_0_2102_Name" korean="Боевой топор из фей" />
+	<block key="WE5_004_0_2102_Name" korean="Одна рука палочка" />
+	<block key="WE2_006_0_2102_Name" korean="Warhammer Fairy" />
+	<block key="WE0_015_0_1151_Name" korean="Меч общего заболевания" />
+	<block key="WE4_002_0_1151_Name" korean="Кинжал общего заболевания" />
+	<block key="WE6_011_0_1151_Name" korean="Руки общей палочки заболевания" />
+	<block key="WE7_003_0_1151_Name" korean="Лук общего заболевания" />
+	<block key="WE1_004_0_1151_Name" korean="Меч руки общего заболевания" />
+	<block key="WE3_020_0_1151_Name" korean="Боевой топор из общего заболевания" />
+	<block key="WE5_004_0_1151_Name" korean="Генеральный бутылка в одной руке палочкой" />
+	<block key="WE2_006_0_1151_Name" korean="Warhammer Генеральный бутылка" />
+	<block key="WE0_004_0_2141_Name" korean="Древний Меч Огня Голема" />
+	<block key="WE4_005_0_2141_Name" korean="Огонь Голем древний кинжал" />
+	<block key="WE6_005_0_2141_Name" korean="Древние Голем руки пламени палочки" />
+	<block key="WE7_027_0_2141_Name" korean="Носовая часть древнего голема пламени" />
+	<block key="WE1_008_0_2141_Name" korean="Двуручный меч Древний Огонь Голем" />
+	<block key="WE3_019_0_2141_Name" korean="Огонь Голем Древний боевой топор" />
+	<block key="WE5_007_0_2141_Name" korean="Персонал древнего пламени в одной руке Голема" />
+	<block key="WE2_027_0_2141_Name" korean="Warhammer Ancient Огонь Голем" />
+	<block key="WE0_007_0_2151_Name" korean="Меч рейда" />
+	<block key="WE4_015_0_2151_Name" korean="Кинжал Рейда" />
+	<block key="WE6_000_0_2151_Name" korean="Палка с обеих рук отрядом" />
+	<block key="WE7_011_0_2151_Name" korean="Лук Рейда" />
+	<block key="WE1_005_0_2151_Name" korean="Двуручный меч рейда" />
+	<block key="WE3_005_0_2151_Name" korean="Рейда Боевой топор" />
+	<block key="WE5_005_0_2151_Name" korean="Отрядом палочку в одной руке" />
+	<block key="WE2_007_0_2151_Name" korean="Warhammer рейда" />
+	<block key="WE0_007_0_2171_Name" korean="Меч делегации" />
+	<block key="WE4_015_0_2171_Name" korean="Кинжал делегации" />
+	<block key="WE6_000_0_2171_Name" korean="Делегация палки обеими руками" />
+	<block key="WE7_011_0_2171_Name" korean="Лук делегации" />
+	<block key="WE1_005_0_2171_Name" korean="Делегация передала меч" />
+	<block key="WE3_005_0_2171_Name" korean="Боевой топор делегации" />
+	<block key="WE5_005_0_2171_Name" korean="Персонал делегации передал" />
+	<block key="WE2_007_0_2171_Name" korean="Warhammer делегации" />
+	<block key="WE0_007_0_1201_Name" korean="Меч sukryeonbyeong" />
+	<block key="WE4_015_0_1201_Name" korean="Кинжал sukryeonbyeong" />
+	<block key="WE6_000_0_1201_Name" korean="Sukryeonbyeong из рук палку" />
+	<block key="WE7_011_0_1201_Name" korean="Лук sukryeonbyeong" />
+	<block key="WE1_005_0_1201_Name" korean="Меч обеими руками sukryeonbyeong" />
+	<block key="WE3_005_0_1201_Name" korean="Боевой топор из sukryeonbyeong" />
+	<block key="WE5_005_0_1201_Name" korean="Камыш в одной руке sukryeonbyeong" />
+	<block key="WE2_007_0_1201_Name" korean="Warhammer из sukryeonbyeong" />
+	<block key="WE0_029_0_2201_Name" korean="Лезвие вампира" />
+	<block key="WE4_004_0_2201_Name" korean="Кинжал вампиром" />
+	<block key="WE6_004_0_2201_Name" korean="Руки вампира придерживаться" />
+	<block key="WE7_002_0_2201_Name" korean="Лук вампиром" />
+	<block key="WE1_006_0_2201_Name" korean="Руки меч вампира" />
+	<block key="WE3_006_0_2201_Name" korean="Vampire Боевой топор" />
+	<block key="WE5_006_0_2201_Name" korean="Палочка вампира в одной руке" />
+	<block key="WE2_013_0_2201_Name" korean="Вампир из Warhammer" />
+	<block key="WE0_029_0_2202_Name" korean="Меч милиции" />
+	<block key="WE4_004_0_2202_Name" korean="Кинжал милиции" />
+	<block key="WE6_004_0_2202_Name" korean="Милиция тростника с обеих рук" />
+	<block key="WE7_002_0_2202_Name" korean="Носовая часть милиции" />
+	<block key="WE1_006_0_2202_Name" korean="Милиция передала меч" />
+	<block key="WE3_006_0_2202_Name" korean="Милиция боевой топор" />
+	<block key="WE5_006_0_2202_Name" korean="Милиция тростника в одной руке" />
+	<block key="WE2_013_0_2202_Name" korean="Милиция Warhammer" />
+	<block key="WE0_034_0_2222_Name" korean="Проклятый Меч" />
+	<block key="WE4_026_0_2222_Name" korean="Проклятый Кинжал" />
+	<block key="WE6_026_0_2222_Name" korean="Проклятый палка с двумя руками" />
+	<block key="WE7_012_0_2222_Name" korean="Проклятые лук" />
+	<block key="WE1_027_0_2222_Name" korean="Проклятый меч обеими руками" />
+	<block key="WE3_031_0_2222_Name" korean="Проклятый боевой топор" />
+	<block key="WE5_027_0_2222_Name" korean="Проклят палочка в одной руке" />
+	<block key="WE2_019_0_2222_Name" korean="Проклятый Warhammer" />
+	<block key="WE0_029_0_1251_Name" korean="Меч элитного бутылки" />
+	<block key="WE4_004_0_1251_Name" korean="Кинжал Elite бутылка" />
+	<block key="WE6_004_0_1251_Name" korean="Elite палка бутылка с обеих рук" />
+	<block key="WE7_002_0_1251_Name" korean="Elite лук бутылка" />
+	<block key="WE1_006_0_1251_Name" korean="Elite бутылка двуручный меч" />
+	<block key="WE3_006_0_1251_Name" korean="Elite бутылка Топор" />
+	<block key="WE5_006_0_1251_Name" korean="Elite Персонал бутылки в одной руке" />
+	<block key="WE6_026_0_1251_Name" korean="Warhammer Elite бутылка" />
+	<block key="WE0_003_0_2241_Name" korean="Меч гарнизона" />
+	<block key="WE4_016_0_2241_Name" korean="Кинжал гарнизона" />
+	<block key="WE6_015_0_2241_Name" korean="Стражи руки палку" />
+	<block key="WE7_013_0_2241_Name" korean="Носовая часть гарнизона" />
+	<block key="WE1_007_0_2241_Name" korean="Стражи меча обеими руками" />
+	<block key="WE3_031_0_2241_Name" korean="Гаррисон Боевой топор" />
+	<block key="WE5_008_0_2241_Name" korean="Стражи тростника в одной руке" />
+	<block key="WE2_010_0_2241_Name" korean="Стражи Warhammer" />
+	<block key="WE0_012_0_2251_Name" korean="Меч небесного свода" />
+	<block key="WE4_016_0_2251_Name" korean="Кинжал в небе" />
+	<block key="WE6_015_0_2251_Name" korean="Палка с обеими руками в небо" />
+	<block key="WE7_013_0_2251_Name" korean="Лук в небо" />
+	<block key="WE1_007_0_2251_Name" korean="Меч обеими руками в небе" />
+	<block key="WE3_008_0_2251_Name" korean="Простор боевой топор" />
+	<block key="WE5_008_0_2251_Name" korean="Палка с одной стороны, в небе" />
+	<block key="WE2_017_0_2251_Name" korean="Warhammer в небе" />
+	<block key="WE0_015_0_1141_Name" korean="Меч Облачность" />
+	<block key="WE4_002_0_1141_Name" korean="Кинжал Облачность" />
+	<block key="WE6_011_0_1141_Name" korean="Двуручный палки Сноу" />
+	<block key="WE7_003_0_1141_Name" korean="Лук снега" />
+	<block key="WE1_004_0_1141_Name" korean="Двуручный меч Сноу" />
+	<block key="WE3_020_0_1141_Name" korean="Это Снежное поле топором" />
+	<block key="WE5_004_0_1141_Name" korean="Персонал снега в одной руке" />
+	<block key="WE2_006_0_1141_Name" korean="Warhammer Облачность" />
+	<block key="WE0_006_0_3281_Name" korean="Меч холодно" />
+	<block key="WE4_018_0_3281_Name" korean="Кинжал холода" />
+	<block key="WE6_013_0_3281_Name" korean="Холодные руки тростника" />
+	<block key="WE7_006_0_3281_Name" korean="Лук холодной" />
+	<block key="WE1_009_0_3281_Name" korean="Меч холодные руки" />
+	<block key="WE3_017_0_3281_Name" korean="Боевой топор из холодного" />
+	<block key="WE5_009_0_3281_Name" korean="Персонал холода с одной стороны" />
+	<block key="WE2_012_0_3281_Name" korean="Warhammer из холодного" />
+	<block key="WE0_012_0_2252_Name" korean="Меч семьи Колосса" />
+	<block key="WE4_016_0_2252_Name" korean="Кинжал семьи Колосса" />
+	<block key="WE6_015_0_2252_Name" korean="Руки семьи палочек Colossus" />
+	<block key="WE7_013_0_2252_Name" korean="Лук семьи Колосса" />
+	<block key="WE1_007_0_2252_Name" korean="Меч руках семьи Colossus" />
+	<block key="WE3_008_0_2252_Name" korean="Боевой топор семьи Колосса" />
+	<block key="WE5_008_0_2252_Name" korean="Персонал семьи Колосса с одной стороны" />
+	<block key="WE2_017_0_2252_Name" korean="Warhammer семьи Колосса" />
+	<block key="WE0_006_0_3283_Name" korean="Меч йата Иман" />
+	<block key="WE4_018_0_3283_Name" korean="Yata кинжал из двадцати" />
+	<block key="WE6_013_0_3283_Name" korean="Йата руки двадцать палок" />
+	<block key="WE7_006_0_3283_Name" korean="Лук йата Иман" />
+	<block key="WE1_009_0_3283_Name" korean="Двадцать двуручный меч из Ята" />
+	<block key="WE3_017_0_3283_Name" korean="Йата Иман Боевой топор" />
+	<block key="WE5_009_0_3283_Name" korean="Сотрудники двадцать одной стороны Ята" />
+	<block key="WE2_012_0_3283_Name" korean="Warhammer из йата Иман" />
+	<block key="WE0_012_0_1301_Name" korean="Меч Новые статьи раздела" />
+	<block key="WE4_016_0_1301_Name" korean="Кинжал новых статей раздела" />
+	<block key="WE6_015_0_1301_Name" korean="Руки новых статей раздела Cane" />
+	<block key="WE7_013_0_1301_Name" korean="Лук новых статей раздела" />
+	<block key="WE1_007_0_1301_Name" korean="Меч руки новых статей раздела" />
+	<block key="WE3_008_0_1301_Name" korean="Боевой топор новой статьи раздела" />
+	<block key="WE5_008_0_1301_Name" korean="Камыш в одной руке новых статей раздела" />
+	<block key="WE2_017_0_1301_Name" korean="Warhammer новых статей раздела" />
+	<block key="WE0_006_0_2301_Name" korean="Меч mureo mijok" />
+	<block key="WE4_018_0_2301_Name" korean="Mureo mijok Кинжал" />
+	<block key="WE6_013_0_2301_Name" korean="Mijok придерживаться обеими руками mureo" />
+	<block key="WE7_006_0_2301_Name" korean="Лук mureo mijok" />
+	<block key="WE1_009_0_2301_Name" korean="Меч обеими руками mureo mijok" />
+	<block key="WE3_009_0_2301_Name" korean="Боевой топор из mureo mijok" />
+	<block key="WE5_009_0_2301_Name" korean="Кане в одной руке mureo mijok" />
+	<block key="WE2_009_0_2301_Name" korean="Warhammer из mureo mijok" />
+	<block key="WE0_003_0_2261_Name" korean="Меч ветра милиции только" />
+	<block key="WE4_010_0_2261_Name" korean="Кинжал только ветер милиции" />
+	<block key="WE6_007_0_2261_Name" korean="Однако милиционеры руки ветра палочки" />
+	<block key="WE7_019_0_2261_Name" korean="Носовая часть ветра милиции только" />
+	<block key="WE1_015_0_2261_Name" korean="Двуручный меч только ветер милиции" />
+	<block key="WE3_017_0_2261_Name" korean="Ветер милиция конец боевым топором" />
+	<block key="WE5_010_0_2261_Name" korean="Однако милиция ветер палочка в одной руке" />
+	<block key="WE2_012_0_2261_Name" korean="Только Warhammer ветер милиция" />
+	<block key="WE0_003_0_3282_Name" korean="Меч падших последователей" />
+	<block key="WE4_010_0_3282_Name" korean="Кинжал павших последователей" />
+	<block key="WE6_007_0_3282_Name" korean="Руки коррумпированной последователей тростника" />
+	<block key="WE7_019_0_3282_Name" korean="Лук павших последователей" />
+	<block key="WE1_015_0_3282_Name" korean="Последователи падшего меч с обеих рук" />
+	<block key="WE3_017_0_3282_Name" korean="Падшие последователи Топор" />
+	<block key="WE5_010_0_3282_Name" korean="Последователи падшего палочки в одной руке" />
+	<block key="WE2_012_0_3282_Name" korean="Warhammer упал последователей" />
+	<block key="WE0_006_0_1351_Name" korean="Меч опытного статьи раздела" />
+	<block key="WE4_018_0_1351_Name" korean="Кинжал опытного статьи раздела" />
+	<block key="WE6_013_0_1351_Name" korean="Руки палкой разделе опытный рыцарь" />
+	<block key="WE7_006_0_1351_Name" korean="Лук квалифицированного статьи раздела" />
+	<block key="WE1_009_0_1351_Name" korean="Руки мечом урока опытный рыцарь" />
+	<block key="WE3_009_0_1351_Name" korean="Боевой топор квалифицированной статьях раздела" />
+	<block key="WE5_009_0_1351_Name" korean="Палка с одной стороны, квалифицированные статьи раздела" />
+	<block key="WE2_009_0_1351_Name" korean="Warhammer квалифицированные Статьи раздела" />
+	<block key="WE0_018_0_2351_Name" korean="Меч Мороза Легиона" />
+	<block key="WE4_019_0_2351_Name" korean="Кинжал Мороз Легион" />
+	<block key="WE6_014_0_2351_Name" korean="Мороз Легион придерживаться обеими руками" />
+	<block key="WE7_015_0_2351_Name" korean="Лук мороза корпуса" />
+	<block key="WE1_011_0_2351_Name" korean="Мороз Легион протянул меч" />
+	<block key="WE3_011_0_2351_Name" korean="Мороз Легион боевой топор" />
+	<block key="WE5_011_0_2351_Name" korean="Штаба армии передали мороза" />
+	<block key="WE2_030_0_2351_Name" korean="Warhammer Мороз Легион" />
+	<block key="WE0_018_0_3341_Name" korean="Меч kunjok Круа" />
+	<block key="WE4_019_0_3341_Name" korean="Кинжал Croix kunjok" />
+	<block key="WE6_014_0_3341_Name" korean="Croix kunjok палка с двумя руками" />
+	<block key="WE7_015_0_3341_Name" korean="Лук круассан kunjok" />
+	<block key="WE1_011_0_3341_Name" korean="Меч обеими руками Croix kunjok" />
+	<block key="WE3_011_0_3341_Name" korean="Боевой топор из kunjok Круа" />
+	<block key="WE5_011_0_3341_Name" korean="Камыш в одной руке Круа kunjok" />
+	<block key="WE2_030_0_3341_Name" korean="Warhammer круассан kunjok" />
+	<block key="WE0_005_0_3301_Name" korean="Рондо двуручный меч" />
+	<block key="WE4_009_0_3301_Name" korean="Кинжал Рондо" />
+	<block key="WE6_008_0_3301_Name" korean="Двуручный палки Айши" />
+	<block key="WE7_014_0_3301_Name" korean="Безжалостный лук лед бригадный генерал" />
+	<block key="WE1_012_0_3301_Name" korean="Рондо мечей двуручные" />
+	<block key="WE3_029_0_3301_Name" korean="Безжалостный боевой топор Ice бригадный генерал" />
+	<block key="WE5_012_0_3301_Name" korean="Айша тростника в одной руке" />
+	<block key="WE2_012_0_3301_Name" korean="Warhammer неумолимого Ice бригадный генерал" />
+	<block key="WE0_018_0_1401_Name" korean="Elite раздел Knight Sword" />
+	<block key="WE4_019_0_1401_Name" korean="Elite раздел Knight Кинжал" />
+	<block key="WE6_014_0_1401_Name" korean="Руки элита разделе тростника статьи" />
+	<block key="WE7_015_0_1401_Name" korean="Elite Knight лук раздел" />
+	<block key="WE1_011_0_1401_Name" korean="Двуручные Раздел Меч Рыцарь Elite" />
+	<block key="WE3_011_0_1401_Name" korean="Боевой топор Elite статьи раздела" />
+	<block key="WE5_011_0_1401_Name" korean="Elite тростника Рыцарь в одной руке урока" />
+	<block key="WE2_030_0_1401_Name" korean="Warhammer Elite статьи раздела" />
+	<block key="WE0_019_0_2401_Name" korean="Меч Бессмертного легиона" />
+	<block key="WE4_011_0_2401_Name" korean="Кинжал Бессмертного легиона" />
+	<block key="WE6_012_0_2401_Name" korean="Бессмертный Легион придерживаться обеими руками" />
+	<block key="WE7_016_0_2401_Name" korean="Лук бессмертного легионов" />
+	<block key="WE1_017_0_2401_Name" korean="Двуручный меч Бессмертный Легион" />
+	<block key="WE3_011_0_2401_Name" korean="Бессмертный Легион боевой топор" />
+	<block key="WE5_014_0_2401_Name" korean="Сотрудники армии вручил Бессмертный" />
+	<block key="WE2_030_0_2401_Name" korean="Warhammer Бессмертный Легион" />
+	<block key="WE0_003_0_2271_Name" korean="Меч Pegasus рыцарей" />
+	<block key="WE4_010_0_2271_Name" korean="Pegasus рыцари кинжала" />
+	<block key="WE6_007_0_2271_Name" korean="Pegasus Рыцари придерживаться обеими руками" />
+	<block key="WE7_019_0_2271_Name" korean="Лук Pegasus рыцарей" />
+	<block key="WE1_015_0_2271_Name" korean="Pegasus Рыцари двуручный меч" />
+	<block key="WE3_017_0_2271_Name" korean="Боевой топор Пегаса рыцарей" />
+	<block key="WE5_010_0_2271_Name" korean="Pegasus Рыцари тростника в одной руке" />
+	<block key="WE2_012_0_2271_Name" korean="Warhammer Pegasus Рыцари" />
+	<block key="WE0_009_0_3351_Name" korean="Меч Верховный главнокомандующий" />
+	<block key="WE4_008_0_3351_Name" korean="Кинжал Верховный главнокомандующий" />
+	<block key="WE6_018_0_3351_Name" korean="Верховный главнокомандующий палки обеими руками" />
+	<block key="WE7_018_0_3351_Name" korean="Носовая часть Верховный главнокомандующий" />
+	<block key="WE1_029_0_3351_Name" korean="Двуручный меч из Верховный главнокомандующий" />
+	<block key="WE3_011_0_3351_Name" korean="Боевой топор из Верховный главнокомандующий" />
+	<block key="WE5_018_0_3351_Name" korean="Персонал Верховный главнокомандующий руками" />
+	<block key="WE2_030_0_3351_Name" korean="Warhammer из Верховный главнокомандующий" />
+	<block key="WE9_001_0_1151_Name" korean="Арбалет вообще болезнь" />
+	<block key="WE9_001_0_2151_Name" korean="Арбалет милиции" />
+	<block key="WE9_002_0_2151_Name" korean="Арбалет делегации" />
+	<block key="WE9_003_0_2201_Name" korean="Арбалет графа" />
+	<block key="WE9_003_0_2205_Name" korean="Арбалета Бар Кыргызстан" />
+	<block key="WE9_003_0_2405_Name" korean="Арбалет гарнизона" />
+	<block key="WE9_004_0_2251_Name" korean="Арбалет семьи Колосса" />
+	<block key="WE9_007_0_4001_Name" korean="Двадцать йата арбалета" />
+	<block key="WE9_005_0_2252_Name" korean="Арбалет племя Yeti" />
+	<block key="WE9_005_0_2251_Name" korean="Арбалет холодного" />
+	<block key="WE9_006_0_3301_Name" korean="Арбалет фанатиков" />
+	<block key="WE9_006_0_2351_Name" korean="Арбалет падшие последователи" />
+	<block key="WE9_007_0_3301_Name" korean="Мороз Арбалет корпус Elite бутылка" />
+	<block key="WE9_002_0_1251_Name" korean="Арбалет Ice бригадный генерал" />
+	<block key="WE8_001_0_1081_Name" korean="Старый Алекс копье" />
+	<block key="WE8_001_0_1151_Name" korean="Генеральный копье болезнь" />
+	<block key="WE8_001_0_1082_Name" korean="Shenron копье за ​​распространение рыцарей" />
+	<block key="WE8_003_0_2201_Name" korean="Милиция копьем" />
+	<block key="WE8_003_0_2202_Name" korean="Граф копья" />
+	<block key="WE8_003_0_2205_Name" korean="Официальный конец копья" />
+	<block key="WE8_003_0_2305_Name" korean="Стражи копьем" />
+	<block key="WE8_003_0_2203_Name" korean="Если вы хотите жалюзи семью" />
+	<block key="WE8_007_0_4001_Name" korean="Yata двадцать жалюзи" />
+	<block key="WE8_003_0_2301_Name" korean="Копье племя Yeti" />
+	<block key="WE8_003_0_2204_Name" korean="Копье в холодной" />
+	<block key="WE8_006_0_3301_Name" korean="Копье фанатика" />
+	<block key="WE8_006_0_2351_Name" korean="Последователи падшего копьем" />
+	<block key="WE8_007_0_3301_Name" korean="Мороз Легион Elite копье бутылка" />
+	<block key="WE8_002_0_1251_Name" korean="Копье льда бригадного генерала" />
+	<block key="WE0_107_2_99999_Name" korean="Одноручные Лидер Меч" />
+	<block key="WE1_005_3_99999_Name" korean="Меч руки лидеров" />
+	<block key="WE4_109_1_99999_Name" korean="Лидеры Blue Dragon Кинжал" />
+	<block key="WE4_111_2_99999_Name" korean="Экскаваторы-лидеры кинжал" />
+	<block key="WE5_008_2_99999_Name" korean="Персонал из лидеров с одной стороны" />
+	<block key="WE6_106_2_99999_Name" korean="Руки лидеров палочки" />
+	<block key="WE8_006_3_99999_Name" korean="Окно лидеров" />
+	<block key="WE9_006_3_99999_Name" korean="Совет руководителей арбалет (1.0)" />
+	<block key="WE9_006_3_99998_Name" korean="Совет руководителей арбалет (1.2)" />
+	<block key="WE9_006_3_99997_Name" korean="Арбалет лидеров (1.4)" />
+	<block key="WE9_006_3_99996_Name" korean="Совет руководителей арбалет (1.6)" />
+	<block key="WE9_006_3_99995_Name" korean="Арбалет лидеров (1.8)" />
+	<block key="WE9_006_3_99994_Name" korean="Совет руководителей арбалет (2.0)" />
+	<block key="WE0_107_2_99995_Name" korean="Один двуручный меч огня" />
+	<block key="WE0_107_2_99996_Name" korean="Одноручная Замораживание Меч" />
+	<block key="WE0_107_2_99997_Name" korean="Одноручных мечей блеска" />
+	<block key="WE0_107_2_99998_Name" korean="Один двуручный меч Эрл" />
+	<block key="WE0_812_0_2151_Name" korean="Прочная одной рукой меч воина" />
+	<block key="WE4_812_0_2151_Name" korean="Кинжал жестких ветеранов" />
+	<block key="WE6_812_0_2151_Name" korean="Руки жесткой воин палочки" />
+	<block key="WE1_812_0_2151_Name" korean="Прочная Мечом двумя руками" />
+	<block key="WE5_812_0_2151_Name" korean="Жесткая воин тростника в одной руке" />
+	<block key="WE0_822_0_2251_Name" korean="Один двуручный меч легенды" />
+	<block key="WE4_822_0_2251_Name" korean="Кинжал Легенда" />
+	<block key="WE6_822_0_2251_Name" korean="Руки легендарного палочки" />
+	<block key="WE1_822_0_2251_Name" korean="Двуручный меч легенды" />
+	<block key="WE5_822_0_2251_Name" korean="Персонал легенды с одной стороны" />
+	<block key="WE0_823_0_3251_Name" korean="Одноручных мечей приправленный герой" />
+	<block key="WE4_823_0_3251_Name" korean="Кинжал опытного героя" />
+	<block key="WE6_823_0_3251_Name" korean="Руки опытного героя палочки" />
+	<block key="WE1_823_0_3251_Name" korean="Руки умелого меча героя" />
+	<block key="WE5_823_0_3251_Name" korean="Камыш в одной руке опытного героя" />
+	<block key="WE0_711_0_1101_Name" korean="Медь двуручный меч" />
+	<block key="WE1_711_0_1101_Name" korean="Медь меч обеими руками" />
+	<block key="WE4_711_0_1101_Name" korean="Медь кинжал" />
+	<block key="WE5_711_0_1101_Name" korean="Медь палочка в одной руке" />
+	<block key="WE6_711_0_1101_Name" korean="Медь палочка с обеих рук" />
+	<block key="WE0_721_0_2201_Name" korean="Сталь одной рукой меч" />
+	<block key="WE1_721_0_2201_Name" korean="Сталь двуручный меч" />
+	<block key="WE4_721_0_2201_Name" korean="Сталь Кинжал" />
+	<block key="WE5_721_0_2201_Name" korean="Сталь палочка в одной руке" />
+	<block key="WE6_721_0_2201_Name" korean="Сталь палочка с обеих рук" />
+	<block key="WE0_722_0_2201_Name" korean="Закаленная сталь одной рукой меч" />
+	<block key="WE1_722_0_2201_Name" korean="Закаленная сталь меч обеими руками" />
+	<block key="WE4_722_0_2201_Name" korean="Закаленная сталь кинжал" />
+	<block key="WE5_722_0_2201_Name" korean="Закаленная сталь палочка в одной руке" />
+	<block key="WE6_722_0_2201_Name" korean="Закаленная сталь палочка с обеих рук" />
+	<block key="WE0_731_0_3301_Name" korean="Mithril одной рукой меч" />
+	<block key="WE1_731_0_3301_Name" korean="Mithril двуручный меч" />
+	<block key="WE4_731_0_3301_Name" korean="Мифриловый Кинжал" />
+	<block key="WE5_731_0_3301_Name" korean="Mithril тростника в одной руке" />
+	<block key="WE6_731_0_3301_Name" korean="Mithril двуручный палки" />
+	<block key="WE0_732_0_3301_Name" korean="Укрепленные Мифриловые двуручный меч" />
+	<block key="WE1_732_0_3301_Name" korean="Укрепленные Мифриловые меч обеими руками" />
+	<block key="WE4_732_0_3301_Name" korean="Бронированная Мифриловый Кинжал" />
+	<block key="WE5_732_0_3301_Name" korean="Укрепленные Мифриловые тростника в одной руке" />
+	<block key="WE6_732_0_3301_Name" korean="Укрепленные Мифриловые придерживаться обеими руками" />
+	<block key="WE0_733_0_3301_Name" korean="Благородный Mithril одной рукой меч" />
+	<block key="WE1_733_0_3301_Name" korean="Благородный Mithril меч обеими руками" />
+	<block key="WE4_733_0_3301_Name" korean="Благородный Мифриловый Кинжал" />
+	<block key="WE5_733_0_3301_Name" korean="Благородный Mithril тростника в одной руке" />
+	<block key="WE6_733_0_3301_Name" korean="Благородный Mithril палка с двумя руками" />
+	<block key="WE0_021_0_9001_Name" korean="Добыча практика с мечом" />
+	<block key="WE4_001_0_9001_Name" korean="Добыча обучение кинжал" />
+	<block key="WE6_003_0_9001_Name" korean="Добыча Практика палочка с обеих рук" />
+	<block key="WE7_010_0_9001_Name" korean="Добыча практика лук" />
+	<block key="WE1_003_0_9001_Name" korean="Добыча практика с мечом обеими руками" />
+	<block key="WE3_010_0_9001_Name" korean="Добыча Практика боевой топор" />
+	<block key="WE5_003_0_9001_Name" korean="Практика извлечения палочка в одной руке" />
+	<block key="WE2_005_0_9001_Name" korean="Warhammer практика добыча" />
+	<block key="boxWE0_015_0_1151_Name" korean="Меч общего заболевания" />
+	<block key="boxWE4_002_0_1151_Name" korean="Кинжал общего заболевания" />
+	<block key="boxWE6_011_0_1151_Name" korean="Руки общей палочки заболевания" />
+	<block key="boxWE1_004_0_1151_Name" korean="Меч руки общего заболевания" />
+	<block key="boxWE5_004_0_1151_Name" korean="Генеральный бутылка в одной руке палочкой" />
+	<block key="boxWE0_007_0_2151_Name" korean="Меч рейда" />
+	<block key="boxWE4_015_0_2151_Name" korean="Кинжал Рейда" />
+	<block key="boxWE6_000_0_2151_Name" korean="Палка с обеих рук отрядом" />
+	<block key="boxWE1_005_0_2151_Name" korean="Двуручный меч рейда" />
+	<block key="boxWE5_005_0_2151_Name" korean="Отрядом палочку в одной руке" />
+	<block key="boxWE0_007_0_1201_Name" korean="Меч sukryeonbyeong" />
+	<block key="boxWE4_015_0_1201_Name" korean="Кинжал sukryeonbyeong" />
+	<block key="boxWE6_000_0_1201_Name" korean="Sukryeonbyeong из рук палку" />
+	<block key="boxWE1_005_0_1201_Name" korean="Меч обеими руками sukryeonbyeong" />
+	<block key="boxWE5_005_0_1201_Name" korean="Камыш в одной руке sukryeonbyeong" />
+	<block key="boxWE0_029_0_2201_Name" korean="Лезвие вампира" />
+	<block key="boxWE4_004_0_2201_Name" korean="Кинжал вампиром" />
+	<block key="boxWE6_004_0_2201_Name" korean="Руки вампира придерживаться" />
+	<block key="boxWE1_006_0_2201_Name" korean="Руки меч вампира" />
+	<block key="boxWE5_006_0_2201_Name" korean="Палочка вампира в одной руке" />
+	<block key="boxWE0_029_0_1251_Name" korean="Меч элитного бутылки" />
+	<block key="boxWE4_004_0_1251_Name" korean="Кинжал Elite бутылка" />
+	<block key="boxWE6_004_0_1251_Name" korean="Elite палка бутылка с обеих рук" />
+	<block key="boxWE1_006_0_1251_Name" korean="Elite бутылка двуручный меч" />
+	<block key="boxWE5_006_0_1251_Name" korean="Elite Персонал бутылки в одной руке" />
+	<block key="boxWE0_012_0_2251_Name" korean="Меч небесного свода" />
+	<block key="boxWE4_016_0_2251_Name" korean="Кинжал в небе" />
+	<block key="boxWE6_015_0_2251_Name" korean="Палка с обеими руками в небо" />
+	<block key="boxWE1_007_0_2251_Name" korean="Меч обеими руками в небе" />
+	<block key="boxWE5_008_0_2251_Name" korean="Палка с одной стороны, в небе" />
+	<block key="boxWE0_012_0_1301_Name" korean="Меч Новые статьи раздела" />
+	<block key="boxWE4_016_0_1301_Name" korean="Кинжал новых статей раздела" />
+	<block key="boxWE6_015_0_1301_Name" korean="Руки новых статей раздела Cane" />
+	<block key="boxWE1_007_0_1301_Name" korean="Меч руки новых статей раздела" />
+	<block key="boxWE5_008_0_1301_Name" korean="Камыш в одной руке новых статей раздела" />
+	<block key="boxWE0_006_0_2301_Name" korean="Меч mureo mijok" />
+	<block key="boxWE4_018_0_2301_Name" korean="Mureo mijok Кинжал" />
+	<block key="boxWE6_013_0_2301_Name" korean="Mijok придерживаться обеими руками mureo" />
+	<block key="boxWE1_009_0_2301_Name" korean="Меч обеими руками mureo mijok" />
+	<block key="boxWE5_009_0_2301_Name" korean="Кане в одной руке mureo mijok" />
+	<block key="boxWE0_812_0_2151_Name" korean="Прочная одной рукой меч воина" />
+	<block key="boxWE4_812_0_2151_Name" korean="Кинжал жестких ветеранов" />
+	<block key="boxWE6_812_0_2151_Name" korean="Руки жесткой воин палочки" />
+	<block key="boxWE1_812_0_2151_Name" korean="Прочная Мечом двумя руками" />
+	<block key="boxWE5_812_0_2151_Name" korean="Жесткая воин тростника в одной руке" />
+	<block key="boxWE0_822_0_2251_Name" korean="Один двуручный меч легенды" />
+	<block key="boxWE4_822_0_2251_Name" korean="Кинжал Легенда" />
+	<block key="boxWE6_822_0_2251_Name" korean="Руки легендарного палочки" />
+	<block key="boxWE1_822_0_2251_Name" korean="Двуручный меч легенды" />
+	<block key="boxWE5_822_0_2251_Name" korean="Персонал легенды с одной стороны" />
+	<block key="boxWE0_823_0_3251_Name" korean="Одноручных мечей приправленный герой" />
+	<block key="boxWE4_823_0_3251_Name" korean="Кинжал опытного героя" />
+	<block key="boxWE6_823_0_3251_Name" korean="Руки опытного героя палочки" />
+	<block key="boxWE1_823_0_3251_Name" korean="Руки умелого меча героя" />
+	<block key="boxWE5_823_0_3251_Name" korean="Камыш в одной руке опытного героя" />
+	<block key="boxWE9_001_0_1151_Name" korean="Арбалет обычной статьи раздела" />
+	<block key="boxWE9_002_0_2151_Name" korean="Арбалет замечательные статьи раздела" />
+	<block key="boxWE8_001_0_1082_Name" korean="Shenron копье за ​​распространение рыцарей" />
+	<block key="boxWE8_003_0_2201_Name" korean="Elite бутылка отличного копьем" />
+	<block key="pvpWE0_001_2_2528_Name" korean="Меч нижней Hunter" />
+	<block key="pvpWE4_001_2_2528_Name" korean="Кинжал нижней Hunter" />
+	<block key="pvpWE6_001_2_2528_Name" korean="Руки нижней Hunter Stick," />
+	<block key="pvpWE1_001_2_2528_Name" korean="Двуручный меч нижней Hunter" />
+	<block key="pvpWE5_001_2_2528_Name" korean="Сотрудники младшего охотника руками" />
+	<block key="pvpWE9_002_2_2528_Name" korean="Малый арбалет охотник" />
+	<block key="pvpWE8_002_2_2528_Name" korean="Малый копье охотника" />
+	<block key="pvpWE0_001_2_3033_Name" korean="Меч промежуточного охотника" />
+	<block key="pvpWE4_001_2_3033_Name" korean="Промежуточный кинжал охотник" />
+	<block key="pvpWE6_001_2_3033_Name" korean="Промежуточный Hunter придерживаться обеими руками" />
+	<block key="pvpWE1_001_2_3033_Name" korean="Промежуточный Hunter двуручный меч" />
+	<block key="pvpWE5_001_2_3033_Name" korean="Промежуточный Hunter тростника в одной руке" />
+	<block key="pvpWE9_002_2_3033_Name" korean="Промежуточный арбалет охотник" />
+	<block key="pvpWE8_002_2_3033_Name" korean="Промежуточный копье охотника" />
+	<block key="pvpWE0_001_2_3538_Name" korean="Меч старших охотников" />
+	<block key="pvpWE4_001_2_3538_Name" korean="Большой кинжал охотник" />
+	<block key="pvpWE6_001_2_3538_Name" korean="Руки старших палками охотников" />
+	<block key="pvpWE1_001_2_3538_Name" korean="Меч руки старших охотников" />
+	<block key="pvpWE5_001_2_3538_Name" korean="Направленный старшие сотрудники охотника" />
+	<block key="pvpWE9_002_2_3538_Name" korean="Большой арбалет охотник" />
+	<block key="pvpWE8_002_2_3538_Name" korean="Большой копье охотника" />
+	<block key="pvpWE0_001_2_4043_Name" korean="Меч из лучших охотников" />
+	<block key="pvpWE4_001_2_4043_Name" korean="Кинжал из лучших охотников" />
+	<block key="pvpWE6_001_2_4043_Name" korean="Руки лучших охотников палочки" />
+	<block key="pvpWE1_001_2_4043_Name" korean="Двуручный меч из лучших охотников" />
+	<block key="pvpWE5_001_2_4043_Name" korean="Лучшие тростника охотника в одной руке" />
+	<block key="pvpWE9_002_2_4043_Name" korean="Арбалет из лучших охотников" />
+	<block key="pvpWE8_002_2_4043_Name" korean="Лучшие охотники копье" />
+	<block key="WE9_007_0_3302_Name" korean="Арбалет не Келли на" />
+	<block key="WE0_009_0_4001_Name" korean="Одноручных мечей Noir Трапани" />
+	<block key="WE4_009_0_4001_Name" korean="Кинжал Рейн Noir" />
+	<block key="WE6_009_0_4001_Name" korean="Руки тростника Рейн Noir" />
+	<block key="WE1_009_0_4001_Name" korean="Двуручный меч из Трапани Noir" />
+	<block key="WE5_009_0_4001_Name" korean="Персонал Рейна передал Noir" />
+	<block key="WE8_007_3601_Name" korean="Жалюзи ahsyuram" />
+	<block key="WE0_003_0_3502_Name" korean="Бесплатные Рамми начальники двуручный меч" />
+	<block key="WE4_003_0_3502_Name" korean="Кинжал свободных рамми руководителей" />
+	<block key="WE6_003_0_3502_Name" korean="Начальник громкой Рамми тростника" />
+	<block key="WE1_003_0_3502_Name" korean="Рамми начальник громкой резинки" />
+	<block key="WE5_003_0_3502_Name" korean="Бесплатный странный тростника в одной руке вождя" />
+	<block key="WE2_010_0_0000_Name" korean="Топор Скелет солдата" />
+	<block key="WE7_002_0_0003_Name" korean="Лук скелета Арчер" />
+	<block key="WE0_007_0_2152_Name" korean="Меч мертвеца" />
+	<block key="WE4_015_0_2152_Name" korean="Dead кинжал" />
+	<block key="WE6_000_0_2152_Name" korean="Руки мертвеца придерживаться" />
+	<block key="WE7_011_0_2152_Name" korean="Dead лук" />
+	<block key="WE1_005_0_2152_Name" korean="Двуручный меч из Dead" />
+	<block key="WE3_005_0_2152_Name" korean="Мертвеца Боевой топор" />
+	<block key="WE5_005_0_2152_Name" korean="Dead тростника в одной руке" />
+	<block key="WE2_007_0_2152_Name" korean="Dead Warhammer" />
+	<block key="WE0_029_0_2203_Name" korean="Меч графа" />
+	<block key="WE4_004_0_2203_Name" korean="Кинжал Граф" />
+	<block key="WE6_004_0_2203_Name" korean="Руки графа тростника" />
+	<block key="WE7_002_0_2203_Name" korean="Лук графини" />
+	<block key="WE1_006_0_2203_Name" korean="Меч руки графа" />
+	<block key="WE3_006_0_2203_Name" korean="Граф Топор" />
+	<block key="WE5_006_0_2203_Name" korean="Граф одной рукой палочку" />
+	<block key="WE2_013_0_2203_Name" korean="Warhammer графа" />
+	<block key="WE0_012_0_2253_Name" korean="Меч группы Yeti" />
+	<block key="WE4_016_0_2253_Name" korean="Кинжал группы Yeti" />
+	<block key="WE6_015_0_2253_Name" korean="Руки семьи палочек Yeti" />
+	<block key="WE7_013_0_2253_Name" korean="Носовая часть Yeti группы" />
+	<block key="WE1_007_0_2253_Name" korean="Yeti ноги меч обеими руками" />
+	<block key="WE3_008_0_2253_Name" korean="Боевой топор Йети группы" />
+	<block key="WE5_008_0_2253_Name" korean="Персонал стопы с одной стороны Yeti" />
+	<block key="WE2_017_0_2253_Name" korean="Warhammer племя Yeti" />
+	<block key="WE0_006_0_2302_Name" korean="Меч фанатиков" />
+	<block key="WE4_018_0_2302_Name" korean="Кинжал шовиниста" />
+	<block key="WE6_013_0_2302_Name" korean="Плетеные фанатики обеих рук" />
+	<block key="WE7_006_0_2302_Name" korean="Лук фанатика" />
+	<block key="WE1_009_0_2302_Name" korean="Меч руки фанатиков" />
+	<block key="WE3_009_0_2302_Name" korean="Боевой топор фанатиков" />
+	<block key="WE5_009_0_2302_Name" korean="Персонал фанатиков с одной стороны" />
+	<block key="WE2_009_0_2302_Name" korean="Warhammer фанатичных" />
+	<block key="WE0_018_0_2352_Name" korean="Меч Мороз Легион Elite бутылки" />
+	<block key="WE4_019_0_2352_Name" korean="Кинжал Мороз Легион Elite бутылка" />
+	<block key="WE6_014_0_2352_Name" korean="Суррей руках бутылки палочки элитного корпуса" />
+	<block key="WE7_015_0_2352_Name" korean="Лук мороза бутылки элитного корпуса" />
+	<block key="WE1_011_0_2352_Name" korean="Руки элитного корпуса морозный бутылки мечом" />
+	<block key="WE3_011_0_2352_Name" korean="Мороз Легион боевой топор Elite бутылка" />
+	<block key="WE5_011_0_2352_Name" korean="Сотрудники элитного корпуса морозный бутылку в одной руке" />
+	<block key="WE2_030_0_2352_Name" korean="Warhammer Elite корпус мороза бутылки" />
+	<block key="WE0_019_0_2402_Name" korean="Воспаление десен элита корпус Идзу Гора" />
+	<block key="WE4_011_0_2402_Name" korean="Кинжал Идзу гора элитной бутылки корпуса" />
+	<block key="WE6_012_0_2402_Name" korean="Идзу Гора руках бутылки палочки элитного корпуса" />
+	<block key="WE7_016_0_2402_Name" korean="Носовая часть Идзу гора элитной бутылки корпуса" />
+	<block key="WE1_017_0_2402_Name" korean="Двуручный меч элита корпус Идзу гора бутылки" />
+	<block key="WE3_011_0_2402_Name" korean="Боевой топор из Идзу гора элитной бутылки корпуса" />
+	<block key="WE5_014_0_2402_Name" korean="Идзу Hora элита корпус из бутылки в одной руке палочкой" />
+	<block key="WE2_030_0_2402_Name" korean="Warhammer Elite корпус Идзу гора бутылки" />
+	<block key="WE0_015_0_2103_Name" korean="Меч Кара Шах" />
+	<block key="WE4_002_0_2103_Name" korean="Кара кинжал Шах" />
+	<block key="WE6_011_0_2103_Name" korean="Кара Шах передал палочку" />
+	<block key="WE7_003_0_2103_Name" korean="Кара лук Шах" />
+	<block key="WE1_004_0_2103_Name" korean="Кара Шах передал меч" />
+	<block key="WE3_020_0_2103_Name" korean="Боевой топор Кара-шаха" />
+	<block key="WE5_004_0_2103_Name" korean="Персонал Ошейник с одной стороны Шах" />
+	<block key="WE2_006_0_2103_Name" korean="Warhammer Кара Шах" />
+	<block key="WE9_006_0_2103_Name" korean="Арбалет Кара Шах" />
+	<block key="WE8_006_0_2103_Name" korean="Копье Кара-шаха" />
+	<block key="WE9_004_0_1351_Name" korean="Арбалет корпус Elite бутылка Идзу Гора" />
+	<block key="WE9_004_0_2351_Name" korean="Арбалет Верховный главнокомандующий" />
+	<block key="WE8_006_0_0000_Name" korean="Идзу Hora элита корпус бутылки копья" />
+	<block key="WE8_004_0_0000_Name" korean="Копье Верховный главнокомандующий" />
+	<block key="WE0_007_0_2153_Name" korean="Меч Royal Guard" />
+	<block key="WE4_015_0_2153_Name" korean="Королевская гвардия кинжал" />
+	<block key="WE6_000_0_2153_Name" korean="Королевская гвардия передал палочку" />
+	<block key="WE7_011_0_2153_Name" korean="Королевская гвардия лук" />
+	<block key="WE1_005_0_2153_Name" korean="Двуручный меч Royal Guard" />
+	<block key="WE3_005_0_2153_Name" korean="Королевская гвардия боевой топор" />
+	<block key="WE5_005_0_2153_Name" korean="Королевская гвардия тростника в одной руке" />
+	<block key="WE2_007_0_2153_Name" korean="Королевская гвардия Warhammer" />
+	<block key="WE9_004_0_3351_Name" korean="Jeume дружба арбалет" />
+	<block key="WE8_006_0_3351_Name" korean="Jeume дружба копье" />
+	<block key="WE0_005_0_3401_Name" korean="С одной стороны меч начальников Корфу" />
+	<block key="WE4_009_0_3401_Name" korean="Кинжал руководителей на Корфу" />
+	<block key="WE6_008_0_3401_Name" korean="Руки руководителей Корфу на палках" />
+	<block key="WE1_012_0_3401_Name" korean="Меч обеими руками патриархальной Корфу" />
+	<block key="WE5_012_0_3401_Name" korean="Персонал патриархов, с одной стороны Корфу" />
+	<block key="WE0_007_0_2151_EV_Name" korean="Рейдеры Меч тамплиеров" />
+	<block key="WE4_015_0_2151_EV_Name" korean="В поисках кинжала тамплиеров" />
+	<block key="WE6_000_0_2151_EV_Name" korean="Рыцари палки обеими руками рейдеров" />
+	<block key="WE1_005_0_2151_EV_Name" korean="В поисках меча тамплиеров обеими руками" />
+	<block key="WE5_005_0_2151_EV_Name" korean="Рыцари тростника рейдеров в одной руке" />
+	<block key="WE0_012_0_2251_EV_Name" korean="Меч небесного свода" />
+	<block key="WE4_016_0_2251_EV_Name" korean="Кинжал в небе" />
+	<block key="WE6_015_0_2251_EV_Name" korean="Палка с обеими руками в небо" />
+	<block key="WE1_007_0_2251_EV_Name" korean="Меч обеими руками в небе" />
+	<block key="WE5_008_0_2251_EV_Name" korean="Палка с одной стороны, в небе" />
+	<block key="boxWE0_006_0_2301_EV_Name" korean="Меч mureo mijok" />
+	<block key="boxWE4_018_0_2301_EV_Name" korean="Mureo mijok Кинжал" />
+	<block key="boxWE6_013_0_2301_EV_Name" korean="Mijok придерживаться обеими руками mureo" />
+	<block key="boxWE1_009_0_2301_EV_Name" korean="Меч обеими руками mureo mijok" />
+	<block key="boxWE5_009_0_2301_EV_Name" korean="Кане в одной руке mureo mijok" />
+	<block key="WE0_006_0_3281_EV_Name" korean="Меч холодно" />
+	<block key="WE4_018_0_3281_EV_Name" korean="Кинжал холода" />
+	<block key="WE6_013_0_3281_EV_Name" korean="Холодные руки тростника" />
+	<block key="WE1_009_0_3281_EV_Name" korean="Меч холодные руки" />
+	<block key="WE5_009_0_3281_EV_Name" korean="Персонал холода с одной стороны" />
+	<block key="WE0_003_0_3282_EV_Name" korean="Меч падших последователей" />
+	<block key="WE4_010_0_3282_EV_Name" korean="Кинжал павших последователей" />
+	<block key="WE6_007_0_3282_EV_Name" korean="Руки коррумпированной последователей тростника" />
+	<block key="WE1_015_0_3282_EV_Name" korean="Последователи падшего меч с обеих рук" />
+	<block key="WE5_010_0_3282_EV_Name" korean="Последователи падшего палочки в одной руке" />
+	<block key="WE0_007_0_2171_RE_Name" korean="Я надеюсь, что меч" />
+	<block key="WE4_015_0_2171_RE_Name" korean="Я надеюсь, что кинжал" />
+	<block key="WE6_000_0_2171_RE_Name" korean="Я надеюсь, что обе руки и палки" />
+	<block key="WE1_005_0_2171_RE_Name" korean="Я надеюсь, что меч обеими руками" />
+	<block key="WE5_005_0_2171_RE_Name" korean="Я надеюсь, что одной рукой палочку" />
+	<block key="WE0_007_0_2151_RE_Name" korean="Меч надежды II" />
+	<block key="WE4_015_0_2151_RE_Name" korean="Надежда кинжал II" />
+	<block key="WE6_000_0_2151_RE_Name" korean="Сотрудники надежды, II руки" />
+	<block key="WE1_005_0_2151_RE_Name" korean="Двуручный меч Надежды II" />
+	<block key="WE5_005_0_2151_RE_Name" korean="Кейн передал Надежда II" />
+	<block key="WE0_007_0_1201_RE_Name" korean="Меч III Надежды" />
+	<block key="WE4_015_0_1201_RE_Name" korean="Надежда Кинжал III" />
+	<block key="WE6_000_0_1201_RE_Name" korean="Персонал рук Надежда III" />
+	<block key="WE1_005_0_1201_RE_Name" korean="Двуручный меч Надежды III" />
+	<block key="WE5_005_0_1201_RE_Name" korean="Надеюсь, III трость в руке" />
+	<block key="WE0_012_0_2251_RE_Name" korean="Меч надежды IV" />
+	<block key="WE4_016_0_2251_RE_Name" korean="Надежда Кинжал IV" />
+	<block key="WE6_015_0_2251_RE_Name" korean="Персонал надежды с обеими руками IV" />
+	<block key="WE1_007_0_2251_RE_Name" korean="Двуручный меч Надежды IV" />
+	<block key="WE5_008_0_2251_RE_Name" korean="Надеюсь, IV палочку в одной руке" />
+	<block key="WE0_015_0_1141_RE_Name" korean="Меч надежды V" />
+	<block key="WE4_002_0_1141_RE_Name" korean="Надежда Кинжал V" />
+	<block key="WE6_011_0_1141_RE_Name" korean="Персонал надежды с обеими руками V" />
+	<block key="WE1_004_0_1141_RE_Name" korean="Двуручный меч надежды V" />
+	<block key="WE5_004_0_1141_RE_Name" korean="Надеюсь, V трость в руке" />
+	<block key="WE0_006_0_2301_RE_Name" korean="Меч VI надежды" />
+	<block key="WE4_018_0_2301_RE_Name" korean="Надеюсь, VI Кинжал" />
+	<block key="WE6_013_0_2301_RE_Name" korean="Надеюсь, VI придерживаться обеими руками" />
+	<block key="WE1_009_0_2301_RE_Name" korean="Двуручный меч надежды VI" />
+	<block key="WE5_009_0_2301_RE_Name" korean="Надеюсь, VI трость в руке" />
+	<block key="WE0_018_0_2351_RE_Name" korean="Меч надежды VII" />
+	<block key="WE4_019_0_2351_RE_Name" korean="Надежда Кинжал VII" />
+	<block key="WE6_014_0_2351_RE_Name" korean="Персонал надежды с обеими руками VII" />
+	<block key="WE1_011_0_2351_RE_Name" korean="Двуручный меч надежды VII" />
+	<block key="WE5_011_0_2351_RE_Name" korean="Одна рука палочка надежды VII" />
+	<block key="WE9_002_0_2151_RE_Name" korean="Арбалет делегации" />
+	<block key="WE8_003_0_2201_RE_Name" korean="Милиция копьем" />
+	<block key="WE9_005_0_2251_EV_Name" korean="Арбалет холодного" />
+	<block key="WE8_003_0_2204_EV_Name" korean="Копье в холодной" />
+	<block key="WE0_015_0_1142_Name" korean="Меч Облачность" />
+	<block key="WE4_002_0_1142_Name" korean="Кинжал Облачность" />
+	<block key="WE6_011_0_1142_Name" korean="Двуручный палки Сноу" />
+	<block key="WE7_003_0_1142_Name" korean="Лук снега" />
+	<block key="WE1_004_0_1142_Name" korean="Двуручный меч Сноу" />
+	<block key="WE3_020_0_1142_Name" korean="Это Снежное поле топором" />
+	<block key="WE5_004_0_1142_Name" korean="Персонал снега в одной руке" />
+	<block key="WE2_006_0_1142_Name" korean="Warhammer Облачность" />
+	<block key="WE0_005_0_3501_Name" korean="Меч жестокой судьбы" />
+	<block key="WE4_009_0_3501_Name" korean="Жестокая судьба кинжал" />
+	<block key="WE6_008_0_3501_Name" korean="Жестокие руках судьбы палочки" />
+	<block key="WE1_012_0_3501_Name" korean="Меч жестокие руки судьбы" />
+	<block key="WE5_012_0_3501_Name" korean="Жестокая судьба рукой палочка" />
+	<block key="WE9_002_0_3501_Name" korean="Арбалет жестокая судьба" />
+	<block key="WE8_002_0_3501_Name" korean="Жестокая судьба копья" />
+	<block key="WE0_733_0_3351_Name" korean="Благородный Mithril одной рукой меч" />
+	<block key="WE1_733_0_3351_Name" korean="Благородный Mithril двуручный меч" />
+	<block key="WE4_733_0_3351_Name" korean="Благородный Мифриловый Кинжал" />
+	<block key="WE5_733_0_3351_Name" korean="Благородный Mithril тростника в одной руке" />
+	<block key="WE6_733_0_3351_Name" korean="Благородный Mithril палка с двумя руками" />
+	<block key="WE9_002_0_1351_Name" korean="Благородный Mithril Арбалет" />
+	<block key="WE8_002_0_1351_Name" korean="Благородный Mithril копье" />
+	<block key="WE0_733_0_3401_Name" korean="Турал блестящий одной рукой меч Солярий" />
+	<block key="WE1_733_0_3401_Name" korean="Турал галлия сияющий меч обеими руками" />
+	<block key="WE4_733_0_3401_Name" korean="Турал галлия светит кинжал" />
+	<block key="WE5_733_0_3401_Name" korean="Светящиеся палочки в одной руке турного Солярий" />
+	<block key="WE6_733_0_3401_Name" korean="Tural руки светящиеся палочки Солярий" />
+	<block key="WE9_002_0_1401_Name" korean="Турал светит галлия арбалет" />
+	<block key="WE8_002_0_1401_Name" korean="Турал галлия светит копье" />
+	<block key="WE0_006_0_3383_Name" korean="Меч йата Иман" />
+	<block key="WE4_018_0_3383_Name" korean="Yata кинжал из двадцати" />
+	<block key="WE6_013_0_3383_Name" korean="Йата руки двадцать палок" />
+	<block key="WE7_006_0_3383_Name" korean="Лук йата Иман" />
+	<block key="WE1_009_0_3383_Name" korean="Двадцать двуручный меч из Ята" />
+	<block key="WE3_017_0_3383_Name" korean="Йата Иман Боевой топор" />
+	<block key="WE5_009_0_3383_Name" korean="Сотрудники двадцать одной стороны Ята" />
+	<block key="WE2_012_0_3383_Name" korean="Warhammer из йата Иман" />
+	<block key="WE9_006_0_2103_qu_Name" korean="Арбалет старой Кара-шаха" />
+	<block key="WE8_006_0_2103_qu_Name" korean="Cara старый Шах копье" />
+	<block key="BX_WE0_018_0_2351_Name" korean="Обычный меч в одной руке, полумесяц сверху" />
+	<block key="BX_WE4_019_0_2351_Name" korean="Обычный кинжал полумесяц сверху" />
+	<block key="BX_WE6_014_0_2351_Name" korean="Удовлетворительно руки верхней полумесяца палочки" />
+	<block key="BX_WE7_015_0_2351_Name" korean="Обычный лук полумесяц сверху" />
+	<block key="BX_WE1_011_0_2351_Name" korean="Обычная двуручный меч, полумесяц Топ" />
+	<block key="BX_WE5_011_0_2351_Name" korean="Обычный тростниковый в одной руке, полумесяц сверху" />
+	<block key="BX_WE9_007_0_3301_Name" korean="Обычная арбалет полумесяц Топ" />
+	<block key="BX_WE8_007_0_3301_Name" korean="Crescent обычный копье сверху" />
+	<block key="BX_WE0_005_0_3301_Name" korean="Острый меч в одной руке, полумесяц сверху" />
+	<block key="BX_WE4_009_0_3301_Name" korean="Острый кинжал полумесяц сверху" />
+	<block key="BX_WE6_008_0_3301_Name" korean="Руки на верхней части резкого полумесяца палочки" />
+	<block key="BX_WE7_014_0_3301_Name" korean="Sharp лук полумесяц сверху" />
+	<block key="BX_WE1_012_0_3301_Name" korean="Острый меч обеими руками полумесяца верхней" />
+	<block key="BX_WE5_012_0_3301_Name" korean="Острой палкой в ​​одной руке и полумесяц сверху" />
+	<block key="BX_WE9_002_0_1251_Name" korean="Арбалет резкое полумесяц сверху" />
+	<block key="BX_WE8_002_0_1251_Name" korean="Sharp копье полумесяц сверху" />
+	<block key="BX_WE0_019_0_2402_Name" korean="Улучшенная одной рукой меч полумесяца сверху" />
+	<block key="BX_WE4_011_0_2402_Name" korean="Улучшенная Кинжал полумесяца верхней" />
+	<block key="BX_WE6_012_0_2402_Name" korean="Расширенные руки верхней полумесяца палочки" />
+	<block key="BX_WE7_016_0_2402_Name" korean="Повышенная активность полумесяца верхней" />
+	<block key="BX_WE1_017_0_2402_Name" korean="Улучшенная двуручный меч полумесяца сверху" />
+	<block key="BX_WE5_014_0_2402_Name" korean="Crescent верхней части закаленной одной стороны палочки" />
+	<block key="BX_WE9_004_0_1351_Name" korean="Powered арбалет полумесяц сверху" />
+	<block key="BX_WE8_006_0_0000_Name" korean="Crescent верхней части закаленной копьем" />
+	<block key="BX_WE0_009_0_3351_Name" korean="Блестящий одной рукой меч полумесяца сверху" />
+	<block key="BX_WE4_008_0_3351_Name" korean="Полумесяц светит кинжал сверху" />
+	<block key="BX_WE6_018_0_3351_Name" korean="Руки на верхней части палочка светящийся серп" />
+	<block key="BX_WE7_018_0_3351_Name" korean="Блестящий лук полумесяц сверху" />
+	<block key="BX_WE1_029_0_3351_Name" korean="Двуручный меч сияющий полумесяц сверху" />
+	<block key="BX_WE5_018_0_3351_Name" korean="Начало полумесяц сияющий палочки в одной руке" />
+	<block key="BX_WE9_004_0_2351_Name" korean="Арбалет светит полумесяц сверху" />
+	<block key="BX_WE8_004_0_0000_Name" korean="Полумесяц светит копье сверху" />
+	<block key="WE0_021_0_2101_EV1_Name" korean="Я передал меч героя" />
+	<block key="WE4_001_0_2101_EV1_Name" korean="Героя Кинжал я" />
+	<block key="WE6_003_0_2101_EV1_Name" korean="Я придерживаюсь обеими руками героя" />
+	<block key="WE1_003_0_2101_EV1_Name" korean="Я передал меч героев" />
+	<block key="WE5_003_0_2101_EV1_Name" korean="Персонал из героев я передал" />
+	<block key="WE0_015_0_2102_EV1_Name" korean="Одноручных мечей II героев" />
+	<block key="WE4_002_0_2102_EV1_Name" korean="Герой II Кинжал" />
+	<block key="WE6_011_0_2102_EV1_Name" korean="Персонал рук Hero II" />
+	<block key="WE1_004_0_2102_EV1_Name" korean="Двуручное герои Меч II" />
+	<block key="WE5_004_0_2102_EV1_Name" korean="Сотрудники Hero II с одной стороны" />
+	<block key="WE0_007_0_2151_EV1_Name" korean="Один двуручный меч III Героев" />
+	<block key="WE4_015_0_2151_EV1_Name" korean="Hero III кинжал" />
+	<block key="WE6_000_0_2151_EV1_Name" korean="Персонал рук Hero III" />
+	<block key="WE1_005_0_2151_EV1_Name" korean="Двуручный меч Heroes III" />
+	<block key="WE5_005_0_2151_EV1_Name" korean="Hero III палочка в одной руке" />
+	<block key="WE0_029_0_2202_EV1_Name" korean="Одноручных мечей IV Героев" />
+	<block key="WE4_004_0_2202_EV1_Name" korean="Героя Кинжал IV" />
+	<block key="WE6_004_0_2202_EV1_Name" korean="Сотрудники Heroes IV руки" />
+	<block key="WE1_006_0_2202_EV1_Name" korean="Двуручный меч Heroes IV" />
+	<block key="WE5_006_0_2202_EV1_Name" korean="Сотрудники Heroes IV с одной стороны" />
+	<block key="WE0_006_0_3281_EV1_Name" korean="Одноручных мечей V Героев" />
+	<block key="WE4_018_0_3281_EV1_Name" korean="Героя Кинжал V" />
+	<block key="WE6_013_0_3281_EV1_Name" korean="Плетеные руки героя V" />
+	<block key="WE1_009_0_3281_EV1_Name" korean="Двуручный меч герой V" />
+	<block key="WE5_009_0_3281_EV1_Name" korean="Герои V тростника в одной руке" />
+	<block key="WE0_003_0_3282_EV1_Name" korean="Одноручных мечей VI Героев" />
+	<block key="WE4_010_0_3282_EV1_Name" korean="Героя Кинжал VI" />
+	<block key="WE6_007_0_3282_EV1_Name" korean="Сотрудники Heroes VI руки" />
+	<block key="WE1_015_0_3282_EV1_Name" korean="Двуручный меч VI Героев" />
+	<block key="WE5_010_0_3282_EV1_Name" korean="Герои VI тростника в одной руке" />
+	<block key="WE0_009_0_3352_Name" korean="Благословенный клинок Верховный главнокомандующий" />
+	<block key="WE4_008_0_3352_Name" korean="Кинжал Пресвятой Верховный главнокомандующий" />
+	<block key="WE6_018_0_3352_Name" korean="Верховный главнокомандующий Пресвятой палки обеими руками" />
+	<block key="WE7_018_0_3352_Name" korean="Лук Пресвятой Верховный главнокомандующий" />
+	<block key="WE1_029_0_3352_Name" korean="Верховный главнокомандующий Пресвятой двуручных мечей" />
+	<block key="WE3_011_0_3352_Name" korean="Боевой топор Пресвятой Верховный главнокомандующий" />
+	<block key="WE5_018_0_3352_Name" korean="Верховный главнокомандующий Пресвятой тростника в одной руке" />
+	<block key="WE2_030_0_3352_Name" korean="Warhammer Верховный главнокомандующий Пресвятой" />
+	<block key="WE9_004_0_2352_Name" korean="Верховный главнокомандующий Пресвятой арбалета" />
+	<block key="WE8_004_0_0001_Name" korean="Верховный главнокомандующий Пресвятой копьем" />
+	<block key="ew0_039_0_0000_Name" korean="Одноручных мечей Хаоса Эльф" />
+	<block key="ew1_001_0_0000_Name" korean="Касим меч обеими руками" />
+	<block key="ew1_013_0_0000_Name" korean="Загрузите любой грызет глава двуручный меч" />
+	<block key="ew2_004_0_0000_Name" korean="Молот пустыни Brage руководителя" />
+	<block key="ew2_032_0_0000_Name" korean="Falken Giant Топор" />
+	<block key="ew4_014_0_0000_Name" korean="Женский бросок Les бросает вызов samgeol" />
+	<block key="ew4_015_0_0000_Name" korean="Эльфийские кинжал руки Хаоса" />
+	<block key="ew5_004_0_0000_Name" korean="Изменить ученый выстрел Лана Кане" />
+	<block key="ew5_025_0_0000_Name" korean="Сотрудники Муспелля в" />
+	<block key="ew5_026_0_0000_Name" korean="Эльф хаос тростника в одной руке" />
+	<block key="ew6_031_0_0000_Name" korean="О - Пн-дус-палочки" />
+	<block key="ew6_032_0_0000_Name" korean="Персонал карбоновой Roxanne" />
+	<block key="ew6_033_0_0000_Name" korean="Посох Хаоса эльфов руки" />
+	<block key="ew7_017_0_0000_Name" korean="Javelin Javelin Капитан Аль" />
+	<block key="ew7_018_0_0000_Name" korean="Мать копье в Haba Спирмена" />
+	<block key="ew7_019_0_0000_Name" korean="Лук Иоанна reumun Гент" />
+	<block key="ew7_020_0_0000_Name" korean="Лук Aurea" />
+	<block key="ew7_021_0_0000_Name" korean="Эльфы Chaos передал лук" />
+	<block key="ew7_022_0_0000_Name" korean="Половина русалки" />
+	<block key="ew7_028_0_0000_Name" korean="Арбалет Шах nangkkun Мальте" />
+	<block key="WE0_009_0_3353_Name" korean="Меч блестящий лидер" />
+	<block key="WE4_008_0_3353_Name" korean="Кинжал блестящей лидера" />
+	<block key="WE6_018_0_3353_Name" korean="Руки блестящей лидера тростника" />
+	<block key="WE7_018_0_3353_Name" korean="Лук блестящий лидер" />
+	<block key="WE1_029_0_3353_Name" korean="Двуручный меч блестящий лидер" />
+	<block key="WE3_011_0_3353_Name" korean="Блестящий лидер боевой топор" />
+	<block key="WE5_018_0_3353_Name" korean="Блестящий лидер одной стороны палочки" />
+	<block key="WE2_030_0_3353_Name" korean="Warhammer блестящий лидер" />
+	<block key="WE9_004_0_2353_Name" korean="Арбалет блестящий лидер" />
+	<block key="WE8_004_0_0002_Name" korean="Блестящий лидер копьем" />
+	<block key="WE9_002_0_1402_Name" korean="Копье йата Иман" />
+	<block key="WE8_002_0_1402_Name" korean="Арбалет Рейн Noir" />
+	<block key="WE0_045_1_4501_Name" korean="Меч гвардейцев" />
+	<block key="WE4_045_1_4501_Name" korean="Кинжал гвардейцы" />
+	<block key="WE6_045_1_4501_Name" korean="Гвардейцы придерживаться обеими руками" />
+	<block key="WE1_045_1_4501_Name" korean="Гвардейцы меч обеими руками" />
+	<block key="WE5_045_1_4501_Name" korean="Кане в одной руке гвардейцев" />
+	<block key="WE0_045_0_4501_Name" korean="Меч Аль Госек гвардии" />
+	<block key="WE4_045_0_4501_Name" korean="Кинжал знаю GÖCEK Guard" />
+	<block key="WE6_045_0_4501_Name" korean="Гечек руки охранников знаю палочку" />
+	<block key="WE1_045_0_4501_Name" korean="Аль Gocek двуручный меч охранник" />
+	<block key="WE5_045_0_4501_Name" korean="Аль палочки в одной руке Гечек гвардии" />
+	<block key="WE0_045_0_4502_Name" korean="Меч рыцарей Griffon" />
+	<block key="WE4_045_0_4502_Name" korean="Грифон Рыцари Кинжал" />
+	<block key="WE6_045_0_4502_Name" korean="Грифон руки рыцарей тростника" />
+	<block key="WE1_045_0_4502_Name" korean="Грифон рыцари меч обеими руками" />
+	<block key="WE5_045_0_4502_Name" korean="Персонал рыцарей Griffon передал" />
+	<block key="WE9_045_0_4502_Name" korean="Арбалет Рыцари Griffon" />
+	<block key="WE8_045_0_4502_Name" korean="Грифон Рыцари копьем" />
+	<block key="WE0_045_8_4501_Name" korean="Меч матери Haba yongbyeongdan" />
+	<block key="WE4_045_8_4501_Name" korean="Кинжал матери Haba yongbyeongdan" />
+	<block key="WE6_045_8_4501_Name" korean="Руки матери Haba yongbyeongdan тростника" />
+	<block key="WE1_045_8_4501_Name" korean="Меч руках матери Haba yongbyeongdan" />
+	<block key="WE5_045_8_4501_Name" korean="Камыш в одной руке матери Haba yongbyeongdan" />
+	<block key="WE0_045_3_4501_Name" korean="Меч из руин Гардиан" />
+	<block key="WE4_045_3_4501_Name" korean="Остатки опекуна кинжалов" />
+	<block key="WE6_045_3_4501_Name" korean="Остатки опекун обеими руками и палками" />
+	<block key="WE1_045_3_4501_Name" korean="Остатки опекун двуручным мечом" />
+	<block key="WE5_045_3_4501_Name" korean="Сотрудники Гардиан остается одной рукой" />
+	<block key="WE9_045_3_4501_Name" korean="Остается хранительницей арбалета" />
+	<block key="WE8_045_3_4501_Name" korean="Остатки опекуна копья" />
+	<block key="WE0_045_3_4502_Name" korean="Меч Кобба быть церковь" />
+	<block key="WE4_045_3_4502_Name" korean="Im кинжал Кобб Церковь" />
+	<block key="WE6_045_3_4502_Name" korean="Кобб того, как передал наименований тростника" />
+	<block key="WE1_045_3_4502_Name" korean="Кобб быть двуручный меч церкви" />
+	<block key="WE5_045_3_4502_Name" korean="Сотрудники Кобб того, как передал купюры" />
+	<block key="WE9_045_3_4502_Name" korean="Im в арбалета деноминации Cobb" />
+	<block key="WE8_045_3_4502_Name" korean="Im Кобб Церковь копьем" />
+	<block key="WE0_050_1_5001_Name" korean="Меч элитного преторианской" />
+	<block key="WE4_050_1_5001_Name" korean="Кинжал элитного преторианской" />
+	<block key="WE6_050_1_5001_Name" korean="Руки элитного преторианской тростника" />
+	<block key="WE1_050_1_5001_Name" korean="Меч руках элиты преторианской" />
+	<block key="WE5_050_1_5001_Name" korean="Сотрудники элита преторианской руками" />
+	<block key="WE0_050_8_5001_Name" korean="Меч пустыни Brage" />
+	<block key="WE4_050_8_5001_Name" korean="Кинжал пустыня Brage" />
+	<block key="WE6_050_8_5001_Name" korean="Brage придерживаться обе руки в пустыне" />
+	<block key="WE1_050_8_5001_Name" korean="Двуручный меч в пустыне Brage" />
+	<block key="WE5_050_8_5001_Name" korean="Пустыня тростника в одной руке Brage" />
+	<block key="WE0_050_3_5001_Name" korean="Меч из бутылки Темный Легион Elite" />
+	<block key="WE4_050_3_5001_Name" korean="Shadow Elite Corps кинжал бутылка" />
+	<block key="WE6_050_3_5001_Name" korean="Темные руках бутылки палочки элитного корпуса" />
+	<block key="WE1_050_3_5001_Name" korean="Меч из бутылки Темный Легион Elite с обеих рук" />
+	<block key="WE5_050_3_5001_Name" korean="Сотрудники элитного корпуса темную бутылку в одной руке" />
+	<block key="WE9_050_3_5001_Name" korean="Арбалет бутылки Темный Легион Elite" />
+	<block key="WE8_050_3_5001_Name" korean="Темный Легион Elite бутылка копьем" />
+	<block key="WE0_050_0_5002_Name" korean="Меч Отшельник" />
+	<block key="WE4_050_0_5002_Name" korean="Кинжал отшельника" />
+	<block key="WE6_050_0_5002_Name" korean="Руки отшельника придерживаться" />
+	<block key="WE1_050_0_5002_Name" korean="Отшельники меча обеими руками" />
+	<block key="WE5_050_0_5002_Name" korean="Отшельник тростника в одной руке" />
+	<block key="WE0_050_3_5002_Name" korean="Меч Темной бригадного генерала" />
+	<block key="WE4_050_3_5002_Name" korean="Тень Кинжал бригадный генерал" />
+	<block key="WE6_050_3_5002_Name" korean="Руки Dark бригадный генерал тростника" />
+	<block key="WE1_050_3_5002_Name" korean="Двуручный меч Тень бригадный генерал" />
+	<block key="WE5_050_3_5002_Name" korean="Одна рука бригады Генерального штаба Тьмы" />
+	<block key="WE9_050_3_5002_Name" korean="Арбалет Теневой бригадный генерал" />
+	<block key="WE8_050_3_5002_Name" korean="Тень бригадный генерал копье" />
+	<block key="pvpWE0_001_2_4564_Name" korean="Малый Slayer Меч" />
+	<block key="pvpWE4_001_2_4564_Name" korean="Кинжал нижней Slayer" />
+	<block key="pvpWE6_001_2_4564_Name" korean="Меньшие руки ручки Slayer" />
+	<block key="pvpWE1_001_2_4564_Name" korean="Малый Slayer меч обеими руками" />
+	<block key="pvpWE5_001_2_4564_Name" korean="Сотрудники нижней одной рукой убийцы" />
+	<block key="pvpWE9_002_2_4564_Name" korean="Арбалет Малый Slayer" />
+	<block key="pvpWE8_002_2_4564_Name" korean="Малый копье Slayer" />
+	<block key="pvpWE0_001_2_5069_Name" korean="Промежуточный Slayer Меч" />
+	<block key="pvpWE4_001_2_5069_Name" korean="Промежуточный кинжал Slayer" />
+	<block key="pvpWE6_001_2_5069_Name" korean="Придерживайтесь Slayer руки среднего класса" />
+	<block key="pvpWE1_001_2_5069_Name" korean="Промежуточный Slayer меч обеими руками" />
+	<block key="pvpWE5_001_2_5069_Name" korean="Кане в одной руке промежуточного Slayer" />
+	<block key="pvpWE9_002_2_5069_Name" korean="Промежуточный арбалет убийца" />
+	<block key="pvpWE8_002_2_5069_Name" korean="Копье Intermediate убийцы" />
+	<block key="WE0_045_3_4502_CR_Name" korean="Сияющий Adamantium Меч" />
+	<block key="WE4_045_3_4502_CR_Name" korean="Сияющий Adamantium Кинжал" />
+	<block key="WE6_045_3_4502_CR_Name" korean="Сияющий Adamantium палку обеими руками" />
+	<block key="WE1_045_3_4502_CR_Name" korean="Сияющий Adamantium двуручный меч" />
+	<block key="WE5_045_3_4502_CR_Name" korean="Сияющий Adamantium трость в руке" />
+	<block key="WE9_045_3_4502_CR_Name" korean="Сияющий Adamantium арбалет" />
+	<block key="WE8_045_3_4502_CR_Name" korean="Сияющий Adamantium копий и алебард" />
+	<block key="WE0_050_3_5002_CR_Name" korean="Noble Durable Adamantium Меч" />
+	<block key="WE4_050_3_5002_CR_Name" korean="Благородный Adamantium Кинжал" />
+	<block key="WE6_050_3_5002_CR_Name" korean="Noble Durable Adamantium палка с двумя руками" />
+	<block key="WE1_050_3_5002_CR_Name" korean="Noble Durable Adamantium меч обеими руками" />
+	<block key="WE5_050_3_5002_CR_Name" korean="Noble Durable Adamantium тростника в одной руке" />
+	<block key="WE9_050_3_5002_CR_Name" korean="Noble Durable Adamantium арбалет" />
+	<block key="WE8_050_3_5002_CR_Name" korean="Noble Durable Adamantium Копья" />
+	<block key="WE0_050_3_5003_Name" korean="Благословенный клинок тьмы бригадного генерала" />
+	<block key="WE4_050_3_5003_Name" korean="Кинжал бригадный генерал Пресвятой Тьмы" />
+	<block key="WE6_050_3_5003_Name" korean="Руки Пресвятой Тьмы бригадный генерал тростника" />
+	<block key="WE1_050_3_5003_Name" korean="Меч Темной бригадного генерала благословил руки" />
+	<block key="WE5_050_3_5003_Name" korean="Бригадный генерал тростника в одной руке Пресвятой Тьмы" />
+	<block key="WE9_050_3_5003_Name" korean="Арбалет блаженной темноте бригадный генерал" />
+	<block key="WE8_050_3_5003_Name" korean="Копье блаженной темноте бригадный генерал" />
+	<block key="WE0_005_0_3301_EV1_Name" korean="Один двуручный меч VII Героев" />
+	<block key="WE4_009_0_3301_EV1_Name" korean="Героя Кинжал VII" />
+	<block key="WE6_008_0_3301_EV1_Name" korean="Персонал героя передает VII" />
+	<block key="WE1_012_0_3301_EV1_Name" korean="VII в двуручный меч героя" />
+	<block key="WE5_012_0_3301_EV1_Name" korean="Персонал героя вручил VII" />
+	<block key="WE9_002_0_1251_EV1_Name" korean="Героя Арбалет VII" />
+	<block key="WE8_002_0_1251_EV1_Name" korean="Копье VII Героев" />
+	<block key="WE0_009_0_3351_EV1_Name" korean="VIII в одной руке и мечом героя" />
+	<block key="WE4_008_0_3351_EV1_Name" korean="Героя Кинжал VIII" />
+	<block key="WE6_018_0_3351_EV1_Name" korean="Персонал героя передает VIII" />
+	<block key="WE1_029_0_3351_EV1_Name" korean="Двуручный меч VIII в Heroes" />
+	<block key="WE5_018_0_3351_EV1_Name" korean="Персонал героя вручил VIII" />
+	<block key="WE9_004_0_2351_EV1_Name" korean="Героя Арбалет VIII" />
+	<block key="WE8_004_0_0000_EV1_Name" korean="VIII в подводной героя" />
+	<block key="WE9_050_4_4501_Name" korean="Древние предки арбалета" />
+	<block key="WE8_050_4_4501_Name" korean="Копье древних предков" />
+	<block key="WE0_045_0_4502_RE_Name" korean="Меч надежды VIII" />
+	<block key="WE4_045_0_4502_RE_Name" korean="Надежда Кинжал VIII" />
+	<block key="WE6_045_0_4502_RE_Name" korean="Надежда рук придерживаться VIII" />
+	<block key="WE1_045_0_4502_RE_Name" korean="Двуручный меч надежды VIII" />
+	<block key="WE5_045_0_4502_RE_Name" korean="Надеюсь, VIII трость в руке" />
+	<block key="WE9_045_0_4502_RE_Name" korean="Арбалет надежда VIII" />
+	<block key="WE8_045_0_4502_RE_Name" korean="VIII в надежде копьем" />
+	<block key="WE0_050_0_5002_RE_Name" korean="Меч надежды IX" />
+	<block key="WE4_050_0_5002_RE_Name" korean="Надеюсь, кинжал IX" />
+	<block key="WE6_050_0_5002_RE_Name" korean="Персонал надежды с обеими руками IX" />
+	<block key="WE1_050_0_5002_RE_Name" korean="Двуручный меч надежды IX" />
+	<block key="WE5_050_0_5002_RE_Name" korean="Персонал надежды в одной руке IX" />
+	<block key="WE9_045_0_5002_RE_Name" korean="Арбалет надежда IX" />
+	<block key="WE8_045_0_5002_RE_Name" korean="Копье IX надежды" />
+	<block key="WE0_XMAS_0_2103_Name" korean="Меч Рождество" />
+	<block key="WE4_XMAS_0_2103_Name" korean="Кинжал Рождество" />
+	<block key="WE6_XMAS_0_2103_Name" korean="Руки Рождество безделушка" />
+	<block key="WE1_XMAS_0_2103_Name" korean="Двуручный меч Рождества" />
+	<block key="WE5_XMAS_0_2103_Name" korean="Направленный Cane Рождество" />
+</blocks>

@@ -1,0 +1,2841 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="NPC_0401_Name" korean="대장군 (401)" />
+	<block key="NPC_0402_Name" korean="상급기사 단장_남 (402)" />
+	<block key="NPC_0403_Name" korean="상급기사 단장_여 (403)" />
+	<block key="NPC_0404_Name" korean="기사 (404)" />
+	<block key="NPC_0405_Name" korean="하사관_남 (405)" />
+	<block key="NPC_0406_Name" korean="하사관_여 (406)" />
+	<block key="NPC_0407_Name" korean="병사_남 (407)" />
+	<block key="NPC_0408_Name" korean="병사_여 (408)" />
+	<block key="NPC_0409_Name" korean="마법사 2등급_여 (409)" />
+	<block key="NPC_0410_Name" korean="돌격대장 루시머 (410)" />
+	<block key="NPC_0411_Name" korean="재빠른 총잡이 슬로 (411)" />
+	<block key="NPC_0412_Name" korean="관리 (412)" />
+	<block key="NPC_0413_Name" korean="견습백마법사_남 (413)" />
+	<block key="NPC_0414_Name" korean="견습백마법사_여 (414)" />
+	<block key="NPC_0415_Name" korean="견습흑마법사_남 (415)" />
+	<block key="NPC_0416_Name" korean="고급마법사_여 (416)" />
+	<block key="NPC_0417_Name" korean="공작 (417)" />
+	<block key="NPC_0418_Name" korean="대마법사율너스 (418)" />
+	<block key="NPC_0419_Name" korean="대파사주문사_남 (419)" />
+	<block key="NPC_0420_Name" korean="떠돌이마법사 (420)" />
+	<block key="NPC_0421_Name" korean="백작 (421)" />
+	<block key="NPC_0422_Name" korean="시녀 (422)" />
+	<block key="NPC_0423_Name" korean="시종장 (423)" />
+	<block key="NPC_0424_Name" korean="어둠연구가 (424)" />
+	<block key="NPC_0425_Name" korean="왕비 (425)" />
+	<block key="NPC_0426_Name" korean="진리마법사 (426)" />
+	<block key="NPC_0427_Name" korean="흑마법사 (427)" />
+	<block key="NPC_0428_Name" korean="라니아 공주 (428)" />
+	<block key="NPC_0429_Name" korean="국왕 (429)" />
+	<block key="NPC_0430_Name" korean="귀족아가씨 (430)" />
+	<block key="NPC_0431_Name" korean="포탈이동사 (431)" />
+	<block key="NPC_0432_Name" korean="남자교황 (432)" />
+	<block key="NPC_0433_Name" korean="남자주교 (433)" />
+	<block key="NPC_0434_Name" korean="남자사제 (434)" />
+	<block key="NPC_0435_Name" korean="여자사제 (435)" />
+	<block key="NPC_0436_Name" korean="남자견습신관 (436)" />
+	<block key="NPC_0437_Name" korean="남자쉐도우 (437)" />
+	<block key="NPC_0438_Name" korean="여자쉐도우 (438)" />
+	<block key="NPC_0439_Name" korean="남자수석대장장이 (439)" />
+	<block key="NPC_0440_Name" korean="남자상급대장장이 (440)" />
+	<block key="NPC_0441_Name" korean="남자대장장이 (441)" />
+	<block key="NPC_0442_Name" korean="여자수석대장장이 (442)" />
+	<block key="NPC_0443_Name" korean="상인중년남자 (443)" />
+	<block key="NPC_0444_Name" korean="상인청년 (444)" />
+	<block key="NPC_0445_Name" korean="남자 일등항해서 (445)" />
+	<block key="NPC_0446_Name" korean="남자기관사 (446)" />
+	<block key="NPC_0447_Name" korean="남자 상급선원 (447)" />
+	<block key="NPC_0448_Name" korean="남자 주임 세공장인 (448)" />
+	<block key="NPC_0449_Name" korean="할아버지 (449)" />
+	<block key="NPC_0450_Name" korean="할머니 (450)" />
+	<block key="NPC_0451_Name" korean="대장군(발보아드 변형) (451)" />
+	<block key="NPC_2000_Name" korean="마을 청년 (2000)" />
+	<block key="NPC_2001_Name" korean="민병 청년 (2001)" />
+	<block key="NPC_2002_Name" korean="광부 청년 (2002)" />
+	<block key="NPC_2003_Name" korean="농부 청년 (2003)" />
+	<block key="NPC_2004_Name" korean="상인 청년 (2004)" />
+	<block key="NPC_2005_Name" korean="마을 중년 (2005)" />
+	<block key="NPC_2006_Name" korean="민병대 대장 남자 (2006)" />
+	<block key="NPC_2007_Name" korean="광부 십장 남자 (2007)" />
+	<block key="NPC_2008_Name" korean="농부 중년 (2008)" />
+	<block key="NPC_2009_Name" korean="상인 중년 (2009)" />
+	<block key="NPC_5000_Name" korean="여자 시녀 (5000)" />
+	<block key="NPC_5001_Name" korean="마을 처녀 (5001)" />
+	<block key="NPC_5002_Name" korean="여자 중년 (5002)" />
+	<block key="NPC_5003_Name" korean="일꾼 처녀 (5003)" />
+	<block key="NPC_5004_Name" korean="술집 주인 (5004)" />
+	<block key="NPC_5005_Name" korean="술집 종업원 (5005)" />
+	<block key="NPC_5006_Name" korean="여자 요리사 (5006)" />
+	<block key="NPC_5007_Name" korean="상인 아줌마 (5007)" />
+	<block key="NPC_5008_Name" korean="상인 처녀 (5008)" />
+	<block key="Inner_02_Name" korean="기본 의상 어깨" />
+	<block key="Inner_03_Name" korean="기본 의상 몸" />
+	<block key="Inner_04_Name" korean="기본 의상 손" />
+	<block key="Inner_05_Name" korean="기본 의상 발" />
+	<block key="AR0_110_1_9999_Name" korean="로비용 가디언 투구" />
+	<block key="AR0_110_2_9999_Name" korean="로비용 가디언 어깨" />
+	<block key="AR0_110_3_9999_Name" korean="로비용 가디언 갑옷" />
+	<block key="AR0_110_4_9999_Name" korean="로비용 가디언 장갑" />
+	<block key="AR0_110_5_9999_Name" korean="로비용 가디언 장화" />
+	<block key="AR1_012_1_9999_Name" korean="로비용 버서커 투구" />
+	<block key="AR1_012_2_9999_Name" korean="로비용 버서커 어깨" />
+	<block key="AR1_012_3_9999_Name" korean="로비용 버서커 갑옷" />
+	<block key="AR1_012_4_9999_Name" korean="로비용 버서커 장갑" />
+	<block key="AR1_012_5_9999_Name" korean="로비용 버서커 장화" />
+	<block key="AR3_106_1_9999_Name" korean="로비용 어쌔신 투구" />
+	<block key="AR3_106_2_9999_Name" korean="로비용 어쌔신 어깨" />
+	<block key="AR3_106_3_9999_Name" korean="로비용 어쌔신 갑옷" />
+	<block key="AR3_106_4_9999_Name" korean="로비용 어쌔신 장갑" />
+	<block key="AR3_106_5_9999_Name" korean="로비용 어쌔신 장화" />
+	<block key="AR4_107_1_9999_Name" korean="로비용 매지션 투구" />
+	<block key="AR4_107_2_9999_Name" korean="로비용 매지션 어깨" />
+	<block key="AR4_107_3_9999_Name" korean="로비용 매지션 갑옷" />
+	<block key="AR4_107_4_9999_Name" korean="로비용 매지션 장갑" />
+	<block key="AR4_107_5_9999_Name" korean="로비용 매지션 장화" />
+	<block key="AR5_106_1_9999_Name" korean="로비용 프리스트 투구" />
+	<block key="AR5_106_2_9999_Name" korean="로비용 프리스트 어깨" />
+	<block key="AR5_106_3_9999_Name" korean="로비용 프리스트 갑옷" />
+	<block key="AR5_106_4_9999_Name" korean="로비용 프리스트 장갑" />
+	<block key="AR5_106_5_9999_Name" korean="로비용 프리스트 장화" />
+	<block key="AR0_000_3_91031_Name" korean="허름한 수호 중갑" />
+	<block key="AR0_000_5_91031_Name" korean="허름한 수호 신발" />
+	<block key="AR1_000_3_91031_Name" korean="허름한 광폭 중갑" />
+	<block key="AR1_000_5_91031_Name" korean="허름한 광폭 신발" />
+	<block key="AR2_000_3_91031_Name" korean="허름한 수색 경갑" />
+	<block key="AR2_000_5_91031_Name" korean="허름한 수색 신발" />
+	<block key="AR3_000_3_91031_Name" korean="허름한 그림자 경갑" />
+	<block key="AR3_000_5_91031_Name" korean="허름한 그림자 신발" />
+	<block key="AR4_000_3_91031_Name" korean="허름한 원소 로브" />
+	<block key="AR4_000_5_91031_Name" korean="허름한 원소 신발" />
+	<block key="AR5_000_3_91031_Name" korean="허름한 신념 로브" />
+	<block key="AR5_000_5_91031_Name" korean="허름한 신념 신발" />
+	<block key="AR0_000_3_91051_Name" korean="평범한 수호 중갑" />
+	<block key="AR0_000_5_91051_Name" korean="평범한 수호 신발" />
+	<block key="AR1_000_3_91051_Name" korean="평범한 광폭 중갑" />
+	<block key="AR1_000_5_91051_Name" korean="평범한 광폭 신발" />
+	<block key="AR2_000_3_91051_Name" korean="평범한 수색 경갑" />
+	<block key="AR2_000_5_91051_Name" korean="평범한 수색 신발" />
+	<block key="AR3_000_3_91051_Name" korean="평범한 그림자 경갑" />
+	<block key="AR3_000_5_91051_Name" korean="평범한 그림자 신발" />
+	<block key="AR4_000_3_91051_Name" korean="평범한 원소 로브" />
+	<block key="AR4_000_5_91051_Name" korean="평범한 원소 신발" />
+	<block key="AR5_000_3_91051_Name" korean="평범한 신념 로브" />
+	<block key="AR5_000_5_91051_Name" korean="평범한 신념 신발" />
+	<block key="AR0_001_3_92051_Name" korean="신룡 기사단의 수호 중갑" />
+	<block key="AR0_001_4_92051_Name" korean="신룡 기사단의 수호 장갑" />
+	<block key="AR0_001_5_92051_Name" korean="신룡 기사단의 수호 신발" />
+	<block key="AR1_001_3_92051_Name" korean="신룡 기사단의 광폭 중갑" />
+	<block key="AR1_001_4_92051_Name" korean="신룡 기사단의 광폭 장갑" />
+	<block key="AR1_001_5_92051_Name" korean="신룡 기사단의 광폭 신발" />
+	<block key="AR3_001_3_92051_Name" korean="신룡 기사단의 그림자 경갑" />
+	<block key="AR3_001_4_92051_Name" korean="신룡 기사단의 그림자 장갑" />
+	<block key="AR3_001_5_92051_Name" korean="신룡 기사단의 그림자 신발" />
+	<block key="AR4_001_3_92051_Name" korean="신룡 기사단의 원소 로브" />
+	<block key="AR4_001_4_92051_Name" korean="신룡 기사단의 원소 장갑" />
+	<block key="AR4_001_5_92051_Name" korean="신룡 기사단의 원소 신발" />
+	<block key="AR5_001_3_92051_Name" korean="신룡 기사단의 신념 로브" />
+	<block key="AR5_001_4_92051_Name" korean="신룡 기사단의 신념 장갑" />
+	<block key="AR5_001_5_92051_Name" korean="신룡 기사단의 신념 신발" />
+	<block key="AR0_002_3_91102_Name" korean="쓸만한 수호 중갑" />
+	<block key="AR0_002_4_91102_Name" korean="쓸만한 수호 장갑" />
+	<block key="AR0_002_5_91102_Name" korean="쓸만한 수호 신발" />
+	<block key="AR1_002_3_91102_Name" korean="쓸만한 광폭 중갑" />
+	<block key="AR1_002_4_91102_Name" korean="쓸만한 광폭 장갑" />
+	<block key="AR1_002_5_91102_Name" korean="쓸만한 광폭 신발" />
+	<block key="AR2_002_3_91102_Name" korean="쓸만한 수색 경갑" />
+	<block key="AR2_002_4_91102_Name" korean="쓸만한 수색 장갑" />
+	<block key="AR2_002_5_91102_Name" korean="쓸만한 수색 신발" />
+	<block key="AR3_002_3_91102_Name" korean="쓸만한 그림자 경갑" />
+	<block key="AR3_002_4_91102_Name" korean="쓸만한 그림자 장갑" />
+	<block key="AR3_002_5_91102_Name" korean="쓸만한 그림자 신발" />
+	<block key="AR4_022_3_91102_Name" korean="쓸만한 원소 로브" />
+	<block key="AR4_022_4_91102_Name" korean="쓸만한 원소 장갑" />
+	<block key="AR4_022_5_91102_Name" korean="쓸만한 원소 신발" />
+	<block key="AR5_022_3_91102_Name" korean="쓸만한 신념 로브" />
+	<block key="AR5_022_4_91102_Name" korean="쓸만한 신념 장갑" />
+	<block key="AR5_022_5_91102_Name" korean="쓸만한 신념 신발" />
+	<block key="AR0_002_3_92103_Name" korean="요정의 수호 중갑" />
+	<block key="AR0_002_4_92103_Name" korean="요정의 수호 장갑" />
+	<block key="AR0_002_5_92103_Name" korean="요정의 수호 신발" />
+	<block key="AR1_002_3_92103_Name" korean="요정의 광폭 중갑" />
+	<block key="AR1_002_4_92103_Name" korean="요정의 광폭 장갑" />
+	<block key="AR1_002_5_92103_Name" korean="요정의 광폭 신발" />
+	<block key="AR3_002_3_92103_Name" korean="요정의 그림자 경갑" />
+	<block key="AR3_002_4_92103_Name" korean="요정의 그림자 장갑" />
+	<block key="AR3_002_5_92103_Name" korean="요정의 그림자 신발" />
+	<block key="AR4_022_3_92103_Name" korean="요정의 원소 로브" />
+	<block key="AR4_022_4_92103_Name" korean="요정의 원소 장갑" />
+	<block key="AR4_022_5_92103_Name" korean="요정의 원소 신발" />
+	<block key="AR5_022_3_92103_Name" korean="요정의 신념 로브" />
+	<block key="AR5_022_4_92103_Name" korean="요정의 신념 장갑" />
+	<block key="AR5_022_5_92103_Name" korean="요정의 신념 신발" />
+	<block key="AR0_002_3_92104_Name" korean="숲의 수호 중갑" />
+	<block key="AR0_002_4_92104_Name" korean="숲의 수호 장갑" />
+	<block key="AR0_002_5_92104_Name" korean="숲의 수호 신발" />
+	<block key="AR1_002_3_92104_Name" korean="숲의 광폭 중갑" />
+	<block key="AR1_002_4_92104_Name" korean="숲의 광폭 장갑" />
+	<block key="AR1_002_5_92104_Name" korean="숲의 광폭 신발" />
+	<block key="AR3_002_3_92104_Name" korean="숲의 그림자 경갑" />
+	<block key="AR3_002_4_92104_Name" korean="숲의 그림자 장갑" />
+	<block key="AR3_002_5_92104_Name" korean="숲의 그림자 신발" />
+	<block key="AR4_022_3_92104_Name" korean="숲의 원소 로브" />
+	<block key="AR4_022_4_92104_Name" korean="숲의 원소 장갑" />
+	<block key="AR4_022_5_92104_Name" korean="숲의 원소 신발" />
+	<block key="AR5_022_3_92104_Name" korean="숲의 신념 로브" />
+	<block key="AR5_022_4_92104_Name" korean="숲의 신념 장갑" />
+	<block key="AR5_022_5_92104_Name" korean="숲의 신념 신발" />
+	<block key="AR0_022_3_92131_Name" korean="왕실 근위대 수호 중갑" />
+	<block key="AR0_022_4_92131_Name" korean="왕실 근위대 수호 장갑" />
+	<block key="AR0_022_5_92131_Name" korean="왕실 근위대 수호 신발" />
+	<block key="AR1_022_3_92131_Name" korean="왕실 근위대 광폭 중갑" />
+	<block key="AR1_022_4_92131_Name" korean="왕실 근위대 광폭 장갑" />
+	<block key="AR1_022_5_92131_Name" korean="왕실 근위대 광폭 신발" />
+	<block key="AR3_022_3_92131_Name" korean="왕실 근위대 그림자 경갑" />
+	<block key="AR3_022_4_92131_Name" korean="왕실 근위대 그림자 장갑" />
+	<block key="AR3_022_5_92131_Name" korean="왕실 근위대 그림자 신발" />
+	<block key="AR4_022_3_92131_Name" korean="왕실 근위대 원소 로브" />
+	<block key="AR4_022_4_92131_Name" korean="왕실 근위대 원소 장갑" />
+	<block key="AR4_022_5_92131_Name" korean="왕실 근위대 원소 신발" />
+	<block key="AR5_022_3_92131_Name" korean="왕실 근위대 신념 로브" />
+	<block key="AR5_022_4_92131_Name" korean="왕실 근위대 신념 장갑" />
+	<block key="AR5_022_5_92131_Name" korean="왕실 근위대 신념 신발" />
+	<block key="AR0_023_3_91151_Name" korean="일반병의 수호 중갑" />
+	<block key="AR0_023_4_91151_Name" korean="일반병의 수호 장갑" />
+	<block key="AR0_023_5_91151_Name" korean="일반병의 수호 신발" />
+	<block key="AR1_023_3_91151_Name" korean="일반병의 광폭 중갑" />
+	<block key="AR1_023_4_91151_Name" korean="일반병의 광폭 장갑" />
+	<block key="AR1_023_5_91151_Name" korean="일반병의 광폭 신발" />
+	<block key="AR2_003_3_91151_Name" korean="일반병의 수색 중갑" />
+	<block key="AR2_003_4_91151_Name" korean="일반병의 수색 장갑" />
+	<block key="AR2_003_5_91151_Name" korean="일반병의 수색 신발" />
+	<block key="AR3_003_3_91151_Name" korean="일반병의 그림자 경갑" />
+	<block key="AR3_003_4_91151_Name" korean="일반병의 그림자 장갑" />
+	<block key="AR3_003_5_91151_Name" korean="일반병의 그림자 신발" />
+	<block key="AR4_002_3_91151_Name" korean="일반병의 원소 로브" />
+	<block key="AR4_002_4_91151_Name" korean="일반병의 원소 장갑" />
+	<block key="AR4_002_5_91151_Name" korean="일반병의 원소 신발" />
+	<block key="AR5_003_3_91151_Name" korean="일반병의 신념 로브" />
+	<block key="AR5_003_4_91151_Name" korean="일반병의 신념 장갑" />
+	<block key="AR5_003_5_91151_Name" korean="일반병의 신념 신발" />
+	<block key="AR0_023_3_92154_Name" korean="습격자의 수호 중갑" />
+	<block key="AR0_023_4_92154_Name" korean="습격자의 수호 장갑" />
+	<block key="AR0_023_5_92154_Name" korean="습격자의 수호 신발" />
+	<block key="AR1_023_3_92154_Name" korean="습격자의 광폭 중갑" />
+	<block key="AR1_023_4_92154_Name" korean="습격자의 광폭 장갑" />
+	<block key="AR1_023_5_92154_Name" korean="습격자의 광폭 신발" />
+	<block key="AR3_003_3_92154_Name" korean="습격자의 그림자 경갑" />
+	<block key="AR3_003_4_92154_Name" korean="습격자의 그림자 장갑" />
+	<block key="AR3_003_5_92154_Name" korean="습격자의 그림자 신발" />
+	<block key="AR4_002_3_92154_Name" korean="습격자의 원소 로브" />
+	<block key="AR4_002_4_92154_Name" korean="습격자의 원소 장갑" />
+	<block key="AR4_002_5_92154_Name" korean="습격자의 원소 신발" />
+	<block key="AR5_003_3_92154_Name" korean="습격자의 신념 로브" />
+	<block key="AR5_003_4_92154_Name" korean="습격자의 신념 장갑" />
+	<block key="AR5_003_5_92154_Name" korean="습격자의 신념 신발" />
+	<block key="AR0_023_2_92155_Name" korean="고대 화염 골렘의 수호 어깨" />
+	<block key="AR0_023_3_92155_Name" korean="고대 화염 골렘의 수호 중갑" />
+	<block key="AR0_023_4_92155_Name" korean="고대 화염 골렘의 수호 장갑" />
+	<block key="AR0_023_5_92155_Name" korean="고대 화염 골렘의 수호 신발" />
+	<block key="AR1_023_2_92155_Name" korean="고대 화염 골렘의 광폭 어깨" />
+	<block key="AR1_023_3_92155_Name" korean="고대 화염 골렘의 광폭 중갑" />
+	<block key="AR1_023_4_92155_Name" korean="고대 화염 골렘의 광폭 장갑" />
+	<block key="AR1_023_5_92155_Name" korean="고대 화염 골렘의 광폭 신발" />
+	<block key="AR3_003_2_92155_Name" korean="고대 화염 골렘의 그림자 어깨" />
+	<block key="AR3_003_3_92155_Name" korean="고대 화염 골렘의 그림자 경갑" />
+	<block key="AR3_003_4_92155_Name" korean="고대 화염 골렘의 그림자 장갑" />
+	<block key="AR3_003_5_92155_Name" korean="고대 화염 골렘의 그림자 신발" />
+	<block key="AR4_002_2_92155_Name" korean="고대 화염 골렘의 원소 어깨" />
+	<block key="AR4_002_3_92155_Name" korean="고대 화염 골렘의 원소 로브" />
+	<block key="AR4_002_4_92155_Name" korean="고대 화염 골렘의 원소 장갑" />
+	<block key="AR4_002_5_92155_Name" korean="고대 화염 골렘의 원소 신발" />
+	<block key="AR5_003_2_92155_Name" korean="고대 화염 골렘의 신념 어깨" />
+	<block key="AR5_003_3_92155_Name" korean="고대 화염 골렘의 신념 로브" />
+	<block key="AR5_003_4_92155_Name" korean="고대 화염 골렘의 신념 장갑" />
+	<block key="AR5_003_5_92155_Name" korean="고대 화염 골렘의 신념 신발" />
+	<block key="AR0_023_2_92156_Name" korean="파견단의 수호 어깨" />
+	<block key="AR0_023_3_92156_Name" korean="파견단의 수호 중갑" />
+	<block key="AR0_023_4_92156_Name" korean="파견단의 수호 장갑" />
+	<block key="AR0_023_5_92156_Name" korean="파견단의 수호 신발" />
+	<block key="AR1_023_2_92156_Name" korean="파견단의 광폭 어깨" />
+	<block key="AR1_023_3_92156_Name" korean="파견단의 광폭 중갑" />
+	<block key="AR1_023_4_92156_Name" korean="파견단의 광폭 장갑" />
+	<block key="AR1_023_5_92156_Name" korean="파견단의 광폭 신발" />
+	<block key="AR3_003_2_92156_Name" korean="파견단의 그림자 어깨" />
+	<block key="AR3_003_3_92156_Name" korean="파견단의 그림자 경갑" />
+	<block key="AR3_003_4_92156_Name" korean="파견단의 그림자 장갑" />
+	<block key="AR3_003_5_92156_Name" korean="파견단의 그림자 신발" />
+	<block key="AR4_002_2_92156_Name" korean="파견단의 원소 어깨" />
+	<block key="AR4_002_3_92156_Name" korean="파견단의 원소 로브" />
+	<block key="AR4_002_4_92156_Name" korean="파견단의 원소 장갑" />
+	<block key="AR4_002_5_92156_Name" korean="파견단의 원소 신발" />
+	<block key="AR5_003_2_92156_Name" korean="파견단의 신념 어깨" />
+	<block key="AR5_003_3_92156_Name" korean="파견단의 신념 로브" />
+	<block key="AR5_003_4_92156_Name" korean="파견단의 신념 장갑" />
+	<block key="AR5_003_5_92156_Name" korean="파견단의 신념 신발" />
+	<block key="AR0_024_2_91201_Name" korean="숙련병의 수호 어깨" />
+	<block key="AR0_024_3_91201_Name" korean="숙련병의 수호 중갑" />
+	<block key="AR0_024_4_91201_Name" korean="숙련병의 수호 장갑" />
+	<block key="AR0_024_5_91201_Name" korean="숙련병의 수호 신발" />
+	<block key="AR1_004_2_91201_Name" korean="숙련병의 광폭 어깨" />
+	<block key="AR1_004_3_91201_Name" korean="숙련병의 광폭 중갑" />
+	<block key="AR1_004_4_91201_Name" korean="숙련병의 광폭 장갑" />
+	<block key="AR1_004_5_91201_Name" korean="숙련병의 광폭 신발" />
+	<block key="AR2_006_2_91201_Name" korean="숙련병의 수색 어깨" />
+	<block key="AR2_006_3_91201_Name" korean="숙련병의 수색 경갑" />
+	<block key="AR2_006_4_91201_Name" korean="숙련병의 수색 장갑" />
+	<block key="AR2_006_5_91201_Name" korean="숙련병의 수색 신발" />
+	<block key="AR3_024_2_91201_Name" korean="숙련병의 그림자 어깨" />
+	<block key="AR3_024_3_91201_Name" korean="숙련병의 그림자 경갑" />
+	<block key="AR3_024_4_91201_Name" korean="숙련병의 그림자 장갑" />
+	<block key="AR3_024_5_91201_Name" korean="숙련병의 그림자 신발" />
+	<block key="AR4_024_2_91201_Name" korean="숙련병의 원소 어깨" />
+	<block key="AR4_024_3_91201_Name" korean="숙련병의 원소 로브" />
+	<block key="AR4_024_4_91201_Name" korean="숙련병의 원소 장갑" />
+	<block key="AR4_024_5_91201_Name" korean="숙련병의 원소 신발" />
+	<block key="AR5_002_2_91201_Name" korean="숙련병의 신념 어깨" />
+	<block key="AR5_002_3_91201_Name" korean="숙련병의 신념 로브" />
+	<block key="AR5_002_4_91201_Name" korean="숙련병의 신념 장갑" />
+	<block key="AR5_002_5_91201_Name" korean="숙련병의 신념 신발" />
+	<block key="AR0_024_2_92201_Name" korean="흡혈귀의 수호 어깨" />
+	<block key="AR0_024_3_92201_Name" korean="흡혈귀의 수호 중갑" />
+	<block key="AR0_024_4_92201_Name" korean="흡혈귀의 수호 장갑" />
+	<block key="AR0_024_5_92201_Name" korean="흡혈귀의 수호 신발" />
+	<block key="AR1_004_2_92201_Name" korean="흡혈귀의 광폭 어깨" />
+	<block key="AR1_004_3_92201_Name" korean="흡혈귀의 광폭 중갑" />
+	<block key="AR1_004_4_92201_Name" korean="흡혈귀의 광폭 장갑" />
+	<block key="AR1_004_5_92201_Name" korean="흡혈귀의 광폭 신발" />
+	<block key="AR3_024_2_92201_Name" korean="흡혈귀의 그림자 어깨" />
+	<block key="AR3_024_3_92201_Name" korean="흡혈귀의 그림자 경갑" />
+	<block key="AR3_024_4_92201_Name" korean="흡혈귀의 그림자 장갑" />
+	<block key="AR3_024_5_92201_Name" korean="흡혈귀의 그림자 신발" />
+	<block key="AR4_024_2_92201_Name" korean="흡혈귀의 원소 어깨" />
+	<block key="AR4_024_3_92201_Name" korean="흡혈귀의 원소 로브" />
+	<block key="AR4_024_4_92201_Name" korean="흡혈귀의 원소 장갑" />
+	<block key="AR4_024_5_92201_Name" korean="흡혈귀의 원소 신발" />
+	<block key="AR5_002_2_92201_Name" korean="흡혈귀의 신념 어깨" />
+	<block key="AR5_002_3_92201_Name" korean="흡혈귀의 신념 로브" />
+	<block key="AR5_002_4_92201_Name" korean="흡혈귀의 신념 장갑" />
+	<block key="AR5_002_5_92201_Name" korean="흡혈귀의 신념 신발" />
+	<block key="AR0_024_2_92203_Name" korean="민병대의 수호 어깨" />
+	<block key="AR0_024_3_92203_Name" korean="민병대의 수호 중갑" />
+	<block key="AR0_024_4_92203_Name" korean="민병대의 수호 장갑" />
+	<block key="AR0_024_5_92203_Name" korean="민병대의 수호 신발" />
+	<block key="AR1_004_2_92203_Name" korean="민병대의 광폭 어깨" />
+	<block key="AR1_004_3_92203_Name" korean="민병대의 광폭 중갑" />
+	<block key="AR1_004_4_92203_Name" korean="민병대의 광폭 장갑" />
+	<block key="AR1_004_5_92203_Name" korean="민병대의 광폭 신발" />
+	<block key="AR3_024_2_92203_Name" korean="민병대의 그림자 어깨" />
+	<block key="AR3_024_3_92203_Name" korean="민병대의 그림자 경갑" />
+	<block key="AR3_024_4_92203_Name" korean="민병대의 그림자 장갑" />
+	<block key="AR3_024_5_92203_Name" korean="민병대의 그림자 신발" />
+	<block key="AR4_024_2_92203_Name" korean="민병대의 원소 어깨" />
+	<block key="AR4_024_3_92203_Name" korean="민병대의 원소 로브" />
+	<block key="AR4_024_4_92203_Name" korean="민병대의 원소 장갑" />
+	<block key="AR4_024_5_92203_Name" korean="민병대의 원소 신발" />
+	<block key="AR5_002_2_92203_Name" korean="민병대의 신념 어깨" />
+	<block key="AR5_002_3_92203_Name" korean="민병대의 신념 로브" />
+	<block key="AR5_002_4_92203_Name" korean="민병대의 신념 장갑" />
+	<block key="AR5_002_5_92203_Name" korean="민병대의 신념 신발" />
+	<block key="AR0_024_2_92202_Name" korean="저주받은 수호 어깨" />
+	<block key="AR0_024_3_92202_Name" korean="저주받은 수호 중갑" />
+	<block key="AR0_024_4_92202_Name" korean="저주받은 수호 장갑" />
+	<block key="AR0_024_5_92202_Name" korean="저주받은 수호 신발" />
+	<block key="AR1_004_2_92202_Name" korean="저주받은 광폭 어깨" />
+	<block key="AR1_004_3_92202_Name" korean="저주받은 광폭 중갑" />
+	<block key="AR1_004_4_92202_Name" korean="저주받은 광폭 장갑" />
+	<block key="AR1_004_5_92202_Name" korean="저주받은 광폭 신발" />
+	<block key="AR3_024_2_92202_Name" korean="저주받은 그림자 어깨" />
+	<block key="AR3_024_3_92202_Name" korean="저주받은 그림자 경갑" />
+	<block key="AR3_024_4_92202_Name" korean="저주받은 그림자 장갑" />
+	<block key="AR3_024_5_92202_Name" korean="저주받은 그림자 신발" />
+	<block key="AR4_024_2_92202_Name" korean="저주받은 원소 어깨" />
+	<block key="AR4_024_3_92202_Name" korean="저주받은 원소 로브" />
+	<block key="AR4_024_4_92202_Name" korean="저주받은 원소 장갑" />
+	<block key="AR4_024_5_92202_Name" korean="저주받은 원소 신발" />
+	<block key="AR5_002_2_92202_Name" korean="저주받은 신념 어깨" />
+	<block key="AR5_002_3_92202_Name" korean="저주받은 신념 로브" />
+	<block key="AR5_002_4_92202_Name" korean="저주받은 신념 장갑" />
+	<block key="AR5_002_5_92202_Name" korean="저주받은 신념 신발" />
+	<block key="AR0_024_4_92204_Name" korean="카를레앙의 수호 장갑" />
+	<block key="AR1_004_4_92204_Name" korean="카를레앙의 광폭 장갑" />
+	<block key="AR3_024_4_92204_Name" korean="카를레앙의 그림자 장갑" />
+	<block key="AR4_024_4_92204_Name" korean="카를레앙의 원소 장갑" />
+	<block key="AR5_002_4_92204_Name" korean="카를레앙의 신념 장갑" />
+	<block key="AR0_003_1_91251_Name" korean="정예병의 수호 투구" />
+	<block key="AR0_003_2_91251_Name" korean="정예병의 수호 어깨" />
+	<block key="AR0_003_3_91251_Name" korean="정예병의 수호 중갑" />
+	<block key="AR0_003_4_91251_Name" korean="정예병의 수호 장갑" />
+	<block key="AR0_003_5_91251_Name" korean="정예병의 수호 신발" />
+	<block key="AR1_003_1_91251_Name" korean="정예병의 광폭 투구" />
+	<block key="AR1_003_2_91251_Name" korean="정예병의 광폭 어깨" />
+	<block key="AR1_003_3_91251_Name" korean="정예병의 광폭 중갑" />
+	<block key="AR1_003_4_91251_Name" korean="정예병의 광폭 장갑" />
+	<block key="AR1_003_5_91251_Name" korean="정예병의 광폭 신발" />
+	<block key="AR3_005_1_91251_Name" korean="정예병의 그림자 투구" />
+	<block key="AR3_005_2_91251_Name" korean="정예병의 그림자 어깨" />
+	<block key="AR3_005_3_91251_Name" korean="정예병의 그림자 경갑" />
+	<block key="AR3_005_4_91251_Name" korean="정예병의 그림자 장갑" />
+	<block key="AR3_005_5_91251_Name" korean="정예병의 그림자 신발" />
+	<block key="AR4_004_1_91251_Name" korean="정예병의 원소 모자" />
+	<block key="AR4_004_2_91251_Name" korean="정예병의 원소 어깨" />
+	<block key="AR4_004_3_91251_Name" korean="정예병의 원소 로브" />
+	<block key="AR4_004_4_91251_Name" korean="정예병의 원소 장갑" />
+	<block key="AR4_004_5_91251_Name" korean="정예병의 원소 신발" />
+	<block key="AR5_004_1_91251_Name" korean="정예병의 신념 모자" />
+	<block key="AR5_004_2_91251_Name" korean="정예병의 신념 어깨" />
+	<block key="AR5_004_3_91251_Name" korean="정예병의 신념 로브" />
+	<block key="AR5_004_4_91251_Name" korean="정예병의 신념 장갑" />
+	<block key="AR5_004_5_91251_Name" korean="정예병의 신념 신발" />
+	<block key="AR0_003_1_92252_Name" korean="수비대의 수호 투구" />
+	<block key="AR0_003_2_92252_Name" korean="수비대의 수호 어깨" />
+	<block key="AR0_003_3_92252_Name" korean="수비대의 수호 중갑" />
+	<block key="AR0_003_4_92252_Name" korean="수비대의 수호 장갑" />
+	<block key="AR0_003_5_92252_Name" korean="수비대의 수호 신발" />
+	<block key="AR1_003_1_92252_Name" korean="수비대의 광폭 투구" />
+	<block key="AR1_003_2_92252_Name" korean="수비대의 광폭 어깨" />
+	<block key="AR1_003_3_92252_Name" korean="수비대의 광폭 중갑" />
+	<block key="AR1_003_4_92252_Name" korean="수비대의 광폭 장갑" />
+	<block key="AR1_003_5_92252_Name" korean="수비대의 광폭 신발" />
+	<block key="AR3_005_1_92252_Name" korean="수비대의 그림자 투구" />
+	<block key="AR3_005_2_92252_Name" korean="수비대의 그림자 어깨" />
+	<block key="AR3_005_3_92252_Name" korean="수비대의 그림자 경갑" />
+	<block key="AR3_005_4_92252_Name" korean="수비대의 그림자 장갑" />
+	<block key="AR3_005_5_92252_Name" korean="수비대의 그림자 신발" />
+	<block key="AR4_004_1_92252_Name" korean="수비대의 원소 모자" />
+	<block key="AR4_004_2_92252_Name" korean="수비대의 원소 어깨" />
+	<block key="AR4_004_3_92252_Name" korean="수비대의 원소 로브" />
+	<block key="AR4_004_4_92252_Name" korean="수비대의 원소 장갑" />
+	<block key="AR4_004_5_92252_Name" korean="수비대의 원소 신발" />
+	<block key="AR5_004_1_92252_Name" korean="수비대의 신념 모자" />
+	<block key="AR5_004_2_92252_Name" korean="수비대의 신념 어깨" />
+	<block key="AR5_004_3_92252_Name" korean="수비대의 신념 로브" />
+	<block key="AR5_004_4_92252_Name" korean="수비대의 신념 장갑" />
+	<block key="AR5_004_5_92252_Name" korean="수비대의 신념 신발" />
+	<block key="AR0_003_1_92251_Name" korean="창공의 수호 투구" />
+	<block key="AR0_003_2_92251_Name" korean="창공의 수호 어깨" />
+	<block key="AR0_003_3_92251_Name" korean="창공의 수호 중갑" />
+	<block key="AR0_003_4_92251_Name" korean="창공의 수호 장갑" />
+	<block key="AR0_003_5_92251_Name" korean="창공의 수호 신발" />
+	<block key="AR1_003_1_92251_Name" korean="창공의 광폭 투구" />
+	<block key="AR1_003_2_92251_Name" korean="창공의 광폭 어깨" />
+	<block key="AR1_003_3_92251_Name" korean="창공의 광폭 중갑" />
+	<block key="AR1_003_4_92251_Name" korean="창공의 광폭 장갑" />
+	<block key="AR1_003_5_92251_Name" korean="창공의 광폭 신발" />
+	<block key="AR3_005_1_92251_Name" korean="창공의 그림자 투구" />
+	<block key="AR3_005_2_92251_Name" korean="창공의 그림자 어깨" />
+	<block key="AR3_005_3_92251_Name" korean="창공의 그림자 경갑" />
+	<block key="AR3_005_4_92251_Name" korean="창공의 그림자 장갑" />
+	<block key="AR3_005_5_92251_Name" korean="창공의 그림자 신발" />
+	<block key="AR4_004_1_92251_Name" korean="창공의 원소 모자" />
+	<block key="AR4_004_2_92251_Name" korean="창공의 원소 어깨" />
+	<block key="AR4_004_3_92251_Name" korean="창공의 원소 로브" />
+	<block key="AR4_004_4_92251_Name" korean="창공의 원소 장갑" />
+	<block key="AR4_004_5_92251_Name" korean="창공의 원소 신발" />
+	<block key="AR5_004_1_92251_Name" korean="창공의 신념 모자" />
+	<block key="AR5_004_2_92251_Name" korean="창공의 신념 어깨" />
+	<block key="AR5_004_3_92251_Name" korean="창공의 신념 로브" />
+	<block key="AR5_004_4_92251_Name" korean="창공의 신념 장갑" />
+	<block key="AR5_004_5_92251_Name" korean="창공의 신념 신발" />
+	<block key="AR0_022_1_92141_Name" korean="설원의 수호 투구" />
+	<block key="AR0_022_2_92141_Name" korean="설원의 수호 어깨" />
+	<block key="AR0_022_3_92141_Name" korean="설원의 수호 중갑" />
+	<block key="AR0_022_4_92141_Name" korean="설원의 수호 장갑" />
+	<block key="AR0_022_5_92141_Name" korean="설원의 수호 신발" />
+	<block key="AR1_022_1_92141_Name" korean="설원의 광폭 투구" />
+	<block key="AR1_022_2_92141_Name" korean="설원의 광폭 어깨" />
+	<block key="AR1_022_3_92141_Name" korean="설원의 광폭 중갑" />
+	<block key="AR1_022_4_92141_Name" korean="설원의 광폭 장갑" />
+	<block key="AR1_022_5_92141_Name" korean="설원의 광폭 신발" />
+	<block key="AR3_022_1_92141_Name" korean="설원의 그림자 투구" />
+	<block key="AR3_022_2_92141_Name" korean="설원의 그림자 어깨" />
+	<block key="AR3_022_3_92141_Name" korean="설원의 그림자 경갑" />
+	<block key="AR3_022_4_92141_Name" korean="설원의 그림자 장갑" />
+	<block key="AR3_022_5_92141_Name" korean="설원의 그림자 신발" />
+	<block key="AR4_022_1_92141_Name" korean="설원의 원소 모자" />
+	<block key="AR4_022_2_92141_Name" korean="설원의 원소 어깨" />
+	<block key="AR4_022_3_92141_Name" korean="설원의 원소 로브" />
+	<block key="AR4_022_4_92141_Name" korean="설원의 원소 장갑" />
+	<block key="AR4_022_5_92141_Name" korean="설원의 원소 신발" />
+	<block key="AR5_022_1_92141_Name" korean="설원의 신념 모자" />
+	<block key="AR5_022_2_92141_Name" korean="설원의 신념 어깨" />
+	<block key="AR5_022_3_92141_Name" korean="설원의 신념 로브" />
+	<block key="AR5_022_4_92141_Name" korean="설원의 신념 장갑" />
+	<block key="AR5_022_5_92141_Name" korean="설원의 신념 신발" />
+	<block key="AR0_003_1_93251_Name" korean="혹한의 수호 투구" />
+	<block key="AR0_003_2_93251_Name" korean="혹한의 수호 어깨" />
+	<block key="AR0_003_3_93251_Name" korean="혹한의 수호 중갑" />
+	<block key="AR0_003_4_93251_Name" korean="혹한의 수호 장갑" />
+	<block key="AR0_003_5_93251_Name" korean="혹한의 수호 신발" />
+	<block key="AR1_003_1_93251_Name" korean="혹한의 광폭 투구" />
+	<block key="AR1_003_2_93251_Name" korean="혹한의 광폭 어깨" />
+	<block key="AR1_003_3_93251_Name" korean="혹한의 광폭 중갑" />
+	<block key="AR1_003_4_93251_Name" korean="혹한의 광폭 장갑" />
+	<block key="AR1_003_5_93251_Name" korean="혹한의 광폭 신발" />
+	<block key="AR3_005_1_93251_Name" korean="혹한의 그림자 투구" />
+	<block key="AR3_005_2_93251_Name" korean="혹한의 그림자 어깨" />
+	<block key="AR3_005_3_93251_Name" korean="혹한의 그림자 경갑" />
+	<block key="AR3_005_4_93251_Name" korean="혹한의 그림자 장갑" />
+	<block key="AR3_005_5_93251_Name" korean="혹한의 그림자 신발" />
+	<block key="AR4_004_1_93251_Name" korean="혹한의 원소 모자" />
+	<block key="AR4_004_2_93251_Name" korean="혹한의 원소 어깨" />
+	<block key="AR4_004_3_93251_Name" korean="혹한의 원소 로브" />
+	<block key="AR4_004_4_93251_Name" korean="혹한의 원소 장갑" />
+	<block key="AR4_004_5_93251_Name" korean="혹한의 원소 신발" />
+	<block key="AR5_004_1_93251_Name" korean="혹한의 신념 모자" />
+	<block key="AR5_004_2_93251_Name" korean="혹한의 신념 어깨" />
+	<block key="AR5_004_3_93251_Name" korean="혹한의 신념 로브" />
+	<block key="AR5_004_4_93251_Name" korean="혹한의 신념 장갑" />
+	<block key="AR5_004_5_93251_Name" korean="혹한의 신념 신발" />
+	<block key="AR0_003_1_92253_Name" korean="거신족의 수호 투구" />
+	<block key="AR0_003_2_92253_Name" korean="거신족의 수호 어깨" />
+	<block key="AR0_003_3_92253_Name" korean="거신족의 수호 중갑" />
+	<block key="AR0_003_4_92253_Name" korean="거신족의 수호 장갑" />
+	<block key="AR0_003_5_92253_Name" korean="거신족의 수호 신발" />
+	<block key="AR1_003_1_92253_Name" korean="거신족의 광폭 투구" />
+	<block key="AR1_003_2_92253_Name" korean="거신족의 광폭 어깨" />
+	<block key="AR1_003_3_92253_Name" korean="거신족의 광폭 중갑" />
+	<block key="AR1_003_4_92253_Name" korean="거신족의 광폭 장갑" />
+	<block key="AR1_003_5_92253_Name" korean="거신족의 광폭 신발" />
+	<block key="AR3_005_1_92253_Name" korean="거신족의 그림자 투구" />
+	<block key="AR3_005_2_92253_Name" korean="거신족의 그림자 어깨" />
+	<block key="AR3_005_3_92253_Name" korean="거신족의 그림자 경갑" />
+	<block key="AR3_005_4_92253_Name" korean="거신족의 그림자 장갑" />
+	<block key="AR3_005_5_92253_Name" korean="거신족의 그림자 신발" />
+	<block key="AR4_004_1_92253_Name" korean="거신족의 원소 모자" />
+	<block key="AR4_004_2_92253_Name" korean="거신족의 원소 어깨" />
+	<block key="AR4_004_3_92253_Name" korean="거신족의 원소 로브" />
+	<block key="AR4_004_4_92253_Name" korean="거신족의 원소 장갑" />
+	<block key="AR4_004_5_92253_Name" korean="거신족의 원소 신발" />
+	<block key="AR5_004_1_92253_Name" korean="거신족의 신념 모자" />
+	<block key="AR5_004_2_92253_Name" korean="거신족의 신념 어깨" />
+	<block key="AR5_004_3_92253_Name" korean="거신족의 신념 로브" />
+	<block key="AR5_004_4_92253_Name" korean="거신족의 신념 장갑" />
+	<block key="AR5_004_5_92253_Name" korean="거신족의 신념 신발" />
+	<block key="AR0_003_1_93252_Name" korean="야타이만의 수호 투구" />
+	<block key="AR0_003_2_93252_Name" korean="야타이만의 수호 어깨" />
+	<block key="AR0_003_3_93252_Name" korean="야타이만의 수호 중갑" />
+	<block key="AR0_003_4_93252_Name" korean="야타이만의 수호 장갑" />
+	<block key="AR0_003_5_93252_Name" korean="야타이만의 수호 신발" />
+	<block key="AR1_003_1_93252_Name" korean="야타이만의 광폭 투구" />
+	<block key="AR1_003_2_93252_Name" korean="야타이만의 광폭 어깨" />
+	<block key="AR1_003_3_93252_Name" korean="야타이만의 광폭 중갑" />
+	<block key="AR1_003_4_93252_Name" korean="야타이만의 광폭 장갑" />
+	<block key="AR1_003_5_93252_Name" korean="야타이만의 광폭 신발" />
+	<block key="AR3_005_1_93252_Name" korean="야타이만의 그림자 투구" />
+	<block key="AR3_005_2_93252_Name" korean="야타이만의 그림자 어깨" />
+	<block key="AR3_005_3_93252_Name" korean="야타이만의 그림자 경갑" />
+	<block key="AR3_005_4_93252_Name" korean="야타이만의 그림자 장갑" />
+	<block key="AR3_005_5_93252_Name" korean="야타이만의 그림자 신발" />
+	<block key="AR4_004_1_93252_Name" korean="야타이만의 원소 모자" />
+	<block key="AR4_004_2_93252_Name" korean="야타이만의 원소 어깨" />
+	<block key="AR4_004_3_93252_Name" korean="야타이만의 원소 로브" />
+	<block key="AR4_004_4_93252_Name" korean="야타이만의 원소 장갑" />
+	<block key="AR4_004_5_93252_Name" korean="야타이만의 원소 신발" />
+	<block key="AR5_004_1_93252_Name" korean="야타이만의 신념 모자" />
+	<block key="AR5_004_2_93252_Name" korean="야타이만의 신념 어깨" />
+	<block key="AR5_004_3_93252_Name" korean="야타이만의 신념 로브" />
+	<block key="AR5_004_4_93252_Name" korean="야타이만의 신념 장갑" />
+	<block key="AR5_004_5_93252_Name" korean="야타이만의 신념 신발" />
+	<block key="AR0_003_1_91301_Name" korean="신입 기사단원의 수호 투구" />
+	<block key="AR0_003_2_91301_Name" korean="신입 기사단원의 수호 어깨" />
+	<block key="AR0_003_3_91301_Name" korean="신입 기사단원의 수호 중갑" />
+	<block key="AR0_003_4_91301_Name" korean="신입 기사단원의 수호 장갑" />
+	<block key="AR0_003_5_91301_Name" korean="신입 기사단원의 수호 신발" />
+	<block key="AR1_003_1_91301_Name" korean="신입 기사단원의 광폭 투구" />
+	<block key="AR1_003_2_91301_Name" korean="신입 기사단원의 광폭 어깨" />
+	<block key="AR1_003_3_91301_Name" korean="신입 기사단원의 광폭 중갑" />
+	<block key="AR1_003_4_91301_Name" korean="신입 기사단원의 광폭 장갑" />
+	<block key="AR1_003_5_91301_Name" korean="신입 기사단원의 광폭 신발" />
+	<block key="AR3_005_1_91301_Name" korean="신입 기사단원의 그림자 투구" />
+	<block key="AR3_005_2_91301_Name" korean="신입 기사단원의 그림자 어깨" />
+	<block key="AR3_005_3_91301_Name" korean="신입 기사단원의 그림자 경갑" />
+	<block key="AR3_005_4_91301_Name" korean="신입 기사단원의 그림자 장갑" />
+	<block key="AR3_005_5_91301_Name" korean="신입 기사단원의 그림자 신발" />
+	<block key="AR4_004_1_91301_Name" korean="신입 기사단원의 원소 모자" />
+	<block key="AR4_004_2_91301_Name" korean="신입 기사단원의 원소 어깨" />
+	<block key="AR4_004_3_91301_Name" korean="신입 기사단원의 원소 로브" />
+	<block key="AR4_004_4_91301_Name" korean="신입 기사단원의 원소 장갑" />
+	<block key="AR4_004_5_91301_Name" korean="신입 기사단원의 원소 신발" />
+	<block key="AR5_004_1_91301_Name" korean="신입 기사단원의 신념 모자" />
+	<block key="AR5_004_2_91301_Name" korean="신입 기사단원의 신념 어깨" />
+	<block key="AR5_004_3_91301_Name" korean="신입 기사단원의 신념 로브" />
+	<block key="AR5_004_4_91301_Name" korean="신입 기사단원의 신념 장갑" />
+	<block key="AR5_004_5_91301_Name" korean="신입 기사단원의 신념 신발" />
+	<block key="AR0_003_1_92301_Name" korean="무러미족의 수호 투구" />
+	<block key="AR0_003_2_92301_Name" korean="무러미족의 수호 어깨" />
+	<block key="AR0_003_3_92301_Name" korean="무러미족의 수호 중갑" />
+	<block key="AR0_003_4_92301_Name" korean="무러미족의 수호 장갑" />
+	<block key="AR0_003_5_92301_Name" korean="무러미족의 수호 신발" />
+	<block key="AR1_003_1_92301_Name" korean="무러미족의 광폭 투구" />
+	<block key="AR1_003_2_92301_Name" korean="무러미족의 광폭 어깨" />
+	<block key="AR1_003_3_92301_Name" korean="무러미족의 광폭 중갑" />
+	<block key="AR1_003_4_92301_Name" korean="무러미족의 광폭 장갑" />
+	<block key="AR1_003_5_92301_Name" korean="무러미족의 광폭 신발" />
+	<block key="AR3_005_1_92301_Name" korean="무러미족의 그림자 투구" />
+	<block key="AR3_005_2_92301_Name" korean="무러미족의 그림자 어깨" />
+	<block key="AR3_005_3_92301_Name" korean="무러미족의 그림자 경갑" />
+	<block key="AR3_005_4_92301_Name" korean="무러미족의 그림자 장갑" />
+	<block key="AR3_005_5_92301_Name" korean="무러미족의 그림자 신발" />
+	<block key="AR4_004_1_92301_Name" korean="무러미족의 원소 모자" />
+	<block key="AR4_004_2_92301_Name" korean="무러미족의 원소 어깨" />
+	<block key="AR4_004_3_92301_Name" korean="무러미족의 원소 로브" />
+	<block key="AR4_004_4_92301_Name" korean="무러미족의 원소 장갑" />
+	<block key="AR4_004_5_92301_Name" korean="무러미족의 원소 신발" />
+	<block key="AR5_004_1_92301_Name" korean="무러미족의 신념 모자" />
+	<block key="AR5_004_2_92301_Name" korean="무러미족의 신념 어깨" />
+	<block key="AR5_004_3_92301_Name" korean="무러미족의 신념 로브" />
+	<block key="AR5_004_4_92301_Name" korean="무러미족의 신념 장갑" />
+	<block key="AR5_004_5_92301_Name" korean="무러미족의 신념 신발" />
+	<block key="AR0_004_1_93305_Name" korean="바람 민병단의 수호 투구" />
+	<block key="AR0_004_2_93305_Name" korean="바람 민병단의 수호 어깨" />
+	<block key="AR0_004_3_93305_Name" korean="바람 민병단의 수호 중갑" />
+	<block key="AR0_004_4_93305_Name" korean="바람 민병단의 수호 장갑" />
+	<block key="AR0_004_5_93305_Name" korean="바람 민병단의 수호 신발" />
+	<block key="AR1_004_1_93305_Name" korean="바람 민병단의 광폭 투구" />
+	<block key="AR1_004_2_93305_Name" korean="바람 민병단의 광폭 어깨" />
+	<block key="AR1_004_3_93305_Name" korean="바람 민병단의 광폭 중갑" />
+	<block key="AR1_004_4_93305_Name" korean="바람 민병단의 광폭 장갑" />
+	<block key="AR1_004_5_93305_Name" korean="바람 민병단의 광폭 신발" />
+	<block key="AR3_004_1_93305_Name" korean="바람 민병단의 그림자 투구" />
+	<block key="AR3_004_2_93305_Name" korean="바람 민병단의 그림자 어깨" />
+	<block key="AR3_004_3_93305_Name" korean="바람 민병단의 그림자 경갑" />
+	<block key="AR3_004_4_93305_Name" korean="바람 민병단의 그림자 장갑" />
+	<block key="AR3_004_5_93305_Name" korean="바람 민병단의 그림자 신발" />
+	<block key="AR4_005_1_93305_Name" korean="바람 민병단의 원소 모자" />
+	<block key="AR4_005_2_93305_Name" korean="바람 민병단의 원소 어깨" />
+	<block key="AR4_005_3_93305_Name" korean="바람 민병단의 원소 로브" />
+	<block key="AR4_005_4_93305_Name" korean="바람 민병단의 원소 장갑" />
+	<block key="AR4_005_5_93305_Name" korean="바람 민병단의 원소 신발" />
+	<block key="AR5_005_1_93305_Name" korean="바람 민병단의 신념 모자" />
+	<block key="AR5_005_2_93305_Name" korean="바람 민병단의 신념 어깨" />
+	<block key="AR5_005_3_93305_Name" korean="바람 민병단의 신념 로브" />
+	<block key="AR5_005_4_93305_Name" korean="바람 민병단의 신념 장갑" />
+	<block key="AR5_005_5_93305_Name" korean="바람 민병단의 신념 신발" />
+	<block key="AR0_004_1_93306_Name" korean="타락한 추종자의 수호 투구" />
+	<block key="AR0_004_2_93306_Name" korean="타락한 추종자의 수호 어깨" />
+	<block key="AR0_004_3_93306_Name" korean="타락한 추종자의 수호 중갑" />
+	<block key="AR0_004_4_93306_Name" korean="타락한 추종자의 수호 장갑" />
+	<block key="AR0_004_5_93306_Name" korean="타락한 추종자의 수호 신발" />
+	<block key="AR1_004_1_93306_Name" korean="타락한 추종자의 광폭 투구" />
+	<block key="AR1_004_2_93306_Name" korean="타락한 추종자의 광폭 어깨" />
+	<block key="AR1_004_3_93306_Name" korean="타락한 추종자의 광폭 중갑" />
+	<block key="AR1_004_4_93306_Name" korean="타락한 추종자의 광폭 장갑" />
+	<block key="AR1_004_5_93306_Name" korean="타락한 추종자의 광폭 신발" />
+	<block key="AR3_004_1_93306_Name" korean="타락한 추종자의 그림자 투구" />
+	<block key="AR3_004_2_93306_Name" korean="타락한 추종자의 그림자 어깨" />
+	<block key="AR3_004_3_93306_Name" korean="타락한 추종자의 그림자 경갑" />
+	<block key="AR3_004_4_93306_Name" korean="타락한 추종자의 그림자 장갑" />
+	<block key="AR3_004_5_93306_Name" korean="타락한 추종자의 그림자 신발" />
+	<block key="AR4_005_1_93306_Name" korean="타락한 추종자의 원소 모자" />
+	<block key="AR4_005_2_93306_Name" korean="타락한 추종자의 원소 어깨" />
+	<block key="AR4_005_3_93306_Name" korean="타락한 추종자의 원소 로브" />
+	<block key="AR4_005_4_93306_Name" korean="타락한 추종자의 원소 장갑" />
+	<block key="AR4_005_5_93306_Name" korean="타락한 추종자의 원소 신발" />
+	<block key="AR5_005_1_93306_Name" korean="타락한 추종자의 신념 모자" />
+	<block key="AR5_005_2_93306_Name" korean="타락한 추종자의 신념 어깨" />
+	<block key="AR5_005_3_93306_Name" korean="타락한 추종자의 신념 로브" />
+	<block key="AR5_005_4_93306_Name" korean="타락한 추종자의 신념 장갑" />
+	<block key="AR5_005_5_93306_Name" korean="타락한 추종자의 신념 신발" />
+	<block key="AR0_004_1_93304_Name" korean="숙련 기사단원의 수호 투구" />
+	<block key="AR0_004_2_93304_Name" korean="숙련 기사단원의 수호 어깨" />
+	<block key="AR0_004_3_93304_Name" korean="숙련 기사단원의 수호 중갑" />
+	<block key="AR0_004_4_93304_Name" korean="숙련 기사단원의 수호 장갑" />
+	<block key="AR0_004_5_93304_Name" korean="숙련 기사단원의 수호 신발" />
+	<block key="AR1_004_1_93304_Name" korean="숙련 기사단원의 광폭 투구" />
+	<block key="AR1_004_2_93304_Name" korean="숙련 기사단원의 광폭 어깨" />
+	<block key="AR1_004_3_93304_Name" korean="숙련 기사단원의 광폭 중갑" />
+	<block key="AR1_004_4_93304_Name" korean="숙련 기사단원의 광폭 장갑" />
+	<block key="AR1_004_5_93304_Name" korean="숙련 기사단원의 광폭 신발" />
+	<block key="AR3_004_1_93304_Name" korean="숙련 기사단원의 그림자 투구" />
+	<block key="AR3_004_2_93304_Name" korean="숙련 기사단원의 그림자 어깨" />
+	<block key="AR3_004_3_93304_Name" korean="숙련 기사단원의 그림자 경갑" />
+	<block key="AR3_004_4_93304_Name" korean="숙련 기사단원의 그림자 장갑" />
+	<block key="AR3_004_5_93304_Name" korean="숙련 기사단원의 그림자 신발" />
+	<block key="AR4_005_1_93304_Name" korean="숙련 기사단원의 원소 모자" />
+	<block key="AR4_005_2_93304_Name" korean="숙련 기사단원의 원소 어깨" />
+	<block key="AR4_005_3_93304_Name" korean="숙련 기사단원의 원소 로브" />
+	<block key="AR4_005_4_93304_Name" korean="숙련 기사단원의 원소 장갑" />
+	<block key="AR4_005_5_93304_Name" korean="숙련 기사단원의 원소 신발" />
+	<block key="AR5_005_1_93304_Name" korean="숙련 기사단원의 신념 모자" />
+	<block key="AR5_005_2_93304_Name" korean="숙련 기사단원의 신념 어깨" />
+	<block key="AR5_005_3_93304_Name" korean="숙련 기사단원의 신념 로브" />
+	<block key="AR5_005_4_93304_Name" korean="숙련 기사단원의 신념 장갑" />
+	<block key="AR5_005_5_93304_Name" korean="숙련 기사단원의 신념 신발" />
+	<block key="AR0_004_1_93302_Name" korean="서리군단의 수호 투구" />
+	<block key="AR0_004_2_93302_Name" korean="서리군단의 수호 어깨" />
+	<block key="AR0_004_3_93302_Name" korean="서리군단의 수호 중갑" />
+	<block key="AR0_004_4_93302_Name" korean="서리군단의 수호 장갑" />
+	<block key="AR0_004_5_93302_Name" korean="서리군단의 수호 신발" />
+	<block key="AR1_004_1_93302_Name" korean="서리군단의 광폭 투구" />
+	<block key="AR1_004_2_93302_Name" korean="서리군단의 광폭 어깨" />
+	<block key="AR1_004_3_93302_Name" korean="서리군단의 광폭 중갑" />
+	<block key="AR1_004_4_93302_Name" korean="서리군단의 광폭 장갑" />
+	<block key="AR1_004_5_93302_Name" korean="서리군단의 광폭 신발" />
+	<block key="AR3_004_1_93302_Name" korean="서리군단의 그림자 투구" />
+	<block key="AR3_004_2_93302_Name" korean="서리군단의 그림자 어깨" />
+	<block key="AR3_004_3_93302_Name" korean="서리군단의 그림자 경갑" />
+	<block key="AR3_004_4_93302_Name" korean="서리군단의 그림자 장갑" />
+	<block key="AR3_004_5_93302_Name" korean="서리군단의 그림자 신발" />
+	<block key="AR4_005_1_93302_Name" korean="서리군단의 원소 모자" />
+	<block key="AR4_005_2_93302_Name" korean="서리군단의 원소 어깨" />
+	<block key="AR4_005_3_93302_Name" korean="서리군단의 원소 로브" />
+	<block key="AR4_005_4_93302_Name" korean="서리군단의 원소 장갑" />
+	<block key="AR4_005_5_93302_Name" korean="서리군단의 원소 신발" />
+	<block key="AR5_005_1_93302_Name" korean="서리군단의 신념 모자" />
+	<block key="AR5_005_2_93302_Name" korean="서리군단의 신념 어깨" />
+	<block key="AR5_005_3_93302_Name" korean="서리군단의 신념 로브" />
+	<block key="AR5_005_4_93302_Name" korean="서리군단의 신념 장갑" />
+	<block key="AR5_005_5_93302_Name" korean="서리군단의 신념 신발" />
+	<block key="AR0_106_1_93351_Name" korean="크로쿤족의 수호 투구" />
+	<block key="AR0_106_2_93351_Name" korean="크로쿤족의 수호 어깨" />
+	<block key="AR0_106_3_93351_Name" korean="크로쿤족의 수호 중갑" />
+	<block key="AR0_106_4_93351_Name" korean="크로쿤족의 수호 장갑" />
+	<block key="AR0_106_5_93351_Name" korean="크로쿤족의 수호 신발" />
+	<block key="AR1_005_1_93351_Name" korean="크로쿤족의 광폭 투구" />
+	<block key="AR1_005_2_93351_Name" korean="크로쿤족의 광폭 어깨" />
+	<block key="AR1_005_3_93351_Name" korean="크로쿤족의 광폭 중갑" />
+	<block key="AR1_005_4_93351_Name" korean="크로쿤족의 광폭 장갑" />
+	<block key="AR1_005_5_93351_Name" korean="크로쿤족의 광폭 신발" />
+	<block key="AR3_110_1_93351_Name" korean="크로쿤족의 그림자 투구" />
+	<block key="AR3_110_2_93351_Name" korean="크로쿤족의 그림자 어깨" />
+	<block key="AR3_110_3_93351_Name" korean="크로쿤족의 그림자 경갑" />
+	<block key="AR3_110_4_93351_Name" korean="크로쿤족의 그림자 장갑" />
+	<block key="AR3_110_5_93351_Name" korean="크로쿤족의 그림자 신발" />
+	<block key="AR4_108_1_93351_Name" korean="크로쿤족의 원소 모자" />
+	<block key="AR4_108_2_93351_Name" korean="크로쿤족의 원소 어깨" />
+	<block key="AR4_108_3_93351_Name" korean="크로쿤족의 원소 로브" />
+	<block key="AR4_108_4_93351_Name" korean="크로쿤족의 원소 장갑" />
+	<block key="AR4_108_5_93351_Name" korean="크로쿤족의 원소 신발" />
+	<block key="AR5_109_1_93351_Name" korean="크로쿤족의 신념 모자" />
+	<block key="AR5_109_2_93351_Name" korean="크로쿤족의 신념 어깨" />
+	<block key="AR5_109_3_93351_Name" korean="크로쿤족의 신념 로브" />
+	<block key="AR5_109_4_93351_Name" korean="크로쿤족의 신념 장갑" />
+	<block key="AR5_109_5_93351_Name" korean="크로쿤족의 신념 신발" />
+	<block key="AR0_004_1_93301_Name" korean="얼음 군단장의 수호 투구" />
+	<block key="AR0_004_2_93301_Name" korean="얼음 군단장의 수호 어깨" />
+	<block key="AR0_004_3_93301_Name" korean="얼음 군단장의 수호 중갑" />
+	<block key="AR0_004_4_93301_Name" korean="얼음 군단장의 수호 장갑" />
+	<block key="AR0_004_5_93301_Name" korean="얼음 군단장의 수호 신발" />
+	<block key="AR1_004_1_93301_Name" korean="얼음 군단장의 광폭 투구" />
+	<block key="AR1_004_2_93301_Name" korean="얼음 군단장의 광폭 어깨" />
+	<block key="AR1_004_3_93301_Name" korean="얼음 군단장의 광폭 중갑" />
+	<block key="AR1_004_4_93301_Name" korean="얼음 군단장의 광폭 장갑" />
+	<block key="AR1_004_5_93301_Name" korean="얼음 군단장의 광폭 신발" />
+	<block key="AR3_004_1_93301_Name" korean="얼음 군단장의 그림자 투구" />
+	<block key="AR3_004_2_93301_Name" korean="얼음 군단장의 그림자 어깨" />
+	<block key="AR3_004_3_93301_Name" korean="얼음 군단장의 그림자 경갑" />
+	<block key="AR3_004_4_93301_Name" korean="얼음 군단장의 그림자 장갑" />
+	<block key="AR3_004_5_93301_Name" korean="얼음 군단장의 그림자 신발" />
+	<block key="AR4_005_1_93301_Name" korean="얼음 군단장의 원소 모자" />
+	<block key="AR4_005_2_93301_Name" korean="얼음 군단장의 원소 어깨" />
+	<block key="AR4_005_3_93301_Name" korean="얼음 군단장의 원소 로브" />
+	<block key="AR4_005_4_93301_Name" korean="얼음 군단장의 원소 장갑" />
+	<block key="AR4_005_5_93301_Name" korean="얼음 군단장의 원소 신발" />
+	<block key="AR5_005_1_93301_Name" korean="얼음 군단장의 신념 모자" />
+	<block key="AR5_005_2_93301_Name" korean="얼음 군단장의 신념 어깨" />
+	<block key="AR5_005_3_93301_Name" korean="얼음 군단장의 신념 로브" />
+	<block key="AR5_005_4_93301_Name" korean="얼음 군단장의 신념 장갑" />
+	<block key="AR5_005_5_93301_Name" korean="얼음 군단장의 신념 신발" />
+	<block key="AR0_107_1_93401_Name" korean="정예 기사단원의 수호 투구" />
+	<block key="AR0_107_2_93401_Name" korean="정예 기사단원의 수호 어깨" />
+	<block key="AR0_107_3_93401_Name" korean="정예 기사단원의 수호 중갑" />
+	<block key="AR0_107_4_93401_Name" korean="정예 기사단원의 수호 장갑" />
+	<block key="AR0_107_5_93401_Name" korean="정예 기사단원의 수호 신발" />
+	<block key="AR1_127_1_93401_Name" korean="정예 기사단원의 광폭 투구" />
+	<block key="AR1_127_2_93401_Name" korean="정예 기사단원의 광폭 어깨" />
+	<block key="AR1_127_3_93401_Name" korean="정예 기사단원의 광폭 중갑" />
+	<block key="AR1_127_4_93401_Name" korean="정예 기사단원의 광폭 장갑" />
+	<block key="AR1_127_5_93401_Name" korean="정예 기사단원의 광폭 신발" />
+	<block key="AR3_111_1_93401_Name" korean="정예 기사단원의 그림자 투구" />
+	<block key="AR3_111_2_93401_Name" korean="정예 기사단원의 그림자 어깨" />
+	<block key="AR3_111_3_93401_Name" korean="정예 기사단원의 그림자 경갑" />
+	<block key="AR3_111_4_93401_Name" korean="정예 기사단원의 그림자 장갑" />
+	<block key="AR3_111_5_93401_Name" korean="정예 기사단원의 그림자 신발" />
+	<block key="AR4_110_1_93401_Name" korean="정예 기사단원의 원소 모자" />
+	<block key="AR4_110_2_93401_Name" korean="정예 기사단원의 원소 어깨" />
+	<block key="AR4_110_3_93401_Name" korean="정예 기사단원의 원소 로브" />
+	<block key="AR4_110_4_93401_Name" korean="정예 기사단원의 원소 장갑" />
+	<block key="AR4_110_5_93401_Name" korean="정예 기사단원의 원소 신발" />
+	<block key="AR5_107_1_93401_Name" korean="정예 기사단원의 신념 모자" />
+	<block key="AR5_107_2_93401_Name" korean="정예 기사단원의 신념 어깨" />
+	<block key="AR5_107_3_93401_Name" korean="정예 기사단원의 신념 로브" />
+	<block key="AR5_107_4_93401_Name" korean="정예 기사단원의 신념 장갑" />
+	<block key="AR5_107_5_93401_Name" korean="정예 기사단원의 신념 신발" />
+	<block key="AR0_108_1_93451_Name" korean="불사군단의 수호 투구" />
+	<block key="AR0_108_2_93451_Name" korean="불사군단의 수호 어깨" />
+	<block key="AR0_108_3_93451_Name" korean="불사군단의 수호 중갑" />
+	<block key="AR0_108_4_93451_Name" korean="불사군단의 수호 장갑" />
+	<block key="AR0_108_5_93451_Name" korean="불사군단의 수호 신발" />
+	<block key="AR1_012_1_93451_Name" korean="불사군단의 광폭 투구" />
+	<block key="AR1_012_2_93451_Name" korean="불사군단의 광폭 어깨" />
+	<block key="AR1_012_3_93451_Name" korean="불사군단의 광폭 중갑" />
+	<block key="AR1_012_4_93451_Name" korean="불사군단의 광폭 장갑" />
+	<block key="AR1_012_5_93451_Name" korean="불사군단의 광폭 신발" />
+	<block key="AR3_108_1_93451_Name" korean="불사군단의 그림자 투구" />
+	<block key="AR3_108_2_93451_Name" korean="불사군단의 그림자 어깨" />
+	<block key="AR3_108_3_93451_Name" korean="불사군단의 그림자 경갑" />
+	<block key="AR3_108_4_93451_Name" korean="불사군단의 그림자 장갑" />
+	<block key="AR3_108_5_93451_Name" korean="불사군단의 그림자 신발" />
+	<block key="AR4_106_1_93451_Name" korean="불사군단의 원소 모자" />
+	<block key="AR4_106_2_93451_Name" korean="불사군단의 원소 어깨" />
+	<block key="AR4_106_3_93451_Name" korean="불사군단의 원소 로브" />
+	<block key="AR4_106_4_93451_Name" korean="불사군단의 원소 장갑" />
+	<block key="AR4_106_5_93451_Name" korean="불사군단의 원소 신발" />
+	<block key="AR5_106_1_93451_Name" korean="불사군단의 신념 모자" />
+	<block key="AR5_106_2_93451_Name" korean="불사군단의 신념 어깨" />
+	<block key="AR5_106_3_93451_Name" korean="불사군단의 신념 로브" />
+	<block key="AR5_106_4_93451_Name" korean="불사군단의 신념 장갑" />
+	<block key="AR5_106_5_93451_Name" korean="불사군단의 신념 신발" />
+	<block key="AR0_109_1_93501_Name" korean="페가수스 기사단의 수호 투구" />
+	<block key="AR0_109_2_93501_Name" korean="페가수스 기사단의 수호 어깨" />
+	<block key="AR0_109_3_93501_Name" korean="페가수스 기사단의 수호 중갑" />
+	<block key="AR0_109_4_93501_Name" korean="페가수스 기사단의 수호 장갑" />
+	<block key="AR0_109_5_93501_Name" korean="페가수스 기사단의 수호 신발" />
+	<block key="AR1_106_1_93501_Name" korean="페가수스 기사단의 광폭 투구" />
+	<block key="AR1_106_2_93501_Name" korean="페가수스 기사단의 광폭 어깨" />
+	<block key="AR1_106_3_93501_Name" korean="페가수스 기사단의 광폭 중갑" />
+	<block key="AR1_106_4_93501_Name" korean="페가수스 기사단의 광폭 장갑" />
+	<block key="AR1_106_5_93501_Name" korean="페가수스 기사단의 광폭 신발" />
+	<block key="AR3_109_1_93501_Name" korean="페가수스 기사단의 그림자 투구" />
+	<block key="AR3_109_2_93501_Name" korean="페가수스 기사단의 그림자 어깨" />
+	<block key="AR3_109_3_93501_Name" korean="페가수스 기사단의 그림자 경갑" />
+	<block key="AR3_109_4_93501_Name" korean="페가수스 기사단의 그림자 장갑" />
+	<block key="AR3_109_5_93501_Name" korean="페가수스 기사단의 그림자 신발" />
+	<block key="AR4_109_1_93501_Name" korean="페가수스 기사단의 원소 모자" />
+	<block key="AR4_109_2_93501_Name" korean="페가수스 기사단의 원소 어깨" />
+	<block key="AR4_109_3_93501_Name" korean="페가수스 기사단의 원소 로브" />
+	<block key="AR4_109_4_93501_Name" korean="페가수스 기사단의 원소 장갑" />
+	<block key="AR4_109_5_93501_Name" korean="페가수스 기사단의 원소 신발" />
+	<block key="AR5_110_1_93501_Name" korean="페가수스 기사단의 신념 모자" />
+	<block key="AR5_110_2_93501_Name" korean="페가수스 기사단의 신념 어깨" />
+	<block key="AR5_110_3_93501_Name" korean="페가수스 기사단의 신념 로브" />
+	<block key="AR5_110_4_93501_Name" korean="페가수스 기사단의 신념 장갑" />
+	<block key="AR5_110_5_93501_Name" korean="페가수스 기사단의 신념 신발" />
+	<block key="AR0_110_1_93551_Name" korean="총사령관의 수호 투구" />
+	<block key="AR0_110_2_93551_Name" korean="총사령관의 수호 어깨" />
+	<block key="AR0_110_3_93551_Name" korean="총사령관의 수호 중갑" />
+	<block key="AR0_110_4_93551_Name" korean="총사령관의 수호 장갑" />
+	<block key="AR0_110_5_93551_Name" korean="총사령관의 수호 신발" />
+	<block key="AR1_107_1_93551_Name" korean="총사령관의 광폭 투구" />
+	<block key="AR1_107_2_93551_Name" korean="총사령관의 광폭 어깨" />
+	<block key="AR1_107_3_93551_Name" korean="총사령관의 광폭 중갑" />
+	<block key="AR1_107_4_93551_Name" korean="총사령관의 광폭 장갑" />
+	<block key="AR1_107_5_93551_Name" korean="총사령관의 광폭 신발" />
+	<block key="AR3_107_1_93551_Name" korean="총사령관의 그림자 투구" />
+	<block key="AR3_107_2_93551_Name" korean="총사령관의 그림자 어깨" />
+	<block key="AR3_107_3_93551_Name" korean="총사령관의 그림자 경갑" />
+	<block key="AR3_107_4_93551_Name" korean="총사령관의 그림자 장갑" />
+	<block key="AR3_107_5_93551_Name" korean="총사령관의 그림자 신발" />
+	<block key="AR4_107_1_93551_Name" korean="총사령관의 원소 모자" />
+	<block key="AR4_107_2_93551_Name" korean="총사령관의 원소 어깨" />
+	<block key="AR4_107_3_93551_Name" korean="총사령관의 원소 로브" />
+	<block key="AR4_107_4_93551_Name" korean="총사령관의 원소 장갑" />
+	<block key="AR4_107_5_93551_Name" korean="총사령관의 원소 신발" />
+	<block key="AR5_130_1_93551_Name" korean="총사령관의 신념 모자" />
+	<block key="AR5_130_2_93551_Name" korean="총사령관의 신념 어깨" />
+	<block key="AR5_130_3_93551_Name" korean="총사령관의 신념 로브" />
+	<block key="AR5_130_4_93551_Name" korean="총사령관의 신념 장갑" />
+	<block key="AR5_130_5_93551_Name" korean="총사령관의 신념 신발" />
+	<block key="AR0_111_1_93601_Name" korean="60레벨 레어 수호 투구" />
+	<block key="AR0_111_2_93601_Name" korean="60레벨 레어 수호 어깨" />
+	<block key="AR0_111_3_93601_Name" korean="60레벨 레어 수호 중갑" />
+	<block key="AR0_111_4_93601_Name" korean="60레벨 레어 수호 장갑" />
+	<block key="AR0_111_5_93601_Name" korean="60레벨 레어 수호 신발" />
+	<block key="AR1_109_1_93601_Name" korean="60레벨 레어 광폭 투구" />
+	<block key="AR1_109_2_93601_Name" korean="60레벨 레어 광폭 어깨" />
+	<block key="AR1_109_3_93601_Name" korean="60레벨 레어 광폭 중갑" />
+	<block key="AR1_109_4_93601_Name" korean="60레벨 레어 광폭 장갑" />
+	<block key="AR1_109_5_93601_Name" korean="60레벨 레어 광폭 신발" />
+	<block key="AR3_106_1_93601_Name" korean="60레벨 레어 그림자 투구" />
+	<block key="AR3_106_2_93601_Name" korean="60레벨 레어 그림자 어깨" />
+	<block key="AR3_106_3_93601_Name" korean="60레벨 레어 그림자 경갑" />
+	<block key="AR3_106_4_93601_Name" korean="60레벨 레어 그림자 장갑" />
+	<block key="AR3_106_5_93601_Name" korean="60레벨 레어 그림자 신발" />
+	<block key="AR4_111_1_93601_Name" korean="60레벨 레어 원소 모자" />
+	<block key="AR4_111_2_93601_Name" korean="60레벨 레어 원소 어깨" />
+	<block key="AR4_111_3_93601_Name" korean="60레벨 레어 원소 로브" />
+	<block key="AR4_111_4_93601_Name" korean="60레벨 레어 원소 장갑" />
+	<block key="AR4_111_5_93601_Name" korean="60레벨 레어 원소 신발" />
+	<block key="AR5_111_1_93601_Name" korean="60레벨 레어 신념 모자" />
+	<block key="AR5_111_2_93601_Name" korean="60레벨 레어 신념 어깨" />
+	<block key="AR5_111_3_93601_Name" korean="60레벨 레어 신념 로브" />
+	<block key="AR5_111_4_93601_Name" korean="60레벨 레어 신념 장갑" />
+	<block key="AR5_111_5_93601_Name" korean="60레벨 레어 신념 신발" />
+	<block key="AR9_001_3_9000_Name" korean="크로우 상의" />
+	<block key="AR9_000_4_9000_Name" korean="더미 바지" />
+	<block key="AR9_000_5_9000_Name" korean="더미 장갑" />
+	<block key="AR9_000_6_9000_Name" korean="더미 신발" />
+	<block key="AR0_110_1_99999_Name" korean="인도자의 수호 투구 (여)" />
+	<block key="AR0_110_2_99999_Name" korean="인도자의 수호 어깨 (여)" />
+	<block key="AR0_110_3_99999_Name" korean="인도자의 수호 중갑 (여)" />
+	<block key="AR0_110_4_99999_Name" korean="인도자의 수호 장갑 (여)" />
+	<block key="AR0_110_5_99999_Name" korean="인도자의 수호 중갑 장화 (여)" />
+	<block key="AR0_111_1_99999_Name" korean="인도자의 수호 투구 (남)" />
+	<block key="AR0_111_2_99999_Name" korean="인도자의 수호 어깨 (남)" />
+	<block key="AR0_111_3_99999_Name" korean="인도자의 수호 중갑 (남)" />
+	<block key="AR0_111_4_99999_Name" korean="인도자의 수호 장갑 (남)" />
+	<block key="AR0_111_5_99999_Name" korean="인도자의 수호 중갑 장화 (남)" />
+	<block key="AR1_012_1_99999_Name" korean="인도자의 광폭 투구" />
+	<block key="AR1_012_2_99999_Name" korean="인도자의 광폭 어깨" />
+	<block key="AR1_012_3_99999_Name" korean="인도자의 광폭 중갑" />
+	<block key="AR1_012_4_99999_Name" korean="인도자의 광폭 장갑" />
+	<block key="AR1_012_5_99999_Name" korean="인도자의 광폭 중갑 장화" />
+	<block key="AR2_110_1_99999_Name" korean="인도자의 냉정 투구" />
+	<block key="AR2_110_2_99999_Name" korean="인도자의 냉정 어깨" />
+	<block key="AR2_110_3_99999_Name" korean="인도자의 냉정 경갑" />
+	<block key="AR2_110_4_99999_Name" korean="인도자의 냉정 장갑" />
+	<block key="AR2_110_5_99999_Name" korean="인도자의 냉정 경갑 장화" />
+	<block key="AR3_106_1_99999_Name" korean="인도자의 그림자 투구" />
+	<block key="AR3_106_2_99999_Name" korean="인도자의 그림자 어깨" />
+	<block key="AR3_106_3_99999_Name" korean="인도자의 그림자 경갑" />
+	<block key="AR3_106_4_99999_Name" korean="인도자의 그림자 장갑" />
+	<block key="AR3_106_5_99999_Name" korean="인도자의 그림자 경갑 장화" />
+	<block key="AR4_107_1_99999_Name" korean="인도자의 원소 모자" />
+	<block key="AR4_107_2_99999_Name" korean="인도자의 원소 어깨" />
+	<block key="AR4_107_3_99999_Name" korean="인도자의 원소 로브" />
+	<block key="AR4_107_4_99999_Name" korean="인도자의 원소 장갑" />
+	<block key="AR4_107_5_99999_Name" korean="인도자의 원소 로브 장화" />
+	<block key="AR5_110_1_99999_Name" korean="인도자의 신념 모자" />
+	<block key="AR5_110_2_99999_Name" korean="인도자의 신념 어깨" />
+	<block key="AR5_110_3_99999_Name" korean="인도자의 신념 로브" />
+	<block key="AR5_110_4_99999_Name" korean="인도자의 신념 장갑" />
+	<block key="AR5_110_5_99999_Name" korean="인도자의 신념 로브 장화" />
+	<block key="AR0_000_3_19999_Name" korean="모델 확인용_AR0_000_3_LV1" />
+	<block key="AR0_000_5_19999_Name" korean="모델 확인용_AR0_000_5_LV1" />
+	<block key="AR1_000_3_19999_Name" korean="모델 확인용_AR1_000_3_LV1" />
+	<block key="AR1_000_5_19999_Name" korean="모델 확인용_AR1_000_5_LV1" />
+	<block key="AR3_000_3_19999_Name" korean="모델 확인용_AR3_000_3_LV1" />
+	<block key="AR3_000_5_19999_Name" korean="모델 확인용_AR3_000_5_LV1" />
+	<block key="AR4_000_3_19999_Name" korean="모델 확인용_AR4_000_3_LV1" />
+	<block key="AR4_000_5_19999_Name" korean="모델 확인용_AR4_000_5_LV1" />
+	<block key="AR5_000_3_19999_Name" korean="모델 확인용_AR5_000_3_LV1" />
+	<block key="AR5_000_5_19999_Name" korean="모델 확인용_AR5_000_5_LV1" />
+	<block key="AR0_024_3_19999_Name" korean="모델 확인용_AR0_024_3_LV5" />
+	<block key="AR0_024_4_19999_Name" korean="모델 확인용_AR0_024_4_LV5" />
+	<block key="AR0_024_5_19999_Name" korean="모델 확인용_AR0_024_5_LV5" />
+	<block key="AR1_003_3_19999_Name" korean="모델 확인용_AR1_003_3_LV5" />
+	<block key="AR1_003_4_19999_Name" korean="모델 확인용_AR1_003_4_LV5" />
+	<block key="AR1_003_5_19999_Name" korean="모델 확인용_AR1_003_5_LV5" />
+	<block key="AR3_001_3_19999_Name" korean="모델 확인용_AR3_001_3_LV5" />
+	<block key="AR3_001_4_19999_Name" korean="모델 확인용_AR3_001_4_LV5" />
+	<block key="AR3_001_5_19999_Name" korean="모델 확인용_AR3_001_5_LV5" />
+	<block key="AR4_001_3_19999_Name" korean="모델 확인용_AR4_001_3_LV5" />
+	<block key="AR4_001_4_19999_Name" korean="모델 확인용_AR4_001_4_LV5" />
+	<block key="AR4_001_5_19999_Name" korean="모델 확인용_AR4_001_5_LV5" />
+	<block key="AR5_025_3_19999_Name" korean="모델 확인용_AR5_025_3_LV5" />
+	<block key="AR5_025_4_19999_Name" korean="모델 확인용_AR5_025_4_LV5" />
+	<block key="AR5_025_5_19999_Name" korean="모델 확인용_AR5_025_5_LV5" />
+	<block key="AR0_005_2_19999_Name" korean="모델 확인용_AR0_005_2_LV10" />
+	<block key="AR0_005_3_19999_Name" korean="모델 확인용_AR0_005_3_LV10" />
+	<block key="AR0_005_4_19999_Name" korean="모델 확인용_AR0_005_4_LV10" />
+	<block key="AR0_005_5_19999_Name" korean="모델 확인용_AR0_005_5_LV10" />
+	<block key="AR1_004_2_19999_Name" korean="모델 확인용_AR1_004_2_LV10" />
+	<block key="AR1_004_3_19999_Name" korean="모델 확인용_AR1_004_3_LV10" />
+	<block key="AR1_004_4_19999_Name" korean="모델 확인용_AR1_004_4_LV10" />
+	<block key="AR1_004_5_19999_Name" korean="모델 확인용_AR1_004_5_LV10" />
+	<block key="AR3_005_2_19999_Name" korean="모델 확인용_AR3_005_2_LV10" />
+	<block key="AR3_005_3_19999_Name" korean="모델 확인용_AR3_005_3_LV10" />
+	<block key="AR3_005_4_19999_Name" korean="모델 확인용_AR3_005_4_LV10" />
+	<block key="AR3_005_5_19999_Name" korean="모델 확인용_AR3_005_5_LV10" />
+	<block key="AR4_005_2_19999_Name" korean="모델 확인용_AR4_005_2_LV10" />
+	<block key="AR4_005_3_19999_Name" korean="모델 확인용_AR4_005_3_LV10" />
+	<block key="AR4_005_4_19999_Name" korean="모델 확인용_AR4_005_4_LV10" />
+	<block key="AR4_005_5_19999_Name" korean="모델 확인용_AR4_005_5_LV10" />
+	<block key="AR5_109_2_19999_Name" korean="모델 확인용_AR5_109_2_LV10" />
+	<block key="AR5_109_3_19999_Name" korean="모델 확인용_AR5_109_3_LV10" />
+	<block key="AR5_109_4_19999_Name" korean="모델 확인용_AR5_109_4_LV10" />
+	<block key="AR5_109_5_19999_Name" korean="모델 확인용_AR5_109_5_LV10" />
+	<block key="AR0_107_1_19999_Name" korean="모델 확인용_AR0_107_1_LV15" />
+	<block key="AR0_107_2_19999_Name" korean="모델 확인용_AR0_107_2_LV15" />
+	<block key="AR0_107_3_19999_Name" korean="모델 확인용_AR0_107_3_LV15" />
+	<block key="AR0_107_4_19999_Name" korean="모델 확인용_AR0_107_4_LV15" />
+	<block key="AR0_107_5_19999_Name" korean="모델 확인용_AR0_107_5_LV15" />
+	<block key="AR1_012_1_19999_Name" korean="모델 확인용_AR1_012_1_LV15" />
+	<block key="AR1_012_2_19999_Name" korean="모델 확인용_AR1_012_2_LV15" />
+	<block key="AR1_012_3_19999_Name" korean="모델 확인용_AR1_012_3_LV15" />
+	<block key="AR1_012_4_19999_Name" korean="모델 확인용_AR1_012_4_LV15" />
+	<block key="AR1_012_5_19999_Name" korean="모델 확인용_AR1_012_5_LV15" />
+	<block key="AR3_004_1_19999_Name" korean="모델 확인용_AR3_004_1_LV15" />
+	<block key="AR3_004_2_19999_Name" korean="모델 확인용_AR3_004_2_LV15" />
+	<block key="AR3_004_3_19999_Name" korean="모델 확인용_AR3_004_3_LV15" />
+	<block key="AR3_004_4_19999_Name" korean="모델 확인용_AR3_004_4_LV15" />
+	<block key="AR3_004_5_19999_Name" korean="모델 확인용_AR3_004_5_LV15" />
+	<block key="AR4_106_1_19999_Name" korean="모델 확인용_AR4_106_1_LV15" />
+	<block key="AR4_106_2_19999_Name" korean="모델 확인용_AR4_106_2_LV15" />
+	<block key="AR4_106_3_19999_Name" korean="모델 확인용_AR4_106_3_LV15" />
+	<block key="AR4_106_4_19999_Name" korean="모델 확인용_AR4_106_4_LV15" />
+	<block key="AR4_106_5_19999_Name" korean="모델 확인용_AR4_106_5_LV15" />
+	<block key="AR5_005_1_19999_Name" korean="모델 확인용_AR5_005_1_LV15" />
+	<block key="AR5_005_2_19999_Name" korean="모델 확인용_AR5_005_2_LV15" />
+	<block key="AR5_005_3_19999_Name" korean="모델 확인용_AR5_005_3_LV15" />
+	<block key="AR5_005_4_19999_Name" korean="모델 확인용_AR5_005_4_LV15" />
+	<block key="AR5_005_5_19999_Name" korean="모델 확인용_AR5_005_5_LV15" />
+	<block key="AR0_106_1_19999_Name" korean="모델 확인용_AR0_106_1_LV20" />
+	<block key="AR0_106_2_19999_Name" korean="모델 확인용_AR0_106_2_LV20" />
+	<block key="AR0_106_3_19999_Name" korean="모델 확인용_AR0_106_3_LV20" />
+	<block key="AR0_106_4_19999_Name" korean="모델 확인용_AR0_106_4_LV20" />
+	<block key="AR0_106_5_19999_Name" korean="모델 확인용_AR0_106_5_LV20" />
+	<block key="AR1_106_1_19999_Name" korean="모델 확인용_AR1_106_1_LV20" />
+	<block key="AR1_106_2_19999_Name" korean="모델 확인용_AR1_106_2_LV20" />
+	<block key="AR1_106_3_19999_Name" korean="모델 확인용_AR1_106_3_LV20" />
+	<block key="AR1_106_4_19999_Name" korean="모델 확인용_AR1_106_4_LV20" />
+	<block key="AR1_106_5_19999_Name" korean="모델 확인용_AR1_106_5_LV20" />
+	<block key="AR3_108_1_19999_Name" korean="모델 확인용_AR3_108_1_LV20" />
+	<block key="AR3_108_2_19999_Name" korean="모델 확인용_AR3_108_2_LV20" />
+	<block key="AR3_108_3_19999_Name" korean="모델 확인용_AR3_108_3_LV20" />
+	<block key="AR3_108_4_19999_Name" korean="모델 확인용_AR3_108_4_LV20" />
+	<block key="AR3_108_5_19999_Name" korean="모델 확인용_AR3_108_5_LV20" />
+	<block key="AR4_109_1_19999_Name" korean="모델 확인용_AR4_109_1_LV20" />
+	<block key="AR4_109_2_19999_Name" korean="모델 확인용_AR4_109_2_LV20" />
+	<block key="AR4_109_3_19999_Name" korean="모델 확인용_AR4_109_3_LV20" />
+	<block key="AR4_109_4_19999_Name" korean="모델 확인용_AR4_109_4_LV20" />
+	<block key="AR4_109_5_19999_Name" korean="모델 확인용_AR4_109_5_LV20" />
+	<block key="AR5_006_1_19999_Name" korean="모델 확인용_AR5_006_1_LV20" />
+	<block key="AR5_006_2_19999_Name" korean="모델 확인용_AR5_006_2_LV20" />
+	<block key="AR5_006_3_19999_Name" korean="모델 확인용_AR5_006_3_LV20" />
+	<block key="AR5_006_4_19999_Name" korean="모델 확인용_AR5_006_4_LV20" />
+	<block key="AR5_006_5_19999_Name" korean="모델 확인용_AR5_006_5_LV20" />
+	<block key="AR0_110_1_19999_Name" korean="모델 확인용_AR0_110_1_LV25" />
+	<block key="AR0_110_2_19999_Name" korean="모델 확인용_AR0_110_2_LV25" />
+	<block key="AR0_110_3_19999_Name" korean="모델 확인용_AR0_110_3_LV25" />
+	<block key="AR0_110_4_19999_Name" korean="모델 확인용_AR0_110_4_LV25" />
+	<block key="AR0_110_5_19999_Name" korean="모델 확인용_AR0_110_5_LV25" />
+	<block key="AR1_107_1_19999_Name" korean="모델 확인용_AR1_107_1_LV25" />
+	<block key="AR1_107_2_19999_Name" korean="모델 확인용_AR1_107_2_LV25" />
+	<block key="AR1_107_3_19999_Name" korean="모델 확인용_AR1_107_3_LV25" />
+	<block key="AR1_107_4_19999_Name" korean="모델 확인용_AR1_107_4_LV25" />
+	<block key="AR1_107_5_19999_Name" korean="모델 확인용_AR1_107_5_LV25" />
+	<block key="AR3_110_1_19999_Name" korean="모델 확인용_AR3_110_1_LV25" />
+	<block key="AR3_110_2_19999_Name" korean="모델 확인용_AR3_110_2_LV25" />
+	<block key="AR3_110_3_19999_Name" korean="모델 확인용_AR3_110_3_LV25" />
+	<block key="AR3_110_4_19999_Name" korean="모델 확인용_AR3_110_4_LV25" />
+	<block key="AR3_110_5_19999_Name" korean="모델 확인용_AR3_110_5_LV25" />
+	<block key="AR4_107_1_19999_Name" korean="모델 확인용_AR4_107_1_LV25" />
+	<block key="AR4_107_2_19999_Name" korean="모델 확인용_AR4_107_2_LV25" />
+	<block key="AR4_107_3_19999_Name" korean="모델 확인용_AR4_107_3_LV25" />
+	<block key="AR4_107_4_19999_Name" korean="모델 확인용_AR4_107_4_LV25" />
+	<block key="AR4_107_5_19999_Name" korean="모델 확인용_AR4_107_5_LV25" />
+	<block key="AR5_009_1_19999_Name" korean="모델 확인용_AR5_009_1_LV25" />
+	<block key="AR5_009_2_19999_Name" korean="모델 확인용_AR5_009_2_LV25" />
+	<block key="AR5_009_3_19999_Name" korean="모델 확인용_AR5_009_3_LV25" />
+	<block key="AR5_009_4_19999_Name" korean="모델 확인용_AR5_009_4_LV25" />
+	<block key="AR5_009_5_19999_Name" korean="모델 확인용_AR5_009_5_LV25" />
+	<block key="AR0_912_1_82151_Name" korean="강인한 용사의 수호 투구" />
+	<block key="AR0_912_2_82151_Name" korean="강인한 용사의 수호 어깨" />
+	<block key="AR0_912_3_82151_Name" korean="강인한 용사의 수호 중갑" />
+	<block key="AR0_912_4_82151_Name" korean="강인한 용사의 수호 장갑" />
+	<block key="AR0_912_5_82151_Name" korean="강인한 용사의 수호 신발" />
+	<block key="AR1_912_1_82151_Name" korean="강인한 용사의 광폭 투구" />
+	<block key="AR1_912_2_82151_Name" korean="강인한 용사의 광폭 어깨" />
+	<block key="AR1_912_3_82151_Name" korean="강인한 용사의 광폭 중갑" />
+	<block key="AR1_912_4_82151_Name" korean="강인한 용사의 광폭 장갑" />
+	<block key="AR1_912_5_82151_Name" korean="강인한 용사의 광폭 신발" />
+	<block key="AR3_912_1_82151_Name" korean="강인한 용사의 그림자 투구" />
+	<block key="AR3_912_2_82151_Name" korean="강인한 용사의 그림자 어깨" />
+	<block key="AR3_912_3_82151_Name" korean="강인한 용사의 그림자 경갑" />
+	<block key="AR3_912_4_82151_Name" korean="강인한 용사의 그림자 장갑" />
+	<block key="AR3_912_5_82151_Name" korean="강인한 용사의 그림자 신발" />
+	<block key="AR4_912_1_82151_Name" korean="강인한 용사의 원소 모자" />
+	<block key="AR4_912_2_82151_Name" korean="강인한 용사의 원소 어깨" />
+	<block key="AR4_912_3_82151_Name" korean="강인한 용사의 원소 로브" />
+	<block key="AR4_912_4_82151_Name" korean="강인한 용사의 원소 장갑" />
+	<block key="AR4_912_5_82151_Name" korean="강인한 용사의 원소 신발" />
+	<block key="AR5_912_1_82151_Name" korean="강인한 용사의 신념 모자" />
+	<block key="AR5_912_2_82151_Name" korean="강인한 용사의 신념 어깨" />
+	<block key="AR5_912_3_82151_Name" korean="강인한 용사의 신념 로브" />
+	<block key="AR5_912_4_82151_Name" korean="강인한 용사의 신념 장갑" />
+	<block key="AR5_912_5_82151_Name" korean="강인한 용사의 신념 신발" />
+	<block key="AR0_922_1_82251_Name" korean="전설의 수호 투구" />
+	<block key="AR0_922_2_82251_Name" korean="전설의 수호 어깨" />
+	<block key="AR0_922_3_82251_Name" korean="전설의 수호 중갑" />
+	<block key="AR0_922_4_82251_Name" korean="전설의 수호 장갑" />
+	<block key="AR0_922_5_82251_Name" korean="전설의 수호 신발" />
+	<block key="AR1_922_1_82251_Name" korean="전설의 광폭 투구" />
+	<block key="AR1_922_2_82251_Name" korean="전설의 광폭 어깨" />
+	<block key="AR1_922_3_82251_Name" korean="전설의 광폭 중갑" />
+	<block key="AR1_922_4_82251_Name" korean="전설의 광폭 장갑" />
+	<block key="AR1_922_5_82251_Name" korean="전설의 광폭 신발" />
+	<block key="AR3_922_1_82251_Name" korean="전설의 그림자 투구" />
+	<block key="AR3_922_2_82251_Name" korean="전설의 그림자 어깨" />
+	<block key="AR3_922_3_82251_Name" korean="전설의 그림자 경갑" />
+	<block key="AR3_922_4_82251_Name" korean="전설의 그림자 장갑" />
+	<block key="AR3_922_5_82251_Name" korean="전설의 그림자 신발" />
+	<block key="AR4_922_1_82251_Name" korean="전설의 원소 모자" />
+	<block key="AR4_922_2_82251_Name" korean="전설의 원소 어깨" />
+	<block key="AR4_922_3_82251_Name" korean="전설의 원소 로브" />
+	<block key="AR4_922_4_82251_Name" korean="전설의 원소 장갑" />
+	<block key="AR4_922_5_82251_Name" korean="전설의 원소 신발" />
+	<block key="AR5_922_1_82251_Name" korean="전설의 신념 모자" />
+	<block key="AR5_922_2_82251_Name" korean="전설의 신념 어깨" />
+	<block key="AR5_922_3_82251_Name" korean="전설의 신념 로브" />
+	<block key="AR5_922_4_82251_Name" korean="전설의 신념 장갑" />
+	<block key="AR5_922_5_82251_Name" korean="전설의 신념 신발" />
+	<block key="AR0_923_1_83251_Name" korean="노련한 영웅의 수호 투구" />
+	<block key="AR0_923_2_83251_Name" korean="노련한 영웅의 수호 어깨" />
+	<block key="AR0_923_3_83251_Name" korean="노련한 영웅의 수호 중갑" />
+	<block key="AR0_923_4_83251_Name" korean="노련한 영웅의 수호 장갑" />
+	<block key="AR0_923_5_83251_Name" korean="노련한 영웅의 수호 신발" />
+	<block key="AR1_923_1_83251_Name" korean="노련한 영웅의 광폭 투구" />
+	<block key="AR1_923_2_83251_Name" korean="노련한 영웅의 광폭 어깨" />
+	<block key="AR1_923_3_83251_Name" korean="노련한 영웅의 광폭 중갑" />
+	<block key="AR1_923_4_83251_Name" korean="노련한 영웅의 광폭 장갑" />
+	<block key="AR1_923_5_83251_Name" korean="노련한 영웅의 광폭 신발" />
+	<block key="AR3_923_1_83251_Name" korean="노련한 영웅의 그림자 투구" />
+	<block key="AR3_923_2_83251_Name" korean="노련한 영웅의 그림자 어깨" />
+	<block key="AR3_923_3_83251_Name" korean="노련한 영웅의 그림자 경갑" />
+	<block key="AR3_923_4_83251_Name" korean="노련한 영웅의 그림자 장갑" />
+	<block key="AR3_923_5_83251_Name" korean="노련한 영웅의 그림자 신발" />
+	<block key="AR4_923_1_83251_Name" korean="노련한 영웅의 원소 모자" />
+	<block key="AR4_923_2_83251_Name" korean="노련한 영웅의 원소 어깨" />
+	<block key="AR4_923_3_83251_Name" korean="노련한 영웅의 원소 로브" />
+	<block key="AR4_923_4_83251_Name" korean="노련한 영웅의 원소 장갑" />
+	<block key="AR4_923_5_83251_Name" korean="노련한 영웅의 원소 신발" />
+	<block key="AR5_923_1_83251_Name" korean="노련한 영웅의 신념 모자" />
+	<block key="AR5_923_2_83251_Name" korean="노련한 영웅의 신념 어깨" />
+	<block key="AR5_923_3_83251_Name" korean="노련한 영웅의 신념 로브" />
+	<block key="AR5_923_4_83251_Name" korean="노련한 영웅의 신념 장갑" />
+	<block key="AR5_923_5_83251_Name" korean="노련한 영웅의 신념 신발" />
+	<block key="AR0_811_3_81101_Name" korean="구리 수호 중갑" />
+	<block key="AR0_811_4_81101_Name" korean="구리 수호 장갑" />
+	<block key="AR0_811_5_81101_Name" korean="구리 수호 신발" />
+	<block key="AR1_811_3_81101_Name" korean="구리 광폭 중갑" />
+	<block key="AR1_811_4_81101_Name" korean="구리 광폭 장갑" />
+	<block key="AR1_811_5_81101_Name" korean="구리 광폭 신발" />
+	<block key="AR3_811_3_81101_Name" korean="구리 그림자 경갑" />
+	<block key="AR3_811_4_81101_Name" korean="구리 그림자 장갑" />
+	<block key="AR3_811_5_81101_Name" korean="구리 그림자 신발" />
+	<block key="AR4_811_3_81101_Name" korean="거친 원소 로브" />
+	<block key="AR4_811_4_81101_Name" korean="거친 원소 장갑" />
+	<block key="AR4_811_5_81101_Name" korean="거친 원소 신발" />
+	<block key="AR5_811_3_81101_Name" korean="거친 신념 로브" />
+	<block key="AR5_811_4_81101_Name" korean="거친 신념 장갑" />
+	<block key="AR5_811_5_81101_Name" korean="거친 신념 신발" />
+	<block key="AR0_821_2_81201_Name" korean="강철 수호 어깨" />
+	<block key="AR0_821_3_81201_Name" korean="강철 수호 중갑" />
+	<block key="AR0_821_4_81201_Name" korean="강철 수호 장갑" />
+	<block key="AR0_821_5_81201_Name" korean="강철 수호 신발" />
+	<block key="AR1_821_2_81201_Name" korean="강철 광폭 어깨" />
+	<block key="AR1_821_3_81201_Name" korean="강철 광폭 중갑" />
+	<block key="AR1_821_4_81201_Name" korean="강철 광폭 장갑" />
+	<block key="AR1_821_5_81201_Name" korean="강철 광폭 신발" />
+	<block key="AR3_821_2_81201_Name" korean="강철 그림자 어깨" />
+	<block key="AR3_821_3_81201_Name" korean="강철 그림자 경갑" />
+	<block key="AR3_821_4_81201_Name" korean="강철 그림자 장갑" />
+	<block key="AR3_821_5_81201_Name" korean="강철 그림자 신발" />
+	<block key="AR4_821_2_81201_Name" korean="얇은 원소 어깨" />
+	<block key="AR4_821_3_81201_Name" korean="얇은 원소 로브" />
+	<block key="AR4_821_4_81201_Name" korean="얇은 원소 장갑" />
+	<block key="AR4_821_5_81201_Name" korean="얇은 원소 신발" />
+	<block key="AR5_821_2_81201_Name" korean="얇은 신념 어깨" />
+	<block key="AR5_821_3_81201_Name" korean="얇은 신념 로브" />
+	<block key="AR5_821_4_81201_Name" korean="얇은 신념 장갑" />
+	<block key="AR5_821_5_81201_Name" korean="얇은 신념 신발" />
+	<block key="AR0_822_2_82201_Name" korean="강화된 강철 수호 어깨" />
+	<block key="AR0_822_3_82201_Name" korean="강화된 강철 수호 중갑" />
+	<block key="AR0_822_4_82201_Name" korean="강화된 강철 수호 장갑" />
+	<block key="AR0_822_5_82201_Name" korean="강화된 강철 수호 신발" />
+	<block key="AR1_822_2_82201_Name" korean="강화된 강철 광폭 어깨" />
+	<block key="AR1_822_3_82201_Name" korean="강화된 강철 광폭 중갑" />
+	<block key="AR1_822_4_82201_Name" korean="강화된 강철 광폭 장갑" />
+	<block key="AR1_822_5_82201_Name" korean="강화된 강철 광폭 신발" />
+	<block key="AR3_822_2_82201_Name" korean="강화된 강철 그림자 어깨" />
+	<block key="AR3_822_3_82201_Name" korean="강화된 강철 그림자 경갑" />
+	<block key="AR3_822_4_82201_Name" korean="강화된 강철 그림자 장갑" />
+	<block key="AR3_822_5_82201_Name" korean="강화된 강철 그림자 신발" />
+	<block key="AR4_822_2_82201_Name" korean="강화된 얇은 원소 어깨" />
+	<block key="AR4_822_3_82201_Name" korean="강화된 얇은 원소 로브" />
+	<block key="AR4_822_4_82201_Name" korean="강화된 얇은 원소 장갑" />
+	<block key="AR4_822_5_82201_Name" korean="강화된 얇은 원소 신발" />
+	<block key="AR5_822_2_82201_Name" korean="강화된 얇은 신념 어깨" />
+	<block key="AR5_822_3_82201_Name" korean="강화된 얇은 신념 로브" />
+	<block key="AR5_822_4_82201_Name" korean="강화된 얇은 신념 장갑" />
+	<block key="AR5_822_5_82201_Name" korean="강화된 얇은 신념 신발" />
+	<block key="AR0_831_1_81301_Name" korean="미스릴 수호 투구" />
+	<block key="AR0_831_2_81301_Name" korean="미스릴 수호 어깨" />
+	<block key="AR0_831_3_81301_Name" korean="미스릴 수호 중갑" />
+	<block key="AR0_831_4_81301_Name" korean="미스릴 수호 장갑" />
+	<block key="AR0_831_5_81301_Name" korean="미스릴 수호 신발" />
+	<block key="AR1_831_1_81301_Name" korean="미스릴 광폭 투구" />
+	<block key="AR1_831_2_81301_Name" korean="미스릴 광폭 어깨" />
+	<block key="AR1_831_3_81301_Name" korean="미스릴 광폭 중갑" />
+	<block key="AR1_831_4_81301_Name" korean="미스릴 광폭 장갑" />
+	<block key="AR1_831_5_81301_Name" korean="미스릴 광폭 신발" />
+	<block key="AR3_831_1_81301_Name" korean="미스릴 그림자 투구" />
+	<block key="AR3_831_2_81301_Name" korean="미스릴 그림자 어깨" />
+	<block key="AR3_831_3_81301_Name" korean="미스릴 그림자 경갑" />
+	<block key="AR3_831_4_81301_Name" korean="미스릴 그림자 장갑" />
+	<block key="AR3_831_5_81301_Name" korean="미스릴 그림자 신발" />
+	<block key="AR4_831_1_81301_Name" korean="두꺼운 원소 모자" />
+	<block key="AR4_831_2_81301_Name" korean="두꺼운 원소 어깨" />
+	<block key="AR4_831_3_81301_Name" korean="두꺼운 원소 로브" />
+	<block key="AR4_831_4_81301_Name" korean="두꺼운 원소 장갑" />
+	<block key="AR4_831_5_81301_Name" korean="두꺼운 원소 신발" />
+	<block key="AR5_831_1_81301_Name" korean="두꺼운 신념 모자" />
+	<block key="AR5_831_2_81301_Name" korean="두꺼운 신념 어깨" />
+	<block key="AR5_831_3_81301_Name" korean="두꺼운 신념 로브" />
+	<block key="AR5_831_4_81301_Name" korean="두꺼운 신념 장갑" />
+	<block key="AR5_831_5_81301_Name" korean="두꺼운 신념 신발" />
+	<block key="AR0_832_1_82301_Name" korean="강화된 미스릴 수호 투구" />
+	<block key="AR0_832_2_82301_Name" korean="강화된 미스릴 수호 어깨" />
+	<block key="AR0_832_3_82301_Name" korean="강화된 미스릴 수호 중갑" />
+	<block key="AR0_832_4_82301_Name" korean="강화된 미스릴 수호 장갑" />
+	<block key="AR0_832_5_82301_Name" korean="강화된 미스릴 수호 신발" />
+	<block key="AR1_832_1_82301_Name" korean="강화된 미스릴 광폭 투구" />
+	<block key="AR1_832_2_82301_Name" korean="강화된 미스릴 광폭 어깨" />
+	<block key="AR1_832_3_82301_Name" korean="강화된 미스릴 광폭 중갑" />
+	<block key="AR1_832_4_82301_Name" korean="강화된 미스릴 광폭 장갑" />
+	<block key="AR1_832_5_82301_Name" korean="강화된 미스릴 광폭 신발" />
+	<block key="AR3_832_1_82301_Name" korean="강화된 미스릴 그림자 투구" />
+	<block key="AR3_832_2_82301_Name" korean="강화된 미스릴 그림자 어깨" />
+	<block key="AR3_832_3_82301_Name" korean="강화된 미스릴 그림자 경갑" />
+	<block key="AR3_832_4_82301_Name" korean="강화된 미스릴 그림자 장갑" />
+	<block key="AR3_832_5_82301_Name" korean="강화된 미스릴 그림자 신발" />
+	<block key="AR4_832_1_82301_Name" korean="강화된 두꺼운 원소 모자" />
+	<block key="AR4_832_2_82301_Name" korean="강화된 두꺼운 원소 어깨" />
+	<block key="AR4_832_3_82301_Name" korean="강화된 두꺼운 원소 로브" />
+	<block key="AR4_832_4_82301_Name" korean="강화된 두꺼운 원소 장갑" />
+	<block key="AR4_832_5_82301_Name" korean="강화된 두꺼운 원소 신발" />
+	<block key="AR5_832_1_82301_Name" korean="강화된 두꺼운 신념 모자" />
+	<block key="AR5_832_2_82301_Name" korean="강화된 두꺼운 신념 어깨" />
+	<block key="AR5_832_3_82301_Name" korean="강화된 두꺼운 신념 로브" />
+	<block key="AR5_832_4_82301_Name" korean="강화된 두꺼운 신념 장갑" />
+	<block key="AR5_832_5_82301_Name" korean="강화된 두꺼운 신념 신발" />
+	<block key="AR0_833_1_83301_Name" korean="빛나는 미스릴 수호 투구" />
+	<block key="AR0_833_2_83301_Name" korean="빛나는 미스릴 수호 어깨" />
+	<block key="AR0_833_3_83301_Name" korean="빛나는 미스릴 수호 중갑" />
+	<block key="AR0_833_4_83301_Name" korean="빛나는 미스릴 수호 장갑" />
+	<block key="AR0_833_5_83301_Name" korean="빛나는 미스릴 수호 신발" />
+	<block key="AR1_833_1_83301_Name" korean="빛나는 미스릴 광폭 투구" />
+	<block key="AR1_833_2_83301_Name" korean="빛나는 미스릴 광폭 어깨" />
+	<block key="AR1_833_3_83301_Name" korean="빛나는 미스릴 광폭 중갑" />
+	<block key="AR1_833_4_83301_Name" korean="빛나는 미스릴 광폭 장갑" />
+	<block key="AR1_833_5_83301_Name" korean="빛나는 미스릴 광폭 신발" />
+	<block key="AR3_833_1_83301_Name" korean="빛나는 미스릴 그림자 투구" />
+	<block key="AR3_833_2_83301_Name" korean="빛나는 미스릴 그림자 어깨" />
+	<block key="AR3_833_3_83301_Name" korean="빛나는 미스릴 그림자 경갑" />
+	<block key="AR3_833_4_83301_Name" korean="빛나는 미스릴 그림자 장갑" />
+	<block key="AR3_833_5_83301_Name" korean="빛나는 미스릴 그림자 신발" />
+	<block key="AR4_833_1_83301_Name" korean="빛나는 두꺼운 원소 모자" />
+	<block key="AR4_833_2_83301_Name" korean="빛나는 두꺼운 원소 어깨" />
+	<block key="AR4_833_3_83301_Name" korean="빛나는 두꺼운 원소 로브" />
+	<block key="AR4_833_4_83301_Name" korean="빛나는 두꺼운 원소 장갑" />
+	<block key="AR4_833_5_83301_Name" korean="빛나는 두꺼운 원소 신발" />
+	<block key="AR5_833_1_83301_Name" korean="빛나는 두꺼운 신념 모자" />
+	<block key="AR5_833_2_83301_Name" korean="빛나는 두꺼운 신념 어깨" />
+	<block key="AR5_833_3_83301_Name" korean="빛나는 두꺼운 신념 로브" />
+	<block key="AR5_833_4_83301_Name" korean="빛나는 두꺼운 신념 장갑" />
+	<block key="AR5_833_5_83301_Name" korean="빛나는 두꺼운 신념 신발" />
+	<block key="AR0_023_3_911511_Name" korean="일반병의 수호 중갑" />
+	<block key="AR0_023_4_911511_Name" korean="일반병의 수호 장갑" />
+	<block key="AR0_023_5_911511_Name" korean="일반병의 수호 신발" />
+	<block key="AR1_023_3_911511_Name" korean="일반병의 광폭 중갑" />
+	<block key="AR1_023_4_911511_Name" korean="일반병의 광폭 장갑" />
+	<block key="AR1_023_5_911511_Name" korean="일반병의 광폭 신발" />
+	<block key="AR3_003_3_911511_Name" korean="일반병의 그림자 경갑" />
+	<block key="AR3_003_4_911511_Name" korean="일반병의 그림자 장갑" />
+	<block key="AR3_003_5_911511_Name" korean="일반병의 그림자 신발" />
+	<block key="AR4_002_3_911511_Name" korean="일반병의 원소 로브" />
+	<block key="AR4_002_4_911511_Name" korean="일반병의 원소 장갑" />
+	<block key="AR4_002_5_911511_Name" korean="일반병의 원소 신발" />
+	<block key="AR5_003_3_911511_Name" korean="일반병의 신념 로브" />
+	<block key="AR5_003_4_911511_Name" korean="일반병의 신념 장갑" />
+	<block key="AR5_003_5_911511_Name" korean="일반병의 신념 신발" />
+	<block key="AR0_023_3_921541_Name" korean="습격자의 수호 중갑" />
+	<block key="AR0_023_4_921541_Name" korean="습격자의 수호 장갑" />
+	<block key="AR0_023_5_921541_Name" korean="습격자의 수호 신발" />
+	<block key="AR1_023_3_921541_Name" korean="습격자의 광폭 중갑" />
+	<block key="AR1_023_4_921541_Name" korean="습격자의 광폭 장갑" />
+	<block key="AR1_023_5_921541_Name" korean="습격자의 광폭 신발" />
+	<block key="AR3_003_3_921541_Name" korean="습격자의 그림자 경갑" />
+	<block key="AR3_003_4_921541_Name" korean="습격자의 그림자 장갑" />
+	<block key="AR3_003_5_921541_Name" korean="습격자의 그림자 신발" />
+	<block key="AR4_002_3_921541_Name" korean="습격자의 원소 로브" />
+	<block key="AR4_002_4_921541_Name" korean="습격자의 원소 장갑" />
+	<block key="AR4_002_5_921541_Name" korean="습격자의 원소 신발" />
+	<block key="AR5_003_3_921541_Name" korean="습격자의 신념 로브" />
+	<block key="AR5_003_4_921541_Name" korean="습격자의 신념 장갑" />
+	<block key="AR5_003_5_921541_Name" korean="습격자의 신념 신발" />
+	<block key="AR0_024_2_912011_Name" korean="숙련병의 수호 어깨" />
+	<block key="AR0_024_3_912011_Name" korean="숙련병의 수호 중갑" />
+	<block key="AR0_024_4_912011_Name" korean="숙련병의 수호 장갑" />
+	<block key="AR0_024_5_912011_Name" korean="숙련병의 수호 신발" />
+	<block key="AR1_004_2_912011_Name" korean="숙련병의 광폭 어깨" />
+	<block key="AR1_004_3_912011_Name" korean="숙련병의 광폭 중갑" />
+	<block key="AR1_004_4_912011_Name" korean="숙련병의 광폭 장갑" />
+	<block key="AR1_004_5_912011_Name" korean="숙련병의 광폭 신발" />
+	<block key="AR3_024_2_912011_Name" korean="숙련병의 그림자 어깨" />
+	<block key="AR3_024_3_912011_Name" korean="숙련병의 그림자 경갑" />
+	<block key="AR3_024_4_912011_Name" korean="숙련병의 그림자 장갑" />
+	<block key="AR3_024_5_912011_Name" korean="숙련병의 그림자 신발" />
+	<block key="AR4_024_2_912011_Name" korean="숙련병의 원소 어깨" />
+	<block key="AR4_024_3_912011_Name" korean="숙련병의 원소 로브" />
+	<block key="AR4_024_4_912011_Name" korean="숙련병의 원소 장갑" />
+	<block key="AR4_024_5_912011_Name" korean="숙련병의 원소 신발" />
+	<block key="AR5_002_2_912011_Name" korean="숙련병의 신념 어깨" />
+	<block key="AR5_002_3_912011_Name" korean="숙련병의 신념 로브" />
+	<block key="AR5_002_4_912011_Name" korean="숙련병의 신념 장갑" />
+	<block key="AR5_002_5_912011_Name" korean="숙련병의 신념 신발" />
+	<block key="AR0_024_2_922011_Name" korean="흡혈귀의 수호 어깨" />
+	<block key="AR0_024_3_922011_Name" korean="흡혈귀의 수호 중갑" />
+	<block key="AR0_024_4_922011_Name" korean="흡혈귀의 수호 장갑" />
+	<block key="AR0_024_5_922011_Name" korean="흡혈귀의 수호 신발" />
+	<block key="AR1_004_2_922011_Name" korean="흡혈귀의 광폭 어깨" />
+	<block key="AR1_004_3_922011_Name" korean="흡혈귀의 광폭 중갑" />
+	<block key="AR1_004_4_922011_Name" korean="흡혈귀의 광폭 장갑" />
+	<block key="AR1_004_5_922011_Name" korean="흡혈귀의 광폭 신발" />
+	<block key="AR3_024_2_922011_Name" korean="흡혈귀의 그림자 어깨" />
+	<block key="AR3_024_3_922011_Name" korean="흡혈귀의 그림자 경갑" />
+	<block key="AR3_024_4_922011_Name" korean="흡혈귀의 그림자 장갑" />
+	<block key="AR3_024_5_922011_Name" korean="흡혈귀의 그림자 신발" />
+	<block key="AR4_024_2_922011_Name" korean="흡혈귀의 원소 어깨" />
+	<block key="AR4_024_3_922011_Name" korean="흡혈귀의 원소 로브" />
+	<block key="AR4_024_4_922011_Name" korean="흡혈귀의 원소 장갑" />
+	<block key="AR4_024_5_922011_Name" korean="흡혈귀의 원소 신발" />
+	<block key="AR5_002_2_922011_Name" korean="흡혈귀의 신념 어깨" />
+	<block key="AR5_002_3_922011_Name" korean="흡혈귀의 신념 로브" />
+	<block key="AR5_002_4_922011_Name" korean="흡혈귀의 신념 장갑" />
+	<block key="AR5_002_5_922011_Name" korean="흡혈귀의 신념 신발" />
+	<block key="AR0_003_1_932511_Name" korean="라비니족의 수호 투구" />
+	<block key="AR0_003_2_932511_Name" korean="라비니족의 수호 어깨" />
+	<block key="AR0_003_3_932511_Name" korean="라비니족의 수호 중갑" />
+	<block key="AR0_003_4_932511_Name" korean="라비니족의 수호 장갑" />
+	<block key="AR0_003_5_932511_Name" korean="라비니족의 수호 신발" />
+	<block key="AR1_003_1_932511_Name" korean="라비니족의 광폭 투구" />
+	<block key="AR1_003_2_932511_Name" korean="라비니족의 광폭 어깨" />
+	<block key="AR1_003_3_932511_Name" korean="라비니족의 광폭 중갑" />
+	<block key="AR1_003_4_932511_Name" korean="라비니족의 광폭 장갑" />
+	<block key="AR1_003_5_932511_Name" korean="라비니족의 광폭 신발" />
+	<block key="AR3_005_1_932511_Name" korean="라비니족의 그림자 투구" />
+	<block key="AR3_005_2_932511_Name" korean="라비니족의 그림자 어깨" />
+	<block key="AR3_005_3_932511_Name" korean="라비니족의 그림자 경갑" />
+	<block key="AR3_005_4_932511_Name" korean="라비니족의 그림자 장갑" />
+	<block key="AR3_005_5_932511_Name" korean="라비니족의 그림자 신발" />
+	<block key="AR4_004_1_932511_Name" korean="라비니족의 원소 모자" />
+	<block key="AR4_004_2_932511_Name" korean="라비니족의 원소 어깨" />
+	<block key="AR4_004_3_932511_Name" korean="라비니족의 원소 로브" />
+	<block key="AR4_004_4_932511_Name" korean="라비니족의 원소 장갑" />
+	<block key="AR4_004_5_932511_Name" korean="라비니족의 원소 신발" />
+	<block key="AR5_004_1_932511_Name" korean="라비니족의 신념 모자" />
+	<block key="AR5_004_2_932511_Name" korean="라비니족의 신념 어깨" />
+	<block key="AR5_004_3_932511_Name" korean="라비니족의 신념 로브" />
+	<block key="AR5_004_4_932511_Name" korean="라비니족의 신념 장갑" />
+	<block key="AR5_004_5_932511_Name" korean="라비니족의 신념 신발" />
+	<block key="AR0_003_1_912511_Name" korean="정예병의 수호 투구" />
+	<block key="AR0_003_2_912511_Name" korean="정예병의 수호 어깨" />
+	<block key="AR0_003_3_912511_Name" korean="정예병의 수호 중갑" />
+	<block key="AR0_003_4_912511_Name" korean="정예병의 수호 장갑" />
+	<block key="AR0_003_5_912511_Name" korean="정예병의 수호 신발" />
+	<block key="AR1_003_1_912511_Name" korean="정예병의 광폭 투구" />
+	<block key="AR1_003_2_912511_Name" korean="정예병의 광폭 어깨" />
+	<block key="AR1_003_3_912511_Name" korean="정예병의 광폭 중갑" />
+	<block key="AR1_003_4_912511_Name" korean="정예병의 광폭 장갑" />
+	<block key="AR1_003_5_912511_Name" korean="정예병의 광폭 신발" />
+	<block key="AR3_005_1_912511_Name" korean="정예병의 그림자 투구" />
+	<block key="AR3_005_2_912511_Name" korean="정예병의 그림자 어깨" />
+	<block key="AR3_005_3_912511_Name" korean="정예병의 그림자 경갑" />
+	<block key="AR3_005_4_912511_Name" korean="정예병의 그림자 장갑" />
+	<block key="AR3_005_5_912511_Name" korean="정예병의 그림자 신발" />
+	<block key="AR4_004_1_912511_Name" korean="정예병의 원소 모자" />
+	<block key="AR4_004_2_912511_Name" korean="정예병의 원소 어깨" />
+	<block key="AR4_004_3_912511_Name" korean="정예병의 원소 로브" />
+	<block key="AR4_004_4_912511_Name" korean="정예병의 원소 장갑" />
+	<block key="AR4_004_5_912511_Name" korean="정예병의 원소 신발" />
+	<block key="AR5_004_1_912511_Name" korean="정예병의 신념 모자" />
+	<block key="AR5_004_2_912511_Name" korean="정예병의 신념 어깨" />
+	<block key="AR5_004_3_912511_Name" korean="정예병의 신념 로브" />
+	<block key="AR5_004_4_912511_Name" korean="정예병의 신념 장갑" />
+	<block key="AR5_004_5_912511_Name" korean="정예병의 신념 신발" />
+	<block key="AR0_003_1_922511_Name" korean="창공의 수호 투구" />
+	<block key="AR0_003_2_922511_Name" korean="창공의 수호 어깨" />
+	<block key="AR0_003_3_922511_Name" korean="창공의 수호 중갑" />
+	<block key="AR0_003_4_922511_Name" korean="창공의 수호 장갑" />
+	<block key="AR0_003_5_922511_Name" korean="창공의 수호 신발" />
+	<block key="AR1_003_1_922511_Name" korean="창공의 광폭 투구" />
+	<block key="AR1_003_2_922511_Name" korean="창공의 광폭 어깨" />
+	<block key="AR1_003_3_922511_Name" korean="창공의 광폭 중갑" />
+	<block key="AR1_003_4_922511_Name" korean="창공의 광폭 장갑" />
+	<block key="AR1_003_5_922511_Name" korean="창공의 광폭 신발" />
+	<block key="AR3_005_1_922511_Name" korean="창공의 그림자 투구" />
+	<block key="AR3_005_2_922511_Name" korean="창공의 그림자 어깨" />
+	<block key="AR3_005_3_922511_Name" korean="창공의 그림자 경갑" />
+	<block key="AR3_005_4_922511_Name" korean="창공의 그림자 장갑" />
+	<block key="AR3_005_5_922511_Name" korean="창공의 그림자 신발" />
+	<block key="AR4_004_1_922511_Name" korean="창공의 원소 모자" />
+	<block key="AR4_004_2_922511_Name" korean="창공의 원소 어깨" />
+	<block key="AR4_004_3_922511_Name" korean="창공의 원소 로브" />
+	<block key="AR4_004_4_922511_Name" korean="창공의 원소 장갑" />
+	<block key="AR4_004_5_922511_Name" korean="창공의 원소 신발" />
+	<block key="AR5_004_1_922511_Name" korean="창공의 신념 모자" />
+	<block key="AR5_004_2_922511_Name" korean="창공의 신념 어깨" />
+	<block key="AR5_004_3_922511_Name" korean="창공의 신념 로브" />
+	<block key="AR5_004_4_922511_Name" korean="창공의 신념 장갑" />
+	<block key="AR5_004_5_922511_Name" korean="창공의 신념 신발" />
+	<block key="AR0_912_1_821511_Name" korean="강인한 용사의 수호 투구" />
+	<block key="AR0_912_2_821511_Name" korean="강인한 용사의 수호 어깨" />
+	<block key="AR0_912_3_821511_Name" korean="강인한 용사의 수호 중갑" />
+	<block key="AR0_912_4_821511_Name" korean="강인한 용사의 수호 장갑" />
+	<block key="AR0_912_5_821511_Name" korean="강인한 용사의 수호 신발" />
+	<block key="AR1_912_1_821511_Name" korean="강인한 용사의 광폭 투구" />
+	<block key="AR1_912_2_821511_Name" korean="강인한 용사의 광폭 어깨" />
+	<block key="AR1_912_3_821511_Name" korean="강인한 용사의 광폭 중갑" />
+	<block key="AR1_912_4_821511_Name" korean="강인한 용사의 광폭 장갑" />
+	<block key="AR1_912_5_821511_Name" korean="강인한 용사의 광폭 신발" />
+	<block key="AR3_912_1_821511_Name" korean="강인한 용사의 그림자 투구" />
+	<block key="AR3_912_2_821511_Name" korean="강인한 용사의 그림자 어깨" />
+	<block key="AR3_912_3_821511_Name" korean="강인한 용사의 그림자 경갑" />
+	<block key="AR3_912_4_821511_Name" korean="강인한 용사의 그림자 장갑" />
+	<block key="AR3_912_5_821511_Name" korean="강인한 용사의 그림자 신발" />
+	<block key="AR4_912_1_821511_Name" korean="강인한 용사의 원소 모자" />
+	<block key="AR4_912_2_821511_Name" korean="강인한 용사의 원소 어깨" />
+	<block key="AR4_912_3_821511_Name" korean="강인한 용사의 원소 로브" />
+	<block key="AR4_912_4_821511_Name" korean="강인한 용사의 원소 장갑" />
+	<block key="AR4_912_5_821511_Name" korean="강인한 용사의 원소 신발" />
+	<block key="AR5_912_1_821511_Name" korean="강인한 용사의 신념 모자" />
+	<block key="AR5_912_2_821511_Name" korean="강인한 용사의 신념 어깨" />
+	<block key="AR5_912_3_821511_Name" korean="강인한 용사의 신념 로브" />
+	<block key="AR5_912_4_821511_Name" korean="강인한 용사의 신념 장갑" />
+	<block key="AR5_912_5_821511_Name" korean="강인한 용사의 신념 신발" />
+	<block key="AR0_922_1_822511_Name" korean="전설의 수호 투구" />
+	<block key="AR0_922_2_822511_Name" korean="전설의 수호 어깨" />
+	<block key="AR0_922_3_822511_Name" korean="전설의 수호 중갑" />
+	<block key="AR0_922_4_822511_Name" korean="전설의 수호 장갑" />
+	<block key="AR0_922_5_822511_Name" korean="전설의 수호 신발" />
+	<block key="AR1_922_1_822511_Name" korean="전설의 광폭 투구" />
+	<block key="AR1_922_2_822511_Name" korean="전설의 광폭 어깨" />
+	<block key="AR1_922_3_822511_Name" korean="전설의 광폭 중갑" />
+	<block key="AR1_922_4_822511_Name" korean="전설의 광폭 장갑" />
+	<block key="AR1_922_5_822511_Name" korean="전설의 광폭 신발" />
+	<block key="AR3_922_1_822511_Name" korean="전설의 그림자 투구" />
+	<block key="AR3_922_2_822511_Name" korean="전설의 그림자 어깨" />
+	<block key="AR3_922_3_822511_Name" korean="전설의 그림자 경갑" />
+	<block key="AR3_922_4_822511_Name" korean="전설의 그림자 장갑" />
+	<block key="AR3_922_5_822511_Name" korean="전설의 그림자 신발" />
+	<block key="AR4_922_1_822511_Name" korean="전설의 원소 모자" />
+	<block key="AR4_922_2_822511_Name" korean="전설의 원소 어깨" />
+	<block key="AR4_922_3_822511_Name" korean="전설의 원소 로브" />
+	<block key="AR4_922_4_822511_Name" korean="전설의 원소 장갑" />
+	<block key="AR4_922_5_822511_Name" korean="전설의 원소 신발" />
+	<block key="AR5_922_1_822511_Name" korean="전설의 신념 모자" />
+	<block key="AR5_922_2_822511_Name" korean="전설의 신념 어깨" />
+	<block key="AR5_922_3_822511_Name" korean="전설의 신념 로브" />
+	<block key="AR5_922_4_822511_Name" korean="전설의 신념 장갑" />
+	<block key="AR5_922_5_822511_Name" korean="전설의 신념 신발" />
+	<block key="AR0_923_1_832511_Name" korean="노련한 영웅의 수호 투구" />
+	<block key="AR0_923_2_832511_Name" korean="노련한 영웅의 수호 어깨" />
+	<block key="AR0_923_3_832511_Name" korean="노련한 영웅의 수호 중갑" />
+	<block key="AR0_923_4_832511_Name" korean="노련한 영웅의 수호 장갑" />
+	<block key="AR0_923_5_832511_Name" korean="노련한 영웅의 수호 신발" />
+	<block key="AR1_923_1_832511_Name" korean="노련한 영웅의 광폭 투구" />
+	<block key="AR1_923_2_832511_Name" korean="노련한 영웅의 광폭 어깨" />
+	<block key="AR1_923_3_832511_Name" korean="노련한 영웅의 광폭 중갑" />
+	<block key="AR1_923_4_832511_Name" korean="노련한 영웅의 광폭 장갑" />
+	<block key="AR1_923_5_832511_Name" korean="노련한 영웅의 광폭 신발" />
+	<block key="AR3_923_1_832511_Name" korean="노련한 영웅의 그림자 투구" />
+	<block key="AR3_923_2_832511_Name" korean="노련한 영웅의 그림자 어깨" />
+	<block key="AR3_923_3_832511_Name" korean="노련한 영웅의 그림자 경갑" />
+	<block key="AR3_923_4_832511_Name" korean="노련한 영웅의 그림자 장갑" />
+	<block key="AR3_923_5_832511_Name" korean="노련한 영웅의 그림자 신발" />
+	<block key="AR4_923_1_832511_Name" korean="노련한 영웅의 원소 모자" />
+	<block key="AR4_923_2_832511_Name" korean="노련한 영웅의 원소 어깨" />
+	<block key="AR4_923_3_832511_Name" korean="노련한 영웅의 원소 로브" />
+	<block key="AR4_923_4_832511_Name" korean="노련한 영웅의 원소 장갑" />
+	<block key="AR4_923_5_832511_Name" korean="노련한 영웅의 원소 신발" />
+	<block key="AR5_923_1_832511_Name" korean="노련한 영웅의 신념 모자" />
+	<block key="AR5_923_2_832511_Name" korean="노련한 영웅의 신념 어깨" />
+	<block key="AR5_923_3_832511_Name" korean="노련한 영웅의 신념 로브" />
+	<block key="AR5_923_4_832511_Name" korean="노련한 영웅의 신념 장갑" />
+	<block key="AR5_923_5_832511_Name" korean="노련한 영웅의 신념 신발" />
+	<block key="AR1_922_1_822512_Name" korean="빛바랜 정예 광폭 투구" />
+	<block key="AR1_922_2_822512_Name" korean="빛바랜 정예 광폭 어깨" />
+	<block key="AR1_922_3_822512_Name" korean="빛바랜 정예 광폭 중갑" />
+	<block key="AR1_922_4_822512_Name" korean="빛바랜 정예 광폭 장갑" />
+	<block key="AR1_922_5_822512_Name" korean="빛바랜 정예 광폭 신발" />
+	<block key="AR1_923_1_832512_Name" korean="빛바랜 영웅 광폭 투구" />
+	<block key="AR1_923_2_832512_Name" korean="빛바랜 영웅 광폭 어깨" />
+	<block key="AR1_923_3_832512_Name" korean="빛바랜 영웅 광폭 중갑" />
+	<block key="AR1_923_4_832512_Name" korean="빛바랜 영웅 광폭 장갑" />
+	<block key="AR1_923_5_832512_Name" korean="빛바랜 영웅 광폭 신발" />
+	<block key="AR0_003_1_932512_Name" korean="라비니족의 수호 투구" />
+	<block key="AR0_003_2_932512_Name" korean="라비니족의 수호 어깨" />
+	<block key="AR0_003_3_932512_Name" korean="라비니족의 수호 중갑" />
+	<block key="AR0_003_4_932512_Name" korean="라비니족의 수호 장갑" />
+	<block key="AR0_003_5_932512_Name" korean="라비니족의 수호 신발" />
+	<block key="AR0_003_1_912512_Name" korean="정예병의 수호 투구" />
+	<block key="AR0_003_2_912512_Name" korean="정예병의 수호 어깨" />
+	<block key="AR0_003_3_912512_Name" korean="정예병의 수호 중갑" />
+	<block key="AR0_003_4_912512_Name" korean="정예병의 수호 장갑" />
+	<block key="AR0_003_5_912512_Name" korean="정예병의 수호 신발" />
+	<block key="AR0_003_1_922512_Name" korean="무러미족의 수호 투구" />
+	<block key="AR0_003_2_922512_Name" korean="무러미족의 수호 어깨" />
+	<block key="AR0_003_3_922512_Name" korean="무러미족의 수호 중갑" />
+	<block key="AR0_003_4_922512_Name" korean="무러미족의 수호 장갑" />
+	<block key="AR0_003_5_922512_Name" korean="무러미족의 수호 신발" />
+	<block key="AR0_922_1_822512_Name" korean="빛바랜 정예 수호 투구" />
+	<block key="AR0_922_2_822512_Name" korean="빛바랜 정예 수호 어깨" />
+	<block key="AR0_922_3_822512_Name" korean="빛바랜 정예 수호 중갑" />
+	<block key="AR0_922_4_822512_Name" korean="빛바랜 정예 수호 장갑" />
+	<block key="AR0_922_5_822512_Name" korean="빛바랜 정예 수호 신발" />
+	<block key="AR0_923_1_832512_Name" korean="빛바랜 영웅 수호 투구" />
+	<block key="AR0_923_2_832512_Name" korean="빛바랜 영웅 수호 어깨" />
+	<block key="AR0_923_3_832512_Name" korean="빛바랜 영웅 수호 중갑" />
+	<block key="AR0_923_4_832512_Name" korean="빛바랜 영웅 수호 장갑" />
+	<block key="AR0_923_5_832512_Name" korean="빛바랜 영웅 수호 신발" />
+	<block key="AR3_005_1_932512_Name" korean="라비니족의 그림자 투구" />
+	<block key="AR3_005_2_932512_Name" korean="라비니족의 그림자 어깨" />
+	<block key="AR3_005_3_932512_Name" korean="라비니족의 그림자 경갑" />
+	<block key="AR3_005_4_932512_Name" korean="라비니족의 그림자 장갑" />
+	<block key="AR3_005_5_932512_Name" korean="라비니족의 그림자 신발" />
+	<block key="AR3_005_1_912512_Name" korean="정예병의 그림자 투구" />
+	<block key="AR3_005_2_912512_Name" korean="정예병의 그림자 어깨" />
+	<block key="AR3_005_3_912512_Name" korean="정예병의 그림자 경갑" />
+	<block key="AR3_005_4_912512_Name" korean="정예병의 그림자 장갑" />
+	<block key="AR3_005_5_912512_Name" korean="정예병의 그림자 신발" />
+	<block key="AR3_005_1_922512_Name" korean="무러미족의 그림자 투구" />
+	<block key="AR3_005_2_922512_Name" korean="무러미족의 그림자 어깨" />
+	<block key="AR3_005_3_922512_Name" korean="무러미족의 그림자 경갑" />
+	<block key="AR3_005_4_922512_Name" korean="무러미족의 그림자 장갑" />
+	<block key="AR3_005_5_922512_Name" korean="무러미족의 그림자 신발" />
+	<block key="AR3_922_1_822512_Name" korean="빛바랜 정예 그림자 투구" />
+	<block key="AR3_922_2_822512_Name" korean="빛바랜 정예 그림자 어깨" />
+	<block key="AR3_922_3_822512_Name" korean="빛바랜 정예 그림자 경갑" />
+	<block key="AR3_922_4_822512_Name" korean="빛바랜 정예 그림자 장갑" />
+	<block key="AR3_922_5_822512_Name" korean="빛바랜 정예 그림자 신발" />
+	<block key="AR3_923_1_832512_Name" korean="빛바랜 영웅 그림자 투구" />
+	<block key="AR3_923_2_832512_Name" korean="빛바랜 영웅 그림자 어깨" />
+	<block key="AR3_923_3_832512_Name" korean="빛바랜 영웅 그림자 경갑" />
+	<block key="AR3_923_4_832512_Name" korean="빛바랜 영웅 그림자 장갑" />
+	<block key="AR3_923_5_832512_Name" korean="빛바랜 영웅 그림자 신발" />
+	<block key="AR5_004_1_932512_Name" korean="라비니족의 신념 모자" />
+	<block key="AR5_004_2_932512_Name" korean="라비니족의 신념 어깨" />
+	<block key="AR5_004_3_932512_Name" korean="라비니족의 신념 로브" />
+	<block key="AR5_004_4_932512_Name" korean="라비니족의 신념 장갑" />
+	<block key="AR5_004_5_932512_Name" korean="라비니족의 신념 신발" />
+	<block key="AR5_004_1_912512_Name" korean="정예병의 신념 모자" />
+	<block key="AR5_004_2_912512_Name" korean="정예병의 신념 어깨" />
+	<block key="AR5_004_3_912512_Name" korean="정예병의 신념 로브" />
+	<block key="AR5_004_4_912512_Name" korean="정예병의 신념 장갑" />
+	<block key="AR5_004_5_912512_Name" korean="정예병의 신념 신발" />
+	<block key="AR5_004_1_922512_Name" korean="무러미족의 신념 모자" />
+	<block key="AR5_004_2_922512_Name" korean="무러미족의 신념 어깨" />
+	<block key="AR5_004_3_922512_Name" korean="무러미족의 신념 로브" />
+	<block key="AR5_004_4_922512_Name" korean="무러미족의 신념 장갑" />
+	<block key="AR5_004_5_922512_Name" korean="무러미족의 신념 신발" />
+	<block key="AR5_922_1_822512_Name" korean="빛바랜 신념 정예 모자" />
+	<block key="AR5_922_2_822512_Name" korean="빛바랜 신념 정예 어깨" />
+	<block key="AR5_922_3_822512_Name" korean="빛바랜 신념 정예 로브" />
+	<block key="AR5_922_4_822512_Name" korean="빛바랜 신념 정예 장갑" />
+	<block key="AR5_922_5_822512_Name" korean="빛바랜 신념 정예 신발" />
+	<block key="AR5_923_1_832512_Name" korean="빛바랜 신념 영웅 모자" />
+	<block key="AR5_923_2_832512_Name" korean="빛바랜 신념 영웅 어깨" />
+	<block key="AR5_923_3_832512_Name" korean="빛바랜 신념 영웅 로브" />
+	<block key="AR5_923_4_832512_Name" korean="빛바랜 신념 영웅 장갑" />
+	<block key="AR5_923_5_832512_Name" korean="빛바랜 신념 영웅 신발" />
+	<block key="AR4_004_1_932512_Name" korean="라비니족의 원소 모자" />
+	<block key="AR4_004_2_932512_Name" korean="라비니족의 원소 어깨" />
+	<block key="AR4_004_3_932512_Name" korean="라비니족의 원소 로브" />
+	<block key="AR4_004_4_932512_Name" korean="라비니족의 원소 장갑" />
+	<block key="AR4_004_5_932512_Name" korean="라비니족의 원소 신발" />
+	<block key="AR4_004_1_912512_Name" korean="정예병의 원소 모자" />
+	<block key="AR4_004_2_912512_Name" korean="정예병의 원소 어깨" />
+	<block key="AR4_004_3_912512_Name" korean="정예병의 원소 로브" />
+	<block key="AR4_004_4_912512_Name" korean="정예병의 원소 장갑" />
+	<block key="AR4_004_5_912512_Name" korean="정예병의 원소 신발" />
+	<block key="AR4_004_1_922512_Name" korean="무러미족의 원소 모자" />
+	<block key="AR4_004_2_922512_Name" korean="무러미족의 원소 어깨" />
+	<block key="AR4_004_3_922512_Name" korean="무러미족의 원소 로브" />
+	<block key="AR4_004_4_922512_Name" korean="무러미족의 원소 장갑" />
+	<block key="AR4_004_5_922512_Name" korean="무러미족의 원소 신발" />
+	<block key="AR4_922_1_822512_Name" korean="빛바랜 정예 원소 모자" />
+	<block key="AR4_922_2_822512_Name" korean="빛바랜 정예 원소 어깨" />
+	<block key="AR4_922_3_822512_Name" korean="빛바랜 정예 원소 로브" />
+	<block key="AR4_922_4_822512_Name" korean="빛바랜 정예 원소 장갑" />
+	<block key="AR4_922_5_822512_Name" korean="빛바랜 정예 원소 신발" />
+	<block key="AR4_923_1_832512_Name" korean="빛바랜 영웅 원소 모자" />
+	<block key="AR4_923_2_832512_Name" korean="빛바랜 영웅 원소 어깨" />
+	<block key="AR4_923_3_832512_Name" korean="빛바랜 영웅 원소 로브" />
+	<block key="AR4_923_4_832512_Name" korean="빛바랜 영웅 원소 장갑" />
+	<block key="AR4_923_5_832512_Name" korean="빛바랜 영웅 원소 신발" />
+	<block key="pvpAR0_003_1_002528_Name" korean="하급 사냥꾼의 수호 투구" />
+	<block key="pvpAR0_003_2_002528_Name" korean="하급 사냥꾼의 수호 어깨" />
+	<block key="pvpAR0_003_3_002528_Name" korean="하급 사냥꾼의 수호 중갑" />
+	<block key="pvpAR0_003_4_002528_Name" korean="하급 사냥꾼의 수호 장갑" />
+	<block key="pvpAR0_003_5_002528_Name" korean="하급 사냥꾼의 수호 신발" />
+	<block key="pvpAR1_003_1_002528_Name" korean="하급 사냥꾼의 광폭 투구" />
+	<block key="pvpAR1_003_2_002528_Name" korean="하급 사냥꾼의 광폭 어깨" />
+	<block key="pvpAR1_003_3_002528_Name" korean="하급 사냥꾼의 광폭 중갑" />
+	<block key="pvpAR1_003_4_002528_Name" korean="하급 사냥꾼의 광폭 장갑" />
+	<block key="pvpAR1_003_5_002528_Name" korean="하급 사냥꾼의 광폭 신발" />
+	<block key="pvpAR3_005_1_002528_Name" korean="하급 사냥꾼의 그림자 투구" />
+	<block key="pvpAR3_005_2_002528_Name" korean="하급 사냥꾼의 그림자 어깨" />
+	<block key="pvpAR3_005_3_002528_Name" korean="하급 사냥꾼의 그림자 경갑" />
+	<block key="pvpAR3_005_4_002528_Name" korean="하급 사냥꾼의 그림자 장갑" />
+	<block key="pvpAR3_005_5_002528_Name" korean="하급 사냥꾼의 그림자 신발" />
+	<block key="pvpAR4_004_1_002528_Name" korean="하급 사냥꾼의 원소 모자" />
+	<block key="pvpAR4_004_2_002528_Name" korean="하급 사냥꾼의 원소 어깨" />
+	<block key="pvpAR4_004_3_002528_Name" korean="하급 사냥꾼의 원소 로브" />
+	<block key="pvpAR4_004_4_002528_Name" korean="하급 사냥꾼의 원소 장갑" />
+	<block key="pvpAR4_004_5_002528_Name" korean="하급 사냥꾼의 원소 신발" />
+	<block key="pvpAR5_004_1_002528_Name" korean="하급 사냥꾼의 신념 모자" />
+	<block key="pvpAR5_004_2_002528_Name" korean="하급 사냥꾼의 신념 어깨" />
+	<block key="pvpAR5_004_3_002528_Name" korean="하급 사냥꾼의 신념 로브" />
+	<block key="pvpAR5_004_4_002528_Name" korean="하급 사냥꾼의 신념 장갑" />
+	<block key="pvpAR5_004_5_002528_Name" korean="하급 사냥꾼의 신념 신발" />
+	<block key="pvpAR0_003_1_003033_Name" korean="중급 사냥꾼의 수호 투구" />
+	<block key="pvpAR0_003_2_003033_Name" korean="중급 사냥꾼의 수호 어깨" />
+	<block key="pvpAR0_003_3_003033_Name" korean="중급 사냥꾼의 수호 중갑" />
+	<block key="pvpAR0_003_4_003033_Name" korean="중급 사냥꾼의 수호 장갑" />
+	<block key="pvpAR0_003_5_003033_Name" korean="중급 사냥꾼의 수호 신발" />
+	<block key="pvpAR1_003_1_003033_Name" korean="중급 사냥꾼의 광폭 투구" />
+	<block key="pvpAR1_003_2_003033_Name" korean="중급 사냥꾼의 광폭 어깨" />
+	<block key="pvpAR1_003_3_003033_Name" korean="중급 사냥꾼의 광폭 중갑" />
+	<block key="pvpAR1_003_4_003033_Name" korean="중급 사냥꾼의 광폭 장갑" />
+	<block key="pvpAR1_003_5_003033_Name" korean="중급 사냥꾼의 광폭 신발" />
+	<block key="pvpAR3_005_1_003033_Name" korean="중급 사냥꾼의 그림자 투구" />
+	<block key="pvpAR3_005_2_003033_Name" korean="중급 사냥꾼의 그림자 어깨" />
+	<block key="pvpAR3_005_3_003033_Name" korean="중급 사냥꾼의 그림자 경갑" />
+	<block key="pvpAR3_005_4_003033_Name" korean="중급 사냥꾼의 그림자 장갑" />
+	<block key="pvpAR3_005_5_003033_Name" korean="중급 사냥꾼의 그림자 신발" />
+	<block key="pvpAR4_004_1_003033_Name" korean="중급 사냥꾼의 원소 모자" />
+	<block key="pvpAR4_004_2_003033_Name" korean="중급 사냥꾼의 원소 어깨" />
+	<block key="pvpAR4_004_3_003033_Name" korean="중급 사냥꾼의 원소 로브" />
+	<block key="pvpAR4_004_4_003033_Name" korean="중급 사냥꾼의 원소 장갑" />
+	<block key="pvpAR4_004_5_003033_Name" korean="중급 사냥꾼의 원소 신발" />
+	<block key="pvpAR5_004_1_003033_Name" korean="중급 사냥꾼의 신념 모자" />
+	<block key="pvpAR5_004_2_003033_Name" korean="중급 사냥꾼의 신념 어깨" />
+	<block key="pvpAR5_004_3_003033_Name" korean="중급 사냥꾼의 신념 로브" />
+	<block key="pvpAR5_004_4_003033_Name" korean="중급 사냥꾼의 신념 장갑" />
+	<block key="pvpAR5_004_5_003033_Name" korean="중급 사냥꾼의 신념 신발" />
+	<block key="pvpAR0_003_1_003538_Name" korean="상급 사냥꾼의 수호 투구" />
+	<block key="pvpAR0_003_2_003538_Name" korean="상급 사냥꾼의 수호 어깨" />
+	<block key="pvpAR0_003_3_003538_Name" korean="상급 사냥꾼의 수호 중갑" />
+	<block key="pvpAR0_003_4_003538_Name" korean="상급 사냥꾼의 수호 장갑" />
+	<block key="pvpAR0_003_5_003538_Name" korean="상급 사냥꾼의 수호 신발" />
+	<block key="pvpAR1_003_1_003538_Name" korean="상급 사냥꾼의 광폭 투구" />
+	<block key="pvpAR1_003_2_003538_Name" korean="상급 사냥꾼의 광폭 어깨" />
+	<block key="pvpAR1_003_3_003538_Name" korean="상급 사냥꾼의 광폭 중갑" />
+	<block key="pvpAR1_003_4_003538_Name" korean="상급 사냥꾼의 광폭 장갑" />
+	<block key="pvpAR1_003_5_003538_Name" korean="상급 사냥꾼의 광폭 신발" />
+	<block key="pvpAR3_005_1_003538_Name" korean="상급 사냥꾼의 그림자 투구" />
+	<block key="pvpAR3_005_2_003538_Name" korean="상급 사냥꾼의 그림자 어깨" />
+	<block key="pvpAR3_005_3_003538_Name" korean="상급 사냥꾼의 그림자 경갑" />
+	<block key="pvpAR3_005_4_003538_Name" korean="상급 사냥꾼의 그림자 장갑" />
+	<block key="pvpAR3_005_5_003538_Name" korean="상급 사냥꾼의 그림자 신발" />
+	<block key="pvpAR4_004_1_003538_Name" korean="상급 사냥꾼의 원소 모자" />
+	<block key="pvpAR4_004_2_003538_Name" korean="상급 사냥꾼의 원소 어깨" />
+	<block key="pvpAR4_004_3_003538_Name" korean="상급 사냥꾼의 원소 로브" />
+	<block key="pvpAR4_004_4_003538_Name" korean="상급 사냥꾼의 원소 장갑" />
+	<block key="pvpAR4_004_5_003538_Name" korean="상급 사냥꾼의 원소 신발" />
+	<block key="pvpAR5_004_1_003538_Name" korean="상급 사냥꾼의 신념 모자" />
+	<block key="pvpAR5_004_2_003538_Name" korean="상급 사냥꾼의 신념 어깨" />
+	<block key="pvpAR5_004_3_003538_Name" korean="상급 사냥꾼의 신념 로브" />
+	<block key="pvpAR5_004_4_003538_Name" korean="상급 사냥꾼의 신념 장갑" />
+	<block key="pvpAR5_004_5_003538_Name" korean="상급 사냥꾼의 신념 신발" />
+	<block key="pvpAR0_003_1_004043_Name" korean="최상급 사냥꾼의 수호 투구" />
+	<block key="pvpAR0_003_2_004043_Name" korean="최상급 사냥꾼의 수호 어깨" />
+	<block key="pvpAR0_003_3_004043_Name" korean="최상급 사냥꾼의 수호 중갑" />
+	<block key="pvpAR0_003_4_004043_Name" korean="최상급 사냥꾼의 수호 장갑" />
+	<block key="pvpAR0_003_5_004043_Name" korean="최상급 사냥꾼의 수호 신발" />
+	<block key="pvpAR1_003_1_004043_Name" korean="최상급 사냥꾼의 광폭 투구" />
+	<block key="pvpAR1_003_2_004043_Name" korean="최상급 사냥꾼의 광폭 어깨" />
+	<block key="pvpAR1_003_3_004043_Name" korean="최상급 사냥꾼의 광폭 중갑" />
+	<block key="pvpAR1_003_4_004043_Name" korean="최상급 사냥꾼의 광폭 장갑" />
+	<block key="pvpAR1_003_5_004043_Name" korean="최상급 사냥꾼의 광폭 신발" />
+	<block key="pvpAR3_005_1_004043_Name" korean="최상급 사냥꾼의 그림자 투구" />
+	<block key="pvpAR3_005_2_004043_Name" korean="최상급 사냥꾼의 그림자 어깨" />
+	<block key="pvpAR3_005_3_004043_Name" korean="최상급 사냥꾼의 그림자 경갑" />
+	<block key="pvpAR3_005_4_004043_Name" korean="최상급 사냥꾼의 그림자 장갑" />
+	<block key="pvpAR3_005_5_004043_Name" korean="최상급 사냥꾼의 그림자 신발" />
+	<block key="pvpAR4_004_1_004043_Name" korean="최상급 사냥꾼의 원소 모자" />
+	<block key="pvpAR4_004_2_004043_Name" korean="최상급 사냥꾼의 원소 어깨" />
+	<block key="pvpAR4_004_3_004043_Name" korean="최상급 사냥꾼의 원소 로브" />
+	<block key="pvpAR4_004_4_004043_Name" korean="최상급 사냥꾼의 원소 장갑" />
+	<block key="pvpAR4_004_5_004043_Name" korean="최상급 사냥꾼의 원소 신발" />
+	<block key="pvpAR5_004_1_004043_Name" korean="최상급 사냥꾼의 신념 모자" />
+	<block key="pvpAR5_004_2_004043_Name" korean="최상급 사냥꾼의 신념 어깨" />
+	<block key="pvpAR5_004_3_004043_Name" korean="최상급 사냥꾼의 신념 로브" />
+	<block key="pvpAR5_004_4_004043_Name" korean="최상급 사냥꾼의 신념 장갑" />
+	<block key="pvpAR5_004_5_004043_Name" korean="최상급 사냥꾼의 신념 신발" />
+	<block key="AR0_023_3_92157_Name" korean="망자의 수호 중갑" />
+	<block key="AR0_023_4_92157_Name" korean="망자의 수호 장갑" />
+	<block key="AR0_023_5_92157_Name" korean="망자의 수호 신발" />
+	<block key="AR1_023_3_92157_Name" korean="망자의 광폭 중갑" />
+	<block key="AR1_023_4_92157_Name" korean="망자의 광폭 장갑" />
+	<block key="AR1_023_5_92157_Name" korean="망자의 광폭 신발" />
+	<block key="AR3_003_3_92157_Name" korean="망자의 그림자 경갑" />
+	<block key="AR3_003_4_92157_Name" korean="망자의 그림자 장갑" />
+	<block key="AR3_003_5_92157_Name" korean="망자의 그림자 신발" />
+	<block key="AR4_002_3_92157_Name" korean="망자의 원소 로브" />
+	<block key="AR4_002_4_92157_Name" korean="망자의 원소 장갑" />
+	<block key="AR4_002_5_92157_Name" korean="망자의 원소 신발" />
+	<block key="AR5_003_3_92157_Name" korean="망자의 신념 로브" />
+	<block key="AR5_003_4_92157_Name" korean="망자의 신념 장갑" />
+	<block key="AR5_003_5_92157_Name" korean="망자의 신념 신발" />
+	<block key="AR0_024_2_92204_Name" korean="백작의 수호 어깨" />
+	<block key="AR0_024_3_92204_Name" korean="백작의 수호 중갑" />
+	<block key="AR0_024_4_92205_Name" korean="백작의 수호 장갑" />
+	<block key="AR0_024_5_92204_Name" korean="백작의 수호 신발" />
+	<block key="AR1_004_2_92204_Name" korean="백작의 광폭 어깨" />
+	<block key="AR1_004_3_92204_Name" korean="백작의 광폭 중갑" />
+	<block key="AR1_004_4_92205_Name" korean="백작의 광폭 장갑" />
+	<block key="AR1_004_5_92204_Name" korean="백작의 광폭 신발" />
+	<block key="AR3_024_2_92204_Name" korean="백작의 그림자 어깨" />
+	<block key="AR3_024_3_92204_Name" korean="백작의 그림자 경갑" />
+	<block key="AR3_024_4_92205_Name" korean="백작의 그림자 장갑" />
+	<block key="AR3_024_5_92205_Name" korean="백작의 그림자 신발" />
+	<block key="AR4_024_2_92205_Name" korean="백작의 원소 어깨" />
+	<block key="AR4_024_3_92205_Name" korean="백작의 원소 로브" />
+	<block key="AR4_024_4_92205_Name" korean="백작의 원소 장갑" />
+	<block key="AR4_024_5_92205_Name" korean="백작의 원소 신발" />
+	<block key="AR5_002_2_92205_Name" korean="백작의 신념 어깨" />
+	<block key="AR5_002_3_92205_Name" korean="백작의 신념 로브" />
+	<block key="AR5_002_4_92205_Name" korean="백작의 신념 장갑" />
+	<block key="AR5_002_5_92205_Name" korean="백작의 신념 신발" />
+	<block key="AR0_003_1_92255_Name" korean="설인족의 수호 투구" />
+	<block key="AR0_003_2_92255_Name" korean="설인족의 수호 어깨" />
+	<block key="AR0_003_3_92255_Name" korean="설인족의 수호 중갑" />
+	<block key="AR0_003_4_92255_Name" korean="설인족의 수호 장갑" />
+	<block key="AR0_003_5_92255_Name" korean="설인족의 수호 신발" />
+	<block key="AR1_003_1_92255_Name" korean="설인족의 광폭 투구" />
+	<block key="AR1_003_2_92255_Name" korean="설인족의 광폭 어깨" />
+	<block key="AR1_003_3_92255_Name" korean="설인족의 광폭 중갑" />
+	<block key="AR1_003_4_92255_Name" korean="설인족의 광폭 장갑" />
+	<block key="AR1_003_5_92255_Name" korean="설인족의 광폭 신발" />
+	<block key="AR3_005_1_92255_Name" korean="설인족의 그림자 투구" />
+	<block key="AR3_005_2_92255_Name" korean="설인족의 그림자 어깨" />
+	<block key="AR3_005_3_92255_Name" korean="설인족의 그림자 경갑" />
+	<block key="AR3_005_4_92255_Name" korean="설인족의 그림자 장갑" />
+	<block key="AR3_005_5_92255_Name" korean="설인족의 그림자 신발" />
+	<block key="AR4_004_1_92255_Name" korean="설인족의 원소 모자" />
+	<block key="AR4_004_2_92255_Name" korean="설인족의 원소 어깨" />
+	<block key="AR4_004_3_92255_Name" korean="설인족의 원소 로브" />
+	<block key="AR4_004_4_92255_Name" korean="설인족의 원소 장갑" />
+	<block key="AR4_004_5_92255_Name" korean="설인족의 원소 신발" />
+	<block key="AR5_004_1_92255_Name" korean="설인족의 신념 모자" />
+	<block key="AR5_004_2_92255_Name" korean="설인족의 신념 어깨" />
+	<block key="AR5_004_3_92255_Name" korean="설인족의 신념 로브" />
+	<block key="AR5_004_4_92255_Name" korean="설인족의 신념 장갑" />
+	<block key="AR5_004_5_92255_Name" korean="설인족의 신념 신발" />
+	<block key="AR0_003_1_92305_Name" korean="광신도의 수호 투구" />
+	<block key="AR0_003_2_92305_Name" korean="광신도의 수호 어깨" />
+	<block key="AR0_003_3_92305_Name" korean="광신도의 수호 중갑" />
+	<block key="AR0_003_4_92305_Name" korean="광신도의 수호 장갑" />
+	<block key="AR0_003_5_92305_Name" korean="광신도의 수호 신발" />
+	<block key="AR1_003_1_92305_Name" korean="광신도의 광폭 투구" />
+	<block key="AR1_003_2_92305_Name" korean="광신도의 광폭 어깨" />
+	<block key="AR1_003_3_92305_Name" korean="광신도의 광폭 중갑" />
+	<block key="AR1_003_4_92305_Name" korean="광신도의 광폭 장갑" />
+	<block key="AR1_003_5_92305_Name" korean="광신도의 광폭 신발" />
+	<block key="AR3_005_1_92305_Name" korean="광신도의 그림자 투구" />
+	<block key="AR3_005_2_92305_Name" korean="광신도의 그림자 어깨" />
+	<block key="AR3_005_3_92305_Name" korean="광신도의 그림자 경갑" />
+	<block key="AR3_005_4_92305_Name" korean="광신도의 그림자 장갑" />
+	<block key="AR3_005_5_92305_Name" korean="광신도의 그림자 신발" />
+	<block key="AR4_004_1_92305_Name" korean="광신도의 원소 모자" />
+	<block key="AR4_004_2_92305_Name" korean="광신도의 원소 어깨" />
+	<block key="AR4_004_3_92305_Name" korean="광신도의 원소 로브" />
+	<block key="AR4_004_4_92305_Name" korean="광신도의 원소 장갑" />
+	<block key="AR4_004_5_92305_Name" korean="광신도의 원소 신발" />
+	<block key="AR5_004_1_92305_Name" korean="광신도의 신념 모자" />
+	<block key="AR5_004_2_92305_Name" korean="광신도의 신념 어깨" />
+	<block key="AR5_004_3_92305_Name" korean="광신도의 신념 로브" />
+	<block key="AR5_004_4_92305_Name" korean="광신도의 신념 장갑" />
+	<block key="AR5_004_5_92305_Name" korean="광신도의 신념 신발" />
+	<block key="AR0_004_1_93307_Name" korean="서리군단 정예병의 수호 투구" />
+	<block key="AR0_004_2_93307_Name" korean="서리군단 정예병의 수호 어깨" />
+	<block key="AR0_004_3_93307_Name" korean="서리군단 정예병의 수호 중갑" />
+	<block key="AR0_004_4_93307_Name" korean="서리군단 정예병의 수호 장갑" />
+	<block key="AR0_004_5_93307_Name" korean="서리군단 정예병의 수호 신발" />
+	<block key="AR1_004_1_93307_Name" korean="서리군단 정예병의 광폭 투구" />
+	<block key="AR1_004_2_93307_Name" korean="서리군단 정예병의 광폭 어깨" />
+	<block key="AR1_004_3_93307_Name" korean="서리군단 정예병의 광폭 중갑" />
+	<block key="AR1_004_4_93307_Name" korean="서리군단 정예병의 광폭 장갑" />
+	<block key="AR1_004_5_93307_Name" korean="서리군단 정예병의 광폭 신발" />
+	<block key="AR3_004_1_93307_Name" korean="서리군단 정예병의 그림자 투구" />
+	<block key="AR3_004_2_93307_Name" korean="서리군단 정예병의 그림자 어깨" />
+	<block key="AR3_004_3_93307_Name" korean="서리군단 정예병의 그림자 경갑" />
+	<block key="AR3_004_4_93307_Name" korean="서리군단 정예병의 그림자 장갑" />
+	<block key="AR3_004_5_93307_Name" korean="서리군단 정예병의 그림자 신발" />
+	<block key="AR4_005_1_93307_Name" korean="서리군단 정예병의 원소 모자" />
+	<block key="AR4_005_2_93307_Name" korean="서리군단 정예병의 원소 어깨" />
+	<block key="AR4_005_3_93307_Name" korean="서리군단 정예병의 원소 로브" />
+	<block key="AR4_005_4_93307_Name" korean="서리군단 정예병의 원소 장갑" />
+	<block key="AR4_005_5_93307_Name" korean="서리군단 정예병의 원소 신발" />
+	<block key="AR5_005_1_93307_Name" korean="서리군단 정예병의 신념 모자" />
+	<block key="AR5_005_2_93307_Name" korean="서리군단 정예병의 신념 어깨" />
+	<block key="AR5_005_3_93307_Name" korean="서리군단 정예병의 신념 로브" />
+	<block key="AR5_005_4_93307_Name" korean="서리군단 정예병의 신념 장갑" />
+	<block key="AR5_005_5_93307_Name" korean="서리군단 정예병의 신념 신발" />
+	<block key="AR0_004_1_94307_Name" korean="이즈호라 군단 정예병의 수호 투구" />
+	<block key="AR0_004_2_94307_Name" korean="이즈호라 군단 정예병의 수호 어깨" />
+	<block key="AR0_004_3_94307_Name" korean="이즈호라 군단 정예병의 수호 중갑" />
+	<block key="AR0_004_4_94307_Name" korean="이즈호라 군단 정예병의 수호 장갑" />
+	<block key="AR0_004_5_94307_Name" korean="이즈호라 군단 정예병의 수호 신발" />
+	<block key="AR1_004_1_94307_Name" korean="이즈호라 군단 정예병의 광폭 투구" />
+	<block key="AR1_004_2_94307_Name" korean="이즈호라 군단 정예병의 광폭 어깨" />
+	<block key="AR1_004_3_94307_Name" korean="이즈호라 군단 정예병의 광폭 중갑" />
+	<block key="AR1_004_4_94307_Name" korean="이즈호라 군단 정예병의 광폭 장갑" />
+	<block key="AR1_004_5_94307_Name" korean="이즈호라 군단 정예병의 광폭 신발" />
+	<block key="AR3_004_1_94307_Name" korean="이즈호라 군단 정예병의 그림자 투구" />
+	<block key="AR3_004_2_94307_Name" korean="이즈호라 군단 정예병의 그림자 어깨" />
+	<block key="AR3_004_3_94307_Name" korean="이즈호라 군단 정예병의 그림자 경갑" />
+	<block key="AR3_004_4_94307_Name" korean="이즈호라 군단 정예병의 그림자 장갑" />
+	<block key="AR3_004_5_94307_Name" korean="이즈호라 군단 정예병의 그림자 신발" />
+	<block key="AR4_005_1_94307_Name" korean="이즈호라 군단 정예병의 원소 모자" />
+	<block key="AR4_005_2_94307_Name" korean="이즈호라 군단 정예병의 원소 어깨" />
+	<block key="AR4_005_3_94307_Name" korean="이즈호라 군단 정예병의 원소 로브" />
+	<block key="AR4_005_4_94307_Name" korean="이즈호라 군단 정예병의 원소 장갑" />
+	<block key="AR4_005_5_94307_Name" korean="이즈호라 군단 정예병의 원소 신발" />
+	<block key="AR5_005_1_94307_Name" korean="이즈호라 군단 정예병의 신념 모자" />
+	<block key="AR5_005_2_94307_Name" korean="이즈호라 군단 정예병의 신념 어깨" />
+	<block key="AR5_005_3_94307_Name" korean="이즈호라 군단 정예병의 신념 로브" />
+	<block key="AR5_005_4_94307_Name" korean="이즈호라 군단 정예병의 신념 장갑" />
+	<block key="AR5_005_5_94307_Name" korean="이즈호라 군단 정예병의 신념 신발" />
+	<block key="AR0_002_1_92105_Name" korean="카라샤의 수호 투구" />
+	<block key="AR0_002_2_92105_Name" korean="카라샤의 수호 어깨" />
+	<block key="AR0_002_3_92105_Name" korean="카라샤의 수호 중갑" />
+	<block key="AR0_002_4_92105_Name" korean="카라샤의 수호 장갑" />
+	<block key="AR0_002_5_92105_Name" korean="카라샤의 수호 신발" />
+	<block key="AR1_002_1_92105_Name" korean="카라샤의 광폭 투구" />
+	<block key="AR1_002_2_92105_Name" korean="카라샤의 광폭 어깨" />
+	<block key="AR1_002_3_92105_Name" korean="카라샤의 광폭 중갑" />
+	<block key="AR1_002_4_92105_Name" korean="카라샤의 광폭 장갑" />
+	<block key="AR1_002_5_92105_Name" korean="카라샤의 광폭 신발" />
+	<block key="AR3_002_1_92105_Name" korean="카라샤의 그림자 투구" />
+	<block key="AR3_002_2_92105_Name" korean="카라샤의 그림자 어깨" />
+	<block key="AR3_002_3_92105_Name" korean="카라샤의 그림자 경갑" />
+	<block key="AR3_002_4_92105_Name" korean="카라샤의 그림자 장갑" />
+	<block key="AR3_002_5_92105_Name" korean="카라샤의 그림자 신발" />
+	<block key="AR4_022_1_92105_Name" korean="카라샤의 원소 모자" />
+	<block key="AR4_022_2_92105_Name" korean="카라샤의 원소 어깨" />
+	<block key="AR4_022_3_92105_Name" korean="카라샤의 원소 로브" />
+	<block key="AR4_022_4_92105_Name" korean="카라샤의 원소 장갑" />
+	<block key="AR4_022_5_92105_Name" korean="카라샤의 원소 신발" />
+	<block key="AR5_022_1_92105_Name" korean="카라샤의 신념 모자" />
+	<block key="AR5_022_2_92105_Name" korean="카라샤의 신념 어깨" />
+	<block key="AR5_022_3_92105_Name" korean="카라샤의 신념 로브" />
+	<block key="AR5_022_4_92105_Name" korean="카라샤의 신념 장갑" />
+	<block key="AR5_022_5_92105_Name" korean="카라샤의 신념 신발" />
+	<block key="AR0_004_1_93303_Name" korean="미사용" />
+	<block key="AR0_004_2_93303_Name" korean="미사용" />
+	<block key="AR0_004_3_93303_Name" korean="미사용" />
+	<block key="AR0_004_4_93303_Name" korean="미사용" />
+	<block key="AR0_004_5_93303_Name" korean="미사용" />
+	<block key="AR1_004_1_93303_Name" korean="미사용" />
+	<block key="AR1_004_2_93303_Name" korean="미사용" />
+	<block key="AR1_004_3_93303_Name" korean="미사용" />
+	<block key="AR1_004_4_93303_Name" korean="미사용" />
+	<block key="AR1_004_5_93303_Name" korean="미사용" />
+	<block key="AR3_004_1_93303_Name" korean="미사용" />
+	<block key="AR3_004_2_93303_Name" korean="미사용" />
+	<block key="AR3_004_3_93303_Name" korean="미사용" />
+	<block key="AR3_004_4_93303_Name" korean="미사용" />
+	<block key="AR3_004_5_93303_Name" korean="미사용" />
+	<block key="AR4_005_1_93303_Name" korean="미사용" />
+	<block key="AR4_005_2_93303_Name" korean="미사용" />
+	<block key="AR4_005_3_93303_Name" korean="미사용" />
+	<block key="AR4_005_4_93303_Name" korean="미사용" />
+	<block key="AR4_005_5_93303_Name" korean="미사용" />
+	<block key="AR5_005_1_93303_Name" korean="미사용" />
+	<block key="AR5_005_2_93303_Name" korean="미사용" />
+	<block key="AR5_005_3_93303_Name" korean="미사용" />
+	<block key="AR5_005_4_93303_Name" korean="미사용" />
+	<block key="AR5_005_5_93303_Name" korean="미사용" />
+	<block key="AR0_004_1_93401_Name" korean="포세이나의 수호 투구" />
+	<block key="AR0_004_2_93401_Name" korean="포세이나의 수호 어깨" />
+	<block key="AR0_004_3_93401_Name" korean="포세이나의 수호 중갑" />
+	<block key="AR0_004_4_93401_Name" korean="포세이나의 수호 장갑" />
+	<block key="AR0_004_5_93401_Name" korean="포세이나의 수호 신발" />
+	<block key="AR1_004_1_93401_Name" korean="포세이나의 광폭 투구" />
+	<block key="AR1_004_2_93401_Name" korean="포세이나의 광폭 어깨" />
+	<block key="AR1_004_3_93401_Name" korean="포세이나의 광폭 중갑" />
+	<block key="AR1_004_4_93401_Name" korean="포세이나의 광폭 장갑" />
+	<block key="AR1_004_5_93401_Name" korean="포세이나의 광폭 신발" />
+	<block key="AR3_004_1_93401_Name" korean="포세이나의 그림자 투구" />
+	<block key="AR3_004_2_93401_Name" korean="포세이나의 그림자 어깨" />
+	<block key="AR3_004_3_93401_Name" korean="포세이나의 그림자 중갑" />
+	<block key="AR3_004_4_93401_Name" korean="포세이나의 그림자 장갑" />
+	<block key="AR3_004_5_93401_Name" korean="포세이나의 그림자 신발" />
+	<block key="AR4_005_1_93401_Name" korean="포세이나의 원소 투구" />
+	<block key="AR4_005_2_93401_Name" korean="포세이나의 원소 어깨" />
+	<block key="AR4_005_3_93401_Name" korean="포세이나의 원소 중갑" />
+	<block key="AR4_005_4_93401_Name" korean="포세이나의 원소 장갑" />
+	<block key="AR4_005_5_93401_Name" korean="포세이나의 원소 신발" />
+	<block key="AR5_005_1_93401_Name" korean="포세이나의 신념 투구" />
+	<block key="AR5_005_2_93401_Name" korean="포세이나의 신념 어깨" />
+	<block key="AR5_005_3_93401_Name" korean="포세이나의 신념 중갑" />
+	<block key="AR5_005_4_93401_Name" korean="포세이나의 신념 장갑" />
+	<block key="AR5_005_5_93401_Name" korean="포세이나의 신념 신발" />
+	<block key="AR0_023_3_92154_EV_Name" korean="기사단의 습격자 수호 중갑" />
+	<block key="AR0_023_4_92154_EV_Name" korean="기사단의 습격자 수호 장갑" />
+	<block key="AR0_023_5_92154_EV_Name" korean="기사단의 습격자 수호 신발" />
+	<block key="AR1_023_3_92154_EV_Name" korean="기사단의 습격자 광폭 중갑" />
+	<block key="AR1_023_4_92154_EV_Name" korean="기사단의 습격자 광폭 장갑" />
+	<block key="AR1_023_5_92154_EV_Name" korean="기사단의 습격자 광폭 신발" />
+	<block key="AR3_003_3_92154_EV_Name" korean="기사단의 습격자 그림자 경갑" />
+	<block key="AR3_003_4_92154_EV_Name" korean="기사단의 습격자 그림자 장갑" />
+	<block key="AR3_003_5_92154_EV_Name" korean="기사단의 습격자 그림자 신발" />
+	<block key="AR4_002_3_92154_EV_Name" korean="기사단의 습격자 원소 로브" />
+	<block key="AR4_002_4_92154_EV_Name" korean="기사단의 습격자 원소 장갑" />
+	<block key="AR4_002_5_92154_EV_Name" korean="기사단의 습격자 원소 신발" />
+	<block key="AR5_003_3_92154_EV_Name" korean="기사단의 습격자 신념 로브" />
+	<block key="AR5_003_4_92154_EV_Name" korean="기사단의 습격자 신념 장갑" />
+	<block key="AR5_003_5_92154_EV_Name" korean="기사단의 습격자 신념 신발" />
+	<block key="AR0_023_3_92154_RE_Name" korean="희망의 수호 중갑 I" />
+	<block key="AR0_023_4_92154_RE_Name" korean="희망의 수호 장갑 I" />
+	<block key="AR0_023_5_92154_RE_Name" korean="희망의 수호 신발 I" />
+	<block key="AR1_023_3_92154_RE_Name" korean="희망의 광폭 중갑 I" />
+	<block key="AR1_023_4_92154_RE_Name" korean="희망의 광폭 장갑 I" />
+	<block key="AR1_023_5_92154_RE_Name" korean="희망의 광폭 신발 I" />
+	<block key="AR3_003_3_92154_RE_Name" korean="희망의 그림자 경갑 I" />
+	<block key="AR3_003_4_92154_RE_Name" korean="희망의 그림자 장갑 I" />
+	<block key="AR3_003_5_92154_RE_Name" korean="희망의 그림자 신발 I" />
+	<block key="AR4_002_3_92154_RE_Name" korean="희망의 원소 로브 I" />
+	<block key="AR4_002_4_92154_RE_Name" korean="희망의 원소 장갑 I" />
+	<block key="AR4_002_5_92154_RE_Name" korean="희망의 원소 신발 I" />
+	<block key="AR5_003_3_92154_RE_Name" korean="희망의 신념 로브 I" />
+	<block key="AR5_003_4_92154_RE_Name" korean="희망의 신념 장갑 I" />
+	<block key="AR5_003_5_92154_RE_Name" korean="희망의 신념 신발 I" />
+	<block key="AR0_023_2_92156_RE_Name" korean="희망의 수호 어깨 II" />
+	<block key="AR0_023_3_92156_RE_Name" korean="희망의 수호 중갑 II" />
+	<block key="AR0_023_4_92156_RE_Name" korean="희망의 수호 장갑 II" />
+	<block key="AR0_023_5_92156_RE_Name" korean="희망의 수호 신발 II" />
+	<block key="AR1_023_2_92156_RE_Name" korean="희망의 광폭 어깨 II" />
+	<block key="AR1_023_3_92156_RE_Name" korean="희망의 광폭 중갑 II" />
+	<block key="AR1_023_4_92156_RE_Name" korean="희망의 광폭 장갑 II" />
+	<block key="AR1_023_5_92156_RE_Name" korean="희망의 광폭 신발 II" />
+	<block key="AR3_003_2_92156_RE_Name" korean="희망의 그림자 어깨 II" />
+	<block key="AR3_003_3_92156_RE_Name" korean="희망의 그림자 경갑 II" />
+	<block key="AR3_003_4_92156_RE_Name" korean="희망의 그림자 장갑 II" />
+	<block key="AR3_003_5_92156_RE_Name" korean="희망의 그림자 신발 II" />
+	<block key="AR4_002_2_92156_RE_Name" korean="희망의 원소 어깨 II" />
+	<block key="AR4_002_3_92156_RE_Name" korean="희망의 원소 로브 II" />
+	<block key="AR4_002_4_92156_RE_Name" korean="희망의 원소 장갑 II" />
+	<block key="AR4_002_5_92156_RE_Name" korean="희망의 원소 신발 II" />
+	<block key="AR5_003_2_92156_RE_Name" korean="희망의 신념 어깨 II" />
+	<block key="AR5_003_3_92156_RE_Name" korean="희망의 신념 로브 II" />
+	<block key="AR5_003_4_92156_RE_Name" korean="희망의 신념 장갑 II" />
+	<block key="AR5_003_5_92156_RE_Name" korean="희망의 신념 신발 II" />
+	<block key="AR0_024_2_92201_RE_Name" korean="희망의 수호 어깨 III" />
+	<block key="AR0_024_3_92201_RE_Name" korean="희망의 수호 중갑 III" />
+	<block key="AR0_024_4_92201_RE_Name" korean="희망의 수호 장갑 III" />
+	<block key="AR0_024_5_92201_RE_Name" korean="희망의 수호 신발 III" />
+	<block key="AR1_004_2_92201_RE_Name" korean="희망의 광폭 어깨 III" />
+	<block key="AR1_004_3_92201_RE_Name" korean="희망의 광폭 중갑 III" />
+	<block key="AR1_004_4_92201_RE_Name" korean="희망의 광폭 장갑 III" />
+	<block key="AR1_004_5_92201_RE_Name" korean="희망의 광폭 신발 III" />
+	<block key="AR3_024_2_92201_RE_Name" korean="희망의 그림자 어깨 III" />
+	<block key="AR3_024_3_92201_RE_Name" korean="희망의 그림자 경갑 III" />
+	<block key="AR3_024_4_92201_RE_Name" korean="희망의 그림자 장갑 III" />
+	<block key="AR3_024_5_92201_RE_Name" korean="희망의 그림자 신발 III" />
+	<block key="AR4_024_2_92201_RE_Name" korean="희망의 원소 어깨 III" />
+	<block key="AR4_024_3_92201_RE_Name" korean="희망의 원소 로브 III" />
+	<block key="AR4_024_4_92201_RE_Name" korean="희망의 원소 장갑 III" />
+	<block key="AR4_024_5_92201_RE_Name" korean="희망의 원소 신발 III" />
+	<block key="AR5_002_2_92201_RE_Name" korean="희망의 신념 어깨 III" />
+	<block key="AR5_002_3_92201_RE_Name" korean="희망의 신념 로브 III" />
+	<block key="AR5_002_4_92201_RE_Name" korean="희망의 신념 장갑 III" />
+	<block key="AR5_002_5_92201_RE_Name" korean="희망의 신념 신발 III" />
+	<block key="AR0_003_1_92251_RE_Name" korean="희망의 수호 투구 IV" />
+	<block key="AR0_003_2_92251_RE_Name" korean="희망의 수호 어깨 IV" />
+	<block key="AR0_003_3_92251_RE_Name" korean="희망의 수호 중갑 IV" />
+	<block key="AR0_003_4_92251_RE_Name" korean="희망의 수호 장갑 IV" />
+	<block key="AR0_003_5_92251_RE_Name" korean="희망의 수호 신발 IV" />
+	<block key="AR1_003_1_92251_RE_Name" korean="희망의 광폭 투구 IV" />
+	<block key="AR1_003_2_92251_RE_Name" korean="희망의 광폭 어깨 IV" />
+	<block key="AR1_003_3_92251_RE_Name" korean="희망의 광폭 중갑 IV" />
+	<block key="AR1_003_4_92251_RE_Name" korean="희망의 광폭 장갑 IV" />
+	<block key="AR1_003_5_92251_RE_Name" korean="희망의 광폭 신발 IV" />
+	<block key="AR3_005_1_92251_RE_Name" korean="희망의 그림자 투구 IV" />
+	<block key="AR3_005_2_92251_RE_Name" korean="희망의 그림자 어깨 IV" />
+	<block key="AR3_005_3_92251_RE_Name" korean="희망의 그림자 경갑 IV" />
+	<block key="AR3_005_4_92251_RE_Name" korean="희망의 그림자 장갑 IV" />
+	<block key="AR3_005_5_92251_RE_Name" korean="희망의 그림자 신발 IV" />
+	<block key="AR4_004_1_92251_RE_Name" korean="희망의 원소 모자 IV" />
+	<block key="AR4_004_2_92251_RE_Name" korean="희망의 원소 어깨 IV" />
+	<block key="AR4_004_3_92251_RE_Name" korean="희망의 원소 로브 IV" />
+	<block key="AR4_004_4_92251_RE_Name" korean="희망의 원소 장갑 IV" />
+	<block key="AR4_004_5_92251_RE_Name" korean="희망의 원소 신발 IV" />
+	<block key="AR5_004_1_92251_RE_Name" korean="희망의 신념 모자 IV" />
+	<block key="AR5_004_2_92251_RE_Name" korean="희망의 신념 어깨 IV" />
+	<block key="AR5_004_3_92251_RE_Name" korean="희망의 신념 로브 IV" />
+	<block key="AR5_004_4_92251_RE_Name" korean="희망의 신념 장갑 IV" />
+	<block key="AR5_004_5_92251_RE_Name" korean="희망의 신념 신발 IV" />
+	<block key="AR0_022_1_92141_RE_Name" korean="희망의 수호 투구 V" />
+	<block key="AR0_022_2_92141_RE_Name" korean="희망의 수호 어깨 V" />
+	<block key="AR0_022_3_92141_RE_Name" korean="희망의 수호 중갑 V" />
+	<block key="AR0_022_4_92141_RE_Name" korean="희망의 수호 장갑 V" />
+	<block key="AR0_022_5_92141_RE_Name" korean="희망의 수호 신발 V" />
+	<block key="AR1_022_1_92141_RE_Name" korean="희망의 광폭 투구 V" />
+	<block key="AR1_022_2_92141_RE_Name" korean="희망의 광폭 어깨 V" />
+	<block key="AR1_022_3_92141_RE_Name" korean="희망의 광폭 중갑 V" />
+	<block key="AR1_022_4_92141_RE_Name" korean="희망의 광폭 장갑 V" />
+	<block key="AR1_022_5_92141_RE_Name" korean="희망의 광폭 신발 V" />
+	<block key="AR3_022_1_92141_RE_Name" korean="희망의 그림자 투구 V" />
+	<block key="AR3_022_2_92141_RE_Name" korean="희망의 그림자 어깨 V" />
+	<block key="AR3_022_3_92141_RE_Name" korean="희망의 그림자 경갑 V" />
+	<block key="AR3_022_4_92141_RE_Name" korean="희망의 그림자 장갑 V" />
+	<block key="AR3_022_5_92141_RE_Name" korean="희망의 그림자 신발 V" />
+	<block key="AR4_022_1_92141_RE_Name" korean="희망의 원소 모자 V" />
+	<block key="AR4_022_2_92141_RE_Name" korean="희망의 원소 어깨 V" />
+	<block key="AR4_022_3_92141_RE_Name" korean="희망의 원소 로브 V" />
+	<block key="AR4_022_4_92141_RE_Name" korean="희망의 원소 장갑 V" />
+	<block key="AR4_022_5_92141_RE_Name" korean="희망의 원소 신발 V" />
+	<block key="AR5_022_1_92141_RE_Name" korean="희망의 신념 모자 V" />
+	<block key="AR5_022_2_92141_RE_Name" korean="희망의 신념 어깨 V" />
+	<block key="AR5_022_3_92141_RE_Name" korean="희망의 신념 로브 V" />
+	<block key="AR5_022_4_92141_RE_Name" korean="희망의 신념 장갑 V" />
+	<block key="AR5_022_5_92141_RE_Name" korean="희망의 신념 신발 V" />
+	<block key="AR0_003_1_92301_RE_Name" korean="희망의 수호 투구 VI" />
+	<block key="AR0_003_2_92301_RE_Name" korean="희망의 수호 어깨 VI" />
+	<block key="AR0_003_3_92301_RE_Name" korean="희망의 수호 중갑 VI" />
+	<block key="AR0_003_4_92301_RE_Name" korean="희망의 수호 장갑 VI" />
+	<block key="AR0_003_5_92301_RE_Name" korean="희망의 수호 신발 VI" />
+	<block key="AR1_003_1_92301_RE_Name" korean="희망의 광폭 투구 VI" />
+	<block key="AR1_003_2_92301_RE_Name" korean="희망의 광폭 어깨 VI" />
+	<block key="AR1_003_3_92301_RE_Name" korean="희망의 광폭 중갑 VI" />
+	<block key="AR1_003_4_92301_RE_Name" korean="희망의 광폭 장갑 VI" />
+	<block key="AR1_003_5_92301_RE_Name" korean="희망의 광폭 신발 VI" />
+	<block key="AR3_005_1_92301_RE_Name" korean="희망의 그림자 투구 VI" />
+	<block key="AR3_005_2_92301_RE_Name" korean="희망의 그림자 어깨 VI" />
+	<block key="AR3_005_3_92301_RE_Name" korean="희망의 그림자 경갑 VI" />
+	<block key="AR3_005_4_92301_RE_Name" korean="희망의 그림자 장갑 VI" />
+	<block key="AR3_005_5_92301_RE_Name" korean="희망의 그림자 신발 VI" />
+	<block key="AR4_004_1_92301_RE_Name" korean="희망의 원소 모자 VI" />
+	<block key="AR4_004_2_92301_RE_Name" korean="희망의 원소 어깨 VI" />
+	<block key="AR4_004_3_92301_RE_Name" korean="희망의 원소 로브 VI" />
+	<block key="AR4_004_4_92301_RE_Name" korean="희망의 원소 장갑 VI" />
+	<block key="AR4_004_5_92301_RE_Name" korean="희망의 원소 신발 VI" />
+	<block key="AR5_004_1_92301_RE_Name" korean="희망의 신념 모자 VI" />
+	<block key="AR5_004_2_92301_RE_Name" korean="희망의 신념 어깨 VI" />
+	<block key="AR5_004_3_92301_RE_Name" korean="희망의 신념 로브 VI" />
+	<block key="AR5_004_4_92301_RE_Name" korean="희망의 신념 장갑 VI" />
+	<block key="AR5_004_5_92301_RE_Name" korean="희망의 신념 신발 VI" />
+	<block key="AR0_004_1_93302_RE_Name" korean="희망의 수호 투구 VII" />
+	<block key="AR0_004_2_93302_RE_Name" korean="희망의 수호 어깨 VII" />
+	<block key="AR0_004_3_93302_RE_Name" korean="희망의 수호 중갑 VII" />
+	<block key="AR0_004_4_93302_RE_Name" korean="희망의 수호 장갑 VII" />
+	<block key="AR0_004_5_93302_RE_Name" korean="희망의 수호 신발 VII" />
+	<block key="AR1_004_1_93302_RE_Name" korean="희망의 광폭 투구 VII" />
+	<block key="AR1_004_2_93302_RE_Name" korean="희망의 광폭 어깨 VII" />
+	<block key="AR1_004_3_93302_RE_Name" korean="희망의 광폭 중갑 VII" />
+	<block key="AR1_004_4_93302_RE_Name" korean="희망의 광폭 장갑 VII" />
+	<block key="AR1_004_5_93302_RE_Name" korean="희망의 광폭 신발 VII" />
+	<block key="AR3_004_1_93302_RE_Name" korean="희망의 그림자 투구 VII" />
+	<block key="AR3_004_2_93302_RE_Name" korean="희망의 그림자 어깨 VII" />
+	<block key="AR3_004_3_93302_RE_Name" korean="희망의 그림자 경갑 VII" />
+	<block key="AR3_004_4_93302_RE_Name" korean="희망의 그림자 장갑 VII" />
+	<block key="AR3_004_5_93302_RE_Name" korean="희망의 그림자 신발 VII" />
+	<block key="AR4_005_1_93302_RE_Name" korean="희망의 원소 모자 VII" />
+	<block key="AR4_005_2_93302_RE_Name" korean="희망의 원소 어깨 VII" />
+	<block key="AR4_005_3_93302_RE_Name" korean="희망의 원소 로브 VII" />
+	<block key="AR4_005_4_93302_RE_Name" korean="희망의 원소 장갑 VII" />
+	<block key="AR4_005_5_93302_RE_Name" korean="희망의 원소 신발 VII" />
+	<block key="AR5_005_1_93302_RE_Name" korean="희망의 신념 모자 VII" />
+	<block key="AR5_005_2_93302_RE_Name" korean="희망의 신념 어깨 VII" />
+	<block key="AR5_005_3_93302_RE_Name" korean="희망의 신념 로브 VII" />
+	<block key="AR5_005_4_93302_RE_Name" korean="희망의 신념 장갑 VII" />
+	<block key="AR5_005_5_93302_RE_Name" korean="희망의 신념 신발 VII" />
+	<block key="AR0_833_1_83501_Name" korean="빛나는 강화 미스릴 수호 투구" />
+	<block key="AR0_835_2_83501_Name" korean="빛나는 강화 미스릴 수호 어깨" />
+	<block key="AR0_835_3_83501_Name" korean="빛나는 강화 미스릴 수호 중갑" />
+	<block key="AR0_835_4_83501_Name" korean="빛나는 강화 미스릴 수호 장갑" />
+	<block key="AR0_835_5_83501_Name" korean="빛나는 강화 미스릴 수호 신발" />
+	<block key="AR1_835_1_83501_Name" korean="빛나는 강화 미스릴 광폭 투구" />
+	<block key="AR1_835_2_83501_Name" korean="빛나는 강화 미스릴 광폭 어깨" />
+	<block key="AR1_835_3_83501_Name" korean="빛나는 강화 미스릴 광폭 중갑" />
+	<block key="AR1_835_4_83501_Name" korean="빛나는 강화 미스릴 광폭 장갑" />
+	<block key="AR1_835_5_83501_Name" korean="빛나는 강화 미스릴 광폭 신발" />
+	<block key="AR3_835_1_83501_Name" korean="빛나는 강화 미스릴 그림자 투구" />
+	<block key="AR3_835_2_83501_Name" korean="빛나는 강화 미스릴 그림자 어깨" />
+	<block key="AR3_835_3_83501_Name" korean="빛나는 강화 미스릴 그림자 경갑" />
+	<block key="AR3_835_4_83501_Name" korean="빛나는 강화 미스릴 그림자 장갑" />
+	<block key="AR3_835_5_83501_Name" korean="빛나는 강화 미스릴 그림자 신발" />
+	<block key="AR4_835_1_83501_Name" korean="빛나는 강화 두꺼운 원소 모자" />
+	<block key="AR4_835_2_83501_Name" korean="빛나는 강화 두꺼운 원소 어깨" />
+	<block key="AR4_835_3_83501_Name" korean="빛나는 강화 두꺼운 원소 로브" />
+	<block key="AR4_835_4_83501_Name" korean="빛나는 강화 두꺼운 원소 장갑" />
+	<block key="AR4_835_5_83501_Name" korean="빛나는 강화 두꺼운 원소 신발" />
+	<block key="AR5_835_1_83501_Name" korean="빛나는 강화 두꺼운 신념 모자" />
+	<block key="AR5_835_2_83501_Name" korean="빛나는 강화 두꺼운 신념 어깨" />
+	<block key="AR5_835_3_83501_Name" korean="빛나는 강화 두꺼운 신념 로브" />
+	<block key="AR5_835_4_83501_Name" korean="빛나는 강화 두꺼운 신념 장갑" />
+	<block key="AR5_835_5_83501_Name" korean="빛나는 강화 두꺼운 신념 신발" />
+	<block key="AR0_833_1_84001_Name" korean="빛나는 투랄리움 수호 투구" />
+	<block key="AR0_840_2_84001_Name" korean="빛나는 투랄리움 수호 어깨" />
+	<block key="AR0_840_3_84001_Name" korean="빛나는 투랄리움 수호 중갑" />
+	<block key="AR0_840_4_84001_Name" korean="빛나는 투랄리움 수호 장갑" />
+	<block key="AR0_840_5_84001_Name" korean="빛나는 투랄리움 수호 신발" />
+	<block key="AR1_840_1_84001_Name" korean="빛나는 투랄리움 광폭 투구" />
+	<block key="AR1_840_2_84001_Name" korean="빛나는 투랄리움 광폭 어깨" />
+	<block key="AR1_840_3_84001_Name" korean="빛나는 투랄리움 광폭 중갑" />
+	<block key="AR1_840_4_84001_Name" korean="빛나는 투랄리움 광폭 장갑" />
+	<block key="AR1_840_5_84001_Name" korean="빛나는 투랄리움 광폭 신발" />
+	<block key="AR3_840_1_84001_Name" korean="빛나는 투랄리움 그림자 투구" />
+	<block key="AR3_840_2_84001_Name" korean="빛나는 투랄리움 그림자 어깨" />
+	<block key="AR3_840_3_84001_Name" korean="빛나는 투랄리움 그림자 경갑" />
+	<block key="AR3_840_4_84001_Name" korean="빛나는 투랄리움 그림자 장갑" />
+	<block key="AR3_840_5_84001_Name" korean="빛나는 투랄리움 그림자 신발" />
+	<block key="AR4_840_1_84001_Name" korean="빛나는 부드러운 원소 모자" />
+	<block key="AR4_840_2_84001_Name" korean="빛나는 부드러운 원소 어깨" />
+	<block key="AR4_840_3_84001_Name" korean="빛나는 부드러운 원소 로브" />
+	<block key="AR4_840_4_84001_Name" korean="빛나는 부드러운 원소 장갑" />
+	<block key="AR4_840_5_84001_Name" korean="빛나는 부드러운 원소 신발" />
+	<block key="AR5_840_1_84001_Name" korean="빛나는 부드러운 신념 모자" />
+	<block key="AR5_840_2_84001_Name" korean="빛나는 부드러운 신념 어깨" />
+	<block key="AR5_840_3_84001_Name" korean="빛나는 부드러운 신념 로브" />
+	<block key="AR5_840_4_84001_Name" korean="빛나는 부드러운 신념 장갑" />
+	<block key="AR5_840_5_84001_Name" korean="빛나는 부드러운 신념 신발" />
+	<block key="BX_AR0_004_1_93307_Name" korean="초승달 상단의 낡은 수호 투구" />
+	<block key="BX_AR0_004_2_93307_Name" korean="초승달 상단의 낡은 수호 어깨" />
+	<block key="BX_AR0_004_3_93307_Name" korean="초승달 상단의 낡은 수호 중갑" />
+	<block key="BX_AR0_004_4_93307_Name" korean="초승달 상단의 낡은 수호 장갑" />
+	<block key="BX_AR0_004_5_93307_Name" korean="초승달 상단의 낡은 수호 신발" />
+	<block key="BX_AR1_004_1_93307_Name" korean="초승달 상단의 낡은 광폭 투구" />
+	<block key="BX_AR1_004_2_93307_Name" korean="초승달 상단의 낡은 광폭 어깨" />
+	<block key="BX_AR1_004_3_93307_Name" korean="초승달 상단의 낡은 광폭 중갑" />
+	<block key="BX_AR1_004_4_93307_Name" korean="초승달 상단의 낡은 광폭 장갑" />
+	<block key="BX_AR1_004_5_93307_Name" korean="초승달 상단의 낡은 광폭 신발" />
+	<block key="BX_AR3_004_1_93307_Name" korean="초승달 상단의 낡은 그림자 투구" />
+	<block key="BX_AR3_004_2_93307_Name" korean="초승달 상단의 낡은 그림자 어깨" />
+	<block key="BX_AR3_004_3_93307_Name" korean="초승달 상단의 낡은 그림자 경갑" />
+	<block key="BX_AR3_004_4_93307_Name" korean="초승달 상단의 낡은 그림자 장갑" />
+	<block key="BX_AR3_004_5_93307_Name" korean="초승달 상단의 낡은 그림자 신발" />
+	<block key="BX_AR4_005_1_93307_Name" korean="초승달 상단의 낡은 원소 모자" />
+	<block key="BX_AR4_005_2_93307_Name" korean="초승달 상단의 낡은 원소 어깨" />
+	<block key="BX_AR4_005_3_93307_Name" korean="초승달 상단의 낡은 원소 로브" />
+	<block key="BX_AR4_005_4_93307_Name" korean="초승달 상단의 낡은 원소 장갑" />
+	<block key="BX_AR4_005_5_93307_Name" korean="초승달 상단의 낡은 원소 신발" />
+	<block key="BX_AR5_005_1_93307_Name" korean="초승달 상단의 낡은 신념 모자" />
+	<block key="BX_AR5_005_2_93307_Name" korean="초승달 상단의 낡은 신념 어깨" />
+	<block key="BX_AR5_005_3_93307_Name" korean="초승달 상단의 낡은 신념 로브" />
+	<block key="BX_AR5_005_4_93307_Name" korean="초승달 상단의 낡은 신념 장갑" />
+	<block key="BX_AR5_005_5_93307_Name" korean="초승달 상단의 낡은 신념 신발" />
+	<block key="BX_AR0_004_1_93301_Name" korean="초승달 상단의 수호 투구" />
+	<block key="BX_AR0_004_2_93301_Name" korean="초승달 상단의 수호 어깨" />
+	<block key="BX_AR0_004_3_93301_Name" korean="초승달 상단의 수호 중갑" />
+	<block key="BX_AR0_004_4_93301_Name" korean="초승달 상단의 수호 장갑" />
+	<block key="BX_AR0_004_5_93301_Name" korean="초승달 상단의 수호 신발" />
+	<block key="BX_AR1_004_1_93301_Name" korean="초승달 상단의 광폭 투구" />
+	<block key="BX_AR1_004_2_93301_Name" korean="초승달 상단의 광폭 어깨" />
+	<block key="BX_AR1_004_3_93301_Name" korean="초승달 상단의 광폭 중갑" />
+	<block key="BX_AR1_004_4_93301_Name" korean="초승달 상단의 광폭 장갑" />
+	<block key="BX_AR1_004_5_93301_Name" korean="초승달 상단의 광폭 신발" />
+	<block key="BX_AR3_004_1_93301_Name" korean="초승달 상단의 그림자 투구" />
+	<block key="BX_AR3_004_2_93301_Name" korean="초승달 상단의 그림자 어깨" />
+	<block key="BX_AR3_004_3_93301_Name" korean="초승달 상단의 그림자 경갑" />
+	<block key="BX_AR3_004_4_93301_Name" korean="초승달 상단의 그림자 장갑" />
+	<block key="BX_AR3_004_5_93301_Name" korean="초승달 상단의 그림자 신발" />
+	<block key="BX_AR4_005_1_93301_Name" korean="초승달 상단의 원소 모자" />
+	<block key="BX_AR4_005_2_93301_Name" korean="초승달 상단의 원소 어깨" />
+	<block key="BX_AR4_005_3_93301_Name" korean="초승달 상단의 원소 로브" />
+	<block key="BX_AR4_005_4_93301_Name" korean="초승달 상단의 원소 장갑" />
+	<block key="BX_AR4_005_5_93301_Name" korean="초승달 상단의 원소 신발" />
+	<block key="BX_AR5_005_1_93301_Name" korean="초승달 상단의 신념 모자" />
+	<block key="BX_AR5_005_2_93301_Name" korean="초승달 상단의 신념 어깨" />
+	<block key="BX_AR5_005_3_93301_Name" korean="초승달 상단의 신념 로브" />
+	<block key="BX_AR5_005_4_93301_Name" korean="초승달 상단의 신념 장갑" />
+	<block key="BX_AR5_005_5_93301_Name" korean="초승달 상단의 신념 신발" />
+	<block key="BX_AR0_004_1_94307_Name" korean="초승달 상단의 강화된 수호 투구" />
+	<block key="BX_AR0_004_2_94307_Name" korean="초승달 상단의 강화된 수호 어깨" />
+	<block key="BX_AR0_004_3_94307_Name" korean="초승달 상단의 강화된 수호 중갑" />
+	<block key="BX_AR0_004_4_94307_Name" korean="초승달 상단의 강화된 수호 장갑" />
+	<block key="BX_AR0_004_5_94307_Name" korean="초승달 상단의 강화된 수호 신발" />
+	<block key="BX_AR1_004_1_94307_Name" korean="초승달 상단의 강화된 광폭 투구" />
+	<block key="BX_AR1_004_2_94307_Name" korean="초승달 상단의 강화된 광폭 어깨" />
+	<block key="BX_AR1_004_3_94307_Name" korean="초승달 상단의 강화된 광폭 중갑" />
+	<block key="BX_AR1_004_4_94307_Name" korean="초승달 상단의 강화된 광폭 장갑" />
+	<block key="BX_AR1_004_5_94307_Name" korean="초승달 상단의 강화된 광폭 신발" />
+	<block key="BX_AR3_004_1_94307_Name" korean="초승달 상단의 강화된 그림자 투구" />
+	<block key="BX_AR3_004_2_94307_Name" korean="초승달 상단의 강화된 그림자 어깨" />
+	<block key="BX_AR3_004_3_94307_Name" korean="초승달 상단의 강화된 그림자 경갑" />
+	<block key="BX_AR3_004_4_94307_Name" korean="초승달 상단의 강화된 그림자 장갑" />
+	<block key="BX_AR3_004_5_94307_Name" korean="초승달 상단의 강화된 그림자 신발" />
+	<block key="BX_AR4_005_1_94307_Name" korean="초승달 상단의 강화된 원소 모자" />
+	<block key="BX_AR4_005_2_94307_Name" korean="초승달 상단의 강화된 원소 어깨" />
+	<block key="BX_AR4_005_3_94307_Name" korean="초승달 상단의 강화된 원소 로브" />
+	<block key="BX_AR4_005_4_94307_Name" korean="초승달 상단의 강화된 원소 장갑" />
+	<block key="BX_AR4_005_5_94307_Name" korean="초승달 상단의 강화된 원소 신발" />
+	<block key="BX_AR5_005_1_94307_Name" korean="초승달 상단의 강화된 신념 모자" />
+	<block key="BX_AR5_005_2_94307_Name" korean="초승달 상단의 강화된 신념 어깨" />
+	<block key="BX_AR5_005_3_94307_Name" korean="초승달 상단의 강화된 신념 로브" />
+	<block key="BX_AR5_005_4_94307_Name" korean="초승달 상단의 강화된 신념 장갑" />
+	<block key="BX_AR5_005_5_94307_Name" korean="초승달 상단의 강화된 신념 신발" />
+	<block key="BX_AR0_110_1_93551_Name" korean="초승달 상단의 빛나는 수호 투구" />
+	<block key="BX_AR0_110_2_93551_Name" korean="초승달 상단의 빛나는 수호 어깨" />
+	<block key="BX_AR0_110_3_93551_Name" korean="초승달 상단의 빛나는 수호 중갑" />
+	<block key="BX_AR0_110_4_93551_Name" korean="초승달 상단의 빛나는 수호 장갑" />
+	<block key="BX_AR0_110_5_93551_Name" korean="초승달 상단의 빛나는 수호 신발" />
+	<block key="BX_AR1_107_1_93551_Name" korean="초승달 상단의 빛나는 광폭 투구" />
+	<block key="BX_AR1_107_2_93551_Name" korean="초승달 상단의 빛나는 광폭 어깨" />
+	<block key="BX_AR1_107_3_93551_Name" korean="초승달 상단의 빛나는 광폭 중갑" />
+	<block key="BX_AR1_107_4_93551_Name" korean="초승달 상단의 빛나는 광폭 장갑" />
+	<block key="BX_AR1_107_5_93551_Name" korean="초승달 상단의 빛나는 광폭 신발" />
+	<block key="BX_AR3_107_1_93551_Name" korean="초승달 상단의 빛나는 그림자 투구" />
+	<block key="BX_AR3_107_2_93551_Name" korean="초승달 상단의 빛나는 그림자 어깨" />
+	<block key="BX_AR3_107_3_93551_Name" korean="초승달 상단의 빛나는 그림자 경갑" />
+	<block key="BX_AR3_107_4_93551_Name" korean="초승달 상단의 빛나는 그림자 장갑" />
+	<block key="BX_AR3_107_5_93551_Name" korean="초승달 상단의 빛나는 그림자 신발" />
+	<block key="BX_AR4_107_1_93551_Name" korean="초승달 상단의 빛나는 원소 모자" />
+	<block key="BX_AR4_107_2_93551_Name" korean="초승달 상단의 빛나는 원소 어깨" />
+	<block key="BX_AR4_107_3_93551_Name" korean="초승달 상단의 빛나는 원소 로브" />
+	<block key="BX_AR4_107_4_93551_Name" korean="초승달 상단의 빛나는 원소 장갑" />
+	<block key="BX_AR4_107_5_93551_Name" korean="초승달 상단의 빛나는 원소 신발" />
+	<block key="BX_AR5_130_1_93551_Name" korean="초승달 상단의 빛나는 신념 모자" />
+	<block key="BX_AR5_130_2_93551_Name" korean="초승달 상단의 빛나는 신념 어깨" />
+	<block key="BX_AR5_130_3_93551_Name" korean="초승달 상단의 빛나는 신념 로브" />
+	<block key="BX_AR5_130_4_93551_Name" korean="초승달 상단의 빛나는 신념 장갑" />
+	<block key="BX_AR5_130_5_93551_Name" korean="초승달 상단의 빛나는 신념 신발" />
+	<block key="AR0_002_3_92104_EV1_Name" korean="영웅의 수호 중갑 I" />
+	<block key="AR0_002_4_92104_EV1_Name" korean="영웅의 수호 장갑 I" />
+	<block key="AR0_002_5_92104_EV1_Name" korean="영웅의 수호 신발 I" />
+	<block key="AR1_002_3_92104_EV1_Name" korean="영웅의 광폭 중갑 I" />
+	<block key="AR1_002_4_92104_EV1_Name" korean="영웅의 광폭 장갑 I" />
+	<block key="AR1_002_5_92104_EV1_Name" korean="영웅의 광폭 신발 I" />
+	<block key="AR3_002_3_92104_EV1_Name" korean="영웅의 그림자 경갑 I" />
+	<block key="AR3_002_4_92104_EV1_Name" korean="영웅의 그림자 장갑 I" />
+	<block key="AR3_002_5_92104_EV1_Name" korean="영웅의 그림자 신발 I" />
+	<block key="AR4_022_3_92104_EV1_Name" korean="영웅의 원소 로브 I" />
+	<block key="AR4_022_4_92104_EV1_Name" korean="영웅의 원소 장갑 I" />
+	<block key="AR4_022_5_92104_EV1_Name" korean="영웅의 원소 신발 I" />
+	<block key="AR5_022_3_92104_EV1_Name" korean="영웅의 신념 로브 I" />
+	<block key="AR5_022_4_92104_EV1_Name" korean="영웅의 신념 장갑 I" />
+	<block key="AR5_022_5_92104_EV1_Name" korean="영웅의 신념 신발 I" />
+	<block key="AR0_002_3_92103_EV1_Name" korean="영웅의 수호 중갑 II" />
+	<block key="AR0_002_4_92103_EV1_Name" korean="영웅의 수호 장갑 II" />
+	<block key="AR0_002_5_92103_EV1_Name" korean="영웅의 수호 신발 II" />
+	<block key="AR1_002_3_92103_EV1_Name" korean="영웅의 광폭 중갑 II" />
+	<block key="AR1_002_4_92103_EV1_Name" korean="영웅의 광폭 장갑 II" />
+	<block key="AR1_002_5_92103_EV1_Name" korean="영웅의 광폭 신발 II" />
+	<block key="AR3_002_3_92103_EV1_Name" korean="영웅의 그림자 경갑 II" />
+	<block key="AR3_002_4_92103_EV1_Name" korean="영웅의 그림자 장갑 II" />
+	<block key="AR3_002_5_92103_EV1_Name" korean="영웅의 그림자 신발 II" />
+	<block key="AR4_022_3_92103_EV1_Name" korean="영웅의 원소 로브 II" />
+	<block key="AR4_022_4_92103_EV1_Name" korean="영웅의 원소 장갑 II" />
+	<block key="AR4_022_5_92103_EV1_Name" korean="영웅의 원소 신발 II" />
+	<block key="AR5_022_3_92103_EV1_Name" korean="영웅의 신념 로브 II" />
+	<block key="AR5_022_4_92103_EV1_Name" korean="영웅의 신념 장갑 II" />
+	<block key="AR5_022_5_92103_EV1_Name" korean="영웅의 신념 신발 II" />
+	<block key="AR0_023_3_92154_EV1_Name" korean="영웅의 수호 중갑 III" />
+	<block key="AR0_023_4_92154_EV1_Name" korean="영웅의 수호 장갑 III" />
+	<block key="AR0_023_5_92154_EV1_Name" korean="영웅의 수호 신발 III" />
+	<block key="AR1_023_3_92154_EV1_Name" korean="영웅의 광폭 중갑 III" />
+	<block key="AR1_023_4_92154_EV1_Name" korean="영웅의 광폭 장갑 III" />
+	<block key="AR1_023_5_92154_EV1_Name" korean="영웅의 광폭 신발 III" />
+	<block key="AR3_003_3_92154_EV1_Name" korean="영웅의 그림자 경갑 III" />
+	<block key="AR3_003_4_92154_EV1_Name" korean="영웅의 그림자 장갑 III" />
+	<block key="AR3_003_5_92154_EV1_Name" korean="영웅의 그림자 신발 III" />
+	<block key="AR4_002_3_92154_EV1_Name" korean="영웅의 원소 로브 III" />
+	<block key="AR4_002_4_92154_EV1_Name" korean="영웅의 원소 장갑 III" />
+	<block key="AR4_002_5_92154_EV1_Name" korean="영웅의 원소 신발 III" />
+	<block key="AR5_003_3_92154_EV1_Name" korean="영웅의 신념 로브 III" />
+	<block key="AR5_003_4_92154_EV1_Name" korean="영웅의 신념 장갑 III" />
+	<block key="AR5_003_5_92154_EV1_Name" korean="영웅의 신념 신발 III" />
+	<block key="AR0_024_2_92203_EV1_Name" korean="영웅의 수호 어깨 IV" />
+	<block key="AR0_024_3_92203_EV1_Name" korean="영웅의 수호 중갑 IV" />
+	<block key="AR0_024_4_92203_EV1_Name" korean="영웅의 수호 장갑 IV" />
+	<block key="AR0_024_5_92203_EV1_Name" korean="영웅의 수호 신발 IV" />
+	<block key="AR1_004_2_92203_EV1_Name" korean="영웅의 광폭 어깨 IV" />
+	<block key="AR1_004_3_92203_EV1_Name" korean="영웅의 광폭 중갑 IV" />
+	<block key="AR1_004_4_92203_EV1_Name" korean="영웅의 광폭 장갑 IV" />
+	<block key="AR1_004_5_92203_EV1_Name" korean="영웅의 광폭 신발 IV" />
+	<block key="AR3_024_2_92203_EV1_Name" korean="영웅의 그림자 어깨 IV" />
+	<block key="AR3_024_3_92203_EV1_Name" korean="영웅의 그림자 경갑 IV" />
+	<block key="AR3_024_4_92203_EV1_Name" korean="영웅의 그림자 장갑 IV" />
+	<block key="AR3_024_5_92203_EV1_Name" korean="영웅의 그림자 신발 IV" />
+	<block key="AR4_024_2_92203_EV1_Name" korean="영웅의 원소 어깨 IV" />
+	<block key="AR4_024_3_92203_EV1_Name" korean="영웅의 원소 로브 IV" />
+	<block key="AR4_024_4_92203_EV1_Name" korean="영웅의 원소 장갑 IV" />
+	<block key="AR4_024_5_92203_EV1_Name" korean="영웅의 원소 신발 IV" />
+	<block key="AR5_002_2_92203_EV1_Name" korean="영웅의 신념 어깨 IV" />
+	<block key="AR5_002_3_92203_EV1_Name" korean="영웅의 신념 로브 IV" />
+	<block key="AR5_002_4_92203_EV1_Name" korean="영웅의 신념 장갑 IV" />
+	<block key="AR5_002_5_92203_EV1_Name" korean="영웅의 신념 신발 IV" />
+	<block key="AR0_003_1_93251_EV1_Name" korean="영웅의 수호 투구 V" />
+	<block key="AR0_003_2_93251_EV1_Name" korean="영웅의 수호 어깨 V" />
+	<block key="AR0_003_3_93251_EV1_Name" korean="영웅의 수호 중갑 V" />
+	<block key="AR0_003_4_93251_EV1_Name" korean="영웅의 수호 장갑 V" />
+	<block key="AR0_003_5_93251_EV1_Name" korean="영웅의 수호 신발 V" />
+	<block key="AR1_003_1_93251_EV1_Name" korean="영웅의 광폭 투구 V" />
+	<block key="AR1_003_2_93251_EV1_Name" korean="영웅의 광폭 어깨 V" />
+	<block key="AR1_003_3_93251_EV1_Name" korean="영웅의 광폭 중갑 V" />
+	<block key="AR1_003_4_93251_EV1_Name" korean="영웅의 광폭 장갑 V" />
+	<block key="AR1_003_5_93251_EV1_Name" korean="영웅의 광폭 신발 V" />
+	<block key="AR3_005_1_93251_EV1_Name" korean="영웅의 그림자 투구 V" />
+	<block key="AR3_005_2_93251_EV1_Name" korean="영웅의 그림자 어깨 V" />
+	<block key="AR3_005_3_93251_EV1_Name" korean="영웅의 그림자 경갑 V" />
+	<block key="AR3_005_4_93251_EV1_Name" korean="영웅의 그림자 장갑 V" />
+	<block key="AR3_005_5_93251_EV1_Name" korean="영웅의 그림자 신발 V" />
+	<block key="AR4_004_1_93251_EV1_Name" korean="영웅의 원소 모자 V" />
+	<block key="AR4_004_2_93251_EV1_Name" korean="영웅의 원소 어깨 V" />
+	<block key="AR4_004_3_93251_EV1_Name" korean="영웅의 원소 로브 V" />
+	<block key="AR4_004_4_93251_EV1_Name" korean="영웅의 원소 장갑 V" />
+	<block key="AR4_004_5_93251_EV1_Name" korean="영웅의 원소 신발 V" />
+	<block key="AR5_004_1_93251_EV1_Name" korean="영웅의 신념 모자 V" />
+	<block key="AR5_004_2_93251_EV1_Name" korean="영웅의 신념 어깨 V" />
+	<block key="AR5_004_3_93251_EV1_Name" korean="영웅의 신념 로브 V" />
+	<block key="AR5_004_4_93251_EV1_Name" korean="영웅의 신념 장갑 V" />
+	<block key="AR5_004_5_93251_EV1_Name" korean="영웅의 신념 신발 V" />
+	<block key="AR0_004_1_93306_EV1_Name" korean="영웅의 수호 투구 VI" />
+	<block key="AR0_004_2_93306_EV1_Name" korean="영웅의 수호 어깨 VI" />
+	<block key="AR0_004_3_93306_EV1_Name" korean="영웅의 수호 중갑 VI" />
+	<block key="AR0_004_4_93306_EV1_Name" korean="영웅의 수호 장갑 VI" />
+	<block key="AR0_004_5_93306_EV1_Name" korean="영웅의 수호 신발 VI" />
+	<block key="AR1_004_1_93306_EV1_Name" korean="영웅의 광폭 투구 VI" />
+	<block key="AR1_004_2_93306_EV1_Name" korean="영웅의 광폭 어깨 VI" />
+	<block key="AR1_004_3_93306_EV1_Name" korean="영웅의 광폭 중갑 VI" />
+	<block key="AR1_004_4_93306_EV1_Name" korean="영웅의 광폭 장갑 VI" />
+	<block key="AR1_004_5_93306_EV1_Name" korean="영웅의 광폭 신발 VI" />
+	<block key="AR3_004_1_93306_EV1_Name" korean="영웅의 그림자 투구 VI" />
+	<block key="AR3_004_2_93306_EV1_Name" korean="영웅의 그림자 어깨 VI" />
+	<block key="AR3_004_3_93306_EV1_Name" korean="영웅의 그림자 경갑 VI" />
+	<block key="AR3_004_4_93306_EV1_Name" korean="영웅의 그림자 장갑 VI" />
+	<block key="AR3_004_5_93306_EV1_Name" korean="영웅의 그림자 신발 VI" />
+	<block key="AR4_005_1_93306_EV1_Name" korean="영웅의 원소 모자 VI" />
+	<block key="AR4_005_2_93306_EV1_Name" korean="영웅의 원소 어깨 VI" />
+	<block key="AR4_005_3_93306_EV1_Name" korean="영웅의 원소 로브 VI" />
+	<block key="AR4_005_4_93306_EV1_Name" korean="영웅의 원소 장갑 VI" />
+	<block key="AR4_005_5_93306_EV1_Name" korean="영웅의 원소 신발 VI" />
+	<block key="AR5_005_1_93306_EV1_Name" korean="영웅의 신념 모자 VI" />
+	<block key="AR5_005_2_93306_EV1_Name" korean="영웅의 신념 어깨 VI" />
+	<block key="AR5_005_3_93306_EV1_Name" korean="영웅의 신념 로브 VI" />
+	<block key="AR5_005_4_93306_EV1_Name" korean="영웅의 신념 장갑 VI" />
+	<block key="AR5_005_5_93306_EV1_Name" korean="영웅의 신념 신발 VI" />
+	<block key="AR0_110_1_93552_Name" korean="축복받은 총사령관의 수호 투구" />
+	<block key="AR0_110_2_93552_Name" korean="축복받은 총사령관의 수호 어깨" />
+	<block key="AR0_110_3_93552_Name" korean="축복받은 총사령관의 수호 중갑" />
+	<block key="AR0_110_4_93552_Name" korean="축복받은 총사령관의 수호 장갑" />
+	<block key="AR0_110_5_93552_Name" korean="축복받은 총사령관의 수호 신발" />
+	<block key="AR1_107_1_93552_Name" korean="축복받은 총사령관의 광폭 투구" />
+	<block key="AR1_107_2_93552_Name" korean="축복받은 총사령관의 광폭 어깨" />
+	<block key="AR1_107_3_93552_Name" korean="축복받은 총사령관의 광폭 중갑" />
+	<block key="AR1_107_4_93552_Name" korean="축복받은 총사령관의 광폭 장갑" />
+	<block key="AR1_107_5_93552_Name" korean="축복받은 총사령관의 광폭 신발" />
+	<block key="AR3_107_1_93552_Name" korean="축복받은 총사령관의 그림자 투구" />
+	<block key="AR3_107_2_93552_Name" korean="축복받은 총사령관의 그림자 어깨" />
+	<block key="AR3_107_3_93552_Name" korean="축복받은 총사령관의 그림자 경갑" />
+	<block key="AR3_107_4_93552_Name" korean="축복받은 총사령관의 그림자 장갑" />
+	<block key="AR3_107_5_93552_Name" korean="축복받은 총사령관의 그림자 신발" />
+	<block key="AR4_107_1_93552_Name" korean="축복받은 총사령관의 원소 모자" />
+	<block key="AR4_107_2_93552_Name" korean="축복받은 총사령관의 원소 어깨" />
+	<block key="AR4_107_3_93552_Name" korean="축복받은 총사령관의 원소 로브" />
+	<block key="AR4_107_4_93552_Name" korean="축복받은 총사령관의 원소 장갑" />
+	<block key="AR4_107_5_93552_Name" korean="축복받은 총사령관의 원소 신발" />
+	<block key="AR5_130_1_93552_Name" korean="축복받은 총사령관의 신념 모자" />
+	<block key="AR5_130_2_93552_Name" korean="축복받은 총사령관의 신념 어깨" />
+	<block key="AR5_130_3_93552_Name" korean="축복받은 총사령관의 신념 로브" />
+	<block key="AR5_130_4_93552_Name" korean="축복받은 총사령관의 신념 장갑" />
+	<block key="AR5_130_5_93552_Name" korean="축복받은 총사령관의 신념 신발" />
+	<block key="AR0_110_1_93553_Name" korean="찬란한 선도자의 수호 투구" />
+	<block key="AR0_110_2_93553_Name" korean="찬란한 선도자의 수호 어깨" />
+	<block key="AR0_110_3_93553_Name" korean="찬란한 선도자의 수호 중갑" />
+	<block key="AR0_110_4_93553_Name" korean="찬란한 선도자의 수호 장갑" />
+	<block key="AR0_110_5_93553_Name" korean="찬란한 선도자의 수호 신발" />
+	<block key="AR1_107_1_93553_Name" korean="찬란한 선도자의 광폭 투구" />
+	<block key="AR1_107_2_93553_Name" korean="찬란한 선도자의 광폭 어깨" />
+	<block key="AR1_107_3_93553_Name" korean="찬란한 선도자의 광폭 중갑" />
+	<block key="AR1_107_4_93553_Name" korean="찬란한 선도자의 광폭 장갑" />
+	<block key="AR1_107_5_93553_Name" korean="찬란한 선도자의 광폭 신발" />
+	<block key="AR3_107_1_93553_Name" korean="찬란한 선도자의 그림자 투구" />
+	<block key="AR3_107_2_93553_Name" korean="찬란한 선도자의 그림자 어깨" />
+	<block key="AR3_107_3_93553_Name" korean="찬란한 선도자의 그림자 경갑" />
+	<block key="AR3_107_4_93553_Name" korean="찬란한 선도자의 그림자 장갑" />
+	<block key="AR3_107_5_93553_Name" korean="찬란한 선도자의 그림자 신발" />
+	<block key="AR4_107_1_93553_Name" korean="찬란한 선도자의 원소 모자" />
+	<block key="AR4_107_2_93553_Name" korean="찬란한 선도자의 원소 어깨" />
+	<block key="AR4_107_3_93553_Name" korean="찬란한 선도자의 원소 로브" />
+	<block key="AR4_107_4_93553_Name" korean="찬란한 선도자의 원소 장갑" />
+	<block key="AR4_107_5_93553_Name" korean="찬란한 선도자의 원소 신발" />
+	<block key="AR5_130_1_93553_Name" korean="찬란한 선도자의 신념 모자" />
+	<block key="AR5_130_2_93553_Name" korean="찬란한 선도자의 신념 어깨" />
+	<block key="AR5_130_3_93553_Name" korean="찬란한 선도자의 신념 로브" />
+	<block key="AR5_130_4_93553_Name" korean="찬란한 선도자의 신념 장갑" />
+	<block key="AR5_130_5_93553_Name" korean="찬란한 선도자의 신념 신발" />
+	<block key="AR0_107_1_91451_Name" korean="근위병의 수호 투구" />
+	<block key="AR0_107_2_91451_Name" korean="근위병의 수호 어깨" />
+	<block key="AR0_107_3_91451_Name" korean="근위병의 수호 중갑" />
+	<block key="AR0_107_4_91451_Name" korean="근위병의 수호 장갑" />
+	<block key="AR0_107_5_91451_Name" korean="근위병의 수호 신발" />
+	<block key="AR1_127_1_91451_Name" korean="근위병의 광폭 투구" />
+	<block key="AR1_127_2_91451_Name" korean="근위병의 광폭 어깨" />
+	<block key="AR1_127_3_91451_Name" korean="근위병의 광폭 중갑" />
+	<block key="AR1_127_4_91451_Name" korean="근위병의 광폭 장갑" />
+	<block key="AR1_127_5_91451_Name" korean="근위병의 광폭 신발" />
+	<block key="AR3_111_1_91451_Name" korean="근위병의 그림자 투구" />
+	<block key="AR3_111_2_91451_Name" korean="근위병의 그림자 어깨" />
+	<block key="AR3_111_3_91451_Name" korean="근위병의 그림자 경갑" />
+	<block key="AR3_111_4_91451_Name" korean="근위병의 그림자 장갑" />
+	<block key="AR3_111_5_91451_Name" korean="근위병의 그림자 신발" />
+	<block key="AR4_110_1_91451_Name" korean="근위병의 원소 모자" />
+	<block key="AR4_110_2_91451_Name" korean="근위병의 원소 어깨" />
+	<block key="AR4_110_3_91451_Name" korean="근위병의 원소 로브" />
+	<block key="AR4_110_4_91451_Name" korean="근위병의 원소 장갑" />
+	<block key="AR4_110_5_91451_Name" korean="근위병의 원소 신발" />
+	<block key="AR5_107_1_91451_Name" korean="근위병의 신념 모자" />
+	<block key="AR5_107_2_91451_Name" korean="근위병의 신념 어깨" />
+	<block key="AR5_107_3_91451_Name" korean="근위병의 신념 로브" />
+	<block key="AR5_107_4_91451_Name" korean="근위병의 신념 장갑" />
+	<block key="AR5_107_5_91451_Name" korean="근위병의 신념 신발" />
+	<block key="AR0_109_1_92451_Name" korean="알세크 경비대의 수호 투구" />
+	<block key="AR0_109_2_92451_Name" korean="알세크 경비대의 수호 어깨" />
+	<block key="AR0_109_3_92451_Name" korean="알세크 경비대의 수호 중갑" />
+	<block key="AR0_109_4_92451_Name" korean="알세크 경비대의 수호 장갑" />
+	<block key="AR0_109_5_92451_Name" korean="알세크 경비대의 수호 신발" />
+	<block key="AR1_106_1_92451_Name" korean="알세크 경비대의 광폭 투구" />
+	<block key="AR1_106_2_92451_Name" korean="알세크 경비대의 광폭 어깨" />
+	<block key="AR1_106_3_92451_Name" korean="알세크 경비대의 광폭 중갑" />
+	<block key="AR1_106_4_92451_Name" korean="알세크 경비대의 광폭 장갑" />
+	<block key="AR1_106_5_92451_Name" korean="알세크 경비대의 광폭 신발" />
+	<block key="AR3_109_1_92451_Name" korean="알세크 경비대의 그림자 투구" />
+	<block key="AR3_109_2_92451_Name" korean="알세크 경비대의 그림자 어깨" />
+	<block key="AR3_109_3_92451_Name" korean="알세크 경비대의 그림자 경갑" />
+	<block key="AR3_109_4_92451_Name" korean="알세크 경비대의 그림자 장갑" />
+	<block key="AR3_109_5_92451_Name" korean="알세크 경비대의 그림자 신발" />
+	<block key="AR4_109_1_92451_Name" korean="알세크 경비대의 원소 모자" />
+	<block key="AR4_109_2_92451_Name" korean="알세크 경비대의 원소 어깨" />
+	<block key="AR4_109_3_92451_Name" korean="알세크 경비대의 원소 로브" />
+	<block key="AR4_109_4_92451_Name" korean="알세크 경비대의 원소 장갑" />
+	<block key="AR4_109_5_92451_Name" korean="알세크 경비대의 원소 신발" />
+	<block key="AR5_110_1_92451_Name" korean="알세크 경비대의 신념 모자" />
+	<block key="AR5_110_2_92451_Name" korean="알세크 경비대의 신념 어깨" />
+	<block key="AR5_110_3_92451_Name" korean="알세크 경비대의 신념 로브" />
+	<block key="AR5_110_4_92451_Name" korean="알세크 경비대의 신념 장갑" />
+	<block key="AR5_110_5_92451_Name" korean="알세크 경비대의 신념 신발" />
+	<block key="AR0_108_1_92452_Name" korean="모하바 용병단의 수호 투구" />
+	<block key="AR0_108_2_92452_Name" korean="모하바 용병단의 수호 어깨" />
+	<block key="AR0_108_3_92452_Name" korean="모하바 용병단의 수호 중갑" />
+	<block key="AR0_108_4_92452_Name" korean="모하바 용병단의 수호 장갑" />
+	<block key="AR0_108_5_92452_Name" korean="모하바 용병단의 수호 신발" />
+	<block key="AR1_012_1_92452_Name" korean="모하바 용병단의 광폭 투구" />
+	<block key="AR1_012_2_92452_Name" korean="모하바 용병단의 광폭 어깨" />
+	<block key="AR1_012_3_92452_Name" korean="모하바 용병단의 광폭 중갑" />
+	<block key="AR1_012_4_92452_Name" korean="모하바 용병단의 광폭 장갑" />
+	<block key="AR1_012_5_92452_Name" korean="모하바 용병단의 광폭 신발" />
+	<block key="AR3_108_1_92452_Name" korean="모하바 용병단의 그림자 투구" />
+	<block key="AR3_108_2_92452_Name" korean="모하바 용병단의 그림자 어깨" />
+	<block key="AR3_108_3_92452_Name" korean="모하바 용병단의 그림자 경갑" />
+	<block key="AR3_108_4_92452_Name" korean="모하바 용병단의 그림자 장갑" />
+	<block key="AR3_108_5_92452_Name" korean="모하바 용병단의 그림자 신발" />
+	<block key="AR4_106_1_92452_Name" korean="모하바 용병단의 원소 모자" />
+	<block key="AR4_106_2_92452_Name" korean="모하바 용병단의 원소 어깨" />
+	<block key="AR4_106_3_92452_Name" korean="모하바 용병단의 원소 로브" />
+	<block key="AR4_106_4_92452_Name" korean="모하바 용병단의 원소 장갑" />
+	<block key="AR4_106_5_92452_Name" korean="모하바 용병단의 원소 신발" />
+	<block key="AR5_106_1_92452_Name" korean="모하바 용병단의 신념 모자" />
+	<block key="AR5_106_2_92452_Name" korean="모하바 용병단의 신념 어깨" />
+	<block key="AR5_106_3_92452_Name" korean="모하바 용병단의 신념 로브" />
+	<block key="AR5_106_4_92452_Name" korean="모하바 용병단의 신념 장갑" />
+	<block key="AR5_106_5_92452_Name" korean="모하바 용병단의 신념 신발" />
+	<block key="AR0_004_1_92453_Name" korean="유적 수호자의 수호 투구" />
+	<block key="AR0_004_2_92453_Name" korean="유적 수호자의 수호 어깨" />
+	<block key="AR0_004_3_92453_Name" korean="유적 수호자의 수호 중갑" />
+	<block key="AR0_004_4_92453_Name" korean="유적 수호자의 수호 장갑" />
+	<block key="AR0_004_5_92453_Name" korean="유적 수호자의 수호 신발" />
+	<block key="AR1_004_1_92453_Name" korean="유적 수호자의 광폭 투구" />
+	<block key="AR1_004_2_92453_Name" korean="유적 수호자의 광폭 어깨" />
+	<block key="AR1_004_3_92453_Name" korean="유적 수호자의 광폭 중갑" />
+	<block key="AR1_004_4_92453_Name" korean="유적 수호자의 광폭 장갑" />
+	<block key="AR1_004_5_92453_Name" korean="유적 수호자의 광폭 신발" />
+	<block key="AR3_004_1_92453_Name" korean="유적 수호자의 그림자 투구" />
+	<block key="AR3_004_2_92453_Name" korean="유적 수호자의 그림자 어깨" />
+	<block key="AR3_004_3_92453_Name" korean="유적 수호자의 그림자 경갑" />
+	<block key="AR3_004_4_92453_Name" korean="유적 수호자의 그림자 장갑" />
+	<block key="AR3_004_5_92453_Name" korean="유적 수호자의 그림자 신발" />
+	<block key="AR4_005_1_92453_Name" korean="유적 수호자의 원소 모자" />
+	<block key="AR4_005_2_92453_Name" korean="유적 수호자의 원소 어깨" />
+	<block key="AR4_005_3_92453_Name" korean="유적 수호자의 원소 로브" />
+	<block key="AR4_005_4_92453_Name" korean="유적 수호자의 원소 장갑" />
+	<block key="AR4_005_5_92453_Name" korean="유적 수호자의 원소 신발" />
+	<block key="AR5_005_1_92453_Name" korean="유적 수호자의 신념 모자" />
+	<block key="AR5_005_2_92453_Name" korean="유적 수호자의 신념 어깨" />
+	<block key="AR5_005_3_92453_Name" korean="유적 수호자의 신념 로브" />
+	<block key="AR5_005_4_92453_Name" korean="유적 수호자의 신념 장갑" />
+	<block key="AR5_005_5_92453_Name" korean="유적 수호자의 신념 신발" />
+	<block key="AR0_110_1_93451_Name" korean="카브임 교단의 수호 투구" />
+	<block key="AR0_110_2_93451_Name" korean="카브임 교단의 수호 어깨" />
+	<block key="AR0_110_3_93451_Name" korean="카브임 교단의 수호 중갑" />
+	<block key="AR0_110_4_93451_Name" korean="카브임 교단의 수호 장갑" />
+	<block key="AR0_110_5_93451_Name" korean="카브임 교단의 수호 신발" />
+	<block key="AR1_107_1_93451_Name" korean="카브임 교단의 광폭 투구" />
+	<block key="AR1_107_2_93451_Name" korean="카브임 교단의 광폭 어깨" />
+	<block key="AR1_107_3_93451_Name" korean="카브임 교단의 광폭 중갑" />
+	<block key="AR1_107_4_93451_Name" korean="카브임 교단의 광폭 장갑" />
+	<block key="AR1_107_5_93451_Name" korean="카브임 교단의 광폭 신발" />
+	<block key="AR3_107_1_93451_Name" korean="카브임 교단의 그림자 투구" />
+	<block key="AR3_107_2_93451_Name" korean="카브임 교단의 그림자 어깨" />
+	<block key="AR3_107_3_93451_Name" korean="카브임 교단의 그림자 경갑" />
+	<block key="AR3_107_4_93451_Name" korean="카브임 교단의 그림자 장갑" />
+	<block key="AR3_107_5_93451_Name" korean="카브임 교단의 그림자 신발" />
+	<block key="AR4_107_1_93451_Name" korean="카브임 교단의 원소 모자" />
+	<block key="AR4_107_2_93451_Name" korean="카브임 교단의 원소 어깨" />
+	<block key="AR4_107_3_93451_Name" korean="카브임 교단의 원소 로브" />
+	<block key="AR4_107_4_93451_Name" korean="카브임 교단의 원소 장갑" />
+	<block key="AR4_107_5_93451_Name" korean="카브임 교단의 원소 신발" />
+	<block key="AR5_130_1_93451_Name" korean="카브임 교단의 신념 모자" />
+	<block key="AR5_130_2_93451_Name" korean="카브임 교단의 신념 어깨" />
+	<block key="AR5_130_3_93451_Name" korean="카브임 교단의 신념 로브" />
+	<block key="AR5_130_4_93451_Name" korean="카브임 교단의 신념 장갑" />
+	<block key="AR5_130_5_93451_Name" korean="카브임 교단의 신념 신발" />
+	<block key="AR0_107_1_91501_Name" korean="정예 근위병의 수호 투구" />
+	<block key="AR0_107_2_91501_Name" korean="정예 근위병의 수호 어깨" />
+	<block key="AR0_107_3_91501_Name" korean="정예 근위병의 수호 중갑" />
+	<block key="AR0_107_4_91501_Name" korean="정예 근위병의 수호 장갑" />
+	<block key="AR0_107_5_91501_Name" korean="정예 근위병의 수호 신발" />
+	<block key="AR1_127_1_91501_Name" korean="정예 근위병의 광폭 투구" />
+	<block key="AR1_127_2_91501_Name" korean="정예 근위병의 광폭 어깨" />
+	<block key="AR1_127_3_91501_Name" korean="정예 근위병의 광폭 중갑" />
+	<block key="AR1_127_4_91501_Name" korean="정예 근위병의 광폭 장갑" />
+	<block key="AR1_127_5_91501_Name" korean="정예 근위병의 광폭 신발" />
+	<block key="AR3_111_1_91501_Name" korean="정예 근위병의 그림자 투구" />
+	<block key="AR3_111_2_91501_Name" korean="정예 근위병의 그림자 어깨" />
+	<block key="AR3_111_3_91501_Name" korean="정예 근위병의 그림자 경갑" />
+	<block key="AR3_111_4_91501_Name" korean="정예 근위병의 그림자 장갑" />
+	<block key="AR3_111_5_91501_Name" korean="정예 근위병의 그림자 신발" />
+	<block key="AR4_110_1_91501_Name" korean="정예 근위병의 원소 모자" />
+	<block key="AR4_110_2_91501_Name" korean="정예 근위병의 원소 어깨" />
+	<block key="AR4_110_3_91501_Name" korean="정예 근위병의 원소 로브" />
+	<block key="AR4_110_4_91501_Name" korean="정예 근위병의 원소 장갑" />
+	<block key="AR4_110_5_91501_Name" korean="정예 근위병의 원소 신발" />
+	<block key="AR5_107_1_91501_Name" korean="정예 근위병의 신념 모자" />
+	<block key="AR5_107_2_91501_Name" korean="정예 근위병의 신념 어깨" />
+	<block key="AR5_107_3_91501_Name" korean="정예 근위병의 신념 로브" />
+	<block key="AR5_107_4_91501_Name" korean="정예 근위병의 신념 장갑" />
+	<block key="AR5_107_5_91501_Name" korean="정예 근위병의 신념 신발" />
+	<block key="AR0_108_1_92502_Name" korean="사막 브라기의 수호 투구" />
+	<block key="AR0_108_2_92502_Name" korean="사막 브라기의 수호 어깨" />
+	<block key="AR0_108_3_92502_Name" korean="사막 브라기의 수호 중갑" />
+	<block key="AR0_108_4_92502_Name" korean="사막 브라기의 수호 장갑" />
+	<block key="AR0_108_5_92502_Name" korean="사막 브라기의 수호 신발" />
+	<block key="AR1_012_1_92502_Name" korean="사막 브라기의 광폭 투구" />
+	<block key="AR1_012_2_92502_Name" korean="사막 브라기의 광폭 어깨" />
+	<block key="AR1_012_3_92502_Name" korean="사막 브라기의 광폭 중갑" />
+	<block key="AR1_012_4_92502_Name" korean="사막 브라기의 광폭 장갑" />
+	<block key="AR1_012_5_92502_Name" korean="사막 브라기의 광폭 신발" />
+	<block key="AR3_108_1_92502_Name" korean="사막 브라기의 그림자 투구" />
+	<block key="AR3_108_2_92502_Name" korean="사막 브라기의 그림자 어깨" />
+	<block key="AR3_108_3_92502_Name" korean="사막 브라기의 그림자 경갑" />
+	<block key="AR3_108_4_92502_Name" korean="사막 브라기의 그림자 장갑" />
+	<block key="AR3_108_5_92502_Name" korean="사막 브라기의 그림자 신발" />
+	<block key="AR4_106_1_92502_Name" korean="사막 브라기의 원소 모자" />
+	<block key="AR4_106_2_92502_Name" korean="사막 브라기의 원소 어깨" />
+	<block key="AR4_106_3_92502_Name" korean="사막 브라기의 원소 로브" />
+	<block key="AR4_106_4_92502_Name" korean="사막 브라기의 원소 장갑" />
+	<block key="AR4_106_5_92502_Name" korean="사막 브라기의 원소 신발" />
+	<block key="AR5_106_1_92502_Name" korean="사막 브라기의 신념 모자" />
+	<block key="AR5_106_2_92502_Name" korean="사막 브라기의 신념 어깨" />
+	<block key="AR5_106_3_92502_Name" korean="사막 브라기의 신념 로브" />
+	<block key="AR5_106_4_92502_Name" korean="사막 브라기의 신념 장갑" />
+	<block key="AR5_106_5_92502_Name" korean="사막 브라기의 신념 신발" />
+	<block key="AR0_004_1_92503_Name" korean="암흑 군단 정예병의 수호 투구" />
+	<block key="AR0_004_2_92503_Name" korean="암흑 군단 정예병의 수호 어깨" />
+	<block key="AR0_004_3_92503_Name" korean="암흑 군단 정예병의 수호 중갑" />
+	<block key="AR0_004_4_92503_Name" korean="암흑 군단 정예병의 수호 장갑" />
+	<block key="AR0_004_5_92503_Name" korean="암흑 군단 정예병의 수호 신발" />
+	<block key="AR1_004_1_92503_Name" korean="암흑 군단 정예병의 광폭 투구" />
+	<block key="AR1_004_2_92503_Name" korean="암흑 군단 정예병의 광폭 어깨" />
+	<block key="AR1_004_3_92503_Name" korean="암흑 군단 정예병의 광폭 중갑" />
+	<block key="AR1_004_4_92503_Name" korean="암흑 군단 정예병의 광폭 장갑" />
+	<block key="AR1_004_5_92503_Name" korean="암흑 군단 정예병의 광폭 신발" />
+	<block key="AR3_004_1_92503_Name" korean="암흑 군단 정예병의 그림자 투구" />
+	<block key="AR3_004_2_92503_Name" korean="암흑 군단 정예병의 그림자 어깨" />
+	<block key="AR3_004_3_92503_Name" korean="암흑 군단 정예병의 그림자 경갑" />
+	<block key="AR3_004_4_92503_Name" korean="암흑 군단 정예병의 그림자 장갑" />
+	<block key="AR3_004_5_92503_Name" korean="암흑 군단 정예병의 그림자 신발" />
+	<block key="AR4_005_1_92503_Name" korean="암흑 군단 정예병의 원소 모자" />
+	<block key="AR4_005_2_92503_Name" korean="암흑 군단 정예병의 원소 어깨" />
+	<block key="AR4_005_3_92503_Name" korean="암흑 군단 정예병의 원소 로브" />
+	<block key="AR4_005_4_92503_Name" korean="암흑 군단 정예병의 원소 장갑" />
+	<block key="AR4_005_5_92503_Name" korean="암흑 군단 정예병의 원소 신발" />
+	<block key="AR5_005_1_92503_Name" korean="암흑 군단 정예병의 신념 모자" />
+	<block key="AR5_005_2_92503_Name" korean="암흑 군단 정예병의 신념 어깨" />
+	<block key="AR5_005_3_92503_Name" korean="암흑 군단 정예병의 신념 로브" />
+	<block key="AR5_005_4_92503_Name" korean="암흑 군단 정예병의 신념 장갑" />
+	<block key="AR5_005_5_92503_Name" korean="암흑 군단 정예병의 신념 신발" />
+	<block key="AR0_109_1_92501_Name" korean="은둔자의 수호 투구" />
+	<block key="AR0_109_2_92501_Name" korean="은둔자의 수호 어깨" />
+	<block key="AR0_109_3_92501_Name" korean="은둔자의 수호 중갑" />
+	<block key="AR0_109_4_92501_Name" korean="은둔자의 수호 장갑" />
+	<block key="AR0_109_5_92501_Name" korean="은둔자의 수호 신발" />
+	<block key="AR1_106_1_92501_Name" korean="은둔자의 광폭 투구" />
+	<block key="AR1_106_2_92501_Name" korean="은둔자의 광폭 어깨" />
+	<block key="AR1_106_3_92501_Name" korean="은둔자의 광폭 중갑" />
+	<block key="AR1_106_4_92501_Name" korean="은둔자의 광폭 장갑" />
+	<block key="AR1_106_5_92501_Name" korean="은둔자의 광폭 신발" />
+	<block key="AR3_109_1_92501_Name" korean="은둔자의 그림자 투구" />
+	<block key="AR3_109_2_92501_Name" korean="은둔자의 그림자 어깨" />
+	<block key="AR3_109_3_92501_Name" korean="은둔자의 그림자 경갑" />
+	<block key="AR3_109_4_92501_Name" korean="은둔자의 그림자 장갑" />
+	<block key="AR3_109_5_92501_Name" korean="은둔자의 그림자 신발" />
+	<block key="AR4_109_1_92501_Name" korean="은둔자의 원소 모자" />
+	<block key="AR4_109_2_92501_Name" korean="은둔자의 원소 어깨" />
+	<block key="AR4_109_3_92501_Name" korean="은둔자의 원소 로브" />
+	<block key="AR4_109_4_92501_Name" korean="은둔자의 원소 장갑" />
+	<block key="AR4_109_5_92501_Name" korean="은둔자의 원소 신발" />
+	<block key="AR5_110_1_92501_Name" korean="은둔자의 신념 모자" />
+	<block key="AR5_110_2_92501_Name" korean="은둔자의 신념 어깨" />
+	<block key="AR5_110_3_92501_Name" korean="은둔자의 신념 로브" />
+	<block key="AR5_110_4_92501_Name" korean="은둔자의 신념 장갑" />
+	<block key="AR5_110_5_92501_Name" korean="은둔자의 신념 신발" />
+	<block key="AR0_110_1_93501_Name" korean="암흑 군단장의 수호 투구" />
+	<block key="AR0_110_2_93501_Name" korean="암흑 군단장의 수호 어깨" />
+	<block key="AR0_110_3_93501_Name" korean="암흑 군단장의 수호 중갑" />
+	<block key="AR0_110_4_93501_Name" korean="암흑 군단장의 수호 장갑" />
+	<block key="AR0_110_5_93501_Name" korean="암흑 군단장의 수호 신발" />
+	<block key="AR1_107_1_93501_Name" korean="암흑 군단장의 광폭 투구" />
+	<block key="AR1_107_2_93501_Name" korean="암흑 군단장의 광폭 어깨" />
+	<block key="AR1_107_3_93501_Name" korean="암흑 군단장의 광폭 중갑" />
+	<block key="AR1_107_4_93501_Name" korean="암흑 군단장의 광폭 장갑" />
+	<block key="AR1_107_5_93501_Name" korean="암흑 군단장의 광폭 신발" />
+	<block key="AR3_107_1_93501_Name" korean="암흑 군단장의 그림자 투구" />
+	<block key="AR3_107_2_93501_Name" korean="암흑 군단장의 그림자 어깨" />
+	<block key="AR3_107_3_93501_Name" korean="암흑 군단장의 그림자 경갑" />
+	<block key="AR3_107_4_93501_Name" korean="암흑 군단장의 그림자 장갑" />
+	<block key="AR3_107_5_93501_Name" korean="암흑 군단장의 그림자 신발" />
+	<block key="AR4_107_1_93501_Name" korean="암흑 군단장의 원소 모자" />
+	<block key="AR4_107_2_93501_Name" korean="암흑 군단장의 원소 어깨" />
+	<block key="AR4_107_3_93501_Name" korean="암흑 군단장의 원소 로브" />
+	<block key="AR4_107_4_93501_Name" korean="암흑 군단장의 원소 장갑" />
+	<block key="AR4_107_5_93501_Name" korean="암흑 군단장의 원소 신발" />
+	<block key="AR5_130_1_93501_Name" korean="암흑 군단장의 신념 모자" />
+	<block key="AR5_130_2_93501_Name" korean="암흑 군단장의 신념 어깨" />
+	<block key="AR5_130_3_93501_Name" korean="암흑 군단장의 신념 로브" />
+	<block key="AR5_130_4_93501_Name" korean="암흑 군단장의 신념 장갑" />
+	<block key="AR5_130_5_93501_Name" korean="암흑 군단장의 신념 신발" />
+	<block key="pvpAR0_003_1_004564_Name" korean="하급 학살자의 수호 투구" />
+	<block key="pvpAR0_003_2_004564_Name" korean="하급 학살자의 수호 어깨" />
+	<block key="pvpAR0_003_3_004564_Name" korean="하급 학살자의 수호 중갑" />
+	<block key="pvpAR0_003_4_004564_Name" korean="하급 학살자의 수호 장갑" />
+	<block key="pvpAR0_003_5_004564_Name" korean="하급 학살자의 수호 신발" />
+	<block key="pvpAR1_003_1_004564_Name" korean="하급 학살자의 광폭 투구" />
+	<block key="pvpAR1_003_2_004564_Name" korean="하급 학살자의 광폭 어깨" />
+	<block key="pvpAR1_003_3_004564_Name" korean="하급 학살자의 광폭 중갑" />
+	<block key="pvpAR1_003_4_004564_Name" korean="하급 학살자의 광폭 장갑" />
+	<block key="pvpAR1_003_5_004564_Name" korean="하급 학살자의 광폭 신발" />
+	<block key="pvpAR3_005_1_004564_Name" korean="하급 학살자의 그림자 투구" />
+	<block key="pvpAR3_005_2_004564_Name" korean="하급 학살자의 그림자 어깨" />
+	<block key="pvpAR3_005_3_004564_Name" korean="하급 학살자의 그림자 경갑" />
+	<block key="pvpAR3_005_4_004564_Name" korean="하급 학살자의 그림자 장갑" />
+	<block key="pvpAR3_005_5_004564_Name" korean="하급 학살자의 그림자 신발" />
+	<block key="pvpAR4_004_1_004564_Name" korean="하급 학살자의 원소 모자" />
+	<block key="pvpAR4_004_2_004564_Name" korean="하급 학살자의 원소 어깨" />
+	<block key="pvpAR4_004_3_004564_Name" korean="하급 학살자의 원소 로브" />
+	<block key="pvpAR4_004_4_004564_Name" korean="하급 학살자의 원소 장갑" />
+	<block key="pvpAR4_004_5_004564_Name" korean="하급 학살자의 원소 신발" />
+	<block key="pvpAR5_004_1_004564_Name" korean="하급 학살자의 신념 모자" />
+	<block key="pvpAR5_004_2_004564_Name" korean="하급 학살자의 신념 어깨" />
+	<block key="pvpAR5_004_3_004564_Name" korean="하급 학살자의 신념 로브" />
+	<block key="pvpAR5_004_4_004564_Name" korean="하급 학살자의 신념 장갑" />
+	<block key="pvpAR5_004_5_004564_Name" korean="하급 학살자의 신념 신발" />
+	<block key="pvpAR0_003_1_005069_Name" korean="중급 학살자의 수호 투구" />
+	<block key="pvpAR0_003_2_005069_Name" korean="중급 학살자의 수호 어깨" />
+	<block key="pvpAR0_003_3_005069_Name" korean="중급 학살자의 수호 중갑" />
+	<block key="pvpAR0_003_4_005069_Name" korean="중급 학살자의 수호 장갑" />
+	<block key="pvpAR0_003_5_005069_Name" korean="중급 학살자의 수호 신발" />
+	<block key="pvpAR1_003_1_005069_Name" korean="중급 학살자의 광폭 투구" />
+	<block key="pvpAR1_003_2_005069_Name" korean="중급 학살자의 광폭 어깨" />
+	<block key="pvpAR1_003_3_005069_Name" korean="중급 학살자의 광폭 중갑" />
+	<block key="pvpAR1_003_4_005069_Name" korean="중급 학살자의 광폭 장갑" />
+	<block key="pvpAR1_003_5_005069_Name" korean="중급 학살자의 광폭 신발" />
+	<block key="pvpAR3_005_1_005069_Name" korean="중급 학살자의 그림자 투구" />
+	<block key="pvpAR3_005_2_005069_Name" korean="중급 학살자의 그림자 어깨" />
+	<block key="pvpAR3_005_3_005069_Name" korean="중급 학살자의 그림자 경갑" />
+	<block key="pvpAR3_005_4_005069_Name" korean="중급 학살자의 그림자 장갑" />
+	<block key="pvpAR3_005_5_005069_Name" korean="중급 학살자의 그림자 신발" />
+	<block key="pvpAR4_004_1_005069_Name" korean="중급 학살자의 원소 모자" />
+	<block key="pvpAR4_004_2_005069_Name" korean="중급 학살자의 원소 어깨" />
+	<block key="pvpAR4_004_3_005069_Name" korean="중급 학살자의 원소 로브" />
+	<block key="pvpAR4_004_4_005069_Name" korean="중급 학살자의 원소 장갑" />
+	<block key="pvpAR4_004_5_005069_Name" korean="중급 학살자의 원소 신발" />
+	<block key="pvpAR5_004_1_005069_Name" korean="중급 학살자의 신념 모자" />
+	<block key="pvpAR5_004_2_005069_Name" korean="중급 학살자의 신념 어깨" />
+	<block key="pvpAR5_004_3_005069_Name" korean="중급 학살자의 신념 로브" />
+	<block key="pvpAR5_004_4_005069_Name" korean="중급 학살자의 신념 장갑" />
+	<block key="pvpAR5_004_5_005069_Name" korean="중급 학살자의 신념 신발" />
+	<block key="AR0_110_1_93451_CR_Name" korean="빛나는 아다만티움 수호 투구" />
+	<block key="AR0_110_2_93451_CR_Name" korean="빛나는 아다만티움 수호 어깨" />
+	<block key="AR0_110_3_93451_CR_Name" korean="빛나는 아다만티움 수호 중갑" />
+	<block key="AR0_110_4_93451_CR_Name" korean="빛나는 아다만티움 수호 장갑" />
+	<block key="AR0_110_5_93451_CR_Name" korean="빛나는 아다만티움 수호 신발" />
+	<block key="AR1_107_1_93451_CR_Name" korean="빛나는 아다만티움 광폭 투구" />
+	<block key="AR1_107_2_93451_CR_Name" korean="빛나는 아다만티움 광폭 어깨" />
+	<block key="AR1_107_3_93451_CR_Name" korean="빛나는 아다만티움 광폭 중갑" />
+	<block key="AR1_107_4_93451_CR_Name" korean="빛나는 아다만티움 광폭 장갑" />
+	<block key="AR1_107_5_93451_CR_Name" korean="빛나는 아다만티움 광폭 신발" />
+	<block key="AR3_107_1_93451_CR_Name" korean="빛나는 아다만티움 그림자 투구" />
+	<block key="AR3_107_2_93451_CR_Name" korean="빛나는 아다만티움 그림자 어깨" />
+	<block key="AR3_107_3_93451_CR_Name" korean="빛나는 아다만티움 그림자 경갑" />
+	<block key="AR3_107_4_93451_CR_Name" korean="빛나는 아다만티움 그림자 장갑" />
+	<block key="AR3_107_5_93451_CR_Name" korean="빛나는 아다만티움 그림자 신발" />
+	<block key="AR4_107_1_93451_CR_Name" korean="빛나는 광택의 원소 모자" />
+	<block key="AR4_107_2_93451_CR_Name" korean="빛나는 광택의 원소 어깨" />
+	<block key="AR4_107_3_93451_CR_Name" korean="빛나는 광택의 원소 로브" />
+	<block key="AR4_107_4_93451_CR_Name" korean="빛나는 광택의 원소 장갑" />
+	<block key="AR4_107_5_93451_CR_Name" korean="빛나는 광택의 원소 신발" />
+	<block key="AR5_130_1_93451_CR_Name" korean="빛나는 광택의 신념 모자" />
+	<block key="AR5_130_2_93451_CR_Name" korean="빛나는 광택의 신념 어깨" />
+	<block key="AR5_130_3_93451_CR_Name" korean="빛나는 광택의 신념 로브" />
+	<block key="AR5_130_4_93451_CR_Name" korean="빛나는 광택의 신념 장갑" />
+	<block key="AR5_130_5_93451_CR_Name" korean="빛나는 광택의 신념 신발" />
+	<block key="AR0_110_1_93501_CR_Name" korean="빛나는 강화 아다만티움 수호 투구" />
+	<block key="AR0_110_2_93501_CR_Name" korean="빛나는 강화 아다만티움 수호 어깨" />
+	<block key="AR0_110_3_93501_CR_Name" korean="빛나는 강화 아다만티움 수호 중갑" />
+	<block key="AR0_110_4_93501_CR_Name" korean="빛나는 강화 아다만티움 수호 장갑" />
+	<block key="AR0_110_5_93501_CR_Name" korean="빛나는 강화 아다만티움 수호 신발" />
+	<block key="AR1_107_1_93501_CR_Name" korean="빛나는 강화 아다만티움 광폭 투구" />
+	<block key="AR1_107_2_93501_CR_Name" korean="빛나는 강화 아다만티움 광폭 어깨" />
+	<block key="AR1_107_3_93501_CR_Name" korean="빛나는 강화 아다만티움 광폭 중갑" />
+	<block key="AR1_107_4_93501_CR_Name" korean="빛나는 강화 아다만티움 광폭 장갑" />
+	<block key="AR1_107_5_93501_CR_Name" korean="빛나는 강화 아다만티움 광폭 신발" />
+	<block key="AR3_107_1_93501_CR_Name" korean="빛나는 강화 아다만티움 그림자 투구" />
+	<block key="AR3_107_2_93501_CR_Name" korean="빛나는 강화 아다만티움 그림자 어깨" />
+	<block key="AR3_107_3_93501_CR_Name" korean="빛나는 강화 아다만티움 그림자 경갑" />
+	<block key="AR3_107_4_93501_CR_Name" korean="빛나는 강화 아다만티움 그림자 장갑" />
+	<block key="AR3_107_5_93501_CR_Name" korean="빛나는 강화 아다만티움 그림자 신발" />
+	<block key="AR4_107_1_93501_CR_Name" korean="빛나는 강화 광택의 원소 모자" />
+	<block key="AR4_107_2_93501_CR_Name" korean="빛나는 강화 광택의 원소 어깨" />
+	<block key="AR4_107_3_93501_CR_Name" korean="빛나는 강화 광택의 원소 로브" />
+	<block key="AR4_107_4_93501_CR_Name" korean="빛나는 강화 광택의 원소 장갑" />
+	<block key="AR4_107_5_93501_CR_Name" korean="빛나는 강화 광택의 원소 신발" />
+	<block key="AR5_130_1_93501_CR_Name" korean="빛나는 강화 광택의 신념 모자" />
+	<block key="AR5_130_2_93501_CR_Name" korean="빛나는 강화 광택의 신념 어깨" />
+	<block key="AR5_130_3_93501_CR_Name" korean="빛나는 강화 광택의 신념 로브" />
+	<block key="AR5_130_4_93501_CR_Name" korean="빛나는 강화 광택의 신념 장갑" />
+	<block key="AR5_130_5_93501_CR_Name" korean="빛나는 강화 광택의 신념 신발" />
+	<block key="AR2_002_1_92105_Name" korean="카라샤의 냉정 투구" />
+	<block key="AR2_002_2_92105_Name" korean="카라샤의 냉정 어깨" />
+	<block key="AR2_002_3_92105_Name" korean="카라샤의 냉정 경갑" />
+	<block key="AR2_002_4_92105_Name" korean="카라샤의 냉정 장갑" />
+	<block key="AR2_002_5_92105_Name" korean="카라샤의 냉정 신발" />
+	<block key="AR0_110_1_93502_Name" korean="축복받은 암흑 군단장의 수호 투구" />
+	<block key="AR0_110_2_93502_Name" korean="축복받은 암흑 군단장의 수호 어깨" />
+	<block key="AR0_110_3_93502_Name" korean="축복받은 암흑 군단장의 수호 중갑" />
+	<block key="AR0_110_4_93502_Name" korean="축복받은 암흑 군단장의 수호 장갑" />
+	<block key="AR0_110_5_93502_Name" korean="축복받은 암흑 군단장의 수호 신발" />
+	<block key="AR1_107_1_93502_Name" korean="축복받은 암흑 군단장의 광폭 투구" />
+	<block key="AR1_107_2_93502_Name" korean="축복받은 암흑 군단장의 광폭 어깨" />
+	<block key="AR1_107_3_93502_Name" korean="축복받은 암흑 군단장의 광폭 중갑" />
+	<block key="AR1_107_4_93502_Name" korean="축복받은 암흑 군단장의 광폭 장갑" />
+	<block key="AR1_107_5_93502_Name" korean="축복받은 암흑 군단장의 광폭 신발" />
+	<block key="AR3_107_1_93502_Name" korean="축복받은 암흑 군단장의 그림자 투구" />
+	<block key="AR3_107_2_93502_Name" korean="축복받은 암흑 군단장의 그림자 어깨" />
+	<block key="AR3_107_3_93502_Name" korean="축복받은 암흑 군단장의 그림자 경갑" />
+	<block key="AR3_107_4_93502_Name" korean="축복받은 암흑 군단장의 그림자 장갑" />
+	<block key="AR3_107_5_93502_Name" korean="축복받은 암흑 군단장의 그림자 신발" />
+	<block key="AR4_107_1_93502_Name" korean="축복받은 암흑 군단장의 원소 모자" />
+	<block key="AR4_107_2_93502_Name" korean="축복받은 암흑 군단장의 원소 어깨" />
+	<block key="AR4_107_3_93502_Name" korean="축복받은 암흑 군단장의 원소 로브" />
+	<block key="AR4_107_4_93502_Name" korean="축복받은 암흑 군단장의 원소 장갑" />
+	<block key="AR4_107_5_93502_Name" korean="축복받은 암흑 군단장의 원소 신발" />
+	<block key="AR5_130_1_93502_Name" korean="축복받은 암흑 군단장의 신념 모자" />
+	<block key="AR5_130_2_93502_Name" korean="축복받은 암흑 군단장의 신념 어깨" />
+	<block key="AR5_130_3_93502_Name" korean="축복받은 암흑 군단장의 신념 로브" />
+	<block key="AR5_130_4_93502_Name" korean="축복받은 암흑 군단장의 신념 장갑" />
+	<block key="AR5_130_5_93502_Name" korean="축복받은 암흑 군단장의 신념 신발" />
+	<block key="AR0_004_1_93301_EV1_Name" korean="영웅의 수호 투구 VII" />
+	<block key="AR0_004_2_93301_EV1_Name" korean="영웅의 수호 어깨 VII" />
+	<block key="AR0_004_3_93301_EV1_Name" korean="영웅의 수호 중갑 VII" />
+	<block key="AR0_004_4_93301_EV1_Name" korean="영웅의 수호 장갑 VII" />
+	<block key="AR0_004_5_93301_EV1_Name" korean="영웅의 수호 신발 VII" />
+	<block key="AR1_004_1_93301_EV1_Name" korean="영웅의 광폭 투구 VII" />
+	<block key="AR1_004_2_93301_EV1_Name" korean="영웅의 광폭 어깨 VII" />
+	<block key="AR1_004_3_93301_EV1_Name" korean="영웅의 광폭 중갑 VII" />
+	<block key="AR1_004_4_93301_EV1_Name" korean="영웅의 광폭 장갑 VII" />
+	<block key="AR1_004_5_93301_EV1_Name" korean="영웅의 광폭 신발 VII" />
+	<block key="AR3_004_1_93301_EV1_Name" korean="영웅의 그림자 투구 VII" />
+	<block key="AR3_004_2_93301_EV1_Name" korean="영웅의 그림자 어깨 VII" />
+	<block key="AR3_004_3_93301_EV1_Name" korean="영웅의 그림자 경갑 VII" />
+	<block key="AR3_004_4_93301_EV1_Name" korean="영웅의 그림자 장갑 VII" />
+	<block key="AR3_004_5_93301_EV1_Name" korean="영웅의 그림자 신발 VII" />
+	<block key="AR4_005_1_93301_EV1_Name" korean="영웅의 원소 모자 VII" />
+	<block key="AR4_005_2_93301_EV1_Name" korean="영웅의 원소 어깨 VII" />
+	<block key="AR4_005_3_93301_EV1_Name" korean="영웅의 원소 로브 VII" />
+	<block key="AR4_005_4_93301_EV1_Name" korean="영웅의 원소 장갑 VII" />
+	<block key="AR4_005_5_93301_EV1_Name" korean="영웅의 원소 신발 VII" />
+	<block key="AR5_005_1_93301_EV1_Name" korean="영웅의 신념 모자 VII" />
+	<block key="AR5_005_2_93301_EV1_Name" korean="영웅의 신념 어깨 VII" />
+	<block key="AR5_005_3_93301_EV1_Name" korean="영웅의 신념 로브 VII" />
+	<block key="AR5_005_4_93301_EV1_Name" korean="영웅의 신념 장갑 VII" />
+	<block key="AR5_005_5_93301_EV1_Name" korean="영웅의 신념 신발 VII" />
+	<block key="AR0_110_1_93551_EV1_Name" korean="영웅의 수호 투구 VIII" />
+	<block key="AR0_110_2_93551_EV1_Name" korean="영웅의 수호 어깨 VIII" />
+	<block key="AR0_110_3_93551_EV1_Name" korean="영웅의 수호 중갑 VIII" />
+	<block key="AR0_110_4_93551_EV1_Name" korean="영웅의 수호 장갑 VIII" />
+	<block key="AR0_110_5_93551_EV1_Name" korean="영웅의 수호 신발 VIII" />
+	<block key="AR1_107_1_93551_EV1_Name" korean="영웅의 광폭 투구 VIII" />
+	<block key="AR1_107_2_93551_EV1_Name" korean="영웅의 광폭 어깨 VIII" />
+	<block key="AR1_107_3_93551_EV1_Name" korean="영웅의 광폭 중갑 VIII" />
+	<block key="AR1_107_4_93551_EV1_Name" korean="영웅의 광폭 장갑 VIII" />
+	<block key="AR1_107_5_93551_EV1_Name" korean="영웅의 광폭 신발 VIII" />
+	<block key="AR3_107_1_93551_EV1_Name" korean="영웅의 그림자 투구 VIII" />
+	<block key="AR3_107_2_93551_EV1_Name" korean="영웅의 그림자 어깨 VIII" />
+	<block key="AR3_107_3_93551_EV1_Name" korean="영웅의 그림자 경갑 VIII" />
+	<block key="AR3_107_4_93551_EV1_Name" korean="영웅의 그림자 장갑 VIII" />
+	<block key="AR3_107_5_93551_EV1_Name" korean="영웅의 그림자 신발 VIII" />
+	<block key="AR4_107_1_93551_EV1_Name" korean="영웅의 원소 모자 VIII" />
+	<block key="AR4_107_2_93551_EV1_Name" korean="영웅의 원소 어깨 VIII" />
+	<block key="AR4_107_3_93551_EV1_Name" korean="영웅의 원소 로브 VIII" />
+	<block key="AR4_107_4_93551_EV1_Name" korean="영웅의 원소 장갑 VIII" />
+	<block key="AR4_107_5_93551_EV1_Name" korean="영웅의 원소 신발 VIII" />
+	<block key="AR5_130_1_93551_EV1_Name" korean="영웅의 신념 모자 VIII" />
+	<block key="AR5_130_2_93551_EV1_Name" korean="영웅의 신념 어깨 VIII" />
+	<block key="AR5_130_3_93551_EV1_Name" korean="영웅의 신념 로브 VIII" />
+	<block key="AR5_130_4_93551_EV1_Name" korean="영웅의 신념 장갑 VIII" />
+	<block key="AR5_130_5_93551_EV1_Name" korean="영웅의 신념 신발 VIII" />
+	<block key="AR0_109_1_92451_RE_Name" korean="희망의 수호 투구 VIII" />
+	<block key="AR0_109_2_92451_RE_Name" korean="희망의 수호 어깨 VIII" />
+	<block key="AR0_109_3_92451_RE_Name" korean="희망의 수호 중갑 VIII" />
+	<block key="AR0_109_4_92451_RE_Name" korean="희망의 수호 장갑 VIII" />
+	<block key="AR0_109_5_92451_RE_Name" korean="희망의 수호 신발 VIII" />
+	<block key="AR1_106_1_92451_RE_Name" korean="희망의 광폭 투구 VIII" />
+	<block key="AR1_106_2_92451_RE_Name" korean="희망의 광폭 어깨 VIII" />
+	<block key="AR1_106_3_92451_RE_Name" korean="희망의 광폭 중갑 VIII" />
+	<block key="AR1_106_4_92451_RE_Name" korean="희망의 광폭 장갑 VIII" />
+	<block key="AR1_106_5_92451_RE_Name" korean="희망의 광폭 신발 VIII" />
+	<block key="AR3_109_1_92451_RE_Name" korean="희망의 그림자 투구 VIII" />
+	<block key="AR3_109_2_92451_RE_Name" korean="희망의 그림자 어깨 VIII" />
+	<block key="AR3_109_3_92451_RE_Name" korean="희망의 그림자 경갑 VIII" />
+	<block key="AR3_109_4_92451_RE_Name" korean="희망의 그림자 장갑 VIII" />
+	<block key="AR3_109_5_92451_RE_Name" korean="희망의 그림자 신발 VIII" />
+	<block key="AR4_109_1_92451_RE_Name" korean="희망의 원소 모자 VIII" />
+	<block key="AR4_109_2_92451_RE_Name" korean="희망의 원소 어깨 VIII" />
+	<block key="AR4_109_3_92451_RE_Name" korean="희망의 원소 로브 VIII" />
+	<block key="AR4_109_4_92451_RE_Name" korean="희망의 원소 장갑 VIII" />
+	<block key="AR4_109_5_92451_RE_Name" korean="희망의 원소 신발 VIII" />
+	<block key="AR5_110_1_92451_RE_Name" korean="희망의 신념 모자 VIII" />
+	<block key="AR5_110_2_92451_RE_Name" korean="희망의 신념 어깨 VIII" />
+	<block key="AR5_110_3_92451_RE_Name" korean="희망의 신념 로브 VIII" />
+	<block key="AR5_110_4_92451_RE_Name" korean="희망의 신념 장갑 VIII" />
+	<block key="AR5_110_5_92451_RE_Name" korean="희망의 신념 신발 VIII" />
+	<block key="AR0_109_1_92501_RE_Name" korean="희망의 수호 투구 IX" />
+	<block key="AR0_109_2_92501_RE_Name" korean="희망의 수호 어깨 IX" />
+	<block key="AR0_109_3_92501_RE_Name" korean="희망의 수호 중갑 IX" />
+	<block key="AR0_109_4_92501_RE_Name" korean="희망의 수호 장갑 IX" />
+	<block key="AR0_109_5_92501_RE_Name" korean="희망의 수호 신발 IX" />
+	<block key="AR1_106_1_92501_RE_Name" korean="희망의 광폭 투구 IX" />
+	<block key="AR1_106_2_92501_RE_Name" korean="희망의 광폭 어깨 IX" />
+	<block key="AR1_106_3_92501_RE_Name" korean="희망의 광폭 중갑 IX" />
+	<block key="AR1_106_4_92501_RE_Name" korean="희망의 광폭 장갑 IX" />
+	<block key="AR1_106_5_92501_RE_Name" korean="희망의 광폭 신발 IX" />
+	<block key="AR3_109_1_92501_RE_Name" korean="희망의 그림자 투구 IX" />
+	<block key="AR3_109_2_92501_RE_Name" korean="희망의 그림자 어깨 IX" />
+	<block key="AR3_109_3_92501_RE_Name" korean="희망의 그림자 경갑 IX" />
+	<block key="AR3_109_4_92501_RE_Name" korean="희망의 그림자 장갑 IX" />
+	<block key="AR3_109_5_92501_RE_Name" korean="희망의 그림자 신발 IX" />
+	<block key="AR4_109_1_92501_RE_Name" korean="희망의 원소 모자 IX" />
+	<block key="AR4_109_2_92501_RE_Name" korean="희망의 원소 어깨 IX" />
+	<block key="AR4_109_3_92501_RE_Name" korean="희망의 원소 로브 IX" />
+	<block key="AR4_109_4_92501_RE_Name" korean="희망의 원소 장갑 IX" />
+	<block key="AR4_109_5_92501_RE_Name" korean="희망의 원소 신발 IX" />
+	<block key="AR5_110_1_92501_RE_Name" korean="희망의 신념 모자 IX" />
+	<block key="AR5_110_2_92501_RE_Name" korean="희망의 신념 어깨 IX" />
+	<block key="AR5_110_3_92501_RE_Name" korean="희망의 신념 로브 IX" />
+	<block key="AR5_110_4_92501_RE_Name" korean="희망의 신념 장갑 IX" />
+	<block key="AR5_110_5_92501_RE_Name" korean="희망의 신념 신발 IX" />
+</blocks>

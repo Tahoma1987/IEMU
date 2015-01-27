@@ -1,0 +1,167 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="mobulls02_aura_1_name" korean="Знак Re-Volt" />
+	<block key="mobulls02_aura_1_description_1" korean="Отметить как заклинание увеличения ущерба восстания, но защита снижается." />
+	<block key="mobulls03_aura_1_name" korean="Знак biteureyi" />
+	<block key="mobulls03_aura_1_description_1" korean="Физический урон увеличивается в знак предательства, но защита снижается." />
+	<block key="morzt1_buff_1_name" korean="Кровотечение" />
+	<block key="morzt1_buff_1_description_1" korean="Кровотечение может произойти из-за непрерывных-аутов Раджа агента." />
+	<block key="morzt3_buff_1_name" korean="Огонь Аватар" />
+	<block key="morzt3_buff_1_description_1" korean="Контролировать огонь энергии утверждают, что свободно." />
+	<block key="momupa2_buff_1_name" korean="Сильный удар" />
+	<block key="momupa2_buff_1_description_1" korean="Государство временно honjeol воздействие сильного удара." />
+	<block key="momupa3_buff_1_name" korean="Сильный удар" />
+	<block key="momupa3_buff_1_description_1" korean="Государство временно honjeol воздействие сильного депрессии." />
+	<block key="momupa4_buff_1_name" korean="Изувечение" />
+	<block key="momupa4_buff_1_description_1" korean="Я чувствую ощущение кризиса в государстве сосредоточена на временно борьбе сражение. Если вам подходит реакция yuhyota соответствует сразу нанести ответный удар." />
+	<block key="momupar1_buff_1_name" korean="Сильный удар" />
+	<block key="momupar1_buff_1_description_1" korean="Государство временно honjeol воздействие сильного депрессии." />
+	<block key="mohama3_buff_1_name" korean="Головокружение" />
+	<block key="mohama3_buff_1_description_1" korean="Государство временно кружится голова, как сильный удар перенес тупой силой." />
+	<block key="mohama4_buff_1_name" korean="Изувечение" />
+	<block key="mohama4_buff_1_description_1" korean="Я чувствую ощущение кризиса в государстве сосредоточена на временно борьбе сражение. Если вам подходит реакция yuhyota соответствует сразу нанести ответный удар." />
+	<block key="mokas3_buff_1_name" korean="Полный гнева" />
+	<block key="mokas3_buff_1_description_1" korean="Касим был государственный преобладают агрессивно превратилось в гнев теряет самообладание." />
+	<block key="morg6_buff_1_name" korean="Оборонительная стойка" />
+	<block key="morg6_buff_1_description_1" korean="Следует также принять временный оборонительную позицию в Роли Возможность создания опасной ситуации идти в бой. Если вам подходит реакция yuhyota соответствует сразу нанести ответный удар." />
+	<block key="momnc2_buff_1_name" korean="Символ Храма" />
+	<block key="momnc2_buff_1_description_1" korean="Массачусетс мощность маны храм для тех, кто хочет следовать ваш собственный внутренний повышение потенциала мишени." />
+	<block key="momnc3_buff_1_name" korean="Стигма" />
+	<block key="momnc3_buff_1_description_1" korean="Заклейменными бедствий света может инактивировать некоторые из целей нападения." />
+	<block key="momnc4_buff_1_name" korean="Символ агрессии" />
+	<block key="momnc4_buff_1_description_1" korean="Используется, чтобы обмануть врага, как вырубки и ожоговых тактики обеих сторон маны Массачусетс." />
+	<block key="momjm1_buff_1_name" korean="Зажигание" />
+	<block key="momjm1_buff_1_description_1" korean="Сильный взрывная сила метеорита покрыта временное воздействие на целевые жертв." />
+	<block key="momip1_buff_1_name" korean="Замораживание" />
+	<block key="momip1_buff_1_description_1" korean="Нэн сильный ледяной столб, покрытый временно пострадавших групп целевой жертв." />
+	<block key="momta1_aura_1_name" korean="Прохладный атмосфера" />
+	<block key="momta1_aura_1_description_1" korean="Из-за холодной энергии, вырабатываемой физические способности льда полюса состоянии снижается." />
+	<block key="mobm1_buff_1_name" korean="Обморок" />
+	<block key="mobm1_buff_1_description_1" korean="Современное состояние временно потрясена цен тяжелых инструментов." />
+	<block key="mobm2_buff_1_name" korean="Неудобно аура" />
+	<block key="mobm2_buff_1_description_1" korean="Чувствовать себя некомфортно из-за жидкой наград разразился в колбе." />
+	<block key="moshm2_buff_1_name" korean="Дыра" />
+	<block key="moshm2_buff_1_description_1" korean="Государство увеличило воинственность Шумахера к соответствующему запаху." />
+	<block key="moyrs1_buff_1_name" korean="Повреждение Броня" />
+	<block key="moyrs1_buff_1_description_1" korean="Из-за искаженной брони будет временно слабое государство." />
+	<block key="moyrs3_buff_1_name" korean="Спокойный ответ" />
+	<block key="moyrs3_buff_1_description_1" korean="Примеры Ritz ориентироваться в жесткой врага спокойно и стремиться к случайно на забастовку. Если вам подходит реакция yuhyota соответствует сразу нанести ответный удар." />
+	<block key="moyrs8_buff_1_name" korean="Шок" />
+	<block key="moyrs8_buff_1_description_1" korean="Потрясенный государственной сильно пострадали." />
+	<block key="moruinbow1_buff_1_name" korean="Песок пыли" />
+	<block key="moruinbow1_buff_1_description_1" korean="Я был в дальнейшем возмещении убытков к воздействию песка пыли." />
+	<block key="mosin1_buff_1_name" korean="Отметить смерти" />
+	<block key="mosin1_buff_1_description_1" korean="Синтия будет атаковать более эффективно отмечает смерть остальной части аудитории." />
+	<block key="mosin1_buff_1_description_2" korean="Синтия будет атаковать более эффективно отмечает смерть остальной части аудитории." />
+	<block key="mosin6_buff_1_name" korean="Сильный удар" />
+	<block key="mosin6_buff_1_description_1" korean="Потрясенный государственной сильно пострадали." />
+	<block key="mosin6_buff_1_description_2" korean="Потрясенный государственной сильно пострадали." />
+	<block key="mosin7_buff_1_name" korean="Концентрация" />
+	<block key="mosin7_buff_1_description_1" korean="Это расширение статус, чтобы максимизировать боевую мощь концентрации." />
+	<block key="mosins1_aura_1_name" korean="Острый дым" />
+	<block key="mosins1_aura_1_description_1" korean="Чтобы продолжить эффективного боя эффект горячего дыма тяжелое положение." />
+	<block key="mojas1_buff_1_name" korean="Открытие" />
+	<block key="mojas1_buff_1_description_1" korean="Уорд будет иметь открытую атаку пламени ударил эффекты." />
+	<block key="mojas1_buff_1_description_2" korean="Уорд будет иметь открытую атаку пламени ударил эффекты." />
+	<block key="mojas1_buff_1_description_3" korean="Уорд будет иметь открытую атаку пламени ударил эффекты." />
+	<block key="mojas1_buff_1_description_4" korean="Уорд будет иметь открытую атаку пламени ударил эффекты." />
+	<block key="mojas3_buff_1_name" korean="Холод" />
+	<block key="mojas3_buff_1_description_1" korean="Эта атака будет иметь эффект охлаждения оползни хитом." />
+	<block key="mojas3_buff_1_description_2" korean="Эта атака будет иметь эффект охлаждения оползни хитом." />
+	<block key="mojas3_buff_1_description_3" korean="Эта атака будет иметь эффект охлаждения оползни хитом." />
+	<block key="mojas3_buff_1_description_4" korean="Эта атака будет иметь эффект охлаждения оползни хитом." />
+	<block key="mojas4_buff_1_name" korean="Статуя" />
+	<block key="mojas4_buff_1_description_1" korean="Это способность организма для осуществления нерабочем состоянии абсолютного нуля." />
+	<block key="mojas4_buff_1_description_2" korean="Это способность организма для осуществления нерабочем состоянии абсолютного нуля." />
+	<block key="mojas4_buff_1_description_3" korean="Это способность организма для осуществления нерабочем состоянии абсолютного нуля." />
+	<block key="mojasa3_buff_2_name" korean="Deep Dark" />
+	<block key="mojasa3_buff_2_description_1" korean="Эффективность упал к воздействию глубокой тьме, но может привести к аннулированию блестящие вспышки Джейсона." />
+	<block key="mojasa3_aura_2_name" korean="Deep Dark" />
+	<block key="mojasa3_aura_2_description_1" korean="Эффективность упал к воздействию глубокой тьме, но может привести к аннулированию блестящие вспышки Джейсона." />
+	<block key="modw1_buff_1_name" korean="Язык уничтожения - широкий" />
+	<block key="modw1_buff_1_description_1" korean="Джейсон был усилен власти на государственном языке разрушения." />
+	<block key="modw2_buff_1_name" korean="Язык разрушения - хранитель" />
+	<block key="modw2_buff_1_description_1" korean="Джейсон был усилен власти на государственном языке разрушения." />
+	<block key="modw3_buff_1_name" korean="Язык к разрушению Теней" />
+	<block key="modw3_buff_1_description_1" korean="Джейсон был усилен власти на государственном языке разрушения." />
+	<block key="modw4_buff_1_name" korean="Язык к разрушению веры" />
+	<block key="modw4_buff_1_description_1" korean="Джейсон был усилен власти на государственном языке разрушения." />
+	<block key="momc4_1_name" korean="Сильный удар" />
+	<block key="momc4_buff_1_description_1" korean="Мощная атака Меркурия создает временный ошеломленного состояния." />
+	<block key="momc4_buff_1_description_2" korean="Мощная атака Меркурия создает временный ошеломленного состояния." />
+	<block key="momc4_buff_1_description_3" korean="Мощная атака Меркурия создает временный ошеломленного состояния." />
+	<block key="momc4_buff_1_description_4" korean="Мощная атака Меркурия создает временный ошеломленного состояния." />
+	<block key="momc4f_1_name" korean="Сильный удар" />
+	<block key="momc4f_buff_1_description_1" korean="Мощная атака Меркурия создает временный ошеломленного состояния." />
+	<block key="momc4f_buff_1_description_2" korean="Мощная атака Меркурия создает временный ошеломленного состояния." />
+	<block key="momc4f_buff_1_description_3" korean="Мощная атака Меркурия создает временный ошеломленного состояния." />
+	<block key="momc4f_buff_1_description_4" korean="Мощная атака Меркурия создает временный ошеломленного состояния." />
+	<block key="momc5_1_name" korean="Пламя" />
+	<block key="momc5_buff_1_description_1" korean="Государство по-прежнему носить ущерб имиджу." />
+	<block key="momc5_buff_1_description_2" korean="Государство по-прежнему носить ущерб имиджу." />
+	<block key="momc5_buff_1_description_3" korean="Государство по-прежнему носить ущерб имиджу." />
+	<block key="momc5_buff_1_description_4" korean="Государство по-прежнему носить ущерб имиджу." />
+	<block key="momcf4_1_name" korean="Пламя" />
+	<block key="momcf4_buff_1_description_1" korean="Государство по-прежнему носить ущерб имиджу." />
+	<block key="momcf4_buff_1_description_2" korean="Государство по-прежнему носить ущерб имиджу." />
+	<block key="momcf4_buff_1_description_3" korean="Государство по-прежнему носить ущерб имиджу." />
+	<block key="momcf4_buff_1_description_4" korean="Государство по-прежнему носить ущерб имиджу." />
+	<block key="momcf5_1_name" korean="Пламя" />
+	<block key="momcf5_buff_1_description_1" korean="Государство по-прежнему носить ущерб имиджу." />
+	<block key="momcf5_buff_1_description_2" korean="Государство по-прежнему носить ущерб имиджу." />
+	<block key="momcf5_buff_1_description_3" korean="Государство по-прежнему носить ущерб имиджу." />
+	<block key="momcf5_buff_1_description_4" korean="Государство по-прежнему носить ущерб имиджу." />
+	<block key="momc6_1_name" korean="Сеть молчания" />
+	<block key="momc6_buff_1_description_1" korean="Существует влияние на цепи молчания." />
+	<block key="momc6_buff_1_description_2" korean="Существует влияние на цепи молчания." />
+	<block key="momc6_buff_1_description_3" korean="Существует влияние на цепи молчания." />
+	<block key="momc6_buff_1_description_4" korean="Существует влияние на цепи молчания." />
+	<block key="momc7_buff_1_name" korean="Черная магия" />
+	<block key="momc7_buff_1_description_1" korean="Государство, которое контролирует власть черной магии." />
+	<block key="momc8_buff_1_name" korean="Плавленый черная магия" />
+	<block key="momc8_buff_1_description_1" korean="Полностью расплавленном состоянии и власть черной магии." />
+	<block key="momadness00_buff_1_name" korean="Вызов безумие" />
+	<block key="momadness00_buff_1_description_1" korean="Талос состояние безумие." />
+	<block key="momadness00_buff_1_description_2" korean="Талос состояние безумие." />
+	<block key="momadness00_buff_1_description_3" korean="Талос состояние безумие." />
+	<block key="moindarkmo00_buff_1_name" korean="Ревущие в темноте" />
+	<block key="moindarkmo00_buff_1_description_1" korean="Морган заторы." />
+	<block key="moindarkmo00_buff_1_description_2" korean="Морган заторы." />
+	<block key="moindarkmo00_buff_1_description_3" korean="Морган заторы." />
+	<block key="mobulls13_aura_1_name" korean="Марк Ла Герцеговине" />
+	<block key="mobulls13_aura_1_description_1" korean="Помещает ночь была ужас иммунный статус." />
+	<block key="mobloodyb01_buff_1_name" korean="Кровожадность" />
+	<block key="mobloodyb01_buff_1_description_1" korean="Чрезмерное государственное кровотечение." />
+	<block key="mobloodyb01_buff_1_description_2" korean="Чрезмерное государственное кровотечение." />
+	<block key="mobloodyb01_buff_1_description_3" korean="Чрезмерное государственное кровотечение." />
+	<block key="modarkshadow01_aura_1_name" korean="Тень смерти" />
+	<block key="modarkshadow01_aura_1_description_1" korean="Тень Моргана, заключите ногу." />
+	<block key="modarkshadow01_aura_1_description_2" korean="Тень Моргана, заключите ногу." />
+	<block key="modarkshadow01_aura_1_description_3" korean="Тень Моргана, заключите ногу." />
+	<block key="mopollutiona00_aura_1_name" korean="Загрязненный грунт" />
+	<block key="mopollutiona00_aura_1_description_1" korean="Отель расположен в пространстве Талос снижения силы атаки." />
+	<block key="mopollutiona00_aura_1_description_2" korean="Отель расположен в пространстве Талос снижения силы атаки." />
+	<block key="mopollutiona00_aura_1_description_3" korean="Отель расположен в пространстве Талос снижения силы атаки." />
+	<block key="mobulls04_aura_1_name" korean="Знак Re-Volt" />
+	<block key="mobulls04_aura_1_description_1" korean="Это позволит увеличить атаку и защиту дружественного города." />
+	<block key="mobulls05_aura_1_name" korean="Знак biteureyi" />
+	<block key="mobulls05_aura_1_description_1" korean="Это позволит увеличить атаку и защиту дружественного города." />
+	<block key="mobulls15_aura_1_name" korean="Марк Ла Герцеговине" />
+	<block key="mobulls15_aura_1_description_1" korean="Это позволит увеличить атаку и защиту дружественного города." />
+	<block key="mojeranin02_buff_1_name" korean="Кровотечение" />
+	<block key="mojeranin02_buff_1_description_1" korean="Чрезмерное государственное кровотечение." />
+	<block key="modarkarrows00_buff_1_name" korean="Тьма развязали" />
+	<block key="modarkarrows00_buff_1_description_1" korean="Скорость передвижения снижена." />
+	<block key="modarkarrows00_buff_1_description_2" korean="Скорость передвижения снижена." />
+	<block key="modarkarrows00_buff_1_description_3" korean="Призыв к освобождению темной страха." />
+	<block key="moindarkremove00_buff_1_name" korean="Тьма-релиз" />
+	<block key="moindarkremove00_buff_1_description_1" korean="Скорость передвижения снижена." />
+	<block key="moindarkremove00_buff_1_description_2" korean="Скорость передвижения снижена." />
+	<block key="moindarkremove00_buff_1_description_3" korean="Скорость передвижения снижена." />
+</blocks>

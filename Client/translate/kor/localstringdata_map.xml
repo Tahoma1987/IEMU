@@ -1,0 +1,67 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="testfield_Name" korean="테스트필드" />
+	<block key="testfield2_Name" korean="테스트필드2" />
+	<block key="map_f00_Name" korean="사란트 감옥" />
+	<block key="map_f01_Name" korean="브라카르 숲" />
+	<block key="map_f02_Name" korean="하카나스 직할령" />
+	<block key="map_f03_Name" korean="파르나의 땅" />
+	<block key="map_f04_Name" korean="멸망의 공역" />
+	<block key="map_f05_Name" korean="불사의 사막" />
+	<block key="map_d01_Name" korean="카를레앙 대저택" />
+	<block key="map_d02_Name" korean="얼어붙은 마트렌 폐허" />
+	<block key="map_d03_Name" korean="베일에 싸인 동굴" />
+	<block key="map_d04_Name" korean="파를라크 얼음 성채" />
+	<block key="map_d00_Name" korean="불이 삼킨 유적" />
+	<block key="map_c01_Name" korean="하카나스 수도성" />
+	<block key="map_c02_Name" korean="아크라트 초원" />
+	<block key="map_c03_Name" korean="천둥구름 요새" />
+	<block key="map_f07_Name" korean="엘로라 성역" />
+	<block key="map_f08_Name" korean="투림란 계곡" />
+	<block key="map_f09_Name" korean="하카나스 대해" />
+	<block key="map_test01_Name" korean="테스트 필드4" />
+	<block key="map_test02_Name" korean="테스트 필드5" />
+	<block key="testfield3_Name" korean="테스트 필드3" />
+	<block key="map_d07_Name" korean="알사스의 둥지" />
+	<block key="test_navi_Name" korean="네비게이션 테스트" />
+	<block key="map_d08_name" korean="잊혀진 성지" />
+	<block key="map_d09_name" korean="하스탄 마을" />
+	<block key="map_farm_01_name" korean="하카나스 대농장" />
+	<block key="map_farm_02_name" korean="아크라트 초원 대농장" />
+	<block key="map_f10_Name" korean="마그마포라" />
+	<block key="map_f11_Name" korean="검은손 협곡" />
+	<block key="map_f12_Name" korean="엑자란 분지" />
+	<block key="map_f13_Name" korean="잠자는 섬" />
+	<block key="map_f14_Name" korean="엘라드 대륙" />
+	<block key="map_f01_e01_Name" korean="남부 유적지 폐허" />
+	<block key="map_f01_e02_Name" korean="북부 유적지 폐허" />
+	<block key="map_d11_name" korean="붉은혁명단 기지" />
+	<block key="map_f02_e01_name" korean="사냥꾼 잭의 동굴" />
+	<block key="map_f02_e02_name" korean="돌개바람 언덕" />
+	<block key="map_f03_e01_name" korean="유령선" />
+	<block key="map_f03_e02_name" korean="해적단 기지" />
+	<block key="map_f03_e03_name" korean="파를라크 영지" />
+	<block key="map_f06_name" korean="펙투라" />
+	<block key="map_f01_e03_name" korean="숨겨진 비밀 유적" />
+	<block key="map_c01_e01_name" korean="국왕 알현실" />
+	<block key="map_c01_e03_name" korean="동부 시가지" />
+	<block key="map_p01_name" korean="엑자란 무법지대" />
+	<block key="map_f16_name" korean="야타이만의 결계" />
+	<block key="map_f15_e01_name" korean="큰바람 섬" />
+	<block key="map_f02_e03_name" korean="시녀들의 집" />
+	<block key="map_f99_name" korean="무인도" />
+	<block key="map_c01_e02_name" korean="왕국 수림지" />
+	<block key="map_d22_Name" korean="공역의 틈새" />
+	<block key="map_f98_name" korean="결투장" />
+	<block key="map_c01_e04_name" korean="수도성 경비대" />
+	<block key="map_d13_name" korean="고대의 사원" />
+	<block key="map_d06_name" korean="불사군단의 요새" />
+	<block key="map_f05_e01_name" korean="폐허가 된 신전" />
+	<block key="map_f05_e02_name" korean="부화장" />
+</blocks>

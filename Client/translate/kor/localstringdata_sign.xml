@@ -1,0 +1,31 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="map_c01_item_store01_0" korean="잡화점" />
+	<block key="map_c01_weapon_house01_0" korean="무기 제작소" />
+	<block key="map_c01_armor_house01_0" korean="방어구 제작소" />
+	<block key="map_c01_weapon_store01_0" korean="무기점" />
+	<block key="map_c01_armor_store01_0" korean="방어구점" />
+	<block key="map_c01_kitchen01_0" korean="식료품점" />
+	<block key="map_c01_kitchen02_0" korean="조리장" />
+	<block key="map_c01_alchemy01_0" korean="연금술 연구소" />
+	<block key="map_c01_alchemy02_0" korean="연금술 상점" />
+	<block key="map_c01_armor_store02_0" korean="방어구 재료 상점" />
+	<block key="map_c01_weapon_store02_0" korean="무기구 재료 상점" />
+	<block key="map_c01_alchemy03_0" korean="연금술 재료 상점" />
+	<block key="map_c01_armor_store03_0" korean="방어구점" />
+	<block key="map_c01_weapon_store03_0" korean="무기점" />
+	<block key="map_c01_alchemy04_0" korean="연금술 상점" />
+	<block key="map_c01_kitchen03_0" korean="식료품점" />
+	<block key="map_c01_bank01_0" korean="경매장/은행" />
+	<block key="map_c01_bar01_0" korean="선술집" />
+	<block key="map_c01_book_store01_0" korean="바엘라스 기념 도서관" />
+	<block key="map_f03_town01_0" korean="연금술 상점" />
+	<block key="map_f03_town02_0" korean="에이미 헤이글 여관" />
+	<block key="map_f03_town03_0" korean="방어구점" />
+</blocks>

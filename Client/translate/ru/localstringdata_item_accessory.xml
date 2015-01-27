@@ -1,0 +1,380 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="AC0_0_1000_Name" korean="Защита Амулет Марии" />
+	<block key="AC0_1_1000_Name" korean="Время восстановления снижено Ожерелье (99%)" />
+	<block key="AC0_0_9999_Name" korean="Критический кольцо _ для тестирования (100)" />
+	<block key="AC0_0_9989_Name" korean="Критический кольцо _ для тестирования (30)" />
+	<block key="AC0_0_9988_Name" korean="Критический кольцо _ для тестирования (70)" />
+	<block key="AC0_0_10001_Name" korean="Royal кольцо" />
+	<block key="AC0_0_10002_Name" korean="Попо ограничение колец" />
+	<block key="AC0_0_21001_Name" korean="Опята" />
+	<block key="AC0_0_21011_Name" korean="Прочная когда-либо исправить кольцо лесу" />
+	<block key="AC0_0_21012_Name" korean="Мудрость Мирный лес когда-либо исправить кольцо" />
+	<block key="AC0_0_21013_Name" korean="Быстрое решение когда-либо звонить в лесу" />
+	<block key="AC0_0_21501_Name" korean="Рейдерство партия кольцо" />
+	<block key="AC0_0_21511_Name" korean="Сильный кольцо делегации" />
+	<block key="AC0_0_21512_Name" korean="Тихоокеанский Кольцо Мудрости делегации" />
+	<block key="AC0_0_21513_Name" korean="Быстрый кольцо делегации" />
+	<block key="AC0_0_31501_Name" korean="Древний Кольцо огня Голема" />
+	<block key="AC0_0_22001_Name" korean="Vampire колец" />
+	<block key="AC0_0_22011_Name" korean="Сильный кольцо милиции" />
+	<block key="AC0_0_22012_Name" korean="Милиция Pacific Кольцо Мудрости" />
+	<block key="AC0_0_22013_Name" korean="Милиция быстро кольцо" />
+	<block key="AC0_0_32001_Name" korean="Проклятый кольцо" />
+	<block key="AC0_0_22501_Name" korean="Кольцо в небо" />
+	<block key="AC0_0_22521_Name" korean="Кольцо коррумпированных последователей" />
+	<block key="AC0_0_32501_Name" korean="Кольцо холода" />
+	<block key="AC0_0_23001_Name" korean="Кольцо Облачность" />
+	<block key="AC0_0_33001_Name" korean="Yata кольцо из двадцати" />
+	<block key="AC0_0_23501_Name" korean="Кольцо Мороза Легиона" />
+	<block key="AC0_0_33501_Name" korean="Кольцо Ice бригадного генерала" />
+	<block key="AC0_0_24001_Name" korean="Кольцо Верховный главнокомандующий" />
+	<block key="AC0_1_21001_Name" korean="Brage древний ожерелье" />
+	<block key="AC0_1_22001_Name" korean="Vampire Ожерелье" />
+	<block key="AC0_1_22011_Name" korean="Прочная ожерелье милиции" />
+	<block key="AC0_1_22012_Name" korean="Мудрость ожерелье Мирное Поссе" />
+	<block key="AC0_1_22013_Name" korean="Быстрый ожерелье милиции" />
+	<block key="AC0_1_32001_Name" korean="Дочь Тьмы" />
+	<block key="AC0_1_22501_Name" korean="Yata ожерелье из двадцати" />
+	<block key="AC0_1_22521_Name" korean="Древний Ожерелье пожарной Голема" />
+	<block key="AC0_1_32501_Name" korean="Ожерелье холодно" />
+	<block key="AC0_1_23001_Name" korean="Ожерелье упал последователи" />
+	<block key="AC0_1_33001_Name" korean="Ожерелье Ice бригадный генерал" />
+	<block key="AC0_1_23501_Name" korean="Ожерелье Верховный главнокомандующий" />
+	<block key="AC0_1_33501_Name" korean="Фея Ожерелье" />
+	<block key="AC0_1_24001_Name" korean="Рейдерство партии ожерелье" />
+	<block key="AC0_0_1001_Name" korean="Рубиновое кольцо" />
+	<block key="AC0_0_1141_Name" korean="Кольцо царства статьи" />
+	<block key="AC0_0_1142_Name" korean="Кольцо и Канаш герой" />
+	<block key="AC0_0_2141_Name" korean="Onyx кольцо кровавой силу" />
+	<block key="AC0_0_2142_Name" korean="Окраска крови гибкой оникса кольца" />
+	<block key="AC0_0_2143_Name" korean="Onyx кольцо кровавой интеллекта" />
+	<block key="AC0_1_2141_Name" korean="Sapphire ожерелье охлажденной фитнес-" />
+	<block key="AC0_1_2142_Name" korean="Sapphire ожерелье охлажденной Дух" />
+	<block key="AC0_1_2143_Name" korean="Sapphire ожерелье охлажденной сила" />
+	<block key="AC0_1_2144_Name" korean="Охлажденная гибкой Sapphire ожерелье" />
+	<block key="AC0_1_2145_Name" korean="Sapphire ожерелье охлажденной интеллект" />
+	<block key="AC0_1_2261_Name" korean="Вода подвеска" />
+	<block key="AC0_1_2262_Name" korean="Улучшенная подвеска воды" />
+	<block key="AC0_0_2261_Name" korean="Я клянусь, этот сердца кольцо, содержащее" />
+	<block key="AC0_0_2262_Name" korean="Доказательство Heroes" />
+	<block key="AC0_0_82151_Name" korean="Физическая кольцо жестких ветеранов" />
+	<block key="AC0_0_82152_Name" korean="Волшебное кольцо жестких ветеранов" />
+	<block key="AC0_1_82151_Name" korean="Физическая ожерелье жесткой воин" />
+	<block key="AC0_1_82152_Name" korean="Магия ожерелье жесткой воин" />
+	<block key="AC0_0_82251_Name" korean="Физическая Кольцо Легенд" />
+	<block key="AC0_0_82252_Name" korean="Легенда о Волшебное кольцо" />
+	<block key="AC0_1_82251_Name" korean="Физическая Ожерелье легенда" />
+	<block key="AC0_1_82252_Name" korean="Магия легендарного ожерелье" />
+	<block key="AC0_0_83251_Name" korean="Физическая кольцо опытный герой" />
+	<block key="AC0_0_83252_Name" korean="Волшебное кольцо из закаленного героя" />
+	<block key="AC0_1_83251_Name" korean="Физическая ожерелье опытный герой" />
+	<block key="AC0_1_83252_Name" korean="Магия ожерелье из закаленного героя" />
+	<block key="AC0_0_81101_Name" korean="Физическая Серебряное кольцо" />
+	<block key="AC0_0_81102_Name" korean="Волшебное кольцо" />
+	<block key="AC0_1_81101_Name" korean="Физические ожерелья" />
+	<block key="AC0_1_81102_Name" korean="Магия ожерелье" />
+	<block key="AC0_0_81201_Name" korean="Физическая золотое кольцо" />
+	<block key="AC0_0_81202_Name" korean="Магия золотое кольцо" />
+	<block key="AC0_1_81201_Name" korean="Физическая золотое ожерелье" />
+	<block key="AC0_1_81202_Name" korean="Магия золота ожерелье" />
+	<block key="AC0_0_82201_Name" korean="Повышение физической Золотые кольца" />
+	<block key="AC0_0_82202_Name" korean="Улучшенная магия золотое кольцо" />
+	<block key="AC0_1_82201_Name" korean="Улучшенная физическая золотое ожерелье" />
+	<block key="AC0_1_82202_Name" korean="Улучшенная магия золотое ожерелье" />
+	<block key="AC0_0_81301_Name" korean="Физические и аметист кольцо" />
+	<block key="AC0_0_81302_Name" korean="Магия аметист кольцо" />
+	<block key="AC0_1_81301_Name" korean="Физические и аметист ожерелье" />
+	<block key="AC0_1_81302_Name" korean="Магия ожерелье аметист" />
+	<block key="AC0_0_82301_Name" korean="Улучшенная физическая аметист кольцо" />
+	<block key="AC0_0_82302_Name" korean="Улучшенная магия аметист кольцо" />
+	<block key="AC0_1_82301_Name" korean="Улучшенная физическая ожерелье аметист" />
+	<block key="AC0_1_82302_Name" korean="Улучшенная магия ожерелье аметист" />
+	<block key="AC0_0_83301_Name" korean="Физическая блестящий аметист кольцо" />
+	<block key="AC0_0_83302_Name" korean="Сияющий магический аметист кольцо" />
+	<block key="AC0_1_83301_Name" korean="Физическая блестящий ожерелье аметист" />
+	<block key="AC0_1_83302_Name" korean="Сияющий магический ожерелье аметист" />
+	<block key="AC0_2_21501_Name" korean="Королевство кольца разделе статьи" />
+	<block key="AC0_2_220011_Name" korean="Elite кольцо бутылка Королевство" />
+	<block key="AC0_2_225012_Name" korean="Нижнее кольцо из kunjok Круа" />
+	<block key="AC0_2_325013_Name" korean="Сапфировое кольцо Mart Ренн холодно" />
+	<block key="AC0_2_230014_Name" korean="Кольцо передовых Круа kunjok" />
+	<block key="AC0_2_22001_Name" korean="Elite ожерелье бутылка Королевство" />
+	<block key="AC0_2_22501_Name" korean="Малый ожерелье Croix kunjok" />
+	<block key="AC0_2_32501_Name" korean="Sapphire ожерелье Mart Ренн холодно" />
+	<block key="AC0_2_23001_Name" korean="Расширенный ожерелье Croix kunjok" />
+	<block key="AC0_2_821511_Name" korean="Физическая кольцо жестких ветеранов" />
+	<block key="AC0_2_821522_Name" korean="Волшебное кольцо жестких ветеранов" />
+	<block key="AC0_2_82151_Name" korean="Физическая ожерелье жесткой воин" />
+	<block key="AC0_2_82152_Name" korean="Магия ожерелье жесткой воин" />
+	<block key="AC0_2_822513_Name" korean="Физическая Кольцо Легенд" />
+	<block key="AC0_2_822522_Name" korean="Легенда о Волшебное кольцо" />
+	<block key="AC0_2_82251_Name" korean="Физическая Ожерелье легенда" />
+	<block key="AC0_2_82252_Name" korean="Магия легендарного ожерелье" />
+	<block key="AC0_2_832511_Name" korean="Физическая кольцо опытный герой" />
+	<block key="AC0_2_832522_Name" korean="Волшебное кольцо из закаленного героя" />
+	<block key="AC0_2_83251_Name" korean="Физическая ожерелье опытный герой" />
+	<block key="AC0_2_83252_Name" korean="Магия ожерелье из закаленного героя" />
+	<block key="AC0_0_2263_Name" korean="PvP Кольцо Я" />
+	<block key="AC0_0_2264_Name" korean="PvP Ring II" />
+	<block key="AC0_0_2265_Name" korean="PvP Ring III" />
+	<block key="AC0_0_2266_Name" korean="PvP Кольцо IV" />
+	<block key="AC0_0_2267_Name" korean="PvP Кольцо V" />
+	<block key="AC0_0_2271_Name" korean="Кольцо с другой лося" />
+	<block key="AC0_1_2271_Name" korean="Ожерелье другой лося" />
+	<block key="AC0_0_2272_Name" korean="Кольцо королевской гвардии." />
+	<block key="AC0_0_2281_Name" korean="Кольцо королевской гвардии." />
+	<block key="AC0_0_2282_Name" korean="Кольцо королевской гвардии." />
+	<block key="AC0_0_2283_Name" korean="Кольцо королевской гвардии." />
+	<block key="AC0_0_2284_Name" korean="Кольцо королевской гвардии." />
+	<block key="AC0_0_2273_Name" korean="Рыцарь-командор черепа кольца" />
+	<block key="AC0_0_2274_Name" korean="Вампира Кольцо Порыв" />
+	<block key="AC0_0_2275_Name" korean="Вампира Кольцо Рембрандта" />
+	<block key="AC0_0_2276_Name" korean="Келл кольцо Ro" />
+	<block key="AC0_0_2277_Name" korean="Dragon напряжение" />
+	<block key="AC0_1_2272_Name" korean="Аура ahsyuram" />
+	<block key="AC0_1_2273_Name" korean="Ожерелье Мату kontin" />
+	<block key="AC0_0_2278_Name" korean="Воскресение Кольцо господина Geppetto" />
+	<block key="pvpAC0_1_2528_Name" korean="Ожерелье нижней Hunter" />
+	<block key="pvpAC0_0_2528_Name" korean="Кольцо нижней Hunter" />
+	<block key="pvpAC0_1_3033_Name" korean="Промежуточный Hunter Ожерелье" />
+	<block key="pvpAC0_0_3033_Name" korean="Промежуточное кольцо охотник" />
+	<block key="pvpAC0_1_3538_Name" korean="Старший охотник Ожерелье" />
+	<block key="pvpAC0_0_3538_Name" korean="Кольцо передовых охотника" />
+	<block key="pvpAC0_1_4043_Name" korean="Ожерелье из лучших охотников" />
+	<block key="pvpAC0_0_4043_Name" korean="Кольцо из лучших охотников" />
+	<block key="AC0_0_2279_Name" korean="Дебби хотел" />
+	<block key="AC0_0_2280_Name" korean="Гнев Деви" />
+	<block key="AC0_1_2274_Name" korean="Бочка висмута" />
+	<block key="AC0_1_2275_Name" korean="Кубок висмута" />
+	<block key="AC0_0_2290_Name" korean="Кольца висмута" />
+	<block key="AC0_0_30000_Name" korean="Сильный кольцо охранников" />
+	<block key="AC0_0_30001_Name" korean="Охрана Pacific Кольцо Мудрости" />
+	<block key="AC0_0_30002_Name" korean="Быстрый кольцо Гаррисона" />
+	<block key="AC0_0_30003_Name" korean="Сильный кольцо только ветер милиции" />
+	<block key="AC0_0_30004_Name" korean="Тихоокеанский Кольцо Мудрости ветра только милиции" />
+	<block key="AC0_0_30005_Name" korean="Быстрый кольцо только ветер милиции" />
+	<block key="AC0_0_30006_Name" korean="Прочная кольцо Croix kunjok" />
+	<block key="AC0_0_30007_Name" korean="Croix kunjok Pacific Кольцо Мудрости" />
+	<block key="AC0_0_30008_Name" korean="Быстрый кольцо Croix kunjok" />
+	<block key="AC0_0_30009_Name" korean="Сильный кольцо Pegasus рыцарей" />
+	<block key="AC0_0_30010_Name" korean="Pegasus Рыцари Pacific Кольцо Мудрости" />
+	<block key="AC0_0_30011_Name" korean="Быстрый кольцо Pegasus рыцарей" />
+	<block key="AC0_0_30012_Name" korean="Кольцо mureo mijok" />
+	<block key="AC0_0_30013_Name" korean="Кольцо Undead легиона" />
+	<block key="AC0_1_30001_Name" korean="Прочная ожерелье делегация" />
+	<block key="AC0_1_30002_Name" korean="Мудрость мудрого ожерелье делегации" />
+	<block key="AC0_1_30003_Name" korean="Быстрый делегация Ожерелье" />
+	<block key="AC0_1_30004_Name" korean="Сильный гарнизон Ожерелье" />
+	<block key="AC0_1_30005_Name" korean="Мудрость Мирный ожерелье гарнизона" />
+	<block key="AC0_1_30006_Name" korean="Быстрый Ожерелье гарнизон" />
+	<block key="AC0_1_30007_Name" korean="Только Сильный ветер ожерелье милиции" />
+	<block key="AC0_1_30008_Name" korean="Мудрость Мирный Ветер милиции Однако ожерелье" />
+	<block key="AC0_1_30009_Name" korean="Только быстро Ожерелье ветер милиция" />
+	<block key="AC0_1_30010_Name" korean="Прочная ожерелье Croix kunjok" />
+	<block key="AC0_1_30011_Name" korean="Мудрость мудрого ожерелье Круа kunjok" />
+	<block key="AC0_1_30012_Name" korean="Быстрый ожерелье Croix kunjok" />
+	<block key="AC0_1_30013_Name" korean="Надежные ожерелье Pegasus Рыцари" />
+	<block key="AC0_1_30014_Name" korean="Мудрость ожерелье Мирное Pegasus Knights" />
+	<block key="AC0_1_30015_Name" korean="Pegasus Рыцари быстро Ожерелье" />
+	<block key="AC0_1_30016_Name" korean="Ожерелье голубое небо" />
+	<block key="AC0_1_30017_Name" korean="Ожерелье из снега" />
+	<block key="AC0_1_30018_Name" korean="Ожерелье mureo mijok" />
+	<block key="AC0_1_30019_Name" korean="Мороз ожерелье корпус" />
+	<block key="AC0_1_30020_Name" korean="Ожерелье Бессмертный Легион" />
+	<block key="AC0_0_30014_Name" korean="Кольцо Кара Шах Я" />
+	<block key="AC0_0_30014_1_Name" korean="Кольцо Кара Шах II" />
+	<block key="AC0_1_30021_Name" korean="Кара ожерелье Шах" />
+	<block key="AC0_0_30015_Name" korean="Jeume дружба кольцо" />
+	<block key="AC0_1_30022_Name" korean="Jeume ожерелье дружба" />
+	<block key="AC0_1_30023_Name" korean="Кровавый череп ожерелье Зары Нинь" />
+	<block key="AC0_1_30024_Name" korean="Ожерелье правильный Слайго" />
+	<block key="AC0_0_30016_Name" korean="Кольца Ву Слайго" />
+	<block key="AC0_0_30017_Name" korean="Кольцо де Бальбоа" />
+	<block key="AC0_0_30018_Name" korean="Кольцо Рама обуви, чтобы" />
+	<block key="AC0_0_30019_Name" korean="Кольцо AVA" />
+	<block key="AC0_0_30020_Name" korean="Кольцо Бабы" />
+	<block key="AC0_0_30021_Name" korean="Кольцо syaba" />
+	<block key="pvpAC1_1_3148_Name" korean="Кровавый Джек Хантер Ожерелье" />
+	<block key="pvpAC1_0_3148_Name" korean="Джек Хантер: проклят кольцо" />
+	<block key="pvpAC1_1_3350_Name" korean="Клее кровавый ключевых ожерелье" />
+	<block key="pvpAC1_0_3350_Name" korean="Клее проклял кольцо ключей" />
+	<block key="pvpAC1_1_3552_Name" korean="Кровавый кошмар Ожерелье" />
+	<block key="pvpAC1_0_3552_Name" korean="Проклят Кольцо Кошмаров" />
+	<block key="pvpAC1_1_3855_Name" korean="Рууд пирог в кровавой ожерелье" />
+	<block key="pvpAC1_0_3855_Name" korean="Рууд пирог в проклятом кольце" />
+	<block key="pvpAC1_1_4259_Name" korean="Кровь ожерелье с Назарета" />
+	<block key="pvpAC1_0_4259_Name" korean="По проклятого кольца из Назарета" />
+	<block key="pvpAC1_1_4562_Name" korean="Анализы крови Меган Ожерелье" />
+	<block key="pvpAC1_0_4562_Name" korean="Меган проклял тест кольцо" />
+	<block key="pvpAC1_2_3148_Name" korean="Джек Хантер: Кольцо Тьмы" />
+	<block key="pvpAC1_2_3350_Name" korean="Клее темное кольцо ключей" />
+	<block key="pvpAC1_2_3552_Name" korean="Кольцо Тьмы Кошмар" />
+	<block key="pvpAC1_2_3855_Name" korean="Рууд пирог в темноте кольца" />
+	<block key="pvpAC1_2_4259_Name" korean="Кольцо тьмы Назарета" />
+	<block key="pvpAC1_2_4562_Name" korean="Меган темно-тест кольцо" />
+	<block key="AC0_0_30022_Name" korean="Исторический претендентом кольцо" />
+	<block key="AC0_0_30023_Name" korean="Сайты завоеватель кольцо" />
+	<block key="AC0_1_30025_Name" korean="Lords сайты ожерелье" />
+	<block key="AC0_0_30024_Name" korean="Chateau претендентом кольцо" />
+	<block key="AC0_0_30025_Name" korean="Замок завоеватель кольцо" />
+	<block key="AC0_1_30026_Name" korean="Владельцы замков ожерелье" />
+	<block key="AC0_0_30026_Name" korean="Руины претендента кольцо" />
+	<block key="AC0_0_30027_Name" korean="Руины завоевателя кольцо" />
+	<block key="AC0_1_30027_Name" korean="Руины линейки ожерелье" />
+	<block key="AC0_0_30028_Name" korean="Привод на Brage (скорость движения 50)" />
+	<block key="AC0_0_30029_Name" korean="Привод на Brage (скорость движения 100)" />
+	<block key="AC0_0_30030_Name" korean="Привод на Brage (скорость движения 200)" />
+	<block key="AC0_0_30031_Name" korean="Гнев Brage (АТК)" />
+	<block key="AC0_0_30032_Name" korean="Мощность Brage (скорость движения / атаки)" />
+	<block key="AC0_0_2098_Name" korean="Канаш кольцо и статьи" />
+	<block key="AC0_1_2098_Name" korean="Ожерелье и статьи Канаш" />
+	<block key="AC0_0_2099_Name" korean="Кольцо Мудреца и Канас" />
+	<block key="AC0_1_2099_Name" korean="Колье и Канаш Sage" />
+	<block key="AC0_1_30028_Name" korean="Ожерелье жестокая судьба" />
+	<block key="AC0_0_30033_Name" korean="Черный кольцо жестокой судьбы" />
+	<block key="AC0_0_30034_Name" korean="Синий кольцо жестокой судьбы" />
+	<block key="AC0_0_83502_Name" korean="Сияющий сложный аметист кольцо" />
+	<block key="AC0_1_83501_Name" korean="Сияющий сложный ожерелье аметист" />
+	<block key="AC0_0_84002_Name" korean="Сияющий кольцо с сапфиром" />
+	<block key="AC0_1_84001_Name" korean="Блестящий ожерелье сапфира" />
+	<block key="AC0_1_90028_Name" korean="Ожерелье Пардо и ветераны" />
+	<block key="AC0_0_90033_Name" korean="Пардо и могучий черное кольцо" />
+	<block key="AC0_0_90034_Name" korean="Синий кольцо Пардо и ветеранов" />
+	<block key="AC0_0_33801_Name" korean="Yata кольцо из двадцати" />
+	<block key="AC0_0_33802_Name" korean="Кольцо Рейн Noir" />
+	<block key="AC0_1_33801_Name" korean="Ожерелье Колосс" />
+	<block key="BX_AC0_0_23501_Name" korean="Старый кольцо полумесяца верхней" />
+	<block key="BX_AC0_1_30019_Name" korean="Старый полумесяц ожерелье топ" />
+	<block key="BX_AC0_0_33501_Name" korean="Кольцо полумесяца верхней" />
+	<block key="BX_AC0_1_33001_Name" korean="Ожерелье полумесяц сверху" />
+	<block key="BX_AC0_0_30013_Name" korean="Улучшенная кольцо полумесяца сверху" />
+	<block key="BX_AC0_1_30020_Name" korean="Улучшенная ожерелье полумесяц сверху" />
+	<block key="BX_AC0_0_24001_Name" korean="Светящиеся кольцо полумесяца верхней" />
+	<block key="BX_AC0_1_23501_Name" korean="Блестящий ожерелье полумесяц сверху" />
+	<block key="AC0_0_90101_Name" korean="Дружба кольцо, которое я" />
+	<block key="AC0_0_90102_Name" korean="Дружба Кольца II" />
+	<block key="AC0_1_24001_qu_Name" korean="Колье и Канаш герой" />
+	<block key="EV_AC0_0_33801_Name" korean="Кольцо королевской протектор" />
+	<block key="AC0_0_1000_EV_Name" korean="Кролик Кролик Кольцо рыба, которую я" />
+	<block key="AC0_0_1000_EV_Description" korean="\u003cR_Y\u003e Кролик Кролик кольцо, которое я Рыб можно носить в течение одного часа, а затем автоматически исчезает.\nКролик Кролик Кольцо рыбы на этот раз с того момента я шел в мешок во времени. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1000_EV_Name" korean="Рыба Кролик Кролик ожерелье я" />
+	<block key="AC0_1_1000_EV_Description" korean="\u003cR_Y\u003e Кролик Кролик ожерелье я рыбы можно носить в течение одного часа, а затем автоматически исчезает.\nКролик Кролик ожерелье рыбы на этот раз с того момента я входил сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1001_EV_Name" korean="Кролик Кролик Кольцо рыбы II" />
+	<block key="AC0_0_1001_EV_Description" korean="\u003cR_Y\u003e Кролик Кролик кольцо II рыбы можно носить в течение 3 часов, а затем автоматически исчезает.\nКролик Банни кольцо II На этот раз с того момента, рыба предстоящем в сумке потребляется. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1001_EV_Name" korean="Кролик Кролик ожерелье Рыба II" />
+	<block key="AC0_1_1001_EV_Description" korean="\u003cR_Y\u003e Кролик Кролик ожерелье II рыбы можно носить в течение 3 часов, а затем автоматически исчезает.\nБарни Рыба Кролик ожерелье II, на этот раз идет с момента мешок потребляется. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1002_EV_Name" korean="Кролик Кролик Кольцо рыбы III" />
+	<block key="AC0_0_1002_EV_Description" korean="\u003cR_Y\u003e Кролик Кролик кольцо III рыбы можно носить в течение пяти часов, а затем автоматически исчезает.\nКролик Кролик Кольцо рыбы III является время с момента входящие пакеты во времени. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1002_EV_Name" korean="Кролик Кролик ожерелье Рыба III" />
+	<block key="AC0_1_1002_EV_Description" korean="\u003cR_Y\u003e Кролик Кролик ожерелье III рыбы можно носить в течение пяти часов, а затем автоматически исчезает.\nКролик Кролик ожерелье рыбного III идет во времени от момента мешок потребляется. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1003_EV_Name" korean="Кролик Кролик Кольцо рыбы IV" />
+	<block key="AC0_0_1003_EV_Description" korean="\u003cR_Y\u003e Кролик Кролик Кольцо IV из рыбы можно носить в течение 7 часов, а затем автоматически исчезает.\nКролик Банни кольцо IV рыбы, поступающей в сумку на этот раз с момента потребителей. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1003_EV_Name" korean="Кролик Кролик ожерелье Рыба IV" />
+	<block key="AC0_1_1003_EV_Description" korean="\u003cR_Y\u003e Кролик Кролик ожерелье IV из рыбы можно носить в течение 7 часов, а затем автоматически исчезает.\nКролик Кролик ожерелье рыбного IV приходит на этот раз с того момента, мешок потребляется. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1004_EV_Name" korean="Кролик Кролик Кольцо рыбы V" />
+	<block key="AC0_0_1004_EV_Description" korean="\u003cR_Y\u003e Кролик Кролик Кольцо V рыбы можно носить в течение 10 часов, а затем автоматически исчезает.\nКролик Банни кольцо V рыбы, поступающей в сумку на этот раз с момента потребителей. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1004_EV_Name" korean="Рыба Кролик Кролик ожерелье V" />
+	<block key="AC0_1_1004_EV_Description" korean="\u003cR_Y\u003e Кролик Кролик ожерелье V рыбы можно носить в течение 10 часов, а затем автоматически исчезает.\nКролик Кролик ожерелье V рыбы, поступающей в сумку на этот раз с момента потребителей. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_83512_Name" korean="Сияющий сложный аметист кольцо" />
+	<block key="AC0_1_83511_Name" korean="Сияющий сложный ожерелье аметист" />
+	<block key="AC0_0_1143_Name" korean="Позвоните, чтобы защитить Каньяс" />
+	<block key="AC0_0_30032_TE_01_Name" korean="Мощность Brage (крит / город)" />
+	<block key="AC0_0_30032_TE_02_Name" korean="Мощность Brage (литье скорости)" />
+	<block key="AC0_1_22501_qu_Name" korean="Ожерелье царства статьи" />
+	<block key="AC0_1_90128_Name" korean="Ожерелье воздушное пространство Гардиан" />
+	<block key="AC0_0_90133_Name" korean="Черный кольцо воздушного пространства Гардиан" />
+	<block key="AC0_0_90134_Name" korean="Синий кольцо воздушного пространства Гардиан" />
+	<block key="BX_AC1_1_90000_Name" korean="Боевой дух ожерелье воздушное пространство" />
+	<block key="BX_AC0_1_90040_Name" korean="Боевой дух кольцо воздушного пространства" />
+	<block key="BX_AC0_1_90041_Name" korean="Определение сопряженного кольца" />
+	<block key="AC0_1_23502_Name" korean="Ожерелье блестящей лидера" />
+	<block key="AC0_0_24002_Name" korean="Я звоню блестящий лидер" />
+	<block key="AC0_0_24003_Name" korean="Кольцо блестящей лидера II" />
+	<block key="AC0_1_45001_Name" korean="Прочная Ожерелье знаю GÖCEK Guard" />
+	<block key="AC0_1_45002_Name" korean="Мудрый ожерелье Guard Gocek знаю" />
+	<block key="AC0_0_45001_Name" korean="Аль Gocek жестким защитным кольцом" />
+	<block key="AC0_0_45002_Name" korean="Охрана кольцо Гечек мудрый знать" />
+	<block key="AC0_1_45003_Name" korean="Ожерелье мать Haba yongbyeongdan" />
+	<block key="AC0_0_45003_Name" korean="Кольцо матери Haba yongbyeongdan" />
+	<block key="AC0_1_45004_Name" korean="Лим ожерелье Кобб Церковь" />
+	<block key="AC0_0_45004_Name" korean="Кольцо Кобб Im деноминации" />
+	<block key="AC0_1_50001_Name" korean="Прочная Ожерелье Отшельник" />
+	<block key="AC0_1_50002_Name" korean="Мудрость мудрого ожерелье отшельника" />
+	<block key="AC0_0_50001_Name" korean="Сильный кольцо отшельника" />
+	<block key="AC0_0_50002_Name" korean="Мудрость мудрого отшельника кольца" />
+	<block key="AC0_1_50003_Name" korean="Ожерелье пустыня Brage" />
+	<block key="AC0_0_50003_Name" korean="Кольцо пустыни Brage" />
+	<block key="AC0_1_50004_Name" korean="Ожерелье Тьмы бригадного генерала" />
+	<block key="AC0_0_50004_Name" korean="Кольцо Тьмы бригадного генерала" />
+	<block key="pvpAC0_1_4564_Name" korean="Ожерелье Малый Slayer" />
+	<block key="pvpAC0_0_4564_Name" korean="Кольцо Малой Slayer I" />
+	<block key="pvpAC0_2_4564_Name" korean="Кольцо Малой Slayer II" />
+	<block key="pvpAC0_1_5069_Name" korean="Промежуточный ожерелье Slayer" />
+	<block key="pvpAC0_0_5069_Name" korean="Промежуточное кольцо Slayer Я" />
+	<block key="pvpAC0_2_5069_Name" korean="Промежуточное кольцо Slayer II" />
+	<block key="AC0_1_45004_CR_Name" korean="Сияющий Изумрудное ожерелье" />
+	<block key="AC0_0_45004_CR_Name" korean="Сияющий изумруд кольцо" />
+	<block key="AC0_1_50004_CR_Name" korean="Сияющий сложный изумрудное ожерелье" />
+	<block key="AC0_0_50004_CR_Name" korean="Сияющий сложный Изумрудное кольцо" />
+	<block key="AC0_1_45005_Name" korean="Ожерелье выплавки в" />
+	<block key="AC0_0_50011_Name" korean="Жесткая кольцо выплавки в" />
+	<block key="AC0_0_50012_Name" korean="Мудрый кольцо выплавки в" />
+	<block key="AC0_1_45006_Name" korean="Ожерелье торговца" />
+	<block key="AC0_0_50013_Name" korean="Сильный кольцо торговцев" />
+	<block key="AC0_0_50014_Name" korean="Мудрость мудрого торгового кольца" />
+	<block key="AC0_1_45007_Name" korean="Ожерелье тренер" />
+	<block key="AC0_0_50015_Name" korean="Прочная кольцо тренер" />
+	<block key="AC0_0_50016_Name" korean="Тренер Pacific Кольцо Мудрости" />
+	<block key="AC0_1_45008_Name" korean="Кузнец Ожерелье" />
+	<block key="AC0_0_50017_Name" korean="Сильный кольцо кузнеца" />
+	<block key="AC0_0_50018_Name" korean="Кузнец Pacific Кольцо Мудрости" />
+	<block key="AC0_1_45300_Name" korean="Ожерелье Раджа агент" />
+	<block key="AC0_0_45300_Name" korean="Кольцо Раджа немного, я" />
+	<block key="AC0_0_45301_Name" korean="Раджа годичных колец деревьев II" />
+	<block key="AC0_1_45310_Name" korean="Касим Ожерелье" />
+	<block key="AC0_0_45310_Name" korean="Касим кольцо I" />
+	<block key="AC0_0_45311_Name" korean="Касим II колец" />
+	<block key="AC0_1_45320_Name" korean="Ксеноновые Ожерелье" />
+	<block key="AC0_0_45320_Name" korean="Зенон колец I" />
+	<block key="AC0_0_45321_Name" korean="Кольцо ксенона II" />
+	<block key="AC0_1_45330_Name" korean="Номера Падин Ожерелье" />
+	<block key="AC0_0_45330_Name" korean="Номера Падин кольцо I" />
+	<block key="AC0_0_45331_Name" korean="Кольцо не-Падин II" />
+	<block key="AC0_1_45400_Name" korean="Древний Ожерелье" />
+	<block key="AC0_0_45400_Name" korean="Древний Кольца я" />
+	<block key="AC0_0_45401_Name" korean="Древний Кольца II" />
+	<block key="AC0_0_45500_Name" korean="Яд Сопротивление Кольцо Пек Ventura" />
+	<block key="AC0_0_1000_EV2_Name" korean="Кролик Кролик Кольцо рыба, которую я" />
+	<block key="AC0_0_1000_EV2_Description" korean="\u003cR_Y\u003e Кролик Кролик кольцо, которое я Рыб можно носить в течение одного часа, а затем автоматически исчезает.\nКролик Кролик Кольцо рыбы на этот раз с того момента я шел в мешок во времени. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1000_EV2_Name" korean="Рыба Кролик Кролик ожерелье я" />
+	<block key="AC0_1_1000_EV2_Description" korean="\u003cR_Y\u003e Кролик Кролик ожерелье я рыбы можно носить в течение одного часа, а затем автоматически исчезает.\nКролик Кролик ожерелье рыбы на этот раз с того момента я входил сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1001_EV2_Name" korean="Кролик Кролик Кольцо рыбы II" />
+	<block key="AC0_0_1001_EV2_Description" korean="\u003cR_Y\u003e Кролик Кролик кольцо II рыбы можно носить в течение 3 часов, а затем автоматически исчезает.\nКролик Банни кольцо II На этот раз с того момента, рыба предстоящем в сумке потребляется. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1001_EV2_Name" korean="Кролик Кролик ожерелье Рыба II" />
+	<block key="AC0_1_1001_EV2_Description" korean="\u003cR_Y\u003e Кролик Кролик ожерелье II рыбы можно носить в течение 3 часов, а затем автоматически исчезает.\nБарни Рыба Кролик ожерелье II, на этот раз идет с момента мешок потребляется. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1002_EV2_Name" korean="Кролик Кролик Кольцо рыбы III" />
+	<block key="AC0_0_1002_EV2_Description" korean="\u003cR_Y\u003e Кролик Кролик кольцо III рыбы можно носить в течение пяти часов, а затем автоматически исчезает.\nКролик Кролик Кольцо рыбы III является время с момента входящие пакеты во времени. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1002_EV2_Name" korean="Кролик Кролик ожерелье Рыба III" />
+	<block key="AC0_1_1002_EV2_Description" korean="\u003cR_Y\u003e Кролик Кролик ожерелье III рыбы можно носить в течение пяти часов, а затем автоматически исчезает.\nКролик Кролик ожерелье рыбного III идет во времени от момента мешок потребляется. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1003_EV2_Name" korean="Кролик Кролик Кольцо рыбы IV" />
+	<block key="AC0_0_1003_EV2_Description" korean="\u003cR_Y\u003e Кролик Кролик Кольцо IV из рыбы можно носить в течение 7 часов, а затем автоматически исчезает.\nКролик Банни кольцо IV рыбы, поступающей в сумку на этот раз с момента потребителей. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1003_EV2_Name" korean="Кролик Кролик ожерелье Рыба IV" />
+	<block key="AC0_1_1003_EV2_Description" korean="\u003cR_Y\u003e Кролик Кролик ожерелье IV из рыбы можно носить в течение 7 часов, а затем автоматически исчезает.\nКролик Кролик ожерелье рыбного IV приходит на этот раз с того момента, мешок потребляется. \u003c/ R_Y\u003e" />
+	<block key="AC0_0_1004_EV2_Name" korean="Кролик Кролик Кольцо рыбы V" />
+	<block key="AC0_0_1004_EV2_Description" korean="\u003cR_Y\u003e Кролик Кролик Кольцо V рыбы можно носить в течение 10 часов, а затем автоматически исчезает.\nКролик Банни кольцо V рыбы, поступающей в сумку на этот раз с момента потребителей. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_1004_EV2_Name" korean="Рыба Кролик Кролик ожерелье V" />
+	<block key="AC0_1_1004_EV2_Description" korean="\u003cR_Y\u003e Кролик Кролик ожерелье V рыбы можно носить в течение 10 часов, а затем автоматически исчезает.\nКролик Кролик ожерелье V рыбы, поступающей в сумку на этот раз с момента потребителей. \u003c/ R_Y\u003e" />
+	<block key="AC0_1_45600_Name" korean="Ожерелье пустынных воинов" />
+	<block key="AC0_0_45600_Name" korean="Пустыня воин кольцо I" />
+	<block key="AC0_0_45601_Name" korean="Кольцо пустыни воина II" />
+	<block key="AC0_1_XMAS_Name" korean="Ожерелье Рождество" />
+	<block key="AC0_0_XMAS1_Name" korean="Кольцо Рождество я" />
+	<block key="AC0_0_XMAS2_Name" korean="Кольцо Рождество II" />
+</blocks>

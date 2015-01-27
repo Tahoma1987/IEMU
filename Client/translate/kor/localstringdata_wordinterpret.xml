@@ -1,0 +1,1184 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="SecDamage" korean="초당 데미지" />
+	<block key="CriticalRate" korean="치명타율" />
+	<block key="CombinePower" korean="결속 파워" />
+	<block key="Casting" korean="캐스팅" />
+	<block key="Activity" korean="발동" />
+	<block key="InvCastingTarget" korean="역캐스팅_타겟" />
+	<block key="CoolTime" korean="재사용" />
+	<block key="CannotTrade" korean="거래 불가" />
+	<block key="CannotDestroy" korean="파괴 불가" />
+	<block key="CanTrade" korean="거래 가능" />
+	<block key="BelongingGet" korean="획득시 귀속" />
+	<block key="BelongingEquip" korean="착용시 귀속" />
+	<block key="CannotPerTrade" korean="개인 거래 불가" />
+	<block key="CannotShopTrade" korean="상점 판매 불가" />
+	<block key="LimitEquip" korean="착용 제한" />
+	<block key="Upper" korean="이상" />
+	<block key="AttackAttr" korean="공격 속성" />
+	<block key="AttackAttrNone" korean="무속성" />
+	<block key="Phy" korean="물리" />
+	<block key="Fire" korean="화염" />
+	<block key="Ice" korean="냉기" />
+	<block key="Light" korean="빛" />
+	<block key="Dark" korean="어둠" />
+	<block key="OneHandSword" korean="한손검" />
+	<block key="TwoHandSword" korean="양손검" />
+	<block key="OneHandHammer" korean="한손둔기" />
+	<block key="TwoHandHammer" korean="양손둔기" />
+	<block key="OneHandDagger" korean="단검" />
+	<block key="TwoHandGun" korean="라이플" />
+	<block key="OneHandMagicStaff" korean="한손 지팡이" />
+	<block key="TwoHandMagicStaff" korean="양손 지팡이" />
+	<block key="twohandbow" korean="활" />
+	<block key="DuelGun" korean="발사 쌍수 무기" />
+	<block key="EquipPos" korean="착용 위치" />
+	<block key="Jacket" korean="상의" />
+	<block key="Pants" korean="하의" />
+	<block key="Gloves" korean="장갑" />
+	<block key="boots" korean="신발" />
+	<block key="hat" korean="투구" />
+	<block key="Shoulder" korean="어깨 보호구" />
+	<block key="shield" korean="방패" />
+	<block key="artifact" korean="아티팩트" />
+	<block key="Gauntlet" korean="투갑" />
+	<block key="SubItem" korean="보조 아이템" />
+	<block key="Ring" korean="반지" />
+	<block key="Necklace" korean="목걸이" />
+	<block key="RequireStr" korean="필요 힘" />
+	<block key="RequireDex" korean="필요 민첩" />
+	<block key="RequireInt" korean="필요 지능" />
+	<block key="RequireVit" korean="필요 HP" />
+	<block key="RequireSpr" korean="필요 MP" />
+	<block key="Job" korean="직업" />
+	<block key="Warrior" korean="버서커" />
+	<block key="Guardian" korean="가디언" />
+	<block key="Priest" korean="프리스트" />
+	<block key="Wizard" korean="위저드" />
+	<block key="Archer" korean="레인저" />
+	<block key="Thief" korean="어쌔신" />
+	<block key="AttackSpeed" korean="공격속도" />
+	<block key="Damage" korean="피해" />
+	<block key="Durability" korean="내구도" />
+	<block key="Maker" korean="제작자" />
+	<block key="EMPowerLevel" korean="강화 단계" />
+	<block key="sellprice" korean="판매가" />
+	<block key="buyprice" korean="구매가" />
+	<block key="CreatureCanLink" korean="링크 가능한 펠로우" />
+	<block key="CreatureCanEquip" korean="장착 가능한 펠로우" />
+	<block key="CreatedChar" korean="생성캐릭터" />
+	<block key="Warning" korean="알림" />
+	<block key="Personal" korean="개인" />
+	<block key="Free" korean="자유" />
+	<block key="Summon" korean="소환 하기" />
+	<block key="Return" korean="귀환 하기" />
+	<block key="Incubator" korean="부화기" />
+	<block key="Error" korean="에러" />
+	<block key="Notice" korean="[공지 ]" />
+	<block key="complete" korean="완료" />
+	<block key="STP_TRAIT" korean="자유" />
+	<block key="STP_TECH" korean="소환 하기" />
+	<block key="STC_GENE" korean="귀환 하기" />
+	<block key="STC_SWAP" korean="부화기" />
+	<block key="STC_LEARN" korean="에러" />
+	<block key="STC_CREATE" korean="[공지 ]" />
+	<block key="STC_POTEN" korean="완료" />
+	<block key="STC_CHANGE" korean="완료" />
+	<block key="STN_LEARN" korean="완료" />
+	<block key="SCT_NONE" korean="생성" />
+	<block key="SCT_FORWARD" korean="잠재" />
+	<block key="SCT_BACKWARD1" korean="교체" />
+	<block key="SCT_BACKWARD2" korean="SKILL (LEARN)" />
+	<block key="SCT_DIRECT" korean="NONE" />
+	<block key="STT_NONE" korean="정방향 캐스팅" />
+	<block key="STT_SELF" korean="역방향 캐스팅1" />
+	<block key="STT_GROUND" korean="역방향 캐스팅2" />
+	<block key="STT_FRIENDLY" korean="즉시발동" />
+	<block key="STT_ENEMY" korean="NONE (적용대상이 없는 경우)" />
+	<block key="STT_FAMILY" korean="SELF (적용대상이 자기 자신인 경우)" />
+	<block key="STT_OWNER" korean="GROUND (적용대상이 지형인 경우)" />
+	<block key="STT_MYCREATURE" korean="FRIENDLY (적용대상이 아군(성향)인 경우)" />
+	<block key="CFS_NONE" korean="ENEMY (적용대상이 적군(성향)인 경우)" />
+	<block key="CFS_NEUTRAL" korean="FAMILY (적용대상이 포커스들(MyPlayer+MyCreature)인 경우)" />
+	<block key="CFS_FURY" korean="OWNER (적용대상이 네드인(MyPlayer)인 경우)" />
+	<block key="CFS_MORALE" korean="MYCREATURE (적용대상이 자신의 크리처들(MyCreature)인 경우)" />
+	<block key="CFS_BRAVE" korean="NONE (아무 감정상태도 아님)" />
+	<block key="CFS_FURY_EX" korean="NEUTRAL (일반 상태)" />
+	<block key="CFS_MORALE_EX" korean="FURY (분노 상태)" />
+	<block key="CFS_BRAVE_EX" korean="MORALE (사기 상태)" />
+	<block key="SET_NONE" korean="BRAVE (용기 상태)" />
+	<block key="SET_PHYSIC" korean="FURY_EX (분노폭발 상태)" />
+	<block key="SET_MAGIC" korean="스킬 레벨" />
+	<block key="SET_MIND" korean="스킬 레벨" />
+	<block key="STS_DEATH" korean="스킬 레벨" />
+	<block key="STS_ALIVE" korean="스킬 레벨" />
+	<block key="STS_ALL" korean="스킬 레벨" />
+	<block key="SkillLevel" korean="스킬 레벨" />
+	<block key="UseMP" korean="소비 MP" />
+	<block key="Attribute" korean="속성" />
+	<block key="active" korean="액티브" />
+	<block key="Passive" korean="패시브" />
+	<block key="CastTime" korean="시전 시간" />
+	<block key="Second" korean="초" />
+	<block key="Backward" korean="시전시 발동" />
+	<block key="CastDirect" korean="즉시시전" />
+	<block key="StandByCoolTime" korean="재사용 대기 시간" />
+	<block key="SkillEffect" korean="스킬 효과" />
+	<block key="RequireWeapon" korean="필요 무기" />
+	<block key="RequireHP" korean="소모 HP" />
+	<block key="RequireLevel" korean="사용 레벨" />
+	<block key="equiplevel" korean="착용 레벨" />
+	<block key="RequrePoint" korean="필요 스킬 누적 포인트" />
+	<block key="NextLevel" korean="다음 레벨" />
+	<block key="Form" korean="체형" />
+	<block key="Hair" korean="머리" />
+	<block key="Face" korean="얼굴" />
+	<block key="Channel" korean="채널" />
+	<block key="Closed" korean="포화" />
+	<block key="Normal" korean="일반" />
+	<block key="Recommend" korean="쾌적" />
+	<block key="Crowded" korean="혼잡" />
+	<block key="PossessCreature" korean="소유 펠로우" />
+	<block key="Nedian" korean="네드인" />
+	<block key="CreateDialog" korean="대화창 생성" />
+	<block key="DeleteDialog" korean="대화창 삭제" />
+	<block key="SetChannel" korean="표시 채널 설정" />
+	<block key="ChatNormal" korean="일 반" />
+	<block key="ChatParty" korean="파 티" />
+	<block key="ChatGuild" korean="길 드" />
+	<block key="ChatWhisper" korean="귓속말" />
+	<block key="ChatPublic" korean="공 개" />
+	<block key="ChatTrade" korean="거 래" />
+	<block key="ChatSystem" korean="시스템" />
+	<block key="Gold" korean="골드" />
+	<block key="Silver" korean="실버" />
+	<block key="Copper" korean="쿠퍼" />
+	<block key="Trade" korean="거래" />
+	<block key="PartyInvite" korean="파티초대" />
+	<block key="Duel" korean="결투하기" />
+	<block key="Match" korean="교배하기" />
+	<block key="PartyExpel" korean="파티원 내보내기" />
+	<block key="PartyCommission" korean="파티장 위임" />
+	<block key="PartyLeave" korean="파티에서 나가기" />
+	<block key="PartyQuestShare" korean="퀘스트 공유하기" />
+	<block key="PartyInvite_NoSpace" korean="파티초대" />
+	<block key="PartyLeave_NoSpace" korean="파티탈퇴" />
+	<block key="GetItemRule" korean="아이템 획득 방식" />
+	<block key="GetItemGrade" korean="아이템 획득 적용 등급" />
+	<block key="SetLeaderCreature" korean="리더 펠로우로 설정" />
+	<block key="DuelFree" korean="자유 결투" />
+	<block key="DuelNormal" korean="정식 결투" />
+	<block key="GetItemRuleFree" korean="자유 획득" />
+	<block key="GetItemRuleOrder" korean="순서 획득" />
+	<block key="GetItemRuleLooter" korean="담당 획득" />
+	<block key="GetItemRuleNoLimit" korean="제한 없음" />
+	<block key="GetItemRuleNormal" korean="일반" />
+	<block key="GetItemRuleRare" korean="정예" />
+	<block key="GetItemRuleHero" korean="영웅" />
+	<block key="GetItemRuleLegend" korean="전설" />
+	<block key="NGT_MERCHANT" korean="상인" />
+	<block key="NGT_GENERAL" korean="일반몹" />
+	<block key="NGT_BOSS" korean="보스" />
+	<block key="NGT_RAID" korean="레이드" />
+	<block key="NGT_SUMMON" korean="소환수" />
+	<block key="NGT_MINE" korean="지뢰" />
+	<block key="NGT_GENERALNPC" korean="일반 NPC" />
+	<block key="Minute" korean="분" />
+	<block key="Male" korean="남자" />
+	<block key="Female" korean="여자" />
+	<block key="Weapon" korean="장비(무기)" />
+	<block key="Armor" korean="장비(방어구)" />
+	<block key="Sub" korean="장비(보조)" />
+	<block key="Accessory" korean="장비(장신구)" />
+	<block key="Quest" korean="퀘스트" />
+	<block key="Exchange" korean="잡화" />
+	<block key="consume" korean="소모 아이템" />
+	<block key="enchantstone" korean="영혼석" />
+	<block key="materialitem" korean="제작재료" />
+	<block key="skillbook" korean="스킬북" />
+	<block key="monstersheet" korean="도감" />
+	<block key="dyeingitem" korean="염색약" />
+	<block key="Bag" korean="가방" />
+	<block key="box" korean="선물상자" />
+	<block key="Creature" korean="펠로우" />
+	<block key="Money" korean="돈" />
+	<block key="Level" korean="레벨" />
+	<block key="Class" korean="클래스" />
+	<block key="Faction" korean="성향" />
+	<block key="MyState" korean="내상태" />
+	<block key="Battle" korean="전투" />
+	<block key="General" korean="일반" />
+	<block key="TargetState" korean="타겟상태" />
+	<block key="Standard" korean="수준" />
+	<block key="Elite" korean="정예" />
+	<block key="NormalAttack" korean="일반공격" />
+	<block key="QuestRequest" korean="의뢰 내용" />
+	<block key="QuestCoMPlete" korean="결과 보고" />
+	<block key="QuestText" korean="내용" />
+	<block key="Reward" korean="보상" />
+	<block key="RewardMoney" korean="보상금" />
+	<block key="RewardSkillSelect" korean="보상 스킬(선택)" />
+	<block key="RewardSkillNormal" korean="보상 스킬(기본)" />
+	<block key="RewardItemSelect" korean="보상 아이템(선택)" />
+	<block key="RewardItemNormal" korean="보상 아이템(기본)" />
+	<block key="SelectCreature" korean="펠로우 선택" />
+	<block key="QuestList" korean="퀘스트 목록" />
+	<block key="BTAccept" korean="수 락" />
+	<block key="BTConfirm" korean="확 인" />
+	<block key="BTCoMPlete" korean="완 료" />
+	<block key="SkillTreeWarrior1" korean="일 격" />
+	<block key="SkillTreeWarrior2" korean="제 압" />
+	<block key="SkillTreeWarrior3" korean="방 어" />
+	<block key="SkillTreePriest1" korean="지 원" />
+	<block key="SkillTreePriest2" korean="회 복" />
+	<block key="SkillTreePriest3" korean="정 신" />
+	<block key="SkillTreeWizard1" korean="화 염" />
+	<block key="SkillTreeWizard2" korean="얼 음" />
+	<block key="SkillTreeWizard3" korean="전 기" />
+	<block key="SkillTreeNature1" korean="사 격" />
+	<block key="SkillTreeNature2" korean="지 원" />
+	<block key="SkillTreeNature3" korean="저 주" />
+	<block key="SkillTreeThief1" korean="기 습" />
+	<block key="SkillTreeThief2" korean="보 복" />
+	<block key="SkillTreeThief3" korean="생 존" />
+	<block key="ViewEntire" korean="전체 보기" />
+	<block key="CurPos" korean="현재 위치" />
+	<block key="EntireMap" korean="전체 지도" />
+	<block key="Sundries" korean="잡화" />
+	<block key="Repair" korean="장비수리" />
+	<block key="ResurrectPoint" korean="부활 위치" />
+	<block key="Hydrate" korean="수화물" />
+	<block key="Except" korean="외" />
+	<block key="Persons" korean="명" />
+	<block key="AttributeAttack" korean="속성공격" />
+	<block key="Cost" korean="비용" />
+	<block key="failure" korean="실패" />
+	<block key="Target" korean="대상" />
+	<block key="deathblow" korean="치명타" />
+	<block key="maximize" korean="치명타" />
+	<block key="avoid" korean="회피" />
+	<block key="miss" korean="빗맞음" />
+	<block key="defense" korean="방어" />
+	<block key="tradeinvite_nospace" korean="거래" />
+	<block key="duelinvite_nospace" korean="결투" />
+	<block key="friendinvite_nospace" korean="친구초대" />
+	<block key="targetme" korean="자신" />
+	<block key="targetcoMPany" korean="아군" />
+	<block key="targetparty" korean="파티" />
+	<block key="targetenemy" korean="적" />
+	<block key="targetground" korean="땅" />
+	<block key="targetnone" korean="논타겟" />
+	<block key="attackpow" korean="공격력" />
+	<block key="subattackpow" korean="보조공격력" />
+	<block key="attackrate" korean="공격률" />
+	<block key="defensepow" korean="방어도" />
+	<block key="defenserate" korean="물리 방어력" />
+	<block key="gaugerate" korean="게이지" />
+	<block key="neutral" korean="중립" />
+	<block key="elgenus" korean="El Genus" />
+	<block key="purengere" korean="Purengere" />
+	<block key="develier" korean="Develier" />
+	<block key="player3" korean="제3세력" />
+	<block key="fnpc" korean="우호NPC" />
+	<block key="enpc" korean="적NPC" />
+	<block key="enpc_beast" korean="적NPC 육식형" />
+	<block key="enpc_animal" korean="적NPC 초식형" />
+	<block key="none" korean="무성향" />
+	<block key="hour" korean="시간" />
+	<block key="day" korean="일" />
+	<block key="HP" korean="생명력" />
+	<block key="MP" korean="마나" />
+	<block key="wpphattpow" korean="물리 공격력" />
+	<block key="spphattpow" korean="마법 공격력" />
+	<block key="fireattpow" korean="화염 공격력" />
+	<block key="iceattpow" korean="냉기 공격력" />
+	<block key="lightattpow" korean="빛 공격력" />
+	<block key="darkattpow" korean="어둠 공격력" />
+	<block key="wpphdefpow" korean="방어력" />
+	<block key="spphdefpow" korean="마법 방어도" />
+	<block key="firedefpow" korean="화염 방어도" />
+	<block key="icedefpow" korean="냉기 방어도" />
+	<block key="lightdefpow" korean="빛 방어도" />
+	<block key="darkdefpow" korean="어둠 방어도" />
+	<block key="wpphdefrate" korean="방어력" />
+	<block key="wpfiredefrate" korean="화염 방어력" />
+	<block key="wpicedefrate" korean="냉기 방어력" />
+	<block key="wplightdefrate" korean="빛 방어력" />
+	<block key="wpdarkdefrate" korean="어둠 방어력" />
+	<block key="spphdefrate" korean="마법 방어력" />
+	<block key="spfiredefrate" korean="화염 방어력" />
+	<block key="spicedefrate" korean="냉기 방어력" />
+	<block key="splightdefrate" korean="빛 방어력" />
+	<block key="spdarkdefrate" korean="어둠 방어력" />
+	<block key="wpphavdrate" korean="회피율" />
+	<block key="spphavdrate" korean="마법회피율" />
+	<block key="fireavdrate" korean="화염 회피율" />
+	<block key="iceavdrate" korean="냉기 회피율" />
+	<block key="lightavdrate" korean="빛 회피율" />
+	<block key="darkavdrate" korean="어둠 회피율" />
+	<block key="wphitrate" korean="명중률" />
+	<block key="subwphitrate" korean="보조명중률" />
+	<block key="sphitrate" korean="마법 명중률" />
+	<block key="pkattpowmult" korean="대인 공격력" />
+	<block key="pkdefpowmult" korean="대인 방어력" />
+	<block key="pkbodyregistrateplus" korean="대인 저항력" />
+	<block key="wpgaugeattpow" korean="무기게이지공격력" />
+	<block key="firegaugedefpow" korean="화염 게이지방어도" />
+	<block key="icegaugedefpow" korean="냉기 게이지방어도" />
+	<block key="lightgaugedefpow" korean="빛 게이지방어도" />
+	<block key="darkgaugedefpow" korean="어둠 게이지방어도" />
+	<block key="wpcrirate" korean="물리 치명타율" />
+	<block key="subwpcrirate" korean="보조치명타율" />
+	<block key="spcrirate" korean="마법 치명타율" />
+	<block key="Str" korean="힘" />
+	<block key="Dex" korean="민첩" />
+	<block key="Int" korean="지능" />
+	<block key="Vtl" korean="체력" />
+	<block key="mtl" korean="정신력" />
+	<block key="BDY" korean="육체 저항력" />
+	<block key="MND" korean="정신 저항력" />
+	<block key="maxHP" korean="생명력" />
+	<block key="maxMP" korean="마나" />
+	<block key="maxfire" korean="최대 화염 게이지" />
+	<block key="maxice" korean="최대 냉기 게이지" />
+	<block key="maxlight" korean="최대 빛 게이지" />
+	<block key="maxdark" korean="최대 어둠 게이지" />
+	<block key="runspeed" korean="뛰기속도" />
+	<block key="walkspeed" korean="걷기속도" />
+	<block key="wpattrange" korean="사정거리" />
+	<block key="wpattspeed" korean="공격속도" />
+	<block key="recHPpow" korean="생명력 자연회복량" />
+	<block key="recMPpow" korean="마나 자연회복량" />
+	<block key="stunregist" korean="기절저항" />
+	<block key="fearregist" korean="공포저항" />
+	<block key="sleepregist" korean="수면저항" />
+	<block key="moveblockregist" korean="동상저항" />
+	<block key="poisonregist" korean="독저항" />
+	<block key="wppyattpow" korean="속성공격력" />
+	<block key="wpphattpowplus" korean="물리 공격력" />
+	<block key="wpphattpowmult" korean="물리 공격력" />
+	<block key="fireattpowplus" korean="화염 공격력" />
+	<block key="fireattpowmult" korean="화염 공격력" />
+	<block key="iceattpowplus" korean="냉기 공격력" />
+	<block key="iceattpowmult" korean="냉기 공격력" />
+	<block key="lightattpowplus" korean="빛 공격력" />
+	<block key="lightattpowmult" korean="빛 공격력" />
+	<block key="darkattpowplus" korean="어둠 공격력" />
+	<block key="darkattpowmult" korean="어둠 공격력" />
+	<block key="spphattpowplus" korean="마법 공격력" />
+	<block key="spphattpowmult" korean="마법 공격력" />
+	<block key="wpphdefpowplus" korean="물리 방어력" />
+	<block key="wpphdefpowmult" korean="물리 방어력" />
+	<block key="spdefpowplus" korean="마법 방어력" />
+	<block key="spdefpowmult" korean="마법 방어력" />
+	<block key="firedefpowplus" korean="화염 속성 내성수치" />
+	<block key="firedefpowmult" korean="화염 속성 내성수치율" />
+	<block key="icedefpowplus" korean="냉기 속성 내성수치" />
+	<block key="icedefpowmult" korean="냉기 속성 내성수치율" />
+	<block key="lightdefpowplus" korean="빛 속성 내성수치" />
+	<block key="lightdefpowmult" korean="빛 속성 내성수치율" />
+	<block key="darkdefpowplus" korean="어둠 속성 내성수치" />
+	<block key="darkdefpowmult" korean="어둠 속성 내성수치율" />
+	<block key="wphitrateplus" korean="명중률" />
+	<block key="sphitrateplus" korean="마법 명중률" />
+	<block key="wphitpowplus" korean="명중력" />
+	<block key="sphitpowplus" korean="마법 명중력" />
+	<block key="avdpowplus" korean="회피력" />
+	<block key="avdrateplus" korean="회피율" />
+	<block key="comborateplus" korean="콤보율" />
+	<block key="wpfiregaugeattpowplus" korean="무기 화염 게이지공격력" />
+	<block key="wpicegaugeattpowplus" korean="무기 냉기 게이지공격력" />
+	<block key="wplightgaugeattpowplus" korean="무기 빛 게이지공격력" />
+	<block key="wpdarkgaugeattpowplus" korean="무기 어둠 게이지공격력" />
+	<block key="spfiregaugeattpowplus" korean="마법 화염 게이지공격력" />
+	<block key="spicegaugeattpowplus" korean="마법 냉기 게이지공격력" />
+	<block key="splightgaugeattpowplus" korean="마법 빛 게이지공격력" />
+	<block key="spdarkgaugeattpowplus" korean="마법 어둠 게이지공격력" />
+	<block key="firegaugedefpowplus" korean="화염 게이지방어도" />
+	<block key="icegaugedefpowplus" korean="냉기 게이지방어도" />
+	<block key="lightgaugedefpowplus" korean="빛 게이지방어도" />
+	<block key="darkgaugedefpowplus" korean="어둠 게이지방어도" />
+	<block key="wpcripowplus" korean="물리 치명타 피해" />
+	<block key="spcripowplus" korean="마법 치명타 피해" />
+	<block key="wpcrirateplus" korean="물리 치명타" />
+	<block key="spcrirateplus" korean="마법 치명타" />
+	<block key="wpspellplus" korean="전투력" />
+	<block key="spspellplus" korean="마법력" />
+	<block key="wpphdaMPlus" korean="물리 데미지" />
+	<block key="spphdaMPlus" korean="마법 데미지" />
+	<block key="wpcridaMPlus" korean="무기극대화데미지" />
+	<block key="spcridaMPlus" korean="마법극대화데미지" />
+	<block key="allstatplus" korean="모든 스탯" />
+	<block key="StrPlus" korean="힘" />
+	<block key="StrMult" korean="힘" />
+	<block key="DexPlus" korean="민첩" />
+	<block key="DexMult" korean="민첩" />
+	<block key="IntPlus" korean="지능" />
+	<block key="IntMult" korean="지능" />
+	<block key="VtlPlus" korean="체력" />
+	<block key="VtlMult" korean="체력" />
+	<block key="MtlPlus" korean="정신력" />
+	<block key="MtlMult" korean="정신력" />
+	<block key="BdyPlus" korean="육체 저항력" />
+	<block key="BdyMult" korean="육체 저항력" />
+	<block key="MndPlus" korean="정신 저항력" />
+	<block key="MndMult" korean="정신 저항력" />
+	<block key="maxHPplus" korean="생명력" />
+	<block key="maxMPplus" korean="마나" />
+	<block key="maxfireplus" korean="최대 화염 게이지" />
+	<block key="maxiceplus" korean="최대 냉기 게이지" />
+	<block key="maxlightplus" korean="최대 빛 게이지" />
+	<block key="maxdarkplus" korean="최대 어둠 게이지" />
+	<block key="maxHPmult" korean="생명력" />
+	<block key="maxMPmult" korean="마나" />
+	<block key="maxfiremult" korean="최대 화염 게이지" />
+	<block key="maxicemult" korean="최대 냉기 게이지" />
+	<block key="maxlightmult" korean="최대 빛 게이지" />
+	<block key="maxdarkmult" korean="최대 어둠 게이지" />
+	<block key="movespeedmult" korean="이동속도" />
+	<block key="vehiclespeedmult" korean="탈것속도" />
+	<block key="wpattrangemult" korean="무기사정거리" />
+	<block key="wpattspeedmult" korean="공격속도" />
+	<block key="castingspeedmult" korean="시전속도" />
+	<block key="recHPpowplus" korean="생명력 자연회복력" />
+	<block key="recMPpowplus" korean="마나 자연회복력" />
+	<block key="reccombatHPplus" korean="전투시HP회복" />
+	<block key="reccombatMPplus" korean="전투시MP회복" />
+	<block key="absorbHPfromstategaugeofdier" korean="HP흡수" />
+	<block key="consumMPplus" korean="MP소모" />
+	<block key="stunstate" korean="기절" />
+	<block key="chaosstate" korean="혼란" />
+	<block key="roaredstate" korean="사자후 당한" />
+	<block key="sleepstate" korean="수면" />
+	<block key="silencestate" korean="침묵" />
+	<block key="fearstate" korean="공포" />
+	<block key="VineTangledState" korean="넝쿨에 걸린" />
+	<block key="NetTangledState" korean="그물에 걸린" />
+	<block key="PhysicalPoisonState" korean="신체독 중독" />
+	<block key="MentalPoisonState" korean="정신독 중독" />
+	<block key="DeadlyPoisonState" korean="맹독 중독" />
+	<block key="CorrosionPoisonState" korean="부식 독중독" />
+	<block key="DizzyState" korean="현기증" />
+	<block key="BleedingState" korean="출혈" />
+	<block key="DiseaseState" korean="전염병" />
+	<block key="ThrowupState" korean="구토" />
+	<block key="SealedState" korean="봉쇄" />
+	<block key="skillmovingstate" korean="스킬이동중인" />
+	<block key="parriedstate" korean="받아치기당한" />
+	<block key="frozenstate" korean="얼어붙은" />
+	<block key="attacklessstate" korean="공격불능" />
+	<block key="poisonstate" korean="중독" />
+	<block key="risingstate" korean="공중부양" />
+	<block key="capturedstate" korean="포획" />
+	<block key="CaptureFailedState" korean="포획실패" />
+	<block key="ConcentratedState" korean="주의집중" />
+	<block key="knockdownImmunitystate" korean="넉다운면역" />
+	<block key="knockbackdownImmunitystate" korean="넉백넉다운면역" />
+	<block key="oddactionbypropertyimmunitystate" korean="속성이상행동면역" />
+	<block key="fireImmunitystate" korean="화염 면역" />
+	<block key="iceImmunitystate" korean="냉기 면역" />
+	<block key="lightImmunitystate" korean="빛 면역" />
+	<block key="darkImmunitystate" korean="어둠 면역" />
+	<block key="magicImmunitystate" korean="마법 면역" />
+	<block key="physicImmunitystate" korean="물리 면역" />
+	<block key="meleephysicImmunitystate" korean="근거리물리면역" />
+	<block key="rangephysicImmunitystate" korean="원거리물리면역" />
+	<block key="OddActionImuumityState" korean="행동불가면역" />
+	<block key="defencestate" korean="방어자세" />
+	<block key="spiritstate" korean="영혼변환" />
+	<block key="StealthState" korean="투명화" />
+	<block key="GhostState" korean="유령모드" />
+	<block key="ExorcistState" korean="퇴마사모드" />
+	<block key="StealthBlockState" korean="투명화금지" />
+	<block key="perceptrangerate" korean="선공시야" />
+	<block key="ui_attack" korean="기본 공격" />
+	<block key="ui_character" korean="캐릭터 정보창" />
+	<block key="ui_map" korean="지도" />
+	<block key="ui_inventory" korean="가방" />
+	<block key="ui_skill" korean="스킬 정보창" />
+	<block key="ui_quest" korean="퀘스트 정보창" />
+	<block key="ui_fieldmapview" korean="상세 맵 보기" />
+	<block key="ui_worldmapview" korean="전체 맵 보기" />
+	<block key="start" korean="시작" />
+	<block key="finish" korean="종료" />
+	<block key="ok" korean="확인" />
+	<block key="cancel" korean="취소" />
+	<block key="year" korean="년" />
+	<block key="month" korean="월" />
+	<block key="variety" korean="종" />
+	<block key="limit_time" korean="획득 제한 시간" />
+	<block key="arrival_time" korean="예상 시간" />
+	<block key="ui_worldmapalpha" korean="투명맵 전환" />
+	<block key="server_closed" korean="닫힘" />
+	<block key="quest_limit_time" korean="제한 시간" />
+	<block key="equipiMPossible" korean="착용불가" />
+	<block key="throw_dice" korean="주사위 굴림" />
+	<block key="cancel_dice" korean="포기" />
+	<block key="decision" korean="결정" />
+	<block key="fixation" korean="고정" />
+	<block key="dyeing" korean="염색" />
+	<block key="color" korean="색상" />
+	<block key="getitemrulejoblimit" korean="직업 우선 획득" />
+	<block key="kind" korean="종류" />
+	<block key="grade" korean="등급" />
+	<block key="esummon" korean="소환" />
+	<block key="magicstone" korean="마법석" />
+	<block key="equippeditem" korean="착용중" />
+	<block key="preemptivestrike" korean="선공" />
+	<block key="nopreemptivestrike" korean="비선공" />
+	<block key="trait" korean="전투 타입" />
+	<block key="melee" korean="근접" />
+	<block key="defence" korean="방어" />
+	<block key="magic" korean="마법" />
+	<block key="heal" korean="회복" />
+	<block key="range" korean="원거리" />
+	<block key="parry" korean="쳐내기" />
+	<block key="immunity" korean="공격효과없음" />
+	<block key="resist_invincibility" korean="공격효과없음" />
+	<block key="resist_reactionresistancepoint" korean="공격효과없음" />
+	<block key="resist_castingignorereaction" korean="공격효과없음" />
+	<block key="actornomal" korean="일반" />
+	<block key="hero" korean="영웅" />
+	<block key="ParryRate" korean="무기막기" />
+	<block key="BlockRate" korean="방패막기" />
+	<block key="BlockRateplus" korean="방패막기확률" />
+	<block key="belongitem" korean="귀속됨" />
+	<block key="material" korean="재료" />
+	<block key="plate" korean="중갑" />
+	<block key="chain" korean="경갑" />
+	<block key="leather" korean="면갑" />
+	<block key="cloth" korean="로브" />
+	<block key="attphpowersecond" korean="초당 공격력" />
+	<block key="equipeff" korean="착용 효과" />
+	<block key="skilllearneff" korean="습득 효과" />
+	<block key="doing" korean="진행중" />
+	<block key="learnprice" korean="습득가격" />
+	<block key="exp" korean="경험치" />
+	<block key="repeat" korean="반복" />
+	<block key="emotion_win" korean="승리" />
+	<block key="emotion_lose" korean="패배" />
+	<block key="emotion_confession" korean="고백" />
+	<block key="emotion_surprise" korean="놀람" />
+	<block key="emotion_charge" korean="돌격" />
+	<block key="emotion_shame" korean="부끄러움" />
+	<block key="emotion_greeting" korean="손인사" />
+	<block key="emotion_joyful" korean="신남" />
+	<block key="emotion_cry" korean="울기" />
+	<block key="emotion_smile" korean="웃기" />
+	<block key="emotion_cheerup" korean="응원" />
+	<block key="emotion_mockery" korean="조롱" />
+	<block key="emotion_cheers" korean="환호" />
+	<block key="emotion_penalty1" korean="벌칙1" />
+	<block key="emotion_penalty2" korean="벌칙2" />
+	<block key="emotion_refuse" korean="거절" />
+	<block key="emotion_angry" korean="화남" />
+	<block key="emotion_applause" korean="박수" />
+	<block key="emotion_salute" korean="경례" />
+	<block key="emotion_beg" korean="구걸" />
+	<block key="emotion_cheek" korean="따귀" />
+	<block key="emotion_slapped" korean="따귀맞기" />
+	<block key="emotion_beg2" korean="떼쓰기" />
+	<block key="emotion_step" korean="밟기" />
+	<block key="emotion_affirmation" korean="긍정" />
+	<block key="ui_questalarm" korean="퀘스트 알람 보이기/숨기기" />
+	<block key="possible" korean="가능" />
+	<block key="impossible" korean="불가능" />
+	<block key="deadbody" korean="시체" />
+	<block key="ui_zoomin" korean="줌인" />
+	<block key="ui_zoomout" korean="줌아웃" />
+	<block key="ui_minimapsetting" korean="레이더 표시 설정" />
+	<block key="skilltype" korean="타입" />
+	<block key="forwardcasting" korean="시전후 발동" />
+	<block key="nouseonride" korean="탑승 시 사용불가" />
+	<block key="bufftime" korean="지속 시간" />
+	<block key="expert" korean="고급" />
+	<block key="master" korean="최고급" />
+	<block key="attack" korean="공격" />
+	<block key="buff" korean="버프" />
+	<block key="debuff" korean="디버프" />
+	<block key="fellowpassive" korean="펠로우(패시브)" />
+	<block key="fellowattack" korean="펠로우(공격)" />
+	<block key="fellowdefense" korean="펠로우(방어)" />
+	<block key="fellowrecover" korean="펠로우(회복)" />
+	<block key="fellowbuff" korean="펠로우(버프)" />
+	<block key="fellowdebuff" korean="펠로우(디버프)" />
+	<block key="castingtype" korean="시전" />
+	<block key="secondwhile" korean="초간" />
+	<block key="size" korean="사이즈" />
+	<block key="small" korean="소형" />
+	<block key="medium" korean="중형" />
+	<block key="large" korean="대형" />
+	<block key="StopAutoAttack" korean="공격 중지" />
+	<block key="seizestate" korean="길들이기" />
+	<block key="tip" korean="TIP" />
+	<block key="interactive" korean="interactive" />
+	<block key="activate" korean="activate" />
+	<block key="deactivate" korean="deactivate" />
+	<block key="fellow" korean="펠로우" />
+	<block key="tool" korean="도구" />
+	<block key="twohandlance" korean="창(탑승용)" />
+	<block key="twohandcrossbow" korean="석궁(탑승용)" />
+	<block key="ChatAll" korean="전체" />
+	<block key="ChatGeneral" korean="일반" />
+	<block key="backattackdammult" korean="후방 공격시 공격력" />
+	<block key="tamableonbattle" korean="전투 중 길들이기 가능" />
+	<block key="fellowdeathdesc" korean="이 펠로우는 사망상태입니다. 사망 시점 부터 5분간 소환이 불가능합니다." />
+	<block key="waittime" korean="남은 시간" />
+	<block key="short_local_key" korean="ㄴ" />
+	<block key="short_whisper_key" korean="ㅈ" />
+	<block key="short_party_key" korean="ㅔ" />
+	<block key="short_guild_key" korean="ㅎ" />
+	<block key="short_shout_key" korean="ㅊ" />
+	<block key="short_server_key" korean="1" />
+	<block key="short_trade_key" korean="2" />
+	<block key="short_findparty_key" korean="3" />
+	<block key="HPHealRateMult" korean="HP 회복 효과" />
+	<block key="Tamablestate" korean="길들이기 가능" />
+	<block key="BodyImmunityState" korean="육체계 상태이상 면역" />
+	<block key="MindImmunityState" korean="정신계 상태이상 면역" />
+	<block key="Chat" korean="대화" />
+	<block key="My_Battle" korean="전투정보" />
+	<block key="Party_Battle" korean="전투정보(파티원)" />
+	<block key="FNPC_Battle" korean="전투정보(NPC)" />
+	<block key="ENPC_Battle" korean="전투정보(적)" />
+	<block key="all" korean="전체" />
+	<block key="party" korean="파티" />
+	<block key="NoneDamagePlus" korean="무속성 피해량" />
+	<block key="NoneDamageMult" korean="무속성 피해량" />
+	<block key="FireDamagePlus" korean="화염 속성 피해량" />
+	<block key="FireDamageMult" korean="화염 속성 피해량" />
+	<block key="IceDamagePlus" korean="냉기 속성 피해량" />
+	<block key="IceDamageMult" korean="냉기 속성 피해량" />
+	<block key="LightDamagePlus" korean="빛 속성 피해량" />
+	<block key="LightDamageMult" korean="빛 속성 피해량" />
+	<block key="DarkDamagePlus" korean="어둠 속성 피해량" />
+	<block key="DarkDamageMult" korean="어둠 속성 피해량" />
+	<block key="msg_emotion" korean="감정 표현" />
+	<block key="normal_fellow" korean="펠로우 대화" />
+	<block key="zone" korean="지역 대화" />
+	<block key="whisperget" korean="받는 귓속말" />
+	<block key="whispersend" korean="보내는 귓속말" />
+	<block key="normal_fnpc" korean="아군 NPC 대사" />
+	<block key="normal_enpc" korean="적군 NPC 대사" />
+	<block key="guild" korean="길드 대화" />
+	<block key="msg_notice_guild" korean="길드 알림" />
+	<block key="alience" korean="세력 대화" />
+	<block key="msg_notice_alience" korean="세력 알림" />
+	<block key="channel_server" korean="서버 채널" />
+	<block key="channel_trade" korean="거래 채널" />
+	<block key="channel_party" korean="파티찾기 채널" />
+	<block key="msg_battle" korean="기본전투" />
+	<block key="msg_battle_my_send_action" korean="자신의 공격/스킬" />
+	<block key="msg_battle_my_send_addeffect" korean="자신의 버프/디버프" />
+	<block key="msg_battle_my_get_action" korean="자신에 대한 피해/스킬" />
+	<block key="msg_battle_my_get_addeffect" korean="자신에 대한 버프/디버프" />
+	<block key="msg_battle_myfellow_send_action" korean="내 펠로우의 공격/스킬" />
+	<block key="msg_battle_myfellow_send_addeffect" korean="내 펠로우의 버프/디버프" />
+	<block key="msg_battle_myfellow_get_action" korean="내 펠로우에 대한 피해/스킬" />
+	<block key="msg_battle_myfellow_get_addeffect" korean="내 펠로우에 대한 버프/디버프" />
+	<block key="msg_battle_party_send_action" korean="파티원의 공격/스킬" />
+	<block key="msg_battle_party_send_addeffect" korean="파티원의 버프/디버프" />
+	<block key="msg_battle_party_get_action" korean="파티원에 대한 피해/스킬" />
+	<block key="msg_battle_party_get_addeffect" korean="파티원에 대한 버프/디버프" />
+	<block key="msg_battle_partyfellow_send_action" korean="파티원 펠로우의 공격/스킬" />
+	<block key="msg_battle_partyfellow_send_addeffect" korean="파티원 펠로우의 버프/디버프" />
+	<block key="msg_battle_partyfellow_get_action" korean="파티원 펠로우에 대한 피해/스킬" />
+	<block key="msg_battle_partyfellow_get_addeffect" korean="파티원 펠로우에 대한 버프/디버프" />
+	<block key="msg_battle_fnpc_send_action" korean="FNPC의 공격/스킬" />
+	<block key="msg_battle_fnpc_send_addeffect" korean="FNPC의 버프/디버프" />
+	<block key="msg_battle_fnpc_get_action" korean="FNPC에 대한 피해/스킬" />
+	<block key="msg_battle_fnpc_get_addeffect" korean="FNPC에 대한 버프/디버프" />
+	<block key="msg_battle_enemy_send_action" korean="적의 공격/스킬" />
+	<block key="msg_battle_enemy_send_addeffect" korean="적의 버프/디버프" />
+	<block key="msg_battle_enemy_get_action" korean="적에 대한 피해/스킬" />
+	<block key="msg_battle_enemy_get_addeffect" korean="적에 대한 버프/디버프" />
+	<block key="msg_notice_gm" korean="GM 공지" />
+	<block key="msg_notice_game" korean="게임 공지" />
+	<block key="msg_info_game" korean="게임 정보" />
+	<block key="msg_info_error" korean="오류/경고" />
+	<block key="msg_info_fellow" korean="펠로우 관련" />
+	<block key="msg_action_collection" korean="채집 결과 (성공/실패)" />
+	<block key="msg_action_production" korean="제작 결과 (성공/실패)" />
+	<block key="msg_death_my" korean="내 죽음" />
+	<block key="msg_death_myfellow" korean="내 펠로우 죽음" />
+	<block key="msg_death_party" korean="파티원 죽음" />
+	<block key="msg_death_partyfellow" korean="파티원 펠로우 죽음" />
+	<block key="msg_death_npc" korean="NPC의 죽음" />
+	<block key="msg_death_enemy" korean="적의 죽음" />
+	<block key="msg_gain_exp" korean="경험치 획득" />
+	<block key="msg_gain_gold" korean="자금 획득" />
+	<block key="msg_gain_item" korean="아이템 획득" />
+	<block key="LockChatUI" korean="채팅창잠금" />
+	<block key="InitChatUI" korean="채팅창초기화" />
+	<block key="AddTab" korean="탭추가" />
+	<block key="DeleteTab" korean="탭삭제" />
+	<block key="RenameTab" korean="탭설정" />
+	<block key="rename" korean="변경" />
+	<block key="InitTabText" korean="탭내용삭제" />
+	<block key="EditTabOption" korean="탭옵션" />
+	<block key="EditTabTextColor" korean="탭문장색상옵션" />
+	<block key="FontSize" korean="폰트크기" />
+	<block key="FontSize_Large" korean=" 대" />
+	<block key="FontSize_Middle" korean=" 중" />
+	<block key="FontSize_Small" korean=" 소" />
+	<block key="Emotion" korean="감정표현" />
+	<block key="HotkeyInfo" korean="단축키도움말" />
+	<block key="ChatHotkey_Normal" korean="일반:/s,/S,/ㄴ" />
+	<block key="ChatHotkey_Party" korean="파티:/p,/P,/ㅔ" />
+	<block key="ChatHotkey_Guild" korean="길드:/g,/G,/ㅎ" />
+	<block key="ChatHotkey_Whisper" korean="귓속말:/w,/W,/ㅈ + 상대이름 + 대화내용" />
+	<block key="ChatHotkey_Zone" korean="지역대화:/c,/C,/ㅊ" />
+	<block key="ChatHotkey_LinkInfo" korean="정보링크: Ctrl + obj" />
+	<block key="notshortkeydesc" korean="사용할 수 없는 키 입니다." />
+	<block key="green" korean="녹" />
+	<block key="red" korean="붉은" />
+	<block key="blue" korean="푸른" />
+	<block key="transparency" korean="투명" />
+	<block key="colour" korean="색" />
+	<block key="defaltshortkeydesc" korean="단축키 선택 후 Backspace 키를 누르면 선택한 단축키가 삭제 됩니다." />
+	<block key="overlapkeydesc" korean=" 의 단축키와 중복됩니다." />
+	<block key="removekeydesc" korean=" 의 단축키가 중복키 설정으로 삭제되었습니다." />
+	<block key="LocalChat" korean="일반" />
+	<block key="ZoneChat" korean="지역" />
+	<block key="WhisperChat" korean="귓속말" />
+	<block key="PartyChat" korean="파티" />
+	<block key="GuildChat" korean="길드" />
+	<block key="ChannelServerChat" korean="서버" />
+	<block key="ChannelTrade" korean="거래" />
+	<block key="ChannelPartyChat" korean="파티찾기" />
+	<block key="Toggle" korean="토글" />
+	<block key="Toggle_Local" korean="일반" />
+	<block key="Toggle_Zone" korean="지역" />
+	<block key="Toggle_Whisper" korean="귓속말" />
+	<block key="Toggle_Party" korean="파티" />
+	<block key="Toggle_Guild" korean="길드" />
+	<block key="Toggle_ChannelServer" korean="서버" />
+	<block key="Toggle_ChannelParty" korean="파티찾기" />
+	<block key="Toggle_ChannelTrade" korean="거래" />
+	<block key="resurrection_ok" korean="바로부활" />
+	<block key="fellowitem" korean="장비(안장)" />
+	<block key="Wolf" korean="늑대" />
+	<block key="Leopard" korean="표범" />
+	<block key="Boar" korean="멧돼지" />
+	<block key="Bull" korean="소" />
+	<block key="Bear" korean="곰" />
+	<block key="Spider" korean="거미" />
+	<block key="ReinDeer" korean="순록" />
+	<block key="Bee" korean="벌" />
+	<block key="Turtle" korean="거북이" />
+	<block key="Fox" korean="여우" />
+	<block key="kind0" korean="류" />
+	<block key="quality" korean="품질" />
+	<block key="equip" korean="착용" />
+	<block key="need" korean="필요" />
+	<block key="noname_attacker" korean="누군가" />
+	<block key="Charinfo_default" korean="기본 정보" />
+	<block key="nothing_repair" korean="수리할 아이템이 없습니다" />
+	<block key="ask_repair_all" korean="전체 아이템을 수리하시겠습니까?" />
+	<block key="MobFeature_Attack" korean="공격 능력이 높음" />
+	<block key="MobFeature_Defence" korean="방어 능력이 높음" />
+	<block key="MobFeature_Heal" korean="치유, 보조 마법 사용" />
+	<block key="MobFeature_Magic" korean="공격 마법 사용" />
+	<block key="MobFeature_Range" korean="원거리 일반 공격" />
+	<block key="effect" korean="효과" />
+	<block key="UiQuestAccept" korean="수락" />
+	<block key="UiQuestMapconfirm" korean="지도 확인" />
+	<block key="UiQuestRenounce" korean="포기" />
+	<block key="UiQuestRefuse" korean="거절" />
+	<block key="UiQuestComplete" korean="완료" />
+	<block key="UiQuestClose" korean="닫기" />
+	<block key="returnarea" korean="귀환 위치" />
+	<block key="weaponneed" korean="사용 가능 무기" />
+	<block key="Succes" korean="성공" />
+	<block key="FireDampingRate" korean="화염 속성 피해 흡수율" />
+	<block key="IceDampingRate" korean="냉기 속성 피해 흡수율" />
+	<block key="LightDampingRate" korean="빛 속성 피해 흡수율" />
+	<block key="DarkDampingRate" korean="어둠 속성 피해 흡수율" />
+	<block key="weapononlyboard" korean="탑승 시 사용가능" />
+	<block key="ask_fellow_growing" korean="의 성장 봉인을 해제하시겠습니까? 성장 봉인을 해제하면 다음 레벨로 계속 성장이 가능하지만 영혼석 추출은 불가능합니다." />
+	<block key="ask_equip_soulbound" korean="착용시 귀속됩니다. 착용하시겠습니까?" />
+	<block key="ask_pickup_soulbound" korean=" 아이템은 획득시 귀속됩니다. 획득하시겠습니까?" />
+	<block key="absence" korean="자리비움" />
+	<block key="resist_reaction_immun" korean="저항" />
+	<block key="resist_body_immun" korean="저항" />
+	<block key="resist_body_resist" korean="저항" />
+	<block key="lightweight" korean="무게: 가벼움" />
+	<block key="normalweight" korean="무게: 보통" />
+	<block key="heavyweight" korean="무게: 무거움" />
+	<block key="system" korean="시스템" />
+	<block key="ep" korean="기력" />
+	<block key="fp" korean="분노" />
+	<block key="tp" korean="스태미너" />
+	<block key="sp" korean="빛의 징표" />
+	<block key="nodisplay" korean="표시 안함" />
+	<block key="alwaysdisplay" korean="항상 표시" />
+	<block key="battledisplay" korean="전투시에만 표시" />
+	<block key="field" korean="필드" />
+	<block key="instance" korean="던전" />
+	<block key="nothingness" korean="없음" />
+	<block key="Enchant_impossible" korean="강화 불가" />
+	<block key="Enchant_Possible" korean="강화 가능" />
+	<block key="Enchant_Nolimit" korean="강화 제한 없음" />
+	<block key="usableonnotride" korean="비탑승 시에만 사용 가능" />
+	<block key="usableonride" korean="탑승 시에만 사용 가능" />
+	<block key="notgroundskill" korean="지상에서 사용 불가" />
+	<block key="notskyskill" korean="공중에서 사용 불가" />
+	<block key="shortcut_move_flying_vertical_descent" korean="비행 펠로우 하강" />
+	<block key="shortcut_move_riding_fellow" korean="펠로우 탑승" />
+	<block key="shortcut_menu_action_list_open" korean="액션목록" />
+	<block key="shortcut_menu_transparency_map_open" korean="투명 맵" />
+	<block key="shortcut_menu_guild_open" korean="길드" />
+	<block key="shortcut_menu_help_open" korean="도움말" />
+	<block key="shortcut_menu_option_open" korean="게임 옵션" />
+	<block key="shortcut_party_myplayer_select" korean="자신 선택" />
+	<block key="shortcut_quickslot_ex1_10" korean="첫 번째 확장 슬롯 11" />
+	<block key="shortcut_quickslot_ex1_11" korean="첫 번째 확장 슬롯 12" />
+	<block key="shortcut_quickslot_ex2_10" korean="두 번째 확장 슬롯 11" />
+	<block key="shortcut_quickslot_ex2_11" korean="두 번째 확장 슬롯 12" />
+	<block key="shortcut_quickslot_ex3_10" korean="세 번째 확장슬롯 11" />
+	<block key="shortcut_quickslot_ex4_10" korean="네 번째 확장슬롯 11" />
+	<block key="" korean="적용" />
+	<block key="" korean="취소" />
+	<block key="" korean="확인" />
+	<block key="" korean="낮음" />
+	<block key="" korean="높음" />
+	<block key="" korean="배경 음악 반복 재생" />
+	<block key="" korean="시스템 메시지 음성" />
+	<block key="" korean="끄기" />
+	<block key="" korean="전체 음량" />
+	<block key="" korean="효과음" />
+	<block key="" korean="배경 음악" />
+	<block key="" korean="환경음" />
+	<block key="" korean="사운드 설정" />
+	<block key="" korean="창모드" />
+	<block key="" korean="어둡게" />
+	<block key="" korean="밝게" />
+	<block key="" korean="해상도" />
+	<block key="" korean="색상수" />
+	<block key="" korean="밝기" />
+	<block key="" korean="화면 설정" />
+	<block key="" korean="뭉게임 효과" />
+	<block key="" korean="고정 프레임" />
+	<block key="" korean="전체 화면 스킬 효과" />
+	<block key="" korean="글로우 효과" />
+	<block key="" korean="수직 동기화" />
+	<block key="" korean="프레임 표시" />
+	<block key="" korean="기상 효과" />
+	<block key="" korean="거리별 캐릭터 쉐이더" />
+	<block key="" korean="가까이" />
+	<block key="" korean="멀리" />
+	<block key="" korean="안티앨리어싱" />
+	<block key="" korean="지형 시야거리" />
+	<block key="" korean="텍스쳐 품질" />
+	<block key="" korean="물 효과" />
+	<block key="" korean="배경표현" />
+	<block key="" korean="광원 효과" />
+	<block key="" korean="그림자 효과" />
+	<block key="" korean="사물 시야거리" />
+	<block key="" korean="쉐이더 품질" />
+	<block key="" korean="이펙트 품질" />
+	<block key="" korean="이펙트 표시 대상" />
+	<block key="" korean="다수 캐릭터 표시 수준" />
+	<block key="" korean="그래픽 세부 설정" />
+	<block key="" korean="일괄설정" />
+	<block key="" korean="데이터 로그" />
+	<block key="" korean="다음부터 창 띄우지 않기" />
+	<block key="Button" korean="Button" />
+	<block key="1" korean="1" />
+	<block key="CheckBox" korean="CheckBox" />
+	<block key="List Type" korean="List Type" />
+	<block key="Scroll Type" korean="Scroll Type" />
+	<block key="Label" korean="Label" />
+	<block key="Item Renderer" korean="Item Renderer" />
+	<block key="RadioButton" korean="RadioButton" />
+	<block key="" korean="일반 우편" />
+	<block key="H" korean="H" />
+	<block key="S" korean="S" />
+	<block key="B" korean="B" />
+	<block key="R:233, G:569, B:122" korean="R:233, G:569, B:122" />
+	<block key="" korean="전리품" />
+	<block key="" korean="퀘스트 네비게이션" />
+	<block key="" korean="마우스좌표" />
+	<block key="Area" korean="Area" />
+	<block key="Center" korean="Center" />
+	<block key="Delete" korean="Delete" />
+	<block key="" korean="저장" />
+	<block key="" korean="중점제거" />
+	<block key="" korean="레벨(존) 리스트" />
+	<block key="" korean="미션 리스트" />
+	<block key="" korean="퀘스트 리스트" />
+	<block key="" korean="영역 포인트 점 생성" />
+	<block key="" korean="영역포인트 점 제거" />
+	<block key="" korean="실행" />
+	<block key="lobby_questnavi_editor" korean="모든 퀘스트 네비목록 파일들 및 완료엔피시 정보 갱신 :" />
+	<block key="" korean="로비 에디터" />
+	<block key="alpha" korean="alpha" />
+	<block key="camera range" korean="camera range" />
+	<block key="Front View" korean="Front View" />
+	<block key="zoom speed" korean="zoom speed" />
+	<block key="" korean="색상 편집기" />
+	<block key="" korean="세부설정 편집기" />
+	<block key="" korean="장비 편집기" />
+	<block key="" korean="플레이어 프리셋 관리" />
+	<block key="Npc " korean="Npc 프리셋 관리" />
+	<block key="PlayerNpc " korean="PlayerNpc 프리셋 관리" />
+	<block key="" korean="방어구 색상 편집기" />
+	<block key="" korean="애니메이션 플레이어" />
+	<block key="" korean="프리셋 목록 저장" />
+	<block key="" korean="서브메시 컬러 제거" />
+	<block key="" korean="게임옵션" />
+	<block key="" korean="기본값" />
+	<block key="auto" korean="auto" />
+	<block key="high" korean="높음" />
+	<block key="middle" korean="중간" />
+	<block key="low" korean="낮음" />
+	<block key="no" korean="no" />
+	<block key="" korean="서버 선택" />
+	<block key="" korean="성능" />
+	<block key="" korean="품질" />
+	<block key="" korean="화면 품질" />
+	<block key="" korean="화면 모드" />
+	<block key="" korean="뭉게짐 효과" />
+	<block key="consumtpplus" korean="스태미너 소모" />
+	<block key="casting" korean="캐스팅" />
+	<block key="reversecasting" korean="역캐스팅" />
+	<block key="charge" korean="챠지" />
+	<block key="private" korean="전용" />
+	<block key="equippossible" korean="착용가능" />
+	<block key="allclasspossible" korean="모든 클래스 착용가능" />
+	<block key="enchantpossible" korean="강화 가능" />
+	<block key="enchantimpossible" korean="강화 불가능" />
+	<block key="useeff" korean="사용효과" />
+	<block key="enchantnolimit" korean="강화 제한 없음" />
+	<block key="skill_step" korean="단계" />
+	<block key="reply" korean="회신" />
+	<block key="RecTpPowPlus" korean="활력 회복 효과" />
+	<block key="RecTpPowMult" korean="활력 회복 효과" />
+	<block key="graphic" korean="그래픽" />
+	<block key="sound" korean="사운드" />
+	<block key="setting" korean="게임설정" />
+	<block key="shortcutkey" korean="단축키" />
+	<block key="combo" korean="콤보" />
+	<block key="Invalid" korean="없음" />
+	<block key="compensation" korean="보상금" />
+	<block key="accept" korean="수락" />
+	<block key="notreactionmovingstate" korean="피격 이동 액션 거리 제한" />
+	<block key="cooltimemult" korean="재사용 시간" />
+	<block key="furifyonattackplus" korean="분노 추가 상승" />
+	<block key="connect" korean="접속" />
+	<block key="disconnect" korean="미접속" />
+	<block key="letter" korean="보관중인 편지" />
+	<block key="window" korean="창모드" />
+	<block key="fullscreen" korean="전체화면" />
+	<block key="fullscreenwindow" korean="전체창모드" />
+	<block key="not" korean="없음" />
+	<block key="me" korean="자신" />
+	<block key="other" korean="다른 유저" />
+	<block key="npc" korean="NPC" />
+	<block key="itemcomparevalue" korean="장착 시 변경효과" />
+	<block key="tamingdisabled" korean="길들이기 불가능" />
+	<block key="tamingenabled" korean="길들이기 가능" />
+	<block key="taminglocked" korean="길들이기 가능(조건충족필요)" />
+	<block key="ride" korean="탑승" />
+	<block key="ready" korean="준비" />
+	<block key="allstatmult" korean="모든 스탯" />
+	<block key="newskill" korean="신규스킬" />
+	<block key="event" korean="이벤트" />
+	<block key="unready" korean="변경" />
+	<block key="usepossible" korean="사용가능" />
+	<block key="allclassusepossible" korean="모든 클래스 사용가능" />
+	<block key="companyorenemy" korean="아군 / 적" />
+	<block key="stiffstate" korean="경직 상태" />
+	<block key="invincibility" korean="무적 상태" />
+	<block key="maxepmult" korean="최대 EP" />
+	<block key="agromult" korean="어그로 수치" />
+	<block key="human" korean="휴먼" />
+	<block key="shaling" korean="샤링" />
+	<block key="crokhoon" korean="크로쿤" />
+	<block key="fellowconsume" korean="펠로우소모품" />
+	<block key="fellowlevel" korean="펠로우 레벨" />
+	<block key="fellowexp" korean="누적경험치" />
+	<block key="sealedfellow" korean="봉인펠로우" />
+	<block key="onehandbow" korean="한손활" />
+	<block key="" korean="펠로우(목걸이)" />
+	<block key="" korean="펠로우(영혼석)" />
+	<block key="" korean="펠로우(안장)" />
+	<block key="maxep" korean="최대 EP" />
+	<block key="Plus" korean="증가" />
+	<block key="ui_fellow_gauge_hp" korean="펠로우(펫)의 생명력을 표시한다." />
+	<block key="ui_fellow_gauge_ep" korean="펠로우(펫)의 기력을 표시하며 4초마다 일정량의 기력이 회복된다." />
+	<block key="quick_battle_request" korean="결투신청" />
+	<block key="bid" korean="입찰" />
+	<block key="renounce" korean="포기" />
+	<block key="wearing" korean="개 착용 시" />
+	<block key="" korean="클래스" />
+	<block key="" korean="탑승" />
+	<block key="" korean="공용" />
+	<block key="seteffect" korean="세트효과" />
+	<block key="min" korean="최소" />
+	<block key="max" korean="최대" />
+	<block key="item" korean="아이템" />
+	<block key="comsume" korean="소모품" />
+	<block key="fellowbook" korean="펠로우 도감" />
+	<block key="backattackcrirateplus" korean="후방 치명타율" />
+	<block key="bothhands" korean="단검" />
+	<block key="talents_lack_msg" korean="보유한 특성력이 부족합니다" />
+	<block key="talents_unequip_msg" korean="을 제거합니다.<br>사용된 특성력은 소멸됩니다" />
+	<block key="talents_equip_msg" korean="을 장착합니다" />
+	<block key="ui_tab_characterinfo_soultalents" korean="특성" />
+	<block key="wr_r" korean="광폭" />
+	<block key="wr_g" korean="파괴" />
+	<block key="wr_b" korean="전투" />
+	<block key="gd_r" korean="수호" />
+	<block key="gd_g" korean="신성" />
+	<block key="gd_b" korean="전투" />
+	<block key="tf_r" korean="체공" />
+	<block key="tf_g" korean="속공" />
+	<block key="tf_b" korean="포착" />
+	<block key="pr_r" korean="보호" />
+	<block key="pr_g" korean="신앙" />
+	<block key="pr_b" korean="징표" />
+	<block key="wz_r" korean="화염" />
+	<block key="wz_g" korean="냉기" />
+	<block key="wz_b" korean="속성" />
+	<block key="soultalent_point" korean="필요 특성력" />
+	<block key="ridefellow" korean="탑승" />
+	<block key="battlefellow" korean="펫" />
+	<block key="talents_full_msg" korean="더 이상 특성력을 모을 수 없습니다" />
+	<block key="step" korean="단계" />
+	<block key="weaponcraft" korean="무기 제작" />
+	<block key="armorcraft" korean="방어구 제작" />
+	<block key="accessorycraft" korean="장신구 제작" />
+	<block key="fellowequip" korean="펠로우 연구" />
+	<block key="alchemy" korean="연금술" />
+	<block key="cooking" korean="요리" />
+	<block key="WeaponRack" korean="무기 제작대" />
+	<block key="ArmorRack" korean="방어구 제작대" />
+	<block key="CookingRack" korean="조리기구" />
+	<block key="AlchemyRack" korean="실험기구" />
+	<block key="AccessoryRack" korean="장신구 제작대" />
+	<block key="FellowEquipRack" korean="펠로우 연구대" />
+	<block key="ui_soultalents_blank" korean="특성 스킬을 장착할 수 있습니다" />
+	<block key="adjust_skill" korean="적용 스킬" />
+	<block key="selectitem" korean="선택 보상" />
+	<block key="greatsucces" korean="대성공" />
+	<block key="new_mail_count" korean="새 메일" />
+	<block key="recipe" korean="레시피" />
+	<block key="production" korean="제작" />
+	<block key="synergy" korean="추가 효과" />
+	<block key="talents_equipsoulstone_msg" korean="특성력으로 변환하시겠습니까?" />
+	<block key="soultalentpoint" korean="특성력" />
+	<block key="fellow_talon" korean="발톱" />
+	<block key="fellow_saddle" korean="안장" />
+	<block key="fellow_sounstone" korean="영혼석" />
+	<block key="idoncare" korean="맨손" />
+	<block key="gather" korean="채집" />
+	<block key="enetfailure talents notopenpart" korean="특성 스킬을 장착할 수 없습니다" />
+	<block key="sealedfelloweffect" korean="봉인석 효과" />
+	<block key="sealedfelloweffectdesc" korean="펠로우 봉인석 장착 가능" />
+	<block key="previewfelloweffect" korean="펠로우 봉인석 효과" />
+	<block key="itemequipskill" korean="착용스킬" />
+	<block key="quick_token" korean="징표" />
+	<block key="HunterPKState" korean="인간 사냥꾼 상태" />
+	<block key="KillPKState" korean="학살자 상태" />
+	<block key="GodPKState" korean="죽음의 신 상태" />
+	<block key="daily" korean="일일" />
+	<block key="tamingcondition" korean="길들이기 조건" />
+	<block key="tamingappoint" korean="길들이기 포인트" />
+	<block key="tamingconditionneed" korean="길들이기 조건 필요(도감을 참고)" />
+	<block key="tamingconditionsatisfy" korean="길들이기 조건 충족" />
+	<block key="lobby_delete_char" korean="지금삭제" />
+	<block key="tooltip_killcount_kill" korean="<UI_Y>처치</UI_Y>
+오늘 플레이어를 죽인 횟수" />
+	<block key="tooltip_killcount_death" korean="<UI_Y>사망</UI_Y>
+오늘 플레이어에게 죽은 횟수" />
+	<block key="soultalentskilllearn" korean="<Y_ST>습득되는 스킬</Y_ST>" />
+	<block key="areaaltitude" korean="지역고도" />
+	<block key="fellowaltitudetooltip" korean="설정된 고도를 초과하면 펠로우가 소환 해제 됩니다." />
+	<block key="hour_time" korean="시" />
+	<block key="guild_mark_no_gold" korean="골드가 부족하여 변경 할 수 없습니다." />
+	<block key="guild_mark_diffent_size_msg" korean="님에게 길드장을 위임하시겠습니까?" />
+	<block key="guild_mark_upload_description" korean="폴더에 파일명이 GuildMark.JPG인 이미지를 불러 옵니다. 사이즈는 64Pixel x 64Pixel 입니다." />
+	<block key="point" korean="포인트" />
+	<block key="savedkeyduplication" korean="현재 저장된 키와 동일한 키 입니다." />
+	<block key="chat_exe_boarding_apply" korean="다인탑승신청" />
+	<block key="chat_exe_boarding_invite" korean="다인탑승초대" />
+	<block key="itemuse_split_item" korean="아이템 나누기" />
+	<block key="itemuse_change_fellow_name" korean="펠로우 이름변경" />
+	<block key="itemuse_jump_map" korean="이동주문서" />
+	<block key="itemuse_throw_item" korean="아이템 버리기" />
+	<block key="itemuse_skill_use" korean="아이템사용" />
+	<block key="People" korean="명" />
+	<block key="NoLimit" korean="제한없음" />
+	<block key="Hide" korean="숨김" />
+	<block key="SimpleDraw" korean="간단한 표시" />
+	<block key="proficiency" korean="숙련단계" />
+	<block key="mastery" korean="숙련도" />
+	<block key="check" korean="점검중" />
+	<block key="spdamagereductionmult" korean="마법 피해 감소율" />
+	<block key="spdefense" korean="마법 방어력" />
+	<block key="rechppowmult" korean="생명력 자연회복량" />
+	<block key="recmppowmult" korean="마나 자연회복량" />
+	<block key="altitudeplus" korean="펠로우 고도" />
+	<block key="FellowGrowUpExpMult" korean="펠로우 경험치" />
+	<block key="FellowGrowUpExpPlus" korean="펠로우 경험치" />
+	<block key="fellowtamingaprate" korean="길들이기 포인트 소모" />
+	<block key="allgenderusepossible" korean="남녀공용" />
+	<block key="receppowmult" korean="기력 포인트 회복 속도" />
+	<block key="droprateplus" korean="드랍율" />
+	<block key="cannotabandon" korean="파괴 불가" />
+	<block key="ui_area_altitude" korean="지역고도" />
+	<block key="fellowmaxlevel" korean="해당 펠로우는 더 이상 성장 할 수 없는 레벨에 도달하였습니다." />
+	<block key="maxfellowlevel" korean="최대 성장 레벨" />
+	<block key="movespeed" korean="이동속도" />
+	<block key="fellow_movespeed_desc" korean="펠로우의 이동속도 정보를 알려주는 항목이며 m단위로 표시된다." />
+	<block key="altitude" korean="고도" />
+	<block key="fellow_altitude_desc" korean="펠로우가 최대로 날 수 있는 고도를 표시하는 항목이다." />
+	<block key="altitudemax" korean="최대고도" />
+	<block key="altitudemax_desc" korean="펠로우가 최대로 날 수 있는 고도를 표시하는 항목이다." />
+	<block key="playergrowupexpmult" korean="획득 경험치" />
+	<block key="possessioneff" korean="소지 효과" />
+	<block key="cridamreduceplus" korean="치명타 피해 방어" />
+	<block key="eYellowTimeSec" korean="활력 시간" />
+	<block key="allattpowplus" korean="모든 공격력" />
+	<block key="standarddaily" korean="1일 잔여 활력 시간" />
+	<block key="standardweek" korean="주간 잔여 활력 시간" />
+	<block key="premiumweek" korean="PC방 주간 잔여 활력 시간" />
+	<block key="allattpowmult" korean="모든 공격력" />
+	<block key="alldefpowplus" korean="모든 방어력" />
+	<block key="alldefpowmult" korean="모든 방어력" />
+	<block key="nosealedfellow" korean="봉인할 수 없는 펠로우입니다." />
+	<block key="tamingratemult" korean="길들이기 성공 확률" />
+	<block key="createproductratemult" korean="제작 대성공 확률" />
+	<block key="reignforcemult" korean="강화 성공률" />
+	<block key="auctionregfeemult" korean="판매 대행 등록비 감소" />
+	<block key="auctionsellfeemult" korean="판매 대행 판매 수수료 감소" />
+	<block key="dropmoneyratemult" korean="드랍된 게임머니 상승" />
+	<block key="maxgemslot" korean="<UI_G>보석 슬롯 수</UI_G>" />
+	<block key="IgnoreLimitStr" korean="힘 제한 해제" />
+	<block key="IgnoreLimitDex" korean="민첩 제한 해제" />
+	<block key="IgnoreLimitInt" korean="지능 제한 해제" />
+	<block key="IgnoreLimitVtl" korean="체력 제한 해제" />
+	<block key="IgnoreLimitMtl" korean="정신력 제한 해제" />
+	<block key="IgnoreLimitBdy" korean="육체저항력 제한 해제" />
+	<block key="IgnoreLimitMnd" korean="정신저항력 제한 해제" />
+	<block key="IgnoreLimitMaxHp" korean="최대HP 제한 해제" />
+	<block key="IgnoreLimitMaxMp" korean="최대MP 제한 해제" />
+	<block key="IgnoreLimitWpPhMaxAttPow" korean="무기물리최대공격력 제한 해제" />
+	<block key="IgnoreLimitSpPhMaxAttPow" korean="마법물리최대공격력 제한 해제" />
+	<block key="IgnoreLimitWpPhDefPow" korean="무기물리방어력 제한 해제" />
+	<block key="IgnoreLimitSpPhDefPow" korean="마법물리방어력 제한 해제" />
+	<block key="IgnoreLimitWpPhAttCriRate" korean="무기물리크리티컬확률 제한 해제" />
+	<block key="IgnoreLimitSpCriRate" korean="마법크리티컬확률 제한 해제" />
+	<block key="IgnoreLimitBodyRegistRate" korean="육체계저항률 제한 해제" />
+	<block key="IgnoreLimitMindRegistRate" korean="정신계저항률 제한 해제" />
+	<block key="maxepplus" korean="최대 EP" />
+	<block key="earnmoneyratemult" korean="드랍골드획득량" />
+</blocks>

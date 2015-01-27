@@ -1,0 +1,667 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="SB_1_0_0001_Name" korean="세게 치기 (LV1)" />
+	<block key="SB_1_0_0001_Description" korean="세게 치기 (Lv1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0002_Name" korean="세게 치기 (LV2)" />
+	<block key="SB_1_0_0002_Description" korean="세게 치기 (Lv2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0003_Name" korean="세게 치기 (LV3)" />
+	<block key="SB_1_0_0003_Description" korean="세게 치기 (Lv3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0004_Name" korean="세게 치기 (LV4)" />
+	<block key="SB_1_0_0004_Description" korean="세게 치기 (Lv4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0005_Name" korean="세게 치기 (LV5)" />
+	<block key="SB_1_0_0005_Description" korean="세게 치기 (Lv5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0006_Name" korean="세게 치기 (LV6)" />
+	<block key="SB_1_0_0006_Description" korean="세게 치기 (Lv6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0007_Name" korean="세게 치기 (LV7)" />
+	<block key="SB_1_0_0007_Description" korean="세게 치기 (Lv7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0008_Name" korean="세게 치기 (LV8)" />
+	<block key="SB_1_0_0008_Description" korean="세게 치기 (Lv8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0009_Name" korean="2단 베기 (LV1)" />
+	<block key="SB_1_0_0009_Description" korean="2단 베기 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0010_Name" korean="2단 베기 (LV2)" />
+	<block key="SB_1_0_0010_Description" korean="2단 베기 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0011_Name" korean="2단 베기 (LV3)" />
+	<block key="SB_1_0_0011_Description" korean="2단 베기 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0012_Name" korean="2단 베기 (LV4)" />
+	<block key="SB_1_0_0012_Description" korean="2단 베기 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0013_Name" korean="2단 베기 (LV5)" />
+	<block key="SB_1_0_0013_Description" korean="2단 베기 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0014_Name" korean="2단 베기 (LV6)" />
+	<block key="SB_1_0_0014_Description" korean="2단 베기 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0015_Name" korean="2단 베기 (LV7)" />
+	<block key="SB_1_0_0015_Description" korean="2단 베기 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0016_Name" korean="2단 베기 (LV8)" />
+	<block key="SB_1_0_0016_Description" korean="2단 베기 (LV8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0017_Name" korean="강인함 (LV1)" />
+	<block key="SB_1_0_0017_Description" korean="강인함 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0018_Name" korean="강인함 (LV2)" />
+	<block key="SB_1_0_0018_Description" korean="강인함 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0019_Name" korean="강인함 (LV3)" />
+	<block key="SB_1_0_0019_Description" korean="강인함 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0020_Name" korean="강인함 (LV4)" />
+	<block key="SB_1_0_0020_Description" korean="강인함 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0021_Name" korean="강인함 (LV5)" />
+	<block key="SB_1_0_0021_Description" korean="강인함 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0022_Name" korean="내려 치기 (LV1)" />
+	<block key="SB_1_0_0022_Description" korean="내려 치기 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0023_Name" korean="내려 치기 (LV2)" />
+	<block key="SB_1_0_0023_Description" korean="내려 치기 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0024_Name" korean="내려 치기 (LV3)" />
+	<block key="SB_1_0_0024_Description" korean="내려 치기 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0025_Name" korean="내려 치기 (LV4)" />
+	<block key="SB_1_0_0025_Description" korean="내려 치기 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0026_Name" korean="내려 치기 (LV5)" />
+	<block key="SB_1_0_0026_Description" korean="내려 치기 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0027_Name" korean="내려 치기 (LV6)" />
+	<block key="SB_1_0_0027_Description" korean="내려 치기 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0028_Name" korean="내려 치기 (LV7)" />
+	<block key="SB_1_0_0028_Description" korean="내려 치기 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0029_Name" korean="내려 치기 (LV8)" />
+	<block key="SB_1_0_0029_Description" korean="내려 치기 (LV8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0033_Name" korean="굳건한 신체 (LV1)" />
+	<block key="SB_1_0_0033_Description" korean="굳건한 신체 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0034_Name" korean="굳건한 신체 (LV2)" />
+	<block key="SB_1_0_0034_Description" korean="굳건한 신체 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0035_Name" korean="굳건한 신체 (LV3)" />
+	<block key="SB_1_0_0035_Description" korean="굳건한 신체 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0036_Name" korean="굳건한 신체 (LV4)" />
+	<block key="SB_1_0_0036_Description" korean="굳건한 신체 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0037_Name" korean="굳건한 신체 (LV5)" />
+	<block key="SB_1_0_0037_Description" korean="굳건한 신체 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0038_Name" korean="굳건한 신체 (LV6)" />
+	<block key="SB_1_0_0038_Description" korean="굳건한 신체 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0039_Name" korean="굳건한 신체 (LV7)" />
+	<block key="SB_1_0_0039_Description" korean="굳건한 신체 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0053_Name" korean="어깨 치기 (LV1)" />
+	<block key="SB_1_0_0053_Description" korean="어깨 치기 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0054_Name" korean="어깨 치기 (LV2)" />
+	<block key="SB_1_0_0054_Description" korean="어깨 치기 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0055_Name" korean="어깨 치기 (LV3)" />
+	<block key="SB_1_0_0055_Description" korean="어깨 치기 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0056_Name" korean="어깨 치기 (LV4)" />
+	<block key="SB_1_0_0056_Description" korean="어깨 치기 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0057_Name" korean="3단 베기 (LV1)" />
+	<block key="SB_1_0_0057_Description" korean="3단 베기 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0058_Name" korean="3단 베기 (LV2)" />
+	<block key="SB_1_0_0058_Description" korean="3단 베기 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0059_Name" korean="3단 베기 (LV3)" />
+	<block key="SB_1_0_0059_Description" korean="3단 베기 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0060_Name" korean="3단 베기 (LV4)" />
+	<block key="SB_1_0_0060_Description" korean="3단 베기 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0061_Name" korean="3단 베기 (LV5)" />
+	<block key="SB_1_0_0061_Description" korean="3단 베기 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0062_Name" korean="3단 베기 (LV6)" />
+	<block key="SB_1_0_0062_Description" korean="3단 베기 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0063_Name" korean="3단 베기 (LV7)" />
+	<block key="SB_1_0_0063_Description" korean="3단 베기 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0064_Name" korean="용기의 외침 (LV1)" />
+	<block key="SB_1_0_0064_Description" korean="용기의 외침 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0065_Name" korean="용기의 외침 (LV2)" />
+	<block key="SB_1_0_0065_Description" korean="용기의 외침 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0066_Name" korean="용기의 외침 (LV3)" />
+	<block key="SB_1_0_0066_Description" korean="용기의 외침 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0067_Name" korean="용기의 외침 (LV4)" />
+	<block key="SB_1_0_0067_Description" korean="용기의 외침 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0068_Name" korean="용기의 외침 (LV5)" />
+	<block key="SB_1_0_0068_Description" korean="용기의 외침 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0073_Name" korean="휘두르기 (LV1)" />
+	<block key="SB_1_0_0073_Description" korean="휘두르기 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0074_Name" korean="휘두르기 (LV2)" />
+	<block key="SB_1_0_0074_Description" korean="휘두르기 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0075_Name" korean="휘두르기 (LV3)" />
+	<block key="SB_1_0_0075_Description" korean="휘두르기 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0076_Name" korean="휘두르기 (LV4)" />
+	<block key="SB_1_0_0076_Description" korean="휘두르기 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0077_Name" korean="휘두르기 (LV5)" />
+	<block key="SB_1_0_0077_Description" korean="휘두르기 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0082_Name" korean="도발 (LV1)" />
+	<block key="SB_1_0_0082_Description" korean="도발 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0083_Name" korean="도발 (LV2)" />
+	<block key="SB_1_0_0083_Description" korean="도발 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0084_Name" korean="도발 (LV3)" />
+	<block key="SB_1_0_0084_Description" korean="도발 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0104_Name" korean="힘 증가 (LV1)" />
+	<block key="SB_1_0_0104_Description" korean="힘 증가 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0105_Name" korean="힘 증가 (LV2)" />
+	<block key="SB_1_0_0105_Description" korean="힘 증가 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0106_Name" korean="힘 증가 (LV3)" />
+	<block key="SB_1_0_0106_Description" korean="힘 증가 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0107_Name" korean="힘 증가 (LV4)" />
+	<block key="SB_1_0_0107_Description" korean="힘 증가 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0108_Name" korean="힘 증가 (LV5)" />
+	<block key="SB_1_0_0108_Description" korean="힘 증가 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0109_Name" korean="힘 증가 (LV6)" />
+	<block key="SB_1_0_0109_Description" korean="힘 증가 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0117_Name" korean="대지 폭발 (LV1)" />
+	<block key="SB_1_0_0117_Description" korean="대지 폭발 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0118_Name" korean="대지 폭발 (LV2)" />
+	<block key="SB_1_0_0118_Description" korean="대지 폭발 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0119_Name" korean="대지 폭발 (LV3)" />
+	<block key="SB_1_0_0119_Description" korean="대지 폭발 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0120_Name" korean="대지 폭발 (LV4)" />
+	<block key="SB_1_0_0120_Description" korean="대지 폭발 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0121_Name" korean="대지 폭발 (LV5)" />
+	<block key="SB_1_0_0121_Description" korean="대지 폭발 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_1_0_0122_Name" korean="대지 폭발 (LV6)" />
+	<block key="SB_1_0_0122_Description" korean="대지 폭발 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0001_Name" korean="치유 (LV1)" />
+	<block key="SB_2_0_0001_Description" korean="치유 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0002_Name" korean="치유 (LV2)" />
+	<block key="SB_2_0_0002_Description" korean="치유 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0003_Name" korean="치유 (LV3)" />
+	<block key="SB_2_0_0003_Description" korean="치유 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0004_Name" korean="치유 (LV4)" />
+	<block key="SB_2_0_0004_Description" korean="치유 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0005_Name" korean="치유 (LV5)" />
+	<block key="SB_2_0_0005_Description" korean="치유 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0006_Name" korean="치유 (LV6)" />
+	<block key="SB_2_0_0006_Description" korean="치유 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0007_Name" korean="치유 (LV7)" />
+	<block key="SB_2_0_0007_Description" korean="치유 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0008_Name" korean="치유 (LV8)" />
+	<block key="SB_2_0_0008_Description" korean="치유 (LV8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0009_Name" korean="별빛 (LV1)" />
+	<block key="SB_2_0_0009_Description" korean="별빛 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0010_Name" korean="별빛 (LV2)" />
+	<block key="SB_2_0_0010_Description" korean="별빛 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0011_Name" korean="별빛 (LV3)" />
+	<block key="SB_2_0_0011_Description" korean="별빛 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0012_Name" korean="별빛 (LV4)" />
+	<block key="SB_2_0_0012_Description" korean="별빛 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0013_Name" korean="별빛 (LV5)" />
+	<block key="SB_2_0_0013_Description" korean="별빛 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0014_Name" korean="별빛 (LV6)" />
+	<block key="SB_2_0_0014_Description" korean="별빛 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0015_Name" korean="별빛 (LV7)" />
+	<block key="SB_2_0_0015_Description" korean="별빛 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0016_Name" korean="별빛 (LV8)" />
+	<block key="SB_2_0_0016_Description" korean="별빛 (LV8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0017_Name" korean="심판의 파동 (LV1)" />
+	<block key="SB_2_0_0017_Description" korean="심판의 파동 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0018_Name" korean="심판의 파동 (LV2)" />
+	<block key="SB_2_0_0018_Description" korean="심판의 파동 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0019_Name" korean="심판의 파동 (LV3)" />
+	<block key="SB_2_0_0019_Description" korean="심판의 파동 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0020_Name" korean="심판의 파동 (LV4)" />
+	<block key="SB_2_0_0020_Description" korean="심판의 파동 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0021_Name" korean="심판의 파동 (LV5)" />
+	<block key="SB_2_0_0021_Description" korean="심판의 파동 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0022_Name" korean="고결한 정신 (LV1)" />
+	<block key="SB_2_0_0022_Description" korean="고결한 정신 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0023_Name" korean="고결한 정신 (LV2)" />
+	<block key="SB_2_0_0023_Description" korean="고결한 정신 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0024_Name" korean="고결한 정신 (LV3)" />
+	<block key="SB_2_0_0024_Description" korean="고결한 정신 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0025_Name" korean="고결한 정신 (LV4)" />
+	<block key="SB_2_0_0025_Description" korean="고결한 정신 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0026_Name" korean="고결한 정신 (LV5)" />
+	<block key="SB_2_0_0026_Description" korean="고결한 정신 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0027_Name" korean="고결한 정신 (LV6)" />
+	<block key="SB_2_0_0027_Description" korean="고결한 정신 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0028_Name" korean="고결한 정신 (LV7)" />
+	<block key="SB_2_0_0028_Description" korean="고결한 정신 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0029_Name" korean="고결한 정신 (LV8)" />
+	<block key="SB_2_0_0029_Description" korean="고결한 정신 (LV8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0030_Name" korean="회복 (LV1)" />
+	<block key="SB_2_0_0030_Description" korean="회복 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0031_Name" korean="회복 (LV2)" />
+	<block key="SB_2_0_0031_Description" korean="회복 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0032_Name" korean="회복 (LV3)" />
+	<block key="SB_2_0_0032_Description" korean="회복 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0033_Name" korean="회복 (LV4)" />
+	<block key="SB_2_0_0033_Description" korean="회복 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0034_Name" korean="회복 (LV5)" />
+	<block key="SB_2_0_0034_Description" korean="회복 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0035_Name" korean="회복 (LV6)" />
+	<block key="SB_2_0_0035_Description" korean="회복 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0036_Name" korean="회복 (LV7)" />
+	<block key="SB_2_0_0036_Description" korean="회복 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0037_Name" korean="회복 (LV8)" />
+	<block key="SB_2_0_0037_Description" korean="회복 (LV8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0038_Name" korean="몰입 (LV1)" />
+	<block key="SB_2_0_0038_Description" korean="몰입 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0039_Name" korean="몰입 (LV2)" />
+	<block key="SB_2_0_0039_Description" korean="몰입 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0040_Name" korean="몰입 (LV3)" />
+	<block key="SB_2_0_0040_Description" korean="몰입 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0041_Name" korean="몰입 (LV4)" />
+	<block key="SB_2_0_0041_Description" korean="몰입 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0042_Name" korean="몰입 (LV5)" />
+	<block key="SB_2_0_0042_Description" korean="몰입 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0043_Name" korean="몰입 (LV6)" />
+	<block key="SB_2_0_0043_Description" korean="몰입 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0044_Name" korean="몰입 (LV7)" />
+	<block key="SB_2_0_0044_Description" korean="몰입 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0045_Name" korean="몰입 (LV8)" />
+	<block key="SB_2_0_0045_Description" korean="몰입 (LV8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0046_Name" korean="악령의 빙의 (LV1)" />
+	<block key="SB_2_0_0046_Description" korean="악령의 빙의 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0047_Name" korean="악령의 빙의 (LV2)" />
+	<block key="SB_2_0_0047_Description" korean="악령의 빙의 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0048_Name" korean="악령의 빙의 (LV3)" />
+	<block key="SB_2_0_0048_Description" korean="악령의 빙의 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0049_Name" korean="악령의 빙의 (LV4)" />
+	<block key="SB_2_0_0049_Description" korean="악령의 빙의 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0050_Name" korean="악령의 빙의 (LV5)" />
+	<block key="SB_2_0_0050_Description" korean="악령의 빙의 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0051_Name" korean="악령의 빙의 (LV6)" />
+	<block key="SB_2_0_0051_Description" korean="악령의 빙의 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0052_Name" korean="악령의 빙의 (LV7)" />
+	<block key="SB_2_0_0052_Description" korean="악령의 빙의 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0053_Name" korean="악령의 빙의 (LV8)" />
+	<block key="SB_2_0_0053_Description" korean="악령의 빙의 (LV8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0054_Name" korean="신의 축복 (LV1)" />
+	<block key="SB_2_0_0054_Description" korean="신의 축복 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0055_Name" korean="신의 축복 (LV2)" />
+	<block key="SB_2_0_0055_Description" korean="신의 축복 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0056_Name" korean="신의 축복 (LV3)" />
+	<block key="SB_2_0_0056_Description" korean="신의 축복 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0057_Name" korean="신의 축복 (LV4)" />
+	<block key="SB_2_0_0057_Description" korean="신의 축복 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0058_Name" korean="별무리 (LV1)" />
+	<block key="SB_2_0_0058_Description" korean="별무리 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0059_Name" korean="별무리 (LV2)" />
+	<block key="SB_2_0_0059_Description" korean="별무리 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0060_Name" korean="별무리 (LV3)" />
+	<block key="SB_2_0_0060_Description" korean="별무리 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0061_Name" korean="별무리 (LV4)" />
+	<block key="SB_2_0_0061_Description" korean="별무리 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0062_Name" korean="별무리 (LV5)" />
+	<block key="SB_2_0_0062_Description" korean="별무리 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0063_Name" korean="별무리 (LV6)" />
+	<block key="SB_2_0_0063_Description" korean="별무리 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0064_Name" korean="별무리 (LV7)" />
+	<block key="SB_2_0_0064_Description" korean="별무리 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0065_Name" korean="신의 가호 (LV1)" />
+	<block key="SB_2_0_0065_Description" korean="신의 가호 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0066_Name" korean="신의 가호 (LV2)" />
+	<block key="SB_2_0_0066_Description" korean="신의 가호 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0067_Name" korean="신의 가호 (LV3)" />
+	<block key="SB_2_0_0067_Description" korean="신의 가호 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0068_Name" korean="신의 가호 (LV4)" />
+	<block key="SB_2_0_0068_Description" korean="신의 가호 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0069_Name" korean="생명의 보호막 (LV1)" />
+	<block key="SB_2_0_0069_Description" korean="생명의 보호막 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0070_Name" korean="생명의 보호막 (LV2)" />
+	<block key="SB_2_0_0070_Description" korean="생명의 보호막 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0071_Name" korean="생명의 보호막 (LV3)" />
+	<block key="SB_2_0_0071_Description" korean="생명의 보호막 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0072_Name" korean="생명의 보호막 (LV4)" />
+	<block key="SB_2_0_0072_Description" korean="생명의 보호막 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0073_Name" korean="생명의 보호막 (LV5)" />
+	<block key="SB_2_0_0073_Description" korean="생명의 보호막 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0074_Name" korean="생명의 보호막 (LV6)" />
+	<block key="SB_2_0_0074_Description" korean="생명의 보호막 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0075_Name" korean="생명의 보호막 (LV7)" />
+	<block key="SB_2_0_0075_Description" korean="생명의 보호막 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0076_Name" korean="축복의 기도 (LV1)" />
+	<block key="SB_2_0_0076_Description" korean="축복의 기도 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0077_Name" korean="축복의 기도 (LV2)" />
+	<block key="SB_2_0_0077_Description" korean="축복의 기도 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0078_Name" korean="축복의 기도 (LV3)" />
+	<block key="SB_2_0_0078_Description" korean="축복의 기도 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0079_Name" korean="축복의 기도 (LV4)" />
+	<block key="SB_2_0_0079_Description" korean="축복의 기도 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0080_Name" korean="축복의 기도 (LV5)" />
+	<block key="SB_2_0_0080_Description" korean="축복의 기도 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0081_Name" korean="생명의 부활 (LV1)" />
+	<block key="SB_2_0_0081_Description" korean="생명의 부활 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0082_Name" korean="생명의 부활 (LV2)" />
+	<block key="SB_2_0_0082_Description" korean="생명의 부활 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0083_Name" korean="생명의 부활 (LV3)" />
+	<block key="SB_2_0_0083_Description" korean="생명의 부활 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0084_Name" korean="생명의 부활 (LV4)" />
+	<block key="SB_2_0_0084_Description" korean="생명의 부활 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0085_Name" korean="생명의 부활 (LV5)" />
+	<block key="SB_2_0_0085_Description" korean="생명의 부활 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0086_Name" korean="강인한 정신 (LV1)" />
+	<block key="SB_2_0_0086_Description" korean="강인한 정신 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0087_Name" korean="강인한 정신 (LV2)" />
+	<block key="SB_2_0_0087_Description" korean="강인한 정신 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0088_Name" korean="강인한 정신 (LV3)" />
+	<block key="SB_2_0_0088_Description" korean="강인한 정신 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0089_Name" korean="강인한 정신 (LV4)" />
+	<block key="SB_2_0_0089_Description" korean="강인한 정신 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0090_Name" korean="염력 (LV1)" />
+	<block key="SB_2_0_0090_Description" korean="염력 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0091_Name" korean="염력 (LV2)" />
+	<block key="SB_2_0_0091_Description" korean="염력 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0092_Name" korean="염력 (LV3)" />
+	<block key="SB_2_0_0092_Description" korean="염력 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0093_Name" korean="염력 (LV4)" />
+	<block key="SB_2_0_0093_Description" korean="염력 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0094_Name" korean="염력 (LV5)" />
+	<block key="SB_2_0_0094_Description" korean="염력 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0095_Name" korean="염력 (LV6)" />
+	<block key="SB_2_0_0095_Description" korean="염력 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0096_Name" korean="염력 (LV7)" />
+	<block key="SB_2_0_0096_Description" korean="염력 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0097_Name" korean="별의 상처 (LV1)" />
+	<block key="SB_2_0_0097_Description" korean="별의 상처 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0098_Name" korean="별의 상처 (LV2)" />
+	<block key="SB_2_0_0098_Description" korean="별의 상처 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0099_Name" korean="별의 상처 (LV3)" />
+	<block key="SB_2_0_0099_Description" korean="별의 상처 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0100_Name" korean="블랙홀 (LV1)" />
+	<block key="SB_2_0_0100_Description" korean="블랙홀 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0101_Name" korean="블랙홀 (LV2)" />
+	<block key="SB_2_0_0101_Description" korean="블랙홀 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0102_Name" korean="블랙홀 (LV3)" />
+	<block key="SB_2_0_0102_Description" korean="블랙홀 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0103_Name" korean="블랙홀 (LV4)" />
+	<block key="SB_2_0_0103_Description" korean="블랙홀 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0104_Name" korean="에너지 흡수 (LV1)" />
+	<block key="SB_2_0_0104_Description" korean="에너지 흡수 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0105_Name" korean="에너지 흡수 (LV2)" />
+	<block key="SB_2_0_0105_Description" korean="에너지 흡수 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0106_Name" korean="에너지 흡수 (LV3)" />
+	<block key="SB_2_0_0106_Description" korean="에너지 흡수 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0107_Name" korean="에너지 흡수 (LV4)" />
+	<block key="SB_2_0_0107_Description" korean="에너지 흡수 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0108_Name" korean="에너지 흡수 (LV5)" />
+	<block key="SB_2_0_0108_Description" korean="에너지 흡수 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0109_Name" korean="에너지 흡수 (LV6)" />
+	<block key="SB_2_0_0109_Description" korean="에너지 흡수 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0110_Name" korean="정신력 증가 (LV1)" />
+	<block key="SB_2_0_0110_Description" korean="정신력 증가 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0111_Name" korean="정신력 증가 (LV2)" />
+	<block key="SB_2_0_0111_Description" korean="정신력 증가 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0112_Name" korean="정신력 증가 (LV3)" />
+	<block key="SB_2_0_0112_Description" korean="정신력 증가 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0113_Name" korean="정신력 증가 (LV4)" />
+	<block key="SB_2_0_0113_Description" korean="정신력 증가 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0114_Name" korean="정신력 증가 (LV5)" />
+	<block key="SB_2_0_0114_Description" korean="정신력 증가 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0115_Name" korean="정신력 증가 (LV6)" />
+	<block key="SB_2_0_0115_Description" korean="정신력 증가 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0116_Name" korean="악령의 폭주 (LV1)" />
+	<block key="SB_2_0_0116_Description" korean="악령의 폭주 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0117_Name" korean="악령의 폭주 (LV2)" />
+	<block key="SB_2_0_0117_Description" korean="악령의 폭주 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0118_Name" korean="악령의 폭주 (LV3)" />
+	<block key="SB_2_0_0118_Description" korean="악령의 폭주 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0119_Name" korean="악령의 폭주 (LV4)" />
+	<block key="SB_2_0_0119_Description" korean="악령의 폭주 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0120_Name" korean="악령의 폭주 (LV5)" />
+	<block key="SB_2_0_0120_Description" korean="악령의 폭주 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0121_Name" korean="악령의 폭주 (LV6)" />
+	<block key="SB_2_0_0121_Description" korean="악령의 폭주 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0125_Name" korean="굴절 보호막 (LV1)" />
+	<block key="SB_2_0_0125_Description" korean="굴절 보호막 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0126_Name" korean="굴절 보호막 (LV2)" />
+	<block key="SB_2_0_0126_Description" korean="굴절 보호막 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0127_Name" korean="굴절 보호막 (LV3)" />
+	<block key="SB_2_0_0127_Description" korean="굴절 보호막 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0128_Name" korean="굴절 보호막 (LV4)" />
+	<block key="SB_2_0_0128_Description" korean="굴절 보호막 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0129_Name" korean="심판의 파장 (LV1)" />
+	<block key="SB_2_0_0129_Description" korean="심판의 파장 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0130_Name" korean="심판의 파장 (LV2)" />
+	<block key="SB_2_0_0130_Description" korean="심판의 파장 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0131_Name" korean="심판의 파장 (LV3)" />
+	<block key="SB_2_0_0131_Description" korean="심판의 파장 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0132_Name" korean="신성한 태양 (LV1)" />
+	<block key="SB_2_0_0132_Description" korean="신성한 태양 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0133_Name" korean="신성한 태양 (LV2)" />
+	<block key="SB_2_0_0133_Description" korean="신성한 태양 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0134_Name" korean="신성한 태양 (LV3)" />
+	<block key="SB_2_0_0134_Description" korean="신성한 태양 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0135_Name" korean="신성한 태양 (LV4)" />
+	<block key="SB_2_0_0135_Description" korean="신성한 태양 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0136_Name" korean="신성한 태양 (LV5)" />
+	<block key="SB_2_0_0136_Description" korean="신성한 태양 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0138_Name" korean="낙하 폭파 (LV1)" />
+	<block key="SB_2_0_0138_Description" korean="낙하 폭파 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0139_Name" korean="낙하 폭파 (LV2)" />
+	<block key="SB_2_0_0139_Description" korean="낙하 폭파 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0140_Name" korean="낙하 폭파 (LV3)" />
+	<block key="SB_2_0_0140_Description" korean="낙하 폭파 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0141_Name" korean="낙하 폭파 (LV4)" />
+	<block key="SB_2_0_0141_Description" korean="낙하 폭파 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0142_Name" korean="낙하 폭파 (LV5)" />
+	<block key="SB_2_0_0142_Description" korean="낙하 폭파 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0143_Name" korean="공포 (LV1)" />
+	<block key="SB_2_0_0143_Description" korean="공포 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0144_Name" korean="공포 (LV2)" />
+	<block key="SB_2_0_0144_Description" korean="공포 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0145_Name" korean="공포 (LV3)" />
+	<block key="SB_2_0_0145_Description" korean="공포 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_2_0_0146_Name" korean="공포 (LV4)" />
+	<block key="SB_2_0_0146_Description" korean="공포 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0000_Name" korean="2단 찌르기 (LV1)" />
+	<block key="SB_4_0_0000_Description" korean="2단 찌르기 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0001_Name" korean="2단 찌르기 (LV2)" />
+	<block key="SB_4_0_0001_Description" korean="2단 찌르기 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0002_Name" korean="2단 찌르기 (LV3)" />
+	<block key="SB_4_0_0002_Description" korean="2단 찌르기 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0003_Name" korean="2단 찌르기 (LV4)" />
+	<block key="SB_4_0_0003_Description" korean="2단 찌르기 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0004_Name" korean="2단 찌르기 (LV5)" />
+	<block key="SB_4_0_0004_Description" korean="2단 찌르기 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0005_Name" korean="2단 찌르기 (LV6)" />
+	<block key="SB_4_0_0005_Description" korean="2단 찌르기 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0006_Name" korean="2단 찌르기 (LV7)" />
+	<block key="SB_4_0_0006_Description" korean="2단 찌르기 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0007_Name" korean="2단 찌르기 (LV8)" />
+	<block key="SB_4_0_0007_Description" korean="2단 찌르기 (LV8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0008_Name" korean="2단 찌르기 (LV9)" />
+	<block key="SB_4_0_0008_Description" korean="2단 찌르기 (LV9) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0009_Name" korean="배후 공격 (LV1)" />
+	<block key="SB_4_0_0009_Description" korean="배후 공격 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0010_Name" korean="배후 공격 (LV2)" />
+	<block key="SB_4_0_0010_Description" korean="배후 공격 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0011_Name" korean="배후 공격 (LV3)" />
+	<block key="SB_4_0_0011_Description" korean="배후 공격 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0012_Name" korean="배후 공격 (LV4)" />
+	<block key="SB_4_0_0012_Description" korean="배후 공격 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0013_Name" korean="배후 공격 (LV5)" />
+	<block key="SB_4_0_0013_Description" korean="배후 공격 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0014_Name" korean="배후 공격 (LV6)" />
+	<block key="SB_4_0_0014_Description" korean="배후 공격 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0015_Name" korean="배후 공격 (LV7)" />
+	<block key="SB_4_0_0015_Description" korean="배후 공격 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0016_Name" korean="배후 공격 (LV8)" />
+	<block key="SB_4_0_0016_Description" korean="배후 공격 (LV8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0030_Name" korean="잔상 (LV1)" />
+	<block key="SB_4_0_0030_Description" korean="잔상 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0031_Name" korean="잔상 (LV2)" />
+	<block key="SB_4_0_0031_Description" korean="잔상 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0032_Name" korean="잔상 (LV3)" />
+	<block key="SB_4_0_0032_Description" korean="잔상 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0033_Name" korean="잔상 (LV4)" />
+	<block key="SB_4_0_0033_Description" korean="잔상 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0034_Name" korean="잔상 (LV5)" />
+	<block key="SB_4_0_0034_Description" korean="잔상 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0035_Name" korean="깊게 찌르기 (LV1)" />
+	<block key="SB_4_0_0035_Description" korean="깊게 찌르기 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0036_Name" korean="깊게 찌르기 (LV2)" />
+	<block key="SB_4_0_0036_Description" korean="깊게 찌르기 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0037_Name" korean="깊게 찌르기 (LV3)" />
+	<block key="SB_4_0_0037_Description" korean="깊게 찌르기 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0038_Name" korean="깊게 찌르기 (LV4)" />
+	<block key="SB_4_0_0038_Description" korean="깊게 찌르기 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0039_Name" korean="깊게 찌르기 (LV5)" />
+	<block key="SB_4_0_0039_Description" korean="깊게 찌르기 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0040_Name" korean="깊게 찌르기 (LV6)" />
+	<block key="SB_4_0_0040_Description" korean="깊게 찌르기 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0041_Name" korean="깊게 찌르기 (LV7)" />
+	<block key="SB_4_0_0041_Description" korean="깊게 찌르기 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0042_Name" korean="깊게 찌르기 (LV8)" />
+	<block key="SB_4_0_0042_Description" korean="깊게 찌르기 (LV8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0059_Name" korean="전력 질주 (LV1)" />
+	<block key="SB_4_0_0059_Description" korean="전력 질주 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0060_Name" korean="전력 질주 (LV2)" />
+	<block key="SB_4_0_0060_Description" korean="전력 질주 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0061_Name" korean="전력 질주 (LV3)" />
+	<block key="SB_4_0_0061_Description" korean="전력 질주 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0062_Name" korean="전력 질주 (LV4)" />
+	<block key="SB_4_0_0062_Description" korean="전력 질주 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0076_Name" korean="그림자 소멸 (LV1)" />
+	<block key="SB_4_0_0076_Description" korean="그림자 소멸 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0077_Name" korean="그림자 소멸 (LV2)" />
+	<block key="SB_4_0_0077_Description" korean="그림자 소멸 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0078_Name" korean="그림자 소멸 (LV3)" />
+	<block key="SB_4_0_0078_Description" korean="그림자 소멸 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0079_Name" korean="그림자 소멸 (LV4)" />
+	<block key="SB_4_0_0079_Description" korean="그림자 소멸 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0080_Name" korean="그림자 소멸 (LV5)" />
+	<block key="SB_4_0_0080_Description" korean="그림자 소멸 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0085_Name" korean="기억 상실 (LV1)" />
+	<block key="SB_4_0_0085_Description" korean="기억 상실 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0086_Name" korean="기억 상실 (LV2)" />
+	<block key="SB_4_0_0086_Description" korean="기억 상실 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0087_Name" korean="기억 상실 (LV3)" />
+	<block key="SB_4_0_0087_Description" korean="기억 상실 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0088_Name" korean="기억 상실 (LV4)" />
+	<block key="SB_4_0_0088_Description" korean="기억 상실 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0128_Name" korean="명치 타격 (LV1)" />
+	<block key="SB_4_0_0128_Description" korean="명치 타격 (LV1) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0129_Name" korean="명치 타격 (LV2)" />
+	<block key="SB_4_0_0129_Description" korean="명치 타격 (LV2) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0130_Name" korean="명치 타격 (LV3)" />
+	<block key="SB_4_0_0130_Description" korean="명치 타격 (LV3) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0131_Name" korean="명치 타격 (LV4)" />
+	<block key="SB_4_0_0131_Description" korean="명치 타격 (LV4) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0132_Name" korean="명치 타격 (LV5)" />
+	<block key="SB_4_0_0132_Description" korean="명치 타격 (LV5) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0133_Name" korean="명치 타격 (LV6)" />
+	<block key="SB_4_0_0133_Description" korean="명치 타격 (LV6) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0134_Name" korean="명치 타격 (LV7)" />
+	<block key="SB_4_0_0134_Description" korean="명치 타격 (LV7) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_4_0_0135_Name" korean="명치 타격 (LV8)" />
+	<block key="SB_4_0_0135_Description" korean="명치 타격 (LV8) 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_0_0_0001_Name" korean="길들이기" />
+	<block key="SB_0_0_0001_Description" korean="길들이기 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_0_0_0011_Name" korean="속사" />
+	<block key="SB_0_0_0011_Description" korean="석궁을 활용하는 탑승용 속사 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_0_0_0012_Name" korean="속사" />
+	<block key="SB_0_0_0012_Description" korean="석궁을 활용하는 탑승용 속사 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_0_0_0013_Name" korean="속사" />
+	<block key="SB_0_0_0013_Description" korean="석궁을 활용하는 탑승용 속사 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_0_0_0014_Name" korean="속사" />
+	<block key="SB_0_0_0014_Description" korean="석궁을 활용하는 탑승용 속사 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_9_0_0001_Name" korean="힘껏베기" />
+	<block key="SB_9_0_0001_Description" korean="석궁을 활용하는 장창용 힘껏베기 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_10_0_0001_Name" korean="발목 노리기" />
+	<block key="SB_10_0_0001_Description" korean="석궁을 활용하는 탑승용 발목 노리기 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_10_0_0002_Name" korean="신중한 조준" />
+	<block key="SB_10_0_0002_Description" korean="석궁을 활용하는 탑승용 신중한 조준 스킬을 배울 수 있는 스킬북 입니다." />
+	<block key="SB_0_0_0021_Name" korean="정신 지배(버서커)" />
+	<block key="SB_0_0_0021_Description" korean="정신 지배 스킬을 배울 수 있는 스킬북 입니다. 버서커만 사용할 수 있습니다." />
+	<block key="SB_11_0_0001_Name" korean="[스킬북]강인한 의지" />
+	<block key="SB_12_0_0001_Name" korean="[스킬북]육체 강화" />
+	<block key="SB_13_0_0001_Name" korean="[스킬북]살아있는 단검" />
+	<block key="SB_14_0_0001_Name" korean="[스킬북]지능 강화" />
+	<block key="SB_15_0_0001_Name" korean="[스킬북]마력 증폭" />
+	<block key="SB_11_0_0002_Name" korean="[스킬북]기선 제압" />
+	<block key="SB_12_0_0002_Name" korean="[스킬북]단단한 갑옷" />
+	<block key="SB_13_0_0002_Name" korean="[스킬북]감각적인 움직임" />
+	<block key="SB_14_0_0002_Name" korean="[스킬북]희생의 빛" />
+	<block key="SB_15_0_0002_Name" korean="[스킬북]정신 집중" />
+	<block key="SB_11_0_0001_Description" korean="버서커의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_12_0_0001_Description" korean="가디언의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_13_0_0001_Description" korean="어쌔신의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_14_0_0001_Description" korean="프리스트의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_15_0_0001_Description" korean="위저드의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_11_0_0002_Description" korean="버서커의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_12_0_0002_Description" korean="가디언의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_13_0_0002_Description" korean="어쌔신의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_14_0_0002_Description" korean="프리스트의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_15_0_0002_Description" korean="위저드의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_12_0_0003_Name" korean="[스킬북]방어극대화" />
+	<block key="SB_14_0_0003_Name" korean="[스킬북]엘로라의 소생" />
+	<block key="SB_12_0_0003_Description" korean="가디언의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_14_0_0003_Description" korean="프리스트의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_11_0_0004_Name" korean="[스킬북]전사의 강인함" />
+	<block key="SB_12_0_0004_Name" korean="[스킬북]체력 증폭" />
+	<block key="SB_13_0_0004_Name" korean="[스킬북]강화된 단검" />
+	<block key="SB_14_0_0004_Name" korean="[스킬북]정신력 강화" />
+	<block key="SB_15_0_0004_Name" korean="[스킬북]속성의 힘" />
+	<block key="SB_11_0_0004_Description" korean="버서커의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_12_0_0004_Description" korean="가디언의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_13_0_0004_Description" korean="어쌔신의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_14_0_0004_Description" korean="프리스트의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_15_0_0004_Description" korean="위저드의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_11_0_0005_Name" korean="[스킬북]버서커의 영광" />
+	<block key="SB_12_0_0005_Name" korean="[스킬북]가디언의 영광" />
+	<block key="SB_13_0_0005_Name" korean="[스킬북]어쌔신의 영광" />
+	<block key="SB_14_0_0005_Name" korean="[스킬북]프리스트의 영광" />
+	<block key="SB_15_0_0005_Name" korean="[스킬북]위자드의 영광" />
+	<block key="SB_11_0_0005_Description" korean="버서커의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_12_0_0005_Description" korean="가디언의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_13_0_0005_Description" korean="어쌔신의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_14_0_0005_Description" korean="프리스트의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+	<block key="SB_15_0_0005_Description" korean="위저드의 숨겨진 스킬을 습득할 수 있는 신비로운 책입니다.
+
+ - <G_Y>[마우스 우클릭 시]</G_Y> 스킬을 습득하게 됩니다.
+ - 습득된 스킬은 스킬 창에서 확인하실 수 있습니다." />
+</blocks>

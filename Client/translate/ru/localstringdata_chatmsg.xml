@@ -1,0 +1,134 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="ChatMsg_emotion_win_my_target" korean="Вы [Target] глядя на ответ радоваться победе." />
+	<block key="ChatMsg_emotion_lose_my_target" korean="Вы смотрите на [цель] с я чувствую поражение." />
+	<block key="ChatMsg_emotion_confession_my_target" korean="Вы [Target] Отправить застенчиво признается." />
+	<block key="ChatMsg_emotion_surprise_my_target" korean="Вы сильно удивлены, чтобы увидеть [цель] Су." />
+	<block key="ChatMsg_emotion_charge_my_target" korean="Вы едете домой [цель] с." />
+	<block key="ChatMsg_emotion_shame_my_target" korean="Вам должно быть стыдно смотреть на [цель] с." />
+	<block key="ChatMsg_emotion_greeting_my_target" korean="Вы [Target] Ответ на руки на прощание." />
+	<block key="ChatMsg_emotion_joyful_my_target" korean="Вы порадует смотреть [цель] с." />
+	<block key="ChatMsg_emotion_cry_my_target" korean="Вы смотрите на ясно eongeong [цель] с." />
+	<block key="ChatMsg_emotion_smile_my_target" korean="Вы смеетесь значительно глядя на [цель] с." />
+	<block key="ChatMsg_emotion_cheerup_my_target" korean="Вы будет поддерживать [цель] с." />
+	<block key="ChatMsg_emotion_mockery_my_target" korean="Вы должны сделать удовольствие от [цель] с." />
+	<block key="ChatMsg_emotion_cheers_my_target" korean="Вы поднимет смотреть [цель] с." />
+	<block key="ChatMsg_emotion_penalty1_my_target" korean="Вы получите штраф пот [цель] с." />
+	<block key="ChatMsg_emotion_penalty2_my_target" korean="Вы получите штраф труднее [цель] с." />
+	<block key="ChatMsg_emotion_refuse_my_target" korean="Ваш врач раскрывает [Target] Отправить отказ." />
+	<block key="ChatMsg_emotion_angry_my_target" korean="Вы сердитесь смотреть [цель] с." />
+	<block key="ChatMsg_emotion_applause_my_target" korean="Вы попали аплодисменты, наблюдая за [цель] с." />
+	<block key="ChatMsg_emotion_salute_my_target" korean="Вы [Target] Ответ на приветствия." />
+	<block key="ChatMsg_emotion_beg_my_target" korean="Вы должны [цель] ответ на попрошайничество." />
+	<block key="ChatMsg_emotion_cheek_my_target" korean="Вы [Target] является ttaerip это пощечина трудно." />
+	<block key="ChatMsg_emotion_slapped_my_target" korean="Вы [Target] апа удар попал." />
+	<block key="ChatMsg_emotion_beg2_my_target" korean="Вы пишете [Target] Отправить стадо. Цзин ныть" />
+	<block key="ChatMsg_emotion_step_my_target" korean="У вас есть возможность так сложно, как в [цель] с. Puck peokpeok" />
+	<block key="ChatMsg_emotion_affirmation_my_target" korean="Вы смотрите на [Target] показывает врача положительным." />
+	<block key="ChatMsg_emotion_win_others_target" korean="[Актер] писал [цель], глядя на ответ радоваться победе." />
+	<block key="ChatMsg_emotion_lose_others_target" korean="[Актер] писал смотреть [Target] S Я чувствую себя побежденным." />
+	<block key="ChatMsg_emotion_confession_others_target" korean="[Актер] писал [Target] Отправить застенчиво признается." />
+	<block key="ChatMsg_emotion_surprise_others_target" korean="[Актер] написал очень удивлен, увидев [цель] Су." />
+	<block key="ChatMsg_emotion_charge_others_target" korean="[Актер] берет на себя ответственность по отношению к [цель] с." />
+	<block key="ChatMsg_emotion_shame_others_target" korean="[Актер] взял неловко смотреть [цель] с." />
+	<block key="ChatMsg_emotion_greeting_others_target" korean="[Актер] писал [цель] ответное руки на прощание." />
+	<block key="ChatMsg_emotion_joyful_others_target" korean="[Актер] принял восторг, наблюдая [цель] с." />
+	<block key="ChatMsg_emotion_cry_others_target" korean="[Актер] писал eongeong ясно, глядя на [цель] с." />
+	<block key="ChatMsg_emotion_smile_others_target" korean="[Актер] писал очень смеяться, наблюдая [цель] с." />
+	<block key="ChatMsg_emotion_cheerup_others_target" korean="[Актер] написал ура [цель] с." />
+	<block key="ChatMsg_emotion_mockery_others_target" korean="[Актер] писал издеваться над [цель] с." />
+	<block key="ChatMsg_emotion_cheers_others_target" korean="[Актер] принял ура, наблюдая, как [цель] с." />
+	<block key="ChatMsg_emotion_penalty1_others_target" korean="[Актер] писал получают штраф пот [цель] с." />
+	<block key="ChatMsg_emotion_penalty2_others_target" korean="[Актер] S трудно получить штраф за [цель] с." />
+	<block key="ChatMsg_emotion_refuse_others_target" korean="[Актер] раскрывает врач написал [Target] Отправить отказ." />
+	<block key="ChatMsg_emotion_angry_others_target" korean="[Актер] писал сердиться смотреть [цель] с." />
+	<block key="ChatMsg_emotion_applause_others_target" korean="[Актер] писал смотреть [Target] 'ы хит аплодисменты." />
+	<block key="ChatMsg_emotion_salute_others_target" korean="[Актер] писал [цель] ответное приветствие." />
+	<block key="ChatMsg_emotion_beg_others_target" korean="[Актер] писал [цель] ответ на попрошайничество." />
+	<block key="ChatMsg_emotion_cheek_others_target" korean="[Актер] писал [Target] является ttaerip это пощечина трудно." />
+	<block key="ChatMsg_emotion_slapped_others_target" korean="[Актер] писал [Target] апа удар попал." />
+	<block key="ChatMsg_emotion_beg2_others_target" korean="[Актер] писал [Target] пишет ответ на стадо. Цзин ныть" />
+	<block key="ChatMsg_emotion_step_others_target" korean="[Актер] писал топтали так сложно, как [цель] с. Puck peokpeok" />
+	<block key="ChatMsg_emotion_affirmation_others_target" korean="[Актер] писал смотреть [Target] показывает врача положительным." />
+	<block key="ChatMsg_emotion_win_yours" korean="[Актер] принял восторг, наблюдая вы выиграете." />
+	<block key="ChatMsg_emotion_lose_yours" korean="[Актер] ищут: вы чувствуете себя проигравшим." />
+	<block key="ChatMsg_emotion_confession_yours" korean="[Актер] писал робко признаться вам." />
+	<block key="ChatMsg_emotion_surprise_yours" korean="[Актер] написал очень удивлен, увидев вас." />
+	<block key="ChatMsg_emotion_charge_yours" korean="[Актер] берет на себя ответственность по отношению к вам." />
+	<block key="ChatMsg_emotion_shame_yours" korean="[Актер] взял неловко смотрит на тебя." />
+	<block key="ChatMsg_emotion_greeting_yours" korean="[Актер] принял вам в руки на прощание." />
+	<block key="ChatMsg_emotion_joyful_yours" korean="[Актер] принял восторг смотрит на тебя." />
+	<block key="ChatMsg_emotion_cry_yours" korean="[Актер] S ясно eongeong смотрит на тебя." />
+	<block key="ChatMsg_emotion_smile_yours" korean="[Актер] писал очень смеяться на тебя смотрят." />
+	<block key="ChatMsg_emotion_cheerup_yours" korean="[Актер] написал, чтобы подбодрить вас." />
+	<block key="ChatMsg_emotion_mockery_yours" korean="[Актер] писал высмеивать вас." />
+	<block key="ChatMsg_emotion_cheers_yours" korean="[Актер] принял ура смотрит на тебя." />
+	<block key="ChatMsg_emotion_penalty1_yours" korean="[Актер] писал вам наказываться пролить пота." />
+	<block key="ChatMsg_emotion_penalty2_yours" korean="[Актер] написал это тяжелее для Вас, чтобы получить наказание." />
+	<block key="ChatMsg_emotion_refuse_yours" korean="[Актер] показывает, отказ врача к вам." />
+	<block key="ChatMsg_emotion_angry_yours" korean="[Актер] писал сердиться на тебя смотрят." />
+	<block key="ChatMsg_emotion_applause_yours" korean="[Актер] писал досмотреть ваши аплодисменты." />
+	<block key="ChatMsg_emotion_salute_yours" korean="[Актер] принял вам честь." />
+	<block key="ChatMsg_emotion_beg_yours" korean="[Актер] принял вас нищего." />
+	<block key="ChatMsg_emotion_cheek_yours" korean="[Актер] написал это так сложно, как можно ttaerip вашего пощечину." />
+	<block key="ChatMsg_emotion_slapped_yours" korean="[Актер] принял удар больно вам пощечину." />
+	<block key="ChatMsg_emotion_beg2_yours" korean="[Актер] писал вам в письменном виде освобождения. Цзин ныть" />
+	<block key="ChatMsg_emotion_step_yours" korean="[Актер] Я видел, как ты ходить по трудно. Puck peokpeok" />
+	<block key="ChatMsg_emotion_affirmation_yours" korean="[Актер] для: поговорить с врачом, раскрывает положительное." />
+	<block key="ChatMsg_emotion_win_my_notarget" korean="Вы будете рады, чтобы победить." />
+	<block key="ChatMsg_emotion_lose_my_notarget" korean="Вы чувствуете себя проигравшим." />
+	<block key="ChatMsg_emotion_confession_my_notarget" korean="Вы должны признать, застенчиво." />
+	<block key="ChatMsg_emotion_surprise_my_notarget" korean="Вы очень удивлен." />
+	<block key="ChatMsg_emotion_charge_my_notarget" korean="Вы должны штурма." />
+	<block key="ChatMsg_emotion_shame_my_notarget" korean="Вам должно быть стыдно." />
+	<block key="ChatMsg_emotion_greeting_my_notarget" korean="Вы должны передать до свидания." />
+	<block key="ChatMsg_emotion_joyful_my_notarget" korean="Вы будете рады." />
+	<block key="ChatMsg_emotion_cry_my_notarget" korean="Вы eongeong ясно." />
+	<block key="ChatMsg_emotion_smile_my_notarget" korean="Вы сильно смеяться." />
+	<block key="ChatMsg_emotion_cheerup_my_notarget" korean="Будете ли вы поднять." />
+	<block key="ChatMsg_emotion_mockery_my_notarget" korean="Вы должны высмеивать." />
+	<block key="ChatMsg_emotion_cheers_my_notarget" korean="Вы должны на ура." />
+	<block key="ChatMsg_emotion_penalty1_my_notarget" korean="Вы получите штраф пот." />
+	<block key="ChatMsg_emotion_penalty2_my_notarget" korean="Чем сильнее вы получите штраф." />
+	<block key="ChatMsg_emotion_refuse_my_notarget" korean="Вы раскрывает намерения отказа." />
+	<block key="ChatMsg_emotion_angry_my_notarget" korean="Вы сердитесь." />
+	<block key="ChatMsg_emotion_applause_my_notarget" korean="Вы попали аплодисменты." />
+	<block key="ChatMsg_emotion_salute_my_notarget" korean="Вы должны приветствовать." />
+	<block key="ChatMsg_emotion_beg_my_notarget" korean="Вы должны просить." />
+	<block key="ChatMsg_emotion_cheek_my_notarget" korean="Вы ttaerip как сильный удар." />
+	<block key="ChatMsg_emotion_slapped_my_notarget" korean="Вы должны ударить удар больно." />
+	<block key="ChatMsg_emotion_beg2_my_notarget" korean="Вы пишете стадо. Цзин ныть" />
+	<block key="ChatMsg_emotion_step_my_notarget" korean="У вас есть возможность как можно сильнее. Puck peokpeok" />
+	<block key="ChatMsg_emotion_affirmation_my_notarget" korean="Ваш врач раскрывает положительные." />
+	<block key="ChatMsg_emotion_win_others_notarget" korean="[Актер] взял удовольствие в победе." />
+	<block key="ChatMsg_emotion_lose_others_notarget" korean="[Актер] писал чувствуете себя проигравшим." />
+	<block key="ChatMsg_emotion_confession_others_notarget" korean="[Актер] писал признается застенчиво." />
+	<block key="ChatMsg_emotion_surprise_others_notarget" korean="[Актер] написал очень удивлен." />
+	<block key="ChatMsg_emotion_charge_others_notarget" korean="[Актер] берет на себя ответственность." />
+	<block key="ChatMsg_emotion_shame_others_notarget" korean="[Актер] принял стыдно." />
+	<block key="ChatMsg_emotion_greeting_others_notarget" korean="[Актер] взял руки персонала." />
+	<block key="ChatMsg_emotion_joyful_others_notarget" korean="[Актер] принял восторг." />
+	<block key="ChatMsg_emotion_cry_others_notarget" korean="[Актер] писал eongeong ясно." />
+	<block key="ChatMsg_emotion_smile_others_notarget" korean="[Актер] писал очень смеяться." />
+	<block key="ChatMsg_emotion_cheerup_others_notarget" korean="[Актер] написал приветствие." />
+	<block key="ChatMsg_emotion_mockery_others_notarget" korean="[Актер] писал насмешек." />
+	<block key="ChatMsg_emotion_cheers_others_notarget" korean="[Актер] принял ура." />
+	<block key="ChatMsg_emotion_penalty1_others_notarget" korean="[Актер] писал получают штраф пот." />
+	<block key="ChatMsg_emotion_penalty2_others_notarget" korean="[Актер] S трудно получить штраф." />
+	<block key="ChatMsg_emotion_refuse_others_notarget" korean="[Актер] показывает, отказ врача." />
+	<block key="ChatMsg_emotion_angry_others_notarget" korean="[Актер] писал ума." />
+	<block key="ChatMsg_emotion_applause_others_notarget" korean="[Актер] писал, чтобы закончить аплодисменты." />
+	<block key="ChatMsg_emotion_salute_others_notarget" korean="[Актер] принял салют." />
+	<block key="ChatMsg_emotion_beg_others_notarget" korean="[Актер] имеет просить милостыню." />
+	<block key="ChatMsg_emotion_cheek_others_notarget" korean="[Актер] писал ttaerip сложно, как пощечина." />
+	<block key="ChatMsg_emotion_slapped_others_notarget" korean="[Актер] S это больно ударил пощечину." />
+	<block key="ChatMsg_emotion_beg2_others_notarget" korean="[Актер] писал пишет стадо. Цзин ныть" />
+	<block key="ChatMsg_emotion_step_others_notarget" korean="[Актер] писал топтали трудно. Puck peokpeok" />
+	<block key="ChatMsg_emotion_affirmation_others_notarget" korean="[Актер] показывает намерение положительный ответ." />
+</blocks>

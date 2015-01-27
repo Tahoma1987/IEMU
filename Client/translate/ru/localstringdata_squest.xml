@@ -1,0 +1,74 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="squest_sf_01" korean="Борьба с угрозой окружающей" />
+	<block key="squest_sf_02" korean="Будьте леса, чтобы избежать бюстгальтер карбоновые" />
+	<block key="squest_sf_03_part_01" korean="Познакомлюсь Ворона" />
+	<block key="squest_sf_04" korean="Способ хищные птицы являются способом" />
+	<block key="squest_sf_04_part_01" korean="Лидеры научиться укрощать" />
+	<block key="squest_sf_04_part_02" korean="Получить власть тьмы" />
+	<block key="squest_hk_01" korean="Будьте готовы, чтобы получить царство" />
+	<block key="squest_hk_03" korean="Экстремальные животных" />
+	<block key="squest_hk_02" korean="Риск пожара проглотил руинах" />
+	<block key="squest_hk_021" korean="Im вторжение Кобб Церкви" />
+	<block key="squest_hk_04" korean="Путаница в Северной" />
+	<block key="squest_hk_05" korean="Секрет вампира" />
+	<block key="squest_hk_06" korean="Те, кто сеет смерть" />
+	<block key="squest_hk_07" korean="План Саран агента" />
+	<block key="squest_hk_08" korean="LA против дракона бури" />
+	<block key="squest_hk_09" korean="Опасностей, возникающих гендера" />
+	<block key="squest_hkd_01" korean="Пожалуйста, убедитесь, отрывок о" />
+	<block key="squest_hkd_02" korean="Пожалуйста, поддержите строительную площадку" />
+	<block key="squest_hkd_03" korean="Seukan государственные колледжи против Лос-Анджелес" />
+	<block key="squest_hkd_04" korean="Ищите признаки принцессы" />
+	<block key="squest_hkd_05" korean="Инцидент произошел в радужных коралловых рифов" />
+	<block key="squest_f02_g_01" korean="Будьте бежать землю турбулентности" />
+	<block key="squest_st_01" korean="Образ жизни в озере" />
+	<block key="squest_st_01_part_01" korean="Озеро закрытой жизни" />
+	<block key="squest_st_01_part_02" korean="Страдания Гаррисона" />
+	<block key="squest_st_02" korean="Тень Берег правый, берег левый" />
+	<block key="squest_st_02_part_01" korean="Уничтожьте Пираты серьезно" />
+	<block key="squest_st_02_part_02" korean="Цель пиратов." />
+	<block key="squest_st_03" korean="Пардо и тоска Богини" />
+	<block key="squest_st_03_part_01" korean="Мезиальный mureo mijok" />
+	<block key="squest_st_03_part_02" korean="Отдел mureo mijok" />
+	<block key="squest_st_03_part_03" korean="Благословение богини" />
+	<block key="squest_st_04" korean="Ice Castle ориентации назад" />
+	<block key="squest_st_04_part_01" korean="Проклятие льду" />
+	<block key="squest_st_04_part_02" korean="Найти Рания 0 акций" />
+	<block key="squest_ca_04" korean="Воздушное пространство разрушения" />
+	<block key="squest_ca_04_part_01" korean="Многожильный киты" />
+	<block key="squest_ca_04_part_02" korean="Pegasus Рыцари" />
+	<block key="squest_ca_04_part_03" korean="Последний бой" />
+	<block key="squest_pl_01" korean="По Parque моя земля" />
+	<block key="squest_pl_01_part_01" korean="По Parque моя земля" />
+	<block key="squest_pl_02" korean="Пираты бюст" />
+	<block key="squest_pl_02_part_01" korean="Пираты бюст" />
+	<block key="squest_pl_03" korean="Отдел mureo Миддлтон" />
+	<block key="squest_pl_03_part_01" korean="Отдел mureo Миддлтон" />
+	<block key="squest_pl_04" korean="Найдите зеркало воды" />
+	<block key="squest_pl_04_part_01" korean="Найдите зеркало воды" />
+	<block key="squest_pl_05" korean="Разрушенный усадьба" />
+	<block key="squest_pl_05_part_01" korean="Разрушенный усадьба" />
+	<block key="squest_ed_01" korean="Пионерские Деревня в пустыне" />
+	<block key="squest_ed_01_part_01" korean="Атака на родном Haba yongbyeongdan" />
+	<block key="squest_ed_02" korean="Похищенные золотой рудник" />
+	<block key="squest_ed_02_part_01" korean="Должны уничтожить yongbyeongdan" />
+	<block key="squest_ed_03" korean="Пустыня Brage" />
+	<block key="squest_ed_03_part_01" korean="Транспорт подъем Джерси" />
+	<block key="squest_ed_04" korean="Золотой грифон Рыцари" />
+	<block key="squest_ed_04_part_01" korean="Мутации Griffon" />
+	<block key="squest_ed_05" korean="Король пустыни" />
+	<block key="squest_ed_05_part_01" korean="Кен Гриффит аудитория" />
+	<block key="squest_ed_06" korean="Kuhn казармы Croix район" />
+	<block key="squest_ed_06_part_01" korean="Fallen пустыня Croix Kuhn" />
+	<block key="squest_ed_07" korean="Найти Пророка" />
+	<block key="squest_ed_07_part_01" korean="Пожалуйста Croix Храм Тайн" />
+	<block key="squest_ed_08" korean="Давайте двигаться." />
+	<block key="squest_ed_08_part_01" korean="Будьте спасти принцессу!" />
+</blocks>

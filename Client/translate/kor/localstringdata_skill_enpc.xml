@@ -1,0 +1,204 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="moramp2_Name" korean="희생" />
+	<block key="moramp2_Description_1" korean="희생" />
+	<block key="mofigo1_Name" korean="대지 치기" />
+	<block key="mofigo1_Description_1" korean="대지 치기" />
+	<block key="mofigo2_Name" korean="대지 부수기" />
+	<block key="mofigo2_Description_1" korean="대지 부수기" />
+	<block key="mosantinl05_Name" korean="차가운 얼음 기둥" />
+	<block key="mosantinl05_Description_1" korean="차가운 얼음 기둥" />
+	<block key="mogarmu03_Name" korean="분쇄" />
+	<block key="mogarmu03_Description_1" korean="분쇄" />
+	<block key="mobragseld00_Name" korean="혼신의 일격" />
+	<block key="mobragseld00_Description_1" korean="혼신의 일격" />
+	<block key="morzt1_Name" korean="연속 베기" />
+	<block key="morzt1_Description_1" korean="연속 베기" />
+	<block key="morzt2_Name" korean="심판의 화염구" />
+	<block key="morzt2_Description_1" korean="심판의 화염구" />
+	<block key="morzt3_Name" korean="불의 화신" />
+	<block key="morzt3_Description_1" korean="불의 화신" />
+	<block key="morzt4_Name" korean="심판의 운석" />
+	<block key="morzt4_Description_1" korean="심판의 운석" />
+	<block key="morzt5_Name" korean="심판의 운석" />
+	<block key="morzt5_Description_1" korean="심판의 운석" />
+	<block key="momupa1_Name" korean="올려 치기" />
+	<block key="momupa1_Description_1" korean="올려 치기" />
+	<block key="momupa2_Name" korean="대지 타격" />
+	<block key="momupa2_Description_1" korean="대지 타격" />
+	<block key="momupa3_Name" korean="강력한 밟기" />
+	<block key="momupa3_Description_1" korean="강력한 밟기" />
+	<block key="momupa4_Name" korean="최후의 저항" />
+	<block key="momupa4_Description_1" korean="최후의 저항" />
+	<block key="momupa5_Name" korean="최후의 저항" />
+	<block key="momupa5_Description_1" korean="최후의 저항" />
+	<block key="momupa6_Name" korean="최후의 저항" />
+	<block key="momupa6_Description_1" korean="최후의 저항" />
+	<block key="mohama1_Name" korean="어깨 치기" />
+	<block key="mohama1_Description_1" korean="어깨 치기" />
+	<block key="mohama2_Name" korean="발 구르기" />
+	<block key="mohama2_Description_1" korean="발 구르기" />
+	<block key="mohama3_Name" korean="두부 강타" />
+	<block key="mohama3_Description_1" korean="두부 강타" />
+	<block key="mohama4_Name" korean="최후의 저항" />
+	<block key="mohama4_Description_1" korean="최후의 저항" />
+	<block key="mohama5_Name" korean="최후의 저항" />
+	<block key="mohama5_Description_1" korean="최후의 저항" />
+	<block key="mohama6_Name" korean="최후의 저항" />
+	<block key="mohama6_Description_1" korean="최후의 저항" />
+	<block key="mokas1_Name" korean="진공 베기" />
+	<block key="mokas1_Description_1" korean="진공 베기" />
+	<block key="mokas2_Name" korean="모래 바람 가르기" />
+	<block key="mokas2_Description_1" korean="모래 바람 가르기" />
+	<block key="mokas3_Name" korean="사막의 분노" />
+	<block key="mokas3_Description_1" korean="사막의 분노" />
+	<block key="mokas4_Name" korean="사나운 모래 바람" />
+	<block key="mokas4_Description_1" korean="사나운 모래 바람" />
+	<block key="mokas5_Name" korean="분노로 가득찬 모래 바람" />
+	<block key="mokas5_Description_1" korean="분노로 가득찬 모래 바람" />
+	<block key="mokass1_Name" korean="사나운 모래 바람" />
+	<block key="mokass1_Description_1" korean="사나운 모래 바람" />
+	<block key="mokass2_Name" korean="사나운 모래 바람" />
+	<block key="mokass2_Description_1" korean="사나운 모래 바람" />
+	<block key="mokasv1_Name" korean="진공 베기" />
+	<block key="mokasv1_Description_1" korean="진공 베기" />
+	<block key="mojas1_Name" korean="화염구" />
+	<block key="mojas2_Name" korean="춤추는 불기둥" />
+	<block key="mojas3_Name" korean="눈사태" />
+	<block key="mojas4_Name" korean="절대 영도" />
+	<block key="mojas5_Name" korean="잠식하는 어둠" />
+	<block key="mojas6_Name" korean="빛의 향연" />
+	<block key="mojas7_Name" korean="찬란한 섬광" />
+	<block key="mojas8_Name" korean="깊은 어둠" />
+	<block key="mojasa1_Name" korean="춤추는 불기둥" />
+	<block key="mojasa2_Name" korean="빛의 향연" />
+	<block key="mojasa3_Name" korean="깊은 어둠" />
+	<block key="mojasa4_Name" korean="춤추는 불기둥" />
+	<block key="mosin1_Name" korean="죽음의 표식" />
+	<block key="mosin2_Name" korean="춤추는 단검" />
+	<block key="mosin3_Name" korean="연막" />
+	<block key="mosin4_Name" korean="허상" />
+	<block key="mosin5_Name" korean="용오름" />
+	<block key="mosin6_Name" korean="벼락" />
+	<block key="mosin7_Name" korean="집중" />
+	<block key="mosin8_Name" korean="광기의 질주" />
+	<block key="mosin9_Name" korean="광기의 질주" />
+	<block key="mosin10_Name" korean="광기의 질주" />
+	<block key="mosin11_Name" korean="광기의 질주" />
+	<block key="mosin12_Name" korean="광기의 질주" />
+	<block key="mosins1_Name" korean="연막" />
+	<block key="moruinbow1_Name" korean="모래 화살" />
+	<block key="momohabosal01_Name" korean="날카로운 창" />
+	<block key="mokrokbowmangs00_Name" korean="크로쿤의 화살" />
+	<block key="mokrokpriesgs01_Name" korean="용맹의 상징" />
+	<block key="mokrokpriesgs00_Name" korean="치유" />
+	<block key="mosinf1_Name" korean="광기의 질주" />
+	<block key="mosinf2_Name" korean="춤추는 단검" />
+	<block key="mosinf3_Name" korean="연막" />
+	<block key="mosinf4_Name" korean="용오름" />
+	<block key="morg1_Name" korean="거친 반격" />
+	<block key="morg2_Name" korean="사자후" />
+	<block key="morg3_Name" korean="대지 폭발" />
+	<block key="morg4_Name" korean="대지 폭발" />
+	<block key="morg5_Name" korean="암살대 호출" />
+	<block key="morg6_Name" korean="방어 태세" />
+	<block key="morg7_Name" korean="방어 태세" />
+	<block key="morg8_Name" korean="방어 태세" />
+	<block key="morg9_Name" korean="방어 태세" />
+	<block key="morg10_Name" korean="불기둥" />
+	<block key="mobm1_Name" korean="공구던지기" />
+	<block key="mobm2_Name" korean="약품 던지기" />
+	<block key="mobm3_Name" korean="폭탄 던지기" />
+	<block key="mobtw1_Name" korean="모래바람" />
+	<block key="mobtf1_Name" korean="불기둥" />
+	<block key="mobtic1_Name" korean="얼음화살" />
+	<block key="mobti1_Name" korean="철기둥" />
+	<block key="mobma1_Name" korean="함정 작동" />
+	<block key="mobma2_Name" korean="함정 작동" />
+	<block key="mobma3_Name" korean="함정 작동" />
+	<block key="mobma4_Name" korean="함정 작동" />
+	<block key="moshm1_Name" korean="도끼 휘두르기" />
+	<block key="moshm2_Name" korean="술 마시기" />
+	<block key="moshm3_Name" korean="술통 던지기" />
+	<block key="moshm4_Name" korean="수비대 호출" />
+	<block key="moyrs1_Name" korean="난도질" />
+	<block key="moyrs2_Name" korean="찌르기" />
+	<block key="moyrs3_Name" korean="침착한 대응" />
+	<block key="moyrs4_Name" korean="침착한 대응" />
+	<block key="moyrs5_Name" korean="침착한 대응" />
+	<block key="moyrs6_Name" korean="침착한 대응" />
+	<block key="moyrs7_Name" korean="공격대 호출" />
+	<block key="moyrs8_Name" korean="거친 반격" />
+	<block key="momnc1_Name" korean="위대한 치유 - 로데쉬" />
+	<block key="momnc11_Name" korean="위대한 치유" />
+	<block key="momnc2_Name" korean="신전의 상징" />
+	<block key="momnc3_Name" korean="징벌의 빛" />
+	<block key="momnc4_Name" korean="불가침의 상징" />
+	<block key="momnc5_Name" korean="생명의 부활" />
+	<block key="momnc6_Name" korean="심판의 운석" />
+	<block key="momnc7_Name" korean="툰드라" />
+	<block key="momnc8_Name" korean="매서운 툰드라" />
+	<block key="momnco1_Name" korean="툰드라" />
+	<block key="momta1_Name" korean="툰드라" />
+	<block key="momip1_Name" korean="얼음 기둥" />
+	<block key="momjm1_Name" korean="심판의 운석" />
+	<block key="momupar1_Name" korean="거친 반격" />
+	<block key="mohamar1_Name" korean="거친 반격" />
+	<block key="mokrokgladi00_Name" korean="난도질" />
+	<block key="mokrokgladigs00_Name" korean="난도질" />
+	<block key="momorgaso00_Name" korean="노예 계약" />
+	<block key="modarkremove00_Name" korean="암흑 방출" />
+	<block key="modarkremove00_Description_1" korean="암흑 방출" />
+	<block key="modarkarrows00_Name" korean="해방된 어둠" />
+	<block key="modarkarrows00_Description_1" korean="해방된 어둠" />
+	<block key="modarkshadow01_Name" korean="죽음의 그림자" />
+	<block key="modarkshadow01_Description_1" korean="죽음의 그림자" />
+	<block key="moindarkmo00_Name" korean="어둠속의 포효" />
+	<block key="momc1_Name" korean="업화" />
+	<block key="momc2_Name" korean="폭풍" />
+	<block key="momc3_Name" korean="절단" />
+	<block key="momc4_Name" korean="도약" />
+	<block key="momc5_Name" korean="타오르는 눈빛" />
+	<block key="momc6_Name" korean="침묵의 사슬" />
+	<block key="momc7_Name" korean="검은 마력 변환" />
+	<block key="momc8_Name" korean="마력 폭발" />
+	<block key="momadness00_Name" korean="광기의 외침" />
+	<block key="mocompact00_Name" korean="압축" />
+	<block key="mopollutiona01_Name" korean="오염된 땅" />
+	<block key="mopollutiona01_Description_1" korean="오염된 땅" />
+	<block key="mobloodyb01_Name" korean="피투성이" />
+	<block key="mobloodyb01_Description_1" korean="피투성이" />
+	<block key="mostd1_Name" korean="빌마의 함정" />
+	<block key="mostd2_Name" korean="빌마의 함정" />
+	<block key="momcf1_Name" korean="도약" />
+	<block key="momcf2_Name" korean="절단" />
+	<block key="momcf3_Name" korean="절단" />
+	<block key="momcf4_Name" korean="타오르는 눈빛" />
+	<block key="momcf5_Name" korean="타오르는 눈빛" />
+	<block key="mobragiseld02_Name" korean="엉덩이 찍기" />
+	<block key="mobulls02_Name" korean="리볼트의 징표" />
+	<block key="mobulls03_Name" korean="비트레이의 징표" />
+	<block key="mocactus00_Name" korean="선인장 가시" />
+	<block key="mocactus01_Name" korean="선인장의 수분" />
+	<block key="mobragismisor00_Name" korean="둔기난타" />
+	<block key="mowormhelllink04_Name" korean="모래지옥" />
+	<block key="mowormhelllink05_Name" korean="모래지옥" />
+	<block key="momohahealer03_Name" korean="모래바람" />
+	<block key="momohahealer05_Name" korean="모래바람" />
+	<block key="momohasp00_Name" korean="창던지기" />
+	<block key="momohabosal00_Name" korean="창던지기" />
+	<block key="momahal00_Name" korean="광폭화" />
+	<block key="mosnakep00_Name" korean="맹독" />
+	<block key="mosnakep01_Name" korean="맹독" />
+	<block key="monivar1_Name" korean="망자의 부름" />
+	<block key="mopasit01_Name" korean="부활 의식" />
+	<block key="mobragiseld03_Name" korean="술탄의 분노" />
+	<block key="morashastone00_Name" korean="고통" />
+	<block key="arpoison03_Name" korean="맹독" />
+</blocks>

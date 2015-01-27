@@ -1,0 +1,3776 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Wr_Absorption_Name" korean="기운 흡수" />
+	<block key="Wr_Absorption_Description_1" korean="속성 단계가 1단계 이상인 대상을 죽였을 때, 상태 변화 수치를 흡수하여 10의 수치 당 10의 HP를 회복한다." />
+	<block key="Wr_Absorption_Description_2" korean="속성 단계가 1단계 이상인 대상을 죽였을 때, 상태 변화 수치를 흡수하여 10의 수치 당 10의 HP를 회복한다." />
+	<block key="Wr_Absorption_Description_3" korean="속성 단계가 1단계 이상인 대상을 죽였을 때, 상태 변화 수치를 흡수하여 10의 수치 당 10의 HP를 회복한다." />
+	<block key="Wr_Absorption_Description_4" korean="속성 단계가 1단계 이상인 대상을 죽였을 때, 상태 변화 수치를 흡수하여 10의 수치 당 10의 HP를 회복한다." />
+	<block key="wr_comboslash_Name" korean="3단 베기" />
+	<block key="wr_comboslash_Description_1" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)
+" />
+	<block key="wr_comboslash_Description_1_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_2" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_2_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_3" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_3_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_4" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_4_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_5" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_5_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_6" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_6_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_7" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_7_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_8" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_8_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_9" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_9_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_10" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_10_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_11" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_11_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_12" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_12_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_13" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_13_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_14" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_14_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_15" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_15_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_16" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_16_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_17" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_17_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_18" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_18_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_19" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_19_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash_Description_20" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+
+ - 2타: 스턴
+" />
+	<block key="wr_comboslash_Description_20_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_comboslash2_name" korean="3단 베기" />
+	<block key="wr_combo1_name" korean="[광폭한]3단 베기" />
+	<block key="wr_combo2_name" korean="[광폭한]3단 베기" />
+	<block key="wr_combo3_name" korean="[광폭한]3단 베기" />
+	<block key="wr_combo4_name" korean="[광폭한]3단 베기" />
+	<block key="wr_combo5_name" korean="[광폭한]3단 베기" />
+	<block key="wr_drawing_Name" korean="대상 끌어오기" />
+	<block key="wr_drawing_Description_1" korean="신성한 사슬을 발동하여, 대상은 시전자 앞으로 끌고 온다. 추가 위협 수치가 증가한다." />
+	<block key="wr_counteratt_Name" korean="반격" />
+	<block key="wr_counteratt_Description_1" korean="적의 근접 공격을 쳐낸 뒤 사용 가능한 스킬이며, 대상을 공격하여 무기 공격력에 추가로 99~122의 피해를 입히고 공격 속도를 20% 감소 시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_counteratt_Description_2" korean="적의 근접 공격을 쳐낸 뒤 사용 가능한 스킬이며, 대상을 공격하여 무기 공격력에 추가로 133~162의 피해를 입히고 공격 속도를 20% 감소 시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_counteratt_Description_3" korean="적의 근접 공격을 쳐낸 뒤 사용 가능한 스킬이며, 대상을 공격하여 무기 공격력에 추가로 50~100의 피해를 입히고 공격 속도를 30% 감소 시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_counteratt_Description_4" korean="적의 근접 공격을 쳐낸 뒤 사용 가능한 스킬이며, 대상을 공격하여 무기 공격력에 추가로 50~100의 피해를 입히고 공격 속도를 30% 감소 시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_counteratt_Description_5" korean="적의 근접 공격을 쳐낸 뒤 사용 가능한 스킬이며, 대상을 공격하여 무기 공격력에 추가로 50~100의 피해를 입히고 공격 속도를 30% 감소 시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_counteratt_Description_6" korean="적의 근접 공격을 쳐낸 뒤 사용 가능한 스킬이며, 대상을 공격하여 무기 공격력에 추가로 50~100의 피해를 입히고 공격 속도를 30% 감소 시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_courage_Name" korean="용기의 외침" />
+	<block key="wr_courage_description_1" korean="함성을 질러 자신과 주변 파티원의 전투력을 5분 동안 공격력을 증가 시킨다." />
+	<block key="wr_courage_description_2" korean="함성을 질러 자신과 주변 파티원의 전투력을 5분 동안 공격력을 증가 시킨다." />
+	<block key="wr_courage_description_3" korean="함성을 질러 자신과 주변 파티원의 전투력을 5분 동안 공격력을 증가 시킨다." />
+	<block key="wr_courage_description_4" korean="함성을 질러 자신과 주변 파티원의 전투력을 5분 동안 공격력을 증가 시킨다." />
+	<block key="wr_courage_description_5" korean="함성을 질러 자신과 주변 파티원의 전투력을 5분 동안 공격력을 증가 시킨다." />
+	<block key="wr_courage_description_6" korean="함성을 질러 자신과 주변 파티원의 전투력을 5분 동안 공격력을 증가 시킨다." />
+	<block key="wr_courage_description_7" korean="함성을 질러 자신과 주변 파티원의 전투력을 5분 동안 공격력을 증가 시킨다." />
+	<block key="wr_courage_description_8" korean="함성을 질러 자신과 주변 파티원의 전투력을 5분 동안 공격력을 증가 시킨다." />
+	<block key="wr_courage_description_9" korean="함성을 질러 자신과 주변 파티원의 전투력을 5분 동안 공격력을 증가 시킨다." />
+	<block key="wr_courage_description_10" korean="함성을 질러 자신과 주변 파티원의 전투력을 5분 동안 공격력을 증가 시킨다." />
+	<block key="wr_deepstab_Name" korean="깊은 자상" />
+	<block key="wr_deepstab_Description_1" korean="적을 베어서 무기 공격력에 추가로 5~6의 피해를 주고, 6초동안 2초마다 한번 씩 MP를 6만큼 소멸시킨다. 추가로 위협수치가 증가한다." />
+	<block key="wr_deepstab_Description_2" korean="적을 베어서 무기 공격력에 추가로 10~11의 피해를 주고, 6초동안 2초마다 한번 씩 MP를 12만큼 소멸시킨다. 추가로 위협수치가 증가한다." />
+	<block key="wr_deepstab_Description_3" korean="적을 베어서 무기 공격력에 추가로 19~21의 피해를 주고, 6초동안 2초마다 한번 씩 MP를 8만큼 소멸시킨다. 추가로 위협수치가 증가한다." />
+	<block key="wr_deepstab_Description_4" korean="적을 베어서 무기 공격력에 추가로 16~18의 피해를 주고, 6초동안 2초마다 한번 씩 MP를 8만큼 소멸시킨다. 추가로 위협수치가 증가한다." />
+	<block key="wr_defstanceini_Name" korean="방어자세 초기화" />
+	<block key="wr_defstanceini_Description_1" korean="방어자세 스킬의 쿨타임 시간을 초기화 하고, 방어 자세에서 물리 방어력을 높이고, 마나 소모율을 줄인다." />
+	<block key="wr_defstanceini_Description_2" korean="방어자세 스킬의 쿨타임 시간을 초기화 하고, 방어 자세에서 물리 방어력을 높이고, 마나 소모율을 줄인다." />
+	<block key="wr_defstanceini_Description_3" korean="방어자세 스킬의 쿨타임 시간을 초기화 하고, 방어 자세에서 물리 방어력을 높이고, 마나 소모율을 줄인다." />
+	<block key="wr_defup_Name" korean="방어력 증가" />
+	<block key="wr_defup_Description_1" korean="20초 동안 물리 방어력을 5% 증가시킨다. 방어 자세에서 사용 가능." />
+	<block key="wr_defup_Description_2" korean="20초 동안 물리 방어력을 10% 증가시킨다. 방어 자세에서 사용 가능." />
+	<block key="wr_defup_Description_3" korean="20초 동안 물리 방어력을 15% 증가시킨다. 방어 자세에서 사용 가능." />
+	<block key="wr_dexup_Name" korean="민첩 증가" />
+	<block key="wr_dexup_Description_1" korean="민첩성을 영구적으로 3 증가시킨다." />
+	<block key="wr_dexup_Description_2" korean="민첩성을 영구적으로 6 증가시킨다." />
+	<block key="wr_dexup_Description_3" korean="민첩성을 영구적으로 9 증가시킨다." />
+	<block key="wr_dexup_Description_4" korean="민첩성을 영구적으로 12 증가시킨다." />
+	<block key="wr_dexup_Description_5" korean="민첩성을 영구적으로 1 증가시킨다." />
+	<block key="wr_dexup_Description_6" korean="민첩성을 영구적으로 1 증가시킨다." />
+	<block key="wr_disarming_Name" korean="무장 해제" />
+	<block key="wr_disarming_Description_1" korean="대상의 방어구를 일정 시간 동안 무장해제 시켜 방어력을 약화시킨다." />
+	<block key="wr_disarming_Description_2" korean="대상의 방어구를 일정 시간 동안 무장해제 시켜 방어력을 약화시킨다." />
+	<block key="wr_disarming_Description_3" korean="대상의 방어구를 일정 시간 동안 무장해제 시켜 방어력을 약화시킨다." />
+	<block key="wr_doubleslash_Name" korean="2단 베기" />
+	<block key="wr_doubleslash_Description_1" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_2" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_3" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_4" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_5" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_6" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_7" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_8" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_9" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_10" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_11" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_12" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_13" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_14" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_15" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_16" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_17" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_18" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_19" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash_Description_20" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - <G_Y>[공격 시]</G_Y> <R_Y>[분노 5을 생성]</R_Y>합니다." />
+	<block key="wr_doubleslash2_Name" korean="2단 베기" />
+	<block key="wr_doubleslash2_Description_1" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_2" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_3" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_4" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_5" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_6" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_7" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_8" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_9" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_10" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_11" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_12" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_13" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_14" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_15" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_16" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_17" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_18" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_19" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_doubleslash2_Description_20" korean="대상을 연속으로 두 번 빠르게 베어버립니다. 
+
+ - 공격 시 분노를 10만큼 생성합니다." />
+	<block key="wr_earthdevide_Name" korean="대지 폭발" />
+	<block key="wr_earthdevide_Description_1" korean="무기로 바닥을 내리 찍어 지반을 갈라 영역내의 대상에게 무기 공격력에 추가로 16~18의 피해를 주고,  일정 거리를 밀려나 넘어지게 만든다." />
+	<block key="wr_earthdevide_Description_2" korean="무기로 바닥을 내리 찍어 지반을 갈라 영역내의 대상에게 무기 공격력에 추가로 24~26의 피해를 주고,  일정 거리를 밀려나 넘어지게 만든다." />
+	<block key="wr_earthdevide_Description_3" korean="무기로 바닥을 내리 찍어 지반을 갈라 영역내의 대상에게 무기 공격력에 추가로 26~28의 피해를 주고,  일정 거리를 밀려나 넘어지게 만든다." />
+	<block key="wr_earthdevide_Description_4" korean="무기로 바닥을 내리 찍어 지반을 갈라 영역내의 대상에게 무기 공격력에 추가로 26~28의 피해를 주고,  일정 거리를 밀려나 넘어지게 만든다." />
+	<block key="wr_earthdevide_Description_5" korean="무기로 바닥을 내리 찍어 지반을 갈라 영역내의 대상에게 무기 공격력에 추가로 26~28의 피해를 주고,  일정 거리를 밀려나 넘어지게 만든다." />
+	<block key="wr_earthdevide_Description_6" korean="무기로 바닥을 내리 찍어 지반을 갈라 영역내의 대상에게 무기 공격력에 추가로 26~28의 피해를 주고,  일정 거리를 밀려나 넘어지게 만든다." />
+	<block key="wr_finalatt_Name" korean="최후의 공격" />
+	<block key="wr_finalatt_Description_1" korean="밀치기 이후에 사용할 수 있는 상급 스킬로 넉백된 대상을 점프공격으로 내리찍어 피해를 주고, 피해의 일정 비율을 자신의 HP로 회복한다." />
+	<block key="wr_finalatt_Description_2" korean="밀치기 이후에 사용할 수 있는 상급 스킬로 넉백된 대상을 점프공격으로 내리찍어 피해를 주고, 피해의 일정 비율을 자신의 HP로 회복한다." />
+	<block key="wr_finalatt_Description_3" korean="밀치기 이후에 사용할 수 있는 상급 스킬로 넉백된 대상을 점프공격으로 내리찍어 피해를 주고, 피해의 일정 비율을 자신의 HP로 회복한다." />
+	<block key="Wr_FirAtk_Name" korean="속성 공격(불)" />
+	<block key="Wr_FirAtk_Description_1" korean="대상의 상태 변화 게이지 1단계를 소모해서, 주변에 있는 적들에게 20 ~ 40의 불 속성 근접 공격을 날린다." />
+	<block key="Wr_FirAtk_Description_2" korean="대상의 상태 변화 게이지 1단계를 소모해서, 주변에 있는 적들에게 30 ~ 60의 불 속성 근접 공격을 날린다." />
+	<block key="Wr_FirAtk_Description_3" korean="대상의 상태 변화 게이지 1단계를 소모해서, 주변에 있는 적들에게 40 ~ 80의 불 속성 근접 공격을 날린다." />
+	<block key="Wr_FirAtk_Description_4" korean="대상의 상태 변화 게이지 1단계를 소모해서, 주변에 있는 적들에게 40 ~ 80의 불 속성 근접 공격을 날린다." />
+	<block key="Wr_FirAtk_Description_5" korean="대상의 상태 변화 게이지 1단계를 소모해서, 주변에 있는 적들에게 40 ~ 80의 불 속성 근접 공격을 날린다." />
+	<block key="wr_heragrip_Name" korean="헤라클래스의 악력" />
+	<block key="wr_heragrip_Description_1" korean="대상의 머리를 잡아서 들어 올려 방패막이로 사용한다. 전방에서의 공격을 막을 수 있으며 방패막이가 된 대상의 체력이 0이 되면 대상은 사라진다." />
+	<block key="wr_heragrip_Description_2" korean="대상의 머리를 잡아서 들어 올려 방패막이로 사용한다. 전방에서의 공격을 막을 수 있으며 방패막이가 된 대상의 체력이 0이 되면 대상은 사라진다." />
+	<block key="wr_heragrip_Description_3" korean="대상의 머리를 잡아서 들어 올려 방패막이로 사용한다. 전방에서의 공격을 막을 수 있으며 방패막이가 된 대상의 체력이 0이 되면 대상은 사라진다." />
+	<block key="wr_herapower_Name" korean="헤라클래스의 힘" />
+	<block key="wr_herapower_Description_1" korean="수정중" />
+	<block key="wr_herapower_Description_2" korean="수정중" />
+	<block key="wr_herapower_Description_3" korean="수정중" />
+	<block key="wr_heraspirit_Name" korean="헤라클래스의 영혼" />
+	<block key="wr_heraspirit_Description_1" korean="수정중" />
+	<block key="wr_heraspirit_Description_2" korean="수정중" />
+	<block key="wr_heraspirit_Description_3" korean="수정중" />
+	<block key="Wr_Indure_Name" korean="버티기" />
+	<block key="Wr_Indure_Description_1" korean="10초 동안 밀려나기 면역 효과가 적용된다." />
+	<block key="Wr_Indure_Description_2" korean="10초 동안 밀려나기 면역 효과가 적용된다." />
+	<block key="Wr_Indure_Description_3" korean="10초 동안 밀려나기 면역 효과가 적용된다." />
+	<block key="Wr_InnerPower_Name" korean="잠재 능력" />
+	<block key="Wr_InnerPower_Description_1" korean="분노를 폭발 시켜서 자신의 무기에 부여된 상태 변화 수치를 일정 시간 동안 3 만큼 증가 시킨다." />
+	<block key="Wr_InnerPower_Description_2" korean="분노를 폭발 시켜서 자신의 무기에 부여된 상태 변화 수치를 일정 시간 동안 5 만큼증가 시킨다." />
+	<block key="Wr_InnerPower_Description_3" korean="분노를 폭발 시켜서 자신의 무기에 부여된 상태 변화 수치를 일정 시간 동안 7 만큼 증가 시킨다." />
+	<block key="wr_kickdown_Name" korean="다리 후리기" />
+	<block key="wr_kickdown_Description_1" korean="대상의 다리를 후려쳐서 넘어뜨리고, 피해를 입힌다." />
+	<block key="wr_kickdown_Description_2" korean="대상의 다리를 후려쳐서 넘어뜨리고, 피해를 입힌다." />
+	<block key="wr_kickdown_Description_3" korean="대상의 다리를 후려쳐서 넘어뜨리고, 피해를 입힌다." />
+	<block key="wr_legattack_Name" korean="힘있게차기" />
+	<block key="wr_legattack_Description_1" korean="대상을 발로 차서 37~46의 피해를 주고, 일정 거리를 밀어낸다. 발차기를 맞은 대상은 10초동안 이동 속도가 50% 감소한다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_legattack_Description_2" korean="대상을 발로 차서 68~83의 피해를 주고, 일정 거리를 밀어낸다. 발차기를 맞은 대상은 10초동안 이동 속도가 50% 감소한다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_legattack_Description_3" korean="대상을 발로 차서 140~171의 피해를 주고, 일정 거리를 밀어낸다. 발차기를 맞은 대상은 10초동안 이동 속도가 50% 감소한다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_legattack_Description_4" korean="대상을 발로 차서 5~6의 피해를 주고, 일정 거리를 밀어낸다. 발차기를 맞은 대상은 10초동안 이동 속도가 50% 감소한다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_legattack_Description_5" korean="대상을 발로 차서 5~6의 피해를 주고, 일정 거리를 밀어낸다. 발차기를 맞은 대상은 10초동안 이동 속도가 50% 감소한다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_mindatt_Name" korean="정신 타격" />
+	<block key="wr_mindatt_Description_1" korean="대상을 공격하여 6~7의 피해를 주고, 5초 동안 시전 속도를 30% 지연시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_mindatt_Description_2" korean="대상을 공격하여 11~12의 피해를 주고, 5초 동안 시전 속도를 30% 지연시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_mindatt_Description_3" korean="대상을 공격하여 20~30의 피해를 주고, 5초 동안 시전 속도를 30% 지연시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_mindatt_Description_4" korean="대상을 공격하여 20~30의 피해를 주고, 5초 동안 시전 속도를 30% 지연시킨다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_nerveblock_Name" korean="신경 차단" />
+	<block key="wr_nerveblock_Description_1" korean="30초 동안 자신의 방어력을 30% 만큼 낮추고, 물리 공격력을 10% 만큼 높힌다." />
+	<block key="wr_nerveblock_Description_2" korean="30초 동안 자신의 방어력을 30% 만큼 낮추고, 물리 공격력을 20% 만큼 높힌다." />
+	<block key="wr_nerveblock_Description_3" korean="30초 동안 자신의 방어력을 30% 만큼 낮추고, 물리 공격력을 70% 만큼 높힌다." />
+	<block key="wr_nerveblock_Description_4" korean="30초 동안 자신의 방어력을 30% 만큼 낮추고, 물리 공격력을 30% 만큼 높힌다." />
+	<block key="wr_parry_Name" korean="쳐내기" />
+	<block key="wr_parry_Description_1" korean="대상의 물리 공격을 10초 동안 4회에 걸쳐 쳐낼 수 있다. 공격이 쳐내진 대상은 일정 시간동안 공격이 불가능하다. 10초 내에 4번 쳐내기가 발동하면 쳐내기 상태가 해제된다." />
+	<block key="wr_parry_Description_2" korean="대상의 물리 공격을 10초 동안 8회에 걸쳐 쳐낼 수 있다. 공격이 쳐내진 대상은 일정 시간동안 공격이 불가능하다. 10초 내에 8번 쳐내기가 발동하면 쳐내기 상태가 해제된다." />
+	<block key="wr_parry_Description_3" korean="대상의 물리 공격을 10초 동안 12회에 걸쳐 쳐낼 수 있다. 공격이 쳐내진 대상은 일정 시간동안 공격이 불가능하다. 10초 내에 12번 쳐내기가 발동하면 쳐내기 상태가 해제된다." />
+	<block key="wr_parry_Description_4" korean="대상의 물리 공격을 10초 동안 16회에 걸쳐 쳐낼 수 있다. 공격이 쳐내진 대상은 일정 시간동안 공격이 불가능하다. 10초 내에 16번 쳐내기가 발동하면 쳐내기 상태가 해제된다." />
+	<block key="wr_hack_Name" korean="난도질" />
+	<block key="wr_hack_Description_1" korean="대상을 정신없이 공격하여, 여러 데미지를 입힌다. 연타 시 최대 6회까지 공격한다." />
+	<block key="wr_piercingheart_Name" korean="심장 뚫기" />
+	<block key="wr_piercingheart_Description_1" korean="대상을 무기로 강하게 찔러 물리 공격력에 추가로 40~80의 피해를 준다. 대상의 방어력을 50% 만큼 무시한다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_piercingheart_Description_2" korean="대상을 무기로 강하게 찔러 물리 공격력에 추가로 21~23의 피해를 준다. 대상의 방어력을 60% 만큼 무시한다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_piercingheart_Description_3" korean="대상을 무기로 강하게 찔러 물리 공격력에 추가로 20~30의 피해를 준다. 대상의 방어력을 70% 만큼 무시한다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_piercingheart_Description_4" korean="대상을 무기로 강하게 찔러 물리 공격력에 추가로 20~30의 피해를 준다. 대상의 방어력을 80% 만큼 무시한다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_piercingheart_Description_5" korean="대상을 무기로 강하게 찔러 물리 공격력에 추가로 20~30의 피해를 준다. 대상의 방어력을 100% 만큼 무시한다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_provoke_Name" korean="도발의 외침" />
+	<block key="wr_provoke_Description_1" korean="단일 대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="wr_provoke_Description_2" korean="단일 대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="wr_provoke_Description_3" korean="단일 대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="wr_provoke_Description_4" korean="단일 대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="wr_provoke_Description_5" korean="단일 대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="wr_provoke_Description_6" korean="단일 대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="wr_provoke_Description_7" korean="단일 대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="wr_provoke_Description_8" korean="단일 대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="wr_provoke_Description_9" korean="단일 대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="wr_provoke_Description_10" korean="단일 대상에게 고함을 쳐서 자신에 대한 위협 수치를 올린다." />
+	<block key="wr_roar_Name" korean="사자후" />
+	<block key="wr_roar_Description_1" korean="적 대상에게 사자후를 날려 사자후 상태로 만든다. 인간 형태의 몬스터만 적용되며, 추가로 위협 수치가 증가한다." />
+	<block key="wr_roar_Description_2" korean="적 대상에게 사자후를 날려 사자후 상태로 만든다. 인간 형태의 몬스터만 적용되며, 추가로 위협 수치가 증가한다." />
+	<block key="wr_roar_Description_3" korean="적 대상에게 사자후를 날려 사자후 상태로 만든다. 인간 형태의 몬스터만 적용되며, 추가로 위협 수치가 증가한다." />
+	<block key="wr_shoulderpush_Name" korean="밀치기" />
+	<block key="wr_shoulderpush_Description_1" korean="3단베기를 쓴 이후 사용할 수 있으며, 대상을 어깨로 밀쳐서 물리 공격력에 추가로 68~83의 피해를 주고 밀려나 넘어지게 만든다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_shoulderpush_Description_2" korean="3단베기를 쓴 이후 사용할 수 있으며, 대상을 어깨로 밀쳐서 물리 공격력에 추가로 120~147의 피해를 주고 밀려나 넘어지게 만든다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_shoulderpush_Description_3" korean="3단베기를 쓴 이후 사용할 수 있으며, 대상을 어깨로 밀쳐서 물리 공격력에 추가로 30~40의 피해를 주고 밀려나 넘어지게 만든다. 추가로 위협 수치가 증가한다." />
+	<block key="wr_shoulderpush_Description_4" korean="3단베기를 쓴 이후 사용할 수 있으며, 대상을 어깨로 밀쳐서 물리 공격력에 추가로 5~10의 피해를 주고 밀려나 넘어지게 만든다. 추가로 위협 수치가 증가한다." />
+	<block key="Wr_combo2link_Name" korean="스턴추가" />
+	<block key="Wr_combo2link_Description_1" korean="<Y_Y>[3단 베기]</Y_Y>를 강화 시킵니다.
+
+<Y_Y>[3단 베기]</Y_Y> 2번째 공격시 100%의 확률로 <G_Y>[스턴]</G_Y>을 발생시킵니다." />
+	<block key="Wr_combo2link_Description_2" korean="<Y_Y>[3단 베기]</Y_Y>를 강화 시킵니다.
+
+<Y_Y>[3단 베기]</Y_Y> 2번째 공격시 100%의 확률로 <G_Y>[스턴]</G_Y>을 발생시킵니다." />
+	<block key="Wr_combo2link_Description_3" korean="<Y_Y>[3단 베기]</Y_Y>를 강화 시킵니다.
+
+<Y_Y>[3단 베기]</Y_Y> 2번째 공격시 100%의 확률로 <G_Y>[스턴]</G_Y>을 발생시킵니다." />
+	<block key="Wr_combo2link_Description_4" korean="<Y_Y>[3단 베기]</Y_Y>를 강화 시킵니다.
+
+<Y_Y>[3단 베기]</Y_Y> 2번째 공격시 100%의 확률로 <G_Y>[스턴]</G_Y>을 발생시킵니다." />
+	<block key="Wr_combo2link_Description_5" korean="<Y_Y>[3단 베기]</Y_Y>를 강화 시킵니다.
+
+<Y_Y>[3단 베기]</Y_Y> 2번째 공격시 100%의 확률로 <G_Y>[스턴]</G_Y>을 발생시킵니다." />
+	<block key="Wr_combo2link_Description_6" korean="<Y_Y>[3단 베기]</Y_Y>를 강화 시킵니다.
+
+<Y_Y>[3단 베기]</Y_Y> 2번째 공격시 100%의 확률로 <G_Y>[스턴]</G_Y>을 발생시킵니다." />
+	<block key="Wr_combo2link_Description_7" korean="<Y_Y>[3단 베기]</Y_Y>를 강화 시킵니다.
+
+<Y_Y>[3단 베기]</Y_Y> 2번째 공격시 100%의 확률로 <G_Y>[스턴]</G_Y>을 발생시킵니다." />
+	<block key="Wr_combo2link_Description_8" korean="<Y_Y>[3단 베기]</Y_Y>를 강화 시킵니다.
+
+<Y_Y>[3단 베기]</Y_Y> 2번째 공격시 100%의 확률로 <G_Y>[스턴]</G_Y>을 발생시킵니다." />
+	<block key="Wr_combo2link_Description_9" korean="<Y_Y>[3단 베기]</Y_Y>를 강화 시킵니다.
+
+<Y_Y>[3단 베기]</Y_Y> 2번째 공격시 100%의 확률로 <G_Y>[스턴]</G_Y>을 발생시킵니다." />
+	<block key="Wr_combo2link_Description_10" korean="<Y_Y>[3단 베기]</Y_Y>를 강화 시킵니다.
+
+<Y_Y>[3단 베기]</Y_Y> 2번째 공격시 100%의 확률로 <G_Y>[스턴]</G_Y>을 발생시킵니다." />
+	<block key="wr_soccerkick_Name" korean="사커킥" />
+	<block key="wr_soccerkick_Description_1" korean="넘어진 대상에게 발차기를 사용 할 수 있게 된다. 바닥에 넘어져 있는 대상을 발로 차서 피해를 주고 멀리 날려버린다." />
+	<block key="wr_soccerkick_Description_2" korean="넘어진 대상에게 발차기를 사용 할 수 있게 된다. 바닥에 넘어져 있는 대상을 발로 차서 피해를 주고 멀리 날려버린다." />
+	<block key="wr_soccerkick_Description_3" korean="넘어진 대상에게 발차기를 사용 할 수 있게 된다. 바닥에 넘어져 있는 대상을 발로 차서 피해를 주고 멀리 날려버린다." />
+	<block key="wr_spiritslash_Name" korean="영혼베기" />
+	<block key="wr_spiritslash_Description_1" korean="대상의 영혼을 베어서 10~20의 피해를 주고 5초 동안 침묵 상태에 빠지게 한다. 시전 중인 스킬은 취소된다." />
+	<block key="wr_spiritslash_Description_2" korean="대상의 영혼을 베어서 10~20의 피해를 주고 5초 동안 침묵 상태에 빠지게 한다. 시전 중인 스킬은 취소된다." />
+	<block key="wr_spiritslash_Description_3" korean="대상의 영혼을 베어서 10~20의 피해를 주고 5초 동안 침묵 상태에 빠지게 한다. 시전 중인 스킬은 취소된다." />
+	<block key="wr_strong_Name" korean="세게 치기" />
+	<block key="wr_strong_Description_1" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다. <O_Y>(25% 확률 리액션 유효타)</O_Y>" />
+	<block key="wr_strong_Description_2" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다. <O_Y>(25% 확률 리액션 유효타)</O_Y>" />
+	<block key="wr_strong_Description_3" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다. <O_Y>(25% 확률 리액션 유효타)</O_Y>" />
+	<block key="wr_strong_Description_4" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다. <O_Y>(25% 확률 리액션 유효타)</O_Y>" />
+	<block key="wr_strong_Description_5" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다. <O_Y>(25% 확률 리액션 유효타)</O_Y>" />
+	<block key="wr_strong_Description_6" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다. <O_Y>(25% 확률 리액션 유효타)</O_Y>" />
+	<block key="wr_strong_Description_7" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다. <O_Y>(25% 확률 리액션 유효타)</O_Y>" />
+	<block key="wr_strong_Description_8" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다. <O_Y>(25% 확률 리액션 유효타)</O_Y>" />
+	<block key="wr_strong_Description_9" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다. <O_Y>(25% 확률 리액션 유효타)</O_Y>" />
+	<block key="wr_strong_Description_10" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다. <O_Y>(25% 확률 리액션 유효타)</O_Y>" />
+	<block key="wr_strong_Description_11" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다. <O_Y>(25% 확률 리액션 유효타)</O_Y>" />
+	<block key="wr_strong1_Name" korean="광폭한: 세게 치기 1타" />
+	<block key="wr_strong2_Name" korean="광폭한: 세게 치기 2타" />
+	<block key="wr_strong3_Name" korean="광폭한: 세게 치기 3타" />
+	<block key="wr_jumpslash_Name" korean="점프 찍기" />
+	<block key="wr_jumpslash_Description_1" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_2" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_3" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_4" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_5" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_6" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_7" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_8" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_9" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_10" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_11" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_12" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_13" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_14" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_15" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_16" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_17" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_18" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_19" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_jumpslash_Description_20" korean="대상을 향해 도약 후 강하게 내려칩니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_finishatk_Name" korean="최후의 일격" />
+	<block key="wr_finishatk_Description_1" korean="대상을 향해 마지막 일격을 가해 대상을 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_finishatk_Description_2" korean="대상을 향해 마지막 일격을 가해 대상을 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_finishatk_Description_3" korean="대상을 향해 마지막 일격을 가해 대상을 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_finishatk_Description_4" korean="대상을 향해 마지막 일격을 가해 대상을 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_finishatk_Description_5" korean="대상을 향해 마지막 일격을 가해 대상을 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_finishatk_Description_6" korean="대상을 향해 마지막 일격을 가해 대상을 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_finishatk_Description_7" korean="대상을 향해 마지막 일격을 가해 대상을 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_finishatk_Description_8" korean="대상을 향해 마지막 일격을 가해 대상을 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_finishatk_Description_9" korean="대상을 향해 마지막 일격을 가해 대상을 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_finishatk_Description_10" korean="대상을 향해 마지막 일격을 가해 대상을 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_strongatk_Name" korean="세게 치기" />
+	<block key="wr_strongatk_Description_1" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="wr_strongatk_Description_2" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="wr_strongatk_Description_3" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="wr_strongatk_Description_4" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="wr_strongatk_Description_5" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="wr_strongatk_Description_6" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="wr_strongatk_Description_7" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="wr_strongatk_Description_8" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="wr_strongatk_Description_9" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="wr_strongatk_Description_10" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="wr_strongatk_Description_11" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다. 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 기본 공격력의 160% 증가된 피해를 입힙니다.
+- 풀챠지: 기본 공격력의 220% 증가된 피해를 입힙니다." />
+	<block key="wr_strongbody_Name" korean="굳건한 신체" />
+	<block key="wr_strongbody_Description_1" korean="최대 HP를 영구적으로 43 증가시킨다." />
+	<block key="wr_strongbody_Description_2" korean="최대 HP를 영구적으로 94 증가시킨다." />
+	<block key="wr_strongbody_Description_3" korean="최대 HP를 영구적으로 164 증가시킨다." />
+	<block key="wr_strongbody_Description_4" korean="최대 HP를 영구적으로 256 증가시킨다." />
+	<block key="wr_strongbody_Description_5" korean="최대 HP를 영구적으로 22 증가시킨다." />
+	<block key="wr_strongbody_Description_6" korean="최대 HP를 영구적으로 22 증가시킨다." />
+	<block key="wr_strongbody_Description_7" korean="최대 HP를 영구적으로 22 증가시킨다." />
+	<block key="wr_strup_Name" korean="힘 증가" />
+	<block key="wr_strup_Description_1" korean="힘을 영구적으로 3 증가시킨다." />
+	<block key="wr_strup_Description_2" korean="힘을 영구적으로 6 증가시킨다." />
+	<block key="wr_strup_Description_3" korean="힘을 영구적으로 9 증가시킨다." />
+	<block key="wr_strup_Description_4" korean="힘을 영구적으로 1 증가시킨다." />
+	<block key="wr_strup_Description_5" korean="힘을 영구적으로 1 증가시킨다." />
+	<block key="wr_strup_Description_6" korean="힘을 영구적으로 1 증가시킨다." />
+	<block key="wr_swdwind_Name" korean="검기 회오리" />
+	<block key="wr_swdwind_Description_1" korean="무기에 폭풍의 기운을 모은 후 회전하여 초당 33~37의 피해를 준다." />
+	<block key="wr_swdwind_Description_2" korean="무기에 폭풍의 기운을 모은 후 회전하여 초당 33~38의 피해를 준다." />
+	<block key="wr_swdwind_Description_3" korean="무기에 폭풍의 기운을 모은 후 회전하여 초당 33~39의 피해를 준다." />
+	<block key="wr_swdwind_Description_4" korean="무기에 폭풍의 기운을 모은 후 회전하여 초당 33~39의 피해를 준다." />
+	<block key="wr_swdwind_Description_5" korean="무기에 폭풍의 기운을 모은 후 회전하여 초당 33~39의 피해를 준다." />
+	<block key="wr_swingatk_Name" korean="휘두르기" />
+	<block key="wr_swingatk_description_1" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_2" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_3" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_4" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_5" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_6" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_7" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_8" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_9" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_10" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_11" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_12" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_13" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_14" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_15" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_16" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_17" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_18" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_19" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swingatk_description_20" korean="몸을 회전시키며 반경 5미터 주변의 적대상 모두를 공격하여 넘어트립니다.
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_swordhurri_Name" korean="검기 회오리 폭풍" />
+	<block key="wr_swordhurri_Description_1" korean="검기 회오리 스킬 시전중에 이동이 가능해 진다." />
+	<block key="wr_swordhurri_Description_2" korean="검기 회오리 스킬 시전중에 이동이 가능해 진다." />
+	<block key="wr_swordhurri_Description_3" korean="검기 회오리 스킬 시전중에 이동이 가능해 진다." />
+	<block key="Wr_SwordShield_Name" korean="칼날 보호막" />
+	<block key="Wr_SwordShield_Description_1" korean="일정 시간 동안 시전자의 몸 주변에 칼날 보호막이 생겨, 근접해 있는 적들에게 초당 10의 피해를 준다." />
+	<block key="Wr_SwordShield_Description_2" korean="일정 시간 동안 시전자의 몸 주변에 칼날 보호막이 생겨, 근접해 있는 적들에게 초당 9의 피해를 준다." />
+	<block key="Wr_SwordShield_Description_3" korean="일정 시간 동안 시전자의 몸 주변에 칼날 보호막이 생겨, 근접해 있는 적들에게 초당 15의 피해를 준다." />
+	<block key="Wr_SwordShield_Description_4" korean="일정 시간 동안 시전자의 몸 주변에 칼날 보호막이 생겨, 근접해 있는 적들에게 초당 25의 피해를 준다." />
+	<block key="wr_zap_Name" korean="제압의 기술" />
+	<block key="wr_zap_Description_1" korean="적의 공격을 방패막기 후 사용할 수 있는 스킬이며, 37~46의 피해를 주고 밀려나 넘어지게 만들어 무력화 시킨다." />
+	<block key="wr_zap_Description_2" korean="적의 공격을 방패막기 후 사용할 수 있는 스킬이며, 68~83의 피해를 주고 밀려나 넘어지게 만들어 무력화 시킨다." />
+	<block key="wr_zap_Description_3" korean="적의 공격을 방패막기 후 사용할 수 있는 스킬이며, 50~100의 피해를 주고 밀려나 넘어지게 만들어 무력화 시킨다." />
+	<block key="wr_zap_Description_4" korean="적의 공격을 방패막기 후 사용할 수 있는 스킬이며, 50~100의 피해를 주고 밀려나 넘어지게 만들어 무력화 시킨다." />
+	<block key="wr_annoyingatt_Name" korean="성가신 공격" />
+	<block key="wr_annoyingatt_description_1" korean="대상을 공격하여 물리 공격력에 추가로 40~60의 피해를 주고, 위협수치를 크게 높인다." />
+	<block key="wr_annoyingatt_description_2" korean="대상을 공격하여 물리 공격력에 추가로 60~80의 피해를 주고, 위협수치를 크게 높인다." />
+	<block key="wr_annoyingatt_description_3" korean="대상을 공격하여 물리 공격력에 추가로 80~100의 피해를 주고, 위협수치를 크게 높인다." />
+	<block key="wr_annoyingatt_description_4" korean="대상을 공격하여 물리 공격력에 추가로 100~120의 피해를 주고, 위협수치를 크게 높인다." />
+	<block key="wr_annoyingatt_description_5" korean="대상을 공격하여 물리 공격력에 추가로 120~140의 피해를 주고, 위협수치를 크게 높인다." />
+	<block key="wr_fearatt_Name" korean="공포의 일격" />
+	<block key="wr_fearatt_description_1" korean="대상을 공격하여 물리 공격력에 추가로 40~60의 피해를 주고, 일정 시간 동안 HP 회복 효과를 20% 감소시킨다." />
+	<block key="wr_fearatt_description_2" korean="대상을 공격하여 물리 공격력에 추가로 60~80의 피해를 주고, 일정 시간 동안 HP 회복 효과를 40% 감소시킨다." />
+	<block key="wr_fearatt_description_3" korean="대상을 공격하여 물리 공격력에 추가로 80~100의 피해를 주고, 일정 시간 동안 HP 회복 효과를 60% 감소시킨다." />
+	<block key="wr_fearatt_description_4" korean="대상을 공격하여 물리 공격력에 추가로 100~120의 피해를 주고, 일정 시간 동안 HP 회복 효과를 80% 감소시킨다." />
+	<block key="wr_shoulderatk1_Name" korean="어깨 치기" />
+	<block key="wr_shoulderatk1_description_1" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_1_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_2" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_2_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_3" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_3_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_4" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_4_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_5" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_5_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_6" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_6_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_7" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_7_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_8" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_8_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_9" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_9_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_10" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_10_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_11" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_11_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_12" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_12_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_13" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_13_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_14" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_14_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_15" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_15_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_16" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_16_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_17" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_17_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_18" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_18_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_19" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_19_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="wr_shoulderatk1_description_20" korean="대상에게 빠르게 접근하여, 대상을 어깨로 밀쳐버립니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가하며, <G_Y>[공격 시]</G_Y> <R_Y>[분노 20 생성]</R_Y> 합니다." />
+	<block key="wr_shoulderatk1_description_20_attach_0" korean="
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가되고 <R_Y>[분노 25 생성]</R_Y> 합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가되고 <R_Y>[분노 30 생성]</R_Y> 합니다.
+
+ - <G_Y>[우호적]</G_Y>적인 대상에게 스킬을 사용할 수 있으며, 5초 동안 대상의 시전속도를 30% 감소시킵니다." />
+	<block key="shoulderatk_change_Name" korean="어깨 치기" />
+	<block key="shoulderatk_change1_Name" korean="어깨 치기" />
+	<block key="wr_1handaxe_Name" korean="한손 도끼 착용" />
+	<block key="wr_1handaxe_description_1" korean="한손 도끼를 착용할 수 있습니다." />
+	<block key="wr_1handblunt_Name" korean="한손 둔기 착용" />
+	<block key="wr_1handblunt_description_1" korean="한손 둔기를 착용할 수 있습니다." />
+	<block key="wr_1handsword_Name" korean="한손 검 착용" />
+	<block key="wr_1handsword_description_1" korean="한손 검을 착용할 수 있습니다." />
+	<block key="wr_2handaxe_Name" korean="양손 도끼 착용" />
+	<block key="wr_2handaxe_description_1" korean="양손 도끼를 착용할 수 있습니다." />
+	<block key="wr_2handblunt_Name" korean="양손 둔기 착용" />
+	<block key="wr_2handblunt_description_1" korean="양손 둔기를 착용할 수 있습니다." />
+	<block key="wr_2handsword_Name" korean="양손 검 착용" />
+	<block key="wr_2handsword_description_1" korean="양손 검을 착용할 수 있습니다." />
+	<block key="wr_chain_Name" korean="경갑 착용" />
+	<block key="wr_chain_description_1" korean="경갑 방어구를 착용할 수 있습니다." />
+	<block key="wr_cloth_Name" korean="로브 착용" />
+	<block key="wr_cloth_description_1" korean="로브 방어구를 착용할 수 있습니다." />
+	<block key="wr_ctrl_move_Name" korean="정신 지배" />
+	<block key="wr_ctrl_move_description_1" korean="플레이어 캐릭터의 정신 지배 모드를 발동 / 해제 시킨다. 정신 지배 모드가 발동된 상태에서, 정신 지배가 가능한 대상을 선택하여 점프키를 누르면, 정신 지배를 시도할 수 있다." />
+	<block key="wr_dagger_Name" korean="단검 착용" />
+	<block key="wr_dagger_description_1" korean="단검을 착용할 수 있습니다." />
+	<block key="wr_duelweapon_Name" korean="쌍수 착용" />
+	<block key="wr_duelweapon_description_1" korean="양손에 한손 무기를 한개씩 착용할 수 있습니다." />
+	<block key="wr_leather_Name" korean="면갑 착용" />
+	<block key="wr_leather_description_1" korean="면갑 방어구를 착용할 수 있습니다." />
+	<block key="wr_plate_Name" korean="중갑 착용" />
+	<block key="wr_plate_description_1" korean="중갑 방어구를 착용할 수 있습니다." />
+	<block key="wr_shield_Name" korean="방패 착용" />
+	<block key="wr_shield_description_1" korean="방패를 착용할 수 있습니다." />
+	<block key="wr_3combo_2_Name" korean="3단 베기 : 회전베기" />
+	<block key="wr_3combo_2_description_1" korean="3단 베기 : 방패치기 이후 사용할 수 있다. 적대상을 회전베기 공격으로 20~40의 피해를 입힌다. 스킬 사용시 3단 베기 : 회전찌르기를 사용할 수 있다." />
+	<block key="wr_3combo_3_Name" korean="3단 베기 : 회전찌르기" />
+	<block key="wr_3combo_3_description_1" korean="3단 베기 : 회전베기 이후 사용할 수 있다. 적대상을 회전찌르기 공격으로 40~80의 피해를 입힌다." />
+	<block key="wr_areaprovoke_Name" korean="영역도발" />
+	<block key="wr_areaprovoke_description_1" korean="일정 영역에 적들의 위협 수준을 크게 높인다." />
+	<block key="wr_areaprovoke_description_2" korean="일정 영역에 적들의 위협 수준을 크게 높인다." />
+	<block key="wr_areaprovoke_description_3" korean="일정 영역에 적들의 위협 수준을 크게 높인다." />
+	<block key="wr_blockatt_Name" korean="차단의 일격" />
+	<block key="wr_blockatt_description_1" korean="쳐내기를 성공하면 활성화 되는 스킬로 적 대상에게 30~40의 피해를 입히고, 일정 시간동안 대상의 회피율을 10% 감소 시킨다." />
+	<block key="wr_blockatt_description_2" korean="쳐내기를 성공하면 활성화 되는 스킬로 적 대상에게 30~40의 피해를 입히고, 일정 시간동안 대상의 회피율을 20% 감소 시킨다." />
+	<block key="wr_blockatt_description_3" korean="쳐내기를 성공하면 활성화 되는 스킬로 적 대상에게 30~40의 피해를 입히고, 일정 시간동안 대상의 회피율을 30% 감소 시킨다." />
+	<block key="wr_bodyup_Name" korean="신체 강화" />
+	<block key="wr_bodyup_description_1" korean="자신의 신체를 강화해서 일정 시간 동안 자신에게 적용되는 넉백/넉다운, 공중 속박, 기절, 공포 등의 제어 불능 상태를 면역 시킨다." />
+	<block key="wr_bodyup_description_2" korean="자신의 신체를 강화해서 일정 시간 동안 자신에게 적용되는 넉백/넉다운, 공중 속박, 기절, 공포 등의 제어 불능 상태를 면역 시킨다." />
+	<block key="wr_bodyup_description_3" korean="자신의 신체를 강화해서 일정 시간 동안 자신에게 적용되는 넉백/넉다운, 공중 속박, 기절, 공포 등의 제어 불능 상태를 면역 시킨다." />
+	<block key="wr_damweakatt_Name" korean="공격력 약화 공격" />
+	<block key="wr_damweakatt_description_1" korean="적 대상의 신체에 검을 찔러서 30~60의 데미지를 주고, 적 대상의 공격력을 10%낮춘다." />
+	<block key="wr_damweakatt_description_2" korean="적 대상의 신체에 검을 찔러서 30~60의 데미지를 주고, 적 대상의 공격력을 10%낮춘다." />
+	<block key="wr_damweakatt_description_3" korean="적 대상의 신체에 검을 찔러서 30~60의 데미지를 주고, 적 대상의 공격력을 10%낮춘다." />
+	<block key="wr_fearhowl_Name" korean="공포의 외침" />
+	<block key="wr_fearhowl_description_1" korean="괴성을 질러 주변 10미터 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowl_description_2" korean="괴성을 질러 주변 10미터 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowl_description_3" korean="괴성을 질러 주변 10미터 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowl_description_4" korean="괴성을 질러 주변 10미터 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowl_description_5" korean="괴성을 질러 주변 10미터 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowl_description_6" korean="괴성을 질러 주변 10미터 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowl_description_7" korean="괴성을 질러 주변 10미터 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowl_description_8" korean="괴성을 질러 주변 10미터 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowl_description_9" korean="괴성을 질러 주변 10미터 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowl_description_10" korean="괴성을 질러 주변 10미터 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_instantslash_Name" korean="순간 베기" />
+	<block key="wr_instantslash_description_1" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_2" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_3" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_4" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_5" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_6" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_7" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_8" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_9" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_10" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_11" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_12" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_13" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_14" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_15" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_16" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_17" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_18" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_19" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_instantslash_description_20" korean="대상에게 순간적으로 찌르기 공격을 하여 큰 피해를 입힙니다. 
+
+ - 자신의 생명력이 낮아질수록 공격력이 증가합니다.
+
+ - <G_Y>[보유 HP 60%]</G_Y> 이하 일 때 스킬 공격력이 80% 증가합니다.
+
+ - <G_Y>[보유 HP 30%]</G_Y> 이하 일 때 스킬 공격력이 120% 증가합니다." />
+	<block key="wr_luckyatt_Name" korean="요행의 일격" />
+	<block key="wr_luckyatt_description_1" korean="대상에게 강하게 휘둘러서 100~200의 큰 피해를 주는 스킬로 공격 성공률이 낮다. (하지만, 차단의 일격을 사용한 이후에 사용하면 성공률을 높일 수 있다. )" />
+	<block key="wr_luckyatt_description_2" korean="대상에게 강하게 휘둘러서 100~200의 큰 피해를 주는 스킬로 공격 성공률이 낮다. (하지만, 차단의 일격을 사용한 이후에 사용하면 성공률을 높일 수 있다. )" />
+	<block key="wr_luckyatt_description_3" korean="대상에게 강하게 휘둘러서 100~200의 큰 피해를 주는 스킬로 공격 성공률이 낮다. (하지만, 차단의 일격을 사용한 이후에 사용하면 성공률을 높일 수 있다. )" />
+	<block key="wr_protecthowl_Name" korean="보호의 외침" />
+	<block key="wr_protecthowl_description_1" korean="일정 시간동안 보호의 힘을 증폭 시켜서 일정 영역의 아군의 데미지의 일정 비율을 자신이 대신 가져온다." />
+	<block key="wr_protecthowl_description_2" korean="일정 시간동안 보호의 힘을 증폭 시켜서 일정 영역의 아군의 데미지의 일정 비율을 자신이 대신 가져온다." />
+	<block key="wr_protecthowl_description_3" korean="일정 시간동안 보호의 힘을 증폭 시켜서 일정 영역의 아군의 데미지의 일정 비율을 자신이 대신 가져온다." />
+	<block key="wr_upperatt_Name" korean="쳐올리기" />
+	<block key="wr_upperatt_description_1" korean="양손검으로 적 대상을 쳐올려서 30~60의 피해를 주고, 100% 넉다운 상태로 만든다." />
+	<block key="wr_upperatt_description_2" korean="양손검으로 적 대상을 쳐올려서 30~60의 피해를 주고, 100% 넉다운 상태로 만든다." />
+	<block key="wr_upperatt_description_3" korean="양손검으로 적 대상을 쳐올려서 30~60의 피해를 주고, 100% 넉다운 상태로 만든다." />
+	<block key="wr_weakatt_Name" korean="약화의 기술" />
+	<block key="wr_weakatt_description_1" korean="적의 공격을 방패로 100% 방어한 이후에 사용할 수 있는 스킬로 대상의 복부를 방패로 찍어서 30~60의 데미지를 준다. 또한, 일정 시간 동안 공격성공률을 10% 공격 속도를 10% 감소 시킨다." />
+	<block key="wr_weakatt_description_2" korean="적의 공격을 방패로 100% 방어한 이후에 사용할 수 있는 스킬로 대상의 복부를 방패로 찍어서 30~60의 데미지를 준다. 또한, 일정 시간 동안 공격성공률을 20% 공격 속도를 20% 감소 시킨다." />
+	<block key="wr_weakatt_description_3" korean="적의 공격을 방패로 100% 방어한 이후에 사용할 수 있는 스킬로 대상의 복부를 방패로 찍어서 30~60의 데미지를 준다. 또한, 일정 시간 동안 공격성공률을 30% 공격 속도를 30% 감소 시킨다." />
+	<block key="wr_warmastery_Name" korean="전투 마스터리(미공개)" />
+	<block key="wr_warmastery_description_1" korean="전투 능력이 강화된다. 전투 마스터리 LV이 상승할 수록 전투 성향의 스킬을 습득할 수 있게 된다." />
+	<block key="wr_destroymastery_Name" korean="파괴 마스터리" />
+	<block key="wr_destroymastery_description_1" korean="파괴적인 능력이 강화된다. 파괴 마스터리 LV이 상승할 수록 파괴 성향의 스킬을 습득할 수 있게 된다." />
+	<block key="wr_protectmastery_Name" korean="수호 마스터리" />
+	<block key="wr_protectmastery_description_1" korean="수호적인 능력이 강화된다. 수호 마스터리 LV이 상승할 수록 수호 성향의 스킬을 습득할 수 있게 된다." />
+	<block key="wr_frenzy_Name" korean="광폭화" />
+	<block key="wr_frenzy_description_1" korean="흥분 상태에서 자신의 육체적인 능력을 극대화시키고 대상을 밀쳐냅니다. 
+
+ - <Y_Y>[흥분화]</Y_Y> 중첩 개수에 따라 적용 시간이 달라집니다.
+
+ - 1중첩: 광폭화 지속시간 7초
+ - 2중첩: 광폭화 지속시간 10초
+ - 3중첩: 광폭화 지속시간 14초 
+ - 4중첩: 광폭화 지속시간 18초
+ - 5중첩: 광폭화 지속시간 30초" />
+	<block key="wr_frenzy_description_2" korean="흥분 상태에서 자신의 육체적인 능력을 극대화시키고 대상을 밀쳐냅니다. 
+
+ - <Y_Y>[흥분화]</Y_Y> 중첩 개수에 따라 적용 시간이 달라집니다.
+
+ - 1중첩: 광폭화 지속시간 7초
+ - 2중첩: 광폭화 지속시간 10초
+ - 3중첩: 광폭화 지속시간 14초 
+ - 4중첩: 광폭화 지속시간 18초
+ - 5중첩: 광폭화 지속시간 30초" />
+	<block key="wr_frenzy_description_3" korean="흥분 상태에서 자신의 육체적인 능력을 극대화시키고 대상을 밀쳐냅니다. 
+
+ - <Y_Y>[흥분화]</Y_Y> 중첩 개수에 따라 적용 시간이 달라집니다.
+
+ - 1중첩: 광폭화 지속시간 7초
+ - 2중첩: 광폭화 지속시간 10초
+ - 3중첩: 광폭화 지속시간 14초 
+ - 4중첩: 광폭화 지속시간 18초
+ - 5중첩: 광폭화 지속시간 30초" />
+	<block key="wr_frenzy_description_4" korean="흥분 상태에서 자신의 육체적인 능력을 극대화시키고 대상을 밀쳐냅니다. 
+
+ - <Y_Y>[흥분화]</Y_Y> 중첩 개수에 따라 적용 시간이 달라집니다.
+
+ - 1중첩: 광폭화 지속시간 7초
+ - 2중첩: 광폭화 지속시간 10초
+ - 3중첩: 광폭화 지속시간 14초 
+ - 4중첩: 광폭화 지속시간 18초
+ - 5중첩: 광폭화 지속시간 30초" />
+	<block key="wr_frenzy_description_5" korean="흥분 상태에서 자신의 육체적인 능력을 극대화시키고 대상을 밀쳐냅니다. 
+
+ - <Y_Y>[흥분화]</Y_Y> 중첩 개수에 따라 적용 시간이 달라집니다.
+
+ - 1중첩: 광폭화 지속시간 7초
+ - 2중첩: 광폭화 지속시간 10초
+ - 3중첩: 광폭화 지속시간 14초 
+ - 4중첩: 광폭화 지속시간 18초
+ - 5중첩: 광폭화 지속시간 30초" />
+	<block key="wr_frenzy_description_6" korean="흥분 상태에서 자신의 육체적인 능력을 극대화시키고 대상을 밀쳐냅니다. 
+
+ - <Y_Y>[흥분화]</Y_Y> 중첩 개수에 따라 적용 시간이 달라집니다.
+
+ - 1중첩: 광폭화 지속시간 7초
+ - 2중첩: 광폭화 지속시간 10초
+ - 3중첩: 광폭화 지속시간 14초 
+ - 4중첩: 광폭화 지속시간 18초
+ - 5중첩: 광폭화 지속시간 30초" />
+	<block key="wr_frenzy_description_7" korean="흥분 상태에서 자신의 육체적인 능력을 극대화시키고 대상을 밀쳐냅니다. 
+
+ - <Y_Y>[흥분화]</Y_Y> 중첩 개수에 따라 적용 시간이 달라집니다.
+
+ - 1중첩: 광폭화 지속시간 7초
+ - 2중첩: 광폭화 지속시간 10초
+ - 3중첩: 광폭화 지속시간 14초 
+ - 4중첩: 광폭화 지속시간 18초
+ - 5중첩: 광폭화 지속시간 30초" />
+	<block key="wr_frenzy_description_8" korean="흥분 상태에서 자신의 육체적인 능력을 극대화시키고 대상을 밀쳐냅니다. 
+
+ - <Y_Y>[흥분화]</Y_Y> 중첩 개수에 따라 적용 시간이 달라집니다.
+
+ - 1중첩: 광폭화 지속시간 7초
+ - 2중첩: 광폭화 지속시간 10초
+ - 3중첩: 광폭화 지속시간 14초 
+ - 4중첩: 광폭화 지속시간 18초
+ - 5중첩: 광폭화 지속시간 30초" />
+	<block key="wr_frenzy_description_9" korean="흥분 상태에서 자신의 육체적인 능력을 극대화시키고 대상을 밀쳐냅니다. 
+
+ - <Y_Y>[흥분화]</Y_Y> 중첩 개수에 따라 적용 시간이 달라집니다.
+
+ - 1중첩: 광폭화 지속시간 7초
+ - 2중첩: 광폭화 지속시간 10초
+ - 3중첩: 광폭화 지속시간 14초 
+ - 4중첩: 광폭화 지속시간 18초
+ - 5중첩: 광폭화 지속시간 30초" />
+	<block key="wr_frenzy_description_10" korean="흥분 상태에서 자신의 육체적인 능력을 극대화시키고 대상을 밀쳐냅니다. 
+
+ - <Y_Y>[흥분화]</Y_Y> 중첩 개수에 따라 적용 시간이 달라집니다.
+
+ - 1중첩: 광폭화 지속시간 7초
+ - 2중첩: 광폭화 지속시간 10초
+ - 3중첩: 광폭화 지속시간 14초 
+ - 4중첩: 광폭화 지속시간 18초
+ - 5중첩: 광폭화 지속시간 30초" />
+	<block key="wr_frenzylink_Name" korean="광폭화" />
+	<block key="wr_heavy_Name" korean="중갑 착용" />
+	<block key="wr_heavy_description_1" korean="중갑을 착용할 수 있습니다." />
+	<block key="wr_comaclear_Name" korean="상태해제" />
+	<block key="wr_comaclear_description_1" korean="캐릭터에게 걸린 수면과 스턴상태를 해제 한다." />
+	<block key="wr_comaclear_description_2" korean="캐릭터에게 걸린 수면과 스턴상태를 해제 한다." />
+	<block key="wr_comaclear_description_3" korean="캐릭터에게 걸린 수면과 스턴상태를 해제 한다." />
+	<block key="wr_comaclear_description_4" korean="캐릭터에게 걸린 수면과 스턴상태를 해제 한다." />
+	<block key="wr_comaclear_description_5" korean="캐릭터에게 걸린 수면과 스턴상태를 해제 한다." />
+	<block key="wr_comaclear_description_6" korean="캐릭터에게 걸린 수면과 스턴상태를 해제 한다." />
+	<block key="wr_comaclear_description_7" korean="캐릭터에게 걸린 수면과 스턴상태를 해제 한다." />
+	<block key="wr_comaclear_description_8" korean="캐릭터에게 걸린 수면과 스턴상태를 해제 한다." />
+	<block key="wr_comaclear_description_9" korean="캐릭터에게 걸린 수면과 스턴상태를 해제 한다." />
+	<block key="wr_comaclear_description_10" korean="캐릭터에게 걸린 수면과 스턴상태를 해제 한다." />
+	<block key="wr_provokeall_Name" korean="도발의 고함" />
+	<block key="wr_provokeall_description_1" korean="주변의 적들에게 고함을 질러 자신에 대한 위협 수치를 올립니다." />
+	<block key="wr_provokeall_description_2" korean="주변의 적들에게 고함을 질러 자신에 대한 위협 수치를 올립니다." />
+	<block key="wr_provokeall_description_3" korean="주변의 적들에게 고함을 질러 자신에 대한 위협 수치를 올립니다." />
+	<block key="wr_provokeall_description_4" korean="주변의 적들에게 고함을 질러 자신에 대한 위협 수치를 올립니다." />
+	<block key="wr_provokeall_description_5" korean="주변의 적들에게 고함을 질러 자신에 대한 위협 수치를 올립니다." />
+	<block key="wr_provokeall_description_6" korean="주변의 적들에게 고함을 질러 자신에 대한 위협 수치를 올립니다." />
+	<block key="wr_provokeall_description_7" korean="주변의 적들에게 고함을 질러 자신에 대한 위협 수치를 올립니다." />
+	<block key="wr_provokeall_description_8" korean="주변의 적들에게 고함을 질러 자신에 대한 위협 수치를 올립니다." />
+	<block key="wr_provokeall_description_9" korean="주변의 적들에게 고함을 질러 자신에 대한 위협 수치를 올립니다." />
+	<block key="wr_provokeall_description_10" korean="주변의 적들에게 고함을 질러 자신에 대한 위협 수치를 올립니다." />
+	<block key="wr_combatmode_Name" korean="공격 모드" />
+	<block key="wr_combatmode_description_1" korean="공격적으로 전투에 임한다. 공격력은 상승되지만, 방어력은 하락한다. (3초마다 1의 MP소모)" />
+	<block key="wr_combatmode_description_2" korean="공격적으로 전투에 임한다. 공격력은 상승되지만, 방어력은 하락한다. (3초마다 1의 MP소모)" />
+	<block key="wr_combatmode_description_3" korean="공격적으로 전투에 임한다. 공격력은 상승되지만, 방어력은 하락한다. (3초마다 1의 MP소모)" />
+	<block key="wr_combatmode_description_4" korean="공격적으로 전투에 임한다. 공격력은 상승되지만, 방어력은 하락한다. (3초마다 1의 MP소모)" />
+	<block key="wr_combatmode_description_5" korean="공격적으로 전투에 임한다. 공격력은 상승되지만, 방어력은 하락한다. (3초마다 1의 MP소모)" />
+	<block key="wr_combatmode_description_6" korean="공격적으로 전투에 임한다. 공격력은 상승되지만, 방어력은 하락한다. (3초마다 1의 MP소모)" />
+	<block key="wr_combatmode_description_7" korean="공격적으로 전투에 임한다. 공격력은 상승되지만, 방어력은 하락한다. (3초마다 1의 MP소모)" />
+	<block key="wr_combatmode_description_8" korean="공격적으로 전투에 임한다. 공격력은 상승되지만, 방어력은 하락한다. (3초마다 1의 MP소모)" />
+	<block key="wr_combatmode_description_9" korean="공격적으로 전투에 임한다. 공격력은 상승되지만, 방어력은 하락한다. (3초마다 1의 MP소모)" />
+	<block key="wr_combatmode_description_10" korean="공격적으로 전투에 임한다. 공격력은 상승되지만, 방어력은 하락한다. (3초마다 1의 MP소모)" />
+	<block key="wr_reatt_name" korean="추가 일격" />
+	<block key="wr_reatt_description_1" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_2" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_3" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_4" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_5" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_6" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_7" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_8" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_9" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_10" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_11" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_12" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_13" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_14" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_15" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_16" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_17" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_18" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_19" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_reatt_description_20" korean="적에게 <G_Y>[치명타 적중 시]</G_Y>에만 사용할 수 있는 스킬로 추가 공격이 가능합니다.
+
+- 50%의 확률로 적을 2M 가량 띄워버립니다." />
+	<block key="wr_anger_Name" korean="용기의 시너지" />
+	<block key="wr_anger_description_1" korean="자신에게 용기를 복돋아 줍니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 물리 공격력 4% 증가 효과가 발생합니다. 
+
+ - 최대 5중첩 가능합니다." />
+	<block key="wr_anger_description_2" korean="자신에게 용기를 복돋아 줍니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 물리 공격력 4% 증가 효과가 발생합니다. 
+
+ - 최대 5중첩 가능합니다." />
+	<block key="wr_anger_description_3" korean="자신에게 용기를 복돋아 줍니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 물리 공격력 4% 증가 효과가 발생합니다. 
+
+ - 최대 5중첩 가능합니다." />
+	<block key="wr_anger_description_4" korean="자신에게 용기를 복돋아 줍니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 물리 공격력 4% 증가 효과가 발생합니다. 
+
+ - 최대 5중첩 가능합니다." />
+	<block key="wr_anger_description_5" korean="자신에게 용기를 복돋아 줍니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 물리 공격력 4% 증가 효과가 발생합니다. 
+
+ - 최대 5중첩 가능합니다." />
+	<block key="wr_anger_description_6" korean="자신에게 용기를 복돋아 줍니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 물리 공격력 4% 증가 효과가 발생합니다. 
+
+ - 최대 5중첩 가능합니다." />
+	<block key="wr_anger_description_7" korean="자신에게 용기를 복돋아 줍니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 물리 공격력 4% 증가 효과가 발생합니다. 
+
+ - 최대 5중첩 가능합니다." />
+	<block key="wr_anger_description_8" korean="자신에게 용기를 복돋아 줍니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 물리 공격력 4% 증가 효과가 발생합니다. 
+
+ - 최대 5중첩 가능합니다." />
+	<block key="wr_anger_description_9" korean="자신에게 용기를 복돋아 줍니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 물리 공격력 4% 증가 효과가 발생합니다. 
+
+ - 최대 5중첩 가능합니다." />
+	<block key="wr_anger_description_10" korean="자신에게 용기를 복돋아 줍니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 물리 공격력 4% 증가 효과가 발생합니다. 
+
+ - 최대 5중첩 가능합니다." />
+	<block key="wr_ncouragement_Name" korean="대상 압박" />
+	<block key="wr_ncouragement_description_1" korean="대상을 압박하는 버서커의 능력을 강화합니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 적들을 주눅들게 해 <G_Y>[위축]</G_Y>효과가 발생합니다. 
+
+ - 위축 : 30초 동안 대상의 공격력을 10% 감소하며, 최대 3중첩이 가능합니다." />
+	<block key="wr_ncouragement_description_2" korean="대상을 압박하는 버서커의 능력을 강화합니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 적들을 주눅들게 해 <G_Y>[위축]</G_Y>효과가 발생합니다. 
+
+ - 위축 : 30초 동안 대상의 공격력을 10% 감소하며, 최대 3중첩이 가능합니다." />
+	<block key="wr_ncouragement_description_3" korean="대상을 압박하는 버서커의 능력을 강화합니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 적들을 주눅들게 해 <G_Y>[위축]</G_Y>효과가 발생합니다. 
+
+ - 위축 : 30초 동안 대상의 공격력을 10% 감소하며, 최대 3중첩이 가능합니다." />
+	<block key="wr_ncouragement_description_4" korean="대상을 압박하는 버서커의 능력을 강화합니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 적들을 주눅들게 해 <G_Y>[위축]</G_Y>효과가 발생합니다. 
+
+ - 위축 : 30초 동안 대상의 공격력을 10% 감소하며, 최대 3중첩이 가능합니다." />
+	<block key="wr_ncouragement_description_5" korean="대상을 압박하는 버서커의 능력을 강화합니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 적들을 주눅들게 해 <G_Y>[위축]</G_Y>효과가 발생합니다. 
+
+ - 위축 : 30초 동안 대상의 공격력을 10% 감소하며, 최대 3중첩이 가능합니다." />
+	<block key="wr_ncouragement_description_6" korean="대상을 압박하는 버서커의 능력을 강화합니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 적들을 주눅들게 해 <G_Y>[위축]</G_Y>효과가 발생합니다. 
+
+ - 위축 : 30초 동안 대상의 공격력을 10% 감소하며, 최대 3중첩이 가능합니다." />
+	<block key="wr_ncouragement_description_7" korean="대상을 압박하는 버서커의 능력을 강화합니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 적들을 주눅들게 해 <G_Y>[위축]</G_Y>효과가 발생합니다. 
+
+ - 위축 : 30초 동안 대상의 공격력을 10% 감소하며, 최대 3중첩이 가능합니다." />
+	<block key="wr_ncouragement_description_8" korean="대상을 압박하는 버서커의 능력을 강화합니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 적들을 주눅들게 해 <G_Y>[위축]</G_Y>효과가 발생합니다. 
+
+ - 위축 : 30초 동안 대상의 공격력을 10% 감소하며, 최대 3중첩이 가능합니다." />
+	<block key="wr_ncouragement_description_9" korean="대상을 압박하는 버서커의 능력을 강화합니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 적들을 주눅들게 해 <G_Y>[위축]</G_Y>효과가 발생합니다. 
+
+ - 위축 : 30초 동안 대상의 공격력을 10% 감소하며, 최대 3중첩이 가능합니다." />
+	<block key="wr_ncouragement_description_10" korean="대상을 압박하는 버서커의 능력을 강화합니다.
+
+ - 챠지 가능한 스킬을 풀챠지로 공격 할 때 적들을 주눅들게 해 <G_Y>[위축]</G_Y>효과가 발생합니다. 
+
+ - 위축 : 30초 동안 대상의 공격력을 10% 감소하며, 최대 3중첩이 가능합니다." />
+	<block key="wr_excited_Name" korean="흥분 상태" />
+	<block key="wr_excited_description_1" korean="모든 챠지 스킬을 풀챠지 상태로 공격 시 <Y_Y>[흥분화]</Y_Y>가 발생됩니다. 
+
+ - 15초 동안 힘과 최대 생명력이 5%씩 증가하고 1.5초 마다 생명력 0.2%가 회복되고, 분노 2가 생성됩니다.
+
+ - 최대 5중첩 가능하며 최대 생명력 증가 및 회복, 이동속도 효과는 반경 20M내 파티원들에게도 적용됩니다." />
+	<block key="wr_excited_description_2" korean="모든 챠지 스킬을 풀챠지 상태로 공격 시 <Y_Y>[흥분화]</Y_Y>가 발생됩니다. 
+
+ - 15초 동안 힘과 최대 생명력이 5%씩 증가하고 1.5초 마다 생명력 0.2%가 회복되고, 분노 2가 생성됩니다.
+
+ - 최대 5중첩 가능하며 최대 생명력 증가 및 회복, 이동속도 효과는 반경 20M내 파티원들에게도 적용됩니다." />
+	<block key="wr_excited_description_3" korean="모든 챠지 스킬을 풀챠지 상태로 공격 시 <Y_Y>[흥분화]</Y_Y>가 발생됩니다. 
+
+ - 15초 동안 힘과 최대 생명력이 5%씩 증가하고 1.5초 마다 생명력 0.2%가 회복되고, 분노 2가 생성됩니다.
+
+ - 최대 5중첩 가능하며 최대 생명력 증가 및 회복, 이동속도 효과는 반경 20M내 파티원들에게도 적용됩니다." />
+	<block key="wr_excited_description_4" korean="모든 챠지 스킬을 풀챠지 상태로 공격 시 <Y_Y>[흥분화]</Y_Y>가 발생됩니다. 
+
+ - 15초 동안 힘과 최대 생명력이 5%씩 증가하고 1.5초 마다 생명력 0.2%가 회복되고, 분노 2가 생성됩니다.
+
+ - 최대 5중첩 가능하며 최대 생명력 증가 및 회복, 이동속도 효과는 반경 20M내 파티원들에게도 적용됩니다." />
+	<block key="wr_excited_description_5" korean="모든 챠지 스킬을 풀챠지 상태로 공격 시 <Y_Y>[흥분화]</Y_Y>가 발생됩니다. 
+
+ - 15초 동안 힘과 최대 생명력이 5%씩 증가하고 1.5초 마다 생명력 0.2%가 회복되고, 분노 2가 생성됩니다.
+
+ - 최대 5중첩 가능하며 최대 생명력 증가 및 회복, 이동속도 효과는 반경 20M내 파티원들에게도 적용됩니다." />
+	<block key="wr_excited_description_6" korean="모든 챠지 스킬을 풀챠지 상태로 공격 시 <Y_Y>[흥분화]</Y_Y>가 발생됩니다. 
+
+ - 15초 동안 힘과 최대 생명력이 5%씩 증가하고 1.5초 마다 생명력 0.2%가 회복되고, 분노 2가 생성됩니다.
+
+ - 최대 5중첩 가능하며 최대 생명력 증가 및 회복, 이동속도 효과는 반경 20M내 파티원들에게도 적용됩니다." />
+	<block key="wr_excited_description_7" korean="모든 챠지 스킬을 풀챠지 상태로 공격 시 <Y_Y>[흥분화]</Y_Y>가 발생됩니다. 
+
+ - 15초 동안 힘과 최대 생명력이 5%씩 증가하고 1.5초 마다 생명력 0.2%가 회복되고, 분노 2가 생성됩니다.
+
+ - 최대 5중첩 가능하며 최대 생명력 증가 및 회복, 이동속도 효과는 반경 20M내 파티원들에게도 적용됩니다." />
+	<block key="wr_excited_description_8" korean="모든 챠지 스킬을 풀챠지 상태로 공격 시 <Y_Y>[흥분화]</Y_Y>가 발생됩니다. 
+
+ - 15초 동안 힘과 최대 생명력이 5%씩 증가하고 1.5초 마다 생명력 0.2%가 회복되고, 분노 2가 생성됩니다.
+
+ - 최대 5중첩 가능하며 최대 생명력 증가 및 회복, 이동속도 효과는 반경 20M내 파티원들에게도 적용됩니다." />
+	<block key="wr_excited_description_9" korean="모든 챠지 스킬을 풀챠지 상태로 공격 시 <Y_Y>[흥분화]</Y_Y>가 발생됩니다. 
+
+ - 15초 동안 힘과 최대 생명력이 5%씩 증가하고 1.5초 마다 생명력 0.2%가 회복되고, 분노 2가 생성됩니다.
+
+ - 최대 5중첩 가능하며 최대 생명력 증가 및 회복, 이동속도 효과는 반경 20M내 파티원들에게도 적용됩니다." />
+	<block key="wr_excited_description_10" korean="모든 챠지 스킬을 풀챠지 상태로 공격 시 <Y_Y>[흥분화]</Y_Y>가 발생됩니다. 
+
+ - 15초 동안 힘과 최대 생명력이 5%씩 증가하고 1.5초 마다 생명력 0.2%가 회복되고, 분노 2가 생성됩니다.
+
+ - 최대 5중첩 가능하며 최대 생명력 증가 및 회복, 이동속도 효과는 반경 20M내 파티원들에게도 적용됩니다." />
+	<block key="wr_strongcs_Name" korean="세게치기" />
+	<block key="wr_strongcs_description_1" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_2" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_3" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_4" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_5" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_6" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_7" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_8" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_9" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_10" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_11" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_12" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_13" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_14" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_15" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_16" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_17" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_18" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_19" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_strongcs_description_20" korean="강력하게 힘을 모아 대상을 아래에서부터 위로 올려쳐 공격합니다.
+
+- 챠지 단계에 따라 공격력이 달라집니다.
+
+- 챠지 1단계 : 대상을 밀어냅니다.
+
+- 챠지 2단계 : 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+- 풀챠지: 스킬 공격력의 120% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_smashcs_Name" korean="내려치기" />
+	<block key="wr_smashcs_description_1" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_2" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_3" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_4" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_5" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_6" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_7" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_8" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_9" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_10" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_11" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_12" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_13" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_14" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_15" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_16" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_17" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_18" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_19" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcs_description_20" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smashcl_Name" korean="내려치기(루프)" />
+	<block key="wr_smashcm_Name" korean="내려치기(맥스)" />
+	<block key="wr_smash_Name" korean="내려치기" />
+	<block key="wr_smash_description_1" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_description_1_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_description_2" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_description_2_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_description_3" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_description_3_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_description_4" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_description_4_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_description_5" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_description_5_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_description_6" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_description_6_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_description_7" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_description_7_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_description_8" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_description_8_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_description_9" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_description_9_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_description_10" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_description_10_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_description_11" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_description_11_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_Description_11" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_Description_11_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_Description_12" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_Description_12_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_Description_13" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_Description_13_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_Description_14" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_Description_14_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_Description_15" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_Description_15_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_Description_16" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_Description_16_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_Description_17" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_Description_17_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_Description_18" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_Description_18_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_Description_19" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_Description_19_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_smash_Description_20" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+연속 2회 공격이 가능합니다. 
+
+ - 1타: 내려치기
+" />
+	<block key="wr_smash_Description_20_attach_0" korean="
+ - 2타: 힘껏 내려치기(챠지 공격)
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 넘어트립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_Name" korean="힘껏 차기" />
+	<block key="wr_footattackcs_Description_1" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_Description_1_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_2" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_2_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_3" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_3_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_4" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_4_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_5" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_5_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_6" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_6_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_7" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_7_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_8" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_8_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_9" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_9_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_10" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_10_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_11" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_11_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_12" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_12_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_13" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_13_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_14" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_14_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_15" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_15_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_16" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_16_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_17" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_17_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_18" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_18_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_19" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_19_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_footattackcs_description_20" korean="힘을 모아 대상을 강하게 발로 공격합니다.
+
+ - 챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다
+
+ - 챠지 2단계: 스킬 공격력의 60% 증가된 피해를 입히고, 대상을 넘어트립니다.
+" />
+	<block key="wr_footattackcs_description_20_attach_0" korean="
+ - 풀챠지 : 스킬 공격력의 120% 증가된 피해를 입히고, 대상을 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 20% 증가된 피해를 입힙니다." />
+	<block key="wr_smash1_Name" korean="[광폭한]내려치기" />
+	<block key="wr_smash2_Name" korean="[광폭한]내려치기" />
+	<block key="wr_smash3_Name" korean="[광폭한]내려치기" />
+	<block key="wr_smash4_Name" korean="[광폭한]내려치기" />
+	<block key="wr_footattackcl_Name" korean="힘껏차기" />
+	<block key="wr_footattackcm_Name" korean="힘껏차기(맥스)" />
+	<block key="wr_strongcl_Name" korean="세게치기" />
+	<block key="wr_strongcl_description_1" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_2" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_3" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_4" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_5" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_6" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_7" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_8" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_9" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_10" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_11" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_12" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_13" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_14" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_15" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_16" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_17" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_18" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_19" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcl_description_20" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_Name" korean="세게치기(맥스)" />
+	<block key="wr_strongcm_description_1" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_2" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_3" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_4" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_5" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_6" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_7" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_8" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_9" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_10" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_11" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_12" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_13" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_14" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_15" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_16" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_17" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_18" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_19" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_strongcm_description_20" korean="[이동 챠지 스킬] 강력하게 힘을 모아 대상을 아래에서 부터 위로 올려쳐 공격한다. "풀챠지 시 대상이 100% 떠올라 뒤쪽으로 이동 된다"" />
+	<block key="wr_combocs_Name" korean="3단베기" />
+	<block key="wr_combocl_Name" korean="3단베기" />
+	<block key="wr_combocm_Name" korean="3단베기" />
+	<block key="wr_normalattack_Name" korean="자동 공격" />
+	<block key="wr_normalattack_description_1" korean="대상을 자동으로 공격합니다. 자동 공격은 활성화하거나 비활성화 시킬 수 있습니다." />
+	<block key="wr_frenzyprovokecs_name" korean="광폭한 도발" />
+	<block key="wr_frenzyprovokecs_description_1" korean="힘을 모은 후 있는 힘껏 도발의 기운을 뿜어냅니다.
+50%의 확률로 다른 곳을 목표로 하는 적들의 타겟이 될 수 있습니다. 
+
+ - 챠지 1단계 : 스킬 공격력의 70% 증가된 피해를 입히고 70%의 확률로 다른 곳을 목표로 하는 적들의 타겟이 될 수 있습니다. 
+
+ - 풀챠지 : 스킬 공격력의 140% 증가된 피해를 입히고 100%의 확률로 다른 곳을 목표로 하는 적들의 타겟이 될 수 있습니다." />
+	<block key="wr_frenzyprovokecs_description_1_attach_0" korean="50%의 확률로 다른 곳을 목표로 하는 적들의 타겟이 될 수 있습니다. 
+
+ - 챠지 1단계: 50%의 확률로 다른 곳을 목표로 하는 적들의 타겟이 될 수 있습니다. 
+
+ - 챠지 2단계: 스킬 공격력의 70% 증가된 피해를 입히고 70%의 확률로 다른 곳을 목표로 하는 적들의 타겟이 될 수 있습니다. 
+
+ - 풀챠지: 스킬 공격력의 140% 증가된 피해를 입히고 100%의 확률로 다른 곳을 목표로 하는 적들의 타겟이 될 수 있습니다." />
+	<block key="wr_frenzysmash_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongatk_name" korean="황홀한 강타" />
+	<block key="wr_poweratk_name" korean="세게치기" />
+	<block key="wr_footatk_name" korean="힘껏차기" />
+	<block key="wr_smashatk_name" korean="내려치기" />
+	<block key="wr_frenzyfootatk_name" korean="광폭한한: 힘껏차기" />
+	<block key="wr_frenzycomboatk_name" korean="광폭한: 3단베기" />
+	<block key="wr_bash_name" korean="후려치기" />
+	<block key="wr_counteratk_name" korean="반격" />
+	<block key="wr_counteratk_Description_1" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk1_name" korean="반격" />
+	<block key="wr_counteratk1_Description_1" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk1_Description_2" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk1_Description_3" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk1_Description_4" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk1_Description_5" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk1_Description_6" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk1_Description_7" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk1_Description_8" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk1_Description_9" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk1_Description_10" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk2_name" korean="반격" />
+	<block key="wr_counteratk2_Description_1" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk2_Description_2" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk2_Description_3" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk2_Description_4" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk2_Description_5" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk2_Description_6" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk2_Description_7" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk2_Description_8" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk2_Description_9" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_counteratk2_Description_10" korean="자신이 리액션 상태 및 스턴 상태 일 때 활성화되며, 반격할 수 있습니다.
+
+ - <G_Y>[넉 다운 상태]</G_Y>일 때, 주위 적들에게 반격을 시도합니다." />
+	<block key="wr_block_name" korean="칼날막기" />
+	<block key="wr_bladeblock_name" korean="칼날막기" />
+	<block key="wr_bladeblock_Description_1" korean="분노 20을 소모해 주변 모든 공격을 2초동안 방어합니다.
+
+ - <Y_Y>[칼날막기]</Y_Y> 성공 후 10초 동안 근접 공격 시 자신의 어그로 점수를 50% 증가시킵니다.
+ - <Y_Y>[칼날막기]</Y_Y> 성공 시 용맹한 기운이 발동됩니다." />
+	<block key="wr_shockwavecs_name" korean="충격파" />
+	<block key="wr_furyatk_name" korean="분노의 일격" />
+	<block key="wr_frenzyforce_name" korean="광폭한 기운" />
+	<block key="wr_frenzyforce_Description_1" korean="자신의 생명력이 낮아지면, 공격력이 상승합니다.
+
+ - 광폭한 기운 1단계 (HP90%):  2% 증가
+ - 광폭한 기운 2단계 (HP80%):  5% 증가
+ - 광폭한 기운 3단계 (HP70%):  10% 증가
+ - 광폭한 기운 4단계 (HP60%):  15% 증가" />
+	<block key="wr_frenzyforce_Description_1_attach_0" korean="
+ - 광폭한 기운 5단계 (HP50%):  25% 증가
+ - 광폭한 기운 6단계 (HP40%):  35% 증가
+ - 광폭한 기운 7단계 (HP30%):  50% 증가
+ - 광폭한 기운 8단계 (HP20%):  70% 증가" />
+	<block key="wr_frenzyforce8_Name" korean="광폭한 기운" />
+	<block key="wr_frenzyforce7_Name" korean="광폭한 기운" />
+	<block key="wr_frenzyforce6_Name" korean="광폭한 기운" />
+	<block key="wr_frenzyforce5_Name" korean="광폭한 기운" />
+	<block key="wr_frenzyforce4_Name" korean="광폭한 기운" />
+	<block key="wr_frenzyforce3_Name" korean="광폭한 기운" />
+	<block key="wr_frenzyforce2_Name" korean="광폭한 기운" />
+	<block key="wr_frenzyforce1_Name" korean="광폭한 기운" />
+	<block key="frenzy_Name" korean="광폭한 외침 [버서커 전용]" />
+	<block key="frenzy_description_1" korean="흥분 상태에서 자신의 육체적인 능력을 극대화시키고 대상을 밀쳐냅니다. 흥분화 중첩 개수에 따라 적용 시간이 달라집니다.
+
+- 1중첩: 광폭화 7초 지속
+- 2중첩: 광폭화 10초 지속
+- 3중첩: 광폭화 14초 지속
+- 4중첩: 광폭화 18초 지속
+- 5중첩: 광폭화 30초 지속" />
+	<block key="wr_whirlwindcs_name" korean="바람의 칼날" />
+	<block key="wr_whirlwindcs_Description_1" korean="회전하며 적들을 베어버리는 강력한 공격합니다.
+챠지 가능하며 챠지 단계에 따라 회전 지속시간이 늘어납니다.
+
+ - 챠지 1단계: 1.5초 동안 회전 이동합니다.
+
+ - 챠지 2단계: 2초 동안 회전 이동합니다.
+
+ - 풀챠지: 4초 동안 회전 이동합니다.
+
+ - 조작키로 회전 중 자유롭게 이동할 수 있습니다." />
+	<block key="wr_whirlwindcs_Description_2" korean="회전하며 적들을 베어버리는 강력한 공격합니다.
+챠지 가능하며 챠지 단계에 따라 회전 지속시간이 늘어납니다.
+
+ - 챠지 1단계: 1.5초 동안 회전 이동합니다.
+
+ - 챠지 2단계: 2초 동안 회전 이동합니다.
+
+ - 풀챠지: 4초 동안 회전 이동합니다.
+
+ - 조작키로 회전 중 자유롭게 이동할 수 있습니다." />
+	<block key="wr_whirlwindcs_Description_3" korean="회전하며 적들을 베어버리는 강력한 공격합니다.
+챠지 가능하며 챠지 단계에 따라 회전 지속시간이 늘어납니다.
+
+ - 챠지 1단계: 1.5초 동안 회전 이동합니다.
+
+ - 챠지 2단계: 2초 동안 회전 이동합니다.
+
+ - 풀챠지: 4초 동안 회전 이동합니다.
+
+ - 조작키로 회전 중 자유롭게 이동할 수 있습니다." />
+	<block key="wr_whirlwindcs_Description_4" korean="회전하며 적들을 베어버리는 강력한 공격합니다.
+챠지 가능하며 챠지 단계에 따라 회전 지속시간이 늘어납니다.
+
+ - 챠지 1단계: 1.5초 동안 회전 이동합니다.
+
+ - 챠지 2단계: 2초 동안 회전 이동합니다.
+
+ - 풀챠지: 4초 동안 회전 이동합니다.
+
+ - 조작키로 회전 중 자유롭게 이동할 수 있습니다." />
+	<block key="wr_whirlwindcs_Description_5" korean="회전하며 적들을 베어버리는 강력한 공격합니다.
+챠지 가능하며 챠지 단계에 따라 회전 지속시간이 늘어납니다.
+
+ - 챠지 1단계: 1.5초 동안 회전 이동합니다.
+
+ - 챠지 2단계: 2초 동안 회전 이동합니다.
+
+ - 풀챠지: 4초 동안 회전 이동합니다.
+
+ - 조작키로 회전 중 자유롭게 이동할 수 있습니다." />
+	<block key="wr_whirlwindcs_Description_6" korean="회전하며 적들을 베어버리는 강력한 공격합니다.
+챠지 가능하며 챠지 단계에 따라 회전 지속시간이 늘어납니다.
+
+ - 챠지 1단계: 1.5초 동안 회전 이동합니다.
+
+ - 챠지 2단계: 2초 동안 회전 이동합니다.
+
+ - 풀챠지: 4초 동안 회전 이동합니다.
+
+ - 조작키로 회전 중 자유롭게 이동할 수 있습니다." />
+	<block key="wr_whirlwindcs_Description_7" korean="회전하며 적들을 베어버리는 강력한 공격합니다.
+챠지 가능하며 챠지 단계에 따라 회전 지속시간이 늘어납니다.
+
+ - 챠지 1단계: 1.5초 동안 회전 이동합니다.
+
+ - 챠지 2단계: 2초 동안 회전 이동합니다.
+
+ - 풀챠지: 4초 동안 회전 이동합니다.
+
+ - 조작키로 회전 중 자유롭게 이동할 수 있습니다." />
+	<block key="wr_whirlwindcs_Description_8" korean="회전하며 적들을 베어버리는 강력한 공격합니다.
+챠지 가능하며 챠지 단계에 따라 회전 지속시간이 늘어납니다.
+
+ - 챠지 1단계: 1.5초 동안 회전 이동합니다.
+
+ - 챠지 2단계: 2초 동안 회전 이동합니다.
+
+ - 풀챠지: 4초 동안 회전 이동합니다.
+
+ - 조작키로 회전 중 자유롭게 이동할 수 있습니다." />
+	<block key="wr_whirlwindcs_Description_9" korean="회전하며 적들을 베어버리는 강력한 공격합니다.
+챠지 가능하며 챠지 단계에 따라 회전 지속시간이 늘어납니다.
+
+ - 챠지 1단계: 1.5초 동안 회전 이동합니다.
+
+ - 챠지 2단계: 2초 동안 회전 이동합니다.
+
+ - 풀챠지: 4초 동안 회전 이동합니다.
+
+ - 조작키로 회전 중 자유롭게 이동할 수 있습니다." />
+	<block key="wr_whirlwindcs_Description_10" korean="회전하며 적들을 베어버리는 강력한 공격합니다.
+챠지 가능하며 챠지 단계에 따라 회전 지속시간이 늘어납니다.
+
+ - 챠지 1단계: 1.5초 동안 회전 이동합니다.
+
+ - 챠지 2단계: 2초 동안 회전 이동합니다.
+
+ - 풀챠지: 4초 동안 회전 이동합니다.
+
+ - 조작키로 회전 중 자유롭게 이동할 수 있습니다." />
+	<block key="wr_whirlwindcm_name" korean="바람의 칼날" />
+	<block key="wr_whirlwindcl_name" korean="바람의 칼날" />
+	<block key="instantslash_change_name" korean="순간 베기" />
+	<block key="instantslash_change1_name" korean="순간 베기" />
+	<block key="swingatk_change_name" korean="휘두르기" />
+	<block key="swingatk_change1_name" korean="휘두르기" />
+	<block key="wr_excited_link_name" korean="흥분화" />
+	<block key="jumpslash_change_name" korean="점프 찍기" />
+	<block key="jumpslash_change1_name" korean="점프 찍기" />
+	<block key="finishatk_change_name" korean="최후의 일격" />
+	<block key="finishatk_change1_name" korean="최후의 일격" />
+	<block key="wr_frenzyprovokecs_Description_1" korean="힘을 모은 후 있는 힘껏 도발의 기운을 뿜어냅니다.
+50%의 확률로 다른 곳을 목표로 하는 적들의 타겟이 될 수 있습니다. 
+
+ - 챠지 1단계 : 스킬 공격력의 70% 증가된 피해를 입히고 70%의 확률로 다른 곳을 목표로 하는 적들의 타겟이 될 수 있습니다. 
+
+ - 풀챠지 : 스킬 공격력의 140% 증가된 피해를 입히고 100%의 확률로 다른 곳을 목표로 하는 적들의 타겟이 될 수 있습니다." />
+	<block key="wr_frenzyprovokecl_Name" korean="광폭한 도발" />
+	<block key="wr_frenzyprovokecm_Name" korean="광폭한 도발" />
+	<block key="wr_frenzymode_name" korean="광전사" />
+	<block key="wr_frenzymode_Description_1" korean="<Y_Y>[광폭한 외침]</Y_Y> 후 <R_Y>[광전사 모드]</R_Y>가 발동됩니다. 
+
+ - <R_Y>[광전사 모드]</R_Y> 일 때, <Y_Y>[내려치기]</Y_Y> 사용 시 제자리에서 바닥을 내려치는 4연타 콤보로 변합니다.   
+
+ - <R_Y>[광전사 모드]</R_Y> 일 때, <Y_Y>[3단 베기]</Y_Y> 사용 시 횡으로 베는 5연타 콤보로 변합니다." />
+	<block key="wr_frenzystrongatk_description_1" korean="빠르고 날렵하게 횡베기 이후 도약하는 공격하고 이후 적을 내려찍습니다.
+
+- 1타: 횡베기 공격
+
+- 2타: 도약하며 검을 휘두르는 공격 
+ 
+- 3타: 공중에서 바닥으로 내려찍는 공격
+ 
+- 장착한 특성에 따라서 사용되는 스킬의 성질이 달라집니다." />
+	<block key="skillbook1_name" korean="강인한 의지" />
+	<block key="wr_skillbook2_name" korean="기선 제압" />
+	<block key="skillbook1_Description_1" korean="버서커의 감춰진 능력을 폭발시킵니다.
+ 
+ - 공격력이 200증가됩니다.
+
+ - <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="wr_skillbook2_Description_1" korean="버서커가 엄청난 위압감으로 주변 적들을 주눅들게 만들어 버립니다.
+
+ - 자신의 <G_Y>[HP가 30%이하 일 때]</G_Y> 1.5미터 내 주변 적의 공격력을 10% 감소시킵니다.
+
+ - <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="wr_frenzystrongatk2_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongatk3_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongatkr1_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongatkr2_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongatkr3_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongrg1_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongrg2_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongrg3_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongatkb1_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongatkb2_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongatkb3_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongbr1_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongbr2_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongbr3_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongbrg1_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongbrg2_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongbrg3_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongbg1_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongbg2_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongbg3_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongatkg1_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongatkg2_name" korean="황홀한 강타" />
+	<block key="wr_frenzystrongatkg3_name" korean="황홀한 강타" />
+	<block key="wr_reactionhit_Name" korean="전투의 함성" />
+	<block key="wr_reactionhit1_Name" korean="전투의 함성" />
+	<block key="wr_reactionhit_description_1" korean="사기를 높이기 위해 함성을 내지릅니다. 
+
+ - 15초 동안 자신의 공격력이 10% 증가하고, 치명타 확률이 최대 10% 증가합니다.
+ - 순간적으로 분노가 30 증가 후 15초 동안 2초 마다 5씩 상승합니다.
+ - 15초 동안 이동속도가 20% 증가합니다." />
+	<block key="wr_reactionhit_name" korean="전투의 함성" />
+	<block key="wr_furyatkr_name" korean="분노의 일격" />
+	<block key="wr_furyatkg_name" korean="분노의 일격" />
+	<block key="wr_furyatkb_name" korean="분노의 일격" />
+	<block key="wr_furyatkrg_name" korean="분노의 일격" />
+	<block key="wr_furyatkbr_name" korean="분노의 일격" />
+	<block key="wr_furyatkbg_name" korean="분노의 일격" />
+	<block key="wr_furyatkbrg_name" korean="분노의 일격" />
+	<block key="furyatklink_name" korean="분노의 일격" />
+	<block key="wr_boardbuffskill_Name" korean="[탑승]광포한 외침" />
+	<block key="wr_boardbuffskill_description_1" korean="탑승 전투 전용 스킬로 과포한 외침으로 물리치명타와 무기극대화데미지가 증가합니다." />
+	<block key="wr_furyatk_description_1" korean="제자리에서 한바퀴 돌며 내려쳐 주변 2M 근방 적들에게 타격을 주는 강력한 공격을 가합니다.
+
+ - 분노가 가득 차 있을 때 사용가능 합니다. 
+
+ - 타격 이후 폭발하는 공격은 스킬 공격력의 150% 데미지를 가지고 있습니다. 
+
+ - 장착한 특성에 따라서 사용되는 스킬의 성질이 달라집니다." />
+	<block key="wr_combo1_Description_1" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_1_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_2" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_2_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_3" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_3_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_4" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_4_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_5" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_5_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_6" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_6_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_7" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_7_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_8" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_8_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_9" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_9_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_10" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_10_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_11" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_11_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_12" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_12_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_13" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_13_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_14" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_14_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_15" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_15_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_16" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_16_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_17" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_17_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_18" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_18_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_19" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_19_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_combo1_Description_20" korean="대상을 연속으로 공격하여 멀리 날려 버립니다. 연타 시 최대 3회 공격 가능합니다.
+
+ - 1타: 일반 공격
+ - 2타: 스턴 (<Y_Y>[스턴 추가]</Y_Y><R_Y>(18레벨 습득)</R_Y> 시)" />
+	<block key="wr_combo1_Description_20_attach_0" korean="
+ - 3타: 챠지 스킬
+
+ - 챠지 1단계 : 대상을 밀어냅니다.
+
+ - 챠지 2단계 : 기본 공격력의 160% 증가된 피해를 입히고, 넘어트립니다.
+
+ - 풀챠지: 기본 공격력의 220% 증가된 피해를 입히고, 날려버립니다. <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>" />
+	<block key="wr_smash1_Description_1" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_2" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_3" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_4" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_5" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_6" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_7" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_8" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_9" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_10" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_11" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_12" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_13" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_14" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_15" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_16" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_17" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_18" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_19" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_smash1_Description_20" korean="강력하게 힘을 모아 넘어진 대상을 내려칩니다.
+챠지 단계에 따라 공격력이 달라집니다.
+
+ - 챠지 1단계: 대상을 넘어트립니다.
+
+ - 챠지 2단계: 기본 공격력의 160% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - 풀챠지 : 기본 공격력의 220% 증가된 피해를 입히고, 대상을 넘어트립니다.
+
+ - <G_Y>[넉다운]</G_Y> 상태인 적대상을 공격할 경우 10% 증가된 피해를 입힙니다. <O_Y>(50% 확률로 리액션 유효타)</O_Y>" />
+	<block key="wr_fearhowllc_Name" korean="[탑승]공포의 외침" />
+	<block key="wr_fearhowllc_description_1" korean="괴성을 질러 주변 10M 내의 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowllc_description_2" korean="괴성을 질러 주변 10M 내의 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowllc_description_3" korean="괴성을 질러 주변 10M 내의 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowllc_description_4" korean="괴성을 질러 주변 10M 내의 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowllc_description_5" korean="괴성을 질러 주변 10M 내의 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowllc_description_6" korean="괴성을 질러 주변 10M 내의 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowllc_description_7" korean="괴성을 질러 주변 10M 내의 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowllc_description_8" korean="괴성을 질러 주변 10M 내의 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowllc_description_9" korean="괴성을 질러 주변 10M 내의 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_fearhowllc_description_10" korean="괴성을 질러 주변 10M 내의 적들을 <G_Y>[공포상태]</G_Y>로 만듭니다. 
+
+ - 자신의 어그로 점수가 30% 감소됩니다.
+ - 공포에 빠진 적은 7초 동안 이동속도가 40% 감소됩니다." />
+	<block key="wr_excited_party_Name" korean="흥분화" />
+	<block key="wr_newbies01_Name" korean="여신의 은총" />
+	<block key="wr_newbies01_Description_1" korean="엘로라 여신의 은총입니다.
+
+ - 모든 경험치가 20% 증가합니다.
+
+ - 40Lv이 되면 여신의 은총 효과를 받을 수 없습니다." />
+	<block key="wr_angerlink_Name" korean="용기의 시너지" />
+	<block key="wr_hemorhage_name" korean="[특성]전투의 신" />
+	<block key="wr_skillbook3_name" korean="전사의 강인함" />
+	<block key="wr_skillbook3_Description_1" korean="버서커의 감춰진 능력을 폭발시킵니다.
+ 
+ - 물리 공격력이 10% 증가됩니다.
+
+ - <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="wr_colorhit_Name" korean="파괴의 난타" />
+	<block key="wr_colorhit_Description_1" korean="양손검을 휘둘러 주변 4m 대상에게 강력한 피해를 줍니다.
+
+ - HP 50% 이하 일 경우에 스킬이 활성화 됩니다.
+ - [특성]폭주의 화신 장착 시에 사용 가능 합니다.
+" />
+	<block key="wr_colorhit2_Name" korean="광폭한 난타" />
+	<block key="wr_colorhit2_Description_1" korean="양손검을 휘둘러 주변 4m 대상에게 강력한 피해를 줍니다.
+
+ - <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>." />
+	<block key="wr_colorhit3_Name" korean="광폭한 난타" />
+	<block key="wr_colorhit3_Description_1" korean="양손검을 휘둘러 주변 4m 대상에게 강력한 피해를 줍니다.
+
+ - <O_Y>(치명타 적중 시 리액션 유효타 발생)</O_Y>." />
+	<block key="wr_destroyorigin_Name" korean="파괴의 기원" />
+	<block key="wr_destroyorigin_description_1" korean="파괴의 힘을 받아 버서커를 강화 시킵니다.#
+
+ - 광폭화[3단 베기]를 강화 시킵니다.
+ - 광폭화[3단 베기] 사용 시 [파괴의 시너지]효과가 발생 됩니다.
+ - 광폭화[3단 베기, 내려치기] 사용 시 0.3%의 확률로 적의 HP 0.1%를 감소 시킵니다." />
+	<block key="wr_shockwavecs_description_1" korean="4m 거리의 적에게 달려가 강한 타격을 가하면서 적을 띄웁니다." />
+	<block key="wr_wildrush_name" korean="난폭한 돌진" />
+	<block key="wr_wildrushr_name" korean="난폭한 돌진" />
+	<block key="wr_wildrushrg_name" korean="난폭한 돌진" />
+	<block key="wr_wildrushb_name" korean="난폭한 돌진" />
+	<block key="wr_wildrushbr_name" korean="난폭한 돌진" />
+	<block key="wr_wildrushrgb_name" korean="난폭한 돌진" />
+	<block key="wr_wildrushbg_name" korean="난폭한 돌진" />
+	<block key="wr_wildrushg_name" korean="난폭한 돌진" />
+	<block key="wr_wildrush_description_1" korean="적에게 돌진하여 강한 타격과 함께 주변 3m 적을 띄웁니다.
+
+ - 장착한 특성에 따라서 사용되는 스킬의 성질이 달라집니다." />
+	<block key="wr_colorfulhit_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhit2_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhit3_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitr_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitr2_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitr3_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitrg_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitrg2_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitrg3_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitb_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitb2_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitb3_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitbr_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitbr2_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitbr3_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitrgb_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitrgb2_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitrgb3_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitbg_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitbg2_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitbg3_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitg_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitg2_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhitg3_name" korean="광폭한 난타" />
+	<block key="wr_colorfulhit_description_1" korean="양손 검을 휘둘러 반경 4m 적에게 강한 타격을 입힙니다.
+
+ - 장착한 특성에 따라서 사용되는 스킬의 성질이 달라집니다." />
+	<block key="wr_worriorglory_name" korean="버서커의 영광" />
+	<block key="wr_worriorglory_description_1" korean="버서커의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다.
+
+ - <Y_Y>[스킬북]</Y_Y>을 통해 습득할 수 있는 스킬입니다." />
+	<block key="wr_worriorglory_description_2" korean="버서커의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="wr_worriorglory_description_3" korean="버서커의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="wr_worriorglory_description_4" korean="버서커의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="wr_worriorglory_description_5" korean="버서커의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="wr_worriorglory_description_6" korean="버서커의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="wr_worriorglory_description_7" korean="버서커의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="wr_worriorglory_description_8" korean="버서커의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="wr_worriorglory_description_9" korean="버서커의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+	<block key="wr_worriorglory_description_10" korean="버서커의 신체 능력을 강화 합니다.
+
+ - [레벨 업] 후 힘, 체력 스텟이 더욱 강화 됩니다." />
+</blocks>

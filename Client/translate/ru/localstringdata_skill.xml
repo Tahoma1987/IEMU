@@ -1,0 +1,2602 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="moagro01_Name" korean="Привлечь внимание" />
+	<block key="moagro01_Description_1" korean="Привлечь внимание" />
+	<block key="moagro02_Name" korean="Привлечь внимание" />
+	<block key="moagro02_Description_1" korean="Привлечь внимание" />
+	<block key="moagro03_Name" korean="Привлечь внимание" />
+	<block key="moagro03_Description_1" korean="Привлечь внимание" />
+	<block key="moagul01_Name" korean="Жесткий укол" />
+	<block key="moagul01_Description_1" korean="Жесткий укол" />
+	<block key="moagul02_Name" korean="Скопление" />
+	<block key="moagul02_Description_1" korean="Скопление" />
+	<block key="moagul03_Name" korean="Рулевой винт" />
+	<block key="moagul03_Description_1" korean="Рулевой винт" />
+	<block key="moagul04_Name" korean="Лечение" />
+	<block key="moagul04_Description_1" korean="Лечение" />
+	<block key="moagul05_Name" korean="Ледяной туман" />
+	<block key="moagul05_Description_1" korean="Ледяной туман" />
+	<block key="moagul06_Name" korean="Водотока ppumgi" />
+	<block key="moagul06_Description_1" korean="Водотока ppumgi" />
+	<block key="moagul07_Name" korean="Спросите разрывая" />
+	<block key="moagul07_Description_1" korean="Спросите разрывая" />
+	<block key="moagul08_Name" korean="Звонки" />
+	<block key="moagul08_Description_1" korean="Звонки" />
+	<block key="moagul09_Name" korean="Deep выпад" />
+	<block key="moagul09_Description_1" korean="Gapgae jjareugi" />
+	<block key="moankelion01_Name" korean="Призыв последователей" />
+	<block key="moankelion01_Description_1" korean="Призыв последователей" />
+	<block key="moankelion02_Name" korean="Мороз посева стрелка" />
+	<block key="moankelion02_Description_1" korean="Мороз посева стрелка" />
+	<block key="moankelion03_Name" korean="Отношение Ледяная" />
+	<block key="moankelion03_Description_1" korean="Отношение Ледяная" />
+	<block key="moankelion04_Name" korean="Последнее делает совершенно хорошую работу" />
+	<block key="moankelion04_Description_1" korean="Последнее делает совершенно хорошую работу" />
+	<block key="moankelion05_Name" korean="Мороз посева стрелка" />
+	<block key="moankelion05_Description_1" korean="Мороз посева стрелка" />
+	<block key="moankelion06_Name" korean="Отношение Ледяная" />
+	<block key="moankelion06_Description_1" korean="Отношение Ледяная" />
+	<block key="moankelion07_Name" korean="Вызов охраны" />
+	<block key="moankelion07_Description_1" korean="Вызов охраны" />
+	<block key="moankelion08_Name" korean="Вызов охраны" />
+	<block key="moankelion08_Description_1" korean="Вызов охраны" />
+	<block key="moashuram01_Name" korean="Порыв" />
+	<block key="moashuram01_Description_1" korean="Порыв" />
+	<block key="moashuram02_Name" korean="Получение их" />
+	<block key="moashuram02_Description_1" korean="Получение их" />
+	<block key="moashuram03_Name" korean="Вихревой призрак" />
+	<block key="moashuram03_Description_1" korean="Вихревой призрак" />
+	<block key="moashuram04_Name" korean="Вихревой призрак" />
+	<block key="moashuram04_Description_1" korean="Вихревой призрак" />
+	<block key="moashuram05_Name" korean="Scythe качели" />
+	<block key="moashuram05_Description_1" korean="Scythe качели" />
+	<block key="moashuram06_Name" korean="Scythe качели" />
+	<block key="moashuram06_Description_1" korean="Scythe качели" />
+	<block key="moashuram07_Name" korean="Костяной щит" />
+	<block key="moashuram07_Description_1" korean="Костяной щит" />
+	<block key="moashuram08_Name" korean="Костяной щит" />
+	<block key="moashuram08_Description_1" korean="Костяной щит" />
+	<block key="moasteras01_Name" korean="Черная молния" />
+	<block key="moasteras01_Description_1" korean="Черная молния" />
+	<block key="mobabydragon01_Name" korean="Огненное дыхание" />
+	<block key="mobabydragon01_Description_1" korean="Огненное дыхание" />
+	<block key="mobaramos01_Name" korean="Банкротство" />
+	<block key="mobaramos01_Description_1" korean="Банкротство" />
+	<block key="mobat01_Name" korean="Соник крик" />
+	<block key="mobat01_Description_1" korean="Соник крик" />
+	<block key="mobear01_Name" korean="Прикладом тела" />
+	<block key="mobear01_Description_1" korean="Прикладом тела" />
+	<block key="mobear02_Name" korean="Gouge Лапы" />
+	<block key="mobear02_Description_1" korean="Gouge Лапы" />
+	<block key="mobee01_Name" korean="Запуск Beolchim" />
+	<block key="mobee01_Description_1" korean="Запуск Beolchim" />
+	<block key="mobee02_Name" korean="Beolchim жало" />
+	<block key="mobee02_Description_1" korean="Beolchim жало" />
+	<block key="mobee03_Name" korean="Тыквенные осы люк" />
+	<block key="mobee03_Description_1" korean="Тыквенные осы люк" />
+	<block key="mobismoot01_Name" korean="Опьянение" />
+	<block key="mobismoot01_Description_1" korean="Опьянение" />
+	<block key="mobismoot02_Name" korean="Заряжать" />
+	<block key="mobismoot02_Description_1" korean="Заряжать" />
+	<block key="mobismoot04_Name" korean="Sandy развертки" />
+	<block key="mobismoot04_Description_1" korean="Sandy развертки" />
+	<block key="mobismoot05_Name" korean="Ядерная Кулак" />
+	<block key="mobismoot05_Description_1" korean="Ядерная Кулак" />
+	<block key="mobistmoot06_Name" korean="Опьянение" />
+	<block key="mobistmoot06_Description_1" korean="Опьянение" />
+	<block key="moblacklookout01_Name" korean="Неприступная оборона" />
+	<block key="moblacklookout01_Description_1" korean="Неприступная оборона" />
+	<block key="moblacklookout02_Name" korean="Ice Shield" />
+	<block key="moblacklookout02_Description_1" korean="Ice Shield" />
+	<block key="moblackkiller01_Name" korean="Вооружившись топором" />
+	<block key="moblackkiller01_Description_1" korean="Вооружившись топором" />
+	<block key="moblackkiller02_Name" korean="Ледоруб" />
+	<block key="moblackkiller02_Description_1" korean="Ледоруб" />
+	<block key="moblackhole_Name" korean="Черная дыра" />
+	<block key="moblackhole_Description_1" korean="Черная дыра" />
+	<block key="moblackmeat01_Name" korean="Shadow Wolf стимулы" />
+	<block key="moblackmeat01_Description_1" korean="Shadow Wolf стимулы" />
+	<block key="moblackspell02_Name" korean="Улучшенная черная магия" />
+	<block key="moblackspell02_Description_1" korean="Улучшенная черная магия" />
+	<block key="moblabo01_Name" korean="Порыв" />
+	<block key="moblabo01_Description_1" korean="Порыв" />
+	<block key="moblabo02_Name" korean="Взрыв молоток" />
+	<block key="moblabo02_Description_1" korean="Взрыв молоток" />
+	<block key="moblabo03_Name" korean="Vicious нападение" />
+	<block key="moblabo03_Description_1" korean="Vicious нападение" />
+	<block key="moblabo04_Name" korean="Сильный дух" />
+	<block key="moblabo04_Description_1" korean="Сильный дух" />
+	<block key="moblabo05_Name" korean="Неукротимый боевой дух" />
+	<block key="moblabo05_Description_1" korean="Неукротимый боевой дух" />
+	<block key="moblabo06_Name" korean="Молот гнева" />
+	<block key="moblabo06_Description_1" korean="Молот гнева" />
+	<block key="mobloodfury01_Name" korean="Колонка крови" />
+	<block key="mobloodfury01_Description_1" korean="Колонка крови" />
+	<block key="mobloodfury02_Name" korean="Колонка крови" />
+	<block key="mobloodfury02_Description_1" korean="Колонка крови" />
+	<block key="moboar01_Name" korean="Порыв" />
+	<block key="moboar01_Description_1" korean="Порыв" />
+	<block key="moboar02_Name" korean="Получение их" />
+	<block key="moboar02_Description_1" korean="Получение их" />
+	<block key="moboarice01_Name" korean="Холодная лихорадка" />
+	<block key="moboarice01_Description_1" korean="Холодная лихорадка" />
+	<block key="moboarice02_Name" korean="Получение холод" />
+	<block key="moboarice02_Description_1" korean="Получение холод" />
+	<block key="mobodydown_Name" korean="уменьшается тело" />
+	<block key="mobodydown_Description_1" korean="уменьшается тело" />
+	<block key="mobomber01_Name" korean="Бросая бомбы" />
+	<block key="mobomber01_Description_1" korean="Бросая бомбы" />
+	<block key="mobomber02_Name" korean="Бомба" />
+	<block key="mobomber02_Description_1" korean="Бомба" />
+	<block key="mobomber03_Name" korean="Время установки бомбы" />
+	<block key="mobomber03_Description_1" korean="Время установки бомбы" />
+	<block key="mobomber04_Name" korean="Time Bomb Explosion" />
+	<block key="mobomber04_Description_1" korean="Time Bomb Explosion" />
+	<block key="mobomber05_Name" korean="Время установки бомбы" />
+	<block key="mobomber05_Description_1" korean="Время установки бомбы" />
+	<block key="mobow01_Name" korean="Арбалет стрельба" />
+	<block key="mobow01_Description_1" korean="Арбалет стрельба" />
+	<block key="mobow03_Name" korean="Арбалет стрельба" />
+	<block key="mobow03_Description_1" korean="Арбалет стрельба" />
+	<block key="mobow04_Name" korean="Арбалет стрельба" />
+	<block key="mobow04_Description_1" korean="Арбалет стрельба" />
+	<block key="mobow05_Name" korean="Арбалет стрельба" />
+	<block key="mobow05_Description_1" korean="Арбалет стрельба" />
+	<block key="mobow06_Name" korean="Арбалет стрельба" />
+	<block key="mobow06_Description_1" korean="Арбалет стрельба" />
+	<block key="mobow02_Name" korean="Арбалет мусора" />
+	<block key="mobow02_Description_1" korean="Арбалет мусора" />
+	<block key="mobragicollect01_Name" korean="Питание травы" />
+	<block key="mobragicollect01_Description_1" korean="Питание травы" />
+	<block key="mobragirepair01_Name" korean="Арбалет ремонт" />
+	<block key="mobragirepair01_Description_1" korean="Арбалет ремонт" />
+	<block key="mobragibrave01_Name" korean="Обращаясь с ветряными мельницами" />
+	<block key="mobragibrave01_Description_1" korean="Обращаясь с ветряными мельницами" />
+	<block key="mobragibrave02_Name" korean="Головокружение" />
+	<block key="mobragibrave02_Description_1" korean="Головокружение" />
+	<block key="mobragibrave03_Name" korean="Включение журнала" />
+	<block key="mobragibrave03_Description_1" korean="Включение журнала" />
+	<block key="mobragibrave04_Name" korean="Головокружение" />
+	<block key="mobragibrave04_Description_1" korean="Головокружение" />
+	<block key="mobragibrave05_Name" korean="Логарифмируя" />
+	<block key="mobragibrave05_Description_1" korean="Логарифмируя" />
+	<block key="mobragifighter02_Name" korean="Река Slash" />
+	<block key="mobragifighter02_Description_1" korean="Река Slash" />
+	<block key="mobragifighter03_Name" korean="Нож метательный" />
+	<block key="mobragifighter03_Description_1" korean="Нож метательный" />
+	<block key="mobragihunter01_Name" korean="Болт Удар" />
+	<block key="mobragihunter01_Description_1" korean="Болт Удар" />
+	<block key="mobragihunter02_Name" korean="Fatal стрелка" />
+	<block key="mobragihunter02_Description_1" korean="Fatal стрелка" />
+	<block key="mobragishaman01_Name" korean="Ледяная" />
+	<block key="mobragishaman01_Description_1" korean="Ледяная" />
+	<block key="mobragishaman02_Name" korean="Лечение" />
+	<block key="mobragishaman02_Description_1" korean="Лечение" />
+	<block key="mobragishaman03_Name" korean="Лечение" />
+	<block key="mobragishaman03_Description_1" korean="Лечение" />
+	<block key="mobragiurged01_Name" korean="Sugar Rush" />
+	<block key="mobragiurged01_Description_1" korean="Sugar Rush" />
+	<block key="moburn01_Name" korean="Горячие возрастанию" />
+	<block key="moburn01_Description_1" korean="Горячие возрастанию" />
+	<block key="mobigray01_Name" korean="Позвоните опасно" />
+	<block key="mobigray01_Description_1" korean="Позвоните опасно" />
+	<block key="mobigraysum01_Name" korean="Позвоните опасно" />
+	<block key="mobigraysum01_Description_1" korean="Позвоните опасно" />
+	<block key="mobigray02_Name" korean="Торжественное открытие" />
+	<block key="mobigray02_Description_1" korean="Торжественное открытие" />
+	<block key="mobigray04_Name" korean="Уничтожение предложение" />
+	<block key="mobigray04_Description_1" korean="Уничтожение предложение" />
+	<block key="mobigray05_Name" korean="Доля времени" />
+	<block key="mobigray05_Description_1" korean="Доля времени" />
+	<block key="mobigray06_Name" korean="Доля времени" />
+	<block key="mobigray06_Description_1" korean="Доля времени" />
+	<block key="mobigray07_Name" korean="Текущий взрыв" />
+	<block key="mobigray07_Description_1" korean="Текущий взрыв" />
+	<block key="mobigraybaby01_name" korean="Электрический шок" />
+	<block key="mobigraybaby01_Description_1" korean="Электрический шок" />
+	<block key="mocaptain01_Name" korean="Большие-ауты" />
+	<block key="mocaptain01_Description_1" korean="Большие-ауты" />
+	<block key="mocaptain02_Name" korean="Meoseuket" />
+	<block key="mocaptain02_Description_1" korean="Meoseuket" />
+	<block key="mocaptain03_Name" korean="Четыре горения" />
+	<block key="mocaptain03_Description_1" korean="Четыре горения" />
+	<block key="mocaptain04_Name" korean="Удар" />
+	<block key="mocaptain04_Description_1" korean="Удар" />
+	<block key="mocaptain05_Name" korean="Гнев Pirate King" />
+	<block key="mocaptain05_Description_1" korean="Гнев Pirate King" />
+	<block key="mocaptain06_Name" korean="Раскалывать" />
+	<block key="mocaptain06_Description_1" korean="Раскалывать" />
+	<block key="mochaomage01_Name" korean="Болезнь колбу" />
+	<block key="mochaomage01_Description_1" korean="Болезнь колбу" />
+	<block key="mochakai01_Name" korean="Спросите разрывая" />
+	<block key="mochakai01_Description_1" korean="Спросите разрывая" />
+	<block key="mocleki01_Name" korean="Dolmeori Headbutt" />
+	<block key="mocleki01_Description_1" korean="Dolmeori Headbutt" />
+	<block key="mocleki02_Name" korean="Dolmeori снять" />
+	<block key="mocleki02_Description_1" korean="Dolmeori снять" />
+	<block key="mocleki03_Name" korean="Dolmeori взлет (бег)" />
+	<block key="mocleki03_Description_1" korean="Dolmeori взлет (бег)" />
+	<block key="mocleki04_Name" korean="Dolmeori снять" />
+	<block key="mocleki04_Description_1" korean="Dolmeori снять" />
+	<block key="mocleki05_Name" korean="Ход плечо" />
+	<block key="mocleki05_Description_1" korean="Ход плечо" />
+	<block key="mocleki06_Name" korean="Stomp" />
+	<block key="mocleki06_Description_1" korean="Stomp" />
+	<block key="mocleki07_Name" korean="Stomp" />
+	<block key="mocleki07_Description_1" korean="Stomp" />
+	<block key="mocleki08_Name" korean="Stomp" />
+	<block key="mocleki08_Description_1" korean="Stomp" />
+	<block key="mocleki09_Name" korean="Мясорубка" />
+	<block key="mocleki09_Description_1" korean="Мясорубка" />
+	<block key="mocleki10_Name" korean="Вращение двумя лезвиями" />
+	<block key="mocleki10_Description_1" korean="Вращение двумя лезвиями" />
+	<block key="mocleki11_Name" korean="Большие-ауты" />
+	<block key="mocleki11_Description_1" korean="Большие-ауты" />
+	<block key="mocommondie01_Name" korean="Самоубийство" />
+	<block key="mocommondie01_Description_1" korean="Самоубийство" />
+	<block key="mocommonhelp01_Name" korean="Попросите о помощи" />
+	<block key="mocommonhelp01_Description_1" korean="Попросите о помощи" />
+	<block key="mocommonroar01_Name" korean="Рев" />
+	<block key="mocommonroar01_Description_1" korean="Рев" />
+	<block key="mocoontin01_Name" korean="Icy кулак ударился о землю" />
+	<block key="mocoontin01_Description_1" korean="Icy кулак ударился о землю" />
+	<block key="mocoontin02_Name" korean="Icy кулак ударился о землю" />
+	<block key="mocoontin02_Description_1" korean="Icy кулак ударился о землю" />
+	<block key="mocoontin03_Name" korean="Icy кулак ударился о землю (непрерывный)" />
+	<block key="mocoontin03_Description_1" korean="Icy кулак ударился о землю (непрерывный)" />
+	<block key="mocoontin04_Name" korean="Icy кулак ударился о землю (непрерывный)" />
+	<block key="mocoontin04_Description_1" korean="Icy кулак ударился о землю (непрерывный)" />
+	<block key="mocoontin05_Name" korean="Icy кулак ударился о землю" />
+	<block key="mocoontin05_Description_1" korean="Icy кулак ударился о землю" />
+	<block key="mocow01_Name" korean="Получение их" />
+	<block key="mocow01_Description_1" korean="Получение их" />
+	<block key="mocrow01_Name" korean="Луч Fireball" />
+	<block key="mocrow01_Description_1" korean="Луч Fireball" />
+	<block key="mocrow01_Description_2" korean="Луч Fireball" />
+	<block key="mocrow02_Name" korean="Мороз Rampage" />
+	<block key="mocrow02_Description_1" korean="Мороз Rampage" />
+	<block key="mocrow02_Description_2" korean="Мороз Rampage" />
+	<block key="mocrow03_Name" korean="Ice окно" />
+	<block key="mocrow03_Description_1" korean="Ice окно" />
+	<block key="mocrow03_Description_2" korean="Ice окно" />
+	<block key="mocrow04_Name" korean="Воскресение жизни" />
+	<block key="mocrow04_Description_1" korean="Воскресение жизни" />
+	<block key="mocrow05_Name" korean="Лечение" />
+	<block key="mocrow05_Description_1" korean="Лечение" />
+	<block key="mocrow06_Name" korean="Лечение" />
+	<block key="mocrow06_Description_1" korean="Лечение" />
+	<block key="mocrow07_Name" korean="Обновление Stone Разрушение" />
+	<block key="mocrow07_Description_1" korean="Обновление Stone Разрушение" />
+	<block key="modarkmage01_Name" korean="Лечение" />
+	<block key="modarkmage01_Description_1" korean="Лечение" />
+	<block key="modarkmage02_Name" korean="Лечение" />
+	<block key="modarkmage02_Description_1" korean="Лечение" />
+	<block key="modarkmage03_Name" korean="Заклинания тьмы" />
+	<block key="modarkmage03_Description_1" korean="Заклинания тьмы" />
+	<block key="modarkmage04_Name" korean="Молния в темноте" />
+	<block key="modarkmage04_Description_1" korean="Молния в темноте" />
+	<block key="modarkman01_Name" korean="Метательный кинжал" />
+	<block key="modarkman01_Description_1" korean="Метательный кинжал" />
+	<block key="modarkman02_Name" korean="Портативный мегафон сказал стрельбе из лука" />
+	<block key="modarkman02_Description_1" korean="Портативный мегафон сказал стрельбе из лука" />
+	<block key="modarksummoner01_Name" korean="Зомби Услуга" />
+	<block key="modarksummoner01_Description_1" korean="Зомби Услуга" />
+	<block key="modiseasecloud01_Name" korean="Чума Cloud (применить)" />
+	<block key="modiseasecloud01_Description_1" korean="Чума Cloud (применить)" />
+	<block key="modiseasecloud02_Name" korean="Чума Cloud (производство)" />
+	<block key="modiseasecloud02_Description_1" korean="Чума Cloud (производство)" />
+	<block key="modstoneice_Name" korean="Ice площадь" />
+	<block key="modstoneice_Description_1" korean="Ice площадь" />
+	<block key="moelecboob01_name_Name" korean="Энергия разрядов" />
+	<block key="moelecboob01_name_Description_1" korean="Энергия разрядов" />
+	<block key="mofactionneutral_Name" korean="Фракция Изменение (нейтраль)" />
+	<block key="mofactionneutral_Description_1" korean="Фракция Изменение (нейтраль)" />
+	<block key="mofairy01_Name" korean="Сказочные огни" />
+	<block key="mofairy01_Description_1" korean="Сказочные огни" />
+	<block key="mofairy02_Name" korean="Защита света" />
+	<block key="mofairy02_Description_1" korean="Защита света" />
+	<block key="mofairy03_Name" korean="Вялость" />
+	<block key="mofairy03_Description_1" korean="Вялость" />
+	<block key="mofellowmode01_Name" korean="Режим сотрудник атака" />
+	<block key="mofellowmode01_Description_1" korean="Режим сотрудник атака" />
+	<block key="mofloatfish01_Name" korean="Яд ppumgi" />
+	<block key="mofloatfish01_Description_1" korean="Купол ppumgi" />
+	<block key="mofirebird01_Name" korean="Пламя плевки" />
+	<block key="mofirebird01_Description_1" korean="Пламя плевки" />
+	<block key="mofirebird02_Name" korean="Гигантский Fireball" />
+	<block key="mofirebird02_Description_1" korean="Гигантский Fireball" />
+	<block key="mofiregolem01_Name" korean="Зажигательную бомбу камни вызов" />
+	<block key="mofiregolem01_Description_1" korean="Зажигательную бомбу камни вызов" />
+	<block key="mofiregolem02_Name" korean="Раскол Земля огня" />
+	<block key="mofiregolem02_Description_1" korean="Раскол Земля огня" />
+	<block key="mofiregolem03_Name" korean="Зажигательную бомбу камни вызов" />
+	<block key="mofiregolem03_Description_1" korean="Зажигательную бомбу камни вызов" />
+	<block key="mofiregolem04_Name" korean="Вставить огонь" />
+	<block key="mofiregolem04_Description_1" korean="Вставить огонь" />
+	<block key="mofiregolem05_Name" korean="Раскол Земля огня" />
+	<block key="mofiregolem05_Description_1" korean="Раскол Земля огня" />
+	<block key="mofireguard01_Name" korean="Огонь кулак" />
+	<block key="mofireguard01_Description_1" korean="Огонь кулак" />
+	<block key="mofireobj01_Name" korean="Раскаленные угли" />
+	<block key="mofireobj01_Description_1" korean="Раскаленные угли" />
+	<block key="mofireobj02_Name" korean="Огонь увеличение стоимости имущества" />
+	<block key="mofireobj02_Description_1" korean="Огонь увеличение стоимости имущества" />
+	<block key="mogargonail01_Name" korean="Гвозди смертей" />
+	<block key="mogargonail01_Description_1" korean="Гвозди смертей" />
+	<block key="mogargomine01_Name" korean="Рок мин" />
+	<block key="mogargomine01_Description_1" korean="Рок мин" />
+	<block key="mogust01_Name" korean="Вампир" />
+	<block key="mogust01_Description_1" korean="Вампир" />
+	<block key="mogust02_Name" korean="Baechigi" />
+	<block key="mogust02_Description_1" korean="Baechigi" />
+	<block key="mogust03_Name" korean="Кастрюли взрыва" />
+	<block key="mogust03_Description_1" korean="Кастрюли взрыва" />
+	<block key="mogust04_Name" korean="Гнев шеф-повара" />
+	<block key="mogust04_Description_1" korean="Гнев шеф-повара" />
+	<block key="mogust05_Name" korean="Baechigi гнев" />
+	<block key="mogust05_Description_1" korean="Baechigi гнев" />
+	<block key="mogust06_Name" korean="Вампир" />
+	<block key="mogust06_Description_1" korean="Вампир" />
+	<block key="mogust07_Name" korean="Материалы измельчитель" />
+	<block key="mogust07_Description_1" korean="Материалы измельчитель" />
+	<block key="moramb01_Name" korean="Abyss Bells" />
+	<block key="moramb01_Description_1" korean="Abyss Bells" />
+	<block key="moghost01_Name" korean="Восстановление" />
+	<block key="moghost01_Description_1" korean="Восстановление" />
+	<block key="moghost02_Name" korean="Лечение Темный" />
+	<block key="moghost02_Description_1" korean="Лечение Темный" />
+	<block key="mogolemfollower01_Name" korean="Огненное дыхание" />
+	<block key="mogolemfollower01_Description_1" korean="Огненное дыхание" />
+	<block key="mohealer01_Name" korean="Лечение" />
+	<block key="mohealer01_Description_1" korean="Лечение" />
+	<block key="mohump01_Name" korean="Norigi заднего" />
+	<block key="mohump01_Description_1" korean="Norigi заднего" />
+	<block key="mohump02_Name" korean="Задняя Выпад" />
+	<block key="mohump02_Description_1" korean="Задняя Выпад" />
+	<block key="mohunterj01_Name" korean="Расширенный" />
+	<block key="mohunterj01_Description_1" korean="Расширенный" />
+	<block key="mohunterj02_Name" korean="Начните охоту" />
+	<block key="mohunterj02_Description_1" korean="Начните охоту" />
+	<block key="moicecrystal01_Name" korean="Холод площадь" />
+	<block key="moicecrystal01_Description_1" korean="Холод площадь" />
+	<block key="moicecrystal02_Name" korean="Холод площадь" />
+	<block key="moicecrystal02_Description_1" korean="Холод площадь" />
+	<block key="moiceorb01_Name" korean="Холод площадь" />
+	<block key="moiceorb01_Description_1" korean="Холод площадь" />
+	<block key="moicesentry01_Name" korean="Ice Меч Slash" />
+	<block key="moicesentry01_Description_1" korean="Ice Меч Slash" />
+	<block key="moimp01_Name" korean="Психическое поглощения" />
+	<block key="moimp01_Description_1" korean="Психическое поглощения" />
+	<block key="moimmomage01_Name" korean="Поглощение Мечта" />
+	<block key="moimmomage01_Description_1" korean="Поглощение Мечта" />
+	<block key="moimmomage02_Name" korean="Стрелка в темно-" />
+	<block key="moimmomage02_Description_1" korean="Стрелка в темно-" />
+	<block key="moimmos01_Name" korean="Темные желания" />
+	<block key="moimmos01_Description_1" korean="Темные желания" />
+	<block key="moimmune_physic_Name" korean="Физическая иммунитет" />
+	<block key="moimmune_physic_Description_1" korean="Физическая иммунитет" />
+	<block key="moimmunebody_Name" korean="Иммунитет организма" />
+	<block key="moimmunebody_Description_1" korean="Иммунитет организма" />
+	<block key="moimmoimp03_Name" korean="Благословение легиона" />
+	<block key="moimmoimp03_Description_1" korean="Благословение легиона" />
+	<block key="moimmoimpsu01_Name" korean="Призыв храм Горгулья" />
+	<block key="moimmoimpsu01_Description_1" korean="Призыв храм Горгулья" />
+	<block key="moimmogorak01_Name" korean="Призыв горгульи рок" />
+	<block key="moimmogorak01_Description_1" korean="Призыв горгульи рок" />
+	<block key="moimmosoldi01_Name" korean="Чистая Тьмы" />
+	<block key="moimmosoldi01_Description_1" korean="Чистая Тьмы" />
+	<block key="moimmoimp01_Name" korean="Заграждение из тьмы" />
+	<block key="moimmoimp01_Description_1" korean="Заграждение из тьмы" />
+	<block key="moimmoimp02_Name" korean="Заграждение из тьмы" />
+	<block key="moimmoimp02_Description_1" korean="Заграждение из тьмы" />
+	<block key="moimmoura01_Name" korean="Тройное Рассечение" />
+	<block key="moimmoura01_Description_1" korean="Тройное Рассечение" />
+	<block key="moinsense_Name" korean="Ступор" />
+	<block key="moinsense_Description_1" korean="Ступор" />
+	<block key="moinspector01_Name" korean="Для ускорения" />
+	<block key="moinspector01_Description_1" korean="Для ускорения" />
+	<block key="moinspector02_Name" korean="Подъемные пород" />
+	<block key="moinspector02_Description_1" korean="Подъемные пород" />
+	<block key="moinspector03_Name" korean="Рок notchim" />
+	<block key="moinspector03_Description_1" korean="Рок notchim" />
+	<block key="moinspector04_Name" korean="Рок фрагменты" />
+	<block key="moinspector04_Description_1" korean="Рок фрагменты" />
+	<block key="moinspector06_Name" korean="Бросать камни" />
+	<block key="moinspector06_Description_1" korean="Бросать камни" />
+	<block key="moinspector07_Name" korean="Smeller" />
+	<block key="moinspector07_Description_1" korean="Smeller" />
+	<block key="moinspector08_Name" korean="Рок фрагменты" />
+	<block key="moinspector08_Description_1" korean="Рок фрагменты" />
+	<block key="moinspector09_Name" korean="Ход Щит" />
+	<block key="moinspector09_Description_1" korean="Ход Щит" />
+	<block key="moinspector10_Name" korean="Smeller" />
+	<block key="moinspector10_Description_1" korean="Smeller" />
+	<block key="moiren01_Name" korean="Крупный град" />
+	<block key="moiren01_Description_1" korean="Крупный град" />
+	<block key="moiren02_Name" korean="Слава холодно" />
+	<block key="moiren02_Description_1" korean="Слава холодно" />
+	<block key="moiren03_Name" korean="Радуйся, Impact" />
+	<block key="moiren03_Description_1" korean="Радуйся, Impact" />
+	<block key="moiren04_Name" korean="Щит холодно" />
+	<block key="moiren04_Description_1" korean="Щит холодно" />
+	<block key="moiren05_Name" korean="Соблазн ужаса" />
+	<block key="moiren05_Description_1" korean="Соблазн ужаса" />
+	<block key="moiren06_Name" korean="Щит холодно" />
+	<block key="moiren06_Description_1" korean="Щит холодно" />
+	<block key="mojenkit01_Name" korean="Fanatic вызов" />
+	<block key="mojenkit01_Description_1" korean="Fanatic вызов" />
+	<block key="mojenkit02_Name" korean="Важно лассо" />
+	<block key="mojenkit02_Description_1" korean="Важно лассо" />
+	<block key="mojenkit03_Name" korean="Стальная челюсть" />
+	<block key="mojenkit03_Description_1" korean="Стальная челюсть" />
+	<block key="mojenkit04_Name" korean="Скопление" />
+	<block key="mojenkit04_Description_1" korean="Скопление" />
+	<block key="mojeranin01_Name" korean="Аура Смерти" />
+	<block key="mojeranin01_Description_1" korean="Аура Смерти" />
+	<block key="mojeranin02_Name" korean="Ах смерти" />
+	<block key="mojeranin02_Description_1" korean="Ах смерти" />
+	<block key="mokaleangbefore01_Name" korean="Vampire безумие" />
+	<block key="mokaleangbefore01_Description_1" korean="Vampire безумие" />
+	<block key="mokaleangbefore02_Name" korean="Фрагменты Ненависти" />
+	<block key="mokaleangbefore02_Description_1" korean="Фрагменты Ненависти" />
+	<block key="mokaleangbefore03_Name" korean="Выводить из строя" />
+	<block key="mokaleangbefore03_Description_1" korean="Выводить из строя" />
+	<block key="mokaleangbefore04_Name" korean="Апостол трансформации Тьмы" />
+	<block key="mokaleangbefore04_Description_1" korean="Апостол трансформации Тьмы" />
+	<block key="mokaleangbefore05_Name" korean="Отзыв" />
+	<block key="mokaleangbefore05_Description_1" korean="Отзыв" />
+	<block key="mokaleangafter01_Name" korean="Ненависть летучих мышей рой" />
+	<block key="mokaleangafter01_Description_1" korean="Ненависть летучих мышей рой" />
+	<block key="mokaleangafter02_Name" korean="Клин Судьбы" />
+	<block key="mokaleangafter02_Description_1" korean="Клин Судьбы" />
+	<block key="mokaleangafter03_Name" korean="Кровавая ярость" />
+	<block key="mokaleangafter03_Description_1" korean="Кровавая ярость" />
+	<block key="mokaleangafter04_Name" korean="Vampire The Dark" />
+	<block key="mokaleangafter04_Description_1" korean="Vampire The Dark" />
+	<block key="mokamila01_Name" korean="Vampire Круг" />
+	<block key="mokamila01_Description_1" korean="Vampire Круг" />
+	<block key="mokamila02_Name" korean="Red Lightning" />
+	<block key="mokamila02_Description_1" korean="Red Lightning" />
+	<block key="mokamila03_Name" korean="Свежая кровь фестиваля" />
+	<block key="mokamila03_Description_1" korean="Свежая кровь фестиваля" />
+	<block key="mokamila04_Name" korean="Череп возродить" />
+	<block key="mokamila04_Description_1" korean="Череп возродить" />
+	<block key="mokeply01_Name" korean="Лечение" />
+	<block key="mokeply01_Description_1" korean="Лечение" />
+	<block key="mokeply02_Name" korean="Восстановление" />
+	<block key="mokeply02_Description_1" korean="Восстановление" />
+	<block key="mokeply03_Name" korean="Падающая звезда" />
+	<block key="mokeply03_Description_1" korean="Падающая звезда" />
+	<block key="mokeply04_Name" korean="Прохладный атмосфера" />
+	<block key="mokeply04_Description_1" korean="Прохладный атмосфера" />
+	<block key="mokeply05_Name" korean="Шепот в прошлом" />
+	<block key="mokeply05_Description_1" korean="Шепот в прошлом" />
+	<block key="mokeply06_Name" korean="Возвышенный" />
+	<block key="mokeply06_Description_1" korean="Возвышенный" />
+	<block key="mokeply07_Name" korean="Наказание Light" />
+	<block key="mokeply07_Description_1" korean="Наказание Light" />
+	<block key="mokilian01_Name" korean="Аура холодной" />
+	<block key="mokilian01_Description_1" korean="Аура холодной" />
+	<block key="mokilian02_Name" korean="Удар холодной ярости" />
+	<block key="mokilian02_Description_1" korean="Удар холодной ярости" />
+	<block key="mokilian03_Name" korean="Ледорубом." />
+	<block key="mokilian03_Description_1" korean="Ледорубом." />
+	<block key="mokilian04_Name" korean="Ледорубом." />
+	<block key="mokilian04_Description_1" korean="Ледорубом." />
+	<block key="mokilian05_Name" korean="Вода Тотем" />
+	<block key="mokilian05_Description_1" korean="Вода Тотем" />
+	<block key="mokilian06_Name" korean="Вода Тотем" />
+	<block key="mokilian06_Description_1" korean="Вода Тотем" />
+	<block key="moleodark01_Name" korean="Тень тьмы" />
+	<block key="moleodark01_Description_1" korean="Тень тьмы" />
+	<block key="moleodark02_Name" korean="Черный коготь Swipes" />
+	<block key="moleodark02_Description_1" korean="Черный коготь Swipes" />
+	<block key="moleodark03_Name" korean="Зубы в темно-" />
+	<block key="moleodark03_Description_1" korean="Зубы в темно-" />
+	<block key="moleopard01_Name" korean="Жесткая вода" />
+	<block key="moleopard01_Description_1" korean="Жесткая вода" />
+	<block key="moleopard01_Description_2" korean="Жесткая вода" />
+	<block key="moleopard02_Name" korean="Рев" />
+	<block key="moleopard02_Description_1" korean="Рев" />
+	<block key="molielow01_Name" korean="Хитрость" />
+	<block key="molielow01_Description_1" korean="Хитрость" />
+	<block key="moliflower01_Name" korean="Поглощение света" />
+	<block key="moliflower01_Description_1" korean="Поглощение света" />
+	<block key="molivingdoor01_Name" korean="Снежная буря холодно" />
+	<block key="molivingdoor01_Description_1" korean="Снежная буря холодно" />
+	<block key="molishule01_Name" korean="Взрыв Тьмы" />
+	<block key="molishule01_Description_1" korean="Взрыв Тьмы" />
+	<block key="molishule02_Name" korean="Молния в темноте" />
+	<block key="molishule02_Description_1" korean="Молния в темноте" />
+	<block key="molishule03_Name" korean="Призыв скелета Солдат" />
+	<block key="molishule03_Description_1" korean="Призыв скелета Солдат" />
+	<block key="momatu01_Name" korean="Чары для оружия" />
+	<block key="momatu01_Description_1" korean="Чары для оружия" />
+	<block key="momatu02_Name" korean="Классные Подземные толчки" />
+	<block key="momatu02_Description_1" korean="Классные Подземные толчки" />
+	<block key="momatu03_Name" korean="Ice Hammer взрыва" />
+	<block key="momatu03_Description_1" korean="Ice Hammer взрыва" />
+	<block key="momatu04_Name" korean="Классные Подземные толчки" />
+	<block key="momatu04_Description_1" korean="Классные Подземные толчки" />
+	<block key="momatu05_Name" korean="Классные Подземные толчки (непрерывный)" />
+	<block key="momatu05_Description_1" korean="Классные Подземные толчки (непрерывный)" />
+	<block key="momatu06_Name" korean="Классные Подземные толчки (непрерывный)" />
+	<block key="momatu06_Description_1" korean="Классные Подземные толчки (непрерывный)" />
+	<block key="momatu07_Name" korean="Классные Подземные толчки (непрерывный)" />
+	<block key="momatu07_Description_1" korean="Классные Подземные толчки (непрерывный)" />
+	<block key="momatu08_Name" korean="Гнев Мату kontin" />
+	<block key="momatu08_Description_1" korean="Гнев Мату kontin" />
+	<block key="momatu09_Name" korean="Frost ядерные вызов" />
+	<block key="momatu09_Description_1" korean="Frost ядерные вызов" />
+	<block key="momoorumi01_Name" korean="Выталкивать" />
+	<block key="momoorumi01_Description_1" korean="Выталкивать" />
+	<block key="momoorumi02_Name" korean="Заряжать" />
+	<block key="momoorumi02_Description_1" korean="Заряжать" />
+	<block key="momoorumi03_Name" korean="Заряжать" />
+	<block key="momoorumi03_Description_1" korean="Заряжать" />
+	<block key="momoorumib01_Name" korean="Smeller" />
+	<block key="momoorumib01_Description_1" korean="Smeller" />
+	<block key="momoorumib02_Name" korean="Когда забастовка" />
+	<block key="momoorumib02_Description_1" korean="Когда забастовка" />
+	<block key="momoorumib03_Name" korean="Рев" />
+	<block key="momoorumib03_Description_1" korean="Рев" />
+	<block key="momoorumib04_Name" korean="Изувечение" />
+	<block key="momoorumib04_Description_1" korean="Изувечение" />
+	<block key="momoorumib05_Name" korean="Гнев" />
+	<block key="momoorumib05_Description_1" korean="Гнев" />
+	<block key="momoorumib06_Name" korean="Превращая оружие" />
+	<block key="momoorumib06_Description_1" korean="Превращая оружие" />
+	<block key="momoorumib07_Name" korean="Превращая оружие" />
+	<block key="momoorumib07_Description_1" korean="Превращая оружие" />
+	<block key="momoorumib08_Name" korean="Когда забастовка" />
+	<block key="momoorumib08_Description_1" korean="Когда забастовка" />
+	<block key="momoorumib09_Name" korean="Когда забастовка" />
+	<block key="momoorumib09_Description_1" korean="Когда забастовка" />
+	<block key="momoorumiw01_Name" korean="Мороз Щит" />
+	<block key="momoorumiw01_Description_1" korean="Мороз Щит" />
+	<block key="momoorumiw02_Name" korean="Лечение" />
+	<block key="momoorumiw02_Description_1" korean="Лечение" />
+	<block key="momoorumiw03_Name" korean="Чистая литой" />
+	<block key="momoorumiw03_Description_1" korean="Чистая литой" />
+	<block key="momoorumiw04_Name" korean="Дротик" />
+	<block key="momoorumiw04_Description_1" korean="Дротик" />
+	<block key="momoorumiw05_Name" korean="Стрелки концентрации" />
+	<block key="momoorumiw05_Description_1" korean="Стрелки концентрации" />
+	<block key="momoorumiw06_Name" korean="Посев dokhwasal" />
+	<block key="momoorumiw06_Description_1" korean="Посев dokhwasal" />
+	<block key="momoorumiw07_Name" korean="Аура концентрации" />
+	<block key="momoorumiw07_Description_1" korean="Аура концентрации" />
+	<block key="momoorumiw08_Name" korean="Исцеление первосвященника," />
+	<block key="momoorumiw08_Description_1" korean="Исцеление первосвященника," />
+	<block key="momoorumiw09_Name" korean="Капельное ловушка" />
+	<block key="momoorumiw09_Description_1" korean="Капельное ловушка" />
+	<block key="momoorumiw10_Name" korean="Охрана водных ресурсов" />
+	<block key="momoorumiw10_Description_1" korean="Охрана водных ресурсов" />
+	<block key="momoorumiw11_Name" korean="Javelin Удар" />
+	<block key="momoorumiw11_Description_1" korean="Javelin Удар" />
+	<block key="momoorumiw12_Name" korean="Между hyeolcheon" />
+	<block key="momoorumiw12_Description_1" korean="Между hyeolcheon" />
+	<block key="momoorumiw13_Name" korean="Между hyeolcheon" />
+	<block key="momoorumiw13_Description_1" korean="Между hyeolcheon" />
+	<block key="monpc01_Name" korean="Восстановление Жизнь" />
+	<block key="monpc01_Description_1" korean="Восстановление Жизнь" />
+	<block key="mooctopus01_Name" korean="Чернила облако" />
+	<block key="mooctopus01_Description_1" korean="Чернила облако" />
+	<block key="mooctopus02_Name" korean="Плевать чернила" />
+	<block key="mooctopus02_Description_1" korean="Плевать чернила" />
+	<block key="mopatriarch01_Name" korean="Smeller" />
+	<block key="mopatriarch01_Description_1" korean="Smeller" />
+	<block key="mopatriarch02_Name" korean="Smeller" />
+	<block key="mopatriarch02_Description_1" korean="Smeller" />
+	<block key="mopatriarch03_Name" korean="Для ускорения" />
+	<block key="mopatriarch03_Description_1" korean="Для ускорения" />
+	<block key="mopatriarch05_Name" korean="Smeller" />
+	<block key="mopatriarch05_Description_1" korean="Smeller" />
+	<block key="mopatriarch06_Name" korean="Smeller" />
+	<block key="mopatriarch06_Description_1" korean="Smeller" />
+	<block key="mopirate01_Name" korean="Нож метательный" />
+	<block key="mopirate01_Description_1" korean="Нож метательный" />
+	<block key="mopirate02_Name" korean="Повышение эффективности" />
+	<block key="mopirate02_Description_1" korean="Повышение эффективности" />
+	<block key="mopirate03_Name" korean="Кинжал посева" />
+	<block key="mopirate03_Description_1" korean="Кинжал посева" />
+	<block key="mopirate04_Name" korean="Обратное движение" />
+	<block key="mopirate04_Description_1" korean="Обратное движение" />
+	<block key="mopirate05_Name" korean="Кинжал посева" />
+	<block key="mopirate05_Description_1" korean="Кинжал посева" />
+	<block key="mopirate06_Name" korean="Заказать охраны" />
+	<block key="mopirate06_Description_1" korean="Заказать охраны" />
+	<block key="mopirate07_Name" korean="Порядок лечения" />
+	<block key="mopirate07_Description_1" korean="Порядок лечения" />
+	<block key="mopirate08_Name" korean="Заказать ледяной магии" />
+	<block key="mopirate08_Description_1" korean="Заказать ледяной магии" />
+	<block key="mopirate09_Name" korean="Гнев Пиратов" />
+	<block key="mopirate09_Description_1" korean="Гнев Пиратов" />
+	<block key="mopirate10_Name" korean="Call Monitor сокровищ" />
+	<block key="mopirate10_Description_1" korean="Call Monitor сокровищ" />
+	<block key="mopirate11_Name" korean="Отравленный клинок" />
+	<block key="mopirate11_Description_1" korean="Отравленный клинок" />
+	<block key="mopirateguard01_Name" korean="Ход плечо" />
+	<block key="mopirateguard01_Description_1" korean="Ход плечо" />
+	<block key="mopiratew01_Name" korean="Healing Potion" />
+	<block key="mopiratew01_Description_1" korean="Healing Potion" />
+	<block key="mopiratew02_Name" korean="Улучшенная зелье" />
+	<block key="mopiratew02_Description_1" korean="Улучшенная зелье" />
+	<block key="mopiratew03_Name" korean="Уни-аутов" />
+	<block key="mopiratew03_Description_1" korean="Уни-аутов" />
+	<block key="mopiratew04_Name" korean="Кислота зелье" />
+	<block key="mopiratew04_Description_1" korean="Кислота зелье" />
+	<block key="mopiratew05_Name" korean="Кислота зелье" />
+	<block key="mopiratew05_Description_1" korean="Кислота зелье" />
+	<block key="mopiratew06_Name" korean="Создать кислоты зоны" />
+	<block key="mopiratew06_Description_1" korean="Создать кислоты зоны" />
+	<block key="mopiratew07_Name" korean="Vicious удар" />
+	<block key="mopiratew07_Description_1" korean="Vicious удар" />
+	<block key="moposearrow01_Name" korean="Посев dokhwasal" />
+	<block key="moposearrow01_Description_1" korean="Посев dokhwasal" />
+	<block key="morabbit01_Name" korean="Сообщение о" />
+	<block key="morabbit01_Description_1" korean="Сообщение о" />
+	<block key="morabbit04_Name" korean="Тыква бомба" />
+	<block key="morabbit04_Description_1" korean="Тыква бомба" />
+	<block key="moradan01_Name" korean="Сила Безмолвия" />
+	<block key="moradan01_Description_1" korean="Сила Безмолвия" />
+	<block key="moradan02_Name" korean="Власти господствующего" />
+	<block key="moradan02_Description_1" korean="Власти господствующего" />
+	<block key="moradan03_Name" korean="Мощность исцеления" />
+	<block key="moradan03_Description_1" korean="Мощность исцеления" />
+	<block key="moradan04_Name" korean="Выводить из строя" />
+	<block key="moradan04_Description_1" korean="Выводить из строя" />
+	<block key="moradan05_Name" korean="Выражение мощности" />
+	<block key="moradan05_Description_1" korean="Выражение Ладан усиливается власть государства" />
+	<block key="moradan06_Name" korean="Сила Безмолвия" />
+	<block key="moradan06_Description_1" korean="Сила Безмолвия" />
+	<block key="moradan07_Name" korean="Мощность исцеления" />
+	<block key="moradan07_Description_1" korean="Мощность исцеления" />
+	<block key="moradan08_Name" korean="Власти господствующего" />
+	<block key="moradan08_Description_1" korean="Власти господствующего" />
+	<block key="morebguard01_Name" korean="Ice Меч Slash" />
+	<block key="morebguard01_Description_1" korean="Ice Меч Slash" />
+	<block key="morebbow01_Name" korean="Холодный лед стрелка" />
+	<block key="morebbow01_Description_1" korean="Холодный лед стрелка" />
+	<block key="morebmag01_Name" korean="Sharp окно лед" />
+	<block key="morebmag01_Description_1" korean="Sharp окно лед" />
+	<block key="morebsol01_Name" korean="Ice Barrier" />
+	<block key="morebsol01_Description_1" korean="Ice Barrier" />
+	<block key="morebmud01_Name" korean="Вооружившись топором" />
+	<block key="morebmud01_Description_1" korean="Вооружившись топором" />
+	<block key="morebwiz01_Name" korean="Инъекции Ice Aura" />
+	<block key="morebwiz01_Description_1" korean="Инъекции Ice Aura" />
+	<block key="moreggauge01_Name" korean="Изображение иммунитет" />
+	<block key="moreggauge01_Description_1" korean="Изображение иммунитет" />
+	<block key="moreggauge02_Name" korean="Статуи иммунитет" />
+	<block key="moreggauge02_Description_1" korean="Статуи иммунитет" />
+	<block key="moreindeer01_Name" korean="Рога исцеления" />
+	<block key="moreindeer01_Description_1" korean="Рога исцеления" />
+	<block key="morex01_Name" korean="Мейс очередь" />
+	<block key="morex01_Description_1" korean="Мейс очередь" />
+	<block key="morex02_Name" korean="Мейс сбивать" />
+	<block key="morex02_Description_1" korean="Мейс сбивать" />
+	<block key="morex03_Name" korean="Площадь пожара" />
+	<block key="morex03_Description_1" korean="Площадь пожара" />
+	<block key="morex04_Name" korean="Вниз площадь удара" />
+	<block key="morex04_Description_1" korean="Вниз площадь удара" />
+	<block key="morex05_Name" korean="Bulgiun впрыска" />
+	<block key="morex05_Description_1" korean="Bulgiun впрыска" />
+	<block key="morex06_Name" korean="Рев" />
+	<block key="morex06_Description_1" korean="Рев" />
+	<block key="morex07_Name" korean="Stomp" />
+	<block key="morex07_Description_1" korean="Stomp" />
+	<block key="morex08_Name" korean="Триггер" />
+	<block key="morex08_Description_1" korean="Триггер" />
+	<block key="morexstone01_Name" korean="Лечение Rex" />
+	<block key="morexstone01_Description_1" korean="Лечение Rex" />
+	<block key="morexstone02_Name" korean="Попросите о помощи" />
+	<block key="morexstone02_Description_1" korean="Попросите о помощи" />
+	<block key="morhinobattler01_Name" korean="Ворона Атака" />
+	<block key="morhinobattler01_Description_1" korean="Ворона Атака" />
+	<block key="morhinoguard01_Name" korean="Пытки" />
+	<block key="morhinoguard01_Description_1" korean="Пытки" />
+	<block key="morideon01_Name" korean="Сотрудник доска" />
+	<block key="morideon01_Description_1" korean="Сотрудник доска" />
+	<block key="morideon02_Name" korean="Сотрудник доска" />
+	<block key="morideon02_Description_1" korean="Сотрудник доска" />
+	<block key="morideon03_Name" korean="Сотрудник доска" />
+	<block key="morideon03_Description_1" korean="Сотрудник доска" />
+	<block key="moriderdie01_Name" korean="Мастер Смерть" />
+	<block key="moriderdie01_Description_1" korean="Мастер Смерть" />
+	<block key="moriderdie01_Description_2" korean="Мастер Смерть" />
+	<block key="moriderdie02_Name" korean="Путаница" />
+	<block key="moriderdie02_Description_1" korean="Путаница" />
+	<block key="moriderdie02_Description_2" korean="Путаница" />
+	<block key="moicerondo01_Name" korean="Классные подряд выходы" />
+	<block key="moicerondo01_Description_1" korean="Классные подряд выходы" />
+	<block key="moicerondo02_Name" korean="Аура Ледяной бригадный генерал" />
+	<block key="moicerondo02_Description_1" korean="Аура Ледяной бригадный генерал" />
+	<block key="moicerondo03_Name" korean="Мороз Сандер" />
+	<block key="moicerondo03_Description_1" korean="Мороз Сандер" />
+	<block key="moicerondo04_Name" korean="Ice столб Призывает" />
+	<block key="moicerondo04_Description_1" korean="Ice столб Призывает" />
+	<block key="moicerondo05_Name" korean="Гнев Ice бригадного генерала" />
+	<block key="moicerondo05_Description_1" korean="Гнев Ice бригадного генерала" />
+	<block key="moicerondo06_Name" korean="Мороз Сандер" />
+	<block key="moicerondo06_Description_1" korean="Мороз Сандер" />
+	<block key="morunaway1_Name" korean="Тест Навык после побега" />
+	<block key="morunaway1_Description_1" korean="Тест Навык после побега" />
+	<block key="mosantin01_Name" korean="Апперкот" />
+	<block key="mosantin01_Description_1" korean="Апперкот" />
+	<block key="mosantin03_Name" korean="Холодное дыхание" />
+	<block key="mosantin03_Description_1" korean="Холодное дыхание" />
+	<block key="mosantin05_Name" korean="Ice столб" />
+	<block key="mosantin05_Description_1" korean="Ice столб" />
+	<block key="mosantin06_Name" korean="Ice столб" />
+	<block key="mosantin06_Description_1" korean="Ice столб" />
+	<block key="mosantin07_Name" korean="Холодное дыхание" />
+	<block key="mosantin07_Description_1" korean="Холодное дыхание" />
+	<block key="mosantin08_Name" korean="Каменные стены крекинга" />
+	<block key="mosantin08_Description_1" korean="Каменные стены крекинга" />
+	<block key="mosantin09_Name" korean="Уходи" />
+	<block key="mosantin09_Description_1" korean="Уходи" />
+	<block key="mosantin11_Name" korean="Ice столб" />
+	<block key="mosantin11_Description_1" korean="Ice столб" />
+	<block key="mosantinh11_Name" korean="Ice столб" />
+	<block key="mosantinh11_Description_1" korean="Ice столб" />
+	<block key="mosantin12_Name" korean="Гнев" />
+	<block key="mosantin12_Description_1" korean="Гнев" />
+	<block key="mosantin13_Name" korean="Холодное дыхание" />
+	<block key="mosantin13_Description_1" korean="Холодное дыхание" />
+	<block key="mosantin14_Name" korean="Апперкот" />
+	<block key="mosantin14_Description_1" korean="Апперкот" />
+	<block key="mosantin14_Description_2" korean="Апперкот" />
+	<block key="mosantin15_Name" korean="Вызов ahyiren" />
+	<block key="mosantin15_Description_1" korean="Вызов ahyiren" />
+	<block key="mosantinlink01_Name" korean="Ледяное дыхание ветра" />
+	<block key="mosantinlink01_Description_1" korean="Ледяное дыхание ветра" />
+	<block key="mosantinlinkh01_Name" korean="Ледяное дыхание ветра" />
+	<block key="mosantinlinkh01_Description_1" korean="Ледяное дыхание ветра" />
+	<block key="moseaze_move_Name" korean="Take Move" />
+	<block key="moseaze_move_Description_1" korean="Take Move" />
+	<block key="mospecter01_Name" korean="СО" />
+	<block key="mospecter01_Description_1" korean="СО" />
+	<block key="moskalion01_Name" korean="Щипцы кросс-аутов" />
+	<block key="moskalion01_Description_1" korean="Щипцы кросс-аутов" />
+	<block key="moskalion02_Name" korean="Раскалывать" />
+	<block key="moskalion02_Description_1" korean="Раскалывать" />
+	<block key="moskelboss01_Name" korean="Услуга Скелет солдата" />
+	<block key="moskelboss01_Description_1" korean="Услуга Скелет солдата" />
+	<block key="moskelboss02_Name" korean="Услуга Скелет солдата" />
+	<block key="moskelboss02_Description_1" korean="Услуга Скелет солдата" />
+	<block key="moskillobj01_Name" korean="Rhino вызов" />
+	<block key="moskillobj01_Description_1" korean="Rhino вызов" />
+	<block key="moshura01_Name" korean="Апокалипсис езды" />
+	<block key="moshura01_Description_1" korean="Апокалипсис езды" />
+	<block key="moshura02_Name" korean="Стежка бурения" />
+	<block key="moshura02_Description_1" korean="Стежка бурения" />
+	<block key="moshura03_Name" korean="Шепот пропасть" />
+	<block key="moshura03_Description_1" korean="Шепот пропасть" />
+	<block key="moshura04_Name" korean="Посеять страх" />
+	<block key="moshura04_Description_1" korean="Посеять страх" />
+	<block key="moshura05_Name" korean="Шизофрения" />
+	<block key="moshura05_Description_1" korean="Шизофрения" />
+	<block key="moshura06_Name" korean="Слабая приверженность" />
+	<block key="moshura06_Description_1" korean="Слабая приверженность" />
+	<block key="moshura07_Name" korean="Черный взрыв" />
+	<block key="moshura07_Description_1" korean="Черный взрыв" />
+	<block key="moshura08_Name" korean="Черный взрыв" />
+	<block key="moshura08_Description_1" korean="Черный взрыв" />
+	<block key="mosnake01_Name" korean="Baemdok" />
+	<block key="mosnake01_Description_1" korean="Baemdok" />
+	<block key="mosnowbrave01_Name" korean="Снежки" />
+	<block key="mosnowbrave01_Description_1" korean="Снежки" />
+	<block key="mosnowbrave02_Name" korean="Snowball взрыв" />
+	<block key="mosnowbrave02_Description_1" korean="Snowball взрыв" />
+	<block key="mosnowhunter01_Name" korean="Холодная окно лед" />
+	<block key="mosnowhunter01_Description_1" korean="Холодная окно лед" />
+	<block key="mosnowhunter02_Name" korean="Питание травы" />
+	<block key="mosnowhunter02_Description_1" korean="Питание травы" />
+	<block key="mosnowman01_Name" korean="Мороз впрыска" />
+	<block key="mosnowman01_Description_1" korean="Мороз впрыска" />
+	<block key="mosnowshaman01_Name" korean="Ice окно" />
+	<block key="mosnowshaman01_Description_1" korean="Ice окно" />
+	<block key="mosnowshaman02_Name" korean="Мороз Щит" />
+	<block key="mosnowshaman02_Description_1" korean="Мороз Щит" />
+	<block key="mosnowshaman03_Name" korean="Мороз Щит" />
+	<block key="mosnowshaman03_Description_1" korean="Мороз Щит" />
+	<block key="mosnowwarrior01_Name" korean="Консолидация" />
+	<block key="mosnowwarrior01_Description_1" korean="Консолидация" />
+	<block key="mospider01_Name" korean="Яд" />
+	<block key="mospider01_Description_1" korean="Яд" />
+	<block key="mosummoner01_Name" korean="СО" />
+	<block key="mosummoner01_Description_1" korean="СО" />
+	<block key="mosummoner03_Name" korean="Временный самоуничтожения" />
+	<block key="mosummoner03_Description_1" korean="Временный самоуничтожения" />
+	<block key="motiger01_Name" korean="Стопы забастовка" />
+	<block key="motiger01_Description_1" korean="Стопы забастовка" />
+	<block key="motor01_Name" korean="Соберите съемки" />
+	<block key="motor01_Description_1" korean="Соберите съемки" />
+	<block key="motamus01_Name" korean="Призыв скелета Солдат" />
+	<block key="motamus01_Description_1" korean="Призыв скелета Солдат" />
+	<block key="motaming01_Name" korean="Geurogi" />
+	<block key="motaming01_Description_1" korean="Geurogi" />
+	<block key="motaming01pon_Name" korean="Аура пламени" />
+	<block key="motaming01pon_Description_1" korean="Аура пламени" />
+	<block key="motaming01poe_Name" korean="Аура (Германия, элита)" />
+	<block key="motaming01poe_Description_1" korean="Аура (Германия, элита)" />
+	<block key="motaming01poh_Name" korean="Аура (Германия, Герой)" />
+	<block key="motaming01poh_Description_1" korean="Аура (Германия, Герой)" />
+	<block key="motaming01fin_Name" korean="Энергии (свет, нормальный)" />
+	<block key="motaming01fin_Description_1" korean="Энергии (свет, нормальный)" />
+	<block key="motaming01fie_Name" korean="Dragon напряжение" />
+	<block key="motaming01fie_Description_1" korean="Dragon напряжение" />
+	<block key="motaming01fih_Name" korean="Энергии (огонь, герой)" />
+	<block key="motaming01fih_Description_1" korean="Энергии (огонь, герой)" />
+	<block key="motaming01icn_Name" korean="Аура (лед, нормальный)" />
+	<block key="motaming01icn_Description_1" korean="Аура (лед, нормальный)" />
+	<block key="motaming01ice_Name" korean="Энергия (Ice, элита)" />
+	<block key="motaming01ice_Description_1" korean="Энергия (Ice, элита)" />
+	<block key="motaming01ich_Name" korean="Аура (лед, Герои)" />
+	<block key="motaming01ich_Description_1" korean="Аура (лед, Герои)" />
+	<block key="motaming01lin_Name" korean="Энергии (свет, нормальный)" />
+	<block key="motaming01lin_Description_1" korean="Энергии (свет, нормальный)" />
+	<block key="motaming01lie_Name" korean="Энергии (свет, элита)" />
+	<block key="motaming01lie_Description_1" korean="Энергии (свет, элита)" />
+	<block key="motaming01lih_Name" korean="Энергии (свет, Герои)" />
+	<block key="motaming01lih_Description_1" korean="Энергии (свет, Герои)" />
+	<block key="motaming01dan_Name" korean="Энергии (темная, нормальная)" />
+	<block key="motaming01dan_Description_1" korean="Энергии (темная, нормальная)" />
+	<block key="motaming01dae_Name" korean="Энергия (темная, элита)" />
+	<block key="motaming01dae_Description_1" korean="Энергия (темная, элита)" />
+	<block key="motaming01dah_Name" korean="Энергия (темная, героическая)" />
+	<block key="motaming01dah_Description_1" korean="Энергия (темная, героическая)" />
+	<block key="motaming02_Name" korean="Geurogi" />
+	<block key="motaming02_Description_1" korean="Geurogi" />
+	<block key="motaming03_Name" korean="Игра Найдено" />
+	<block key="motaming03_Description_1" korean="Игра Найдено" />
+	<block key="motaming04_Name" korean="Ешьте Prey" />
+	<block key="motaming04_Description_1" korean="Ешьте Prey" />
+	<block key="motaming05_Name" korean="Игра рейд" />
+	<block key="motaming05_Description_1" korean="Игра рейд" />
+	<block key="motaming06_Name" korean="Уру статуя атака" />
+	<block key="motaming06_Description_1" korean="Уру статуя атака" />
+	<block key="motaming07_Name" korean="Уру статуи уничтожены" />
+	<block key="motaming07_Description_1" korean="Уру статуи уничтожены" />
+	<block key="motaming08_Name" korean="Найти Уру статуи" />
+	<block key="motaming08_Description_1" korean="Найти Уру статуи" />
+	<block key="motaming06a_Name" korean="Есть мясо" />
+	<block key="motaming06a_Description_1" korean="Есть мясо" />
+	<block key="motaming06d_Name" korean="Есть мясо" />
+	<block key="motaming06d_Description_1" korean="Есть мясо" />
+	<block key="motaming07a_Name" korean="Полное есть мясо" />
+	<block key="motaming07a_Description_1" korean="Полное есть мясо" />
+	<block key="motaming07d_Name" korean="Полное есть мясо" />
+	<block key="motaming07d_Description_1" korean="Полное есть мясо" />
+	<block key="motaming08a_Name" korean="Мясо нашли" />
+	<block key="motaming08a_Description_1" korean="Мясо нашли" />
+	<block key="motaming13_Name" korean="Игра Найдено" />
+	<block key="motaming13_Description_1" korean="Игра Найдено" />
+	<block key="motaming14_Name" korean="Ешьте Prey" />
+	<block key="motaming14_Description_1" korean="Ешьте Prey" />
+	<block key="motaming15_Name" korean="Игра рейд" />
+	<block key="motaming15_Description_1" korean="Игра рейд" />
+	<block key="motaming16_Name" korean="Изменить секунд есть" />
+	<block key="motaming16_Description_1" korean="Изменить секунд есть" />
+	<block key="motaming17_Name" korean="Изменить скорейшего завершения еды" />
+	<block key="motaming17_Description_1" korean="Изменить скорейшего завершения еды" />
+	<block key="motaming18_Name" korean="Изменить раннее обнаружение" />
+	<block key="motaming18_Description_1" korean="Изменить раннее обнаружение" />
+	<block key="motaming23_Name" korean="Игра Найдено" />
+	<block key="motaming23_Description_1" korean="Игра Найдено" />
+	<block key="motaming24_Name" korean="Ешьте Prey" />
+	<block key="motaming24_Description_1" korean="Ешьте Prey" />
+	<block key="motaming25_Name" korean="Игра рейд" />
+	<block key="motaming25_Description_1" korean="Игра рейд" />
+	<block key="motaming26_Name" korean="Ешьте мед" />
+	<block key="motaming26_Description_1" korean="Ешьте мед" />
+	<block key="motaming27_Name" korean="Ешьте завершение мед" />
+	<block key="motaming27_Description_1" korean="Ешьте завершение мед" />
+	<block key="motaming28_Name" korean="Мед найти" />
+	<block key="motaming28_Description_1" korean="Мед найти" />
+	<block key="motamingfail_roar_Name" korean="Рев" />
+	<block key="motamingfail_roar_Description_1" korean="Рев" />
+	<block key="motamingride_Name" korean="Укрощение" />
+	<block key="motamingride_Description_1" korean="Укрощение" />
+	<block key="motree01_Name" korean="Восстановление Кел-Ro" />
+	<block key="motree01_Description_1" korean="Восстановление Кел-Ro" />
+	<block key="moturtle01_Name" korean="Скрыть кожи" />
+	<block key="moturtle01_Description_1" korean="Скрыть кожи" />
+	<block key="moturtle02_Name" korean="Вращение лезвия Peel" />
+	<block key="moturtle02_Description_1" korean="Вращение лезвия Peel" />
+	<block key="moturtle03_Name" korean="Лупиться скрыть" />
+	<block key="moturtle03_Description_1" korean="Лупиться скрыть" />
+	<block key="moturtle04_Name" korean="Черепахи атака остановки вращения" />
+	<block key="moturtle04_Description_1" korean="Черепахи атака остановки вращения" />
+	<block key="moturtlefire01_Name" korean="Огненный шар" />
+	<block key="moturtlefire01_Description_1" korean="Огненный шар" />
+	<block key="movamp_Name" korean="Вампир" />
+	<block key="movamp_Description_1" korean="Вампир" />
+	<block key="movampire01_Name" korean="Посадка" />
+	<block key="movampire01_Description_1" korean="Посадка" />
+	<block key="movampire02_Name" korean="Избегайте взрывов" />
+	<block key="movampire02_Description_1" korean="Избегайте взрывов" />
+	<block key="movampire03_Name" korean="Колонка крови" />
+	<block key="movampire03_Description_1" korean="Колонка крови" />
+	<block key="movampire04_Name" korean="Крест свежей крови" />
+	<block key="movampire04_Description_1" korean="Крест свежей крови" />
+	<block key="movampire05_Name" korean="Защита Тьмы" />
+	<block key="movampire05_Description_1" korean="Защита Тьмы" />
+	<block key="movampire06_Name" korean="Вызов дворецкого" />
+	<block key="movampire06_Description_1" korean="Вызов дворецкого" />
+	<block key="movampire07_Name" korean="Переключатель крови" />
+	<block key="movampire07_Description_1" korean="Переключатель крови" />
+	<block key="movampire08_Name" korean="Гнев Вампира" />
+	<block key="movampire08_Description_1" korean="Гнев Вампира" />
+	<block key="movampire09_Name" korean="Жесткий укол" />
+	<block key="movampire09_Description_1" korean="Жесткий укол" />
+	<block key="movampire10_Name" korean="Жертвовать" />
+	<block key="movampire10_Description_1" korean="Жертвовать" />
+	<block key="movampire11_Name" korean="Начать вызов" />
+	<block key="movampire11_Description_1" korean="Начать вызов" />
+	<block key="movampire12_Name" korean="Вампир" />
+	<block key="movampire12_Description_1" korean="Вампир" />
+	<block key="movampire12_Description_2" korean="Вампир" />
+	<block key="movampire12lanto_Name" korean="Вампир" />
+	<block key="movampire12lanto_Description_1" korean="Вампир" />
+	<block key="movampire13_Name" korean="Ram вызов beurandeu" />
+	<block key="movampire13_Description_1" korean="Ram вызов beurandeu" />
+	<block key="movampire14_Name" korean="Порыв вызов" />
+	<block key="movampire14_Description_1" korean="Порыв вызов" />
+	<block key="movampire15_Name" korean="Подпункт (а) темно-" />
+	<block key="movampire15_Description_1" korean="Подпункт (а) темно-" />
+	<block key="movamwoman01_Name" korean="Вы Swipes" />
+	<block key="movamwoman01_Description_1" korean="Вы Swipes" />
+	<block key="movamwoman02_Name" korean="Гнев Вампира" />
+	<block key="movamwoman02_Description_1" korean="Гнев Вампира" />
+	<block key="mowisp01_Name" korean="Световое излучение" />
+	<block key="mowisp01_Description_1" korean="Световое излучение" />
+	<block key="mowolf01_Name" korean="Жесткая вода" />
+	<block key="mowolf01_Description_1" korean="Жесткая вода" />
+	<block key="mowolf02_Name" korean="Питание трупами" />
+	<block key="mowolf02_Description_1" korean="Питание трупами" />
+	<block key="mowolfjack01_Name" korean="Потребление мяса" />
+	<block key="mowolfjack01_Description_1" korean="Потребление мяса" />
+	<block key="mowolfjack02_Name" korean="Полное потребление мяса" />
+	<block key="mowolfjack02_Description_1" korean="Полное потребление мяса" />
+	<block key="mowolfman01_Name" korean="Healing Potion" />
+	<block key="mowolfman01_Description_1" korean="Healing Potion" />
+	<block key="mowolfshadow01_Name" korean="Хитрость" />
+	<block key="mowolfshadow01_Description_1" korean="Хитрость" />
+	<block key="mowolfwoman01_Name" korean="Телепортация" />
+	<block key="mowolfwoman01_Description_1" korean="Телепортация" />
+	<block key="mowolfwoman02_Name" korean="Телепортация" />
+	<block key="mowolfwoman02_Description_1" korean="Телепортация" />
+	<block key="molightplant01_Name" korean="Дриада вызов" />
+	<block key="molightplant01_Description_1" korean="Дриада вызов" />
+	<block key="mozombie01_Name" korean="Отвратительно дыхание" />
+	<block key="mozombie01_Description_1" korean="Отвратительно дыхание" />
+	<block key="mozombietrigger01_Name" korean="Зомби Услуга триггер" />
+	<block key="mozombietrigger01_Description_1" korean="Зомби Услуга триггер" />
+	<block key="mobeesummon01_Name" korean="Пчелы инкубационные" />
+	<block key="mobeesummon01_Description_1" korean="Пчелы инкубационные" />
+	<block key="mobalbo01_Name" korean="Взрыв молоток" />
+	<block key="mobalbo01_Description_1" korean="Взрыв молоток" />
+	<block key="mobalbo02_Name" korean="Молот гнева" />
+	<block key="mobalbo02_Description_1" korean="Молот гнева" />
+	<block key="mobalbo03_Name" korean="Vicious нападение" />
+	<block key="mobalbo03_Description_1" korean="Vicious нападение" />
+	<block key="mobalbo04_Name" korean="Сильный дух" />
+	<block key="mobalbo04_Description_1" korean="Сильный дух" />
+	<block key="mobalbo05_Name" korean="Стойкость" />
+	<block key="mobalbo05_Description_1" korean="Стойкость" />
+	<block key="moramashoo01_Name" korean="Стрелка в темно-" />
+	<block key="moramashoo01_Description_1" korean="Стрелка в темно-" />
+	<block key="moramashoo02_Name" korean="Vortex тьмы" />
+	<block key="moramashoo02_Description_1" korean="Vortex тьмы" />
+	<block key="moramashoo03_Name" korean="Vortex тьмы" />
+	<block key="moramashoo03_Description_1" korean="Vortex тьмы" />
+	<block key="moramashoo04_Name" korean="Защита Тьмы" />
+	<block key="moramashoo04_Description_1" korean="Защита Тьмы" />
+	<block key="moramashoo05_Name" korean="Вызов Dark" />
+	<block key="moramashoo05_Description_1" korean="Вызов Dark" />
+	<block key="moheavyrondo01_Name" korean="Безжалостное Забастовки" />
+	<block key="moheavyrondo01_Description_1" korean="Безжалостное Забастовки" />
+	<block key="moheavyrondoc01_Name" korean="Безжалостное Забастовки" />
+	<block key="moheavyrondoc01_Description_1" korean="Безжалостное Забастовки" />
+	<block key="moheavyrondo02_Name" korean="Замороженные seorit способ" />
+	<block key="moheavyrondo02_Description_1" korean="Замороженные seorit способ" />
+	<block key="moheavyrondo03_Name" korean="Замороженные seorit способ" />
+	<block key="moheavyrondo03_Description_1" korean="Замороженные seorit способ" />
+	<block key="moheavyrondo04_Name" korean="Клинок холодного ветра" />
+	<block key="moheavyrondo04_Description_1" korean="Клинок холодного ветра" />
+	<block key="moheavyrondo05_Name" korean="Клинок холодного ветра" />
+	<block key="moheavyrondo05_Description_1" korean="Клинок холодного ветра" />
+	<block key="moheavyrondo06_Name" korean="Действительно врывается холода" />
+	<block key="moheavyrondo06_Description_1" korean="Действительно врывается холода" />
+	<block key="moheavyrondo07_Name" korean="Волка вызов" />
+	<block key="moheavyrondo07_Description_1" korean="Волка вызов" />
+	<block key="moheavyrondo08_Name" korean="Мороз Wolf Удар" />
+	<block key="moheavyrondo08_Description_1" korean="Мороз Wolf Удар" />
+	<block key="moheavyrondo09_Name" korean="Мороз Wolf Удар" />
+	<block key="moheavyrondo09_Description_1" korean="Мороз Wolf Удар" />
+	<block key="molightrondo01_Name" korean="Мороз зеркала" />
+	<block key="molightrondo01_Description_1" korean="Мороз зеркала" />
+	<block key="molightrondo02_Name" korean="Мороз Ветер Сандер" />
+	<block key="molightrondo02_Description_1" korean="Мороз Ветер Сандер" />
+	<block key="molightrondo03_Name" korean="Призыв Wolf Legion" />
+	<block key="molightrondo03_Description_1" korean="Призыв Wolf Legion" />
+	<block key="molightrondo05_Name" korean="Корпус волк нападение" />
+	<block key="molightrondo05_Description_1" korean="Корпус волк нападение" />
+	<block key="molightrondo06_Name" korean="Корпус волк нападение" />
+	<block key="molightrondo06_Description_1" korean="Корпус волк нападение" />
+	<block key="molightrondo07_Name" korean="Действительно мороз взрыв" />
+	<block key="molightrondo07_Description_1" korean="Действительно мороз взрыв" />
+	<block key="morondo01_Name" korean="Мороз Ветер Сандер" />
+	<block key="morondo01_Description_1" korean="Мороз Ветер Сандер" />
+	<block key="morondo02_Name" korean="Мороз зеркала" />
+	<block key="morondo02_Description_1" korean="Мороз зеркала" />
+	<block key="moronddash01_Name" korean="Мороз Ветер Сандер" />
+	<block key="moronddash01_Description_1" korean="Мороз Ветер Сандер" />
+	<block key="moronddash02_Name" korean="Мороз Ветер Сандер" />
+	<block key="moronddash02_Description_1" korean="Мороз Ветер Сандер" />
+	<block key="moronddash04_Name" korean="Мороз Ветер Сандер" />
+	<block key="moronddash04_Description_1" korean="Мороз Ветер Сандер" />
+	<block key="moronddash05_Name" korean="Мороз Ветер Сандер" />
+	<block key="moronddash05_Description_1" korean="Мороз Ветер Сандер" />
+	<block key="moblackmage01_Name" korean="Черная магия энхансерные работы" />
+	<block key="moblackmage01_Description_1" korean="Черная магия энхансерные работы" />
+	<block key="moreactimmuneba_Name" korean="Интенсивный сопротивление" />
+	<block key="moreactimmuneba_Description_1" korean="Интенсивный сопротивление" />
+	<block key="moreactcheck01_name" korean="Яростное сопротивление" />
+	<block key="moreactcheck01_Description_1" korean="Яростное сопротивление" />
+	<block key="moreactcheck02_name" korean="Яростное сопротивление" />
+	<block key="moreactcheck02_Description_1" korean="Яростное сопротивление" />
+	<block key="moreactcheck03_name" korean="Яростное сопротивление" />
+	<block key="moreactcheck03_Description_1" korean="Яростное сопротивление" />
+	<block key="moreactcheck04_name" korean="Раздражает сопротивление" />
+	<block key="moreactcheck04_Description_1" korean="Раздражает сопротивление" />
+	<block key="moreactcheck05_name" korean="Раздражает сопротивление" />
+	<block key="moreactcheck05_Description_1" korean="Раздражает сопротивление" />
+	<block key="moreactcheck06_name" korean="Сопротивление" />
+	<block key="moreactcheck06_Description_1" korean="Сопротивление" />
+	<block key="moreactcheck07_name" korean="Сопротивление" />
+	<block key="moreactcheck07_Description_1" korean="Сопротивление" />
+	<block key="moreactcheck08_name" korean="Делая совершенно хорошую работу" />
+	<block key="moreactcheck08_Description_1" korean="Делая совершенно хорошую работу" />
+	<block key="moreactcheck09_name" korean="Делая совершенно хорошую работу" />
+	<block key="moreactcheck09_Description_1" korean="Делая совершенно хорошую работу" />
+	<block key="moreactcheck10_name" korean="Разбитый" />
+	<block key="moreactcheck10_Description_1" korean="Разбитый" />
+	<block key="moreactimmune01_name" korean="Подавитель" />
+	<block key="moreactimmune01_Description_1" korean="Подавитель" />
+	<block key="moracheck01_name" korean="Яростное сопротивление" />
+	<block key="moracheck01_Description_1" korean="Яростное сопротивление" />
+	<block key="moracheck02_name" korean="Яростное сопротивление" />
+	<block key="moracheck02_Description_1" korean="Яростное сопротивление" />
+	<block key="moracheck03_name" korean="Яростное сопротивление" />
+	<block key="moracheck03_Description_1" korean="Яростное сопротивление" />
+	<block key="moracheck04_name" korean="Яростное сопротивление" />
+	<block key="moracheck04_Description_1" korean="Яростное сопротивление" />
+	<block key="moracheck05_name" korean="Яростное сопротивление" />
+	<block key="moracheck05_Description_1" korean="Яростное сопротивление" />
+	<block key="moracheck06_name" korean="Яростное сопротивление" />
+	<block key="moracheck06_Description_1" korean="Яростное сопротивление" />
+	<block key="moracheck07_name" korean="Яростное сопротивление" />
+	<block key="moracheck07_Description_1" korean="Яростное сопротивление" />
+	<block key="moracheck08_name" korean="Яростное сопротивление" />
+	<block key="moracheck08_Description_1" korean="Яростное сопротивление" />
+	<block key="moracheck09_name" korean="Раздражает сопротивление" />
+	<block key="moracheck09_Description_1" korean="Раздражает сопротивление" />
+	<block key="moracheck10_name" korean="Раздражает сопротивление" />
+	<block key="moracheck10_Description_1" korean="Раздражает сопротивление" />
+	<block key="moracheck11_name" korean="Сопротивление" />
+	<block key="moracheck11_Description_1" korean="Сопротивление" />
+	<block key="moracheck12_name" korean="Сопротивление" />
+	<block key="moracheck12_Description_1" korean="Сопротивление" />
+	<block key="moracheck13_name" korean="Делая совершенно хорошую работу" />
+	<block key="moracheck13_Description_1" korean="Делая совершенно хорошую работу" />
+	<block key="moracheck14_name" korean="Делая совершенно хорошую работу" />
+	<block key="moracheck14_Description_1" korean="Делая совершенно хорошую работу" />
+	<block key="moracheck15_name" korean="Разбитый" />
+	<block key="moracheck15_Description_1" korean="Разбитый" />
+	<block key="morastop_name" korean="Подавитель" />
+	<block key="morastop_Description_1" korean="Подавитель" />
+	<block key="motranerthcut_name" korean="Земля Сандер" />
+	<block key="motranerthcut_Description_1" korean="Земля Сандер" />
+	<block key="motranearthcut01_name" korean="Земля Сандер" />
+	<block key="motranearthcut01_Description_1" korean="Земля Сандер" />
+	<block key="motc1_name" korean="Земля Сандер" />
+	<block key="motc1_Description_1" korean="Земля Сандер" />
+	<block key="motranearthcut02_name" korean="Земля Сандер" />
+	<block key="motranearthcut02_Description_1" korean="Земля Сандер" />
+	<block key="motc2_name" korean="Земля Сандер" />
+	<block key="motc2_Description_1" korean="Земля Сандер" />
+	<block key="moearthhit_name" korean="Земля взрыва" />
+	<block key="moearthhit_Description_1" korean="Земля взрыва" />
+	<block key="moearthhit01_name" korean="Земля взрыва" />
+	<block key="moearthhit01_Description_1" korean="Земля взрыва" />
+	<block key="moeh1_name" korean="Земля взрыва" />
+	<block key="moeh1_Description_1" korean="Земля взрыва" />
+	<block key="moearthhit02_name" korean="Земля взрыва" />
+	<block key="moearthhit02_Description_1" korean="Земля взрыва" />
+	<block key="moeh2_name" korean="Земля взрыва" />
+	<block key="moeh2_Description_1" korean="Земля взрыва" />
+	<block key="moearthupper_name" korean="Земля положить забастовка" />
+	<block key="moearthupper_Description_1" korean="Земля положить забастовка" />
+	<block key="moearthupper01_name" korean="Земля положить забастовка" />
+	<block key="moearthupper01_Description_1" korean="Земля положить забастовка" />
+	<block key="moeu1_name" korean="Земля положить забастовка" />
+	<block key="moeu1_Description_1" korean="Земля положить забастовка" />
+	<block key="moearthupper02_name" korean="Земля положить забастовка" />
+	<block key="moearthupper02_Description_1" korean="Земля положить забастовка" />
+	<block key="moeu2_name" korean="Земля положить забастовка" />
+	<block key="moeu2_Description_1" korean="Земля положить забастовка" />
+	<block key="moearthfury01_name" korean="Земля гнев" />
+	<block key="moearthfury01_Description_1" korean="Земля гнев" />
+	<block key="moearthfury02_name" korean="Земля гнев" />
+	<block key="moearthfury02_Description_1" korean="Земля гнев" />
+	<block key="moearthcaller01_name" korean="Земля призвание" />
+	<block key="moearthcaller01_Description_1" korean="Земля призвание" />
+	<block key="moearthcaller02_name" korean="Земля призвание" />
+	<block key="moearthcaller02_Description_1" korean="Земля призвание" />
+	<block key="moec1_name" korean="Земля призвание" />
+	<block key="moec1_Description_1" korean="Земля призвание" />
+	<block key="moec2_name" korean="Земля призвание" />
+	<block key="moec2_Description_1" korean="Земля призвание" />
+	<block key="moearthunleash01_name" korean="Unstoppable помещения без ауры" />
+	<block key="moearthunleash01_Description_1" korean="Unstoppable помещения без ауры" />
+	<block key="tranpurify_name" korean="Аура очистка атмосферы" />
+	<block key="tranpurify_Description_1" korean="Аура очистка атмосферы" />
+	<block key="motragago01_name" korean="Гвозди уничтожения" />
+	<block key="motragago01_Description_1" korean="Гвозди уничтожения" />
+	<block key="motragago02_name" korean="Pokswae" />
+	<block key="motragago02_Description_1" korean="Pokswae" />
+	<block key="moyataskycut_name" korean="Перфорированные Сандер" />
+	<block key="moyataskycut_Description_1" korean="Перфорированные Сандер" />
+	<block key="moyataskycut01_name" korean="Перфорированные Сандер" />
+	<block key="moyataskycut01_Description_1" korean="Перфорированные Сандер" />
+	<block key="moyataskycut02_name" korean="Перфорированные Сандер" />
+	<block key="moyataskycut02_Description_1" korean="Перфорированные Сандер" />
+	<block key="moyataskyhit_name" korean="Скучно и утомительной" />
+	<block key="moyataskyhit_Description_1" korean="Скучно и утомительной" />
+	<block key="moyataskyhit01_name" korean="Скучно и утомительной" />
+	<block key="moyataskyhit01_Description_1" korean="Скучно и утомительной" />
+	<block key="moyataskyhit02_name" korean="Скучно и утомительной" />
+	<block key="moyataskyhit02_Description_1" korean="Скучно и утомительной" />
+	<block key="moyc1_name" korean="Перфорированные Сандер" />
+	<block key="moyc1_Description_1" korean="Перфорированные Сандер" />
+	<block key="moyc2_name" korean="Перфорированные Сандер" />
+	<block key="moyc2_Description_1" korean="Перфорированные Сандер" />
+	<block key="moyh1_name" korean="Скучно и утомительной" />
+	<block key="moyh1_Description_1" korean="Скучно и утомительной" />
+	<block key="moyh2_name" korean="Скучно и утомительной" />
+	<block key="moyh2_Description_1" korean="Скучно и утомительной" />
+	<block key="moyataskyball01_name" korean="Инструменты вызвал ткань" />
+	<block key="moyataskyball01_Description_1" korean="Инструменты вызвал ткань" />
+	<block key="moskyfury01_name" korean="Гнев небес" />
+	<block key="moskyfury01_Description_1" korean="Гнев небес" />
+	<block key="moskyfury02_name" korean="Гнев небес" />
+	<block key="moskyfury02_Description_1" korean="Гнев небес" />
+	<block key="mogarmuanger01_name" korean="Гнев" />
+	<block key="mogarmuanger01_Description_1" korean="Гнев" />
+	<block key="mogarmu01_name" korean="Банкротство" />
+	<block key="mogarmu01_Description_1" korean="Банкротство" />
+	<block key="mogarmu02_name" korean="Приклад" />
+	<block key="mogarmu02_Description_1" korean="Приклад" />
+	<block key="modevyheadhit01_name" korean="Глава взрыва" />
+	<block key="modevyheadhit01_Description_1" korean="Глава взрыва" />
+	<block key="modevyheadhit02_name" korean="Глава взрыва" />
+	<block key="modevyheadhit02_Description_1" korean="Глава взрыва" />
+	<block key="modevysorrow01_name" korean="Горе" />
+	<block key="modevysorrow01_Description_1" korean="Горе" />
+	<block key="modevysorrow02_name" korean="Горе" />
+	<block key="modevysorrow02_Description_1" korean="Горе" />
+	<block key="modevystroke01_name" korean="Eorumanjim" />
+	<block key="modevystroke01_Description_1" korean="Eorumanjim" />
+	<block key="modevycry01_name" korean="Плач" />
+	<block key="modevycry01_Description_1" korean="Плач" />
+	<block key="modevycry02_name" korean="Значительно Плач" />
+	<block key="modevycry02_Description_1" korean="Значительно Плач" />
+	<block key="moblueskyball01_name" korean="Молния" />
+	<block key="moblueskyball01_Description_1" korean="Молния" />
+	<block key="moredskyball01_name" korean="Молния" />
+	<block key="moredskyball01_Description_1" korean="Молния" />
+	<block key="moreacttuto01_name" korean="Благословение битвы" />
+	<block key="moreacttuto01_Description_1" korean="Благословение битвы" />
+	<block key="modaslot01_name" korean="Энергия конденсированной холода" />
+	<block key="modaslot01_Description_1" korean="Энергия конденсированной холода" />
+	<block key="modaslot02_name" korean="Энергия конденсированной холода" />
+	<block key="modaslot02_Description_1" korean="Энергия конденсированной холода" />
+	<block key="modaslot03_name" korean="Энергия конденсированной холода" />
+	<block key="modaslot03_Description_1" korean="Энергия конденсированной холода" />
+	<block key="modaslot04_name" korean="Земля Сандер" />
+	<block key="modaslot04_Description_1" korean="Земля Сандер" />
+	<block key="modaslot05_name" korean="Земля Сандер" />
+	<block key="modaslot05_Description_1" korean="Земля Сандер" />
+	<block key="mocbowcheck_name" korean="Expose - арбалет" />
+	<block key="mocbowcheck_Description_1" korean="Expose - арбалет" />
+	<block key="mospearcheck_name" korean="Expose - окна" />
+	<block key="mospearcheck_Description_1" korean="Expose - окна" />
+	<block key="moray01_name" korean="Приговор разрушения" />
+	<block key="moray01_Description_1" korean="Приговор разрушения" />
+	<block key="moray02_name" korean="Торжественное открытие" />
+	<block key="moray02_Description_1" korean="Торжественное открытие" />
+	<block key="moray03_name" korean="Позвоните опасно" />
+	<block key="moray03_Description_1" korean="Позвоните опасно" />
+	<block key="moray04_name" korean="Приговор разрушения" />
+	<block key="moray04_Description_1" korean="Приговор разрушения" />
+	<block key="moray05_name" korean="Энергия разрядов" />
+	<block key="moray05_Description_1" korean="Энергия разрядов" />
+	<block key="moray07_name" korean="Жертва" />
+	<block key="moray07_Description_1" korean="Жертва" />
+	<block key="moray08_name" korean="Вызов гнева" />
+	<block key="moray08_Description_1" korean="Вызов гнева" />
+	<block key="moelecboob01_name" korean="Торжественное открытие" />
+	<block key="moelecboob01_Description_1" korean="Торжественное открытие" />
+	<block key="morayarea01_name" korean="Дух витой конъюгата" />
+	<block key="morayarea01_Description_1" korean="Дух витой конъюгата" />
+	<block key="morayarea02_name" korean="Дух витой конъюгата" />
+	<block key="morayarea02_Description_1" korean="Дух витой конъюгата" />
+	<block key="moishzora01_name" korean="Чистая Ненависти" />
+	<block key="moishzora01_Description_1" korean="Чистая Ненависти" />
+	<block key="moishzora02_name" korean="Меч глотания душа" />
+	<block key="moishzora02_Description_1" korean="Меч глотания душа" />
+	<block key="moishzora03_name" korean="Раскол пространство" />
+	<block key="moishzora03_Description_1" korean="Раскол пространство" />
+	<block key="moishzora04_name" korean="Сеть Ненависти" />
+	<block key="moishzora04_Description_1" korean="Сеть Ненависти" />
+	<block key="moishzora05_name" korean="Искажение" />
+	<block key="moishzora05_Description_1" korean="Искажение" />
+	<block key="moishzora06_name" korean="Кипячение ненависть" />
+	<block key="moishzora06_Description_1" korean="Кипячение ненависть" />
+	<block key="moishzora07_name" korean="Сопротивление Бессмертный" />
+	<block key="moishzora07_Description_1" korean="Сопротивление Бессмертный" />
+	<block key="moishzora08_name" korean="Порядок Бессмертный" />
+	<block key="moishzora08_Description_1" korean="Порядок Бессмертный" />
+	<block key="moishzora09_name" korean="Дух Идзу Гора" />
+	<block key="moishzora09_Description_1" korean="Дух Идзу Гора" />
+	<block key="morabinimer01_name" korean="Тыква Трансформация" />
+	<block key="morabinimer01_Description_1" korean="Тыква Трансформация" />
+	<block key="morabinimer02_name" korean="Тыква Трансформация" />
+	<block key="morabinimer02_Description_1" korean="Тыква Трансформация" />
+	<block key="mofleam01_name" korean="Земля Сандер" />
+	<block key="mofleam01_Description_1" korean="Земля Сандер" />
+	<block key="mofleam02_name" korean="Живой огонь бомба" />
+	<block key="mofleam02_Description_1" korean="Живой огонь бомба" />
+	<block key="mofleam03_name" korean="Бомб взорваться" />
+	<block key="mofleam03_Description_1" korean="Бомб взорваться" />
+	<block key="mofleam04_name" korean="Серийный взрыв" />
+	<block key="mofleam04_Description_1" korean="Серийный взрыв" />
+	<block key="mofleam05_name" korean="Полный пожарной ауры" />
+	<block key="mofleam05_Description_1" korean="Полный пожарной ауры" />
+	<block key="mofleam06_name" korean="Крекинг Земля" />
+	<block key="mofleam06_Description_1" korean="Крекинг Земля" />
+	<block key="mofleam07_name" korean="Крекинг Земля" />
+	<block key="mofleam07_Description_1" korean="Крекинг Земля" />
+	<block key="moclesier01_name" korean="Земля Сандер" />
+	<block key="moclesier01_Description_1" korean="Земля Сандер" />
+	<block key="moclesier02_name" korean="Энергия конденсированной холода" />
+	<block key="moclesier02_Description_1" korean="Энергия конденсированной холода" />
+	<block key="moclesier03_name" korean="Дух полном льда" />
+	<block key="moclesier03_Description_1" korean="Дух полном льда" />
+	<block key="moclesier04_name" korean="Крекинг Земля" />
+	<block key="moclesier04_Description_1" korean="Крекинг Земля" />
+	<block key="moclesier05_name" korean="Крекинг Земля" />
+	<block key="moclesier05_Description_1" korean="Крекинг Земля" />
+	<block key="moclesier06_name" korean="Прохладный атмосфера" />
+	<block key="moclesier06_Description_1" korean="Прохладный атмосфера" />
+	<block key="moclesier07_name" korean="Прохладный атмосфера" />
+	<block key="moclesier07_Description_1" korean="Прохладный атмосфера" />
+	<block key="moforta01_name" korean="Стрелка в темно-" />
+	<block key="moforta01_Description_1" korean="Стрелка в темно-" />
+	<block key="moforta02_name" korean="Щит Тьмы" />
+	<block key="moforta02_Description_1" korean="Щит Тьмы" />
+	<block key="moforta03_name" korean="Vortex тьмы" />
+	<block key="moforta03_Description_1" korean="Vortex тьмы" />
+	<block key="moforta04_name" korean="Молния в темноте" />
+	<block key="moforta04_Description_1" korean="Молния в темноте" />
+	<block key="moforta05_name" korean="Чума Cloud" />
+	<block key="moforta05_Description_1" korean="Чума Cloud" />
+	<block key="moikeria01_name" korean="Arrow Света" />
+	<block key="moikeria01_Description_1" korean="Arrow Света" />
+	<block key="moikeria02_name" korean="Вялость" />
+	<block key="moikeria02_Description_1" korean="Вялость" />
+	<block key="moikeria03_name" korean="Правосудие света" />
+	<block key="moikeria03_Description_1" korean="Правосудие света" />
+	<block key="moikeria04_name" korean="Dazzle света" />
+	<block key="moikeria04_Description_1" korean="Dazzle света" />
+	<block key="moikeria05_name" korean="Подпункт () света" />
+	<block key="moikeria05_Description_1" korean="Подпункт () света" />
+	<block key="eloralight02_Name" korean="Благословение Эллоры" />
+	<block key="eloralight02_Description_1" korean="Благословение Эллоры" />
+	<block key="eloralight03_Name" korean="Сильный благословение Эллоры" />
+	<block key="eloralight03_Description_1" korean="Сильный благословение Эллоры" />
+	<block key="demonpressure01_Name" korean="Runaway духи (ссылка)" />
+	<block key="demonpressure01_description_1" korean="Runaway духи (ссылка) 1" />
+	<block key="demonpressure01_description_2" korean="Runaway духи (ссылка) 2" />
+	<block key="demonpressure01_description_3" korean="Runaway духи (ссылка) 3" />
+	<block key="demonpressure01_description_4" korean="Runaway духи (ссылка) 4" />
+	<block key="demonpressure01_description_5" korean="Runaway духи (ссылка) 5" />
+	<block key="demonpressure01_description_6" korean="Runaway духи (ссылка) 6" />
+	<block key="crump01_Name" korean="Отрыжка углерода (вызов)" />
+	<block key="crump01_description_1" korean="Отрыжка углерода (Призыв) 1" />
+	<block key="creature_attack0_Name" korean="Общее наступление" />
+	<block key="creature_attack0_description_1" korean="Сотрудник выдает команду атаковать цель." />
+	<block key="creature_mode00_Name" korean="Бесплатный Атака" />
+	<block key="creature_mode00_description_1" korean="Стипендиаты будут атаковать любых враждебных целей вокруг." />
+	<block key="creature_mode01_Name" korean="Вторичная атака" />
+	<block key="creature_mode01_description_1" korean="Если игрок игрок будет объектом нападения бою." />
+	<block key="creature_mode02_Name" korean="Инструкция первый" />
+	<block key="creature_mode02_description_1" korean="Бывшие игроки делают команда не делает каких-либо действий." />
+	<block key="creature_movemode00_Name" korean="В зависимости посещают" />
+	<block key="creature_movemode00_description_1" korean="Стипендиаты будут двигаться по игроку." />
+	<block key="creature_movemode01_Name" korean="Фиксация" />
+	<block key="creature_movemode01_description_1" korean="Сотрудник стоит на месте." />
+	<block key="creature_movemode02_Name" korean="Обороны" />
+	<block key="creature_movemode02_description_1" korean="Стипендиаты займет оборонительную позицию на месте." />
+	<block key="creature_stop0_Name" korean="Выключать" />
+	<block key="creature_stop0_description_1" korean="Стипендиаты остановить нападение." />
+	<block key="creature_attack1_Name" korean="Общее наступление" />
+	<block key="creature_attack1_description_1" korean="Сотрудник выдает команду атаковать цель." />
+	<block key="creature_mode10_Name" korean="Бесплатный Атака" />
+	<block key="creature_mode10_description_1" korean="Стипендиаты будут атаковать любых враждебных целей вокруг." />
+	<block key="creature_mode11_Name" korean="Вторичная атака" />
+	<block key="creature_mode11_description_1" korean="Если игрок игрок будет объектом нападения бою." />
+	<block key="creature_mode12_Name" korean="Инструкция первый" />
+	<block key="creature_mode12_description_1" korean="Бывшие игроки делают команда не делает каких-либо действий." />
+	<block key="creature_movemode10_Name" korean="В зависимости посещают" />
+	<block key="creature_movemode10_description_1" korean="Стипендиаты будут двигаться по игроку." />
+	<block key="creature_movemode11_Name" korean="Фиксация" />
+	<block key="creature_movemode11_description_1" korean="Сотрудник стоит на месте." />
+	<block key="creature_movemode12_Name" korean="Обороны" />
+	<block key="creature_movemode12_description_1" korean="Стипендиаты займет оборонительную позицию на месте." />
+	<block key="creature_stop1_Name" korean="Выключать" />
+	<block key="creature_stop1_description_1" korean="Стипендиаты остановить нападение." />
+	<block key="creature_attack4_Name" korean="Общее наступление" />
+	<block key="creature_attack4_description_1" korean="Сотрудник выдает команду атаковать цель." />
+	<block key="creature_mode40_Name" korean="Бесплатный Атака" />
+	<block key="creature_mode40_description_1" korean="Стипендиаты будут атаковать любых враждебных целей вокруг." />
+	<block key="creature_mode41_Name" korean="Вторичная атака" />
+	<block key="creature_mode41_description_1" korean="Если игрок игрок будет объектом нападения бою." />
+	<block key="creature_mode42_Name" korean="Инструкция первый" />
+	<block key="creature_mode42_description_1" korean="Бывшие игроки делают команда не делает каких-либо действий." />
+	<block key="creature_movemode40_Name" korean="В зависимости посещают" />
+	<block key="creature_movemode40_description_1" korean="Стипендиаты будут двигаться по игроку." />
+	<block key="creature_movemode41_Name" korean="Фиксация" />
+	<block key="creature_movemode41_description_1" korean="Сотрудник стоит на месте." />
+	<block key="creature_movemode42_Name" korean="Обороны" />
+	<block key="creature_movemode42_description_1" korean="Стипендиаты займет оборонительную позицию на месте." />
+	<block key="creature_stop4_Name" korean="Выключать" />
+	<block key="creature_stop4_description_1" korean="Стипендиаты остановить нападение." />
+	<block key="creature_attack_Name" korean="Общее наступление" />
+	<block key="creature_attack_description_1" korean="Сотрудник выдает команду атаковать цель." />
+	<block key="creature_mode0_Name" korean="Бесплатный Атака" />
+	<block key="creature_mode0_description_1" korean="Стипендиаты будут атаковать любых враждебных целей вокруг." />
+	<block key="creature_mode1_Name" korean="Вторичная атака" />
+	<block key="creature_mode1_description_1" korean="Если игрок игрок будет объектом нападения бою." />
+	<block key="creature_mode2_Name" korean="Инструкция первый" />
+	<block key="creature_mode2_description_1" korean="Бывшие игроки делают команда не делает каких-либо действий." />
+	<block key="creature_movemode0_Name" korean="В зависимости посещают" />
+	<block key="creature_movemode0_description_1" korean="Стипендиаты будут двигаться по игроку." />
+	<block key="creature_movemode1_Name" korean="Фиксация" />
+	<block key="creature_movemode1_description_1" korean="Сотрудник стоит на месте." />
+	<block key="creature_movemode2_Name" korean="Обороны" />
+	<block key="creature_movemode2_description_1" korean="Стипендиаты займет оборонительную позицию на месте." />
+	<block key="creature_stop_Name" korean="Выключать" />
+	<block key="creature_stop_description_1" korean="Стипендиаты остановить нападение." />
+	<block key="ct_appointmovewr_Name" korean="Укажите расположение" />
+	<block key="ct_appointmovewr_description_1" korean="Стипендиаты будут перемещены в указанном месте." />
+	<block key="beardoubleatk_Name" korean="Рулон" />
+	<block key="beardoubleatk_description_1" korean="Удар дважды поразить цель дает физические повреждения передней ноги. Расширенный навыки лучше, чем Gouge" />
+	<block key="bearfury_Name" korean="Гнев" />
+	<block key="bearfury_description_1" korean="Только 20% меньше, чем доступных физических навыков. Имейте в атаки и защиты увеличивается." />
+	<block key="bearhonest_Name" korean="Woojikham медведь" />
+	<block key="bearhonest_description_1" korean="Защита медведя и игрок поднимается." />
+	<block key="bearmash_Name" korean="Броня Mangle" />
+	<block key="bearmash_description_1" korean="Попади в цель побить Лапы снижает защиту. Сотрудник навыков в уровнях квалификации высокими, уменьшите броню, принадлежащую снизить броню с." />
+	<block key="bearpush_Name" korean="Шлем" />
+	<block key="bearpush_description_1" korean="Сунул объект в передней части стопы дает отбрасывания эффект." />
+	<block key="bearroar_Name" korean="Рев" />
+	<block key="bearroar_description_1" korean="Агро по всем целям в радиусе атаковать высоким и медведи." />
+	<block key="bearrush_Name" korean="Получение их" />
+	<block key="bearrush_description_1" korean="Прием цель делает нокдаун состояние." />
+	<block key="bearswingatk_Name" korean="Обманывать" />
+	<block key="bearswingatk_description_1" korean="Попади в цель побить стопы дает вам физический урон." />
+	<block key="bearswingatk_description_2" korean="Попади в цель побить стопы дает вам физический урон." />
+	<block key="bearthreat_Name" korean="Угроза" />
+	<block key="bearthreat_description_1" korean="Угроза для одного пункта назначения nophin агро." />
+	<block key="bearwild_Name" korean="Разгул медведь" />
+	<block key="bearwild_description_1" korean="Медведь и игрок дает бонус к урону при атаке цели к критической." />
+	<block key="cowbodycheck_Name" korean="Шлем" />
+	<block key="cowbodycheck_description_1" korean="Сунул рог дает целевой отбрасывания эффект." />
+	<block key="cowfurycowName" korean="Яичниковый" />
+	<block key="cowfurycowdescription_1" korean="Только 20% меньше, чем доступных физических навыков. Повреждение крупного рогатого скота и шанс критического удара увеличивается." />
+	<block key="cowhonest_Name" korean="Крупный рогатый скот deumjikham" />
+	<block key="cowhonest_description_1" korean="И сила быка и увеличивается игрока." />
+	<block key="cowhornatk_Name" korean="Рога жало" />
+	<block key="cowhornatk_description_1" korean="Целевые колющее рога дать физический ущерб." />
+	<block key="cowhornatk_description_2" korean="Целевые колющее рога дать физический ущерб." />
+	<block key="cowhornswingatk_Name" korean="Качели рог" />
+	<block key="cowhornswingatk_description_1" korean="Hwidulreoseo рога слева направо дает физический урон по целям в диапазоне 60 градусов впереди." />
+	<block key="cowpush_Name" korean="Получение их" />
+	<block key="cowpush_description_1" korean="Чтобы атаковать цель дает физический ущерб." />
+	<block key="cowroar_Name" korean="Рев" />
+	<block key="cowroar_description_1" korean="Рев падения приводит к повреждению одной цели." />
+	<block key="cowthreat_Name" korean="Угроза" />
+	<block key="cowthreat_description_1" korean="Угроза для одного пункта назначения nophin агро." />
+	<block key="cowwild_Name" korean="Крупный рогатый скот разгул" />
+	<block key="cowwild_description_1" korean="Knockback, что вероятность мала, и игрок с, а сбил вероятность роста навыков." />
+	<block key="leddeepbite_Name" korean="Разрывая спросить трудно" />
+	<block key="leddeepbite_description_1" korean="Tteuteoseo Попросите его дать физическое зубы повреждений и кровотечений эффекты, в то же время." />
+	<block key="ledhostility_Name" korean="Враждебность" />
+	<block key="ledhostility_description_1" korean="1 показывает враждебность к предметам. Предметом защиты понижается в течение определенного периода времени." />
+	<block key="leoarmoratk_Name" korean="Броня jjitgi" />
+	<block key="leoarmoratk_description_1" korean="Queer цель снизить броню цели на переднюю часть стопы. Стипендиаты более низкие уровни навыка мастерства снижает броню с брони, как правило, принадлежат к." />
+	<block key="leobite_Name" korean="Спросите разрывая" />
+	<block key="leobite_description_1" korean="Попросите его дать зубы физических повреждений." />
+	<block key="leobite_description_2" korean="Попросите его дать зубы физических повреждений." />
+	<block key="leobleed_Name" korean="Ставка рана" />
+	<block key="leobleed_description_1" korean="Queer подлежат стопы дает физическое повреждение DOT." />
+	<block key="leoflexible_Name" korean="Гибкость леопарда" />
+	<block key="leoflexible_description_1" korean="Снижает урон от падения." />
+	<block key="leohuntinginstinct_Name" korean="Охотничий инстинкт" />
+	<block key="leohuntinginstinct_description_1" korean="За период времени атаки и уклонения от уплаты поднимается." />
+	<block key="leoroar_Name" korean="Рев" />
+	<block key="leoroar_description_1" korean="Рев падения приводит к повреждению одной цели." />
+	<block key="leorushatk_Name" korean="Raided" />
+	<block key="leorushatk_description_1" korean="Перейти к одним целевой нокдаун состоянии делает челку." />
+	<block key="leospeedy_Name" korean="Jaeppareum Leopard" />
+	<block key="leospeedy_description_1" korean="В течение заданного времени движущиеся увеличивается скорость." />
+	<block key="leowpscratch_Name" korean="Swipes быть подбрюшье" />
+	<block key="leowpscratch_description_1" korean="Queer быть мишенью подбрюшье стоя, давая ущерб физических причин для уклонения падения." />
+	<block key="leowpsearch_Name" korean="Недостатки, выявленные" />
+	<block key="leowpsearch_description_1" korean="Леопард и увеличивается скорость игрока и критические." />
+	<block key="pigappetite_Name" korean="Аппетит" />
+	<block key="pigappetite_description_1" korean="Употребление в пищу eumsikryu увеличения количества восстановления." />
+	<block key="pigendure_Name" korean="Crackin" />
+	<block key="pigendure_description_1" korean="Knockback, и снижает риск бросовой эффекта." />
+	<block key="pigheadatk_Name" korean="Получение их" />
+	<block key="pigheadatk_description_1" korean="Чтобы атаковать цель дает физический ущерб." />
+	<block key="pigheadatk_description_2" korean="Чтобы атаковать цель дает физический ущерб." />
+	<block key="pignoise_Name" korean="Brage колыбельная" />
+	<block key="pignoise_description_1" korean="Свинья выбирая власть, чтобы создать звук. Сосредоточение внимания на врагов в пределах определенного свиней с длинными номерами из-за подавления шума, Колдовство и заклинаний время будет увеличиваться с течением времени." />
+	<block key="pigpush_Name" korean="Центр Wave" />
+	<block key="pigpush_description_1" korean="Встряхивать удара центр мишени. Напали Государственной целевой отталкивания медленнее скорость атаки в течение определенного периода времени." />
+	<block key="pigrush_Name" korean="Порыв" />
+	<block key="pigrush_description_1" korean="Перейти к цели на расстоянии принять государство делает нокдаун. (Подобный плечо должно ударить)" />
+	<block key="pigstomp_Name" korean="Stomp" />
+	<block key="pigstomp_description_1" korean="Подвижной ваши ноги и трясти землю. Направление в рамках Stern занимает некоторое время, чтобы иметь возможность приема физических повреждений." />
+	<block key="pigstrong_Name" korean="Устойчивость вепря" />
+	<block key="pigstrong_description_1" korean="Броня кабана и игрока увеличивается." />
+	<block key="pigthreat_Name" korean="Угроза" />
+	<block key="pigthreat_description_1" korean="Угроза для одного пункта назначения nophin агро." />
+	<block key="wolfavoid_Name" korean="Настороженность волка" />
+	<block key="wolfavoid_description_1" korean="Hoepiryeok стипендиатов и игрок поднял." />
+	<block key="wolfbite_Name" korean="Спросите разрывая" />
+	<block key="wolfbite_description_1" korean="Tteuteoseo Попросите его дать зубы физических повреждений." />
+	<block key="wolfbite_description_2" korean="Tteuteoseo Попросите его дать зубы физических повреждений." />
+	<block key="wolfbleed_Name" korean="Ставка рана" />
+	<block key="wolfbleed_description_1" korean="Tteuteoseo задать предмет, чтобы дать зубы кровотечение эффект в течение периода времени." />
+	<block key="wolfdeepbite_Name" korean="Спросите разрывая глубоко" />
+	<block key="wolfdeepbite_description_1" korean="Tteuteoseo Попросите его дать физическое зубы повреждений и кровотечений эффекты, в то же время." />
+	<block key="wolfhostility_Name" korean="Враждебность" />
+	<block key="wolfhostility_description_1" korean="1 показывает враждебность к предметам. Предметом защиты понижается в течение определенного периода времени." />
+	<block key="wolflegatk_Name" korean="Ноги мокрые" />
+	<block key="wolflegatk_description_1" korean="Tteuteoseo Попросите его зубов, таким образом, падение скорости передвижения в течение определенного периода времени." />
+	<block key="wolflongroar_Name" korean="Длинные крик" />
+	<block key="wolflongroar_description_1" korean="Их сила атаки повышается в течение определенного периода времени." />
+	<block key="wolfspeedy_Name" korean="Jaeppareum волка" />
+	<block key="wolfspeedy_description_1" korean="При отсутствии доска парень не увеличивает скорости движения на другого игрока. (Не относится к посадке)" />
+	<block key="wolfweakatk_Name" korean="Слабость атаки" />
+	<block key="wolfweakatk_description_1" korean="Критическая скорость стипендиатов и игрок поднял." />
+	<block key="bandage_Name" korean="Бандаж" />
+	<block key="bandage_description_1" korean="5 секунд, чтобы восстановить HP, а 14 каждую секунду." />
+	<block key="bandage_description_2" korean="5 секунд и восстановления HP на 20 каждую секунду." />
+	<block key="bandage_description_3" korean="5 секунд и восстановления HP на 29 каждую секунду." />
+	<block key="bandage_description_4" korean="HP восстанавливается на 5 секунд каждые 38 секунд." />
+	<block key="bandage_description_5" korean="5 секунд, чтобы восстановить HP, а 55 каждую секунду." />
+	<block key="bandage_description_6" korean="5 секунд и восстановления HP на 74 каждую секунду." />
+	<block key="bandage_description_7" korean="5 секунд и восстановления HP на 95 каждую секунду." />
+	<block key="bandage_Product_Name" korean="Бандаж" />
+	<block key="foodrecoverhp_Name" korean="HP Recovery еда" />
+	<block key="foodrecoverhp_description_1" korean="18 секунд, чтобы восстановить HP, 19 путь каждые 3 секунды." />
+	<block key="foodrecoverhp_description_2" korean="18 секунд, чтобы восстановить HP, 28 путь каждые 3 секунды." />
+	<block key="foodrecoverhp_description_3" korean="18 секунд, чтобы восстановить 40 HP каждое уравнение 3 секунд." />
+	<block key="foodrecoverhp_description_4" korean="Каждые 3 секунды 18 секунд, чтобы восстановить 54 л.с., а выражение." />
+	<block key="foodrecoverhp_description_5" korean="18 секунд, чтобы восстановить HP каждые 3 секунды в течение 77 пути." />
+	<block key="foodrecoverhp_description_6" korean="18 секунд, чтобы восстановить 104 HP каждое уравнение 3 секунд." />
+	<block key="foodrecoverhp_description_7" korean="18 секунд, чтобы восстановить 133 HP каждое уравнение 3 секунд." />
+	<block key="foodrecovermp_Name" korean="Восстановление еды _MP" />
+	<block key="foodrecovermp_description_1" korean="18 секунд, чтобы восстановить формулу MP 19 каждые 3 секунды." />
+	<block key="foodrecovermp_description_2" korean="18 секунд, чтобы восстановить MP 28 формулу каждые 3 секунды." />
+	<block key="foodrecovermp_description_3" korean="18 секунд, чтобы восстановить формулу MP 40 каждые 3 секунды." />
+	<block key="foodrecovermp_description_4" korean="Способ восстановить 54 MP каждые 3 секунды в течение 18 секунд." />
+	<block key="foodrecovermp_description_5" korean="18 секунд, чтобы восстановить формулу MP 77 каждые 3 секунды." />
+	<block key="foodrecovermp_description_6" korean="18 секунд, чтобы восстановить формулу MP 104 каждые 3 секунды." />
+	<block key="foodrecovermp_description_7" korean="18 секунд, чтобы восстановить формулу MP 133 каждые 3 секунды." />
+	<block key="immune_propertybodym_Name" korean="Недвижимость и условия меняются с течением сопротивления" />
+	<block key="immune_propertybodym_description_1" korean="15 минут не застрахован от всех свойств и условий выше." />
+	<block key="itemcrystal_Name" korean="Ice изменить повестку" />
+	<block key="itemcrystal_description_1" korean="Призыв Ice изменены." />
+	<block key="marlenpotiondex_Name" korean="Marlene ловкие знаки" />
+	<block key="marlenpotiondex_description_1" korean="Это увеличивает гибкость по 3 в течение 15 минут." />
+	<block key="marlenpotiondex_description_2" korean="Увеличивает ловкость на 5 на 15 минут." />
+	<block key="marlenpotionint_Name" korean="Marlene интеллектуальные признаки" />
+	<block key="marlenpotionint_description_1" korean="Увеличивает интеллект на 3 в течение 15 минут." />
+	<block key="marlenpotionint_description_2" korean="Увеличивает интеллект на 10 в течение 15 минут." />
+	<block key="marlenpotionstr_Name" korean="Marlene питания жетоны" />
+	<block key="marlenpotionstr_description_1" korean="Эта сила будет увеличиваться на 15 минут 3." />
+	<block key="marlenpotionstr_description_2" korean="Эта сила будет 15 минут на 5." />
+	<block key="potionatkpowup_Name" korean="_ _ Повышение зелье Эффективность" />
+	<block key="potionatkpowup_description_1" korean="Увеличивает силу атаки на 10 в течение 15 минут." />
+	<block key="potionatkpowup_description_2" korean="Увеличивает силу атаки на 20 в течение 15 минут." />
+	<block key="potionatkpowup_description_3" korean="Увеличивает силу атаки на 40 в течение 15 минут." />
+	<block key="potionatkpowup_description_4" korean="Увеличивает силу атаки на 80 в течение 15 минут." />
+	<block key="potionatkpowup_description_5" korean="Увеличивает силу атаки на 160 в течение 15 минут." />
+	<block key="potiondarkdown_Name" korean="Зелье _ _ лечение путаница" />
+	<block key="potiondarkdown_description_1" korean="Тем самым уменьшая темные столько, сколько 10 калибра." />
+	<block key="potiondarkdown_description_2" korean="Темнота датчик уменьшается на 20." />
+	<block key="potiondarkdown_description_3" korean="Темнота датчик уменьшается на 30." />
+	<block key="potiondarkdown_description_4" korean="Темнота датчик уменьшается на 40." />
+	<block key="potiondarkdown_description_5" korean="Уменьшает темные столько, сколько 50 калибра." />
+	<block key="potiondexup_Name" korean="_ _ Увеличение ловкости зелье" />
+	<block key="potiondexup_description_1" korean="Это увеличивает гибкость по 3 в течение 15 минут." />
+	<block key="potiondexup_description_2" korean="Это увеличивает ловкость на 6 в течение 15 минут." />
+	<block key="potiondexup_description_3" korean="Это увеличивает ловкость на 9 в течение 15 минут." />
+	<block key="potiondexup_description_4" korean="Это увеличение ловкости на 15 на 15 минут." />
+	<block key="potiondexup_description_5" korean="Это увеличение ловкости на 21 на 15 минут." />
+	<block key="potionfiredown_Name" korean="_ _ Зелье лечения ожогов" />
+	<block key="potionfiredown_description_1" korean="Уменьшите огонь столько, сколько 10 калибра." />
+	<block key="potionfiredown_description_2" korean="Уменьшена на 20 калибра." />
+	<block key="potionfiredown_description_3" korean="Уменьшена на 30 калибра." />
+	<block key="potionfiredown_description_4" korean="Уменьшена на 40 калибра." />
+	<block key="potionfiredown_description_5" korean="Уменьшена на целых 50 калибра." />
+	<block key="potionhprecovery_Name" korean="_ _ Vitality восстановления зелье" />
+	<block key="potionhprecovery_description_1" korean="Восстанавливает HP, как только 37-45." />
+	<block key="potionhprecovery_description_2" korean="Восстанавливает HP, как только 54-66." />
+	<block key="potionhprecovery_description_3" korean="HP, мгновенно восстанавливает на 104 ~ 127." />
+	<block key="potionhprecovery_description_4" korean="Восстанавливает HP, и достаточно скоро 200-245." />
+	<block key="potionhprecovery_description_5" korean="Восстанавливает HP, как только 328-401." />
+	<block key="potionhprecovery_description_6" korean="Восстанавливает HP, как только 517-631." />
+	<block key="potionhprecovery_description_7" korean="Восстанавливает HP, как только 766-936." />
+	<block key="potionicedown_Name" korean="Зелье статуя _ _ лечение" />
+	<block key="potionicedown_description_1" korean="Ice уменьшает на 10 калибра." />
+	<block key="potionicedown_description_2" korean="Ice уменьшает на 20 калибра." />
+	<block key="potionicedown_description_3" korean="Ice уменьшает на 30 калибра." />
+	<block key="potionicedown_description_4" korean="Ice уменьшает на 40 калибра." />
+	<block key="potionicedown_description_5" korean="Льда уменьшает целых 50 калибра." />
+	<block key="potionintup_Name" korean="Зелье _ _ повышение интеллекта" />
+	<block key="potionintup_description_1" korean="Увеличивает интеллект на 3 в течение 15 минут." />
+	<block key="potionintup_description_2" korean="Увеличивает интеллект на 6 в течение 15 минут." />
+	<block key="potionintup_description_3" korean="Увеличивает интеллект на 9 в течение 15 минут." />
+	<block key="potionintup_description_4" korean="Увеличивает интеллект на 15 в течение 15 минут." />
+	<block key="potionintup_description_5" korean="Увеличивает интеллект на 21 в течение 15 минут." />
+	<block key="potionlightdown_Name" korean="Зелье _ _ лечение электрическим током" />
+	<block key="potionlightdown_description_1" korean="Датчик света уменьшается на 10." />
+	<block key="potionlightdown_description_2" korean="Датчик света уменьшается на 20." />
+	<block key="potionlightdown_description_3" korean="Датчик света уменьшается на 30." />
+	<block key="potionlightdown_description_4" korean="Датчик света уменьшается на 40." />
+	<block key="potionlightdown_description_5" korean="Датчик света уменьшается на 50." />
+	<block key="potionmacriup_Name" korean="_ _ Увеличение Potion Магическое Critical" />
+	<block key="potionmacriup_description_1" korean="15 минут вероятность критического эффекта заклинаний увеличена на 3%." />
+	<block key="potionmacriup_description_2" korean="Это заклинание шанс критического удара увеличивается на 6% в течение 15 минут." />
+	<block key="potionmacriup_description_3" korean="15 минут вероятность критического эффекта заклинаний увеличена на 9%." />
+	<block key="potionmacriup_description_4" korean="15 минут вероятность критического эффекта заклинаний увеличена на 12%." />
+	<block key="potionmacriup_description_5" korean="Вероятность критического эффекта заклинаний увеличена на 15% до 15 минут." />
+	<block key="potionmprecovery_Name" korean="_ _ Дух восстановление зелье" />
+	<block key="potionmprecovery_description_1" korean="MP восстанавливается, как только 37-45." />
+	<block key="potionmprecovery_description_2" korean="Восстанавливает MP как только 54-66." />
+	<block key="potionmprecovery_description_3" korean="Сразу восстанавливает MP на 104 ~ 127." />
+	<block key="potionmprecovery_description_4" korean="Восстанавливает MP как только 200-245." />
+	<block key="potionmprecovery_description_5" korean="MP восстанавливается, как только 328-401." />
+	<block key="potionmprecovery_description_6" korean="MP восстанавливается, как только 517-631." />
+	<block key="potionmprecovery_description_7" korean="MP восстанавливается, как только 766-936." />
+	<block key="potionmtlup_Name" korean="Зелье _ _ повышенная концентрация" />
+	<block key="potionmtlup_description_1" korean="Увеличение концентрации так же, как 3 в течение 15 минут." />
+	<block key="potionmtlup_description_2" korean="Увеличение концентрации так же, как 6 в течение 15 минут." />
+	<block key="potionmtlup_description_3" korean="Увеличение концентрации так же, как 9 в течение 15 минут." />
+	<block key="potionmtlup_description_4" korean="Увеличение концентрации так же, как 15 на 15 минут." />
+	<block key="potionmtlup_description_5" korean="Увеличение концентрации так же, как 21 на 15 минут." />
+	<block key="potionspellpowup_Name" korean="_ _ Заклинаний увеличение зелье" />
+	<block key="potionspellpowup_description_1" korean="Увеличивает силу заклинаний на 10 в течение 15 минут." />
+	<block key="potionspellpowup_description_2" korean="Увеличивает силу заклинаний на 20 в течение 15 минут." />
+	<block key="potionspellpowup_description_3" korean="Увеличивает силу заклинаний на 40 в течение 15 минут." />
+	<block key="potionspellpowup_description_4" korean="Увеличивает силу заклинаний на 80 в течение 15 минут." />
+	<block key="potionspellpowup_description_5" korean="Увеличивает силу заклинаний на 160 в течение 15 минут." />
+	<block key="potionstrup_Name" korean="_ _ Повышенная прочность зелье" />
+	<block key="potionstrup_description_1" korean="Эта сила будет увеличиваться на 15 минут 3." />
+	<block key="potionstrup_description_2" korean="Увеличивает силу на 6 в течение 15 минут." />
+	<block key="potionstrup_description_3" korean="Увеличение прочности на 9 в течение 15 минут." />
+	<block key="potionstrup_description_4" korean="Увеличивает силу на 15 в течение 15 минут." />
+	<block key="potionstrup_description_5" korean="Увеличивает силу на 21 в течение 15 минут." />
+	<block key="potionvtlup_Name" korean="_ _ Увеличение выносливости зелье" />
+	<block key="potionvtlup_description_1" korean="Повышает выносливость на 3 в течение 15 минут." />
+	<block key="potionvtlup_description_2" korean="Повышает выносливость на 6 на 15 минут." />
+	<block key="potionvtlup_description_3" korean="Повышает выносливость на 9 в течение 15 минут." />
+	<block key="potionvtlup_description_4" korean="Повышает выносливость на 15 в течение 15 минут." />
+	<block key="potionvtlup_description_5" korean="Повышает выносливость на 21 в течение 15 минут." />
+	<block key="potionwecriup_Name" korean="Зелье _ _ увеличилось критического удара оружия" />
+	<block key="potionwecriup_description_1" korean="15 минут Оружие шанс критического удара увеличивается на 3%." />
+	<block key="potionwecriup_description_2" korean="Это оружие шанс критического удара 15 минут увеличилась на 6%." />
+	<block key="potionwecriup_description_3" korean="15 минут оружие шанс критического удара увеличивается на 9%." />
+	<block key="potionwecriup_description_4" korean="15 минут Оружие шанс критического удара увеличивается на 12%." />
+	<block key="potionwecriup_description_5" korean="Это оружие шанс критического удара на 15% до 15 минут." />
+	<block key="returnposreg_Name" korean="Вернуться реестр местоположения" />
+	<block key="returnposreg_description_1" korean="Регистрация текущего местоположения до временного положения возвращения." />
+	<block key="returnposunreg_Name" korean="Место возврата удален" />
+	<block key="returnposunreg_description_1" korean="Удаление зарегистрированных временное положение возврата." />
+	<block key="summon_creature_Name" korean="Попутчики вызов" />
+	<block key="summon_creature_description_1" korean="Призывает членом." />
+	<block key="taming_possible_Name" korean="Укрощение Доступные" />
+	<block key="taming_possible_description_1" korean="Является ли создать назначения до состояния, когда он может укротить." />
+	<block key="unknown_potion_Name" korean="Неизвестный зелье" />
+	<block key="unknown_potion_description_1" korean="Это, кажется, происходит что-то неведомой силой." />
+	<block key="change_magicstone_Name" korean="Преобразование Камень" />
+	<block key="change_magicstone_description_1" korean="Парень преобразовать очаг." />
+	<block key="combine_ingredient_Name" korean="Элементы объединены" />
+	<block key="combine_ingredient_description_1" korean="Сочетает в себе соединяемых элементов." />
+	<block key="comm_extraction_item_Name" korean="Пункт Добыча" />
+	<block key="comm_extraction_item_description_1" korean="Обновление камень извлекает элемент оборудования." />
+	<block key="comm_magic_pre_Name" korean="Камень преобразования предварительной обработки _" />
+	<block key="comm_magic_pre_description_1" korean="Камень преобразования предварительной обработки" />
+	<block key="comm_magicstone_addo_Name" korean="Камень установлен" />
+	<block key="comm_magicstone_addo_description_1" korean="Установите очаг." />
+	<block key="comm_magicstone_conv_Name" korean="Не используйте преобразование Хартстон _" />
+	<block key="comm_magicstone_conv_description_1" korean="Преобразование Камень" />
+	<block key="comm_reinforce_item_Name" korean="Элементы укрепления" />
+	<block key="comm_reinforce_item_description_1" korean="Использование Upgrade камень укрепляет позиции." />
+	<block key="comm_return_Name" korean="Возвращение" />
+	<block key="comm_return_description_1" korean="Перейти к адрес места назначения." />
+	<block key="comm_return01_Name" korean="Return (ссылка)" />
+	<block key="comm_return01_description_1" korean="Возвращение" />
+	<block key="comm_warp_Name" korean="Основа" />
+	<block key="comm_warp_description_1" korean="Основа в фиксированном положении." />
+	<block key="comm_move_portal_Name" korean="Портал Перейти" />
+	<block key="comm_move_portal_description_1" korean="Переход к фиксированной позиции." />
+	<block key="death_penalty_Name" korean="Смертная казнь" />
+	<block key="death_penalty_description_1" korean="3 минуты атаки и обороны уменьшается на 70%. Если вы умрете в состоянии Воскресения осложнений, продолжительность последствия увеличивается." />
+	<block key="death_penalty_description_2" korean="Для 4 минуты и 30 секунд, атака и защита снижается на 70%. Если вы умрете в состоянии Воскресения осложнений, продолжительность последствия увеличивается." />
+	<block key="death_penalty_description_3" korean="6 минут атаки и обороны уменьшается на 70%. Если вы умрете в состоянии Воскресения осложнений, продолжительность последствия увеличивается." />
+	<block key="death_penalty_description_4" korean="7 минут 50 секунд атаки и обороны уменьшается на 70%. Если вы умрете в состоянии Воскресения осложнений, продолжительность последствия увеличивается." />
+	<block key="death_penalty_description_5" korean="9 минут атаки и обороны уменьшается на 70%. Если вы умрете в состоянии Воскресения осложнений, продолжительность последствия увеличивается." />
+	<block key="dyeing_hair_Name" korean="_ Окрашенных волос" />
+	<block key="dyeing_hair_description_1" korean="Для окраски волос" />
+	<block key="dyeing_item_Name" korean="_ Окрашенные элементы" />
+	<block key="dyeing_item_description_1" korean="Крашеные изделия" />
+	<block key="scinariodraw_Name" korean="Заполните ведро" />
+	<block key="scinariodraw_description_1" korean="Заполните ведро" />
+	<block key="scinariodrink_Name" korean="У зелье" />
+	<block key="scinariodrink_description_1" korean="У зелье" />
+	<block key="scinariocasting_Name" korean="Использование Tracker" />
+	<block key="scinariocasting_description_1" korean="Использование Tracker" />
+	<block key="scinariobait_Name" korean="Приманка и падение" />
+	<block key="scinariobait_description_1" korean="Приманка и падение" />
+	<block key="summoncreature_Name" korean="Попутчики вызов" />
+	<block key="summoncreature_description_1" korean="Попутчики вызов" />
+	<block key="taming_penalty_playe_Name" korean="Укрощение Кара-плеер" />
+	<block key="taming_penalty_playe_description_1" korean="Укрощение штраф _ игрока" />
+	<block key="taming_penalty_targe_Name" korean="Укрощение штраф -ENPC" />
+	<block key="taming_penalty_targe_description_1" korean="Укрощение штраф _ENPC" />
+	<block key="taming_ride_fail_Name" korean="Укрощение догнать неудачи" />
+	<block key="taming_ride_fail_description_1" korean="Отказ Укрощение" />
+	<block key="arcampfire_Name" korean="Костер" />
+	<block key="arcampfire_description_1" korean="Костер" />
+	<block key="arcrater01_Name" korean="Кратер 1" />
+	<block key="arcrater01_description_1" korean="Кратер 1" />
+	<block key="arcrater02_Name" korean="Кратер 2 (извержение)" />
+	<block key="arcrater02_description_1" korean="Кратер 2 (извержение)" />
+	<block key="arcrater03_Name" korean="_ Кратер площадь 3 (случайные вызов)" />
+	<block key="arcrater03_description_1" korean="_ Кратер площадь 3 (случайные вызов)" />
+	<block key="ardamagedark_Name" korean="Темные области _ _ Нанесенный" />
+	<block key="ardamagedark_description_1" korean="Темные области _ _ Нанесенный" />
+	<block key="ardamagedark_description_2" korean="Темные области _ _ Нанесенный" />
+	<block key="ardamagedark_description_3" korean="Темные области _ _ Нанесенный" />
+	<block key="ardamagefire_Name" korean="_ _ Площадь урона от огня" />
+	<block key="ardamagefire_description_1" korean="_ _ Площадь урона от огня" />
+	<block key="ardamagefire_description_2" korean="_ _ Площадь урона от огня" />
+	<block key="ardamagefire_description_3" korean="_ _ Площадь урона от огня" />
+	<block key="ardamageice_Name" korean="Местное лед _ _ Нанесенный" />
+	<block key="ardamageice_description_1" korean="Местное лед _ _ Нанесенный" />
+	<block key="ardamageice_description_2" korean="Местное лед _ _ Нанесенный" />
+	<block key="ardamageice_description_3" korean="Местное лед _ _ Нанесенный" />
+	<block key="ardamagelight_Name" korean="Местное _ _ повреждения свет" />
+	<block key="ardamagelight_description_1" korean="Местное _ _ повреждения свет" />
+	<block key="ardamagelight_description_2" korean="Местное _ _ повреждения свет" />
+	<block key="ardamagelight_description_3" korean="Местное _ _ повреждения свет" />
+	<block key="areafireback01_Name" korean="Местной пожарной _ 01 _ отталкивания" />
+	<block key="areafireback01_description_1" korean="Местной пожарной _ 01 _ отталкивания" />
+	<block key="areafireback02_Name" korean="Местной пожарной _ 02 _ отталкивания" />
+	<block key="areafireback02_description_1" korean="Местной пожарной _ 02 _ отталкивания" />
+	<block key="areafireback03_Name" korean="Местной пожарной _ 03 _ отталкивания" />
+	<block key="areafireback03_description_1" korean="Местной пожарной _ 03 _ отталкивания" />
+	<block key="areafireback04_Name" korean="Местной пожарной _ 04 _ отталкивания" />
+	<block key="areafireback04_description_1" korean="Местной пожарной _ 04 _ отталкивания" />
+	<block key="areafireback05_Name" korean="Местной пожарной _ 05 _ отталкивания" />
+	<block key="areafireback05_description_1" korean="Местной пожарной _ 05 _ отталкивания" />
+	<block key="areafireback06_Name" korean="Местной пожарной _ 06 _ отталкивания" />
+	<block key="areafireback06_description_1" korean="Местной пожарной _ 06 _ отталкивания" />
+	<block key="arfireobj_Name" korean="_ Площадь объекта Flame (общий, отбрасывание)" />
+	<block key="arfireobj_description_1" korean="_ Площадь объекта Flame (общий, отбрасывание)" />
+	<block key="argaugedarkup_Name" korean="Локальной калибровочной _ _ темнота увеличивается" />
+	<block key="argaugedarkup_description_1" korean="Локальной калибровочной _ _ темнота увеличивается" />
+	<block key="argaugedarkup_description_2" korean="Локальной калибровочной _ _ темнота увеличивается" />
+	<block key="argaugedarkup_description_3" korean="Локальной калибровочной _ _ темнота увеличивается" />
+	<block key="argaugefireup_Name" korean="Площадь пожара датчик _ _ увеличение" />
+	<block key="argaugefireup_description_1" korean="Площадь пожара датчик _ _ увеличение" />
+	<block key="argaugefireup_description_2" korean="Площадь пожара датчик _ _ увеличение" />
+	<block key="argaugefireup_description_3" korean="Площадь пожара датчик _ _ увеличение" />
+	<block key="argaugeicedown_Name" korean="_ _ Ice площадь уменьшилась датчик" />
+	<block key="argaugeicedown_description_1" korean="_ _ Ice площадь уменьшилась датчик" />
+	<block key="argaugeicedown_description_2" korean="_ _ Ice площадь уменьшилась датчик" />
+	<block key="argaugeicedown_description_3" korean="_ _ Ice площадь уменьшилась датчик" />
+	<block key="argaugeiceup_Name" korean="Локальной калибровочной _ _ нарастания льда" />
+	<block key="argaugeiceup_description_1" korean="Локальной калибровочной _ _ нарастания льда" />
+	<block key="argaugeiceup_description_2" korean="Локальной калибровочной _ _ нарастания льда" />
+	<block key="argaugeiceup_description_3" korean="Локальной калибровочной _ _ нарастания льда" />
+	<block key="argaugelightup_Name" korean="Площадь тонкостенные _ _ увеличение" />
+	<block key="argaugelightup_description_1" korean="Площадь тонкостенные _ _ увеличение" />
+	<block key="argaugelightup_description_2" korean="Площадь тонкостенные _ _ увеличение" />
+	<block key="argaugelightup_description_3" korean="Площадь тонкостенные _ _ увеличение" />
+	<block key="armagma01_Name" korean="Пожарная зона" />
+	<block key="armagma01_description_1" korean="Пожарная зона" />
+	<block key="armagma01_description_2" korean="Пожарная зона" />
+	<block key="armagma02_Name" korean="Лава зоны (Монстр)" />
+	<block key="armagma02_description_1" korean="Лава зоны (Монстр)" />
+	<block key="arspider_Name" korean="Паутина область" />
+	<block key="arspider_description_1" korean="Паутина область" />
+	<block key="arsummoner_Name" korean="Местное _ Голем домашних животных" />
+	<block key="arsummoner_description_1" korean="Местное _ Голем домашних животных" />
+	<block key="arwarmarea01_Name" korean="Теплом месте (общий)" />
+	<block key="arwarmarea01_description_1" korean="Теплом месте (общий)" />
+	<block key="arwater01_Name" korean="Вода" />
+	<block key="arwater01_description_1" korean="Вода" />
+	<block key="arwater02_Name" korean="Лужа (монстр)" />
+	<block key="arwater02_description_1" korean="Лужа (монстр)" />
+	<block key="linktest_Name" korean="Ссылки для теста квалификации" />
+	<block key="linktest_description_1" korean="Ссылки для теста квалификации" />
+	<block key="linktest2_Name" korean="2 Мастерство Проверка соединения" />
+	<block key="linktest2_description_1" korean="2 Мастерство Проверка соединения" />
+	<block key="linktest3_Name" korean="3 Мастерство тест для ссылок" />
+	<block key="linktest3_description_1" korean="3 Мастерство тест для ссылок" />
+	<block key="linktest4_Name" korean="4 Бонус тест для ссылок" />
+	<block key="linktest4_description_1" korean="4 Бонус тест для ссылок" />
+	<block key="obdamagedark_Name" korean="_ _ Темной магией объект" />
+	<block key="obdamagedark_description_1" korean="_ _ Темной магией объект" />
+	<block key="obdamagedark_description_2" korean="_ _ Темной магией объект" />
+	<block key="obdamagedark_description_3" korean="_ _ Темной магией объект" />
+	<block key="obdamagefire_Name" korean="Объект _ _ ущерб от пожара" />
+	<block key="obdamagefire_description_1" korean="Объект _ _ ущерб от пожара" />
+	<block key="obdamagefire_description_2" korean="Объект _ _ ущерб от пожара" />
+	<block key="obdamagefire_description_3" korean="Объект _ _ ущерб от пожара" />
+	<block key="obdamageice_Name" korean="_ _ Ice повреждения объекта" />
+	<block key="obdamageice_description_1" korean="_ _ Ice повреждения объекта" />
+	<block key="obdamageice_description_2" korean="_ _ Ice повреждения объекта" />
+	<block key="obdamageice_description_3" korean="_ _ Ice повреждения объекта" />
+	<block key="obdamagelight_Name" korean="Легкие предметы _ _ Нанесенный" />
+	<block key="obdamagelight_description_1" korean="Легкие предметы _ _ Нанесенный" />
+	<block key="obdamagelight_description_2" korean="Легкие предметы _ _ Нанесенный" />
+	<block key="obdamagelight_description_3" korean="Легкие предметы _ _ Нанесенный" />
+	<block key="obgaugedarkup_Name" korean="_ _ Датчики темные объекта увеличивается" />
+	<block key="obgaugedarkup_description_1" korean="_ _ Датчики темные объекта увеличивается" />
+	<block key="obgaugedarkup_description_2" korean="_ _ Датчики темные объекта увеличивается" />
+	<block key="obgaugedarkup_description_3" korean="_ _ Датчики темные объекта увеличивается" />
+	<block key="obgaugefireup_Name" korean="Свет объект датчик _ _ увеличение" />
+	<block key="obgaugefireup_description_1" korean="Свет объект датчик _ _ увеличение" />
+	<block key="obgaugefireup_description_2" korean="Свет объект датчик _ _ увеличение" />
+	<block key="obgaugefireup_description_3" korean="Свет объект датчик _ _ увеличение" />
+	<block key="obgaugeiceup_Name" korean="_ _ Ice объект увеличивает датчик" />
+	<block key="obgaugeiceup_description_1" korean="_ _ Ice объект увеличивает датчик" />
+	<block key="obgaugeiceup_description_2" korean="_ _ Ice объект увеличивает датчик" />
+	<block key="obgaugeiceup_description_3" korean="_ _ Ice объект увеличивает датчик" />
+	<block key="obgaugelightup_Name" korean="Свет объект датчик _ _ увеличение" />
+	<block key="obgaugelightup_description_1" korean="Свет объект датчик _ _ увеличение" />
+	<block key="obgaugelightup_description_2" korean="Свет объект датчик _ _ увеличение" />
+	<block key="obgaugelightup_description_3" korean="Свет объект датчик _ _ увеличение" />
+	<block key="summoncrystal_Name" korean="Вызывает временное решение _ лед" />
+	<block key="summoncrystal_description_1" korean="Вызывает временное решение _ лед" />
+	<block key="followerstatfire_Name" korean="Голем _ загрузить состояние изображения" />
+	<block key="followerstatfire_description_1" korean="Голем _ загрузить состояние изображения" />
+	<block key="followerstatfire_description_2" korean="Голем _ загрузить состояние изображения" />
+	<block key="followerstatfire_description_3" korean="Голем _ загрузить состояние изображения" />
+	<block key="followerstatice_Name" korean="Голем статуя _ условий нагрузки" />
+	<block key="followerstatice_description_1" korean="Голем статуя _ условий нагрузки" />
+	<block key="followerstatice_description_2" korean="Голем статуя _ условий нагрузки" />
+	<block key="followerstatice_description_3" korean="Голем статуя _ условий нагрузки" />
+	<block key="golemstatfire_Name" korean="Огонь Голем _ условия ожога" />
+	<block key="golemstatfire_description_1" korean="Огонь Голем _ условия ожога" />
+	<block key="golemstatfire_description_2" korean="Огонь Голем _ условия ожога" />
+	<block key="golemstatfire_description_3" korean="Огонь Голем _ условия ожога" />
+	<block key="golemstatice_Name" korean="_ Огонь Голем статус статуя" />
+	<block key="golemstatice_description_1" korean="_ Огонь Голем статус статуя" />
+	<block key="golemstatice_description_2" korean="_ Огонь Голем статус статуя" />
+	<block key="golemstatice_description_3" korean="_ Огонь Голем статус статуя" />
+	<block key="jarstatfire_Name" korean="_ Печи ожоги состояние" />
+	<block key="jarstatfire_description_1" korean="_ Печи ожоги состояние" />
+	<block key="jarstatfire_description_2" korean="_ Печи ожоги состояние" />
+	<block key="jarstatfire_description_3" korean="_ Печи ожоги состояние" />
+	<block key="statusdark_Name" korean="Путаница" />
+	<block key="statusdark_description_1" korean="Путаница" />
+	<block key="statusdark_description_2" korean="Путаница" />
+	<block key="statusdark_description_3" korean="Путаница" />
+	<block key="statusdhorselight_Name" korean="Состояние SHOCK" />
+	<block key="statusdhorselight_description_1" korean="Состояние SHOCK" />
+	<block key="statusdhorselight_description_2" korean="Состояние SHOCK" />
+	<block key="statusdhorselight_description_3" korean="Состояние SHOCK" />
+	<block key="statusfire_Name" korean="Статус изображения" />
+	<block key="statusfire_description_1" korean="Статус изображения" />
+	<block key="statusfire_description_2" korean="Статус изображения" />
+	<block key="statusfire_description_3" korean="Статус изображения" />
+	<block key="statusfiretotem_Name" korean="Алтарь происхождения _ условия ожога" />
+	<block key="statusfiretotem_description_1" korean="Алтарь происхождения _ условия ожога" />
+	<block key="statusfiretotem_description_2" korean="Алтарь происхождения _ условия ожога" />
+	<block key="statusfiretotem_description_3" korean="Алтарь происхождения _ условия ожога" />
+	<block key="statushoundfire_Name" korean="Цербер _ условия ожога" />
+	<block key="statushoundfire_description_1" korean="Цербер _ условия ожога" />
+	<block key="statushoundfire_description_2" korean="Цербер _ условия ожога" />
+	<block key="statushoundfire_description_3" korean="Цербер _ условия ожога" />
+	<block key="statushoundice_Name" korean="Цербер _ статус статуя" />
+	<block key="statushoundice_description_1" korean="Цербер _ статус статуя" />
+	<block key="statushoundice_description_2" korean="Цербер _ статус статуя" />
+	<block key="statushoundice_description_3" korean="Цербер _ статус статуя" />
+	<block key="statusice_Name" korean="Статуя состояние" />
+	<block key="statusice_description_1" korean="Статуя состояние" />
+	<block key="statusice_description_2" korean="Статуя состояние" />
+	<block key="statusice_description_3" korean="Статуя состояние" />
+	<block key="statuslight_Name" korean="Состояние SHOCK" />
+	<block key="statuslight_description_1" korean="Состояние SHOCK" />
+	<block key="statuslight_description_2" korean="Состояние SHOCK" />
+	<block key="statuslight_description_3" korean="Состояние SHOCK" />
+	<block key="statussmanfire_Name" korean="Yeti _ условия ожога" />
+	<block key="statussmanfire_description_1" korean="Yeti _ условия ожога" />
+	<block key="statussmanfire_description_2" korean="Yeti _ условия ожога" />
+	<block key="statussmanfire_description_3" korean="Yeti _ условия ожога" />
+	<block key="statussmanice_Name" korean="Yeti Статуя состояние _" />
+	<block key="statussmanice_description_1" korean="Yeti Статуя состояние _" />
+	<block key="statussmanice_description_2" korean="Yeti Статуя состояние _" />
+	<block key="statussmanice_description_3" korean="Yeti Статуя состояние _" />
+	<block key="statusturtlefire_Name" korean="_ Lava состояние черепаха изображений" />
+	<block key="statusturtlefire_description_1" korean="_ Lava состояние черепаха изображений" />
+	<block key="statusturtlefire_description_2" korean="_ Lava состояние черепаха изображений" />
+	<block key="statusturtlefire_description_3" korean="_ Lava состояние черепаха изображений" />
+	<block key="statusturtleice_Name" korean="_ Lava статус черепаха статуя" />
+	<block key="statusturtleice_description_1" korean="_ Lava статус черепаха статуя" />
+	<block key="statusturtleice_description_2" korean="_ Lava статус черепаха статуя" />
+	<block key="statusturtleice_description_3" korean="_ Lava статус черепаха статуя" />
+	<block key="summonstatfire_Name" korean="Голем домашних животных _ условия ожога" />
+	<block key="summonstatfire_description_1" korean="Голем домашних животных _ условия ожога" />
+	<block key="summonstatfire_description_2" korean="Голем домашних животных _ условия ожога" />
+	<block key="summonstatfire_description_3" korean="Голем домашних животных _ условия ожога" />
+	<block key="summonstatice_Name" korean="Голем животное _ статус статуя" />
+	<block key="summonstatice_description_1" korean="Голем животное _ статус статуя" />
+	<block key="summonstatice_description_2" korean="Голем животное _ статус статуя" />
+	<block key="summonstatice_description_3" korean="Голем животное _ статус статуя" />
+	<block key="common_seaze_move_Name" korean="Укрощение" />
+	<block key="common_seaze_move_Description_1" korean="Выберите пункт назначения, а затем использовать умение становится ручным состояние. После того, как мы вернемся, такие как прыжки к выбранному пункту назначения в состоянии по ручному укрощения начинается." />
+	<block key="pigrushlink_Name" korean="Кабан бросился ссылки" />
+	<block key="pigrushlink_Description_1" korean="Кабан бросился ссылки" />
+	<block key="beardoubleatk_description_2" korean="Кабан бросился ссылки" />
+	<block key="bearrushlink_description_1" korean="Кабан бросился ссылки" />
+	<block key="bearrushlink_Name" korean="Несет бросились ссылки" />
+	<block key="cowfurycow_description_1" korean="Малый расширились" />
+	<block key="cowfurycow_Name" korean="Малый расширились" />
+	<block key="itco_blackmeat_Name" korean="Черный плоть единовременной падение" />
+	<block key="itco_blackmeat_description_1" korean="Наполненный темном ауры ставит плоть единовременно на земле." />
+	<block key="itco_hprecoverycraft_Name" korean="Эликсир Жизни _ _ _ восстановление решений" />
+	<block key="itco_hprecoverycraft_description_1" korean="HP Potion 1 для производства" />
+	<block key="itco_hprecoverycraft_description_2" korean="HP зелья 2 для изготовления" />
+	<block key="itco_hprecoverycraft_description_3" korean="HP Potion 3 для производства" />
+	<block key="itco_hprecoverycraft_description_4" korean="Зелья HP для изготовления 4" />
+	<block key="itco_hprecoverycraft_description_5" korean="Зелья HP для изготовления 5" />
+	<block key="itco_mprecoverycraft_Name" korean="Эликсир Жизни _ _ _ восстановление решений" />
+	<block key="itco_mprecoverycraft_description_1" korean="MP Зелье 1 для производства" />
+	<block key="itco_mprecoverycraft_description_2" korean="MP Зелье 2 для изготовления" />
+	<block key="itco_mprecoverycraft_description_3" korean="MP Зелье 3 для производства" />
+	<block key="itco_mprecoverycraft_description_4" korean="MP Зелье для создания 4" />
+	<block key="itco_mprecoverycraft_description_5" korean="MP Зелье для изготовления 5" />
+	<block key="itco_flamebomb_Name" korean="Пламя бомба" />
+	<block key="itco_flamebomb_description_1" korean="Пламя бомба" />
+	<block key="itcoflamebomb_Name" korean="Пламя бомба" />
+	<block key="itcoflamebomb_description_1" korean="Пламя бомба" />
+	<block key="itco_holywater_Name" korean="Святая вода" />
+	<block key="itco_holywater_description_1" korean="Святая вода" />
+	<block key="jelnalight01_Name" korean="Взрывная сила геля Naris" />
+	<block key="jelnalight02_Name" korean="Мощный заряд энергии гель Naris" />
+	<block key="itco_garlicextract_Name" korean="Экстракт чеснока (для элементов)" />
+	<block key="itco_garlicextract_description_1" korean="Экстракт чеснока (для элементов)" />
+	<block key="itco_throwbomb_Name" korean="Бросая бомбы" />
+	<block key="itco_throwbomb_description_1" korean="Бросая бомбы" />
+	<block key="status_fire_max_01_Name" korean="Изображение 3 Шаг эффект" />
+	<block key="status_fire_max_01_description_1" korean="Изображение 3 Шаг эффект" />
+	<block key="itco_gaugedarkdotup_Name" korean="Темно-датчик Dotup" />
+	<block key="itco_gaugedarkdotup_description_1" korean="Темно-датчик Dotup" />
+	<block key="itco_gaugefiredotup_Name" korean="Огонь датчик Dotup" />
+	<block key="itco_gaugefiredotup_description_1" korean="Огонь датчик Dotup" />
+	<block key="itco_gaugeicedotup_Name" korean="Мороз датчик Dotup" />
+	<block key="itco_gaugeicedotup_description_1" korean="Мороз датчик Dotup" />
+	<block key="itco_gaugelightdotup_Name" korean="Датчик света Dotup" />
+	<block key="itco_gaugelightdotup_description_1" korean="Датчик света Dotup" />
+	<block key="itco_gaugemaxupdark_Name" korean="Темно-датчик Maxup" />
+	<block key="itco_gaugemaxupdark_description_1" korean="Темно-датчик Maxup" />
+	<block key="itco_gaugemaxupfire_Name" korean="Огонь датчик Maxup" />
+	<block key="itco_gaugemaxupfire_description_1" korean="Огонь датчик Maxup" />
+	<block key="itco_gaugemaxupice_Name" korean="Мороз датчик Maxup" />
+	<block key="itco_gaugemaxupice_description_1" korean="Мороз датчик Maxup" />
+	<block key="itco_gaugemaxuplight_Name" korean="Датчик света Maxup" />
+	<block key="itco_gaugemaxuplight_description_1" korean="Датчик света Maxup" />
+	<block key="itco_resistupdark_Name" korean="Темный атрибут до" />
+	<block key="itco_resistupdark_description_1" korean="Темный атрибут до" />
+	<block key="itco_resistupfire_Name" korean="Пожарные свойства до" />
+	<block key="itco_resistupfire_description_1" korean="Пожарные свойства до" />
+	<block key="itco_resistupice_Name" korean="Мороз недвижимости до" />
+	<block key="itco_resistupice_description_1" korean="Мороз недвижимости до" />
+	<block key="itco_resistuplight_Name" korean="Легкие свойства до" />
+	<block key="itco_resistuplight_description_1" korean="Легкие свойства до" />
+	<block key="food_qu_bakedrabbit_Name" korean="Kwetem умение (жареный кролик)" />
+	<block key="food_qu_bakedrabbit_description_1" korean="Kwetem умение (кролик жареный) 1" />
+	<block key="food_qu_bakedrabbit_description_2" korean="Kwetem умение (жареный кролик) 2" />
+	<block key="food_qu_bakedrabbit_description_3" korean="Kwetem умение (жареный кролик) 3" />
+	<block key="food_qu_bakedrabbit_description_4" korean="Kwetem умение (жареный кролик) 4" />
+	<block key="food_qu_bakedrabbit_description_5" korean="Kwetem умение (жареный кролик) 5" />
+	<block key="food_qu_bakedrabbit_description_6" korean="Kwetem умение (жареный кролик) 6" />
+	<block key="food_qu_bakedrabbit_description_7" korean="Kwetem умение (жареный кролик) 7" />
+	<block key="food_qu_honeypie_Name" korean="Kwetem умение (Honey Pie)" />
+	<block key="food_qu_honeypie_description_1" korean="Kwetem умение (Honey Pie) 1" />
+	<block key="food_qu_honeypie_description_2" korean="Kwetem умение (Honey Pie) 2" />
+	<block key="food_qu_honeypie_description_3" korean="Kwetem умение (Honey Pie) 3" />
+	<block key="food_qu_honeypie_description_4" korean="Kwetem умение (Honey Pie) 4" />
+	<block key="food_qu_honeypie_description_5" korean="Kwetem умение (Honey Pie) 5" />
+	<block key="food_qu_honeypie_description_6" korean="Kwetem умение (Honey Pie) 6" />
+	<block key="food_qu_honeypie_description_7" korean="Kwetem умение (Honey Pie) 7" />
+	<block key="sitdown_Name" korean="Остальные" />
+	<block key="sitdown_description_1" korean="В состоянии покоя, увеличение жизненной силы Регенерация" />
+	<block key="arkillzone01_Name" korean="Умер мгновенно область" />
+	<block key="arkillzone01_description_1" korean="Умер мгновенно область" />
+	<block key="gstarjump_name" korean="G-Star Перейти" />
+	<block key="gstarjump_description_1" korean="G-Star Перейти" />
+	<block key="arrowrainlink_description_1" korean="Внутренние данные" />
+	<block key="dualshot_Name" korean="Двухместный съемки" />
+	<block key="dualshot_description_1" korean="Запуск путем скрещивания двух стрелок." />
+	<block key="dualshot_description_2" korean="Запуск путем скрещивания двух стрелок." />
+	<block key="dualshot_description_3" korean="Запуск путем скрещивания двух стрелок." />
+	<block key="dualshot_description_4" korean="Запуск путем скрещивания двух стрелок." />
+	<block key="dualshot_description_5" korean="Запуск путем скрещивания двух стрелок." />
+	<block key="dualshot_description_6" korean="Запуск путем скрещивания двух стрелок." />
+	<block key="dualshot_description_7" korean="Запуск путем скрещивания двух стрелок." />
+	<block key="dualshot_description_8" korean="Запуск путем скрещивания двух стрелок." />
+	<block key="dualshot_description_9" korean="Запуск путем скрещивания двух стрелок." />
+	<block key="dualshot_description_10" korean="Запуск путем скрещивания двух стрелок." />
+	<block key="massacreshot_Name" korean="Удар убоя" />
+	<block key="massacreshot_description_1" korean="Штыревые штук. Стрелка пострадали во время дробления и повреждению как радиуса мишени 5М." />
+	<block key="massacreshot_description_2" korean="Штыревые штук. Стрелка пострадали во время дробления и повреждению как радиуса мишени 5М." />
+	<block key="massacreshot_description_3" korean="Штыревые штук. Стрелка пострадали во время дробления и повреждению как радиуса мишени 5М." />
+	<block key="massacreshot_description_4" korean="Штыревые штук. Стрелка пострадали во время дробления и повреждению как радиуса мишени 5М." />
+	<block key="massacreshot_description_5" korean="Штыревые штук. Стрелка пострадали во время дробления и повреждению как радиуса мишени 5М." />
+	<block key="massacreshot_description_6" korean="Штыревые штук. Стрелка пострадали во время дробления и повреждению как радиуса мишени 5М." />
+	<block key="massacreshot_description_7" korean="Штыревые штук. Стрелка пострадали во время дробления и повреждению как радиуса мишени 5М." />
+	<block key="massacreshot_description_8" korean="Штыревые штук. Стрелка пострадали во время дробления и повреждению как радиуса мишени 5М." />
+	<block key="massacreshot_description_9" korean="Штыревые штук. Стрелка пострадали во время дробления и повреждению как радиуса мишени 5М." />
+	<block key="massacreshot_description_10" korean="Штыревые штук. Стрелка пострадали во время дробления и повреждению как радиуса мишени 5М." />
+	<block key="mobragirepair02_Name" korean="Арбалет ремонт" />
+	<block key="mobragirepair02_Description_1" korean="Арбалет ремонт" />
+	<block key="mobragirepair03_Name" korean="Арбалет ремонт" />
+	<block key="mobragirepair03_Description_1" korean="Арбалет ремонт" />
+	<block key="mobragirepair04_Name" korean="Арбалет ремонт" />
+	<block key="mobragirepair04_Description_1" korean="Арбалет ремонт" />
+	<block key="mobragirepair05_Name" korean="Арбалет ремонт" />
+	<block key="mobragirepair05_Description_1" korean="Арбалет ремонт" />
+	<block key="mocommondel_Name" korean="Smeller" />
+	<block key="mocommondel_Description_1" korean="Smeller" />
+	<block key="wr_newbies_Name" korean="Подпункт () богини" />
+	<block key="wr_newbies_Description_1" korean="Эллора выдачи кредита полу благословение.\n\n - Есть специальные эффекты, которые предпринять, чтобы предотвратить осложнения смерть.\n\n - Если они не могут получить 7Lv эффект Эллоры Богини Благослови." />
+	<block key="pr_newbies_Name" korean="Подпункт () богини" />
+	<block key="pr_newbies_Description_1" korean="Эллора выдачи кредита полу благословение.\n\n - Есть специальные эффекты, которые предпринять, чтобы предотвратить осложнения смерть.\n\n - Если они не могут получить 7Lv эффект Эллоры Богини Благослови." />
+	<block key="wz_newbies_Name" korean="Подпункт () богини" />
+	<block key="wz_newbies_Description_1" korean="Эллора выдачи кредита полу благословение.\n\n - Есть специальные эффекты, которые предпринять, чтобы предотвратить осложнения смерть.\n\n - Если они не могут получить 7Lv эффект Эллоры Богини Благослови." />
+	<block key="tf_newbies_Name" korean="Подпункт () богини" />
+	<block key="tf_newbies_Description_1" korean="Эллора выдачи кредита полу благословение.\n\n - Есть специальные эффекты, которые предпринять, чтобы предотвратить осложнения смерть.\n\n - Если они не могут получить 7Lv эффект Эллоры Богини Благослови." />
+	<block key="gd_newbies_Name" korean="Подпункт () богини" />
+	<block key="gd_newbies_Description_1" korean="Эллора выдачи кредита полу благословение.\n\n - Есть специальные эффекты, которые предпринять, чтобы предотвратить осложнения смерть.\n\n - Если они не могут получить 7Lv эффект Эллоры Богини Благослови." />
+	<block key="motoru02_Name" korean="Сильный удар" />
+	<block key="motoru02_Description_1" korean="Сильный удар" />
+	<block key="morena01_Name" korean="Зажгите свет" />
+	<block key="morena01_Description_1" korean="Зажгите свет" />
+	<block key="moreactresist01_name" korean="Сопротивление реакции" />
+	<block key="moreactresist04_name" korean="Сопротивление реакции" />
+	<block key="reinforcestone_level_name" korean="Обновление Stone Level Up" />
+	<block key="reinfocestone_bless_name" korean="Обновление Stone благословение" />
+	<block key="mobear03_name" korean="Порка ноги" />
+	<block key="mobear03_Description_1" korean="Порка ноги" />
+	<block key="moliger01_name" korean="Smash Frenzy" />
+	<block key="moliger01_Description_1" korean="Smash Frenzy" />
+	<block key="moliger02_name" korean="Броня разрывается" />
+	<block key="moliger02_Description_1" korean="Броня разрывается" />
+	<block key="setskill_gd_1000_description_1" korean="Благословение возбудителя выросла\nФизическая защита / магическая защита увеличится на 50%." />
+	<block key="setskill_wr_1000_description_1" korean="Благословение возбудителя выросла\nПриступов гнева вырастет на 2, чтобы получить." />
+	<block key="setskill_tf_1000_description_1" korean="Благословение возбудителя выросла\nРабота больший ущерб устья цели 20% во время нападения в тылу." />
+	<block key="setskill_wz_1000_description_1" korean="Благословение возбудителя выросла\nЗаклинания на 20% быстрее." />
+	<block key="setskill_pr_1000_description_1" korean="Благословение возбудителя выросла\nМастерство перезарядки уменьшается на 50%." />
+	<block key="mofiregolem10_Name" korean="Зажигательную бомбу камни вызов" />
+	<block key="mofiregolem10_Description_1" korean="Зажигательную бомбу камни вызов" />
+	<block key="mofiregolem11_Name" korean="Зажигательную бомбу камни вызов" />
+	<block key="mofiregolem11_Description_1" korean="Зажигательную бомбу камни вызов" />
+	<block key="mofrostdrag02_Name" korean="Холодная буря" />
+	<block key="mofrostdrag03_Name" korean="Ледяное дыхание" />
+	<block key="momatura02_name" korean="Вниз ход ад" />
+	<block key="setskillall31_Description_1" korean="Благослови Fallen эффект Фея происходит" />
+	<block key="setskillgd22_Description_1" korean="Защитный эффект применения весь набор носить в гвардии" />
+	<block key="setskillwr23_Description_1" korean="Широкое применение всех множеств при ношении Guard" />
+	<block key="setskilltf24_Description_1" korean="Применить удивлению всех множеств при ношении Guard" />
+	<block key="setskillwz25_Description_1" korean="Быстрого эффекта от применения все готово, чтобы носить в течение гвардии" />
+	<block key="setskillpr26_Description_1" korean="Примените все группы верований эффекта при ношении Guard" />
+	<block key="setskillgd37_Description_1" korean="Свирепый пожар вызвал 20% шанс на атаку" />
+	<block key="setskillwr38_Description_1" korean="Свирепый пожар вызвал 20% шанс на атаку" />
+	<block key="setskilltf39_Description_1" korean="Свирепый пожар вызвал 20% шанс на атаку" />
+	<block key="setskillwz310_Description_1" korean="Свирепый пожар вызвал 20% шанс на атаку" />
+	<block key="setskillpr311_Description_1" korean="Свирепый пожар вызвал 20% шанс на атаку" />
+	<block key="setskillall312_Description_1" korean="Бешеная поглощения вампир происходит" />
+	<block key="setskillgd313_Description_1" korean="Вызов проклятие тьмы, с вероятностью 20% атаки" />
+	<block key="setskillwr314_Description_1" korean="Вызов проклятие тьмы, с вероятностью 20% атаки" />
+	<block key="setskilltf315_Description_1" korean="Вызов проклятие тьмы, с вероятностью 20% атаки" />
+	<block key="setskillwz316_Description_1" korean="Вызов проклятие тьмы, с вероятностью 20% атаки" />
+	<block key="setskillpr317_Description_1" korean="Вызов проклятие тьмы, с вероятностью 20% атаки" />
+	<block key="setskillgd318_Description_1" korean="Парк мороз, благослови меня прок 15% от корпуса атаки" />
+	<block key="setskillwr319_Description_1" korean="Парк мороз, благослови меня прок 15% от корпуса атаки" />
+	<block key="setskilltf320_Description_1" korean="Парк мороз, благослови меня прок 15% от корпуса атаки" />
+	<block key="setskillwz321_Description_1" korean="Парк мороз, благослови меня прок 15% от корпуса атаки" />
+	<block key="setskillpr322_Description_1" korean="Парк мороз, благослови меня прок 15% от корпуса атаки" />
+	<block key="setskillgd2501_Description_1" korean="Гнев Колосса вызвать 2% шанс при ударе" />
+	<block key="setskillwr2501_Description_1" korean="Гнев Колосса вызвать 2% шанс при ударе" />
+	<block key="setskilltf2501_Description_1" korean="Гнев Колосса вызвать 2% шанс при ударе" />
+	<block key="setskillwz2501_Description_1" korean="Гнев Колосса вызвать 2% шанс при ударе" />
+	<block key="setskillpr2501_Description_1" korean="Гнев Колосса вызвать 2% шанс при ударе" />
+	<block key="setskillgd3301_Description_1" korean="Blind Faith Proc 5% атаки а" />
+	<block key="setskillwr3301_Description_1" korean="Blind Faith Proc 5% атаки а" />
+	<block key="setskilltf3301_Description_1" korean="Blind Faith Proc 5% атаки а" />
+	<block key="setskillwz3301_Description_1" korean="Blind Faith Proc 5% атаки а" />
+	<block key="setskillpr3301_Description_1" korean="Blind Faith Proc 5% атаки а" />
+	<block key="setskillgd3501_Description_1" korean="Бригадный генерал командовал активация 5% шанс для атаки" />
+	<block key="setskillwr3501_Description_1" korean="Бригадный генерал командовал активация 5% шанс для атаки" />
+	<block key="setskilltf3501_Description_1" korean="Бригадный генерал командовал активация 5% шанс для атаки" />
+	<block key="setskillwz3501_Description_1" korean="Бригадный генерал командовал активация 5% шанс для атаки" />
+	<block key="setskillpr3501_Description_1" korean="Бригадный генерал командовал активация 5% шанс для атаки" />
+	<block key="setskillgd4001_Description_1" korean="Боевой клич вызова дьявола с вероятностью 5% атаки" />
+	<block key="setskillwr4001_Description_1" korean="Боевой клич вызова дьявола с вероятностью 5% атаки" />
+	<block key="setskilltf4001_Description_1" korean="Боевой клич вызова дьявола с вероятностью 5% атаки" />
+	<block key="setskillwz4001_Description_1" korean="Боевой клич вызова дьявола с вероятностью 5% атаки" />
+	<block key="setskillpr4001_Description_1" korean="Боевой клич вызова дьявола с вероятностью 5% атаки" />
+	<block key="setskillgd5001_Description_1" korean="Вызов власти бессмертия с вероятностью 1% в течение приступа" />
+	<block key="setskillwr5001_Description_1" korean="Вызов власти бессмертия с вероятностью 1% в течение приступа" />
+	<block key="setskilltf5001_Description_1" korean="Вызов власти бессмертия с вероятностью 1% в течение приступа" />
+	<block key="setskillwz5001_Description_1" korean="Вызов власти бессмертия с вероятностью 1% в течение приступа" />
+	<block key="setskillpr5001_Description_1" korean="Вызов власти бессмертия с вероятностью 1% в течение приступа" />
+	<block key="itskillall4001_Description_1" korean="5% шанс на выздоровление продолжал жизнеспособность во время атаки" />
+	<block key="itskillall4002_Description_1" korean="Прочный урона с вероятностью 2% во время атаки" />
+	<block key="itskillall4013_Description_1" korean="1 минут 10% повышают жизненный тонус 5% шансов на успех при атаке" />
+	<block key="itskillall4014_Description_1" korean="Прочный урона с вероятностью 2% во время атаки" />
+	<block key="unarpoison01_Description_1" korean="Все зоны яд иммунитет внутри Natura Пек" />
+	<block key="setgd4010_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="setgd4011_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="setgd4012_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="setwr4010_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="setwr4011_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="setwr4012_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="settf4010_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="settf4011_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="settf4012_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="setwz4010_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="setwz4011_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="setwz4012_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="setpr4010_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="setpr4011_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="setpr4012_Description_1" korean="Когда вероятность атаки срабатывает на 3%\n5 секунд наносит кровотечение к цели" />
+	<block key="setitemgd01_name" korean="Я защищаю набор блестящих лидера" />
+	<block key="setitemgd02_name" korean="Хранитель множество блестящих лидера II" />
+	<block key="setitemgd03_name" korean="Хранитель множество блестящих лидера III" />
+	<block key="setitemwr01_name" korean="Широкий набор блестящих лидера I" />
+	<block key="setitemwr02_name" korean="Широкий набор блестящих лидера II" />
+	<block key="setitemwr03_name" korean="Широкий набор блестящих лидера III" />
+	<block key="setitemtf01_name" korean="Тень множество блестящих лидера I" />
+	<block key="setitemtf02_name" korean="Тени множество блестящих лидера II" />
+	<block key="setitemtf03_name" korean="Тени множество блестящих лидера III" />
+	<block key="setitemwz01_name" korean="Элемент множество блестящих лидера I" />
+	<block key="setitemwz02_name" korean="Элемент множество блестящих лидера II" />
+	<block key="setitemwz03_name" korean="Элемент множество блестящих лидера III" />
+	<block key="setitempr01_name" korean="Осуждение множество блестящих лидера I" />
+	<block key="setitempr02_name" korean="Осуждение множество блестящих лидера II" />
+	<block key="setitempr03_name" korean="Осуждение множество блестящих лидера III" />
+	<block key="itemskill_giant_name" korean="Yata кольцо из двадцати" />
+	<block key="itemskill_giant02_name" korean="Кольцо Рейн Noir" />
+	<block key="evset01_Description_1" korean="Ношение сотрудник темпы роста 10 процентов" />
+	<block key="evset02_Description_1" korean="Ношение сотрудник темпы роста 20 процентов" />
+	<block key="evset03_Description_1" korean="Ношение сотрудник темпы роста 50 процентов" />
+	<block key="skillAC002273_Description_1" korean="Гордость осуществления тщательного развитие рыцаря-командующего" />
+	<block key="skillAC002276_Description_1" korean="Определение влияния Келли происходит в Габороне" />
+	<block key="skillWE800302301_Description_1" korean="Вера эффект возникает в Астерас" />
+	<block key="skillWE900502252_Description_1" korean="Эффект Кара происходит только шах" />
+	<block key="skillAC012273_Description_1" korean="Жадность эффекты наблюдались в Мату kontin" />
+	<block key="skillAC002278_Description_1" korean="Гордость эффективная генерация Mister Geppetto" />
+	<block key="skillAR0024492204_Description_1" korean="Защита возникновения битой" />
+	<block key="skillAR1004492204_Description_1" korean="Bat эффективная генерация ужаса" />
+	<block key="skillAR3024492204_Description_1" korean="Эффект Motion происходит в темно-" />
+	<block key="skillAR4024492204_Description_1" korean="Жертва эффект возникает у летучих мышей" />
+	<block key="skillAR5002492204_Description_1" korean="Эффект продуктов питания происходит в летучих мышей" />
+	<block key="stromshot_description_1" korean="360 градусов вокруг и атаковать все цели, указанные эффект оглушения." />
+	<block key="stromshot_description_2" korean="360 градусов вокруг и атаковать все цели, указанные эффект оглушения." />
+	<block key="stromshot_description_3" korean="360 градусов вокруг и атаковать все цели, указанные эффект оглушения." />
+	<block key="stromshot_description_4" korean="360 градусов вокруг и атаковать все цели, указанные эффект оглушения." />
+	<block key="stromshot_description_5" korean="360 градусов вокруг и атаковать все цели, указанные эффект оглушения." />
+	<block key="product_we_name" korean="Оружие производство" />
+	<block key="product_ac01_name" korean="Броннику" />
+	<block key="product_ac02_name" korean="Броннику" />
+	<block key="product_as_name" korean="Изготовление ювелирных изделий" />
+	<block key="product_fe_name" korean="Научный сотрудник" />
+	<block key="product_al_name" korean="Алхимия" />
+	<block key="product_ck_name" korean="Блюдо" />
+	<block key="mocrow08_Name" korean="Лечение" />
+	<block key="mocrow08_Description_1" korean="Лечение" />
+	<block key="arkillzone_Name" korean="Лава Площадь" />
+	<block key="arkillzone_description_1" korean="Лава Площадь" />
+	<block key="itco_sleep_Name" korean="Бросив снотворные" />
+	<block key="itco_sleep_description_1" korean="Бросьте ваш оппонент спит навсегда замолчать." />
+	<block key="potionhprecovery_p_Name" korean="Зелье полного восстановления" />
+	<block key="bandage_newbie_Name" korean="Начинающие повязку" />
+	<block key="itco_fefiresoul01_Name" korean="Аура Феникс" />
+	<block key="itco_fefiresoul01_description_1" korean="Через энергии Феникса можно приручить, чтобы узнать много временно приостанавливается на время." />
+	<block key="itfeepup01_Name" korean="Энергия зелье" />
+	<block key="itfellowepup01_Name" korean="Обещание Эллоры" />
+	<block key="itfellowepup02_Name" korean="Природные секунд порошок" />
+	<block key="unarcoldwave03_name" korean="Сильный морозостойкость" />
+	<block key="setitem_uncoldwave_name" korean="Хладостойкость" />
+	<block key="setitem_uncoldwave_description_1" korean="Морозостойкость генерируется." />
+	<block key="darkenergy_name" korean="Волхвы" />
+	<block key="darkenergy_description_1" korean="Под влиянием силы напитка и способностей снижается." />
+	<block key="arpoison01_name" korean="Токсикант в городе Каспер" />
+	<block key="setitem_curse_name" korean="Darkness Falls" />
+	<block key="setskilltaming01_Name" korean="Тест Меган Набор аксессуаров" />
+	<block key="setskilltaming01_description_1" korean="Тест Меган может укротить кошмар" />
+	<block key="setskilltaming02_Name" korean="Промежуточный Hunter Set" />
+	<block key="setskilltaming02_description_1" korean="Номера отряд может укротить Апокалипсис" />
+	<block key="setskilltaming03_Name" korean="Младший Хантер Set" />
+	<block key="setskilltaming03_description_1" korean="Кошмар ручными доступны" />
+	<block key="setskilltaming04_Name" korean="Промежуточный Hunter Set" />
+	<block key="setskilltaming04_description_1" korean="Номера отряд может укротить Апокалипсис" />
+	<block key="setskilltaming05_Name" korean="Промежуточный Hunter Set" />
+	<block key="setskilltaming05_description_1" korean="Номера отряд может укротить Апокалипсис" />
+	<block key="setskilltaming06_Name" korean="Промежуточный Hunter Set" />
+	<block key="setskilltaming06_description_1" korean="Номера отряд может укротить Апокалипсис" />
+	<block key="setskilltaming07_Name" korean="Промежуточный Hunter Set" />
+	<block key="setskilltaming07_description_1" korean="Номера отряд может укротить Апокалипсис" />
+	<block key="setskilltaming08_Name" korean="Младший Хантер Set" />
+	<block key="setskilltaming08_description_1" korean="Кошмар ручными доступны" />
+	<block key="setskilltaming09_Name" korean="Младший Хантер Set" />
+	<block key="setskilltaming09_description_1" korean="Кошмар ручными доступны" />
+	<block key="setskilltaming10_Name" korean="Младший Хантер Set" />
+	<block key="setskilltaming10_description_1" korean="Кошмар ручными доступны" />
+	<block key="setskilltaming11_Name" korean="Младший Хантер Set" />
+	<block key="setskilltaming11_description_1" korean="Кошмар ручными доступны" />
+	<block key="gs_grade02_1_Name" korean="Преодоление тело" />
+	<block key="gs_grade_02_Name" korean="Атака только жить" />
+	<block key="gs_grade_03_Name" korean="Время золота" />
+	<block key="gs_grade05_1_Name" korean="Жадный приобретение" />
+	<block key="gs_grade06_2_Name" korean="Бог битвы" />
+	<block key="gs_grade02_1_description_1" korean="5% от вашего максимального подъема здоровья и маны" />
+	<block key="gs_grade_02_description_1" korean="Физическая Атака, Магическая атака, физическая скорость крит, 5% вероятности критического рост курса забастовки и рост 5% все характеристики" />
+	<block key="gs_grade_03_description_1" korean="Характер скорость движения и 10% скорость передвижения на борту PayPal малоэтажного" />
+	<block key="gs_grade05_1_description_1" korean="Оставьте ставка повышается на 10%" />
+	<block key="gs_grade06_2_description_1" korean="Личная вред, телесное обороны, личный рост сопротивления 3%" />
+	<block key="areasafezone_name" korean="Негосударственный атака" />
+	<block key="pc_buff_01_Name" korean="И благословение Канас" />
+	<block key="comm_invincible_name" korean="Защита Эллоры" />
+	<block key="itco_attackbomb_name" korean="Публичной сцене бросали бомбы" />
+	<block key="gm_blessing10_name" korean="Благословение GM первый" />
+	<block key="gm_blessing20_name" korean="GM Благословение 2" />
+	<block key="gm_blessing30_name" korean="Благословение ГМ 3" />
+	<block key="gm_blessing50_name" korean="GM Благословение 4" />
+	<block key="gm_resurrect_name" korean="Авторизация GM" />
+	<block key="gm_cure_name" korean="Воскресение лечение осложнений" />
+	<block key="gm_graceofelorahp10_name" korean="Благодать Эллоры 1" />
+	<block key="gm_graceofelorahp20_name" korean="Благодать Эллоры 2" />
+	<block key="gm_graceofelorahp30_name" korean="Благодать Эллоры 3" />
+	<block key="gm_graceofelorahp50_name" korean="Благодать Эллоры 4" />
+	<block key="gm_graceofeloramp10_name" korean="Благодать Эллоры в 1" />
+	<block key="gm_graceofeloramp20_name" korean="Благодать Эллоры в 2" />
+	<block key="gm_graceofeloramp30_name" korean="Благодать Эллоры 3" />
+	<block key="gm_graceofeloramp50_name" korean="Благодать Эллоры 4" />
+	<block key="gm_graceofeloraep10_name" korean="Эллоры ауру 1" />
+	<block key="gm_graceofeloraep20_name" korean="Аура Эллоры в 2" />
+	<block key="gm_graceofeloraep30_name" korean="Аура Эллоры в 3" />
+	<block key="gm_graceofeloraep50_name" korean="Энергия Эллоры в 4" />
+	<block key="gm_graceofeloraall10_name" korean="Эллора вера первым" />
+	<block key="gm_graceofeloraall20_name" korean="Вера Эллоры в 2" />
+	<block key="gm_graceofeloraall30_name" korean="Эллоры верования 3" />
+	<block key="gm_graceofeloraall50_name" korean="Эллоры верования 4" />
+	<block key="gm_acquireofelora10_name" korean="Воля Эллоры первый" />
+	<block key="gm_acquireofelora20_name" korean="Готовность Эллоры 2" />
+	<block key="gm_acquireofelora30_name" korean="Готовность Эллоры 3" />
+	<block key="gm_acquireofelora50_name" korean="Готовность Эллоры 4" />
+	<block key="gm_experienceofelora10_name" korean="Эллоры верования 1" />
+	<block key="gm_experienceofelora20_name" korean="Эллоры верования 2" />
+	<block key="gm_experienceofelora30_name" korean="Эллоры верования 3" />
+	<block key="gm_experienceofelora50_name" korean="Эллоры верования 4" />
+	<block key="gm_moneyofelora10_name" korean="Счастливый 1 Эллоры" />
+	<block key="gm_moneyofelora20_name" korean="Счастливый 2 Эллоры" />
+	<block key="gm_moneyofelora30_name" korean="Счастливый 3 Эллоры" />
+	<block key="gm_moneyofelora50_name" korean="Счастливый 4-ого Эллоры" />
+	<block key="gm_skillofelora10_name" korean="Обучение один из Эллоры" />
+	<block key="gm_skillofelora20_name" korean="2 Эллоры обучения" />
+	<block key="gm_skillofelora30_name" korean="3 Эллоры обучения" />
+	<block key="gm_skillofelora50_name" korean="4 Эллоры обучения" />
+	<block key="gm_levelofelora10_name" korean="Дух Эллоры 1" />
+	<block key="gm_levelofelora20_name" korean="Дух Эллоры 2" />
+	<block key="gm_levelofelora30_name" korean="Дух Эллоры 3" />
+	<block key="gm_levelofelora50_name" korean="Дух Эллоры 4" />
+	<block key="gm_classofelora10_name" korean="Эллора годов известный в первую очередь" />
+	<block key="gm_classofelora20_name" korean="Эллора годов известный 2" />
+	<block key="gm_classofelora30_name" korean="Эллора годов известный 3" />
+	<block key="gm_classofelora50_name" korean="Эллора годов известный четыре" />
+	<block key="gm_gainofelora10_name" korean="Эллоры Улыбка 1" />
+	<block key="gm_gainofelora20_name" korean="Улыбка Эллоры в 2" />
+	<block key="gm_gainofelora30_name" korean="Эллора улыбка 3" />
+	<block key="gm_gainofelora50_name" korean="Эллора улыбка 4" />
+	<block key="gm_abilityofelora10_name" korean="Эллоры обещание 1" />
+	<block key="gm_abilityofelora20_name" korean="Обещание Эллоры в 2" />
+	<block key="gm_abilityofelora30_name" korean="Обещание Эллоры 3" />
+	<block key="gm_abilityofelora50_name" korean="Обещания Эллоры в 4" />
+	<block key="gm_saleofelora10_name" korean="NPC продает пункт из 1" />
+	<block key="gm_saleofelora20_name" korean="NPC пункт продажи скидка 2" />
+	<block key="gm_saleofelora30_name" korean="NPC продает пункт из 3" />
+	<block key="gm_saleofelora50_name" korean="NPC пункт продажи скидка 4" />
+	<block key="gm_blessing10_description_1" korean="1 максимальная сила всех моих союзников во всем 22м часов и увеличить максимальный запас маны на 10%." />
+	<block key="gm_blessing20_description_1" korean="1 максимальная сила всех моих союзников во всем 22м часов и увеличить максимальный запас маны на 20%." />
+	<block key="gm_blessing30_description_1" korean="1 максимальная сила всех моих союзников во всем 22м часов и увеличить максимальный запас маны на 30%." />
+	<block key="gm_blessing50_description_1" korean="1 максимальная сила всех моих союзников во всем 22м часов и увеличить максимальный запас маны на 50%." />
+	<block key="gm_resurrect_description_1" korean="Воскресить цель и цель." />
+	<block key="gm_cure_description_1" korean="1 Cooper потребляется во время лечения осложнений воскресение после смерти." />
+	<block key="gm_graceofelorahp10_description_1" korean="10% от вашего максимального запаса здоровья увеличивается по милости Эллоры." />
+	<block key="gm_graceofelorahp20_description_1" korean="20% от вашего максимального запаса здоровья увеличивается по милости Эллоры." />
+	<block key="gm_graceofelorahp30_description_1" korean="30% от вашего максимального запаса здоровья увеличивается по милости Эллоры." />
+	<block key="gm_graceofelorahp50_description_1" korean="50% от вашего максимального запаса здоровья увеличивается по милости Эллоры." />
+	<block key="gm_graceofeloramp10_description_1" korean="10% от максимального запаса маны по благодати Эллоры увеличивается." />
+	<block key="gm_graceofeloramp20_description_1" korean="20% от вашего максимального запаса маны по благодати Эллоры увеличивается." />
+	<block key="gm_graceofeloramp30_description_1" korean="30% от максимального запаса маны по благодати Эллоры увеличивается." />
+	<block key="gm_graceofeloramp50_description_1" korean="50% от максимального запаса маны по благодати Эллоры увеличивается." />
+	<block key="gm_graceofeloraep10_description_1" korean="10% от максимальной энергии увеличивается в духе Эллоры." />
+	<block key="gm_graceofeloraep20_description_1" korean="20% от максимальной энергии увеличивается в духе Эллоры." />
+	<block key="gm_graceofeloraep30_description_1" korean="30% от максимальной энергии увеличивается в духе Эллоры." />
+	<block key="gm_graceofeloraep50_description_1" korean="50% от максимальной энергии увеличивается в духе Эллоры." />
+	<block key="gm_graceofeloraall10_description_1" korean="Максимальный срок веры в Эллоры, увеличивает максимальный запас маны на 10%." />
+	<block key="gm_graceofeloraall20_description_1" korean="Максимальный срок веры в Эллоры, увеличивает максимальный запас маны на 20%." />
+	<block key="gm_graceofeloraall30_description_1" korean="Максимальный срок веры в Эллоры, увеличивает максимальный запас маны на 30%." />
+	<block key="gm_graceofeloraall50_description_1" korean="Максимальный срок веры в Эллоры, увеличивает максимальный запас маны на 50%." />
+	<block key="gm_acquireofelora10_description_1" korean="Предметы, приобретенные по воле Эллоры вероятность возрастает до 10%." />
+	<block key="gm_acquireofelora20_description_1" korean="Предметы, приобретенные по воле Эллоры вероятность возрастает до 20%." />
+	<block key="gm_acquireofelora30_description_1" korean="Предметы, приобретенные по воле Эллоры вероятность возрастает до 30%." />
+	<block key="gm_acquireofelora50_description_1" korean="Предметы, приобретенные по воле Эллоры вероятность возрастает до 50%." />
+	<block key="gm_experienceofelora10_description_1" korean="Эллора является вера опыта, приобретенного увеличился на 10%." />
+	<block key="gm_experienceofelora20_description_1" korean="Эллора является вера опыта, приобретенного увеличился на 20%." />
+	<block key="gm_experienceofelora30_description_1" korean="Эллора является вера опыта, приобретенного увеличится на 30%." />
+	<block key="gm_experienceofelora50_description_1" korean="Эллора является вера опыта, приобретенного увеличится на 50%." />
+	<block key="gm_moneyofelora10_description_1" korean="Эллора доволен ставки денежного капли увеличивается на 10%." />
+	<block key="gm_moneyofelora20_description_1" korean="Эллора доволен ставки денежного капли увеличивается на 20%." />
+	<block key="gm_moneyofelora30_description_1" korean="Эллора доволен ставки денежного капли увеличивается на 30%." />
+	<block key="gm_moneyofelora50_description_1" korean="Эллора доволен ставки денежного капли увеличивается на 50%." />
+	<block key="gm_skillofelora10_description_1" korean="Увеличение на 10% в производстве путем приобретения навыков обучения Эллоры." />
+	<block key="gm_skillofelora20_description_1" korean="С приобретением навыков обучения Эллоры производство увеличилось на 20%." />
+	<block key="gm_skillofelora30_description_1" korean="Эллора приобретает навыки обучения, чтобы увеличить производство на 30%." />
+	<block key="gm_skillofelora50_description_1" korean="Эллора приобретает навыки обучения, чтобы увеличить производство на 50%." />
+	<block key="gm_levelofelora10_description_1" korean="Опыт дух с приобретением Эллоры, приобретения навыков увеличит производство на 10%." />
+	<block key="gm_levelofelora20_description_1" korean="Опыт дух приобретения Эллоры, приобретая производство знание увеличился на 20%." />
+	<block key="gm_levelofelora30_description_1" korean="Опыт дух приобретения Эллоры, приобретенные навыки, чтобы увеличить производство на 30%." />
+	<block key="gm_levelofelora50_description_1" korean="Опыт дух приобретения Эллоры, приобретенные навыки, чтобы увеличить производство на 50%." />
+	<block key="gm_classofelora10_description_1" korean="Предметы, полученные ура Эллоры, опыт, приобретенный, денежные приобретения увеличили на 10%." />
+	<block key="gm_classofelora20_description_1" korean="Предметы, полученные ура Эллоры, опыт, приобретенный, денежные приобретения увеличили на 20%." />
+	<block key="gm_classofelora30_description_1" korean="Предметы, полученные ура Эллоры, опыт, приобретенный, приобретение денежных увеличится на 30%." />
+	<block key="gm_classofelora50_description_1" korean="Предметы, полученные ура Эллоры, опыт, приобретенный, приобретение 50% больше денежных средств." />
+	<block key="gm_gainofelora10_description_1" korean="Предметы, приобретенные с улыбкой Эллоры, опыта, приобретенного, приобретение денежными средствами, приобретая производство знание увеличился на 10%." />
+	<block key="gm_gainofelora20_description_1" korean="Предметы, приобретенные с улыбкой Эллоры, опыта, приобретенного, приобретение денежными средствами, приобретая производство знание увеличился на 20%." />
+	<block key="gm_gainofelora30_description_1" korean="Предметы, приобретенные с улыбкой Эллоры, опыта, приобретенного, приобретение денежных средств, приобретенные знания и навыки, чтобы увеличить производство на 30%." />
+	<block key="gm_gainofelora50_description_1" korean="Предметы, приобретенные с улыбкой Эллоры, опыта, приобретенного, приобретение денежных средств, приобретенные знания и навыки, чтобы увеличить производство на 50%." />
+	<block key="gm_abilityofelora10_description_1" korean="Максимальная HP, максимальный запас маны обещанием Эллоры, предметы, приобретенные, приобретение увеличивается на 10% и приобретенных денежных средств." />
+	<block key="gm_abilityofelora20_description_1" korean="Максимальная HP, максимальный запас маны обещанием Эллоры, предметы приобрели, приобретение приобрела денежных увеличился на 20%." />
+	<block key="gm_abilityofelora30_description_1" korean="Максимальная HP, максимальный запас маны обещанием Эллоры, предметы приобрели, приобретение увеличить приобретение кассовый 30%." />
+	<block key="gm_abilityofelora50_description_1" korean="Максимальная HP, максимальный запас маны обещанием Эллоры, предметы приобрели, приобретение увеличить приобретение кассовый 50%." />
+	<block key="gm_saleofelora10_description_1" korean="Все NPC пункт продажи дисконтируется 10%." />
+	<block key="gm_saleofelora20_description_1" korean="Все NPC пункт продажи дисконтируется на 20%." />
+	<block key="gm_saleofelora30_description_1" korean="Все NPC пункт продажи 30% дешевле." />
+	<block key="gm_saleofelora50_description_1" korean="Все NPC пункт продажи 50% дешевле." />
+	<block key="setitem_flame_name" korean="Турбулентного пламени" />
+	<block key="setitem_grace_name" korean="Парк мой подпункт" />
+	<block key="setitem_fury_name" korean="Гнев Колосса" />
+	<block key="setitem_trust_name" korean="Blind Faith" />
+	<block key="setitem_lead_name" korean="Команда бригадного генерала" />
+	<block key="setitem_shout_name" korean="Cry демона" />
+	<block key="setitem_immortal_name" korean="Мощность бессмертия" />
+	<block key="itfeepuptic_qu_name" korean="Канаш энергоснабжение и зелья" />
+	<block key="itfellowhpup01_name" korean="Сотрудник физического Настой (Small)" />
+	<block key="itfellowhpup02_name" korean="Здоровье товарища Настой (Medium)" />
+	<block key="itfellowhpup03_name" korean="Сотрудник физического Настой (Large)" />
+	<block key="arcoldwave02_name" korean="В суровые морозы" />
+	<block key="arcoldwave02_description_1" korean="Энергия сотрудник будет ухудшаться из-за суровые морозы." />
+	<block key="mowormbite00_Name" korean="Сухой" />
+	<block key="mowormsandhell02_Name" korean="Песок Ад" />
+	<block key="mowormsandfog01_Name" korean="Песок туман" />
+	<block key="momohahealer00_Name" korean="Лечение" />
+	<block key="momohahealer01_Name" korean="Звезды Flock" />
+	<block key="momohahealer02_Name" korean="Пыльная буря" />
+	<block key="arcoldwave01_name" korean="Парк моей холодной" />
+	<block key="arcoldwave01_description_1" korean="В связи с Parque мой товарищ высота холод муха, ни скорость снижается." />
+	<block key="resurrect_name" korean="Блаженного воскресения" />
+	<block key="mobowdmg00_Name" korean="Арбалет обороны" />
+	<block key="mobowdmg01_Name" korean="Отлично арбалет обороны" />
+	<block key="mobowdmg02_Name" korean="Великий арбалет обороны" />
+	<block key="mobowdmg03_Name" korean="Идеальный арбалет обороны" />
+	<block key="mobowdmg00_description" korean="Повреждение арбалета снижается на 25%." />
+	<block key="mobowdmg01_description" korean="Повреждение арбалета снижается на 50%." />
+	<block key="mobowdmg02_description" korean="Атака арбалета будет снижена на 75%." />
+	<block key="mobowdmg03_description" korean="Арбалет атака не имеет смысла." />
+	<block key="mospeardmg00_Name" korean="Окно обороны" />
+	<block key="mospeardmg01_Name" korean="Выдающийся Оборонительная окно" />
+	<block key="mospeardmg02_Name" korean="Большие окна обороны" />
+	<block key="mospeardmg03_Name" korean="Идеальный обороны Window" />
+	<block key="mospeardmg00_description" korean="Повреждение окна уменьшается на 25%." />
+	<block key="mospeardmg01_description" korean="Атака окна уменьшается на 50%." />
+	<block key="mospeardmg02_description" korean="Повреждение окна уменьшается на 75%." />
+	<block key="mospeardmg03_description" korean="Окно атаки не имеет смысла." />
+	<block key="setitem_unmagi_Name" korean="Волхвы сопротивление" />
+	<block key="setitem_unmagi_description_1" korean="Exergy вырос волхвы сопротивление" />
+	<block key="undarkenegy_Name" korean="Волхвы сопротивление" />
+	<block key="setskilltaming13_Name" korean="По Гаррет аксессуары набор" />
+	<block key="setskilltaming13_description_1" korean="По Гаррет может укротить пропасть" />
+	<block key="setskilltaming12_Name" korean="Рууд пирог комплект принадлежностей" />
+	<block key="setskilltaming12_description_1" korean="Рууд пирог можно приручить страх" />
+	<block key="moliger03_name" korean="Gouge страха" />
+	<block key="moliger03_description_1" korean="Queer быть быстрее и сильнее атаки 3 раза подряд." />
+	<block key="moliger04_name" korean="Сокрушительный удар" />
+	<block key="moliger04_description_1" korean="Если вы получаете шанс атаковать с терроризмом." />
+	<block key="moliger05_name" korean="Рев безумие" />
+	<block key="moliger05_description_1" korean="Группы сильно реветь вместе, сделать некоторые повреждения в окрестностях." />
+	<block key="momegantes01_name" korean="Рога смертей" />
+	<block key="momegantes01_description_1" korean="Соберите силы в рога и мощной атакой." />
+	<block key="momegantes02_name" korean="Безжалостный" />
+	<block key="momegantes02_description_1" korean="Покрытые огромный большой удар по очереди избивали вокруг врага." />
+	<block key="mobonedra01_name" korean="Взрыв в пропасть" />
+	<block key="mobonedra01_description_1" korean="Нанесение ущерба по широкому кругу взрыва." />
+	<block key="unareadeath01_name" korean="0 человек дебафф сопротивление" />
+	<block key="setskillpkraid01_name" korean="Проклятие слабости эффекта резистор" />
+	<block key="setskillpkraid01_description_1" korean="Проклятие слабости эффекта резистор" />
+	<block key="setskillpkraid02_name" korean="Проклятие слабости эффекта резистор" />
+	<block key="setskillpkraid02_description_1" korean="Проклятие слабости эффекта резистор" />
+	<block key="setskillpkraid03_name" korean="Проклятие слабости эффекта резистор" />
+	<block key="setskillpkraid03_description_1" korean="Проклятие слабости эффекта резистор" />
+	<block key="setskillpkraid04_name" korean="Проклятие слабости эффекта резистор" />
+	<block key="setskillpkraid04_description_1" korean="Проклятие слабости эффекта резистор" />
+	<block key="setskillpkraid05_name" korean="Проклятие слабости эффекта резистор" />
+	<block key="setskillpkraid05_description_1" korean="Проклятие слабости эффекта резистор" />
+	<block key="mopkraid01_name" korean="Проклятие слабости" />
+	<block key="mopkraid01_description_1" korean="Таким образом значительно замедляется физические способности противника вокруг." />
+	<block key="pr_latentlightlink3_name" korean="Потенциал свет" />
+	<block key="setitem_allresist_name" korean="Сопротивление youngmul" />
+	<block key="setitem_allresist_description_1" korean="Состояние все области имеют возможность быть компенсированы." />
+	<block key="setitem_unresky_name" korean="Сопротивление 0 человек" />
+	<block key="setitem_unresky_description_1" korean="Может выдерживать силу резонанса, порождаемого воздушном пространстве всей осени." />
+	<block key="gl_potion_00_name" korean="HP жизнеспособность зелье" />
+	<block key="gl_potion_01_name" korean="Резко повышенные жизнеспособность зелье" />
+	<block key="gl_potion_02_name" korean="Критические повышает жизненный тонус зелье" />
+	<block key="gl_potion_03_name" korean="Увеличение урона жизнеспособность зелье" />
+	<block key="gl_potion_04_name" korean="Обороны повышает жизненный тонус зелье" />
+	<block key="gl_potion_05_name" korean="Скорость повышает жизненный тонус зелье" />
+	<block key="gl_potion_06_name" korean="Vitality снижение зелье Восстановление:" />
+	<block key="cash_normalpotion_00_name" korean="Максимальная эликсир здоровья" />
+	<block key="cash_normalpotion_01_name" korean="Максимальный запас маны Настой" />
+	<block key="cash_normalpotion_02_name" korean="Увеличивает физический урон Настой" />
+	<block key="cash_normalpotion_03_name" korean="Защита Увеличивает Настой" />
+	<block key="cash_normalpotion_04_name" korean="Увеличивает Магическая атака Настой" />
+	<block key="cash_normalpotion_05_name" korean="Регенерация эликсиром здоровья" />
+	<block key="cash_normalpotion_06_name" korean="Mana эликсир" />
+	<block key="cash_normalpotion_07_name" korean="Увеличение критического удара Настой" />
+	<block key="cash_normalpotion_08_name" korean="Время восстановления снижено Настой" />
+	<block key="cash_normalpotion_09_name" korean="Увеличивает скорость передвижения Настой" />
+	<block key="cash_normalpotion_10_name" korean="Сотрудник эликсир роста" />
+	<block key="cash_normalpotion_11_name" korean="Стипендиаты испытать 50% -ный рост зелье" />
+	<block key="cash_partypotion_00_name" korean="Партия максимальная эликсир здоровья" />
+	<block key="cash_partypotion_01_name" korean="Максимальный запас маны партия Настой" />
+	<block key="cash_partypotion_02_name" korean="Увеличение урона партия Настой" />
+	<block key="cash_partypotion_03_name" korean="Обороны участнику активизировать Настой" />
+	<block key="cash_partypotion_04_name" korean="Увеличивает Магия атаки партии Настой" />
+	<block key="cash_partypotion_05_name" korean="Регенерация партия эликсиром жизни" />
+	<block key="cash_partypotion_06_name" korean="Партия маны эликсир" />
+	<block key="cash_partypotion_07_name" korean="Увеличивает шанс партия Настой" />
+	<block key="cash_partypotion_08_name" korean="Партия восстановления уменьшено Настой" />
+	<block key="mogriffon00_name" korean="Пламя Тьмы" />
+	<block key="mogriffon01_name" korean="Вызов Тьмы" />
+	<block key="mogriffon02_name" korean="Дыхание Тьмы" />
+	<block key="mogriffon03_name" korean="Пламя Тьмы" />
+	<block key="monster_s_name" korean="Призыв монстров" />
+	<block key="areadeath01_name" korean="Резонанс" />
+	<block key="mobeldon02_name" korean="Поглощение Анимация" />
+	<block key="mobeldon03_name" korean="Бессмертие Рев в" />
+	<block key="mobeldon04_name" korean="Яд Дыхание" />
+	<block key="cash_normalpotion_12_name" korean="Опыт Настой" />
+	<block key="rabini_bless_Name" korean="Благословение Ла шапочка" />
+	<block key="extractionsealedfell_name" korean="Сотрудник добыча печать" />
+	<block key="fellow_unseal_name" korean="Сотрудник распечатывания" />
+	<block key="removebelonging_name" korean="Закройте петли" />
+	<block key="fullmoon_bless_Name" korean="Середины осени благословения" />
+	<block key="mokalipto00_name" korean="Stomp" />
+	<block key="mokalipto01_name" korean="Волны жары" />
+	<block key="mohamion00_name" korean="Stomp" />
+	<block key="mohamion01_name" korean="Волны замораживания" />
+	<block key="modemonus00_name" korean="Stomp" />
+	<block key="modemonus01_name" korean="Волна тьмы" />
+	<block key="momandrake00_name" korean="Объединение корни" />
+	<block key="mogolebreak00_name" korean="Бросать камни" />
+	<block key="mobragiseld01_name" korean="Огонь ppumgi" />
+	<block key="mokroktaine00_name" korean="Избегайте взрывов" />
+	<block key="mokrokpries00_name" korean="Лечение" />
+	<block key="mokrokpries01_name" korean="Символ мужества" />
+	<block key="mokrokbowman00_name" korean="Five Arrows" />
+	<block key="ev_bp00_name" korean="События зелье" />
+	<block key="gm_bless_Name" korean="Благословение ГМ" />
+	<block key="setskillgd_le4001_Description_1" korean="Аура срабатывает смертельный успех атаки и оглушает цель на 2 секунды с вероятностью 1%, а 20% их атаки рост мощности 10 секунд" />
+	<block key="setskillwr_le4001_Description_1" korean="Аура срабатывает смертельный успех атаки и оглушает цель на 2 секунды с вероятностью 1%, а 20% их атаки рост мощности 10 секунд" />
+	<block key="setskilltf_le4001_Description_1" korean="Аура срабатывает смертельный успех атаки и оглушает цель на 2 секунды с вероятностью 1%, а 20% их атаки рост мощности 10 секунд" />
+	<block key="setskillwz_le4001_Description_1" korean="Аура срабатывает смертельный успех атаки и оглушает цель на 2 секунды с вероятностью 1%, а 20% их атаки рост мощности 10 секунд" />
+	<block key="setskillpr_le4001_Description_1" korean="Аура срабатывает смертельный успех атаки и оглушает цель на 2 секунды с вероятностью 1%, а 20% их атаки рост мощности 10 секунд" />
+	<block key="mohelldog00_name" korean="Когти Ада" />
+	<block key="mohelldog00_description_1" korean="Атакует врага с духом ада Сурин когтями." />
+	<block key="ev_bp02_name" korean="[HUN] карта" />
+	<block key="ev_bp03_name" korean="[Min] карта" />
+	<block key="ev_bp04_name" korean="[Политика] карта" />
+	<block key="ev_bp05_name" korean="[Ну] карта" />
+	<block key="protect_otp_Name" korean="OTP" />
+	<block key="support_crow_1_Name" korean="Ворона укоренение I" />
+	<block key="support_crow_2_Name" korean="Ворона II развеселить" />
+	<block key="support_crow_3_Name" korean="Ворона укоренение III" />
+	<block key="support_crow_4_Name" korean="Ворона укоренение IV" />
+	<block key="support_crow_5_Name" korean="Ворона укоренение V" />
+	<block key="shine_support_crow_1_Name" korean="Ворона блестящую поддержку I" />
+	<block key="shine_support_crow_2_Name" korean="Ворона блестящую поддержку II" />
+	<block key="shine_support_crow_3_Name" korean="Ворона блестящую поддержку III" />
+	<block key="shine_support_crow_4_Name" korean="Ворона блестящую поддержку IV" />
+	<block key="shine_support_crow_5_Name" korean="Ворона блестящую поддержку V" />
+	<block key="great_support_crow_1_Name" korean="Великий Ворон укоренение I" />
+	<block key="great_support_crow_2_Name" korean="Ворона II Великой Cheer" />
+	<block key="great_support_crow_3_Name" korean="Кроу большую поддержку III" />
+	<block key="great_support_crow_4_Name" korean="Великий Ворон укоренение IV" />
+	<block key="spirit_hakain_1_Name" korean="Хек энергетического I" />
+	<block key="spirit_hakain_2_Name" korean="Дух хека II" />
+	<block key="spirit_hakain_3_Name" korean="Дух хека III" />
+	<block key="spirit_hakain_4_Name" korean="Дух хека IV" />
+	<block key="spirit_hakain_5_Name" korean="Дух хека V" />
+	<block key="will_hakain_1_Name" korean="Я из хека" />
+	<block key="will_hakain_2_Name" korean="Воля хека II" />
+	<block key="will_hakain_3_Name" korean="Воля хека III" />
+	<block key="will_hakain_4_Name" korean="Воля хека IV" />
+	<block key="will_hakain_5_Name" korean="Воля хека V" />
+	<block key="bless_elora_1_Name" korean="Я благословляя Эллоры в" />
+	<block key="bless_elora_2_Name" korean="Эллора благословение II" />
+	<block key="bless_elora_3_Name" korean="Эллора благословение III" />
+	<block key="bless_elora_4_Name" korean="Эллора благословение IV" />
+	<block key="bless_elora_5_Name" korean="Благословение Эллоры V" />
+	<block key="noble_bless_elora_1_Name" korean="Благословения Noble Ellora I" />
+	<block key="noble_bless_elora_2_Name" korean="Благословения Noble Ellora II" />
+	<block key="noble_bless_elora_3_Name" korean="Благословения Noble Ellora III" />
+	<block key="noble_bless_elora_4_Name" korean="Благословения Noble Ellora IV" />
+	<block key="great_bless_elora_1_Name" korean="Я благословляю большой Эллоры" />
+	<block key="great_bless_elora_2_Name" korean="Благословение великого Ellora II" />
+	<block key="great_bless_elora_3_Name" korean="Благословение великого Ellora III" />
+	<block key="great_bless_elora_4_Name" korean="Благословение великого Ellora IV" />
+	<block key="will_pega_1_Name" korean="Я Пегаса" />
+	<block key="will_pega_2_Name" korean="Воля Pegasus II" />
+	<block key="will_pega_3_Name" korean="Воля Pegasus III" />
+	<block key="power_hakain_1_Name" korean="Хек электростанции I" />
+	<block key="power_hakain_2_Name" korean="Мощность хека II" />
+	<block key="power_hakain_3_Name" korean="Мощность хека III" />
+	<block key="protect_hakain_1_Name" korean="Защита хек I" />
+	<block key="protect_hakain_2_Name" korean="Защита хека II" />
+	<block key="protect_hakain_3_Name" korean="Защита хека III" />
+	<block key="shine_bless_elora_1_Name" korean="Я благословляю сияющий Эллоры" />
+	<block key="shine_bless_elora_2_Name" korean="Благословение светит Эллоры II" />
+	<block key="shine_bless_elora_3_Name" korean="Благословение светит Эллоры III" />
+	<block key="shine_power_hakain_1_Name" korean="Сияющий сила хек I" />
+	<block key="shine_power_hakain_2_Name" korean="Сияющий сила хека II" />
+	<block key="shine_power_hakain_3_Name" korean="Сияющий сила хека III" />
+	<block key="great_bless_pega_1_Name" korean="Я благословляю большой Пегас" />
+	<block key="great_bless_pega_2_Name" korean="Благословение Великой Pegasus II" />
+	<block key="great_bless_pega_3_Name" korean="Благословение Великой Pegasus III" />
+	<block key="shine_spirit_pega_1_Name" korean="Я светит ауру Пегаса" />
+	<block key="shine_spirit_pega_2_Name" korean="Сияющий аура Pegasus II" />
+	<block key="shine_spirit_pega_3_Name" korean="Сияющий аура Pegasus III" />
+	<block key="noble_spirit_pega_1_Name" korean="Я не могу Noble Пегас" />
+	<block key="noble_spirit_pega_2_Name" korean="Благородный аура Pegasus II" />
+	<block key="noble_spirit_pega_3_Name" korean="Благородный аура Pegasus III" />
+	<block key="support_pega_1_Name" korean="Я поболеть за Пегаса" />
+	<block key="support_pega_2_Name" korean="Поддержка Pegasus II" />
+	<block key="support_pega_3_Name" korean="Поддержка Pegasus III" />
+	<block key="support_pega_4_Name" korean="Поддержка Pegasus IV" />
+	<block key="support_pega_5_Name" korean="Поддержка Pegasus V" />
+	<block key="spirit_pega_1_Name" korean="Я не могу Пегас" />
+	<block key="spirit_pega_2_Name" korean="Аура Pegasus II" />
+	<block key="spirit_pega_3_Name" korean="Аура Pegasus III" />
+	<block key="spirit_pega_4_Name" korean="Аура Pegasus IV" />
+	<block key="spirit_pega_5_Name" korean="Аура Pegasus V" />
+	<block key="support_rabini_1_Name" korean="Я поддерживаю La Beanie" />
+	<block key="support_rabini_2_Name" korean="Болеем LA Beanie II" />
+	<block key="support_rabini_3_Name" korean="Болеем LA Beanie III" />
+	<block key="support_rabini_4_Name" korean="Болеем LA Beanie IV" />
+	<block key="support_rabini_5_Name" korean="Болейте за Ла Винни V" />
+	<block key="love_bless_30_Name" korean="Buff Любовь" />
+	<block key="qu_bandage_Name" korean="Бандаж" />
+	<block key="qu_foodrecoverhp_Name" korean="Команда пищи Санкт-" />
+	<block key="qu_foodrecovermp_Name" korean="Mana Food" />
+	<block key="qu_potiondexup_Name" korean="Ловкость зелье" />
+	<block key="qu_potionintup_Name" korean="Интеллект зелье" />
+	<block key="qu_potionmtlup_Name" korean="Дух зелье" />
+	<block key="qu_potionstrup_Name" korean="Силовые зелья" />
+	<block key="qu_potionvtlup_Name" korean="Выносливость Зелье" />
+	<block key="love_bless_50_Name" korean="Возраст Изобилия" />
+	<block key="arf05psv_name" korean="Мученики энергии" />
+	<block key="arf05psv_description_1" korean="Будет иметь оптимальные условия в регионе пустыни. Переехал из пустынных районов скорости бессмертия и опыта стипендиатов, чтобы получить повышение тарифов." />
+	<block key="morodeshi01_name" korean="Шок Гнев" />
+	<block key="movegarus01_name" korean="Всплеск яда" />
+	<block key="potionpkattup_name" korean="Взрослые Увеличение урона" />
+	<block key="potionpkdefup_name" korean="Взрослые увеличение обороны" />
+	<block key="potionpkbdyup_name" korean="Взрослые сопротивление возрастает" />
+	<block key="f05fqset00_Name" korean="Пустыня опыт благословения" />
+	<block key="f05fqset01_Name" korean="Опыт исключительный пустыня благословение" />
+	<block key="f05fqset02_Name" korean="Блаженных мучеников опыт" />
+	<block key="f05fqset03_Name" korean="Опыт Шарки Бар благословения" />
+	<block key="setf05fqcond00_Name" korean="Пустыня опыт благословения" />
+	<block key="setf05fqcond01_Name" korean="Опыт исключительный пустыня благословение" />
+	<block key="setf05fqcond02_Name" korean="Блаженных мучеников опыт" />
+	<block key="setf05fqcond03_Name" korean="Опыт Шарки Бар благословения" />
+	<block key="f05fqset00_Description_1" korean="Возьмите дух пустыни опыта благословения, в пустыне бессмертного скорости движения и опыта стипендиатов скорость сбора поднимается незначительно." />
+	<block key="f05fqset01_Description_1" korean="Возьмите ауру отличные пустыни опыт Благо, в пустыне движения и коллег скорости сбора Бессмертный Опыт будет расти." />
+	<block key="f05fqset02_Description_1" korean="Возьмите дух блаженных мучеников опыта, опыта, приобретенного в пустыне скорости бессмертия движения и его коллега резко возрастает." />
+	<block key="f05fqset03_Description_1" korean="Сделайте вдох опыта благословения Шарки баре, в пустыне опыт, накопленный скорость бессмертие движение и его коллега резко возрастает." />
+	<block key="setf05fqcond00_Description_1" korean="Возьмите дух пустыни опыта благословения, в пустыне бессмертного скорости движения и опыта стипендиатов скорость сбора поднимается незначительно." />
+	<block key="setf05fqcond01_Description_1" korean="Возьмите ауру отличные пустыни опыт Благо, в пустыне движения и коллег скорости сбора Бессмертный Опыт будет расти." />
+	<block key="setf05fqcond02_Description_1" korean="Возьмите дух блаженных мучеников опыта, опыта, приобретенного в пустыне скорости бессмертия движения и его коллега резко возрастает." />
+	<block key="setf05fqcond03_Description_1" korean="Сделайте вдох опыта благословения Шарки баре, в пустыне опыт, накопленный скорость бессмертие движение и его коллега резко возрастает." />
+	<block key="partybonus_buff_name" korean="Партия Бонус" />
+	<block key="itemskill_ancient2_name" korean="Древний Кольца II" />
+	<block key="snow_festuval_name" korean="Снежный фестиваль" />
+	<block key="areadeath022_Name" korean="Солнечный удар" />
+	<block key="setpvpgd45_Name" korean="Малый Slayer Set" />
+	<block key="setpvpgd45_description_1" korean="Кошмар ручными доступны\nНомера отряд может укротить Апокалипсис\nУспех Атака вероятность возрастает до 1% денежные средства обороны" />
+	<block key="setpvpwr45_Name" korean="Малый Slayer Set" />
+	<block key="setpvpwr45_description_1" korean="Кошмар ручными доступны\nНомера отряд может укротить Апокалипсис\nУспех Атака вероятность возрастает до 1% денежные средства обороны" />
+	<block key="setpvptf45_Name" korean="Малый Slayer Set" />
+	<block key="setpvptf45_description_1" korean="Кошмар ручными доступны\nНомера отряд может укротить Апокалипсис\nУспех Атака вероятность возрастает до 1% денежные средства обороны" />
+	<block key="setpvpwz45_Name" korean="Малый Slayer Set" />
+	<block key="setpvpwz45_description_1" korean="Кошмар ручными доступны\nНомера отряд может укротить Апокалипсис\nУспех Атака вероятность возрастает до 1% денежные средства обороны" />
+	<block key="setpvppr45_Name" korean="Малый Slayer Set" />
+	<block key="setpvppr45_description_1" korean="Кошмар ручными доступны\nНомера отряд может укротить Апокалипсис\nУспех Атака вероятность возрастает до 1% денежные средства обороны" />
+	<block key="setpvpamgd45_Name" korean="Страх Slayer" />
+	<block key="setpvpamgd45_description_1" korean="Взрослые целевого повреждения редукции для атаки" />
+	<block key="setpvpamdebuff45_Name" korean="Страх Slayer" />
+	<block key="setpvpamdebuff45_description_1" korean="Взрослые целевого повреждения редукции для атаки" />
+	<block key="newyear_bless_name" korean="С Новым Годом." />
+	<block key="setpvpgd50_Name" korean="Промежуточный Slayer Set" />
+	<block key="setpvpgd50_description_1" korean="Кошмар ручными доступны\nНомера отряд может укротить Апокалипсис\nНанесенный личные нападки на одном процентное увеличение вероятности" />
+	<block key="setpvpwr50_Name" korean="Промежуточный Slayer Set" />
+	<block key="setpvpwr50_description_1" korean="Кошмар ручными доступны\nНомера отряд может укротить Апокалипсис\nНанесенный личные нападки на одном процентное увеличение вероятности" />
+	<block key="setpvptf50_Name" korean="Промежуточный Slayer Set" />
+	<block key="setpvptf50_description_1" korean="Кошмар ручными доступны\nНомера отряд может укротить Апокалипсис\nНанесенный личные нападки на одном процентное увеличение вероятности" />
+	<block key="setpvpwz50_Name" korean="Промежуточный Slayer Set" />
+	<block key="setpvpwz50_description_1" korean="Кошмар ручными доступны\nНомера отряд может укротить Апокалипсис\nНанесенный личные нападки на одном процентное увеличение вероятности" />
+	<block key="setpvppr50_Name" korean="Промежуточный Slayer Set" />
+	<block key="setpvppr50_description_1" korean="Кошмар ручными доступны\nНомера отряд может укротить Апокалипсис\nНанесенный личные нападки на одном процентное увеличение вероятности" />
+	<block key="setpvpamgd50_Name" korean="Боль Slaughter" />
+	<block key="setpvpamgd50_description_1" korean="Взрослые цель сокращения оборонного для атаки" />
+	<block key="setpvpamdebuff50_Name" korean="Боль Slaughter" />
+	<block key="setpvpamdebuff50_description_1" korean="Взрослые цель сокращения оборонного для атаки" />
+	<block key="setpvparbuff45_Name" korean="Взрослые увеличение обороны" />
+	<block key="setpvparbuff45_description_1" korean="Увеличивает атаку на личной защиты" />
+	<block key="setpvparbuff50_Name" korean="Взрослые Увеличение урона" />
+	<block key="setpvparbuff50_description_1" korean="Увеличение урона нападение на поставку" />
+	<block key="decomposition_Name" korean="Предметы разложение" />
+</blocks>

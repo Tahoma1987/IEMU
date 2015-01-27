@@ -1,0 +1,51 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="F02_G_00001_Title" korean="사란트의 감옥을 탈출하라." />
+	<block key="F02_G_00001_RewarderDesc" korean="섀도우 클랜 단장 크로우" />
+	<block key="F02_G_00001_Request_Text" korean="크로우를 도와서 사란트의 감옥을 탈출하자." />
+	<block key="F02_G_00001_Accepted_Text" korean="크로우를 도와서 사란트의 감옥을 탈출하자." />
+	<block key="F02_G_00001_Ongoing_Text" korean="크로우를 도와서 사란트의 감옥을 탈출하자." />
+	<block key="F02_G_00001_Complete_Text" korean="자네 괜찮은가? 비행 펠로우가 추락하고 자네는 한동안 잠들어 있었다네. 보아하니 어디 움직이는데 불편한 건 없는 모양이군. 다행일세." />
+	<block key="F02_G_00002_Title" korean="해적과 맞서 싸워라" />
+	<block key="F02_G_00002_RewarderDesc" korean="정찰대원 세린" />
+	<block key="F02_G_00002_Request_Text" korean="공주님에 대한 소식을 조금이라도 빨리 수도성에 있는 국왕 폐하께 알려야 하네. 나는 이곳에서 부상자들을 돌봐야하니 자네가 적임자로군.<br><br>카라드 해적단과 관문을 지키는 보스를 처치하고 세린을 구출하게. 세린은 정찰을 통해 뭔가를 알아냈을 걸세." />
+	<block key="F02_G_00002_Accepted_Text" korean="카라드 해적을 처치하고 세린을 구출하게." />
+	<block key="F02_G_00002_Ongoing_Text" korean="카라드 해적단과 관문을 지키는 보스를 처치하고 세린을 구출하게. 세린은 정찰을 통해 뭔가를 알아냈을 걸세." />
+	<block key="F02_G_00002_Complete_Text" korean="구출해줘서 고마워요.<br><br>당신이 없었더라면 적의 소굴로 끌려가서 고문을 당하며 죽었을 겁니다." />
+	<block key="F02_G_00003_Title" korean="해적 우두머리" />
+	<block key="F02_G_00003_RewarderDesc" korean="신룡기사단 단장 파울로 로어먼" />
+	<block key="F02_G_00003_Request_Text" korean="중요한 정보가 있어요. 수많은 악행으로 왕국에서 뒤쫓고 있는 해적 우두머리 제라닌이 이곳에 있어요. 그리고 해적들의 부두에서 신룡기사단 정찰대원을 목격했습니다. 아마도 바다 건너 신룡기사단 캠프에서 온 것 같아요.<br><br>해적 우두머리를 처치하면서 신룡기사단 정찰대원을 찾으세요. 신룡기사단은 이 곳을 탈출하는 방법을 알고 있을 것 같군요." />
+	<block key="F02_G_00003_Accepted_Text" korean="해적 우두머리를 처치하고 신룡기사단 정찰대원을 찾으세요." />
+	<block key="F02_G_00003_Ongoing_Text" korean="중요한 정보가 있어요. 수많은 악행으로 왕국에서 뒤쫓고 있는 해적 우두머리 제라닌이 이곳에 있어요. 그리고 해적들의 부두에서 신룡기사단 정찰대원을 목격했습니다. 아마도 바다 건너 신룡기사단 캠프에서 온 것 같아요.<br><br>해적 우두머리를 처치하면서 신룡기사단 정찰대원을 찾으세요. 신룡기사단은 이 곳을 탈출하는 방법을 알고 있을 것 같군요." />
+	<block key="F02_G_00003_Complete_Text" korean="저는 단장님의 명령으로 해적 움직임을 감시하는 임무를 수행 중입니다. 당신 덕분에 해적들의 숫자가 줄어들어 얼마나 기쁜지 모릅니다." />
+	<block key="F02_G_00003_0_Title" korean="해적 소굴 소탕 II" />
+	<block key="F02_G_00003_0_RewarderDesc" korean="신룡기사단 단장 파울로 로어먼" />
+	<block key="F02_G_00003_0_Request_Text" korean="중요한 정보가 있어요. 수많은 악행으로 왕국에서 뒤를 쫓고 있는 해적단 우두머리 2명이 이곳에 있어요. 그리고 해적들의 부두에서 신룡기사단 정찰대원을 목격했습니다. 아마도 바다 건너 신룡기사단 캠프에서 온 것 같아요.<br><br>해적단 우두머리를 처치하면서 신룡기사단 정찰대원을 찾으세요. 신룡기사단은 이 곳을 탈출하는 방법을 알고 있을 것 같군요." />
+	<block key="F02_G_00003_0_Accepted_Text" korean="해적단 우두머리를 처치하고 신룡기사단 정찰대원을 찾으세요." />
+	<block key="F02_G_00003_0_Ongoing_Text" korean="중요한 정보가 있어요. 수많은 악행으로 왕국에서 뒤를 쫓고 있는 해적단 우두머리 2명이 이곳에 있어요. 그리고 해적들의 부두에서 신룡기사단 정찰대원을 목격했습니다. 아마도 바다 건너 신룡기사단 캠프에서 온 것 같아요.<br><br>해적단 우두머리를 처치하면서 신룡기사단 정찰대원을 찾으세요. 신룡기사단은 이 곳을 탈출하는 방법을 알고 있을 것 같군요." />
+	<block key="F02_G_00003_0_Complete_Text" korean="저는 단장님의 명령으로 해적 움직임을 감시하는 임무를 수행 중입니다. 당신 덕분에 해적들의 숫자가 줄어들어 얼마나 기쁜지 모릅니다." />
+	<block key="F02_G_00003_1_Title" korean="바다를 건너라" />
+	<block key="F02_G_00003_1_RewarderDesc" korean="신룡기사단 단장 파울로 로어먼" />
+	<block key="F02_G_00003_1_Request_Text" korean="이곳을 빠져나가는 방법이 알고 싶다구요? 캠프로 가서 우리 단장님을 만나보십시오.<br><br>저기 맞은편 백사장에 작은 보트 몇 개가 있는 것이 보이십니까? 헤엄쳐서 그 곳에 도착하면 신룡기사단 캠프를 찾을 수 있을 겁니다." />
+	<block key="F02_G_00003_1_Accepted_Text" korean="헤엄쳐서 바다를 건너도록 하십시오." />
+	<block key="F02_G_00003_1_Ongoing_Text" korean="이곳을 빠져나가는 방법이 알고 싶다구요? 캠프로 가서 우리 단장님을 만나보십시오.<br><br>저기 맞은편 백사장에 작은 보트 몇 개가 있는 것이 보이십니까? 헤엄쳐서 그 곳에 도착하면 신룡기사단 캠프를 찾을 수 있을 겁니다." />
+	<block key="F02_G_00003_1_Complete_Text" korean="해적단을 뚫고 여기까지 왔다니 대단하군. 바다쪽 출구는 해적들에 의해 막혀있는 상태일세." />
+	<block key="F02_G_00004_Title" korean="카라샤를 처치하라 I" />
+	<block key="F02_G_00004_RewarderDesc" korean="신룡기사단 단장 파울로 로어먼" />
+	<block key="F02_G_00004_Request_Text" korean="이 곳을 탈출하려면 격동의 대지에 있는 화염 아스테라스를 길들여서 날아가는 방법 밖에는 없네.<br><br>화염 아스테라스를 길들이면 격동의 대지를 배회하는 암흑마룡 카라샤가 가만 있지 않을테니 마음의 준비를 해야하네." />
+	<block key="F02_G_00004_Accepted_Text" korean="잊지 말게. 화염 아스테라스를 길들이고 암흑마룡 카라샤를 처치해야 하네." />
+	<block key="F02_G_00004_Ongoing_Text" korean="잊지 말게. 화염 아스테라스를 길들이고 암흑마룡 카라샤를 처치해야 하네. ." />
+	<block key="F02_G_00004_Complete_Text" korean="암흑마룡 카라샤를 처지했단 말인가? 대단하군!! 이제 화염 아스테라스를 타고 왕국으로 날아가면 되겠어. 건투를 비네." />
+	<block key="F02_G_00004_1_Title" korean="카라샤를 처치하라 II" />
+	<block key="F02_G_00004_1_RewarderDesc" korean="신룡기사단 단장 파울로 로어먼" />
+	<block key="F02_G_00004_1_Request_Text" korean="이 곳을 탈출하려면 격동의 대지에 있는 화염 아스테라스를 길들여서 날아가는 방법 밖에는 없네.<br><br>화염 아스테라스를 길들이면 격동의 대지를 배회하는 암흑마룡 카라샤가 가만 있지 않을테니 마음의 준비를 해야하네." />
+	<block key="F02_G_00004_1_Accepted_Text" korean="잊지 말게. 화염 아스테라스를 길들이고 암흑마룡 카라샤를 처치해야 하네." />
+	<block key="F02_G_00004_1_Ongoing_Text" korean="잊지 말게. 화염 아스테라스를 길들이고 암흑마룡 카라샤를 처치해야 하네. ." />
+	<block key="F02_G_00004_1_Complete_Text" korean="암흑마룡 카라샤를 처지했단 말인가? 대단하군!! 이제 화염 아스테라스를 타고 왕국으로 날아가면 되겠어. 건투를 비네." />
+</blocks>

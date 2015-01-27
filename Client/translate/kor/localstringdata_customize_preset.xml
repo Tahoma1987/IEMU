@@ -1,0 +1,14 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="preset_parts_face" korean="얼굴" />
+	<block key="preset_parts_hair" korean="머리" />
+	<block key="preset_face" korean="얼굴" />
+	<block key="preset_hair" korean="머리" />
+	<block key="preset_body" korean="체형" />
+</blocks>

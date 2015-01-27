@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="dialog_1420001_title" korean="섀도우 클랜 단장 크로우" />
+	<block key="dialog_1420001_text0" korean="자네로군? 비행 펠로우가 해적단의 석궁 공격에 추락했네. 우리와 함께 있던 세린은 정찰을 나갔다가 적에게 잡힌 것 같네." />
+	<block key="dialog_1420002_title" korean="정찰대원 세린" />
+	<block key="dialog_1420002_text0" korean="아! 엘로라 여신께 찬양을!<br><br>저를 구출하러 왔군요." />
+	<block key="dialog_1420003_title" korean="신룡기사단 단장 파울로 로어먼" />
+	<block key="dialog_1420003_text0" korean="암흑마룡 카라샤는 화염 생명체를 지배할 목적으로 격동의 대지에 나타났네. 우리는 상황을 보고하도록 파견되었네." />
+	<block key="dialog_1420004_title" korean="섀도우 클랜 단원 신스" />
+	<block key="dialog_1420004_text0" korean="우리는 하카나스 수도성을 향해 가던 중이었죠. 이곳의 상황에 대한 정보는 별로 없어요. 하지만 이런 상황에서도 본 분을 다할 것입니다." />
+	<block key="dialog_1420005_title" korean="신룡기사단 수호기사" />
+	<block key="dialog_1420005_text0" korean="암흑마룡 카라샤가 세력을 키우지 못하도록 막아야 합니다." />
+	<block key="dialog_1420006_title" korean="신전 기사단원" />
+	<block key="dialog_1420006_text0" korean="하카나스 왕국의 영광을 위하여!<br><br>무슨 일이십니까?" />
+	<block key="dialog_1420007_title" korean="호위기사 토르투스" />
+	<block key="dialog_1420007_text0" korean="이곳을 점령하고 있는 해적단은 우리가 왕국으로 가는 걸 가만히 보고 있지 않을 것입니다. 어서 이곳을 빠져나가 왕국에 닿아야 할 텐데…" />
+	<block key="dialog_1420008_title" korean="호위기사 레나" />
+	<block key="dialog_1420008_text0" korean="이곳 상공으로 비행하는 게 아니었는데… 급히 왕국으로 가려다 시간을 더 지체하게 생겼습니다." />
+	<block key="dialog_1420009_title" korean="신룡기사단 정찰대원 스윈" />
+	<block key="dialog_1420009_text0" korean="반갑습니다. 용감한 분이더군요. 숨어서 정찰을 하던 중이었는데 해적들과 싸우는 모습을 보고 당신을 기다렸습니다." />
+</blocks>

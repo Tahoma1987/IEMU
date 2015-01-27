@@ -1,0 +1,12 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="ServerNotice_0001" korean="가방이 꽉 찼습니다" />
+	<block key="ServerNotice_0002" korean="펠로우 보관함이 가득 찼습니다" />
+	<block key="ServerNotice_0003" korean="[UserName] 님이 자리비움 상태입니다" />
+</blocks>

@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="TL0_001_0_0000_Name" korean="채광 곡괭이" />
+	<block key="TL0_001_0_0000_description" korean="채광에 필요한 곡괭이다." />
+	<block key="TL1_001_0_0000_Name" korean="무두질 손칼" />
+	<block key="TL1_001_0_0000_description" korean="무두질에 필요한 손칼이다." />
+	<block key="TL2_001_0_0000_Name" korean="채집 낫" />
+	<block key="TL2_001_0_0000_description" korean="약초 채집에 필요한 낫이다." />
+	<block key="TL3_001_0_0000_Name" korean="조잡한 낚시대" />
+	<block key="TL3_001_0_0000_description" korean="물고기를 낚을 수 있는 조잡한 낚시대다." />
+	<block key="TL4_001_0_0000_Name" korean="기본망치" />
+	<block key="TL4_001_0_0000_description" korean="무기와 방어구 제작에 필요한 도구 아이템이다." />
+	<block key="TL5_001_0_0000_Name" korean="기본 실험도구" />
+	<block key="TL5_001_0_0000_description" korean="연금술에 필요한 도구 아이템이다." />
+	<block key="TL6_001_0_0000_Name" korean="기본 조리도구" />
+	<block key="TL6_001_0_0000_description" korean="요리에 필요한 도구 아이템이다." />
+	<block key="TL7_001_0_0001_Name" korean="개간용 쟁기" />
+	<block key="TL8_001_0_0001_Name" korean="개간용 삽" />
+	<block key="TL9_001_0_0002_Name" korean="건설망치" />
+	<block key="TL10_001_0_0002_Name" korean="경작지 초기툴" />
+</blocks>

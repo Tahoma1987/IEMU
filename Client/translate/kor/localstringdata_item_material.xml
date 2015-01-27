@@ -1,0 +1,1447 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="MA_1_0001_Name" korean="구리 광석" />
+	<block key="MA_1_1001_Name" korean="구리 주괴" />
+	<block key="MA_1_1002_Name" korean="구리 합금" />
+	<block key="MA_1_0002_Name" korean="철 광석" />
+	<block key="MA_1_2001_Name" korean="철 주괴" />
+	<block key="MA_1_2002_Name" korean="철 합금" />
+	<block key="MA_1_0003_Name" korean="미스릴 광석" />
+	<block key="MA_1_3001_Name" korean="미스릴 주괴" />
+	<block key="MA_1_3002_Name" korean="미스릴 합금" />
+	<block key="MA_1_0004_Name" korean="투랄리움 광석" />
+	<block key="MA_1_0005_Name" korean="아다만티움 광석" />
+	<block key="MA_1_0006_Name" korean="드라고니움 광석" />
+	<block key="MA_2_0001_Name" korean="은 광석" />
+	<block key="MA_2_1001_Name" korean="은가루" />
+	<block key="MA_2_0002_Name" korean="금 광석" />
+	<block key="MA_2_2001_Name" korean="금가루" />
+	<block key="MA_2_0003_Name" korean="자수정 원석" />
+	<block key="MA_2_3001_Name" korean="세공된 자수정" />
+	<block key="MA_2_0004_Name" korean="사파이어 원석" />
+	<block key="MA_2_0005_Name" korean="에메랄드 원석" />
+	<block key="MA_2_0006_Name" korean="다이아몬드 원석" />
+	<block key="MA_3_0001_Name" korean="포리온 버섯" />
+	<block key="MA_3_0002_Name" korean="세이지 풀" />
+	<block key="MA_3_0003_Name" korean="체르파 눈꽃" />
+	<block key="MA_3_0004_Name" korean="쿠르 뿌리" />
+	<block key="MA_3_0005_Name" korean="테리문 마법초" />
+	<block key="MA_3_0006_Name" korean="루샤인 꽃" />
+	<block key="MA_4_0001_Name" korean="거친 옷감" />
+	<block key="MA_4_1001_Name" korean="거친 천" />
+	<block key="MA_4_0002_Name" korean="얇은 옷감" />
+	<block key="MA_4_2001_Name" korean="얇은 천" />
+	<block key="MA_4_0003_Name" korean="두꺼운 옷감" />
+	<block key="MA_4_3001_Name" korean="두꺼운 천" />
+	<block key="MA_4_0004_Name" korean="부드러운 옷감" />
+	<block key="MA_4_0005_Name" korean="광택나는 옷감" />
+	<block key="MA_4_0006_Name" korean="빛나는 옷감" />
+	<block key="MA_5_0001_Name" korean="질긴 고기" />
+	<block key="MA_5_0002_Name" korean="평범한 고기" />
+	<block key="MA_5_0003_Name" korean="쫄깃한 고기" />
+	<block key="MA_5_0004_Name" korean="담백한 고기" />
+	<block key="MA_5_0005_Name" korean="연한 고기" />
+	<block key="MA_5_0006_Name" korean="부드러운 고기" />
+	<block key="MA_6_0001_Name" korean="미약한 정령의 기운" />
+	<block key="MA_6_1001_Name" korean="미약한 정령수" />
+	<block key="MA_6_0002_Name" korean="약한 정령의 기운" />
+	<block key="MA_6_2001_Name" korean="약한 정령수" />
+	<block key="MA_6_0003_Name" korean="평범한 정령의 기운" />
+	<block key="MA_6_3001_Name" korean="평범한 정령수" />
+	<block key="MA_6_0004_Name" korean="강한 정령의 기운" />
+	<block key="MA_6_0005_Name" korean="빛나는 정령의 기운" />
+	<block key="MA_6_0006_Name" korean="찬란한 정령의 기운" />
+	<block key="MA_7_1101_Name" korean="1단계 칼자루" />
+	<block key="MA_7_1102_Name" korean="2단계 칼자루" />
+	<block key="MA_7_1103_Name" korean="3단계 칼자루" />
+	<block key="MA_7_1104_Name" korean="4단계 칼자루" />
+	<block key="MA_7_1105_Name" korean="5단계 칼자루" />
+	<block key="MA_7_1106_Name" korean="6단계 칼자루" />
+	<block key="MA_7_1201_Name" korean="하급 숫돌" />
+	<block key="MA_7_1202_Name" korean="중급 숫돌" />
+	<block key="MA_7_1203_Name" korean="상급 숫돌" />
+	<block key="MA_7_2101_Name" korean="1단계 목재" />
+	<block key="MA_7_2102_Name" korean="2단계 목재" />
+	<block key="MA_7_2103_Name" korean="3단계 목재" />
+	<block key="MA_7_2104_Name" korean="4단계 목재" />
+	<block key="MA_7_2105_Name" korean="5단계 목재" />
+	<block key="MA_7_2106_Name" korean="6단계 목재" />
+	<block key="MA_7_2201_Name" korean="하급 무게추" />
+	<block key="MA_7_2202_Name" korean="중급 무게추" />
+	<block key="MA_7_2203_Name" korean="상급 무게추" />
+	<block key="MA_7_3101_Name" korean="1단계 거푸집" />
+	<block key="MA_7_3102_Name" korean="2단계 거푸집" />
+	<block key="MA_7_3103_Name" korean="3단계 거푸집" />
+	<block key="MA_7_3104_Name" korean="4단계 거푸집" />
+	<block key="MA_7_3105_Name" korean="5단계 거푸집" />
+	<block key="MA_7_3106_Name" korean="6단계 거푸집" />
+	<block key="MA_7_3201_Name" korean="하급 용접봉" />
+	<block key="MA_7_3202_Name" korean="중급 용접봉" />
+	<block key="MA_7_3203_Name" korean="상급 용접봉" />
+	<block key="MA_7_4101_Name" korean="1단계 재봉 키트" />
+	<block key="MA_7_4102_Name" korean="2단계 재봉 키트" />
+	<block key="MA_7_4103_Name" korean="3단계 재봉 키트" />
+	<block key="MA_7_4104_Name" korean="4단계 재봉 키트" />
+	<block key="MA_7_4105_Name" korean="5단계 재봉 키트" />
+	<block key="MA_7_4106_Name" korean="6단계 재봉 키트" />
+	<block key="MA_7_4201_Name" korean="하급 염료" />
+	<block key="MA_7_4202_Name" korean="중급 염료" />
+	<block key="MA_7_4203_Name" korean="상급 염료" />
+	<block key="MA_7_5101_Name" korean="1단계 마력의 정수" />
+	<block key="MA_7_5102_Name" korean="2단계 마력의 정수" />
+	<block key="MA_7_5103_Name" korean="3단계 마력의 정수" />
+	<block key="MA_7_5104_Name" korean="4단계 마력의 정수" />
+	<block key="MA_7_5105_Name" korean="5단계 마력의 정수" />
+	<block key="MA_7_5106_Name" korean="6단계 마력의 정수" />
+	<block key="MA_7_5201_Name" korean="하급 유리병" />
+	<block key="MA_7_5202_Name" korean="중급 유리병" />
+	<block key="MA_7_5203_Name" korean="상급 유리병" />
+	<block key="MA_7_6111_Name" korean="1단계 매운 소스" />
+	<block key="MA_7_6112_Name" korean="2단계 매운 소스" />
+	<block key="MA_7_6113_Name" korean="3단계 매운 소스" />
+	<block key="MA_7_6114_Name" korean="4단계 매운 소스" />
+	<block key="MA_7_6115_Name" korean="5단계 매운 소스" />
+	<block key="MA_7_6116_Name" korean="6단계 매운 소스" />
+	<block key="MA_7_6121_Name" korean="1단계 달콤한 소스" />
+	<block key="MA_7_6122_Name" korean="2단계 달콤한 소스" />
+	<block key="MA_7_6123_Name" korean="3단계 달콤한 소스" />
+	<block key="MA_7_6124_Name" korean="4단계 달콤한 소스" />
+	<block key="MA_7_6125_Name" korean="5단계 달콤한 소스" />
+	<block key="MA_7_6126_Name" korean="6단계 달콤한 소스" />
+	<block key="MA_7_6131_Name" korean="1단계 담백한 소스" />
+	<block key="MA_7_6132_Name" korean="2단계 담백한 소스" />
+	<block key="MA_7_6133_Name" korean="3단계 담백한 소스" />
+	<block key="MA_7_6134_Name" korean="4단계 담백한 소스" />
+	<block key="MA_7_6135_Name" korean="5단계 담백한 소스" />
+	<block key="MA_7_6136_Name" korean="6단계 담백한 소스" />
+	<block key="MA_7_6201_Name" korean="하급 보관 용기" />
+	<block key="MA_7_6202_Name" korean="중급 보관 용기" />
+	<block key="MA_7_6203_Name" korean="상급 보관 용기" />
+	<block key="MA_7_7101_Name" korean="1단계 세공 상자" />
+	<block key="MA_7_7102_Name" korean="2단계 세공 상자" />
+	<block key="MA_7_7103_Name" korean="3단계 세공 상자" />
+	<block key="MA_7_7104_Name" korean="4단계 세공 상자" />
+	<block key="MA_7_7105_Name" korean="5단계 세공 상자" />
+	<block key="MA_7_7106_Name" korean="6단계 세공 상자" />
+	<block key="MA_7_7201_Name" korean="하급 조각칼" />
+	<block key="MA_7_7202_Name" korean="중급 조각칼" />
+	<block key="MA_7_7203_Name" korean="상급 조각칼" />
+	<block key="MA_7_8101_Name" korean="1단계 촉매제" />
+	<block key="MA_7_8102_Name" korean="2단계 촉매제" />
+	<block key="MA_7_8103_Name" korean="3단계 촉매제" />
+	<block key="MA_7_8104_Name" korean="4단계 촉매제" />
+	<block key="MA_7_8105_Name" korean="5단계 촉매제" />
+	<block key="MA_7_8106_Name" korean="6단계 촉매제" />
+	<block key="MA_7_8201_Name" korean="하급 신비한 가루" />
+	<block key="MA_7_8202_Name" korean="중급 신비한 가루" />
+	<block key="MA_7_8203_Name" korean="상급 신비한 가루" />
+	<block key="MA_8_0001_Name" korean="최하급 환원제" />
+	<block key="MA_8_0002_Name" korean="하급 환원제" />
+	<block key="MA_8_0003_Name" korean="중급 환원제" />
+	<block key="MA_8_0004_Name" korean="상급 환원제" />
+	<block key="MA_8_0005_Name" korean="최상급 환원제" />
+	<block key="MA_8_0006_Name" korean="고급 환원제" />
+	<block key="MA_8_1001_Name" korean="최하급 중화제" />
+	<block key="MA_8_1002_Name" korean="하급 중화제" />
+	<block key="MA_8_1003_Name" korean="중급 중화제" />
+	<block key="MA_8_1004_Name" korean="상급 중화제" />
+	<block key="MA_8_1005_Name" korean="최상급 중화제" />
+	<block key="MA_8_1006_Name" korean="고급 중화제" />
+	<block key="MA_8_2001_Name" korean="최하급 용해제" />
+	<block key="MA_8_2002_Name" korean="하급 용해제" />
+	<block key="MA_8_2003_Name" korean="중급 용해제" />
+	<block key="MA_8_2004_Name" korean="상급 용해제" />
+	<block key="MA_8_2005_Name" korean="최상급 용해제" />
+	<block key="MA_8_2006_Name" korean="고급 용해제" />
+	<block key="MA_8_3001_Name" korean="최하급 농축제" />
+	<block key="MA_8_3002_Name" korean="하급 농축제" />
+	<block key="MA_8_3003_Name" korean="중급 농축제" />
+	<block key="MA_8_3004_Name" korean="상급 농축제" />
+	<block key="MA_8_3005_Name" korean="최상급 농축제" />
+	<block key="MA_8_3006_Name" korean="고급 농축제" />
+	<block key="MA_1_0001_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  브라카르 숲
+  하카나스 수도성</UI_G>
+
+<UI_Y>무기 / 방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_1001_Description" korean="<UI_Y>무기 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_1002_Description" korean="<UI_Y>금속방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_0002_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+<UI_Y>무기 / 방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_2001_Description" korean="<UI_Y>무기 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_2002_Description" korean="<UI_Y>금속방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_0003_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+<UI_Y>무기 / 방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_3001_Description" korean="<UI_Y>무기 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_3002_Description" korean="<UI_Y>금속방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_0004_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  멸망의 공역</UI_G>
+
+
+<UI_Y>무기 / 방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_0005_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+<UI_Y>무기 / 방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_0006_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+
+<UI_Y>무기 / 방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_2_0001_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  브라카르 숲
+  하카나스 수도성</UI_G>
+
+<UI_Y>장신구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_2_1001_Description" korean="<UI_Y>장신구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_2_0002_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+<UI_Y>장신구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_2_2001_Description" korean="<UI_Y>장신구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_2_0003_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+<UI_Y>장신구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_2_3001_Description" korean="<UI_Y>장신구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_2_0004_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  멸망의 공역</UI_G>
+
+<UI_Y>장신구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_2_0005_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+<UI_Y>장신구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_2_0006_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+<UI_Y>장신구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_3_0001_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  브라카르 숲
+  하카나스 수도성</UI_G>
+
+<UI_Y>연금술에 사용되는 재료</UI_Y>" />
+	<block key="MA_3_0002_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+<UI_Y>연금술에 사용되는 재료</UI_Y>" />
+	<block key="MA_3_0003_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+<UI_Y>연금술에 사용되는 재료</UI_Y>" />
+	<block key="MA_3_0004_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  멸망의 공역</UI_G>
+
+<UI_Y>연금술에 사용되는 재료</UI_Y>" />
+	<block key="MA_3_0005_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+<UI_Y>연금술에 사용되는 재료</UI_Y>" />
+	<block key="MA_3_0006_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+<UI_Y>연금술에 사용되는 재료</UI_Y>" />
+	<block key="MA_4_0001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  인간형 몬스터 드랍</UI_G>
+
+<UI_Y>방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_4_1001_Description" korean="<UI_Y>방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_4_0002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  인간형 몬스터 드랍</UI_G>
+
+<UI_Y>방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_4_2001_Description" korean="<UI_Y>방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_4_0003_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  인간형 몬스터 드랍</UI_G>
+
+<UI_Y>방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_4_3001_Description" korean="<UI_Y>방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_4_0004_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  인간형 몬스터 드랍</UI_G>
+
+<UI_Y>방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_4_0005_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  인간형 몬스터 드랍</UI_G>
+
+<UI_Y>방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_4_0006_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  인간형 몬스터 드랍</UI_G>
+
+<UI_Y>방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_5_0001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  동물형 몬스터 드랍</UI_G>
+
+<UI_Y>요리에 사용되는 재료</UI_Y>" />
+	<block key="MA_5_0002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  동물형 몬스터 드랍</UI_G>
+
+<UI_Y>요리에 사용되는 재료</UI_Y>" />
+	<block key="MA_5_0003_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  동물형 몬스터 드랍</UI_G>
+
+<UI_Y>요리에 사용되는 재료</UI_Y>" />
+	<block key="MA_5_0004_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  동물형 몬스터 드랍</UI_G>
+
+<UI_Y>요리에 사용되는 재료</UI_Y>" />
+	<block key="MA_5_0005_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  동물형 몬스터 드랍</UI_G>
+
+<UI_Y>요리에 사용되는 재료</UI_Y>" />
+	<block key="MA_5_0006_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  동물형 몬스터 드랍</UI_G>
+
+<UI_Y>요리에 사용되는 재료</UI_Y>" />
+	<block key="MA_6_0001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  정령/요정형 몬스터 드랍</UI_G>
+
+<UI_Y>펠로우연구에 사용되는 재료</UI_Y>" />
+	<block key="MA_6_1001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 제작</UI_G>
+
+<UI_Y>펠로우연구에 사용되는 재료</UI_Y>" />
+	<block key="MA_6_0002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  정령/요정형 몬스터 드랍</UI_G>
+
+<UI_Y>펠로우연구에 사용되는 재료</UI_Y>" />
+	<block key="MA_6_2001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 제작</UI_G>
+
+<UI_Y>펠로우연구에 사용되는 재료</UI_Y>" />
+	<block key="MA_6_0003_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  정령/요정형 몬스터 드랍</UI_G>
+
+<UI_Y>펠로우연구에 사용되는 재료</UI_Y>" />
+	<block key="MA_6_3001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 제작</UI_G>
+
+<UI_Y>펠로우연구에 사용되는 재료</UI_Y>" />
+	<block key="MA_6_0004_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  정령/요정형 몬스터 드랍</UI_G>
+
+<UI_Y>펠로우연구에 사용되는 재료</UI_Y>" />
+	<block key="MA_6_0005_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  정령/요정형 몬스터 드랍</UI_G>
+
+<UI_Y>펠로우연구에 사용되는 재료</UI_Y>" />
+	<block key="MA_6_0006_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  정령/요정형 몬스터 드랍</UI_G>
+
+<UI_Y>펠로우연구에 사용되는 재료</UI_Y>" />
+	<block key="MA_7_1101_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>근접 무기</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_1102_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>근접 무기</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_1103_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>근접 무기</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_1104_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>근접 무기</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_1105_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>근접 무기</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_1106_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>근접 무기</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_1201_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>근접 무기</UI_G>와 <UI_G>양손 지팡이</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_1202_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>근접 무기</UI_G>와 <UI_G>양손 지팡이</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_1203_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>근접 무기</UI_G>와 <UI_G>양손 지팡이</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_2101_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>원거리 무기</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_2102_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>원거리 무기</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_2103_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>원거리 무기</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_2104_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>원거리 무기</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_2105_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>원거리 무기</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_2106_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>원거리 무기</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_2201_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>원거리 무기</UI_G>와 <UI_G>양손 검<UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_2202_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>원거리 무기</UI_G>와 <UI_G>양손 검<UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_2203_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>원거리 무기</UI_G>와 <UI_G>양손 검<UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_3101_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>중갑, 경갑, 보조장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_3102_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>중갑, 경갑, 보조장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_3103_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>중갑, 경갑, 보조장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_3104_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>중갑, 경갑, 보조장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_3105_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>중갑, 경갑, 보조장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_3106_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>중갑, 경갑, 보조장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_3201_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>중갑, 경갑, 보조장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_3202_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>중갑, 경갑, 보조장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_3203_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>중갑, 경갑, 보조장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_4101_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>로브</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_4102_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>로브</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_4103_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>로브</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_4104_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>로브</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_4105_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>로브</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_4106_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>로브</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_4201_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>로브</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_4202_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>로브</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_4203_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>로브</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_5101_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  연금술 재료상인</UI_G>
+
+<UI_G>강화 물약</UI_G>과 <UI_G>붕대</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_5102_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  연금술 재료상인</UI_G>
+
+<UI_G>강화 물약</UI_G>과 <UI_G>붕대</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_5103_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  연금술 재료상인</UI_G>
+
+<UI_G>강화 물약</UI_G>과 <UI_G>붕대</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_5104_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  연금술 재료상인</UI_G>
+
+<UI_G>강화 물약</UI_G>과 <UI_G>붕대</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_5105_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  연금술 재료상인</UI_G>
+
+<UI_G>강화 물약</UI_G>과 <UI_G>붕대</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_5106_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  연금술 재료상인</UI_G>
+
+<UI_G>강화 물약</UI_G>과 <UI_G>붕대</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_5201_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  연금술 재료상인</UI_G>
+
+<UI_G>회복 물약</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_5202_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  연금술 재료상인</UI_G>
+
+<UI_G>회복 물약</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_5203_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  연금술 재료상인</UI_G>
+
+<UI_G>회복 물약</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6111_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6112_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6113_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6114_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6115_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6116_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6121_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6122_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6123_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6124_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6125_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6126_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6131_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6132_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6133_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6134_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6135_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6136_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6201_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6202_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6203_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_7101_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>목걸이</UI_G>와 <UI_G>반지</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_7102_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>목걸이</UI_G>와 <UI_G>반지</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_7103_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>목걸이</UI_G>와 <UI_G>반지</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_7104_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>목걸이</UI_G>와 <UI_G>반지</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_7105_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>목걸이</UI_G>와 <UI_G>반지</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_7106_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>목걸이</UI_G>와 <UI_G>반지</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_7201_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>목걸이</UI_G>와 <UI_G>반지</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_7202_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>목걸이</UI_G>와 <UI_G>반지</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_7203_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>목걸이</UI_G>와 <UI_G>반지</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_8101_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_8102_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_8103_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_8104_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_8105_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_8106_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_8201_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_8202_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_8203_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_8_0001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>주괴</UI_G>와 <UI_G>합금</UI_G> 제작에 사용되는 재료" />
+	<block key="MA_8_0002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>주괴</UI_G>와 <UI_G>합금</UI_G> 제작에 사용되는 재료" />
+	<block key="MA_8_0003_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>주괴</UI_G>와 <UI_G>합금</UI_G> 제작에 사용되는 재료" />
+	<block key="MA_8_0004_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>주괴</UI_G>와 <UI_G>합금</UI_G> 제작에 사용되는 재료" />
+	<block key="MA_8_0005_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>주괴</UI_G>와 <UI_G>합금</UI_G> 제작에 사용되는 재료" />
+	<block key="MA_8_0006_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>주괴</UI_G>와 <UI_G>합금</UI_G> 제작에 사용되는 재료" />
+	<block key="MA_8_1001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>천</UI_G> 제작에 사용되는 재료" />
+	<block key="MA_8_1002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>천</UI_G> 제작에 사용되는 재료" />
+	<block key="MA_8_1003_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>천</UI_G> 제작에 사용되는 재료" />
+	<block key="MA_8_1004_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>천</UI_G> 제작에 사용되는 재료" />
+	<block key="MA_8_1005_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>천</UI_G> 제작에 사용되는 재료" />
+	<block key="MA_8_1006_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>천</UI_G> 제작에 사용되는 재료" />
+	<block key="MA_8_2001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>세공된 재료</UI_G> 제작에 필요한 재료" />
+	<block key="MA_8_2002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>세공된 재료</UI_G> 제작에 필요한 재료" />
+	<block key="MA_8_2003_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>세공된 재료</UI_G> 제작에 필요한 재료" />
+	<block key="MA_8_2004_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>세공된 재료</UI_G> 제작에 필요한 재료" />
+	<block key="MA_8_2005_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>세공된 재료</UI_G> 제작에 필요한 재료" />
+	<block key="MA_8_2006_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+<UI_G>세공된 재료</UI_G> 제작에 필요한 재료" />
+	<block key="MA_8_3001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 연구 재료</UI_G> 제작에 필요한 재료" />
+	<block key="MA_8_3002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 연구 재료</UI_G> 제작에 필요한 재료" />
+	<block key="MA_8_3003_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 연구 재료</UI_G> 제작에 필요한 재료" />
+	<block key="MA_8_3004_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 연구 재료</UI_G> 제작에 필요한 재료" />
+	<block key="MA_8_3005_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 연구 재료</UI_G> 제작에 필요한 재료" />
+	<block key="MA_8_3006_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 연구 재료</UI_G> 제작에 필요한 재료" />
+	<block key="MA_9_0001_Name" korean="자이언트 네틀" />
+	<block key="MA_9_0002_Name" korean="불꽃 조각" />
+	<block key="MA_9_0003_Name" korean="화염석" />
+	<block key="MA_9_0004_Name" korean="저주받은 피" />
+	<block key="MA_9_0005_Name" korean="눈의 결정" />
+	<block key="MA_9_0006_Name" korean="혈통서의 조각(상)" />
+	<block key="MA_9_0007_Name" korean="혈통서의 조각(중)" />
+	<block key="MA_9_0008_Name" korean="혈통서의 조각(하)" />
+	<block key="MA_9_0009_Name" korean="어둠의 정수" />
+	<block key="MA_9_0010_Name" korean="마늘" />
+	<block key="MA_9_0011_Name" korean="온천수" />
+	<block key="MA_9_0012_Name" korean="드래곤 심장" />
+	<block key="MA_9_0013_Name" korean="드래곤 비늘" />
+	<block key="MA_10_0001_Name" korean="엑자리움 광석" />
+	<block key="MA_10_0001_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  엑자란 무법지대</UI_G>" />
+	<block key="MA_10_1001_Name" korean="엑자리움 가루" />
+	<block key="MA_10_1002_Name" korean="엑자리움 주괴" />
+	<block key="MA_10_1003_Name" korean="엑자리움 합금" />
+	<block key="MA_10_1004_Name" korean="엑자리움 섬유" />
+	<block key="MA_10_2001_Name" korean="혼돈의 파편" />
+	<block key="MA_10_2002_Name" korean="혼돈의 정수" />
+	<block key="MA_9_0014_Name" korean="대해의 티끌" />
+	<block key="MA_9_0015_Name" korean="대해의 영혼 조각" />
+	<block key="MA_9_0016_Name" korean="라단의 눈물" />
+	<block key="MA_9_0017_Name" korean="무러미의 기운" />
+	<block key="MA_9_0018_Name" korean="젠키트의 비늘" />
+	<block key="MA_9_0018_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+베일에 싸인 동굴에서 서식하는 왕눈이 젠키트의 비늘. <UI_G>거품비늘</UI_G>의 재료로 알려져 있다." />
+	<block key="MA_9_0019_Name" korean="스칼리온의 거품 주머니" />
+	<block key="MA_9_0019_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+베일에 싸인 동굴에서 서식하는 스칼리온의 거품주머니. <UI_G>거품비늘</UI_G>의 재료로 알려져 있다." />
+	<block key="MA_9_0020_Name" korean="서리풀" />
+	<block key="MA_9_0021_Name" korean="타락한 정수" />
+	<block key="MA_9_0022_Name" korean="한빙석" />
+	<block key="MA_9_0023_Name" korean="순도높은 불꽃" />
+	<block key="MA_9_0023_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+<UI_G>스칼레다</UI_G>를 길들일 수 있는 <UI_G>불꽃 바람 비약</UI_G>을 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0024_Name" korean="불타는 골렘의 심장" />
+	<block key="MA_9_0024_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+<UI_G>아로트</UI_G>를 길들일 수 있는 <UI_G>불새의 기운</UI_G>을 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0025_Name" korean="빛나는 기운" />
+	<block key="MA_9_0025_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+<UI_G>아로트</UI_G>를 길들일 수 있는 <UI_G>불새의 기운</UI_G>을 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0026_Name" korean="흡혈귀의 날개" />
+	<block key="MA_9_0026_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+<UI_G>라이닉</UI_G>을 길들일 수 있는 <UI_G>사일런스 마법서</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0027_Name" korean="정의의 깃털" />
+	<block key="MA_9_0027_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 대해</UI_G>
+
+<UI_G>라이닉</UI_G>을 길들일 수 있는 <UI_G>사일런스 마법서</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0001_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+커다란 쐐기풀로, <UI_G>외눈박이 훈바바</UI_G>가 좋아하는 풀이다. <UI_G>외눈박이 훈바바</UI_G>를 길들일 수 있는 <UI_G>어둠 기운 억제 주문서</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0002_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+마그마 하운드의 보금자리에서 구할 수 있는 조그마한 불꽃. <UI_G>마그마 하운드</UI_G>를 길들일 수 있는 <UI_G>불꽃의 심장</UI_G>을 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0003_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+불타는 유적 장비 제작 시 필요한 재료." />
+	<block key="MA_9_0004_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+저주받은 가문 장비 제작 시 필요한 재료." />
+	<block key="MA_9_0005_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+얼어붙은 마트렌 장비 제작 시 필요한 재료." />
+	<block key="MA_9_0006_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+카를레앙 백작의 가문에서 길러진 종마의 혈통서의 조각. <UI_G>블랙윈드</UI_G>를 길들일 수 있는 <UI_G>카를레앙 종마 혈통서</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0007_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+카를레앙 백작의 가문에서 길러진 종마의 혈통서의 조각. <UI_G>블랙윈드</UI_G>를 길들일 수 있는 <UI_G>카를레앙 종마 혈통서</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0008_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+카를레앙 백작의 가문에서 길러진 종마의 혈통서의 조각. <UI_G>블랙윈드</UI_G>를 길들일 수 있는 <UI_G>카를레앙 종마 혈통서</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0009_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+짙은 어둠의 기운이 담겨진 정수. <UI_G>외눈박이 훈바바</UI_G>를 길들일 수 있는 <UI_G>어둠 기운 억제 주문서</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0010_Description" korean="아이템 제작 시 필요한 재료." />
+	<block key="MA_9_0011_Description" korean="아이템 제작 시 필요한 재료." />
+	<block key="MA_9_0012_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+드래곤의 생명력이 담긴 심장. <UI_G>붉은 마룡 아그나스</UI_G>를 길들일 수 있는 <UI_G>드래곤의 인장</UI_G>을 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0013_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+드래곤을 보호해주던 비늘. <UI_G>붉은 마룡 아그나스</UI_G>를 길들일 수 있는 <UI_G>드래곤의 인장</UI_G>을 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_10_1001_Description" korean="<UI_G>PvP 장신구 아이템</UI_G> 제작 시 필요한 재료." />
+	<block key="MA_10_1002_Description" korean="<UI_G>PvP 무기 아이템</UI_G> 제작 시 필요한 재료." />
+	<block key="MA_10_1003_Description" korean="<UI_G>PvP 방어구 아이템</UI_G> 제작 시 필요한 재료." />
+	<block key="MA_10_1004_Description" korean="<UI_G>PvP 방어구 아이템</UI_G> 제작 시 필요한 재료." />
+	<block key="MA_10_2001_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  엑자란 무법지대</UI_G>
+
+PvP 아이템 제작 시 필요한 재료." />
+	<block key="MA_10_2002_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  엑자란 무법지대</UI_G>
+
+PvP 아이템 제작 시 필요한 재료." />
+	<block key="MA_9_0014_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 대해</UI_G>
+
+하카나스 대해의 기운이 담긴 조각. <UI_G>부유 해마</UI_G>를 길들일 수 있는 <UI_G>대해의 신성한 주문서</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0015_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 대해</UI_G>
+
+하카나스 대해에서 살아가던 생명체의 영혼이 담긴 조각. <UI_G>부유 해마</UI_G>를 길들일 수 있는 <UI_G>대해의 신성한 주문서</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0016_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+라단이 흘린 눈물로 아주 귀한 재료. <UI_G>맹독 캐스퍼트</UI_G>를 길들일 수 있는 <UI_G>라단의 정수</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0017_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+이종족인 무러미들의 기운을 모아놓은 구슬. <UI_G>맹독 캐스퍼트</UI_G>를 길들일 수 있는 <UI_G>라단의 정수</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0020_Description" korean="펠로우를 길들이기 위해 필요한 재료." />
+	<block key="MA_9_0021_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+타락한 추종자 장비 제작 시 필요한 재료." />
+	<block key="MA_9_0022_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+얼음 군단장 장비 제작 시 필요한 재료" />
+	<block key="MA_9_0028_Name" korean="한기의 조각" />
+	<block key="MA_9_0029_Name" korean="산자의 눈물" />
+	<block key="MA_9_0028_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+강력한 한기가 도는곳에서 생성된 조각. <UI_G>공포의 케라브</UI_G>를 길들일 수 있는 <UI_G>서리 봉쇄 룬</UI_G>을 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0029_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+산자들에게 공포감을 주고 얻은 눈물. <UI_G>공포의 케라브</UI_G>를 길들일 수 있는 <UI_G>서리 봉쇄 룬</UI_G>을 제작할 수 있는 재료로 알려져 있다." />
+	<block key="ma_11_0001_Name" korean="펠로우 교감 유도제" />
+	<block key="ma_11_0001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  몬스터 처치</UI_G>
+
+펠로우 길들이기 아이템 제작 시 공용으로 사용되는 재료." />
+	<block key="ma_10_3001_Name" korean="저주받은 영혼석" />
+	<block key="ma_10_3001_Description" korean="PvP 아이템 제작 시 필요한 재료." />
+	<block key="ma_10_3002_Name" korean="얼어붙은 영혼석" />
+	<block key="ma_10_3002_Description" korean="PvP 아이템 제작 시 필요한 재료." />
+	<block key="MA_11_0002_Name" korean="엑자란 흔적" />
+	<block key="MA_11_0002_Description" korean="엑자란 흔적들을 간직한 물질이다." />
+	<block key="MA_9_0030_Name" korean="데비의 향기" />
+	<block key="MA_9_0031_Name" korean="카브임의 기운" />
+	<block key="MA_9_0032_Name" korean="파르나의 기운" />
+	<block key="MA_9_0033_Name" korean="어둠의 기운" />
+	<block key="MA_9_0034_Name" korean="불사군단의 징표" />
+	<block key="MA_9_0030_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+데비의 향기가 남아있는 물건. <UI_G>가르므</UI_G>를 길들일 수 있는 <UI_G>데비의 향수</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0031_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+카브임의 기운이 서려 있는 물질. <UI_G>가르므</UI_G>를 길들일 수 있는 <UI_G>데비의 향수</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0032_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+파르나의 기운이 서려 있는 물질. <UI_G>본 슬로프</UI_G>를 길들일 수 있는 <UI_G>한기서린 구슬</UI_G>을 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0033_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+어둠의 기운이 서려 있는 물질. <UI_G>아포칼립스</UI_G>를 길들일 수 있는 <UI_G>아슈람의 인장</UI_G>을 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0034_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  멸망의 공역</UI_G>
+
+불사군단의 표식이 되어 있는 물건. <UI_G>키샤르</UI_G>를 길들일 수 있는 <UI_G>불사의 장막</UI_G>을 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0035_Name" korean="순록고기" />
+	<block key="MA_9_0035_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+<UI_G>늑대왕 라샤카</UI_G>가 좋아하는 순록고기. <UI_G>늑대왕 라샤카의 징표</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0036_Name" korean="암흑의 인장" />
+	<block key="MA_9_0036_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  멸망의 공역</UI_G>
+
+암흑의 기운이 서려있는 인장. <UI_G>암흑마룡 카라샤의 징표</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_11_0003_name" korean="정예 길들이기 비약" />
+	<block key="MA_11_0004_name" korean="빛나는 체르파의 눈꽃" />
+	<block key="MA_11_0005_name" korean="빛나는 자수정" />
+	<block key="MA_11_0006_name" korean="빛나는 미스릴" />
+	<block key="MA_11_0003_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+특정 등급 이상의 펠로우의 징표를 만들 때 쓰이는 재료이다" />
+	<block key="MA_11_0004_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G> 
+<UI_Y>빛나는 체르파의 눈꽃으로 특수한 길들이기 아이템을 제작하는데 필요한 재료</UI_Y>" />
+	<block key="MA_11_0005_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G> 
+<UI_Y>빛나는 자수정으로 푸른 등 거북의 길들이기 아이템을 제작하는데 필요한 재료</UI_Y>" />
+	<block key="MA_11_0006_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+<UI_Y>빛나는 미스릴으로 특수한 길들이기 아이템을 제작하는데 필요한 재료</UI_Y>" />
+	<block key="MA_9_0037_name" korean="신비한 파편" />
+	<block key="MA_9_0038_name" korean="고귀한 기운" />
+	<block key="MA_9_0037_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  모든 몬스터 드랍</UI_G>
+
+<UI_Y>정예등급 아이템 제작 시 사용되는 재료</UI_Y>" />
+	<block key="MA_9_0038_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  체르파의 눈꽃 채집
+  쿠르 뿌리 채집
+  테리문 마법초 채집
+  미스릴 채집
+  투랄리움 광석 채집
+  아다만티움 광석 채집
+  자수정 채집
+  사파이어 채집
+  에메랄드 채집
+  엑자리움 채집
+</UI_G>
+
+<UI_Y>영웅등급 아이템 제작 시 사용되는 재료</UI_Y>" />
+	<block key="MA_9_0039_name" korean="블루톤의 옵션 변경권" />
+	<block key="MA_9_0039_Description" korean="아이템 옵션 변경 시 필요한 재료." />
+	<block key="MA_9_0040_name" korean="결속된 혈액" />
+	<block key="MA_9_0040_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+서리와이번, 드레이크 등 맹수의 피에 섞인 불순물을 없애 정제한 혈액. <UI_G>폭군 카라스의 징표</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0041_name" korean="아이샤의 눈물 결정" />
+	<block key="MA_9_0041_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  파르나의 땅</UI_G>
+
+아이샤가 사란트의 마법으로 얼어붙었을 때 흘린 눈물 결정으로 아이템 제작과 론도가 데리고 다니는 <UI_G>미스트</UI_G>와 <UI_G>프로스트</UI_G>를 길들일 수 있다고 알려져 있다." />
+	<block key="MA_1_3003_name" korean="강화된 미스릴 주괴" />
+	<block key="MA_1_4001_name" korean="투랄리움 주괴" />
+	<block key="MA_1_3004_name" korean="강화된 미스릴 합금" />
+	<block key="MA_4_3002_name" korean="강화된 두꺼운 천" />
+	<block key="MA_1_4002_name" korean="투랄리움 합금" />
+	<block key="MA_4_4001_name" korean="부드러운 천" />
+	<block key="MA_2_3002_name" korean="정교한 자수정" />
+	<block key="MA_2_4001_name" korean="세공된 사파이어" />
+	<block key="MA_6_3002_name" korean="농축된 평범한 정령수" />
+	<block key="MA_6_4001_name" korean="강한 정령수" />
+	<block key="MA_7_1204_name" korean="빛나는 중급 숫돌" />
+	<block key="MA_7_2204_name" korean="빛나는 중급 무게추" />
+	<block key="MA_7_3204_name" korean="빛나는 중급 용접봉" />
+	<block key="MA_7_4204_name" korean="빛나는 중급 염료" />
+	<block key="MA_7_5204_name" korean="빛나는 중급 유리병" />
+	<block key="MA_7_6204_name" korean="빛나는 중급 보관 용기" />
+	<block key="MA_7_7204_name" korean="빛나는 중급 조각칼" />
+	<block key="MA_7_8204_name" korean="빛나는 중급 신비한 가루" />
+	<block key="MA_1_3003_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작</UI_G>
+
+<UI_Y>무기 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_4001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작</UI_G>
+
+<UI_Y>무기 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_3004_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작</UI_G>
+
+<UI_Y>금속방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_4_3002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작</UI_G>
+
+<UI_Y>로브방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_1_4002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작</UI_G>
+
+<UI_Y>금속방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_4_4001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작</UI_G>
+
+<UI_Y>로브방어구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_2_3002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구제작</UI_G>
+
+<UI_Y>장신구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_2_4001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구제작</UI_G>
+
+<UI_Y>장신구 제작에 사용되는 재료</UI_Y>" />
+	<block key="MA_6_3002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 제작</UI_G>
+
+<UI_Y>펠로우연구에 사용되는 재료</UI_Y>" />
+	<block key="MA_6_4001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 제작</UI_G>
+
+<UI_Y>펠로우연구에 사용되는 재료</UI_Y>" />
+	<block key="MA_7_1204_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>근접 무기</UI_G>와 <UI_G>양손 지팡이</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_2204_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기제작 재료상인</UI_G>
+
+<UI_G>원거리 무기</UI_G>와 <UI_G>양손 검</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_3204_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>중갑, 경갑, 보조장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_4204_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구제작 재료상인</UI_G>
+
+<UI_G>로브</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_5204_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  연금술 재료상인</UI_G>
+
+<UI_G>회복 물약</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_6204_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  요리 재료상인</UI_G>
+
+<UI_G>요리</UI_G> 제작에 필요한 재료" />
+	<block key="MA_7_7204_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구제작 재료상인</UI_G>
+
+<UI_G>목걸이</UI_G>와 <UI_G>반지</UI_G> 제작에 필요한 재료#" />
+	<block key="MA_7_8204_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+<UI_G>펠로우 장비</UI_G> 제작에 필요한 재료" />
+	<block key="MA_9_0042_name" korean="공역의 성스러운 조각" />
+	<block key="MA_9_0042_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  멸망의 공역</UI_G>
+
+공역의 성스러운 기운으로 <UI_G>공허의 레토른시아</UI_G>를 길들일 때 필요한 재료이다" />
+	<block key="MA_9_0043_name" korean="펠로우 강화 유도제" />
+	<block key="MA_9_0043_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우연구 재료상인</UI_G>
+
+펠로우 강화 시 필요한 물질로 펠로우 등급에 따라 필요개수가 달라진다." />
+	<block key="MA_9_0044_name" korean="정제된 뼈 정수" />
+	<block key="MA_9_0044_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  멸망의 공역</UI_G>
+
+뼈 드래곤에게 얻은 뼈를 녹여 정제한 정수로 <UI_G>카고일의 징표</UI_G>를 제작할 수 있는 재료로 알려져있다." />
+	<block key="MA_9_0045_name" korean="봉인된 불사의 정수" />
+	<block key="MA_9_0045_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  멸망의 공역</UI_G>
+
+불사군단 고등병사들이 지니고 있는 불사의 정수, <UI_G>벨던의 징표</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0046_name" korean="공허의 조각" />
+	<block key="MA_9_0046_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  멸망의 공역</UI_G>
+
+총사령관 장비 제작 시 필요한 재료." />
+	<block key="MA_9_0047_Name" korean="아바르네의 거미줄" />
+	<block key="MA_9_0047_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  멸망의 공역</UI_G>
+
+아바르네의 종족에게서 채취한 거미줄, <UI_G>아바르네의 징표</UI_G>를 제작할 수 있는 재료로 알려져있다." />
+	<block key="MA_9_0048_name" korean="전설 속 거신의 냉대" />
+	<block key="MA_9_0048_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 대해</UI_G>
+
+거신의 냉대를 머금은 보석, <UI_G>아이샤의 하미온</UI_G>을 길들이기 위한 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0049_name" korean="전설 속 거신의 분노" />
+	<block key="MA_9_0049_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 대해</UI_G>
+
+거신의 분노를 머금은 보석, <UI_G>극염의 칼립토</UI_G>를 길들이기 위한 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0050_name" korean="전설 속 거신의 심연" />
+	<block key="MA_9_0050_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 대해</UI_G>
+
+거신의 심연을 머금은 보석, <UI_G>암흑의 데모너스</UI_G>를 길들이기 위한 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0051_name" korean="화염의 핵" />
+	<block key="MA_9_0051_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+초승달 상단의 비전의 방법으로 만들어낸 불꽃의 구슬, <UI_G>극염의 칼립토</UI_G>를 길들일 수 있는 징표의 재료라고 한다." />
+	<block key="MA_9_0052_name" korean="카를레앙의 흔적" />
+	<block key="MA_9_0052_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+초승달 상단의 비전의 방법으로 만들어낸 카를레앙의 결정체, <UI_G>암흑의 데모너스</UI_G>를 길들일 수 있는 징표의 재료라고 한다." />
+	<block key="MA_9_0053_name" korean="산틴의 심장" />
+	<block key="MA_9_0053_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  하카나스 직할령</UI_G>
+
+무러미의 마력으로 굳혀진 산틴의 심장, <UI_G>아이샤의 하미온</UI_G>을 길들일 수 있는 징표의 재료라고 한다." />
+	<block key="MA_9_0054_name" korean="상급 길들이기 비약" />
+	<block key="MA_9_0054_Description" korean="영웅 등급 이상의 펠로우를 길들이기 위한 징표를 만드는데 필요한 재료." />
+	<block key="MA_9_0055_name" korean="상급 펠로우 교감제" />
+	<block key="MA_9_0055_Description" korean="영웅 등급 이상의 펠로우를 길들이기 위한 징표를 만드는데 필요한 고급 재료." />
+	<block key="MA_9_0056_name" korean="인장의 결정체" />
+	<block key="MA_9_0056_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  전설 난이도 던전</UI_G>
+
+<UI_G>축복받은 전설의 인장</UI_G> 제작 시 필요한 재료" />
+	<block key="MA_9_0057_name" korean="선도자의 기운" />
+	<block key="MA_9_0057_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  전설 난이도 던전</UI_G>
+
+<UI_Y>찬란한 선도자 장비 제작 시 필요한 재료</UI_Y>" />
+	<block key="MA_9_0058_name" korean="응고제" />
+	<block key="MA_9_0058_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  연금술 재료상인</UI_G>
+
+<UI_G>축복받은 전설의 인장</UI_G> <UI_Y>제작 시 필요한 재료</UI_Y>" />
+	<block key="MA_10_3003_name" korean="메간테스 껍질" />
+	<block key="MA_10_3003_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  엑자란 무법지대</UI_G>
+
+<UI_G>악몽의 메간테스</UI_G>를 길들일 수 있는 <UI_G>장신구</UI_G> 제작 시 필요한 재료" />
+	<block key="MA_10_3004_name" korean="메간테스 뿔" />
+	<block key="MA_10_3004_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  엑자란 무법지대</UI_G>
+
+<UI_G>악몽의 메간테스</UI_G>를 길들일 수 있는 <UI_G>장신구</UI_G> 제작 시 필요한 재료" />
+	<block key="MA_10_3005_name" korean="바이렛 발톱" />
+	<block key="MA_10_3005_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  엑자란 무법지대</UI_G>
+
+<UI_G>심연의 바이렛</UI_G>을 길들일 수 있는 <UI_G>장신구</UI_G> 제작 시 필요한 재료" />
+	<block key="MA_10_3006_name" korean="바이렛 뼈" />
+	<block key="MA_10_3006_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  엑자란 무법지대</UI_G>
+
+<UI_G>심연의 바이렛</UI_G>을 길들일 수 있는 <UI_G>장신구</UI_G> 제작 시 필요한 재료" />
+	<block key="MA_10_3007_name" korean="파이루드 불꽃" />
+	<block key="MA_10_3007_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  엑자란 무법지대</UI_G>
+
+<UI_G>공포의 파이루드</UI_G>을 길들일 수 있는 <UI_G>장신구</UI_G> 제작 시 필요한 재료" />
+	<block key="MA_10_3008_name" korean="파이루드 꼬리" />
+	<block key="MA_10_3008_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  엑자란 무법지대</UI_G>
+
+<UI_G>공포의 파이루드</UI_G>을 길들일 수 있는 <UI_G>장신구</UI_G> 제작 시 필요한 재료" />
+	<block key="MA_9_0059_name" korean="황혼의 결정체" />
+	<block key="MA_9_0059_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  엑자란 무법지대</UI_G>
+
+해질녘의 황혼을 머금고 있는 듯한 보석, <UI_G>황혼의 그라비온</UI_G>을 길들일 수 있는 징표의 재료라고 한다." />
+	<block key="MA_9_0060_name" korean="어둠의 눈물" />
+	<block key="MA_9_0060_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  엑자란 무법지대</UI_G>
+
+악마가 흘린 눈물의 흔적, <UI_G>황혼의 그라비온</UI_G>을 길들일 수 있는 징표의 재료라고 한다." />
+	<block key="MA_10_1005_Name" korean="케로움 광석" />
+	<block key="MA_10_1005_Description" korean="<UI_Y>채집장소</UI_Y>
+<UI_G>  아케론 무법지대</UI_G>" />
+	<block key="MA_10_1006_Name" korean="케로움 가루" />
+	<block key="MA_10_1006_Description" korean="<UI_G>PvP 장신구 아이템</UI_G> 제작 시 필요한 재료." />
+	<block key="MA_10_1007_Name" korean="케로움 주괴" />
+	<block key="MA_10_1007_Description" korean="<UI_G>PvP 무기 아이템</UI_G> 제작 시 필요한 재료." />
+	<block key="MA_10_1008_Name" korean="케로움 합금" />
+	<block key="MA_10_1008_Description" korean="<UI_G>PvP 방어구 아이템</UI_G> 제작 시 필요한 재료." />
+	<block key="MA_10_1009_Name" korean="케로움 섬유" />
+	<block key="MA_10_1009_Description" korean="<UI_G>PvP 방어구 아이템</UI_G> 제작 시 필요한 재료." />
+	<block key="MA_9_0063_Name" korean="황금 조각상" />
+	<block key="MA_9_0063_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+붉은 혁명단이 지니고 있는 고대의 조각, <UI_G>황금의 샤키바</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0064_Name" korean="박쥐의 페로몬" />
+	<block key="MA_9_0064_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+샤키바의 일족에게서 채취한 페로몬, <UI_G>황금의 샤키바</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0065_Name" korean="핏빛의 열매" />
+	<block key="MA_9_0065_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+마나츠가 지니고 있던 피를 머금은 열매, <UI_G>타락의 로데쉬</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0066_Name" korean="팩투라의 증표" />
+	<block key="MA_9_0066_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+팩투라에서 얻을 수 있는 증표, <UI_G>타락의 로데쉬</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0067_Name" korean="삼색의 눈물" />
+	<block key="MA_9_0067_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+로데쉬의 각각의 머리에서 얻어낸 눈물, <UI_G>타락의 로데쉬</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0068_Name" korean="스캇라샤의 눈물" />
+	<block key="MA_9_0068_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+고대의 신 스캇라샤의 눈물, <UI_G>독액의 베가루스</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0069_Name" korean="피요의 깃털" />
+	<block key="MA_9_0069_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+피요에게서 얻을 수 있는 깃털, <UI_G>영광의 포요</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0070_Name" korean="쥐고기" />
+	<block key="MA_9_0070_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+<UI_G>영광의 포요</UI_G>와 <UI_G>신기루의 파노스</UI_G>가 좋아하는 고기, 각각의 펠로우를 길들일 수 있는 징표의 재료이다." />
+	<block key="MA_9_0071_Name" korean="붉은 염색약" />
+	<block key="MA_9_0071_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+불꽃의 타라쿠와 비슷한 색의 염색약, <UI_G>불꽃의 타라쿠</UI_G>를 길들일 수 있는 징표의 재료이다." />
+	<block key="MA_9_0072_Name" korean="루시퍼트의 어금니" />
+	<block key="MA_9_0072_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+달빛 루시퍼트의 어금니, <UI_G>열사의 마튜라</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0073_Name" korean="학살의 증거" />
+	<block key="MA_9_0073_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+제논이 학살한 자들의 원념이 서려있는 핏자국, <UI_G>열사의 마튜라</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0074_Name" korean="파멸의 뼛조각" />
+	<block key="MA_9_0074_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+머큐리스가 지니고 있는 특별한 뼛조각, <UI_G>파멸의 본 크노스</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0075_Name" korean="샌드웜 기름" />
+	<block key="MA_9_0075_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+샌드웜 유충에게서 추출한 기름, <UI_G>영악한 쳐피</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0076_Name" korean="사막 거북이의 등껍질" />
+	<block key="MA_9_0076_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+사막 거북이의 등껍질, <UI_G>데니반</UI_G>과 <UI_G>지혜의 데바</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0077_Name" korean="그리폰의 부리" />
+	<block key="MA_9_0077_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+그리폰의 부리, 천적인 <UI_G>금빛의 키바렌</UI_G>을 길들일 수 있는 징표의 재료이다." />
+	<block key="MA_9_0078_Name" korean="라쿠의 뿔" />
+	<block key="MA_9_0078_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+라쿠의 뿔, <UI_G>도스라쿠</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0079_Name" korean="멧돼지의 어금니" />
+	<block key="MA_9_0079_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+멧돼지의 어금니, <UI_G>도스라쿠</UI_G>를 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_9_0080_Name" korean="사막 표범의 가죽" />
+	<block key="MA_9_0080_Description" korean="<UI_Y>획득장소<UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+사막 표범에게서 얻을 수 있는 가죽, <UI_G>바쟈닌</UI_G>을 길들일 수 있는 징표의 재료로 알려져 있다." />
+	<block key="MA_1_5001_Name" korean="아다만티움 주괴" />
+	<block key="MA_1_5002_Name" korean="강화된 아다만티움 주괴" />
+	<block key="MA_1_5003_Name" korean="아다만티움 합금" />
+	<block key="MA_1_5004_Name" korean="강화된 아다만티움 합금" />
+	<block key="MA_2_5001_Name" korean="세공된 에메랄드" />
+	<block key="MA_2_5002_Name" korean="정교한 에메랄드" />
+	<block key="MA_4_5001_Name" korean="광택나는 천" />
+	<block key="MA_4_5002_Name" korean="강화된 광택나는 천" />
+	<block key="MA_6_5001_Name" korean="빛나는 정령수" />
+	<block key="MA_9_0061_Name" korean="암흑의 정수" />
+	<block key="MA_9_0062_Name" korean="오아시스의 물" />
+	<block key="MA_9_0081_Name" korean="하얀 열사의 모래" />
+	<block key="MA_9_0082_Name" korean="열기의 암염 조각" />
+	<block key="MA_9_0083_Name" korean="파노스의 금괴" />
+	<block key="MA_9_0081_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+불사의 사막의 일부에서만 채취할 수 있는 새하얀 색의 모래, <UI_G>신기루와 관련된 펠로우 장비</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0082_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+뜨거운 열을 내뿜는 암염의 조각, <UI_G>열사의 사막과 관련된 펠로우 장비</UI_G>를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_9_0083_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  불사의 사막</UI_G>
+
+파노스가 매우 좋아하는 빛나는 금괴, <UI_G>신기루의 파노스</UI_G>의 징표를 제작할 수 있는 재료로 알려져 있다." />
+	<block key="MA_1_5001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기 제작</UI_G>
+
+무기제작에 사용되는 재료" />
+	<block key="MA_1_5002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기 제작</UI_G>
+
+무기제작에 사용되는 재료" />
+	<block key="MA_1_5003_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구 제작</UI_G>
+
+방어구제작에 사용되는 재료" />
+	<block key="MA_1_5004_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구 제작</UI_G>
+
+방어구제작에 사용되는 재료" />
+	<block key="MA_2_5001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 제작</UI_G>
+
+장신구제작에 사용되는 재료" />
+	<block key="MA_2_5002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 제작</UI_G>
+
+장신구제작에 사용되는 재료" />
+	<block key="MA_4_5001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구 제작</UI_G>
+
+방어구제작에 사용되는 재료" />
+	<block key="MA_4_5002_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구 제작</UI_G>
+
+방어구제작에 사용되는 재료" />
+	<block key="MA_6_5001_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  펠로우 연구</UI_G>
+
+펠로우연구에 사용되는 재료" />
+	<block key="MA_9_0061_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  고대의 사원</UI_G>
+<UI_G>  불사군단 요새</UI_G>
+
+무기제작 / 방어구제작에 사용되는 재료" />
+	<block key="MA_9_0062_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  퀘스트</UI_G>
+
+요리제작에 사용되는 재료" />
+	<block key="MA_7_7107_Name" korean="보석 강화도구" />
+	<block key="MA_7_7107_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  장신구 재료상인</UI_G>
+
+장신구제작에 사용되는 재료" />
+	<block key="MA_10_1010_Name" korean="망자의 영혼석" />
+	<block key="MA_10_1010_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  엑자란 주화 상점</UI_G>
+
+하급 학살자 아이템 제작 시 필요한, <UI_G>구속된 아칸, 카르닌, 베리드의 망령</UI_G> 제작에 사용되는 재료." />
+	<block key="MA_10_1011_Name" korean="구속된 아탄의 망령" />
+	<block key="MA_10_1011_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  무기 제작</UI_G>
+
+하급 학살자 무기 제작 시 필요한 재료." />
+	<block key="MA_10_2003_Name" korean="망령의 파편" />
+	<block key="MA_10_2003_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  아케론 무법지대</UI_G>
+
+PvP 아이템 제작 시 필요한 재료." />
+	<block key="MA_10_2004_Name" korean="망령의 정수" />
+	<block key="MA_10_2004_Description" korean="<UI_Y>획득장소</UI_Y>
+<UI_G>  아케론 무법지대</UI_G>
+
+PvP 아이템 제작 시 필요한 재료." />
+	<block key="MA_10_1012_Name" korean="구속된 카르닌의 망령" />
+	<block key="MA_10_1012_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  방어구 제작</UI_G>
+
+하급 학살자 방어구 제작 시 필요한 재료." />
+	<block key="MA_10_1013_Name" korean="구속된 베리트의 망령" />
+	<block key="MA_10_1013_Description" korean="<UI_Y>획득방법</UI_Y>
+<UI_G>  장신구 제작</UI_G>
+
+하급 학살자 장신구 제작 시 필요한 재료." />
+</blocks>

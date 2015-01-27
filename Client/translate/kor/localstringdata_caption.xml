@@ -1,0 +1,303 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Caption_0000" korean="" />
+	<block key="Caption_0001" korean="(컷씬 제작중)" />
+	<block key="Caption_SP_0001" korean="왜 고집을 부리는 것이냐?" />
+	<block key="Caption_SP_0002" korean="끝까지 말을 거역한다면, 너를 살려둘 필요가 없다." />
+	<block key="Caption_SP_0003" korean="진리의 마법사들이 구출하러 올 것이라 믿는 것인가?" />
+	<block key="Caption_SP_0004" korean="수호신룡의 파멸과 함께 왕국은 곧 역사 속으로 사라질 것이다." />
+	<block key="Caption_SP_0005" korean="적의 침입입니다. 적을 발견했지만 놓쳐버렸습니다." />
+	<block key="Caption_SP_0006" korean="뭐라고? 이런 쓸모 없는 것." />
+	<block key="Caption_SP_0007" korean="자비를.. 윽.." />
+	<block key="Caption_SP_0008" korean="어떤 하룻강아지가 침입했는지 모르지만.. 희망은 없을 것이다." />
+	<block key="Caption_SP_0009" korean="" />
+	<block key="Caption_SP_0010" korean="진리의 마법사들이 나를 보냈소." />
+	<block key="Caption_SP_0011" korean="엘 제누스 종족의 생존자를 구출하라고 말이오. 그 곳에서 꺼내주겠소." />
+	<block key="Caption_SP_0012" korean="" />
+	<block key="Caption_SP_0013" korean="생각보다 빠르군." />
+	<block key="Caption_SP_0014" korean="탈옥자다! 잡아라!" />
+	<block key="Caption_SP_0015" korean="문이 뚫리기 전에 서둘러야 해!" />
+	<block key="Caption_Sf_0_1_0005_01" korean="정령의 숲에는 오래전 마를렌족이 건설한 지하통로가 있소." />
+	<block key="Caption_Sf_0_1_0005_02" korean="하카나스로 가기 위해서는 반드시 그 곳을 확보해야 하오.#" />
+	<block key="Caption_Sf_0_1_0005_03" korean="하카나스로 가서 국왕폐하께 라니아 공주님의 소식을 전해주시겠소?" />
+	<block key="Caption_Sf_0_1_0005_04" korean="어서 서둘러 주시오." />
+	<block key="Caption_Sf_0_1_0012_01" korean="그 지하통로에는 무시무시한 화염골렘들이 지키고 있다네.#" />
+	<block key="Caption_Sf_0_1_0012_02" korean="그냥 갔다가는 순식간에 타버리고 말걸." />
+	<block key="Caption_Sf_0_1_0012_03" korean="준비를 단단히 해야 할게야." />
+	<block key="Caption_Sf_0_1_0018_01" korean="고대 유적지에는 유령들이 있어요. 형체가 없는 존재죠.#" />
+	<block key="Caption_Sf_0_1_0018_02" korean="보통 사람의 눈에는 유령의 모습이 전혀 보이지가 않아요." />
+	<block key="Caption_Sf_0_1_0018_03" korean="하지만, 방법이 없는 것은 아니에요.#" />
+	<block key="Caption_Sf_0_1_0018_04" korean="진실된 시야의 물약을 마신다면 그 모습을 볼 수가 있거든요." />
+	<block key="Caption_sp_lever_01" korean="나는 경비병을 맡을테니 서둘러 문을 열게!" />
+	<block key="Caption_sp_stone_01" korean="뭐하나? 어서 지배석을 파괴하게!" />
+	<block key="Caption_SP_end_0001" korean="자네 어디 다친데는 없나?" />
+	<block key="Caption_SP_end_0002" korean="아슬아슬했군요. 공주님께선 어떻게 되셨습니까?" />
+	<block key="Caption_SP_end_0003" korean="공주님을 구출하진 못했네. 너무.. 늦었어." />
+	<block key="Caption_SP_end_0004" korean="그렇군요. 그럼, 어떻게 하죠?" />
+	<block key="Caption_SP_end_0005" korean="서둘러 왕국으로 돌아가 국왕 폐하를 만나야 해. 구해낸 친구들이 상황을 보고 할 걸세." />
+	<block key="Caption_SP_end_0006" korean="알겠습니다. 항해사! 속도를 올려라!" />
+	<block key="Caption_SF_start_0001" korean="하카나스 왕국까진 얼마나 남았소?" />
+	<block key="Caption_SF_start_0002" korean="시간 절약을 위해 우회하지 않고, 브라기 종족이 지배하는 숲 상공을 통과하고 있습니다." />
+	<block key="Caption_SF_start_0003" korean="쉽진 않겠군." />
+	<block key="Caption_SF_start_0004" korean="브라기들의 공격이다!!" />
+	<block key="Caption_SF_start_0005" korean="좌측 엔진이 파괴됐다! 비행선이… 추락한다!" />
+	<block key="Caption_SP_start_0001" korean="나는 섀도우 클랜의 크로우일세. [UserName], 자네를 구출하러 왔네!" />
+	<block key="Caption_sf_0_1_0010_01" korean="브라기 놈들이 저런 물건을 만들다니" />
+	<block key="Caption_sf_0_1_0010_02" korean="아무리 우리 기사단이 용맹하다지만 지금은 많이 지쳐있어서" />
+	<block key="Caption_sf_0_1_0010_03" korean="쉬지 않고 날아오는 저 거대석궁을 상대로는 방법이 없다네" />
+	<block key="Caption_sf_0_1_0010_04" korean="자네가 저 석궁을 좀 맡아주지 않겠나?" />
+	<block key="Caption_sf_0_1_0011_01" korean="브라기의 배후에는 화염골렘이 있다네. 이놈만 아니면 브라기 따위는…" />
+	<block key="Caption_sf_0_1_0011_02" korean="크흠, 화염골렘이 있는 곳은 기사들이 싸우기 어려운 곳이라 피해만 입고 있네." />
+	<block key="Caption_sf_0_1_0011_03" korean="기사들로는 무리였지만 자네라면 해치울 방법을 찾을 수 있을 것 같군." />
+	<block key="Caption_sf_0_1_0029_01" korean="브라기들이 신성시하는 빛나는 크리스탈.." />
+	<block key="Caption_sf_0_1_0029_02" korean="고대 무기들을 되살릴 마지막 조각이지." />
+	<block key="Caption_sf_0_1_0029_03" korean="크리스탈을 반드시 손에 넣어야 하네!" />
+	<block key="Caption_hk_0_1_0014_01" korean="누가 이런 일을 일으킨 걸까요." />
+	<block key="Caption_hk_0_1_0014_02" korean="사악한 의도가 느껴집니다." />
+	<block key="Caption_hk_0_1_0014_03" korean="어둡고 잔인한 악의가 넘치고 있어요…" />
+	<block key="Caption_hk_0_1_0014_04" korean="배후에 무엇이 있는지 밝혀내주세요." />
+	<block key="Caption_hk_0_1_0047_01" korean="최초의 흡혈귀가 발견되고 며칠이 지나지도 않았습니다." />
+	<block key="Caption_hk_0_1_0047_02" korean="그런데, 이미 이곳은 마을이라고 할 수도 없군요." />
+	<block key="Caption_hk_0_1_0047_03" korean="주민 대부분이 흡혈귀가 되었으니 믿을 수가 없습니다." />
+	<block key="Caption_hk_0_1_0047_04" korean="원인을 밝혀야겠습니다." />
+	<block key="Caption_sf_0_1_0001_03_01" korean="이봐! 저녀석 또 왔다구. 이번엔 제대로 할까?" />
+	<block key="Caption_sf_0_1_0001_03_02" korean="이번엔 제대로 하고 있는거 맞아?" />
+	<block key="Caption_sf_0_1_0001_03_03" korean="가만히 좀 있으라니깐! 워워 말 좀 들어!" />
+	<block key="Caption_sf_0_1_0001_03_04" korean="아! 난 왜 도대체 안되는거야? 이건 뭐…" />
+	<block key="Caption_sf_0_1_0001_03_05" korean="이그… 뒤에서 접근하라고 그렇게 말을 했건만…" />
+	<block key="Caption_sf_0_1_0001_03_06" korean="날씨도 더운데 보고 있자니 속이 타는군." />
+	<block key="Caption_sf_0_1_0001_03_07" korean="이봐 친구! 자네도 펠로우 하나를 길들이려거든. 자네 수준에 맞는 놈을 잘 선택하라구." />
+	<block key="Caption_f00_start_01_01" korean="정신이 들었나? 공주님은 이곳에 없는 것 같군." />
+	<block key="Caption_f00_start_01_02" korean="자, 이쪽으로 오게! 공주님의 행방을 알아보도록 하세." />
+	<block key="Caption_f00_lever_01_01" korean="내가 처리할테니 서둘러 문을 열게!" />
+	<block key="Caption_f00_stone_01_01" korean="뭐하나? 어서 지배석을 파괴하게!" />
+	<block key="Caption_f00_rex_01_01" korean="어리석은 것들! 이 곳에선 쥐새끼 한마리도 빠져나갈 수 없다!" />
+	<block key="Caption_f00_door_01_01" korean="탈옥자다! 잡아라!" />
+	<block key="Caption_f00_door_01_02" korean="공격을 퍼부어라!" />
+	<block key="Caption_f00_door_01_03" korean="모두 서둘러!" />
+	<block key="Caption_f01_start_01" korean="이제 곧 브라카르 숲인가?" />
+	<block key="Caption_f01_start_02" korean="네. 정식 항로는 아니지만 수도성 도착은 빨라질 겁니다." />
+	<block key="Caption_f01_start_03" korean="쉽진 않겠군." />
+	<block key="Caption_f01_start_04" korean="크윽!?" />
+	<block key="Caption_f01_start_05" korean="브라기들의 공격이다!!" />
+	<block key="Caption_f01_start_06" korean="적의 공격이다!" />
+	<block key="Caption_f01_start_07" korean="모두 추락에 대비하라!!" />
+	<block key="Caption_f01_start_08" korean="모두 꽉 잡아!" />
+	<block key="Caption_f00_princess_01" korean="분하다! 공주님을 지키지 못해서… (컷씬 작업중)" />
+	<block key="Caption_f00_princess_02" korean="반항을 하다니 어리석은 것들. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_03" korean="공주는 사란트님에게 데려간다. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_04" korean="공주님!! (컷씬 작업중)" />
+	<block key="Caption_f00_princess_05" korean="살아남은 놈들은 감옥에 가둬라! (컷씬 작업중)" />
+	<block key="Caption_f00_princess_06" korean="하아… 공주님은 이곳에 안 계십니다. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_07" korean="공주님은 사란트의 군대에 끌려가셨습니다. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A1" korean="공주님은 어떻게 된건가? (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A2" korean="하아… 공주님께선 이곳에 안 계십니다. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A3" korean="공주님께선 자신이 가진 힘에 대한 의문으로 목적지로 가던 중이었습니다. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A4" korean="우린 공주님을 호위하는 것이 임무였지요. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A5" korean="공주님은 여신의 힘을 가지고 태어나셨습니다. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A6" korean="그때 마신을 부활시키려는 마신의 부하들이… 공격해왔습니다! (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A7" korean="공격하라! (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A8" korean="습격이다! 공주님을 지켜야 한다. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A9" korean="우리는 최선을 다해 싸웠습니다. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A10" korean="하지만 역부족이었습니다. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A11" korean="분하다! 공주님을 지키지 못하다니! (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A12" korean="반항을 하다니 어리석은 것들.. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A13" korean="공주는 사란트님에게 데려간다. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A14" korean="공주님!! (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A15" korean="살아남은 놈들은 감옥에 가둬라! (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A16" korean="그게 공주님의 마지막 모습이었습니다. (컷씬 작업중)" />
+	<block key="Caption_f00_princess_A17" korean="음..큰일이군. 이 소식을 서둘러 전해야 해. 어서 왕국으로!" />
+	<block key="Caption_f02_g_boss_in" korean="화가나서 포효하는 소리" />
+	<block key="Caption_f02_g_boss_die" korean="사망하는 소리" />
+	<block key="Caption_c01_fellow_01" korean="펠로우 길들이기를 가르쳐줄게. 스노우벨!" />
+	<block key="Caption_c01_fellow_02" korean="왜? 무슨 일이야?" />
+	<block key="Caption_c01_fellow_03" korean="이 친구에게 실력 한번 보여줘!" />
+	<block key="Caption_c01_fellow_04" korean="그야 어렵지 않지." />
+	<block key="Caption_c01_fellow_05" korean="일단 대상을 선택하고 길들이기 스킬을 사용하는거야." />
+	<block key="Caption_c01_fellow_06" korean="그리고! 점프!!" />
+	<block key="Caption_c01_fellow_07" korean="일단 올라타면 중심을 잃지 않는게 중요해." />
+	<block key="Caption_c01_fellow_08" korean="하하하! 성공했다!" />
+	<block key="Caption_c01_fellow_09" korean="점프를 잊지 말라고." />
+	<block key="Caption_f01_crow_01" korean="늦지않아 다행이군. 덤벼라!" />
+	<block key="Caption_f01_destroy_01" korean="이제 결계를 파괴해야 해." />
+	<block key="Caption_f01_destroy_02" korean="요정의 정이 칼날이 되고, 망치가 봉인을 깨뜨릴 것이다." />
+	<block key="Caption_f01_destroy_03" korean="서두르게. 우리는 부상자를 챙겨 뒤따라가겠네." />
+	<block key="Caption_f01_destroy_04" korean="이 상황을 어서 폐하께 전해야해." />
+	<block key="Caption_f01_ghost_01" korean="너도 우리의 보물을 노리는 어리석은 자인가? (컷씬 작업중)" />
+	<block key="Caption_f01_ghost_02" korean="보물은 절대 줄 수 없다." />
+	<block key="Caption_f01_ghost_03" korean="어떠냐? 이래도 보물을 계속 원할텐가!" />
+	<block key="Caption_f01_ghost_04" korean="기다려! 우리가 왔네!" />
+	<block key="Caption_f01_ghost_05" korean="자! 함께 싸웁시다." />
+	<block key="Caption_f01_ghost_die" korean="내 보물을!! 분하다…" />
+	<block key="Caption_d01_boss_change" korean="뜻밖인걸? 나의 모든 힘을 사용해야겠군. 피의 마법이여! 나에게 힘을!" />
+	<block key="Caption_d01_in_01_1" korean="이걸로 너도 영생을 얻겠구나. 내 딸아." />
+	<block key="Caption_d01_in_01_2" korean="시작해라!" />
+	<block key="Caption_c01_move_01_1" korean="드디어 도착했군요." />
+	<block key="Caption_c01_move_01_2" korean="크로우 님의 긴급 연락을 받고 기다렸습니다." />
+	<block key="Caption_c01_move_01_3" korean=" 폐하께서 공주님 상황을 알고싶어 하십니다. 어서 타시죠." />
+	<block key="Caption_c01_move_01_4" korean="도착했군." />
+	<block key="caption_f01_Tortus_1" korean="공주님은 어디 계신가?" />
+	<block key="caption_f01_Tortus_2" korean="미안하네. 론도에게 공주님을 빼앗기고 말았어." />
+	<block key="caption_f01_Tortus_3" korean="공주님이 지닌 여신의 힘…" />
+	<block key="caption_f01_Tortus_4" korean="우린 그 힘의 비밀을 풀기 위해 목적지로 향하던 중이었지." />
+	<block key="caption_f01_Tortus_5" korean="비까지 내려 정찰이 어려웠을텐데," />
+	<block key="caption_f01_Tortus_5_1" korean="서리군단놈들은 우리가 가는 길을 정확히 알고 있었어." />
+	<block key="caption_f01_Tortus_5_2" korean="이 자식들!" />
+	<block key="caption_f01_Tortus_5_3" korean="야아아압!" />
+	<block key="caption_f01_Tortus_5_4" korean="꺼져!" />
+	<block key="caption_f01_Tortus_6" korean="크윽..이것이 네놈이 받아들인 어둠의 힘인가?" />
+	<block key="caption_f01_Tortus_7" korean="로..론도! 공주님을 어쩔 셈이냐?!" />
+	<block key="caption_f01_Tortus_8" korean="어리석은 놈들." />
+	<block key="caption_f01_Tortus_9" korean="너희가 나를 막을 수 있으리라 생각했느냐." />
+	<block key="caption_f01_Tortus_10" korean="공주는..내가 데려간다." />
+	<block key="caption_f01_Tortus_11" korean="아직 끝나지 않았어!" />
+	<block key="caption_f01_Tortus_12" korean="큰일이군. 이 상황을 어서 폐하께 보고해야해." />
+	<block key="caption_f01_Seal_1" korean="이제 결계를 파괴해야 해." />
+	<block key="caption_f01_Seal_2" korean="요정의 정이 칼날이 되고, 망치가 봉인을 깨뜨릴 것이다." />
+	<block key="caption_f01_Seal_5" korean="서둘러. 우리는 부상자를 챙겨 뒤따라가겠네." />
+	<block key="caption_f01_Seal_6" korean="한시라도 빨리 이 소식을 폐하께 전해야만 해." />
+	<block key="caption_D01_boss_1" korean="의식을 방해하다니.." />
+	<block key="caption_D01_boss_2" korean="보여주마.." />
+	<block key="caption_D01_boss_3" korean="너희의 어리석음이 가져온 핏빛의 결말을…" />
+	<block key="caption_D01_boss_4" korean="하압!" />
+	<block key="caption_d03_eye_01_1" korean="이제 제물을 바칠 시간이 되었다!" />
+	<block key="caption_d03_eye_02_1" korean="오! 잠에서 깨어나셨다. 신이시여! 성전에 들어온 침입자를 물리쳐주소서!" />
+	<block key="caption_d03_priest_rescue_1" korean="앗! 뒤를 보세요! 무러미가 몰려오고 있어요!" />
+	<block key="caption_d03_priest_fail_1" korean="너희들의 피가 라단님의 부활을 앞당길것이다!" />
+	<block key="caption_d04__balbo_advent_1" korean="나를 쓰러뜨리기 전에는 론도님께 다가갈 수 없다." />
+	<block key="caption_d04__balbo_advent_2" korean="내가 나설 필요도 없을것 같군." />
+	<block key="caption_d04__balbo_advent_3" korean="나를 만날 자격을 증명해봐라." />
+	<block key="caption_d04_rondo_mirror_1" korean="머리가… 아이샤? ...끄으아아!" />
+	<block key="caption_d04__rondo_end_1" korean="여기까진가… 어서 끝내라." />
+	<block key="caption_d04__rondo_end_2" korean="아이샤...? 당신이 어떻게...?" />
+	<block key="caption_d04__rondo_end_3" korean="그만둬요.. 죽음만이 해결책은 아니에요." />
+	<block key="caption_d04__rondo_end_4" korean="난 지쳤어. 아이샤. 그댈 잃은 아픔에 내 심장은 오래전에 얼어붙었어.." />
+	<block key="caption_d04__rondo_end_5" korean="론도... 가엾은 사람.. 내가 당신의 심장이 될거에요.." />
+	<block key="caption_d04__rondo_end_6" korean="아이샤.." />
+	<block key="caption_f03_princess_01_1" korean="공주님의 행방을 찾아 얼음 성채로 향했습니다." />
+	<block key="caption_f03_princess_01_2" korean="다행히 가증스런 론도를 찾을 수 있었지요." />
+	<block key="caption_f03_princess_01_3" korean="빨리 가라." />
+	<block key="caption_f03_princess_01_4" korean="서둘러 공주님을 구해야 합니다!" />
+	<block key="caption_f03_watertray_01_1" korean="은빛 수반 통신? 당신은 시이사가 말한 그 인간입니까?" />
+	<block key="caption_f03_watertray_01_2" korean="지금까지 생명의 호수는 인간에게 출입이 금지되어 있었습니다만..." />
+	<block key="caption_f03_watertray_01_3" korean="해적이 없어진 지금, 대제사장 안타리온님이 다시 인간들의 출입을 허가했습니다." />
+	<block key="caption_f03_watertray_01_4" korean="특히 무러미들을 구한 당신이라면 우리를 도와줄 수 있을 것 같군요." />
+	<block key="caption_f03_watertray_01_5" korean="지금 즉시 생명의 호수로 와 주시면 됩니다." />
+	<block key="caption_f03_parna_01_1" korean="이 땅을 깨울 영웅이여, 내 이야기를 들어라." />
+	<block key="caption_f03_parna_01_2" korean="마신의 후예가 깨어난 뒤 나의 딸은 얼어붙었고, 내 힘은 조각 나 눈보라 속에 갇혀 버렸다." />
+	<block key="caption_f03_parna_01_3" korean="다섯으로 쪼개진 물의 거울이 깨어날 때, 서리는 비로소 녹아 내리리라." />
+	<block key="caption_f03_lover_01_1" korean="상처를 입고 쓰러져 있던 론도를 생명의 호수에서 처음 만났어요." />
+	<block key="caption_f03_lover_01_2" korean="그는 해적 소탕을 위해 파견된 용병. 제가 처음 본 젊은 인간이었죠." />
+	<block key="caption_f03_lover_01_3" korean="물의 무녀가 아닌 아이샤로 날 대해준 건 론도뿐이었어요. 그 때도, 지금도.." />
+	<block key="caption_f03_lover_01_4" korean="제발, 그를 구해주세요." />
+	<block key="caption_f03_princess_tear_1" korean="론도가 당하다니… 다행히 공주를 챙겼군." />
+	<block key="caption_f03_princess_tear_2" korean="가자! 사란트 님이 기다리신다!" />
+	<block key="caption_f03_princess_tear_3" korean="나를 구해줘요." />
+	<block key="Caption_d02_sarant_tears_01" korean="어디 아버지를 불러보시지?" />
+	<block key="Caption_d02_sarant_tears_02" korean="마신의 씨앗은 미리 잘라버려야 해." />
+	<block key="Caption_d02_sarant_tears_03" korean="아버지!" />
+	<block key="Caption_d02_sarant_tears_04" korean="약해지지 말아라. 너는 위대한 사란트의 아들이다." />
+	<block key="Caption_d02_sarant_tears_05" korean="네…" />
+	<block key="Caption_d02_sarant_tears_06" korean="남편과 아버지를 잘못 둔 죄이니 우릴 원망하지 말아라." />
+	<block key="Caption_d02_sarant_tears_07" korean="아들아... 못난 아버지를 용서해라." />
+	<block key="Caption_d02_sarant_tears_08" korean="용서하지 않겠다." />
+	<block key="Caption_d02_sarant_tears_09" korean="세상이 파멸하는 날까지 너희를 절대 용서하지 않겠다." />
+	<block key="caption_c01_lena_change_1" korean="레나,  당신이 어째서 의식의 마법구를 가지고 있는 것이오?" />
+	<block key="caption_c01_lena_change_2" korean="생각보다 눈치가 빠른 인간들이네." />
+	<block key="caption_c01_lena_change_3" korean="하지만 이미 늦었어." />
+	<block key="caption_c01_lena_change_4" korean="의식의 마법구는 내 마력의 원천. 다시 힘을 손에 넣었으니 너희는 필요 없어." />
+	<block key="caption_c01_lena_change_5" korean="영혼까지 타락시켜 줄게. 애송이들." />
+	<block key="caption_c01_general_fight_1" korean="러셀 장군. 하카나스를 지켜야 할 그대가 카브임과 결탁해 왕성을 혼란에 빠뜨리다니.." />
+	<block key="caption_c01_general_fight_2" korean="진리의 마법사들이 끝까지 모를 것이라 생각했나요?" />
+	<block key="caption_c01_general_fight_3" korean="론 프레인은 무능력해." />
+	<block key="caption_c01_general_fight_4" korean="그는 그저 수호신룡의 뒤에 숨은 늙은이일 뿐." />
+	<block key="caption_c01_general_fight_5" korean="진정한 하카나스는 이제부터 시작된다." />
+	<block key="caption_c01_general_fight_6" korean="평화는 피로 이루어진다." />
+	<block key="caption_c01_general_fight_7" korean="우리는 여기서 새로운 시대를 열 것이다." />
+	<block key="caption_c01_general_fight_8" korean="우리가 지닌 칼의 힘으로!" />
+	<block key="caption_f02_ashuram_01_1" korean="살아 있는 놈들이 이곳에 발을 들이다니…" />
+	<block key="caption_f02_ashuram_01_2" korean="자~! 이곳에서 망자가 되어 나의 충직한 부하가 되거라!" />
+	<block key="caption_f02_circle_01_1" korean="이 언덕 안에서 벌어지는 일이 알고 싶은가?" />
+	<block key="caption_f02_circle_01_2" korean="언덕에는 시체가 쌓여 있어." />
+	<block key="caption_f02_circle_01_3" korean="의식 때문에 목숨을 잃은 사람들이지." />
+	<block key="caption_f02_circle_01_4" korean="카브임 교단은 마법구를 이용해서 사람들을 흡혈귀로 만들고 있다네." />
+	<block key="caption_f02_circle_01_5" korean="저주받은 의식을 중지시키고 마법구를 빼앗아오게." />
+	<block key="caption_f02_devy_02_1" korean="또 나쁜 녀석들이 우리를 쫓아내려고 왔어!" />
+	<block key="caption_f02_devy_02_2" korean="우오! 우오!" />
+	<block key="caption_f02_devy_02_3" korean="여긴 우리 집이야!! 가르므! 저 녀석들을 밟아버려!!" />
+	<block key="caption_f02_devy_02_4" korean="우오오오오!!" />
+	<block key="caption_f04_Lastfight_01" korean="우리는 마침내 여기에 섰다." />
+	<block key="caption_f04_Lastfight_02" korean="페가수스 기사단은 오늘 이 곳에서 모든 전투를 마치고 집으로 돌아갈 것이다." />
+	<block key="caption_f04_Lastfight_03" korean="이 어둡고 긴 밤을 끝내자! 빛나는 페가수스의 날개를 공역에 펼칠 것이다!" />
+	<block key="caption_f03_mirror_05" korean="자! 거울이 완성됐으니, 가져가게." />
+	<block key="caption_f09_princess_01_1" korean="하카나스 대해에서 드디어 론도의 행방을 찾았습니다." />
+	<block key="caption_f09_princess_01_2" korean="그를 따라가다 발견한 곳은" />
+	<block key="caption_f09_princess_01_3" korean="포악한 거신의 안식처.." />
+	<block key="caption_f09_princess_01_4" korean="신의 장벽 안입니다." />
+	<block key="f09_rondo_01_1" korean="어리석기는…" />
+	<block key="f09_rondo_01_2" korean="하카나스의 미래는 이미 정해졌다." />
+	<block key="f09_rondo_01_3" korean="공주는 마신을 깨우고, 왕국은 멸망한다." />
+	<block key="f09_rondo_01_4" korean="이제야 만났군. 론도." />
+	<block key="f09_rondo_01_5" korean="여기서 공주님을 되돌려 받겠다." />
+	<block key="f09_rondo_01_6" korean="각성한 엘로라의 힘은 이미 나와 연결되어 있다." />
+	<block key="f09_rondo_01_7" korean="공주를 죽이고 싶다면 날 죽여도 좋다." />
+	<block key="f09_rondo_01_8" korean="곧 다시 만나게 될거야, 론도." />
+	<block key="f09_rondo_01_9" korean="..큰일이군." />
+	<block key="f09_princess_02_1" korean="엘로라의 힘.. 길들일 수 없다면 굴복시켜야겠지." />
+	<block key="f09_princess_02_2" korean="또 너인가?" />
+	<block key="f09_princess_02_3" korean="이미 늦었다. 공주는 4대 주신의 힘을 받아들여 각성할 것이다." />
+	<block key="f09_princess_02_4" korean="그리고 마신을 깨울 진정한 열쇠가 될 것이다." />
+	<block key="c01_king_02_1" korean="그대는 고개를 들라." />
+	<block key="c01_king_02_2" korean="비록 호위기사이긴하나, 왕국을 위해 이만큼 애쓰는 자가 없었다." />
+	<block key="c01_king_02_3" korean="그를 정식 기사로 임명하고 모든 지원을 아끼지 말라!" />
+	<block key="caption_c01_fellow01_01" korean="선택된 용사만이 펠로우를 길들 일 수 있다는 점을 명심하십시요." />
+	<block key="caption_c01_fellow01_02" korean="그럼 길들이는 방법에 대해 설명드릴게요." />
+	<block key="caption_c01_fellow01_03" korean="먼저 길들이기 스킬을 사용한 뒤, 펠로우에게 조심조심 다가갑니다." />
+	<block key="caption_c01_fellow01_04" korean="길들일 대상을 확실하게 타겟으로 지정한 다음... 기회가 오면 놓치지 말고 올라타세요!" />
+	<block key="caption_c01_fellow01_05" korean="길들일 때는 어떤 상황이 벌어질지 모르니 집중하세요!" />
+	<block key="caption_c01_fellow01_06" korean="성공입니다! 길들이는 타이밍과 펠로우를 억제하는 강인함." />
+	<block key="caption_c01_fellow01_06_1" korean="그리고 펠로우와 함께 한다는 교감. 이 세 가지가 무엇보다 중요합니다." />
+	<block key="caption_c01_fellow01_07" korean=" 이 두 가지가 가장 중요합니다." />
+	<block key="caption_c01_fellow01_08" korean="이제 설명은 끝났습니다." />
+	<block key="caption_c01_fellow01_09" korean="래니티를 길들여, 당신이 선택된 용사임을 증명하세요." />
+	<block key="caption_f05_chime01" korean="그대에게 해줄 이야기가 있습니다." />
+	<block key="caption_f05_chime02" korean="하카나스의 운명과 잃어버린 공주..." />
+	<block key="caption_f05_chime03" korean="불사군단의 진짜 목적에 관하여" />
+	<block key="caption_f05_chime04" korean="여신이시여..." />
+	<block key="caption_f05_chime05" korean="다시 한번 그 권능을 보여주소서!" />
+	<block key="caption_f05_chime06" korean="신성한 여인과 칠흑같은 어둠..." />
+	<block key="caption_f05_chime07" korean="그 어둠이 왕국을 집어 삼키려 하고 있습니다." />
+	<block key="caption_f05_chime08" korean="보셨습니까? 이 예언이 바로 하카나스에 닥칠 미래입니다." />
+	<block key="caption_f05_chime09" korean="할 수만 있다면 이 운명을 막아야 합니다." />
+	<block key="caption_f05_chime10" korean="제 점괘에 의하면 당신이 이 가혹한 운명에 유일한 희망..." />
+	<block key="caption_f05_chime11" korean="모든 준비가 끝났습니다." />
+	<block key="caption_f05_chime12" korean="이제 불사군단 요새를 공격할 때입니다." />
+	<block key="caption_f05_chime13" korean="그러기 위해선 결계를 해제하는 것이 우선입니다." />
+	<block key="caption_f05_chime14" korean="저희가 적들을 막을 테니, 곧장 결계가 있는 언덕 위로 가세요." />
+	<block key="caption_f05_chime15" korean="결계를 해지하고 반드시 길을 열어야 합니다!" />
+	<block key="caption_f05_chime16" korean="예언 속의 인물이여... 지금 하라크로 신전으로 향하십시오." />
+	<block key="caption_f05_chime17" korean="부디 하라크로 신전에 있는 타락한 크로쿤들로부터 저를 구해주십시오..." />
+	<block key="caption_f05_cutis01" korean="가고일이 목격된 날 나는 혼자서 끝까지 그들을 쫓았었지..." />
+	<block key="caption_f05_cutis02" korean="그때, 하늘에서 불사군단 놈들이 나타났네." />
+	<block key="caption_f05_cutis03" korean="먼 거리였지만, 놈들에게 붙잡혀 있는 건 분명 라니아 공주님이었어!" />
+	<block key="caption_f05_cutis04" korean="놈들이 내 쪽으로 날아오길래 황급히 바위 뒤로 몸을 숨겼지." />
+	<block key="caption_f05_cutis05" korean="다행히 나를 발견하지 못한 것 같더군." />
+	<block key="caption_f05_cutis06" korean="몰래 그들의 뒤를 쫓았지만..." />
+	<block key="caption_f05_cutis07" korean="놈들은 불사군단 요새로 사라졌다네." />
+	<block key="caption_f05_cutis08" korean="더 이상 공주님의 뒤를 쫓을 수 없었지." />
+	<block key="caption_f05_cutis09" korean="불사군단 요새는 철옹성과 같은 곳!" />
+	<block key="caption_f05_cutis10" korean="요새에 진입하는 건 거의 불가능에 가까운 일이야." />
+	<block key="caption_f05_princess_lania01" korean="안... 돼..." />
+	<block key="caption_f05_princess_lania02" korean="으..으아...아악!" />
+	<block key="caption_f05_princess_lania03" korean="나의 충실한 종복이여 일어 나거라" />
+	<block key="caption_f05_princess_lania04" korean="멈춰라. 우리의 과업이 우선이다." />
+	<block key="caption_f05_princess_lania05" korean="어서 젤나리스님이 잠든곳으로 나를 안내 하거라." />
+	<block key="caption_f05_sarant01" korean="너를 초대한 기억은 없다." />
+	<block key="caption_f05_jason01" korean="환영합니다." />
+</blocks>

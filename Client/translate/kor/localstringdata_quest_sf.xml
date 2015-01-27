@@ -1,0 +1,1059 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="SF_0_1_0001_Title" korean="비행선 선장과 대화" />
+	<block key="SF_0_1_0001_RewarderDesc" korean="비행선 선장" />
+	<block key="SF_0_1_0001_Request_Text" korean="정신을 차리셨군요. 몸은 괜찮습니까?<br><br>우리는 브라카르 숲 한가운데에 추락했습니다. 어떤 놈들이 우리가 탄 비행선을 공격한 것 같군요." />
+	<block key="SF_0_1_0001_Request_Text_attach_0" korean="혹시 몸을 움직이는데 불편함이 없으시다면 선장님을 찾아보세요. 우리가 처한 상황에 대한 설명을 들을 수 있을 것입니다...<br><br>선장님은 제 뒤로 보이는 고장 난 비행선 엔진 주변에 계시네요." />
+	<block key="SF_0_1_0001_Accepted_Text" korean="어서 이 숲을 빠져나갈 방법을 찾아야 할 텐데..." />
+	<block key="SF_0_1_0001_Ongoing_Text" korean="어서 이 숲을 빠져나갈 방법을 찾아야 할 텐데..." />
+	<block key="SF_0_1_0001_Complete_Text" korean="이제야 정신을 차렸나?<br><br>우리 비행선이 추락하고 자네가 정신을 잃은 지 꽤 시간이 흘렀네. 어디 다친 곳은 없나? 환자를 보살피고 싶은 생각은 없으니 알아서 추스리라구." />
+	<block key="SF_0_1_0001_1_Title" korean="상황 파악" />
+	<block key="SF_0_1_0001_1_RewarderDesc" korean="섀도우 클랜 크로우" />
+	<block key="SF_0_1_0001_1_Request_Text" korean="여긴 브라카르 숲이라네. 이곳을 통과해 왕성으로 직행한 것이 잘못이었지.<br><br>보아하니 어디 움직이는데 불편한 건 없어 보이는군. 송장 치우는 것만큼 질색인 일도 없는데 말이야.<br><br>크로우가 자네를 걱정하더군. 크로우를 만나보게." />
+	<block key="SF_0_1_0001_1_Accepted_Text" korean="이만하길 천운이지…" />
+	<block key="SF_0_1_0001_1_Ongoing_Text" korean="일어났군. 불편한 곳은 없나? 무리하지 말도록." />
+	<block key="SF_0_1_0001_1_Complete_Text" korean="일어났군. 불편한 곳은 없나? 무리하지 말도록." />
+	<block key="SF_0_1_0002_Title" korean="멧돼지의 위협" />
+	<block key="SF_0_1_0002_RewarderDesc" korean="섀도우 클랜 크로우" />
+	<block key="SF_0_1_0002_Request_Text" korean="지금 당장 할 일이 많아. 도와주겠다면 고맙겠네.<br><br>이 근방에는 야생 멧돼지들이 날뛰고 있어. 부상자들의 피 냄새를 맡고 더 흥분했더군.<br><br>부상자를 위협하는 멧돼지들을 처치하는 문제가 시급하네! 녀석들을 처치해주게." />
+	<block key="SF_0_1_0002_Accepted_Text" korean="흥분한 멧돼지들을 조심하도록." />
+	<block key="SF_0_1_0002_Ongoing_Text" korean="아직 근방에 날뛰는 멧돼지들이 많네. 부상자를 위협하는 멧돼지들을 처치해주게." />
+	<block key="SF_0_1_0002_Complete_Text" korean="수고했네! 당분간 이곳은 안전할 것 같군." />
+	<block key="SF_0_1_0003_Title" korean="섀도우 클랜 프롬과 대화" />
+	<block key="SF_0_1_0003_RewarderDesc" korean="섀도우 클랜 프롬" />
+	<block key="SF_0_1_0003_Request_Text" korean="이런…별로 좋지 않은데요. 인근에 늑대가 많다는 모양이에요. 지금 전력으로는 막아내기 힘들 텐데.<br><br>프롬 선배가 요령이 좋긴 하지만 늑대 무리는 만만한 상대가 아니에요. 프롬 선배를 도와주세요!" />
+	<block key="SF_0_1_0003_Accepted_Text" korean="길을 따라서 가다 보면 프롬 선배가 목책을 세워두고 있을 거예요." />
+	<block key="SF_0_1_0003_Ongoing_Text" korean="아, 당신이군요. 크게 안 다쳐서 다행이에요.<br><br>도와주러 오신 건가요? 고마워요! 저 혼자서는 여길 지키는 걸로 한계였어요." />
+	<block key="SF_0_1_0003_Complete_Text" korean="아, 당신이군요. 크게 안 다쳐서 다행이에요.<br><br>도와주러 오신 건가요? 고마워요! 저 혼자서는 이제 한계였어요." />
+	<block key="SF_0_1_0004_Title" korean="부족한 치료약" />
+	<block key="SF_0_1_0004_RewarderDesc" korean="호위기사 레나" />
+	<block key="SF_0_1_0004_Request_Text" korean="식량은 어떻게 해결했는데 다친 사람들이 힘들어하고 있어. 응급치료로는 이게 한계 같군. 제대로 된 약이 필요해.<br><br>추락하면서 튕겨 나갔지만 약병은 튼튼한 상자에 보관하고 있으니까 멀쩡할 거야. 그걸 찾아서 저쪽에 부상자를 돌보고 있는 레나에게 전달하게." />
+	<block key="SF_0_1_0004_Accepted_Text" korean="레나가 그 약이 어디에 쓰이는 지 알고 있을거야." />
+	<block key="SF_0_1_0004_Ongoing_Text" korean="약병이 들어있는 상자는 마우스 커서를 갖다대면, 커서가 뭔가 다른 모양으로 변하기 때문에 쉽게 찾을 수 있을 거야. 그 안에 있는 효과 좋은 약병 3개를 가져다 주면 되네." />
+	<block key="SF_0_1_0004_Complete_Text" korean="약을 구해오셨나요? 아직 부족하지만…이걸로 어떻게든 해결해보겠어요.<br><br> 수고하셨어요." />
+	<block key="SF_0_1_0004_1_Title" korean="초급 스킬 마스터와 대화" />
+	<block key="SF_0_1_0004_1_RewarderDesc" korean="초급 스킬 마스터" />
+	<block key="SF_0_1_0004_1_Request_Text" korean="위험이 느껴지는 이 숲에서 살아남으려면 더욱 강해지는 수밖에 없습니다.<br><br>그래서 말인데 스킬 마스터는 우리가 전투에서 사용할 여러 가지 유용한 스킬을 가르쳐주고 있습니다.<br><br>제 옆에 있는 스킬마스터와 대화를 나누어 보세요." />
+	<block key="SF_0_1_0004_1_Accepted_Text" korean="효과적인 스킬을 알고 있다면, 살아남을 확률은 몇 배로 높아집니다." />
+	<block key="SF_0_1_0004_1_Ongoing_Text" korean="효과적인 스킬을 알고 있다면, 살아남을 확률은 몇 배로 높아집니다." />
+	<block key="SF_0_1_0004_1_Complete_Text" korean="우리를 도와주고 있는 모습은 아까부터 지켜 보았네. 보다 강해지고 싶으면 나에게 배움을 청하도록 하게." />
+	<block key="SF_0_1_0004_11_Title" korean="상점 방문" />
+	<block key="SF_0_1_0004_11_RewarderDesc" korean="잡화 물약 상인" />
+	<block key="SF_0_1_0004_11_Request_Text" korean="아무리 훌륭한 스킬을 보유하고 있다 하더라도 위기의 순간은 항상 오기 마련이지. 여행 중엔 응급 치료를 위해 몇 가지 물품을 구입해 놓는 것이 좋을 거야.<br><br>잡화 물약 상인을 만나서 어떤 물건들이 있나 살펴보도록 하게." />
+	<block key="SF_0_1_0004_11_Accepted_Text" korean="필요한 물품은 상인에게 미리 구입하도록 하게." />
+	<block key="SF_0_1_0004_11_Ongoing_Text" korean="마침 잘 오셨어요!<br><br>비행선이 추락한 상황에서 다른 사람을 돕고 있는 분들에게 몇 가지 물품을 지원해 드리고 있어요.<br><br>도움이 되었으면 좋겠군요." />
+	<block key="SF_0_1_0004_11_Complete_Text" korean="마침 잘 오셨어요!<br><br>비행선이 추락한 상황에서 다른 사람을 돕고 있는 분들에게 몇 가지 물품을 지원해 드리고 있어요.<br><br>도움이 되었으면 좋겠군요." />
+	<block key="SF_0_1_0004_12_Title" korean="초급 스킬 습득" />
+	<block key="SF_0_1_0004_12_RewarderDesc" korean="초급 스킬 마스터" />
+	<block key="SF_0_1_0004_12_Request_Text" korean="자네가 필요로 하는 스킬을 가르쳐 주겠네. 자! 무슨 일이든 처음이 중요한 법이지. 무엇이든 좋으니 나에게 스킬 하나를 배우도록 하게." />
+	<block key="SF_0_1_0004_12_Accepted_Text" korean="스킬을 한 가지를 나에게 배우도록 하게." />
+	<block key="SF_0_1_0004_12_Ongoing_Text" korean="자네는 필요로 하는 스킬을 나 같은 마스터에게 배운 적이 있는가? 자! 무슨 일이든 처음이 중요한 법이지. 자네가 필요로 하는 스킬을 어떤 것이든지 나에게 한 가지를 배우도록 하게." />
+	<block key="SF_0_1_0004_12_Complete_Text" korean="자신을 단련하는 일에는 끝이 없다네.<br><br>내가 가르쳐준 스킬을 익힐 수 있을 만큼 충분히 연마하도록 하게." />
+	<block key="SF_0_1_0004_2_Title" korean="붉은 여우의 위협" />
+	<block key="SF_0_1_0004_2_RewarderDesc" korean="호위기사 토르투스" />
+	<block key="SF_0_1_0004_2_Request_Text" korean="주변에 있는 붉은 털 여우들이 피 냄새를 맡았네. 야영지에 있는 부상자들에게 서서히 몰려들고 있어.<br><br>붉은 털 여우가 몰려들지 못하도록 자네가 처치해. 어디 실력 좀 보자구. 붉은 털 여우를 처치하고, 그 증거로 여우꼬리를 가져와." />
+	<block key="SF_0_1_0004_2_Accepted_Text" korean="얼마나 빨리 가져오는지 보지." />
+	<block key="SF_0_1_0004_2_Ongoing_Text" korean="어서 혼쭐을 내주러 가지 않고 뭐하는 거야 ." />
+	<block key="SF_0_1_0004_2_Complete_Text" korean="신경쓸 일이 한가지 줄어들었군." />
+	<block key="SF_0_1_0004_3_Title" korean="치료상황 보고" />
+	<block key="SF_0_1_0004_3_RewarderDesc" korean="섀도우 클랜 신스" />
+	<block key="SF_0_1_0004_3_Request_Text" korean="가져다 주신 약이 도움이 되긴 했지만 모든 부상자를 치료하기에는 부족해요.<br><br>잠시 동안은 버틸 수 있겠지만…<br><br>신스 씨에게 이야기를 좀 전해주시겠어요? 애쓰고 계신 건 알지만, 이대로라면 위험한 분들이 많아요.<br><br>부탁 드립니다." />
+	<block key="SF_0_1_0004_3_Accepted_Text" korean="여러분 힘내세요!" />
+	<block key="SF_0_1_0004_3_Ongoing_Text" korean="아직 많이 부족한 모양이군요. 휴우, 이쪽도 손이 부족한데…<br><br>어떻게든 해봐야죠. 수고하셨어요." />
+	<block key="SF_0_1_0004_3_Complete_Text" korean="아직 많이 부족한 모양이군요. 휴우, 이쪽도 손이 부족한데…<br><br>어떻게든 해봐야죠. 수고하셨어요." />
+	<block key="SF_0_1_0005_Title" korean="늑대 소탕" />
+	<block key="SF_0_1_0005_RewarderDesc" korean="호위기사 토르투스" />
+	<block key="SF_0_1_0005_Request_Text" korean="주변에 있는 늑대들은 추락 현장에서 정신을 잃은 사람들을 먹잇감으로 보고 있어. 빌어먹을 짐승같으니. 짐승 놈들 주제에 감히 인간을 잡아먹으려고 해? 나는 여기서 추락지를 지키고 있을 테니 근방의 회색 늑대들을 처치해." />
+	<block key="SF_0_1_0005_Accepted_Text" korean="주변의 회색 늑대들을 처치해." />
+	<block key="SF_0_1_0005_Ongoing_Text" korean="주변의 회색 늑대들을 처치해." />
+	<block key="SF_0_1_0005_Complete_Text" korean="수고했어.<br><br>이제 늑대들이 추락 현장까지 다가서진 못하겠지." />
+	<block key="SF_0_1_0005_1_Title" korean="사나운 늑대 소굴" />
+	<block key="SF_0_1_0005_1_RewarderDesc" korean="호위기사 토르투스" />
+	<block key="SF_0_1_0005_1_Request_Text" korean="회색 늑대 중에서도 좀 더 사나운 녀석들이 있지. 회색 늑대 처치는 시작에 불과해. 이 녀석들은 멧돼지 때문에 주변을 어슬렁 거리고 있는데 이 때문에 벌목공들이 위험에 처한 것 같아. 사나운 회색 늑대를 처치해!" />
+	<block key="SF_0_1_0005_1_Accepted_Text" korean="이번엔 쉽지 않을거야." />
+	<block key="SF_0_1_0005_1_Ongoing_Text" korean="사나운 회색 늑대들을 처치해." />
+	<block key="SF_0_1_0005_1_Complete_Text" korean="자네는 내가 생각했던 것보다 소질은 있어보이는군. 그렇다고 우쭐댈 생각은 하지 않는게 좋을거야." />
+	<block key="SF_0_1_0006_Title" korean="늑대 우두머리 처치" />
+	<block key="SF_0_1_0006_RewarderDesc" korean="호위기사 토르투스" />
+	<block key="SF_0_1_0006_Request_Text" korean="대부분의 늑대를 처치했지만 늑대들의 우두머리가 남았어. 늑대는 체계가 잡힌 군집생활을 하는 것으로 유명하지.<br><br>우두머리의 기세가 꺾이지 않으면 늑대들은 쉽게 물러서지 않을 거야." />
+	<block key="SF_0_1_0006_Request_Text_attach_0" korean="늑대들은 지금까지 없던 인간들이 나타났으니 보금자리를 위협 받는다고 생각하는 거겠지.<br><br>인간을 공격한 대가를 치르는 것 뿐이니 잡생각할 것 없어. 늑대 우두머리를 처치해서 늑대의 기세를 완전히 꺾어버려." />
+	<block key="SF_0_1_0006_Accepted_Text" korean="늑대 우두머리를 처치해." />
+	<block key="SF_0_1_0006_Ongoing_Text" korean="늑대 우두머리만 처치하면 아무리 통솔이 잘 되던 늑대 무리라도 움츠리게 될거야." />
+	<block key="SF_0_1_0006_Complete_Text" korean="늑대 우두머리를 처치했나? 좋은 일이야. 이제 한동안 녀석들도 함부로 움직이진 못할 거야. 이쪽도 방비할 여유가 생기겠지." />
+	<block key="SF_0_1_0006_1_Title" korean="다시 만난 크로우" />
+	<block key="SF_0_1_0006_1_RewarderDesc" korean="섀도우 클랜 단장 크로우" />
+	<block key="SF_0_1_0006_1_Request_Text" korean="공주님의 소식을 알리려면 어서 이곳의 상황을 정리하고 빠져나가야만해. 신룡기사단 주둔지에 있는 크로우를 찾아서 해결 방안을 들어보게. 머리가 좋은 친구니 남다른 생각이 있겠지." />
+	<block key="SF_0_1_0006_1_Accepted_Text" korean="신룡기사단 캠프의 위치정도는 지도를 보고 찾을 줄도 알아야지." />
+	<block key="SF_0_1_0006_1_Ongoing_Text" korean="신룡기사단 주둔지에서 크로우를 찾도록 해." />
+	<block key="SF_0_1_0006_1_Complete_Text" korean="이 곳은 상황이 좋지 않네. 신룡기사단은 브라기 전초기지에서 날아오는 거대 석궁의 공격에 반격조차 못하고 있네." />
+	<block key="SF_0_1_0007_Title" korean="신룡 기사단에게 도움을" />
+	<block key="SF_0_1_0007_RewarderDesc" korean="신룡 기사단장 파울로 로어먼" />
+	<block key="SF_0_1_0007_Request_Text" korean="신룡기사단은 많은 기사들이 목숨을 잃었네. 지금 남아있는 병력으로는 브라기들의 공격을 막아내기에도 무리가 있지.<br><br>자네가 신룡기사단장을 만나 이 어려운 상황에서 벗어나도록 힘이 되어주게." />
+	<block key="SF_0_1_0007_Accepted_Text" korean="신룡기사단장을 만나 힘이 되어주도록 하게." />
+	<block key="SF_0_1_0007_Ongoing_Text" korean="신룡기사단장을 만나 힘이 되어주도록 하게." />
+	<block key="SF_0_1_0007_Complete_Text" korean="우리를 도와주겠다고?<br><br>도움의 손길이 한 명이라도 더 필요한 상황에서 잘됐군." />
+	<block key="SF_0_1_0007_1_Title" korean="멧돼지의 위협 II" />
+	<block key="SF_0_1_0007_1_RewarderDesc" korean="호위기사 토르투스" />
+	<block key="SF_0_1_0007_1_Request_Text" korean="멧돼지 잡아본 적 있나? 잘 됐군. 멧돼지 좀 잡아주게. 전통적으로 목수에게 방해가 되는 녀석들이지. 거친 갈기 멧돼지란 놈들이지.  원래 나무를 하던 목책쪽에 있다고 하더군." />
+	<block key="SF_0_1_0007_1_Accepted_Text" korean="브라기의 숲이 아니라 멧돼지의 숲이야!" />
+	<block key="SF_0_1_0007_1_Ongoing_Text" korean="이 주변을 돌아다니는 거친 갈기 멧돼지를 잡아달라구." />
+	<block key="SF_0_1_0007_1_Complete_Text" korean="거친 갈기 멧돼지가 있어서는 마음 놓고 벌목하기도 힘들다니까. 수고했어." />
+	<block key="SF_0_1_0007_2_Title" korean="상처 치료에 필요한 물약" />
+	<block key="SF_0_1_0007_2_RewarderDesc" korean="로메로 포탈 이동사" />
+	<block key="SF_0_1_0007_2_Request_Text" korean="포탈이동사 로메로님을 위해 치료에 필요한 물약을 만들어 놓았어요. 로메로님이 아프시면 다른 사람을 순간 이동시킬 수 없으니까요.<br><br>저는 자리를 비울 수 없으니 이 치료 물약을 로메로님에게 전해주세요." />
+	<block key="SF_0_1_0007_2_Accepted_Text" korean="그럼 부탁해요." />
+	<block key="SF_0_1_0007_2_Ongoing_Text" korean="그럼 부탁해요." />
+	<block key="SF_0_1_0007_2_Complete_Text" korean="콜먼의 부탁으로 왔다고? 오 고맙네.<br><br>마법에 필요한 재료를 칼로 다듬다가 실수로 상처가 생겼네. 큰 상처는 아니지만 신경이 쓰였는데 콜먼이 나를 위해 이 물약을 만든 모양이군." />
+	<block key="SF_0_1_0007_3_Title" korean="서둘러야 하는 일" />
+	<block key="SF_0_1_0007_3_RewarderDesc" korean="콜럼 물약상인" />
+	<block key="SF_0_1_0007_3_Request_Text" korean="자... 맡겨놓은 짐 여기있네.<br><br>고대 유적지 폐허 남부로 가겠다면 나에게 비용을 지불하고 포탈을 이용하는게 가장 빠를거야." />
+	<block key="SF_0_1_0007_3_Accepted_Text" korean="직접 뛰어가면 시간이 오래 걸릴텐데…" />
+	<block key="SF_0_1_0007_3_Ongoing_Text" korean="직접 뛰어가면 시간이 오래 걸릴텐데…" />
+	<block key="SF_0_1_0007_3_Complete_Text" korean="마침 적당할 때 도착하셨소. 짐을 이리 주시오.<br><br>하지만 아직 부족한 약품이 많이 있어서 목록을 적어 보았소." />
+	<block key="SF_0_1_0007_4_Title" korean="긴급 의약품 전달" />
+	<block key="SF_0_1_0007_4_RewarderDesc" korean="정찰대원 보리스" />
+	<block key="SF_0_1_0007_4_Request_Text" korean="그나마 주둔지가 가까운 곳에 있어서 다행이오.<br><br>(품 속에서 양피지를 꺼내며)<br><br>그럼. 잘 부탁하오. 필요한 의약품이 부족해서 위험한 상황에 빠지기 전에 양피지를 전해주시오." />
+	<block key="SF_0_1_0007_4_Accepted_Text" korean="콜먼에게 양피지를 꼭 전해주시오." />
+	<block key="SF_0_1_0007_4_Ongoing_Text" korean="콜먼에게 양피지를 꼭 전해주시오." />
+	<block key="SF_0_1_0007_4_Complete_Text" korean="의약품을 잘 전달하고 왔다니 고마워요.<br><br>보리스님 필요한 약품을 양피지에 적어 주었다고요? 음.. 의약품이 풍족하지는 못한데...<br><br>하지만, 어떻게든 구해봐야 하겠지요." />
+	<block key="SF_0_1_0008_Title" korean="늑대 우두머리" />
+	<block key="SF_0_1_0008_RewarderDesc" korean="호위기사 토르투스" />
+	<block key="SF_0_1_0008_Request_Text" korean="늑대는 체계가 잡힌 군집생활을 하는 것으로 유명해. 녀석들의 우두머리만 꺾는다면 짐승놈들 알아서 납작 엎드리겠지. 하지만 무리 속 늑대 우두머리를 상대하는 일이 쉽지 않다는 것쯤은 말로하지 않아도 알겠지?" />
+	<block key="SF_0_1_0008_Request_Text_attach_0" korean="<br><br>게다가 거대 비행 펠로우가 추락하면서 늑대 우두머리의 보금자리 주변에 폭약도 떨어져 버렸어. 녀석을 처치하고 폭약도 회수해 오도록 해." />
+	<block key="SF_0_1_0008_Accepted_Text" korean="늑대 우두머리를 처치하고 폭약을 회수해 오도록 해." />
+	<block key="SF_0_1_0008_Ongoing_Text" korean="늑대 우두머리를 처치하고 폭약을 회수해 오도록 해." />
+	<block key="SF_0_1_0008_Complete_Text" korean="늑대 우두머리를 처치했다고? 꼴 좋군.<br><br>이제 늑대들의 기세가 꺾였을 거야. 폭약도 되찾았으니 정말 다행이네. 분명 어딘가 쓸모가 있을거야." />
+	<block key="sf_0_1_0008_1_Title" korean="추락한 병사" />
+	<block key="sf_0_1_0008_1_RewarderDesc" korean="호위기사 토르투스" />
+	<block key="sf_0_1_0008_1_Request_Text" korean="가니메데의 추락으로 조종사 기장이 행방불명되고 말았다. 그가 살아있을 확률은 적지만, 적어도 그들의 표식은 회수해주고 싶다." />
+	<block key="sf_0_1_0008_1_Request_Text_attach_0" korean="<br> 그것이 남겨진 가족들을 위한 우리의 임무.  너의 힘이 필요할 때다, [UserName]." />
+	<block key="sf_0_1_0008_1_Accepted_Text" korean="기장의 표식을 반드시 구해와야 한다!" />
+	<block key="sf_0_1_0008_1_Ongoing_Text" korean="그는 우리를 구하기 위해 끝까지 가니메데의 조종간을 놓지 않았다. 그의 표식을 반드시 되찾아와야한다!" />
+	<block key="sf_0_1_0008_1_Complete_Text" korean="그래도 살아있기를 바랐건만.. 이 표식은 내가 가족들에게 반드시 전달하겠다." />
+	<block key="SF_0_1_0009_Title" korean="하카나스 국왕을 알현하라" />
+	<block key="SF_0_1_0009_RewarderDesc" korean="하카나스 국왕" />
+	<block key="SF_0_1_0009_Request_Text" korean="이 일은 무엇보다도 중요하오.<br><br>하카나스 국왕님께 나니아 공주의 상황을 알리고, 구출할 해결책을 찾아야 하오.<br><br>어떤 일이 있어도 꼭 하카나스 왕국으로 가서 국왕을 알현하시오." />
+	<block key="SF_0_1_0009_Accepted_Text" korean="꼭 하카나스 왕국으로 가서 국왕 폐하를 알현하시오." />
+	<block key="SF_0_1_0009_Ongoing_Text" korean="꼭 하카나스 왕국으로 가서 국왕 폐하를 알현하시오." />
+	<block key="SF_0_1_0009_Complete_Text" korean="추후" />
+	<block key="SF_0_1_0010_Title" korean="브라기 석궁 파괴" />
+	<block key="SF_0_1_0010_RewarderDesc" korean="신룡 기사단장 파울로 로어먼" />
+	<block key="SF_0_1_0010_Request_Text" korean="브라기 녀석들은 거대 석궁으로 자네가 타고 오던 거대 비행 펠로우를 공격했어. 녀석들은 그것도 모자라 계속해서 이 야영지를 향해 석궁을 발사하고 있지.<br><br>" />
+	<block key="SF_0_1_0010_Request_Text_attach_0" korean="브라기 석궁을 파괴하는 건 쉽지 않은 일이지만, 자네가 가져온 폭탄을 쿠할란이 개조해서 석궁을 파괴할 수 있게 되었다네. 이 폭탄을 들고 석궁을 파괴해주게!" />
+	<block key="SF_0_1_0010_Accepted_Text" korean="폭탄으로 브라기 석궁을 날려버리게!" />
+	<block key="SF_0_1_0010_Ongoing_Text" korean="브라기 거대 석궁은 북쪽에 있는 브라기 전초기지 안에 세워져 있어." />
+	<block key="SF_0_1_0010_Complete_Text" korean="하하하, 폭탄의 위력이 정말 놀랍군. 중갑을 입은 기사들도 힘든 일이었는데 잘 해주었네.<br><br>이제 석궁공격도 좀 줄어들겠지." />
+	<block key="SF_0_1_0010_1_Title" korean="신룡기사단장에게 보고" />
+	<block key="SF_0_1_0010_1_RewarderDesc" korean="신룡 기사단장 파울로 로어먼" />
+	<block key="SF_0_1_0010_1_Request_Text" korean="브라기 석궁은 당분간 신룡기사단을 위협하지 못할 것입니다." />
+	<block key="SF_0_1_0010_1_Request_Text_attach_0" korean="신룡 기사단장 파울로 로어먼에게 보상을 받으십시오." />
+	<block key="SF_0_1_0010_1_Accepted_Text" korean="" />
+	<block key="SF_0_1_0010_1_Ongoing_Text" korean="하하하, 폭탄의 위력이 정말 놀랍군. 중갑을 입은 기사들도 힘든 일이었는데 잘 해주었네.<br><br>이제 석궁공격도 좀 줄어들겠지." />
+	<block key="SF_0_1_0010_1_Complete_Text" korean="하하하, 폭탄의 위력이 정말 놀랍군. 중갑을 입은 기사들도 힘든 일이었는데 잘 해주었네.<br><br>이제 석궁공격도 좀 줄어들겠지." />
+	<block key="SF_0_1_0011_Title" korean="대장장이 쿠할란" />
+	<block key="SF_0_1_0011_RewarderDesc" korean="대장장이 쿠할란" />
+	<block key="SF_0_1_0011_Request_Text" korean="자네와 떨어져 있는 동안 이 곳을 탈출할 방법을 알아봤네. 불행히도 우리의 적 카브임 교단 마법사들이 마법으로 결계를 만들어 출구를 봉쇄해놨다는 사실을 알아냈지. 이곳의 대장장이 쿠할란이 결계를 파괴할 방법을 아는듯 했네. 하지만 외부인에 대해 그리 친절하진 않으니.." />
+	<block key="SF_0_1_0011_Request_Text_attach_0" korean="<br><br>음..내가 지시하는대로 따라주겠나? 브라기 일꾼들이 광석을 모조리 채굴해서 대장장이들의 분노가 극에 달했네. 그들을 처치한 소식을 전하면 대화가 훨씬 수월할 거야.<br><br>브라기 전초기지 앞의 브라기 일꾼을 처치하고 쿠할란을 찾아가게." />
+	<block key="SF_0_1_0011_Accepted_Text" korean="브라기 일꾼을 처치하고 쿠할란을 찾아가게." />
+	<block key="SF_0_1_0011_Ongoing_Text" korean="브라기 일꾼들이 그간 근처 광석을 모조리 채굴해버리는 바람에 대장장이들이 화가 많이 났던 모양이더군.<br>일꾼들은 전초기지 앞에서 볼 수 있을거야. 쿠할란은 이 야영지에서 대장일을 하고 있으니 찾는 거야 어려울 것 없지.." />
+	<block key="SF_0_1_0011_Complete_Text" korean="무슨 일로 나를 찾아왔지?<br><br>카브임 교단 마법사들이 만든 출구를 파괴하는 방법을 알려 달라고? 그걸 내가 왜..음? 브라기 일꾼놈들을 해치웠다고? 그렇다면 얘기가 다르지. 그 고약한 놈들 때문에 우리가 고생한 걸 생각하면! 흠흠.." />
+	<block key="SF_0_1_0011_Complete_Text_attach_0" korean="<br><br>내가 알고는 있네. 그렇지만 지금까지 신룡기사단이 탈출하지 못한 걸 보면 쉬운 일은 아니야. 준비가 필요하지." />
+	<block key="SF_0_1_0012_Title" korean="잃어버린 망치" />
+	<block key="SF_0_1_0012_RewarderDesc" korean="대장장이 쿠할란" />
+	<block key="SF_0_1_0012_Request_Text" korean="약탈당한 내 망치를 찾아준다면 카브임 교단 마법사들이 만든 출구를 파괴할 방법을 알려주겠어. 내 망치를 훔쳐간 녀석은 브라기 감독관이야. 녀석은 전초기지 꼭대기에서 브라기가 일하는 것을 감독하고 있지.<br><br>브라기 감독관을 없애서 열쇠를 찾은 다음, 주변에 있는 상자를 열어봐. 분명히 그 안에 내 망치가 있을 거야." />
+	<block key="SF_0_1_0012_Accepted_Text" korean="자네에게 행운이 함께 하길 빌겠어!" />
+	<block key="SF_0_1_0012_Ongoing_Text" korean="내 망치는 가져왔나?" />
+	<block key="SF_0_1_0012_Complete_Text" korean="으하하하!<br><br>내가 목숨 다음으로 귀중하게 여기는 망치를 되찾아왔군. 정말 잘했네. 정말 잘했어." />
+	<block key="SF_0_1_0013_Title" korean="약탈캠프 공격" />
+	<block key="SF_0_1_0013_RewarderDesc" korean="베리버프" />
+	<block key="SF_0_1_0013_Request_Text" korean="이 숲은 사악한 브라기 종족이 점령하고 있네. 더구나 브라기가 마구잡이로 벌목을 하는 바람에 숲이 병들고 있어.<br><br>나를 도와주겠나? 북쪽에 있는 브라기 전초기지로 가서 브라기 전투병과 브라기 약탈 용사를 처치하고 돌아와 주게나." />
+	<block key="SF_0_1_0013_Accepted_Text" korean="엘로라의 가호가 있기를..." />
+	<block key="SF_0_1_0013_Ongoing_Text" korean="자네처럼 도와주는 이가 있어서 세상의 균형이 유지되는 거 아니겠나. 힘내서 활약해주길 바라겠네.<br><br>엘로라의 가호가 있기를..." />
+	<block key="SF_0_1_0013_Complete_Text" korean="벌써 임무를 완수하다니, 대단하군! <br><br>언젠가 이 브라카르 숲을 되찾게 된다면 그때는 크게 보답을 하리다.<br><br>엘로라의 가호가 있기를." />
+	<block key="SF_0_1_0013_1_Title" korean="감독관의 부하들" />
+	<block key="SF_0_1_0013_1_RewarderDesc" korean="신룡 기사단원 롤렌" />
+	<block key="SF_0_1_0013_1_Request_Text" korean="브라기 전초기지가 저만한 체계를 갖출 수 있는 것은 특별한 재능이 있는 브라기가 감독관으로 있기 때문이오. 놈만 없어지면 브라기들은 그야말로 오합지졸. 하지만 감독관은 여러 부하를 이끌고 있어 쉽게 상대할 수가 없소.<br><br>당신이 감독관의 부하들을 해치워준다면 큰 힘이 될 것이오." />
+	<block key="SF_0_1_0013_1_Accepted_Text" korean="우리를 도와준다니 정말 고마운 일이오." />
+	<block key="SF_0_1_0013_1_Ongoing_Text" korean="우리를 도와준다니 정말 고마운 일이오." />
+	<block key="SF_0_1_0013_1_Complete_Text" korean="브라기 전초기지를 무너뜨렸군! 이제 녀석들은 아무런 힘을 쓸 수가 없을 것이오.<br><br>정말 고맙소." />
+	<block key="SF_0_1_0014_Title" korean="가방 만들기" />
+	<block key="SF_0_1_0014_RewarderDesc" korean="잡화 상인" />
+	<block key="SF_0_1_0014_Request_Text" korean="저 좀 도와주시겠어요? 가방을 만들 재료가 필요하거든요.<br><br>북쪽에 있는 브라기 전초기지에 가서 브라기 일꾼들을 처치하고 그들이 소지하고 있는 가죽끈을 구해다 주시면 돼요." />
+	<block key="SF_0_1_0014_Accepted_Text" korean="브라기들이 쓰는 가죽은 의외로 품질이 좋거든요." />
+	<block key="SF_0_1_0014_Ongoing_Text" korean="고맙습니다. 브라기는 내가 쓰기에 적당한 가죽 끈을 가지고 있을 거에요." />
+	<block key="SF_0_1_0014_Complete_Text" korean="오. 가죽 끈을 구해 오셨군요.<br><br>이 정도면 제가 원하는 몇가지 물품을 만들 수 있겠습니다.<br><br>약속대로 가방을 선물로 드리지요." />
+	<block key="SF_0_1_0015_Title" korean="채집 하기" />
+	<block key="SF_0_1_0015_RewarderDesc" korean="잡화 상인" />
+	<block key="SF_0_1_0015_Request_Text" korean="숲에는 우리에게 유용한 여러 가지 약초들이 자라고 있습니다. 이 중에 몇 가지는 약간의 기술만 있다면 쉽게 얻을 수 있지요. 어때요? 그 기술을 배우고 싶습니까? 채집 퀘스트는 아직 미구현입니다." />
+	<block key="SF_0_1_0015_Accepted_Text" korean="미구현" />
+	<block key="SF_0_1_0015_Ongoing_Text" korean="미구현" />
+	<block key="SF_0_1_0015_Complete_Text" korean="미구현" />
+	<block key="SF_0_1_0016_Title" korean="고대 유적지로" />
+	<block key="SF_0_1_0016_RewarderDesc" korean="신룡기사단 부관 알렉스" />
+	<block key="SF_0_1_0016_Request_Text" korean="자, 이제 고대 유적지 폐허 남부로 빨리 가도록 하게. 신룡기사단 단장의 말에 의하면 이미 부관인 알렉스가 그 곳으로 파견되어 있다고 하더군." />
+	<block key="SF_0_1_0016_Accepted_Text" korean="고대의 망치를 반드시 되찾아주게." />
+	<block key="SF_0_1_0016_Ongoing_Text" korean="브라기 소굴을 지나쳐서 가야 하네. 헷갈리지 말게." />
+	<block key="SF_0_1_0016_Complete_Text" korean="잘 오셨소. 내가 신룡기사단 부관 알렉스요." />
+	<block key="SF_0_1_0016_1_Title" korean="유적지의 망령들" />
+	<block key="SF_0_1_0016_1_RewarderDesc" korean="신룡 기사단 부관 알렉스" />
+	<block key="SF_0_1_0016_1_Request_Text" korean="내 임무 중 하나는 이곳을 지키는 것인데, 밤만 되면 유적지의 유령이나 원혼이 이곳까지 와서 우리를 공격하고 있소.<br><br>북쪽에 있는 고대 유적지 폐허 남부로 가서 고대 유적지 유령과 떠도는 원혼을 처치해주면 고맙겠소." />
+	<block key="SF_0_1_0016_1_Accepted_Text" korean="그럼 잘 부탁하오." />
+	<block key="SF_0_1_0016_1_Ongoing_Text" korean="북쪽에 있는 고대 유적지 폐허 남부로 가서 고대 유적지 유령과 떠도는 원혼을 처치해주시오!" />
+	<block key="SF_0_1_0016_1_Complete_Text" korean="유령들을 모두 처치했소?<br><br>유령과 맞서 싸울 수 있는 용기가 훌륭하오!" />
+	<block key="SF_0_1_0017_Title" korean="요정 엘퀴네스에 대한 정보" />
+	<block key="SF_0_1_0017_RewarderDesc" korean="정찰 대원 세린" />
+	<block key="SF_0_1_0017_Request_Text" korean="다음으로 구해야 할 재료는 엘퀘네스의 날개야. 엘퀴네스는 광채나무숲에 있는 요정들의 우두머리로 강력한 빛의 힘을 사용하지.<br><br>" />
+	<block key="SF_0_1_0017_Request_Text_attach_0" korean="자세한 정보는 광채나무숲에서 경비를 서고 있는 정찰대원 세린에게 물어보게. 나도 그곳에서 자네를 다시 만나도록 하겠네." />
+	<block key="SF_0_1_0017_Accepted_Text" korean="정찰대원 세린을 만나도록 하게." />
+	<block key="SF_0_1_0017_Ongoing_Text" korean="주둔지에서 이 곳까지 오셨군요. 반갑습니다.<br><br>네? 혹시 크로우 님을 만났냐구요? 물론이죠. 크로우님은 고대 유적지 폐허 북부쪽으로 가셨어요. 화염 골렘이 세력을 키워 하카나스 왕국으로 향하는 관문을 점령하지 못하도록 지킨다고 하시면서...<br><br>그런데, 무슨 일로 나를 찾아오셨죠?" />
+	<block key="SF_0_1_0017_Complete_Text" korean="주둔지에서 이 곳까지 오셨군요. 반갑습니다.<br><br>네? 혹시 크로우 님을 만났냐구요? 물론이죠. 크로우님은 고대 유적지 폐허 북부쪽으로 가셨어요. 화염 골렘이 세력을 키워 하카나스 왕국으로 향하는 관문을 점령하지 못하도록 지킨다고 하시면서...<br><br>그런데, 무슨 일로 나를 찾아오셨죠?" />
+	<block key="SF_0_1_0018_Title" korean="광채나무 숲의 일부" />
+	<block key="SF_0_1_0018_RewarderDesc" korean="정찰 대원 세린" />
+	<block key="SF_0_1_0018_Request_Text" korean="광채나무 숲의 요정들이 사악해진 이유를 알아보고 있습니다. 광채 요정이 뿌리고 다니는 빛나는 가루와 광채나무 주변의 물이 도움이 될 지 몰라요.<br><br>광채 요정에게서 빛나는 가루를, 그리고 연못 중앙에 있는 물을 떠와주세요." />
+	<block key="SF_0_1_0018_Accepted_Text" korean="부디 조심하세요." />
+	<block key="SF_0_1_0018_Ongoing_Text" korean="조사를 하면 아름다운 광채나무 숲을 되찾을 수 있을지도 모릅니다. 빛나는 가루와 연못 중앙에 있는 물을 떠와 주세요." />
+	<block key="SF_0_1_0018_Complete_Text" korean="모두 구해오셨군요. 이리주세요.<br><br>강한 빛의 힘이 느껴지는군요." />
+	<block key="SF_0_1_0019_Title" korean="준비 완료" />
+	<block key="SF_0_1_0019_RewarderDesc" korean="신룡 기사단 부관 알렉스" />
+	<block key="SF_0_1_0019_Request_Text" korean="한 명 분량이라 어렵지 않네요.<br><br>이제 진실된 시야의 물약을 가지고, 고대 유적지 폐허 남부 주변에 있는 알렉스님에게 돌아가세요.<br><br>건투를 빕니다." />
+	<block key="SF_0_1_0019_Accepted_Text" korean="도움이 필요하시면 언제라도 오세요." />
+	<block key="SF_0_1_0019_Ongoing_Text" korean="부관 알렉스님은 폐허가 된 성지 주변에 계십니다." />
+	<block key="SF_0_1_0019_Complete_Text" korean="진실된 시야의 물약을 구해 왔다구?<br><br>흐음…좀 걱정스럽군.<br><br>어쨌든 자네가 용감하게 부딪쳐 보게나." />
+	<block key="SF_0_1_0020_Title" korean="광채 결정 구하기" />
+	<block key="SF_0_1_0020_RewarderDesc" korean="카일라스" />
+	<block key="SF_0_1_0020_Request_Text" korean="이 숲에 떨어져 있는 돌들이 빛나기 시작한지는 오래되었지. 브라기의 무자비한 벌목 때문인가?<br><br>집중하면 고대의 기적처럼 숲의 이야기를 들을 수 있을 지도 모르지.<br><br>부탁이야. 빛나는 돌에서 광채 결정을 얻어 가져와 주겠어?" />
+	<block key="SF_0_1_0020_Accepted_Text" korean="엘로라의 가호가 있기를..." />
+	<block key="SF_0_1_0020_Ongoing_Text" korean="빛나는 돌은 숲의 여기저기에서 아름다운 빛을 뿌리고 있으니 찾기가 쉬울 거야. 빛나는 돌에서 광채 결정을 얻으면 그것을 가지고 나에게 돌아와줘." />
+	<block key="SF_0_1_0020_Complete_Text" korean="정말 고맙군. 모아온 광채 결정은 다양한 속성 무기의 재료로도 쓰인다네.<br><br>나중에 빛 속성 무기를 만들기 위해 광채 결정이 필요해지면 나를 찾아오도록 해." />
+	<block key="SF_0_1_0020_1_Title" korean="요정의 정 구하기" />
+	<block key="SF_0_1_0020_1_RewarderDesc" korean="섀도우 클랜 단장 크로우" />
+	<block key="SF_0_1_0020_1_Request_Text" korean="엘퀴네스는 광채나무 숲에 있는 요정들의 우두머리로 강력한 빛의 힘을 사용합니다.<br><br>더군다나 엘퀴네스가 있는 곳으로 가는 길은 흡광초와 사악한 요정들이 즐비하죠. 하지만 지금까지 [UserName]님이 이룬 업적들을 보면 요정의 정도 쉽게 구해올지 모르겠군요..<br><br>엘퀴네스를 처치하고 요정의 정을 구해오십시오." />
+	<block key="SF_0_1_0020_1_Accepted_Text" korean="엘퀴네스를 처치하고 요정의 정을 구해오십시오." />
+	<block key="SF_0_1_0020_1_Ongoing_Text" korean="엘퀴네스를 처치하고 요정의 정을 구해오십시오." />
+	<block key="SF_0_1_0020_1_Complete_Text" korean="요정의 정을 구해왔군.<br>수고 많았네.<br>이제 필요한 것은.." />
+	<block key="SF_0_1_0021_Title" korean="광채나무 요정" />
+	<block key="SF_0_1_0021_RewarderDesc" korean="카일라스" />
+	<block key="SF_0_1_0021_Request_Text" korean="오염된 광채나무로 인해 타락한 요정들이 이 아름다운 숲을 망치고 있습니다. 그들이 내뿜는 사악한 기운은 숲을 병들게 하고 있지요. 그들이 다른 요정들까지 오염시키기 전에 그 숫자를 줄여야 합니다.<br><br>저를 좀 더 도와주시겠습니까?" />
+	<block key="SF_0_1_0021_Accepted_Text" korean="엘로라의 가호가 있기를..." />
+	<block key="SF_0_1_0021_Ongoing_Text" korean="사악한 기운을 내뿜으며 생명체를 공격하는 요정들을 처치해주십시오." />
+	<block key="SF_0_1_0021_Complete_Text" korean="잘 해내셨습니다.<br>안타까운 일이지만 그들이 오염으로 더 고통받기 전에 자연으로 되돌려 보내는 것이 최선입니다.<br>부디 요정들이 여신의 품에서 평안하기를…" />
+	<block key="SF_0_1_0022_Title" korean="흡광초" />
+	<block key="SF_0_1_0022_RewarderDesc" korean="정찰대원 루이" />
+	<block key="SF_0_1_0022_Request_Text" korean="이 아름다운 숲에 사람을 해치는 흡광초가 서식하고 있다는 사실은 참 아이러니하지. 사람을 공격해서 잡아먹는 이 악마같은 식물은 보이는 족족 없애버려야 해.<br><br>자네가 나서 주겠나? 숲의 땅 여기저기를 자세히 살펴보게. 자네를 노리는 흡광초를 발견할 수 있을 거야." />
+	<block key="SF_0_1_0022_Accepted_Text" korean="엘로라 여신의 가호가 있기를.." />
+	<block key="SF_0_1_0022_Ongoing_Text" korean="숲의 땅 여기저기를 자세히 살펴보게. 자네를 노리는 흡광초를 발견할 수 있을 것이야." />
+	<block key="SF_0_1_0022_Complete_Text" korean="흡광초를 대부분 처치했다고? 속이 다 후련하군.<br><br>고맙네. 자네는 매우 용감한 사람이야." />
+	<block key="SF_0_1_0022_1_Title" korean="흡광초" />
+	<block key="SF_0_1_0022_1_RewarderDesc" korean="정찰대원 루이" />
+	<block key="SF_0_1_0022_1_Request_Text" korean="이 아름다운 숲에 사람을 해치는 흡광초가 서식하고 있다는 사실은 참 아이러니하지. 사람을 공격해서 잡아먹는 이 악마 같은 식물은 보이는 족족 없애버려야 해.<br><br>자네가 나서 주겠나? 숲의 땅 여기저기를 자세히 살펴보게. 자네를 노리는 흡광초를 발견할 수 있을 것이야." />
+	<block key="SF_0_1_0022_1_Accepted_Text" korean="이 아름다운 숲에 사람을 해치는 흡광초가 서식하고 있다는 사실은 참 아이러니하지. 사람을 공격해서 잡아먹는 이 악마 같은 식물은 보이는 족족 없애버려야 해.<br><br>자네가 나서 주겠나? 숲의 땅 여기저기를 자세히 살펴보게. 자네를 노리는 흡광초를 발견할 수 있을 것이야." />
+	<block key="SF_0_1_0022_1_Ongoing_Text" korean="숲의 땅 여기저기를 자세히 살펴보게. 자네를 노리는 흡광초를 발견할 수 있을 것이야." />
+	<block key="SF_0_1_0022_1_Complete_Text" korean="흡광초를 대부분 처치했다고? 속이 다 후련하군.<br><br>고맙네. 자네는 매우 용감한 사람이야." />
+	<block key="SF_0_1_0023_Title" korean="고대 유적지 관리자" />
+	<block key="SF_0_1_0023_RewarderDesc" korean="부관 알렉스" />
+	<block key="SF_0_1_0023_Request_Text" korean="그대가 엘프에게서 진실된 시야의 물약을 받아온 덕분에 이제 고대 유적지로 갈 수 있겠소.
+유적지의 사악한 유령의 존재를 보려면 그 물약이 꼭 필요했었다네. 이제 필요한 것은 모두 갖추었으니 고대 유적지 관리자를 찾아내어 고대의 망치를 얻는 일만 남았소." />
+	<block key="SF_0_1_0023_Request_Text_attach_0" korean="<br><br>진실된 시야의 물약을 가지고 고대 유적지 폐허 남부의 중앙 둥근 형태의 제단으로 가서 물약을 마셔 보시오. 만약에 고대 유적지 관리자가 보인다면 놈들을 처치하고 고대의 망치를 구해서 돌아오면 된다오." />
+	<block key="SF_0_1_0023_Accepted_Text" korean="고대 유적지 폐허 남부의 제단에서 물약을 마셔보시오." />
+	<block key="SF_0_1_0023_Ongoing_Text" korean="고대 유적지 폐허 남부 중앙에는 둥근 형태의 제단이 있을 것이오.<br><br>그 곳에서 진실된 시야의 물약을 마시도록 하시오." />
+	<block key="SF_0_1_0023_Complete_Text" korean="이 망치는?<br><br>얼음처럼 차가운 고대 유적지 관리자에게서만 얻을 수 있는 고대의 망치가 아니오?<br>고대 유적지 관리자를 처치하고 돌아오다니 훌륭하오!" />
+	<block key="SF_0_1_0023_01_Title" korean="고대의 망치" />
+	<block key="SF_0_1_0023_01_RewarderDesc" korean="신룡기사단 부관 알렉스" />
+	<block key="SF_0_1_0023_01_Request_Text" korean="고대의 망치를 달라고? 어림도 없다." />
+	<block key="SF_0_1_0023_01_Accepted_Text" korean="고대의 망치를 달라고? 어림도 없다." />
+	<block key="SF_0_1_0023_01_Ongoing_Text" korean="고대의 망치를 달라고? 어림도 없다." />
+	<block key="SF_0_1_0023_01_Complete_Text" korean="이 물건은?<br><br>고대 유적지 관리자에게서만 얻을 수 있는 고대의 망치가 아니오?<br><br>훌륭하오!" />
+	<block key="SF_0_1_0025_Title" korean="크로우와 대화" />
+	<block key="SF_0_1_0025_RewarderDesc" korean="섀도우 클랜 단장 크로우" />
+	<block key="SF_0_1_0025_Request_Text" korean="고대의 망치를 구했는지 알기 위해 크로우 단장이 왔다 갔었소. 당신이 꼭 구할 것이란 걸 확신하며 광채나무 숲으로 가던데… 어서 고대의 망치를 가지고 광채나무 숲에 있는 크로우 단장님을 만나보시오." />
+	<block key="SF_0_1_0025_Accepted_Text" korean="고대의 망치를 크로우에게 가져다 주시오." />
+	<block key="SF_0_1_0025_Ongoing_Text" korean="고대의 망치를 크로우에게 가져다 주시오." />
+	<block key="SF_0_1_0025_Complete_Text" korean="그것이 고대의 망치인가? 좋아. 이곳을 빠져나갈 첫 준비는 끝났군." />
+	<block key="SF_0_1_0025_1_Title" korean="망치와 정" />
+	<block key="SF_0_1_0025_1_RewarderDesc" korean="카일라스" />
+	<block key="SF_0_1_0025_1_Request_Text" korean="자네가 망치를 구하는 사이 이 근처를 돌며 조사를 했네. 그리고 이 곳에 고대로부터 내려오는 요정의 정이 있다는 것을 알아냈지. 요정의 정이라면 이 고대의 망치와 훌륭한 한 쌍이 될 거야.<br>저 쪽의 엘프에게 이야기를 들어 보게." />
+	<block key="SF_0_1_0025_1_Accepted_Text" korean="어서. 서둘러야 해." />
+	<block key="SF_0_1_0025_1_Ongoing_Text" korean="저 쪽의 엘프에게 요정의 정에 관하여 이야기를 들어 보게." />
+	<block key="SF_0_1_0025_1_Complete_Text" korean="요정의 정 말입니까?<br>미안하지만 처음 보는 이에게 선뜻 알려주긴 힘든 이야기로군요. 혹 당신이 광채나무 숲을 위해 일해준다면 모를까…" />
+	<block key="SF_0_1_0026_Title" korean="신비로운 힘" />
+	<block key="SF_0_1_0026_RewarderDesc" korean="정찰대원 보리스" />
+	<block key="SF_0_1_0026_Request_Text" korean="하카나스 성에서 진리의 마법사에게 들은 이야기인데, 유령이 출몰하는 지역에 사는 여우와 늑대는 신비로운 힘이 있다고 하오. 그리고, 그 신체는 전사에게 강인한 힘을 불어넣어 준다고 했소.<br><br>이건 좀 사적인 부탁이라 꺼려지기는 하오만… 날 위해 고대 유적지 폐허 남부로 가서 늑대 발톱과 여우 발을 구해다 줄 수 있겠소?" />
+	<block key="SF_0_1_0026_Accepted_Text" korean="물건들을 구해주면 은혜는 잊지 않겠소." />
+	<block key="SF_0_1_0026_Ongoing_Text" korean="유적지 회색 늑대와 유적지 붉은 여우를 처치해서 그 발을 가져다주시오." />
+	<block key="SF_0_1_0026_Complete_Text" korean="감사하오. 이 늑대 발톱과 여우 발을 가지고 있으면 더욱 강인해질 것만 같아서 안심이 되오.<br><br>브라카르숲에서 끝까지 살아남아 성으로 돌아가야겠소." />
+	<block key="SF_0_1_0026_1_Title" korean="신비로운 힘 II" />
+	<block key="SF_0_1_0026_1_RewarderDesc" korean="정찰대원 루이" />
+	<block key="SF_0_1_0026_1_Request_Text" korean="당신에게 아까와 같은 도움을 청하고 싶소만. 성난 큰 어금니 멧돼지에서 얻을 수 있는 단단한 멧돼지 어금니와 성난 붉은 털 여우에서 얻을 수 있는 가죽이오.<br><br>" />
+	<block key="SF_0_1_0026_1_Request_Text_attach_0" korean="나는 신룡 기사단 야영지에 보고할 내용이 있어 자리를 비워야 하니 광채나무 숲 야영지에 있는 정찰대원 루이에게 구한 물건을 맡겨주면 고맙겠소. 그는 나의 오래된 친구요." />
+	<block key="SF_0_1_0026_1_Accepted_Text" korean="물건들을 구하면 광채나무 숲 야영지에 있는 정찰대원 루이에게 맡겨주시오." />
+	<block key="SF_0_1_0026_1_Ongoing_Text" korean="단단한 멧돼지 어금니와 붉은털 여우의 가죽이오. 성난 큰 어금니 멧돼지와 성난 붉은 여우를 처치하면 얻을 수 있을 것이오." />
+	<block key="SF_0_1_0026_1_Complete_Text" korean="아! 정찰대원 보리스가 이 물건들을 맡겨 달라고 했소?<br><br>이리 주시오. 나중에 정찰대원 보리스를 만나면 이 물건들을 전해주겠소.<br><br>대단한 물건은 아닌 듯 하오만…" />
+	<block key="SF_0_1_0027_Title" korean="북부 유적지 폐허로" />
+	<block key="SF_0_1_0027_RewarderDesc" korean="호위기사 레나" />
+	<block key="SF_0_1_0027_Request_Text" korean="카브임 교단 마법사들이 만든 결계를 파괴할 모든 준비가 끝났네. 하지만 망치와 정에 힘을 불어 넣으려면 아직 조금 더 시간이 필요해.<br><br>한시가 바쁘니 북부 유적지 폐허로 떠나게.<br>레나가 자네를 기다리고 있을 것이네." />
+	<block key="SF_0_1_0027_Accepted_Text" korean="어서 출발하게." />
+	<block key="SF_0_1_0027_Ongoing_Text" korean="어서 출발하게." />
+	<block key="SF_0_1_0027_Complete_Text" korean="[UserName]님, 이제야 오셨군요.<br>기다리고 있었습니다." />
+	<block key="SF_0_1_0027_1_Title" korean="타슬란의 차가운 심장" />
+	<block key="SF_0_1_0027_1_RewarderDesc" korean="정찰대원 알로스" />
+	<block key="SF_0_1_0027_1_Request_Text" korean="타슬란은 고대 유적지 폐허 북부의 깊은 곳에서 먹이가 걸려들기를 기다리고 있을 거야. 하지만 타슬란이 있는 곳까지 가려면 수많은 거미들 사이를 지나가야 해.<br><br>타슬란을 처치하고 그 심장을 구하는 것은 자네의 운에 맡겨봐야겠군." />
+	<block key="SF_0_1_0027_1_Accepted_Text" korean="타슬란의 심장을 구해서 돌아오라고." />
+	<block key="SF_0_1_0027_1_Ongoing_Text" korean="타슬란은 고대 유적지 폐허 북부의 깊은 곳에서 거미줄을 치고 먹이가 걸려들기를 기다리고 있을 거야." />
+	<block key="SF_0_1_0027_1_Complete_Text" korean="타슬란의 심장을 구해왔군.<br><br>자네는 솜씨가 뛰어나고 운도 좋으니 화염 골렘을 꼭 쓰러뜨릴 수 있을 것 같아. 희망을 걸어보겠어." />
+	<block key="SF_0_1_0028_Title" korean="신룡기사단의 장창" />
+	<block key="SF_0_1_0028_RewarderDesc" korean="정찰대원 세린" />
+	<block key="SF_0_1_0028_Request_Text" korean="신룡기사단 단장 파울로님에게서 연락이 왔어요. 수도성의 장군들은 이곳의 브라기 문제를 해결하기 위해 신룡기사단의 장창을 개조하여 지원할 생각인가 보더군요. 개조된 신룡기사단의 장창이 효과가 있는지 제가 검증하도록 명령을 받았습니다." />
+	<block key="SF_0_1_0028_Request_Text_attach_0" korean="<br><br>펠로우에 탑승하여 제가 주는 장창을 사용해 브라기를 처치해주셨으면 좋겠습니다. 임무를 완료해주시면 사용했던 신룡기사단의 장창을 보답으로 드리지요." />
+	<block key="SF_0_1_0028_Accepted_Text" korean="펠로우에 탑승하여 장창을 이용하여 브라기를 처치하세요!" />
+	<block key="SF_0_1_0028_Ongoing_Text" korean="주둔지에 있는 신룡기사단 단장 파울로님에게서 연락이 왔어요. 수도성의 장군들은 이 곳의 브라기 문제를 해결하기 위해 신룡기사단의 장창을 개조하여 지원할 생각을 가지고 있어요.<br><br>이를 위해서 개조된 신룡기사단의 장창이 효과가 있는지를 제가 검증하도록 명령을 받았습니다. 펠로우에 탑승하여 제가 주는 장창을 이용해 브라기를 처치해주세요. 임무를 완료해주시면 사용했던 신룡기사단의 장창을 보답으로 드리지요." />
+	<block key="SF_0_1_0028_Complete_Text" korean="장창을 사용해 보셨습니까?<br><br>오 그렇군요. 그 정도면 검증은 끝났습니다. 이야기해준 내용은 정리해서 보고하겠습니다." />
+	<block key="SF_0_1_0029_Title" korean="결계를 파괴할 마지막 재료" />
+	<block key="SF_0_1_0029_RewarderDesc" korean="크로우" />
+	<block key="SF_0_1_0029_Request_Text" korean="우리에게 마지막으로 필요한 것은 고대의 크리스탈 조각이네. 본거지 제일 안쪽에 있는 브라기 족장이 가지고 있다고 하더군. 녀석이 크리스탈의 힘을 모르는 것이 불행 중 다행이지.<br><br>자네가 브라기 족장을 쓰러뜨리고 고대의 크리스탈 조각을 가져오게." />
+	<block key="SF_0_1_0029_Accepted_Text" korean="자, 가서 마지막 재료를 가져오게!" />
+	<block key="SF_0_1_0029_Ongoing_Text" korean="우리에게 마지막으로 필요한 것은 고대의 크리스탈 조각이네. 본거지 제일 안쪽에 있는 브라기 족장이 가지고 있다고 하더군. 녀석이 크리스탈의 힘을 모르는 것이 불행 중 다행이지.<br><br>자네가 브라기 족장을 쓰러뜨리고 고대의 크리스탈 조각을 가져오게." />
+	<block key="SF_0_1_0029_Complete_Text" korean="크리스탈은 무사한가? 수고했네.<br>이제 모든 재료가 모였으니 우리의 임무를 끝낼 차례가 온 것 같군. 크리스탈 조각이 불안정하니 나는 잠시동안 조각을 안정화시키는 것에 집중하려하네.<br>그리 오래 걸리지는 않을 걸세. 아, 그리고 이걸 받게.<br><br>펠로우의 도감이네. 수도성에서 펠로우를 길들이는 방법을 배우게 되면 이런 도감이 필요할테니 참고하게." />
+	<block key="SF_0_1_0029_1_Title" korean="브라기 족장의 펠로우" />
+	<block key="SF_0_1_0029_1_RewarderDesc" korean="대장장이 쿠할란" />
+	<block key="SF_0_1_0029_1_Request_Text" korean="브라기 족장이 가진 얼음 크리스탈을 구하러 간다면 녀석의 펠로우를 차지할 수 있을 것이네. 물론 브라기 족장을 처치한 후에 가능한 일이겠지만 말일세. 마침 내게 그 펠로우를 길들일 수 있는 교본이 있는데… 어때, 관심있나?" />
+	<block key="SF_0_1_0029_1_Accepted_Text" korean="자네 뜻이 이루어지길 바라네." />
+	<block key="SF_0_1_0029_1_Ongoing_Text" korean="브라기 족장의 펠로우를 길들이려면 먼저 브라기 족장을 상대해야 할 것이네. 그런 후, 내가 준 교본을 참고하여 뜻을 이루게." />
+	<block key="SF_0_1_0029_1_Complete_Text" korean="역시 해냈군. 그 녀석은 자네가 브라기 족장을 처치했다는 명예의 상징이 될 것이네." />
+	<block key="SF_0_1_0029_2_Title" korean="도움의 손길이 필요할 때" />
+	<block key="SF_0_1_0029_2_RewarderDesc" korean="더프" />
+	<block key="SF_0_1_0029_2_Request_Text" korean="무기상인 더프가 사람을 찾는 것 같더군.<br>그의 친구가 만류에도 불구하고 위험한 북부 유적지로 혼자 들어간 모양이야. 그렇지 않아도 북부 유적지는 정찰할 필요가 있었어.<br><br>자네가 더프의 부탁도 들어주는 것 뿐 아니라 북부 유적지도 둘러보고 왔으면 좋겠네.<br>일단 더프에게 가보게." />
+	<block key="SF_0_1_0029_2_Accepted_Text" korean="자세한 사정은 더프가 알려줄 걸세." />
+	<block key="SF_0_1_0029_2_Ongoing_Text" korean="날 도와주러 왔다고? 도움이 필요한 건 사실 내가 아니라 바로 내 친구 키르샤일세. 그 친구 내가 그렇게 말렸는데 북부 유적지로 가버렸어.<br><br>멍청한 녀석 같으니라구." />
+	<block key="SF_0_1_0029_2_Complete_Text" korean="날 도와주러 왔다고? 도움이 필요한 건 사실 내가 아니라 바로 내 친구 키르샤일세. 그 친구 내가 그렇게 말렸는데 북부 유적지로 가버렸어.<br><br>멍청한 녀석 같으니라구." />
+	<block key="SF_0_1_0030_Title" korean="브라기 본거지 채집꾼" />
+	<block key="SF_0_1_0030_RewarderDesc" korean="정찰대원 루이" />
+	<block key="SF_0_1_0030_Request_Text" korean="자신이 가진 장비의 색깔을 바꾸고 싶은가? 매일 같은 옷이나 장비를 착용하고 있으면 질리는 것도 당연한 일이지.<br><br>마침 내가 사용할 염색약이 다 떨어졌네. 염색약을 만들 염색초를 많이 구해오면 내가 무료로 염색약을 몇 개 주도록 하지." />
+	<block key="SF_0_1_0030_Request_Text_attach_0" korean="<br><br>브라기 본거지에 있는 브라기 채집꾼이 염색초를 가지고 있네. 놈들을 처치하고 염색초를 구해 오게나." />
+	<block key="SF_0_1_0030_Accepted_Text" korean="그럼 출발하게나." />
+	<block key="SF_0_1_0030_Ongoing_Text" korean="브라기 본거지에 있는 브라기 본거지 채집꾼이 염색초를 가지고 있네. 놈들을 처치하고, 내가 원하는 만큼 염색초를 구해 오게나." />
+	<block key="SF_0_1_0030_Complete_Text" korean="상당한 양의 염색초를 구해왔군. 당분간 염색약이 떨어지는 일은 없겠네.<br><br>감사의 표시로 옷이나 장비의 색깔을 바꿀 수 있는 염색약을 주지. 수고했네." />
+	<block key="SF_0_1_0030_11_Title" korean="브라기 채집꾼" />
+	<block key="SF_0_1_0030_11_RewarderDesc" korean="정찰대원 루이" />
+	<block key="SF_0_1_0030_11_Request_Text" korean="자신이 가진 장비의 색깔을 바꾸고 싶은가? 그렇다면 잘 생각했네. 매일 같은 옷이나 장비를 착용하고 있으면 질리는 것은 당연한 일이지.<br><br>마침 내가 사용할 염색약이 다 떨어졌네." />
+	<block key="SF_0_1_0030_11_Request_Text_attach_0" korean="염색약을 만들 염색초를 많이 구해오면 내가 무료로 염색약을 몇 개 주도록 하지.<br><br>브라기 본거지에 있는 브라기 채집꾼이 염색초를 가지고 있네. 놈들을 처치하고, 내가 원하는 만큼 염색초를 구해 오게나." />
+	<block key="SF_0_1_0030_11_Accepted_Text" korean="그럼 출발하게나." />
+	<block key="SF_0_1_0030_11_Ongoing_Text" korean="브라기 본거지에 있는 브라기 채집꾼이 염색초를 가지고 있네. 놈들을 처치하고, 내가 원하는 만큼 염색초를 구해 오게나." />
+	<block key="SF_0_1_0030_11_Complete_Text" korean="상당한 양의 염색초를 구해왔군. 당분간 염색약이 떨어지는 일은 없겠네.<br><br>감사의 표시로 옷이나 장비의 색깔을 바꿀 수 있는 염색약을 주지. 수고했네." />
+	<block key="SF_0_1_0030_0_Title" korean="고대 수도자의 유령" />
+	<block key="SF_0_1_0030_0_RewarderDesc" korean="정찰대원 알로스" />
+	<block key="SF_0_1_0030_0_Request_Text" korean="고대 수도자의 유령은 고대 유적지 폐허 북부를 배회하고 있어. 한을 품었는지 매우 사납고 난폭하지. 그렇게 된 데는 다 이유가 있겠지만, 이대로 내버려둘 수는 없어. 어느 밤 우리가 방심하고 있을 때 야영지를 공격해올지도 몰라.<br><br>고대 유적지 폐허에 있는 고대 수도자의 유령을 몰아내 줘." />
+	<block key="SF_0_1_0030_0_Accepted_Text" korean="건투를 비오." />
+	<block key="SF_0_1_0030_0_Ongoing_Text" korean="고대 수도자의 유령을 몰아내 주시오. 겁나서 살 수가 없구만." />
+	<block key="SF_0_1_0030_0_Complete_Text" korean="재주가 뛰어나군!<br><br>덕분에 유령들도 안식에 들었을 거라고 생각하오." />
+	<block key="SF_0_1_0030_1_Title" korean="유령 거미가 주는 행운" />
+	<block key="SF_0_1_0030_1_RewarderDesc" korean="정찰대원 알로스" />
+	<block key="SF_0_1_0030_1_Request_Text" korean="고대 유적지 폐허 북부에는 유령거미들이 돌아다니고 있어. 녀석들은 화염 동굴에서 나오는 사악한 힘으로 그 수가 불어나고 있지.<br><br>" />
+	<block key="SF_0_1_0030_1_Request_Text_attach_0" korean="그런데, 이 유령거미의 독이빨은 왕국 시장에서 매우 비싼 값에 거래거 되고 있어. 무기에 발라서 더욱 치명적인 무기를 만든다거나, 마법 물약의 재료로 사용되고 있거든.<br><br>만약에 유령거미의 독이빨을 구하면 나에게 가져오겠어? 부탁하지." />
+	<block key="SF_0_1_0030_1_Accepted_Text" korean="유령 거미의 독이빨을 구하면 나에게 가져오라고." />
+	<block key="SF_0_1_0030_1_Ongoing_Text" korean="고대 유적지 폐허 북부에는 유령 거미들이 돌아다니고 있어. 녀석들은 화염 동굴에서 나오는 사악한 힘에 의해서 그 수가 불어나고 있지.<br><br>그런데, 이 유령 거미의 독이빨은 왕국 시장에서 매우 비싼 값에 거래가 되고 있어. 무기에 발라서 보다 치명적인 무기를 만든다거나, 마법 물약의 재료로 사용되고 있거든. 만약에 유령 거미의 독이빨을 구하면 나에게 가져오겠어? 부탁하지." />
+	<block key="SF_0_1_0030_1_Complete_Text" korean="이 독이빨을 모으는 게 쉽지 않았을 거란 걸 잘 알고 있지.<br><br>나를 위해 큰 일을 해 주었군!" />
+	<block key="SF_0_1_0030_2_Title" korean="거대거미 파툴라" />
+	<block key="SF_0_1_0030_2_RewarderDesc" korean="유적조사단장 레안" />
+	<block key="SF_0_1_0030_2_Request_Text" korean="고대 유적지 폐허 북부에는 독거미의 일종인 유적지 타란툴라가 살고 있어요. 소문에 의하면 유적지 타란툴라 중에서도 강력한 녀석이 있다고 해요. 하지만 아직까지 목격하지는 못했어요. 단지 거대거미 파툴라라고 이름만 들었을 뿐이죠." />
+	<block key="SF_0_1_0030_2_Request_Text_attach_0" korean="거대거미 파툴라는 하급 독 기운 억제 주문서를 이용하면 길들일 수 있다고 알려졌는데 실제로 녀석을 길들일 수 있는지 알고 싶군요. 주문서와 길들이는 방법이 적힌 입문서를 줄 테니 거대거미 파툴라를 길들여주세요.<br><br>혹시 주문서가 부족하면 야수조련사나 광채나무숲에 있는 잡화음식 상인에게서 조합서를 구해 만들 수 있어요." />
+	<block key="SF_0_1_0030_2_Accepted_Text" korean="유적지 타란툴라를 길들일 수 있는지 알고 싶어요." />
+	<block key="SF_0_1_0030_2_Ongoing_Text" korean="거대거미 파툴라는 하급 독 기운 억제 주문서를 이용하면 길들일 수 있다고 알려져 있는데 실제로 녀석을 길들일 수 있는지 알고 싶군요. 주문서와 길들이는 방법이 적힌 입문서를 줄테니 거대거미 파툴라를 길들여주세요.<br><br>혹시 주문서가 부족하면 야수조련사나 광채나무숲에 있는 잡화음식 상인에게서 조합서를 구해 만들 수 있어요." />
+	<block key="SF_0_1_0030_2_Complete_Text" korean="거대거미 파툴라를 길들이셨다구요?<br><br>기존 방법으로 가능했다는 이야기군요. 거대거미 파툴라에 대해서는 왕국학술원에 사례를 보고할게요." />
+	<block key="SF_0_1_0030_3_Title" korean="오래된 상자" />
+	<block key="SF_0_1_0030_3_RewarderDesc" korean="유적 조산단장 레안" />
+	<block key="SF_0_1_0030_3_Request_Text" korean="고대 유적지 폐허 북부에는 당시의 귀중한 물건을 담아두던 오래된 상자가 남아 있어요. 가끔 그 상자에서 고대 엘프가 남긴 서판이 발견된다고 하는데, 거미들 때문에 위험해서 이 서판을 구할 방법이 없네요.<br><br>" />
+	<block key="SF_0_1_0030_3_Request_Text_attach_0" korean="유령거미나 유적지 타란툴라가 배회하는 위험한 지역이지만, 고대 엘프가 남긴 서판을 몇 개 구해 준다면 이를 해독하여 귀중한 자료로 쓸 수 있을 거예요." />
+	<block key="SF_0_1_0030_3_Accepted_Text" korean="오래된 상자에서 고대 엘프의 서판을 구해주겠어요?" />
+	<block key="SF_0_1_0030_3_Ongoing_Text" korean="고대 유적지 폐허 북부에는 당시의 귀중한 물건을 담아두던 오래된 상자가 남아 있어요. 가끔 그 상자에서 고대 엘프가 남긴 서판이 발견된다고 하는데, 거미들 때문에 위험해서 이 서판을 구할 방법이 없네요.<br><br>유령 거미나 유적지 타란툴라가 배회하는 위험한 지역이지만, 고대 엘프가 남긴 서판을 몇 개 구해다준다면 이를 해독하여 귀중한 자료로 쓸 수가 있겠네요." />
+	<block key="SF_0_1_0030_3_Complete_Text" korean="이 서판들의 일부는 이전에는 보지 못한 형태네요. 문자를 해독해보니 주로 미래에 생길 큰 일에 대한 경고에요.<br><br>마신의 피를 이은 후예가 순결한 영혼을 거두어 그 힘으로 마신를 부활시키도다! 마신 군단이 지하에서 일어나 그 후예를 돕도다!" />
+	<block key="SF_0_1_0030_3_Complete_Text_attach_0" korean="<br><br>이럴수가! 마신의 후예 사란트가 이미 고대에 예견되었다니… 그렇다면 마신 젤나리스의 부활은 우리가 피할 수 있는 운명이 아니란 말인가요?" />
+	<block key="SF_0_1_0031_Title" korean="브라기 본거지 공격" />
+	<block key="SF_0_1_0031_RewarderDesc" korean="크로우" />
+	<block key="SF_0_1_0031_Request_Text" korean="숲을 파괴하고 있는 저 브라기들이 보이는가?<br>우리에게 필요한 마지막 물건이 저들의 본거지 어딘가에 있다고 하더군. 내가 자세한 정보를 모으는 동안 자네가 먼저 가서 브라기 전투병과 사냥꾼을 처치해주게. 이 숲의 생명체들에게도 큰 도움이 될 걸세." />
+	<block key="SF_0_1_0031_Accepted_Text" korean="활약을 기대하겠네." />
+	<block key="SF_0_1_0031_Ongoing_Text" korean="자네가 이 숲의 생명체들을 대신해 저 약탈자들에게 심판을 내려주게." />
+	<block key="SF_0_1_0031_Complete_Text" korean="수고했네.<br>자네 덕에 숲이 한 층 평화로워진 것 같군.<br>그러면 우리는 본래 임무로 돌아가도록 하지.<br><br>마지막 재료를 가지고 있는 자를 알아냈네." />
+	<block key="SF_0_1_0031_1_Title" korean="믿음과 용맹" />
+	<block key="SF_0_1_0031_1_RewarderDesc" korean="카일라스" />
+	<block key="SF_0_1_0031_1_Request_Text" korean="브라기들에겐 계급사회의 중심이 되는 중요한 직업들이 있습니다. 바로 샤먼과 용사들이죠. 샤먼은 다른 브라기들에게 맹목적인 신앙심을 전파하고, 용사는 죽음도 불사하는 용맹을 심어넣지요.<br>샤먼과 용사들을 처치한다면 저들에게 큰 타격을 입힐 수 있을 겁니다. 저 브라기들에게 이 숲에 살아 숨쉬는 모든 생명체의 이름으로 심판을 내려주십시오." />
+	<block key="SF_0_1_0031_1_Accepted_Text" korean="엘로라의 가호가 있기를..." />
+	<block key="SF_0_1_0031_1_Ongoing_Text" korean="브라기 샤먼과 용사들을 처치하십시오.<br>브라기들에게 이 숲에 살아 숨쉬는 모든 생명체의 이름으로 심판을 내리는 겁니다." />
+	<block key="SF_0_1_0031_1_Complete_Text" korean="수고하셨습니다.<br>모든 일은 조화와 균형을 위해서…<br>이 숲에 크나큰 도움이 되었습니다. 감사합니다." />
+	<block key="SF_0_1_0031_2_Title" korean="브라기 보물 상자" />
+	<block key="SF_0_1_0031_2_RewarderDesc" korean="잡화상인 제니" />
+	<block key="SF_0_1_0031_2_Request_Text" korean="그대가 브라기 본거지로 간다는 이야기를 들었어요. 그렇다면 제 부탁을 좀 들어 주시겠어요?<br><br>브라기 샤먼은 물건을 보관하는 상자를 가지고 있어요. 안에 보관된 브라기의 주술 목걸이는 꽤 값이 나가는 물건이에요. 상자 안에 브라기의 주술 목걸이가 있다면 꼭 저에게 가져와 주세요." />
+	<block key="SF_0_1_0031_2_Accepted_Text" korean="브라기의 주술 목걸이를 구한다면 저에게 가져오세요." />
+	<block key="SF_0_1_0031_2_Ongoing_Text" korean="그대가 브라기 본거지로 간다는 이야기를 들었어요. 혹시 제 부탁을 들어주시겠어요?<br><br>브라기 샤먼은 물건을 보관하는 상자를 가지고 있어요. 브라기 보물 상자라고 하죠. 안에 보관되어 있는 브라기의 주술 목걸이는 꽤 값이 나가는 물건이에요. 혹시, 브라기의 주술 목걸이를 구한다면 저에게 가져와 주세요." />
+	<block key="SF_0_1_0031_2_Complete_Text" korean="와아! 부탁해놓고 뭐하지만 기대는 안 했는데 정말 갖고 오셨군요!<br><br>도와주셔서 정말 고맙습니다! 어서 빨리 하카나스 왕국으로 돌아가서 이것을 팔아 치우고 싶군요. 큰 돈을 벌 수 있을텐데…" />
+	<block key="SF_0_1_0031_3_Title" korean="채집꾼 이누기 탈출시키기" />
+	<block key="SF_0_1_0031_3_RewarderDesc" korean="카일라스" />
+	<block key="SF_0_1_0031_3_Request_Text" korean="크릉! 인간... 인가? 나... 나는 슬프다! 이곳에서 얼마 후... 처형될 운명이야. 나는…크릉! 그저 카일라스와 친구가 되었을 뿐인데…! 크릉!<br><br>나를... 도와주면... 크릉! 그 은혜는 잊지 않겠다! 나를 카일라스가 있는 곳으로 데리고 가 줘!" />
+	<block key="SF_0_1_0031_3_Accepted_Text" korean="크릉! 내 친구에게 얼릉 가자!" />
+	<block key="SF_0_1_0031_3_Ongoing_Text" korean="이누기와 이야기를 나눠보셨습니까?<br>브라기인데도 전혀 브라기 같지 않지요. 이누기는 다른 종족들과 어울려 사는 법을 알기 때문입니다.<br>모든 브라기가 이누기만 같다면 충분히 평화롭게 공생할 수 있을텐데..." />
+	<block key="SF_0_1_0031_3_Complete_Text" korean="이누기와 이야기를 나눠보셨습니까?<br>브라기인데도 전혀 브라기 같지 않지요. 이누기는 다른 종족들과 어울려 사는 법을 알기 때문입니다.<br>모든 브라기가 이누기만 같다면 충분히 평화롭게 공생할 수 있을텐데..." />
+	<block key="SF_0_1_0032_Title" korean="화염골렘을 처치하라" />
+	<block key="SF_0_1_0032_RewarderDesc" korean="엘프 엘프" />
+	<block key="SF_0_1_0032_Request_Text" korean="지하통로에서 화염 골렘을 처치하는 중요한 퀘스트입니다. 아직 미구현입니다." />
+	<block key="SF_0_1_0032_Accepted_Text" korean="지하통로에서 화염 골렘을 처치하는 중요한 퀘스트입니다. 아직 미구현입니다." />
+	<block key="SF_0_1_0032_Ongoing_Text" korean="지하통로에서 화염 골렘을 처치하는 중요한 퀘스트입니다. 아직 미구현입니다." />
+	<block key="SF_0_1_0032_Complete_Text" korean="지하통로에서 화염 골렘을 처치하는 중요한 퀘스트입니다. 아직 미구현입니다." />
+	<block key="SF_0_1_0033_Title" korean="고대 유적지 유령의 속성을 바꿔라." />
+	<block key="SF_0_1_0033_RewarderDesc" korean="신룡 기사단 부관" />
+	<block key="SF_0_1_0033_Request_Text" korean="자네에게 중요한 것을 가르쳐 주지. 속성을 가진 무기로 몬스터의 상태를 바꾸어 본 적이 있나? 적과 지혜롭게 싸우려면 그 방법을 아는 것은 매우 중요하다네.<br><br>자네가 고대 유적지 유령을 볼 수 있고," />
+	<block key="SF_0_1_0033_Request_Text_attach_0" korean="빛 속성의 무기를 가지고 있다면 폐허가 된 성지로 가게나.<br><br>그리고, 무기에서 나오는 빛 속성에 의해 암흑 속성의 유령이 빛 속성으로 바뀌는 것을 확인하고 돌아오게나." />
+	<block key="SF_0_1_0033_Accepted_Text" korean="건투를 비네." />
+	<block key="SF_0_1_0033_Ongoing_Text" korean="다시 말하지만, 첫째 고대 유적지 유령을 보는 능력이 있어야 하고, 둘째 빛 속성의 무기를 가지고 있어야 이 일을 완료할 수가 있네." />
+	<block key="SF_0_1_0033_Complete_Text" korean="그래... 고대 유적지 유령의 속성을 바꾸는데 성공했다고? 축하하네. 자네가 깨달은 지식은 앞으로 유용하게 사용하길 바라네." />
+	<block key="SF_0_1_0034_Title" korean="긴급 의약품 전달" />
+	<block key="SF_0_1_0034_RewarderDesc" korean="여자 선원 키나" />
+	<block key="SF_0_1_0034_Request_Text" korean="비행선 추락지에 있는 선원 카나에게서 긴급한 연락이 왔네. 필요한 약품이 없어서 부상자의 목숨이 위험한 모양이야.<br><br>5분 안에 도착하지 못하면 치료할 시기를 놓쳐서 부상자가 죽을게 분명하니 최대한 빨리 이 약품을 카나에게 가져다 주게.<br><br>주어진 시간은 5분 밖에 없네." />
+	<block key="SF_0_1_0034_Accepted_Text" korean="어서 빨리 출발하도록 하게. 5분 밖에 없어." />
+	<block key="SF_0_1_0034_Ongoing_Text" korean="늦지 않게 도착하셨군요! 다행이에요." />
+	<block key="SF_0_1_0034_Complete_Text" korean="오! 엘로라이시여. 마침 적당할 때 도착하셨군요.<br><br>이리 주세요. 빨리 치료하지 않으면 이 분의 목숨이 위험하답니다." />
+	<block key="SF_0_1_0034_1_Title" korean="맡겨둔 목록" />
+	<block key="SF_0_1_0034_1_RewarderDesc" korean="섀도우 클랜 프롬" />
+	<block key="SF_0_1_0034_1_Request_Text" korean="정말 고맙습니다. 하지만 아직도 부족한 의약품의 종류가 많아요. 치료에 필요한 약품 목록이 적힌 양피지를 섀도우 클랜 프롬에게 맡겨뒀어요.<br><br>프롬은 늑대를 막느라 바쁘니까 [UserName]님이 대신 전달해주지 않으시겠어요? 프롬에게 양피지를 받아서 베리버프에게 가져가주세요. 그럼 베리버프가 다시 약을 구해줄 테니까요." />
+	<block key="SF_0_1_0034_1_Accepted_Text" korean="지금 우리 상황은 매우 긴급하답니다. 부탁드려요." />
+	<block key="SF_0_1_0034_1_Ongoing_Text" korean="의약품 이름을 적은 양피지요? 제가 갈 수 있는 상황이 아니었는데 마침 잘 오셨어요." />
+	<block key="SF_0_1_0034_1_Complete_Text" korean="아! 의약품 이름을 적은 양피지요? 물론 가지고 있지요.<br><br>상황이 된다면 신룡 기사단 야영지에 있는 베리버프에게 전달해야 되는데 지금은 여유가 없군요." />
+	<block key="SF_0_1_0035_Title" korean="필요 의약품 목록 전달" />
+	<block key="SF_0_1_0035_RewarderDesc" korean="숲의 안내자 엘프" />
+	<block key="SF_0_1_0035_Request_Text" korean="(품 속에서 양피지를 꺼내며)<br><br>그나마 신룡 기사단 주둔지가 가까운 곳에 있어서 다행이에요. 더군다나 베리버프가 함께라니. 대부분의 엘프가 약재 채집에 특기를 갖고 있지만 베리버프는 더 능숙하거든요.<br><br>그럼. 잘 부탁해요. 부상자들이 더 위험한 상황에 빠지기 전에 서둘러 가주세요." />
+	<block key="SF_0_1_0035_Accepted_Text" korean="그럼. 부탁해요." />
+	<block key="SF_0_1_0035_Ongoing_Text" korean="의약품은 잘 전달하고 왔나?" />
+	<block key="SF_0_1_0035_Complete_Text" korean="카나가 부상자 치료에 필요한 약품을 양피지에 적어 주었다고? 음.. 우리도 브라기와 오랜 싸움으로 의약품이 풍족하지는 못해. 하지만 어떻게든 구해야 하겠지.<br><br>여하튼, 의약품은 잘 전달하고 왔다니 정말 고맙네." />
+	<block key="SF_0_1_0036_Title" korean="레오의 점심식사" />
+	<block key="SF_0_1_0036_RewarderDesc" korean="추후 입력" />
+	<block key="SF_0_1_0036_Request_Text" korean="추후 입력" />
+	<block key="SF_0_1_0036_Accepted_Text" korean="추후 입력" />
+	<block key="SF_0_1_0036_Ongoing_Text" korean="추후 입력" />
+	<block key="SF_0_1_0036_Complete_Text" korean="추후 입력" />
+	<block key="SF_0_1_0037_1_Title" korean="불이 삼킨 유적으로 출발하기 위한 준비" />
+	<block key="SF_0_1_0037_1_RewarderDesc" korean="대장장이 쿠할란" />
+	<block key="SF_0_1_0037_1_Request_Text" korean="이제 불이 삼킨 유적에 들어갈 준비만 하면 되겠군요. 한기 서린 천으로 만든 방어구, 그리고 냉기 속성 무기. 이거라면 몸을 지키기에는 충분할 거예요.<br><br>아쉬운 점이라면 냉기 속성을 지닌 펠로우가 없다는 건데…그러고 보니 브라기 족장이 데리고 있던 멧돼지가 얼음 크리스탈에 붙어 지냈다던데요." />
+	<block key="SF_0_1_0037_1_Request_Text_attach_0" korean="<br><br>동물들은 환경에 의한 속성을 지니기 쉬우니까 브라기 족장의 멧돼지라면 가능성이 있을지도 모르겠네요.<br><br>그래도 기본적인 준비는 이걸로 끝이에요. 이제 대장장이 쿠할란에게 이 재료들을 가져가면 무기를 준비해줄 거예요." />
+	<block key="SF_0_1_0037_1_Accepted_Text" korean="이 재료들을 가지고 대장장이 쿠할란에게 돌아가세요." />
+	<block key="SF_0_1_0037_1_Ongoing_Text" korean="당신이 불이 삼킨 유적으로 가서 브라카르 숲을 지배하는 화염 골렘을 처치할 마음을 가지고 있다면, 얼음 크리스탈과 미리 구해 놓은 타슬란의 심장을 가지고 신룡 기사단 주둔지로 돌아 가세요.<br><br>대장장이 쿠할란은 이 재료들을 가지고 화염 골렘을 상대할 얼음 속성의 무기를 만들어 줄 거에요." />
+	<block key="SF_0_1_0037_1_Complete_Text" korean="타슬란의 심장과 얼음 크리스탈을 가져왔다고??<br><br>용감하군! 이 일은 정말 위험한 일이었는데... 이리 주게나. 내가 얼음 무기를 만들어 주도록 하지." />
+	<block key="SF_0_1_0037_Title" korean="불이 삼킨 유적지로" />
+	<block key="SF_0_1_0037_RewarderDesc" korean="정찰대원 콘스란스" />
+	<block key="SF_0_1_0037_Request_Text" korean="신룡 기사단 부대는 화염 골렘을 처치하기 위해 불이 삼킨 유적지로 들어갔지만 아직 아무 연락이 없는 걸 보니 일이 생긴 게 틀림없어.<br><br>자네가 화염 동굴로 떠난 신룡 기사단 부대의 생존자를 찾아봐 주겠나? 아마도 화염 동굴이 있는 고대 유적지 폐허 북부에 생존자가 있을 것 같아. 혹시 모르니 지혈제를 가지고 가도록 하라고." />
+	<block key="SF_0_1_0037_Accepted_Text" korean="생존자를 찾아보라고." />
+	<block key="SF_0_1_0037_Ongoing_Text" korean="불이 삼킨 유적은… 지옥처럼 뜨거운 곳이오! 그 곳에서 화염 골렘과 싸우다가 대… 대부분 목숨을 잃었소.<br><br>난… 겨우… 빠져 나왔지만… 부상이 너무 심해서 움직일… 수가, 없소." />
+	<block key="SF_0_1_0037_Complete_Text" korean="불이 삼킨 유적은… 지옥처럼 뜨거운 곳이오! 그 곳에서 화염 골렘과 싸우다가 대… 대부분 목숨을 잃었소.<br><br>난… 겨우… 빠져 나왔지만… 부상이 너무 심해서 움직일… 수가, 없소." />
+	<block key="SF_0_1_0037_2_Title" korean="도움 요청하기" />
+	<block key="SF_0_1_0037_2_RewarderDesc" korean="정찰대원 세린" />
+	<block key="SF_0_1_0037_2_Request_Text" korean="이곳에서… 꼼짝도 할 수 없소... 광채나무 숲... 야영지에서… 정찰대원 세린을 찾아서... 치료에 필요한… 물품을 가져다 주시오……" />
+	<block key="SF_0_1_0037_2_Accepted_Text" korean="부탁… 하… 오…" />
+	<block key="SF_0_1_0037_2_Ongoing_Text" korean="이럴 수가!<br><br>불이 삼킨 유적으로 떠난 신룡 기사단 중에 생존자가 있단 말이에요?<br><br>어떤상태인가요? 상황은 어떤가요?" />
+	<block key="SF_0_1_0037_2_Complete_Text" korean="이럴 수가!<br><br>불이 삼킨 유적으로 떠난 신룡 기사단 중에 생존자가 있단 말이에요?<br><br>어떤상태인가요? 상황은 어떤가요?" />
+	<block key="SF_0_1_0037_3_Title" korean="상처 치료에 필요한 물품" />
+	<block key="SF_0_1_0037_3_RewarderDesc" korean="정찰대원 콘스란스" />
+	<block key="SF_0_1_0037_3_Request_Text" korean="홀로 살아남아 큰 상처를 입고 있다니… 상처 치료에 필요한 지혈제를 드리지요. 그리고, 무명 붕대는 상인에게 사실 수 있을 거예요.<br><br>서둘러서 콘스란스에게 돌아가 상처를 치료해 주세요." />
+	<block key="SF_0_1_0037_3_Accepted_Text" korean="정찰대원에게 지혈제와 무명 붕대를 가져다 주세요." />
+	<block key="SF_0_1_0037_3_Ongoing_Text" korean="치료…용품이 있소…?" />
+	<block key="SF_0_1_0037_3_Complete_Text" korean="정말… 고맙소. 잠시...<br><br>엘로라의 가호가 있기를! 당신이 없었다면 나는 여기서 죽었을 거요." />
+	<block key="SF_0_1_0038_Title" korean="크로우 찾기" />
+	<block key="SF_0_1_0038_RewarderDesc" korean="섀도우 클랜단장 크로우" />
+	<block key="SF_0_1_0038_Request_Text" korean="크로우님은 하카나스로 가는 통로를 적들이 점령하지 못하도록 지키고 계세요. 사람들이 대피할 수 있게 말이에요.<br><br>" />
+	<block key="SF_0_1_0038_Request_Text_attach_0" korean="당신은 공주님 때문에 하카나스 수도성으로 가야 하는 중요한 이유가 있다고 들었어요. 급한 일이라면 바로 크로우님을 만난 후 수도성으로 가시면 될 것 같아요." />
+	<block key="SF_0_1_0038_Accepted_Text" korean="크로우님을 찾도록 하세요." />
+	<block key="SF_0_1_0038_Ongoing_Text" korean="무사히 회복한 모양이라 다행이군.<br><br>잠시 떨어져 있는 동안 많은 일이 있었던 모양이지…" />
+	<block key="SF_0_1_0038_Complete_Text" korean="난 이곳을 지켜야 하니 자네가 수도성에 공주님 납치 소식을 전해야 할 것 같네.<br><br>자네밖에 믿을 사람이 없네." />
+	<block key="SF_0_1_0039_Title" korean="라니아 공주의 소식" />
+	<block key="SF_0_1_0039_RewarderDesc" korean="포탈 이동사 다리스" />
+	<block key="SF_0_1_0039_Request_Text" korean="여기 보이는 통로를 지나면 다리스라는 자가 기다릴 것이네.<br><br>그에게 내가 주는 편지를 전하게. 이건 앞으로의 대응책이며 수도성까지 여정에 도움을 줄 걸세." />
+	<block key="SF_0_1_0039_Accepted_Text" korean="이 통로를 지나 다리스라는 자를 찾게." />
+	<block key="SF_0_1_0039_Ongoing_Text" korean="다리스라는 자를 만나 어서 이 편지를 전해주게." />
+	<block key="SF_0_1_0039_Complete_Text" korean="이건 크로우 님의 편지...!<br><br>온갖 위험을 뚫고 이곳까지 오셨군요." />
+	<block key="SF_0_1_0040_Title" korean="오래된 철검 착용하기" />
+	<block key="SF_0_1_0040_RewarderDesc" korean="크로우" />
+	<block key="SF_0_1_0040_Request_Text" korean="가방을 열어서 오래된 철검을 착용하도록 하시오." />
+	<block key="SF_0_1_0040_Accepted_Text" korean="가방을 열어서 오래된 철검을 착용하도록 하시오." />
+	<block key="SF_0_1_0040_Ongoing_Text" korean="오래된 철검을 착용하였소?" />
+	<block key="SF_0_1_0040_Complete_Text" korean="무장이 되었군. 나를 도와주시오." />
+	<block key="SF_0_1_0041_Title" korean="수련용 마법봉 착용하기" />
+	<block key="SF_0_1_0041_RewarderDesc" korean="크로우" />
+	<block key="SF_0_1_0041_Request_Text" korean="가방을 열어서 수련용 마법봉을 착용하도록 하시오." />
+	<block key="SF_0_1_0041_Accepted_Text" korean="가방을 열어서 수련용 마법봉을 착용하도록 하시오." />
+	<block key="SF_0_1_0041_Ongoing_Text" korean="수련용 마법봉을 착용하였소?" />
+	<block key="SF_0_1_0041_Complete_Text" korean="무장이 되었군. 나를 도와주시오." />
+	<block key="SF_0_1_0042_Title" korean="석판의 비밀" />
+	<block key="SF_0_1_0042_RewarderDesc" korean="유적 조사단장" />
+	<block key="SF_0_1_0042_Request_Text" korean="이 악의 기운이 서려있는 석판을 가지고, 연못 중앙에 있는 신성한 나무에 가까이 가면 그 정기를 받아 악의 기운이 정화될 겁니다. 이 작업을 계속 시도했지만, 브라기들의 방해로 번번이 실패했답니다. 좀 도와주시겠습니까?" />
+	<block key="SF_0_1_0042_Accepted_Text" korean="이 캠프 앞에 있는 연못 중앙에 있는 분홍색 광채 나무 밑으로 가서 인벤토리를 열고 이 악의 기운이 서려있는 석판을 오른 클릭하시면 됩니다. 헌데, 조심하십시오. 저곳 어딘가에 이곳을 염탐하고 있는 브라기들이 숨어있답니다." />
+	<block key="SF_0_1_0042_Ongoing_Text" korean="이 악의 기운이 서려있는 석판을 가지고 이 캠프 앞에 보이는 연못 중앙의 분홍색 광채 나무 밑으로 가시면 됩니다. 그리고 석판을 오른 클릭하시면 됩니다. 그리고나서, 정화된 석판을 제게 가져다 주시면 됩니다." />
+	<block key="SF_0_1_0042_Complete_Text" korean="오! 감사합니다. 악의 기운이 모두 사라져서 이제 석판을 읽을 수 있겠네요. 드디어 이 유적의 비밀을 풀 수 있게 됐습니다요." />
+	<block key="SF_0_1_0043_Title" korean="유적 조사단장과 만나기" />
+	<block key="SF_0_1_0043_RewarderDesc" korean="유적 조사단장" />
+	<block key="SF_0_1_0043_Request_Text" korean="당신이 브라기들을 상대하는 동안 주변을 살펴본 결과, 이곳 서쪽에 유적 조사대가 와있는 것을 확인했소. 이곳은 내가 맡고 있을 테니, 그곳으로 가서 유적 조사대장을 만나보시오!" />
+	<block key="SF_0_1_0043_Accepted_Text" korean="유적 조사대 캠프는 이곳에서 서쪽으로 길을 따라가다보면 발견할 수 있을 것이오. 그들은 분명, 비행선 추락지의 부상자들에게 많은 도움이 될 수 있을 것 같소!" />
+	<block key="SF_0_1_0043_Ongoing_Text" korean="유적 조사대는 이곳의 서쪽에 있소. 길을 잘 모르겠으면, 지도를 열어보시오! 길을 찾는데 많은 도움이 될 것이오." />
+	<block key="SF_0_1_0043_Complete_Text" korean="당신은 아까 왔던 검은 옷을 입은 남자의 일행인가요? 그 사람, 불쑥 나타나서는 바람처럼 사라져버리더군요. 뭐가 그리 바쁜지 말입니다." />
+	<block key="SF_0_1_0044_Title" korean="얼어붙은 폐허로 가기" />
+	<block key="SF_0_1_0044_RewarderDesc" korean="숲의 안내자 엘프" />
+	<block key="SF_0_1_0044_Request_Text" korean="얼어붙은 폐허로 가시겠습니까?" />
+	<block key="SF_0_1_0044_Accepted_Text" korean="" />
+	<block key="SF_0_1_0044_Ongoing_Text" korean="얼어붙은 폐허로 가는 중" />
+	<block key="SF_0_1_0044_Complete_Text" korean="잘 오셨습니다. 이 곳은 얼어붙은 폐허입니다." />
+	<block key="SF_0_1_0045_Title" korean="불이 삼킨 유적으로 가기" />
+	<block key="SF_0_1_0045_RewarderDesc" korean="숲의 안내자 엘프" />
+	<block key="SF_0_1_0045_Request_Text" korean="불이 삼킨 유적으로 가시겠습니까?" />
+	<block key="SF_0_1_0045_Accepted_Text" korean="" />
+	<block key="SF_0_1_0045_Ongoing_Text" korean="불이 삼킨 유적으로 가는 중" />
+	<block key="SF_0_1_0045_Complete_Text" korean="잘 오셨습니다. 이곳은 불이 삼킨 유적입니다." />
+	<block key="SF_0_1_0046_Title" korean="보석에 숨은 괴물" />
+	<block key="SF_0_1_0046_RewarderDesc" korean="숲의 안내자 엘프" />
+	<block key="SF_0_1_0046_Request_Text" korean="이 물건은 이상하게 생겼습니다. 물건을 사용하면 뭔가 나타날 것 같습니다." />
+	<block key="SF_0_1_0046_Accepted_Text" korean="" />
+	<block key="SF_0_1_0046_Ongoing_Text" korean="이 물건을 웬지 사용해야 할 것 같습니다." />
+	<block key="SF_0_1_0046_Complete_Text" korean="이 물건은 아아 무사하셨습니까? 괴물과 싸워 승리하셨군요. 고생하셨습니다." />
+	<block key="SF_0_1_0047_Title" korean="위협적인 존재" />
+	<block key="SF_0_1_0047_RewarderDesc" korean="크로우" />
+	<block key="SF_0_1_0047_Request_Text" korean="모든 브라기들 중에 가장 위협적인 존재는 브라기 용사들이오. 그들이 떼로 공격해오지 못 하도록 한 마리씩 각개격파를 해야 하오. 이번은 상당히 어려운 싸움이 될 것이니 각오를 하는 편이 좋을 것이오!" />
+	<block key="SF_0_1_0047_Accepted_Text" korean="이곳 남서쪽에 있는 브라기 전초기지와 그 주변에 덩치 큰 브라기들이 돌아다니고 있을 것이오. 그 놈들이 바로 브라기 용사들이지. 2마리 해치우고 돌아오면 되오." />
+	<block key="SF_0_1_0047_Ongoing_Text" korean="브라기 전초기지에 브라기 용사들이 있소. 놈들을 2마리 없애고 돌아오면 되오." />
+	<block key="SF_0_1_0047_Complete_Text" korean="수고했네! 브라기 용사들을 이길 수 있을 정도라면, 이제 당신의 능력에 충분한 확신을 가질 수 있네!" />
+	<block key="SF_0_1_0048_1_Title" korean="스킬 레벨 2단계로 올리기" />
+	<block key="SF_0_1_0048_1_RewarderDesc" korean="전사 스킬 마스터 더글라스" />
+	<block key="SF_0_1_0048_1_Request_Text" korean="아직 초짜 중에서도 초짜로군. 그런 실력으로는 살아가기 힘들지. 적어도 원하는 걸 얻을 수 있으려면 한참 멀었어.<br><br>이번이 기술을 향상 시킬 수 있는 좋은 기회라고 생각하네. 지금 다른 기술을 배우는 것도 좋겠지만 이미 갖고 있는 기술을 2레벨로 올리는 것은 어떤가?" />
+	<block key="SF_0_1_0048_1_Accepted_Text" korean="좋아, 한 번 해보게!" />
+	<block key="SF_0_1_0048_1_Ongoing_Text" korean="뭘 미적거리고 있나?" />
+	<block key="SF_0_1_0048_1_Complete_Text" korean="이걸로 자넨 조금 강해졌네.<br><br>응? 조금이라 마음에 안 드나?" />
+	<block key="SF_0_1_0048_2_Title" korean="스킬 레벨 2단계로 올리기" />
+	<block key="SF_0_1_0048_2_RewarderDesc" korean="사제 스킬 마스터 에리나" />
+	<block key="SF_0_1_0048_2_Request_Text" korean="자신의 부족함을 느끼고 있다면 언제든 손을 내밀어주세요. 그대 앞에 있는 사람은 누구라도 손을 마주할 테니까요.<br><br>이번이 기술을 향상 시킬 수 있는 좋은 기회일 거예요. 다른 기술을 배우는 것도 좋겠지만 이미 갖고 있는 기술을 2레벨로 올리는 것은 어떤가요?" />
+	<block key="SF_0_1_0048_2_Accepted_Text" korean="기쁜 선택이에요." />
+	<block key="SF_0_1_0048_2_Ongoing_Text" korean="아직 망설이고 있나요?" />
+	<block key="SF_0_1_0048_2_Complete_Text" korean="흔들리더라도 꺾이지 않는 믿음을 간직해주세요." />
+	<block key="SF_0_1_0048_3_Title" korean="스킬 레벨 2단계로 올리기" />
+	<block key="SF_0_1_0048_3_RewarderDesc" korean="어쌔신 스킬 마스터 란스" />
+	<block key="SF_0_1_0048_3_Request_Text" korean="전사는 몸을, 위저드는 머리를, 프리스트는 신앙을, 네이처는 마음을 타고나지. 하지만 우리에겐 그런 것 따위 없어. 밑바닥 중에서도 밑바닥에서 기어오른 인생이잖나.<br><br>슬슬 다른 기술로 눈을 돌릴 때겠지만 적당히 올릴 기술이 없을 수도 있지. 이미 갖고 있는 기술을 2레벨로 올리는 것은 어떤가?" />
+	<block key="SF_0_1_0048_3_Accepted_Text" korean="후회하지 않을 걸세." />
+	<block key="SF_0_1_0048_3_Ongoing_Text" korean="어허, 뭐 하고 있어?" />
+	<block key="SF_0_1_0048_3_Complete_Text" korean="그만하면 됐군. 물론 그걸로 끝이 아니라는 것 정도는 알겠지?" />
+	<block key="SF_0_1_0048_4_Title" korean="스킬 레벨 2단계로 올리기" />
+	<block key="SF_0_1_0048_4_RewarderDesc" korean="마법사 스킬 마스터 디아나" />
+	<block key="SF_0_1_0048_4_Request_Text" korean="마법사라는 건 머리 나쁜 놈은 못해. 서두르는 놈도 못하고 게으른 놈도 못하지. 그리고 난 싹수 없는 놈은 취급도 안 해.<br><br>이런저런 마법에 손을 대고 싶겠지. 선택은 자기 마음이지만 이미 갖고 있는 마법을 2레벨로 올리는 건 어때?" />
+	<block key="SF_0_1_0048_4_Accepted_Text" korean="다음은 그쪽 하기 나름이야." />
+	<block key="SF_0_1_0048_4_Ongoing_Text" korean="뭐야, 게으름 피우는 거야?" />
+	<block key="SF_0_1_0048_4_Complete_Text" korean="아직도 애송이야, 애송이.<br><br>그래도 싹수는 보인다고 해줄게." />
+	<block key="SF_0_1_0048_5_Title" korean="스킬 레벨 2단계로 올리기" />
+	<block key="SF_0_1_0048_5_RewarderDesc" korean="네이처 스킬 마스터 아메릭스" />
+	<block key="SF_0_1_0048_5_Request_Text" korean="원하는 것이 있습니까? 가슴 속에 불안이 있습니까? 지금 상태로 불완전하다고 느끼시는군요.<br><br>다른 곳으로 눈길이 갈 시기이긴 합니다. 하지만 이미 갖고 있는 기술을 2레벨로 올리는 것도 고려해보시는 것이 어떻습니까?" />
+	<block key="SF_0_1_0048_5_Accepted_Text" korean="필요가 충족을 낳는 법이지요." />
+	<block key="SF_0_1_0048_5_Ongoing_Text" korean="되돌아가도 말리지는 않겠습니다." />
+	<block key="SF_0_1_0048_5_Complete_Text" korean="우리의 힘은 언제나 자연 속에 있다는 것을 아시겠습니까? 아직 모르셔도 됩니다. 지금 당신의 몸 안에 있는 힘을 믿는다면." />
+	<block key="SF_0_1_0049_Title" korean="알 수 없는 물약" />
+	<block key="SF_0_1_0049_RewarderDesc" korean="물약 상인 콜먼" />
+	<block key="SF_0_1_0049_Request_Text" korean="손님, 손님!<br><br>혹시 시간이나 건강이나 용기가 좀 남으시면 저 좀 도와주시겠습니까?<br><br>다름이 아니라 이번에 연금길드에서 물약을 납품 받았는데 이상한 게 섞여왔지 뭡니까." />
+	<block key="SF_0_1_0049_Request_Text_attach_0" korean="<br><br>이 물약을 마시고 브라기 놈들을 처리하면서 효과를 시험해주시겠습니까?<br><br>위험이요? 아니 연금길드 공인 약물에 위험은 무슨. 조~금 부작용은 있을 수도… 아니 그런 일 없습니다. 어떠십니까? 보수는 잘 드릴 텐데요." />
+	<block key="SF_0_1_0049_Accepted_Text" korean="예이, 감사합니다! ...설마 부작용은 없겠지." />
+	<block key="SF_0_1_0049_Ongoing_Text" korean="잘 좀 부탁드립니다!" />
+	<block key="SF_0_1_0049_Complete_Text" korean="무사하셨군요! 아니아니, 딱히 위험한 건 없지 않았습니까?<br><br>에이, 실험이라니 그럴 리가 있나요. 연금길드에는 제가 잘 말해두겠습니다!" />
+	<block key="SF_0_1_0050_Title" korean="닮은 사람?" />
+	<block key="SF_0_1_0050_RewarderDesc" korean="잡화&물약 상인 케니" />
+	<block key="SF_0_1_0050_Request_Text" korean="어머, 뭘 그렇게 보시죠? 설마, 저한테 반하신 건…!<br><br>….아니라구요. 네, 그렇겠죠. 어머나, 저하고 닮은 사람이라니 그거 참 특이한, 어머, 설마?! 그러고 보니 손님 추락한 비행선에 타고 계셨다고 했죠?<br><br>" />
+	<block key="SF_0_1_0050_Request_Text_attach_0" korean="역시! 아아, 케니 였군요. 그 아이도 벌써 장사를 시작했다니. 세월이… 아차차, 아무튼 힘들겠네요.<br><br>그렇지, 손님 부탁 하나만 할게요. 그 아이한테 가서 물건을 좀 사주겠어요? 햇병아리 상인에 사고까지 당해서 변변한 물건이야 없겠지만. 집안 어른… 아니 이게 아니라 아무튼! 아는 사이니까 좀 도와주고 싶네요." />
+	<block key="SF_0_1_0050_Accepted_Text" korean="들키지 않게 조심해주세요!" />
+	<block key="SF_0_1_0050_Ongoing_Text" korean="아직 안 가셨어요?" />
+	<block key="SF_0_1_0050_Complete_Text" korean="또 오셨군요, 손님! 무슨 물건이 필요하신가요?<br><br>네에?! 전부요?" />
+	<block key="SF_0_1_0052_Title" korean="색다른 음식" />
+	<block key="SF_0_1_0052_RewarderDesc" korean="숲의 안내자 엘프" />
+	<block key="SF_0_1_0052_Request_Text" korean="이곳에 온 것도 벌써 몇 달인지 기억도 안 나는군. 매일 싸우고 경계하는 일만 하다보면 사명감이 가득한 몸이라고 해도 지친다오.<br><br>" />
+	<block key="SF_0_1_0052_Request_Text_attach_0" korean="그런데 저기 있는 엘프는 항상 활기가 넘친다오. 변변히 쉬지도 못하면서 어떻게 그럴 수 있는지 궁금하지 않소?<br><br>그건 그가 가진 음식 덕이라 하오. 엘프의 음식은 긴 여행에도 쉽게 지치지 않게 해준다 하더군. 그래서, 부탁이 있는데, 그에게 조금만 얻어다 줄 수 없겠소?" />
+	<block key="SF_0_1_0052_Accepted_Text" korean="커험, 바쁜 모양인데 어서 가보시오!" />
+	<block key="SF_0_1_0052_Ongoing_Text" korean="곤란한 표정이로군. 무슨 일인가? 내가 도울 수 있는 일이라면 말해보게." />
+	<block key="SF_0_1_0052_Complete_Text" korean="곤란한 표정이로군. 무슨 일인가? 내가 도울 수 있는 일이라면 말해보게." />
+	<block key="SF_0_1_0053_Title" korean="엘프의 전통음식" />
+	<block key="SF_0_1_0053_RewarderDesc" korean="정찰대원 누메릭스" />
+	<block key="SF_0_1_0053_Request_Text" korean="엘프의 식사에 대해 알고 싶다고? 확실히 엘프가 가진 활력은 식사에서 오는 것도 있지.<br><br>하지만 생명을 소중히 하고 자연과 하나가 되려는 마음가짐을 버린다면 아무리 좋은 음식이라도 쓸모가 없어.<br><br>일단 음식은 주겠지만  자네의 마음이 조화와 균형을 갖추길 바라겠네. 딱히 아낄 것도 아니니… 자, 여기있네." />
+	<block key="SF_0_1_0053_Accepted_Text" korean="물론 맛은 보장할 수 없지만…" />
+	<block key="SF_0_1_0053_Ongoing_Text" korean="가져왔소?" />
+	<block key="SF_0_1_0053_Complete_Text" korean="보기에는 휴대식량하고 비슷한데, 향기는…음, 없군. 맛은 보았소?<br><br>아니, 겁이라니! 기사된 자가 고작 먹을 것에 겁을 낼 것 같소!<br><br>(덥썩! 우적우적!)<br><br>우크흐어어…윽! 끄억…<br><br>조, 조조조조조조조조좋은 맛이오. 아, 나는 돼돼돼됐으니 나머지는 당신이 드시오. 근무 중에는 배를 많이 채우지 않는 법이니. 그, 그럼!" />
+	<block key="SF_0_1_0054_Title" korean="낙제생" />
+	<block key="SF_0_1_0054_RewarderDesc" korean="대장장이 스밀란" />
+	<block key="SF_0_1_0054_Request_Text" korean="알고 계시는지 모르지만 저희 크로쿤 족은 손재주가 좋아요. 덕분에 제련공방이나 제봉공방에서 일하는 게 보통이죠. 근데 저는 왜 상인을 하고 있느냐구요?<br><br>저희는 간혹 나오는 무능한 아이에게는 아무 도구도 주지 않아요. 공방에서 쓰는 도구는 비싸거든요.<br><br>근데 이번에 스밀란님이 제가 원한다면 도구를 마련해준다고 하셨어요!" />
+	<block key="SF_0_1_0054_Request_Text_attach_0" korean="정식 도구는 아니지만, 모양만이라도 좋다면 마련해 주겠다고! 문제는 쿠할란님이 많이 엄하셔서, 들키면 안 된다는 거예요.<br><br>부탁합니다! 쿠할란님의 눈을 피해서 스밀란님께 이야기를 전해주세요! 꼭 부탁드린다고! 공방에 못 들어간다고 해도, 흉내라고 해도 갖고 싶어요!" />
+	<block key="SF_0_1_0054_Accepted_Text" korean="장난감 같은 공구라도 좋습니다." />
+	<block key="SF_0_1_0054_Ongoing_Text" korean="아말란 녀석의 부탁이라, 내가 먼저 꺼낸 말이니 들어 줄 수밖에 없겠군.<br><br>이야기를 전해줘서 고맙군요." />
+	<block key="SF_0_1_0054_Complete_Text" korean="아말란 녀석의 부탁이라, 내가 먼저 꺼낸 말이니 들어 줄 수밖에 없겠군.<br><br>이야기를 전해줘서 고맙군요." />
+	<block key="SF_0_1_0055_Title" korean="대장장이의 연민" />
+	<block key="SF_0_1_0055_RewarderDesc" korean="대장장이 스밀란" />
+	<block key="SF_0_1_0055_Request_Text" korean="아말란 녀석은 착하고 성실해요. 그래서 그만 공구를 한없이 바라보는 녀석에게 그런 말을 해버렸습니다.<br><br>쿠할란 형님께 들키면 큰일이죠. 불처럼 화낼 겁니다. 분명 대장장이에 대한 모욕이라고 생각할 테니." />
+	<block key="SF_0_1_0055_Request_Text_attach_0" korean=" 아말란 녀석이 모양만이라도 공구를 갖고 싶다고 한 건, 아마 공방에 들어가는 걸 어린 시절의 꿈으로 묻어버리기 위한 걸 텐데 그런 변명도 안 듣겠죠.<br><br>장사 하는 게 적성에도 맞고 흥미도 있는 모양이니 다행이지요. 그럼, 재료 좀 부탁드립니다. 도구 만들 시간을 확보하려면 일을 좀 서둘러 처리해야 하니 재료 모을 시간이 없군요." />
+	<block key="SF_0_1_0055_Accepted_Text" korean="아이고 쿠할란 형님, 그 일은 이리 내쇼!" />
+	<block key="SF_0_1_0055_Ongoing_Text" korean="쿠할란 형님께 들키면 안 됩니다." />
+	<block key="SF_0_1_0055_Complete_Text" korean="이 정도면 충분합니다. 실제로 철을 두드리거나 돌을 깍지는 못하겠지만, 나무 세공 정도는 충분히 할 수 있는 걸 준비할 수 있겠어요." />
+	<block key="SF_0_1_0056_Title" korean="장난감 같은 도구들" />
+	<block key="SF_0_1_0056_RewarderDesc" korean="방어구 상인 아말란" />
+	<block key="SF_0_1_0056_Request_Text" korean="자, 이제 다 끝났습니다.<br><br>재료가 재료라 박력은 없지만 모양은 괜찮게 나왔군요. 이걸 아말란 녀석에게 좀 전해주십시오.<br><br>우리도 이제 재능 갖고 차별하는 건 그만둬야 할 텐데…" />
+	<block key="SF_0_1_0056_Accepted_Text" korean="또 힘내서 해볼까!" />
+	<block key="SF_0_1_0056_Ongoing_Text" korean="그렇게 튼튼한 물건이 아니니 조심해주세요." />
+	<block key="SF_0_1_0056_Complete_Text" korean="이, 이렇게 훌륭한 공구라니! 정말, 정말 감사합니다! 공구를 쥐는 건 꿈이라고만 생각했어요. 장난감이라뇨! 이런 장난감은 돈 주고도 못 구할 겁니다!<br><br>스밀란 님께도 감사를 드려야 할 텐데, 뭘 하면 좋을까요? 아니, 이건 제가 생각해야겠죠.<br><br>이거, 정말 감사합니다!" />
+	<block key="SF_0_1_0057_Title" korean="손재주 없는 크로쿤의 선택" />
+	<block key="SF_0_1_0057_RewarderDesc" korean="방어구 상인 아말란" />
+	<block key="SF_0_1_0057_Request_Text" korean="요즘은 갑옷 같은 방어구라고 해도 패션에 신경을 쓴다고 하는 건 아십니까? 의장용이 아니라도 말입니다.<br><br>그게 바로 패션이라는 거죠. 패션이라는 건 남에게 보이기 위한 것만이 아니라 자기 기분을 좋게 하는 작용도 한다더군요." />
+	<block key="SF_0_1_0057_Request_Text_attach_0" korean="<br><br>근데 이게 염색약이 있어야 뭘 해도 할 텐데, 그러고 보니 광채나무 숲에 있는 정찰대원 중에 염색약을 만드는 녀석이 있다던가.<br><br>브라기 본거지 쪽에 염색약을 만들 수 있는 약초를 구할 수 있다던가 하던데요. 거기서 구할 수 있을지도 모르겠네요." />
+	<block key="SF_0_1_0057_Accepted_Text" korean="연금길드에 주문할 수밖에 없나…" />
+	<block key="SF_0_1_0057_Ongoing_Text" korean="우리 대장장이 분들은 그런 거에 너무 신경 쓰지 말라고 하십니다. 우리는 심미안도 없는 줄 아냐면서.<br><br>물론 훌륭한 대장장이 분들이니까 지금도 충분히 좋은 물건들만 만드시죠.<br><br>그래도 그분들이 혹시나 신경 못 쓰는 부분이 있다면 제가 돕고 싶군요." />
+	<block key="SF_0_1_0057_Complete_Text" korean="아니, 이걸 어떻게 구하셨습니까?!<br><br>루이? 그 정찰대원이 말입니까? 별일이군요. 기사단에 이런 걸 신경 쓰는 사람도 있었다니.<br><br>이렇게 신경 써주셔서 감사합니다. 앞으로도 계속 연습할 수 있게 됐군요." />
+	<block key="SF_0_1_0059_Title" korean="괜한 걱정" />
+	<block key="SF_0_1_0059_RewarderDesc" korean="잡화&음식 상인 아디나" />
+	<block key="SF_0_1_0059_Request_Text" korean="뭔가 이상한데요…손님, 좀 멀리까지 다녀오셨죠? 그러니까, 아마도 기사단 주둔지 정도까지?<br><br>바른대로 말하세요! 누구 말을 듣고 온 거예요?! 아니 이런 변변찮은 행상 물건을 전부 사겠다는데 어떻게 의심스럽지 않을 수 있는지 의심스럽네요!<br><br>" />
+	<block key="SF_0_1_0059_Request_Text_attach_0" korean="…그래요, 아디나 아줌… 아니, 언니였군요. 흥, 괜한 걱정이나 하고 있어.<br><br>제 물건 사주는 건 됐어요! 저도 상인의 자존심이 있는 몸이라구요! 자요, 이거나 그 아주...언니한테 갖다 주세요!" />
+	<block key="SF_0_1_0059_Accepted_Text" korean="아직도 애취급이란 말이야, 아무튼!<br><br>…후훗. 에헤헷." />
+	<block key="SF_0_1_0059_Ongoing_Text" korean="부탁 들어줘서 고마워요." />
+	<block key="SF_0_1_0059_Complete_Text" korean="들켰단 말이죠. 하긴, 어절 수 없죠. 상인이라면 그만한 눈치는 있어야 하니까요.<br><br>그런데 선물이라니 어떤 걸…이, 이건!<br><br>" />
+	<block key="SF_0_1_0059_Complete_Text_attach_0" korean="15년만이에요. 이건, 집을 떠나는 아이에게 주는 저희 일족의 도시락이에요. 오래 먹을 수 있도록 만들었다지만 많지도 않을 텐데 이걸 선물해주다니.<br><br>흑, 훌쩍…감사합니다, 정말, 고마워요. 훌쩍." />
+	<block key="SF_0_1_0001_01_Title" korean="펠로우의 필요성" />
+	<block key="SF_0_1_0001_01_RewarderDesc" korean="야수 조련사 엑셀" />
+	<block key="SF_0_1_0001_01_Request_Text" korean="구해온 물건들을 조사해보니 엘퀴네스를 혼자서 상대하기는 힘들어요 . 요정들과 싸워봐서 알겠지만 어둠의 힘을 가진 펠로우의 도움이 필요하다고 생각되요.<br><br>그러고 보니, 당신은 아직 펠로우가 없는 것 같군요. 단순히 타고 다니기 위해서든 전투에 도움을 받기 위해서든 펠로우는 필수라고 할 수 있어요.<br><br>" />
+	<block key="SF_0_1_0001_01_Request_Text_attach_0" korean="우선 펠로우를 길들이는 기술을 배워야겠죠? 신룡기사단 주둔지에 야수 조련사 엑셀이 있어요. 엑셀에게 가면 길들이기를 배울 수 있을 거예요." />
+	<block key="SF_0_1_0001_01_Accepted_Text" korean="잘 배워두세요." />
+	<block key="SF_0_1_0001_01_Ongoing_Text" korean="어서오시게! 자넬 기다리느라 목이 빠지는 줄 알았다구, 하하." />
+	<block key="SF_0_1_0001_01_Complete_Text" korean="어서오시게! 자넬 기다리느라 목이 빠지는 줄 알았다구, 하하." />
+	<block key="SF_0_1_0001_02_Title" korean="야수를 길들이는 방법" />
+	<block key="SF_0_1_0001_02_RewarderDesc" korean="야수 조련사 엑셀" />
+	<block key="SF_0_1_0001_02_Request_Text" korean="자네에게 길들이기를 가르쳐주게 되서 매우 기쁘군.<br><br>마침 아까부터 누가 사육된 멧돼지를 길들이려고 하는것 같은데… 자, 길들이는 모습을 지켜보자구." />
+	<block key="SF_0_1_0001_02_Accepted_Text" korean="마침 아까부터 누가 사육된 멧돼지를 길들이려고 하는 것 같은데…" />
+	<block key="SF_0_1_0001_02_Ongoing_Text" korean="저 사람은 천성적으로 펠로우와 교감할 자질이 부족해보이는군.<br><br>자네는 웬지 모르게 잠재력이 보이는데… 야수를 길들이는 스킬을 가르쳐주겠네." />
+	<block key="SF_0_1_0001_02_Complete_Text" korean="저 사람은 천성적으로 펠로우와 교감할 자질이 부족해보이는군.<br><br>자네는 웬지 모르게 잠재력이 보이는데… 야수를 길들이는 스킬을 가르쳐주겠네." />
+	<block key="SF_0_1_0001_03_Title" korean="길들이기를 연습하자!" />
+	<block key="SF_0_1_0001_03_RewarderDesc" korean="야수 조련사 엑셀" />
+	<block key="SF_0_1_0001_03_Request_Text" korean="이제 자네도 도전해보라구.<br><br>먼저, 길들이기가 가능한 야수를 선택하는 거야. 마음에 드는 야수를 선택했으면 길들이기 스킬을 시전시킨 후 조심스럽게 적당한 거리까지 다가가는 거지. 그러곤 적당한 시점에 야수의 등에 올라타면 돼." />
+	<block key="SF_0_1_0001_03_Request_Text_attach_0" korean="<br><br>거리를 잘못 맞추면 야수가 공격하게 되니 조심하라구." />
+	<block key="SF_0_1_0001_03_Accepted_Text" korean="잘 할 수 있을 거야." />
+	<block key="SF_0_1_0001_03_Ongoing_Text" korean="야수를 길들여 봤나? 길들여진 멧돼지라 그리 어렵진 않을 텐데 말이야." />
+	<block key="SF_0_1_0001_03_Complete_Text" korean="역시! 정말 대~단하군!<br><br>자넨 아주 쉽게 해내리라 믿었다고!" />
+	<block key="SF_0_1_0001_04_Title" korean="야수를 길들이는 방법" />
+	<block key="SF_0_1_0001_04_RewarderDesc" korean="야수 조련사 엑셀" />
+	<block key="SF_0_1_0001_04_Request_Text" korean="자네에게 길들이기를 가르쳐주게 되서 매우 기쁘군.<br><br>마침 아까부터 누가 사육된 멧돼지를 길들이려고 하는것 같은데… 지켜보기로 할까?" />
+	<block key="SF_0_1_0001_04_Accepted_Text" korean="마침 아까부터 누가 사육된 멧돼지를 길들이려고 하는 것 같은데…" />
+	<block key="SF_0_1_0001_04_Ongoing_Text" korean="저 사람은 천성적으로 펠로우와 교감할 자질이 부족해보이는군.<br><br>자네는 웬지 모르게 잠재력이 보이는데… 야수를 길들이는 스킬을 가르쳐주겠네." />
+	<block key="SF_0_1_0001_04_Complete_Text" korean="저 사람은 천성적으로 펠로우와 교감할 자질이 부족해보이는군.<br><br>자네는 웬지 모르게 잠재력이 보이는데… 야수를 길들이는 스킬을 가르쳐주겠네." />
+	<block key="SF_0_1_0001_05_Title" korean="야수를 길들이는 방법" />
+	<block key="SF_0_1_0001_05_RewarderDesc" korean="야수 조련사 엑셀" />
+	<block key="SF_0_1_0001_05_Request_Text" korean="자네에게 길들이기를 가르쳐주게 되서 매우 기쁘군.<br><br>마침 아까부터 누가 사육된 멧돼지를 길들이려고 하는것 같은데… 지켜보기로 할까?" />
+	<block key="SF_0_1_0001_05_Accepted_Text" korean="마침 아까부터 누가 사육된 멧돼지를 길들이려고 하는 것 같은데…" />
+	<block key="SF_0_1_0001_05_Ongoing_Text" korean="저 사람은 천성적으로 펠로우와 교감할 자질이 부족해보이는군.<br><br>자네는 웬지 모르게 잠재력이 보이는데… 야수를 길들이는 스킬을 가르쳐주겠네." />
+	<block key="SF_0_1_0001_05_Complete_Text" korean="저 사람은 천성적으로 펠로우와 교감할 자질이 부족해보이는군.<br><br>자네는 웬지 모르게 잠재력이 보이는데… 야수를 길들이는 스킬을 가르쳐주겠네." />
+	<block key="SF_0_1_0001_06_Title" korean="야수를 길들이는 방법" />
+	<block key="SF_0_1_0001_06_RewarderDesc" korean="야수 조련사 엑셀" />
+	<block key="SF_0_1_0001_06_Request_Text" korean="자네에게 길들이기를 가르쳐주게 되서 매우 기쁘군.<br><br>마침 아까부터 누가 사육된 멧돼지를 길들이려고 하는것 같은데… 지켜보기로 할까?" />
+	<block key="SF_0_1_0001_06_Accepted_Text" korean="마침 아까부터 누가 사육된 멧돼지를 길들이려고 하는 것 같은데…" />
+	<block key="SF_0_1_0001_06_Ongoing_Text" korean="저 사람은 천성적으로 펠로우와 교감할 자질이 부족해보이는군.<br><br>자네는 웬지 모르게 잠재력이 보이는데… 야수를 길들이는 스킬을 가르쳐주겠네." />
+	<block key="SF_0_1_0001_06_Complete_Text" korean="저 사람은 천성적으로 펠로우와 교감할 자질이 부족해보이는군.<br><br>자네는 웬지 모르게 잠재력이 보이는데… 야수를 길들이는 스킬을 가르쳐주겠네." />
+	<block key="SF_0_1_0001_07_Title" korean="야수를 길들이는 방법" />
+	<block key="SF_0_1_0001_07_RewarderDesc" korean="야수 조련사 엑셀" />
+	<block key="SF_0_1_0001_07_Request_Text" korean="자네에게 길들이기를 가르쳐주게 되서 매우 기쁘군.<br><br>마침 아까부터 누가 사육된 멧돼지를 길들이려고 하는것 같은데… 지켜보기로 할까?" />
+	<block key="SF_0_1_0001_07_Accepted_Text" korean="마침 아까부터 누가 사육된 멧돼지를 길들이려고 하는 것 같은데…" />
+	<block key="SF_0_1_0001_07_Ongoing_Text" korean="저 사람은 천성적으로 펠로우와 교감할 자질이 부족해보이는군.<br><br>자네는 웬지 모르게 잠재력이 보이는데… 야수를 길들이는 스킬을 가르쳐주겠네." />
+	<block key="SF_0_1_0001_07_Complete_Text" korean="저 사람은 천성적으로 펠로우와 교감할 자질이 부족해보이는군.<br><br>자네는 웬지 모르게 잠재력이 보이는데… 야수를 길들이는 스킬을 가르쳐주겠네." />
+	<block key="SF_0_1_0060_Title" korean="G☆STAR 2010! 브라기 석궁 파괴" />
+	<block key="SF_0_1_0060_RewarderDesc" korean="G☆STAR 이벤트 도우미" />
+	<block key="SF_0_1_0060_Request_Text" korean="주변에 쾅쾅 소리를 내며 떨어지는 화살을 보셨나요?<br><br>바로 눈앞에 있는 브라기 전초기지에서 쏘고 있는 거대 석궁 화살입니다. 석궁을 파괴해서 주변에 있는 신룡 기사단을 도와주세요!" />
+	<block key="SF_0_1_0060_Accepted_Text" korean="힘내세요!" />
+	<block key="SF_0_1_0060_Ongoing_Text" korean="브라기 석궁을 파괴하셨나요?<br><br>잠시 기다리시면 수리병이 수리를 하러 달려올 거예요. 브라기 수리병이 석궁을 수리하는 중일 때 공격을 하시면 퀘스트를 진행하실 수 있습니다." />
+	<block key="SF_0_1_0060_Complete_Text" korean="축하합니다~!<br><br>G☆STAR 2010 이벤트 퀘스트!
+<b>브라기 석궁 파괴</b>를 완료하셨습니다!" />
+	<block key="SF_0_1_0061_Title" korean="G☆STAR 2010! 야생 늑대를 길들여라!" />
+	<block key="SF_0_1_0061_RewarderDesc" korean="G☆STAR 이벤트 도우미" />
+	<block key="SF_0_1_0061_Request_Text" korean="NED에서 빼놓을 수 없는 길들이기를 해볼 시간이 왔습니다!<br><br>길들이기는 주변에 있는 야생동물을 내 친구이자 동료인 <b>펠로우</b>로 만드는 기술입니다. 점점 다양한 동물들이 나올 테니까 기대하면서 기다려주세요!<br><br>이번에는 가까이 있는 야생 늑대를 길들여보도록 하겠습니다.<br><br>그럼, 다녀오세요~" />
+	<block key="SF_0_1_0061_Accepted_Text" korean="성공을 기원합니다~!" />
+	<block key="SF_0_1_0061_Ongoing_Text" korean="길들이기는 몬스터를 타겟으로 잡고 길들이기 스킬을 사용하는 것으로 시작됩니다.<br><br>스킬이 활성화되면 손 부분이 빛나는데 이때 몬스터의 등 뒤에서 점프합니다. 거리를 잘 맞춰 몬스터의 등에 올라타면 길들이기의 마지막 단계입니다.<br><br>날뛰는 몬스터의 등 뒤에서 떨어져 싸우게 될지, 아니면 몬스터가 내 <b>펠로우</b>가 될지는 이제 하늘만 알겠죠." />
+	<block key="SF_0_1_0061_Complete_Text" korean="축하합니다~!<br><br>G☆STAR 2010 이벤트 퀘스트!
+<b>야생 늑대를 길들여라!</b>를 완료하셨습니다!" />
+	<block key="SF_0_1_0062_Title" korean="G☆STAR 2010! 브라기를 공격하라!" />
+	<block key="SF_0_1_0062_RewarderDesc" korean="G☆STAR 이벤트 도우미" />
+	<block key="SF_0_1_0062_Request_Text" korean="G☆STAR 2010! 즐겁게 보내고 계신가요?<br><br>하카나스 왕국과 가까운 이곳 브라카르 숲은 자원이 풍부해서 예로부터 많은 종족이 신세를 지고 있습니다. 그런데 지금 브라카르 숲을 침범한 브라기는 숲을 훼손할 뿐 다시 가꾸지는 않습니다. 그들이 지나간 곳은 피폐해지고 말아요.<br><br>가까이 있는 브라기 전초기지에서 브라기 일꾼과 브라기 전투병을 처치해서 정령의 숲을 지켜주세요!" />
+	<block key="SF_0_1_0062_Accepted_Text" korean="공격~공격~~!" />
+	<block key="SF_0_1_0062_Ongoing_Text" korean="목표는 브라기 일꾼과 브라기 전투병입니다.<br><br>숲을 훼손하는 브라기를 처치하고 돌아와주세요." />
+	<block key="SF_0_1_0062_Complete_Text" korean="축하합니다~!<br><br>G☆STAR 2010 이벤트 퀘스트!
+<b>브라기를 공격하라!</b>를 완료하셨습니다!" />
+	<block key="SF_0_1_0063_0_Title" korean="화재 진압 현장" />
+	<block key="SF_0_1_0063_0_RewarderDesc" korean="벌목소 소장 저스틴" />
+	<block key="SF_0_1_0063_0_Request_Text" korean="비행 펠로우가 추락하면서 화재가 발생했는데 여기에 대처할 사람이 부족하네. 지금 벌목소 감독관 알렌이 물가에 가서 화재에 대처하고 있어. 혼자서 대처할 수 있는 상황이 아니니까 꼭 도와주면 좋겠군.<br><br>알렌은 길을 따라가다 왼쪽을 보면 나오는 샘 근처에 있을 거야." />
+	<block key="SF_0_1_0063_0_Accepted_Text" korean="알렌 혼자 불을 끄기엔 사람이 부족할거야." />
+	<block key="SF_0_1_0063_0_Ongoing_Text" korean="이야! 이거 다 타버리는 줄 알았는데..  잘 됐어! 힘내서 빨리 불을 꺼보자구!" />
+	<block key="SF_0_1_0063_0_Complete_Text" korean="이야! 이거 다 타버리는 줄 알았는데..  잘 됐어! 힘내서 빨리 불을 꺼보자구!" />
+	<block key="SF_0_1_0063_Title" korean="숲의 화재를 막아라 I" />
+	<block key="SF_0_1_0063_RewarderDesc" korean="벌목소 소장 저스틴" />
+	<block key="SF_0_1_0063_Request_Text" korean="우선 물통을 줄테니 저 앞으로 내려가면 보이는 샘에 들어가서 물을 퍼와 달라구.<br><br>그리고 나서 퍼온 물로 물품들에 붙은 불을 끄는 거야!" />
+	<block key="SF_0_1_0063_Accepted_Text" korean="샘 깊숙히 들어가서 물통에 꽉꽉 담아와줘." />
+	<block key="SF_0_1_0063_Ongoing_Text" korean="물통을 이용해서 샘의 물을 떠오는거야!" />
+	<block key="SF_0_1_0063_Complete_Text" korean="좋아, 역시 기사님이라 빠릿빠릿한데? 자, 힘내서 빨리 불을 꺼보자구!" />
+	<block key="SF_0_1_0063_1_Title" korean="숲의 화재를 막아라 II" />
+	<block key="SF_0_1_0063_1_RewarderDesc" korean="벌목소 소장 저스틴" />
+	<block key="SF_0_1_0063_1_Request_Text" korean="이제 퍼온 물로 물품들에 붙은 불을 끄는거야!" />
+	<block key="SF_0_1_0063_1_Accepted_Text" korean="물건들에 물 같은 걸 끼얹으면 되는거야." />
+	<block key="SF_0_1_0063_1_Ongoing_Text" korean="불이 크게 나고 있는 것들부터 꺼 주면 고맙겠어!" />
+	<block key="SF_0_1_0063_1_Complete_Text" korean="후, 수고 많았어.<br><br> 정말 많은 도움이 됐다구. 여전히 사방이 불타고 있긴 하지만.. 조금만 더 하면 뭐 어떻게든 되겠지." />
+	<block key="SF_0_1_0063_2_Title" korean="위협적인 야생동물들" />
+	<block key="SF_0_1_0063_2_RewarderDesc" korean="호위기사 토르투스" />
+	<block key="SF_0_1_0063_2_Request_Text" korean="겨우 급한 불은 끈 것 같은데. 이걸 어쩌지? 용맹하신 기사님은 다음 문제를 해결해야 할 것 같은데 말야..<br><br> 추락 이후로 야생 동물들이 날뛰고 있어서 골칫덩이란 말씀야..<br><br>저쪽에 토르투스라는 기사가 야생동물을 막기위해 아까 떠났는데 그를 도와줬으면 좋겠어. 혹시 아는 사람인가?" />
+	<block key="SF_0_1_0063_2_Accepted_Text" korean="토르투스는 길 건너 목책 근처에 있어." />
+	<block key="SF_0_1_0063_2_Ongoing_Text" korean="토르투스는 길 건너 목책 근처에 있어." />
+	<block key="SF_0_1_0063_2_Complete_Text" korean="[UserName]? 여긴 사방이 귀찮은 것 투성이군. 나는 여기서 여우나 늑대가 들어오는 걸 막고 있겠다. 부상자들이 몸을 추스려서 이 곳을 떠날때까지 버텨주지." />
+	<block key="SF_0_1_0064_Title" korean="부상자들을 치료하라!" />
+	<block key="SF_0_1_0064_RewarderDesc" korean="섀도우 클랜 크로우" />
+	<block key="SF_0_1_0064_Request_Text" korean="구해오신 치료약으로 몇 명은 위기를 넘겼어요. 그런데 비행 펠로우가 추락할 때 다친 벌목꾼들이 많습니다. 근처에 있는 사람들은 어떻게 구했지만…<br><br>다친 벌목꾼들을 찾아 조금 전에 구한 치료약으로 치료해주세요. 이걸로 급한 처치는 될 겁니다.<br><br>치료가 끝나면 크로우님께 이 소식을 전달하면 고맙겠습니다." />
+	<block key="SF_0_1_0064_Accepted_Text" korean="서둘러 벌목꾼들을 치료해야 합니다!" />
+	<block key="SF_0_1_0064_Ongoing_Text" korean="눈에 띄지 않는 곳에 있을 수도 있으니까 잘 찾아보세요." />
+	<block key="SF_0_1_0064_Complete_Text" korean="자네가 사람들을 돕고 다녀서 큰 힘이 되는군. 어서 빨리 이곳 사태를 수습하고, 공주님에 대한 소식을 왕국에 알려야 하네." />
+	<block key="SF_0_1_0065_Title" korean="인간을 잡아먹는 늑대" />
+	<block key="SF_0_1_0065_RewarderDesc" korean="정찰대원 울프릭스" />
+	<block key="SF_0_1_0065_Request_Text" korean="이름이 울프릭스라는 이유로 늑대를 잡으라고 발령이 떨어져서..<br>얼마전 타이거라는 대원은 호랑이를 잡으러 갔다가 실종됐다던데 말입니다. <br>거기에 잡으라는 늑대는 프릿샤라는 식인늑대입니다!<br><br>" />
+	<block key="SF_0_1_0065_Request_Text_attach_0" korean="뻔히 사람 잡는 늑대라고 알려져 있는데 제가 미쳤다고 거기 가겠습니까? <br>그래서 이러지도 저러지도 못하고 있습니다. 기사님이 처리해주신다면 참 좋을텐데.." />
+	<block key="SF_0_1_0065_Accepted_Text" korean="잘 부탁드립니다!" />
+	<block key="SF_0_1_0065_Ongoing_Text" korean="정말 말도 안 됩니다. 이름이 같다고 무작정 유적지 서쪽의 식인 늑대를 잡으라니.. 진짜 말이 되는 소리를 해야지..안 그렇습니까?" />
+	<block key="SF_0_1_0065_Complete_Text" korean="고맙습니다. 역시 호위기사님은 정말 용맹하시지 말입니다. <br>이제 제가 잡은 척 야영지로 돌아갈 일만 남았습니다!" />
+	<block key="SF_0_1_0065_1_Title" korean="알렉스에게 소식 전달" />
+	<block key="SF_0_1_0065_1_RewarderDesc" korean="부관 알렉스" />
+	<block key="SF_0_1_0065_1_Request_Text" korean="부관 알렉스님은 고대 유적지 남부 야영지에 머물고 계시지 말입니다. 저는 일도 마쳤는데 조금만 더 있다가 가겠습니다." />
+	<block key="SF_0_1_0065_1_Accepted_Text" korean="프릿샤를 처치한 걸 알면 알렉스님이 기뻐하시겠지 말입니다!" />
+	<block key="SF_0_1_0065_1_Ongoing_Text" korean="부관 알렉스님께 보고 드려 주시면 되시지 말입니다." />
+	<block key="SF_0_1_0065_1_Complete_Text" korean="정말 울프릭스가 프릿샤를 처치했단 말이오? 역시 이름값을 하는군!" />
+	<block key="SF_0_1_0066_Title" korean="결계를 파괴하기 위한 정보" />
+	<block key="SF_0_1_0066_RewarderDesc" korean="크로우" />
+	<block key="SF_0_1_0066_Request_Text" korean="카브임 교단 마법사들이 만든 결계를 파괴하려면 우선 두가지 물건이 필요해. 고대인들이 사용했던 고대의 망치와 사악한 요정 엘퀴네스가 가지고 있는 요정의 정이야. 이걸 어떻게 구할지는 크로우가 알고 있을거야. 크로우와 대화를 해보라구." />
+	<block key="SF_0_1_0066_Accepted_Text" korean="크로우와 대화를 해보라구." />
+	<block key="SF_0_1_0066_Ongoing_Text" korean="크로우와 대화를 해보라구." />
+	<block key="SF_0_1_0066_Complete_Text" korean="고대의 망치와 요정의 정! 쿠할란이 그렇게 말했다고? 단 하나도 쉽게 얻기 힘든 물건들이지. 하지만 다른 방법은 없지.<br>우선 고대 망치를 얻으려면 고대 유적지 폐허 남부로 빨리 가야 하네." />
+	<block key="SF_0_1_0067_Title" korean="고대의 망치에 대한 정보" />
+	<block key="SF_0_1_0067_RewarderDesc" korean="크로우" />
+	<block key="SF_0_1_0067_Request_Text" korean="고대의 망치를 찾는 방법을 알아냈으면 크로우와 대화를 해봐." />
+	<block key="SF_0_1_0067_Accepted_Text" korean="망치를 찾으려면 고대 유적지 남부로 가야 할거야." />
+	<block key="SF_0_1_0067_Ongoing_Text" korean="고대의 망치를 찾는 방법을 알아냈으면 크로우와 대화를 해봐." />
+	<block key="SF_0_1_0067_Complete_Text" korean="그랬군. 고대 유적지 폐허 남부로 빨리 가도록 하게." />
+	<block key="SF_0_1_0068_Title" korean="광채나무 숲에 필요한 힘" />
+	<block key="SF_0_1_0068_RewarderDesc" korean="대장장이 쿠할란" />
+	<block key="SF_0_1_0068_Request_Text" korean="어둠의 흑표범과 동행한다면 광채나무 숲에서 빛의 힘을 사용하는 엘퀴네스를 상대하기가 수월할 것이오.<br><br>어둠의 흑표범을 데리고 광채나무 숲으로 가보시오. 대장장이 쿠할란이 당신을 기다린다고 전해달라고 했소." />
+	<block key="SF_0_1_0068_Accepted_Text" korean="앞으로도 건승을 빌겠소." />
+	<block key="SF_0_1_0068_Ongoing_Text" korean="하하하. 대단하군?<br><br>어둠의 흑표범을 길들였다고? 요정 엘퀴네스를 상대할 좋은 방법을 찾았군." />
+	<block key="SF_0_1_0068_Complete_Text" korean="하하하. 대단하군?<br><br>어둠의 흑표범을 길들였다고? 요정 엘퀴네스를 상대할 좋은 방법을 찾았군." />
+	<block key="SF_0_1_0069_Title" korean="어둠의 힘이 필요하다" />
+	<block key="SF_0_1_0069_RewarderDesc" korean="카일라스" />
+	<block key="SF_0_1_0069_Request_Text" korean="저기 있는 카일라스가 어둠의 힘을 가진 펠로우나 무기를 찾고 있어요.<br><br>엘퀴네스를 처치해야 한다고 벼르고 있는데 이곳에서는 어둠 속성이 가장 잘 먹히거든요. 빛의 생명이라 아무래도 어둠에 대한 내성이 없으니까요.<br><br>카일라스에게 가보세요. 당신은 그에게 도움이 될 것 같군요." />
+	<block key="SF_0_1_0069_Accepted_Text" korean="당신에게도 좋은 일일 거예요." />
+	<block key="SF_0_1_0069_Ongoing_Text" korean="그것은, 어둠의 흑표범 이잖아? 얼마 전부터 세린에게 요청해두었는데. 이렇게 길들여서 나타나는 사람이 진짜 있을 줄은 몰랐어." />
+	<block key="SF_0_1_0069_Complete_Text" korean="그것은, 어둠의 흑표범 이잖아? 얼마 전부터 세린에게 요청해두었는데. 이렇게 길들여서 나타나는 사람이 진짜 있을 줄은 몰랐어." />
+	<block key="SF_0_1_0021_2_Title" korean="빛을 잃은 나무" />
+	<block key="SF_0_1_0021_2_RewarderDesc" korean="카일라스" />
+	<block key="SF_0_1_0021_2_Request_Text" korean="예로부터 광채 나무는 엘로라 여신의 빛망울이었습니다. 하지만 빛을 잃은 광채나무들이 요정을 타락시키고 있어요.<br><br>오염된 광채나무들과 나무 요정들을 내 대신 자연으로 되돌려줄 수 있겠습니까?<br><br>가슴아픈 일이지만… 절 돕는다면 요정의 정을 손에 넣을 수 있도록 도와드리죠." />
+	<block key="SF_0_1_0021_2_Accepted_Text" korean="오염된 광채나무와 요정들을 여신의 품으로 돌려보내세요." />
+	<block key="SF_0_1_0021_2_Ongoing_Text" korean="오염된 광채나무와 요정들을 여신의 품으로 돌려보내세요." />
+	<block key="SF_0_1_0021_2_Complete_Text" korean="자네 덕분에 타락한 영혼들이 여신의 품으로 돌아갔으니, 약속대로 요정의 정을 손에 넣을 수 있게 도와드리죠.<br>요정의 정은 요정 여왕 엘퀴네스가 가지고 있습니다.<br>지금부터 설명할테니 잘 들으세요." />
+	<block key="SF_0_1_0027_2_Title" korean="카브임 교단의 결계를 파괴하라" />
+	<block key="SF_0_1_0027_2_RewarderDesc" korean="호위기사 레나" />
+	<block key="SF_0_1_0027_2_Request_Text" korean="이곳을 빠져나가기 전 마지막 관문이군요.<br>결계를 파괴하지 못하도록 카브임 교단 마법사들의 저항이 있을 것입니다.<br><br>결계를 파괴하고 브라카르숲을 탈출하는 것이 우리의 목표죠. 마음을 단단히 먹으십시오." />
+	<block key="SF_0_1_0027_2_Accepted_Text" korean="준비가 되셨으면 이제 출발하시죠." />
+	<block key="SF_0_1_0027_2_Ongoing_Text" korean="결국, 공주님 구출은 실패했군요.<br><br>매우 안타까운 소식입니다." />
+	<block key="SF_0_1_0027_2_Complete_Text" korean="결국, 공주님 구출은 실패했군요.<br><br>매우 안타까운 소식입니다." />
+	<block key="SF_0_1_0027_3_Title" korean="브라카르 숲을 탈출하라" />
+	<block key="SF_0_1_0027_3_RewarderDesc" korean="통로의 감시자 다리스" />
+	<block key="SF_0_1_0027_3_Request_Text" korean="북부 유적지의 결계가 박살났네. 꼴 좋군.<br>이젠 여길 떠나는 일만 남았어.<br><br>저 앞 동굴 안에 있는 하카나스 통로를 빠져나가면 포탈 이동장치를 관리하는 통로 감시자 다리스가 있을거야.<br>그를 찾아가 이곳 상황을 전하도록 해." />
+	<block key="SF_0_1_0027_3_Accepted_Text" korean="저 앞 동굴 안에 있는 하카나스 통로를 빠져나가면 곧장 통로 감시자 다리스를 찾아가도록 해." />
+	<block key="SF_0_1_0027_3_Ongoing_Text" korean="북부 유적지의 결계가 박살났네. 꼴 좋군.<br>이젠 여길 떠나는 일만 남았어.<br><br>저 앞 동굴 안에 있는 하카나스 통로를 빠져나가면 포탈 이동장치를 관리하는 통로 감시자 다리스가 있을거야.<br>그를 찾아가 이곳 상황을 전하도록 해." />
+	<block key="SF_0_1_0027_3_Complete_Text" korean="결국, 공주님 구출은 실패했군요.<br><br>매우 안타까운 소식입니다." />
+	<block key="SF_0_1_0090_Title" korean="나무 요정 치키" />
+	<block key="SF_0_1_0090_RewarderDesc" korean="나무 요정 치키" />
+	<block key="SF_0_1_0090_Request_Text" korean="나는 나무 요정 치키! 네 이름.. 혹시 [UserName]이무? 라니아 공주의 냄새가 나는데무.. 혹시 광채나무 숲에 대해 알고 있냐무? 정말 아름다운 곳이무. 날 데려다주면 좋은 걸 줄게무!" />
+	<block key="SF_0_1_0090_Accepted_Text" korean="나를 광채나무 숲으로 데려가는거나무!" />
+	<block key="SF_0_1_0090_Ongoing_Text" korean="길을 잃어버린 게 아니다무.. 광채나무 숲을 알려주는 거라무." />
+	<block key="SF_0_1_0090_Complete_Text" korean="헤헤, 고맙다무. 나무 요정들은 보상은 확실히 한다무!" />
+	<block key="SF_1_1_0010_Title" korean="공주님의 반지" />
+	<block key="SF_1_1_0010_RewarderDesc" korean="공주의 호위기사 레나" />
+	<block key="SF_1_1_0010_Request_Text" korean="아무래도 나보다는 레나가 더 잘 알고 있을 것 같군. 레나에게 이 반지를 가져다주게." />
+	<block key="SF_1_1_0010_Accepted_Text" korean="라니아 공주님이 레나에게 준 반지인가보군.." />
+	<block key="SF_1_1_0010_Ongoing_Text" korean="우연히 멧돼지가 먹은 반지가 반짝이며 빛나고 있습니다. 무슨 반지인지 확인해 볼 필요가 있을 것 같습니다." />
+	<block key="SF_1_1_0010_Complete_Text" korean="이것은?! 틀림없이 공주님께 선물받았던 제 반지에요.<br>그렇지 않아도 이곳 상황이 해결되면 찾으려했는데 고맙습니다.<br><br>이렇게..반지를 보고 있으니 공주님의 얼굴이 떠오르는군요.<br>참 정이 많은 분이셨습니다. 한낱 호위기사일뿐인 제게 친자매 이상의 호의를 보여주셨죠.<br><br>" />
+	<block key="SF_1_1_0010_Complete_Text_attach_0" korean="..당분간 반지는 [UserName]님이 보관해주세요.<br>반지는 공주님을 다시 되찾을 때 돌려받겠습니다.<br>그래야 제 마음이 편할 것 같군요." />
+	<block key="SF_1_1_0010_1_Title" korean="잃어버린 반지" />
+	<block key="SF_1_1_0010_1_RewarderDesc" korean="섀도우 클랜 크로우" />
+	<block key="SF_1_1_0010_1_Request_Text" korean="우연히 멧돼지가 먹은 반지가 반짝이며 빛나고 있습니다. 무슨 반지인지 확인해 볼 필요가 있을 것 같습니다. 크로우에게 반지를 가져다 주십시오." />
+	<block key="SF_1_1_0010_1_Accepted_Text" korean="" />
+	<block key="SF_1_1_0010_1_Ongoing_Text" korean="우연히 멧돼지가 먹은 반지가 반짝이며 빛나고 있습니다. 무슨 반지인지 확인해 볼 필요가 있을 것 같습니다. 크로우에게 반지를 가져다 주십시오." />
+	<block key="SF_1_1_0010_1_Complete_Text" korean="응? 이 반지는 왕가의 문양이 그려져 있군. 라니아 공주님의 반지인가..?" />
+	<block key="SF_1_1_0020_Title" korean="귀환은 소중한 것" />
+	<block key="SF_1_1_0020_RewarderDesc" korean="섀도우 클랜 단장 크로우" />
+	<block key="SF_1_1_0020_Request_Text" korean="토르투스에게 귀환석을 받았을텐데 사용하는 방법은 알고 있나? 포탈 이동 장치에 귀환 위치를 지정해놓으면 귀환석이 활성화될 때마다 언제든지 자네가 지정한 장소로 돌아올 수 있다네.<br><br>편리한 장치니 자주 이용하는 것이 좋겠지.<br>말이 나온김에 이곳 주둔지에 상급 포탈 이동 장치가 있으니 귀환 위치를 지정하고 오게." />
+	<block key="SF_1_1_0020_Accepted_Text" korean="포탈 이동장치에서 귀환 위치를 지정하고 오게." />
+	<block key="SF_1_1_0020_Ongoing_Text" korean="바로 앞에 있는데 그냥 모르고 지나치는 사람이 많아." />
+	<block key="SF_1_1_0020_Complete_Text" korean="새로운 지역에 가게되면 귀환 위치를 지정하는 것이 여러모로 편할걸세. 기억해두게나." />
+	<block key="SF_1_1_0030_Title" korean="물 같은 걸 끼얹나" />
+	<block key="SF_1_1_0030_RewarderDesc" korean="돼지치기 피그먼" />
+	<block key="SF_1_1_0030_Request_Text" korean="날 좀 도와줘! 지금 네 눈에도 흥분해서 날뛰는 포악한 아기 멧돼지들이 보일거야. 얘네를 좀 진정시켜줘. 난 돼지라면 진절머리가 난다구!" />
+	<block key="SF_1_1_0030_Accepted_Text" korean="물 같은 걸 끼얹어보라구!" />
+	<block key="SF_1_1_0030_Ongoing_Text" korean="난 돼지 냄새만 맡아도 현기증이.. 아아. 정말 싫다!" />
+	<block key="SF_1_1_0030_Complete_Text" korean="이 돼지 녀석들. 지금이야 잠잠하지만 또 돌아다니겠지. 생각만 해도 현기증이.. 그래도 얌전해지니 그나마 좀 낫네." />
+	<block key="SF_1_1_0040_Title" korean="찾아라 맛있는 멧돼지" />
+	<block key="SF_1_1_0040_RewarderDesc" korean="돼지치기 피그먼" />
+	<block key="SF_1_1_0040_Request_Text" korean="맛있어 보이는 멧돼지 고기입니다. 누구의 고기일까?" />
+	<block key="SF_1_1_0040_Accepted_Text" korean="" />
+	<block key="SF_1_1_0040_Ongoing_Text" korean="맛있어 보이는 멧돼지 고기입니다. 누구의 고기일까?" />
+	<block key="SF_1_1_0040_Complete_Text" korean="미우는 그나마 내가 아끼던 돼지였다구. 대체 누가 데려간거야! 잡히기만 하면 아작을 내 놓을테다. 어라? 그 고기는 뭐야? 멧돼지고기? 돼지치기한테 돼지고기를 가져오다니 너도 참……. 음.. 음?.... 음! 맛있는데? 오 맛있다. 더 없어?" />
+	<block key="SF_1_1_0050_Title" korean="사라진 흑표범" />
+	<block key="SF_1_1_0050_RewarderDesc" korean="신룡기사단원 커티스" />
+	<block key="SF_1_1_0050_Request_Text" korean="용감한 자여, 나의 용감한 펠로우를 보았소? 이름은 화이트인데 나와 떨어져서 두려움에 떨고 있을까 걱정되는구려. 이 주변은 석궁도 떨어지고 브라기들도 많아 위험한데.. 분명 덜덜 떨고 있을거요. <br>내 손수건을 줄테니 혹시 흑표범을 발견하면 이 손수건을 보여주시오. 다시 나에게 돌아올 수 있게 도와주시오." />
+	<block key="SF_1_1_0050_Accepted_Text" korean="우리 흑표범 화이트가 무사해야 할텐데.." />
+	<block key="SF_1_1_0050_Ongoing_Text" korean="흑표범을 발견하면 내 손수건을 보여주시오. 내 냄새를 알고 있으니 나에게 돌아올 수 있을거요." />
+	<block key="SF_1_1_0050_Complete_Text" korean="지쳐보이는 흑표범입니다." />
+	<block key="SF_1_1_0051_Title" korean="흑표범 데려가기" />
+	<block key="SF_1_1_0051_RewarderDesc" korean="신룡기사단원 커티스" />
+	<block key="SF_1_1_0051_Request_Text" korean="흑표범에게 커티스의 손수건을 건네줬습니다. 흑표범은 [UserName]과 함께 공황상태에서 벗어나 집으로 돌아가려고 합니다." />
+	<block key="SF_1_1_0051_Accepted_Text" korean="커응! 컹! 커응!!" />
+	<block key="SF_1_1_0051_Ongoing_Text" korean="커응! 컹! 커응!!" />
+	<block key="SF_1_1_0051_Complete_Text" korean="내 용감한 화이트가 돌아왔소. 다 당신 덕분이구려. 내 갑주 무게를 감당할 수 있는 건 화이트 뿐이지. 앞으로 영원히 둘이서 전장을 누빌거요!" />
+	<block key="SF_1_1_0052_Title" korean="제 자리를 찾은 흑표범" />
+	<block key="SF_1_1_0052_RewarderDesc" korean="신룡기사단원 커티스" />
+	<block key="SF_1_1_0052_Request_Text" korean="흑표범에게 커티스의 손수건을 건네줬습니다. 흑표범은 [UserName]과 함께 집으로 돌아가려고 합니다." />
+	<block key="SF_1_1_0052_Accepted_Text" korean="커응! 컹! 커응!!" />
+	<block key="SF_1_1_0052_Ongoing_Text" korean="커응! 컹! 커응!!" />
+	<block key="SF_1_1_0052_Complete_Text" korean="내 용감한 화이트가 돌아왔소. 다 당신 덕분이구려. 내 갑주 무게를 감당할 수 있는 건 화이트 뿐이지. 앞으로 영원히 둘이서 전장을 누빌거요!" />
+	<block key="SF_1_1_0060_Title" korean="채집꾼 이누기 구출하기" />
+	<block key="SF_1_1_0060_RewarderDesc" korean="브라기 채집꾼 이누기" />
+	<block key="SF_1_1_0060_Request_Text" korean="브라기 채집꾼인 이누기는 드물게 인간과 엘프의 말을 할 줄 아는 브라기였습니다. 그는 우리에게 많은 정보를 제공했지만 브라기 족장에게 들켜 감옥에 갇히고 말았지요. <br> 우리는 꼭 이누기를 구출해야 합니다." />
+	<block key="SF_1_1_0060_Accepted_Text" korean="이누기를 구출해 이 곳으로 데려오십시오." />
+	<block key="SF_1_1_0060_Ongoing_Text" korean="브라기 채집꾼인 이누기는 드물게 인간과 엘프의 말을 할 줄 아는 브라기였습니다. 그는 우리에게 많은 정보를 제공했지만 브라기 족장에게 들켜 감옥에 갇히고 말았지요. <br> 우리는 꼭 이누기를 구출해야 합니다." />
+	<block key="SF_1_1_0060_Complete_Text" korean="인간, 날 구해줬다! 고맙다!" />
+	<block key="SF_0_1_0006_2_Title" korean="괴력의 풀차지" />
+	<block key="SF_0_1_0006_2_RewarderDesc" korean="섀도우 클랜 단장 크로우" />
+	<block key="SF_0_1_0006_2_Request_Text" korean="자네는 아직 자네의 진정한 힘을 깨닫지 못하고 있다네. 버서커의 진정한 힘은 자신에게 쏟아지는 공격을 참고 견뎌내 강력한 힘으로 폭발할 때 비로소 나타나네. 스킬을 사용하지 않고 모아서 한 번에 쏟아내는 것. 이를 풀차지라고 한다네. <br>" />
+	<block key="SF_0_1_0006_2_Request_Text_attach_0" korean="자, 보게. 저 앞에 브라기들이 만들고 있는 방벽이 완성되면 더 이상 브라기 기지를 공격할 방법이 없어지네.<br>그 전에 방벽을 파괴해야만 해.<br>풀차지를 통해 브라기 방벽을 박살내게!" />
+	<block key="SF_0_1_0006_2_Accepted_Text" korean="한시라도 빨리 풀차지로 브라기 방벽을 박살내야만 하네!" />
+	<block key="SF_0_1_0006_2_Ongoing_Text" korean="풀차지라고 하는 기술이라네. 적들을 처리하기엔 제격인 기술일세. 최대한 힘을 모았다가 사용하면 된다네." />
+	<block key="SF_0_1_0006_2_Complete_Text" korean="벌써 풀차지를 쉽게 사용할 수 있게 되었군. 일반적인 스킬보다 몇 배의 위력을 발휘하니 유용하게 사용하도록 하게." />
+	<block key="SF_0_1_0006_3_Title" korean="두 얼굴의 엘로라" />
+	<block key="SF_0_1_0006_3_RewarderDesc" korean="섀도우 클랜 단장 크로우" />
+	<block key="SF_0_1_0006_3_Request_Text" korean="엘로라 여신의 힘을 자네는 아직 온전히 자네 것으로 만들지 못하고 있다네. 엘로라의 징표가 주변에 모였을 때 엘로라 여신님은 아군에게는 자애로운 손길을, 적에게는 강력한 심판의 일격을 가하신다네.<br>지금 신룡 기사단원들은 브라기의 파상공세로 많이 지쳐 있어. 엘로라의 징표를 사용해 신룡 기사단에게 힘을, 적에게는 단호한 심판을 내리도록 하게!" />
+	<block key="SF_0_1_0006_3_Accepted_Text" korean="징표를 모은 뒤 적과 아군에게 한 번 씩 사용해보게. 바로 차이를 알 수 있을걸세." />
+	<block key="SF_0_1_0006_3_Ongoing_Text" korean="엘로라의 징표를 사용해 신룡 기사단에게 힘을, 적에게는 단호한 심판을 내리도록 하게!" />
+	<block key="SF_0_1_0006_3_Complete_Text" korean="엘로라의 징표를 유용하게 사용한다면 항상 유리하게 전투를 이끌어갈 수 있을걸세." />
+	<block key="SF_0_1_0006_4_Title" korean="뜨거운 폭발" />
+	<block key="SF_0_1_0006_4_RewarderDesc" korean="섀도우 클랜 단장 크로우" />
+	<block key="SF_0_1_0006_4_Request_Text" korean="세상의 원소를 자기 것으로 사용하는 존재가 바로 위자드일세.
+자네는 얼마나 세상의 섭리를 이해하고 있나? 불꽃은 불꽃을 먹고 더욱 크게 타오르는 법이네. 자네 곁의 강력한 불을 얻으려면 강력한 불의 스킬을 연속으로 사용할 필요가 있지.  <br>" />
+	<block key="SF_0_1_0006_4_Request_Text_attach_0" korean="브라기들이 공격을 위해 가져다 놓은 저 폭약들이 보이나? 쉽게 터지지 않지만 위자드의 강력한 불꽃 화살은 불태우지 못하는 것이 없지.
+불꽃 화살을 중첩시켜 강력한 폭발로 브라기들을 처리하도록 하세." />
+	<block key="SF_0_1_0006_4_Accepted_Text" korean="같은 기운의 스킬을 중첩시키는 것이 위자드의 핵심일세." />
+	<block key="SF_0_1_0006_4_Ongoing_Text" korean="폭약통에 불꽃 화살을 중첩시켜 강력한 불의 화살을 날려버리게!" />
+	<block key="SF_0_1_0006_4_Complete_Text" korean="위자드는 세상의 원소를 자유자재로 중첩할 수 있다네. 이를 통해 더욱 강력한 힘을 낼 수 있는 것이지. 불꽃 뿐 아니라 다른 원소에도 적용되는 것이니 항상 연구하도록 하게." />
+	<block key="SF_0_1_0006_5_Title" korean="기민한 찌르기" />
+	<block key="SF_0_1_0006_5_RewarderDesc" korean="섀도우 클랜 단장 크로우" />
+	<block key="SF_0_1_0006_5_Request_Text" korean="어쌔신은 조용하고 민첩하게 적에게 다가가 한 방에 적을 처치해야만 하네. 자네가 공주님을 지키기 위해서, 또 되찾기 위해서 반드시 필요한 능력이기도 하네. 음.. 지금 신룡 기사단을 도와주기 위해서도 자네의 그 민첩함이 반드시 필요하겠군. <br>" />
+	<block key="SF_0_1_0006_5_Request_Text_attach_0" korean="기민한 움직임을 통해 아군을 혼란시키는 브라기 연락병들에게 접근해 브라기들에게 깊게 찌르기로 치명타를 입히게. 저 민첩한 녀석들을 처리할 수 있는 건 바로 자네 뿐이야." />
+	<block key="SF_0_1_0006_5_Accepted_Text" korean="기민한 움직임 후의 기술들은 적에게 예상치 못한 피해를 입힐걸세." />
+	<block key="SF_0_1_0006_5_Ongoing_Text" korean="기민한 움직임을 통해 순간적으로 빈틈을 만들고 그 틈을 노려 공격하는 것이 일반적인 어쌔신의 공격이네. 자네도 쉽게 익힐 수 있을거야." />
+	<block key="SF_0_1_0006_5_Complete_Text" korean="어쌔신은 누구보다 빠르게 이동할 수 있다네. 그 감각을 잊지 말게. 기민한 움직임이 모든 움직임의 기본이 되네." />
+	<block key="SF_0_1_0006_6_Title" korean="방어는 최선의 공격" />
+	<block key="SF_0_1_0006_6_RewarderDesc" korean="섀도우 클랜 단장 크로우" />
+	<block key="SF_0_1_0006_6_Request_Text" korean="자네는 굳건한 방패가 되어 공주님을 지켰어야 하지만 결국 실패하고 말았네.<br>하지만 공주님을 구하기 위해서는 자네의 힘이 반드시 필요해. 가디언은 방패가 생명일세. 적의 공격을 능숙하게 막아내고 반격을 통해 적을 혼란에 빠뜨릴 수 있지. 이 기술을 반드시 자네 것으로 익혀야만 하네." />
+	<block key="SF_0_1_0006_6_Request_Text_attach_0" korean="신룡 기사단이 고전을 면치 못하고 있는 것은 브라기 전투병들의 무자비한 공격이 진영을 허물어뜨리고 있기 때문일세. <br>브라기 전투병의 공격을 방어해 막아내고 바로 방패치기로 처리하게. <br>자네의 활약은 신룡 기사단에게 큰 도움이 될거야." />
+	<block key="SF_0_1_0006_6_Accepted_Text" korean="굳건한 방패 막기 후 방패치기를 반드시 기억하게!" />
+	<block key="SF_0_1_0006_6_Ongoing_Text" korean="브라기 전투병의 공격을 방어해 막아내고 바로 방패치기로 처리하게." />
+	<block key="SF_0_1_0006_6_Complete_Text" korean="가디언에게 방어는 최선의 공격이지. 모든 공격은 방어 후 시작될 때 최대의 효율을 뽑아낼 수 있는걸세. 기억해두게." />
+	<block key="sf_0_1_0091_Title" korean="작은 새의 부탁" />
+	<block key="sf_0_1_0091_RewarderDesc" korean="스벤" />
+	<block key="sf_0_1_0091_Request_Text" korean="전 원래 인간이었고, 얼마 전에 병으로 죽었어요… 그런데 고대 유적지 관리자가 절 악령으로 만들려고 하였고 저 대신 어머니가 악령이 되고 말았어요...! <br> 제발 저와 어머니를 도와주세요!<br>우선은 숨겨진 비밀 유적 안의 흙더미에 묻힌 제 유해를 아버지에게 전해야만 해요!" />
+	<block key="sf_0_1_0091_Accepted_Text" korean="숨겨진 유적 안에서 제 뼈가 있는 곳으로 가려면 비행을 해야만 해요. 그와 관련해서 준비할 게 있으니 조금 있다가 유적 안에서 만나기로 해요." />
+	<block key="sf_0_1_0091_Ongoing_Text" korean="한시가 급해요! 어서 제 뼈를 아버지께 전해 드리고 어머니에게 가야만 해요!" />
+	<block key="sf_0_1_0091_Complete_Text" korean="네? 이것이 제 딸의 뼈라고요…?<br>게다가 애엄마는 유적 관리자가 악령으로 만들었다고요?!<br>저는 벌목꾼이라서 아주 오랜 기간 벌목장에 있었더랬습니다… 그래서 집에 돌아와 보니 아내도 딸도 안 보여서 어디 여행이라도 간 걸까, 그런데 너무 늦어져서 이렇게 찾으러 다니던 중인데… 아아…. 기사님… 기사님의 말이 맞다면 제발 제 딸을! 제 아내를 구해주세요!" />
+	<block key="sf_0_1_0091_1_Title" korean="너의 목소리가 들려" />
+	<block key="sf_0_1_0091_1_RewarderDesc" korean="작은 새" />
+	<block key="sf_0_1_0091_1_Request_Text" korean="이상한 일이지 말입니다?<br>언제부턴가 저 너머의 유적지 근처에서 새 소리 같기도 하고 사람 소리 같기도 한 것이 들려오는데 도통 뭔가 보이는 건 없고… 혹시 유령 새인가 싶지 말입니다?<br>영감이 발달한 사람은 유령도 볼 수 있다던데 척 보아하니 기사님이 무척 신기가 있어 보입니다! 괜히 으슬으슬한데 처리 좀 해 주시면 좋겠지 말입니다…." />
+	<block key="sf_0_1_0091_1_Accepted_Text" korean="저기 위 쪽에 늑대 소굴 가는 길 오른 편에서 소리가 들리지 말입니다!" />
+	<block key="sf_0_1_0091_1_Ongoing_Text" korean="저기 위 쪽에 늑대 소굴 가는 길 오른 편에서 소리가 들리지 말입니다!" />
+	<block key="sf_0_1_0091_1_Complete_Text" korean="아… 당신…? 혹시 제가 보이시나요…?!!" />
+	<block key="sf_0_1_0092_Title" korean="작은 새의 부탁 2" />
+	<block key="sf_0_1_0092_RewarderDesc" korean="스벤" />
+	<block key="sf_0_1_0092_Request_Text" korean="저는 보시다시피 평범한 벌목꾼입니다… 아내를 구하고 싶지만 아무런 힘도 없죠…<br>그러니 기사님!! 제발 이 못난 남편이자 애비인 절 대신해서 남부 유적지에 있는 아내를 구해주십시오!! <br>더 이상 그녀가 악령이 되어 이승을 헤매게 할 순 없습니다…!!" />
+	<block key="sf_0_1_0092_Accepted_Text" korean="아아… 제가 떠나있지만 않았어도 뭔가 달라졌을까요…?" />
+	<block key="sf_0_1_0092_Ongoing_Text" korean="아아… 제가 떠나있지만 않았어도 뭔가 달라졌을까요…?" />
+	<block key="sf_0_1_0092_Complete_Text" korean="드디어 제 아내도 이렇게 돌아왔군요.<br>…딸과 아내… 둘이 함께니까 외롭지 않겠죠?<br>아니 저도 이렇게… 또 셋이서 다 같이 함께니까….<br>네… 외롭지 않아요. 그렇죠…?" />
+	<block key="sf_1_1_0063_Title" korean="도망친 훈련병을 찾아라(제작 중)" />
+	<block key="sf_1_1_0063_RewarderDesc" korean="돌격 기사단 더글라스" />
+	<block key="sf_1_1_0063_Request_Text" korean="엘사! 이 자식, 또 도망간 거냐?!!<br>후우… 훈련병 가운데 정말 골칫덩이가 하나 있다네. 괜찮다면 훈련을 땡땡이 치고 도망간 녀석을 자네가 좀 잡아다 주지 않겠는가?<br>아마도 그 녀석, 평소와 같은 곳에서 빈둥대고 있을 게 뻔하네. 의심가는 위치를 지도에 표시해 줄 테니 흠씬 두들겨 패서라도 데리고 와 주게나." />
+	<block key="sf_1_1_0063_Accepted_Text" korean="처음에는 그런 녀석이 아니었는데… 사춘기도 아니고 요새 들어서 왜 그러는지 원." />
+	<block key="sf_1_1_0063_Ongoing_Text" korean="처음에는 그런 녀석이 아니었는데… 사춘기도 아니고 요새 들어서 왜 그러는지 원." />
+	<block key="sf_1_1_0063_Complete_Text" korean="아, 신룡 기사단 수호기사인 여교관이 엘사를 데려 갔다고…? <br>이런… 아무리 문제아라도 녀석이 좀 불쌍해 지는군. 단언컨대 그녀는 세상에서 가장 완벽한 악마 교관이라고 할까… 흠흠.<br>아무튼 녀석은 이제 죽은 목숨이겠군. 명복을 빌어줘야 겠어." />
+	<block key="sf_1_1_0064_Title" korean="훈련병의 부탁" />
+	<block key="sf_1_1_0064_RewarderDesc" korean="훈련병 엘사" />
+	<block key="sf_1_1_0064_Request_Text" korean="당신 마침 잘 왔어!!<br>그 악마 같은 여교관이 좋은 곳에 보내주겠다면서 나를 이 사지 한 가운데 혼자 떨구고 갔다고… 흑흑…. 브라기 천 마리 베기를 성공할 시에만 돌아오라던가? 그 전에 돌아오면 더 좋은 곳으로 보내주겠다고… 브라기 손에 죽느냐 자기 손에 죽느냐 택일이다! 라고 하는데… 우워워워워워워--!! 이봐!! 일이 이렇게 된 것에 댁도 책임이 있잖아?! <br>어서 날 위해 주변 브라기들을 처치해달라고오----------!!!" />
+	<block key="sf_1_1_0064_Accepted_Text" korean="얼굴만 예쁘면 뭐해… 악마라고 악마… 흑흑….. 아, 아니 뭐 얼굴은 좀 많이 예쁘긴 하지만… 꿍얼꿍얼…" />
+	<block key="sf_1_1_0064_Ongoing_Text" korean="브라기 연락병이랑 전투병이랑 약탈 용사랑… 최대한 많이 좀 처치해 달라고!" />
+	<block key="sf_1_1_0064_Complete_Text" korean="덕분에 이제 좀 살겠군! 정말 꼼짝없이 여기 갇혀서 벌집이 될 뻔 했다고!<br>그래도 천 마리에는 한참 모자란 거 같은데… 아아… 언제나 되야 여길 벗어날 수 있을 것인가아아아~~~!! 흑흑…." />
+	<block key="sf_1_1_0065_Title" korean="훈련병의 부탁 2" />
+	<block key="sf_1_1_0065_RewarderDesc" korean="훈련병 엘사" />
+	<block key="sf_1_1_0065_Request_Text" korean="…응? 아니 당신 저번의 그 호위 기사로군?!<br>아니 그 악독한 여자가 이번에는 나를 아예 브라기들 본거지에 던져 놓고 갔다고!! 겨우 천마리를 처치했다고 기뻐하고 있었는데 남의 마음을 짓밟아도 유분수지… 흑흑….<br>그러고는 한다는 소리가 누나가 다 애정이 있어서 패는 거라나? 그런 애정 넣어두라고!! <br>이번엔 삼천마리를 베고 오래!! 이봐, 이런 불쌍한 날 당연히 도와주겠지? 응?!!" />
+	<block key="sf_1_1_0065_Accepted_Text" korean="삼백도 아니고 삼천이라니!! 순찰병과 망루병과 전투병… 골고루 처치해 줘!" />
+	<block key="sf_1_1_0065_Ongoing_Text" korean="애정이 있어서 팬다니… 그런 애정따위… 흥… 그런 애정 뭐… 없는 것보다는 낫… 아, 아니 그럴 리가?!!" />
+	<block key="sf_1_1_0065_Complete_Text" korean="고마워! 이제 당신이 날 후려팬 거라든가, 날 그 악마 같은 여자에게 넘긴 거라든가 모두 잊지는 못하겠지만 잊어보려고 노력은 할게.<br>다음에 또 어떤 지옥에서 당신과 만나게 될 지 너무 무섭지만… 아, 눈물 좀 닦고… 흑흑… 그 때도 날 도와주면 참 고맙겠어… 흑흑…." />
+	<block key="sf_1_1_0066_Title" korean="지친 비행 펠로우 돕기" />
+	<block key="sf_1_1_0066_RewarderDesc" korean="나린" />
+	<block key="sf_1_1_0066_Request_Text" korean="아, 기사님… 저희는 브라기들을 피해 날다가 이 곳에 추락하고 말았답니다.<br>조금만 더 가면 캠프가 있는데도 기력을 너무 소모해서 저도 이 아이도 한 걸음도 떼질 못하고 있어요. <br> 광채나무 숲 캠프에 있는 엘프 카일라스 님께 광채나무의 뿌리 분말과 위습의 빛 무리를 전해주고 엘프의 비법으로 만든 특제 펠로우 기력 회복제를 좀 얻어다 주시겠어요?" />
+	<block key="sf_1_1_0066_Accepted_Text" korean="광채나무를 처치하면 뿌리 분말을, 위습을 처치하면 빛 무리를 얻으실 수 있을 거에요." />
+	<block key="sf_1_1_0066_Ongoing_Text" korean="기력 회복제 말입니까?<br>제가 만들 수는 있지만 재료가 없군요.<br>광채나무의 뿌리 분말과 위습의 빛 무리를 가져오면 만들어드리도록 하지요." />
+	<block key="sf_1_1_0066_Complete_Text" korean="펠로우 기력 회복제 말입니까?<br>만들어 드릴테니 잠시 기다리시지요." />
+	<block key="sf_1_1_0066_1_Title" korean="지친 비행 펠로우 돕기 2" />
+	<block key="sf_1_1_0066_1_RewarderDesc" korean="나린" />
+	<block key="sf_1_1_0066_1_Request_Text" korean="자, 다 되었습니다.<br>어서 가지고 가보십시오." />
+	<block key="sf_1_1_0066_1_Accepted_Text" korean="어서 가 보십시오." />
+	<block key="sf_1_1_0066_1_Ongoing_Text" korean="기력 회복제는 가져 오셨나요?" />
+	<block key="sf_1_1_0066_1_Complete_Text" korean="기력 회복제를 가져오셨군요! 친절하고 상냥하신 기사님, 정말로 감사드립니다!" />
+	<block key="sf_1_1_0067_Title" korean="거미줄에 걸린 키르샤" />
+	<block key="sf_1_1_0067_RewarderDesc" korean="키르샤" />
+	<block key="sf_1_1_0067_Request_Text" korean="얼마 전, 내 친구인 키르샤가 북부 유적지 폐허로 갔는데 도통 돌아오질 않아. 내가 들은 북부 유적지 폐허는 입구엔 유령거미들이 득실거리고, 그 뒤론 거대거미 타슬란이,  폐허의 끝에는 식인거미 아라크네가 제 집처럼 살고 있는 곳이라더군." />
+	<block key="sf_1_1_0067_Request_Text_attach_0" korean="<br><br>그 거미들을 다 처치하고서라도 키르샤를 찾아야하네.<br>자네라면 문제없을 것이라고 크로우 단장이 추천하더군. 거미들을 상대해야하는 위험한 임무네만..자네는 할 수 있겠지?<br>거미들을 제거하고 키르샤를 찾아주게." />
+	<block key="sf_1_1_0067_Accepted_Text" korean="북부 유적지 폐허로 가서 키르샤를 찾아주게." />
+	<block key="sf_1_1_0067_Ongoing_Text" korean="거미는 다 해치운 거요? 얼른 마저 처리해주시오.<br>거미가 처리되지 않는 이상 난 나갈 생각이 없소.<br>다시 거미밥 신세가 되고 싶진 않으니 말이야." />
+	<block key="sf_1_1_0067_Complete_Text" korean="이거 볼썽사나운 모습을 보였군.<br>음? 더프가 보낸 사람이오?<br><br>어쨌거나 덕분에 살아남았군." />
+	<block key="sf_1_1_0067_1_Title" korean="고마운 인사" />
+	<block key="sf_1_1_0067_1_RewarderDesc" korean="더프" />
+	<block key="sf_1_1_0067_1_Request_Text" korean="유적지의 거미를 펠로우로 길들이려고 왔다가 거미밥이 될 뻔했소. 아아, 내 걱정일랑 마시오.<br>나는 알아서 돌아가겠소.<br><br>부축까지 받을만큼 다친데도 없는데..그저 몸이 조금 간지럽고 어지러운 것 뿐이오.<br><br>아! 그리고 광채나무 캠프의 더프에게 고맙다는 말이나 전해주시오. 그나저나 그 친구 해독초 같은 것은 있나 모르겠군." />
+	<block key="sf_1_1_0067_1_Accepted_Text" korean="광채나무 캠프의 더프에게 고맙다는 말이나 전해주시오." />
+	<block key="sf_1_1_0067_1_Ongoing_Text" korean="키르샤가 정말로 거미줄에 갇혀 있었단 말이오?<br>자네가 아니었다면 그 친구 영락없이 거미밥 신세가 되었을텐데 고맙소.<br><br>헌데 해독초를 물어봤다고 했소? 그 친구가 말한 증상이라면 내가 볼 땐 이미 중독된 것이 틀림없소.<br><br>아마 이곳에 도착할 때쯤이면 증상이 심해질텐데.." />
+	<block key="sf_1_1_0067_1_Complete_Text" korean="키르샤가 정말로 거미줄에 갇혀 있었단 말이오?<br>자네가 아니었다면 그 친구 영락없이 거미밥 신세가 되었을텐데 고맙소.<br><br>헌데 해독초를 물어봤다고 했소? 그 친구가 말한 증상이라면 내가 볼 땐 이미 중독된 것이 틀림없소.<br><br>아마 이곳에 도착할 때쯤이면 증상이 심해질텐데.." />
+	<block key="sf_1_1_0067_2_Title" korean="해독제가 필요한 키르샤" />
+	<block key="sf_1_1_0067_2_RewarderDesc" korean="더프" />
+	<block key="sf_1_1_0067_2_Request_Text" korean="키르샤가 이곳에 도착할 때쯤이면 해독제 달라고 난리 칠 것이 눈에 선하구만. 돌아오면 키르샤에게 먹일 해독제가 필요하겠어.<br><br>포리온 버섯에 거미 독을 상쇄시키는 효과가 있다고 들었네. 포리온 버섯은 브라카르 숲 곳곳에 퍼져있으니 찾는데 어렵진 않을 걸세.<br><br>혹시 자네가 재료를 구해다 주겠나?" />
+	<block key="sf_1_1_0067_2_Accepted_Text" korean="주변 곳곳에 퍼져있는 포리온 버섯을 가져다 주게." />
+	<block key="sf_1_1_0067_2_Ongoing_Text" korean="주변 곳곳에 포리온 버섯이 퍼져있으니 잘 찾아보게.<br><br> 우선 본거지 앞 쪽을 살펴보고 없다면 근방을 샅샅이 뒤져야겠지." />
+	<block key="sf_1_1_0067_2_Complete_Text" korean="수고했네. 내가 알아서 키르샤에게 먹이도록 하겠네.<br><br>마음같아선 해독제고 뭐고 그냥 생버섯을 먹이고 싶구만." />
+	<block key="sf_1_1_0067_3_Title" korean="크로우의 호출" />
+	<block key="sf_1_1_0067_3_RewarderDesc" korean="크로우" />
+	<block key="sf_1_1_0067_3_Request_Text" korean="아차! 내 기억 좀 보게.<br>크로우 단장이 자넬 찾았었는데 내가 깜박 잊고있었구만. <br><br>급한 일이라고 하던데..바쁜 사람을 붙잡아둬서 미안하게 됐네. 어서 크로우 단장에게 가보게." />
+	<block key="sf_1_1_0067_3_Accepted_Text" korean="크로우 단장에게 어서 가보게." />
+	<block key="sf_1_1_0067_3_Ongoing_Text" korean="하던 일은 마무리 되었나? 자네를 기다렸네." />
+	<block key="sf_1_1_0067_3_Complete_Text" korean="하던 일은 마무리 되었나? 자네를 기다렸네." />
+	<block key="sf_1_1_0068_Title" korean="포리온 버섯 채집" />
+	<block key="sf_1_1_0068_RewarderDesc" korean="렌티" />
+	<block key="sf_1_1_0068_Request_Text" korean="아, 이것은 대체 무슨 일일까요..?<br>전 균류 학자… 버섯 연구가 저의 업인 것을… 어째서 버섯 알러지가 생겨버린 걸까요..?<br>포리온 버섯의 개체별 특징을 연구해야만 하는데..<br>괜찮다면 기사님께서 제 대신 포리온 버섯을 3개만 구해다 주시겠어요?" />
+	<block key="sf_1_1_0068_Request_Text_attach_0" korean="<br><br>엣취! 그리고 미니맵 상단 우측에 어디서든 채집물을 지도에 나타나게 해주는 편리한 기능이 있으니 한 번 사용해보세요.<br>채집물을 찾을 때, 많은 도움을 받을 수 있어요." />
+	<block key="sf_1_1_0068_Accepted_Text" korean="포리온 버섯은 이 근방 곳곳에 자생하고 있답니다.<br>미니맵의 채집물 표시 기능을 사용하시면 근방의 채집물이 지도에 나타나니 찾는데 도움이 될거에요." />
+	<block key="sf_1_1_0068_Ongoing_Text" korean="엣취… 아주 작은 입자만 체취해서 연구해야 되겠어요…." />
+	<block key="sf_1_1_0068_Complete_Text" korean="감사합니다, 엣취!<br>전 약간의 입자만 있으면 되니까 나머지는 기사님께 드릴게요.<br><br>포리온 버섯은 무기나 방어구, 장신구, 펠로우 장착 아이템 제작과 연금술, 요리 등에 다양하게 쓸 수 있어요.<br>하카나스 수도성에 가면 제작 기술을 배울 수 있다고 하니 그 때를 대비해서 챙겨두도록 하세요." />
+	<block key="sf_1_1_0068_1_Title" korean="포리온 버섯이 더 필요해" />
+	<block key="sf_1_1_0068_1_RewarderDesc" korean="렌티" />
+	<block key="sf_1_1_0068_1_Request_Text" korean="포리온 버섯을 구해주셨는데..아무리 생각해봐도 부족할 것 같아요. 연구를 위해선 버섯이 더..필요해요.<br>북쪽 늑대소굴..주변에 버섯이 좀 더 많을 거에요.<br>문제는 그곳의 사나운 늑대들 때문에..일반인이 접근하긴 힘들다는 거죠.<br><br>아! 물론 이 근방 어디에서든 버섯은 구할 수 있으니 선택은 자유에요. 포리온 버섯을..가져다 주실수 있나요?" />
+	<block key="sf_1_1_0068_1_Accepted_Text" korean="북쪽의 늑대 소굴 주변엔 특히 포리온 버섯이 많이 있다고 하네요. 조심..하세요." />
+	<block key="sf_1_1_0068_1_Ongoing_Text" korean="버섯은 가져오셨나요?<br>근처에서 버섯을 구할 수도 있지만 사나운 늑대들이 출몰하는 늑대 소굴쪽으로 가보세요.<br>위험한 만큼..버섯이 더 많을거에요." />
+	<block key="sf_1_1_0068_1_Complete_Text" korean="포리온 버섯을 가져오셨군요! 고마워요!<br><br>에..엣취! 알러지때문에 고생은 좀 하겠지만 제대로 된 연구를 할 수 있겠어요." />
+	<block key="sf_1_1_0069_Title" korean="강화를 위한 준비" />
+	<block key="sf_1_1_0069_RewarderDesc" korean="더프" />
+	<block key="sf_1_1_0069_Request_Text" korean="여기 본거지 브라기들은 결코 만만한 상대가 아니야! 그래서 말인데 강화석을 이용해서 장비를 강화하는게 도움이 될 거야! 강화석은 추출도구를 사용해서 각종 장비에서 추출할 수 있어. <br><br>추출도구는 내 옆에 있는 제니도 팔고 있으니까 어서 구입해 보라고?!" />
+	<block key="sf_1_1_0069_Accepted_Text" korean="내 옆에 제니한테 가서 10레벨 추출도구를 사 보라고!" />
+	<block key="sf_1_1_0069_Ongoing_Text" korean="내 특별히 연습용 무기도 줄 테니까 결코 날이면 날마다 오는 기회가 아니지!" />
+	<block key="sf_1_1_0069_Complete_Text" korean="그래, 10레벨 추출도구를 사 왔나? 좋아. 일단 내가 주는 이 무기를 받도록 해." />
+	<block key="sf_1_1_0069_1_Title" korean="강화석 만들기" />
+	<block key="sf_1_1_0069_1_RewarderDesc" korean="더프" />
+	<block key="sf_1_1_0069_1_Request_Text" korean="가방을 열어서 10레벨 추출도구를 우 클릭해 보게. 그럼 추출이 가능한 장비들이 반짝거릴 거야.<br><br>원하는 장비를 좌 클릭하면 강화석 추출이 가능해 지지. 이왕이면 내가 방금 준 추출연습용 무기를 쓰라구. 어때? 쉽지?<br><br>우클릭, 좌클릭! 어서 당장 실행해 봐!" />
+	<block key="sf_1_1_0069_1_Accepted_Text" korean="가방 열고 추출장비 우클릭, 추출할 장비 좌클릭!" />
+	<block key="sf_1_1_0069_1_Ongoing_Text" korean="가방 열고 추출장비 우클릭, 추출할 장비 좌클릭!" />
+	<block key="sf_1_1_0069_1_Complete_Text" korean="강화석을 얻었으면 직접 강화를 해 보는게 좋겠지? 본거지 브라기 놈들을 상대하려면 어서 자네가 가진 장비들을 강화하도록 해!<br><br>아이템 툴 팁에 보면 자네가 가진 아이템이 몇 단계까지 강화가 가능한지 확인 할 수 있으니까 최대한 높은 단계까지 강화하는게 좋겠지?<br><br> 강화도 강화석 우클릭, 장비 좌클릭만 기억하면 된다네!" />
+	<block key="sf_1_1_0070_Title" korean="강건한 마음에 대하여" />
+	<block key="sf_1_1_0070_RewarderDesc" korean="에리나" />
+	<block key="sf_1_1_0070_Request_Text" korean="이런 곳에 있다보면 사람의 영혼까지 침식당하는 기분이 들곤 하오. 그래서 말인데…<br><br>내가 떠나온 신룡 기사단 주둔지에 계신 작전 참모 에리나님께 강건한 마음을 가지기 위한 조언을 구하고자 편지를 보내려 하오.<br>걸어서 가도 괜찮지만 그 과정에서 편지가 소실될까 걱정되는지라..내 뒤에 있는 포탈 이동장치를 이용하면 순식간이오. 부탁하겠소." />
+	<block key="sf_1_1_0070_Accepted_Text" korean="포탈 이동장치를 이용하면 금방이오!" />
+	<block key="sf_1_1_0070_Ongoing_Text" korean="" />
+	<block key="sf_1_1_0070_Complete_Text" korean="강건한 마음에 대한 조언을 구하는 편지라고요?<br>그런 조언이라면 언제든지 환영입니다.<br><br>…. ….. ….<br>..어딜 봐서 이 편지가 조언을 구하는 내용이라는 것인지 이해할 수 없군요. 마계의 마나는 사람의 영혼을 타락시키니 항상 주의하라고 일렀는데 소용이 없나 봅니다." />
+	<block key="sf_1_1_0070_Complete_Text_attach_0" korean="<br><br>경계 임무에 최선을 다해야 할 중요한 순간에 이런 연애 편지를 보내다니 기사단의 기강이 헤이해진 것이 틀림없습니다. 적절한 조치를 취해야겠군요." />
+	<block key="sf_0_1_0070_1_Title" korean="강건한 마음에 대한 답변" />
+	<block key="sf_0_1_0070_1_RewarderDesc" korean="보리스" />
+	<block key="sf_0_1_0070_1_Request_Text" korean="신룡기사단의 정찰대원이란 사람이 이런 쓸데없는데 시간낭비를 하다니 기사단의 참모로서 정말 부끄럽군요.<br><br>우선 보리스에게 돌아가서 경계임무에나 최선을 다하라고 전해주십시오. 물론 이 경솔한 행동에 대한 책임을 져야한다는 사실도 말입니다." />
+	<block key="sf_0_1_0070_1_Accepted_Text" korean="보리스에게 경계임무에나 최선을 다하라고 전해주십시오." />
+	<block key="sf_0_1_0070_1_Ongoing_Text" korean="에리나님께서 내게 책임을 묻겠다고 하셨단 말이오? 아..아니 난 그저 조언을 구했을..<br><br>… ... …<br>..하긴..에리나님의 말씀이 맞소.<br>내 본분을 잊고 감히 에리나님께 무례를 범한 것 같소.<br><br>하지만..<br>내 진심을 보여드렸는데도 그런 말씀을 하셨다니…<br>왜 에리나님께선 나의 순정을 이해하지 못하는 것인가." />
+	<block key="sf_0_1_0070_1_Complete_Text" korean="에리나님께서 내게 책임을 묻겠다고 하셨단 말이오? 아..아니 난 그저 조언을 구했을..<br><br>… ... …<br>..하긴..에리나님의 말씀이 맞소.<br>내 본분을 잊고 감히 에리나님께 무례를 범한 것 같소.<br><br>하지만..<br>내 진심을 보여드렸는데도 그런 말씀을 하셨다니…<br>왜 에리나님께선 나의 순정을 이해하지 못하는 것인가." />
+	<block key="sf_1_1_0069_2_Title" korean="강화석을 이용하여 강화하기" />
+	<block key="sf_1_1_0069_2_RewarderDesc" korean="더프" />
+	<block key="sf_1_1_0069_2_Request_Text" korean="강화석을 얻었으면 직접 강화를 해 보는게 좋겠지? 본거지 브라기 놈들을 상대하려면 어서 자네가 가진 장비들을 강화하도록 해!<br><br>아이템 툴 팁에 보면 자네가 가진 아이템이 몇 단계까지 강화가 가능한지 확인 할 수 있으니까 최대한 높은 단계까지 강화하는게 좋겠지? 강화석도 우클릭, 좌클릭이야. 내가 방금 전에 준 강화석을 가지고 어서 당장 실행해 봐!" />
+	<block key="sf_1_1_0069_2_Accepted_Text" korean="가방 열고 강화석을 우클릭, 강화할 장비 좌클릭!" />
+	<block key="sf_1_1_0069_2_Ongoing_Text" korean="가방 열고 강화석을 우클릭, 강화할 장비 좌클릭!" />
+	<block key="sf_1_1_0069_2_Complete_Text" korean="다됐군! 강화를 할 수록 브라기 본거놈들을 상대할 때 수월할거야! 건투를 비네!" />
+	<block key="sf_0_1_0100_Title" korean="잃어버린 성수" />
+	<block key="sf_0_1_0100_RewarderDesc" korean="신룡기사단 울프릭스" />
+	<block key="sf_0_1_0100_Request_Text" korean="간밤에 주둔지로 보내야할 귀중한 물건을 도난당했지 뭡니까? 전 하필 왜 여기서 야영을 해서..<br>제가 잠이 든 틈을 노려 훔쳐간 것이지 말입니다.<br><br>이건 분명 여우들 짓입니다.<br>이 근방에 여우말고 또 누가 있겠습니까?<br><br>주변에 돌아다니는 유적지 갈색 여우를 잡아 유적지 성수를 찾아주십시오." />
+	<block key="sf_0_1_0100_Accepted_Text" korean="유적지 갈색 여우가 훔쳐간 유적지 성수를 찾아 주십시오." />
+	<block key="sf_0_1_0100_Ongoing_Text" korean="유적지 성수는 찾아 오셨습니까?<br>이건 분명 주변의 유적지 갈색 여우 짓입니다.<br><br>이젠 여우한테까지 물건을 빼앗기다니..제가 생각해도 한심하지 말입니다..하아.." />
+	<block key="sf_0_1_0100_Complete_Text" korean="역시 제 눈은 정확합니다!<br>기사님이라면 쉽게 해결해주실 줄 알았지 말입니다.<br>" />
+	<block key="sf_0_1_0100_1_Title" korean="훼손된 시신 확인" />
+	<block key="sf_0_1_0100_1_RewarderDesc" korean="신룡기사단 울프릭스" />
+	<block key="sf_0_1_0100_1_Request_Text" korean="얼마 전 신병 몇명이 실종되었지 말입니다.<br>브라기와 전투 중에 죽었는지 늑대밥이 된 건지 알 수가 없습니다. 제 뒤로 늑대들이 있는 곳에 심하게 훼손된 시신 몇구가 있을 겁니다.<br><br>그 시신을 좀 확인해 주십시오. 늑대에게 물려 죽었는지 아닌지만이라도 알아야겠습니다." />
+	<block key="sf_0_1_0100_1_Accepted_Text" korean="훼손된 시신을 확인해 주십시오. 제가 찾는 자들인지 아닌지 알아야겠습니다." />
+	<block key="sf_0_1_0100_1_Ongoing_Text" korean="시신 주변에 유적지 회색 늑대들이 돌아다니고 있으니 조심하십시오.<br>제 뒤에 있는 길로 들어가시면 바로 발견하실 수 있지 말입니다.<br>" />
+	<block key="sf_0_1_0100_1_Complete_Text" korean="제가 찾는 자들은 역시 없었습니까?<br><br>오히려 다행입니다. 여기서 늑대밥이 된 것보다 실종된 것이 차라리 좋은 일입니다." />
+	<block key="sf_0_1_0101_2_Title" korean="사전 공작" />
+	<block key="sf_0_1_0101_2_RewarderDesc" korean="트루뷰" />
+	<block key="sf_0_1_0101_2_Request_Text" korean="최근 남부 유적지 폐허 안에 악령이 깃든 늑대가 출몰했다는 소문을 들었습니다.<br>마침 재료로 쓰기엔 적당하니 악령이 깃든 늑대를 잡아 악에물든 늑대 눈을 가져오십시오. 다른 재료는 제가 알아서 처리하겠습니다." />
+	<block key="sf_0_1_0101_2_Request_Text_attach_0" korean="<br><br>그리고 고대 유적지를 공격하려거든 유적을 보호하는 강화진을 해결해야 합니다.<br>강화진은 유적지 가운데 제단을 중심으로 동,서,남 방향에 설치된 계단 주변에 있을 겁니다. 그것이 남아있는 한 유령들에게 피해를 입힐 수는 없을 것입니다.<br><br>유적 강화진을 해제하세요." />
+	<block key="sf_0_1_0101_2_Accepted_Text" korean="악에 물든 늑대눈과 유적강화진을 해제하세요." />
+	<block key="sf_0_1_0101_2_Ongoing_Text" korean="강화진은 동,서,남 3방향에 설치된 계단 위에서 찾을 수 있을 겁니다. 일을 무사히 끝내면 당신은 원하는 것을 얻을 뿐 아니라 유적지 공격에서도 큰 공적을 세울 기회가 될 것 같군요." />
+	<block key="sf_0_1_0101_2_Complete_Text" korean="재료만 아니라 유적 강화진도 해제하셨군요.<br>큰 공적을 세운 것을 축하드립니다.<br>" />
+	<block key="sf_0_1_0102_Title" korean="신비한 물약" />
+	<block key="sf_0_1_0102_RewarderDesc" korean="트루뷰" />
+	<block key="sf_0_1_0102_Request_Text" korean="사악한 악령을 볼 수 있게 해주는 진실된 시야의 물약이라는 것을 들어봤소? 그게 있어야만 고대 유적지 관리자를 찾아내어 고대의 망치을 얻을 수 있소.<br><br>마침 이곳에 와있는 엘프 트루뷰가 그 물약을 제조하는 법을 알고 있다고 들었소. 사악한 유령을 퇴치하는데 필요한 것이니 사정을 이야기하면 그자도 도와줄 것이오.<br><br>트루뷰에게 가보시오." />
+	<block key="sf_0_1_0102_Accepted_Text" korean="엘프 트루뷰에게 가서 내 이야기를 전해주시오." />
+	<block key="sf_0_1_0102_Ongoing_Text" korean="" />
+	<block key="sf_0_1_0102_Complete_Text" korean="진실된 시야의 물약을 필요로 하신다구요?<br>그것에 대한 소문을 들었단 말입니까?<br><br>음..(트루뷰의 시선이 일순 날카로워진듯하다.)" />
+	<block key="sf_0_1_0102_1_Title" korean="신의를 증명할 증표" />
+	<block key="sf_0_1_0102_1_RewarderDesc" korean="트루뷰" />
+	<block key="sf_0_1_0102_1_Request_Text" korean="무엇인가를 얻으려거든 그에 걸맞는 대가가 있어야한다는 것이 제 지론입니다. 당신이 믿을 수 있는 사람인지 성의를 보여 주세요.<br><br>광채나무 숲으로 올라가는 길목 주변에 광폭한 멧돼지와 붉은털 여우가 있을 겁니다.<br><br>그들을 잡아 얻을 수 있는 멧돼지 어금니와 붉은 털 여우가죽을 가져 오십시오. 그것이 제가 말한 대가입니다." />
+	<block key="sf_0_1_0102_1_Accepted_Text" korean="광폭한 멧돼지와 성난 붉은털 여우를 잡아 어금니와 가죽을 가져오십시오." />
+	<block key="sf_0_1_0102_1_Ongoing_Text" korean="광폭한 멧돼지와 성난 붉은털 여우는 광채나무 숲 방향의 길목에서 보실 수 있을 겁니다." />
+	<block key="sf_0_1_0102_1_Complete_Text" korean="훌륭한 품질의 붉은털 여우가죽과 멧돼지 어금니군요.<br>수고 많으셨습니다.<br><br>한 가지 고백을 드리자면 이것들이 필요해서 구해오라고 했던 것이 아닙니다. 그저 당신의 신의를 증명할 물증을 원했기에 부탁드렸던 것뿐이죠.<br><br>이만하면 충분합니다." />
+	<block key="sf_0_1_0102_2_Title" korean="물약의 재료" />
+	<block key="sf_0_1_0102_2_RewarderDesc" korean="트루뷰" />
+	<block key="sf_0_1_0102_2_Request_Text" korean="진실된 시야의 물약 제조법은 배합의 차이일 뿐 의외로 단순합니다. 오히려 보관방법이 더 중요하죠.<br><br>물약 성분 보호를 위해선 구리 특유의 항균 효과가 꼭 필요합니다. 구리광석을 갈아만든 가루를 물약에 넣을 생각인데..걱정하지 않으셔도 됩니다. 소량의 구리는 인체에 무해하죠." />
+	<block key="sf_0_1_0102_2_Request_Text_attach_0" korean="<br><br>구리광석을 가져 오십시오. 남부 유적지 폐허 근처 곳곳에 퍼져 있어 찾기에 큰 무리는 없을 겁니다." />
+	<block key="sf_0_1_0102_2_Accepted_Text" korean="구리광석을 제게 가져오십시오." />
+	<block key="sf_0_1_0102_2_Ongoing_Text" korean="주변 곳곳에 구리광맥이 있을테니 잘 찾아보셔야 합니다. 구리광석의 품질은 상관없습니다.<br><br>어차피 가루로 만들테니까요." />
+	<block key="sf_0_1_0102_2_Complete_Text" korean="좋습니다.<br>이제 중요한 재료 하나만 있으면 될 것 같군요." />
+	<block key="sf_0_1_0102_3_Title" korean="보급을 위한 재료" />
+	<block key="sf_0_1_0102_3_RewarderDesc" korean="정찰대원 세린" />
+	<block key="sf_0_1_0102_3_Request_Text" korean="보급이 제대로 이루어지지 않아 무기 정비가 어렵습니다. 이래선 근방의 광석을 직접 공수해서 정비를 해야만 할 것 같습니다.<br><br>구리는 더 필요없을 것 같고 은이 필요합니다. 근방의 은광석을 캐서 가져다 주시겠습니까? <br><br>은광이 많지 않아 주변을 잘 살펴야합니다." />
+	<block key="sf_0_1_0102_3_Accepted_Text" korean="이 근방에서 찾을 수 있는 은광석을 가져다 주십시오." />
+	<block key="sf_0_1_0102_3_Ongoing_Text" korean="은광은 다른 자원과 마찬가지로 브라카르 숲 곳곳에 퍼져있습니다.<br>다만 광채나무 숲 주변의 은광이 워낙 소량이라 인내심을 가지는 편이 좋을 것입니다.<br>" />
+	<block key="sf_0_1_0102_3_Complete_Text" korean="재료를 구해오셨군요. 이거면 됐습니다." />
+	<block key="sf_0_1_0102_4_Title" korean="진실된 시야의 물약" />
+	<block key="sf_0_1_0102_4_RewarderDesc" korean="신룡기사단 부관 알렉스" />
+	<block key="sf_0_1_0102_4_Request_Text" korean="재료를 모아주신 덕분에 진실된 시야의 물약을 만들 수 있었습니다. 여기 진실된 시야의 물약입니다.<br><br>알렉스 부관에게 가져가십시오." />
+	<block key="sf_0_1_0102_4_Accepted_Text" korean="진실된 시야의 물약을 알렉스 부관에게 가져가십시오." />
+	<block key="sf_0_1_0102_4_Ongoing_Text" korean="오! 이것이 그 소문의 물약이로군. 고생했소." />
+	<block key="sf_0_1_0102_4_Complete_Text" korean="오! 이것이 그 소문의 물약이로군. 고생했소." />
+	<block key="sf_0_1_0103_Title" korean="전쟁에서 이기는 방편" />
+	<block key="sf_0_1_0103_RewarderDesc" korean="크로우" />
+	<block key="sf_0_1_0103_Request_Text" korean="전쟁에서 적을 무작정 죽이는 것만이 능사가 아니네.<br>브라기 본거지 중심부에 있는 공터에 브라기들의 식량이 있다더군.<br><br>만약 브라기 전사들이 독에 중독된다면 앞으로의 전투도 수월해지지 않겠나? 이걸 가져가게. 클랜의 비약 중 하나인 마비독이네.<br><br>본거지로 가서 브라기들의 전투식량에 마비독을 살포하게." />
+	<block key="sf_0_1_0103_Accepted_Text" korean="본거지 안쪽 공터에 있는 브라기 전투식량부터 찾게." />
+	<block key="sf_0_1_0103_Ongoing_Text" korean="본거지 안쪽 공터에 있는 브라기 전투식량부터 찾게.<br>식량 주변은 브라기들이 철통같이 지키고 있으니 조심하게." />
+	<block key="sf_0_1_0103_Complete_Text" korean="자네가 공을 세웠군. 수고했네." />
+	<block key="sf_0_1_0103_1_Title" korean="위험한 탐구심" />
+	<block key="sf_0_1_0103_1_RewarderDesc" korean="크로우" />
+	<block key="sf_0_1_0103_1_Request_Text" korean="고대 크리스탈에 대한 브라기 샤먼들의 탐구심은 위험해. 특히 브라기 고위 샤먼은 제거해야할 대상이네.<br>뻔히 보이는 위협을 무시할 순 없지.<br><br>브라기 족장이 있는 곳의 고대 크리스탈 주변에 그들이 있네. 브라기 고위 샤먼을 모조리 해치워 위협을 잠재우게." />
+	<block key="sf_0_1_0103_1_Accepted_Text" korean="고대 크리스탈을 사용하려는 브라기 고위 샤먼을 제거하게." />
+	<block key="sf_0_1_0103_1_Ongoing_Text" korean="브라기 고위 샤먼은 제거했나? 고위 샤먼들은 숫자는 적어도 크리스탈에 대한 탐구심이 높아 한시도 그곳을 떠나지 않는다는군.<br><br>크리스탈을 찾으면 고위 샤먼도 찾는 셈이지." />
+	<block key="sf_0_1_0103_1_Complete_Text" korean="위협이 제거되었군. 수고가 많았네." />
+	<block key="sf_0_1_0103_2_Title" korean="배후 조사" />
+	<block key="sf_0_1_0103_2_RewarderDesc" korean="크로우" />
+	<block key="sf_0_1_0103_2_Request_Text" korean="브라기들의 배후에 다른 세력이 있을 것이라는 의문이 커지고 있네. 하지만 물증이 있어야 제대로 된 상황을 파악할 수 있지.<br><br>브라기들의 배후에 누군가 있다면 그 증거가 남아있을 거야. 이를테면 명령서같은 확실한 것 말이네.<br><br>하지만 누가 가졌을지 모르니 브라기 본거지의 모든 브라기들을 잡아 명령서를 찾아오게." />
+	<block key="sf_0_1_0103_2_Accepted_Text" korean="누가 명령서를 가졌을지 모르니 모든 브라기를 잡을 수 밖에 없겠군." />
+	<block key="sf_0_1_0103_2_Ongoing_Text" korean="누가 명령서를 가졌을지 모르니 모든 브라기를 잡을 수 밖에 없겠군. 본거지에 있는 브라기들 모두를 처치하게.<br><br>그들 중 명령서를 가진 자가 틀림없이 있을 거야." />
+	<block key="sf_0_1_0103_2_Complete_Text" korean="과연..생각대로 명령서가 있었어. 하지만 훼손이 심해서 누가 이 명령서를 보냈는지 알아볼 수 가 없군..<br><br>아깝게 되었어." />
+	<block key="sf_9_0_0001_Title" korean="브라카르 숲 떠나기" />
+	<block key="sf_9_0_0001_RewarderDesc" korean="파견 마법사 그레스키" />
+	<block key="sf_9_0_0001_Request_Text" korean="아직 브라카르 숲을 떠나지 않으셨습니까?<br>제 마법으로 도와드리죠.<br>북부 유적지 밖에 있는, 통로 감시자 다리스님께 보내드리겠습니다. 자, 준비 되셨습니까?" />
+	<block key="sf_9_0_0001_Accepted_Text" korean="준비가 되시면 제게 말해주십시오." />
+	<block key="sf_9_0_0001_Ongoing_Text" korean="이제 이동 마법으로 이곳을 벗어나게 해드리겠습니다.<br>그리고 혹시라도 제 도움이 필요하다면 저는 이곳에 있을테니 말씀만 하십시오.<br>언제든지 도와드리겠습니다." />
+	<block key="sf_9_0_0001_Complete_Text" korean="이제 이동 마법으로 이곳을 벗어나게 해드리겠습니다.<br>그리고 혹시라도 제 도움이 필요하다면 저는 이곳에 있을테니 말씀만 하십시오.<br>언제든지 도와드리겠습니다." />
+	<block key="sf_9_0_0002_Title" korean="업적을 통한 엘룬 얻기" />
+	<block key="sf_9_0_0002_RewarderDesc" korean="토르투스 호위대장" />
+	<block key="sf_9_0_0002_Request_Text" korean="업적 달성을 통해서도 엘룬을 얻을 수 있다는 걸 알고 있나? 다양한 임무를 수행하고, 업적을 달성하면 엘룬을 얻을 수 있지.<br><br>오른쪽 하단에 컨텐츠 아이콘을 클릭해, 업적창을 열어 확인해봐! 달성한 업적을 통해 엘룬을 얻을 수 있을 테니." />
+	<block key="sf_9_0_0002_Accepted_Text" korean="오른쪽 하단의 두루마리 모양의 컨텐츠 아이콘을 눌러봐!" />
+	<block key="sf_9_0_0002_Ongoing_Text" korean="다시 설명해줘야 하나? 업적창을 열어 업적 달성의 보상인 엘룬을 획득하면 된다!" />
+	<block key="sf_9_0_0002_Complete_Text" korean="잘했네. 틈틈이 업적창을 열어 달성한 업적이 있는지 확인해보도록." />
+</blocks>

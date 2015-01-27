@@ -1,0 +1,1805 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="eNetFailure_packeterror1" korean="패킷 포괄적 에러가 발생하였습니다" />
+	<block key="eNetFailure_packeterror2" korean="패킷 이상한 오류가 발생하였습니다." />
+	<block key="eNetSuccess_Party_2" korean="[Target]님에게 파티 초대요청을 보냈습니다." />
+	<block key="eNetSuccess_Party_6" korean="[Target]님에게 파티초대 요청에 대한 응답을 보냈습니다." />
+	<block key="eNetSuccess_Party_9" korean="[Target]님이 파티를 탈퇴했습니다." />
+	<block key="eNetSuccess_Party_11" korean="[Target]님이 파티에서 강퇴당했습니다." />
+	<block key="eNetSuccess_Party_14" korean="[Target]님이 파티장이 되었습니다." />
+	<block key="eNetSuccess_Party_17" korean="파티루팅룰이 변경되었습니다." />
+	<block key="eNetSuccess_Quest_32" korean="[QuestName] 퀘스트를 수락했습니다." />
+	<block key="eNetSuccess_Quest_42" korean="[QuestName] 퀘스트를 보상 완료했습니다." />
+	<block key="eNetSuccess_Quest_52" korean="[QuestName] 퀘스트를 취소하였습니다." />
+	<block key="eNetSuccess_Action" korean="eNetSuccess_Action 요청 성공하였습니다." />
+	<block key="eNetFailure_Action_NotLearnedSkill" korean="배운 스킬이 아닙니다." />
+	<block key="eNetFailure_Action_NoSerachableTarget" korean="대상을 찾을 수 없거나, 공격할 수 없는 대상입니다." />
+	<block key="eNetFailure_Action_IsNotActableState" korean="액션이 불가능한 상태입니다." />
+	<block key="eNetFailure_Action_NotRegistedSkill" korean="등록된 스킬이 아닙니다." />
+	<block key="eNetFailure_Action_NotOverActableTime" korean="재사용 시간이 남았습니다." />
+	<block key="eNetFailure_Action_NotEnabled" korean="해당 스킬이 비활성화 되어 있어서 사용할 수 없습니다." />
+	<block key="eNetFailure_Action_FarDistantThanActionRange" korean="사정거리보다 먼거리에 있습니다." />
+	<block key="eNetFailure_Action_WithinMinActableRange" korean="최소 사정거리안에 있습니다." />
+	<block key="eNetFailure_Action_IsNotDamagableTarget" korean="대상을 공격할 수 없는 상태입니다." />
+	<block key="eNetFailure_Action_GuageLow" korean="MP가 모자랍니다." />
+	<block key="eNetFailure_Action_WrongTarget" korean="잘못된 타겟입니다." />
+	<block key="eNetFailure_Action_CannotActCastingSkillOnSilenceState" korean="침묵상태에서는 정방향, 역방향 시전 스킬을 사용할 수 없습니다." />
+	<block key="eNetFailure_Action_NotCastingState" korean="스킬 시전 중이 아닙니다." />
+	<block key="eNetFailure_Action_WhileActingLinkedSkill" korean="콤보 스킬을 시전 중입니다." />
+	<block key="eNetFailure_Action_DeadState" korean="사망 상태입니다." />
+	<block key="eNetFailure_Action_ChangingMapState" korean="맵을 바꾸고 있는 상태입니다." />
+	<block key="eNetFailure_Action_CastingForSkillState" korean="시전 중입니다." />
+	<block key="eNetFailure_Action_KeepingMotionForSkillState" korean="이 스킬은 시전중 이동이 불가능 합니다." />
+	<block key="eNetFailure_Action_FearingState" korean="공포 상태입니다." />
+	<block key="eNetFailure_Action_StuningState" korean="기절 상태입니다." />
+	<block key="eNetFailure_Action_RoaredState" korean="사자후 상태입니다." />
+	<block key="eNetFailure_Action_SleepState" korean="수면 상태입니다." />
+	<block key="eNetFailure_Action_SkillMovingState" korean="스킬 이동 중인 상태입니다." />
+	<block key="eNetFailure_Action_ParriedState" korean="받아치기에 당한 상태입니다." />
+	<block key="eNetFailure_Action_RisingState" korean="공중부양 상태입니다." />
+	<block key="eNetFailure_Action_StealthBlockState" korean="투명화 금지 상태입니다." />
+	<block key="eNetFailure_Action_AnimatingState" korean="스킬 시전 중에는 다른 스킬을 함께 사용하실 수 없습니다." />
+	<block key="eNetFailure_Action_ActionAnimatingState" korean="지금은 스킬을 사용할 수 없습니다. 다시 시도해 주십시오." />
+	<block key="eNetFailure_Action_CannotControlState" korean="캐릭터를 조작할 수 없는 상태입니다." />
+	<block key="eNetFailure_Action_NeedItem" korean="스킬 시전에 필요한 아이템이 없습니다." />
+	<block key="eNetFailure_Action_NeedQuest" korean="퀘스트가 필요합니다." />
+	<block key="eNetFailure_Action_AuraBuff" korean="오라버프는 제거할 수 없습니다." />
+	<block key="eNetFailure_Action_NotExistBuff" korean="걸려있지 않은 버프입니다." />
+	<block key="eNetFailure_Action_CannotDetachDebuff" korean="디버프는 제거할 수 없습니다." />
+	<block key="eNetFailure_Action_NoReturnArea" korean="귀환지역이 정해져 있지 않습니다." />
+	<block key="eNetFailure_Action_MonsterNotRegistered" korean="몬스터 도감에 등록된 몬스터가 아닙니다." />
+	<block key="eNetFailure_Action_NotCapturableHP" korean="몬스터의 HP가 포획 가능 HP보다 높습니다." />
+	<block key="eNetFailure_Action_InavlidActorType" korean="시전자 타입이 적당하지 않습니다." />
+	<block key="eNetFailure_Action_NoReturnStone" korean="귀환석을 가지고 있지 않습니다." />
+	<block key="eNetFailure_Action_PacketError" korean="패킷 에러가 발생하였습니다." />
+	<block key="eNetFailure_Action_NotOverGlobalCoolTime" korean="전역 재사용 시간이 아직 끝나지 않았습니다." />
+	<block key="eNetFailure_Action_Untamabile" korean="길들일 수 없는 대상입니다." />
+	<block key="eNetFailure_Action_TaminingFail" korean="길들이기 실패 데이터 오류입니다." />
+	<block key="eNetFailure_Action_NotEnoughSpaceforCreatureItem" korean="펠로우 보관함이 가득 찼습니다." />
+	<block key="eNetFailure_Action_NotEnoughSpaceforSoulStone" korean="인벤토리가 가득 차서, 영혼석을 넣을 수 없습니다." />
+	<block key="eNetFailure_Action_InvalidBoardState" korean="탑승 상태가 맞지 않습니다." />
+	<block key="eNetFailure_Action_SoulAbsorptionFail" korean="영혼 흡수에 실패했습니다." />
+	<block key="eNetFailure_Action_NotOn_SeazeMode" korean="길들이기 상태가 아니라 길들이기가 불가능합니다." />
+	<block key="eNetFailure_Action_ToggledSkill" korean="스킬이 On 되어있는 상태입니다." />
+	<block key="eNetFailure_Action_NotJumpingSkill" korean="점프 중에는 시전 스킬 및 이동 불가 스킬은 사용이 불가능합니다." />
+	<block key="eNetFailure_Action_NotBoardingSkill" korean="펠로우 탑승 중에는 사용할 수 없는 스킬입니다." />
+	<block key="eNetFailure_Action_NotTamable" korean="해당 몬스터는 길들이기가 불가능합니다." />
+	<block key="eNetFailure_Action_NoMatchingCreature" korean="해당되는 펠로우가 존재하지 않습니다." />
+	<block key="eNetFailure_Action_NotEnoughSpaceforCreature" korean="펠로우 보관함이 가득 찼습니다." />
+	<block key="eNetFailure_Action_MagicstonConvFailInvalidCreature" korean="잘못된 펠로우를 선택하여, 영혼석 변환에 실패했습니다." />
+	<block key="eNetFailure_Action_MagicstonConvFailWrongActionLevel" korean="펠로우의 레벨이 영혼석 변환의 범위를 벗어납니다." />
+	<block key="eNetFailure_Action_MagicstonConvFailITObjectNotExist" korean="설정된 인터렉션 오브젝트가 없어, 영혼석 변환에 실패했습니다." />
+	<block key="eNetFailure_Action_MagicstonConvMagicStoneNotExist" korean="설정된 영혼석이 없어, 영혼석 변환에 실패했습니다." />
+	<block key="eNetFailure_Action_MagicstonConvInvalidSkill" korean="영혼석 변환 스킬이 잘못되어 있습니다." />
+	<block key="eNetFailure_Action_MagicstonConvNotAllowObserverState" korean="옵저버 상태에서는 영혼석 변환을 할 수 없습니다." />
+	<block key="eNetFailure_Action_MagicstonConvAction" korean="영혼석 변환에 실패했습니다." />
+	<block key="eNetFailure_Action_MagicstonConvFailOnBoarding" korean="펠로우 탑승 중에는 영혼석 변환을 할 수 없습니다." />
+	<block key="eNetFailure_Action_NotTamableOnCombat" korean="전투 중에는 길들이기를 할 수 없습니다." />
+	<block key="eNetSuccess_Agreement" korean="요청 성공하였습니다." />
+	<block key="eNetFailure_Agreement_InvalidAgreementType" korean="수락 타입이 맞지 않습니다." />
+	<block key="eNetFailure_Agreement_NotExistProposer" korean="제안하는 사람이 존재하지 않습니다." />
+	<block key="eNetFailure_Agreement_NotExistProposee" korean="제안받는 사람이 존재하지 않습니다." />
+	<block key="eNetFailure_Agreement_CannotPropseMe" korean="자신한테 제안할 수 없습니다." />
+	<block key="eNetFailure_Agreement_ProposedAlready" korean="이미 제안한 상태입니다." />
+	<block key="eNetFailure_Agreement_MyCutoff" korean="차단목록에 이미 등록되어 있습니다." />
+	<block key="eNetFailure_Agreement_HisCutoff" korean="상대방의 차단목록에 내가 존재합니다." />
+	<block key="eNetFailure_Agreement_Timeout" korean="시간이 초과되어 취소되었습니다." />
+	<block key="eNetFailure_Agreement_PacketError" korean="패킷 오류가 발생했습니다." />
+	<block key="eNetFailure_Agreement_MyFriendAlready" korean="친구로 이미 등록되어 있습니다." />
+	<block key="eNetFailure_Agreement_HisFriendAlready" korean="상대방의 친구로 이미 등록되어 있습니다." />
+	<block key="eNetFailure_Agreement_MyFriendSlotFull" korean="친구목록이 가득 찼습니다." />
+	<block key="eNetFailure_Agreement_HisFriendSlotFull" korean="상대방의 친구목록이 가득 찼습니다." />
+	<block key="eNetFailure_Agreement_NotFriend" korean="친구로 등록되지 않았습니다." />
+	<block key="eNetFailure_Agreement_MyBestFriendSlotFull" korean="베스트 프렌드 목록이 가득 찼습니다." />
+	<block key="eNetFailure_Agreement_HisBestFriendSlotFull" korean="상대방의 베스트 프렌드 목록이 가득 찼습니다." />
+	<block key="eNetFailure_Agreement_AlreadyParty" korean="이미 파티가 된 유저입니다." />
+	<block key="eNetFailure_Agreement_NotMaster" korean="파티장이 아닙니다." />
+	<block key="eNetFailure_Agreement_MapInstance" korean="인던에서는 할 수 없는 행동입니다." />
+	<block key="eNetFailure_Agreement_CannotTrade" korean="거래할 수 없는 상태입니다." />
+	<block key="eNetFailure_Agreement_NotPartyMasterMe" korean="파티장이 아닙니다(파티결투)" />
+	<block key="eNetFailure_Agreement_NotPartyMasterTarget" korean="상대방이 파티장이 아닙니다(파티결투)" />
+	<block key="eNetFailure_Agreement_NotPartyMe" korean="파티상태가 아닙니다." />
+	<block key="eNetFailure_Agreement_NotPartyTarget" korean="상대방이 파티상태가 아닙니다." />
+	<block key="eNetFailure_Agreement_StateDuelMe" korean="결투 상태입니다." />
+	<block key="eNetFailure_Agreement_StateDuelTarget" korean="상대방이 결투 상태입니다." />
+	<block key="eNetFailure_Agreement_NoDuelRemain" korean="서버의 결투 한도 제한을 초과했습니다." />
+	<block key="eNetFailure_Agreement_LevelNotMatch" korean="레벨이 맞지 않습니다." />
+	<block key="eNetFailure_Agreement_MenteeFull" korean="제자 목록이 가득 찼습니다." />
+	<block key="eNetFailure_Agreement_MentorExist" korean="이미 스승을 가지고 있습니다." />
+	<block key="eNetFailure_Agreement_NotGuild" korean="길드에 가입되어 있지 않습니다." />
+	<block key="eNetFailure_Agreement_AlreadyGuild" korean="이미 길드에 가입된 유저입니다." />
+	<block key="eNetFailure_Agreement_NoInvitation" korean="길드 초대 권한이 없습니다." />
+	<block key="eNetFailure_Agreement_GuildMemberFull" korean="최대 길드원 숫자를 초과하여 더 이상 초대할 수 없습니다." />
+	<block key="eNetFailure_Agreement_CantBoarding" korean="탑승할 수 없는 상태입니다." />
+	<block key="eNetFailure_Agreement_AlreadyBoarding" korean="이미 탑승 중입니다." />
+	<block key="eNetFailure_Agreement_NoBoardRequest" korean="탑승 요청한 적이 없습니다." />
+	<block key="eNetFailure_Agreement_BoardingMemberFull" korean="이미 모든 멤버가 탑승 중입니다." />
+	<block key="eNetSuccess_auction" korean="eNetSuccess_auction 경매 요청 성공하였습니다." />
+	<block key="eNetSuccess_auction_server_not_ready" korean="경매장 서버가 준비되지 않았습니다." />
+	<block key="eNetfailure_auction_npc_not_found" korean="해당 NPC를 찾을 수 없습니다." />
+	<block key="eNetfailure_auction_too_far" korean="해당 NPC가 너무 멀리 있습니다." />
+	<block key="eNetfailure_auction_invalid_npc" korean="잘못된 타입의 NPC 입니다." />
+	<block key="eNetfailure_auction_player_invalid_state" korean="상점을 이용할 수 없는 상태입니다." />
+	<block key="eNetfailure_auction_invalid_page" korean="잘못된 페이지 번호입니다." />
+	<block key="eNetfailure_auction_short_keyword" korean="검색 글자수가 부족합니다." />
+	<block key="eNetfailure_auction_item_not_found" korean="해당 아이템을 찾을 수 없습니다." />
+	<block key="eNetfailure_auction_not_enough_money" korean="소지금이 부족합니다." />
+	<block key="eNetfailure_auction_not_enough_space" korean="가방에 빈 공간이 없습니다." />
+	<block key="eNetfailure_auction_cannot_buy_my_item" korean="자신이 등록한 아이템은 구매할 수 없습니다." />
+	<block key="eNetfailure_auction_not_enough_seller_space" korean="판매 슬롯 공간이 부족합니다." />
+	<block key="eNetfailure_auction_register_min_sellprice_limit" korean="판매 금액은 1 쿠퍼 이상을 입력해야 합니다." />
+	<block key="eNetfailure_auction_register_isnot_max_durability" korean="내구도가 닳지 않은 아이템만 등록 가능합니다." />
+	<block key="eNetfailure_auction_register_my_limit_access" korean="최대 개수를 초과했습니다. 등록 제한 및 정산 물품을 확인해주세요." />
+	<block key="eNetfailure_auction_register_system_limit_access" korean="판매 대행에 등록 가능한 최대 서버 개수를 초과했습니다." />
+	<block key="eNetfailure_auction_cannot_cancel_other_item" korean="다른 유저의 아이템을 취소할 수 없습니다." />
+	<block key="eNetfailure_auction_item_for_account_not_exist" korean="정산할 아이템이 없습니다." />
+	<block key="eNetfailure_auction_register_invalid_item_type" korean="판매 대행에 등록할 수 없는 아이템입니다." />
+	<block key="eNetSuccess_Capture" korean="스크린샷 저장이 완료되었습니다." />
+	<block key="eNetFailure_Capture_EmptySkill" korean="길들이기 스킬이 없습니다." />
+	<block key="eNetFailure_Capture_SkillFail" korean="길들이기 스킬 시전에 실패했습니다." />
+	<block key="eNetFailure_Capture_NoTarget" korean="길들일 대상이 존재하지 않습니다." />
+	<block key="eNetFailure_Capture_TargetIsNotMonster" korean="길들일 수 없는 대상입니다." />
+	<block key="eNetFailure_Capture_MonsterSheetNotExist" korean="몬스터 시트가 없습니다." />
+	<block key="eNetFailure_Capture_InvalidMonsterSheet" korean="잘못된 몬스터 시트입니다." />
+	<block key="eNetFailure_Capture_RegisterdSheetAlready" korean="이미 몬스터 도감에 등록된 몬스터 입니다." />
+	<block key="eNetFailure_Capture_MonsterSheetSlotisFull" korean="몬스터 도감 슬롯이 없습니다." />
+	<block key="eNetFailure_Capture_MonsterNotRegistered" korean="몬스터 도감에 등록되지 않은 몬스터 입니다." />
+	<block key="eNetFailure_Caputre_NotCapturableHP" korean="길들이기가 가능한 HP가 아닙니다." />
+	<block key="eNetFailure_Capture_EmptyMagicStone_no_item" korean="비어있는 영혼석 아이템이 없습니다." />
+	<block key="eNetFailure_Capture_MagicStone_no_item" korean="영혼석 아이템이 없습니다." />
+	<block key="eNetFailure_Capture_not_EmptyMagicStoneItem" korean="비어있는 영혼석 아이템이 아닙니다." />
+	<block key="eNetFailure_Capture_not_CaptureStateCaptured" korean="길들여진 상태가 아닙니다." />
+	<block key="eNetFailure_Capture_not_same_CreatureGrade" korean="펠로우 등급이 다릅니다." />
+	<block key="eNetFailure_Capture_FailtoCreateITObject" korean="영혼석 인터렉션 오브젝트 생성에 실패 했습니다." />
+	<block key="eNetSuccess_Changgo" korean="eNetSuccess_Changgo 요청 성공하였습니다." />
+	<block key="eNetFailure_Changgo_NotHave" korean="소유하고 있는 아이템이 아닙니다." />
+	<block key="eNetFailure_Changgo_StorageIncorrect" korean="창고가 올바르지 않습니다." />
+	<block key="eNetFailure_Changgo_InvenFull" korean="창고에 아이템이 꽉찼습니다." />
+	<block key="eNetFailure_Changgo_InsufficientMoney" korean="소유한 돈이 모자랍니다." />
+	<block key="eNetFailure_Changgo_NotEqualItem" korean="같은 아이템이 아닙니다." />
+	<block key="eNetFailure_Changgo_NotCountableItem" korean="수량 아이템이 아닙니다." />
+	<block key="eNetFailure_Changgo_AmountOver" korean="아이템의 수량이 초과되었습니다." />
+	<block key="eNetFailure_Changgo_MaxAmountOver" korean="창고가 가득 찼습니다." />
+	<block key="eNetFailure_Changgo_NotExistCharacter" korean="소유하지 않은 캐릭터입니다." />
+	<block key="eNetFailure_Changgo_MaxCharacterCount" korean="계정당 캐릭터 생성수 초과되었습니다." />
+	<block key="eNetFailure_Changgo_CannotFindNpc" korean="창고 엔피씨가 없습니다." />
+	<block key="eNetFailure_Changgo_MoveImpossible" korean="창고로 이동이 불가능한 아이템입니다." />
+	<block key="eNetFailure_Changgo_DivideCountTooMuch" korean="나누려는 개수가 소유 한도를 초과했습니다." />
+	<block key="eNetFailure_Changgo_DataError" korean="창고 데이터에 오류가 있습니다." />
+	<block key="eNetFailure_Changgo_PacketError" korean="창고 패킷에 오류가 있습니다." />
+	<block key="eNetSuccess_Chat" korean="eNetSuccess_Chat 대화 요청 성공하였습니다." />
+	<block key="eNetfailure_Chat_target_not_found" korean="귓말대상을 찾을 수 없습니다." />
+	<block key="eNetfailure_Chat_not_send_myself" korean="자신에게 귓말을 보낼 수 없습니다." />
+	<block key="eNetfailure_Chat_not_cooltime_of_shout" korean="외치기는 제한시간 내 연속해서 보낼 수 없습니다." />
+	<block key="eNetfailure_Chat_not_join_party" korean="파티에 참여중이 아닙니다." />
+	<block key="eNetfailure_Chat_mycutoff" korean="내 차단목록에 있는 유저입니다." />
+	<block key="eNetfailure_Chat_hiscutoff" korean="상대방의 차단목록에 있습니다." />
+	<block key="eNetfailure_Chat_not_guild" korean="길드에 가입되어 있지 않습니다." />
+	<block key="eNetFailure_Chat_PacketError" korean="채팅 패킷에 오류가 있습니다." />
+	<block key="eNetSuccess_Customize" korean="eNetSuccess_Customize 커스터마이즈 요청 성공하였습니다." />
+	<block key="eNetFailure_Customize_UnknownSerial" korean="채널 입장에 실패했습니다." />
+	<block key="eNetFailure_Customize_SystemError" korean="커스터마이징 시스템 에러가 발생했습니다." />
+	<block key="eNetFailure_Customize_PacketError" korean="커스터마이징 패킷에 오류가 있습니다." />
+	<block key="eNetSuccess_Duel" korean="eNetSuccess_Duel 결투 요청 성공하였습니다." />
+	<block key="eNetFailure_Duel_RequestFail" korean="결투 요청에 실패하였습니다." />
+	<block key="eNetFailure_Duel_SequenceError" korean="결투 순서상 에러가 발생하였습니다." />
+	<block key="eNetFailure_Duel_MyCutoff" korean="상대방이 나의 차단목록에 있습니다." />
+	<block key="eNetFailure_Duel_HisCutoff" korean="내가 상대방의 차단목록에 있습니다." />
+	<block key="eNetFailure_Duel_SystemError" korean="결투 시스템에 에러가 발생했습니다." />
+	<block key="eNetFailure_Duel_PacketError" korean="결투 패킷에 오류가 있습니다." />
+	<block key="eNetSuccess_Enchant" korean="eNetSuccess_Enchant 강화 요청 성공하였습니다." />
+	<block key="eNetFailure_Enchant_no_item" korean="강화하려는 아이템이 존재하지 않습니다." />
+	<block key="eNetFailure_Enchant_invalid_item" korean="강화 조건에 맞지 않는 아이템입니다." />
+	<block key="eNetFailure_Enchant_magicstone_needed" korean="강화에 필요한 영혼석이 존재하지 않습니다." />
+	<block key="eNetFailure_Enchant_not_magicstone" korean="영혼석이 아닙니다." />
+	<block key="eNetFailure_Enchant_broken_item" korean="부서진 아이템은 영혼석 장착이 불가능 합니다." />
+	<block key="eNetFailure_Enchant_invalid_slot_index" korean="적합한 슬롯이 아닙니다." />
+	<block key="eNetFailure_Enchant_invalid_npc" korean="강화 NPC가 존재하지 않습니다." />
+	<block key="eNetFailure_Enchant_npc_too_far" korean="강화 NPC가 너무 멀리 있습니다." />
+	<block key="enetfailure_enchant_not_monsterforce" korean="몬스터 기운 아이템이 아닙니다." />
+	<block key="eNetFailure_Enchant_InvalidSkill" korean="강화 스킬이 존재하지 않습니다." />
+	<block key="eNetFailure_Enchant_Cannot_MagicStone_Addon" korean="영혼석을 장착할 수 없습니다." />
+	<block key="eNetFailure_Enchant_StorageFull" korean="가방에 빈 공간이 없습니다." />
+	<block key="eNetFailure_Enchant_not_enough_money" korean="소지금이 부족합니다." />
+	<block key="eNetFailure_Enchant_repair_magicstone_needed" korean="수리에 필요한 영혼석이 없습니다." />
+	<block key="eNetFailure_Enchant_repair_magicstone_max_durability" korean="영혼석의 내구도가 최대치 입니다." />
+	<block key="eNetFailure_Enchant_repair_magicstone_low_level" korean="레벨이 낮아 수리할 수 없습니다." />
+	<block key="eNetFailure_Enchant_not_exist_conversion_magicstone" korean="변환시킬 영혼석이 존재하지 않습니다." />
+	<block key="eNetFailure_Enchant_Cannot_MagicStone_Conversion" korean="영혼석으로 변환시킬 수 없습니다." />
+	<block key="eNetFailure_Enchant_NotAllowObserverState" korean="옵저버 상태에서는 강화가 불가능합니다." />
+	<block key="eNetSuccess_Extraction" korean="eNetSuccess_Extraction 요청 성공하였습니다." />
+	<block key="eNetSuccess_Guild" korean="eNetSuccess_Guild 길드 요청 성공하였습니다." />
+	<block key="eNetFailure_Guild_PacketError" korean="길드 패킷에 오류가 있습니다." />
+	<block key="eNetFailure_Guild_DBError" korean="길드 데이터베이스 에러가 발생하였습니다." />
+	<block key="eNetFailure_Guild_UnknownDBKey" korean="알 수 없는 길드 DBKey 입니다." />
+	<block key="eNetFailure_Guild_SendAlready" korean="길드 정보를 이미 전송했습니다." />
+	<block key="eNetFailure_Guild_NameOccupied" korean="사용 중인 연합 또는 길드 이름입니다." />
+	<block key="eNetFailure_Guild_NameLengthOver" korean="길드 이름이 너무 깁니다." />
+	<block key="eNetFailure_Guild_NameIncludedWordBaned" korean="길드 이름에 사용 금지 단어가 포함되어 있습니다." />
+	<block key="eNetFailure_Guild_NotCreateTimeLimitYet" korean="길드 재생성 기간이 지나지 않았습니다." />
+	<block key="eNetFailure_Guild_Already" korean="이미 길드에 가입된 유저입니다." />
+	<block key="eNetFailure_Guild_Not" korean="길드에 가입되어 있지 않습니다." />
+	<block key="eNetFailure_Guild_InvalidGuildMember" korean="길드 내에 없는 유저입니다." />
+	<block key="eNetFailure_Guild_Not_Allow" korean="권한이 없습니다." />
+	<block key="eNetFailure_Guild_gold_needed" korean="필요 자금이 부족합니다." />
+	<block key="eNetFailure_Guild_Already_GuildOfficer" korean="이미 길드 간부로 지정되어 있습니다." />
+	<block key="eNetFailure_Guild_Not_GuildOfficer" korean="길드 간부가 아닙니다." />
+	<block key="eNetFailure_Guild_invalid_npc" korean="길드 NPC 가 없습니다." />
+	<block key="eNetFailure_Guild_npc_too_far" korean="길드 NPC 와의 거리가 너무 멉니다." />
+	<block key="eNetSuccess_Interaction" korean="eNetSuccess_Interaction 요청 성공하였습니다." />
+	<block key="eNetFailure_Interaction_Test_Quest_No_Match" korean="필요퀘스트가 없거나 완료상태입니다." />
+	<block key="eNetFailure_Interaction_Test_No_Item" korean="필요한 아이템이 없습니다." />
+	<block key="eNetFailure_Interaction" korean="인터렉션이 실패했습니다." />
+	<block key="eNetFailure_Interaction_NotOnInteractive" korean="권한이 없습니다." />
+	<block key="eNetFailure_Interaction_CollectingGrade" korean="채집 등급이 낮습니다." />
+	<block key="eNetFailure_Interaction_CollectingExp" korean="채집 숙련도가 낮습니다." />
+	<block key="eNetFailure_Interaction_Invalid_Interacter" korean="적당하지 않은 인터렉션오브젝트입니다." />
+	<block key="eNetFailure_Interaction_TooFast" korean="캐스팅 시간이 너무 짧습니다." />
+	<block key="eNetFailure_Interaction_NeedCasting" korean="캐스팅이 필요한 인터렉션 오브젝트입니다." />
+	<block key="eNetFailure_Interaction_Invalid_CastingTarget" korean="캐스팅한 오브젝트와 인터렉션을 요청한 오브젝트가 다릅니다." />
+	<block key="eNetFailure_Interaction_TooFar" korean="거리가 너무 멉니다." />
+	<block key="eNetFailure_Interaction_Invalid_itobject" korean="인터렉션 오브젝트를 찾을 수 없습니다." />
+	<block key="eNetFailure_Interaction_Pass" korean="인터렉션을 무시했습니다." />
+	<block key="eNetFailure_Interaction_Moving" korean="이동 중이거나 점프 중일 때는 인터렉션을 할 수 없습니다." />
+	<block key="eNetSuccess_Item" korean="eNetSuccess_Item 아이템 요청 성공하였습니다." />
+	<block key="eNetFailure_Item_NotHave" korean="소유하고 있는 아이템이 아닙니다." />
+	<block key="eNetFailure_Item_StorageIncorrect" korean="가방이 올바르지 않습니다." />
+	<block key="eNetFailure_Item_StorageFull" korean="가방에 빈 공간이 없습니다." />
+	<block key="eNetFailure_Item_AmountIncorrect" korean="아이템의 수량이 올바르지 않습니다." />
+	<block key="eNetFailure_Item_AmountOver" korean="아이템의 수량이 초과되었습니다." />
+	<block key="eNetFailure_Item_NotEqualItem" korean="같은 아이템이 아닙니다." />
+	<block key="eNetFailure_Item_NotCountableItem" korean="스택 가능한 아이템이 아닙니다." />
+	<block key="eNetFailure_Item_MaxAmountOver" korean="최대수량을 초과했습니다." />
+	<block key="eNetFailure_Item_EquipedEqualPart" korean="같은 위치에 이미 장착이 되어있습니다." />
+	<block key="eNetFailure_Item_InvenExt_Money" korean="가방 확장에 필요한 돈이 부족합니다." />
+	<block key="eNetFailure_Item_InvenExt_Level" korean="레벨이 부족하여 가방 확장을 할 수 없습니다." />
+	<block key="eNetFailure_Item_InvenExt_ReachMax" korean="더 이상 가방을 확장시킬 수 없습니다." />
+	<block key="eNetFailure_Item_BelowItemLevel" korean="아이템 레벨이 높아 사용할 수 없습니다." />
+	<block key="eNetFailure_Item_DifferentItemClass" korean="직업이 맞지 않습니다." />
+	<block key="eNetFailure_Item_InsufficientMoney" korean="소지금이 부족합니다." />
+	<block key="eNetFailure_Item_StorageExt_ReachMax" korean="창고를 더 이상 확장할 수 없습니다." />
+	<block key="eNetFailure_Item_MoveImpossible" korean="대상아이템이 이동이 불가능한 아이템입니다." />
+	<block key="eNetFailure_Item_MoveImpossibleBag" korean="바꾸려는 가방의 크기가 작습니다." />
+	<block key="eNetFailure_Item_DivideCountTooMuch" korean="나누려는 아이템 개수가 소유 개수보다 큽니다." />
+	<block key="eNetFailure_Item_NotDyeingItem" korean="염색약 아이템이 아닙니다." />
+	<block key="eNetFailure_Item_DiffrentDyeingType" korean="아이템용 염색약이 아닙니다." />
+	<block key="eNetFailure_Item_DyeingImpossible" korean="염색이 불가능한 아이템입니다." />
+	<block key="eNetFailure_Item_InvalidNpc" korean="존재하지 않는 NPC 입니다." />
+	<block key="eNetFailure_Item_npc_too_far" korean="NPC와의 거리가 너무 멉니다." />
+	<block key="eNetFailure_item_NotCustomizeInfo" korean="커스터마이즈 정보가 없어, 머리 염색에 실패했습니다." />
+	<block key="eNetFailure_Item_BelongingImpossible" korean="귀속해제가 불가능한 아이템입니다." />
+	<block key="eNetFailure_Item_AbandonImpossible" korean="파괴할 수 없는 아이템입니다." />
+	<block key="eNetFailure_Item_DyeingfailServerError" korean="서버 에러가 발생하여 염색에 실패했습니다." />
+	<block key="eNetFailure_Item_reinforcestone_needed" korean="필요한 강화석이 없습니다." />
+	<block key="eNetFailure_Item_reinforce_no_target_item" korean="강화하려는 아이템이 존재하지 않습니다." />
+	<block key="eNetFailure_Item_reinforce_invalid_item" korean="조건에 맞지 않는 아이템입니다." />
+	<block key="eNetFailure_Item_reinforce_broken_item" korean="부서진 아이템입니다." />
+	<block key="eNetFailure_Item_reinforceLevel_ReachMax" korean="강화치가 최대에 도달하여, 더 이상 강화시킬 수 없습니다." />
+	<block key="eNetFailure_Item_extraction_tool_needed" korean="추출도구 아이템이 없습니다." />
+	<block key="eNetFailure_Item_extraction_no_target_item" korean="추출하려는 아이템이 없습니다." />
+	<block key="eNetFailure_Item_extraction_invalid_item" korean="조건에 맞지 않는 아이템입니다." />
+	<block key="eNetFailure_Item_extraction_broken_item" korean="부서진 아이템입니다." />
+	<block key="enetfailure_item_extraction_item_too_high" korean="추출하려는 아이템의 레벨이 맞지 않습니다." />
+	<block key="eNetFailure_Item_NotDropOwner" korean="루팅 권한이 없습니다." />
+	<block key="eNetFailure_Item_DeadPicker" korean="사망 상태에서는 루팅할 수 없습니다." />
+	<block key="eNetFailure_Item_InvalidDropper" korean="루팅 대상이 없습니다." />
+	<block key="eNetFailure_Item_InvalidDropItem" korean="루팅할 아이템이 목록에 없습니다." />
+	<block key="eNetFailure_Item_OnDropGame" korean="해당 아이템에 대한 주사위 굴리기가 진행 중입니다." />
+	<block key="eNetFailure_Item_CannotDropGame" korean="주사위 굴리기에 참여할 수 없는 캐릭터 입니다." />
+	<block key="eNetFailure_Item_NotUsable" korean="아이템이 없거나, 사용 불가능한 상태입니다." />
+	<block key="eNetFailure_Item_InvalidTarget" korean="대상을 찾을 수 없습니다." />
+	<block key="eNetFailure_Item_NotDamagableTarget" korean="손상된 아이템이 아닙니다." />
+	<block key="eNetFailure_Item_ScenarioPlaying" korean="다른 시나리오가 진행 중입니다." />
+	<block key="eNetFailure_Item_InvalidNeedArea" korean="해당 아이템을 사용할 수 없는 지역입니다." />
+	<block key="eNetFailure_Item_NotOverUsableTime" korean="아이템 재사용 시간이 지나지 않았습니다." />
+	<block key="eNetFailure_Item_InvalidTargetType" korean="대상 지정이 잘못되었습니다." />
+	<block key="eNetFailure_Item_InvalidItemSkill" korean="해당 아이템은 사용할 수 없습니다." />
+	<block key="eNetFailure_Item_CannotUseNow" korean="아이템을 사용할 수 없습니다." />
+	<block key="eNetFailure_Item_ScenarioNotExist" korean="사용할 수 없는 아이템입니다." />
+	<block key="eNetFailure_Item_PacketError" korean="아이템 패킷에 오류가 발생했습니다." />
+	<block key="eNetFailure_Item_NotBoxItem" korean="선물상자 아이템이 아닙니다." />
+	<block key="eNetFailure_Item_CloseBoxItem" korean="선물상자 아이템이 닫혀있습니다." />
+	<block key="eNetFailure_Item_InvalidBoxInItem" korean="선물상자 내에 해당 아이템이 없습니다." />
+	<block key="eNetFailure_Item_IsNotToggleItem" korean="토글 아이템이 아닙니다." />
+	<block key="eNetFailure_Item_IsToggleItem" korean="토글 아이템은 사용할 수 없습니다." />
+	<block key="eNetFailure_Item_ImpossibleChangeEquip" korean="동작이 진행 중에는 아이템을 착용/교체 할 수 없습니다." />
+	<block key="eNetFailure_Item_NotAllowObserverState" korean="옵저버 상태에서는 사용할 수 없습니다." />
+	<block key="eNetFailure_Item_DifferentDyeingType" korean="아이템용 염색약이 아닙니다." />
+	<block key="eNetFailure_Item_dyeing_needed" korean="필요한 염색약이 없습니다." />
+	<block key="eNetFailure_Item_dyeing_no_target_item" korean="염색하려는 아이템이 없습니다." />
+	<block key="eNetFailure_Item_DivideCountIncorrect" korean="나누려는 개수가 0 이하입니다." />
+	<block key="eNetFailure_Item_NotEqualStorage" korean="같은 곳에 저장된 아이템이 아닙니다." />
+	<block key="eNetFailure_Item_DivideMergeNotHave" korean="나누려는 아이템을 겹치게 할 아이템이 없습니다." />
+	<block key="eNetFailure_Item_CannotUseItemOnRide" korean="탑승 중에는 사용할 수 없는 아이템입니다." />
+	<block key="eNetSuccess_LearnSkill" korean="eNetSuccess_LearnSkill 스킬습득 요청 성공하였습니다." />
+	<block key="eNetFailure_LearnSkill_NoSkillBook" korean="가방에 스킬북이 없습니다." />
+	<block key="eNetFailure_LearnSkill_InvalidSkillBook" korean="스킬북이 아닌 아이템입니다." />
+	<block key="eNetFailure_LearnSkill_InvalidSkill" korean="잘못된 스킬입니다." />
+	<block key="eNetFailure_LearnSkill_UserLevelRequired" korean="캐릭터 레벨이 낮습니다." />
+	<block key="eNetFailure_LearnSkill_SkillPointRequired" korean="스킬 포인트가 부족합니다." />
+	<block key="eNetFailure_LearnSkill_PreskillRequired" korean="선행 스킬을 배우지 않았습니다." />
+	<block key="eNetFailure_LearnSkill_PreskillLvRequired" korean="선행 스킬 레벨이 부족합니다." />
+	<block key="eNetFailure_LearnSkill_TabpointRequired" korean="해당 탭에 투자된 스킬 포인트가 부족합니다." />
+	<block key="eNetFailure_LearnSkill_SlotisFull" korean="스킬을 넣을 수 있는 슬롯이 없습니다." />
+	<block key="eNetFailure_Learnskill_AlreadyHave" korean="이미 가지고 있는 스킬입니다." />
+	<block key="eNetFailure_Learnskill_InvalidClass" korean="직업이 맞지 않습니다." />
+	<block key="eNetFailure_LearnSkill_return_PreskillcannotErase" korean="선행 스킬이기 때문에 제거가 불가능합니다." />
+	<block key="eNetFailure_LearnSkill_return_notfound" korean="배우지 않은 스킬입니다." />
+	<block key="eNetFailure_LearnSkill_return_Tabpoint_required" korean="탭 포인트를 필요로 하는 스킬이 있어, 제거가 불가능합니다." />
+	<block key="eNetFailure_LearnSkill_Return_mission_required" korean="퀘스트 완료에 필요한 스킬이므로, 제거가 불가능합니다." />
+	<block key="eNetFailure_LearnSkill_NotEnough_Money" korean="돈이 부족합니다." />
+	<block key="eNetSuccess_Mail" korean="eNetSuccess_Mail 우편 요청 성공하였습니다." />
+	<block key="eNetFailure_Mail_DBError" korean="메일 데이터베이스 에러입니다." />
+	<block key="eNetFailure_Mail_receiver_not_exist" korean="편지를 받을 대상을 입력하지 않았습니다." />
+	<block key="eNetFailure_Mail_title_not_exist" korean="제목을 입력하지 않았습니다." />
+	<block key="eNetFailure_Mail_target_not_found" korean="편지를 받을 대상을 찾을 수 없습니다." />
+	<block key="eNetFailure_Mail_dbkey_not_exist" korean="데이터 베이스에 없는 우편입니다." />
+	<block key="eNetFailure_Mail_receiver_mail_is_full" korean="편지를 받을 대상의 우편함이 꽉 차 있습니다." />
+	<block key="eNetFailure_Mail_already_get_money" korean="첨부된 돈을 이미 가져갔습니다." />
+	<block key="eNetFailure_Mail_already_get_mail" korean="해당 편지를 이미 가져갔습니다." />
+	<block key="eNetFailure_Mail_already_get_item" korean="해당 아이템을 이미 가져갔습니다." />
+	<block key="eNetFailure_Mail_not_enough_money" korean="편지를 보내기에 요금이 부족합니다." />
+	<block key="eNetFailure_Mail_title_length_too_long" korean="편지 제목이 너무 깁니다." />
+	<block key="eNetFailure_Mail_letter_length_too_long" korean="편지 내용이 너무 깁니다." />
+	<block key="eNetFailure_Mail_target_length_too_long" korean="대상의 이름이 너무 깁니다." />
+	<block key="eNetFailure_Mail_no_have_send_item" korean="전송아이템을 소유하고 있지 않습니다." />
+	<block key="eNetFailure_Mail_item_record_not_found" korean="아이템 레코드를 찾을 수 없습니다." />
+	<block key="eNetFailure_Mail_item_db_create_failed" korean="아이템을 디비에 생성하지 못했습니다." />
+	<block key="eNetFailure_Mail_have_not_item" korean="해당 아이템을 소유하고 있지 않습니다." />
+	<block key="eNetFailure_Mail_invalid_item_dbkey" korean="아이템 디비키가 없습니다." />
+	<block key="eNetFailure_Mail_passed_expiration_date" korean="메일 만료일이 지났습니다." />
+	<block key="eNetFailure_Mail_not_take_time_limit_yet" korean="아이템 획득 제한시간이 남았습니다." />
+	<block key="eNetFailure_Mail_trade_impossible" korean="첨부할 수 없는 아이템입니다." />
+	<block key="eNetFailure_Mail_not_mail_object" korean="편지 오브젝트가 아닙니다." />
+	<block key="eNetFailure_Mail_DataError" korean="메일 데이터 오류입니다." />
+	<block key="eNetFailure_Mail_PacketError" korean="메일 패킷에 오류가 발생했습니다." />
+	<block key="eNetFailure_Mail_money_too_much" korean="편지로 보낼 수 있는 금액을 초과했습니다." />
+	<block key="eNetFailure_Mail_bag_storage_full" korean="가방 공간이 부족합니다." />
+	<block key="eNetSuccess_Move" korean="eNetSuccess_Move 이동 요청 성공하였습니다." />
+	<block key="eNetFailure_Move_IsNotOnTheMap" korean="맵 상에 있지 않습니다." />
+	<block key="eNetFailure_Move_InvalidPortal" korean="유효하지 않은 포탈입니다." />
+	<block key="eNetFailure_Move_OutOfRangeFromPortal" korean="포탈로부터 거리가 너무 멀리 있습니다." />
+	<block key="eNetFailure_Move_NotEnoughMoneyForPortal" korean="포탈 이용에 필요한 돈이 부족합니다." />
+	<block key="eNetFailure_Move_Access_MaxLayer" korean="인던 생성개수가 초과되어, 더 이상 인던을 생성시킬 수 없습니다." />
+	<block key="eNetFailure_Move_Different_DungeonKey" korean="캐릭터가 소속된 인던과 다른 인던입니다." />
+	<block key="eNetFailure_Move_Different_Party_Play" korean="다른 파티가 플레이 중입니다." />
+	<block key="eNetFailure_Move_Low_Level" korean="레벨이 부족하여 입장할 수 없습니다." />
+	<block key="eNetFailure_Move_IsNot_Finished_Quest" korean="입장에 필요한 퀘스트를 완료하지 않았습니다." />
+	<block key="eNetFailure_Move_DoNot_Have_Item" korean="입장에 필요한 아이템을 가지고 있지 않습니다." />
+	<block key="eNetFailure_Move_Invalid_Faction" korean="성향이 달라 입장할 수 없습니다." />
+	<block key="eNetFailure_Move_IsNot_Party" korean="파티에 가입된 상태가 아닙니다." />
+	<block key="eNetFailure_Move_InvalidRegion" korean="잘못된 지역입니다." />
+	<block key="eNetFailure_Move_DuplicatedRegion" korean="이미 등록된 지역입니다." />
+	<block key="eNetFailure_Move_NotDead" korean="사망 상태가 아니므로, 부활할 수 없습니다." />
+	<block key="eNetFailure_Move_PacketError" korean="이동 패킷에 오류가 발생했습니다." />
+	<block key="eNetSuccess_Param" korean="eNetSuccess_Param Param 요청 성공하였습니다." />
+	<block key="eNetFailure_Param_PacketError" korean="Param 패킷에 오류가 발생했습니다." />
+	<block key="eNetSuccess_Party" korean="eNetSuccess_Party 파티 요청 성공하였습니다." />
+	<block key="eNetFailure_Party_PacketError" korean="파티 패킷에 오류가 발생했습니다." />
+	<block key="eNetFailure_Party_Not" korean="파티에 가입되어 있지 않습니다." />
+	<block key="eNetFailure_Party_Already" korean="이미 파티에 가입된 유저입니다." />
+	<block key="eNetFailure_Party_NotFound" korean="해당 유저를 찾을 수 없습니다." />
+	<block key="eNetFailure_Party_Full" korean="파티에 빈 자리가 없습니다." />
+	<block key="eNetFailure_Party_NotMaster" korean="권한이 없습니다." />
+	<block key="eNetFailure_Party_TimeDelay" korean="초청 대기 시간입니다." />
+	<block key="eNetFailure_Party_NoInvite" korean="초대 받은적이 없습니다." />
+	<block key="eNetFailure_Party_MapInstance" korean="다른 인던에 소속된 유저입니다." />
+	<block key="eNetFailure_Party_MyCutoff" korean="내 차단목록에 있는 유저입니다." />
+	<block key="eNetFailure_Party_HisCutoff" korean="상대방의 차단목록에 있습니다." />
+	<block key="eNetSuccess_Quest" korean="eNetSuccess_Quest 퀘스트 요청 성공하였습니다." />
+	<block key="eNetFailure_Quest_TheNpcCannotOpenDialog" korean="npc가 다이얼로그를 열수없는 상태입니다." />
+	<block key="eNetFailure_Quest_TheNpcNotHavingTheQuest" korean="해당 퀘스트를 가지고 있지 않은 npc입니다." />
+	<block key="eNetFailure_Quest_TheItemNotHavingTheQuest" korean="해당 퀘스트를 가지고 있지 않은 item입니다." />
+	<block key="eNetFailure_Quest_MyLevelBelowQuestLevel" korean="해당 퀘스트를 수행하기 위한 레벨이 부족합니다." />
+	<block key="eNetFailure_Quest_HaveNoItemStartingTheQuest" korean="퀘스트 수행에 필요한 아이템을 가지고 있지 않습니다." />
+	<block key="eNetFailure_Quest_MyClassDifferentQuest" korean="현재의 직업으로는 해당 퀘스트를 수행 할 수 없습니다." />
+	<block key="eNetFailure_Quest_NotDonePrevQuest" korean="선행퀘스트를 하지 않았습니다." />
+	<block key="eNetFailure_Quest_DoneEqualQuest" korean="[QuestName] 퀘스트는 이미 완료한 퀘스트입니다." />
+	<block key="eNetFailure_Quest_DoingQuest" korean="현재 진행 중인 퀘스트입니다." />
+	<block key="eNetFailure_Quest_NotDoingQuest" korean="현재 진행 중이 아닌 퀘스트입니다." />
+	<block key="eNetFailure_Quest_QuestFull" korean="더 이상 퀘스트를 받을 수 없습니다." />
+	<block key="eNetFailure_Quest_TheNpcNotFinishTheQuest" korean="해당 퀘스트의 종료 NPC가 아닙니다." />
+	<block key="eNetFailure_Quest_RewardItemSelectionError" korean="보상아이템 선택에 오류가 발생했습니다." />
+	<block key="eNetFailure_Quest_InventoryFull" korean="가방이 꽉 찬 상태입니다." />
+	<block key="eNetFailure_Quest_NotFinishedQuest" korean="완료된 퀘스트가 아닙니다." />
+	<block key="eNetFailure_Quest_HaveNoItemToReturn" korean="반납해야할 아이템을 소지하고 있지 않습니다." />
+	<block key="eNetFailure_Quest_NotQuestItem" korean="퀘스트 아이템이 아닙니다." />
+	<block key="eNetFailure_Quest_QuestItem" korean="퀘스트 아이템입니다." />
+	<block key="eNetFailure_Quest_CannotJointInParty" korean="파티 공유가 안되는 퀘스트입니다." />
+	<block key="eNetFailure_Quest_CannotFindNpc" korean="해당 NPC 를 찾을 수 없습니다." />
+	<block key="eNetFailure_Quest_LongDistanceWithTheNpc" korean="해당 NPC 와의 거리가 너무 멉니다." />
+	<block key="eNetFailure_Quest_NoGivingUp" korean="포기가 불가능한 퀘스트 입니다." />
+	<block key="eNetFailure_Quest_OnEscortGoing" korean="다른 플레이어가 이벤트 퀘스트를 진행 중입니다." />
+	<block key="eNetFailure_Quest_CannotJoinEscort" korean="이벤트 퀘스트에 참여할 수 없습니다." />
+	<block key="eNetFailure_Quest_InvalidMapId" korean="잘못된 Map ID 입니다." />
+	<block key="eNetFailure_Quest_InvalidAreaId" korean="잘못된 Area ID 입니다." />
+	<block key="eNetFailure_Quest_InvalidSkillId" korean="잘못된 Skill ID 입니다." />
+	<block key="eNetFailure_Quest_InvalidScenarioId" korean="잘못된 Scenario ID 입니다." />
+	<block key="eNetFailure_Quest_NotFoundEndTalkNpc" korean="NPC와 대화 종료 미션을 가진 퀘스트가 없습니다." />
+	<block key="eNetFailure_Quest_LimitTimeOver" korean="퀘스트 제한 시간이 지났습니다." />
+	<block key="eNetFailure_Quest_OverRepeatCount" korean="퀘스트 반복 횟수를 초과했습니다." />
+	<block key="eNetFailure_Quest_DataError" korean="퀘스트 데이터 오류입니다." />
+	<block key="eNetFailure_Quest_PacketError" korean="퀘스트 패킷 오류입니다." />
+	<block key="eNetFailure_Quest_NotJointInParty" korean="파티에 가입된 상태가 아닙니다." />
+	<block key="eNetFailure_Quest_RefuseShareQuest" korean="퀘스트 공유 신청을 거절했습니다." />
+	<block key="eNetFailure_Quest_AlreadyOnShareQuest" korean="이미 공유 중인 퀘스트 입니다." />
+	<block key="eNetFailure_Quest_LogOffPlayer" korean="해당 유저가 로그 오프 상태입니다." />
+	<block key="eNetFailure_Quest_MyLevelBelowQuestFinishLv" korean="레벨이 낮아 해당 퀘스트를 완료할 수 없습니다." />
+	<block key="eNetFailure_Quest_AlreadyHave" korean="이미 가지고 있는 스킬입니다." />
+	<block key="eNetFailure_Quest_SlotisFull" korean="스킬을 넣을 수 있는 슬롯이 없습니다." />
+	<block key="eNetFailure_Quest_PreskillRequired" korean="선행 스킬을 배우지 않았습니다." />
+	<block key="eNetFailure_Quest_PreskillLvRequired" korean="선행 스킬 레벨이 부족합니다." />
+	<block key="eNetSuccess_Relation" korean="eNetSuccess_Relation 인맥 요청 성공하였습니다." />
+	<block key="eNetFailure_Relation_SendAlready" korean="리스트를 이미 전송했습니다." />
+	<block key="eNetFailure_Relation_InvalidRelation" korean="친구목록에 등록되어 있는 유저가 아닙니다." />
+	<block key="eNetFaulure_Relation_NotExist" korean="존재하지 않는 이름입니다." />
+	<block key="eNetFaulure_Relation_AlreadyCutoff" korean="이미 차단 목록에 등록된 유저입니다." />
+	<block key="eNetFaulure_Relation_NotCutoff" korean="차단 목록에 없는 유저입니다." />
+	<block key="eNetFaulure_Relation_CannotCutoffMe" korean="자신을 차단할 수 없습니다." />
+	<block key="eNetFaulure_Relation_CutoffFull" korean="차단 목록이 가득 찼습니다." />
+	<block key="eNetFaulure_Relation_CommentLengthOver" korean="오늘의 한마디가 너무 깁니다." />
+	<block key="eNetFaulure_Relation_InvalidFriendState" korean="친구의 접속 상태가 잘못되어 있습니다." />
+	<block key="eNetFaulure_Relation_CutoffMemotLengthOver" korean="차단 메모가 너무 깁니다." />
+	<block key="eNetFailure_Relation_DBError" korean="인맥 DB에 에러가 발생했습니다." />
+	<block key="eNetFailure_Relation_PacketError" korean="인맥 패킷에 오류가 발생했습니다." />
+	<block key="eNetSuccess_SCEvent" korean="eNetSuccess_SCEvent 요청 성공하였습니다." />
+	<block key="eNetsuccess_store" korean="eNetsuccess_store 상점 요청 성공하였습니다." />
+	<block key="eNetfailure_store_npc_not_found" korean="해당 NPC를 찾을 수 없습니다." />
+	<block key="eNetfailure_store_invalid_npc" korean="상점 NPC가 아닙니다." />
+	<block key="eNetfailure_store_item_not_found" korean="상점에 없는 아이템입니다." />
+	<block key="eNetfailure_store_item_count_not_match" korean="아이템 개수가 맞지 않습니다." />
+	<block key="eNetfailure_store_not_enough_money" korean="소지금이 부족합니다." />
+	<block key="eNetfailure_store_npc_has_no_store" korean="이 NPC는 상점을 가지고 있지 않습니다." />
+	<block key="eNetfailure_store_wrong_price" korean="구입(판매) 가격이 맞지 않습니다." />
+	<block key="eNetfailure_store_inven_error" korean="가방에 해당 아이템이 없습니다." />
+	<block key="eNetfailure_store_item_slot_empty" korean="판매하려는 아이템이 없습니다." />
+	<block key="eNetfailure_store_rebuy_not_match" korean="요청한 재구매 리스트가 너무 많습니다." />
+	<block key="eNetfailure_store_rebuy_item_not_exist" korean="재구매하려는 아이템이 없습니다." />
+	<block key="eNetfailure_store_sell_impossible_item" korean="판매할 수 없는 아이템입니다." />
+	<block key="eNetfailure_store_too_far" korean="상점 NPC와의 거리가 너무 멉니다." />
+	<block key="eNetfailure_store_storage_full" korean="가방이 꽉 차 있습니다." />
+	<block key="eNetfailure_store_invalid_item_count" korean="구매하려는 아이템 개수가 잘못되었습니다." />
+	<block key="eNetfailure_store_refund_time_over" korean="환불 시간이 초과되어, 환불받을 수 없습니다." />
+	<block key="eNetSuccess_trade" korean="eNetSuccess_trade 거래 요청 성공하였습니다." />
+	<block key="eNetfailure_trade_im_ontrade" korean="이미 거래가 진행 중입니다." />
+	<block key="eNetfailure_trade_target_is_ontrade" korean="상대방이 거래를 진행 중입니다." />
+	<block key="eNetfailure_trade_target_not_found" korean="거래 대상을 찾을 수 없습니다." />
+	<block key="eNetfailure_trade_item_not_found" korean="가방에 거래하려는 아이템이 없습니다." />
+	<block key="eNetfailure_trade_item_is_not_on_trade" korean="아이템이 거래창에 없습니다." />
+	<block key="eNetfailure_trade_no_empty_slot" korean="거래창에 빈 슬롯이 없습니다." />
+	<block key="eNetfailure_trade_not_enough_money" korean="소지금이 부족합니다." />
+	<block key="eNetfailure_trade_not_ready" korean="거래 준비 완료 상태가 아닙니다." />
+	<block key="eNetfailure_trade_not_enough_space" korean="가방이 가득 찼습니다." />
+	<block key="eNetfailure_trade_not_open" korean="이미 거래준비가 되었습니다." />
+	<block key="eNetfailure_trade_item_is_already_on_trade" korean="이미 해당 아이템이 거래창에 올려져 있습니다." />
+	<block key="eNetfailure_trade_user_cancel" korean="거래를 취소했습니다." />
+	<block key="eNetfailure_trade_impossible_item" korean="거래가 불가능한 아이템입니다." />
+	<block key="eNetfailure_trade_already_decided" korean="상대방의 결정을 기다리고 있습니다." />
+	<block key="eNetfailure_trade_already_ready" korean="이미 거래 준비가 되었습니다." />
+	<block key="eNetSuccess_User" korean="eNetSuccess_User 플레이어 요청 성공하였습니다." />
+	<block key="eNetFailure_User_FailEntrance" korean="채널 입장에 실패했습니다." />
+	<block key="eNetFailure_User_SequenceError" korean="순서상 에러가 발생했습니다." />
+	<block key="eNetFailure_User_DBError" korean="데이터베이스 에러가 발생했습니다." />
+	<block key="eNetFailure_User_MadeCharFull" korean="캐릭터를 더 이상 생성할 수 없습니다." />
+	<block key="eNetFailure_User_UnknownDBKey" korean="알수없는 캐릭터 데이타베이스 키값입니다." />
+	<block key="eNetFailure_User_NameLengthOver" korean="캐릭터 이름이 너무 깁니다." />
+	<block key="eNetFailure_User_NameOccupied" korean="사용 중인 이름입니다." />
+	<block key="eNetFailure_User_NameIncludedWordBaned" korean="사용 금지 단어가 포함된 이름입니다." />
+	<block key="eNetFailure_User_TryToDownloadTwice" korean="두 번째 다운로드 시도입니다." />
+	<block key="eNetFailure_User_NotRegistedWorld" korean="등록된 월드가 아닙니다." />
+	<block key="eNetFailure_User_NotOperatingWorld" korean="작동 중인 월드가 아닙니다." />
+	<block key="eNetFailure_User_SelectingEqualWorld" korean="같은 월드를 선택했습니다." />
+	<block key="eNetFailure_User_OverMaxUserSelectedWorld" korean="선택한 월드의 유저가 꽉 찬 상태입니다." />
+	<block key="eNetFailure_User_Invalid_Channel" korean="잘못된 채널 아이디 입니다." />
+	<block key="enetfailure_user_namelengthshot" korean="2글자 이상부터 생성 가능합니다." />
+	<block key="eNetFailure_User_BlockedID" korean="블럭된 아이디입니다." />
+	<block key="eNetFailure_User_CannotFindNpc" korean="해당 NPC를 찾을 수 없습니다." />
+	<block key="eNetFailure_User_NotDeleteGuildMaster" korean="길드장인 캐릭터는 삭제할 수 없습니다." />
+	<block key="eNetFailure_User_SystemError" korean="User 시스템 에러가 발생했습니다." />
+	<block key="eNetFailure_User_PacketError" korean="User 패킷 에러가 발생했습니다." />
+	<block key="eNetFailure_User_Npc_too_far" korean="NPC와의 거리가 너무 멉니다." />
+	<block key="eNetSuccess_GMSVAgent" korean="eNetSuccess_GMSVAgent 요청 성공하였습니다." />
+	<block key="eNetFailure_GMSVAgent_FileNotFound" korean="실행 파일을 찾을 수 없습니다." />
+	<block key="eNetFailure_GMSVAgent_AlreadyRunning" korean="이미 실행 중입니다." />
+	<block key="eNetFailure_GMSVAgent_UnknownError" korean="알 수 없는 에러가 발생했습니다." />
+	<block key="eNetSuccess_GMSVGameServers" korean="요청 성공하였습니다." />
+	<block key="eNetFailure_GMSVGameServers_OperatingWorldSomewhere" korean="월드 작동에 문제가 발생했습니다." />
+	<block key="eNetFailure_GMSVGameServers_InvalidWorld" korean="잘못된 월드입니다." />
+	<block key="eNetSuccess_GMSVManager" korean="요청 성공하였습니다." />
+	<block key="eNetFailure_GMSVManager_NotExistedID" korean="해당 ID를 찾을 수 없습니다." />
+	<block key="eNetFailure_GMSVManager_WrongPassword" korean="패스워드가 맞지 않습니다." />
+	<block key="eNetFailure_GMSVManager_DBQueryError" korean="DB 에러가 발생했습니다." />
+	<block key="eNetFailure_GMSVManager_SuspiciousPacket" korean="잘못된 패킷입니다." />
+	<block key="eNetFailure_GMSVManager_InvalidWorld" korean="잘못된 월드입니다." />
+	<block key="eNetFailure_GMSVManager_EventNotificationFull" korean="이벤트 공지가 가득 찼습니다." />
+	<block key="eNetFailure_GMSVManager_WorldisRunning" korean="월드가 작동 중인 상태입니다." />
+	<block key="eNetFailure_GMSVManager_WorldisStopped" korean="월드가 정지된 상태입니다." />
+	<block key="eNetSuccess_Entry" korean="입장 성공하였습니다." />
+	<block key="eNetFailure_Entry_SequenceError" korean="게임 접속 처리 순서에 문제가 발생했습니다." />
+	<block key="eNetFailure_Entry_NotExistedID" korean="존재하지 않는 ID 입니다." />
+	<block key="eNetFailure_Entry_WrongPassword" korean="패스워드가 맞지 않습니다." />
+	<block key="eNetFailure_Entry_BlockedIP" korean="이용이 제한된 IP 입니다." />
+	<block key="eNetFailure_Entry_BlockedID" korean="이용이 제한된 ID 입니다." />
+	<block key="eNetFailure_Entry_NotUserForGame" korean="게임 유저가 아닙니다." />
+	<block key="eNetFailure_Entry_EqualAccountConnected" korean="다른 곳에서 같은 계정이 접속중입니다." />
+	<block key="eNetFailure_Entry_DBQueryError" korean="DB쿼리 에러가 발생했습니다." />
+	<block key="eNetFailure_Entry_AccountFull" korean="계정 최대치입니다." />
+	<block key="eNetFailure_Entry_UnlinkedWithMainServer" korean="메인 서버에 연결되어 있지 않습니다." />
+	<block key="eNetFailure_Entry_NotRegistedWorld" korean="등록된 월드가 아닙니다." />
+	<block key="eNetFailure_Entry_NotOperatingWorld" korean="작동중인 월드가 아닙니다." />
+	<block key="eNetFailure_Entry_OverMaxUser" korean="현재 서버 접속인원이 많습니다.
+잠시후 다시 접속해주시기 바랍니다." />
+	<block key="eNetFailure_Entry_SuspiciousPacket" korean="알 수 없는 패킷입니다." />
+	<block key="eNetFailure_Entry" korean="포괄적인 에러가 발생했습니다." />
+	<block key="eNetSuccess_Channel" korean="채널 접속" />
+	<block key="eNetFailure_Channel_NotRegistedWorld" korean="등록된 월드가 아닙니다." />
+	<block key="eNetFailure_Channel_NotOperatingWorld" korean="작동중인 월드가 아닙니다." />
+	<block key="eNetFailure_Channel_OperatingWorldSomewhere" korean="이미 작동중인 월드입니다." />
+	<block key="eNetFailure_Channel_AccountNotConnected" korean="접속중인 계정이 아닙니다." />
+	<block key="eNetFailure_Channel_PacketError" korean="채널 패킷에 에러가 발생했습니다." />
+	<block key="eNetSuccess_Login" korean="로그인" />
+	<block key="eNetFailure_Login_EqualAccountConnected" korean="같은 계정이 접속 중입니다." />
+	<block key="eNetFailure_Login_DBQueryError" korean="데이터베이스쿼리 에러가 발생하였습니다." />
+	<block key="eNetFailure_Login_AccountFull" korean="접속 계정이 꽉 찼습니다." />
+	<block key="eNetFailure_Login_AccountNotConnected" korean="접속 중이지 않은 계정입니다." />
+	<block key="eNetFailure_Login_WorldNotRegisted" korean="등록된 월드가 아닙니다." />
+	<block key="eNetFailure_Login_NotOperatingWorld" korean="작동중인 월드가 아닙니다." />
+	<block key="eNetSuccess_StressTest" korean="스트레스 테스트중입니다." />
+	<block key="eNetSuccess_Creature" korean="펠로우" />
+	<block key="eNetFailure_Creature_Empty" korean="펠로우가 없습니다." />
+	<block key="eNetFailure_Creature_NotBoarding" korean="펠로우에 탑승하고 있지 않습니다." />
+	<block key="eNetFailure_Creature_Boarding" korean="이미 펠로우에 탑승 중입니다." />
+	<block key="eNetFailure_Creature_NotLearnedSkill" korean="배우지 않은 스킬입니다." />
+	<block key="eNetFailure_Creature_NoSerachableTarget" korean="타겟을 찾을 수 없습니다." />
+	<block key="eNetFailure_Creature_IsNotActableState" korean="행동이 불가능한 상태입니다." />
+	<block key="eNetFailure_Creature_NotRegistedSkill" korean="등록된 스킬이 아닙니다." />
+	<block key="eNetFailure_Creature_NotOverActableTime" korean="아직 재사용 시간이 지나지 않았습니다." />
+	<block key="eNetFailure_Creature_NotEnabled" korean="활성화 되어 있지 않습니다." />
+	<block key="eNetFailure_Creature_FarDistantThanActionRange" korean="사정거리보다 먼 거리에 있습니다." />
+	<block key="eNetFailure_Creature_WithinMinActableRange" korean="너무 가까운 거리에 있습니다." />
+	<block key="eNetFailure_Creature_IsNotDamagableTarget" korean="공격할 수 없는 적입니다." />
+	<block key="eNetFailure_Creature_GaugeLow" korean="게이지가 모자랍니다." />
+	<block key="eNetFailure_Creature_WrongTarget" korean="잘못된 타겟입니다." />
+	<block key="eNetFailure_Creature_CannotActCastingSkillOnSilenceState" korean="침묵 상태에서는 캐스팅 스킬을 사용할 수 없습니다." />
+	<block key="eNetFailure_Creature_NotCastingState" korean="캐스팅 중이 아닙니다." />
+	<block key="eNetFailure_Creature_WhileActingLinkedSkill" korean="링크 스킬을 시전 중입니다." />
+	<block key="eNetFailure_Creature_NotOverGlobalCoolTime" korean="전역 재사용 시간이 진행 중입니다." />
+	<block key="eNetFailure_Creature_ToggledSkill" korean="스킬이 토글된 상태입니다." />
+	<block key="eNetFailure_Creature_NeedQuest" korean="펠로우가 공격하기 위해서는 퀘스트가 필요합니다." />
+	<block key="eNetFailure_Creature_NeedItem" korean="펠로우가 공격하기 위해서는 아이템이 필요합니다." />
+	<block key="eNetFailure_Creature_MagicstonConvFailInvalidCreature" korean="잘못된 펠로우 입니다." />
+	<block key="eNetFailure_Creature_MagicstonConvFailWrongCreatureLevel" korean="펠로우 레벨이 영혼석 변환 범위를 벗어났습니다." />
+	<block key="eNetFailure_Creature_MagicstonConvFailITObjectNotExist" korean="영혼석 변환에 필요한 인터렉션 오브젝트가 없습니다." />
+	<block key="eNetFailure_Creature_MagicstonConvMagicStoneNotExist" korean="설정된 영혼석이 없어, 영혼석 변환에 실패했습니다." />
+	<block key="eNetFailure_Creature_MagicstonConvInvalidSkill" korean="영혼석 변환 스킬이 잘못되어 있습니다." />
+	<block key="eNetFailure_Creature_MagicstonConvNotAllowObserverState" korean="옵저버 상태에서는 영혼석 변환을 할 수 없습니다." />
+	<block key="eNetFailure_Creature_MagicstonConvAction" korean="영혼석 변환에 실패했습니다." />
+	<block key="eNetFailure_Item_ImpossibleChangeEquip2" korean="펠로우 탑승 시에만 착용 가능한 아이템입니다." />
+	<block key="ServerNotice_0002" korean="펠로우 보관함이 가득 찼습니다." />
+	<block key="eNetFailure_User_ForceKick_GM" korean="서버가 연결이 끊어졌습니다." />
+	<block key="eNetFailure_User_ForceKick_Error" korean="치명적인 오류로 인해 강제종료 되었습니다." />
+	<block key="eNetFailure_User_ForceKick_DBError" korean="DB 오류로 인해 강제종료 되었습니다." />
+	<block key="eNetFailure_User_ForceKick_Timeout" korean="장시간 자리비움으로 인해 강제종료 되었습니다." />
+	<block key="eNetFailure_User_ForceKick_Etc" korean="서버가 종료되었습니다." />
+	<block key="enetfailure_item_gatheringfinished" korean="퀘스트 아이템을 더 이상 받을 수 없습니다." />
+	<block key="eNetFailure_Entry_ForceKick_Push" korean="다른 위치에서 같은계정이 접속해서 강제종료 되었습니다." />
+	<block key="eNetFailure_Entry_ForceKick_GM" korean="서비스운영에 의해 강제조료 되었습니다." />
+	<block key="eNetFailure_Entry_ForceKick_Error" korean="프로그램 오류로 인해 강제종료 되었습니다." />
+	<block key="eNetFailure_Entry_ForceKick_DBError" korean="DB 오류로 인해 강제종료 되었습니다." />
+	<block key="eNetFailure_Entry_ForceKick_Timeout" korean="장기간 대기로인해 강제종료 되었습니다." />
+	<block key="eNetFailure_Entry_ForceKick_Etc" korean="기타 사유에 의해 강제종료 되었습니다." />
+	<block key="eNetFailure_User_DiffrenceProtocolVersion" korean="버전이 맞지 않습니다." />
+	<block key="enetfailure_action_boardingskill" korean="탑승중에만 사용할 수 있는 스킬입니다." />
+	<block key="enetfailure_action_frozenstate" korean="동상상태 입니다." />
+	<block key="enetfailure_action_gaugelow" korean="소모수치가 부족하여 사용할 수 없습니다." />
+	<block key="enetfailure_action_removeresurrectionpenaltydataerror" korean="데이터 오류로 부활 후유증을 제거할 수 없습니다." />
+	<block key="enetfailure_action_removeresurrectionpenaltyinvalidnpc" korean="부활 후유증 제거 NPC가 아닙니다." />
+	<block key="enetfailure_action_removeresurrectionpenaltynopenalty" korean="부활 후유증 상태가 아닙니다." />
+	<block key="enetfailure_action_removeresurrectionpenaltynotenoughmoney" korean="소지금이 부족하여 부활후유증을 치료할 수 없습니다." />
+	<block key="enetfailure_action_ridefail" korean="올라타기를 실패했습니다." />
+	<block key="enetfailure_action_NeedBagItemSlot" korean="가방을 비우고 다시 시도해야 합니다." />
+	<block key="enetfailure_action_invalidtargetstate" korean="대상이 없습니다." />
+	<block key="enetfailure_changgo_trade_on" korean="개인 거래중인 아이템이기 때문에 창고를 활용할 수 없습니다." />
+	<block key="enetfailure_creature_magicstonconvequipeditem" korean="펠로우가 아이템을 장착중이기 때문에 영혼석으로 변환할 수 없습니다." />
+	<block key="enetfailure_enchant_trade_on" korean="개인 거래중인 아이템이기 때문에 강화를 할 수 없습니다." />
+	<block key="enetfailure_entry_certfail" korean="인증 정보 취득에 실패하였습니다." />
+	<block key="enetfailure_entry_certlocalerror" korean="로컬 머신에서 발생한 인증 시스템 에러입니다." />
+	<block key="enetfailure_entry_certsystemerror" korean="정의되지 않은 인증 시스템 에러입니다." />
+	<block key="enetfailure_entry_certtimeout" korean="시간이 초과되었습니다." />
+	<block key="enetfailure_item_changgofull" korean="창고가 가득 찼습니다." />
+	<block key="enetfailure_item_dyeing_wrong_start_pos" korean="랜덤 염색 위치 지정이 잘못되었습니다." />
+	<block key="enetfailure_item_notcombineconsumeitem" korean="결합할 수 있는 아이템이 아닙니다." />
+	<block key="enetfailure_item_notenoughingredient" korean="재료 아이템이 부족합니다." />
+	<block key="enetfailure_item_trade_on" korean="개인 거래중인 아이템입니다." />
+	<block key="enetfailure_learnskill_skillbook_trade_on" korean="개인 거래중인 아이템이기 때문에 스킬을 배울 수 없습니다." />
+	<block key="enetfailure_party_money" korean="필요한 돈이 부족합니다." />
+	<block key="enetfailure_user_cannotchangequickslot" korean="단축창을 바꿀 수 없습니다." />
+	<block key="enetfailure_user_forcekick_push" korean="다른 위치에서 같은계정이 접속해서 강제종료 되었습니다." />
+	<block key="enetsuccess_mentor" korean="Mentor 요청 성공하였습니다." />
+	<block key="enetfailure_creature_nameincludedwordbaned" korean="펠로우 이름 입력 오류가 발생하였습니다." />
+	<block key="enetfailure_creature_itemnothave" korean="소유하고 있는 아이템이 아닙니다." />
+	<block key="enetfailure_creature_itemnotbagstorage" korean="가방에 넣을 수 없는 아이템입니다." />
+	<block key="enetfailure_creature_itemtradeon" korean="개인 거래중인 아이템입니다." />
+	<block key="enetfailure_creature_itemstorageincorrect" korean="저장 타입이 올바르지 않습니다." />
+	<block key="enetfailure_creature_itemnotallowfellow" korean="펠로우용 아이템이 아닙니다." />
+	<block key="enetfailure_item_notallowfellow" korean="펠로우용 아이템이 아닙니다." />
+	<block key="enetfailure_creature_itemnotequalfellowrace" korean="해당 종족의 펠로우에는 사용할 수 없는 아이템입니다." />
+	<block key="enetfailure_item_equipimpossiblepart" korean="해당 부위에 장착 할 수 없는 아이템입니다." />
+	<block key="enetfailure_item_creature_empty" korean="펠로우가 존재하지 않습니다." />
+	<block key="enetfailure_item_notequalfellowrace" korean="해당 종족의 펠로우에는 사용할 수 없는 아이템입니다." />
+	<block key="enetfailure_action_knockdownstate" korean="넉다운상태입니다." />
+	<block key="enetfailure_action_oncombatskill" korean="전투 상태에서만 사용할 수 있는 스킬입니다." />
+	<block key="enetfailure_action_notoncombatskill" korean="비전투 상태에서만 사용할 수 있는 스킬입니다." />
+	<block key="enetfailure_creature_soulstoneconvfailinvalidcreature" korean="영혼석으로 변환할 수 없는 펠로우입니다." />
+	<block key="enetfailure_creature_soulstoneconvfailwrongcreaturelevel" korean="영혼결속단계가 낮아서 영혼석으로 변환할 수 없습니다." />
+	<block key="enetfailure_creature_soulstoneconvfailitobjectnotexist" korean="연결된 영혼석이 없습니다." />
+	<block key="enetfailure_creature_soulstoneconvsoulstonenotexist" korean="연결된 영혼석이 없습니다.(영혼석)" />
+	<block key="enetfailure_creature_soulstoneconvinvalidskill" korean="스킬이 잘못되어 영혼석으로 변환할 수 없습니다." />
+	<block key="enetfailure_creature_soulstoneconvnotallowobserverstate" korean="그 상태에서는 영혼석으로 변환할 수 없습니다.(옵저버)" />
+	<block key="enetfailure_creature_soulstoneconvaction" korean="액션이 잘못되어 영혼석으로 변환할 수 없습니다." />
+	<block key="enetfailure_creature_soulstoneconvequipeditem" korean="펠로우가 아이템을 장착중이기 때문에 영혼석으로 변환할 수 없습니다." />
+	<block key="enetfailure_creature_change_name_item_nothave" korean="펠로우 이름변경에 필요한 아이템이 없습니다." />
+	<block key="enetfailure_enchant_soul_stone_needed" korean="필요한 영혼석이 없습니다." />
+	<block key="enetfailure_enchant_not_exist_conversion_soul_stone" korean="변환시킬 영혼석이 존재하지 않습니다." />
+	<block key="enetfailure_enchant_cannot_soul_stone_conversion" korean="영혼석으로 변환시킬 수 없습니다." />
+	<block key="enetfailure_enchant_repair_soul_stone_needed" korean="수리에 필요한 영혼석이 없습니다." />
+	<block key="enetfailure_enchant_repair_soul_stone_max_durability" korean="영혼석의 내구도가 최대치 입니다." />
+	<block key="enetfailure_enchant_repair_soul_stone_low_level" korean="레벨이 낮아 수리할 수 없습니다." />
+	<block key="enetfailure_item_notexistpassiveequipment" korean="해당 아이템의 장착 패시브 스킬이 존재하지 않습니다." />
+	<block key="enetfailure_item_notenoughfellowhp" korean="펠로우의 생명력이 부족합니다." />
+	<block key="eNetFailure_Item_NotEnoughFellowEP" korean="펠로우의 기력이 부족합니다." />
+	<block key="enetfailure_quest_mygenderdifferentquest" korean="퀘스트를 진행할 수 없는 성별입니다." />
+	<block key="enetfailure_quest_donesiblingquest" korean="수행완료한 동시에 수행이 불가능한 퀘스트가 있습니다." />
+	<block key="enetfailure_quest_doingsiblingquest" korean="진행중인 동시에 수행이 불가능한 퀘스트가 있습니다." />
+	<block key="enetfailure_gmsvgameservers_player_not_found" korean="알수 없는 오류입니다." />
+	<block key="enetsuccess_managerchracter" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_managercharacter_gameservernotfound" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_managercharacter_queryisonprogress" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_managercharacter_dberror" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_managercharacter_wrongindex" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_managercharacter_noresult" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_managercharacter_notconnected" korean="알수 없는 오류입니다." />
+	<block key="enetsuccess_managerfellow" korean="알수 없는 오류입니다." />
+	<block key="enetsuccess_manageritem" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_manageritem_gameservernotfound" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_manageritem_characternotfound" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_manageritem_keynotfound" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_manageritem_datainvalid" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_manageritem_queryisonprogress" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_manageritem_dberror" korean="알수 없는 오류입니다." />
+	<block key="enetsuccess_managerquest" korean="알수 없는 오류입니다." />
+	<block key="enetsuccess_managerskill" korean="알수 없는 오류입니다." />
+	<block key="enetfailure_creature_soulstoneconvfailnotallowgrowthstage" korean="성장단계가 낮아서 영혼석으로 변환할 수 없습니다." />
+	<block key="enetfailure_creature_soulstoneconvfailnotallowsoulbandstage" korean="영혼결속단계가 낮아서 영혼석으로 변환할 수 없습니다." />
+	<block key="enetfailure_creature_invalid_fellowmaster" korean="야수 조련사가 아닙니다." />
+	<block key="enetfailure_creature_fellowmaster_too_far" korean="야수 조련사와의 거리가 너무 멉니다." />
+	<block key="enetfailure_creature_fellownotinmap" korean="펠로우가 소환되어 있지 않습니다." />
+	<block key="enetfailure_creature_notallowgrowthstage" korean="허용되지 않는 성장 단계입니다." />
+	<block key="enetfailure_creature_notallowsoulbandstage" korean="영혼결속 단계가 낮아서 성장 봉인을 해제할 수 없습니다." />
+	<block key="enetfailure_item_existsummonfellow" korean="소환된 펠로우가 있습니다." />
+	<block key="enetfailure_quest_alreadyfinishedmission" korean="이미 완료한 퀘스트입니다." />
+	<block key="enetfailure_quest_notfinishpremission" korean="선행 퀘스트를 완료하지 않았습니다." />
+	<block key="enetfailure_quest_dissatisfiedsubemission" korean="하위미션이 맞지 않습니다." />
+	<block key="enetfailure_learnskill_masteryskill_need" korean="마스터리 조건이 맞지 않습니다." />
+	<block key="enetfailure_managercharacter_gameservernotoperating" korean="gameserver not operating" />
+	<block key="eNetFailure_Action_FireStartingForSkillState" korean="스킬 시전 중입니다." />
+	<block key="eNetFailure_Agreement_DistanceError" korean="거리가 너무 멉니다." />
+	<block key="eNetFailure_Agreement_MapError" korean="서로 다른 맵 또는 채널에 있습니다." />
+	<block key="eNetFailure_Creature_Already_Summon" korean="펠로우가 이미 소환되어 있습니다." />
+	<block key="eNetFailure_Creature_NoItem" korean="펠로우 소환에 필요한 아이템이 없습니다." />
+	<block key="eNetFailure_GMSVMainServers_GameServerNotFound" korean="서버를 찾을 수 없습니다." />
+	<block key="eNetFailure_GMSVMainServers_GameServerNotOperating" korean="서버를 조작할 수 없습니다." />
+	<block key="eNetFailure_GMSVMainServers_NotConnected" korean="서버에 연결할 수 없습니다." />
+	<block key="eNetFailure_Item_broken_item" korean="부서진 아이템입니다." />
+	<block key="eNetFailure_Item_FellowNotSummon" korean="펠로우가 소환되어 있지 않아 영혼결속 해제를 할 수 없습니다." />
+	<block key="eNetFailure_Item_Fellowalreadystrong" korean="영혼 결속 게이지가 가득 찬 상태입니다." />
+	<block key="eNetFailure_Item_NotEnoughLevel" korean="사용 가능한 레벨이 아닙니다." />
+	<block key="eNetFailure_Mail_cant_send_to_me" korean="자신에게 보낼 수 없습니다." />
+	<block key="eNetFailure_ManagerItem_NoResult" korean="ManagerItem_NoResult" />
+	<block key="eNetSuccess_GMSVMainServers" korean="eNetSuccess_GMSVMainServers" />
+	<block key="eNetFailure_Action_InvalidTamingState" korean="적합한 길들이기 상태가 아닙니다." />
+	<block key="eNetFailure_Action_masternotmonster" korean="마스터가 몬스터가 아닐때만 사용할 수 있습니다." />
+	<block key="eNetFailure_Action_masternotplayer" korean="마스터가 플레이어가 아닐때만 사용할 수 있습니다." />
+	<block key="eNetFailure_Action_notregistedcomboskill" korean="등록된 콤보 스킬이 아닙니다." />
+	<block key="eNetFailure_Action_skillairbornemovingstate" korean="스킬공중이동 상태입니다." />
+	<block key="eNetFailure_Action_stiffstate" korean="경직상태 입니다." />
+	<block key="eNetFailure_agreement_alliancequalify" korean="세력 참가 조건을 만족하지 않습니다." />
+	<block key="eNetFailure_agreement_alliancecreateabort" korean="세력 생성이 중지되었습니다." />
+	<block key="eNetFailure_agreement_alreadyjoinalliance" korean="이미 세력에 참가하고 있습니다." />
+	<block key="eNetFailure_agreement_duelattackercooltime" korean="결투 대기 상태입니다. 잠시 후 다시 시도하세요." />
+	<block key="eNetFailure_agreement_duelattackerdead" korean="사망 상태에서는 결투할 수 없습니다." />
+	<block key="eNetFailure_agreement_dueldefendercooltime" korean="결투 대기 상태입니다. 잠시 후 다시 시도하세요." />
+	<block key="eNetFailure_agreement_dueldefenderdead" korean="사망한 플레이어와는 결투할 수 없습니다." />
+	<block key="eNetFailure_agreement_notalliancemaster" korean="세력 마스터가 아닙니다." />
+	<block key="eNetFailure_agreement_notguildmaster" korean="길드장이 아닙니다." />
+	<block key="eNetFailure_alliance_alliance_master_qualify" korean="세력 마스터의 자격요건을 충족하지 못했습니다." />
+	<block key="eNetFailure_alliance_dberror" korean="데이터 베이스 오류입니다." />
+	<block key="eNetFailure_alliance_guild_master_offline" korean="길드장이 오프라인 입니다." />
+	<block key="eNetFailure_alliance_guild_master_qualify" korean="길드장이 아닙니다." />
+	<block key="eNetFailure_alliance_guild_not_found" korean="길드를 찾을 수 없습니다." />
+	<block key="eNetFailure_alliance_invalid_npc" korean="잘못된 NPC입니다." />
+	<block key="eNetFailure_alliance_nameincludedwordbaned" korean="사용금지 단어가 포함된 이름입니다." />
+	<block key="eNetFailure_alliance_nameoccupied" korean="동일한 이름이 사용중입니다." />
+	<block key="eNetFailure_alliance_not_found" korean="세력을 찾을 수 없습니다." />
+	<block key="eNetFailure_alliance_npc_too_far" korean="npc가 너무 멉니다." />
+	<block key="eNetFailure_alliance_packeterror" korean="세력 패킷 에러가 발생하였습니다." />
+	<block key="eNetFailure_channel_notallowedgrade" korean="해당 계정등급으론 접속할 수 없는 월드입니다." />
+	<block key="eNetFailure_channel_notallowexternal" korean="외부 IP에서 접속이 불가능한 월드입니다." />
+	<block key="enetfailure_farm_already_reclamation" korean="에러 메시지 입력 필요." />
+	<block key="enetfailure_farm_have_not_toolitem" korean="도구 아이템이 없습니다." />
+	<block key="enetfailure_farm_invalid_reclamation" korean="에러 메시지 입력 필요." />
+	<block key="enetfailure_farm_not_exist" korean="농장이 존재하지 않습니다." />
+	<block key="enetfailure_farm_not_farmowner" korean="농장 주인이 아닙니다." />
+	<block key="enetfailure_farm_not_mine" korean="자신 소유의 농장이 아닙니다." />
+	<block key="enetfailure_farm_not_use" korean="에러 메시지 입력 필요." />
+	<block key="enetfailure_farm_not_use_cultivation" korean="에러 메시지 입력 필요." />
+	<block key="enetfailure_farm_packeterror" korean="패킷 오류 입니다." />
+	<block key="enetfailure_farm_wrong_cultivatetype" korean="에러 메시지 입력 필요." />
+	<block key="enetfailure_farm_wrong_location" korean="에러 메시지 입력 필요." />
+	<block key="enetfailure_gmsvgameservers_cheatfailed" korean="gmsvgameservers 치트 실패하였습니다." />
+	<block key="enetfailure_gmsvmanager_toolongpassword" korean="패스워드가 너무 깁니다." />
+	<block key="enetfailure_login_notallowedgrade" korean="접속이 불가능한 등급니다." />
+	<block key="enetfailure_login_notallowexternal" korean="외부접속이 불가능한 서버입니다." />
+	<block key="enetfailure_managercharacter_packeterror" korean="캐릭터 관리자 패킷 오류가 발생하였습니다." />
+	<block key="enetfailure_production_belowitemlevel" korean="자신의 레벨이 아이템 레벨보다 낮습니다." />
+	<block key="enetfailure_production_dataerror" korean="데이터 에러가 발생하였습니다." />
+	<block key="enetfailure_production_invalid_item" korean="잘못된 아이템입니다." />
+	<block key="enetfailure_production_invalid_npc" korean="존재하지 않는 NPC입니다." />
+	<block key="enetfailure_production_low_level" korean="레벨이 낮습니다." />
+	<block key="enetfailure_production_low_mastery" korean="숙련도가 낮습니다." />
+	<block key="enetfailure_production_no_have_item" korean="재료 아이템이 없습니다." />
+	<block key="enetfailure_production_no_have_toolitem" korean="도구가 없습니다." />
+	<block key="enetfailure_production_no_learn_technique" korean="기술을 배우지 않았습니다." />
+	<block key="enetfailure_production_not_enough_money" korean="돈이 부족합니다." />
+	<block key="enetfailure_production_registerdrecipealready" korean="이미 등록된 레시피입니다." />
+	<block key="enetfailure_production_storagefull" korean="인벤토리가 꽉찼습니다." />
+	<block key="enetfailure_production_target_too_far" korean="대상과의 거리가 너무 멉니다." />
+	<block key="enetsuccess_alliance" korean="세력 요청 성공하였습니다." />
+	<block key="enetsuccess_farm" korean="농장 요청 성공하였습니다." />
+	<block key="enetsuccess_production" korean="제작 요청 성공하였습니다." />
+	<block key="enetfailure_farm_dberror" korean="농장 데이터 베이스 오류가 발생하였습니다." />
+	<block key="enetfailure_action_notskyskill" korean="공중에서 사용이 불가능한 스킬입니다." />
+	<block key="enetfailure_action_notgroundskill" korean="지면에서 사용이 불가능한 스킬입니다." />
+	<block key="enetfailure_action_forbidoverlaprange" korean="속성지역이 겹쳐져서 사용이 불가능합니다." />
+	<block key="enetfailure_farm_systemerror" korean="농장 시스템 에러가 발생하였습니다." />
+	<block key="enetfailure_farm_invalid_extend_days" korean="유지가긴 연장 일자가 잘못됨." />
+	<block key="enetfailure_farm_not_enough_money" korean="소지금 부족." />
+	<block key="enetfailure_item_notfarmowner" korean="소유한 농장이 없습니다." />
+	<block key="enetfailure_item_notexistcropobject" korean="심으려는 씨앗에 대한 작물 오브젝트가 존재하지 않습니다." />
+	<block key="enetfailure_item_invalidpos" korean="경작지 위치가 잘못되엇습니다." />
+	<block key="enetfailure_item_notusablecultivation" korean="사용 불가능한 경작지입니다." />
+	<block key="enetfailure_item_invalidcultivatetype" korean="경작지 개간타입이 다릅니다." />
+	<block key="enetfailure_item_invalidfarmmap" korean="사용 가능한 농장 맵이 아닙니다." />
+	<block key="enetfailure_item_notenoughfarmlevel" korean="사용 가능한 농장 렙레이 아닙니다." />
+	<block key="enetfailure_move_donotcreatenormalgrade" korean="일반 난이도를 생성할 수 없는 인던이다." />
+	<block key="enetfailure_move_dungeonlimitnum" korean="인던 인원제한에 걸립니다." />
+	<block key="enetfailure_move_normaldungeonlimitcount" korean="1시간당 일반 등급 인던에 입장할 수 있는 횟수제한에 걸린다." />
+	<block key="enetfailure_move_invaliddungeongrade" korean="올바르지 않은 난이도 입니다. 다시 시도해 주십시오." />
+	<block key="enetfailure_move_invalidplayerstate" korean="이동할 수 없습니다." />
+	<block key="enetfailure_move_dungeonnextentertimelimit" korean="재입장 시간이 남았습니다. 다시 시도해 주십시오." />
+	<block key="enetfailure_quest_canmissionfinishinvenfull" korean="인벤토리가 꽉차서 미션을 완료할 수 없습니다." />
+	<block key="enetfailure_quest_invaliditemid" korean="잘못된 아이템 아이디 입니다." />
+	<block key="enetsuccess_soultalents" korean="성공하였습니다." />
+	<block key="enetfailure_soultalents_not_enough_money" korean="소지금이 부족합니다." />
+	<block key="enetfailure_soultalents_not_enough_point" korean="영혼력이 부족합니다." />
+	<block key="enetfailure_soultalents_low_mastery" korean="숙련도가 낮습니다." />
+	<block key="enetfailure_soultalents_target_too_far" korean="대상과의 거리가 너무 멉니다." />
+	<block key="enetfailure_soultalents_notsoulstoneitem" korean="영혼석이 아닙니다." />
+	<block key="enetfailure_soultalents_impossibleawakenpart" korean="각성 가능한 부위가 아닙니다." />
+	<block key="enetfailure_soultalents_alreadyawakenpart" korean="해당 부위가 이미 각성된 상태입니다." />
+	<block key="enetfailure_soultalents_notopenpart" korean="해당 부위가 활성화 되지 않은 상태입니다." />
+	<block key="enetfailure_soultalents_impossibleawakencolorslot" korean="각성 가능한 색상이 아닙니다." />
+	<block key="enetfailure_soultalents_impossibleskillfulgrow" korean="숙련도 성장이 불가능 합니다." />
+	<block key="enetfailure_soultalents_dataerror" korean="데이터 에러가 발생하였습니다." />
+	<block key="enetsuccess_technique" korean="성공하였습니다." />
+	<block key="enetfailure_technique_not_enough_money" korean="금액이 부족합니다." />
+	<block key="enetfailure_technique_low_mastery" korean="숙련도가 낮습니다." />
+	<block key="enetfailure_technique_target_too_far" korean="대상과의 거리가 너무 멉니다." />
+	<block key="enetfailure_technique_invalid_type" korean="잘못된 기술 타입입니다." />
+	<block key="enetfailure_technique_invalid_grade" korean="잘못된 기술 등급입니다." />
+	<block key="enetfailure_technique_invalid_npc" korean="잘못된 NPC 입니다." />
+	<block key="enetfailure_technique_already_learned_tech" korean="이미 배운 기술입니다." />
+	<block key="enetfailure_technique_not_learn_tech" korean="배우지 않은 기술(등급) 입니다." />
+	<block key="enetfailure_technique_dataerror" korean="데이터 에러가 발생하였습니다." />
+	<block key="enetfailure_item_reinforce_limit_level" korean="더 이상 강화를 할 수 없는 아이템입니다." />
+	<block key="enetfailure_action_invalidcaster" korean="시전자가 무효합니다." />
+	<block key="enetfailure_action_actionblockstate" korean="행동불가 상태 입니다." />
+	<block key="enetfailure_action_notchargeskill" korean="챠지 스킬이 아닙니다." />
+	<block key="enetfailure_action_cannotchargestate" korean="챠지 불가능 상태입니다." />
+	<block key="enetfailure_action_withinminheightfromground" korean="최소액션가능 지면과의 높이 안에 있습니다." />
+	<block key="enetfailure_action_masternotexist" korean="마스터가 있을경우에만 사용할수 있는 스킬입니다." />
+	<block key="enetfailure_chat_target_away" korean="대상이 자리 비움 상태입니다." />
+	<block key="enetfailure_creature_expandslot_exceed" korean="더이상 확장할 수 없습니다." />
+	<block key="enetfailure_creature_expandslot_max_bytamer" korean="조련사에게 받을 수 있는 슬롯 초과하였습니다." />
+	<block key="enetfailure_creature_expandslot_requiredlevel" korean="요구 레벨이 부족합니다." />
+	<block key="enetfailure_creature_expandslot_cost" korean="소지금 부족합니다." />
+	<block key="enetfailure_interaction_collectingmastery" korean="채집 숙련도가 부족합니다." />
+	<block key="enetfailure_interaction_not_farm_owner" korean="소유한 농장이 없습니다." />
+	<block key="enetfailure_interaction_invalid_cultivaiton" korean="인터랙션 오브젝트 위치와 사용하는 경작지 위치가 다릅니다." />
+	<block key="enetfailure_interaction_not_enough_growth" korean="작물 성장도가 수확할 만큼 되지 않는다." />
+	<block key="enetfaulure_interaction_error_yield_data" korean="수확량 데이터가 없습니다." />
+	<block key="enetfailure_move_systemerror" korean="알 수 없는 시스템 에러입니다. 다시 시도해 주십시오." />
+	<block key="enetfailure_move_dungeongradeselectrequest" korean="던전 등급이 선택되지 않았습니다. 다시 시도해 주십시오." />
+	<block key="enetfailure_move_partymemberalreadydungeon" korean="파티원 중 누군가가 이미 인던에 입장한 상태입니다." />
+	<block key="enetfailure_move_notinstancedungeon" korean="인스턴스 던전이 아닙니다." />
+	<block key="enetfailure_move_donotgradereservation" korean="등급 선택 예약이 되어 있지 않습니다." />
+	<block key="enetfailure_move_gradeselecttimelimit" korean="인던 난이도 선택 시간 제한이 지났습니다." />
+	<block key="enetfailure_move_alreadydungeoncreated" korean="이미 인던이 생성되어 있습니다." />
+	<block key="enetfailure_move_notpartymaster" korean="파티장이 아닙니다." />
+	<block key="enetfailure_quest_developitem" korean="개발용 아이템입니다." />
+	<block key="enetfailure_soultalents_low_level" korean="레벨이 낮습니다." />
+	<block key="enetfailure_soultalents_notawakenpart" korean="해당 부위가 특성이 부여되지 않은 상태입니다." />
+	<block key="enetfailure_user_invalidslotbutton" korean="슬롯에 등록된 퀵버튼의 타입이 아닙니다." />
+	<block key="enetfailure_user_overslotindexcount" korean="퀵슬롯에 등록된 개수가 허용치를 넘었습니다." />
+	<block key="enetfailure_user_invalidslotbuttonrecord" korean="퀵버튼의 레코드값이 존재하지 않습니다." />
+	<block key="eNetFailure_User_ChangeChannelInvalidState" korean="채널 이동을 할 수 없는 상태입니다." />
+	<block key="enetfailure_managerquest_gameservernotfound" korean="게임서버를 찾을 수 없습니다." />
+	<block key="enetfailure_managerquest_gameservernotoperating" korean="게임서버를 조작할 수 없습니다." />
+	<block key="enetfailure_managerquest_notconnected" korean="연결되어 있지 않습니다." />
+	<block key="eNetFailure_Item_FellowBook_RegisterdAlready" korean="이미 등록되어 있습니다." />
+	<block key="eNetFailure_Fellow_Empty" korean="펠로우가 존재하지 않습니다." />
+	<block key="eNetFailure_Action_GaugeLow_HP" korean="생명력이 부족합니다." />
+	<block key="eNetFailure_Action_GaugeLow_MP" korean="마나가 부족합니다." />
+	<block key="eNetFailure_Action_GaugeLow_EP" korean="펠로우 기력이 부족합니다." />
+	<block key="eNetFailure_Action_GaugeLow_SP" korean="빛의 징표가 부족하여 사용할 수 없습니다." />
+	<block key="eNetFailure_Action_GaugeLow_FP" korean="분노가 부족합니다." />
+	<block key="eNetFailure_Action_GaugeLow_TP" korean="스태미너가 부족합니다." />
+	<block key="eNetFailure_Action_GaugeLow_EP_NotSummonFellow" korean="비탑승상태에서는 사용할 수 없습니다." />
+	<block key="enetsuccess_community" korean="요청성공하였습니다." />
+	<block key="enetfailure_community_failentrance" korean="서버 입장 실패하였습니다." />
+	<block key="enetfailure_community_diffrenceprotocolversion" korean="서버와 프로토콜 버전이 맞지 않습니다." />
+	<block key="enetfailure_community_not_join_party" korean="파티에 참여중이 아닙니다." />
+	<block key="enetfailure_community_not_join_guild" korean="길드에 가입되어 있지 않습니다." />
+	<block key="enetfailure_community_target_not_found" korean="대상을 찾을 수 없습니다." />
+	<block key="enetfailure_community_not_send_myself" korean="귓말을 본인에게 보낼 수 없습니다." />
+	<block key="enetfailure_community_not_cooltime_of_shout" korean="외치기는 제한시간 내 연속해서 보낼 수 없습니다." />
+	<block key="enetfailure_community_mycutoff" korean="나의 차단목록에 상대방이 있습니다." />
+	<block key="enetfailure_community_hiscutoff" korean="내가 상대방의 차단목록에 있습니다." />
+	<block key="enetfailure_community_wrong_channel_type" korean="잘못된 채널 타입입니다." />
+	<block key="enetfailure_community_not_found_user" korean="해당 유저를 찾을 수 없습니다." />
+	<block key="enetfailure_community_forcekick_push" korean="같은계정의 접속으로인한 강제종료 되었습니다." />
+	<block key="enetfailure_community_forcekick_gm" korean="서비스운영에 의한 강제종료 되었습니다." />
+	<block key="enetfailure_community_forcekick_timeout" korean="장기간 대기로인한 강제종료 되었습니다." />
+	<block key="enetfailure_community_forcekick_etc" korean="기타사유에 의해 강제 종료 되었습니다." />
+	<block key="enetfailure_community_forcekick_error" korean="프로그램 오류에 의한 강제종료 되었습니다." />
+	<block key="enetfailure_action_notallowstdattackanimaionindex" korean="허용되지 않은 평타 애니메이션 인덱스입니다" />
+	<block key="enetfailure_action_needweaponitem" korean="주장비 아이템이 필요합니다." />
+	<block key="enetfailure_action_needsubitem" korean="보조장비 아이템이 필요합니다." />
+	<block key="enetfailure_action_needaccessoryitem" korean="악세사리 아이템이 필요합니다." />
+	<block key="enetfailure_action_nomatchingfellow" korean="해당하는 펠로우가 없습니다." />
+	<block key="enetfailure_action_notenoughspaceforfellow" korean="펠로우를 넣을 공간이 없습니다." />
+	<block key="enetfailure_action_invalidtamingresultfellow" korean="테이밍 결과 펠로우 종류가 없습니다." />
+	<block key="enetfailure_agreement_agreementlocked" korean="현재 다른 응답에 대한 대기중입니다." />
+	<block key="enetfailure_agreement_guild_master_offline" korean="길드장이 오프라인입니다." />
+	<block key="enetfailure_agreement_alliancemembergull" korean="세력에 가입한 길드 숫자가 최대입니다." />
+	<block key="enetfailure_alliance_gulid_prev_add" korean="기존 세력에 가입되어 있습니다." />
+	<block key="enetfailure_alliance_not_found_next_master" korean="다음 마스터 길드를 찾을 수 없습니다.(세력 탈퇴시)." />
+	<block key="enetfailure_capture_not_same_fellowgrade" korean="펠로우등급이 다릅니다." />
+	<block key="enetfailure_enchant_reinforcestone_needed" korean="필요한 강화석이 없습니다." />
+	<block key="enetfailure_enchant_not_enough_needed_support_item" korean="강화보조제 소지량이 부족합니다." />
+	<block key="enetfailure_enchant_no_target_item" korean="강화 대상 아이템을 찾을 수 없습니다." />
+	<block key="enetfailure_enchant_level_reachmax" korean="강화석 강화의 최고 단계입니다." />
+	<block key="enetfailure_enchant_limit_level" korean="강화제한레벨입니다." />
+	<block key="enetfailure_enchant_invalid_reinforce_rate" korean="강화 확률 테이블에 존재하지 않습니다.. (데이터 편집문제)." />
+	<block key="enetsuccess_fellow" korean="요청 성공하였습니다." />
+	<block key="enetfailure_fellow_notlearnedskill" korean="배운 스킬이 아닙니다." />
+	<block key="enetfailure_fellow_noserachabletarget" korean="찾을수없는 타겟오브젝트입니다." />
+	<block key="enetfailure_fellow_isnotactablestate" korean="액션이 불가능한 상태입니다." />
+	<block key="enetfailure_fellow_notregistedskill" korean="등록된 스킬이 아닙니다." />
+	<block key="enetfailure_fellow_notoveractabletime" korean="액션가능한 시간을 넘기지 않음(쿨타임)." />
+	<block key="enetfailure_fellow_notenabled" korean="현재 활성화가 되어있지 않습니다." />
+	<block key="enetfailure_fellow_fardistantthanactionrange" korean="사정거리보다 먼거리에 있습니다." />
+	<block key="enetfailure_fellow_withinminactablerange" korean="최소액션가능거리 안에 있습니다." />
+	<block key="enetfailure_fellow_gaugelow" korean="게이지가 모자릅니다." />
+	<block key="enetfailure_fellow_wrongtarget" korean="타겟팅이 잘못되었습니다." />
+	<block key="enetfailure_fellow_cannotactcastingskillonsilencestate" korean="침묵상태에서는 캐스팅스킬을 사용 할 수 없습니다." />
+	<block key="enetfailure_fellow_notcastingstate" korean="캐스팅중이 아닙니다." />
+	<block key="enetfailure_fellow_whileactinglinkedskill" korean="링크스킬액션중입니다." />
+	<block key="enetfailure_fellow_notoverglobalcooltime" korean="글로벌 쿨타임 시간을 넘기지 않았습니다.(쿨타임)." />
+	<block key="enetfailure_fellow_toggledskill" korean="스킬이 토글된 상태입니다." />
+	<block key="enetfailure_do_not_ride_type_fellow" korean="탑승할 수 있는 펠로우가 아닙니다." />
+	<block key="enetfailure_fellow_notboarding" korean="펠로우 탑승중이 아닙니다." />
+	<block key="enetfailure_fellow_boarding" korean="펠로우에 이미 탑승 중입니다." />
+	<block key="enetfailure_fellow_needquest" korean="퀘스트가 없어서 펠로우가 공격할 수 없습니다." />
+	<block key="enetfailure_fellow_needitem" korean="아이템이 없어서 펠로우가 공격할 수 없습니다." />
+	<block key="enetfailure_fellow_already_summon" korean="펠로우가 이미 소환되어 있습니다." />
+	<block key="enetfailure_fellow_noitem" korean="소환에 필요한 아이템이 없습니다." />
+	<block key="enetfailure_fellow_quickslot_not_allow_slotbuttontype" korean="허용되지 않는 퀵슬롯버튼 타입입니다." />
+	<block key="enetfailure_fellow_quickslot_not_allow_quickslotdlgtype" korean="허용되지 않는 퀵슬롯다이얼로그 타입입니다." />
+	<block key="enetfailure_fellow_quickslot_invalid_clientslot" korean="퀵슬롯의 클라이언트 슬롯정보가 잘못되었습니다." />
+	<block key="enetfailure_fellow_quickslot_overslotindexcount" korean="퀵슬롯에 등록된 개수가 허용치를 넘었습니다." />
+	<block key="enetfailure_fellow_quickslot_invalidslotbuttonrecord" korean="퀵버튼의 레코드값이 존재하지 않습니다." />
+	<block key="enetfailure_fellow_soulstoneconvfailinvalidfellow" korean="영혼석변환 실패 잘못된 펠로우 입니다." />
+	<block key="enetfailure_fellow_soulstoneconvfailnotallowgrowthstage" korean="영혼석변환 실패 허용되지 않는 펠로우 성장단계입니다." />
+	<block key="enetfailure_fellow_soulstoneconvfailitobjectnotexist" korean="영혼석변환 실패 설정된 인터랙션 오브젝트가 없습니다." />
+	<block key="enetfailure_fellow_soulstoneconvsoulstonenotexist" korean="영혼석변환 실패 설정된 영혼석이 없습니다." />
+	<block key="enetfailure_fellow_soulstoneconvinvalidskill" korean="영혼석변환 실패 스킬이 잘못되었습니다." />
+	<block key="enetfailure_fellow_soulstoneconvnotallowobserverstate" korean="영혼석변환 실패 옵져버 상태에선 불가합니다." />
+	<block key="enetfailure_fellow_soulstoneconvaction" korean="영혼석변환 실패 액션실패하였습니다" />
+	<block key="enetfailure_fellow_soulstoneconvequipeditem" korean="영혼석변환 실패 펠로우가 아이템을 장착하고 있습니다." />
+	<block key="enetfailure_fellow_soulstoneconvfailnotallowsoulbandstage" korean="영혼석변환 실패 허용되지 않는 펠로우 영혼결속단계입니다." />
+	<block key="eNetFailure_Fellow_NotEnoughFellowEP" korean="펠로우의 기력이 부족하여 소환할 수 없습니다." />
+	<block key="enetfailure_fellow_nameincludedwordbaned" korean="이름에 공백이 있습니다." />
+	<block key="enetfailure_fellow_change_name_item_nothave" korean="이름변경 아이템이 존재하지 않습니다." />
+	<block key="enetfailure_fellow_itemnothave" korean="소유하고 있는 아이템이 아닙니다." />
+	<block key="enetfailure_fellow_itemnotbagstorage" korean="가방 스토리지가 아닙니다." />
+	<block key="enetfailure_fellow_itemtradeon" korean="개인거래중인 아이템입니다." />
+	<block key="enetfailure_fellow_itemstorageincorrect" korean="스토리지가 올바르지않습니다." />
+	<block key="enetfailure_fellow_itemnotallowfellow" korean="펠로우용 아이템이 아닙니다." />
+	<block key="enetfailure_fellow_itemnotequalfellowrace" korean="펠로우의 종족이 다른 아이템입니다." />
+	<block key="enetfailure_fellow_transform_servererror" korean="진행중인 작업이 있어 펠로우 변형이 불가능합니다." />
+	<block key="enetfailure_fellow_transform_itemnothave" korean="펠로우 변형 아이템이 존재하지 않습니다." />
+	<block key="enetfailure_fellow_transform_iteminvalid" korean="펠로우 변형 아이템이 아닙니다." />
+	<block key="enetfailure_fellow_transform_invalidtransforminfo" korean="펠로우 변형 펠로우 정보가 없습니다." />
+	<block key="enetfailure_fellow_transform_notallowfellowlevel" korean="펠로우 레벨이 맞지 않아 변형이 불가능합니다." />
+	<block key="enetfailure_fellow_transform_notallowfellowgrade" korean="펠로우 등급이 맞지 않아 변형이 불가능합니다.." />
+	<block key="enetfailure_fellow_transform_notallowobserverstate" korean="펠로우 변형 옵져버상태일때 허용되지 않습니다." />
+	<block key="enetfailure_fellow_synthesis_servererror" korean="펠로우 합성 서버설정 문제로 실패하였습니다." />
+	<block key="enetfailure_fellow_synthesis_equalfellow" korean="펠로우 합성 같은 펠로우입니다." />
+	<block key="enetfailure_fellow_synthesis_different_fellow" korean="펠로우 합성 다른 펠로우입니다." />
+	<block key="enetfailure_fellow_synthesis_notallowgrowthstage" korean="펠로우 합성 성장단계가 아닙니다." />
+	<block key="enetfailure_fellow_synthesis_notallowobserverstate" korean="펠로우 합성 옵져버상태일때 허용되지 않습니다." />
+	<block key="enetfailure_fellow_invalid_fellowmaster" korean="펠로우 마스터가 존재하지 않는다." />
+	<block key="enetfailure_fellow_fellowmaster_too_far" korean="펠로우 마스터와의 거리가 너무 멉니다." />
+	<block key="enetfailure_fellow_fellownotinmap" korean="펠로우가 소환되어 있지 않습니다." />
+	<block key="enetfailure_fellow_notallowgrowthstage" korean="허용되지 않은 성장단계입니다." />
+	<block key="enetfailure_fellow_notallowsoulbandstage" korean="허용되지 않은 영혼결속단계입니다." />
+	<block key="enetfailure_fellow_expandslot_exceed" korean="더이상 확장할 수 없습니다." />
+	<block key="enetfailure_fellow_expandslot_max_bytamer" korean="조련사에게 받을 수 있는 슬롯 초과되었습니다." />
+	<block key="enetfailure_fellow_expandslot_requiredlevel" korean="요구 레벨 미확보 되었습니다." />
+	<block key="enetfailure_fellow_expandslot_cost" korean="비용 미확보 되었습니다." />
+	<block key="eNetFailure_Fellow_NotSummon" korean="펠로우가 소환되어 있지 않습니다." />
+	<block key="eNetFailure_Fellow_Ride_Master_DeadState" korean="사망 상태에서는 탑승할 수 없습니다." />
+	<block key="eNetFailure_Fellow_seal_inventoryfull" korean="가방이 가득 찼습니다." />
+	<block key="eNetFailure_Fellow_seal_notsealsummonfellow" korean="소환상태에서는 봉인할 수 없습니다" />
+	<block key="enetsuccess_internal" korean="요청성공하였습니다." />
+	<block key="enetfailure_internal_packeterror" korean="패킷오류가 발생하였습니다." />
+	<block key="enetfailure_interaction_no_cultivation" korean="인터랙션 오브젝트에 해당하는 경작지가 없습니다." />
+	<block key="enetfailure_item_fellow_empty" korean="펠로우가 존재하지 않습니다." />
+	<block key="enetfailure_item_fellownotinmap" korean="펠로우가 소환되어 있지 않습니다." />
+	<block key="enetfailure_item_fellowisdead" korean="펠로우 사망상태입니다." />
+	<block key="enetfailure_item_fellowhasgrowth" korean="펠로우가 성장단계이므로 사용불가능 합니다." />
+	<block key="enetfailure_item_fellownotsoulbanditem" korean="펠로우 영혼결속포인트 변경아이템이 아닙니다." />
+	<block key="enetfailure_item_fellowbook_invaliditem" korean="펠로우 도감 아이템이 아닙니다." />
+	<block key="enetfailure_item_fellowbook_notemptyslot" korean="펠로우 도감 빈 공간이 없습니다." />
+	<block key="enetfailure_move_notstartportal" korean="시작 지점이 없습니다.(포탈)." />
+	<block key="enetfailure_move_notdestportal" korean="도착 지점이 없습니다(포탈)." />
+	<block key="enetfailure_move_portalcountfull" korean="등록된 포탈이 최대개수를 초과하였습니다." />
+	<block key="enetfailure_move_duplicatedportal" korean="이미 등록되어 있는 포탈입니다." />
+	<block key="enetfailure_move_invalideventarea" korean="시나리오 채널 에어리어가 잘못되었습니다." />
+	<block key="enetfailure_move_notdestmap" korean="시나리오 채널 이동 맵 데이터가 잘못되거나 없습니다." />
+	<block key="enetfailure_move_invalidenterpos" korean="시나리오 채널의 입장 위치가 아닙니다." />
+	<block key="enetfailure_move_noteventinstance" korean="시나리오 채널에서 퇴장하였습니다." />
+	<block key="enetfailure_move_donotexistexitarea" korean="시나리오 채널 퇴장 시 서버 인증 에어리어가 없습니다." />
+	<block key="enetfailure_party_invalidpartyloot" korean="무효한 파티 루팅 권한입니다." />
+	<block key="enetfailure_party_invalidpartylootjoblimit" korean="무효한 루팅 직업 제한입니다." />
+	<block key="enetfailure_soultalents_not_enough_powder" korean="영혼 가루가 부족합니다." />
+	<block key="enetfailure_soultalents_notsoulpowderitem" korean="영혼가루가 아닙니다." />
+	<block key="enetfailure_soultalents_impossibleclass" korean="각성 가능한 클래스가 아닙니다." />
+	<block key="enetfailure_soultalents_notenoughactivelevel" korean="활성화 레벨이 아닙니다." />
+	<block key="enetfailure_soultalents_nohaveskill" korean="스킬 소유하지 않습니다." />
+	<block key="enetfailure_technique_not_learn_pre_grade" korean="선행 기술등급 배우지 않아 실패하였습니다." />
+	<block key="enetfailure_technique_invalid_technique" korean="잘못된 기술임. 해당 기술을 찾을 수 없습니다." />
+	<block key="enetfailure_technique_add_tech" korean="새로운 기술 추가 중 오류가 발생하였습니다." />
+	<block key="enetfailure_technique_upgrade_grade" korean="기술단계 승급 중 오류가 발생하였습니다." />
+	<block key="enetsuccess_token" korean="요청성공하였습니다." />
+	<block key="enetfailure_token_deadstate" korean="사망 상태입니다." />
+	<block key="enetfailure_token_noserachabletarget" korean="찾을수 없는 타겟오브젝트입니다." />
+	<block key="enetfailure_token_wrongtarget" korean="타겟팅이 잘못되었습니다." />
+	<block key="enetfailure_token_notparty" korean="파티 상태가 아닙니다." />
+	<block key="enetfailure_token_notpartymaster" korean="파티장이 아닙니다." />
+	<block key="enetfailure_token_overlaptargettoken" korean="징표가 걸린 타겟에 똑같은 징표를 시도하였습니다." />
+	<block key="enetfailure_user_invalidoptiondata" korean="옵션정보가 존재하지 않습니다." />
+	<block key="enetfailure_user_sameoptiondataversion" korean="옵션정보의 버전이 같습니다. (옵션정보 요청시)." />
+	<block key="enetfailure_user_invalidoptiondataversion" korean="옵션정보의 버전이 다릅니다. (옵션정보 변경시)." />
+	<block key="enetfailure_user_invalidoptiondatasize" korean="옵션정보의 데이터의 크기가 허용값을 넘었다." />
+	<block key="enetfailure_user_charbase" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 201" />
+	<block key="enetfailure_user_charitem" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 202" />
+	<block key="enetfailure_user_charregion" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 203" />
+	<block key="enetfailure_user_charquest" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 204" />
+	<block key="enetfailure_user_charquesthistory" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 205" />
+	<block key="enetfailure_user_charskill" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 206" />
+	<block key="enetfailure_user_charbuff" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 207" />
+	<block key="enetfailure_user_charcutoff" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 208" />
+	<block key="enetfailure_user_charfriend" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 209" />
+	<block key="enetfailure_user_charmail" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 210" />
+	<block key="enetfailure_user_charmailsent" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 211" />
+	<block key="enetfailure_user_chardungeon" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 212" />
+	<block key="enetfailure_user_charindex" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 213" />
+	<block key="enetfailure_user_charmyauction" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 214" />
+	<block key="enetfailure_user_charcustomize" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 215" />
+	<block key="enetfailure_user_charfellowbook" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 216" />
+	<block key="enetfailure_user_charfellow" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 217" />
+	<block key="enetfailure_user_charitemskillcolltime" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 218" />
+	<block key="enetfailure_user_chartechnique" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 219" />
+	<block key="enetfailure_user_charoption" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 220" />
+	<block key="enetfailure_user_charparam" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 221" />
+	<block key="enetfailure_user_charrecipe" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 222" />
+	<block key="enetfailure_user_charsoultalents" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 223" />
+	<block key="enetfailure_user_forcekick_shutdowntime" korean="셧다운 제도에 의한 강제종료 되었습니다." />
+	<block key="enetfailure_user_playeriscombating" korean="전투중에는 로그아웃을 할 수 없습니다." />
+	<block key="enetsuccess_gmsvworldservers" korean="알수 없습니다." />
+	<block key="enetfailure_gmsvworldservers_operatingworldsomewhere" korean="알수 없습니다." />
+	<block key="enetfailure_gmsvworldservers_invalidworld" korean="알수 없습니다." />
+	<block key="enetfailure_gmsvworldservers_player_not_found" korean="알수 없습니다." />
+	<block key="enetfailure_gmsvworldservers_cheatfailed" korean="알수 없습니다." />
+	<block key="enetfailure_gmsvmainservers_worldservernotfound" korean="알수 없습니다." />
+	<block key="enetfailure_gmsvmainservers_worldservernotoperating" korean="알수 없습니다." />
+	<block key="enetfailure_managercharacter_worldservernotfound" korean="알수 없습니다." />
+	<block key="enetfailure_managercharacter_worldservernotoperating" korean="알수 없습니다." />
+	<block key="enetfailure_manageritem_worldservernotfound" korean="알수 없습니다." />
+	<block key="enetfailure_managerquest_worldservernotfound" korean="알수 없습니다." />
+	<block key="enetfailure_managerquest_worldservernotoperating" korean="알수 없습니다." />
+	<block key="enetfailure_entry_forcekick_limitage" korean="셧다운 제도에 의한 강제종료 되었습니다." />
+	<block key="eNetFailure_Move_IsNotUsePortalActableState" korean="다른 캐릭터가 이미 사용중입니다. 잠시 후에 다시 이용해 주세요" />
+	<block key="eNetFailure_Item_NotAllowClass" korean="게이지가 가득 차 있어 사용할 수 없습니다." />
+	<block key="eNetFailure_Guild_ValidPermissionName" korean="같은 계급명이 존재합니다" />
+	<block key="eNetFailure_Guild_Valid_Count_GuildMember" korean="길드에 소속된 길드원이 있어 길드해체를 할 수 없습니다" />
+	<block key="eNetFailure_Agreement_GuildMemberCancel" korean="상대방이 길드초대를 거절하였습니다" />
+	<block key="eNetFailure_Guild_Count_Permission_Over_Create" korean="더 이상 계급을 추가할 수 없습니다" />
+	<block key="eNetFailure_Guild_NameIncludedPermission" korean="사용할 수 없는 계급 이름입니다" />
+	<block key="eNetFailure_Fellow_Transform_NotOnCombatSkill" korean="현재 상태에서는 펠로우 변형을 할 수 없습니다." />
+	<block key="eNetFailure_Party_Board_NotExistBoard" korean="이미 삭제된 게시물 입니다" />
+	<block key="enetfailure_fellow_transform_notgroundstate" korean="현재 지역에서는 펠로우 변형을 할 수 없습니다." />
+	<block key="enetfailure_agreement_talknpcme" korean="지금은 거래할 수 없습니다." />
+	<block key="enetfailure_agreement_talknpctarget" korean="대화 중인 대상과는 거래할 수 없습니다." />
+	<block key="eNetfailure_auction_register_invalid_item_trade" korean="개인 거래중인 아이템은 판매 대행에 등록할 수 없습니다." />
+	<block key="eNetfailure_auction_register_invalid_item_belonging" korean="귀속된 아이템은 판매대행에 등록할 수 없습니다." />
+	<block key="eNetSuccess_LobbyUser" korean="요청성공하였습니다." />
+	<block key="eNetFailure_LobbyUser_DiffrenceProtocolVersion" korean="서버와 프로토콜 버전이 맞지 않습니다." />
+	<block key="eNetFailure_LobbyUser_FailEntrance" korean="채널 입장에 실패했습니다." />
+	<block key="eNetFailure_LobbyUser_SequenceError" korean="순서상 에러가 발생했습니다." />
+	<block key="eNetFailure_LobbyUser_DBError" korean="데이터베이스 에러가 발생했습니다." />
+	<block key="eNetFailure_LobbyUser_MadeCharFull" korean="캐릭터를 더 이상 생성할 수 없습니다." />
+	<block key="eNetFailure_LobbyUser_UnknownDBKey" korean="존재하지 않는 캐릭터입니다." />
+	<block key="eNetFailure_LobbyUser_NameLengthOver" korean="이름의 길이가 너무 길어 사용할 수 없습니다.
+한글 2~8자, 영문 4~16자로 다시 입력해 주십시요." />
+	<block key="eNetFailure_LobbyUser_NameLengthShot" korean="최소 글자수 이상으로 입력해야 합니다.
+한글 2~8자, 영문 4~16자로 다시 입력해 주십시요." />
+	<block key="eNetFailure_LobbyUser_NameIncludedWordBlank" korean="이름에 띄어쓰기는 사용할 수 없습니다.
+한글 2~8자, 영문 4~16자로 다시 입력해 주십시요." />
+	<block key="eNetFailure_LobbyUser_NameOccupied" korean="이미 사용중인 이름입니다.
+한글 2~8자, 영문 4~16자로 다시 입력해 주십시요." />
+	<block key="eNetFailure_LobbyUser_NameIncludedWordBaned" korean="모두 숫자, 특수문자, 금지어는 사용할 수 없습니다.
+한글 2~8자, 영문 4~16자로 다시 입력해 주십시요." />
+	<block key="eNetFailure_LobbyUser_TryToDownloadTwice" korean="두번째 다운로드 시도중입니다." />
+	<block key="eNetFailure_LobbyUser_NotRegistedWorld" korean="등록된 월드가 아닙니다." />
+	<block key="eNetFailure_LobbyUser_NotOperatingWorld" korean="작동중인 월드가 아닙니다." />
+	<block key="eNetFailure_LobbyUser_SelectingEqualWorld" korean="같은 월드를 선택했습니다." />
+	<block key="eNetFailure_LobbyUser_OverMaxUserSelectedWorld" korean="선택한 월드의 유저가 꽉 찬 상태입니다." />
+	<block key="eNetFailure_LobbyUser_BlockedID" korean="블럭된 아이디입니다." />
+	<block key="eNetFailure_LobbyUser_ForceKick_Push" korean="같은 계정의 접속으로 인해 강제종료 되었습니다." />
+	<block key="eNetFailure_LobbyUser_ForceKick_GM" korean="서비스운영에 의해 강제종료 되었습니다." />
+	<block key="eNetFailure_LobbyUser_ForceKick_Error" korean="프로그램 오류에 의해 강제종료 되었습니다." />
+	<block key="eNetFailure_LobbyUser_ForceKick_DBError" korean="DB 오류에 의해 강제종료 되었습니다." />
+	<block key="eNetFailure_LobbyUser_ForceKick_Timeout" korean="장기간 대기로 인해 강제종료 되었습니다." />
+	<block key="eNetFailure_LobbyUser_ForceKick_Etc" korean="기타사유에 의해 강제종료 되었습니다." />
+	<block key="eNetFailure_LobbyUser_ForceKick_ShutdownTime" korean="셧다운 제도에 의해 강제종료 되었습니다." />
+	<block key="eNetFailure_LobbyUser_PlayerIsCombating" korean="전투중에는 로그아웃을 할 수 없습니다." />
+	<block key="eNetFailure_LobbyUser_SystemError" korean="시스템적인 에러가 발생하였습니다." />
+	<block key="eNetFailure_LobbyUser_PacketError" korean="패킷오류가 발생하였습니다." />
+	<block key="enetfailure_move_cancelgradeselect" korean="인스턴스 던전 난이도가 선택되지 않았습니다." />
+	<block key="enetfailure_move_not_portal_playerpos_area" korean="입장 할 수 없는 위치입니다." />
+	<block key="eNetFailure_Technique_below_item_level" korean="레벨이 낮아 레시피를 습득할 수 없습니다." />
+	<block key="eNetFailure_Technique_invalid_item" korean="기본 레시피의 제작아이템이 없습니다." />
+	<block key="eNetFailure_Technique_already_register_item" korean="이미 등록된 기본레시피 입니다." />
+	<block key="eNetFailure_Relation_NameIncludedWordBaned" korean="사용금지 단어가 포함된 아이디입니다." />
+	<block key="eNetFailure_Agreement_Otherproposestatedest" korean="다른 요청이 진행중입니다. 잠시후 다시 시도해 주십시요." />
+	<block key="eNetFailure_Agreement_Otherproposestateme" korean="받은 요청을 먼저 확인해 주십시요." />
+	<block key="eNetFailure_Move_ClearedGradeIsLower" korean="정예 던전 난이도를 완료해야 입장이 가능합니다." />
+	<block key="eNetFailure_LobbyUser_NotDeleteGuildMaster" korean="길드장인 캐릭터는 삭제할 수 없습니다." />
+	<block key="eNetFailure_Agreement_BattleState" korean="전투 상태에서는 거래할 수 없습니다." />
+	<block key="eNetFailure_LobbyUser_NotFoundChannel" korean="게임서버가 켜져 있지 않습니다." />
+	<block key="eNetFailure_Relation_AlreadyFriend" korean="이미 친구로 등록된 유저입니다." />
+	<block key="eNetFailure_Fellow_Seal_InvalidSealedItemLv" korean="봉인석 사용가능레벨과 펠로우 레벨이 맞지 않습니다." />
+	<block key="eNetFailure_Fellow_Seal_NotEnoughPlayerLv" korean="플레이어 레벨보다 펠로우 레벨이 높아 봉인을 할 수 없습니다." />
+	<block key="eNetFailure_Fellow_Seal_UnsealNotEnoughPlayerLv" korean="플레이어 레벨보다 펠로우 레벨이 높아 해제를 할 수 없습니다." />
+	<block key="eNetFailure_Move_IsDuel" korean="결투중에는 지역 이동을 할 수 없습니다." />
+	<block key="eNetFailure_Item_FellowNotMine" korean="소유하지 않은 펠로우에 탑승하고 있기 때문에 사용할 수 없습니다." />
+	<block key="eNetFailure_fellow_seal_fellowlistfull" korean="펠로우 보관함이 가득 찼습니다." />
+	<block key="eNetFailure_guild_not_level_create" korean="길드를 생성하기 위해서는 10레벨 이상이 되어야 합니다." />
+	<block key="eNetFailure_Enchant_CannotUseSkillPlayerState" korean="전투중에는 할 수 없는 행동입니다." />
+	<block key="eNetFailure_fellow_seal_CannotUseSkillPlayerState" korean="전투중에는 펠로우 흡수를 할 수 없습니다." />
+	<block key="enetfailure_talents_notopenpart" korean="특성 스킬을 장착할 수 없습니다." />
+	<block key="eNetFailure_Item_DropGaming" korean="아이템 분배중일때는 다른 아이템을 루팅할 수 없습니다." />
+	<block key="eNetFailure_Item_PartyDropGaming" korean="파티원이 아이템 분배중일때는 다른 아이템을 루팅할 수 없습니다." />
+	<block key="eNetFailure_Item_SystemError" korean="시스템 에러가 발생하였습니다." />
+	<block key="eNetFailure_Item_AlreadyJoin" korean="이미 참여하였습니다." />
+	<block key="eNetFailure_Item_LowThanStorePrice" korean="현재 금액보다 적은 금액입니다." />
+	<block key="eNetFailure_Item_LowPriceThanHigher" korean="현재 입찰된 금액보다 적은 금액입니다." />
+	<block key="eNetFailure_Enchant_AboveEquipItemLevel" korean="사용 가능한 레벨보다 캐릭터 레벨이 높아 사용할 수 없습니다." />
+	<block key="eNetFailure_Fellow_AboveEquipItemLevel" korean="사용 가능한 레벨보다 캐릭터 레벨이 높아 사용할 수 없습니다." />
+	<block key="eNetFailure_Item_AboveUseItemLevel" korean="사용 가능한 레벨보다 캐릭터 레벨이 높아 사용할 수 없습니다." />
+	<block key="eNetFailure_Item_AboveEquipItemLevel" korean="착용 가능한 레벨보다 캐릭터 레벨이 높아 착용할 수 없습니다." />
+	<block key="eNetFailure_Item_AboveFellowEquipItemLevel" korean="착용 가능한 레벨보다 펠로우 레벨이 높아 착용할 수 없습니다." />
+	<block key="eNetFailure_duel_notduel" korean="결투 상태가 아닙니다." />
+	<block key="eNetFailure_Move_NotAllow_LevelCondition" korean="레벨이 낮아 입장할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAllowDuelArea" korean="이 지역에서는 결투할 수 없습니다." />
+	<block key="enetfailure_fellow_fearingstate" korean="펠로우를 소환 해제할 수 없는 상태입니다." />
+	<block key="eNetFailure_Agreement_NotAllowDuelByCombatMe" korean="전투 상태에서는 결투 신청할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAllowDuelByCombatTarget" korean="대상이 전투중이라 결투 신청할 수 없습니다." />
+	<block key="eNetFailure_Action_NoPKExp" korean="최근에 대상을 죽여서 경험치를 획득할 수 없습니다." />
+	<block key="eNetFailure_Action_NoQuestPKCount" korean="최근에 대상을 죽여서 퀘스트가 갱신되지 않았습니다." />
+	<block key="eNetFailure_Action_MapChangeTarget" korean="맵 이동 중인 대상은 공격할 수 없습니다." />
+	<block key="eNetFailure_Action_RewindingTarget" korean="몬스터가 스폰 위치로 돌아가고 있습니다." />
+	<block key="eNetFailure_Action_NoControlTarget" korean="대상을 조작할 수 없는 상태입니다." />
+	<block key="eNetFailure_Action_ResurrectAnimatingTarget" korean="부활 중인 대상은 공격할 수 없습니다." />
+	<block key="eNetFailure_Action_NoDeadTarget" korean="대상이 사망상태가 아닙니다." />
+	<block key="eNetFailure_Action_DeadTarget" korean="대상이 사망상태입니다." />
+	<block key="eNetFailure_Action_SkillObjectTarget" korean="잘못된 대상입니다." />
+	<block key="eNetFailure_Action_IsNotDamagableMe" korean="안전지역에서는 공격할 수 없습니다." />
+	<block key="eNetFailure_Move_AlreadyGradeSelecting" korean="난이도를 선택할 수 없습니다." />
+	<block key="enetfailure_agreement_alreadyattackbattalion" korean="공격대에 속해 있는 유저 입니다." />
+	<block key="enetfailure_guild_exp_needed" korean="길드 명성 포인트가 부족합니다." />
+	<block key="enetfailure_move_doing_exit_fail_quest" korean="이벤트 퀘스트 중에 지역 이동 시, 퀘스트가 완료되지 않습니다." />
+	<block key="enetfailure_agreement_tradedistanceerror" korean="대상과의 거리가 너무 멉니다." />
+	<block key="enetfailure_agreement_cannottrademe" korean="이미 거래 중입니다." />
+	<block key="enetfailure_agreement_destisbattlestate" korean="전투중인 대상과는 거래를 할 수 없습니다." />
+	<block key="enetfailure_party_notfoundparty" korean="파티를 찾을 수 없습니다." />
+	<block key="enetfailure_party_board_notmaster" korean="파티장이 아닙니다." />
+	<block key="enetfailure_guild_not_out_guildmaster" korean="길드장은 추방이 불가능합니다." />
+	<block key="eNetFailure_User_StateDead" korean="죽은 상태에서는 채널 이동을 할 수 없습니다." />
+	<block key="eNetFailure_User_StateFalling" korean="공중에서 추락중일 때는 채널 이동을 할 수 없습니다." />
+	<block key="eNetFailure_User_StateCombating" korean="전투중에는 채널 이동을 할 수 없습니다." />
+	<block key="eNetFailure_User_StateEpisode" korean="이벤트 퀘스트 수행중일 때는 채널 이동을 할 수 없습니다." />
+	<block key="eNetFailure_User_StateTradeing" korean="거래중일 때는 채널 이동을 할 수 없습니다." />
+	<block key="eNetFailure_User_StateUseSkill" korean="스킬 사용중일 때는 채널 이동을 할 수 없습니다." />
+	<block key="eNetFailure_User_StateInteractCasting" korean="사물을 조작중일 때는 채널 이동을 할 수 없습니다." />
+	<block key="eNetFailure_User_StateAgreementParty" korean="파티 신청중일 때는 채널 이동을 할 수 없습니다." />
+	<block key="eNetFailure_User_StateTaiming" korean="펠로우를 길들이는 도중에는 채널 이동을 할 수 없습니다." />
+	<block key="enetfailure_move_invalidportal_area" korean="입장 할 수 없는 위치입니다." />
+	<block key="eNetFailure_Item_NotExpirationPeriod" korean="기간제 아이템이 아닙니다" />
+	<block key="eNetFailure_Item_NotTargetExpirationPeriod" korean="기간제 아이템이 아닙니다." />
+	<block key="eNetFailure_Item_LimitTargetExpirationPeriod" korean="기간이 만료되었습니다." />
+	<block key="enetfailure_fellow_notenoughfellowhp" korean="펠로우의 생명력이 부족하여 소환 할 수 없습니다." />
+	<block key="enetfailure_item_userisdead" korean="죽은 상태에서는 사용 할 수 없습니다." />
+	<block key="eNetFailure_LobbyUser_NotDeleteGuildMember" korean="캐릭터가 길드에 가입되어 있어, 캐릭터를 삭제 할 수 없습니다." />
+	<block key="eNetFailure_User_StatePassenger" korean="다른 사람의 펠로우에 탑승했을 때는 채널 이동을 할 수 없습니다." />
+	<block key="eNetFailure_Enchant_StatePassenger" korean="다른 사람의 펠로우에 탑승했을 때는 할 수 없는 행동입니다." />
+	<block key="eNetFailure_Enchant_invalid_reinforce_lv_data" korean="엘룬을 찾을 수 없습니다." />
+	<block key="eNetFailure_Enchant_Insufficient_Ruby" korean="엘룬이 부족합니다." />
+	<block key="eNetFailure_Item_StorageFullPackge" korean="패키지 아이템을 모두 담을 공간이 부족합니다." />
+	<block key="eNetFailure_Entry_CheckingWorld" korean="현재 점검중인 서버입니다.
+자세한 내용은 공지사항을 확인하시기 바랍니다." />
+	<block key="eNetFailure_Production_no_learn_Gather" korean="채집 기술을 배우지 않아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_no_learn_WeaponCraft" korean="무기제작 기술을 배우지 않아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_no_learn_ArmorCraft" korean="방어구제작 기술을 배우지 않아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_no_learn_AccessoryCraft" korean="장신구제작 기술을 배우지 않아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_no_learn_FellowEquip" korean="펠로우연구 기술을 배우지 않아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_no_learn_Cooking" korean="요리 기술을 배우지 않아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_no_learn_Alchemy" korean="연금술 기술을 배우지 않아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_low_mastery_Gather" korean="채집 기술이 낮아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_low_mastery_WeaponCraft" korean="무기제작 기술단계가 낮아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_low_mastery_ArmorCraft" korean="방어구제작 기술단계가 낮아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_low_mastery_AccessoryCraft" korean="장신구제작 기술단계가 낮아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_low_mastery_FellowEquip" korean="펠로우연구 기술단계가 낮아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_low_mastery_Cooking" korean="요리 기술단계가 낮아 습득 할 수 없습니다." />
+	<block key="eNetFailure_Production_low_mastery_Alchemy" korean="연금술 기술단계가 낮아 습득 할 수 없습니다." />
+	<block key="eNetFaulure_Relation_LogOff" korean="현재 접속중이지 않은 플레이어 입니다." />
+	<block key="eNetFailure_agreement_CanNotUseCommandState" korean="명령어를 사용 할 수 없는 상태입니다." />
+	<block key="enetfailure_party_notattackbattalion" korean="공격대가 아닙니다." />
+	<block key="enetfailure_party_board_alreadyparty" korean="이미 파티에 속해있습니다." />
+	<block key="eNetFailure_User_ChannelLimitNum" korean="이동할 채널이 혼잡합니다. 잠시 후 시도해주시기 바랍니다." />
+	<block key="enetfailure_dungeon_init_existplayer" korean="던전 안에 파티원이 있어 초기화 할 수 없습니다." />
+	<block key="A. eNetFailure_Fellow_InsufficientRuby" korean="엘룬이 부족합니다." />
+	<block key="B. eNetFailure_Fellow_InvalidRubyData" korean="이름 변경에 대한 엘룬 데이터가 없습니다." />
+	<block key="eNetFailure_Dungeon_InsufficientRuby" korean="엘룬이 부족합니다." />
+	<block key="eNetFailure_Dungeon_InvalidRubyData" korean="해당 던전에 대한 엘룬 데이터가 없습니다." />
+	<block key="eNetFailure_Billing_CheckMoney" korean="캐시 잔액조회 요청을 실패하였습니다." />
+	<block key="eNetFailure_Billing_BuyItem" korean="캐시 아이템 구입 요청을 실패하였습니다." />
+	<block key="eNetFailure_Billing_CheckRetractMoney" korean="청약 철회 시 복원 가능 금액 조회 요청을 실패하였습니다." />
+	<block key="eNetFailure_Billing_Retract" korean="청약 철회 요청에 실패하였습니다." />
+	<block key="eNetFailure_Billing_MoveInven" korean="캐시 아이템 인벤 이동 실패하였습니다." />
+	<block key="eNetFailure_Billing_ChargeCash" korean="캐시충전 URL 요청 실패하였습니다." />
+	<block key="eNetFailure_Billing_CashShop_invalid_category" korean="잘못된 캐시샵 카테고리입니다." />
+	<block key="eNetFailure_Billing_not_found_cashshop_list" korean="해당 아이템이 상점리스트에 존재하지 않습니다." />
+	<block key="eNetFailure_Billing_not_found_link_cashitem" korean="상점 리스트에 연결된 캐시아이템을 찾을 수 없습니다." />
+	<block key="eNetFailure_Billing_not_found_cashitem" korean="해당 아이템을 찾을 수 없습니다." />
+	<block key="eNetFailure_Billing_cant_buy_item_by_cash" korean="캐시로 구입할 수 없는 아이템입니다." />
+	<block key="eNetFailure_Billing_cant_buy_item_by_ruby" korean="엘룬으로 구입할 수 없는 아이템입니다." />
+	<block key="eNetFailure_Billing_not_enough_cash" korean="캐시가 부족합니다." />
+	<block key="eNetFailure_Billing_not_enough_ruby" korean="엘룬이 부족합니다." />
+	<block key="eNetFailure_Billing_not_enough_inven_space" korean="가방에 공간이 부족합니다." />
+	<block key="eNetFailure_Billing_create_failed_to_inven" korean="가방에 아이템을 생성 중 오류가 발생하였습니다." />
+	<block key="eNetFailure_Billing_can_not_move_item_map" korean="가방에 아이템을 이동할 수 없는 지역입니다." />
+	<block key="eNetFailure_Billing_invalid_map_data" korean="맵 데이터가 없습니다." />
+	<block key="eNetFailure_Billing_TooLongURL" korean="URL이 너무 길어서 실패 하였습니다." />
+	<block key="eNetFailure_Billing_DataError" korean="Data 오류가 발생하였습니다." />
+	<block key="eNetFailure_Billing_DBError" korean="DB 오류가 발생하였습니다." />
+	<block key="eNetFailure_Agreement_NotAllowInstanceMapMe" korean="소환이 불가능한 지역입니다." />
+	<block key="eNetFailure_Agreement_NotAllowSkyMe" korean="공중에서는 소환 할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAllowWaterMe" korean="물에서는 소환 할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAllowCombatMe" korean="전투상태에서는 소환 할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAllowDeadMe" korean="죽은 상태에서는 소환 할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAllowCombatTarget" korean="대상이 전투중이라 소환 할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAllowDeadTarget" korean="대상이 죽은상태라 소환 할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAllowInstanceMapTarget" korean="대상이 인던에 있어 소환 할 수 없습니다." />
+	<block key="eNetFailure_Agreement_InvalidCostData" korean="비용 정보가 없습니다." />
+	<block key="eNetFailure_Agreement_Insufficient_Ruby" korean="엘룬이 부족합니다." />
+	<block key="eNetFailure_Fellow_Transform_SummonFellow" korean="소환상태에서는 변형할 수 없습니다" />
+	<block key="eNetFailure_Item_SummonFellow" korean="소환상태에서는 펠로우를 버릴 수 없습니다" />
+	<block key="enetsuccess_agreement_guilinvitation" korean="길드에 가입하였습니다." />
+	<block key="eNetfailure_Chat_clear_auto_msg" korean="입력한 메시지가 틀렸습니다." />
+	<block key="eNetfailure_Chat_aready_judge" korean="이미 오토 검사 중이거나, 검사에 통과한 유저입니다." />
+	<block key="eNetfailure_Chat_wrong_auto_msg" korean="메시지 형식에 맞지 않습니다." />
+	<block key="eNetfailure_Chat_prohibit_word" korean="금지어가 포함되어 있습니다." />
+	<block key="eNetfailure_Chat_can_not_check_map" korean="검사를 할 수 없는 지역입니다." />
+	<block key="eNetFailure_User_AutoChecking" korean="오토 검사 중일때는 맵 이동을 할 수 없습니다." />
+	<block key="enefailure_move_not_portal_area" korean="현재 엑자란 무법지대를 벗어 나실 수 없습니다." />
+	<block key="enetfailure_dungeon_ininstancedungeon" korean="초기화 할 던전 안에 유저가 존재합니다." />
+	<block key="enetfailure_dungeon_inin_reenterpossible" korean="이미 초기화 된 던전 입니다." />
+	<block key="eNetFailure_Quest_AlreadyTitle" korean="이미 소지한 칭호 입니다." />
+	<block key="eNetFailure_User_CharAchievements" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 225" />
+	<block key="eNetFailure_User_CharAchievement_Condition" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 226" />
+	<block key="eNetFailure_User_CharTitle" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 227" />
+	<block key="eNetFailure_LobbyUser_MaxPopulation" korean="캐릭터 생성이 제한되었습니다." />
+	<block key="enetfailure_store_not_exist_currency_item" korean="구매에 필요한 아이템이 없습니다." />
+	<block key="eNetfailure_store_not_enough_currency_item" korean="구매에 필요한 아이템이 부족합니다." />
+	<block key="enetfailure_agreement_fullparty" korean="파티 정원이 가득 차 지원 할 수 없습니다." />
+	<block key="eNetFailure_Party_PartyMemberIsInInstanceMap" korean="인던에 아직 파티원이 남아 있어 공격대로 전환 할 수 없습니다." />
+	<block key="eNetFailure_Move_DoNotEnterAttackBattalion" korean="공격대는 이 던전에 입장 할 수 없습니다." />
+	<block key="enefailure_agreement_notattackbattalionme" korean="공격대에 속해 있지 않은 유저입니다." />
+	<block key="eNetFailure_LobbyUser_SecPw_CertResponseFail" korean="2차 비밀번호 인증 요청받기가 실패하였습니다." />
+	<block key="eNetFailure_LobbyUser_SecPw_WrongPassword" korean="2차 비밀번호가 일치하지 않습니다." />
+	<block key="eNetFailure_LobbyUser_SecPw_FailedLock" korean="2차 비밀번호 5회 실패로 인해 잠겼습니다." />
+	<block key="eNetFailure_LobbyUser_SecPw_RegisterFail" korean="2차 비밀번호 설정 중 오류가 발생하였습니다." />
+	<block key="eNetFailure_LobbyUser_SecPw_SameAccountPassword" korean="계정 비밀번호와 동일합니다." />
+	<block key="eNetFailure_LobbyUser_SecPw_ExceptionError" korean="2차 비밀번호 예외 오류 입니다." />
+	<block key="eNetFailure_LobbyUser_SecPw_InvalidRequestType" korean="해당 타입으로 요청이 와서는 안되는 잘못된 요청입니다." />
+	<block key="eNetFailure_Action_invalid_Ruby_data" korean="엘룬(데이터)을 찾을 수 없습니다." />
+	<block key="eNetFailure_Action_insufficient_ruby" korean="루비가 부족합니다." />
+	<block key="eNetFailure_LobbyUser_AreadyDeleteing" korean="이미 삭제중인 캐릭터입니다." />
+	<block key="eNetFailure_Action_NotEnoughAp" korean="길들이기 포인트가 부족합니다." />
+	<block key="eNetFailure_Action_NotRecoveryAP" korean="길들이기 포인트를 회복 할 수 없습니다." />
+	<block key="eNetFailure_Title_Invalid_TitleItem" korean="칭호 아이템이 아닙니다." />
+	<block key="eNetFailure_Title_TitleItem_Trade_On" korean="칭호 아이템이 거래중입니다." />
+	<block key="eNetFailure_Title_TitleItem_NotExistTitle" korean="칭호 아이템의 칭호가 존재하지 않습니다." />
+	<block key="eNetFailure_Title_TitleItem_AlreadyTitle" korean="칭호 아이템의 칭호는 이미 습득한 칭호입니다." />
+	<block key="eNetFailure_Agreement_NotAllowRegion" korean="소환 대상이 한번도 가보지 못한 지역으론 소환 할 수 없습니다." />
+	<block key="eNetfailure_Chat_can_not_state" korean="오토 검사를 할 수 없는 상태입니다." />
+	<block key="eNetFailure_LobbyUser_SecPw_PassLengthShort" korean="2차 비밀번호 길이가 짧습니다. 숫자 4자리를 입력해주십시오." />
+	<block key="eNetFailure_LobbyUser_SecPw_NotCorrectFormat" korean="2차 비밀번호 형식에 맞지 않습니다." />
+	<block key="eNetFailure_move_not_event_player_map" korean="시나리오 채널에 입장할 수 없습니다." />
+	<block key="eNetFailure_Quest_RecvErrorYellowTime" korean="활력 저하로 퀘스트를 받을 수 없습니다." />
+	<block key="eNetFailure_Quest_FinishErrorYellowTime" korean="활력 저하로 퀘스트를 완료 할 수 없습니다." />
+	<block key="eNetFailure_Agreement_MyPartyErrorYellowTime" korean="활력 저하로 파티를 할 수 없습니다." />
+	<block key="eNetFailure_Agreement_HisPartyErrorYellowTime" korean="대상이 활력 저하로 파티를 할 수 없습니다." />
+	<block key="eNetFailure_Interaction_CollectErrorYellowTime" korean="활력 저하로 채집을 할 수 없습니다." />
+	<block key="eNetFailure_Move_Auto_User_Checking" korean="오토 검사중에는 다른 행동을 할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAttackBattalionMe" korean="공격대 상태가 아닙니다." />
+	<block key="eNetFailure_Agreement_NotAttackBattalionTarget" korean="대상이 공격대가 아닙니다." />
+	<block key="eNetFailure_Action_CannotOpenedContents" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_Agreement_CannotOpenedContents" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_auction_CannotOpenedContents" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_Billing_CannotOpenedContents" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_Dungeon_CannotOpenedContents" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_Enchant_CannotOpenedContents" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_Fellow_CannotOpenedContents" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_FootHold_CannotOpenedContents" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_Item_CannotOpenedContents" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_Move_CannotOpenedContents" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_Move_InvalidRubyData" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_Quest_CannotOpenedContents" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_Talents_CannotOpenedContents" korean="아직 이용 할 수 없는 컨텐츠 입니다." />
+	<block key="eNetFailure_Fellow_FellowActingState" korean="펠로우가 스킬 사용중에는 소환해제 할 수 없습니다." />
+	<block key="eNetFailure_Action_SkillRisingBodyState" korean="스킬공중이동중인상태입니다(반격가능함)" />
+	<block key="eNetFailure_Production_invalid_Recipe_Record" korean="레시피 아이템이 없습니다." />
+	<block key="eNetFailure_Production_invalid_Data" korean="제작할 아이템 데이터가 없습니다." />
+	<block key="eNetFailure_Production_count_have_item" korean="아이템 재료가 부족합니다." />
+	<block key="eNetFailure_Production_low_grade" korean="등급이 낮습니다." />
+	<block key="eNetFailure_Production_invalid_RegisterdRecipeAlready" korean="등록된 레시피가 아닙니다." />
+	<block key="eNetFailure_Production_low_grade_Gather" korean="채집 기술의 단계가 낮습니다." />
+	<block key="eNetFailure_Production_low_grade_WeaponCraft" korean="무기제작 기술의 단계가 낮습니다." />
+	<block key="eNetFailure_Production_low_grade_ArmorCraft" korean="방어구제작 기술의 단계가 낮습니다." />
+	<block key="eNetFailure_Production_low_grade_AccessoryCraft" korean="장신구제작 기술의 단계가 낮습니다." />
+	<block key="eNetFailure_Production_low_grade_FellowEquip" korean="펠로우연구 기술의 단계가 낮습니다." />
+	<block key="eNetFailure_Production_low_grade_Cooking" korean="요리 기술의 단계가 낮습니다." />
+	<block key="eNetFailure_Production_low_grade_Alchemy" korean="연금술 기술의 단계가 낮습니다." />
+	<block key="eNetFailure_achievements_storagefull" korean="가방에 공간이 부족하여 보상을 받을 수 없습니다." />
+	<block key="eNetFailure_Action_NotPcCafeUser" korean="PC방 유저가 아닙니다." />
+	<block key="eNetFailure_Action_AlreadyUsePcCafeBuff" korean="이미 PC방 무료 길들이기 포인트 충전을 사용하였습니다." />
+	<block key="eNetFailure_Item_NotSummonFellow" korean="펠로우가 소환되어 있지 않습니다." />
+	<block key="eNetFailure_Item_NotFellowExpItem" korean="펠로우 경험치 사용 아이템이 아닙니다." />
+	<block key="eNetSuccess_YellowTime" korean="아이템 지급 성공하였습니다." />
+	<block key="eNetFailure_YellowTime_FullHaveItemCount" korean="소지 할 수 있는 개수를 초과하여 활력 상자를 받을 수 없습니다." />
+	<block key="eNetFailure_YellowTime_InventoryFully" korean="가방에 빈 공간이 없어 아이템을 받을 수 없습니다." />
+	<block key="eNetFailure_Dungeon_InvalidMapKey" korean="인던 초기화를 요청한 맵 정보가 올바르지 않습니다." />
+	<block key="enetfailure_move_not_eventchannel" korean="시나리오 채널에 입장할 수 없습니다." />
+	<block key="eNetFailure_AttackBattalion_Full" korean="공격대에 빈 자리가 없습니다." />
+	<block key="eNetFailure_Dungeon_InitializeNothing" korean="초기화 시킬 던전이 없습니다." />
+	<block key="eNetFailure_Dungeon_NotPartyMaster" korean="파티장만 인던을 초기화 시킬 수 있습니다." />
+	<block key="eNetFailure_Item_RemoveDeathpenaltyNoPenalty" korean="부활후유증이 걸려 있지 않아 사용 할 수 없습니다." />
+	<block key="eNetFailure_Party_PartyDropGaming" korean="주사위가 진행중일 때는 파티원을 추방 할 수 없습니다." />
+	<block key="eNetFailure_Move_Doing_ExitFailTimeQuest" korean="시간제한 퀘스트를 진행중일때는 채널이동 및 종료를 할 수 없습니다." />
+	<block key="eNetFailure_Billing_AlreadyRequestSequence" korean="요청이 진행중입니다." />
+	<block key="eNetFailure_Billing_CannotBuyAnymore" korean="더 이상 구입 할 수 없는 아이템입니다." />
+	<block key="enetfailure_agreement_cannottradetarget" korean="이미 거래를 진행중인 유저입니다." />
+	<block key="enetfailure_lobbyuser_checkingworld" korean="현재 점검중인 서버입니다.
+자세한 내용은 공지사항을 확인하시기 바랍니다." />
+	<block key="enetfailure_agreement_notalloweventinstancetarget" korean="대상이 소환 받을 수 없는 상태입니다." />
+	<block key="enetfailure_achievements_alreadyreward" korean="이미 업적 보상을 받았습니다." />
+	<block key="eNetFailure_Talents_not_enough_ruby" korean="엘룬이 부족합니다." />
+	<block key="enetfailure_fellow_seal_notlinksealfellowitem" korean="봉인이 불가능한 펠로우입니다." />
+	<block key="enetfailure_trade_external_problem" korean="다른 행동으로 인하여 거래가 취소되었습니다." />
+	<block key="enetfailure_talents_alreadyawakenpart" korean="이미 특성이 적용되어 있는 상태입니다." />
+	<block key="eNetfailure_Chat_not_join_attack_battalion" korean="공격대 정보가 올바르지 않습니다. 탈퇴 후 다시 시도해주시기 바랍니다." />
+	<block key="eNetFailure_agreement_fullattackbattalion" korean="공격대 정원이 초과되었습니다." />
+	<block key="eNetFailure_Party_Board_YellowRestrictState" korean="활력 저하 상태에서는 게시판 이용이 불가능합니다." />
+	<block key="eNetFailure_Relation_FriendNotCutoff" korean="친구로 등록되어 있어 차단 할 수 없습니다." />
+	<block key="eNetFailure_Relation_CannotFriendCutoff" korean="차단목록에 등록되어 있어 친구추가를 할 수 없습니다." />
+	<block key="eNetFailure_Enchant_not_allow_require_level_target_item" korean="플레이어 레벨보다 10레벨 이상 높은 아이템은 강화 할 수 없습니다." />
+	<block key="eNetFailure_Mail_not_yet_send_cooltime" korean="전송 가능 시간이 지나지 않았습니다. 잠시 후에 다시 시도해 주십시오." />
+	<block key="eNetfailure_auction_not_exist_cancel_expired_item" korean="기간 만료된 아이템이 존재하지 않습니다." />
+	<block key="eNetfailure_auction_already_sold_item" korean="이미 팔린 아이템입니다." />
+	<block key="eNetFailure_Agreement_Response_MapInstance" korean="대상이 인던에 있어 초대/지원을 할 수 없습니다." />
+	<block key="eNetFailure_Chat_Blocking" korean="GM으로 인해 채팅 금지 상태가 적용되었습니다. 잠시 후에 다시 시도해주십시오." />
+	<block key="eNetFailure_Agreement_MyAttackBattalionErrorYellowTime" korean="활력 저하 상태에서는 공격대에 참여 할 수 없습니다." />
+	<block key="eNetFailure_Agreement_HisAttackBattalionErrorYellowTime" korean="대상이 활력 저하 상태로 인해 공격대에 참여 할 수 없습니다." />
+	<block key="eNetFailure_Billing_not_enough_require_level" korean="사용 레벨이 맞지 않아 구입 할 수 없는 아이템입니다." />
+	<block key="eNetFailure_Fellow_Reinforce_NotEnoughFellowLv" korean="펠로우 레벨이 최대 레벨에 도달하지 않아 강화를 할 수 없습니다." />
+	<block key="eNetfailure_Talents_invalid_Ruby_data" korean="엘룬(데이터)을 찾을 수 없습니다." />
+	<block key="eNetFailure_Fellow_Reinforce_NotFoundSealedItem" korean="봉인펠로우를 아이템을 찾을 수 없습니다." />
+	<block key="eNetFailure_Fellow_Reinforce_CannotUseSkillPlayerState" korean="펠로우 강화를 할 수 없는 상태 입니다. 잠시 후 다시 시도해주십시오." />
+	<block key="eNetFailure_Fellow_Reinforce_NotEnoughSealedItemLv" korean="봉인된 펠로우의 레벨이 최대 레벨에 도달하지 않아 강화를 할 수 없습니다." />
+	<block key="eNetFailure_Fellow_Reinforce_ReachMax" korean="펠로우가 최대 레벨을 달성하여 더 이상 강화 할 수 없습니다." />
+	<block key="eNetFailure_store_not_enough_require_level" korean="사용 레벨이 맞지 않아 구입 할 수 없는 아이템입니다." />
+	<block key="enetfailure_item_notexistpackageitem" korean="패키지 아이템이 존재하지 않습니다." />
+	<block key="eNetFailure_Party_Board_FullParty" korean="풀 파티 상태에서는 게시판에 글을 등록 할 수 없습니다." />
+	<block key="eNetFailure_Party_Board_MapInstance" korean="인던 안에서는 게시판에 글을 등록 할 수 없습니다." />
+	<block key="eNetFailure_Fellow_Reinforce_ImpossibleToReinforce" korean="강화를 할 수 없는 펠로우 입니다." />
+	<block key="enetfailure_agreement_passengerfull" korean="펠로우 탑승 공간이 모두 채워진 상태입니다." />
+	<block key="enetfailure_agreement_cantboardingplayer" korean="펠로우 탑승이 불가능한 상황입니다." />
+	<block key="eNetFailure_Fellow_Reinforce_NotEnoughNeedItemCount" korean="펠로우 강화 재료가 부족하여 더 이상 강화 할 수 없습니다." />
+	<block key="eNetFailure_Fellow_Reinforce_InvalidNeedItem" korean="펠로우 강화 재료가 없습니다." />
+	<block key="eNetFailure_Move_TakeOnPassengers" korean="탑승객이 있는 상태에서는 이동이 불가능합니다." />
+	<block key="eNetFailure_Fellow_Reinforce_SealedLvSmallerThanFellowLv" korean="봉인된 펠로우의 레벨이 강화할 펠로우 레벨보다 작습니다." />
+	<block key="eNetFailure_Fellow_IsNotDamagableMe" korean="안전지역에서는 공격할 수 없습니다." />
+	<block key="enetfailure_user_stateakeonpassenger" korean="탑승 중인 유저가 있을 때는 채널 이동이 불가능합니다." />
+	<block key="eNetFailure_Move_NotSkipMap" korean="포기할 수 없는 맵입니다." />
+	<block key="eNetFailure_Move_NotConditionSkip" korean="포기 조건에 맞지 않습니다." />
+	<block key="eNetFailure_Agreement_NotAllowTakePassenger" korean="다인 탑승중에는 할 수 없는 행동입니다." />
+	<block key="eNetFailure_Action_NotOnNavi" korean="스킬을 사용할 수 없는 위치입니다." />
+	<block key="eNetFailure_Fellow_Reinforce_WrongSealedFellow" korean="강화된 봉인펠로우는 강화 재료로 사용할 수 없습니다." />
+	<block key="eNetFailure_User_StateTakeOnPassenger" korean="다인 탑승 중에는 할 수 없는 행동입니다." />
+	<block key="enetfailure_move_not_portal_destarea" korean="도착할 포탈 지점이 없습니다." />
+	<block key="eNetFailure_Quest_FinishedDailyQuestMax" korean="일일 퀘스트는 하루에 최대 50개 이상은 완료할 수 없습니다." />
+	<block key="eNetFailure_Technique_not_enough_level" korean="레벨이 부족하여 다음 단계를 배울 수 없습니다." />
+	<block key="eNetFailure_Fellow_Seal_NotFoundSealItem" korean="봉인석을 찾을 수 없습니다." />
+	<block key="eNetFailure_Fellow_Seal_NotFoundSealedFellow" korean="봉인펠로우 아이템을 찾을 수 없습니다." />
+	<block key="eNetFailure_Fellow_seal_NotEnoughItemGrade" korean="봉인석의 등급이 펠로우 등급보다 낮습니다." />
+	<block key="eNetFailure_Fellow_Seal_AlreadySealFellow" korean="이미 봉인된 펠로우 입니다." />
+	<block key="eNetFailure_Fellow_Seal_NotSealedFellow" korean="봉인되지 않은 펠로우 입니다." />
+	<block key="eNetFailure_Fellow_Seal_NotFoundItemFromInven" korean="가방 안에 있는 아이템이 아닙니다." />
+	<block key="eNetFailure_Fellow_Seal_FellowEquipedItem" korean="아이템을 장착한 펠로우는 봉인 할 수 없습니다." />
+	<block key="eNetFailure_Fellow_Seal_NotSealOwnershipPeriod" korean="기간제 펠로우는 봉인 할 수 없습니다." />
+	<block key="eNetFailure_Fellow_Reinforce_InvalidFellowGrade" korean="잘못된 펠로우 등급입니다." />
+	<block key="eNetFailure_Fellow_Reinforce_InvalidFellowReinforceData" korean="펠로우 데이터가 잘못되었습니다." />
+	<block key="eNetFailure_Fellow_IsNotDamagableTarget" korean="대상을 공격할 수 없는 상태입니다." />
+	<block key="eNetFailure_Fellow_Seal_NotFoundUnSealItem" korean="봉인해제 아이템을 찾을 수 없습니다." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_NotEnoughItemGrade" korean="추출 가능 등급이 맞지 않아 추출 할 수 없습니다." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_ExtractionToolNeeded" korean="봉인 펠로우를 추출하기 위해 필요한 아이템이 존재하지 않습니다." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_TargetItem" korean="봉인 펠로우를 추출할 아이템이 존재하지 않습니다." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_ImpossibleTargetItem" korean="봉인 펠로우 추출이 불가능한 아이템입니다." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_NotFountSlot" korean="봉인 펠로우가 존재하지 않는 아이템 입니다." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_NotFountSealedFellow" korean="추출이 불가능한 봉인 펠로우 입니다." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_NotFoundItemFromInven" korean="봉인 펠로우 추출이 불가능한 아이템입니다." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_FellowListFull" korean="펠로우 보관함이 가득 차 추출 할 수 없습니다." />
+	<block key="eNetFailure_Item_CheckLevel" korean="귀속해제 레벨이 맞지 않아 귀속해제 할 수 없습니다." />
+	<block key="eNetFailure_Item_checkGrade" korean="귀속해제 등급이 맞지 않아 귀속해제 할 수 없습니다." />
+	<block key="eNetFailure_Item_MaxRemoveBelongingCount" korean="더 이상 귀속해제 할 수 없습니다." />
+	<block key="eNetFailure_Item_CannotBelongingType" korean="착용 시 귀속 아이템만 귀속해제 가능합니다." />
+	<block key="eNetFailure_Item_AlreadyRest" korean="이미 초기화 된 상태 입니다." />
+	<block key="eNetFailure_User_Wrong_MapData" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 230" />
+	<block key="enetfailure_achievements_invalid_achievement_recordid" korean="유효하지 않은 업적입니다." />
+	<block key="enetfailure_achievements_invalid_achievement_condition_recordid" korean="유효하지 않은 업적 조건입니다." />
+	<block key="enetfailure_achievements_notcomplete" korean="완료하지 않은 업적입니다." />
+	<block key="enetfailure_achievements_notexistreward" korean="보상이 없는 업적입니다." />
+	<block key="enetfailure_achievements_alreadytitle" korean="이미 획득한 칭호입니다." />
+	<block key="enetfailure_action_needlearnedskill" korean="선행 스킬을 배우지 않았습니다." />
+	<block key="enetfailure_action_notfallordescentskill" korean="추락 중 사용할 수 없는 스킬입니다." />
+	<block key="enetfailure_action_tamingstate" korean="길들이고 있는 상태입니다." />
+	<block key="enetfailure_action_tamingconditionneedtem" korean="길들이기 조건 아이템이 없습니다." />
+	<block key="enetfailure_action_tamingconditionnotenoughhp" korean="생명력이 충분히 낮지 않아 길들일 수 없습니다." />
+	<block key="enetfailure_action_validmastertaming" korean="길들여진 펠로우는 길들일 수 없습니다." />
+	<block key="enetfailure_action_invalidconversionrecord" korean="아이템을 찾을 수 없습니다." />
+	<block key="enetfailure_action_invalidportalnpc" korean="포탈 NPC가 아닙니다." />
+	<block key="enetfailure_agreement_notsamelayer" korean="대상이 같은 맵에 없습니다." />
+	<block key="enetfailure_agreement_dueldistanceerror" korean="거리가 너무 멉니다." />
+	<block key="enetfailure_agreement_notalloweventinstancemap" korean="시나리오 던전에서는 할 수 없습니다." />
+	<block key="enetfailure_agreement_disagree" korean="길드 가입을 거절했습니다." />
+	<block key="enetfailure_agreement_guidunion_notguild" korean="길드에 가입되어 있지 않습니다." />
+	<block key="enetfailure_agreement_guidunion_notguildmaster" korean="길드장만 초대할 수 있습니다." />
+	<block key="enetfailure_agreement_guidunion_destplayernotguild" korean="대상이 길드에 가입되어 있지 않습니다." />
+	<block key="enetfailure_agreement_guidunion_destplayernotguildmaster" korean="대상이 길드장이 아닙니다." />
+	<block key="enetfailure_agreement_guidunion_lowguildgrade" korean="길드 등급이 낮아 연합에 초대할 수 없습니다." />
+	<block key="enetfailure_agreement_guidunion_overmaxguildunionmember" korean="초대할 수 있는 최대 연합 수를 초과하였습니다." />
+	<block key="enetfailure_agreement_guidunion_alreadyguildunionmember" korean="이미 다른 길드 연합에 소속되어 있습니다." />
+	<block key="enetfailure_agreement_systemerror" korean="시스템 오류" />
+	<block key="enetfailure_auction_invalid_ruby_data" korean="엘룬을 찾을 수 없습니다." />
+	<block key="enetfailure_auction_insufficient_ruby" korean="엘룬이 부족합니다." />
+	<block key="enetfailure_auction_invalid_char_data" korean="캐릭터 정보를 찾을 수 없습니다." />
+	<block key="enetfailure_auction_expand_full_slot" korean="슬롯을 더 이상 확장할 수 없습니다." />
+	<block key="enetfailure_auction_systemerror" korean="판매대행 시스템 오류" />
+	<block key="enetfailure_auction_dataerror" korean="판매대행 데이터 오류" />
+	<block key="enetfailure_billing_not_ready_channeling_server" korean="빌링 서버와 연결되어 있지 않습니다." />
+	<block key="enetfailure_billing_duplicate_purchase_id" korean="거래 고유 번호가 중복되었습니다." />
+	<block key="enetfailure_billing_saveitem_dberror" korean="구입한 아이템 저장 중 에러가 발생했습니다." />
+	<block key="enetfailure_billing_packeterror" korean="빌링 패킷 오류" />
+	<block key="enetfailure_billing_systemerror" korean="빌링 시스템 오류" />
+	<block key="enetfailure_chat_not_attack_battalion_master" korean="공격대장이 아닙니다." />
+	<block key="enetfailure_chat_item_link_internal_packet" korean="아이템 링크 패킷 오류" />
+	<block key="enetfailure_chat_can_not_use_item" korean="아이템을 사용할 수 없습니다." />
+	<block key="enetfailure_chat_not_guild_union_member" korean="길드 연합원이 아닙니다." />
+	<block key="enetfailure_chat_not_militia_member" korean="엑자란 민병대에 가입되어 있지 않습니다." />
+	<block key="enetfailure_dungeon_isnotonthemap" korean="맵에 있지 않습니다." />
+	<block key="enetfailure_dungeon_init_invalidmapkey" korean="던전 초기화 요청이 잘못 되었습니다." />
+	<block key="enetfailure_dungeon_init_invalidgrade" korean="난이도 초기화 요청이 잘못 되었습니다." />
+	<block key="enetfailure_dungeon_init_invaliddungeon" korean="던전 초기화 요청이 잘못 되었습니다." />
+	<block key="enetfailure_dungeon_init_reenterpossible" korean="현재 입장이 가능한 던전 난이도 입니다." />
+	<block key="enetfailure_dungeon_init_isnotinstance" korean="던전이 아니라 초기화할 수 없습니다." />
+	<block key="enetfailure_dungeon_systemerror" korean="던전 시스템 오류" />
+	<block key="enetfailure_dungeon_packeterror" korean="던전 패킷 오류" />
+	<block key="enetfailure_enchant_invalid_uselimit" korean="기간제 아이템은 강화할 수 없습니다." />
+	<block key="enetfailure_enchant_invalid_box" korean="강화용 선물 상자가 아닙니다." />
+	<block key="enetfailure_enchant_invalid_soulstone_item" korean="영혼석 행위가 불가능한 아이템 입니다." />
+	<block key="enetfailure_enchant_reinforce_lvupstone_needed" korean="강화석 레벨 업 아이템이 없습니다." />
+	<block key="enetfailure_enchant_reinforce_blessstone_needed" korean="축복받은 강화석 아이템이 없습니다." />
+	<block key="enetfailure_enchant_reinforce_random_stone_needed" korean="랜덤 강화석 아이템이 없습니다." />
+	<block key="enetfailure_enchant_reinforce_lvupstone_over_needed" korean="강화석을 레벨 업할 수 있는 최대 레벨입니다." />
+	<block key="enetfailure_enchant_invalid_reinforce_lvup_rate" korean="강화석 레벨 업 데이터 오류" />
+	<block key="enetfailure_enchant_invalid_reinforce_random_rate" korean="랜덤 강화 데이터 오류" />
+	<block key="enetfailure_enchant_invalid_reinforce_random_itemgrade" korean="요구 아이템의 등급이 다릅니다." />
+	<block key="enetfailure_enchant_invalid_reinforce_random_equipparts" korean="강화 부위가 다릅니다." />
+	<block key="enetfailure_enchant_fellowtoitem_notfoundtargetitem" korean="아이템을 찾을 수 없습니다." />
+	<block key="enetfailure_enchant_fellowtoitem_notfoundsealeditem" korean="봉인 아이템을 찾을 수 없습니다." />
+	<block key="enetfailure_enchant_fellowtoitem_impossiblesynthesize" korean="합성이 불가능한 아이템입니다." />
+	<block key="enetfailure_enchant_fellowtoitem_notfounditemfrominven" korean="가방에서 찾을 수 없습니다." />
+	<block key="enetfailure_enchant_fellowtoitem_trade_on" korean="거래중인 아이템입니다." />
+	<block key="enetfailure_enchant_fellowfromitem_notfoundtargetitem" korean="아이템을 찾을 수 없습니다." />
+	<block key="enetfailure_enchant_fellowfromitem_notfoundsealeditem" korean="장착된 봉인 아이템이 없습니다." />
+	<block key="enetfailure_enchant_fellowfromitem_notfounditemfrominven" korean="가방에서 찾을 수 없습니다." />
+	<block key="enetfailure_enchant_dataerror" korean="강화 데이터 오류" />
+	<block key="enetfailure_enchant_packeterror" korean="강화 패킷 오류" />
+	<block key="enetfailure_fellow_ride_slave_deadstate" korean="탑승 펠로우가 사망했습니다." />
+	<block key="enetfailure_fellow_notmaster" korean="자신의 펠로우가 아닙니다." />
+	<block key="enetfailure_fellow_donotforcegetoffmaster" korean="마스터는 강제로 하차할 수 없습니다." />
+	<block key="enetfailure_fellow_notallowobserverstate" korean="투명화 상태일 때는 허용되지 않습니다." />
+	<block key="enetfailure_fellow_chaosstate" korean="혼란 상태에서는 소환 해제할 수 없습니다." />
+	<block key="enetfailure_fellow_insufficientruby" korean="엘룬이 부족합니다." />
+	<block key="enetfailure_fellow_invalidrubydata" korean="이름 변경 루비 데이터 오류" />
+	<block key="enetfailure_fellow_notfounditemfrominven" korean="가방에서 찾을 수 없습니다." />
+	<block key="enetfailure_fellow_transform_notexisttransformskilldata" korean="펠로우 변형 스킬이 존재하지 않습니다." />
+	<block key="enetfailure_fellow_transform_notallowfellowkindbattle" korean="펫을 변형할 수 없는 아이템입니다." />
+	<block key="enetfailure_fellow_transform_notallowfellowkindride" korean="펠로우를 변형할 수 없는 아이템입니다." />
+	<block key="enetfailure_fellow_dataerror" korean="펠로우 데이터 오류" />
+	<block key="enetfailure_fellow_servererror" korean="펠로우 서버 오류" />
+	<block key="enetfailure_foothold_notapplicationperiodoffoothold" korean="거점전 신청 기간이 아닙니다." />
+	<block key="enetfailure_foothold_noserachabletarget" korean="찾을 수 없는 타겟입니다." />
+	<block key="enetfailure_foothold_invalidfootholdnpc" korean="거점전 NPC가 아닙니다." />
+	<block key="enetfailure_foothold_invalid_map_info" korean="잘못된 거점전 맵 정보입니다." />
+	<block key="enetfailure_foothold_notguildmaster" korean="길드장이 아닙니다." />
+	<block key="enetfailure_foothold_alreadypendinginotherregion" korean="거점전을 이미 신청 중입니다." />
+	<block key="enetfailure_foothold_partyleaderisnotguildmaster" korean="파티장이 길드장이 아닙니다." />
+	<block key="enetfailure_foothold_partymembersaernotinthesameguild" korean="파티원이 같은 길드가 아닙니다." />
+	<block key="enetfailure_foothold_attacksquadhasalreadeyjoined" korean="공격대가 이미 참가중입니다." />
+	<block key="enetfailure_foothold_notparticipationperiodoffoothold" korean="거점전 참가 기간이 아닙니다." />
+	<block key="enetfailure_foothold_notprepareregisterguild" korean="거점전 참가 길드가 아닙니다." />
+	<block key="enetfailure_foothold_invalidrankingguild" korean="유효한 순위의 길드가 아닙니다." />
+	<block key="enetfailure_foothold_notattacksquad" korean="공격대가 아닙니다." />
+	<block key="enetfailure_foothold_notwinnerguild" korean="승리 길드가 아닙니다." />
+	<block key="enetfailure_foothold_notwinnerguildmaster" korean="승리 길드의 길드장이 아닙니다." />
+	<block key="enetfailure_foothold_invalidtaxrate" korean="유효한 세율이 아닙니다." />
+	<block key="enetfailure_foothold_nottaxrateappliedstore" korean="세율 적용 상점이 아닙니다." />
+	<block key="enetfailure_foothold_nottaxrateappliedmap" korean="세율 적용 지역이 아닙니다." />
+	<block key="enetfailure_foothold_systemerror" korean="거점전 시스템 오류" />
+	<block key="enetfailure_foothold_packeterror" korean="거점전 패킷 오류" />
+	<block key="enetfailure_guild_not_guildmaster" korean="길드장이 아닙니다." />
+	<block key="enetfailure_guild_invalidpermission" korean="길드 계급 권한을 설정할 수 없습니다." />
+	<block key="enetfailure_guild_not_join_guildmember" korean="길드원이 접속중이 아닙니다." />
+	<block key="enetfailure_guild_not_kick_guildmember" korean="자기 자신은 강제 탈퇴할 수 없습니다." />
+	<block key="enetfailure_guild_not_change_onesafe_guildmember" korean="자신에게 길드장을 위임할 수 없습니다." />
+	<block key="enetfailure_guild_invalid_guildmarkid" korean="길드 마크 오류" />
+	<block key="enetfailure_interaction_not_player" korean="획득 가능한 플레이어가 아닙니다." />
+	<block key="enetfailure_item_not_record" korean="잘못된 아이템 레코드" />
+	<block key="enetfailure_item_notstorable" korean="저장 불가능한 스토리지" />
+	<block key="enetfailure_item_falseexchange" korean="이동 불가능한 스토리지" />
+	<block key="enetfailure_item_not_dividestorage" korean="나누려는 아이템의 스토리지가 잘못 되었습니다." />
+	<block key="enetfailure_item_not_combinestorage" korean="합치려는 아이템의 스토리지가 잘못 되었습니다." />
+	<block key="enetfailure_item_invalidnpcrecord" korean="올바른 NPC 레코드가 아닙니다." />
+	<block key="enetfailure_item_invalidshoptypenpc" korean="잘못된 상점 NPC 입니다." />
+	<block key="enetfailure_item_fellowequipeditem" korean="펠로우가 아이템을 장착중이기 때문에 소환 해제할 수 없습니다." />
+	<block key="enetfailure_item_repair_not_item" korean="수리가 가능한 아이템이 아닙니다." />
+	<block key="enetfailure_item_cannotdropauctiongame" korean="경매에 참가할 수 없는 플레이어 입니다." />
+	<block key="enetfailure_item_invalidarearecord" korean="맵 레코드 오류" />
+	<block key="enetfailure_item_notexistrandombox" korean="랜덤박스 아이템이 없습니다." />
+	<block key="enetfailure_item_notrandombox" korean="랜덤박스 아이템이 아닙니다." />
+	<block key="enetfailure_item_notpackageitem" korean="박스 아이템이 아닙니다." />
+	<block key="enetfailure_item_insufficientruby" korean="엘룬이 부족합니다." />
+	<block key="enetfailure_item_dberror" korean="DB 오류가 발생하였습니다." />
+	<block key="enetfailure_mail_not_mail_data" korean="우편을 생성할 수 없습니다." />
+	<block key="enetfailure_mail_item_invalid_bag" korean="아이템이 가방에 없습니다." />
+	<block key="enetfailure_mail_pending" korean="잠시 후 다시 시도하십시요." />
+	<block key="enetfailure_militia_guildranktoohigh" korean="3등급 이상 길드에 소속되어 있으면 가입할 수 없습니다." />
+	<block key="enetfailure_militia_notmember" korean="엑자란 민병대에 가입되어 있지 않습니다." />
+	<block key="enetfailure_militia_alreadymember" korean="이미 엑자란 민병대에 가입되어 있습니다." />
+	<block key="enetfailure_militia_invalid_npc" korean="잘못된 대상입니다." />
+	<block key="enetfailure_militia_shotmoney" korean="소지금이 부족합니다." />
+	<block key="enetfailure_move_notfoundchannel" korean="해당 채널 서버를 찾을 수 없습니다." />
+	<block key="enetfailure_move_not_portal_area" korean="포탈 영역이 아닙니다." />
+	<block key="enetfailure_move_not_portal_player_map" korean="포탈 맵과 플레이어 맵이 다릅니다." />
+	<block key="enetfailure_move_not_portal_startarea" korean="출발할 포탈 영역이 없습니다." />
+	<block key="enetfailure_move_not_portal_destarea_random" korean="도착할 포탈 영역에 랜덤 위치를 찾을 수 없습니다." />
+	<block key="enetfailure_move_invalidportal_npc" korean="포탈 NPC를 찾을 수 없습니다." />
+	<block key="enetfailure_move_invalidportal_record" korean="포탈 레코드를 찾을 수 없습니다." />
+	<block key="enetfailure_move_invalidportal_data" korean="포탈 데이터가 없습니다." />
+	<block key="enetfailure_move_cannotselectgrade" korean="선택할 수 없는 던전 난이도 입니다." />
+	<block key="enetfailure_move_cannotfoundcreatedinstance" korean="생성된 던전이 없습니다." />
+	<block key="enetfailure_move_donotexistgradereserveinfo" korean="던전 난이도 선택 예약이 되지 않았습니다." />
+	<block key="enetfailure_move_legenddungeoncondition" korean="영웅 던전을 완료하지 않았습니다." />
+	<block key="enetfailure_move_legenditemcondition" korean="입장 아이템이 없습니다." />
+	<block key="enetfailure_move_eventinvalidresurrectarea" korean="이벤트 채널에서 부활 시 잘못된 부활 영역 데이터" />
+	<block key="enetfailure_move_eventinvalidcutoffarea" korean="이벤트 인스턴스 채널에서 튕길 시에 캐릭터 위치정보가 없다." />
+	<block key="enetfailure_move_eventinvalidarearandompos" korean="이벤트 인스턴스 채널에서 부활 시 Area의 랜덤한 위치를 찾을수 없다." />
+	<block key="enetfailure_move_donothavequest" korean="이벤트 채널 입장 조건 퀘스트를 진행중이지 않거나 끝내지 않았다." />
+	<block key="enetfailure_move_invalidregionrecord" korean="지역 레코드를 찾을 수 없습니다." />
+	<block key="enetfailure_move_invalidskill" korean="스킬이 존재하지 않습니다." />
+	<block key="enetfailure_move_invalid_map_info" korean="맵 정보가 없습니다." />
+	<block key="enetfailure_move_insufficientruby" korean="엘룬이 부족합니다." />
+	<block key="enetfailure_move_invalid_resurrecttype" korean="잘못된 부활 타입입니다." />
+	<block key="enetfailure_move_error_rubysystem" korean="엘룬 시스템 오류" />
+	<block key="enetfailure_party_notmaster_kick" korean="파티원 추방에 대한 권한이 없습니다." />
+	<block key="enetfailure_party_notmaster_changemaster" korean="파티장 변경에 대한 권한이 없습니다." />
+	<block key="enetfailure_party_notmaster_changeloot" korean="파티 루팅에 대한 권한이 없습니다." />
+	<block key="enetfailure_party_notmaster_createbattalion" korean="공격대 생성에 대한 권한이 없습니다." />
+	<block key="enetfailure_party_notmember" korean="파티가 아닌 유저입니다." />
+	<block key="enetfailure_party_notmaster_moneyshare" korean="파티장만 분배 권한이 있습니다." />
+	<block key="enetfailure_party_moneyshare_few" korean="금액이 적거나 갯 수가 적어 돈을 분배할 수 없습니다." />
+	<block key="enetfailure_party_invalidrequestselfcommand" korean="자기 자신에게 할 수 없습니다." />
+	<block key="enetfailure_party_invalidpartylootgradecheck" korean="등급 제한 분배 방식이 잘못 되었습니다." />
+	<block key="enetfailure_party_board_titlenotexist" korean="게시판 제목이 입력되지 않았습니다." />
+	<block key="enetfailure_party_board_invalid_page" korean="잘못된 페이지 번호입니다." />
+	<block key="enetfailure_party_board_min_more_than_max" korean="최소 레벨이 최대 레벨보다 높습니다." />
+	<block key="enetfailure_party_board_invalid_type" korean="잘못된 게시판 타입입니다." />
+	<block key="enetfailure_party_matching_dungeonlimitnum" korean="던전 인원 제한을 초과하였습니다." />
+	<block key="enetfailure_party_matching_dungeonnextentertimelimit" korean="해당 등급에 재 입장 시간이 지나지 않았습니다." />
+	<block key="enetfailure_party_matching_normaldungeonlimitcount" korean="일반 등급 인던에 입장할 수 있는 회수 제한에 걸렸습니다." />
+	<block key="enetfailure_party_matching_impossibleapplyclass" korean="지원 불가능한 클래스 입니다." />
+	<block key="enetfailure_party_matching_invalidmap" korean="잘못된 맵입니다." />
+	<block key="enetfailure_party_matching_cannotselectgrade" korean="선택할 수 없는 인던 난이도 입니다." />
+	<block key="enetfailure_party_matching_alreadyapply" korean="이미 지원한 유저입니다." />
+	<block key="enetfailure_party_matching_alreayinstancemap" korean="인던에서는 파티 매칭이 불가능 합니다." />
+	<block key="enetfailure_party_matching_notmaster" korean="파티장이 아닙니다." />
+	<block key="enetfailure_party_matching_notyetwaittime" korean="매칭 등록 가능한 대기시간이 지나지 않았습니다." />
+	<block key="enetfailure_quest_invalidnpctype" korean="올바른 NPC 타입이 아닙니다." />
+	<block key="enetfailure_quest_invalidnpcrecord" korean="NPC 레코드를 찾을 수 없습니다." />
+	<block key="enetfailure_quest_alreadydoingquestnpc" korean="이미 퀘스트를 진행중인 NPC입니다." />
+	<block key="enetfailure_quest_mylevelbelowskillevel" korean="스킬북의 스킬 습득 레벨이 높습니다." />
+	<block key="enetfailure_quest_notquestrecord" korean="퀘스트 레코드가 없습니다." />
+	<block key="enetfailure_quest_notinarea" korean="미션 영역에 없습니다." />
+	<block key="enetfailure_quest_myleveloverquestlevel" korean="퀘스트 최대 레벨보다 내 레벨이 높습니다." />
+	<block key="enetfailure_quest_invalidneeditem" korean="수락 시 필요한 아이템이 잘못되었습니다." />
+	<block key="enetfailure_quest_notenoughneeditem" korean="수락 시 필요한 아이템잉 충분하지 않습니다." />
+	<block key="enetfailure_relation_namelengthover" korean="이름 길이가 너무 깁니다." />
+	<block key="enetfailure_relation_self" korean="자신은 친구로 추가할 수 없습니다." />
+	<block key="enetfailure_relation_systemerror" korean="친구 시스템 오류" />
+	<block key="enetfailure_store_not_item_destroy_time" korean="아이템 구입 시간이 올바르지 않습니다." />
+	<block key="enetfailure_store_invalid_item_record" korean="아이템 레코드를 찾을 수 없습니다." />
+	<block key="enetfailure_talents_not_enough_point" korean="영혼력이 부족합니다." />
+	<block key="enetfailure_talents_not_enough_powder" korean="영혼 가루가 부족합니다." />
+	<block key="enetfailure_talents_max_point_already_full" korean="이미 최대 특성력이 가득 찼습니다." />
+	<block key="enetfailure_talents_low_level" korean="레벨이 낮습니다." />
+	<block key="enetfailure_talents_low_mastery" korean="숙련도가 낮습니다." />
+	<block key="enetfailure_talents_target_too_far" korean="대상과의 거리가 너무 멉니다." />
+	<block key="enetfailure_talents_notsoulstoneitem" korean="영혼석이 아닙니다." />
+	<block key="enetfailure_talents_notsoulpowderitem" korean="영혼 가루가 아닙니다." />
+	<block key="enetfailure_talents_impossibleawakenpart" korean="각성 가능한 부위가 아닙니다." />
+	<block key="enetfailure_talents_impossibleclass" korean="각성 가능한 클래스가 아닙니다." />
+	<block key="enetfailure_talents_notenoughactivelevel" korean="활성화 레벨이 아닙니다." />
+	<block key="enetfailure_talents_notawakenpart" korean="해당 부위가 특성이 부여되지 않은 상태입니다." />
+	<block key="enetfailure_talents_nohaveskill" korean="스킬이 없습니다." />
+	<block key="enetfailure_talents_not_found_item" korean="아이템을 찾을 수 없습니다." />
+	<block key="enetfailure_talents_not_sealed_fellow_item" korean="펠로우 봉인 아이템이 아닙니다." />
+	<block key="enetfailure_title_invalid_title" korean="칭호 아이템이 아닙니다." />
+	<block key="enetfailure_title_not_have_title" korean="획득하지 않은 칭호입니다." />
+	<block key="enetfailure_trade_invalid_trade_slot" korean="허용된 거래 아이템 슬롯 번호가 아닙니다." />
+	<block key="enetfailure_tarde_not_decided" korean="거래가 결정된 상태가 아닙니다." />
+	<block key="enetfailure_user_notallowreqchannellistmap" korean="채널 리스트 요청이 허용되지 않는 맵입니다." />
+	<block key="enetfailure_user_notallowreqchangechannelmap" korean="채널 변경이 허용되지 않는 맵입니다." />
+	<block key="enetfailure_gmsvmanager_equalaccountconnected" korean="같은 계정이 접속중 입니다." />
+	<block key="enetfailure_managerskill_alreadylearnskill" korean="이미 배운 스킬입니다." />
+	<block key="enetfailure_managerskill_invalidskill" korean="존재하지 않는 스킬입니다." />
+	<block key="eNetFailure_Move_NotAllowResurrectType" korean="이 지역은 축복 부활할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAllowBattleArenaMapTrade" korean="이 지역에서는 거래할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAllowBattleArenaMap" korean="이 지역에서는 소환할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAllowBattleArenaTarget" korean="대상이 소환할 수 없는 지역에 있습니다." />
+	<block key="eNetFailure_Militia_UnableContents" korean="지금은 사용할 수 없습니다." />
+	<block key="eNetFailure_Militia_UnknownDBKey" korean="길드를 찾을 수 없습니다." />
+	<block key="eNetFailure_Militia_NoRecordData" korean="잘못된 데이터입니다." />
+	<block key="eNetFailure_GuildUnion_UnknownGuildDBKey" korean="길드를 찾을 수 없습니다." />
+	<block key="eNetFailure_GuildUnion_UnknownPlayerDBKey" korean="대상을 찾을 수 없습니다." />
+	<block key="eNetFailure_GuildUnion_NotGuildUnionMaster" korean="길드장이 아닙니다." />
+	<block key="eNetFailure_GuildUnion_NotGuildMaster" korean="길드 연합 마스터가 아닙니다." />
+	<block key="eNetFailure_GuildUnion_Invalid_NPC" korean="잘못된 대상입니다." />
+	<block key="eNetFailure_GuildUnion_ShortGold" korean="소지금이 부족합니다." />
+	<block key="eNetFailure_GuildUnion_LowRank" korean="3등급 이상 길드만 연합을 창설할 수 있습니다." />
+	<block key="eNetFailure_GuildUnion_GuildNotFound" korean="길드를 찾을 수 없습니다." />
+	<block key="eNetFailure_GuildUnion_UnknownGuildUnionDBKey" korean="잘못된 길드 연합입니다." />
+	<block key="eNetFailure_GuildUnion_NotExistGuildName" korean="연합에 초대할 길드 이름을 다시 확인해 주십시오." />
+	<block key="eNetFailure_GuildUnion_NotEnoughGuildRank" korean="3등급 이상 길드만 연합할 수 있습니다." />
+	<block key="eNetFailure_GuildUnion_AlreadyGuildUnionMember" korean="연합이 결성된 길드는 초대할 수 없습니다." />
+	<block key="eNetFailure_GuildUnion_GuildMasterOffline" korean="연합할 길드의 길드장이 접속 중이 아닙니다." />
+	<block key="eNetFailure_GuildUnion_OfferRefused" korean="대상 길드가 연합 초대를 거절했습니다." />
+	<block key="eNetFailure_GuildUnion_SameGuildUnionName" korean="동일한 이름은 사용할 수 없습니다." />
+	<block key="eNetFailure_GuildUnion_ExistGuildName" korean="다른 길드의 이름은 사용할 수 없습니다." />
+	<block key="eNetFailure_GuildUnion_ExistGuildUnionName" korean="이미 존재하는 연합 또는 길드 이름입니다." />
+	<block key="eNetFailure_GuildUnion_ShortRuby" korean="엘룬이 부족합니다." />
+	<block key="eNetFailure_GuildUnion_NotGuildMember" korean="대상이 길드에 가입되어 있지 않습니다." />
+	<block key="eNetFailure_GuildUnion_NotGuildUnionMember" korean="대상이 길드 연합에 소속되어 있지 않습니다." />
+	<block key="eNetFailure_GuildUnion_DifferentGuildUnion" korean="길드 연합이 서로 다릅니다." />
+	<block key="eNetFailure_GuildUnion_MasterGuildCantLeaveUnion" korean="연합을 창설한 길드는 탈퇴할 수 없습니다." />
+	<block key="eNetFailure_GuildUnion_NameLengthOver" korean="연합 이름이 너무 깁니다." />
+	<block key="eNetFailure_GuildUnion_NameIncludedWordBaned" korean="연합 이름에 사용 금지 단어가 포함되어 있습니다." />
+	<block key="eNetFailure_Item_CancelSkill" korean="아이템 사용이 취소되었습니다." />
+	<block key="eNetFailure_agreement_guidunion_disagree" korean="연합 가입을 거절했습니다." />
+	<block key="eNetFailure_agreement_guidunion_notexistguild" korean="초대하려는 길드가 존재하지 않습니다." />
+	<block key="eNetFailure_Action_NotTamAbleonCasting" korean="몬스터가 캐스팅 중에는 길들이기를 시도할 수 없습니다." />
+	<block key="eNetFailure_Item_CannotUseInstanceMap" korean="아이템을 사용 할 수 없는 지역 입니다." />
+	<block key="eNetFailure_Guild_TimePenaltyWithdrawalGuild" korean="길드 탈퇴 후 1일이 지나지 않아 길드를 창설할 수 없습니다." />
+	<block key="eNetFailure_Guild_NotCertifiedAbsentDay" korean="길드장 해임을 위한 미출석 일 수가 부족 합니다." />
+	<block key="eNetFailure_Guild_ImpossibleDismissal" korean="길드장 해임이 불가능한 상태입니다." />
+	<block key="eNetFailure_Agreement_TimePenaltyWithdrawalGuild" korean="길드 탈퇴 후 1일이 지나지 않은 대상은 길드 초대할 수 없습니다." />
+	<block key="eNetFailure_Agreement_GuidUnion_NotEnoughGold" korean="연합에 초대하려면 10골드가 필요합니다." />
+	<block key="eNetFailure_Agreement_GuidUnion_MasterNotConnected" korean="초대하려는 길드의 길드장이 접속 중이 아닙니다." />
+	<block key="eNetFailure_Chat_not_militarized_zone" korean="민병대 채팅은 엑자란에서만 할 수 있습니다." />
+	<block key="eNetFailure_Guild_DismissalInProgress" korean="길드장 해임이 진행 중 입니다." />
+	<block key="eNetFailure_Move_LegendAchievementCondition" korean="전설 난이도 입장에 필요한 업적이 달성되지 않았습니다." />
+	<block key="eNetFailure_User_MoneyCheckSumError" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 330" />
+	<block key="eNetFailure_Fellow_BlockSummonFellow" korean="펠로우를 소환할 수 없는 상태입니다." />
+	<block key="eNetFailure_Fellow_NotAllowAltitude" korean="현재 고도에서는 해당 펠로우를 소환할 수 없습니다." />
+	<block key="eNetFailure_Agreement_Taming" korean="길들이기 시도 중인 대상에게는 할 수 없는 요청입니다." />
+	<block key="eNetFailure_User_CharHelpTopic" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 231" />
+	<block key="eNetFailure_User_CharShowActorItem" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 232" />
+	<block key="eNetFailure_User_CharPKList" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 233" />
+	<block key="eNetFailure_User_CharTimeEvent" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 234" />
+	<block key="eNetFailure_User_CharTransaction" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 235" />
+	<block key="eNetFailure_User_CheckFellowListFail" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 236" />
+	<block key="eNetFailure_User_CharGeneral" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 224" />
+	<block key="eNetFailure_User_YellowTime" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 228" />
+	<block key="eNetFailure_User_YellowBox" korean="캐릭터정보 이상으로 인하여 접속할 수 없습니다.
+고객센터에 문의 해주시면 신속하게 조치하겠습니다.
+에러코드 : 229" />
+	<block key="eNetFailure_GuildUnion_TimePenaltyWithdrawal" korean="연합 탈퇴 후 1일이 지나지 않아 연합을 창설할 수 없습니다." />
+	<block key="eNetFailure_Agreement_GuidUnion_TimePenaltyWithdrawal" korean="연합 탈퇴 후 1일이 지나지 않은 길드는 연합 초대할 수 없습니다." />
+	<block key="enetfailure_move_legendachivementcondition" korean="전설 난이도 입장에 필요한 업적이 달성되지 않았습니다." />
+	<block key="eNetFailure_Action_IsNotComboSequence" korean="콤보스킬이 시작되지 않았는데 시전요청이 되었습니다." />
+	<block key="eNetFailure_Action_InvalidComboSkill" korean="시작한 콤보스킬과 다른 콤보스킬 시전요청이 되었습니다." />
+	<block key="eNetFailure_Action_InvalidComboSkillSequence" korean="콤보스킬 순서가 맞지 않은 스킬시전 요청이 되었습니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_InvalidGuionUnionDBKey" korean="길드 연합에 가입되어 있지 않습니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_NotExistGuionUnion" korean="길드 연합이 존재하지 않습니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_NotGuionUnionMaster" korean="길드 연합의 연합장이 아닙니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_NotEnoughRequestGold" korean="전쟁 선포를 위한 골드가 부족합니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_WarfareState" korean="전쟁 중이거나 전쟁 선포 신청 대기 중인 연합에게는 선포할 수 없습니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_NotWarfareState" korean="지금은 전쟁 상태가 아닙니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_ResponseTimeOut" korean="전쟁 선포 요청 시간이 지났습니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_NotExistStateWarfare" korean="전쟁 선포에 대한 정보가 없습니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_WarfareStateNotReqeust" korean="전쟁 선포에 대한 응답 대기 상태가 아닙니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_Invalid_NPC" korean="잘못된 NPC입니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_LongDistanceWithTheNpc" korean="NPC와 거리가 너무 멉니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_CanNotRequestMyUnion" korean="자신의 연합에 요청할 수 없습니다." />
+	<block key="eNetFailure_item_ChangeOptionNotFoundSealedItem" korean="봉인 펠로우 아이템이 아닙니다." />
+	<block key="eNetFailure_item_ChangeOptionNotExistInInven" korean="아이템이 가방에 없습니다." />
+	<block key="eNetFailure_Item_ChangeOptionNotEnoughItemGrade" korean="등급 조건이 맞지 않습니다." />
+	<block key="eNetFailure_Enchant_decomposition_no_item" korean="분해할 아이템이 존재하지 않습니다." />
+	<block key="eNetFailure_Enchant_decomposition_InvalidData" korean="분해 할 수 없는 아이템 입니다." />
+	<block key="eNetFailure_Enchant_Level" korean="아이템 레벨이 맞지 않습니다." />
+	<block key="eNetFailure_User_ForceKick_AbuseMovingCheck" korean="비정상적 이동으로 인한 강제종료" />
+	<block key="eNetFailure_Fellow_NeutralZoneTarget" korean="중립 지역에 있는 대상은 공격할 수 없습니다." />
+	<block key="eNetFailure_Agreement_NotAllowDuelByUnionWarfare" korean="연합 전쟁 중인 대상과는 결투할 수 없습니다." />
+	<block key="eNetFailure_Action_NotAllowedNeuralZone" korean="중립 지역에서는 공격할 수 없습니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_DisbandFailed" korean="연합 전쟁 중에는 연합을 해체할 수 없습니다." />
+	<block key="eNetFailure_Enchant_decomposition_not_enough_slot" korean="분해를 하기 위해서는 최소 3개의 빈 슬롯이 필요합니다." />
+	<block key="eNetFailure_Enchant_Bracelet_NotFoundBracelet" korean="팔찌 아이템이 존재하지 않습니다." />
+	<block key="eNetFailure_Enchant_Bracelet_NotFoundGem" korean="보석 아이템이 존재하지 않습니다." />
+	<block key="eNetFailure_Enchant_Bracelet_DeactivationGemSlot" korean="보석 슬롯이 비활성화 상태입니다." />
+	<block key="eNetFailure_Enchant_Bracelet_InvalidGemSlot" korean="보석 슬롯의 인덱스가 적합하지 않습니다." />
+	<block key="eNetFailure_Enchant_Bracelet_NotFoundGemSlotItem" korean="보석 슬롯에 보석이 장착되어 있지 않습니다." />
+	<block key="eNetFailure_Enchant_Bracelet_NotEnoughGoldEtractionGem" korean="보석 추출 시 골드가 부족합니다." />
+	<block key="eNetfailure_store_invalid_state" korean="상점 이용이 불가능한 상태입니다." />
+	<block key="eNetFailure_GuildUnion_Warfare_NotRequestUnion" korean="연합 전쟁을 선포한 연합의 연합장만 취소할 수 있습니다." />
+	<block key="eNetFailure_Item_LoginEvent_FullInventory" korean="인벤토리가 가득 찼습니다." />
+	<block key="eNetFailure_Item_LoginEvent_NoPrize" korean="받을 아이템이 존재하지 않습니다." />
+	<block key="eNetFailure_Item_LoginEvent_WrongItemCount" korean="지급 수량을 확인해야 합니다." />
+	<block key="eNetfailure_Item_Keeping_npc_not_found" korean="창고 NPC를 찾을 수 없습니다." />
+	<block key="eNetfailure_Item_Keeping_too_far" korean="창고 NPC와 거리가 멉니다." />
+	<block key="eNetFailure_auction_exceed_buy_item_maximum_limit" korean="구입하려는 아이템의 최대 소지개수를 초과하여 구입할 수 없습니다." />
+	<block key="eNetFailure_auction_exceed_cancel_item_maximum_limit" korean="판매 취소하려는 아이템의 최대 소지개수를 초과하여 판매 취소할 수 없습니다." />
+	<block key="eNetFailure_Billing_ExceedItemMaximumLimit" korean="받으려는 아이템의 최대 소지개수를 초과하여 아이템을 받을 수 없습니다." />
+	<block key="eNetFailure_Item_ExceedItemMaximumLimit" korean="아이템의 최대 소지개수를 초과하여 아이템을 사용 할 수 없습니다." />
+	<block key="eNetFailure_Mail_exceed_item_maximum_limit" korean="받으려는 아이템의 최대 소지개수를 초과하여 아이템을 받을 수 없습니다." />
+	<block key="eNetFailure_store_exceed_buy_item_maximum_limit" korean="구입하려는 아이템의 최대 소지개수를 초과하여 구입할 수 없습니다." />
+	<block key="eNetFailure_store_exceed_rebuy_item_maximum_limit" korean="재구입하려는 아이템의 최대 소지개수를 초과하여 재구입할 수 없습니다." />
+	<block key="eNetFailure_trade_exceed_item_maximum_limit" korean="아이템의 최대 소지개수를 초과하여 거래할 수 없습니다." />
+	<block key="eNetFailure_Fellow_BlockNotAllowSummonTakePassenger" korean="인던에서는 다인 탑승 펠로우를 소환할 수 없습니다." />
+	<block key="eNetFailure_Item_FellowMaxGrowthLevel" korean="펠로우가 최대 레벨로 성장하여 아이템을 사용할 수 없습니다." />
+	<block key="eNetFailure_Action_LowLevelBuff" korean="더 높은 레벨의 스킬 버프가 적용되어 있어 버프가 적용되지 않습니다." />
+	<block key="eNetFailure_Production_NotAllowDoubleMaterial" korean="일반재료 2배 적용을 할 수 없는 아이템입니다." />
+	<block key="eNetFailure_Enchant_Bracelet_FoundGemSlotItem" korean="보석이 장착되어 있는 상태에선 팔찌 아이템을 장착 할 수 없습니다." />
+</blocks>

@@ -1,0 +1,226 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Dialog_4000000_Title" korean="포" />
+	<block key="Dialog_4000000_Text0" korean="바다사나이, 이 정도 시련에 좌절할쏘냐! 
+그렇다! 내가 바로 멋진 선장 포님이시다!" />
+	<block key="Dialog_4000010_Title" korean="무칸" />
+	<block key="Dialog_4000010_Text0" korean="열정으로 모든 일이 해결된다면 얼마나 좋겠습니까.
+모든 일에는 절차와 원칙, 순리라는 것이 있게 마련입니다." />
+	<block key="Dialog_4000020_Title" korean="사르가소" />
+	<block key="Dialog_4000020_Text0" korean="단순히 파는 게 아니야! 이건 내가 다 엄선한거라구.<br>내가 파는 마법무기들은 어디 가서 구경하기 힘들거야." />
+	<block key="Dialog_4000030_Title" korean="조디" />
+	<block key="Dialog_4000030_Text0" korean="남자라면 응당 약자의 부름에 응해야 하는 법!
+불의를 보고 지나치는 것은 남자가 할 일이 못 되지요." />
+	<block key="Dialog_4000040_Title" korean="앤디" />
+	<block key="Dialog_4000040_Text0" korean="어제도 달렸고, 오늘도 달리고.. 조디의 체력훈련을 따라가려니 정말 힘듭니다. 저 녀석은 인간이 아니에요!" />
+	<block key="Dialog_4000050_Title" korean="로이" />
+	<block key="Dialog_4000050_Text0" korean="에롤님을 보신 적이 있으십니까? 정말 멋진 분이죠. 그 헐렁한 카리스마하며, 매력적인 눈.. 오해하지 마십시오. 저는 여자를 좋아합니다." />
+	<block key="Dialog_4000060_Title" korean="젤나르" />
+	<block key="Dialog_4000060_Text0" korean="여기까지 찾아 오다니, 너도 참 할 일 없는 녀석이구나.
+엘로라 여신님의 은총을 받으러 왔으면 잠자코 저쪽에서 기다려.
+아니면, 돈을 내던가." />
+	<block key="Dialog_4000070_Title" korean="에롤" />
+	<block key="Dialog_4000070_Text0" korean="페가수스 기사단장 직위는 쉽게 얻을 수 있는 게 아니야. 공역에서 살아남은 강한 자만이 페가수스 기사단을 이끌 자격을 얻을 수 있지. 내가 기사단장으로 있는 한 불사군단에 의해 공역의 균형이 무너지는 일은 절대 없을 거야!" />
+	<block key="Dialog_4000080_Title" korean="메르쿠스" />
+	<block key="Dialog_4000080_Text0" korean="뭐야,뭐야,뭐야,뭐야! 당신 빨라요? 응? 나랑 대결해볼래요? 응? 빨리빨리빨리빨리~" />
+	<block key="Dialog_4000090_Title" korean="레이디 올리비에" />
+	<block key="Dialog_4000090_Text0" korean="이 곳은 내가 올 곳은 아니다만.. 단지 이 멸망의 공역에서 맛있는 알이 나서 친히 찾아왔을 뿐이다.
+ 뭐 불만이라도 있는 것이냐?" />
+	<block key="Dialog_4000100_Title" korean="트리키아" />
+	<block key="Dialog_4000100_Text0" korean="현재 하카나스 지역에서 엑자란과 빛의 전쟁 시절의 비밀을 간직하고 있는 거의 유일한 공간입니다.
+전쟁으로 만들어진 폐허가 고고학적 유산이 되다니…아이러니하지 않습니까?" />
+	<block key="Dialog_4000110_Title" korean="루플라" />
+	<block key="Dialog_4000110_Text0" korean="여기서 에롤 단장님의 임무를 수행하고 있어. 반가워 기사님!" />
+	<block key="Dialog_4000120_Title" korean="호프만" />
+	<block key="Dialog_4000120_Text0" korean="이보게. 내가 여기에서 지낸지 2년.. 과연 엘로라 여신님은 왜 이런 지역을 남겨놓았는지 의문이 든다네. 이 시간의 틈과 드래곤은 정말 엘로라 여신님의 뜻으로 만들어진 것이란 말인가?" />
+	<block key="Dialog_4000120_answer_7_text" korean="공역의 틈새로 가는 방법" />
+	<block key="Dialog_4000130_Title" korean="라이샌더" />
+	<block key="Dialog_4000130_Text0" korean="얼른 집으로 가고 싶습니다. 페가수스고 유니콘이고 저한텐 아무 의미 없다구요." />
+	<block key="Dialog_4000140_Title" korean="노리스" />
+	<block key="Dialog_4000140_Text0" korean="내가 페가수스 기사단 최고의 힘을 지닌 체크 노리스다. 지난 주에 거대가오리가 날 노려보길래 때려잡고 지금은 근신 중이지." />
+	<block key="Dialog_4000140_answer_0_text" korean="기사 증명하기" />
+	<block key="Dialog_4000150_Title" korean="로갈" />
+	<block key="Dialog_4000150_Text0" korean="넌 영웅이 될 자격을 가졌군. 하지만 내 콜렉션에 추가 될 정도로 멋진 영웅이 될 것 같진 않아. 지금 난 너보다 에롤 인형을 더 가지고 싶단 말이다…" />
+	<block key="Dialog_4000150_answer_0_text" korean="기사 증명하기" />
+	<block key="Dialog_4000160_Title" korean="레베카" />
+	<block key="Dialog_4000160_Text0" korean="어서와! 불사군단을 때려 잡을 물건을 찾고 있어? 그럼 잘 왔네! 천천히 골라봐." />
+	<block key="Dialog_4000160_Answer_0_Text" korean="무기 상점" />
+	<block key="Dialog_4000170_Title" korean="모레스" />
+	<block key="Dialog_4000170_Text0" korean="자자, 한정! 어마어마한 찬스! 멋진 당신에게 어울리는 어마어마한 아이템들이 바로 오늘 입고! 얼른 사지 않으면 후회할걸!" />
+	<block key="Dialog_4000170_Answer_0_Text" korean="잡화 상점" />
+	<block key="Dialog_4000180_Title" korean="오스카" />
+	<block key="Dialog_4000180_Text0" korean="페가수스 기사단은 불사군단을 이 곳 멸망의 공역에서 없애기 위해 존재한다고 한다. 우리는 그들을 말살시킨다. 지금은 그것만 생각할 뿐." />
+	<block key="Dialog_4000190_Title" korean="사일런" />
+	<block key="Dialog_4000190_Text0" korean="내 피가 끓고 있어. 복수, 복수하라고! 우리의 조상은 트라이트얼이 부서지는 순간에도 끝까지 싸우다 죽었다! 그리고 내 동료들도.. <br> 네 놈이 내 마음을 아나? 부숴버리겠어.. 불사군단의 모든 것을!" />
+	<block key="Dialog_4000200_Title" korean="하티" />
+	<block key="Dialog_4000200_Text0" korean="이 곳은 좀 혼란스러운 곳이에요. 우리집에선 상스러운 말을 쓰는 사람도 없었고, 피에 물든 사람도 없었거든요. 난 그냥 페가수스를 타고 싶어서 기사단에 들어온거라 잘 이해가 안 되네요." />
+	<block key="Dialog_4000210_Title" korean="로빈슨" />
+	<block key="Dialog_4000210_Text0" korean="천사라고 한다면 보통 4대 주신이 만든 신의 병기를 의미합니다. 그런데 이상하게도 사료가 거의 남아 있질 않아요. 단순한 병기가 아니었을수도 있습니다. 이 곳에 온 것도 그걸 확인하기 위해서지요." />
+	<block key="Dialog_4000220_Title" korean="시아스" />
+	<block key="Dialog_4000220_Text0" korean="아..에롤님. 에롤님의 품에 한 번만이라도 안기고 싶어요. 에롤님을 보고 싶어서 이 곳에 왔어요. 에롤님은 하카나스 수도성에서도 유명한 미남이셨답니다." />
+	<block key="Dialog_4000230_Title" korean="페릭" />
+	<block key="Dialog_4000230_Text0" korean="전 정말 운이 좋은 것 같습니다! 이 베테랑 기사님들과 함께 전투하고 배워나갈 수 있다니!" />
+	<block key="Dialog_4000240_Title" korean="이사크" />
+	<block key="Dialog_4000240_Text0" korean="……" />
+	<block key="Dialog_4000250_Title" korean="에우비츠" />
+	<block key="Dialog_4000250_Text0" korean="아주 오랜 세월, 엘프들은 빛을 지키기 위해 노력해왔소. 하지만 빛의 뒤에는 그림자가 있는 법. 빛을 지키기 위해서는 그림자도 지켜야 한다는 것이 내 생각이오." />
+	<block key="Dialog_4000250_Answer_3_Text" korean="빛의 동맹" />
+	<block key="Dialog_4000250_Answer_4_Text" korean="동맹의 비밀" />
+	<block key="Dialog_4000260_Title" korean="사일런" />
+	<block key="Dialog_4000260_Text0" korean="긴 시간동안 나는 저 사악한 불사군단과 싸워 왔습니다. 악에 굴복해 변해가는 동료들을 눈물을 머금고 처리하면서까지 나는 무엇을 지키려 했던 것일까요.." />
+	<block key="Dialog_4000260_Answer_3_Text" korean="빛의 동맹" />
+	<block key="Dialog_4000270_Title" korean="훈에르" />
+	<block key="Dialog_4000270_Text0" korean="그 치열한 전투를 기억하는가? 내일이 오면 새 삶이 시작될거라고 믿었었지. 나는 아직 그 전장에 서 있고, 내일은 오지 않았다네!" />
+	<block key="Dialog_4000270_Answer_3_Text" korean="빛의 동맹" />
+	<block key="Dialog_4000280_Title" korean="라라" />
+	<block key="Dialog_4000280_Text0" korean="어라? 엇디 시간의 틈에 들어왔수링? 빛의 동맹은 여전히 굳건하니 당신이 도와준다면 수이 적 물리칠 수 있샤링. <br> 어라? 내 모습이 인간? 어라?" />
+	<block key="Dialog_4000290_Title" korean="저스맥" />
+	<block key="Dialog_4000290_Text0" korean="내가 왕년에는 페가수스 기사단이었는데 말이야.. 지금은 워낙 몸이 무거워져서 말이야. 영 힘들단 말이야. 그래서 보급대에 자원한거란 말이야." />
+	<block key="Dialog_4000290_Answer_1_Text" korean="방어구 상점" />
+	<block key="Dialog_4000300_Title" korean="아르키" />
+	<block key="Dialog_4000300_Text0" korean="어서오세요. 꼭 필요한 물건만 들여놓았으니 천천히 구경하고 가세요. 저렴한 가격에 모실게요!" />
+	<block key="Dialog_4000300_Answer_0_Text" korean="방어구 상점" />
+	<block key="Dialog_4000310_Title" korean="믈렉" />
+	<block key="Dialog_4000310_Text0" korean="내가 나이를 먹긴 했어도 아직 정신도 또렷하고 마법도 쓸 수 있다네. 이 곳에서 수상한 일이 일어난다는 정보를 듣고 내가 직접 지원했지. 아직 어린 놈들이 따라오려면 한참 멀었어!" />
+	<block key="Dialog_4000320_Title" korean="쿠아노마르" />
+	<block key="Dialog_4000320_Text0" korean="아이고 안녕하십니까. 저는 펠로우를 아~주 사랑하죠. 그 중에서도 거대한 펠로우를요. 그들은 정말 값이.. 아니 가치 있는 펠로우들이에요." />
+	<block key="Dialog_4000330_Title" korean="벨라커" />
+	<block key="Dialog_4000330_Text0" korean="펠로우와 함께 살아가는 세상을 만들고 있습니다. 단순한 운송수단이 아니라 나와 더불어 살아가는 펠로우들. 그들을 보면 경이롭다는 생각이 들지 않으세요?" />
+	<block key="Dialog_4000340_Title" korean="레미너" />
+	<block key="Dialog_4000340_Text0" korean="거기 뭐야? 펠로우들이 다치니까 이 근처에서는 조심해서 다녀야 할거야. 펠로우 중에서는 뭐가 좋은 놈이고 나쁜 놈인지 구별 못하는 애들도 있으니까." />
+	<block key="Dialog_4000350_Title" korean="나스" />
+	<block key="Dialog_4000350_Text0" korean="차가운 죽음의 숨결이 느껴지는가? 심장을 꿰뚫을 검은 낫의 노래소리지." />
+	<block key="Dialog_4000360_Title" korean="즈메우" />
+	<block key="Dialog_4000360_Text0" korean="자네는 공주의 호위기사인가. 여신도 마신도 떠나간 땅에서 나는 오랜 세월 이 곳을 지켜왔다네." />
+	<block key="Dialog_4000370_Title" korean="기블리" />
+	<block key="Dialog_4000370_Text0" korean="어서오십쇼! 이야, 멋진 옷이시네요. 역시 멋진 분이 들고다니시는 무기는 뭐가 달라도 다릅니다. 하지만 말이죠, 이 쪽 무기 한 번 보시겠습니까?" />
+	<block key="Dialog_4000380_Title" korean="에스티" />
+	<block key="Dialog_4000380_Text0" korean="뭐야, 당신은? 내 물건을 살 돈이나 있겠어? 구경하는 건 맘대로지만 만지는 건 피해줬으면 해. 물건 값이 떨어지니까." />
+	<block key="Dialog_4000390_Title" korean="제룩스" />
+	<block key="Dialog_4000390_Text0" korean="날씨 좋군. 빨갛고 파란 날씨야. 세상은 넓고, 보물은 참으로 많소. 내 이름은 제룩스. 나의 모험에 참가해볼 생각은 없소? 내 이름을 못 들어봤다면 지금까지 매우 심심하고 지루한 삶을 살아왔을 가능성이 높을 것 같은데 말이오." />
+	<block key="Dialog_4000390_Text0_attach_0" korean="내가 여행한 곳만 해도 하카나스 수도성, 파르나의 땅, 엘로라 성역, 검은손 협곡, 마그마포라, 투림란 계곡, 아크라트 초원, 불사의 사막까지 하카나스 전 지역은 물론이고 이계도 갔다올 뻔 했다오. 어떻게 이계에 가냐고 물었소?" />
+	<block key="Dialog_4000390_Text0_attach_1" korean="그거야 수호신룡 젤나리스와 함께 아니겠소. 젤나리스를 만나본 적이 없다구? 그러니까… 이야기가 길어지겠구려. 그러니까 나의 모험에 참가해 볼 생각, 정말 없소?" />
+	<block key="Dialog_4000400_Title" korean="리코" />
+	<block key="Dialog_4000400_Text0" korean="안녕하신가. 우리 모험왕은 만나 봤나? 유쾌하고.. 유쾌하고.. 유쾌한 사람이지. 젠장, 다른 좋은 점은 없는건가?" />
+	<block key="Dialog_4000410_Title" korean="휴넷" />
+	<block key="Dialog_4000410_Text0" korean="쉿. 나는 언젠가 제룩스의 목을 가져갈 남자. 위대한 모험왕 휴넷이다. 이 사실을 제룩스에게는 절대 알리면 안돼." />
+	<block key="Dialog_4000420_Title" korean="잉크" />
+	<block key="Dialog_4000420_Text0" korean="어느새 소식을 듣고 찾아왔나보네! 그래, 이 몸이야. 이 몸이 세계 최고의 요리사 잉크님이시다. 맛있는 음식을 찾고 있었다면 정말 제대로 찾아온거야!" />
+	<block key="Dialog_4000430_Title" korean="아쿨" />
+	<block key="Dialog_4000430_Text0" korean="누구냐! 정체를 밝혀라." />
+	<block key="Dialog_4000430_Text1" korean="불사의 사막에서 공주님의 흔적이 발견됐다는 전갈이 왔다. 이제 공주님을 구해낼 날도 멀지 않았어!<br>자네에겐 단서를 추적 중이니 정확한 내용을 파악할 때까지 공역의 안정을 도우며, 이곳에서 대기하라는 명이 떨어졌다. 소식이 도착하면 또 연락하지." />
+	<block key="Dialog_4000440_Title" korean="콘라드" />
+	<block key="Dialog_4000440_Text0" korean="없는게 없어요!" />
+	<block key="Dialog_4000440_Answer_0_Text" korean="잡화 상점" />
+	<block key="Dialog_4000450_Title" korean="제라드" />
+	<block key="Dialog_4000450_Text0" korean="최상의 방어구들이 있습니다." />
+	<block key="Dialog_4000450_Answer_0_Text" korean="방어구 상점" />
+	<block key="Dialog_4000460_Title" korean="엘레나" />
+	<block key="Dialog_4000460_Text0" korean="한번 보고 가세요. 필요한 물건이 있을걸요?" />
+	<block key="Dialog_4000460_Answer_0_Text" korean="잡화 상점" />
+	<block key="Dialog_4000470_Title" korean="제니스" />
+	<block key="Dialog_4000470_Text0" korean="싸게싸게 드릴게요!" />
+	<block key="Dialog_4000470_Answer_0_Text" korean="잡화 상점" />
+	<block key="Dialog_4000480_Title" korean="마이스" />
+	<block key="Dialog_4000480_Text0" korean="상점 물건이라고 무시하시다간 큰코 다칩니다!" />
+	<block key="Dialog_4000480_Answer_0_Text" korean="무기 상점" />
+	<block key="Dialog_3050813_Title" korean="틸레트" />
+	<block key="Dialog_3050813_Text0" korean="선장님은 바쁠테니 나에게 부탁하면 수도성으로 보내주겠네." />
+	<block key="dialog_3050813_answer_1_text" korean="떠날 준비가 되었습니다." />
+	<block key="dialog_3050813_answer_2_text" korean="하카나스 수도성으로 떠나기" />
+	<block key="Dialog_4000490_Title" korean="카" />
+	<block key="Dialog_4000490_Text0" korean="선장은 날 이런데 보내놓고 자긴 무섭다고 오지도 않고.. 에휴. 그런데 이 소용돌이.. 쉽게 잦아들 것 같지 않은데요?" />
+	<block key="Dialog_4000111_Title" korean="나르티아" />
+	<block key="Dialog_4000111_Text0" korean="엑자란 시대의 고어를 해석하기 위해 파견된 수석연구원 나르티아에요. 반가워요." />
+	<block key="Dialog_4000112_Title" korean="베어그린스" />
+	<block key="Dialog_4000112_Text0" korean="이 지역의 하이에버드들… 아주 중요한 단백질 공급원이죠. 멀리 도망가지 못했을겁니다." />
+	<block key="Dialog_4000113_Title" korean="레이디 올리비에" />
+	<block key="Dialog_4000113_Text0" korean="뭘 그리 놀라느냐? 환영이라도 본 것이냐? <br>
+내가 마법사인것을 잊은 것 같구나. 나는 어디라도 쉽게 이동할 수 있느니라. 호호호!" />
+	<block key="Dialog_4000114_Title" korean="대지의 기억 조각" />
+	<block key="Dialog_4000114_Text0" korean="젤나리스의 편에 서 있던 드래곤들은 강대한 힘을 과시했으나, 엘로라의 힘과 젤나리스의 힘이 부딪히던 대공명의 순간 - <br>
+대지에 파묻혀 영원히 다시 날아오르지 못했다. <br>
+마력의 공명은 그대로 유지되어야 한다. 공명이 흔들리면, 드래곤은 다시 날개를 펼칠 것이다." />
+	<block key="Dialog_4000115_Title" korean="창공의 기억 조각" />
+	<block key="Dialog_4000115_Text0" korean="저 검은 하늘을 뒤덮은 젤나리스의 기운을 보았는가?<br>
+젤나리스의 영역에 들어가지 마라.  젤나리스의 기운은 펠로우를 불타오르게 만들 것이다. <br>
+그 위에 무엇이 있는지는 아무도 모른다. 그 누구도 젤나리스의 영역에 진입할 수 없었다. <br>
+절대 젤나리스의 영역에 대해 궁금해하지도, 알려고 하지도 말라. <br>" />
+	<block key="Dialog_4000116_Title" korean="여신의 기억 조각" />
+	<block key="Dialog_4000116_Text0" korean="한 때 가장 커다란 엘로라 여신의 신전이었던 트라이트얼은 철저하게 파괴되었다. <br>
+엘로라의 기운은 엘로라 여신이 멸망의 공역에 남기고 간 마지막 축복. <br>
+엘로라의 힘을 무시한다면 공역에서 온전히 살아남을 수 없으리라." />
+	<block key="Dialog_4000117_Title" korean="해안의 기억 조각" />
+	<block key="Dialog_4000117_Text0" korean="공역은 매우 불안정한 두 가지 힘에 의해 떠 받쳐져 있으며 원래 땅이 있던 곳은 바다가 되니 사람들은 이 거친 바다를 프레야해로 불리게 되었다. <br>
+프레야해는 대공명 때 죽은 빛의 동맹과 마물들의 시체로 완전히 오염되었다. 바다에 빠진다면 순식간에 목숨을 잃게 될 것이다. <br>
+어째서 이 위험한 바다로 들어오려 하는가?" />
+	<block key="Dialog_4000118_Title" korean="봉인된 기억 조각" />
+	<block key="Dialog_4000118_Text0" korean="알아볼 수 없는 글씨가 새겨져 있다. 무슨 말인지 확인할 수가 없다.<br>" />
+	<block key="Dialog_4000119_Title" korean="빛의 동맹" />
+	<block key="Dialog_4000119_Text0" korean="우리는 트라이트얼이 하늘로 떠오를 때 이 세계에 갇혔지. 동료는 남아 있지 않지만 같이 싸우던 전우들은 남아 있었다. 그들이 여기 있는 인간과 크로쿤들이야!" />
+	<block key="Dialog_4000123_Title" korean="빛의 동맹" />
+	<block key="Dialog_4000123_Text0" korean="지금은 이렇지만 트라이트얼은 아름다운 도시였습니다. 나는 선을 수호하고 악을 처단하는 트라이블루 교육단의 교관이었습니다. 하늘에서 날아온 불사악마들에게 영혼을 빼앗긴 사람에게 신의 이름으로 처단했었습니다." />
+	<block key="Dialog_4000123_Text0_attach_0" korean="<br>왜 하늘은 항상 선한 자를 먼저 데려가는 것일까요. 아름다운 도시 트라이트얼에 빛의 동맹이 모였을 때는 정말 아름다웠는데. 이제 동맹은 이름만 남았고 운 좋은 몇몇만 남아 이렇게 트라이트얼을 지키고 있습니다." />
+	<block key="Dialog_4000121_Title" korean="빛의 동맹의 비밀" />
+	<block key="Dialog_4000121_Text0" korean="빛의 동맹에는 비밀이 있었소. 그들은 아주 타락해있었고 질서도 체계도 없었소. 사람들은 빛의 동맹을 마냥 완벽한 집단으로 알고 있지만 그렇지 않았지. <br>
+난 이 곳에서 오랜 시간을 보내면서 빛도 어둠도 사실은 다 한 가지인 것이 아닌가 생각한다오." />
+	<block key="Dialog_4000122_Title" korean="빛의 동맹" />
+	<block key="Dialog_4000122_Text0" korean="애석하게도 트라이트얼은 오랜 시간 젤나리스의 기운과 엘로라 여신의 기운이 맞부딪혀 많은 사람들이 타락해왔소. 어쩌면 지금 나도…" />
+	<block key="Dialog_4000490_Answer_3_Text" korean="멸망의 포식자 즈메우" />
+	<block key="Dialog_4000500_Title" korean="멸망의 포식자 즈메우" />
+	<block key="Dialog_4000500_Text0" korean="혹시 보셨습니까? 그 크고 거대한 놈.. 즈메우를 말입니다! 멸망의 공역에 있는 생명체는 닥치는대로 집어삼키는 녀석이죠. 혼자서는 어림도 없고, 한 백 명은 모아와야 상대가 되지 않을까 싶은데요! 하긴 누가 저 무지막지한 녀석에게 도전하겠습니까." />
+	<block key="Dialog_3040804_Title" korean="포탈이동사 벨라루크" />
+	<block key="Dialog_3040804_Text0" korean="멸망의 공역은 워낙 넓기 때문에 포탈을 잘 이용하셔야 합니다. 이런 곳 일수록 저희 포탈 이동사들이 더 보람있게 일 할 수 있답니다. 어디로 보내드릴까요?" />
+	<block key="Dialog_3040804_Answer_0_Text" korean="포탈 이동하기" />
+	<block key="Dialog_3040805_Title" korean="포탈이동사 아주르" />
+	<block key="Dialog_3040805_Text0" korean="저희들 외에 상급 포탈이동사들은 더 먼 장소까지 순식간에 이동시켜줄 수 있는 굉장한 능력이 있답니다. 물론, 그러기 위해서 더 강한 마력이 필요하지만 말입니다. 그리고 숫자도 많지 않아서 큰 거점에만 한 명씩 배치되어 있지요. 멸망의 공역에는 고공 정찰캠프에 가시면 만날 수 있을 겁니다." />
+	<block key="Dialog_3040805_Answer_0_Text" korean="포탈 이동하기" />
+	<block key="Dialog_2020400_Title" korean="휘몰아치는 바다 게시판" />
+	<block key="Dialog_2020400_Text0" korean="정당한 이유 없이 국왕 론 프레인 3세의 이름으로 걸린 게시물을 훼손 또는 철거할 경우 하카나스 왕령에 의해 처벌받을 수 있습니다." />
+	<block key="Dialog_2020401_Title" korean="탐욕의 바다 게시판" />
+	<block key="Dialog_2020401_Text0" korean="정당한 이유 없이 국왕 론 프레인 3세의 이름으로 걸린 게시물을 훼손 또는 철거할 경우 하카나스 왕령에 의해 처벌받을 수 있습니다." />
+	<block key="Dialog_2020402_Title" korean="여신의 석상 게시판" />
+	<block key="Dialog_2020402_Text0" korean="정당한 이유 없이 국왕 론 프레인 3세의 이름으로 걸린 게시물을 훼손 또는 철거할 경우 하카나스 왕령에 의해 처벌받을 수 있습니다." />
+	<block key="Dialog_2020403_Title" korean="제이든<페가수스 기사단원>" />
+	<block key="Dialog_2020403_Text0" korean="에롤 단장님의 명령으로 암흑룡의 안식처의 전황을 살피러 왔다. 불사군단과 서리군단 패잔병의 기습으로, 이곳에 파견된 페가수스 기사단 중 로한만 살아남았더군...<br>안타까운 일이야... 하지만 에롤 단장님께서 페가수스 기사단의 명예를 걸고, 반드시 그들에게 피의 복수를 해주실 거다!" />
+	<block key="Dialog_2020404_Title" korean="로한<페가수스 기사단원>" />
+	<block key="Dialog_2020404_Text0" korean="불사군단과 연합한 서리군단 패잔병들에게 동료를 모두 잃었어...<br>서리군단 놈들! 내가 반드시 단 한놈도 살아서 암흑룡의 안식처를 벗어나지 못하도록 해주겠어...!" />
+	<block key="Dialog_3600013_Title" korean="공역의 틈새 라비니 바니라" />
+	<block key="Dialog_3600013_Text0" korean="여행자냥? 우리 초승달 상단은 각 지역에 파견되어 여행자에게 필요한 물건을 공급하고 있당.<br>난 일반적인 물건을 거래하지 않는당.<br><br>나와 거래하고 싶으면 특별한 주화가 필요하당.<br>그 주화가 생기면 언제든 날 찾아와랑!<br>좋은 물건과 바꿔주겠당!" />
+	<block key="Dialog_3600013_Answer_0_Text" korean="라비니 상점" />
+	<block key="Dialog_1430005_Title" korean="로이드<페가수스 기사단원>" />
+	<block key="Dialog_1430005_Text0" korean="제 임무는 불사군단을 지휘하는 이즈호라와 그가 되살려낸 수하들이 이곳에서 어떤 일을 벌이는지 감시하는 일입니다.<br><br>놈들이 당장이라도 뛰쳐나올까봐 무섭지만 페가수스 기사단원으로서의 자부심으로 버티고 있습니다." />
+	<block key="Dialog_1430006_Title" korean="마르카<페가수스 기사단원>" />
+	<block key="Dialog_1430006_Text0" korean="불사군단 녀석들이 강하다, 강하다 하는데 그건 지들끼리 있을때 그런 거고 우리 페가수스 기사단 앞에서는 상대나 되겠어?<br>불사군단이고 불멸군단이고 나타나기만 하면 한방에 콱! 끝! 무슨 말인지 알아들었지?" />
+	<block key="Dialog_1430007_Title" korean="파울로<연금술사>" />
+	<block key="Dialog_1430007_Text0" korean="연금술은 무에서 유를 창조하는 게 아니야. 연금술은 말이지, 이 세계를 이루는 다양한 원소를 제 조합하여 더욱 강한 성능을 내거나 새로운 물질로 변환하는 거야!<br><br>무에서 유를 창조할 수 있는 건 신의 영역 아니겠어?" />
+	<block key="Dialog_2020345_Title" korean="암흑룡의 안식처 게시판" />
+	<block key="Dialog_2020345_Text0" korean="정당한 이유 없이 국왕 론 프레인 3세의 이름으로 걸린 게시물을 훼손 또는 철거할 경우 하카나스 왕령에 의해 처벌받을 수 있습니다." />
+	<block key="Dialog_1430008_Title" korean="신스 메이어<멸망의 공역>" />
+	<block key="Dialog_1430008_Text0" korean="멸망의 공역은 현재 섀도우 클랜의 주된 임무 현장은 아닙니다. 하지만 소홀히 할 수 없는 장소이기도 하지요.<br><br>세계 각지의 정보를 모으고 선별하여 왕국의 미래에 위협이 되는 요소를 제거하는 일이야 말로 우리가 해야할 일입니다." />
+	<block key="Dialog_1430009_Title" korean="비하인드<멸망의 공역>" />
+	<block key="Dialog_1430009_Text0" korean="단장으로부터 특별 지령을 받고 여기서 대기중에 있습니다.<br><br>당신의 공적에 대해서 모르는 바는 아닙니다. 하지만 단장으로부터의 지령에 대해서는 말씀드릴 수 없습니다." />
+	<block key="Dialog_9015594_Title" korean="공역의 틈새로 가는 방법" />
+	<block key="Dialog_9015594_Text0" korean="상공 1000m 부근에 위치한 공역의 틈새로 가기 위해선 세 가지 방법이 있다네.<br>첫 번째로는 높은 고도에서도 비행이 가능한 영웅 등급의 펠로우나, 다인탑승이 가능한 공허의 레토른시아를 길들여 타고 가는 방법.<br>두 번째로는 임무 수행으로 구할 수 있는 이동주문서를 통해 가는 방법.<br>세 번째로는 750m 상공에 있는 포탈 이동장치를 통해 이동하는 방법이 있지. 어떤 방법을 통해 공역의 틈새로 가는 것이 좋을지는 판단에 맡기겠네." />
+	<block key="Dialog_4000511_Title" korean="록킨" />
+	<block key="Dialog_4000511_Text0" korean="수련의 첫번째는 자신에게 맞는 좋은 무기를 사는 거지.<br>무기는 많이 있으니 한번 천천히 골라보라구." />
+	<block key="Dialog_4000511_Answer_0_Text" korean="무기 상점" />
+	<block key="Dialog_2020346_Title" korean="파괴된 해안 게시판" />
+	<block key="Dialog_2020346_Text0" korean="정당한 이유 없이 국왕 론 프레인 3세의 이름으로 걸린 게시물을 훼손 또는 철거할 경우 하카나스 왕령에 의해 처벌받을 수 있습니다." />
+	<block key="Dialog_4000512_Title" korean="릴리안" />
+	<block key="Dialog_4000512_Text0" korean="섬을 떠돌아다니는 영혼들의 울음소리가 들리나요? 젤나리스의 기운에 타락하기 전 그들 역시 선량한 인간이었답니다." />
+	<block key="Dialog_4000513_Title" korean="스파이크" />
+	<block key="Dialog_4000513_Text0" korean="저는 페가수스 기사단 정예대원입니다! 검만 잃어버리지 않았어도... 유령거미 저 징그러운 놈들을 모조리 단칼에 죽여버렸을 거라구요!" />
+	<block key="Dialog_3600014_Title" korean="라비니 로이닝" />
+	<block key="Dialog_3600014_Text0" korean="반갑당! 우리 초승달 상단은 각 지역에 파견되어 여행자에게 필요한 물건을 공급하고 있당.<br>난 특별히 라비니 동화를 은화로 바꿔주기도 한다냥<br>동화를 많이 가지고 있다면 나한테 가져와랑!<br>내가 은화와 바꿔주겠당!" />
+	<block key="Dialog_3600014_Answer_0_Text" korean="잡화 상점" />
+	<block key="Dialog_3600015_Title" korean="라비니 푸로링" />
+	<block key="Dialog_3600015_Text0" korean="반갑당! 내 이름은 라비니 푸로링이당! 후후, 나는 다른 라비니 상점들과는 다른 물품을 준당.<br>나에게 주화를 가져오면 귀속해제 아이템과 봉인추출 아이템으로 교환해주겠당!<br>나와 거래하고 싶다면 언제든 라비니 은화를 가져와랑!" />
+	<block key="Dialog_3600015_Answer_0_Text" korean="잡화 상점" />
+</blocks>

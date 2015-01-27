@@ -1,0 +1,327 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="E_01_0_0001_0000_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0001_0000_NameDetail" korean="" />
+	<block key="E_01_0_0002_0000_Name" korean="라이노 전투병" />
+	<block key="E_01_0_0002_0000_NameDetail" korean="" />
+	<block key="E_02_1_0007_0000_Name" korean="회색 늑대" />
+	<block key="E_02_1_0007_0000_NameDetail" korean="" />
+	<block key="E_02_1_0007_0001_Name" korean="사나운 회색 늑대" />
+	<block key="E_02_1_0007_0001_NameDetail" korean="" />
+	<block key="E_02_1_0007_0002_Name" korean="사나운 회색 늑대" />
+	<block key="E_02_1_0007_0002_NameDetail" korean="" />
+	<block key="E_02_4_0008_0000_Name" korean="나무 요정" />
+	<block key="E_02_4_0008_0000_NameDetail" korean="" />
+	<block key="E_02_1_0010_0000_Name" korean="갈기 멧돼지" />
+	<block key="E_02_1_0010_0000_NameDetail" korean="" />
+	<block key="E_02_1_0010_0001_Name" korean="갈기 멧돼지" />
+	<block key="E_02_1_0010_0001_NameDetail" korean="" />
+	<block key="E_02_1_0011_0000_Name" korean="거친갈기 멧돼지" />
+	<block key="E_02_1_0011_0000_NameDetail" korean="" />
+	<block key="E_02_1_0011_0001_Name" korean="거친갈기 멧돼지" />
+	<block key="E_02_1_0011_0001_NameDetail" korean="" />
+	<block key="E_02_1_0011_0002_Name" korean="큰어금니 멧돼지" />
+	<block key="E_02_1_0011_0002_NameDetail" korean="" />
+	<block key="E_02_0_0012_0000_Name" korean="브라기 정찰병" />
+	<block key="E_02_0_0012_0000_NameDetail" korean="" />
+	<block key="E_02_0_0016_0000_Name" korean="브라기 일꾼" />
+	<block key="E_02_0_0016_0000_NameDetail" korean="" />
+	<block key="E_02_0_0017_0000_Name" korean="브라기 전투병" />
+	<block key="E_02_0_0017_0000_NameDetail" korean="" />
+	<block key="E_02_0_0018_0000_Name" korean="브라기 본거지 사냥꾼" />
+	<block key="E_02_0_0018_0000_NameDetail" korean="" />
+	<block key="E_02_0_0021_0000_Name" korean="브라기 본거지 샤먼" />
+	<block key="E_02_0_0021_0000_NameDetail" korean="" />
+	<block key="E_02_1_0030_0000_Name" korean="성난 멧돼지" />
+	<block key="E_02_1_0030_0000_NameDetail" korean="" />
+	<block key="E_02_0_0032_0000_Name" korean="브라기 야수 조련사" />
+	<block key="E_02_0_0032_0000_NameDetail" korean="" />
+	<block key="E_01_0_0007_0000_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0007_0000_NameDetail" korean="" />
+	<block key="E_01_0_0008_0000_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0008_0000_NameDetail" korean="" />
+	<block key="E_01_0_0009_0000_Name" korean="라이노 전투병" />
+	<block key="E_01_0_0009_0000_NameDetail" korean="" />
+	<block key="E_02_0_0036_0000_Name" korean="브라기 일꾼" />
+	<block key="E_02_0_0036_0000_NameDetail" korean="" />
+	<block key="E_02_0_0037_0000_Name" korean="브라기 일꾼" />
+	<block key="E_02_0_0037_0000_NameDetail" korean="" />
+	<block key="E_02_0_0040_0000_Name" korean="브라기 약탈 용사" />
+	<block key="E_02_0_0040_0000_NameDetail" korean="" />
+	<block key="E_02_0_0041_0000_Name" korean="브라기 본거지 고위 샤먼" />
+	<block key="E_02_0_0041_0000_NameDetail" korean="" />
+	<block key="E_02_0_0042_0000_Name" korean="브라기 본거지 용사" />
+	<block key="E_02_0_0042_0000_NameDetail" korean="" />
+	<block key="E_02_0_0043_0000_Name" korean="브라기 일꾼" />
+	<block key="E_02_0_0043_0000_NameDetail" korean="" />
+	<block key="E_02_0_0044_0000_Name" korean="브라기 일꾼" />
+	<block key="E_02_0_0044_0000_NameDetail" korean="" />
+	<block key="E_02_0_0045_0000_Name" korean="브라기 일꾼" />
+	<block key="E_02_0_0045_0000_NameDetail" korean="" />
+	<block key="E_02_0_0046_0000_Name" korean="브라기 전투병" />
+	<block key="E_02_0_0046_0000_NameDetail" korean="" />
+	<block key="E_02_0_0016_0001_Name" korean="브라기 일꾼" />
+	<block key="E_02_0_0016_0001_NameDetail" korean="" />
+	<block key="E_01_4_0637_0000_Name" korean="간수장 렉스" />
+	<block key="E_01_4_0637_0000_NameDetail" korean="" />
+	<block key="E_02_0_1022_0000_Name" korean="브라기 감독관" />
+	<block key="E_02_0_1022_0000_NameDetail" korean="" />
+	<block key="E_02_0_0644_0000_Name" korean="고대 유적지 유령" />
+	<block key="E_02_0_0644_0000_NameDetail" korean="" />
+	<block key="E_02_0_0012_0001_Name" korean="브라기 정찰병" />
+	<block key="E_02_0_0012_0001_NameDetail" korean="" />
+	<block key="E_02_0_0661_0000_Name" korean="브라기 침투조장" />
+	<block key="E_02_0_0661_0000_NameDetail" korean="" />
+	<block key="E_02_0_0017_0002_Name" korean="브라기 전투병" />
+	<block key="E_02_0_0017_0002_NameDetail" korean="" />
+	<block key="E_02_0_0653_0000_Name" korean="흡광초" />
+	<block key="E_02_0_0653_0000_NameDetail" korean="" />
+	<block key="E_02_0_0654_0000_Name" korean="광채 나무 요정" />
+	<block key="E_02_0_0654_0000_NameDetail" korean="" />
+	<block key="E_02_0_0654_0001_Name" korean="광채 나무 요정" />
+	<block key="E_02_0_0654_0001_NameDetail" korean="" />
+	<block key="E_02_0_0655_0000_Name" korean="요정 여왕 엘퀴네스" />
+	<block key="E_02_0_0655_0000_NameDetail" korean="" />
+	<block key="E_02_0_0656_0000_Name" korean="고대 유적지 관리자" />
+	<block key="E_02_0_0656_0000_NameDetail" korean="" />
+	<block key="E_02_0_0657_0000_Name" korean="브라기 채집꾼" />
+	<block key="E_02_0_0657_0000_NameDetail" korean="" />
+	<block key="E_02_0_0658_0000_Name" korean="브라기 본거지 전투병" />
+	<block key="E_02_0_0658_0000_NameDetail" korean="" />
+	<block key="E_02_0_0658_0001_Name" korean="브라기 본거지 전투병" />
+	<block key="E_02_0_0658_0001_NameDetail" korean="" />
+	<block key="E_02_0_0659_0000_Name" korean="브라기 족장" />
+	<block key="E_02_0_0659_0000_NameDetail" korean="" />
+	<block key="E_02_0_0660_0000_Name" korean="차가운 크리스탈의 정령" />
+	<block key="E_02_0_0660_0000_NameDetail" korean="" />
+	<block key="E_02_1_0007_0003_Name" korean="유적지 회색 늑대" />
+	<block key="E_02_1_0007_0003_NameDetail" korean="" />
+	<block key="E_02_0_0021_0001_Name" korean="브라기 샤먼" />
+	<block key="E_02_0_0021_0001_NameDetail" korean="" />
+	<block key="E_02_0_0661_0001_Name" korean="브라기 침투병" />
+	<block key="E_02_0_0661_0001_NameDetail" korean="" />
+	<block key="E_02_0_0662_0000_Name" korean="브라기 본거지 채집꾼" />
+	<block key="E_02_0_0662_0000_NameDetail" korean="" />
+	<block key="E_02_1_0344_0000_Name" korean="유적지 갈색 여우" />
+	<block key="E_02_1_0344_0000_NameDetail" korean="" />
+	<block key="E_02_0_0033_0001_Name" korean="브라기 일꾼" />
+	<block key="E_02_0_0033_0001_NameDetail" korean="" />
+	<block key="E_02_0_0036_0001_Name" korean="브라기 일꾼" />
+	<block key="E_02_0_0036_0001_NameDetail" korean="" />
+	<block key="E_02_0_0037_0001_Name" korean="브라기 일꾼" />
+	<block key="E_02_0_0037_0001_NameDetail" korean="" />
+	<block key="E_02_0_0045_0001_Name" korean="브라기 일꾼" />
+	<block key="E_02_0_0045_0001_NameDetail" korean="" />
+	<block key="E_02_0_0607_0000_Name" korean="새끼 멧돼지" />
+	<block key="E_02_0_0607_0000_NameDetail" korean="" />
+	<block key="E_02_0_0012_0002_Name" korean="브라기 정찰병" />
+	<block key="E_02_0_0012_0002_NameDetail" korean="" />
+	<block key="E_02_5_0001_0002_Name" korean="브라기 석궁" />
+	<block key="E_02_5_0001_0002_NameDetail" korean="" />
+	<block key="E_02_0_0043_0001_Name" korean="브라기 석궁 관리병" />
+	<block key="E_02_0_0043_0001_NameDetail" korean="" />
+	<block key="E_02_0_0654_0002_Name" korean="사나운 나무 요정" />
+	<block key="E_02_0_0654_0002_NameDetail" korean="" />
+	<block key="E_02_0_0045_0002_Name" korean="브라기 본거지 일꾼" />
+	<block key="E_02_0_0045_0002_NameDetail" korean="" />
+	<block key="E_02_0_0662_0001_Name" korean="브라기 본거지 채집꾼" />
+	<block key="E_02_0_0662_0001_NameDetail" korean="" />
+	<block key="E_02_0_0044_0001_Name" korean="브라기 본거지 일꾼" />
+	<block key="E_02_0_0044_0001_NameDetail" korean="" />
+	<block key="E_02_0_0043_0002_Name" korean="브라기 본거지 일꾼" />
+	<block key="E_02_0_0043_0002_NameDetail" korean="" />
+	<block key="E_02_0_0658_0002_Name" korean="브라기 친위병" />
+	<block key="E_02_0_0658_0002_NameDetail" korean="" />
+	<block key="E_50_0_0666_0000_Name" korean="그을린 해골 병사" />
+	<block key="E_50_0_0666_0000_NameDetail" korean="" />
+	<block key="E_50_0_0666_0001_Name" korean="그을린 해골 병사" />
+	<block key="E_50_0_0666_0001_NameDetail" korean="" />
+	<block key="E_50_0_0667_0000_Name" korean="그을린 해골 기사" />
+	<block key="E_50_0_0667_0000_NameDetail" korean="" />
+	<block key="E_50_0_0667_0001_Name" korean="그을린 해골 기사" />
+	<block key="E_50_0_0667_0001_NameDetail" korean="" />
+	<block key="E_50_0_0718_0000_Name" korean="그을린 해골 궁병" />
+	<block key="E_50_0_0718_0000_NameDetail" korean="" />
+	<block key="E_50_0_0613_0000_Name" korean="화염 바위 경비병" />
+	<block key="E_50_0_0613_0000_NameDetail" korean="" />
+	<block key="E_50_0_0650_0000_Name" korean="화염 폭탄 바위" />
+	<block key="E_50_0_0650_0000_NameDetail" korean="" />
+	<block key="E_50_0_0648_0000_Name" korean="고대의 화염 골렘" />
+	<block key="E_50_0_0648_0000_NameDetail" korean="" />
+	<block key="E_02_1_0344_0001_Name" korean="붉은 여우" />
+	<block key="E_02_1_0344_0001_NameDetail" korean="" />
+	<block key="E_02_0_0309_0000_Name" korean="식인 늑대 프릿샤" />
+	<block key="E_02_0_0309_0000_NameDetail" korean="" />
+	<block key="E_02_0_0309_0001_Name" korean="암컷 프니샤" />
+	<block key="E_02_0_0309_0001_NameDetail" korean="늑대 우두머리" />
+	<block key="E_02_0_0309_0002_Name" korean="우두머리 회색늑대" />
+	<block key="E_02_0_0309_0002_NameDetail" korean="" />
+	<block key="E_02_0_0676_0000_Name" korean="유령 거미" />
+	<block key="E_02_0_0676_0000_NameDetail" korean="" />
+	<block key="E_02_0_0676_0001_Name" korean="거대거미 타슬란" />
+	<block key="E_02_0_0676_0001_NameDetail" korean="" />
+	<block key="E_02_0_0676_0002_Name" korean="유적지 타란툴라" />
+	<block key="E_02_0_0676_0002_NameDetail" korean="" />
+	<block key="E_01_5_0001_0000_Name" korean="간수장 지배석" />
+	<block key="E_01_5_0001_0000_NameDetail" korean="" />
+	<block key="E_02_1_0606_0000_Name" korean="광폭한 멧돼지" />
+	<block key="E_02_1_0606_0000_NameDetail" korean="" />
+	<block key="E_02_1_0344_0002_Name" korean="성난 붉은 여우" />
+	<block key="E_02_1_0344_0002_NameDetail" korean="" />
+	<block key="E_02_0_0718_0000_Name" korean="고대 수도자의 유령" />
+	<block key="E_02_0_0718_0000_NameDetail" korean="" />
+	<block key="E_02_0_0013_0001_Name" korean="광채 나무 위습" />
+	<block key="E_02_0_0013_0001_NameDetail" korean="" />
+	<block key="E_50_0_0667_0002_Name" korean="그을린 해골 기사단장" />
+	<block key="E_50_0_0667_0002_NameDetail" korean="" />
+	<block key="E_50_0_0666_0003_Name" korean="잠든 해골 병사" />
+	<block key="E_50_0_0666_0003_NameDetail" korean="" />
+	<block key="E_02_0_0676_0003_Name" korean="식인거미 아라크네" />
+	<block key="E_02_0_0676_0003_NameDetail" korean="" />
+	<block key="E_02_0_0676_0004_Name" korean="타슬란의 새끼 거미" />
+	<block key="E_02_0_0676_0004_NameDetail" korean="" />
+	<block key="E_02_0_0013_0002_Name" korean="떠도는 원혼" />
+	<block key="E_02_0_0013_0002_NameDetail" korean="" />
+	<block key="E_02_1_0007_0004_Name" korean="야생 늑대" />
+	<block key="E_02_1_0007_0004_NameDetail" korean="" />
+	<block key="E_02_1_0606_0001_Name" korean="감독관의 멧돼지" />
+	<block key="E_02_1_0606_0001_NameDetail" korean="" />
+	<block key="E_02_1_0606_0002_Name" korean="서리 어금니 포치" />
+	<block key="E_02_1_0606_0002_NameDetail" korean="" />
+	<block key="E_02_1_0606_0003_Name" korean="사육된 멧돼지" />
+	<block key="E_02_1_0606_0003_NameDetail" korean="" />
+	<block key="E_02_1_0309_0000_Name" korean="검은 늑대" />
+	<block key="E_02_1_0309_0000_NameDetail" korean="" />
+	<block key="E_50_0_0245_0000_Name" korean="마그마하운드" />
+	<block key="E_50_0_0245_0000_NameDetail" korean="" />
+	<block key="E_02_1_0606_0004_Name" korean="사육된 멧돼지" />
+	<block key="E_02_1_0606_0004_NameDetail" korean="" />
+	<block key="E_02_0_0245_0000_Name" korean="어둠의 흑표범" />
+	<block key="E_02_0_0245_0000_NameDetail" korean="" />
+	<block key="E_02_0_0040_0001_Name" korean="감독관의 약탈 용사" />
+	<block key="E_02_0_0040_0001_NameDetail" korean="" />
+	<block key="E_02_0_0032_0001_Name" korean="감독관의 야수 조련사" />
+	<block key="E_02_0_0032_0001_NameDetail" korean="" />
+	<block key="E_02_0_0017_0003_Name" korean="감독관의 호위 전투병" />
+	<block key="E_02_0_0017_0003_NameDetail" korean="" />
+	<block key="E_02_0_0602_0000_Name" korean="브라기 본거지 순찰병" />
+	<block key="E_02_0_0602_0000_NameDetail" korean="" />
+	<block key="E_02_5_0001_0000_Name" korean="오염된 광채나무" />
+	<block key="E_02_5_0001_0000_NameDetail" korean="" />
+	<block key="E_02_0_0676_0005_Name" korean="새끼거미" />
+	<block key="E_02_0_0676_0005_NameDetail" korean="" />
+	<block key="E_02_0_0012_9999_Name" korean="브라기 본거지 전투원" />
+	<block key="E_02_0_0012_9999_NameDetail" korean="" />
+	<block key="E_01_0_0001_0002_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0001_0002_NameDetail" korean="" />
+	<block key="E_01_0_0010_0000_Name" korean="TEST_라이노 전투병(테스트 HP)" />
+	<block key="E_01_0_0010_0000_NameDetail" korean="" />
+	<block key="E_01_0_0011_0000_Name" korean="TEST_라이노 전투병(테스트 MOVE)" />
+	<block key="E_01_0_0011_0000_NameDetail" korean="" />
+	<block key="E_02_4_0008_0001_Name" korean="작은 나무 요정" />
+	<block key="E_02_4_0008_0001_NameDetail" korean="" />
+	<block key="E_02_0_0013_0003_Name" korean="작은 광채 위습" />
+	<block key="E_02_0_0013_0003_NameDetail" korean="" />
+	<block key="E_01_0_0001_0001_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0001_0001_NameDetail" korean="" />
+	<block key="E_01_0_0002_0001_Name" korean="라이노 전투병" />
+	<block key="E_01_0_0002_0001_NameDetail" korean="" />
+	<block key="E_01_0_0007_0001_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0007_0001_NameDetail" korean="" />
+	<block key="E_01_0_0008_0001_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0008_0001_NameDetail" korean="" />
+	<block key="E_01_0_0009_0001_Name" korean="라이노 전투병" />
+	<block key="E_01_0_0009_0001_NameDetail" korean="" />
+	<block key="E_01_4_0637_0001_Name" korean="간수장 렉스" />
+	<block key="E_01_4_0637_0001_NameDetail" korean="" />
+	<block key="E_01_5_0001_0001_Name" korean="간수장 지배석" />
+	<block key="E_01_5_0001_0001_NameDetail" korean="" />
+	<block key="E_01_0_0001_0003_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0001_0003_NameDetail" korean="" />
+	<block key="E_03_0_0708_7004_Name" korean="광신도" />
+	<block key="E_03_0_0708_7004_NameDetail" korean="카브임 추종자" />
+	<block key="E_01_0_0009_0002_Name" korean="라이노 전투병" />
+	<block key="E_01_0_0009_0002_NameDetail" korean="" />
+	<block key="E_01_0_0009_0003_Name" korean="라이노 전투병" />
+	<block key="E_01_0_0009_0003_NameDetail" korean="" />
+	<block key="E_01_0_0010_0001_Name" korean="더미 상자" />
+	<block key="E_01_0_0010_0001_NameDetail" korean="" />
+	<block key="E_01_0_0007_0002_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0007_0002_NameDetail" korean="" />
+	<block key="E_01_0_0007_0003_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0007_0003_NameDetail" korean="" />
+	<block key="E_01_0_0007_0004_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0007_0004_NameDetail" korean="" />
+	<block key="E_01_0_0007_0005_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0007_0005_NameDetail" korean="" />
+	<block key="E_01_0_0007_0006_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0007_0006_NameDetail" korean="" />
+	<block key="E_01_0_0007_0007_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0007_0007_NameDetail" korean="" />
+	<block key="E_01_0_0007_0008_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0007_0008_NameDetail" korean="" />
+	<block key="E_01_0_0007_0009_Name" korean="라이노 경비병" />
+	<block key="E_01_0_0007_0009_NameDetail" korean="" />
+	<block key="e_f01_GhosA_0000_Name" korean="고대 유적지 수호자" />
+	<block key="e_f01_GhosA_0000_NameDetail" korean="" />
+	<block key="E_f01_FanaDawiz_001_Name" korean="카브임 마법사" />
+	<block key="E_f01_FanaDawiz_001_NameDetail" korean="" />
+	<block key="E_f01_SpidBlzza_001_Name" korean="유령 거미" />
+	<block key="E_f01_SpidBlzza_001_NameDetail" korean="" />
+	<block key="E_f01_FanaDevco_001_Name" korean="카브임 대마법사" />
+	<block key="E_f01_FanaDevco_001_NameDetail" korean="" />
+	<block key="E_02_5_0001_0003_Name" korean="브라기 석궁" />
+	<block key="E_02_5_0001_0003_NameDetail" korean="" />
+	<block key="E_02_5_0001_0004_Name" korean="브라기 석궁" />
+	<block key="E_02_5_0001_0004_NameDetail" korean="" />
+	<block key="E_02_5_0001_0005_Name" korean="브라기 석궁" />
+	<block key="E_02_5_0001_0005_NameDetail" korean="" />
+	<block key="E_02_5_0001_0006_Name" korean="브라기 석궁" />
+	<block key="E_02_5_0001_0006_NameDetail" korean="" />
+	<block key="E_02_0_0043_0003_Name" korean="브라기 석궁 관리병" />
+	<block key="E_02_0_0043_0003_NameDetail" korean="" />
+	<block key="E_02_0_0043_0004_Name" korean="브라기 석궁 관리병" />
+	<block key="E_02_0_0043_0004_NameDetail" korean="" />
+	<block key="E_02_0_0043_0005_Name" korean="브라기 석궁 관리병" />
+	<block key="E_02_0_0043_0005_NameDetail" korean="" />
+	<block key="E_02_0_0043_0006_Name" korean="브라기 석궁 관리병" />
+	<block key="E_02_0_0043_0006_NameDetail" korean="" />
+	<block key="E_01_0_0002_0007_Name" korean="라이노 전투병" />
+	<block key="E_01_0_0002_0007_NameDetail" korean="" />
+	<block key="a00_CM_ham_0007_Name" korean="고대의 망치" />
+	<block key="a00_CM_ham_0007_NameDetail" korean="" />
+	<block key="E_03_barricade_0004_Name" korean="브라기 방벽" />
+	<block key="E_03_barricade_0004_NameDetail" korean="" />
+	<block key="E_02_BragCapeH1_0001_Name" korean="브라기 연락병" />
+	<block key="E_02_BragCapeH1_0001_NameDetail" korean="" />
+	<block key="f01_sf_bomb_0000_Name" korean="브라기 폭약" />
+	<block key="f01_sf_bomb_0000_NameDetail" korean="" />
+	<block key="E_F01_BraHunter_0000_Name" korean="브라기 망루병" />
+	<block key="E_F01_BraHunter_0000_NameDetail" korean="" />
+	<block key="E_f01_hufpub_g_001_Name" korean="어머니의 악령" />
+	<block key="E_f01_hufpub_g_001_NameDetail" korean="" />
+	<block key="E_f01_HuMSol01_001_Name" korean="엘사" />
+	<block key="E_f01_HuMSol01_001_NameDetail" korean="훈련병" />
+	<block key="E_50_0_0648_0001_Name" korean="고대의 화염 골렘" />
+	<block key="E_50_0_0648_0001_NameDetail" korean="" />
+	<block key="E_50_0_0648_0002_Name" korean="고대의 화염 골렘" />
+	<block key="E_50_0_0648_0002_NameDetail" korean="" />
+	<block key="E_50_0_0667_0003_Name" korean="그을린 해골 기사단장" />
+	<block key="E_50_0_0667_0003_NameDetail" korean="" />
+	<block key="E_50_0_0667_0004_Name" korean="유적지 해골기사 타무스" />
+	<block key="E_50_0_0667_0004_NameDetail" korean="" />
+	<block key="E_50_0_0666_0004_Name" korean="잠든 해골 병사" />
+	<block key="E_50_0_0666_0004_NameDetail" korean="" />
+	<block key="E_f01_WolfDC_0000_Name" korean="악령이 깃든 늑대" />
+	<block key="E_f01_WolfDC_0000_NameDetail" korean="" />
+	<block key="E_50_0_0667_0005_Name" korean="그을린 해골 기사단장" />
+	<block key="E_50_0_0667_0005_NameDetail" korean="" />
+	<block key="E_50_0_0648_0003_Name" korean="고대의 화염 골렘" />
+	<block key="E_50_0_0648_0003_NameDetail" korean="" />
+</blocks>

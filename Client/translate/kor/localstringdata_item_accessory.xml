@@ -1,0 +1,400 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="AC0_0_1000_Name" korean="마리아의 보호부적" />
+	<block key="AC0_1_1000_Name" korean="쿨타임 감소 목걸이(99%)" />
+	<block key="AC0_0_9999_Name" korean="테스트용반지_치명타 (100)" />
+	<block key="AC0_0_9989_Name" korean="테스트용반지_치명타 (30)" />
+	<block key="AC0_0_9988_Name" korean="테스트용반지_치명타 (70)" />
+	<block key="AC0_0_10001_Name" korean="왕가의 반지" />
+	<block key="AC0_0_10002_Name" korean="포포의 한정 반지" />
+	<block key="AC0_0_21001_Name" korean="요정의 반지" />
+	<block key="AC0_0_21011_Name" korean="숲의 강인한 적수정 반지" />
+	<block key="AC0_0_21012_Name" korean="숲의 지혜로운 적수정 반지" />
+	<block key="AC0_0_21013_Name" korean="숲의 재빠른 적수정 반지" />
+	<block key="AC0_0_21501_Name" korean="습격자의 반지" />
+	<block key="AC0_0_21511_Name" korean="파견단의 강인한 반지" />
+	<block key="AC0_0_21512_Name" korean="파견단의 지혜로운 반지" />
+	<block key="AC0_0_21513_Name" korean="파견단의 재빠른 반지" />
+	<block key="AC0_0_31501_Name" korean="고대 화염 골렘의 반지" />
+	<block key="AC0_0_22001_Name" korean="흡혈귀의 반지" />
+	<block key="AC0_0_22011_Name" korean="민병대의 강인한 반지" />
+	<block key="AC0_0_22012_Name" korean="민병대의 지혜로운 반지" />
+	<block key="AC0_0_22013_Name" korean="민병대의 재빠른 반지" />
+	<block key="AC0_0_32001_Name" korean="저주받은 반지" />
+	<block key="AC0_0_22501_Name" korean="창공의 반지" />
+	<block key="AC0_0_22521_Name" korean="타락한 추종자의 반지" />
+	<block key="AC0_0_32501_Name" korean="혹한의 반지" />
+	<block key="AC0_0_23001_Name" korean="설원의 반지" />
+	<block key="AC0_0_33001_Name" korean="야타이만의 반지" />
+	<block key="AC0_0_23501_Name" korean="서리군단의 반지" />
+	<block key="AC0_0_33501_Name" korean="얼음 군단장의 반지" />
+	<block key="AC0_0_24001_Name" korean="총사령관의 반지" />
+	<block key="AC0_1_21001_Name" korean="고대 브라기 목걸이" />
+	<block key="AC0_1_22001_Name" korean="흡혈귀의 목걸이" />
+	<block key="AC0_1_22011_Name" korean="민병대의 강인한 목걸이" />
+	<block key="AC0_1_22012_Name" korean="민병대의 지혜로운 목걸이" />
+	<block key="AC0_1_22013_Name" korean="민병대의 재빠른 목걸이" />
+	<block key="AC0_1_32001_Name" korean="저주받은 목걸이" />
+	<block key="AC0_1_22501_Name" korean="야타이만의 목걸이" />
+	<block key="AC0_1_22521_Name" korean="고대 화염 골렘의 목걸이" />
+	<block key="AC0_1_32501_Name" korean="혹한의 목걸이" />
+	<block key="AC0_1_23001_Name" korean="타락한 추종자의 목걸이" />
+	<block key="AC0_1_33001_Name" korean="얼음 군단장의 목걸이" />
+	<block key="AC0_1_23501_Name" korean="총사령관의 목걸이" />
+	<block key="AC0_1_33501_Name" korean="요정의 목걸이" />
+	<block key="AC0_1_24001_Name" korean="습격자의 목걸이" />
+	<block key="AC0_0_1001_Name" korean="루비 반지" />
+	<block key="AC0_0_1141_Name" korean="왕국 기사의 반지" />
+	<block key="AC0_0_1142_Name" korean="하카나스 영웅의 반지" />
+	<block key="AC0_0_2141_Name" korean="피로 물든 힘의 오닉스 반지" />
+	<block key="AC0_0_2142_Name" korean="피로 물든 민첩의 오닉스 반지" />
+	<block key="AC0_0_2143_Name" korean="피로 물든 지능의 오닉스 반지" />
+	<block key="AC0_1_2141_Name" korean="한기서린 체력의 사파이어 목걸이" />
+	<block key="AC0_1_2142_Name" korean="한기서린 정신력의 사파이어 목걸이" />
+	<block key="AC0_1_2143_Name" korean="한기서린 힘의 사파이어 목걸이" />
+	<block key="AC0_1_2144_Name" korean="한기서린 민첩의 사파이어 목걸이" />
+	<block key="AC0_1_2145_Name" korean="한기서린 지능의 사파이어 목걸이" />
+	<block key="AC0_1_2261_Name" korean="물의 펜던트" />
+	<block key="AC0_1_2262_Name" korean="강화된 물의 펜던트" />
+	<block key="AC0_0_2261_Name" korean="마음이 담긴 맹세의 반지" />
+	<block key="AC0_0_2262_Name" korean="영웅의 증표" />
+	<block key="AC0_0_82151_Name" korean="강인한 용사의 물리 반지" />
+	<block key="AC0_0_82152_Name" korean="강인한 용사의 마법 반지" />
+	<block key="AC0_1_82151_Name" korean="강인한 용사의 물리 목걸이" />
+	<block key="AC0_1_82152_Name" korean="강인한 용사의 마법 목걸이" />
+	<block key="AC0_0_82251_Name" korean="전설의 물리 반지" />
+	<block key="AC0_0_82252_Name" korean="전설의 마법 반지" />
+	<block key="AC0_1_82251_Name" korean="전설의 물리 목걸이" />
+	<block key="AC0_1_82252_Name" korean="전설의 마법 목걸이" />
+	<block key="AC0_0_83251_Name" korean="노련한 영웅의 물리 반지" />
+	<block key="AC0_0_83252_Name" korean="노련한 영웅의 마법 반지" />
+	<block key="AC0_1_83251_Name" korean="노련한 영웅의 물리 목걸이" />
+	<block key="AC0_1_83252_Name" korean="노련한 영웅의 마법 목걸이" />
+	<block key="AC0_0_81101_Name" korean="물리 은 반지" />
+	<block key="AC0_0_81102_Name" korean="마법 은 반지" />
+	<block key="AC0_1_81101_Name" korean="물리 은 목걸이" />
+	<block key="AC0_1_81102_Name" korean="마법 은 목걸이" />
+	<block key="AC0_0_81201_Name" korean="물리 금 반지" />
+	<block key="AC0_0_81202_Name" korean="마법 금 반지" />
+	<block key="AC0_1_81201_Name" korean="물리 금 목걸이" />
+	<block key="AC0_1_81202_Name" korean="마법 금 목걸이" />
+	<block key="AC0_0_82201_Name" korean="강화된 물리 금 반지" />
+	<block key="AC0_0_82202_Name" korean="강화된 마법 금 반지" />
+	<block key="AC0_1_82201_Name" korean="강화된 물리 금 목걸이" />
+	<block key="AC0_1_82202_Name" korean="강화된 마법 금 목걸이" />
+	<block key="AC0_0_81301_Name" korean="물리 자수정 반지" />
+	<block key="AC0_0_81302_Name" korean="마법 자수정 반지" />
+	<block key="AC0_1_81301_Name" korean="물리 자수정 목걸이" />
+	<block key="AC0_1_81302_Name" korean="마법 자수정 목걸이" />
+	<block key="AC0_0_82301_Name" korean="강화된 물리 자수정 반지" />
+	<block key="AC0_0_82302_Name" korean="강화된 마법 자수정 반지" />
+	<block key="AC0_1_82301_Name" korean="강화된 물리 자수정 목걸이" />
+	<block key="AC0_1_82302_Name" korean="강화된 마법 자수정 목걸이" />
+	<block key="AC0_0_83301_Name" korean="빛나는 물리 자수정 반지" />
+	<block key="AC0_0_83302_Name" korean="빛나는 마법 자수정 반지" />
+	<block key="AC0_1_83301_Name" korean="빛나는 물리 자수정 목걸이" />
+	<block key="AC0_1_83302_Name" korean="빛나는 마법 자수정 목걸이" />
+	<block key="AC0_2_21501_Name" korean="왕국 기사단원의 반지" />
+	<block key="AC0_2_220011_Name" korean="왕국 정예병의 반지" />
+	<block key="AC0_2_225012_Name" korean="크로쿤족의 하급 반지" />
+	<block key="AC0_2_325013_Name" korean="혹한의 마트렌의 사파이어 반지" />
+	<block key="AC0_2_230014_Name" korean="크로쿤족의 상급 반지" />
+	<block key="AC0_2_22001_Name" korean="왕국 정예병의 목걸이" />
+	<block key="AC0_2_22501_Name" korean="크로쿤족의 하급 목걸이" />
+	<block key="AC0_2_32501_Name" korean="혹한의 마트렌의 사파이어 목걸이" />
+	<block key="AC0_2_23001_Name" korean="크로쿤족의 상급 목걸이" />
+	<block key="AC0_2_821511_Name" korean="강인한 용사의 물리 반지" />
+	<block key="AC0_2_821522_Name" korean="강인한 용사의 마법 반지" />
+	<block key="AC0_2_82151_Name" korean="강인한 용사의 물리 목걸이" />
+	<block key="AC0_2_82152_Name" korean="강인한 용사의 마법 목걸이" />
+	<block key="AC0_2_822513_Name" korean="전설의 물리 반지" />
+	<block key="AC0_2_822522_Name" korean="전설의 마법 반지" />
+	<block key="AC0_2_82251_Name" korean="전설의 물리 목걸이" />
+	<block key="AC0_2_82252_Name" korean="전설의 마법 목걸이" />
+	<block key="AC0_2_832511_Name" korean="노련한 영웅의 물리 반지" />
+	<block key="AC0_2_832522_Name" korean="노련한 영웅의 마법 반지" />
+	<block key="AC0_2_83251_Name" korean="노련한 영웅의 물리 목걸이" />
+	<block key="AC0_2_83252_Name" korean="노련한 영웅의 마법 목걸이" />
+	<block key="AC0_0_2263_Name" korean="PvP 반지 I" />
+	<block key="AC0_0_2264_Name" korean="PvP 반지 II" />
+	<block key="AC0_0_2265_Name" korean="PvP 반지 III" />
+	<block key="AC0_0_2266_Name" korean="PvP 반지 IV" />
+	<block key="AC0_0_2267_Name" korean="PvP 반지 V" />
+	<block key="AC0_0_2271_Name" korean="타무스의 반지" />
+	<block key="AC0_1_2271_Name" korean="타무스의 목걸이" />
+	<block key="AC0_0_2272_Name" korean="왕실 근위대의 반지" />
+	<block key="AC0_0_2281_Name" korean="왕실 근위대의 반지" />
+	<block key="AC0_0_2282_Name" korean="왕실 근위대의 반지" />
+	<block key="AC0_0_2283_Name" korean="왕실 근위대의 반지" />
+	<block key="AC0_0_2284_Name" korean="왕실 근위대의 반지" />
+	<block key="AC0_0_2273_Name" korean="기사단장의 해골 반지" />
+	<block key="AC0_0_2274_Name" korean="구스트의 흡혈 반지" />
+	<block key="AC0_0_2275_Name" korean="램브란트의 흡혈 반지" />
+	<block key="AC0_0_2276_Name" korean="켈로네의 반지" />
+	<block key="AC0_0_2277_Name" korean="드래곤 인장" />
+	<block key="AC0_1_2272_Name" korean="아슈람의 기운" />
+	<block key="AC0_1_2273_Name" korean="마투콘틴의 목걸이" />
+	<block key="AC0_0_2278_Name" korean="제페토의 부활 반지" />
+	<block key="pvpAC0_1_2528_Name" korean="하급 사냥꾼의 목걸이" />
+	<block key="pvpAC0_0_2528_Name" korean="하급 사냥꾼의 반지" />
+	<block key="pvpAC0_1_3033_Name" korean="중급 사냥꾼의 목걸이" />
+	<block key="pvpAC0_0_3033_Name" korean="중급 사냥꾼의 반지" />
+	<block key="pvpAC0_1_3538_Name" korean="상급 사냥꾼의 목걸이" />
+	<block key="pvpAC0_0_3538_Name" korean="상급 사냥꾼의 반지" />
+	<block key="pvpAC0_1_4043_Name" korean="최상급 사냥꾼의 목걸이" />
+	<block key="pvpAC0_0_4043_Name" korean="최상급 사냥꾼의 반지" />
+	<block key="AC0_0_2279_Name" korean="데비의 원한" />
+	<block key="AC0_0_2280_Name" korean="데비의 분노" />
+	<block key="AC0_1_2274_Name" korean="비스무트의 술통" />
+	<block key="AC0_1_2275_Name" korean="비스무트의 술잔" />
+	<block key="AC0_0_2290_Name" korean="비스무트의 반지" />
+	<block key="AC0_0_30000_Name" korean="수비대의 강인한 반지" />
+	<block key="AC0_0_30001_Name" korean="수비대의 지혜로운 반지" />
+	<block key="AC0_0_30002_Name" korean="수비대의 재빠른 반지" />
+	<block key="AC0_0_30003_Name" korean="바람 민병단의 강인한 반지" />
+	<block key="AC0_0_30004_Name" korean="바람 민병단의 지혜로운 반지" />
+	<block key="AC0_0_30005_Name" korean="바람 민병단의 재빠른 반지" />
+	<block key="AC0_0_30006_Name" korean="크로쿤족의 강인한 반지" />
+	<block key="AC0_0_30007_Name" korean="크로쿤족의 지혜로운 반지" />
+	<block key="AC0_0_30008_Name" korean="크로쿤족의 재빠른 반지" />
+	<block key="AC0_0_30009_Name" korean="페가수스 기사단의 강인한 반지" />
+	<block key="AC0_0_30010_Name" korean="페가수스 기사단의 지혜로운 반지" />
+	<block key="AC0_0_30011_Name" korean="페가수스 기사단의 재빠른 반지" />
+	<block key="AC0_0_30012_Name" korean="무러미족의 반지" />
+	<block key="AC0_0_30013_Name" korean="불사군단의 반지" />
+	<block key="AC0_1_30001_Name" korean="파견단의 강인한 목걸이" />
+	<block key="AC0_1_30002_Name" korean="파견단의 지혜로운 목걸이" />
+	<block key="AC0_1_30003_Name" korean="파견단의 재빠른 목걸이" />
+	<block key="AC0_1_30004_Name" korean="수비대의 강인한 목걸이" />
+	<block key="AC0_1_30005_Name" korean="수비대의 지혜로운 목걸이" />
+	<block key="AC0_1_30006_Name" korean="수비대의 재빠른 목걸이" />
+	<block key="AC0_1_30007_Name" korean="바람 민병단의 강인한 목걸이" />
+	<block key="AC0_1_30008_Name" korean="바람 민병단의 지혜로운 목걸이" />
+	<block key="AC0_1_30009_Name" korean="바람 민병단의 재빠른 목걸이" />
+	<block key="AC0_1_30010_Name" korean="크로쿤족의 강인한 목걸이" />
+	<block key="AC0_1_30011_Name" korean="크로쿤족의 지혜로운 목걸이" />
+	<block key="AC0_1_30012_Name" korean="크로쿤족의 재빠른 목걸이" />
+	<block key="AC0_1_30013_Name" korean="페가수스 기사단의 강인한 목걸이" />
+	<block key="AC0_1_30014_Name" korean="페가수스 기사단의 지혜로운 목걸이" />
+	<block key="AC0_1_30015_Name" korean="페가수스 기사단의 재빠른 목걸이" />
+	<block key="AC0_1_30016_Name" korean="창공의 목걸이" />
+	<block key="AC0_1_30017_Name" korean="설원의 목걸이" />
+	<block key="AC0_1_30018_Name" korean="무러미족의 목걸이" />
+	<block key="AC0_1_30019_Name" korean="서리군단의 목걸이" />
+	<block key="AC0_1_30020_Name" korean="불사군단의 목걸이" />
+	<block key="AC0_0_30014_Name" korean="카라샤의 반지 I" />
+	<block key="AC0_0_30014_1_Name" korean="카라샤의 반지 II" />
+	<block key="AC0_1_30021_Name" korean="카라샤의 목걸이" />
+	<block key="AC0_0_30015_Name" korean="즈메우의 반지" />
+	<block key="AC0_1_30022_Name" korean="즈메우의 목걸이" />
+	<block key="AC0_1_30023_Name" korean="제라닌의 피묻은 해골 목걸이" />
+	<block key="AC0_1_30024_Name" korean="우슬라의 목걸이" />
+	<block key="AC0_0_30016_Name" korean="우슬라의 반지" />
+	<block key="AC0_0_30017_Name" korean="발보아드의 반지" />
+	<block key="AC0_0_30018_Name" korean="데 라마슈의 반지" />
+	<block key="AC0_0_30019_Name" korean="에이바의 반지" />
+	<block key="AC0_0_30020_Name" korean="바바의 반지" />
+	<block key="AC0_0_30021_Name" korean="샤바의 반지" />
+	<block key="pvpAC1_1_3148_Name" korean="헌터 잭의 핏빛 목걸이" />
+	<block key="pvpAC1_0_3148_Name" korean="헌터 잭의 저주받은 반지" />
+	<block key="pvpAC1_1_3350_Name" korean="클레키의 핏빛 목걸이" />
+	<block key="pvpAC1_0_3350_Name" korean="클레키의 저주받은 반지" />
+	<block key="pvpAC1_1_3552_Name" korean="나이트메어의 핏빛 목걸이" />
+	<block key="pvpAC1_0_3552_Name" korean="나이트메어의 저주받은 반지" />
+	<block key="pvpAC1_1_3855_Name" korean="파이루드의 핏빛 목걸이" />
+	<block key="pvpAC1_0_3855_Name" korean="파이루드의 저주받은 반지" />
+	<block key="pvpAC1_1_4259_Name" korean="바이렛의 핏빛 목걸이" />
+	<block key="pvpAC1_0_4259_Name" korean="바이렛의 저주받은 반지" />
+	<block key="pvpAC1_1_4562_Name" korean="메간테스의 핏빛 목걸이" />
+	<block key="pvpAC1_0_4562_Name" korean="메간테스의 저주받은 반지" />
+	<block key="pvpAC1_2_3148_Name" korean="헌터 잭의 어둠 반지" />
+	<block key="pvpAC1_2_3350_Name" korean="클레키의 어둠 반지" />
+	<block key="pvpAC1_2_3552_Name" korean="나이트메어의 어둠 반지" />
+	<block key="pvpAC1_2_3855_Name" korean="파이루드의 어둠 반지" />
+	<block key="pvpAC1_2_4259_Name" korean="바이렛의 어둠 반지" />
+	<block key="pvpAC1_2_4562_Name" korean="메간테스의 어둠 반지" />
+	<block key="AC0_0_30022_Name" korean="유적지 도전자 반지" />
+	<block key="AC0_0_30023_Name" korean="유적지 정복자 반지" />
+	<block key="AC0_1_30025_Name" korean="유적지 지배자 목걸이" />
+	<block key="AC0_0_30024_Name" korean="대저택 도전자 반지" />
+	<block key="AC0_0_30025_Name" korean="대저택 정복자 반지" />
+	<block key="AC0_1_30026_Name" korean="대저택 지배자 목걸이" />
+	<block key="AC0_0_30026_Name" korean="폐허 도전자 반지" />
+	<block key="AC0_0_30027_Name" korean="폐허 정복자 반지" />
+	<block key="AC0_1_30027_Name" korean="폐허 지배자 목걸이" />
+	<block key="AC0_0_30028_Name" korean="브라기의 질주 (이속 50)" />
+	<block key="AC0_0_30029_Name" korean="브라기의 질주 (이속 100)" />
+	<block key="AC0_0_30030_Name" korean="브라기의 질주 (이속 200)" />
+	<block key="AC0_0_30031_Name" korean="브라기의 분노 (공격력)" />
+	<block key="AC0_0_30032_Name" korean="브라기의 권능 (이속/공격력)" />
+	<block key="AC0_0_2098_Name" korean="하카나스 기사의 반지" />
+	<block key="AC0_1_2098_Name" korean="하카나스 기사의 목걸이" />
+	<block key="AC0_0_2099_Name" korean="하카나스 현자의 반지" />
+	<block key="AC0_1_2099_Name" korean="하카나스 현자의 목걸이" />
+	<block key="AC0_1_30028_Name" korean="잔혹한 운명의 목걸이" />
+	<block key="AC0_0_30033_Name" korean="잔혹한 운명의 검은 반지" />
+	<block key="AC0_0_30034_Name" korean="잔혹한 운명의 푸른 반지" />
+	<block key="AC0_0_83502_Name" korean="빛나는 정교한 자수정 반지" />
+	<block key="AC0_1_83501_Name" korean="빛나는 정교한 자수정 목걸이" />
+	<block key="AC0_0_84002_Name" korean="빛나는 사파이어 반지" />
+	<block key="AC0_1_84001_Name" korean="빛나는 사파이어 목걸이" />
+	<block key="AC0_1_90028_Name" korean="파르나 용사의 목걸이" />
+	<block key="AC0_0_90033_Name" korean="파르나 용사의 검은 반지" />
+	<block key="AC0_0_90034_Name" korean="파르나 용사의 푸른 반지" />
+	<block key="AC0_0_33801_Name" korean="야타이만의 반지" />
+	<block key="AC0_0_33802_Name" korean="트라누아의 반지" />
+	<block key="AC0_1_33801_Name" korean="거신의 목걸이" />
+	<block key="BX_AC0_0_23501_Name" korean="초승달 상단의 낡은 반지" />
+	<block key="BX_AC0_1_30019_Name" korean="초승달 상단의 낡은 목걸이" />
+	<block key="BX_AC0_0_33501_Name" korean="초승달 상단의 반지" />
+	<block key="BX_AC0_1_33001_Name" korean="초승달 상단의 목걸이" />
+	<block key="BX_AC0_0_30013_Name" korean="초승달 상단의 강화된 반지" />
+	<block key="BX_AC0_1_30020_Name" korean="초승달 상단의 강화된 목걸이" />
+	<block key="BX_AC0_0_24001_Name" korean="초승달 상단의 빛나는 반지" />
+	<block key="BX_AC0_1_23501_Name" korean="초승달 상단의 빛나는 목걸이" />
+	<block key="AC0_0_90101_Name" korean="우정반지 I" />
+	<block key="AC0_0_90102_Name" korean="우정반지 II" />
+	<block key="AC0_1_24001_qu_Name" korean="하카나스 영웅의 목걸이" />
+	<block key="EV_AC0_0_33801_Name" korean="왕실 수호자의 반지" />
+	<block key="AC0_0_1000_EV_Name" korean="피시바니의 토끼 반지 I" />
+	<block key="AC0_0_1000_EV_Description" korean="<R_Y>피시바니의 토끼 반지 I은 1시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 반지 I은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_1_1000_EV_Name" korean="피시바니의 토끼 목걸이 I" />
+	<block key="AC0_1_1000_EV_Description" korean="<R_Y>피시바니의 토끼 목걸이 I은 1시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 목걸이 I은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_0_1001_EV_Name" korean="피시바니의 토끼 반지 II" />
+	<block key="AC0_0_1001_EV_Description" korean="<R_Y>피시바니의 토끼 반지 II는 3시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 반지 II은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_1_1001_EV_Name" korean="피시바니의 토끼 목걸이 II" />
+	<block key="AC0_1_1001_EV_Description" korean="<R_Y>피시바니의 토끼 목걸이 II는 3시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 목걸이 II는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_0_1002_EV_Name" korean="피시바니의 토끼 반지 III" />
+	<block key="AC0_0_1002_EV_Description" korean="<R_Y>피시바니의 토끼 반지 III은 5시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 반지 III은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_1_1002_EV_Name" korean="피시바니의 토끼 목걸이 III" />
+	<block key="AC0_1_1002_EV_Description" korean="<R_Y>피시바니의 토끼 목걸이 III은 5시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 목걸이 III은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_0_1003_EV_Name" korean="피시바니의 토끼 반지 IV" />
+	<block key="AC0_0_1003_EV_Description" korean="<R_Y>피시바니의 토끼 반지 IV는 7시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 반지 IV는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_1_1003_EV_Name" korean="피시바니의 토끼 목걸이 IV" />
+	<block key="AC0_1_1003_EV_Description" korean="<R_Y>피시바니의 토끼 목걸이 IV는 7시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 목걸이 IV는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_0_1004_EV_Name" korean="피시바니의 토끼 반지 V" />
+	<block key="AC0_0_1004_EV_Description" korean="<R_Y>피시바니의 토끼 반지 V는 10시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 반지 V는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_1_1004_EV_Name" korean="피시바니의 토끼 목걸이 V" />
+	<block key="AC0_1_1004_EV_Description" korean="<R_Y>피시바니의 토끼 목걸이 V는 10시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 목걸이 V는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_0_83512_Name" korean="빛나는 정교한 자수정 반지" />
+	<block key="AC0_1_83511_Name" korean="빛나는 정교한 자수정 목걸이" />
+	<block key="AC0_0_1143_Name" korean="하카나스 수호의 반지" />
+	<block key="AC0_0_30032_TE_01_Name" korean="브라기의 권능 (물치/마치)" />
+	<block key="AC0_0_30032_TE_02_Name" korean="브라기의 권능 (시전속도)" />
+	<block key="AC0_1_22501_qu_Name" korean="왕국 기사의 목걸이" />
+	<block key="AC0_1_90128_Name" korean="공역 수호자의 목걸이" />
+	<block key="AC0_0_90133_Name" korean="공역 수호자의 검은 반지" />
+	<block key="AC0_0_90134_Name" korean="공역 수호자의 푸른 반지" />
+	<block key="BX_AC1_1_90000_Name" korean="공역의 투혼 목걸이" />
+	<block key="BX_AC0_1_90040_Name" korean="공역의 투혼 반지" />
+	<block key="BX_AC0_1_90041_Name" korean="공역의 투지 반지" />
+	<block key="AC0_1_23502_Name" korean="찬란한 선도자의 목걸이" />
+	<block key="AC0_0_24002_Name" korean="찬란한 선도자의 반지 I" />
+	<block key="AC0_0_24003_Name" korean="찬란한 선도자의 반지 II" />
+	<block key="AC0_1_45001_Name" korean="알세크 경비대의 강인한 목걸이" />
+	<block key="AC0_1_45002_Name" korean="알세크 경비대의 지혜로운 목걸이" />
+	<block key="AC0_0_45001_Name" korean="알세크 경비대의 강인한 반지" />
+	<block key="AC0_0_45002_Name" korean="알세크 경비대의 지혜로운 반지" />
+	<block key="AC0_1_45003_Name" korean="모하바 용병단의 목걸이" />
+	<block key="AC0_0_45003_Name" korean="모하바 용병단의 반지" />
+	<block key="AC0_1_45004_Name" korean="카브임 교단의 목걸이" />
+	<block key="AC0_0_45004_Name" korean="카브임 교단의 반지" />
+	<block key="AC0_1_50001_Name" korean="은둔자의 강인한 목걸이" />
+	<block key="AC0_1_50002_Name" korean="은둔자의 지혜로운 목걸이" />
+	<block key="AC0_0_50001_Name" korean="은둔자의 강인한 반지" />
+	<block key="AC0_0_50002_Name" korean="은둔자의 지혜로운 반지" />
+	<block key="AC0_1_50003_Name" korean="사막 브라기의 목걸이" />
+	<block key="AC0_0_50003_Name" korean="사막 브라기의 반지" />
+	<block key="AC0_1_50004_Name" korean="암흑 군단장의 목걸이" />
+	<block key="AC0_0_50004_Name" korean="암흑 군단장의 반지" />
+	<block key="pvpAC0_1_4564_Name" korean="하급 학살자의 목걸이" />
+	<block key="pvpAC0_0_4564_Name" korean="하급 학살자의 반지 I" />
+	<block key="pvpAC0_2_4564_Name" korean="하급 학살자의 반지 II" />
+	<block key="pvpAC0_1_5069_Name" korean="중급 학살자의 목걸이" />
+	<block key="pvpAC0_0_5069_Name" korean="중급 학살자의 반지 I" />
+	<block key="pvpAC0_2_5069_Name" korean="중급 학살자의 반지 II" />
+	<block key="AC0_1_45004_CR_Name" korean="빛나는 에메랄드 목걸이" />
+	<block key="AC0_0_45004_CR_Name" korean="빛나는 에메랄드 반지" />
+	<block key="AC0_1_50004_CR_Name" korean="빛나는 정교한 에메랄드 목걸이" />
+	<block key="AC0_0_50004_CR_Name" korean="빛나는 정교한 에메랄드 반지" />
+	<block key="AC0_1_45005_Name" korean="제련자의 목걸이" />
+	<block key="AC0_0_50011_Name" korean="제련자의 강인한 반지" />
+	<block key="AC0_0_50012_Name" korean="제련자의 지혜로운 반지" />
+	<block key="AC0_1_45006_Name" korean="상인의 목걸이" />
+	<block key="AC0_0_50013_Name" korean="상인의 강인한 반지" />
+	<block key="AC0_0_50014_Name" korean="상인의 지혜로운 반지" />
+	<block key="AC0_1_45007_Name" korean="조련사의 목걸이" />
+	<block key="AC0_0_50015_Name" korean="조련사의 강인한 반지" />
+	<block key="AC0_0_50016_Name" korean="조련사의 지혜로운 반지" />
+	<block key="AC0_1_45008_Name" korean="대장장이의 목걸이" />
+	<block key="AC0_0_50017_Name" korean="대장장이의 강인한 반지" />
+	<block key="AC0_0_50018_Name" korean="대장장이의 지혜로운 반지" />
+	<block key="AC0_1_45300_Name" korean="라자트의 목걸이" />
+	<block key="AC0_0_45300_Name" korean="라자트의 반지 I" />
+	<block key="AC0_0_45301_Name" korean="라자트의 반지 II" />
+	<block key="AC0_1_45310_Name" korean="카심의 목걸이" />
+	<block key="AC0_0_45310_Name" korean="카심의 반지 I" />
+	<block key="AC0_0_45311_Name" korean="카심의 반지 II" />
+	<block key="AC0_1_45320_Name" korean="제논의 목걸이" />
+	<block key="AC0_0_45320_Name" korean="제논의 반지 I" />
+	<block key="AC0_0_45321_Name" korean="제논의 반지 II" />
+	<block key="AC0_1_45330_Name" korean="무파딘의 목걸이" />
+	<block key="AC0_0_45330_Name" korean="무파딘의 반지 I" />
+	<block key="AC0_0_45331_Name" korean="무파딘의 반지 II" />
+	<block key="AC0_1_45400_Name" korean="고대의 목걸이" />
+	<block key="AC0_0_45400_Name" korean="고대의 반지 I" />
+	<block key="AC0_0_45401_Name" korean="고대의 반지 II" />
+	<block key="AC0_0_45500_Name" korean="펙투라의 독 저항 반지" />
+	<block key="AC0_0_1000_EV2_Name" korean="피시바니의 토끼 반지 I" />
+	<block key="AC0_0_1000_EV2_Description" korean="<R_Y>피시바니의 토끼 반지 I은 1시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 반지 I은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_1_1000_EV2_Name" korean="피시바니의 토끼 목걸이 I" />
+	<block key="AC0_1_1000_EV2_Description" korean="<R_Y>피시바니의 토끼 목걸이 I은 1시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 목걸이 I은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_0_1001_EV2_Name" korean="피시바니의 토끼 반지 II" />
+	<block key="AC0_0_1001_EV2_Description" korean="<R_Y>피시바니의 토끼 반지 II는 3시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 반지 II은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_1_1001_EV2_Name" korean="피시바니의 토끼 목걸이 II" />
+	<block key="AC0_1_1001_EV2_Description" korean="<R_Y>피시바니의 토끼 목걸이 II는 3시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 목걸이 II는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_0_1002_EV2_Name" korean="피시바니의 토끼 반지 III" />
+	<block key="AC0_0_1002_EV2_Description" korean="<R_Y>피시바니의 토끼 반지 III은 5시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 반지 III은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_1_1002_EV2_Name" korean="피시바니의 토끼 목걸이 III" />
+	<block key="AC0_1_1002_EV2_Description" korean="<R_Y>피시바니의 토끼 목걸이 III은 5시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 목걸이 III은 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_0_1003_EV2_Name" korean="피시바니의 토끼 반지 IV" />
+	<block key="AC0_0_1003_EV2_Description" korean="<R_Y>피시바니의 토끼 반지 IV는 7시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 반지 IV는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_1_1003_EV2_Name" korean="피시바니의 토끼 목걸이 IV" />
+	<block key="AC0_1_1003_EV2_Description" korean="<R_Y>피시바니의 토끼 목걸이 IV는 7시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 목걸이 IV는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_0_1004_EV2_Name" korean="피시바니의 토끼 반지 V" />
+	<block key="AC0_0_1004_EV2_Description" korean="<R_Y>피시바니의 토끼 반지 V는 10시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 반지 V는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_1_1004_EV2_Name" korean="피시바니의 토끼 목걸이 V" />
+	<block key="AC0_1_1004_EV2_Description" korean="<R_Y>피시바니의 토끼 목걸이 V는 10시간 동안 착용 할 수 있으며, 이후 자동으로 사라집니다.
+피시바니의 토끼 목걸이 V는 가방에 들어오는 순간부터 시간이 소비됩니다.</R_Y>" />
+	<block key="AC0_1_45600_Name" korean="사막 용사의 목걸이" />
+	<block key="AC0_0_45600_Name" korean="사막 용사의 반지 I" />
+	<block key="AC0_0_45601_Name" korean="사막 용사의 반지 II" />
+	<block key="AC0_1_XMAS_Name" korean="크리스마스의 목걸이" />
+	<block key="AC0_0_XMAS1_Name" korean="크리스마스의 반지 I" />
+	<block key="AC0_0_XMAS2_Name" korean="크리스마스의 반지 II" />
+</blocks>

@@ -1,0 +1,262 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="area_sp_s_0001_name" korean="플레이어등록 및 부활위치1" />
+	<block key="area_sp_q_0001_name" korean="간수장 렉스" />
+	<block key="area_sp_q_0002_name" korean="비행선까지" />
+	<block key="area_sp_r_0001_name" korean="부활위치2" />
+	<block key="area_sp_q_0005_name" korean="탈출로" />
+	<block key="area_f01_p_1001_name" korean="신룡기사단 캠프" />
+	<block key="area_f01_p_1002_name" korean="유적지 폐허" />
+	<block key="area_f01_p_1003_name" korean="광채나무 숲 캠프" />
+	<block key="area_f01_p_0001_name" korean="팀버레이크 벌목지" />
+	<block key="area_f01_p_0002_name" korean="불이 삼킨 유적 출구" />
+	<block key="area_f01_p_0003_name" korean="하카나스 통로 출구" />
+	<block key="area_f01_q_0002_name" korean="광채나무 주변 호수" />
+	<block key="area_f01_q_0003_name" korean="진실된 시야의 물약 사용장소" />
+	<block key="area_f01_q_0004_name" korean="이누기 호위 퀘스트 완료" />
+	<block key="area_f01_q_0005_name" korean="추락지 주변 연못" />
+	<block key="area_f01_q_0006_name" korean="흑표범 등장 장소" />
+	<block key="area_f01_q_0011_name" korean="이누기 대사1" />
+	<block key="area_f01_q_0012_name" korean="이누기 대사2" />
+	<block key="area_f01_q_0013_name" korean="이누기 대사3" />
+	<block key="area_f01_r_0001_name" korean="신룡기사단 캠프 부활지점" />
+	<block key="area_f01_r_0002_name" korean="유적지 폐허 부활지점" />
+	<block key="area_f01_r_0003_name" korean="광채나무 캠프 부활지점" />
+	<block key="area_f01_r_0004_name" korean="불이 삼킨 유적 부활지점" />
+	<block key="area_f01_r_0005_name" korean="비행선 추락지 부활지점" />
+	<block key="area_f01_warp_0001_name" korean="불이 삼킨 유적 입장" />
+	<block key="area_f01_warp_0002_name" korean="하카나스 통로 입구" />
+	<block key="area_dc_p_0001_name" korean="칠흑의 동굴" />
+	<block key="area_bd_p_0001_name" korean="수호신룡의 사원" />
+	<block key="area_dl_p_0001_name" korean="용암동굴 최하층" />
+	<block key="area_hk_q_0001_name" korean="어린 목동 퀘스트 시작위치" />
+	<block key="area_hk_q_0002_name" korean="어린 목동 퀘스트 종료위치" />
+	<block key="area_hk_q_0003_name" korean="지친병사 종료위치" />
+	<block key="area_hk_q_0004_name" korean="자신감 종료위치" />
+	<block key="area_hk_q_0005_name" korean="아가씨를 위해 종료위치" />
+	<block key="area_fr_q_0001_name" korean="붉은색 마법 주문석 사용 위치" />
+	<block key="area_fr_q_0002_name" korean="푸른색 마법 주문석 사용 위치" />
+	<block key="area_fr_q_0003_name" korean="파란색 마법 주문석 사용 위치" />
+	<block key="area_fr_q_0004_name" korean="노란색 마법 주문석 사용 위치" />
+	<block key="area_fr_q_0005_name" korean="기억의 책 사용 위치" />
+	<block key="area_fr_q_0007_name" korean="성별구분 퀘스트 사용" />
+	<block key="area_st_r_001_name" korean="갈대바람 마을 귀환석" />
+	<block key="area_st_r_002_name" korean="수비대 진지 귀환석" />
+	<block key="area_st_r_003_name" korean="해적단 부활소" />
+	<block key="area_st_r_004_name" korean="생명의 호수 임시 치료소" />
+	<block key="area_st_r_006_name" korean="통곡절벽 마을 임시 치료소" />
+	<block key="area_st_r_007_name" korean="푸른달빛 마을 귀환석" />
+	<block key="area_sf_p_0002_name" korean="신룡기사단 주둔지" />
+	<block key="area_sf_p_0004_name" korean="고대 유적 폐허 간이 주둔지" />
+	<block key="area_sf_p_0005_name" korean="광채나무 숲 캠프" />
+	<block key="area_st_p_0011_name" korean="갈대바람 마을" />
+	<block key="area_st_p_0012_name" korean="수비대 진지" />
+	<block key="area_st_p_0013_name" korean="생명의 호수" />
+	<block key="area_st_p_0014_name" korean="통곡절벽 마을" />
+	<block key="area_st_p_0015_name" korean="푸른달빛 마을" />
+	<block key="area_c01_p_1001_name" korean="승리의 대광장" />
+	<block key="area_c01_p_1002_name" korean="엘로라 성소" />
+	<block key="area_c01_p_1003_name" korean="고요의 평원(동부)" />
+	<block key="area_c01_p_1004_name" korean="잊혀진 폐허의 계곡" />
+	<block key="area_c01_p_1005_name" korean="고요의 평원(남부)" />
+	<block key="area_c01_p_0001_name" korean="하카나스 수도성 정문 관문" />
+	<block key="area_c01_p_0002_name" korean="하카나스 수도성 동문 관문" />
+	<block key="area_c01_p_0003_name" korean="거친 모험가 항구" />
+	<block key="area_c01_p_0004_name" korean="승리의 대광장" />
+	<block key="area_c01_p_0005_name" korean="잊혀진 폐허의 계곡" />
+	<block key="area_c01_r_0001_name" korean="승리의 대광장" />
+	<block key="area_c01_r_0002_name" korean="고요의 평원(동부)" />
+	<block key="area_f02_p_1001_name" korean="켈우즈 마을" />
+	<block key="area_f02_p_1002_name" korean="산서프스 피난 캠프" />
+	<block key="area_f02_p_1003_name" korean="포효의 숲 주둔지" />
+	<block key="area_f02_p_0001_name" korean="카를레앙 대저택 입구" />
+	<block key="area_f02_p_0002_name" korean="얼어붙은 폐허 입구" />
+	<block key="area_f02_p_0003_name" korean="하카나스 수도성 정문 관문" />
+	<block key="area_f02_p_0004_name" korean="하카나스 수도성 동문 관문" />
+	<block key="area_f02_r_0001_name" korean="피난 캠프" />
+	<block key="area_f02_r_0002_name" korean="북부 경비탑" />
+	<block key="area_f02_r_0003_name" korean="켈우즈 마을" />
+	<block key="area_f02_r_0004_name" korean="포효의 숲 주둔지" />
+	<block key="area_f02_r_0005_name" korean="격동의 대지 캠프" />
+	<block key="area_f02_r_0006_name" korean="자다란 피난 캠프" />
+	<block key="area_d00_r_0001_name" korean="유적 페허 입구" />
+	<block key="area_d01_p_0001_name" korean="대저택 입구" />
+	<block key="area_fr_r_0001_name" korean="얼어붙은 폐허 입구" />
+	<block key="area_c01_p_3001_name" korean="승리의 대광장" />
+	<block key="area_c01_p_3002_name" korean="하카나스 공중 선착장" />
+	<block key="area_c01_p_3003_name" korean="하카나스 정문" />
+	<block key="area_c01_p_3004_name" korean="펠로우 연구소" />
+	<block key="area_c01_p_3005_name" korean="수도성 경비대" />
+	<block key="area_f00_p_0001_name" korean="고통의 뇌옥 감금실" />
+	<block key="area_f01_e01_r_001_name" korean="시나리오 채널 입구" />
+	<block key="area_f01_e02_r_001_name" korean="북부 유적지 폐허 입구" />
+	<block key="area_f04_p_1002_name" korean="휘몰아치는 바다" />
+	<block key="area_f04_p_1001_name" korean="고공 정찰캠프" />
+	<block key="area_f04_p_1003_name" korean="거대 엘로라 석상" />
+	<block key="area_f04_r_0001_name" korean="휘몰아치는 바다" />
+	<block key="area_f04_r_0002_name" korean="하카나스 고공 정찰캠프" />
+	<block key="area_f04_r_0003_name" korean="파괴된 여신 석상" />
+	<block key="area_f04_p_5001_name" korean="멸망의 공역" />
+	<block key="area_c01_p_5001_name" korean="하카나스 수도성" />
+	<block key="area_f02_p_0005_name" korean="불이 삼킨 유적 입구" />
+	<block key="area_d00_p_0003_name" korean="불이 삼킨 유적 빛의 성석" />
+	<block key="area_d01_p_0002_name" korean="카를레앙 대저택 빛의 성석" />
+	<block key="area_d02_p_0002_name" korean="얼어붙은 폐허 빛의 성석" />
+	<block key="area_f04_q_0001_name" korean="바다 소용돌이" />
+	<block key="area_f04_q_0002_name" korean="여신석상" />
+	<block key="area_c01_p_1006_name" korean="하카나스 공중 선착장" />
+	<block key="area_f04_p_0001_name" korean="휘몰아치는 바다" />
+	<block key="area_f04_p_0002_name" korean="고공 정찰캠프" />
+	<block key="area_f04_p_0003_name" korean="파괴된 여신 석상" />
+	<block key="area_c01_r_0003_name" korean="푸른꽃 진액 상점 지나" />
+	<block key="area_f03_p_0001_name" korean="갈대 바람 마을" />
+	<block key="area_f03_r_0001_name" korean="론도의 얼음성 입구" />
+	<block key="area_d04_ec_0001_name" korean="론도의 얼음성 컷신이벤트" />
+	<block key="area_f03_p_0002_name" korean="수비대 주둔지" />
+	<block key="area_f03_p_0003_name" korean="통곡절벽 마을" />
+	<block key="area_f03_p_0004_name" korean="파를라크 영지" />
+	<block key="area_f03_p_0005_name" korean="생명의 호수" />
+	<block key="area_d02_p_0001_name" korean="마트렌 폐허 입구" />
+	<block key="area_f03_r_0002_name" korean="갈대 바람 마을" />
+	<block key="area_f03_r_0003_name" korean="생명의 호수" />
+	<block key="area_f03_r_0004_name" korean="수비대 거점" />
+	<block key="area_f03_r_0005_name" korean="파를라크 영지" />
+	<block key="area_f03_r_0006_name" korean="통곡 절벽 마을" />
+	<block key="area_f03_ec_0001_name" korean="해적선 입구" />
+	<block key="area_f03_01_q_0001_name" korean="해적선장 조우" />
+	<block key="area_f04_p_1004_name" korean="빛을 잃은 신전" />
+	<block key="area_f04_p_1005_name" korean="잊혀진 드래곤 대지" />
+	<block key="area_d11_s_0001_name" korean="플레이어등록 및 부활위치1" />
+	<block key="area_d11_s_0002_name" korean="매복위치1" />
+	<block key="area_d11_s_0003_name" korean="매복위치2" />
+	<block key="area_d11_s_0004_name" korean="매복위치3" />
+	<block key="area_c01_warp_0004_name" korean="하카나스 수도성" />
+	<block key="area_st_p_001_name" korean="파르나의 땅" />
+	<block key="area_f03_p_1001_name" korean="베일에 싸인 동굴 입구" />
+	<block key="area_d03_p_0001_name" korean="동굴 입구" />
+	<block key="area_f03_ec_2002_name" korean="푸른 달빛 마을" />
+	<block key="area_f03_p_0006_name" korean="파를라크 얼음 성채 입구" />
+	<block key="area_d03_p_0003_name" korean="신전 입구" />
+	<block key="area_d02_p_0003_name" korean="눈보라치는 광산 길" />
+	<block key="area_f03_r_0007_name" korean="해적단 본거지 해안" />
+	<block key="area_d04_p_0001_name" korean="얼음 성채 입구" />
+	<block key="area_f04_r_0004_name" korean="빛을 잃은 신전" />
+	<block key="area_f04_r_0005_name" korean="잊혀진 드래곤 대지" />
+	<block key="area_f09_r_0001_name" korean="수비대 주둔지" />
+	<block key="area_f09_r_0002_name" korean="바엘리스 요새" />
+	<block key="area_f09_r_0003_name" korean="공중 농장" />
+	<block key="area_f09_r_0004_name" korean="우트란 경비초소" />
+	<block key="area_f09_p_0001_name" korean="수비대 주둔지" />
+	<block key="area_f09_p_0002_name" korean="바엘리스 요새" />
+	<block key="area_p01_p_1001_name" korean="진리의 관문" />
+	<block key="area_d03_e_0001_name" korean="동굴 입구" />
+	<block key="area_p01_p_001_name" korean="진리의 관문" />
+	<block key="area_f15_r_0001_name" korean="큰바람섬" />
+	<block key="area_f15_p_1001_name" korean="큰바람섬" />
+	<block key="area_f16_p_1001_name" korean="대해 결계 내부" />
+	<block key="area_f09_p_1001_name" korean="신의장벽" />
+	<block key="area_f09_p_1002_name" korean="대해 결계 외부" />
+	<block key="area_f09_r_0005_name" korean="푸른 산호섬" />
+	<block key="area_c01_q_003_name" korean="수도성 북문" />
+	<block key="area_c01_nor_0002_name" korean="엘로라 성소" />
+	<block key="area_c01_p_5005_name" korean="엑자란 무법지대 입구" />
+	<block key="area_c01_p_1007_name" korean="하카나스 수도성 동문" />
+	<block key="area_c01_p_1008_name" korean="하카나스 수도성 북문" />
+	<block key="area_c01_p_1009_name" korean="상업지구" />
+	<block key="area_c01_p_1010_name" korean="공업지구" />
+	<block key="area_c01_p_1011_name" korean="길드 관리소" />
+	<block key="area_f02_p_1004_name" korean="풍요의 숲 야영지" />
+	<block key="area_f02_p_1005_name" korean="자다란 피난 캠프" />
+	<block key="area_f02_p_1006_name" korean="북부 경비탑" />
+	<block key="area_f02_p_1007_name" korean="격동의 대지" />
+	<block key="area_f09_p_0005_name" korean="공중 농장" />
+	<block key="area_f09_p_0006_name" korean="무지개 산호초" />
+	<block key="area_f03_p_0007_name" korean="해적단 본거지 입구" />
+	<block key="area_f03_p_0008_name" korean="백은의 계곡 입구" />
+	<block key="area_f03_p_0009_name" korean="파르나 부유 섬" />
+	<block key="area_f04_p_1006_name" korean="탐욕의 바다" />
+	<block key="area_p01_ReturnP_001_name" korean="진리의 관문" />
+	<block key="area_p01_ReturnP_002_name" korean="달무리 야영지" />
+	<block key="area_p01_ReturnP_003_name" korean="붉은 그림자 주둔지" />
+	<block key="area_f04_p_1007_name" korean="공역의 틈새 입구" />
+	<block key="area_p01_p_002_name" korean="붉은 그림자 주둔지" />
+	<block key="area_p01_p_003_name" korean="달무리 야영지" />
+	<block key="area_p01_p_004_name" korean="격동의 야영지" />
+	<block key="area_p01_ReturnP_004_name" korean="격동의 야영지" />
+	<block key="area_d03_n_p_001_name" korean="해저 신전 앞" />
+	<block key="area_d03_n_warp_0002_name" korean="동굴 입구" />
+	<block key="area_f09_n_warp_0001_name" korean="하카나스 대해" />
+	<block key="area_f04_p_9001_name" korean="공역의 틈새" />
+	<block key="area_f04_p_9002_name" korean="멸망의 공역" />
+	<block key="area_d22_SafeWarp_01_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_02_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_03_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_04_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_05_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_06_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_07_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_11_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_12_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_13_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_14_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_15_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_16_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_17_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_51_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_52_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_61_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_SafeWarp_62_name" korean="숨겨진 비밀 통로" />
+	<block key="area_d22_warp_013_name" korean="숨겨진 비밀 통로" />
+	<block key="area_f98_p001_name" korean="동편 관중석" />
+	<block key="area_f98_p002_name" korean="동편 대기실" />
+	<block key="area_f98_p003_name" korean="동편 경기장" />
+	<block key="area_f98_p004_name" korean="서편 관중석" />
+	<block key="area_f98_p005_name" korean="서편 대기실" />
+	<block key="area_f98_p006_name" korean="서편 경기장" />
+	<block key="area_f98_p007_name" korean="결투장" />
+	<block key="area_f05_p_0001_name" korean="알세크 마을" />
+	<block key="area_f05_p_0002_name" korean="눈물의 오아시스" />
+	<block key="area_f05_p_0003_name" korean="광산 임시 캠프" />
+	<block key="area_f05_p_0004_name" korean="황금 봉우리" />
+	<block key="area_f05_p_0005_name" korean="신전 파견 캠프" />
+	<block key="area_f05_p_0006_name" korean="크로쿤 병영지구" />
+	<block key="area_f05_p_0007_name" korean="은둔자의 마을" />
+	<block key="area_d02_b_po_02_name" korean="산틴의 지하창고" />
+	<block key="area_d13_p_1001_name" korean="사원 입구" />
+	<block key="area_d13_p_9999_name" korean="스캇라샤의 봉인" />
+	<block key="area_f05_warp_0001_name" korean="고대의 사원 입구" />
+	<block key="area_f05_p_9001_name" korean="고대의 사원 입구" />
+	<block key="area_f05_p_5001_name" korean="불사의 사막" />
+	<block key="area_f05_warp_0002_name" korean="불사군단 요새 입구" />
+	<block key="area_f05_p_9101_name" korean="불사군단 요새 입구" />
+	<block key="area_d06_warp_0001_name" korean="불사의 사막" />
+	<block key="area_d06_r_0001_name" korean="불사군단 요새 부활" />
+	<block key="area_d06_p_0001_name" korean="하층 라이딩 구역" />
+	<block key="area_d06_p_9001_name" korean="불사군단 요새 입장지역" />
+	<block key="area_d06_ec_0001_name" korean="제어실 좀비" />
+	<block key="area_d06_ec_0002_name" korean="동력실 좀비" />
+	<block key="area_d06_ec_0003_name" korean="소환실 좀비" />
+	<block key="area_f06_start_01_name" korean="펙투라 입구" />
+	<block key="area_f06_start_L_01_name" korean="강철 방어의 회랑" />
+	<block key="area_f06_start_R_01_name" korean="원소 저항의 회랑" />
+	<block key="area_f06_end_L_01_name" korean="강철 방어의 회랑" />
+	<block key="area_f06_end_R_01_name" korean="원소 저항의 회랑" />
+	<block key="area_f06_end_01_name" korean="펙투라 하층 입구" />
+	<block key="area_f06_MBoss_01_name" korean="펙투라 설계실 입구" />
+	<block key="area_f06_MBoss_Start_01_name" korean="빌마의 펙투라 설계실" />
+	<block key="area_f06_ug_01_name" korean="펙투라 외 다리" />
+	<block key="area_f06_ug_start_01_name" korean="암살대 훈련소" />
+	<block key="area_f06_mboss_s_01_name" korean="빌마의 설계실" />
+	<block key="area_f06_boss_s_01_name" korean="펙투라 정상" />
+	<block key="area_f05_p_9201_name" korean="펙투라 던전 입구" />
+	<block key="area_f06_ug_02_name" korean="펙투라 외 다리 입구" />
+	<block key="area_f05_p_0008_name" korean="요새 안" />
+	<block key="area_f05_p_0009_name" korean="요새 밖" />
+	<block key="area_f06_poison_01_name" korean="독 지대" />
+</blocks>

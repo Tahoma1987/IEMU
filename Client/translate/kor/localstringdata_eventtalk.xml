@@ -1,0 +1,949 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="E0_Talk_gstar2012" korean="저는 크로우님에게 돌아가겠습니다." />
+	<block key="E0_Talk_001" korean="커흥! 게으름부리지 말고 경계하도록!" />
+	<block key="E0_Talk_002" korean="커흥! 아무리 봐도 멋진 보석이야!" />
+	<block key="E1_NOTICE_001" korean="무기 거치대에서 무기를 꺼내야 합니다." />
+	<block key="E1_NOTICE_002" korean="자물쇠를 부수고 철창문을 열어야 합니다." />
+	<block key="E1_NOTICE_003" korean="조종장치 2개를 모두 작동시켜서 문을 열어야 합니다." />
+	<block key="E1_NOTICE_004" korean="크로우를 도와서 간수장 렉스를 쓰러뜨려야 합니다." />
+	<block key="E1_NOTICE_005" korean="크로우와 함께 적을 해치우세요." />
+	<block key="E1_NOTICE_006" korean="크로우가 문을 여는 동안 기다려주세요." />
+	<block key="E1_NOTICE_007" korean="크로우를 따라가십시오." />
+	<block key="E1_NOTICE_008" korean="철창문이 잠겼습니다." />
+	<block key="E1_NOTICE_009" korean="철창문이 열렸습니다." />
+	<block key="E1_NOTICE_010" korean="무기를 착용하십시오." />
+	<block key="E1_NOTICE_011" korean="시작 위치에서 보스를 다시 불러낼 수 있습니다." />
+	<block key="E1_NOTICE_012" korean="철창문에 달려 있는 자물쇠를 공격해서 파괴해야 합니다." />
+	<block key="E1_NOTICE_013" korean="목적달성에 실패하였습니다. 퀘스트를 포기하고 다시 받아야 합니다." />
+	<block key="E1_NOTICE_014" korean="축하합니다. 보스를 처치하는데 성공하였습니다.\n출발 위치로 10초 후에 귀환합니다." />
+	<block key="E1_NOTICE_015" korean="축하합니다. 보스를 처치하는데 성공하였습니다.\n출발 위치로 10초 후에 귀환합니다." />
+	<block key="E1_NOTICE_016" korean="야수 우리 자물쇠를 파괴해야 합니다." />
+	<block key="E1_NOTICE_017" korean="페가수스에게 다가가 탑승해야 합니다." />
+	<block key="E1_NOTICE_018" korean="크로우와 함께 탈출지점까지 이동해야 합니다." />
+	<block key="E1_NOTICE_019" korean="렉스를 회복시켜주는 간수장 지배석을 파괴해야 합니다." />
+	<block key="E2_NOTICE_001" korean="늑대인간으로 변한 목동 제프를 처치하세요." />
+	<block key="E50_NOTICE_001" korean="지면 타격 스킬은 대부분 점프로 회피할 수 있습니다." />
+	<block key="E1_Talk_001" korean="공주님 구출을 위해 함께 싸우겠습니다." />
+	<block key="E1_Talk_002" korean="공주님은 사란트의 군대에 끌려가셨습니다." />
+	<block key="E1_Talk_003" korean="큰일이군… 이 소식을 서둘러 전해야 해! 어서 왕국으로!" />
+	<block key="E1_Talk_012" korean="정신이 들었나? 공주님은 이곳에 없는 것 같군." />
+	<block key="E1_Talk_014" korean="자, 이쪽으로! 공주님을 구출한다." />
+	<block key="E1_Talk_028" korean="조심해! 이런 곳에서 목숨을 잃어선 안 된다!" />
+	<block key="E1_Talk_032" korean="음… 자네는… 움직일 수 있으면 같이 간다!" />
+	<block key="E1_Talk_033" korean="서둘러! 어서 무기를!" />
+	<block key="E1_Talk_034" korean="문이 닫혀있군." />
+	<block key="E1_Talk_035" korean="문은 내가 열지. 저 기사를 구출하게!" />
+	<block key="E1_Talk_036" korean="무사하셨군요. 공주님도 무사하셔야 할텐데…" />
+	<block key="E1_Talk_037" korean="자! 문이 열렸네!" />
+	<block key="E1_Talk_038" korean="경비병들이로군. 서둘러 처치하세!" />
+	<block key="E1_Talk_039" korean="문이 잠겼군! 내가 온 것을 눈치챘나?" />
+	<block key="E1_Talk_040" korean="음? 뒤에서 무슨 소리가 들리는데..." />
+	<block key="E1_Talk_041" korean="경비병들이 오는군!" />
+	<block key="E1_Talk_042" korean="서둘러 이 곳을 정리하고 갑시다!" />
+	<block key="E1_Talk_043" korean="문이 열렸군!" />
+	<block key="E1_Talk_044" korean="경비병을 맡을 테니 서둘러 문을 열게!" />
+	<block key="E1_Talk_045" korean="경비병들이 더 몰려오기 전에 이동하도록 하세." />
+	<block key="E1_Talk_046" korean="잡혀있는 기사가 또 있군!" />
+	<block key="E1_Talk_047" korean="서둘러 구출하도록 하세!" />
+	<block key="E1_Talk_048" korean="토르투스! 잠시만 기다리게." />
+	<block key="E1_Talk_049" korean="하아… 공주님은 이곳에 안 계십니다." />
+	<block key="E1_Talk_050" korean="서둘러! 어서 이곳을 빠져나간다." />
+	<block key="E1_Talk_051" korean="안쪽에서 강한 기운이 느껴지는군." />
+	<block key="E1_Talk_052" korean="이 곳을 지키는 간수장이야. 조심해!" />
+	<block key="E1_Talk_054" korean="[UserName]님! 이쪽입니다." />
+	<block key="E1_Talk_055" korean="자! 서둘러 간수장을 처치하도록!" />
+	<block key="E1_Talk_056" korean="좋아, 간수장을 쓰러뜨렸군! 어서 이 위험한 곳을 나가도록 하지." />
+	<block key="E1_Talk_057" korean="이쪽으로!" />
+	<block key="E1_Talk_058" korean="조금만 더 가면 출구가 보일 거야. 끝까지 잘 따라와주게." />
+	<block key="E1_Talk_059" korean="호위 기사단의 펠로우들이군. 생체 실험에 쓰기 위해 가둬둔 것 같네." />
+	<block key="E1_Talk_060" korean="오! 크로우님! 감사합니다!" />
+	<block key="E1_Talk_061" korean="구해내서 데려가도록 하세." />
+	<block key="E1_Talk_062" korean="아직 기운이 남아있군. 경비병들과 싸울 때 도움이 되겠는걸." />
+	<block key="E1_Talk_063" korean="저도 함께 싸우겠습니다." />
+	<block key="E1_Talk_064" korean="이제 흑표범에게 다가가서 올라타도록 하게." />
+	<block key="E1_Talk_065" korean="곧 경비병들이 올거야. 계속 달리게!" />
+	<block key="E1_Talk_066" korean="어리석은 것들! 이 곳에선 쥐새끼 한마리도 빠져나갈 수 없다!" />
+	<block key="E1_Talk_067" korean="저쪽에 비행선이 보이는군. 경비병들이 쫓아오기 전에 서두르는 것이 좋겠어." />
+	<block key="E1_Talk_068" korean="탈옥자다! 잡아라!" />
+	<block key="E1_Talk_069" korean="엄청난 수의 경비병들이군…전투는 무리겠는걸!" />
+	<block key="E1_Talk_070" korean="펠로우들이 있군. 펠로우를 타고 탈출한다!" />
+	<block key="E1_Talk_071" korean="자, 서둘러 펠로우에 올라타게!" />
+	<block key="E1_Talk_072" korean="생각보다 빠르군." />
+	<block key="E1_Talk_073" korean="이대로는 안되겠군요. 제가 문을 열도록 하겠습니다." />
+	<block key="E1_Talk_074" korean="공주님은 어디 계신가?" />
+	<block key="E10_Talk_001" korean="한결 몸이 좋아진 것 같군.  조금 더 휴식을 취하면 움직일 수 있을 것이오." />
+	<block key="E2_Talk_001" korean="죽을 준비를 해라." />
+	<block key="E2_Talk_002" korean="나무를 건드리지마." />
+	<block key="E3_Talk_001" korean="출발합니다?!" />
+	<block key="E3_Talk_002" korean="조심하세요." />
+	<block key="E3_Talk_003" korean="수고하셨습니다." />
+	<block key="E4_Talk_001" korean="크릉.. 고마워.. 카일라스에게 나에 대한 이야기를 들을 수 있을 거야…" />
+	<block key="E4_Talk_002" korean="추후" />
+	<block key="E5_Talk_001" korean="집으로 갈거에요! 늑대 인간이 공격하면 나를 보호해주세요!" />
+	<block key="E5_Talk_002" korean="집으로 빨리 가고 싶어요. 몸도 아프고… 두통도 있고.." />
+	<block key="E5_Talk_003" korean="어머니가 보고 싶어요. 어머니가 만들어 주신 고기 스튜는 정말 맛있거든요!" />
+	<block key="E5_Talk_004" korean="몸에서 점점 열이 나고 있어요. 어서 집으로 가야할텐데.. 손발도 무거워졌어요." />
+	<block key="E5_Talk_005" korean="늑대인간도… 모두.. 원래는 나처럼 인간이었죠?" />
+	<block key="E5_Talk_006" korean="집까지 가는 길이 이렇게 길게 느껴질 줄 몰랐어요." />
+	<block key="E5_Talk_007" korean="어… 어머니는 집에 없군요. 아아!! 갑자기 세상이 붉은 빛으로 보여요. 아름다워!" />
+	<block key="E5_Talk_008" korean="몸이 이상해요! 더워요! 뭔가 몸에서 나오려고 해요!" />
+	<block key="E5_Talk_009" korean="내가 늑대인간이 되다니… 어떻게 이런 일이!!" />
+	<block key="E5_Talk_010" korean="죽어라! 크르르르!" />
+	<block key="E5_Talk_011" korean="아윽! 어머니의 따뜻한 스튜를.. 먹고 싶었는데.." />
+	<block key="E5_Talk_012" korean="우오! 너의  붉은 살점들이 아름답다! 피 냄새는 더욱 향기롭군. 그르르." />
+	<block key="E50_Talk_001" korean="아아…누가 좀 도와주세요…" />
+	<block key="E6_Talk_001" korean="이제! 충만한 자신감이 생겼소. 먼저 돌아갈테니 야영지로 나를 찾아오시오." />
+	<block key="E6_Talk_002" korean="드디어 나의 안식처로 돌아왔군요." />
+	<block key="E6_Talk_003" korean="너무 멀리 나오지 않았소! 이런 무모한 짓은 관두겠소!" />
+	<block key="E7_Talk_001" korean="적을 상대할 만큼 강해졌습니다." />
+	<block key="E8_Talk_001" korean="구해주셔서 감사합니다. 베르도님에게 보고해주세요!" />
+	<block key="E8_Talk_002" korean="휴우, 같이 와줘서 고마워요. 미키 사이볼트에게 가보세요." />
+	<block key="E8_Talk_003" korean="아아, 고마워. 빨리 물에 뛰어들어야겠어. 먼저 물에 들어갈게. 따라와." />
+	<block key="E8_Talk_004" korean="꽤 위험한 길이었군요. 얼음성 입구에 먼저 가서 준비하고 있겠습니다." />
+	<block key="E9_Talk_001" korean="사냥이 완료되었군요. 강해진 것 같습니다. 먼저 집으로 돌아갈테니 찾아오세요." />
+	<block key="E51_Talk_001" korean="크르르…이 곳으로는 지나갈 수 없다!" />
+	<block key="E11_Talk_001" korean="죽음의 마법사가 된 내 실력을 보여주마!" />
+	<block key="E11_Talk_002" korean="이…이대로, 끝나지는 않는다…두고보자, [UserName]!!" />
+	<block key="E11_Talk_003" korean="추적 당했구나, 안데르! 이 얼간이!" />
+	<block key="E11_Talk_004" korean="에이, 천한 것이 힘만 세갖고! 흥, 다음에는 이렇게 안 될 거야!" />
+	<block key="E11_Talk_005" korean="으, 으앗! 뭐야 이건!!" />
+	<block key="E12_Talk_001" korean="더 이상 날 쫓아오지 마라." />
+	<block key="E12_Talk_002" korean="쫓아오지 말라고 말했을 텐데?" />
+	<block key="E12_Talk_003" korean="건방진 놈! 널 처치하고 국새를 아버지께 가져다 드릴테다!" />
+	<block key="E12_Talk_004" korean="힘이 빠지고 있어.. 아버지가 왕이 되셔야 하는데.." />
+	<block key="E12_Talk_005" korean="쳇, 힘만 쎈 계집애가…!" />
+	<block key="E13_Talk_001" korean="앗 따거! 이게 뭐야?! 꼬, 꽃게? 이것 좀 치워! 아, 알았어! 말할게! 무러미족과 갈대바람 마을 사람들의 분쟁을 위한 거였어! 이걸 계획한 건 우리 해적단의 상급 칼잡이들이야…" />
+	<block key="E13_Talk_002" korean="포, 폭발이다!" />
+	<block key="E13_Talk_003" korean="저기 폭파범이다! 잡아라!" />
+	<block key="E13_Talk_004" korean="으윽…이렇게 죽다니…!" />
+	<block key="E13_Talk_005" korean="크윽…바라나크님! 복수를…!" />
+	<block key="E13_Talk_006" korean="크르륵! 누가 불 피웠냐?!" />
+	<block key="E13_Talk_007" korean="크릇크르릇! 거기 뭐 하는 거냐?!" />
+	<block key="n05_Talk_001" korean="훈련병! 모두들 좀더 분발하도록!" />
+	<block key="n05_Talk_002" korean="국왕 폐하를 위하여!" />
+	<block key="n05_Talk_003" korean="거기! 타이밍 못 맞추는 놈이 누군가? 똑바로 못 해?" />
+	<block key="n05_Talk_004" korean="다들 군기가 빠졌다! 1000번 더 반복하고 싶은 건가?" />
+	<block key="E14_Talk_001" korean="크르릉! 배신자가 탈출한다!" />
+	<block key="E14_Talk_002" korean="크릉! 브라기는 배신자를 용서하지 않는다!" />
+	<block key="E14_Talk_003" korean="캬오! 어딜 도망가느냐?" />
+	<block key="E14_Talk_004" korean="크릉! 도망가도 소용없다. 이 배신자야!" />
+	<block key="E14_Talk_005" korean="커흥! 여긴 통과할 수 없다." />
+	<block key="E14_Talk_006" korean="크릉! 탈출하도록 놔둘 줄 아느냐?" />
+	<block key="E15_Talk_001" korean="꺄악! 살려주세요!" />
+	<block key="E15_Talk_002" korean="조심하세요!" />
+	<block key="E15_Talk_003" korean="제발 그만!" />
+	<block key="E15_Talk_004" korean="조금만 더 힘내요!" />
+	<block key="E15_Talk_005" korean="버텨야 해요!" />
+	<block key="E15_Talk_006" korean="하아…일단 막아냈네요." />
+	<block key="E15_Talk_007" korean="으허엉…! 그 어린 놈이 늑대인간이 되어 죽다니! 제프 녀석 불쌍해서 어쩌나…!" />
+	<block key="E16_Talk_001" korean="자경단 놈들! 도망 못 간다!" />
+	<block key="E16_Talk_002" korean="어딜 도망치려고!" />
+	<block key="E16_Talk_003" korean="으악! 해적이다!" />
+	<block key="E16_Talk_004" korean="또 나타났다! 살려줘요!" />
+	<block key="E16_Talk_005" korean="어엇! 방패게! 배고픈데 마침 잘 됐다!" />
+	<block key="E16_Talk_006" korean="아, 아얏! 아이고! 뭐 이리 사나워! 좀 도와주세요!" />
+	<block key="E16_Talk_007" korean="휴우, 배 좀 채우려다가 큰일 치렀네." />
+	<block key="E16_Talk_008" korean="이제 샤이렌이 갖고 있는 얼음성 입구 작동장치를 찾아서 얼음성으로 갑시다." />
+	<block key="E16_Talk_009" korean="가, 감히 나한테 덤벼?! 이몸이 누군줄 알고!" />
+	<block key="E16_Talk_010" korean="으하하, 이겼다! 그러니까 빨리 좀 갑시다! 제발 부탁해요! 해적은 이제 싫어!" />
+	<block key="E16_Talk_011" korean="여기서 놓치면 끝이다!" />
+	<block key="E16_Talk_012" korean="같이 쳐! 도망가게 두지 마!" />
+	<block key="E16_Talk_013" korean="하, 한꺼번에 나왔다!" />
+	<block key="E16_Talk_014" korean="더, 덤벼! 아주 다 덤벼! 째, 쨉도 안 되는 것들이 말이야. 그, 그렇죠?" />
+	<block key="E16_Talk_015" korean="우리의 작전을 알아채다니, 죽어 줘야겠다!" />
+	<block key="E16_Talk_016" korean="걱정마라, 단숨에 없애주마!" />
+	<block key="E16_Talk_017" korean="으악~! 살려주세요!" />
+	<block key="E16_Talk_018" korean="으… 내 돈을 두고 이렇게 갈 순 없어…" />
+	<block key="d08_notice_001" korean="어딘가의 문이 닫히는 소리가 들립니다!" />
+	<block key="d08_notice_002" korean="라단의 눈 제물 의식이 시작되었습니다!" />
+	<block key="d01_notice_101" korean="경비대장 키멘스의 시체에서 열쇠를 얻으십시오." />
+	<block key="d01_notice_102" korean="열쇠로 입구 세 곳 중에 한 곳을 열 수 있습니다." />
+	<block key="d01_notice_103" korean="대저택 정문 너머에서 불길한 기운이 강하게 느껴집니다." />
+	<block key="d02_Tolk_101" korean="오.. 하카나스의 용사들인가? 대단하군!!" />
+	<block key="d02_Tolk_102" korean="돌아가라~! 헛된 죽음일 뿐이다…" />
+	<block key="d02_Tolk_110" korean="나도 한 때는 하카나스의 영웅이었다!" />
+	<block key="d02_Tolk_111" korean="하지만 지금은 모든게 변해버렸지…" />
+	<block key="d02_Tolk_112" korean="어서 돌아가라!!" />
+	<block key="d02_Tolk_113" korean="내 손으로 너희들을 죽이기 전에 !!!" />
+	<block key="d02_Tolk_114" korean="아.. 미안하오.. 아이샤…" />
+	<block key="d02_Tolk_201" korean="이 놈들!! 감히 여기가 어느 안전이라고 행패들이냐?!!" />
+	<block key="d02_Tolk_202" korean="백작님! 이놈들은 제가 맡겠습니다!" />
+	<block key="d02_Tolk_203" korean="어서 군단의 임무를 수행하십시오~!" />
+	<block key="d02_Tolk_301" korean="오! 무모한 인간들!" />
+	<block key="d02_Tolk_302" korean="내가 살려낸 이 녀석이 누군지 알아보겠나?" />
+	<block key="d02_Tolk_303" korean="산틴~!! 놈들을 처치해라!!!" />
+	<block key="d02_Tolk_304" korean="우리의 계획을 방해할 수 있다고 생각하느냐?" />
+	<block key="f02_soldier_001" korean="아까 맡겼던 무기들의 수리 작업은 잘 되고 있는가?" />
+	<block key="f02_soldier_002" korean="흠. 보급품이 부족한데! 앞으로가 큰일이군." />
+	<block key="f02_elite_001" korean="돌격! 이 땅을 어지럽히는 놈들을 없애라!" />
+	<block key="f02_elite_002" korean="두려워하지 마라!" />
+	<block key="f02_soldier_003" korean="죽여도 죽여도 끝이 없군." />
+	<block key="f02_soldier_004" korean="괴물들이 이 이상 다가오지 못 하게 해야 한다!" />
+	<block key="f00_notice_001" korean="크로우를 도와 몬스터를 모두 없애야 합니다." />
+	<block key="_notice_001" korean="몬스터를 길들이기 위해 화살표로 표시된 지점으로 이동해야 합니다." />
+	<block key="d01_notice_001" korean="경비대장 키멘스에게서 저택 문 열쇠를 얻어야 합니다." />
+	<block key="f02_g_notice_003" korean="기본 7번에 지정되어 있는 길들이기 스킬을 사용하십시오." />
+	<block key="f02_g_notice_004" korean="지정한 몬스터의 등 위로 점프해서 올라타면 길들이기가 시작됩니다." />
+	<block key="f02_g_notice_005" korean="실수로 용암 위에 떨어져서 사망할 수 있으니 주의해야 합니다." />
+	<block key="f02_g_notice_006" korean="정면에 보이는 캠프로 이동하여 크로우를 만나야 합니다." />
+	<block key="f02_g_fellow_001" korean="Y키를 이용해서 펠로우 정보창을 열 수 있습니다." />
+	<block key="f02_g_fellow_002" korean="보관함의 펠로우를 더블 클릭하면 펠로우에 탑승할 수 있습니다." />
+	<block key="f02_g_fellow_003" korean="U키를 이용해서 펠로우에 올라타거나 내릴 수 있습니다." />
+	<block key="f02_g_notice_007" korean="격동의 대지의 용암이 더 강하게 요동치기 시작합니다." />
+	<block key="f02_g_notice_008" korean="조심하십시오. 강하고 불길한 기운이 다가오고 있습니다." />
+	<block key="f02_g_fellow_004" korean="전진 상태에서 Space bar 키를 2번 누르면 활강을 할 수 있습니다." />
+	<block key="f02_g_warning_001" korean="주의 하십시오. 더 이상 상승하면 위험합니다!" />
+	<block key="f02_g_warning_002" korean="펠로우의 기력이 급격히 떨어지고 있습니다. 고도를 낮추세요!" />
+	<block key="f02_g_fellow_005" korean="Space bar 키를 누르면 상승, X키를 누르면 하강합니다." />
+	<block key="f01_e01_001" korean="놈은 저 위에 있소! 갑시다!" />
+	<block key="f01_e01_002" korean="너 이놈! 각오해라!" />
+	<block key="f01_e01_003" korean="저도 갑니다! 이얏!" />
+	<block key="f01_e01_004" korean="나를 따라 오시오!" />
+	<block key="f01_e01_005" korean="이 사악한 놈들! 이 세상에서 꺼져버렷!" />
+	<block key="f01_e01_006" korean="모두들 돌격! 악령들을 몰아내라!" />
+	<block key="f01_e01_007" korean="이 어리석은 놈들을 없애버려라!" />
+	<block key="f01_e01_n_001" korean="쿤타리스: 어서 동쪽으로 오십시오." />
+	<block key="f01_e01_n_002" korean="보리스: 모두들 서둘러!" />
+	<block key="f01_e01_n_003" korean="유적지 입구를 통해 신룡기사단 병사들이 달려오고 있습니다." />
+	<block key="f01_e01_n_004" korean="쿤타리스: 기다리시오! 우리가 왔습니다!" />
+	<block key="f01_e01_008" korean="또 네놈들이냐!" />
+	<block key="f01_alen_001" korean="이대로 가다간 숲이!! 큰일이다." />
+	<block key="f01_alen_002" korean="어이! 누가 나좀 도와줘!" />
+	<block key="f01_alen_003" korean="불이 번지고 있는데, 다들 어디간거야?" />
+	<block key="f01_e01_009" korean="이만큼 정리됐으니, 이제 대장 놈을 없애러 갑시다." />
+	<block key="f01_e01_010" korean="드디어 끝인가? 길었군." />
+	<block key="f01_e01_011" korean="준비되면 이쪽으로 오세요" />
+	<block key="f01_e01_012" korean="수고하셨습니다. 이놈 때문에 굉장히 애를 먹고있었답니다!" />
+	<block key="f01_e02_001" korean="어서! 크로우님에게 가야합니다!" />
+	<block key="f01_e02_002" korean="더 이상 갈 수 없다." />
+	<block key="f01_e02_003" korean="죽여주마." />
+	<block key="f01_e02_004" korean="만만히 봐선 안되겠군." />
+	<block key="f01_e02_005" korean="여기까지 오다니… 제법이군." />
+	<block key="f01_e02_006" korean="손님 대접에 소홀하면 안되겠지." />
+	<block key="f01_e02_007" korean="하지만 여기까지다. 상대해줘라." />
+	<block key="f01_e02_008" korean="제법 버티는군. 저놈들을 처치하라!" />
+	<block key="f01_e02_009" korean="나까지 나서게 만들다니… 간다!" />
+	<block key="f01_e01_013" korean="어이쿠! 부상이 심해서 나는 더 이상 못 가겠소. 미안하오." />
+	<block key="f01_e02_010" korean="너무 늦게 도착하지 않아 다행이군." />
+	<block key="f01_e02_011" korean="드디어 결계가 파괴되었군! 어서 수도성으로!." />
+	<block key="f01_e01_014" korean="절대, 저놈이 무서워서 이러는 게 아니라오." />
+	<block key="f01_e01_015" korean="여기가 광채나무숲이나무! 먼저 캠프에서 기다리겠다무!" />
+	<block key="f01_e01_016" korean="광채나무~ 광채나무~ 반짝반짝 빛나지무~" />
+	<block key="f01_e01_017" korean="이 길을 따라 가면 광채나무 숲이무!" />
+	<block key="f01_e01_018" korean="빨리 따라 오라무!" />
+	<block key="f01_e01_019" korean="얼른 얼른 오라무!" />
+	<block key="f01_e01_020" korean="저 멀리 빛나는 나무가 보이나무?" />
+	<block key="f01_e01_021" korean="아참, 요정을 다스리는 엘퀴네스 여왕에 대해 아나무?" />
+	<block key="f01_e01_022" korean="음… 정말 아름다운 여왕이었다무. 예전에는." />
+	<block key="f01_e01_023" korean="광채나무는 엘로라 여신의 기운을 받은 나무다무." />
+	<block key="f01_e01_024" korean="예전엔 숲 전체가 광채나무로 가득했다무!" />
+	<block key="f01_e01_025" korean="하지만 엑자란 사람들이 와서 나무와 요정들 죽였다무.." />
+	<block key="f01_e01_026" korean="광채나무는 이제 몇 그루 안 남았다무. 슬프나무.." />
+	<block key="f01_e01_027" korean="그 이후 엘퀴네스는 완전히 사악해졌다무." />
+	<block key="f01_e01_028" korean="요정들도 변하고, 흡광초도 변해버렸다무." />
+	<block key="f01_e01_029" korean="얼마전 라니아 공주가 엘퀴네스를 되돌릴 방법 찾는다 했다무." />
+	<block key="f01_e01_030" korean="하지만 돌아오지 않아 엘퀴네스는 더 화났다무." />
+	<block key="f01_e01_031" korean="얼른 얼른! 거의 다 왔다무!" />
+	<block key="f01_e01_032" korean="요 앞에 캠프가 있다무!" />
+	<block key="f01_e01_033" korean="조금만 더! 빨리 빨리!" />
+	<block key="f01_e01_034" korean="거의 다 왔다무!" />
+	<block key="f01_e01_035" korean="너도 내 보물을 노리는 어리석은 자인가?" />
+	<block key="f01_e01_036" korean="내 보물은 줄 수 없다." />
+	<block key="f01_e01_037" korean="어떠냐? 이래도 나의 보물을 계속 원할텐가!" />
+	<block key="f01_e01_038" korean="이제 모두 야영지로 돌아가도록 합시다!" />
+	<block key="f01_e01_039" korean="우리가 왔습니다! 함께 싸웁시다." />
+	<block key="f01_e01_040" korean="여기까지 오다니! 내 손으로 직접 죽여주마!" />
+	<block key="f01_alen_004" korean="으아아! 불이야. 불!" />
+	<block key="f04_jody_001" korean="이 곳이 드래곤 영역입니다." />
+	<block key="f04_jody_002" korean="에롤 단장님을 만나 보십시오!" />
+	<block key="c01_talk_010" korean="명을 받들겠습니다 전하!" />
+	<block key="c01_talk_020" korean="명을 받듭니다!" />
+	<block key="c01_worzword_0" korean="나를 따라 오라무!" />
+	<block key="c01_worzword_1" korean="빨리 따라 오라무!" />
+	<block key="c01_worzword_2" korean="치키는 부응부응 간다무!" />
+	<block key="c01_worzword_3" korean="헥헥 숨차다무!" />
+	<block key="c01_worzword_4" korean="북쪽 상황을 알고있나무?" />
+	<block key="c01_worzword_5" korean="그 곳 상황은 좋지 않다무." />
+	<block key="c01_worzword_6" korean="흡혈귀들이 날뛰고 있다무." />
+	<block key="c01_worzword_7" korean="카를레앙 백작은 미쳐버렸다고 한다무." />
+	<block key="c01_worzword_8" korean="백작은 훌륭한 사람이었는데, 왜 그렇게 되었을까무?" />
+	<block key="c01_worzword_9" korean="아마도 사란트가 음모를 꾸몄을거다무." />
+	<block key="c01_worzword_10" korean="얼른 얼른!" />
+	<block key="c01_worzword_11" korean="거의 다 왔다무!" />
+	<block key="c01_worzword_12" korean="저기 교차로까지만 안내하겠다무." />
+	<block key="c01_worzword_13" korean="오른쪽으로 가야 한다무!" />
+	<block key="c01_worzword_14" korean="이곳에서 헤어져야한다무!" />
+	<block key="c01_worzword_15" korean="이쪽으로 계속가면 된다무! 그럼 안녕!" />
+	<block key="d01_boss_001" korean="피로 물든 나의 혈흔들이여! 어서와서 나를 도우라!" />
+	<block key="d01_boss_002" korean="피다! 이리와 신선한 피를 마셔라!" />
+	<block key="d01_ranto_001" korean="경비대! 침입자를 없애라!" />
+	<block key="d01_guard_001" korean="웬놈이냐!" />
+	<block key="d01_guard_002" korean="감히! 여기가 어디라고!" />
+	<block key="f04_last_001" korean="페가수스 기사단, 전투 준비 완료!" />
+	<block key="f04_last_002" korean="페가수스 기사단, 전투 준비 완료!" />
+	<block key="f04_last_003" korean="페가수스 기사단, 전투 준비 완료!" />
+	<block key="f04_last_004" korean="페가수스 기사단, 전투 준비 완료!" />
+	<block key="f04_last_005" korean="페가수스 기사단, 전투 준비 완료!" />
+	<block key="f04_last_006" korean="페가수스 기사단, 전투 준비 완료!" />
+	<block key="f04_last_007" korean="물러서지 마라! 대열을 갖추고 공습에 대비해라!" />
+	<block key="f04_last_008" korean="적이 몰려온다! 전열을 정비해라!" />
+	<block key="f04_last_009" korean="부상자를 서둘러 옮겨라!" />
+	<block key="f04_last_010" korean="제길… 불사군단 녀석들!" />
+	<block key="f04_last_011" korean="지긋 지긋한 놈들, 여기서 끝을 보자!" />
+	<block key="f04_last_012" korean="엘로라 거석을 내주면 끝장이다. 엘로라 거석을 지켜라!" />
+	<block key="f04_last_013" korean="조금만 더 버텨라!" />
+	<block key="f04_last_014" korean="물러서는 자는 죽음 뿐이다!" />
+	<block key="f04_last_015" korean="의무병! 의무병!" />
+	<block key="f04_last_016" korean="페가수스 지원은 아직인가!" />
+	<block key="f04_last_017" korean="엘로라 거석은 무사한가?!" />
+	<block key="f04_last_018" korean="서둘러라, 불사군단이 더 몰려온다!" />
+	<block key="f04_last_019" korean="바퀴벌레같은 놈들.. 다 죽여주마!" />
+	<block key="f04_last_020" korean="으랴아아아아아!" />
+	<block key="f04_last_021" korean="쏴라! 더 쏴라! 모두 쓸어버리자!" />
+	<block key="f04_last_022" korean="버텨! 무조건 버텨!" />
+	<block key="f04_last_023" korean="거석을 지켜라.. 반드시!" />
+	<block key="f04_last_024" korean="일단 막아야만 해. 일단 막아, 일단!" />
+	<block key="f04_last_025" korean="죽을 힘으로 버티자!" />
+	<block key="f04_last_026" korean="공세가 약해진다. 조금만 버텨라!" />
+	<block key="f04_last_027" korean="우리가 승리한다!" />
+	<block key="f04_last_028" korean="끝난건가..?" />
+	<block key="f04_last_029" korean="막아냈다. 우리가 막아냈어!" />
+	<block key="f04_last_030" korean="이겼다! 이겼어!!" />
+	<block key="f04_lilis_001" korean="오빠들, 여기서 힘 빼고 있지 말고 얼른 죽어줘~" />
+	<block key="f04_lilis_002" korean="어마? 꽤 근성 있네. 매력적이야~" />
+	<block key="f04_lilis_003" korean="구질구질해.. 살아남으려고 발버둥치는 거 리리스는 별로 안 좋아한다구." />
+	<block key="f04_lilis_004" korean="벌써 죽어버리면 어떻게 해? 우리 애들은 많~이 남아 있는데. 우훗." />
+	<block key="f04_lilis_005" korean="봐줬더니 안 되겠네? 리리스 화.났.어!" />
+	<block key="f04_lilis_006" korean="죽어! 죽어! 아하하핫!" />
+	<block key="f04_lilis_007" korean="리리스를 나서게 하고.. 모두 죽어버려!" />
+	<block key="f04_lilis_008" korean="엘로라는 되살아나지 못한다." />
+	<block key="f04_lilis_009" korean="위대한 젤나리스님의 힘을 이곳에!" />
+	<block key="f04_lilis_010" korean="거석은 무너지고 젤나리스의 기운이 다시 부활한다!" />
+	<block key="f04_lilis_011" korean="꽤 하네.. 일단 철수한다!" />
+	<block key="f01_e02_012" korean="조금만 더 있으면 결계가 완성된다. 방해하지 마라!" />
+	<block key="f01_e02_013" korean="어서 서둘러라!" />
+	<block key="f01_e02_n_001" korean="토르투스: 서둘러야 해. 어서 유적지 안으로!" />
+	<block key="f01_e02_n_002" korean="북부 유적지 폐허 안쪽으로 이동하세요" />
+	<block key="f01_e02_n_003" korean="크로우: 주변에 놈들이 매복하고 있어. 조심해." />
+	<block key="f01_e02_014" korean="저기, 레나가 있군! 가서 도와주자!" />
+	<block key="f01_e02_015" korean="도와주세요! 적이 너무 많습니다." />
+	<block key="f01_e02_016" korean="서둘러 왕국으로 이동하게! 이 사실을 폐하께 전해야만 해." />
+	<block key="f04_pegasus_001" korean="나의 원한을 반드시 갚아주시오.." />
+	<block key="f01_fellow_001" korean="!!!!!!!" />
+	<block key="f01_fellow_002" korean="캬웅! 컁! 캬웅!" />
+	<block key="f01_fellow_003" korean="캬오! 캬오오!" />
+	<block key="f01_fellow_004" korean="크앙! 컁!" />
+	<block key="f01_fellow_005" korean="끄으응….끼잉…" />
+	<block key="f01_fellow_006" korean="오, 맙소사. 화이트, 돌아왔구나!! 어서 이리 와!" />
+	<block key="f01_fellow_007" korean="우리 화이트를 찾아주다니, 정말 고맙소!" />
+	<block key="c01_light_001" korean="국새는 하카나스를 밝히는 빛의 유물.." />
+	<block key="c01_light_002" korean="이제 곧.. 카브임 교단의 어둠이 하카나스를 뒤덮는다.." />
+	<block key="ca_man_001_01" korean="이제 곧 힘의 균형은 무너진다." />
+	<block key="ca_man_001_02" korean="가소로운 빛의 힘 따위 무너뜨려주지!" />
+	<block key="ca_man_001_03" korean="아무도 날 방해할 수 없다!" />
+	<block key="ca_man_002_01" korean="제가 악마들을 약화시키겠습니다. 그 사이에 공격하세요." />
+	<block key="ca_man_002_02" korean="빛이여! 적을 멸할 힘을 주소서!" />
+	<block key="ca_man_002_03" korean="중장병을 조심하세요. 그들의 방어력은 특별합니다." />
+	<block key="d04_notice_01" korean="흑마법 강화석을 파괴하면 강화장치의 작동이 중단됩니다." />
+	<block key="d04_talk_01" korean="나를 통과하지 못하면 론도님에게 갈 수 없다!" />
+	<block key="d04_notice_02" korean="연구실로 통하는 문이 열렸습니다. 어서 론도를 쫓으세요." />
+	<block key="d04_notice_03" korean="10분 동안 최대한 많은 속성석을 파괴하십시오. 론도의 힘이 약해질 것입니다." />
+	<block key="d04_notice_04" korean="5분 남았습니다. 최대한 많은 속성석을 파괴하십시오." />
+	<block key="d04_notice_05" korean="1분 남았습니다. 최대한 많은 속성석을 파괴하십시오." />
+	<block key="d02_iceman_001" korean="우어! 우어! 침입자다!" />
+	<block key="d02_iceman_002" korean="케엑! 켁! 죽어라!" />
+	<block key="d02_iceman_003" korean="우어! 침입자다!" />
+	<block key="d02_iceman_004" korean="인간! 죽여주마!" />
+	<block key="d02_iceman_005" korean="쿠엑! 뜨거운 몸뚱이닷!" />
+	<block key="d02_iceman_006" korean="부셔버려라! 하악!" />
+	<block key="d02_iceman_007" korean="겁도 없이! 완전히 부셔주마!" />
+	<block key="d02_notice_001" korean="축하합니다. 마트렌 폐허 공략에 성공하셨습니다!" />
+	<block key="f03_event_001" korean="대단하구나! 하지만 이번엔 쉽지 않을 것이다!!" />
+	<block key="f03_event_002" korean="정말 놀랍구나…그래 너라면! 너라면 론도 그 원수를 이길 수도 있겠어!" />
+	<block key="f03_event_003" korean="후후후! 좋아. 기대되는군. 다음에 또 보자. 하하하!" />
+	<block key="f03_notice_001" korean="잠들어있는 고대의 해골 선장을 찾으세요." />
+	<block key="f03_notice_002" korean="용병 제이슨 미카에게 돌아가십시오." />
+	<block key="f03_notice_003" korean="바라나크 이 허약한 놈! 이 몸이 나세게 만들다니!!" />
+	<block key="d11_key_001" korean="침입자가 나타났다!" />
+	<block key="d11_key_002" korean="열쇠는 내줄 수 없다!" />
+	<block key="d11_key_003" korean="열쇠지기의 시체에서 열쇠를 얻으십시오." />
+	<block key="d11_key_004" korean="열쇠로 도개교를 내릴 수 있습니다." />
+	<block key="d11_bell_001" korean="비상! 비상! 적의 침입이다!" />
+	<block key="d11_bell_002" korean="종을 울려서 수비대를 불러야겠군." />
+	<block key="d11_bell_003" korean="후후. 넌 이제 죽은 목숨이다." />
+	<block key="d11_bell_004" korean="종만 울렸어도.." />
+	<block key="d11_mactyman_001" korean="쥐새끼들이 찾아왔군.." />
+	<block key="d11_mactyman_002" korean="이 곳까지 온 것을 후회하게 해주마!" />
+	<block key="d11_mactyman_003" korean="용광로를 이용하여 맥타이먼에게 데미지를 줄 수 있습니다." />
+	<block key="d11_mactyman_004" korean="제법인걸? 이제 정식으로 상대해주마!" />
+	<block key="d11_mactyman_005" korean="으.. 뜨거워…" />
+	<block key="d11_mactyman_006" korean="이렇게 쓰러질 줄이야.." />
+	<block key="d11_return_001" korean="적들이 몰려오는 소리가 들려옵니다." />
+	<block key="d11_return_002" korean="맥타이먼님이 쓰러지다니.." />
+	<block key="d11_return_003" korean="네놈의 뼈와 살을 분리 해버릴 테다!" />
+	<block key="d11_return_004" korean="없애버리자!" />
+	<block key="d11_karad_001" korean="여기가 어딘줄 알고 찾아왔느냐!" />
+	<block key="d11_karad_002" korean="죽고싶은 게로구나!" />
+	<block key="d11_karad_003" korean="으윽.." />
+	<block key="d11_detugaren_001" korean="진정한 어둠의 힘을 느껴보거라." />
+	<block key="d11_detugaren_002" korean="가레쉬!" />
+	<block key="d11_detugaren_003" korean="어둠의 힘은 사라지지 않는다.." />
+	<block key="d11_kfir_001" korean="여기까지 오다니, 제법 싸울 줄 아는 놈인가 보구나." />
+	<block key="d11_kfir_002" korean="하지만, 그것도 이제 끝이다!" />
+	<block key="d11_kfir_003" korean="크락투스님.." />
+	<block key="d11_kraktus_001" korean="방심하지 않을 것이다. 덤벼라!" />
+	<block key="d11_kraktus_002" korean="이곳은 싸우기에는 너무 좁은 것 같군!" />
+	<block key="d11_kraktus_003" korean="크락투스를 쫓아가야 합니다." />
+	<block key="d11_kraktus_004" korean="으윽.. 내가 쓰러진다고, 혁명이 멈추진 않을 것이다." />
+	<block key="d03_singer_001" korean="구해주셔서 감사합니다." />
+	<block key="d03_singer_002" korean="안켈리온이 라단의 눈을 깨우려고 해요." />
+	<block key="d03_singer_003" korean="안켈리온을 막아야해요!" />
+	<block key="d03_singer_004" korean="제가 라단의 힘을 막아볼께요!" />
+	<block key="d03_binder_001" korean="여기가 어딘줄 알고 찾아왔느냐!" />
+	<block key="d03_binder_002" korean="순례자들이여! 침입자들을 물리쳐라!" />
+	<block key="d02_notice_002" korean="산틴: 에이 귀찮아! 모두 나와!" />
+	<block key="d02_notice_003" korean="설인 전사: 우어! 우어! 침입자다!" />
+	<block key="d02_notice_004" korean="산틴: 이젠 안봐준다! 다 나와!" />
+	<block key="d02_notice_005" korean="설인 사냥꾼: 부셔버리자! 우꺄!" />
+	<block key="d02_notice_006" korean="설인 주술사: 침입자를 없애라!" />
+	<block key="d02_notice_007" korean="설인 전사: 방벽이 공격당하고 있다! 모두 돌격!" />
+	<block key="d02_notice_008" korean="산틴: 걸렸다! 걸렸어! 함정이다!" />
+	<block key="d02_notice_009" korean="산틴: 진짜 화났다! 으아아아!!" />
+	<block key="d02_notice_010" korean="마투콘틴: 더러운 인간 냄새가 나는군! 죽여주마!" />
+	<block key="d03_event_001" korean="라단의 눈을 처치했어요!" />
+	<block key="d03_event_002" korean="제가 당신을 도와 라단의 눈의 마력을 억제하겠어요." />
+	<block key="d03_lake_001" korean="의식이 곧 시작되겠군." />
+	<block key="d03_lake_002" korean="그래, 라단님의 부활이 얼마 남지 않았어." />
+	<block key="d03_lake_003" korean="누구냐!" />
+	<block key="d03_lake_004" korean="제물이 제 발로 걸어들어 왔군." />
+	<block key="d03_lake_005" korean="어떻게 여기까지 왔지?" />
+	<block key="d03_lake_006" korean="해치우자!" />
+	<block key="d03_lake_007" korean="믿음이 없는 자에겐 죽음 뿐이다!" />
+	<block key="d03_lake_008" korean="새로 잡아온 제물의 마력이 상당하더군." />
+	<block key="d03_lake_009" korean="케플리 싱어라고 했던가? 제법 유명한 사제라고 하던데.." />
+	<block key="d03_lake_010" korean="그래봤자 안켈리온님한테 당할 순 없지. 안켈리온님이 완벽하게 구속해놨으니 걱정말게." />
+	<block key="d03_lake_011" korean="적의 기습이다!" />
+	<block key="d03_kilian_001" korean="얼마남지 않았다. 라단님의 완전한 부활이.." />
+	<block key="d03_kilian_002" korean="네, 그렇습니다." />
+	<block key="d03_kilian_003" korean="킬리안님, 이제 슬슬 신전으로 출발하시죠." />
+	<block key="d03_kilian_004" korean="네놈은 누구냐?" />
+	<block key="d03_kilian_005" korean="불경스러운 놈들이 숨어들었군." />
+	<block key="d03_agul_001" korean="아굴아굴!!" />
+	<block key="d03_agul_002" korean="아굴아굴??" />
+	<block key="d03_agul_003" korean="아구르르르.." />
+	<block key="d03_agul_004" korean="아굴!! 아굴!!" />
+	<block key="d03_waterway_001" korean="수로를 함부로 열면 큰 일 난다굴." />
+	<block key="d03_waterway_002" korean="안켈리온님한테 혼난다굴." />
+	<block key="d03_waterway_003" korean="화가난다굴!" />
+	<block key="d03_guard_001" korean="침입자다!" />
+	<block key="d03_guard_002" korean="여기가 어딘 줄 알고 찾아왔느냐!" />
+	<block key="d03_guard_003" korean="믿음이 없는 자에겐 죽음뿐이다!" />
+	<block key="d03_guard_004" korean="라단님에게 경의를 표하라!" />
+	<block key="d03_guard_005" korean="네놈도 제물로 바쳐야 겠다!" />
+	<block key="d03_zealot_001" korean="아.. 라단님." />
+	<block key="d03_zealot_002" korean="저에게 어둠의 힘을 내려주소서.." />
+	<block key="d03_zealot_003" korean="무한한 영광을.." />
+	<block key="d03_zealot_004" korean="더렵혀진 이 땅에 종말을 내려주소서.." />
+	<block key="d03_zealot_005" korean="미천한 것들에게 가르침을 주소서.." />
+	<block key="d03_zealot_006" korean="라단님의 부활을 방해하다니.." />
+	<block key="d03_zealot_007" korean="그것은 라단님의 제물이다!" />
+	<block key="d03_zealot_008" korean="가만두지 않겠다!" />
+	<block key="d03_zealot_009" korean="불경한놈들.. 없애주마!" />
+	<block key="d03_singer_101" korean="구해주셔서 감사합니다." />
+	<block key="d03_singer_102" korean="앗! 뒤를 보세요! 무러미들이 몰려오고 있어요!" />
+	<block key="d03_singer_103" korean="휴.. 다행이군요. 안켈리온을 막아야해요! 서둘려요!" />
+	<block key="d03_door_001" korean="북쪽 수로제어실로 가는 수문이 열렸습니다." />
+	<block key="d03_door_002" korean="동쪽 수로제어실로 가는 수문이 열렸습니다." />
+	<block key="d03_door_003" korean="중앙 수로제어실로 가는 수문이 열렸습니다." />
+	<block key="d03_door_004" korean="신전으로 가는 수문이 열렸습니다." />
+	<block key="d03_killian_dead" korean="위대한 라단이여.. 당신을 위하여.." />
+	<block key="d03_aguldead_001" korean="아구울.." />
+	<block key="d03_aguldead_002" korean="아구아구.." />
+	<block key="d03_aguldead_003" korean="아..구..울.." />
+	<block key="d03_moordead_001" korean="으..윽." />
+	<block key="d03_moordead_002" korean="라단님.." />
+	<block key="d03_moordead_003" korean="인간주제에. 강하구나.." />
+	<block key="d03_moordead_004" korean="나의 믿음이 부족했던 것인가.." />
+	<block key="d03_moordead_005" korean="라단님의 부활이 다가온다." />
+	<block key="d03_moordead_006" korean="라단님의 널 응징할 것 이다." />
+	<block key="d03_moordead_007" korean="허무하구나.." />
+	<block key="d03_moordead_008" korean="윽.." />
+	<block key="d03_moordead_009" korean="이 원한은 잊지 않겠다." />
+	<block key="d03_zenkid_dead" korean="아프다굴.. 안켈리온님.. 개굴." />
+	<block key="d03_ankelion_001" korean="오.. 라단이시여. 부활의 날이 얼마남지 않았습니다." />
+	<block key="d03_ankelion_002" korean="오 위대한 힘을 이 세상에 보여주소서!" />
+	<block key="d03_ankelion_003" korean="무지한자들에게 영원한 고통을 느끼게 해주소서!" />
+	<block key="d03_ankelion_004" korean="불경한 자들아! 네 놈들이 그 분의 부활을 막을 수 있을 것 같으냐?" />
+	<block key="d03_ankelion_dead1" korean="으.. 분하다.." />
+	<block key="d03_ankelion_dead2" korean="라단님의 완벽한 부활이 얼마남지 않았는데.." />
+	<block key="f03_notice_004" korean="기억의 단편에 들어왔습니다. 아이샤를 찾으세요." />
+	<block key="d04_talk_001" korean="누구냐?! 내 잠을 깨우는 놈이!?" />
+	<block key="d04_talk_002" korean="침입자는 용서 할 수 없다! 얘들아!!" />
+	<block key="d04_talk_003" korean="제법이구나!" />
+	<block key="d04_talk_004" korean="못 열겠지? 하하! 스위치 2개를... 아! 아니다!" />
+	<block key="d04_talk_005" korean="침입자다! 모두들 침입자를 처단하라!" />
+	<block key="d04_talk_006" korean="으.. 론도님.. 죄송합니다." />
+	<block key="d04_talk_007" korean="기회를 주겠다. 지금이라도 돌아가라!" />
+	<block key="d04_talk_008" korean="테라문스님.. 신은 약속을 지키지 못했습니다.." />
+	<block key="d04_talk_009" korean="호오. 여기까지 오셨습니까?" />
+	<block key="d04_talk_010" korean="참! 당신에게 이를 갈고 있는 녀석이 있습니다." />
+	<block key="d04_talk_011" korean="아직 기억하고 계실지 모르겠습니다만…" />
+	<block key="d04_talk_012" korean="일어나십시오! 복수와 증오의 화신이여!" />
+	<block key="d04_talk_013" korean="우오옷!! 네 놈! 이번엔 다르다!" />
+	<block key="d04_talk_014" korean="크크.. 차가운 불꽃이여! 나를 불태워 더 큰 어둠을 깨우라!" />
+	<block key="d04_talk_015" korean="큭..방심했군.." />
+	<block key="d04_talk_016" korean="하지만, 여기서 끝이 아니다...진정한 공포를 알려주마." />
+	<block key="d04_talk_017" korean="우어! 침입자가 누구냐!" />
+	<block key="d04_talk_018" korean="어떤 놈이 감히! 죽여 버리겠다!" />
+	<block key="d04_talk_019" korean="어서 이리로 와!" />
+	<block key="d04_talk_020" korean="나를 따라와!" />
+	<block key="d04_talk_021" korean="서둘러라!" />
+	<block key="d04_talk_022" korean="돌을 파괴해라! 장치를 파괴해라!!" />
+	<block key="d04_talk_023" korean="거대한 문. 양 옆방의 스위치 하나씩만 만지면 아무 것도 아니지." />
+	<block key="d04_talk_024" korean="이 앞에 놈이 있다. 느낄 수 있어." />
+	<block key="d04_talk_025" korean="론도, 론도, 론도!!! 론도의 잔챙이가 이 앞에 있구나!!" />
+	<block key="d04_talk_026" korean="이제 곧이다... 큭큭.. 그 놈을 없애 버릴 시간이!" />
+	<block key="d04_talk_027" korean="장난은 여기까지다!" />
+	<block key="d04_talk_028" korean="내 부하들이 도착했군. 나는 먼저 가서 기다리겠네." />
+	<block key="d04_talk_029" korean="기분 나쁜 사자 얼굴.. 파괴해라!" />
+	<block key="d04_talk_030" korean="으헉.. 분하다…" />
+	<block key="d04_talk_031" korean="늦어서 미안! 이제 뒤는 우리한테 맡기라구!!." />
+	<block key="d04_talk_032" korean="놈들이 온다! 어서 저 철문을 부숴 버리고 전진해!" />
+	<block key="d04_talk_033" korean="놈들이 온다! 어서 저 철문을 부숴 버리고 전진해!" />
+	<block key="d04_notice_001" korean="혹한의 수문장: 누구냐? 정체를 보여라!" />
+	<block key="d04_notice_002" korean="데 라마슈: 당신의 분노가.. 우리의 힘이 될 것입니다..! 크크크큭.." />
+	<block key="d04_notice_003" korean="시간은 충분해. 크크크크…" />
+	<block key="d04_notice_004" korean="유령 선장: 넌 날 대신해 론도를 죽여야만 해. 더 빨리 움직여!" />
+	<block key="d04_notice_005" korean="유령 선장: 시간이 다 됐군. 이제 더 이상 속성석은 파괴가 불가능하네!" />
+	<block key="d04_notice_006" korean="유령 선장: 땡! 땡! 땡! 들리나? 죽음의 시간이 왔다!" />
+	<block key="d04_notice_007" korean="유령 선장: 론도의 힘을 강화시켜 주는 속성석들을 파괴하게!!" />
+	<block key="d04_notice_008" korean="유령 선장: 속성석은 시간이 지체되면 파괴 할 수 없어! 어서 움직여!" />
+	<block key="f01_e01_100" korean="으악! 날 잡으러 왔구나! 순순히 끌려갈 줄 알고?!" />
+	<block key="f01_e01_101" korean="저도 마침 이 녀석을 찾고 있었는데…." />
+	<block key="f01_e01_102" korean="당신이 해결해 주셨군요. 감사합니다." />
+	<block key="f01_e01_103" korean="더글라스님께 가서 이 일을 보고하도록 하세요." />
+	<block key="f01_e01_104" korean="이 녀석은 정신이 들면 제가 아~주 좋은 곳으로 보내겠습니다." />
+	<block key="f01_e01_105" korean="아마 죽지만 않는다면 사나이가 돼서 돌아올 겁니다. 후후후훗…." />
+	<block key="f01_e01_106" korean="자, 이 쪽으로! 어서 서두르세요!" />
+	<block key="f01_e01_107" korean="어서 흙더미 속에서 어머니의 뼈를 꺼내야 해요!" />
+	<block key="f01_e01_108" korean="아아… 어머니!" />
+	<block key="f01_e01_109" korean="아… 아주 오랫동안 악몽을 꾼 거 같습니다…." />
+	<block key="f01_e01_110" korean="이제야 안식의 잠에 들 수 있겠군요…." />
+	<block key="f01_e01_111" korean="저도 작은 새에게서 벗어나 본래의 모습으로 돌아오게 되었어요!" />
+	<block key="f01_e01_112" korean="고마워요, 기사님…! 당신을 결코 잊지 않겠어요…!" />
+	<block key="f01_e01_113" korean="자, 어서 흙더미가 있는 곳으로 가요!" />
+	<block key="f01_e01_114" korean="시간이 없어요! 서둘러요!" />
+	<block key="f01_e01_115" korean="그럼, 전 먼저 나가 있을 테니 아버지에게 뼈를 전해 주세요!" />
+	<block key="d03_clear_n1" korean="베일에 싸인 동굴 (일반)을 클리어하였습니다!" />
+	<block key="d03_clear_n2" korean="정예난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d03_clear_e1" korean="베일에 싸인 동굴 (정예)를 클리어하였습니다!" />
+	<block key="d03_clear_e2" korean="영웅난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d03_clear_h1" korean="축하합니다!" />
+	<block key="d03_clear_h2" korean="베일에 싸인 동굴 (영웅)을 클리어하였습니다." />
+	<block key="d02_clear_n1" korean="얼어붙은 마트렌 폐허 (일반)을 클리어하였습니다!" />
+	<block key="d02_clear_n2" korean="정예난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d02_clear_e1" korean="얼어붙은 마트렌 폐허 (정예)를 클리어하였습니다!" />
+	<block key="d02_clear_e2" korean="영웅난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d02_clear_h1" korean="축하합니다!" />
+	<block key="d02_clear_h2" korean="얼어붙은 마트렌 폐허 (영웅)을 클리어하였습니다." />
+	<block key="d03_dooropen_1" korean="원의 수로문이 열렸습니다." />
+	<block key="d03_dooropen_2" korean="다이아몬드의 수로문이 열렸습니다." />
+	<block key="d03_dooropen_3" korean="별의 수로문이 열렸습니다." />
+	<block key="d03_dooropen_4" korean="사각의 수로문이 열렸습니다." />
+	<block key="d03_dooropen_5" korean="달의 수로문이 열렸습니다." />
+	<block key="d03_dooropen_6" korean="삼각의 수로문이 열렸습니다." />
+	<block key="d00_clear_n1" korean="불이 삼킨 유적 (일반)을 클리어하였습니다!" />
+	<block key="d00_clear_n2" korean="정예난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d00_clear_e1" korean="불이 삼킨 유적 (정예)를 클리어하였습니다!" />
+	<block key="d00_clear_e2" korean="영웅난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d00_clear_h1" korean="축하합니다!" />
+	<block key="d00_clear_h2" korean="불이 삼킨 유적 (영웅)을 클리어하였습니다." />
+	<block key="d01_clear_n1" korean="카를레앙 대저택 (일반)을 클리어하였습니다!" />
+	<block key="d01_clear_n2" korean="정예난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d01_clear_e1" korean="카를레앙 대저택 (정예)를 클리어하였습니다!" />
+	<block key="d01_clear_e2" korean="영웅난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d01_clear_h1" korean="카를레앙 대저택 (영웅)을 클리어하였습니다!" />
+	<block key="d01_clear_h2" korean="전설난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d04_clear_n1" korean="파를라크 얼음성채 (일반)을 클리어하였습니다!" />
+	<block key="d04_clear_n2" korean="정예난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d04_clear_e1" korean="파를라크 얼음성채 (정예)를 클리어하였습니다!" />
+	<block key="d04_clear_e2" korean="영웅난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d04_clear_h1" korean="축하합니다!" />
+	<block key="d04_clear_h2" korean="파를라크 얼음성채 (영웅)을 클리어하였습니다." />
+	<block key="dportal_001" korean="제가 산서프스 피난캠프로 이동시켜 드리겠습니다." />
+	<block key="dportal_002" korean="산서프스 피난캠프에 도움이 필요합니다." />
+	<block key="dportal_003" korean="하카나스 수도성으로 이동하고 싶으시면 저한테 오십시오." />
+	<block key="dportal_004" korean="하카나스 수도성으로 보내드리겠습니다." />
+	<block key="f03_moontown_01" korean="아이샤.. 무서운 꿈을 꾸었어." />
+	<block key="f03_moontown_02" korean="물의 거울 조각이 사라지며 멈췄던 시간이 흐르기 시작했습니다." />
+	<block key="f03_moontown_03" korean="내가 차갑게 얼어붙는 꿈.." />
+	<block key="f03_moontown_04" korean="당신이 사라져 버리는 꿈이었지." />
+	<block key="f03_moontown_05" korean="….." />
+	<block key="f03_moontown_06" korean="어린 시절, 내 앞에 나타났던 거대한 그림자가 지금도 날 괴롭히고 있어." />
+	<block key="f03_moontown_07" korean="사란트…" />
+	<block key="f03_moontown_08" korean="난 그가 두려워. 그가 가져올 어둠이.. 그가 가져올 피의 전쟁이.." />
+	<block key="f03_moontown_09" korean="하지만 아이샤. 내 목숨을 바쳐서라도 내가 당신을 지킬거야." />
+	<block key="f03_moontown_10" korean="반드시…." />
+	<block key="f03_moontown_11" korean="지금 당신이 보고 있는 론도는.. 물의 거울이 만들어 낸 오래된 시간 중 하나." />
+	<block key="f03_moontown_12" korean="당신에게 예전의 론도의 모습을 알려드리고 싶었습니다." />
+	<block key="f03_moontown_13" korean="론도는 사란트에게 지배당하는 것을 두려워 했어요." />
+	<block key="f03_moontown_14" korean="아.. 시간이 많지 않아요.. 당신에게 더 많은 것을 알려줘야만…" />
+	<block key="f03_HuMMer_001" korean="난 꼭 커서 론도님 처럼 멋진 사람이 될꺼야!" />
+	<block key="f03_HuMMer_002" korean="이 땅이 파괴되지 않은 건 모두 론도님이 해적들을 소탕한 덕분이야." />
+	<block key="f03_HuMMer_003" korean="론도님이 아니었으면 우린 모두 해적들의 노예가 되어있을껄?" />
+	<block key="f03_HuMMac_001" korean="론도님은 정말 대단해! 최연소 신룡 기사단 출신이니 말이야!" />
+	<block key="f03_HuMarmE_002" korean="론도님은 부와 명예보다 인성을 중요하게 여기시는 아주 훌륭한 분이야." />
+	<block key="f03_HuMOld_001" korean="론도님이 이 땅에 영주가 된 후로 평화가 찾아왔어." />
+	<block key="f03_HuFOld_001" korean="아주 옛날, 론도님이 그 무서운 서리 군단장 베르다의 부활을 막았을 때가 기억나…" />
+	<block key="f03_HuMGuy_001" korean="론도 용병단이라고 알아? 우리같은 천민들도 실력만 있으면 입단 할 수 있는 최고의 용병단이지!" />
+	<block key="f03_HuFMis_001" korean="론도님과 아이샤님 처럼 아름다운 한쌍이 또 있을까?" />
+	<block key="f03_HuFMid_001" korean="론도님의 활약 덕분에 무러미들과의 교류가 활발해진거야." />
+	<block key="f03_HuFFar_001" korean="언제까지 이 행복이 지속될까…?" />
+	<block key="f03_HuMGuy_002" korean="론도님이 물리친 해적단의 수장… 그 이름이 뭐드라..? 데이비드 존슨?" />
+	<block key="f03_HuMMer_004" korean="어떻게 하면 론도님처럼 강한 사람이 될까?" />
+	<block key="f03_HuMMer_005" korean="데이비드 존슨이라고… 오래전에 죽은 해적인데 유령이 되어서도 복수를 꿈꾼다더군!" />
+	<block key="f03_HuMMer_006" korean="파를라크 4세님이 돌아가신 후 주인 없는 땅이 될 뻔한 이 땅이었는데…" />
+	<block key="f03_HuMMac_002" korean="이 땅이 오랫동안 행복했으면 좋겠어." />
+	<block key="f03_HuMarmE_003" korean="아이샤님은 파르나 여신의 힘을 물려 받은 유일한 분이야." />
+	<block key="f03_HuMOld_002" korean="물의 거울! 그 보물이 폭포마을의 폭포를 되살렸다고 하더군!" />
+	<block key="f03_HuFOld_002" korean="아이샤님은 대기근으로 고통 받는 이 땅을 살려주신 고마운 분이야." />
+	<block key="f03_HuMGuy_004" korean="론도님이 부르시면 언제든지 달려갈 준비가 되어있어!" />
+	<block key="f03_HuFMis_002" korean="론도님과 아이샤님이 영원히 행복했으면 좋겠어!" />
+	<block key="f03_HuFMid_002" korean="아이샤님보다 내가 더 론도님에게 어울리지 않아?" />
+	<block key="f03_HuFFar_002" korean="사악한 마신도 론도님이 물리쳐 주실꺼야." />
+	<block key="f03_HuMGuy_003" korean="마치 꿈 같은 느낌이야…" />
+	<block key="f03_julu_000" korean="전령님, 어서 빨리 이 무서운 곳을 떠나요." />
+	<block key="f03_julu_001" korean="조금만 더 가면 변절자의 늪지를 빠져나갈 수 있을 거예요." />
+	<block key="f03_julu_002" korean="설마 여기까지 쫓아오진 않겠죠…?" />
+	<block key="f03_julu_003" korean="무사히 빠져나온 것 같네요. 아아, 무서웠어요…!" />
+	<block key="f03_julu_004" korean="아아… 사랑을 모르는 성난 무러미들은 불쌍해요! 그렇지 않나요?" />
+	<block key="f03_julu_005" korean="저 멀리 생명의 호수가 보여요…! 무러미오, 제가 곧 가요…!" />
+	<block key="f03_julu_006" korean="[UserName]님에겐 사랑하는 분이 있나요? 당연히 있으시겠죠?" />
+	<block key="f03_julu_007" korean="[UserName]님은 그 분의 어떤 점에 끌리셨나요? 저는…. 전부 다요!" />
+	<block key="f03_julu_008" korean="무러미오가 너무 보고 싶어서 숨이 멎어버릴 것만 같아요…" />
+	<block key="f03_julu_009" korean="도착했어요! 아아… 설마 이게 꿈은 아니겠죠…?" />
+	<block key="f03_julu_010" korean="전 어서 무러미오에게 가봐야겠어요. 정말 고맙습니다, 사랑의 전령님…!" />
+	<block key="d01_talk_001" korean="나를 도와 카를레앙님께 가는 것을 저지 하라!" />
+	<block key="f02_e02_talk_001" korean="신선한 피의 냄새다.." />
+	<block key="f02_e01_talk_001" korean="여기에 인간이 발을 들이다니!!" />
+	<block key="f02_e01_notice_001" korean="동굴 안쪽에 사냥꾼 잭을 잡으시오." />
+	<block key="f02_e01_talk_002" korean="밖에 무슨 일이냐!" />
+	<block key="f02_e01_talk_003" korean="기어코 여기까지 왔구나." />
+	<block key="d01_notice_107" korean="열쇠로 저택의 정문을 열 수 있습니다." />
+	<block key="f03_suban_001" korean="은빛 수반은 무러미족이 파르나 여신의 계시를 받아 만든 성물이네." />
+	<block key="f03_suban_002" korean="무러미족 최고의 장인이 수반을 만들고, 물의 무녀가 여신의 힘을 불어넣었지." />
+	<block key="f03_suban_003" korean="그리고 무러미와 인간 간의 화합의 상징으로 우리 마을에 건네진 걸세." />
+	<block key="f03_suban_004" korean="무러미와 인간은 그 수반을 통해 지금껏 교류해왔고, 평화를 유지해왔네." />
+	<block key="f03_suban_005" korean="어느날 물의 무녀가 사라지기 전까지는 말이지…." />
+	<block key="f03_suban_006" korean="여하튼, 은빛 수반은 무러미와 인간을 이어주는 귀중한 성물이라는 것만 알아두게." />
+	<block key="d04_talk_034" korean="발보아드가 강화병들을 불렀어!!" />
+	<block key="d04_talk_035" korean="잔챙이들은 우리에게 맡기고 넌 어서 발보아드를 쓰러뜨리라고!!" />
+	<block key="d04_talk_036" korean="론도!! 론도!! 네놈은 내가 없애버리겠다!" />
+	<block key="d04_talk_037" korean="론도. 이놈! 드디어 복수의 때가 왔구나! 하하하하하!!" />
+	<block key="d04_talk_038" korean="방해하지마라. 쓰레기!" />
+	<block key="d04_talk_039" korean="내 손으로…반드시… 네 놈을…크윽" />
+	<block key="d04_talk_040" korean="어서 계단으로 올라가!" />
+	<block key="d04_talk_041" korean="한 마리도 올려보내지 않겠어!" />
+	<block key="f09_hostage_1" korean="도.. 도와주세요." />
+	<block key="f09_hostage_2" korean="살려주세요!" />
+	<block key="f09_hostage_3" korean="구해주러 오신건가요." />
+	<block key="f09_hostage_4" korean="제발 도와주세요.." />
+	<block key="f09_free_1" korean="구해주셔서 감사합니다." />
+	<block key="f09_free_2" korean="살았다!" />
+	<block key="f09_free_3" korean="고마워요!" />
+	<block key="f09_free_4" korean="감사합니다." />
+	<block key="d04_talk_042" korean="어서와라. 네놈을 기다리고 있었다." />
+	<block key="d04_talk_043" korean="나는 먼저 가서 기다리겠네." />
+	<block key="f02_notice_cave_001" korean="숨겨진 석판의 인도에 따라 오래된 동굴의 유령을 찾아 처치하십시오." />
+	<block key="c01_notice_100" korean="사라진 레나의 행방을 찾으십시오." />
+	<block key="c01_lena_000" korean="레나가 수림지 안에 있습니다. 그리고 사악한 기운도 점차 커지고 있어요!" />
+	<block key="c01_lena_001" korean="레나 : 길었다! 더러운 인간의 껍데기에 갇혔던 시간!" />
+	<block key="c01_lena_002" korean="레나 : 사란트님에게 돌아갈거야! 방해하지마!" />
+	<block key="c01_lena_003" korean="레나 : 힘이..? 아직 다 돌아오지 않은건가?" />
+	<block key="c01_lena_004" korean="레나 : 아무래도 안되겠어. 나, 아직 힘이 다 돌아오지 않았나봐." />
+	<block key="c01_lena_005" korean="레나 : 아쉽지만 오늘 놀이는 여기까지야. 그동안 기사놀이 즐거웠어." />
+	<block key="c01_lena_006" korean="레나 : 나중에 제대로 요리해줄게.. 그때까지 맛있게 강해져있어봐. 오호호호!" />
+	<block key="c01_lena_007" korean="호메르 : …빨리… 밖으로 나오십시오…전해줄…말이…" />
+	<block key="c01_russel_001" korean="반역자 러셀의 수하들을 제거하십시오." />
+	<block key="c01_russel_002" korean="러셀 : 약한 놈들은 필요없다! 모두 죽어버려라!" />
+	<block key="c01_russel_003" korean="토르투스 : 뒤로 빠져라! 다 부숴버린다!" />
+	<block key="c01_russel_004" korean="리네타 : 죽이는 건 힘들겠어요. 그를 일단 날려버려야해요!" />
+	<block key="c01_russel_005" korean="리네타 : 조금만 더..! 포탈 마법의 힘이 모일때까지만..!" />
+	<block key="c01_russel_006" korean="…..강력한 힘 앞에는 잔재주가 통하지 않는 법." />
+	<block key="c01_russel_007" korean="어서 왕성에 보고를! 나머진 저희가 처리할게요." />
+	<block key="c01_russel_008" korean="너희의 피로 힘을 보태라! 왕국을 위해서!" />
+	<block key="c01_russel_009" korean="러셀 장군 만세!!!!" />
+	<block key="c01_russel_010" korean="리네타 : 아서 랜포드 러셀! 그대를 이 신성한 장소에서 추방한다!" />
+	<block key="c01_russel_014" korean="국왕 알현실의 마법사 다프에게 러셀의 반란이 진압되었음을 보고하십시오." />
+	<block key="c01_russel_015" korean="썩어빠진 늙은이의 졸개들!" />
+	<block key="c01_russel_016" korean="나는.. 왕이.. 되어야.." />
+	<block key="c01_reaction_001" korean="반가워요. 저는 엘로라 여신님을 섬기는 사제, 루플라에요." />
+	<block key="c01_reaction_002" korean="당신이 악의 무리와 맞서기 위해 반드시 알아야 할 개념에 대해 설명해드릴게요." />
+	<block key="c01_reaction_003" korean="강한 적들은 당신의 공격에도 쓰러지거나 정신을 잃지 않는 경우가 있어요." />
+	<block key="c01_reaction_004" korean="이 때, 이런 저항을 깨트리는 강력한 치명타 공격으로 적을 효과적으로 제압할 수 있게 되는거에요." />
+	<block key="c01_reaction_005" korean="이런 걸 유효타라고 부르는데요." />
+	<block key="c01_reaction_006" korean="치명타 적중 시 리액션 유효타 발생이라고 설명된 스킬들은 모두 이런 속성을 가지고 있게 되는거랍니다." />
+	<block key="c01_reaction_007" korean="제가 걸어드린 버프는 일시적으로 치명타 확률을 높여주는 스킬이에요." />
+	<block key="c01_reaction_008" korean="그럼, 몬스터를 소환해드릴테니 유효타로 적을 처리해보시겠어요?" />
+	<block key="c01_reaction_009" korean="유효타로 적의 저항을 제거한 뒤, 처리해보세요!" />
+	<block key="c01_reaction_010" korean="잘 하셨습니다. 어떤건지 감이 좀 오시나요?" />
+	<block key="c01_reaction_011" korean="조금 어려운 개념이지만, 리액션 면역을 지닌 몬스터들은 이런 식으로 처리하지 않으면 큰 위험에 처할 수 있어요." />
+	<block key="c01_reaction_012" korean="적을 잘 살펴보면 이런 저항력을 가지고 있는지 아닌지 알 수 있을거에요." />
+	<block key="c01_reaction_013" korean="자, 그럼 다시 한 번 갑니다. 유효타를 사용해 적을 쓰러뜨리세요!" />
+	<block key="c01_reaction_014" korean="이제 능숙해지셨군요. 훈련사제로서 보람을 느낍니다." />
+	<block key="c01_reaction_015" korean="당신께 엘로라의 가호가 함께 하길 기원하겠습니다." />
+	<block key="c01_reactionotice_01" korean="치명타 적중을 통해 리액션을 무효화시키고 적을 처리하십시오." />
+	<block key="c01_reactionotice_02" korean="치명타 적중을 통해 리액션을 무효화시키고 적을 처리하십시오." />
+	<block key="c01_reactionotice_03" korean="진리의 마법사 리네타에게 보고하십시오." />
+	<block key="f09_zenen_001" korean="컷씬제작중" />
+	<block key="f09_zenen_002" korean="론도는 라니아공주를 각성시키던중 플레이어를 발견하고 공격해온다" />
+	<block key="f09_zenen_003" korean="론도의 강력한 공격에 죽음을 앞둔 플레이어를 크로우가 구해준다." />
+	<block key="f01_north_100" korean="퀘스트가 완료되지 않았습니다. 토르투스와 대화하십시오." />
+	<block key="f01_tortus_move_on" korean="토르투스: 꾸물대지 말고 움직여라!" />
+	<block key="f01_tortus_too_slow" korean="느리다. 그래서야 공주님을 되찾을 수 있겠나?" />
+	<block key="f01_tortus_kill_enemy" korean="적을 두 동강 내 주지!" />
+	<block key="Crow_Quest_04" korean="어서 서두르게!" />
+	<block key="Crow_Quest_05" korean="모두 없애 버리게!" />
+	<block key="f16_yataiman_001" korean="야타이만을 깨우기 위해서는, 천공의 봉인석을 모두 파괴해야 합니다." />
+	<block key="f16_yataiman_002" korean="천공의 봉인석은 라이닉만이 파괴할 수 있습니다." />
+	<block key="f16_yataiman_003" korean="세 곳에 있는 천공의 봉인석 모두를 파괴하세요!" />
+	<block key="f16_yataiman_004" korean="라이닉의 도움을 받아 천공의 봉인석을 파괴해야 합니다." />
+	<block key="d00_Monster_001" korean="누가, 이 유적에 발을 들이는가!!" />
+	<block key="E1_NOTICE_020" korean="스페이스키를 눌러, 비행할 수 있습니다." />
+	<block key="E1_NOTICE_021" korean="비행선이 오고 있네. 날아가도록 하지." />
+	<block key="f01_tortus_join" korean="토르투스: 마법사를 처치 했으니, 합류 하겠네!" />
+	<block key="d01_clear_l1" korean="축하합니다!" />
+	<block key="d00_clear_l1" korean="불이 삼킨 유적 (전설)을 클리어하였습니다." />
+	<block key="d02_clear_l1" korean="얼어붙은 마트렌 폐허 (전설)을 클리어하였습니다." />
+	<block key="d04_clear_l1" korean="파를라크 얼음성채 (전설)을 클리어하였습니다!" />
+	<block key="d03_clear_l1" korean="베일에 싸인 동굴 (전설)을 클리어하였습니다." />
+	<block key="f02_rick_01" korean="으으..어서 할아버지랑 엄마가 있는 곳으로 가요." />
+	<block key="f02_rick_02" korean="라비니가 보이지 않는 곳으로 가요!" />
+	<block key="f02_rick_03" korean="저곳에서 죽는 줄 알았는데..고맙습니다." />
+	<block key="f02_rick_04" korean="아직 멀었나요? 헉헉.." />
+	<block key="f02_rick_05" korean="조금만..조금만 더 가면 될 것 같아요!" />
+	<block key="f02_rick_06" korean="휴우! 여기서부턴 혼자 갈 수 있어요. 구해주셔서 고맙습니다." />
+	<block key="f01_e01_n_005" korean="쿤타리스가 있는 곳으로 이동하세요." />
+	<block key="Crow_Quest_01" korean="자네의 도움이 필요하네." />
+	<block key="Toru_Quest_01" korean="토르투스: 여긴 내가 맡을테니 어서 크로우 님에게 가게" />
+	<block key="f09_rondo_01" korean="론도를 저지 하세요." />
+	<block key="f01_tortus_too_slow_2" korean="뒤 따라갈테니 앞장 서게!" />
+	<block key="d03_backdoor_01" korean="킬리안을 처치해야 내부로 진입이 가능합니다." />
+	<block key="c01_e04_russel_001" korean="과거의 기억에 들어왔습니다. 러셀의 수하들을 모두 제거하십시오." />
+	<block key="c01_e04_russel_002" korean="러셀: 건방진 놈! 내 진정한 모습을 보여주마!" />
+	<block key="c01_e02_notice_100" korean="과거의 기억에 들어왔습니다. 리리스의 수하들을 모두 제거하세요." />
+	<block key="c01_e02_notice_101" korean="레나: 결국 여기까지 왔군…그래. 내 진정한 모습을 보여주마!" />
+	<block key="c01_e02_notice_102" korean="레나: 성미가 급하군. 나의 수하들부터 쓰러트리고 와라." />
+	<block key="c01_e04_russel_003" korean="러셀: 나의 병사들을 모두 쓰러트려봐라. 그럼 너와 상대해주마." />
+	<block key="f15_Notice_001" korean="운석의 정수를 파괴하고, 트라누아의 봉인을 해제해야 합니다." />
+	<block key="f15_Notice_002" korean="붉은뿔 갈라도쿠의 도움을 받아 운석의 정수를 모두 파괴해야 합니다." />
+	<block key="f15_Notice_003" korean="축하합니다!" />
+	<block key="f15_Notice_004" korean="거신 트라누아를 처치하였습니다." />
+	<block key="f01_e01_Notice_001" korean="뒤틀린 시간에 들어왔습니다. 모든 몬스터들을 제거하세요." />
+	<block key="f01_e01_Notice_002" korean="혼돈의 하수인: 나의 일을 방해하다니. 죽여버리겠다!" />
+	<block key="f01_e01_Notice_003" korean="혼돈 마력 생성체를 파괴하세요." />
+	<block key="d22_Ev0_Talk_01" korean="침입자다!" />
+	<block key="d22_Ev0_Talk_02" korean="여길 이렇게 막고 있어야 하나.." />
+	<block key="d22_ev0_notice_001" korean="이탈한 중갑 기사를 처치 하세요." />
+	<block key="d22_clear_n1" korean="공역의 틈새 [일반]을 클리어하였습니다!" />
+	<block key="d22_clear_n2" korean="정예난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d22_clear_e1" korean="공역의 틈새 [정예]를 클리어하였습니다!" />
+	<block key="d22_clear_e2" korean="영웅난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d22_clear_h1" korean="축하합니다!" />
+	<block key="d22_clear_h2" korean="공역의 틈새 [영웅]을 클리어하였습니다." />
+	<block key="f01_e01_Notice_004" korean="의식의 마법구를 파괴하세요." />
+	<block key="f15_Notice_005" korean="마계의 횃불에 불을 피워 트라누아를 깨울 수 있습니다." />
+	<block key="d22_ma1_notice_001" korean="전방의 일그러진 공간에서는 비행이 가능 합니다." />
+	<block key="d22_ma1_notice_002" korean="제 1 문지기 타란드라를 처치 하였습니다." />
+	<block key="d22_ma1_notice_003" korean="제 2 문지기 타란드라를 처치 하였습니다." />
+	<block key="d22_ma1_notice_004" korean="제 3 문지기 타란드라를 처치 하였습니다." />
+	<block key="d22_bos_notice_001" korean="누가 나의 보물을 노리려 하느냐!!!" />
+	<block key="d00_Lboss_Notice_01" korean="으.. 나의 파편 들!!" />
+	<block key="d01_clear_L1" korean="축하합니다!" />
+	<block key="d01_clear_L2" korean="카를레앙 대저택 (전설)을 클리어하였습니다!" />
+	<block key="d01_notice_110" korean="저택 왼쪽 구스트방으로 이동 하세요." />
+	<block key="f05_HuFMis_002_001" korean="나..나는 누구죠? 전혀 기억이 나질 않아요.." />
+	<block key="f05_HuFMis_002_002" korean="머리 속에 떠오르는 흐릿한 장면들..익숙하지만 전혀 기억이 나질 않아요.." />
+	<block key="P01_Exarium_001" korean="10분 후 달무리 호수에서 광산의 주인이 출현합니다." />
+	<block key="P01_Exarium_002" korean="5분 후 달무리 호수에서 광산의 주인이 출현합니다." />
+	<block key="F05_radas_meet_01" korean="저를 따라오세요! 서둘러야 합니다!" />
+	<block key="F05_radas_run_02" korean="자재 수송 중에 모하바 용병단에게 습격을 당했습니다!" />
+	<block key="F05_radas_attach_03" korean="용병단이 수송 마차를 부수기 전에 모두 처치해주세요!" />
+	<block key="F05_radas_guard_04" korean="습격한 놈들은 모두 처리한 것 같습니다. 다시 오기 전에 서둘러 자재를 수송해야 합니다." />
+	<block key="F05_radas_ambush_05" korean="용병단의 기습입니다! 놈들을 처치해주세요!" />
+	<block key="F05_radas_end_06" korean="여기서부터는 저희가 수송하겠습니다. 서둘러 우마르크님께 가보세요." />
+	<block key="f05_foun_01" korean="알세크 마을은 처음이실테니 간단히 안내를 해드리겠습니다." />
+	<block key="f05_foun_02" korean="저 멀리 보이는 곳이 도전자의 비행로라는 곳입니다." />
+	<block key="f05_foun_03" korean="불사의 사막에 갓 정착한 주민들은 가끔 탈수증에 걸리기도 합니다." />
+	<block key="f05_foun_04" korean="주변의 높은 봉우리들을 보십시오. 장관이지 않습니까?" />
+	<block key="f05_foun_05" korean="콜렉터들은 펠로우 연구를 전문적으로 하는 집단이라고 하더군요." />
+	<block key="f05_foun_06" korean="마을 밖은 위험한 곳입니다. 나설때는 늘 조심하셔야 합니다." />
+	<block key="f05_foun_07" korean="모하바 용병단때문에 보급은 어려워도 아직 마을 광장의 분위기는 여전한 것 같습니다." />
+	<block key="f05_foun_08" korean="안내는 이쯤에서 끝내도록 할까요?" />
+	<block key="d13_clear_01" korean="고대의 사원 (일반)을 클리어하였습니다!" />
+	<block key="d13_clear_02" korean="정예난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d13_clear_03" korean="고대의 사원 (정예)를 클리어하였습니다!" />
+	<block key="d13_clear_04" korean="영웅난이도에 더 강력한 적을 만날 수 있습니다." />
+	<block key="d13_clear_05" korean="축하합니다!" />
+	<block key="d13_clear_06" korean="고대의 사원 (영웅)을 클리어하였습니다." />
+	<block key="d13_talk_01" korean="들어갈 수 없다." />
+	<block key="d13_notice_01" korean="크라바소스를 모두 처치하면, 대제사장실을 열 수 있습니다." />
+	<block key="d13_notice_02" korean="대제사장의 방으로 가는 문이 열렸습니다." />
+	<block key="d13_notice_03" korean="개폐장치를 작동하여 신전문을 열 수 있습니다." />
+	<block key="d13_notice_04" korean="순례자의 길로 가는 문이 열렸습니다." />
+	<block key="d13_notice_05" korean="수행자의 길로 가는 문이 열렸습니다." />
+	<block key="F05_radas_Talk_01" korean="우마르크님께 실력이 대단하시다는 이야기를 들었습니다. 그말이 사실이었군요!" />
+	<block key="F05_radas_Talk_02" korean="금광 수송로는 이미 적들에게 점거당했습니다..." />
+	<block key="F05_radas_Talk_03" korean="진지 구축에 쓰일 자재까지 놈들에게 빼앗겼다면 반격할 기회조차 없었을 겁니다." />
+	<block key="F05_radas_Talk_04" korean="덕분에 수송 마차를 지킬 수 있었습니다. 정말 감사합니다!" />
+	<block key="F05_Leopart_Talk_01" korean="크르르르..." />
+	<block key="F05_tent_Talk_01" korean="웬 놈이냐!" />
+	<block key="F05_tent_Talk_02" korean="침입자다!" />
+	<block key="F05_tent_Talk_03" korean="가만두지 않겠다!" />
+	<block key="f05_danger_01" korean="알세크 마을 경비대까지 동원하다니..샤를 그 친구도 악취미로군." />
+	<block key="f05_danger_02" korean="비행사 샤를이 보내서 왔소! 우리 알세크 마을 경비대가 도와주겠소!" />
+	<block key="f05_danger_03" korean="비행사 샤를의 요청을 받고 왔습니다! 우리가 곧 구해드리겠습니다!" />
+	<block key="d13_cabeim_1" korean="스캇라샤.. 명령.. 따른다…" />
+	<block key="d13_cabeim_2" korean="지킨다…" />
+	<block key="d13_cabeim_3" korean="지나갈 수 없다…" />
+	<block key="d13_cabeim_4" korean="침입자… 죽인다…" />
+	<block key="d13_cabeim_5" korean="누구냐…" />
+	<block key="d13_cabeim_6" korean="침입자… 지킨다…" />
+	<block key="d13_cabeim_7" korean="봉인… 막는다…" />
+	<block key="d13_cabeim_8" korean="죽인다…" />
+	<block key="d13_guardian_1" korean="누군가가 있다!" />
+	<block key="d13_guardian_2" korean="침입자다!" />
+	<block key="d13_guardian_3" korean="신시아님이 당했단 말인가!" />
+	<block key="d13_guardian_4" korean="지나갈 수 없다!" />
+	<block key="d13_guardian_5" korean="죽고 싶은 게로구나!" />
+	<block key="d13_guardian_6" korean="어떻게 여기 들어왔지!" />
+	<block key="d13_guardian_7" korean="켄그리프의 졸개냐!" />
+	<block key="d13_guardian_8" korean="덤벼라!" />
+	<block key="d13_sinsia_1" korean="켄그리프가 보내서 온 놈들이냐?" />
+	<block key="d13_sinsia_2" korean="파멸의 단어는 우리 것이다!" />
+	<block key="d13_sinsia_3" korean="이럴수가…" />
+	<block key="d13_nahir_1" korean="제이슨님의 의식을 방해할 순 없다!" />
+	<block key="d13_nahir_2" korean="내가 대신 상대해주마!" />
+	<block key="d13_nahir_3" korean="강하다…" />
+	<block key="d13_jason_1" korean="늦었군요.. 스캇라샤의 힘은 흐흐.. 이 안에 있습니다." />
+	<block key="d13_jason_2" korean="완벽하게 흡수하지 못한 것인가…" />
+	<block key="f05_gerald_Talk_1" korean="어두운 기운이 가득 차 있군..." />
+	<block key="f05_gerald_Talk_2" korean="이상하리 만큼 조용해." />
+	<block key="f05_gerald_Talk_3" korean="가고일들이 깨어났군!" />
+	<block key="f05_gerald_Talk_4" korean="가고일들이 석상에서 깨어나기 전에 파괴해야 돼!" />
+	<block key="f05_temp_Notice_1" korean="서둘러 가고일 석상을 파괴하세요." />
+	<block key="f05_gerald_Talk_5" korean="서두르게! 가고일들이 몰려오고 있어!" />
+	<block key="f05_denil_Talk_1" korean="이야압!" />
+	<block key="f05_Dio_Talk_1" korean="하!" />
+	<block key="f05_Roji_Talk_1" korean="끝이 보이지 않아요!" />
+	<block key="f05_gerald_Talk_6" korean="석상을 파괴했으니 가고일들이 깨어나는 일은 없을 걸세." />
+	<block key="f05_gerald_Talk_7" korean="서둘러 크라녹스가 있는 제단으로 이동하지!" />
+	<block key="f05_temp_Notice_2" korean="제럴드와 함께 제단 위로 이동하세요." />
+	<block key="f05_kranocx_talk_1" korean="크라녹스 : 제 발로 이곳에 들어오다니, 어리석은 놈들이군." />
+	<block key="f05_kranocx_talk_2" korean="크라녹스 : 가라! 나의 병사들이여!" />
+	<block key="f05_gerald_Talk_8" korean="어림없다!" />
+	<block key="f05_gerald_Talk_9" korean="물러서지마!" />
+	<block key="f05_denil_Talk_2" korean="함께 싸우겠습니다!" />
+	<block key="f05_kranocx_talk_3" korean="크라녹스 : 쓸모없는 것들! 내가 직접 상대해주지!" />
+	<block key="f05_gerald_Talk_10" korean="원하던 바다!" />
+	<block key="f05_denil_Talk_3" korean="이 자식 각오해라!" />
+	<block key="f05_kranocx_talk_4" korean="크윽, 저런 애송이들에게... 당하다니... 으아악!" />
+	<block key="f05_gerald_Talk_11" korean="우리가 해냈군! 저기 열쇠를 줍게!" />
+	<block key="f05_temp_Notice_3" korean="결계 해제 열쇠를 가져오세요." />
+	<block key="f06_ev0_talk_01" korean="이 곳이 펙투라 요새의 입구입니다. 서두르시죠!!" />
+	<block key="f06_ev0_talk_02" korean="저는 수호 방어의 회랑으로 이동 하겠습니다." />
+	<block key="f06_ev0_talk_03" korean="저는 원소 저항의 회랑으로 이동 하겠습니다." />
+	<block key="f06_ev0_talk_04" korean="펙투라 경비대, 침입자를 저지 하라!!" />
+	<block key="f05_martin_talk_01" korean="혼자의 힘으로 부화장을 폐쇄하는 것은 무립니다!" />
+	<block key="f05_martin_talk_02" korean="모르룬님께 폭탄을 받아왔습니다! 이걸 이용해 이곳을 날려 버립시다!" />
+	<block key="f05_martin_talk_03" korean="중앙에 있는 거대한 둥지에 폭탄을 설치하도록 하죠!" />
+	<block key="f05_martin_talk_04" korean="폭탄을 설치할 동안 저들을 막아주세요!" />
+	<block key="f05_martin_talk_05" korean="거의 다 설치했습니다! 조금만 더 버티십시오!" />
+	<block key="f05_martin_talk_06" korean="저 안쪽에 마력 주입기가 있는 것 같습니다." />
+	<block key="f05_martin_talk_07" korean="어서 이동하죠!" />
+	<block key="f05_martin_talk_08" korean="저 악마를 처치해야 합니다!" />
+	<block key="f05_martin_talk_09" korean="적들이 몰려오기 전에 어서 마력 주입기를 파괴해야 합니다!" />
+	<block key="f05_martin_talk_10" korean="폭탄이 곧 터질 겁니다. 어서 이곳을 빠져나가죠!" />
+	<block key="f05_e02_notice_01" korean="마틴 체이서 : 폭탄을 설치할 동안 저들을 막아주세요!" />
+	<block key="f05_e02_notice_02" korean="마틴 체이서 : 거의 다 설치했습니다! 조금만 더 버티십시오!" />
+	<block key="f05_e02_notice_03" korean="마틴 체이서와 함께 두번째 방으로 이동하세요." />
+	<block key="f05_e02_notice_04" korean="암흑 소환사 루 : 후훗, 손님이 온 것 같군." />
+	<block key="f05_e02_notice_05" korean="암흑 소환사 루 : 내가 모를 거라 생각한 건 아니겠지?" />
+	<block key="f05_e02_notice_06" korean="암흑 소환사 : 내 사랑스러운 노예들아 깨어나라!" />
+	<block key="f05_e02_notice_07" korean="암흑 소환사 루<불사군단>을 처치하세요." />
+	<block key="f05_e02_notice_08" korean="마력 주입기를 파괴하세요." />
+	<block key="f05_devilsol_talk_01" korean="침입자다!" />
+	<block key="f05_devilsol_talk_02" korean="웬 놈들이냐!" />
+	<block key="f05_devilroo_talk_01" korean="후훗, 손님이 온 것 같군." />
+	<block key="f05_devilroo_talk_02" korean="내가 모를 거라 생각한 건 아니겠지?" />
+	<block key="f05_devilroo_talk_03" korean="내 사랑스러운 노예들아 깨어나라!" />
+	<block key="f05_devilroo_talk_04" korean="내 사랑스러운 노예들을 죽이다니! 용서할 수 없다!" />
+	<block key="f05_devilroo_talk_05" korean="너희들도 죽여서 내 노예로 만들어 주겠어!" />
+	<block key="f05_chimr_meet_01" korean="누구십니까? 저를 구하러 오신 분이군요." />
+	<block key="f05_chimr_start_01" korean="서둘러 여길 빠져 나가도록 합시다." />
+	<block key="f05_chimr_start_02" korean="입구까지 가면 안전합니다. 저를 그곳까지 데려다 주세요." />
+	<block key="f05_chimr_run_01" korean="[UserName]님의 뒤를 쫓아 가겠습니다." />
+	<block key="f05_chimr_talk_01" korean="크로쿤 호위병들이 오기 전에 가야 합니다." />
+	<block key="f05_chimr_talk_02" korean="라니아 공주님을 아주 어릴 적부터 뵀었습니다." />
+	<block key="f05_chimr_talk_03" korean="어린 시절부터 아주 총명한 분이었죠." />
+	<block key="f05_chimr_talk_04" korean="저를 찾아오시다가 납치 당하셨다고 들었습니다..." />
+	<block key="f05_chimr_talk_05" korean="무슨 일이 있어도 라니아 공주님을 반드시 구해낼 겁니다." />
+	<block key="f05_chimr_talk_06" korean="예언이 있었습니다... 아주 무서운 일이 벌어질 겁니다..." />
+	<block key="f05_chimr_talk_07" korean="하카나스 수도성에 사악한 불길이 치솟았습니다." />
+	<block key="f05_chimr_talk_08" korean="라니아 공주님이..." />
+	<block key="f05_chimr_talk_09" korean="공주님은 따뜻한 마음을 가진 분, 반드시 마신의 힘을 이겨낼 것입니다." />
+	<block key="f05_chimr_attach_01" korean="호위병들이 눈치챈 것 같습니다." />
+	<block key="f05_chimr_attach_02" korean="크로쿤 호위병들을 모두 처치하세요!" />
+	<block key="f05_chimr_notice_01" korean="이 길로 가면 안됩니다. 호위병들이 있는 곳입니다." />
+	<block key="f05_chimr_notice_02" korean="길을 이탈하면 퀘스트가 실패합니다." />
+	<block key="f05_chimr_end_01" korean="이곳은 안전할 겁니다." />
+	<block key="f05_chimr_end_02" korean="여기서부터는 혼자 가도록 하겠습니다. 저를 찾아오세요." />
+	<block key="f05_chimr_end_03" korean="여기서부터는 안전합니다. 혼자 가도록 하죠." />
+	<block key="f05_chimr_end_04" korean="그대는 남아서 해야할 일이 있습니다." />
+	<block key="f05_hermit_a_talk_01" korean="무슨 볼일이라도 있습니까?" />
+	<block key="f05_hermit_a_talk_02" korean="수행을 방해하지 마십시오." />
+	<block key="f05_hermit_a_talk_03" korean="처음 보는 분이군요." />
+	<block key="f05_hermit_a_talk_04" korean="무례하군요! 거울을 치우시죠!" />
+	<block key="f05_hermit_b_talk_01" korean="크아아악!" />
+	<block key="f05_hermit_b_talk_02" korean="몸이...몸이 타 들어가는 것 같아!" />
+	<block key="f05_hermit_b_talk_03" korean="으...으아악! 저리 치워!" />
+	<block key="f05_Aing_notice_02" korean="시나리오 이벤트 작업중입니다" />
+	<block key="f06_ev1_talk_01" korean="펙투라 공격대 전투 준비!!" />
+	<block key="f06_ev2_talk_01" korean="펙투라 수비대 전투 준비!!" />
+	<block key="d13_jason_3" korean="아름답지 못한 훼방꾼이 나타났군요?" />
+	<block key="d13_jason_4" korean="스캇라샤의 힘만 얻었더라면…" />
+	<block key="f06_ev3_talk_01" korean="어디 보자.. 정오 인가?" />
+	<block key="f06_ev3_talk_02" korean="어디 보자.. 오후 인가?" />
+	<block key="f06_ev3_talk_03" korean="어디 보자.. 저녁 인가?" />
+	<block key="f06_ev3_talk_04" korean="어디 보자.. 밤 인가?" />
+	<block key="f05_nix_001" korean="바깥 세상이 싫어 은둔자의 마을에 정착했는데 어쩐지 다시 밖으로 나가고 싶더라구.." />
+	<block key="f05_nix_002" korean="그래서 마을을 떠났는데 이거야 원..마을 밖이 온통 괴물 천지가 됐단 말이지." />
+	<block key="f05_nix_003" korean="이곳은 안전하지가 않아. 마을이 이렇게 멀게 느껴지다니.." />
+	<block key="f05_nix_004" korean="이크! 저 괴물들이야! 저 놈들 때문에 내가 사막을 떠날 수가 없었어." />
+	<block key="f05_nix_005" korean="하아..이제 바깥 세상이고 뭐고 그냥 집으로 돌아가고 싶다." />
+	<block key="f05_nix_006" korean="은둔자의 마을로 돌아가면 이제 마음 잡고 바깥세상은 잊으려구." />
+	<block key="f05_nix_007" korean="여기부턴 나 혼자 갈 수 있겠어. 덕분에 무사히 도착했어. 고마워!" />
+	<block key="f05_martin_talk_11" korean="폭탄 설치가 끝났습니다! 다음 방으로 이동하시죠!" />
+	<block key="f05_martin_talk_12" korean="적들이 더 오기 전에 빠르게 이동해야 합니다!" />
+	<block key="f05_Firealtar_talk_01" korean="신성한 제단에서 물러나라!" />
+	<block key="f05_Firealtar_talk_02" korean="이곳을 더럽히려 하는 자는 가만두지 않겠다!" />
+	<block key="f05_Firealtar_talk_03" korean="아무도 다가올 수 없다!" />
+	<block key="f05_Firealtar_talk_04" korean="당장 이곳을 떠나라!" />
+	<block key="f05_Firealtar_talk_05" korean="다시 한번 여신님을... 뵙고 싶어..." />
+	<block key="f05_Firealtar_talk_06" korean="어째서... 이렇게 허무하게..." />
+	<block key="f05_Firealtar_talk_07" korean="제단을... 지켜야 해.. 으아악..." />
+	<block key="f06_ev8_talk_01" korean="펙투라 암살대 전투 준비!!" />
+	<block key="d13_jasonnotice" korean="파멸의 기운이 느껴집니다." />
+	<block key="f05_devil_talk_01" korean="여기서 죽어줘야겠다!" />
+	<block key="f05_devil_talk_02" korean="우리 일을 방해하지 마라!" />
+	<block key="f05_devil_talk_03" korean="크으.. 죽어라!" />
+	<block key="f06_ev7_talk_01" korean="축하합니다!" />
+	<block key="f06_ev7_talk_02" korean="펙투라를 클리어 하였습니다." />
+</blocks>

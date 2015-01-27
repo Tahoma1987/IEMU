@@ -1,0 +1,15 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="CP_0_0000_Name" korean="Общие культур для тестирования" />
+	<block key="CP_0_0000_description" korean="Общие культур для тестирования." />
+	<block key="CP_0_0001_Name" korean="Лекарственные растения для тестирования" />
+	<block key="CP_0_0001_description" korean="Это лекарственное растение для тестирования." />
+	<block key="CP_1_0000_Name" korean="По-продуктов для тестирования" />
+	<block key="CP_1_0000_description" korean="По-продуктов для тестирования" />
+</blocks>

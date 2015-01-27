@@ -1,0 +1,49 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="DY_0_0_0000_Name" korean="금색 일반 염색약" />
+	<block key="DY_0_0_0000_description" korean="금색 일반 염색약이다." />
+	<block key="DY_0_0_0001_Name" korean="금색 고급 염색약" />
+	<block key="DY_0_0_0001_description" korean="금색 고급 염색약이다." />
+	<block key="DY_0_0_0002_Name" korean="연노란색 일반 랜덤염색약" />
+	<block key="DY_0_0_0002_description" korean="연노란색 일반 랜덤염색약이다." />
+	<block key="DY_0_0_0003_Name" korean="연파란색 일반 랜덤염색약" />
+	<block key="DY_0_0_0003_description" korean="연파란색 일반 랜덤염색약이다." />
+	<block key="DY_0_0_0004_Name" korean="연붉은색 일반 랜덤염색약" />
+	<block key="DY_0_0_0004_description" korean="연붉은색 일반 랜덤염색약이다." />
+	<block key="DY_0_0_0005_Name" korean="연노란색 고급 랜덤염색약" />
+	<block key="DY_0_0_0005_description" korean="연노란색 고급 랜덤염색약이다." />
+	<block key="DY_0_0_0006_Name" korean="연파란색 고급 랜덤염색약" />
+	<block key="DY_0_0_0006_description" korean="연파란색 고급 랜덤염색약이다." />
+	<block key="DY_0_0_0007_Name" korean="연붉은색 고급 랜덤염색약" />
+	<block key="DY_0_0_0007_description" korean="연붉은색 고급 랜덤염색약이다." />
+	<block key="DY_1_0_0000_Name" korean="헤어 랜덤 염색약" />
+	<block key="DY_1_0_0000_description" korean="헤어 랜덤 염색약이다." />
+	<block key="DY_1_0_0001_Name" korean="브릿지 랜덤 염색약" />
+	<block key="DY_1_0_0001_description" korean="브릿지 랜덤 염색약이다." />
+	<block key="DY_1_0_0002_Name" korean="붉은색 헤어 염색약" />
+	<block key="DY_1_0_0002_description" korean="붉은색 헤어 염색약이다." />
+	<block key="DY_1_0_0003_Name" korean="파란색 헤어 염색약" />
+	<block key="DY_1_0_0003_description" korean="파란색 헤어 염색약이다." />
+	<block key="DY_1_0_0004_Name" korean="노란색 헤어 염색약" />
+	<block key="DY_1_0_0004_description" korean="노란색 헤어 염색약이다." />
+	<block key="DY_1_0_0005_Name" korean="흰색 헤어 염색약" />
+	<block key="DY_1_0_0005_description" korean="흰색 헤어 염색약이다." />
+	<block key="DY_1_0_0006_Name" korean="검은색 헤어 염색약" />
+	<block key="DY_1_0_0006_description" korean="검은색 헤어 염색약이다." />
+	<block key="DY_1_0_0007_Name" korean="붉은색 브릿지 염색약" />
+	<block key="DY_1_0_0007_description" korean="붉은색 브릿지 염색약이다." />
+	<block key="DY_1_0_0008_Name" korean="파란색 브릿지 염색약" />
+	<block key="DY_1_0_0008_description" korean="파란색 브릿지 염색약이다." />
+	<block key="DY_1_0_0009_Name" korean="노란색 브릿지 염색약" />
+	<block key="DY_1_0_0009_description" korean="노란색 브릿지 염색약이다." />
+	<block key="DY_1_0_0010_Name" korean="흰색 브릿지 염색약" />
+	<block key="DY_1_0_0010_description" korean="흰색 브릿지 염색약이다." />
+	<block key="DY_1_0_0011_Name" korean="검은색 브릿지 염색약" />
+	<block key="DY_1_0_0011_description" korean="검은색 브릿지 염색약이다." />
+</blocks>

@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="TL0_001_0_0000_Name" korean="Добыча кирка" />
+	<block key="TL0_001_0_0000_description" korean="Кирка, необходимые для добычи." />
+	<block key="TL1_001_0_0000_Name" korean="Солярии sonkal" />
+	<block key="TL1_001_0_0000_description" korean="Sonkal необходимо для загара." />
+	<block key="TL2_001_0_0000_Name" korean="Собранные лучше" />
+	<block key="TL2_001_0_0000_description" korean="Потребность в более Травничество." />
+	<block key="TL3_001_0_0000_Name" korean="Грубый удочка" />
+	<block key="TL3_001_0_0000_description" korean="Грубая удочкой можно ловить рыбу." />
+	<block key="TL4_001_0_0000_Name" korean="Основные молота" />
+	<block key="TL4_001_0_0000_description" korean="Потребовал деталей Инструмент для создания оружия и доспехов." />
+	<block key="TL5_001_0_0000_Name" korean="Основные экспериментальный инструмент" />
+	<block key="TL5_001_0_0000_description" korean="Инструменты, необходимые для алхимии элементов." />
+	<block key="TL6_001_0_0000_Name" korean="Основные кухонная утварь" />
+	<block key="TL6_001_0_0000_description" korean="Требуется детали для приготовления пищи инструментов." />
+	<block key="TL7_001_0_0001_Name" korean="Плуг для очистки" />
+	<block key="TL8_001_0_0001_Name" korean="Лопата для очистки" />
+	<block key="TL9_001_0_0002_Name" korean="Строительство молоток" />
+	<block key="TL10_001_0_0002_Name" korean="Ранние инструменты выращивание" />
+</blocks>

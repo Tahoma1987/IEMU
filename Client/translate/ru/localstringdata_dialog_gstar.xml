@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="dialog_1420001_title" korean="Тень Ворона лидер клана" />
+	<block key="dialog_1420001_text0" korean="Рогунская вы? Полет парень просто пошел вниз, чтобы арбалета от пиратов. Похоже, серин были с нами вышел на разведку противника поймали." />
+	<block key="dialog_1420002_title" korean="Скауты выиграл серин" />
+	<block key="dialog_1420002_text0" korean="Ах! Эллора хвала богини! Вы пришли, чтобы спасти Каталог \u003cbr\u003e меня." />
+	<block key="dialog_1420003_title" korean="Shenron Рыцари капитан Паоло Нижняя далеко" />
+	<block key="dialog_1420003_text0" korean="Темный maryong Кара Шах взорван появляются на земле, чтобы исключить турбулентного пламени жизни. Они были направлены нас смотреть на ситуацию." />
+	<block key="dialog_1420004_title" korean="Shadow Clan синтезатор раздел" />
+	<block key="dialog_1420004_text0" korean="Мы оказались на их пути к замку, а также Канас. Информация о ситуации здесь не много. Тем не менее, это сделает ситуацию еще минут." />
+	<block key="dialog_1420005_title" korean="Статья Shenron Рыцари Хранитель" />
+	<block key="dialog_1420005_text0" korean="Что мы будем делать, чтобы предотвратить темное maryong Кара Шах поднять силы." />
+	<block key="dialog_1420006_title" korean="Рыцарь Храма урок" />
+	<block key="dialog_1420006_text0" korean="Канаш, и к славе царства! Есть \u003cbr\u003e Что случилось?" />
+	<block key="dialog_1420007_title" korean="Тор эскорт зуб статья" />
+	<block key="dialog_1420007_text0" korean="Занято пиратами, которые не все еще знают, что мы собираемся увидеть Царствия. Убирайся отсюда, я должен был бы быть распространена на царство ..." />
+	<block key="dialog_1420008_title" korean="Лена эскорт статья" />
+	<block key="dialog_1420008_text0" korean="Я никогда не должны летать над здесь ... сами в спешке сломанной больше времени задержки королевства." />
+	<block key="dialog_1420009_title" korean="Shenron Рыцари выиграл Swin скаутов" />
+	<block key="dialog_1420009_text0" korean="Приятно познакомиться. Deogunyo храбрых минут. Concealed've шел в разведку, кто ждал в виде вас борьбы с пиратами." />
+</blocks>

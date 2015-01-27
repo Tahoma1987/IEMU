@@ -1,0 +1,262 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="area_sp_s_0001_name" korean="Регистрация и воскресение Игрок Позиция 1" />
+	<block key="area_sp_q_0001_name" korean="Голова в Rex" />
+	<block key="area_sp_q_0002_name" korean="Крафт" />
+	<block key="area_sp_r_0001_name" korean="Положение Воскресение 2" />
+	<block key="area_sp_q_0005_name" korean="Побег" />
+	<block key="area_f01_p_1001_name" korean="Shenron Рыцари лагерь" />
+	<block key="area_f01_p_1002_name" korean="Исторические руины" />
+	<block key="area_f01_p_1003_name" korean="Лесном лагере Brilliance" />
+	<block key="area_f01_p_0001_name" korean="Тимберлейк не валки" />
+	<block key="area_f01_p_0002_name" korean="Пожарный выход руины проглотил" />
+	<block key="area_f01_p_0003_name" korean="Канаш проход и выход" />
+	<block key="area_f01_q_0002_name" korean="Деревья вокруг озера блеском" />
+	<block key="area_f01_q_0003_name" korean="Контекст зрения, что истина зелье" />
+	<block key="area_f01_q_0004_name" korean="Эскорт утечки Quest" />
+	<block key="area_f01_q_0005_name" korean="Не разбился вокруг пруда" />
+	<block key="area_f01_q_0006_name" korean="Черная пантера появилась место" />
+	<block key="area_f01_q_0011_name" korean="Посол утечки 1" />
+	<block key="area_f01_q_0012_name" korean="Метаболизм утечки 2" />
+	<block key="area_f01_q_0013_name" korean="Метаболизм утечки 3" />
+	<block key="area_f01_r_0001_name" korean="Shenron Рыцари лагерь воскресение точки" />
+	<block key="area_f01_r_0002_name" korean="Исторические руины воскрешение точка" />
+	<block key="area_f01_r_0003_name" korean="Sparkly Дерево точка лагерь воскресение" />
+	<block key="area_f01_r_0004_name" korean="Воскресение точка горит постоянно проглотил" />
+	<block key="area_f01_r_0005_name" korean="Воскресение точка корабль потерпел крушение на сайте" />
+	<block key="area_f01_warp_0001_name" korean="Пожарные проглотил руины позиция" />
+	<block key="area_f01_warp_0002_name" korean="Канаш проход и вход" />
+	<block key="area_dc_p_0001_name" korean="Кромешной пещере" />
+	<block key="area_bd_p_0001_name" korean="Храм покровителя Dragon" />
+	<block key="area_dl_p_0001_name" korean="Лава низший" />
+	<block key="area_hk_q_0001_name" korean="Молодые пастухи квест начинается здесь" />
+	<block key="area_hk_q_0002_name" korean="Quest молодые пастухи конечное положение" />
+	<block key="area_hk_q_0003_name" korean="Усталые солдаты конечное положение" />
+	<block key="area_hk_q_0004_name" korean="Конец Уверенность позиция" />
+	<block key="area_hk_q_0005_name" korean="Конечное положение для дам" />
+	<block key="area_fr_q_0001_name" korean="Красный заклинания использовать место положение" />
+	<block key="area_fr_q_0002_name" korean="Синий магические заклинания, используя три позиции" />
+	<block key="area_fr_q_0003_name" korean="Синий заклинания использовать место положение" />
+	<block key="area_fr_q_0004_name" korean="Желтый заклинание для сиденья позиция" />
+	<block key="area_fr_q_0005_name" korean="Использование местоположение книги памяти" />
+	<block key="area_fr_q_0007_name" korean="Пол девять минут, используя Quest" />
+	<block key="area_st_r_001_name" korean="Рид ветер село gwihwanseok" />
+	<block key="area_st_r_002_name" korean="Гаррисон серьезно gwihwanseok" />
+	<block key="area_st_r_003_name" korean="Пираты воскресение крупного рогатого скота" />
+	<block key="area_st_r_004_name" korean="Озеро жизни временных услуг ..." />
+	<block key="area_st_r_006_name" korean="Плача скалы Village временные услуги ..." />
+	<block key="area_st_r_007_name" korean="Синий Moonlight город gwihwanseok" />
+	<block key="area_sf_p_0002_name" korean="Shenron тамплиеров гарнизон" />
+	<block key="area_sf_p_0004_name" korean="Древние руины Удобство сообщение" />
+	<block key="area_sf_p_0005_name" korean="Лесном лагере Brilliance" />
+	<block key="area_st_p_0011_name" korean="Рид ветер деревня" />
+	<block key="area_st_p_0012_name" korean="Гаррисон всерьез" />
+	<block key="area_st_p_0013_name" korean="Озеро жизни" />
+	<block key="area_st_p_0014_name" korean="Плача Скалы Village" />
+	<block key="area_st_p_0015_name" korean="Город Голубой Лунный свет" />
+	<block key="area_c01_p_1001_name" korean="Площадь Победы" />
+	<block key="area_c01_p_1002_name" korean="Эллора Sanctuary" />
+	<block key="area_c01_p_1003_name" korean="Тихие равнины (на востоке)" />
+	<block key="area_c01_p_1004_name" korean="Долина забытых руин" />
+	<block key="area_c01_p_1005_name" korean="Тихий равнин (Южный)" />
+	<block key="area_c01_p_0001_name" korean="Канаш капитал ворота замка и входная дверь" />
+	<block key="area_c01_p_0002_name" korean="Каньяс капитал ворота замка и выпускники" />
+	<block key="area_c01_p_0003_name" korean="Прочная авантюриста гавань" />
+	<block key="area_c01_p_0004_name" korean="Площадь Победы" />
+	<block key="area_c01_p_0005_name" korean="Долина забытых руин" />
+	<block key="area_c01_r_0001_name" korean="Площадь Победы" />
+	<block key="area_c01_r_0002_name" korean="Тихие равнины (на востоке)" />
+	<block key="area_f02_p_1001_name" korean="Келл деревне В лесу" />
+	<block key="area_f02_p_1002_name" korean="Горный приют лагерь Лови волну" />
+	<block key="area_f02_p_1003_name" korean="Гаррисон Вудс Рев" />
+	<block key="area_f02_p_0001_name" korean="Карл Reang вход особняк" />
+	<block key="area_f02_p_0002_name" korean="Замороженные руины вход" />
+	<block key="area_f02_p_0003_name" korean="Канаш капитал ворота замка и входная дверь" />
+	<block key="area_f02_p_0004_name" korean="Каньяс капитал ворота замка и выпускники" />
+	<block key="area_f02_r_0001_name" korean="Лагерь беженцев" />
+	<block key="area_f02_r_0002_name" korean="Северная Guard Tower" />
+	<block key="area_f02_r_0003_name" korean="Келл деревне В лесу" />
+	<block key="area_f02_r_0004_name" korean="Гаррисон Вудс Рев" />
+	<block key="area_f02_r_0005_name" korean="Земля лагерь турбулентности" />
+	<block key="area_f02_r_0006_name" korean="Сон в лагере беженцев" />
+	<block key="area_d00_r_0001_name" korean="Peheo разрушает вход" />
+	<block key="area_d01_p_0001_name" korean="Замок вход" />
+	<block key="area_fr_r_0001_name" korean="Замороженные руины вход" />
+	<block key="area_c01_p_3001_name" korean="Площадь Победы" />
+	<block key="area_c01_p_3002_name" korean="Канас и общественного Марина" />
+	<block key="area_c01_p_3003_name" korean="Канас и входная дверь" />
+	<block key="area_c01_p_3004_name" korean="Сотрудник НИИ" />
+	<block key="area_c01_p_3005_name" korean="Водный замок гвардии" />
+	<block key="area_f00_p_0001_name" korean="Noeok боль заключение номере" />
+	<block key="area_f01_e01_r_001_name" korean="На входе Сценарий канальный" />
+	<block key="area_f01_e02_r_001_name" korean="Исторические руины Северный вход" />
+	<block key="area_f04_p_1002_name" korean="Бурном море" />
+	<block key="area_f04_p_1001_name" korean="Воздушная скаутский лагерь" />
+	<block key="area_f04_p_1003_name" korean="Эллоры гигантскими каменными статуями" />
+	<block key="area_f04_r_0001_name" korean="Бурном море" />
+	<block key="area_f04_r_0002_name" korean="Канас и высотные разведывательные лагерь" />
+	<block key="area_f04_r_0003_name" korean="Горгулья кредитной Уничтожено" />
+	<block key="area_f04_p_5001_name" korean="Воздушное пространство разрушения" />
+	<block key="area_c01_p_5001_name" korean="Канаш, а также секс" />
+	<block key="area_f02_p_0005_name" korean="Продолжает гореть вход проглотил" />
+	<block key="area_d00_p_0003_name" korean="Seongseok руины зажечь огонь проглотил" />
+	<block key="area_d01_p_0002_name" korean="Особняк Reang свет seongseok Карла" />
+	<block key="area_d02_p_0002_name" korean="Seongseok руины замороженного света" />
+	<block key="area_f04_q_0001_name" korean="Sea Swirl" />
+	<block key="area_f04_q_0002_name" korean="Каменная статуя богини" />
+	<block key="area_c01_p_1006_name" korean="Канас и общественного Марина" />
+	<block key="area_f04_p_0001_name" korean="Бурном море" />
+	<block key="area_f04_p_0002_name" korean="Воздушная скаутский лагерь" />
+	<block key="area_f04_p_0003_name" korean="Горгулья кредитной Уничтожено" />
+	<block key="area_c01_r_0003_name" korean="Синий цветок эссенции через магазины" />
+	<block key="area_f03_p_0001_name" korean="Рид ветер деревня" />
+	<block key="area_f03_r_0001_name" korean="Ice вход замок Рондо" />
+	<block key="area_d04_ec_0001_name" korean="Ледяной замок, keotsin событие Рондо" />
+	<block key="area_f03_p_0002_name" korean="Гаррисон Гаррисон" />
+	<block key="area_f03_p_0003_name" korean="Плача Скалы Village" />
+	<block key="area_f03_p_0004_name" korean="Волновые рупий поместья" />
+	<block key="area_f03_p_0005_name" korean="Озеро жизни" />
+	<block key="area_d02_p_0001_name" korean="Лен руины Mart вход" />
+	<block key="area_f03_r_0002_name" korean="Рид ветер деревня" />
+	<block key="area_f03_r_0003_name" korean="Озеро жизни" />
+	<block key="area_f03_r_0004_name" korean="Охрана базы" />
+	<block key="area_f03_r_0005_name" korean="Волновые рупий поместья" />
+	<block key="area_f03_r_0006_name" korean="Плача Скалы Village" />
+	<block key="area_f03_ec_0001_name" korean="Pirate вход корабля" />
+	<block key="area_f03_01_q_0001_name" korean="Капитан Encounter" />
+	<block key="area_f04_p_1004_name" korean="Храм потерянных свет" />
+	<block key="area_f04_p_1005_name" korean="Забыли Dragon Land" />
+	<block key="area_d11_s_0001_name" korean="Регистрация и воскресение Игрок Позиция 1" />
+	<block key="area_d11_s_0002_name" korean="Засада позиция 1" />
+	<block key="area_d11_s_0003_name" korean="Засада положение 2" />
+	<block key="area_d11_s_0004_name" korean="Засада позиция 3" />
+	<block key="area_c01_warp_0004_name" korean="Канаш, а также секс" />
+	<block key="area_st_p_001_name" korean="Парк мою землю" />
+	<block key="area_f03_p_1001_name" korean="Облаченный в подъезде завеса пещере" />
+	<block key="area_d03_p_0001_name" korean="Вход в пещеру" />
+	<block key="area_f03_ec_2002_name" korean="Город Голубой Лунный свет" />
+	<block key="area_f03_p_0006_name" korean="Вход в форт волны рупий льда" />
+	<block key="area_d03_p_0003_name" korean="Храм вход" />
+	<block key="area_d02_p_0003_name" korean="Снежная буря ударил мое дорогу" />
+	<block key="area_f03_r_0007_name" korean="Пираты дом на побережье" />
+	<block key="area_d04_p_0001_name" korean="Ice Цитадель вход" />
+	<block key="area_f04_r_0004_name" korean="Храм потерянных свет" />
+	<block key="area_f04_r_0005_name" korean="Забыли Dragon Land" />
+	<block key="area_f09_r_0001_name" korean="Гаррисон Гаррисон" />
+	<block key="area_f09_r_0002_name" korean="Бар Форт Эллис" />
+	<block key="area_f09_r_0003_name" korean="Воздушная Farm" />
+	<block key="area_f09_r_0004_name" korean="Разведчик пост охраны" />
+	<block key="area_f09_p_0001_name" korean="Гаррисон Гаррисон" />
+	<block key="area_f09_p_0002_name" korean="Бар Форт Эллис" />
+	<block key="area_p01_p_1001_name" korean="Шлюз к Истине" />
+	<block key="area_d03_e_0001_name" korean="Вход в пещеру" />
+	<block key="area_p01_p_001_name" korean="Шлюз к Истине" />
+	<block key="area_f15_r_0001_name" korean="Крупные ветряные Остров" />
+	<block key="area_f15_p_1001_name" korean="Крупные ветряные Остров" />
+	<block key="area_f16_p_1001_name" korean="Цепи для внутри" />
+	<block key="area_f09_p_1001_name" korean="Бог барьеры" />
+	<block key="area_f09_p_1002_name" korean="Цепи для наружного" />
+	<block key="area_f09_r_0005_name" korean="Синий Coral Island" />
+	<block key="area_c01_q_003_name" korean="Вода Санкт-Северные ворота" />
+	<block key="area_c01_nor_0002_name" korean="Эллора Sanctuary" />
+	<block key="area_c01_p_5005_name" korean="Exergy вырос Лоулесс вход" />
+	<block key="area_c01_p_1007_name" korean="Канаш, а также гендерные выпускников" />
+	<block key="area_c01_p_1008_name" korean="Канаш, а также Санкт-Северные ворота" />
+	<block key="area_c01_p_1009_name" korean="Деловой район" />
+	<block key="area_c01_p_1010_name" korean="Промышленный район" />
+	<block key="area_c01_p_1011_name" korean="Офис управления Гильдия" />
+	<block key="area_f02_p_1004_name" korean="Лесном лагере в изобилии" />
+	<block key="area_f02_p_1005_name" korean="Сон в лагере беженцев" />
+	<block key="area_f02_p_1006_name" korean="Северная Guard Tower" />
+	<block key="area_f02_p_1007_name" korean="Земля турбулентности" />
+	<block key="area_f09_p_0005_name" korean="Воздушная Farm" />
+	<block key="area_f09_p_0006_name" korean="Радуга Coral Reef" />
+	<block key="area_f03_p_0007_name" korean="Пираты Двери входные" />
+	<block key="area_f03_p_0008_name" korean="Вернуться вход в долину" />
+	<block key="area_f03_p_0009_name" korean="Пардо и плавучий остров" />
+	<block key="area_f04_p_1006_name" korean="Море Greed" />
+	<block key="area_p01_ReturnP_001_name" korean="Шлюз к Истине" />
+	<block key="area_p01_ReturnP_002_name" korean="Halo лагерь" />
+	<block key="area_p01_ReturnP_003_name" korean="Красная тень после" />
+	<block key="area_f04_p_1007_name" korean="Ниша вход воздушного пространства" />
+	<block key="area_p01_p_002_name" korean="Красная тень после" />
+	<block key="area_p01_p_003_name" korean="Halo лагерь" />
+	<block key="area_p01_p_004_name" korean="Лагерь турбулентности" />
+	<block key="area_p01_ReturnP_004_name" korean="Лагерь турбулентности" />
+	<block key="area_d03_n_p_001_name" korean="Храм фронт подводных" />
+	<block key="area_d03_n_warp_0002_name" korean="Вход в пещеру" />
+	<block key="area_f09_n_warp_0001_name" korean="И Канаш для" />
+	<block key="area_f04_p_9001_name" korean="Клиренс воздушного пространства" />
+	<block key="area_f04_p_9002_name" korean="Воздушное пространство разрушения" />
+	<block key="area_d22_SafeWarp_01_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_02_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_03_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_04_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_05_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_06_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_07_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_11_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_12_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_13_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_14_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_15_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_16_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_17_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_51_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_52_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_61_name" korean="Секретный проход" />
+	<block key="area_d22_SafeWarp_62_name" korean="Секретный проход" />
+	<block key="area_d22_warp_013_name" korean="Секретный проход" />
+	<block key="area_f98_p001_name" korean="Восток стендов" />
+	<block key="area_f98_p002_name" korean="К востоку от приемной" />
+	<block key="area_f98_p003_name" korean="Восточной части стадиона" />
+	<block key="area_f98_p004_name" korean="Западная сторона трибунах" />
+	<block key="area_f98_p005_name" korean="Западная сторона зале ожидания" />
+	<block key="area_f98_p006_name" korean="Западная сторона стадиона" />
+	<block key="area_f98_p007_name" korean="Картель" />
+	<block key="area_f05_p_0001_name" korean="Город Аль Gocek" />
+	<block key="area_f05_p_0002_name" korean="Слезы Oasis" />
+	<block key="area_f05_p_0003_name" korean="Шахта временно лагерь" />
+	<block key="area_f05_p_0004_name" korean="Золотые Peaks" />
+	<block key="area_f05_p_0005_name" korean="Храм направил лагерь" />
+	<block key="area_f05_p_0006_name" korean="Kuhn казармы Croix район" />
+	<block key="area_f05_p_0007_name" korean="Деревня отшельников" />
+	<block key="area_d02_b_po_02_name" korean="Подвал Сантин в" />
+	<block key="area_d13_p_1001_name" korean="Храм" />
+	<block key="area_d13_p_9999_name" korean="Скотт герметичный rasya" />
+	<block key="area_f05_warp_0001_name" korean="Древний храм" />
+	<block key="area_f05_p_9001_name" korean="Древний храм" />
+	<block key="area_f05_p_5001_name" korean="Пустыня бессмертия" />
+	<block key="area_f05_warp_0002_name" korean="Бессмертный вход Легион форт" />
+	<block key="area_f05_p_9101_name" korean="Бессмертный вход Легион форт" />
+	<block key="area_d06_warp_0001_name" korean="Пустыня бессмертия" />
+	<block key="area_d06_r_0001_name" korean="Бессмертный Легион форт воскресение" />
+	<block key="area_d06_p_0001_name" korean="Езда нижнюю зону" />
+	<block key="area_d06_p_9001_name" korean="Бессмертный Легион форт входная зона" />
+	<block key="area_d06_ec_0001_name" korean="Зомби Control Room" />
+	<block key="area_d06_ec_0002_name" korean="Машинное зомби" />
+	<block key="area_d06_ec_0003_name" korean="Призыв зомби номер" />
+	<block key="area_f06_start_01_name" korean="Пек Тура вход" />
+	<block key="area_f06_start_L_01_name" korean="Обитель стали обороны" />
+	<block key="area_f06_start_R_01_name" korean="Монастырь элементарного сопротивления" />
+	<block key="area_f06_end_L_01_name" korean="Обитель стали обороны" />
+	<block key="area_f06_end_R_01_name" korean="Монастырь элементарного сопротивления" />
+	<block key="area_f06_end_01_name" korean="Пек Тура ниже вход" />
+	<block key="area_f06_MBoss_01_name" korean="Пек Тура вход дизайн помещения" />
+	<block key="area_f06_MBoss_Start_01_name" korean="Пек Тура Дизайнерские номера отеля Вильма" />
+	<block key="area_f06_ug_01_name" korean="Пек и др Natura мост" />
+	<block key="area_f06_ug_start_01_name" korean="Эскадроны смерти лагерь" />
+	<block key="area_f06_mboss_s_01_name" korean="Дизайн зал Вильма" />
+	<block key="area_f06_boss_s_01_name" korean="Пек Тура сверху" />
+	<block key="area_f05_p_9201_name" korean="Пек Тура вход в подземелье" />
+	<block key="area_f06_ug_02_name" korean="Вход Пек и др Natura мост" />
+	<block key="area_f05_p_0008_name" korean="Не крепость" />
+	<block key="area_f05_p_0009_name" korean="Форт из" />
+	<block key="area_f06_poison_01_name" korean="Док область" />
+</blocks>

@@ -1,0 +1,415 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="N_f05_0_0001_0001_Name" korean="아인스 가르니" />
+	<block key="N_f05_0_0001_0001_NameDetail" korean="여관 주인" />
+	<block key="N_f05_0_0001_0002_Name" korean="라비니 엘루느" />
+	<block key="N_f05_0_0001_0002_NameDetail" korean="엘룬 상인" />
+	<block key="N_f05_0_0001_0003_Name" korean="쉬렌터" />
+	<block key="N_f05_0_0001_0003_NameDetail" korean="목수" />
+	<block key="N_f05_0_0001_0004_Name" korean="지케르" />
+	<block key="N_f05_0_0001_0004_NameDetail" korean="음악가" />
+	<block key="N_f05_0_0001_0005_Name" korean="메르헨" />
+	<block key="N_f05_0_0001_0005_NameDetail" korean="마을 주민" />
+	<block key="N_f05_0_0001_0006_Name" korean="윌슨 채틀러" />
+	<block key="N_f05_0_0001_0006_NameDetail" korean="펠로우 연구학자" />
+	<block key="N_f05_0_0001_0007_Name" korean="웰딘" />
+	<block key="N_f05_0_0001_0007_NameDetail" korean="방랑자" />
+	<block key="N_f05_0_0001_0008_Name" korean="아겐투르" />
+	<block key="N_f05_0_0001_0008_NameDetail" korean="판매 대행 중개인" />
+	<block key="N_f05_0_0001_0009_Name" korean="라게르할" />
+	<block key="N_f05_0_0001_0009_NameDetail" korean="창고지기" />
+	<block key="N_f05_0_0001_0010_Name" korean="슈미텔" />
+	<block key="N_f05_0_0001_0010_NameDetail" korean="음식 상인" />
+	<block key="N_f05_0_0001_0011_Name" korean="상인의 시체" />
+	<block key="N_f05_0_0001_0011_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0012_Name" korean="켄 그리프" />
+	<block key="N_f05_0_0001_0012_NameDetail" korean="그리폰의 왕" />
+	<block key="N_f05_0_0001_0013_Name" korean="카니얀" />
+	<block key="N_f05_0_0001_0013_NameDetail" korean="그리폰의 왕" />
+	<block key="N_f05_0_0001_0014_Name" korean="포츠델" />
+	<block key="N_f05_0_0001_0014_NameDetail" korean="사막 동물 연구원" />
+	<block key="N_f05_0_0001_0015_Name" korean="레호제우" />
+	<block key="N_f05_0_0001_0015_NameDetail" korean="창고지기" />
+	<block key="N_f05_0_0001_0016_Name" korean="베로니카" />
+	<block key="N_f05_0_0001_0016_NameDetail" korean="모래사장의 유령" />
+	<block key="N_f05_0_0001_0017_Name" korean="나파순" />
+	<block key="N_f05_0_0001_0017_NameDetail" korean="주술사" />
+	<block key="N_f05_0_0001_0018_Name" korean="키낙" />
+	<block key="N_f05_0_0001_0018_NameDetail" korean="크로쿤 변절자" />
+	<block key="N_f05_0_0001_0019_Name" korean="유나디" />
+	<block key="N_f05_0_0001_0019_NameDetail" korean="보물 사냥꾼" />
+	<block key="N_f05_0_0001_0020_Name" korean="납치된 치메르" />
+	<block key="N_f05_0_0001_0020_NameDetail" korean="예언자" />
+	<block key="N_f05_0_0001_0021_Name" korean="미어" />
+	<block key="N_f05_0_0001_0021_NameDetail" korean="정찰병" />
+	<block key="N_f05_0_0001_0022_Name" korean="오귀스트" />
+	<block key="N_f05_0_0001_0022_NameDetail" korean="조각가" />
+	<block key="N_f05_0_0001_0023_Name" korean="닉스" />
+	<block key="N_f05_0_0001_0023_NameDetail" korean="은둔자의 마을 주민" />
+	<block key="N_f05_0_0001_0024_Name" korean="신원 미상의 시체" />
+	<block key="N_f05_0_0001_0024_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0025_Name" korean="에길 스튜어트" />
+	<block key="N_f05_0_0001_0025_NameDetail" korean="은둔 기사" />
+	<block key="N_f05_0_0001_0026_Name" korean="아즈라" />
+	<block key="N_f05_0_0001_0026_NameDetail" korean="그리폰 지원대 기사" />
+	<block key="N_f05_0_0001_0027_Name" korean="치메르" />
+	<block key="N_f05_0_0001_0027_NameDetail" korean="예언자" />
+	<block key="N_f05_0_0001_0028_Name" korean="아하브" />
+	<block key="N_f05_0_0001_0028_NameDetail" korean="은퇴한 기사" />
+	<block key="N_f05_0_0001_0029_Name" korean="이슈멜" />
+	<block key="N_f05_0_0001_0029_NameDetail" korean="아하브의 손자" />
+	<block key="N_f05_0_0001_0030_Name" korean="니히츠" />
+	<block key="N_f05_0_0001_0030_NameDetail" korean="전직 보물 사냥꾼" />
+	<block key="N_f05_0_0001_0031_Name" korean="샤모" />
+	<block key="N_f05_0_0001_0031_NameDetail" korean="낚시꾼" />
+	<block key="N_f05_0_0001_0032_Name" korean="니힐" />
+	<block key="N_f05_0_0001_0032_NameDetail" korean="무직" />
+	<block key="N_f05_0_0001_0033_Name" korean="리시안" />
+	<block key="N_f05_0_0001_0033_NameDetail" korean="은둔 기사" />
+	<block key="N_f05_0_0001_0034_Name" korean="아즈라" />
+	<block key="N_f05_0_0001_0034_NameDetail" korean="그리폰 지원대 기사" />
+	<block key="N_f05_0_0001_0035_Name" korean="베를레브" />
+	<block key="N_f05_0_0001_0035_NameDetail" korean="생존자" />
+	<block key="N_f05_0_0001_0036_Name" korean="록 바렌" />
+	<block key="N_f05_0_0001_0036_NameDetail" korean="은둔 기사" />
+	<block key="N_F05_Portal_100_Name" korean="상급 포탈 이동장치" />
+	<block key="N_F05_Portal_100_NameDetail" korean="" />
+	<block key="N_F05_Portal_001_Name" korean="포탈 이동장치" />
+	<block key="N_F05_Portal_001_NameDetail" korean="" />
+	<block key="N_F05_Portal_002_Name" korean="포탈 이동장치" />
+	<block key="N_F05_Portal_002_NameDetail" korean="" />
+	<block key="N_F05_Portal_003_Name" korean="포탈 이동장치" />
+	<block key="N_F05_Portal_003_NameDetail" korean="" />
+	<block key="N_F05_Portal_004_Name" korean="포탈 이동장치" />
+	<block key="N_F05_Portal_004_NameDetail" korean="" />
+	<block key="N_F05_Portal_005_Name" korean="포탈 이동장치" />
+	<block key="N_F05_Portal_005_NameDetail" korean="" />
+	<block key="N_F05_Portal_006_Name" korean="포탈 이동장치" />
+	<block key="N_F05_Portal_006_NameDetail" korean="" />
+	<block key="N_f05_HuMsol_003_Name" korean="커티스" />
+	<block key="N_f05_HuMsol_003_NameDetail" korean="알세크 마을 경비대장" />
+	<block key="N_f05_HuMsol_004_Name" korean="커티스" />
+	<block key="N_f05_HuMsol_004_NameDetail" korean="알세크 마을 경비대장" />
+	<block key="N_f05_LeopDC_001_Name" korean="블랑코의 사막표범" />
+	<block key="N_f05_LeopDC_001_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0037_Name" korean="아인도르" />
+	<block key="N_f05_0_0001_0037_NameDetail" korean="판매 대행 중개인" />
+	<block key="N_f05_0_0001_0038_Name" korean="트레아" />
+	<block key="N_f05_0_0001_0038_NameDetail" korean="백색의 치료사" />
+	<block key="N_f05_0_0001_0039_Name" korean="새글러" />
+	<block key="N_f05_0_0001_0039_NameDetail" korean="바다 펠로우 오르카호 선원" />
+	<block key="N_f05_0_0001_0040_Name" korean="얀테르" />
+	<block key="N_f05_0_0001_0040_NameDetail" korean="바다 펠로우 오르카호 일등 항해사" />
+	<block key="N_f05_0_0001_0041_Name" korean="카브레라의 코뿔소" />
+	<block key="N_f05_0_0001_0041_NameDetail" korean="" />
+	<block key="N_F05_Carriage_001_Name" korean="수송 마차" />
+	<block key="N_F05_Carriage_001_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0042_Name" korean="우마르크" />
+	<block key="N_f05_0_0001_0042_NameDetail" korean="알세크 경비대 참모" />
+	<block key="N_f05_0_0001_0043_Name" korean="야흐루" />
+	<block key="N_f05_0_0001_0043_NameDetail" korean="그리폰 기사단 참모" />
+	<block key="N_f05_0_0001_0044_Name" korean="야흐루" />
+	<block key="N_f05_0_0001_0044_NameDetail" korean="그리폰 기사단 참모" />
+	<block key="N_f05_0_0001_0045_Name" korean="나자히" />
+	<block key="N_f05_0_0001_0045_NameDetail" korean="그리폰 기사 단장" />
+	<block key="N_f05_0_0001_0046_Name" korean="디마이" />
+	<block key="N_f05_0_0001_0046_NameDetail" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0047_Name" korean="리아 벤" />
+	<block key="N_f05_0_0001_0047_NameDetail" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0048_Name" korean="크로우" />
+	<block key="N_f05_0_0001_0048_NameDetail" korean="섀도우 클랜 단장" />
+	<block key="N_f05_0_0001_0049_Name" korean="엘레나" />
+	<block key="N_f05_0_0001_0049_NameDetail" korean="섀도우 클랜" />
+	<block key="N_f05_0_0001_0050_Name" korean="치메르" />
+	<block key="N_f05_0_0001_0050_NameDetail" korean="예언자" />
+	<block key="N_f05_0_0001_0051_Name" korean="모르룬" />
+	<block key="N_f05_0_0001_0051_NameDetail" korean="크로쿤 수석 장인" />
+	<block key="N_f05_0_0001_0052_Name" korean="라이어스" />
+	<block key="N_f05_0_0001_0052_NameDetail" korean="고대의 사원 신관" />
+	<block key="N_f05_0_0001_0053_Name" korean="첸트라" />
+	<block key="N_f05_0_0001_0053_NameDetail" korean="광물 상인" />
+	<block key="N_f05_0_0001_0054_Name" korean="로간" />
+	<block key="N_f05_0_0001_0054_NameDetail" korean="정찰병" />
+	<block key="N_f05_0_0001_0055_Name" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0055_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0056_Name" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0056_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0057_Name" korean="샌더슨" />
+	<block key="N_f05_0_0001_0057_NameDetail" korean="황금 봉우리 원로" />
+	<block key="N_f05_0_0001_0058_Name" korean="크리스티앙" />
+	<block key="N_f05_0_0001_0058_NameDetail" korean="황금 봉우리 원로" />
+	<block key="N_f05_0_0001_0059_Name" korean="로이나" />
+	<block key="N_f05_0_0001_0059_NameDetail" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0060_Name" korean="메이든" />
+	<block key="N_f05_0_0001_0060_NameDetail" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0061_Name" korean="라크렌" />
+	<block key="N_f05_0_0001_0061_NameDetail" korean="크로쿤 전사" />
+	<block key="N_f05_0_0001_0062_Name" korean="제럴드" />
+	<block key="N_f05_0_0001_0062_NameDetail" korean="퇴역 장군" />
+	<block key="N_f05_0_0001_0063_Name" korean="데닐" />
+	<block key="N_f05_0_0001_0063_NameDetail" korean="퇴역 장군 수행병" />
+	<block key="N_f05_0_0001_0064_Name" korean="켄달" />
+	<block key="N_f05_0_0001_0064_NameDetail" korean="왕립 조사단" />
+	<block key="N_f05_0_0001_0065_Name" korean="버닐" />
+	<block key="N_f05_0_0001_0065_NameDetail" korean="견습 왕립 조사단" />
+	<block key="N_f05_0_0001_0066_Name" korean="달시" />
+	<block key="N_f05_0_0001_0066_NameDetail" korean="콜렉터" />
+	<block key="N_f05_0_0001_0067_Name" korean="지브리" />
+	<block key="N_f05_0_0001_0067_NameDetail" korean="콜렉터의 펠로우" />
+	<block key="N_f05_0_0001_0068_Name" korean="라토닌" />
+	<block key="N_f05_0_0001_0068_NameDetail" korean="콜렉터" />
+	<block key="N_f05_0_0001_0069_Name" korean="사이브" />
+	<block key="N_f05_0_0001_0069_NameDetail" korean="콜렉터의 펠로우" />
+	<block key="N_f05_0_0001_0070_Name" korean="세레마이" />
+	<block key="N_f05_0_0001_0070_NameDetail" korean="일급 보물 사냥꾼" />
+	<block key="N_f05_0_0001_0071_Name" korean="듀린켓" />
+	<block key="N_f05_0_0001_0071_NameDetail" korean="세레마이의 펠로우" />
+	<block key="N_f05_0_0001_0072_Name" korean="오일레트" />
+	<block key="N_f05_0_0001_0072_NameDetail" korean="어둠의 방랑자" />
+	<block key="N_f05_0_0001_0073_Name" korean="비욘드" />
+	<block key="N_f05_0_0001_0073_NameDetail" korean="섀도우 클랜" />
+	<block key="N_f05_0_0001_0074_Name" korean="라만툴" />
+	<block key="N_f05_0_0001_0074_NameDetail" korean="투로칸의 보좌" />
+	<block key="N_f05_0_0001_0075_Name" korean="라임" />
+	<block key="N_f05_0_0001_0075_NameDetail" korean="풍요의 씨앗 조합" />
+	<block key="N_f05_0_0001_0076_Name" korean="오일레트" />
+	<block key="N_f05_0_0001_0076_NameDetail" korean="어둠의 방랑자" />
+	<block key="N_f05_0_0001_0077_Name" korean="클로젯" />
+	<block key="N_f05_0_0001_0077_NameDetail" korean="섀도우 클랜" />
+	<block key="N_f05_0_0001_0078_Name" korean="허셀" />
+	<block key="N_f05_0_0001_0078_NameDetail" korean="모래사장의 유령" />
+	<block key="N_f05_0_0001_0079_Name" korean="콜렉터의 시체" />
+	<block key="N_f05_0_0001_0079_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0080_Name" korean="유세이" />
+	<block key="N_f05_0_0001_0080_NameDetail" korean="기억을 잃은 소녀" />
+	<block key="N_f05_0_0001_0081_Name" korean="벨두" />
+	<block key="N_f05_0_0001_0081_NameDetail" korean="콜렉터" />
+	<block key="N_f05_0_0001_0082_Name" korean="아리오" />
+	<block key="N_f05_0_0001_0082_NameDetail" korean="콜렉터의 펠로우" />
+	<block key="N_f05_0_0001_0083_Name" korean="테루" />
+	<block key="N_f05_0_0001_0083_NameDetail" korean="풍요의 씨앗 조합" />
+	<block key="N_f05_0_0001_0084_Name" korean="캐롯" />
+	<block key="N_f05_0_0001_0084_NameDetail" korean="풍요의 씨앗 조합" />
+	<block key="N_f05_0_0001_0085_Name" korean="오타모" />
+	<block key="N_f05_0_0001_0085_NameDetail" korean="풍요의 씨앗 조합" />
+	<block key="N_f05_0_0001_0086_Name" korean="버려진 책" />
+	<block key="N_f05_0_0001_0086_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0087_Name" korean="유세이의 무덤" />
+	<block key="N_f05_0_0001_0087_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0088_Name" korean="상인의 시체" />
+	<block key="N_f05_0_0001_0088_NameDetail" korean="" />
+	<block key="N_f05_Board_0004_Name" korean="임무 게시판" />
+	<block key="N_f05_Board_0004_NameDetail" korean="금광 수송로 캠프" />
+	<block key="N_f05_Board_0005_Name" korean="임무 게시판" />
+	<block key="N_f05_Board_0005_NameDetail" korean="눈물의 오아시스" />
+	<block key="N_f05_0_0001_0089_Name" korean="선장 제프너" />
+	<block key="N_f05_0_0001_0089_NameDetail" korean="불사의 사막 연락선" />
+	<block key="N_f05_0_0001_0090_Name" korean="항해사 라무트" />
+	<block key="N_f05_0_0001_0090_NameDetail" korean="불사의 사막 연락선" />
+	<block key="N_D13_Portal_B_Name" korean="공간 이동석" />
+	<block key="N_D13_Portal_B_NameDetail" korean="스캇라샤의 봉인" />
+	<block key="N_D13_Portal_Q_Name" korean="빛의 성석" />
+	<block key="N_D13_Portal_Q_NameDetail" korean="던전입구로 이동" />
+	<block key="N_f05_Board_0006_Name" korean="임무 게시판" />
+	<block key="N_f05_Board_0006_NameDetail" korean="브라기 광산" />
+	<block key="N_f05_0_0001_0091_Name" korean="히암" />
+	<block key="N_f05_0_0001_0091_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0092_Name" korean="알세크 마을 경비대" />
+	<block key="N_f05_0_0001_0092_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0093_Name" korean="라다스" />
+	<block key="N_f05_0_0001_0093_NameDetail" korean="알세크 마을 경비대" />
+	<block key="N_F05_Carriage_002_Name" korean="수송 마차" />
+	<block key="N_F05_Carriage_002_NameDetail" korean="" />
+	<block key="N_f05_HuMMer_005_1_Name" korean="카알(시나리오용)" />
+	<block key="N_f05_HuMMer_005_1_NameDetail" korean="전설의 비행사" />
+	<block key="N_f05_Golem_1_Name" korean="소환된 바위 정령" />
+	<block key="N_f05_Golem_1_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0094_Name" korean="라다스" />
+	<block key="N_f05_0_0001_0094_NameDetail" korean="알세크 마을 경비대" />
+	<block key="N_f05_0_0001_0095_Name" korean="알세크 마을 경비대" />
+	<block key="N_f05_0_0001_0095_NameDetail" korean="" />
+	<block key="N_F05_Carriage_003_Name" korean="수송 마차" />
+	<block key="N_F05_Carriage_003_NameDetail" korean="" />
+	<block key="N_f05_airfellow_001_Name" korean="나이브" />
+	<block key="N_f05_airfellow_001_NameDetail" korean="카알의 펠로우" />
+	<block key="N_f05_airfellow_002_Name" korean="메레타" />
+	<block key="N_f05_airfellow_002_NameDetail" korean="린드버그의 펠로우" />
+	<block key="N_f05_airfellow_003_Name" korean="크릭" />
+	<block key="N_f05_airfellow_003_NameDetail" korean="샤를의 펠로우" />
+	<block key="N_f05_0_0001_0096_Name" korean="라이어스" />
+	<block key="N_f05_0_0001_0096_NameDetail" korean="고대의 사원 신관" />
+	<block key="N_D06_Portal_Q_Name" korean="빛의 성석" />
+	<block key="N_D06_Portal_Q_NameDetail" korean="던전 입구로 이동" />
+	<block key="N_D06_Behide_01_Name" korean="비하인드 스케일" />
+	<block key="N_D06_Behide_01_NameDetail" korean="쉐도우 클랜" />
+	<block key="n_f05_0_0001_0097_Name" korean="디오네" />
+	<block key="n_f05_0_0001_0097_NameDetail" korean="은둔 마법사" />
+	<block key="n_f05_0_0001_0098_Name" korean="로지" />
+	<block key="n_f05_0_0001_0098_NameDetail" korean="은둔 마법사" />
+	<block key="n_f05_0_0001_0099_Name" korean="은둔 기사" />
+	<block key="n_f05_0_0001_0100_Name" korean="은둔 기사" />
+	<block key="n_f05_0_0001_0101_Name" korean="제럴드" />
+	<block key="n_f05_0_0001_0101_NameDetail" korean="퇴역 장군" />
+	<block key="n_f05_0_0001_0102_Name" korean="데닐" />
+	<block key="n_f05_0_0001_0102_NameDetail" korean="퇴역 장군 수행병" />
+	<block key="n_f05_0_0001_0103_Name" korean="디오네" />
+	<block key="n_f05_0_0001_0103_NameDetail" korean="은둔 마법사" />
+	<block key="n_f05_0_0001_0104_Name" korean="로지" />
+	<block key="n_f05_0_0001_0104_NameDetail" korean="은둔 마법사" />
+	<block key="n_f05_0_0001_0105_Name" korean="은둔 기사" />
+	<block key="n_f05_0_0001_0106_Name" korean="은둔 기사" />
+	<block key="n_f05_0_0001_0107_Name" korean="은둔 기사" />
+	<block key="n_f05_0_0001_0108_Name" korean="은둔 기사" />
+	<block key="n_f05_grifkni_01_Name" korean="파고" />
+	<block key="n_f05_grifkni_01_NameDetail" korean="그리폰 파견 기사" />
+	<block key="n_f05_finder_01_Name" korean="바네사" />
+	<block key="n_f05_finder_01_NameDetail" korean="사막 조사단" />
+	<block key="n_f05_collect_01_Name" korean="타린" />
+	<block key="n_f05_collect_01_NameDetail" korean="콜렉터" />
+	<block key="n_f05_guard_01_Name" korean="티리아" />
+	<block key="n_f05_guard_01_NameDetail" korean="알세크 경비대" />
+	<block key="n_f05_grifkni_02_Name" korean="바티온" />
+	<block key="n_f05_grifkni_02_NameDetail" korean="수석 그리폰 기사" />
+	<block key="n_f05_grifkni_03_Name" korean="론티" />
+	<block key="n_f05_grifkni_03_NameDetail" korean="그리폰 파견 기사" />
+	<block key="n_f05_krosha_01_Name" korean="아이란" />
+	<block key="n_f05_krosha_01_NameDetail" korean="전투 사제" />
+	<block key="n_f05_solutio_01_Name" korean="누챔터" />
+	<block key="n_f05_solutio_01_NameDetail" korean="해결사" />
+	<block key="n_f05_krosha_02_Name" korean="제브룬" />
+	<block key="n_f05_krosha_02_NameDetail" korean="변절한 주술사" />
+	<block key="n_f05_oldlady_01_Name" korean="피리안" />
+	<block key="n_f05_oldlady_01_NameDetail" korean="은둔자 마을 원로" />
+	<block key="n_f05_clan_01_Name" korean="아인도어" />
+	<block key="n_f05_clan_01_NameDetail" korean="섀도우 클랜" />
+	<block key="N_f06_Portal_SL_01_Name" korean="펙투라 이동 장치" />
+	<block key="N_f06_Portal_SL_01_NameDetail" korean="" />
+	<block key="N_f06_Portal_SR_02_Name" korean="펙투라 이동 장치" />
+	<block key="N_f06_Portal_SR_02_NameDetail" korean="" />
+	<block key="N_f06_Portal_EL_03_Name" korean="펙투라 이동 장치" />
+	<block key="N_f06_Portal_EL_03_NameDetail" korean="" />
+	<block key="N_f06_Portal_ER_04_Name" korean="펙투라 이동 장치" />
+	<block key="N_f06_Portal_ER_04_NameDetail" korean="" />
+	<block key="N_f06_Portal_MBS_05_Name" korean="펙투라 이동 장치" />
+	<block key="N_f06_Portal_MBS_05_NameDetail" korean="" />
+	<block key="N_f06_Portal_UGS_06_Name" korean="펙투라 이동 장치" />
+	<block key="N_f06_Portal_UGS_06_NameDetail" korean="" />
+	<block key="N_f06_Portal_BS_07_Name" korean="펙투라 이동 장치" />
+	<block key="N_f06_Portal_BS_07_NameDetail" korean="" />
+	<block key="n_f05_prison_01_Name" korean="포로가 된 그리폰 기사" />
+	<block key="n_f05_prison_01_NameDetail" korean="그리폰 기사단" />
+	<block key="n_f05_Martin_001_Name" korean="마틴 체이서" />
+	<block key="n_f05_Martin_001_NameDetail" korean="은둔 기사" />
+	<block key="n_f06_fnpc_01_Name" korean="그리폰 기사" />
+	<block key="n_f06_fnpc_01_NameDetail" korean="펙투라 정찰대원" />
+	<block key="n_f06_fnpc_02_Name" korean="그리폰 기사" />
+	<block key="n_f06_fnpc_02_NameDetail" korean="펙투라 정찰대원" />
+	<block key="N_f05_Board_0007_Name" korean="임무 게시판" />
+	<block key="N_f05_Board_0007_NameDetail" korean="신전 파견 캠프" />
+	<block key="N_f05_Board_0008_Name" korean="임무 게시판" />
+	<block key="N_f05_Board_0008_NameDetail" korean="하라크로 신전" />
+	<block key="N_f05_Board_0009_Name" korean="임무 게시판" />
+	<block key="N_f05_Board_0009_NameDetail" korean="크로쿤 병영지구" />
+	<block key="N_f05_Board_0010_Name" korean="임무 게시판" />
+	<block key="N_f05_Board_0010_NameDetail" korean="사색의 해안가" />
+	<block key="N_f05_Board_0011_Name" korean="임무 게시판" />
+	<block key="N_f05_Board_0011_NameDetail" korean="불사군단 요새" />
+	<block key="N_f05_KrokEngeer_002_Name" korean="투로칸" />
+	<block key="N_f05_KrokEngeer_002_NameDetail" korean="크로쿤 족장" />
+	<block key="N_f05_KrokEngeer_003_Name" korean="투로칸" />
+	<block key="N_f05_KrokEngeer_003_NameDetail" korean="크로쿤 족장" />
+	<block key="N_f05_0_0001_0110_Name" korean="라크렌" />
+	<block key="N_f05_0_0001_0110_NameDetail" korean="크로쿤 전사" />
+	<block key="N_f05_0_0001_0111_Name" korean="라크렌" />
+	<block key="N_f05_0_0001_0111_NameDetail" korean="크로쿤 전사" />
+	<block key="N_f05_Bart_001_Name" korean="바트혼" />
+	<block key="N_f05_Bart_001_NameDetail" korean="크로쿤 보좌" />
+	<block key="N_f05_Bart_002_Name" korean="바트혼" />
+	<block key="N_f05_Bart_002_NameDetail" korean="크로쿤 보좌" />
+	<block key="N_f05_Bart_003_Name" korean="바트혼" />
+	<block key="N_f05_Bart_003_NameDetail" korean="크로쿤 보좌" />
+	<block key="N_f05_0_0001_0112_Name" korean="치메르" />
+	<block key="N_f05_0_0001_0112_NameDetail" korean="예언자" />
+	<block key="N_f05_0_0001_0113_Name" korean="치메르" />
+	<block key="N_f05_0_0001_0113_NameDetail" korean="예언자" />
+	<block key="N_f05_0_0001_0114_Name" korean="나자히" />
+	<block key="N_f05_0_0001_0114_NameDetail" korean="그리폰 기사 단장" />
+	<block key="N_f05_0_0001_0115_Name" korean="나자히" />
+	<block key="N_f05_0_0001_0115_NameDetail" korean="그리폰 기사 단장" />
+	<block key="N_f05_0_0001_0116_Name" korean="리아 벤" />
+	<block key="N_f05_0_0001_0116_NameDetail" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0117_Name" korean="리아 벤" />
+	<block key="N_f05_0_0001_0117_NameDetail" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0118_Name" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0119_Name" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0120_Name" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0121_Name" korean="그리폰 기사단원" />
+	<block key="N_f05_HuMMil02_007_Name" korean="엔더 에일" />
+	<block key="N_f05_HuMMil02_007_NameDetail" korean="치메르의 호위기사" />
+	<block key="N_f05_HuMMil02_008_Name" korean="엔더 에일" />
+	<block key="N_f05_HuMMil02_008_NameDetail" korean="치메르의 호위기사" />
+	<block key="N_f05_HuFMer02_007_Name" korean="레티나 볼켄" />
+	<block key="N_f05_HuFMer02_007_NameDetail" korean="은둔자 마을 촌장" />
+	<block key="N_f05_HuFMer02_006_Name" korean="레티나 볼켄" />
+	<block key="N_f05_HuFMer02_006_NameDetail" korean="은둔자 마을 촌장" />
+	<block key="N_f05_kamon_001_Name" korean="카몬" />
+	<block key="N_f05_kamon_001_NameDetail" korean="퇴역 장군 수행병" />
+	<block key="N_f05_kamon_002_Name" korean="카몬" />
+	<block key="N_f05_kamon_002_NameDetail" korean="퇴역 장군 수행병" />
+	<block key="N_f05_kamon_003_Name" korean="카몬" />
+	<block key="N_f05_kamon_003_NameDetail" korean="퇴역 장군 수행병" />
+	<block key="n_f05_Martin_002_Name" korean="마틴 체이서" />
+	<block key="n_f05_Martin_002_NameDetail" korean="은둔 기사" />
+	<block key="N_f05_HuMKni03_003_Name" korean="디마이" />
+	<block key="N_f05_HuMKni03_003_NameDetail" korean="그리폰 기사" />
+	<block key="N_f05_HuFSha01_002_Name" korean="엘레나" />
+	<block key="N_f05_HuFSha01_002_NameDetail" korean="섀도우 클랜" />
+	<block key="N_D06_Barrent_01_Name" korean="바렌트" />
+	<block key="N_D06_Barrent_01_NameDetail" korean="그리폰 기사단 정찰병" />
+	<block key="N_D06_Griffon_01_Name" korean="그리폰 기사단원" />
+	<block key="N_D06_Griffon_01_NameDetail" korean="상급 기사" />
+	<block key="N_D06_Griffon_02_Name" korean="그리폰 기사단원" />
+	<block key="N_D06_Griffon_02_NameDetail" korean="상급 기사" />
+	<block key="N_f05_Barrent_02_Name" korean="바렌트" />
+	<block key="N_f05_Barrent_02_NameDetail" korean="그리폰 기사단 정찰병" />
+	<block key="N_f05_rania_02_Name" korean="라니아 공주" />
+	<block key="N_f05_rania_02_NameDetail" korean="" />
+	<block key="N_f05_HuFSha01_005_Name" korean="엘레나" />
+	<block key="N_f05_HuFSha01_005_NameDetail" korean="섀도우 클랜" />
+	<block key="n_f06_CrysBlue_01_Name" korean="빌마의 푸른 보석" />
+	<block key="n_f06_CrysBlue_01_NameDetail" korean="" />
+	<block key="n_f06_CrysGreen_01_Name" korean="빌마의 초록 보석" />
+	<block key="n_f06_CrysGreen_01_NameDetail" korean="" />
+	<block key="n_f06_CrysRed_01_Name" korean="빌마의 붉은 보석" />
+	<block key="n_f06_CrysRed_01_NameDetail" korean="" />
+	<block key="n_f06_CrysYellow_01_Name" korean="빌마의 노란 보석" />
+	<block key="n_f06_CrysYellow_01_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0122_Name" korean="리티에" />
+	<block key="N_f05_0_0001_0122_NameDetail" korean="백색의 치료사" />
+	<block key="N_f06_Portal_BS_08_Name" korean="펙투라 이동 장치" />
+	<block key="N_f06_Portal_BS_08_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0123_Name" korean="리아 벤" />
+	<block key="N_f05_0_0001_0123_NameDetail" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0124_Name" korean="그리폰 기사단원" />
+	<block key="N_f05_0_0001_0125_Name" korean="그리폰 기사단원" />
+	<block key="n_f06_portal_09_Name" korean="펙투라 이동 장치" />
+	<block key="n_f06_portal_09_NameDetail" korean="" />
+	<block key="n_f06_portal_10_Name" korean="펙투라 이동 장치" />
+	<block key="n_f06_portal_10_NameDetail" korean="" />
+	<block key="N_f05_0_0001_0126_Name" korean="라비니 바니라" />
+	<block key="N_f05_0_0001_0126_NameDetail" korean="초승달 상단" />
+	<block key="N_f05_0_0001_0127_Name" korean="라비니 바니라" />
+	<block key="N_f05_0_0001_0127_NameDetail" korean="초승달 상단" />
+	<block key="N_F05_Portal_007_Name" korean="결계 발동 장치" />
+	<block key="N_F05_Portal_008_Name" korean="결계 발동 장치" />
+	<block key="n_f05_collect_02_Name" korean="야눌" />
+	<block key="n_f05_collect_02_NameDetail" korean="부상당한 콜렉터" />
+	<block key="n_f05_chef_001_Name" korean="쉐리" />
+	<block key="n_f05_chef_001_NameDetail" korean="풍요의 씨앗 조합" />
+</blocks>

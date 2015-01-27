@@ -1,0 +1,458 @@
+////////////////////////////////////////////////
+// Authors: Tahoma
+////////////////////////////////////////////////
+
+#ifndef _SM_CREATECHARACTER_H_
+#define _SM_CREATECHARACTER_H_
+
+void SM_CREATECHARACTER(PACKET* pck, int character_id, char* strCharName, WCHAR* charname, int cls, int sex, CHAR_STYLE* st)
+{
+	log::Info(fg, "CSNetwork [%s]: Create character - %s (account id: %d)\n", inet_ntoa(pck->sockstruct->from), strCharName, pck->sockstruct->account_id);
+	int num_characters = pck->sql->GetNumCharacters(pck->sockstruct->account_id);
+	pck->CreateBufForSend();
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(character_id);
+	pck->writeBuf(charname, 20);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeW(0);
+	pck->writeW(0);
+	pck->writeW(cls);
+	pck->writeW(0);
+	pck->writeW(1);						// lvl?
+	pck->writeW(sex);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xb1);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0xffffffff);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0x01000000);
+	pck->writeD(1);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0x00010064);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0xffffffff);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0x00010065);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0xffffffff);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeBuf((void*)st, sizeof(CHAR_STYLE));
+	pck->writeW(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	if (max_characters <= num_characters)
+		pck->writeD(0);
+	else
+		pck->writeD(1);
+	pck->PackSend(OPCODE_SM_CREATECHARACTER);
+	return;
+
+
+
+
+	// bad
+	pck->CreateBufForSend();
+	pck->writeW(0);
+	pck->writeD(14);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(6);
+	pck->writeD(0xff000000);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0xffffffff);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0x01000000);
+	pck->writeD(1);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0xffffffff);
+	pck->writeD(0xffffffff);
+	pck->writeD(0xffffffff);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->writeD(0);
+	pck->PackSend(OPCODE_SM_CREATECHARACTER);
+}
+
+#endif
+
+/*
+
+[5602][0513]
+0000
+0e000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+06000000
+000000ff
+ffffffff
+
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+ffffffff
+00000000
+ffffffff
+ffffffff
+ffffffff
+
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+00000001
+01000000
+
+00000000
+00000000
+
+ffffffff
+00000000
+00000000
+00000000
+
+ffffffff
+00000000
+00000000
+00000000
+
+ffffffff
+00000000
+00000000
+00000000
+
+ffffffff
+00000000
+00000000
+00000000
+
+ffffffff
+00000000
+00000000
+00000000
+
+ffffffff
+00000000
+00000000
+00000000
+
+ffffffff
+00000000
+00000000
+00000000
+
+ffffffff
+00000000
+00000000
+00000000
+
+ffffffff
+00000000
+00000000
+00000000
+
+ffffffff
+00000000
+00000000
+00000000
+
+ffffffff
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+ffffffff
+ffffffff
+ffffffff
+
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+00000000
+
+*/

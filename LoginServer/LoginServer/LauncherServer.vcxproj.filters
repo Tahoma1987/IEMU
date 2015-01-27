@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="LS">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="WndFiles">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="LS\network">
+      <UniqueIdentifier>{119b4e3e-3a2e-4077-a6ff-778aade8ee50}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LS\Common">
+      <UniqueIdentifier>{92c9f051-cf68-4ea9-b0a2-3217c0f578ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LS\network\Client">
+      <UniqueIdentifier>{da7d381f-ecc9-4573-aff8-e02d87ce50f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LS\network\Server">
+      <UniqueIdentifier>{a32d92d0-1207-40fd-a96f-7a7c7a047068}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>WndFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>WndFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="Settings.h">
+      <Filter>LS</Filter>
+    </ClInclude>
+    <ClInclude Include="structs.h">
+      <Filter>LS</Filter>
+    </ClInclude>
+    <ClInclude Include="network\packet.h">
+      <Filter>LS\network</Filter>
+    </ClInclude>
+    <ClInclude Include="common\logger.h">
+      <Filter>LS\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="network\opcodes.h">
+      <Filter>LS\network</Filter>
+    </ClInclude>
+    <ClInclude Include="network\inc_opcodes.h">
+      <Filter>LS\network</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_AUTH.h">
+      <Filter>LS\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_PING.h">
+      <Filter>LS\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_PONG.h">
+      <Filter>LS\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="defines.h">
+      <Filter>LS</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_AUTH.h">
+      <Filter>LS\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_SERVER_LIST.h">
+      <Filter>LS\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_SERVER_LIST.h">
+      <Filter>LS\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_SELECTSERVER.h">
+      <Filter>LS\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_SELECTSERVER.h">
+      <Filter>LS\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_MY_LAUNCHER_LOGIN.h">
+      <Filter>LS\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_MY_LAUNCHER_LOGIN.h">
+      <Filter>LS\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginServer.h">
+      <Filter>LS</Filter>
+    </ClInclude>
+    <ClInclude Include="common\database.h">
+      <Filter>LS\Common</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UPDATESERVERINFO.h">
+      <Filter>LS\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>WndFiles</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>WndFiles</Filter>
+    </ClCompile>
+    <ClCompile Include="network\packet.cpp">
+      <Filter>LS\network</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginServer.cpp">
+      <Filter>LS</Filter>
+    </ClCompile>
+    <ClCompile Include="common\database.cpp">
+      <Filter>LS\Common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="LS.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

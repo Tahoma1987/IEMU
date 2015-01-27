@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protocol checksumSize="0" crypt="AionGame" name="iemu_character" packetbuffer="DefaultPacketBuffer" port="5695" sizebytes="2" strictlength="true">
+	<packetfamilly switchtype="h" way="ServerPackets">
+		<packet id="0x0165" name="SM_PONG">
+			<part name="unk1" type="h"/>
+			<part name="unk2" type="c"/>
+		</packet>
+		<packet id="0x0205" name="SM_CONNECT">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
+			<part name="unk5" type="d"/>
+			<part name="unk6" type="d"/>
+		</packet>
+		<packet id="0xfb05" name="SM_DISCONNECT">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+		</packet>
+		<packet id="0x1105" name="SM_CHARACTERLIST_RESPONSE">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="c"/>
+			<part name="new_char" type="c"/>
+			<part name="numchars" type="h" id="0"/>
+			<part name="id_selchar" type="d"/>
+			<part name="unk3" type="d"/>
+				<for id="0">
+					<part name="id_char" type="d"/>
+					<part name="charname" size="20" type="b"/>
+					<part name="unk1" type="d"/>
+					<part name="unk2" type="d"/>
+					<part name="unk3" type="h"/>
+					<part name="unk4" type="h"/>
+					<part name="unk5" type="h"/>
+					<part name="unk6" type="h"/>
+					<part name="class" type="h"/>
+					<part name="unk7" type="h"/>
+					<part name="unk8" type="d"/>
+					<part name="level" type="h"/>
+					<part name="sex" type="c"/>
+					<part name="unk9" type="c"/>
+					<part name="unk10" type="c"/>
+					<part name="unk11" type="c"/>
+					<part name="unk12" type="c"/>
+					<part name="unk13" type="c"/>
+					<part name="unk14" type="d"/>
+					<part name="unk15" type="d"/>
+					<part name="unk16" type="d"/>
+					<part name="unk17" type="d"/>
+					<part name="unk18" type="d"/>
+					<part name="unk19" type="d"/>
+					<part name="unk20" type="d"/>
+					<part name="unk21" type="d"/>
+					<part name="unk22" type="d"/>
+					<part name="unk23" type="d"/>
+					<part name="unk24" type="d"/>
+					<part name="unk25" type="d"/>
+					<part name="unk26" type="d"/>
+					<part name="unk27" type="d"/>
+					<part name="unk28" type="d"/>
+					<part name="unk29" type="d"/>
+					<part name="unk30" type="d"/>
+					<part name="unk31" type="d"/>
+					<part name="unk32" type="d"/>
+					<part name="unk33" type="d"/>
+					<part name="unk34" type="d"/>
+					<part name="unk35" type="d"/>
+					<part name="unk36" type="d"/>
+					<part name="unk37" type="d"/>
+					<part name="unk38" type="d"/>
+					<part name="unk39" type="d"/>
+					<part name="unk40" type="d"/>
+					<part name="unk41" type="d"/>
+					<part name="unk42" type="d"/>
+					<part name="unk43" type="d"/>
+					<part name="unk44" type="d"/>
+					<part name="unk45" type="d"/>
+					<part name="unk46" type="d"/>
+					<part name="unk47" type="d"/>
+					<part name="unk48" type="d"/>
+					<part name="unk49" type="d"/>
+					<part name="unk50" type="d"/>
+					<part name="unk51" type="d"/>
+					<part name="unk52" type="c"/>
+					<part name="create_min" type="c"/>
+					<part name="create_hour" type="c"/>
+					<part name="create_day" type="c"/>
+					<part name="create_mon" type="c"/>
+					<part name="create_year" type="c"/>
+					<part name="unk53" type="h"/>
+					<part name="unk53" type="d"/>
+					<part name="unk54" type="d"/>
+					<part name="unk55" type="d"/>
+					<part name="unk56" type="d"/>
+					<part name="unk57" type="d"/>
+					<part name="unk58" type="d"/>
+					<part name="unk59" type="d"/>
+					<part name="unk60" type="d"/>
+					<part name="unk61" type="d"/>
+					<part name="unk62" type="d"/>
+					<part name="unk63" type="d"/>
+					<part name="unk64" type="d"/>
+					<part name="unk65" type="d"/>
+					<part name="unk66" type="d"/>
+					<part name="unk67" type="d"/>
+					<part name="unk68" type="d"/>
+					<part name="unk69" type="d"/>
+					<part name="unk70" type="d"/>
+					<part name="unk71" type="d"/>
+					<part name="unk72" type="d"/>
+					<part name="unk73" type="d"/>
+					<part name="unk74" type="d"/>
+					<part name="unk75" type="d"/>
+					<part name="unk76" type="d"/>
+					<part name="unk77" type="d"/>
+					<part name="unk78" type="d"/>
+					<part name="unk79" type="d"/>
+					<part name="unk80" type="d"/>
+					<part name="unk81" type="d"/>
+					<part name="unk82" type="d"/>
+					<part name="unk83" type="d"/>
+					<part name="unk84" type="d"/>
+					<part name="unk85" type="d"/>
+					<part name="unk86" type="d"/>
+					<part name="unk87" type="d"/>
+					<part name="unk88" type="d"/>
+					<part name="unk89" type="d"/>
+					<part name="unk90" type="d"/>
+					<part name="unk91" type="d"/>
+					<part name="unk92" type="d"/>
+					<part name="unk93" type="d"/>
+					<part name="unk94" type="d"/>
+					<part name="unk95" type="d"/>
+					<part name="unk96" type="d"/>
+					<part name="unk97" type="d"/>
+					<part name="unk98" type="d"/>
+					<part name="styke" type="b" size="154"/>
+					<part name="unk99" type="h"/>
+					<part name="unk100" type="d"/>
+					<part name="unk101" type="d"/>
+					<part name="unk102" type="d"/>
+					<part name="unk103" type="d"/>
+					<part name="unk104" type="d"/>
+				</for>
+		</packet>
+		<packet id="0x1505" name="SM_LOBBYUSERMSG">
+			<part name="crypt_flag" type="h"/>
+			<part name="id_message" type="d"/>
+		</packet>
+		<packet id="0x1305" name="SM_CREATECHARACTER">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x1605" name="SM_DELETECHARACTER">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x0305" name="SM_GETPIN">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="c"/>
+			<part name="unk2" type="c"/>
+			<part name="unk3" type="h"/>
+			<part name="id_char" type="d"/>
+		</packet>
+		<packet id="0x0505" name="SM_PIN">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="c"/>
+			<part name="unk3" type="c"/>
+			<part name="unk4" type="h"/>
+			<part name="unk5" type="h"/>
+			<part name="unk6" type="c"/>
+			<part name="unk7" type="c"/>
+			<part name="unk8" type="h"/>
+			<part name="unk9" type="c"/>
+			<part name="unk10" type="c"/>
+			<part name="id_char" type="d"/>
+		</packet>
+		<packet id="0x2105" name="SM_STARTGAME">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="id_char" type="d"/>
+			<part name="ip" type="d"/>
+			<part name="port" type="h"/>
+			<part name="unk2" type="h"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
+		</packet>
+		<packet id="0x1d05" name="SM_UNK1">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk2" type="d"/>
+		</packet>
+		<packet id="0x0b05" name="SM_RESTORE_CONNECTION">
+			<part name="crypt_flag" type="h"/>
+			<part name="char_id" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
+		</packet>
+	</packetfamilly>
+
+	<packetfamilly switchtype="h" way="ClientPackets">
+		<packet id="0x0165" name="CM_PONG">
+			<part name="unk1" type="h"/>
+			<part name="unk2" type="c"/>
+		</packet>
+		<packet id="0x0105" name="CM_CONNECT">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="h"/>
+			<part name="account_id" type="h"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
+		</packet>
+		<packet id="0xfa05" name="CM_DISCONNECT">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x1005" name="CM_CHARACTERLIST">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x1405" name="CM_CHECKCHARACTERNAME">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x1205" name="CM_CREATECHARACTER">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x0e05" name="CM_DELETECHARACTER">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x0405" name="CM_PIN">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x2005" name="CM_STARTGAME">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x1d05" name="CM_UNK1">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x1e13" name="CM_UNK2">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x0a05" name="OPCODE_CM_RESTORE_CONNECTION">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
+		</packet>
+	</packetfamilly>
+</protocol>

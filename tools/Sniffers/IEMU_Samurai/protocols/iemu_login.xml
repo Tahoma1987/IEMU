@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<protocol checksumSize="0" crypt="AionGame" name="iemu_login" packetbuffer="DefaultPacketBuffer" port="5694" sizebytes="2" strictlength="true">
+	<packetfamilly switchtype="h" way="ServerPackets">
+		<packet id="0x0165" name="SM_PONG">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x040b" name="SM_AUTH">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="h"/>
+			<part name="unk2" type="h"/>
+			<part name="account_name" size="124" type="b"/>
+			<part name="unk3" type="d"/>
+		</packet>
+		<packet id="0x0b0b" name="SM_SERVER_LIST">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+			<part id="0" name="numservers" type="d"/>
+				<for id="0">
+					<part name="id_server" type="d"/>
+					<part name="server_name" size="42" type="b"/>
+					<part name="unk1" type="h"/>
+					<part name="unk2" type="d"/>
+					<part name="server_load" type="d"/>
+					<part name="num_characters" type="c"/>
+					<part name="pos_kolonk" type="c"/>
+					<part name="unk3" type="h"/>
+				</for>
+		</packet>
+		<packet id="0x150b" name="SM_SELECTSERVER">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="h"/>
+			<part name="unk2" type="h"/>
+			<part name="ip" type="d"/>
+			<part name="port" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="h"/>
+			<part name="account_id" type="h"/>
+		</packet>
+		<packet id="0x0e0b" name="SM_UNK1">
+			<part name="crypt_flag" type="h"/>
+			<part name="numserver" type="d"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="unk3" type="d"/>
+		</packet>
+	</packetfamilly>
+
+	<packetfamilly switchtype="h" way="ClientPackets">
+		<packet id="0x0165" name="CM_PING">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="c"/>
+		</packet>
+		<packet id="0x030b" name="CM_AUTH">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x0a0b" name="CM_SERVER_LIST">
+			<part name="crypt_flag" type="h"/>
+		</packet>
+		<packet id="0x140b" name="CM_SELECTSERVER">
+			<part name="crypt_flag" type="h"/>
+			<part name="unk1" type="d"/>
+			<part name="unk2" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
+		</packet>
+	</packetfamilly>
+</protocol>

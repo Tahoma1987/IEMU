@@ -1,0 +1,265 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{D9E26DD0-FFAF-4755-8AC6-886559763263}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>GameServer</RootNamespace>
+    <ProjectName>GameServer</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v120</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <OutDir>..\..\build\</OutDir>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;_LIB;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>.\;..\..\other_src\</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>ws2_32.lib;../../other_src/libmysql.lib;../../other_src/config4cpp.lib;../../other_src/tinyxml.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;_LIB;_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalDependencies>ws2_32.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClInclude Include="AI\ActionController.h" />
+    <ClInclude Include="AI\ai.h" />
+    <ClInclude Include="common\database.h" />
+    <ClInclude Include="common\logger.h" />
+    <ClInclude Include="defines.h" />
+    <ClInclude Include="enums.h" />
+    <ClInclude Include="GameServer.h" />
+    <ClInclude Include="game_structs.h" />
+    <ClInclude Include="network\client\CM_CHAT.h" />
+    <ClInclude Include="network\client\CM_DISCONNECT.h" />
+    <ClInclude Include="network\client\CM_EMOTION.h" />
+    <ClInclude Include="network\client\CM_EMOTION2.h" />
+    <ClInclude Include="network\client\CM_FLY.h" />
+    <ClInclude Include="network\client\CM_MOVE_MOUSESET.h" />
+    <ClInclude Include="network\client\CM_REMOVE_ITEM.h" />
+    <ClInclude Include="network\client\CM_SECURITY_KEY.h" />
+    <ClInclude Include="network\client\CM_INVENTORY_MOVE.h" />
+    <ClInclude Include="network\client\CM_JUMP.h" />
+    <ClInclude Include="network\client\CM_MOVE.h" />
+    <ClInclude Include="network\client\CM_PING.h" />
+    <ClInclude Include="network\client\CM_CONNECT.h" />
+    <ClInclude Include="network\client\CM_QUESTLIST.h" />
+    <ClInclude Include="network\client\CM_MOVE_STOP.h" />
+    <ClInclude Include="network\client\CM_SKILLPANEL_MOVE.h" />
+    <ClInclude Include="network\client\CM_TARGET.h" />
+    <ClInclude Include="network\client\CM_UNK10.h" />
+    <ClInclude Include="network\client\CM_UNK11.h" />
+    <ClInclude Include="network\client\CM_UNK12.h" />
+    <ClInclude Include="network\client\CM_UNK13.h" />
+    <ClInclude Include="network\client\CM_ACHIEVEMENTS.h" />
+    <ClInclude Include="network\client\CM_UNK15.h" />
+    <ClInclude Include="network\client\CM_INVENTORY.h" />
+    <ClInclude Include="network\client\CM_UNK17.h" />
+    <ClInclude Include="network\client\CM_SKILL_LIST.h" />
+    <ClInclude Include="network\client\CM_UNK19.h" />
+    <ClInclude Include="network\client\CM_UNK2.h" />
+    <ClInclude Include="network\client\CM_GETAREA.h" />
+    <ClInclude Include="network\client\CM_UNK20.h" />
+    <ClInclude Include="network\client\CM_SKILL_PANEL.h" />
+    <ClInclude Include="network\client\CM_CHARACTER_STYLE.h" />
+    <ClInclude Include="network\client\CM_UNK23.h" />
+    <ClInclude Include="network\client\CM_UNK24.h" />
+    <ClInclude Include="network\client\CM_UNK25.h" />
+    <ClInclude Include="network\client\CM_UNK26.h" />
+    <ClInclude Include="network\client\CM_UNK27.h" />
+    <ClInclude Include="network\client\CM_UNK28.h" />
+    <ClInclude Include="network\client\CM_GAMEOBJECT_INFO.h" />
+    <ClInclude Include="network\client\CM_UNK4.h" />
+    <ClInclude Include="network\client\CM_UNK5.h" />
+    <ClInclude Include="network\client\CM_UNK6.h" />
+    <ClInclude Include="network\client\CM_GET_SECURITY_KEY.h" />
+    <ClInclude Include="network\client\CM_UNK8.h" />
+    <ClInclude Include="network\client\CM_UNK9.h" />
+    <ClInclude Include="network\client\CM_UNK_1833.h" />
+    <ClInclude Include="network\client\CM_UNK_2c18.h" />
+    <ClInclude Include="network\client\CM_EXIT.h" />
+    <ClInclude Include="network\client\CM_UNK_5120.h" />
+    <ClInclude Include="network\client\CM_UPDATE_POSITION.h" />
+    <ClInclude Include="network\client\CM_USE_SKILL.h" />
+    <ClInclude Include="network\inc_opcodes.h" />
+    <ClInclude Include="network\opcodes.h" />
+    <ClInclude Include="network\packet.h" />
+    <ClInclude Include="network\server\SM_CHAT.h" />
+    <ClInclude Include="network\server\SM_DISCONNECT.h" />
+    <ClInclude Include="network\server\SM_EMOTION.h" />
+    <ClInclude Include="network\server\SM_FLY.h" />
+    <ClInclude Include="network\server\SM_MOVE.h" />
+    <ClInclude Include="network\server\SM_MOVE_MOUSESET.h" />
+    <ClInclude Include="network\server\SM_PONG.h" />
+    <ClInclude Include="network\server\SM_REMOVE_ITEM.h" />
+    <ClInclude Include="network\server\SM_REMOVE_ITEM_RESP.h" />
+    <ClInclude Include="network\server\SM_SETAREA.h" />
+    <ClInclude Include="network\server\SM_UNK1.h" />
+    <ClInclude Include="network\server\SM_SECURITY_KEY.h" />
+    <ClInclude Include="network\server\SM_UNK11.h" />
+    <ClInclude Include="network\server\SM_CONNECT.h" />
+    <ClInclude Include="network\server\SM_INVENTORY_RESPONSE.h" />
+    <ClInclude Include="network\server\SM_UNK13.h" />
+    <ClInclude Include="network\server\SM_UNK14.h" />
+    <ClInclude Include="network\server\SM_UNK15.h" />
+    <ClInclude Include="network\server\SM_UNK_1418.h" />
+    <ClInclude Include="network\server\SM_UNK_1506.h" />
+    <ClInclude Include="network\server\SM_UNK16.h" />
+    <ClInclude Include="network\server\SM_QUEST_MAP_POINT.h" />
+    <ClInclude Include="network\server\SM_UNK18.h" />
+    <ClInclude Include="network\server\SM_CHARACTER_STATS.h" />
+    <ClInclude Include="network\server\SM_UNK20.h" />
+    <ClInclude Include="network\server\SM_UNK21.h" />
+    <ClInclude Include="network\server\SM_GAMEOBJECT_SPAWN.h" />
+    <ClInclude Include="network\server\SM_UNK23.h" />
+    <ClInclude Include="network\server\SM_UNK24.h" />
+    <ClInclude Include="network\server\SM_UNK25.h" />
+    <ClInclude Include="network\server\SM_UNK26.h" />
+    <ClInclude Include="network\server\SM_UNK27.h" />
+    <ClInclude Include="network\server\SM_UNK28.h" />
+    <ClInclude Include="network\server\SM_UNK29.h" />
+    <ClInclude Include="network\server\SM_UNK3.h" />
+    <ClInclude Include="network\server\SM_UNK30.h" />
+    <ClInclude Include="network\server\SM_UNK31.h" />
+    <ClInclude Include="network\server\SM_UNK32.h" />
+    <ClInclude Include="network\server\SM_UNK33.h" />
+    <ClInclude Include="network\server\SM_SHIPS.h" />
+    <ClInclude Include="network\server\SM_UNK35.h" />
+    <ClInclude Include="network\server\SM_ACHIEVEMENTS.h" />
+    <ClInclude Include="network\server\SM_UNK_023c.h" />
+    <ClInclude Include="network\server\SM_UNK_023e.h" />
+    <ClInclude Include="network\server\SM_OBJECT_MOVE.h" />
+    <ClInclude Include="network\server\SM_UNK38.h" />
+    <ClInclude Include="network\server\SM_SKILLS_PANEL.h" />
+    <ClInclude Include="network\server\SM_UNK4.h" />
+    <ClInclude Include="network\server\SM_UNK40.h" />
+    <ClInclude Include="network\server\SM_UNK_0335.h" />
+    <ClInclude Include="network\server\SM_PLAYER_INFO.h" />
+    <ClInclude Include="network\server\SM_ANIMATION.h" />
+    <ClInclude Include="network\server\SM_UNK_033c.h" />
+    <ClInclude Include="network\server\SM_UNK_033e.h" />
+    <ClInclude Include="network\server\SM_UNK_0b2b.h" />
+    <ClInclude Include="network\server\SM_UNK_0c2b.h" />
+    <ClInclude Include="network\server\SM_UNK_1606.h" />
+    <ClInclude Include="network\server\SM_UNK_1933.h" />
+    <ClInclude Include="network\server\SM_UNK_1a33.h" />
+    <ClInclude Include="network\server\SM_UNK_2113.h" />
+    <ClInclude Include="network\server\SM_UNK_2118.h" />
+    <ClInclude Include="network\server\SM_UNK_2213.h" />
+    <ClInclude Include="network\server\SM_UNK_2218.h" />
+    <ClInclude Include="network\server\SM_UNK_2418.h" />
+    <ClInclude Include="network\server\SM_UNK_2810.h" />
+    <ClInclude Include="network\server\SM_UNK_2a0f.h" />
+    <ClInclude Include="network\server\SM_QUEST_MESSAGE.h" />
+    <ClInclude Include="network\server\SM_UNK_2d18.h" />
+    <ClInclude Include="network\server\SM_UNK_3318.h" />
+    <ClInclude Include="network\server\SM_SKILL_BUF.h" />
+    <ClInclude Include="network\server\SM_SKILL_LIST.h" />
+    <ClInclude Include="network\server\SM_UNK_400e.h" />
+    <ClInclude Include="network\server\SM_UNK_420e.h" />
+    <ClInclude Include="network\server\SM_UNK_4b0e.h" />
+    <ClInclude Include="network\server\SM_UNK_4f0e.h" />
+    <ClInclude Include="network\server\SM_UNK_5220.h" />
+    <ClInclude Include="network\server\SM_UNK_5320.h" />
+    <ClInclude Include="network\server\SM_UNK_610e.h" />
+    <ClInclude Include="network\server\SM_UNK5.h" />
+    <ClInclude Include="network\server\SM_UNK7.h" />
+    <ClInclude Include="network\server\SM_QUESTLIST.h" />
+    <ClInclude Include="network\server\SM_UNK8.h" />
+    <ClInclude Include="network\server\SM_UNK9.h" />
+    <ClInclude Include="network\server\SM_CHARACTER_STYLE.h" />
+    <ClInclude Include="network\server\SM_UNK_630e.h" />
+    <ClInclude Include="network\server\SM_EXIT.h" />
+    <ClInclude Include="network\server\SM_CHANGE_CHARACTER.h" />
+    <ClInclude Include="network\server\SM_UNK_9713.h" />
+    <ClInclude Include="network\server\SM_UNK_9813.h" />
+    <ClInclude Include="network\server\SM_UNK_9c13.h" />
+    <ClInclude Include="network\server\SM_UNK_9d13.h" />
+    <ClInclude Include="network\server\SM_UNK_9e13.h" />
+    <ClInclude Include="network\server\SM_USE_SKILL.h" />
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="Settings.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="structs.h" />
+    <ClInclude Include="targetver.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="AI\ActionController.cpp" />
+    <ClCompile Include="AI\ai.cpp" />
+    <ClCompile Include="common\database.cpp" />
+    <ClCompile Include="GameServer.cpp" />
+    <ClCompile Include="network\packet.cpp" />
+    <ClCompile Include="stdafx.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="GS.ico" />
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

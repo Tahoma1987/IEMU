@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="CharacterServer.cpp" />
+    <ClCompile Include="stdafx.cpp" />
+    <ClCompile Include="common\database.cpp">
+      <Filter>CS\common</Filter>
+    </ClCompile>
+    <ClCompile Include="network\packet.cpp">
+      <Filter>CS\network</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="defines.h" />
+    <ClInclude Include="CharacterServer.h" />
+    <ClInclude Include="game_structs.h" />
+    <ClInclude Include="Settings.h" />
+    <ClInclude Include="stdafx.h" />
+    <ClInclude Include="structs.h" />
+    <ClInclude Include="targetver.h" />
+    <ClInclude Include="network\client\CM_CHARACTERLIST.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_CHECKCHARACTERNAME.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_CONNECT.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_CREATECHARACTER.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_DELETECHARACTER.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_DISCONNECT.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_PIN.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_PING.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_STARTGAME.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_UNK1.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_UNK2.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_CHARACTERLIST_RESPONSE.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_CONNECT.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_CREATECHARACTER.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_DELETECHARACTER.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_GETPIN.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_LOBBYUSERMSG.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_PONG.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_STARTGAME.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="common\database.h">
+      <Filter>CS\common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\logger.h">
+      <Filter>CS\common</Filter>
+    </ClInclude>
+    <ClInclude Include="network\opcodes.h">
+      <Filter>CS\network</Filter>
+    </ClInclude>
+    <ClInclude Include="network\inc_opcodes.h">
+      <Filter>CS\network</Filter>
+    </ClInclude>
+    <ClInclude Include="network\packet.h">
+      <Filter>CS\network</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h" />
+    <ClInclude Include="network\server\SM_DISCONNECT.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_PIN.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_RESTORE_CONNECTION.h">
+      <Filter>CS\network\client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_RESTORE_CONNECTION.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UPDATE_CHARACTER_INFO.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_DELETE_S.h">
+      <Filter>CS\network\server</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CS">
+      <UniqueIdentifier>{663c21fb-0111-4dd7-a609-e66a10a64e5c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CS\common">
+      <UniqueIdentifier>{0d67283a-418f-4f5e-8c3e-6e2a73b1dd20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CS\network">
+      <UniqueIdentifier>{01c54b70-bae9-4c78-9ed3-da12a3e3df6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CS\network\client">
+      <UniqueIdentifier>{edd2eee7-5b6e-4138-aa02-9e3543d67f21}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CS\network\server">
+      <UniqueIdentifier>{d3b32e02-b57c-42ea-bad4-50b8843d7a75}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Resource.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="CS.ico" />
+  </ItemGroup>
+</Project>

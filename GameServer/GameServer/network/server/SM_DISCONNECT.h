@@ -11,6 +11,7 @@ inline void SM_DISCONNECT(PACKET* pck)
 	pck->writeD(0);
 	pck->writeD(0);
 	pck->PackSend(OPCODE_SM_DISCONNECT);
+	mychar->status = STATUS_DISCONNECT;
 }
 /*
 0e00

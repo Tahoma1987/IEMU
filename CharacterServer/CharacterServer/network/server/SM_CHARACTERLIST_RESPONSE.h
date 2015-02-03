@@ -100,7 +100,11 @@ void SM_CHARACTERLIST_RESPONSE(PACKET* pck)
 		pck->writeW(0x44a6);
 		pck->writeD(0x0145);
 		pck->writeD(0);
-		pck->writeD(0x0001006a);
+		pck->writeD(0x0001006a);				// рубашка = slot 1
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0x1EFFE1);
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0);
@@ -108,23 +112,11 @@ void SM_CHARACTERLIST_RESPONSE(PACKET* pck)
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0);
-		pck->writeD(0xffffffff);
+		pck->writeD(0x0001006b);				// боты = slot 7
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0);
-		pck->writeD(0x0001006b);
-		pck->writeD(0);
-		pck->writeD(0);
-		pck->writeD(0);
-		pck->writeD(0x00010084);
-		pck->writeD(0);
-		pck->writeD(0);
-		pck->writeD(0);
-		pck->writeD(0x000002ce);
-		pck->writeD(0);
-		pck->writeD(0);
-		pck->writeD(0);
-		pck->writeD(0xffffffff);
+		pck->writeD(0x00010084);				// перчи = slot 2
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0);
@@ -137,6 +129,14 @@ void SM_CHARACTERLIST_RESPONSE(PACKET* pck)
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0xffffffff);
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0xffffffff);			
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0);
+		pck->writeD(0x00000076);				// weapon = slot 3
 		pck->writeD(0);
 		pck->writeD(0);
 		pck->writeD(0);

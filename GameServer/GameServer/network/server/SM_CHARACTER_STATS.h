@@ -23,28 +23,28 @@ inline void SM_CHARACTER_STATS(PACKET* pck)
 	pck->writeD(0);				//4
 	pck->writeD(0x50e00000);	//5
 	pck->writeD(0x40e00000);	//6
-	pck->writeD(0x42ce0a3d);	//7		phys def
-	pck->writeD(0x42a40a3d);	//8		magic def
+	pck->writeF(mychar->stats.phys_def);	//7		phys def
+	pck->writeF(mychar->stats.magic_def);	//8		magic def
 	pck->writeD(0x3f77357e);	//9
 	pck->writeD(0x3f79003f);	//10
 	pck->writeD(0x3da5e355);	//11	evasion
 	pck->writeD(0x3d1374bd);	//12
-	pck->writeD(0x42c63d71);	//13	accuracy (прицел)
+	pck->writeF(mychar->stats.accuracy);	//13	accuracy (прицел)
 	pck->writeD(0);				//14
 	pck->writeD(0x42c64c71);	//15
 	pck->writeD(0);				//16
 	pck->writeD(0x3fa28f5c);	//17	phys crit rate
 	pck->writeD(0);				//18
 	pck->writeD(0x3eb851ec);	//19
-	pck->writeD(0x41000000);	//20	power
-	pck->writeD(0x40c00000);	//21	agility
-	pck->writeD(0x40e00000);	//22	intelligence
-	pck->writeD(0x41000000);	//23	fitness
-	pck->writeD(0x41000000);	//24	mentality
+	pck->writeF(mychar->stats.power);	//20	power
+	pck->writeF(mychar->stats.agility);	//21	agility
+	pck->writeF(mychar->stats.intelligence);	//22	intelligence
+	pck->writeF(mychar->stats.fitness);	//23	fitness
+	pck->writeF(mychar->stats.mentality);	//24	mentality
 	pck->writeD(0x40000000);	//25
 	pck->writeD(0x40000000);	//26
-	pck->writeD(0x45710000);	//27	max_hp
-	pck->writeD(0x45700000);	//28	max_mp
+	pck->writeF(mychar->stats.max_hp);	//27	max_hp
+	pck->writeF(mychar->stats.max_mp);	//28	max_mp
 	pck->writeD(0);				//29
 	pck->writeD(0);				//30
 	pck->writeD(0);				//31
@@ -80,8 +80,8 @@ inline void SM_CHARACTER_STATS(PACKET* pck)
 	pck->writeD(0);				//61
 	pck->writeD(0);				//62
 	pck->writeD(0);				//63
-	pck->writeD(0x45100000);	//64		hp
-	pck->writeD(0x45200000);	//65		mp
+	pck->writeF(mychar->stats.hp);	//64		hp
+	pck->writeF(mychar->stats.mp);	//65		mp
 	pck->writeD(0);				//66
 	pck->writeD(0);				//67
 	pck->writeD(0);				//68

@@ -154,6 +154,58 @@ bool DATABASE::GetCharacterInfo(uint32 character_id, CHARACTER* character)
 		++sid;
 	}
 	character->items_in_inventory = sid;
+	mysql_free_result(result);
+
+	// Получаем статы
+	//////////////////////////////////////////////////////////
+	bool error = false;
+	sprintf(query, "SELECT max_hp,max_mp,hp,mp,phys_def,magic_def,power,agility,fitness,intelligence,mentality,accuracy FROM character_stats WHERE char_id='%d';", character_id);
+	if (mysql_query(db, query))
+	{
+		lg::Error(fg, "GSDatabase: GetCharacterInfo->mysql_query->character_stats. %s\n", mysql_error(db));
+		return 0;
+	}
+	result = mysql_store_result(db);
+
+	if (result == NULL)
+	{
+		lg::Error(fg, "GSDatabase: GetCharacterInfo->mysql_store_result->character_stats. %s\n", mysql_error(db));
+		return 0;
+	}
+
+	if ((row = mysql_fetch_row(result)))
+	{
+		for (int i = 0; i < 12; i++)
+		{
+			if (row[i] == NULL)
+			{
+				error = true;
+				break;
+			}
+		}
+
+		if (!error)
+		{
+			character->stats.max_hp = atof(row[0]);
+			character->stats.max_mp = atof(row[1]);
+			character->stats.hp = atof(row[2]);
+			character->stats.mp = atof(row[3]);
+			character->stats.phys_def = atof(row[4]);
+			character->stats.magic_def = atof(row[5]);
+			character->stats.power = atof(row[6]);
+			character->stats.agility = atof(row[7]);
+			character->stats.fitness = atof(row[8]);
+			character->stats.intelligence = atof(row[9]);
+			character->stats.mentality = atof(row[10]);
+			character->stats.accuracy = atof(row[11]);
+		}
+		else
+		{
+			lg::Error(fg, "GSDatabase: Can't find character stats. ID: %d\n", character_id);
+		}
+	}
+
+	mysql_free_result(result);
 
 	// Стиль перса
 	//////////////////////////////////////////////////////////

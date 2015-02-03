@@ -32,6 +32,7 @@ bool SendOK(uint8 id, SOCKET s)
 
 DWORD WINAPI WinSockThread(LPVOID Param)
 {
+	bool oneshowmsg = false;
 	int serve = 0;
 	int retVal;
 	bool connected = true;
@@ -39,7 +40,6 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 	char packet_buf[PACKET_LEN];
 	THREAD_SEND* stc = (THREAD_SEND*)Param;
 	stc->id = -1;
-	bool send_info = false;
 	int step = 0;
 
 	while (connected)
@@ -66,23 +66,17 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 					step = 0;
 					for (int i = 0; i < 12; i++)
 					{
-//						if (stc->gs_info[i].id != -1)
-	//					{
-							gs_info[i].cs_ip = cs_info[i].ip;
-							gs_info[i].cs_port = cs_info[i].port;
-							++step;
-//						}
+						gs_info[i].cs_ip = cs_info[i].ip;
+						gs_info[i].cs_port = cs_info[i].port;
+						++step;
 					}
 
-					packet_buf[1] = 12;// (uint8)step;
+					packet_buf[1] = 12;
 					step = 2;
 					for (int i = 0; i < 12; i++)
 					{
-//						if (stc->gs_info[i].id != -1)
-	//					{
-							memcpy(packet_buf + step, &gs_info[i], sizeof(GAMESERVER_INFO));
-							step += sizeof(GAMESERVER_INFO);
-//						}
+						memcpy(packet_buf + step, &gs_info[i], sizeof(GAMESERVER_INFO));
+						step += sizeof(GAMESERVER_INFO);
 					}
 					retVal = send(stc->socket, packet_buf, step, NULL);
 					if (retVal == SOCKET_ERROR) {
@@ -92,7 +86,11 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 					}
 					else
 					{
-						log::Info(fg, "InnerThread: Login Server update information.\n");
+						if (!oneshowmsg)
+						{
+							log::Info(fg, "InnerThread: [%s] Login Server update information.\n", inet_ntoa(stc->from));
+							oneshowmsg = true;
+						}
 					}
 					break;
 				}
@@ -114,13 +112,13 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 					break;
 
 				case 0x13:
-					if (!send_info)
+					if (!oneshowmsg)
 						log::Info(fg, "InnerThread: [%s] Character Server (%d) send info.\n", inet_ntoa(stc->from), stc->id);
 					stc->cs_info[stc->id].id = stc->id;
 					memcpy(&stc->cs_info[stc->id], packet_buf + 2, sizeof(CHARACTERSERVER_INFO));
 					if (!SendOK(stc->id, stc->socket))
 						return 0;
-					send_info = true;
+					oneshowmsg = true;
 					break;
 				default:
 					if (stc->id != -1)
@@ -147,13 +145,13 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 					break;
 
 				case 0x13:
-//					if (!send_info)
+					if (!oneshowmsg)
 						log::Info(fg, "InnerThread: [%s] Game Server (%d) send info.\n", inet_ntoa(stc->from), stc->id);
 					stc->gs_info[stc->id].id = stc->id;
 					memcpy(&stc->gs_info[stc->id], packet_buf + 3, sizeof(GAMESERVER_INFO));
 					if (!SendOK(stc->id, stc->socket))
 						return 0;
-					send_info = true;
+					oneshowmsg = true;
 					break;
 
 				default:
@@ -229,8 +227,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	COLOR_GL
 	log::Notify(fg, "\n");
 	log::Notify(fg, "#################################\n");
-	log::Notify(fg, "# Inner Server v1.00            #\n");
-	log::Notify(fg, "# Author: Tahoma                #\n");
+	log::Notify(fg, "# Inner Server v0.51            #\n");
+	log::Notify(fg, "# Authors: Tahoma               #\n");
 	log::Notify(fg, "#################################\n\n");
 
 	///////////////////////////////////////////////////////////////
@@ -248,7 +246,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	COLOR_GL
 	log::Notify(fg, "Succesful\n");
-//--------------------------------------------------------------------------------------------------------------------------
+	//--------------------------------------------------------------------------------------------------------------------------
 
 	log::Notify(fg, "\nServer is running. (%s:%d)\n", ip, port);
 	COLOR_RGBL

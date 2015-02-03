@@ -68,11 +68,9 @@ bool PACKET::PackRecv()
 	opcode = readUW();
 	int cryptflag1 = readUB();
 	int cryptflag2 = readUB();
-//	offset -= 2;
 	packet_len = real_packet_size - offset;
 
-	
-	char key[] = { 0xc1, 0xa1, 0xb2, 0xc4, 0x4b, 0x3f, 0x1b, 0x41 };
+	char key[] = { 0xcb, 0x1e, 0xbd, 0x4c, 0xbf, 0x8f, 0xb9, 0x4a };
 	int step_key = 0;
 	if (cryptflag1 == 2)
 	{

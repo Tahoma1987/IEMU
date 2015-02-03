@@ -287,8 +287,8 @@ int _tmain(int argc, _TCHAR* argv[])
 	lg::Notify(fg, "\n");
 	lg::Notify(fg, "#################################\n");
 	lg::Notify(fg, "# Game Server v0.04             #\n");
-	lg::Notify(fg, "# Client version: 1.5.55        #\n");
-	lg::Notify(fg, "# Client time: 2015-01-12 23:15 #\n");
+	lg::Notify(fg, "# Client version: 1.5.73        #\n");
+	lg::Notify(fg, "# Client time: 2015-01-27 16:28 #\n");
 	lg::Notify(fg, "#################################\n\n");
 	
 	///////////////////////////////////////////////////////////////

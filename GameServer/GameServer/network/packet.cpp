@@ -133,7 +133,7 @@ bool PACKET::NextPacket()
 	if (cryptflag == 1 || cryptflag == 2)
 	{
 		int step_xor_key = 0;
-		char xor_key[] = { 0xc1, 0xa1, 0xb2, 0xc4, 0x4b, 0x3f, 0x1b, 0x41 };
+		char xor_key[] = { 0xcb, 0x1e, 0xbd, 0x4c, 0xbf, 0x8f, 0xb9, 0x4a };
 		for (int i = 0; i < packet_len; i++)
 		{
 			buf_use_packed[i + offset] ^= xor_key[step_xor_key];
@@ -195,7 +195,7 @@ bool PACKET::PackRecv()
 	if (cryptflag == 1 || cryptflag == 2)
 	{
 		int step_xor_key = 0;
-		char xor_key[] = { 0xc1, 0xa1, 0xb2, 0xc4, 0x4b, 0x3f, 0x1b, 0x41 };
+		char xor_key[] = { 0xcb, 0x1e, 0xbd, 0x4c, 0xbf, 0x8f, 0xb9, 0x4a };
 		for (int i = 0; i < packet_len; i++)
 		{
 			buf_use_packed[i + offset] ^= xor_key[step_xor_key];

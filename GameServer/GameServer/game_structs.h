@@ -131,6 +131,25 @@ struct sCHARACTER_POS
 	float			next_rotate;
 };
 
+struct sCHARACTER_STATS
+{
+	float			max_hp;
+	float			max_mp;
+	float			hp;
+	float			mp;
+	float			phys_def;
+	float			magic_def;
+	float			evasion;
+	float			phys_crit;
+	float			magic_crit;
+	float			power;
+	float			agility;
+	float			fitness;
+	float			intelligence;
+	float			mentality;
+	float			accuracy;
+};
+
 typedef struct CHARACTER
 {
 	uint32			account_id;
@@ -143,20 +162,11 @@ typedef struct CHARACTER
 	int8			lvl;
 	CHAR_STYLE		style;
 	sCHARACTER_POS	pos;
-/*	float			pos_x;
-	float			pos_y;
-	float			pos_z;
-	float			rotate;
-
-	float			next_x;
-	float			next_y;
-	float			next_z;
-	float			next_rotate;*/
-
 	int				action;
 	INVENTORY		inventory[_MAX_ITEMS_IN_INVENTORY];
 	int				items_in_inventory;
 	eACCESS_CHARACTER access;
+	sCHARACTER_STATS stats;
 	int				status;
 	bool			ingame;
 	bool			fly;

@@ -26,7 +26,7 @@ inline void SM_SETAREA(PACKET* pck)
 	pck->writeD(0);
 	pck->writeB(0);
 	pck->writeB(0);
-	pck->writeB(2);// pck->me->cls);
+	pck->writeB(mychar->cls);
 	pck->writeB(mychar->sex);
 	pck->writeD(0x3bd70900);
 	pck->writeD(0);

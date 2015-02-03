@@ -201,14 +201,20 @@ void AI::StatusHandler(int num_player)
 		SM_UNK3(pck, 15);
 		SM_UNK3(pck, 12);
 		SM_UNK3(pck, 11);
-		SM_UNK4(pck);
+		SM_UNK4(pck);		
 		break;
 
 	case STATUS_DISCONNECT:		
+		players[num_player].status = false;
 		mysql->UpdateCharacterInfo(&players[num_player].character);
 		mychar->pos.pos_x = 0;
 		mychar->pos.pos_y = 0;
 		mychar->pos.pos_z = 0;
+		for (int i = 0; i < max_spawns; i++)
+		{
+			if (mobs[i].accounts_show[num_player])
+				mobs[i].accounts_show[num_player] = false;
+		}
 		break;
 
 	case STATUS_CHAT:
@@ -219,6 +225,7 @@ void AI::StatusHandler(int num_player)
 				break;
 		}
 		SM_CHAT(pck, mychar->chat_msg);
+//		SM_PLAYER_INFO(pck);
 		break;
 	}	
 }

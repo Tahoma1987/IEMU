@@ -1,0 +1,97 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<!-- f6 -->
+<!-- f7 -->
+<!-- f8 -->
+<!-- f9 -->
+<blocks>
+	<keys num_keys="9" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" key6="f6" key7="f7" key8="f8" key9="f9" />
+	<block key="E_D11_MohaScout_001_Name" korean="Пиргос больше грабители Ranger" />
+	<block key="E_D11_MohaScout_001_NameDetail" korean="Красный революция" />
+	<block key="E_D11_FanaRecon_001_Name" korean="Пиргос крупных хищников грабители" />
+	<block key="E_D11_FanaRecon_001_NameDetail" korean="Красный революция" />
+	<block key="E_D11_MohaSnipe_001_Name" korean="Пиргос больше грабители Monitor" />
+	<block key="E_D11_MohaSnipe_001_NameDetail" korean="Красный революция" />
+	<block key="E_D11_FanaTroop_001_Name" korean="Пиргос больше грабители охранник" />
+	<block key="E_D11_FanaTroop_001_NameDetail" korean="Красный революция" />
+	<block key="E_D11_FanaMidget_001_Name" korean="Пиргос больше бандиты Поражая колокол" />
+	<block key="E_D11_FanaMidget_001_NameDetail" korean="Красный революция" />
+	<block key="E_D11_MohaShotr_001_Name" korean="Мать Haba yongbyeongdan кузнец" />
+	<block key="E_D11_MohaShotr_001_NameDetail" korean="Красный революция" />
+	<block key="E_D11_MohaHealer_001_Name" korean="Все боятся Mystic Харбор yongbyeongdan" />
+	<block key="E_D11_MohaHealer_001_NameDetail" korean="Красный революция" />
+	<block key="E_D11_FanaRecon_002_Name" korean="Haba yongbyeongdan все сорвиголовы" />
+	<block key="E_D11_FanaRecon_002_NameDetail" korean="Красный революция" />
+	<block key="E_D11_MohaSnipe_002_Name" korean="Haba yongbyeongdan засаду все пьющих" />
+	<block key="E_D11_MohaSnipe_002_NameDetail" korean="Красный революция" />
+	<block key="E_D11_MohaSnipe_003_Name" korean="Матери Haba yongbyeongdan лев тренер" />
+	<block key="E_D11_MohaSnipe_003_NameDetail" korean="Красный революция" />
+	<block key="E_D11_Lion_001_Name" korean="Лев тренер" />
+	<block key="E_D11_Lion_001_NameDetail" korean="#" />
+	<block key="E_D11_McTyman_001_Name" korean="Mac Тайский удаленная" />
+	<block key="E_D11_McTyman_001_NameDetail" korean="Бык" />
+	<block key="E_D11_McTyman_002_Name" korean="Mac Тайский удаленная" />
+	<block key="E_D11_McTyman_002_NameDetail" korean="Бык" />
+	<block key="E_D11_Hoston_001_Name" korean="Камень Озеро" />
+	<block key="E_D11_Hoston_001_NameDetail" korean="Кузнецы огонь" />
+	<block key="E_D11_MohaSnipe_004_Name" korean="Кара-де-Pirate Боцман" />
+	<block key="E_D11_MohaSnipe_004_NameDetail" korean="Красный революция" />
+	<block key="E_D11_CarmTreas_001_Name" korean="Кара-де-Pirate Нападение бутылка" />
+	<block key="E_D11_CarmTreas_001_NameDetail" korean="Красный революция" />
+	<block key="E_D11_CarmWatch_001_Name" korean="Cara-де-Pirate Сторожевая башня бутылка" />
+	<block key="E_D11_CarmWatch_001_NameDetail" korean="Красный революция" />
+	<block key="E_D11_CarmBarub_001_Name" korean="Cara-де-пиратские операции трубы" />
+	<block key="E_D11_CarmBarub_001_NameDetail" korean="Красный революция" />
+	<block key="E_D11_CarmDeckh_001_Name" korean="Кара-де-Pirate Crew" />
+	<block key="E_D11_CarmDeckh_001_NameDetail" korean="Красный революция" />
+	<block key="E_D11_Karad_001_Name" korean="Кара-де-" />
+	<block key="E_D11_Karad_001_NameDetail" korean="Капитан" />
+	<block key="E_D11_DetuGaren_001_Name" korean="D2 Ренне" />
+	<block key="E_D11_DetuGaren_001_NameDetail" korean="Мастер Тьмы" />
+	<block key="E_D11_Garesh_001_Name" korean="Лече" />
+	<block key="E_D11_Garesh_001_NameDetail" korean="Зло" />
+	<block key="E_D11_FanaRecon_003_Name" korean="Пиргос крупных хищников грабители" />
+	<block key="E_D11_FanaRecon_003_NameDetail" korean="Красный революция" />
+	<block key="E_D11_MohaSnipe_005_Name" korean="Пиргос больше грабители Monitor" />
+	<block key="E_D11_MohaSnipe_005_NameDetail" korean="Красный революция" />
+	<block key="E_D11_CarmTreas_002_Name" korean="Пиргос больше грабители стали проект" />
+	<block key="E_D11_CarmTreas_002_NameDetail" korean="Красный революция" />
+	<block key="E_D11_FanaThera_001_Name" korean="Пиргос больше грабители EMT" />
+	<block key="E_D11_FanaThera_001_NameDetail" korean="Красный революция" />
+	<block key="E_D11_MohaHealer_002_Name" korean="Пиргос большой ветер грабители Mystic" />
+	<block key="E_D11_MohaHealer_002_NameDetail" korean="Красный революция" />
+	<block key="E_D11_Kfir_001_Name" korean="Большой Pyrmont" />
+	<block key="E_D11_Kfir_001_NameDetail" korean="Для грабителей" />
+	<block key="E_D11_MohaSnipe_006_Name" korean="Зуб SS снайпер keurak" />
+	<block key="E_D11_MohaSnipe_006_NameDetail" korean="Красный революция" />
+	<block key="E_D11_FanaTroop_002_Name" korean="Зуб keurak эсэсовцы" />
+	<block key="E_D11_FanaTroop_002_NameDetail" korean="Красный революция" />
+	<block key="E_D11_CarmTreas_003_Name" korean="Зуб болезни keurak SS нападение" />
+	<block key="E_D11_CarmTreas_003_NameDetail" korean="Красный революция" />
+	<block key="E_D11_CarmBarub_002_Name" korean="Зуб СС Tube keurak Персонал" />
+	<block key="E_D11_CarmBarub_002_NameDetail" korean="Красный революция" />
+	<block key="E_D11_Kraktus_001_Name" korean="Keurak зубов" />
+	<block key="E_D11_Kraktus_001_NameDetail" korean="Красный революция единственная позиция," />
+	<block key="E_D11_MohaScout_002_Name" korean="Пиргос больше грабители Ranger" />
+	<block key="E_D11_MohaScout_002_NameDetail" korean="Красный революция" />
+	<block key="E_D11_MohaScout_003_Name" korean="Пиргос больше грабители Ranger" />
+	<block key="E_D11_MohaScout_003_NameDetail" korean="Красный революция" />
+	<block key="E_D11_FanaRecon_004_Name" korean="Haba yongbyeongdan все сорвиголовы" />
+	<block key="E_D11_FanaRecon_004_NameDetail" korean="Красный революция" />
+	<block key="E_D11_MohaSnipe_007_Name" korean="Haba yongbyeongdan засаду все пьющих" />
+	<block key="E_D11_MohaSnipe_007_NameDetail" korean="Красный революция" />
+	<block key="E_D11_CarmTreas_004_Name" korean="Кара-де-Pirate Нападение бутылка" />
+	<block key="E_D11_CarmTreas_004_NameDetail" korean="Красный революция" />
+	<block key="E_D11_MohaSnipe_008_Name" korean="Кара-де-Pirate Боцман" />
+	<block key="E_D11_MohaSnipe_008_NameDetail" korean="Красный революция" />
+	<block key="E_D11_MohaSnipe_009_Name" korean="Пиргос больше грабители Monitor" />
+	<block key="E_D11_MohaSnipe_009_NameDetail" korean="Красный революция" />
+	<block key="E_D11_Key_001_Name" korean="Вади" />
+	<block key="E_D11_Key_001_NameDetail" korean="Ключ разводной мост существо" />
+	<block key="E_D11_Key_002_Name" korean="Theta" />
+	<block key="E_D11_Key_002_NameDetail" korean="Ключ разводной мост существо" />
+</blocks>

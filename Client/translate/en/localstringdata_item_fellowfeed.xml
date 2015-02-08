@@ -1,0 +1,13 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="FD0_0_0001_NAME" korean="Корма Test" />
+	<block key="FD0_1_0001_NAME" korean="Корма Test" />
+	<block key="FD0_2_0001_NAME" korean="Корма Test" />
+	<block key="FD0_3_0001_NAME" korean="Корма Test" />
+</blocks>

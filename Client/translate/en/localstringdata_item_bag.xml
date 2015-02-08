@@ -1,0 +1,31 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="BG0_001_0_0000_Name" korean="10 квадратных мешок" />
+	<block key="BG0_001_0_0000_description" korean="Сумка с слот хранения 10 подразделений" />
+	<block key="BG0_001_0_0001_Name" korean="16 Хан основная сумка" />
+	<block key="BG0_001_0_0001_description" korean="Сумка с слот хранения на 16 Каннах" />
+	<block key="BG0_001_0_0002_Name" korean="12 квадратных мешок" />
+	<block key="BG0_001_0_0002_description" korean="Сумка с слот хранения на 12 Каннах" />
+	<block key="BG0_001_0_0003_Name" korean="8-пакеты для мусора" />
+	<block key="BG0_001_0_0003_description" korean="Сумка с прорезями для хранения в 8-BIN" />
+	<block key="BG0_001_0_0004_Name" korean="6 пространства мешок" />
+	<block key="BG0_001_0_0004_Description" korean="Сумка с слот хранения на 6 пространств" />
+	<block key="BG0_001_0_0005_Name" korean="4 пространства мешок" />
+	<block key="BG0_001_0_0005_Description" korean="Сумка с слот хранения на четырех пространств" />
+	<block key="BG0_001_0_0006_Name" korean="14 квадратных мешок" />
+	<block key="BG0_001_0_0006_Description" korean="Сумка с 14 слотами дискового пространства" />
+	<block key="BG0_001_0_0007_Name" korean="18 квадратных мешок" />
+	<block key="BG0_001_0_0007_Description" korean="Сумка с 18 слотами дискового пространства" />
+	<block key="CA_IT_BA_0000_Name" korean="Генеральный сумка" />
+	<block key="CA_IT_BA_0000_description" korean="Сумка с прорезями для хранения в 8-BIN" />
+	<block key="CA_IT_BA_0001_Name" korean="Расширенный пакет" />
+	<block key="CA_IT_BA_0001_Description" korean="24 мешков с прорезью для хранения в Каннах" />
+	<block key="EV_IT_BA_0000_Name" korean="16 квадратных мешок" />
+	<block key="EV_IT_BA_0000_Description" korean="Сумка с слот хранения на 16 Каннах" />
+</blocks>

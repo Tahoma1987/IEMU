@@ -1,0 +1,943 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="N_04_0_0001_0001_Name" korean="Ректор список" />
+	<block key="N_04_0_0001_0001_NameDetail" korean="Vigilante корпуса" />
+	<block key="N_04_0_0001_0002_Name" korean="Николай Коул" />
+	<block key="N_04_0_0001_0002_NameDetail" korean="Мэр" />
+	<block key="N_04_0_0001_0003_Name" korean="Джон dyueodeun" />
+	<block key="N_04_0_0001_0003_NameDetail" korean="Vigilante корпуса" />
+	<block key="N_04_0_0002_0001_Name" korean="Ангела график" />
+	<block key="N_04_0_0002_0001_NameDetail" korean="Vigilante корпуса" />
+	<block key="N_04_0_0001_0004_Name" korean="Эйден Хейгл" />
+	<block key="N_04_0_0001_0004_NameDetail" korean="Наемник Берсерк" />
+	<block key="N_04_0_0002_0002_Name" korean="Эми Хейгл" />
+	<block key="N_04_0_0002_0002_NameDetail" korean="Трактирщик" />
+	<block key="N_04_0_0001_0005_Name" korean="Райли Стюарт" />
+	<block key="N_04_0_0001_0005_NameDetail" korean="Shenron Рыцари" />
+	<block key="N_04_0_0001_0006_Name" korean="Завеса Список" />
+	<block key="N_04_0_0001_0006_NameDetail" korean="Алхимик" />
+	<block key="N_04_0_0001_0007_Name" korean="Те поясница медленно" />
+	<block key="N_04_0_0001_0007_NameDetail" korean="Купцы питания" />
+	<block key="N_04_0_0001_0008_Name" korean="Лоутон зерна" />
+	<block key="N_04_0_0001_0008_NameDetail" korean="Блуждающие Гардиан" />
+	<block key="N_04_0_0002_0003_Name" korean="Грейс Маккейн" />
+	<block key="N_04_0_0002_0003_NameDetail" korean="Королевская академия искусств скульптора" />
+	<block key="N_04_0_0001_0009_Name" korean="Гордон несвежим" />
+	<block key="N_04_0_0001_0009_NameDetail" korean="Лесорубы" />
+	<block key="N_04_0_0002_0004_Name" korean="Ария Роттердам" />
+	<block key="N_04_0_0002_0004_NameDetail" korean="Музыкант" />
+	<block key="N_04_0_0001_0010_Name" korean="Вальтер кольцо на" />
+	<block key="N_04_0_0001_0010_NameDetail" korean="Плотник" />
+	<block key="N_04_0_0001_0011_Name" korean="Рикард код Wing" />
+	<block key="N_04_0_0001_0011_NameDetail" korean="Дизайнеры судов" />
+	<block key="N_04_0_0001_0012_Name" korean="Galleon Швейные" />
+	<block key="N_04_0_0001_0012_NameDetail" korean="Мастер корабль" />
+	<block key="N_04_0_0002_0005_Name" korean="Рейна трудно Veil" />
+	<block key="N_04_0_0002_0005_NameDetail" korean="Рыбак" />
+	<block key="N_04_0_0002_0006_Name" korean="Система Fagan" />
+	<block key="N_04_0_0002_0006_NameDetail" korean="Морепродукты текстурированной пряжи" />
+	<block key="N_04_0_0001_0013_Name" korean="Болт между Микки" />
+	<block key="N_04_0_0001_0013_NameDetail" korean="Оборонительная капитан" />
+	<block key="N_04_0_0001_0014_Name" korean="Ивонн Blender" />
+	<block key="N_04_0_0001_0014_NameDetail" korean="Раненых наемников" />
+	<block key="N_04_0_0002_0007_Name" korean="Мелисса Слейтер" />
+	<block key="N_04_0_0002_0007_NameDetail" korean="Наемник Берсерк" />
+	<block key="N_04_0_0001_0015_Name" korean="Vigilante защитник" />
+	<block key="N_04_0_0001_0015_NameDetail" korean="" />
+	<block key="N_04_0_0002_0008_Name" korean="Виджиланте патрули" />
+	<block key="N_04_0_0002_0008_NameDetail" korean="" />
+	<block key="N_04_0_0002_0009_Name" korean="Наемник Убийца" />
+	<block key="N_04_0_0002_0009_NameDetail" korean="" />
+	<block key="N_04_0_0001_0016_Name" korean="Наемник Хранитель" />
+	<block key="N_04_0_0001_0016_NameDetail" korean="" />
+	<block key="N_04_0_0159_0000_Name" korean="Парр и" />
+	<block key="N_04_0_0159_0000_NameDetail" korean="Вода Богиня" />
+	<block key="N_04_0_0162_0001_Name" korean="Хиты Леоне" />
+	<block key="N_04_0_0162_0001_NameDetail" korean="Первосвященник" />
+	<block key="N_04_0_0159_0001_Name" korean="Фу аренды" />
+	<block key="N_04_0_0159_0001_NameDetail" korean="Первосвященник" />
+	<block key="N_04_0_0162_0002_Name" korean="Номера-двойники" />
+	<block key="N_04_0_0162_0002_NameDetail" korean="Сторожевая башня Warbringer" />
+	<block key="N_04_0_0159_0002_Name" korean="Получить объявление" />
+	<block key="N_04_0_0159_0002_NameDetail" korean="Сторожевая башня gungbyeong толстой кишки" />
+	<block key="N_04_0_0155_0001_Name" korean="Агра" />
+	<block key="N_04_0_0155_0001_NameDetail" korean="Сторожевая башня боевой" />
+	<block key="N_04_0_0155_0002_Name" korean="Чакра" />
+	<block key="N_04_0_0155_0002_NameDetail" korean="Сторожевая башня боевой" />
+	<block key="N_04_0_0162_0003_Name" korean="Tatara" />
+	<block key="N_04_0_0162_0003_NameDetail" korean="Эскорт капитан" />
+	<block key="N_04_0_0160_0000_Name" korean="И Ларс" />
+	<block key="N_04_0_0160_0000_NameDetail" korean="Сторожевая башня Шаман" />
+	<block key="N_04_0_0161_0000_Name" korean="Сдать в аренду" />
+	<block key="N_04_0_0161_0000_NameDetail" korean="Опекун охранник Священник" />
+	<block key="N_04_0_0157_0000_Name" korean="Мисс" />
+	<block key="N_04_0_0157_0000_NameDetail" korean="Опекун охранник Священник" />
+	<block key="N_04_0_0156_0000_Name" korean="Erhu" />
+	<block key="N_04_0_0156_0000_NameDetail" korean="Оркестрант" />
+	<block key="N_04_0_0156_0001_Name" korean="Осада Наха" />
+	<block key="N_04_0_0156_0001_NameDetail" korean="Менеджер путям" />
+	<block key="N_04_0_0160_0002_Name" korean="Игнорировать ключ" />
+	<block key="N_04_0_0160_0002_NameDetail" korean="Менеджер путям" />
+	<block key="N_04_0_0160_0003_Name" korean="О Лорка" />
+	<block key="N_04_0_0160_0003_NameDetail" korean="Оружие дилер" />
+	<block key="N_04_0_0161_0001_Name" korean="Каку право" />
+	<block key="N_04_0_0161_0001_NameDetail" korean="Доспехами" />
+	<block key="N_04_0_0157_0001_Name" korean="Это Лу" />
+	<block key="N_04_0_0157_0001_NameDetail" korean="Алхимик" />
+	<block key="N_04_0_0156_0002_Name" korean="Чи муки" />
+	<block key="N_04_0_0156_0002_NameDetail" korean="Строительный инспектор" />
+	<block key="N_04_0_0001_0017_Name" korean="Гейл maekbein" />
+	<block key="N_04_0_0001_0017_NameDetail" korean="Maekbein в верхней части главной" />
+	<block key="N_04_0_0001_0018_Name" korean="Bell bekseun" />
+	<block key="N_04_0_0001_0018_NameDetail" korean="Эскорт воины maekbein" />
+	<block key="N_04_0_0001_0019_Name" korean="Lane августа" />
+	<block key="N_04_0_0001_0019_NameDetail" korean="Бесплатный путеводитель странный" />
+	<block key="N_04_0_0002_0010_Name" korean="Кира Hawkeye" />
+	<block key="N_04_0_0002_0010_NameDetail" korean="Бесплатные Рамми партнеры" />
+	<block key="N_04_0_0001_0020_Name" korean="Артур Le Япония" />
+	<block key="N_04_0_0001_0020_NameDetail" korean="Канас и зарубежных управление" />
+	<block key="N_04_0_0155_0003_Name" korean="Mureo боевой mijok" />
+	<block key="N_04_0_0155_0003_NameDetail" korean="Сторожевая башня" />
+	<block key="N_04_0_0156_0003_Name" korean="Mureo mijok Ranger" />
+	<block key="N_04_0_0156_0003_NameDetail" korean="Сторожевая башня" />
+	<block key="N_04_0_0162_0004_Name" korean="Хранитель Воин" />
+	<block key="N_04_0_0162_0004_NameDetail" korean="Пардо и телохранитель" />
+	<block key="N_04_0_0157_0002_Name" korean="Хранитель Священник" />
+	<block key="N_04_0_0157_0002_NameDetail" korean="Пардо и телохранитель" />
+	<block key="N_04_0_0205_0000_Name" korean="Ката Rune" />
+	<block key="N_04_0_0205_0000_NameDetail" korean="Мейсон мастера" />
+	<block key="N_04_0_0212_0000_Name" korean="Не спорьте с моим Шаман" />
+	<block key="N_04_0_0212_0000_NameDetail" korean="Гарнизон" />
+	<block key="N_04_0_0206_0000_Name" korean="Доблестный копать Канны" />
+	<block key="N_04_0_0206_0000_NameDetail" korean="Гарнизон" />
+	<block key="N_04_0_0210_0000_Name" korean="Kuhn Croix Шаман" />
+	<block key="N_04_0_0210_0000_NameDetail" korean="Гарнизон" />
+	<block key="N_04_0_0203_0000_Name" korean="Kuhn Croix-хранитель воин" />
+	<block key="N_04_0_0203_0000_NameDetail" korean="Гарнизон" />
+	<block key="N_04_0_0204_0000_Name" korean="Kuhn Croix проекция" />
+	<block key="N_04_0_0204_0000_NameDetail" korean="Гарнизон" />
+	<block key="N_04_0_0209_0000_Name" korean="Croix-кун Охотники" />
+	<block key="N_04_0_0209_0000_NameDetail" korean="Гарнизон" />
+	<block key="N_04_0_0206_0001_Name" korean="Старший Artisan Rune сильный дождь" />
+	<block key="N_04_0_0206_0001_NameDetail" korean="Мэр" />
+	<block key="N_04_0_0208_0000_Name" korean="Азиатский Рог" />
+	<block key="N_04_0_0208_0000_NameDetail" korean="Estates офицер" />
+	<block key="N_04_0_0202_0000_Name" korean="Тик Рог" />
+	<block key="N_04_0_0202_0000_NameDetail" korean="Мейсон листов" />
+	<block key="N_04_0_0202_0001_Name" korean="Хатта Рог" />
+	<block key="N_04_0_0202_0001_NameDetail" korean="Архитектор" />
+	<block key="N_04_0_0207_0000_Name" korean="Развод" />
+	<block key="N_04_0_0207_0000_NameDetail" korean="Строительные шары" />
+	<block key="N_04_0_0207_0001_Name" korean="Mananan" />
+	<block key="N_04_0_0207_0001_NameDetail" korean="Дизайнеры машина" />
+	<block key="N_04_0_0208_0001_Name" korean="Тара техник я" />
+	<block key="N_04_0_0208_0001_NameDetail" korean="Станки производства шаров" />
+	<block key="N_04_0_0203_0001_Name" korean="Хранитель воины называют Хакан" />
+	<block key="N_04_0_0203_0001_NameDetail" korean="Гарнизон" />
+	<block key="N_04_0_0206_0002_Name" korean="Доблестный шин Хан" />
+	<block key="N_04_0_0206_0002_NameDetail" korean="Kuhn Croix руководители" />
+	<block key="N_04_0_0202_0002_Name" korean="Статья Akan инструменты шаманские" />
+	<block key="N_04_0_0202_0002_NameDetail" korean="Гарнизон" />
+	<block key="N_04_0_0211_0000_Name" korean="Шаман боевые TiO инструменты" />
+	<block key="N_04_0_0211_0000_NameDetail" korean="Гарнизон" />
+	<block key="N_04_0_0002_0011_Name" korean="Айша перо Lane" />
+	<block key="N_04_0_0002_0011_NameDetail" korean="Любители Рондо" />
+	<block key="N_04_0_0001_0021_Name" korean="Отправка бутылка на Nexon Fury" />
+	<block key="N_04_0_0001_0021_NameDetail" korean="Shenron Рыцари" />
+	<block key="N_04_0_0001_0022_Name" korean="Patek Gracia" />
+	<block key="N_04_0_0001_0022_NameDetail" korean="Испытательный мяч делая машину" />
+	<block key="N_04_0_0002_0012_Name" korean="Энджи Gracia" />
+	<block key="N_04_0_0002_0012_NameDetail" korean="Бродяга" />
+	<block key="N_04_0_0001_0023_Name" korean="Леон Зенит" />
+	<block key="N_04_0_0001_0023_NameDetail" korean="Галантерейщик" />
+	<block key="N_04_0_0002_0013_Name" korean="Японские патрули Алисия" />
+	<block key="N_04_0_0002_0013_NameDetail" korean="Shenron Рыцари" />
+	<block key="N_04_0_0001_0024_Name" korean="До ¥ Смит" />
+	<block key="N_04_0_0001_0024_NameDetail" korean="Vigilante корпуса" />
+	<block key="N_04_0_0001_0025_Name" korean="Страж Maxima" />
+	<block key="N_04_0_0001_0025_NameDetail" korean="Наемник" />
+	<block key="N_04_0_0157_0003_Name" korean="Когда директор" />
+	<block key="N_04_0_0157_0003_NameDetail" korean="Бесплатный резак странный" />
+	<block key="N_04_0_0156_0004_Name" korean="А. О," />
+	<block key="N_04_0_0156_0004_NameDetail" korean="Charin сердиться дух на свободу странный" />
+	<block key="N_04_0_0160_0004_Name" korean="Молодая бесплатно Рамми" />
+	<block key="N_04_0_0160_0004_NameDetail" korean="Charin сердиться дух на свободу странный" />
+	<block key="N_04_0_0161_0002_Name" korean="Старый-Free странный" />
+	<block key="N_04_0_0161_0002_NameDetail" korean="Charin сердиться дух на свободу странный" />
+	<block key="N_04_0_0156_0005_Name" korean="Дети бесплатно Рамми" />
+	<block key="N_04_0_0156_0005_NameDetail" korean="Charin сердиться дух на свободу странный" />
+	<block key="N_04_0_0002_0014_Name" korean="Verna код Wing" />
+	<block key="N_04_0_0002_0014_NameDetail" korean="Сельские жители" />
+	<block key="N_04_0_0001_0026_Name" korean="Джон Понд" />
+	<block key="N_04_0_0001_0026_NameDetail" korean="Наемников" />
+	<block key="N_04_0_0001_0027_Name" korean="Tree Village Код Wing" />
+	<block key="N_04_0_0001_0027_NameDetail" korean="Девочка со спичками" />
+	<block key="N_04_0_0001_0028_Name" korean="Роберт Harleys" />
+	<block key="N_04_0_0001_0028_NameDetail" korean="Сельские жители" />
+	<block key="N_04_0_0001_0029_Name" korean="Чак Бэйл" />
+	<block key="N_04_0_0001_0029_NameDetail" korean="Доспехами" />
+	<block key="N_04_0_0001_0030_Name" korean="Пол Путешествия" />
+	<block key="N_04_0_0001_0030_NameDetail" korean="Институт гонки" />
+	<block key="N_04_0_1300_0000_Name" korean="Филипп Слейтер" />
+	<block key="N_04_0_1300_0000_NameDetail" korean="Pirate дух Charin" />
+	<block key="N_04_0_0001_0032_Name" korean="Джонни" />
+	<block key="N_04_0_0001_0032_NameDetail" korean="Охотник за сокровищами" />
+	<block key="N_04_0_0001_0033_Name" korean="Дэнни" />
+	<block key="N_04_0_0001_0033_NameDetail" korean="Охотник за сокровищами" />
+	<block key="N_04_0_0001_0034_Name" korean="Рон Vale" />
+	<block key="N_04_0_0001_0034_NameDetail" korean="Кузнец" />
+	<block key="N_04_0_0156_0006_Name" korean="Четыре Мэри" />
+	<block key="N_04_0_0156_0006_NameDetail" korean="Arm кольцо девушка" />
+	<block key="N_04_0_0156_0007_Name" korean="Runaway без Рамми" />
+	<block key="N_04_0_0156_0007_NameDetail" korean="Бесплатный странный леди" />
+	<block key="N_04_0_0001_0035_Name" korean="Дэн Vale" />
+	<block key="N_04_0_0001_0035_NameDetail" korean="Оружие, доспехи купец" />
+	<block key="N_04_0_0001_0036_Name" korean="Роза перо Lane" />
+	<block key="N_04_0_0001_0036_NameDetail" korean="Алхимик" />
+	<block key="N_04_0_0001_0037_Name" korean="Умирающий" />
+	<block key="N_04_0_0001_0037_NameDetail" korean="Путешественник" />
+	<block key="N_04_0_0001_0038_Name" korean="Будет Рон Кайл" />
+	<block key="N_04_0_0001_0038_NameDetail" korean="Мастер Истины" />
+	<block key="N_04_0_0001_0039_Name" korean="Введите когти" />
+	<block key="N_04_0_0001_0039_NameDetail" korean="Kuhn Croix Onslaught" />
+	<block key="N_04_0_0001_0040_Name" korean="Сигрид хвост" />
+	<block key="N_04_0_0001_0040_NameDetail" korean="Село живых Синий Moonlight" />
+	<block key="N_04_0_1000_0000_Name" korean="Миссия Совет" />
+	<block key="N_04_0_1000_0000_NameDetail" korean="" />
+	<block key="N_04_0_0008_0000_Name" korean="Synth Мейер" />
+	<block key="N_04_0_0008_0000_NameDetail" korean="Shadow Clan" />
+	<block key="N_04_0_0309_0000_Name" korean="Одомашненных волков" />
+	<block key="N_04_0_0309_0000_NameDetail" korean="Гордон черствый стипендиатов" />
+	<block key="N_04_0_0221_0000_Name" korean="Пираты были доставлены" />
+	<block key="N_04_0_0221_0000_NameDetail" korean="Военнопленный" />
+	<block key="N_04_0_0156_0008_Name" korean="Привезли хорошую бесплатную Рамми" />
+	<block key="N_04_0_0156_0008_NameDetail" korean="Военнопленный" />
+	<block key="N_04_0_0001_0041_Name" korean="Наемник серьезно ранены" />
+	<block key="N_04_0_0001_0041_NameDetail" korean="" />
+	<block key="N_04_0_0001_0042_Name" korean="Эйден Хейгл" />
+	<block key="N_04_0_0001_0042_NameDetail" korean="Наемник Берсерк" />
+	<block key="N_04_0_0157_0004_Name" korean="Когда директор" />
+	<block key="N_04_0_0157_0004_NameDetail" korean="Бесплатный резак странный" />
+	<block key="N_04_0_0157_0005_Name" korean="Когда директор" />
+	<block key="N_04_0_0157_0005_NameDetail" korean="Бесплатный резак странный" />
+	<block key="N_04_0_0208_0002_Name" korean="Тара техник я" />
+	<block key="N_04_0_0208_0002_NameDetail" korean="Станки производства шаров" />
+	<block key="N_04_0_0002_0015_Name" korean="Айша перо Lane" />
+	<block key="N_04_0_0002_0015_NameDetail" korean="Любители Рондо" />
+	<block key="N_04_0_0001_0043_Name" korean="Пол Путешествия" />
+	<block key="N_04_0_0001_0043_NameDetail" korean="Институт гонки" />
+	<block key="N_04_0_0001_0044_Name" korean="Пол Путешествия" />
+	<block key="N_04_0_0001_0044_NameDetail" korean="Институт гонки" />
+	<block key="N_04_0_1000_0001_Name" korean="Серебро привлекать" />
+	<block key="N_04_0_1000_0001_NameDetail" korean="" />
+	<block key="N_04_0_1300_0001_Name" korean="Филипп Слейтер" />
+	<block key="N_04_0_1300_0001_NameDetail" korean="Pirate дух Charin" />
+	<block key="N_04_0_0005_0000_Name" korean="Капитан Вик Биркин" />
+	<block key="N_04_0_0005_0000_NameDetail" korean="Канаш секс и паром" />
+	<block key="N_04_5_0002_0000_Name" korean="Вернуться защищены" />
+	<block key="N_04_5_0002_0000_NameDetail" korean="" />
+	<block key="N_04_5_0002_0001_Name" korean="Вернуться защищены" />
+	<block key="N_04_5_0002_0001_NameDetail" korean="" />
+	<block key="N_04_5_0002_0002_Name" korean="Вернуться защищены" />
+	<block key="N_04_5_0002_0002_NameDetail" korean="" />
+	<block key="N_04_5_0002_0003_Name" korean="Вернуться защищены" />
+	<block key="N_04_5_0002_0003_NameDetail" korean="" />
+	<block key="N_04_5_0002_0004_Name" korean="Вернуться защищены" />
+	<block key="N_04_5_0002_0004_NameDetail" korean="" />
+	<block key="N_04_0_0022_0000_Name" korean="Себастьян" />
+	<block key="N_04_0_0022_0000_NameDetail" korean="Перемещение компания портал" />
+	<block key="N_04_0_0022_0001_Name" korean="Чарльз" />
+	<block key="N_04_0_0022_0001_NameDetail" korean="Перемещение компания портал" />
+	<block key="N_04_0_0022_0002_Name" korean="Лас-" />
+	<block key="N_04_0_0022_0002_NameDetail" korean="Региональный портал компании" />
+	<block key="N_04_0_0022_0003_Name" korean="Рика инструмент" />
+	<block key="N_04_0_0022_0003_NameDetail" korean="Перемещение компания портал" />
+	<block key="N_04_0_0022_0004_Name" korean="Дарвин" />
+	<block key="N_04_0_0022_0004_NameDetail" korean="Перемещение компания портал" />
+	<block key="N_04_0_0033_0001_Name" korean="Android" />
+	<block key="N_04_0_0033_0001_NameDetail" korean="Врачи белые" />
+	<block key="N_04_0_0033_0002_Name" korean="Exeter" />
+	<block key="N_04_0_0033_0002_NameDetail" korean="Врачи белые" />
+	<block key="N_04_0_0033_0003_Name" korean="Сита Лу" />
+	<block key="N_04_0_0033_0003_NameDetail" korean="Врачи белые" />
+	<block key="N_04_0_0033_0004_Name" korean="Пусть Рог" />
+	<block key="N_04_0_0033_0004_NameDetail" korean="Врачи белые" />
+	<block key="N_04_0_0033_0005_Name" korean="В прямом эфире" />
+	<block key="N_04_0_0033_0005_NameDetail" korean="Врачи белые" />
+	<block key="N_04_0_0001_0045_Name" korean="Объектив" />
+	<block key="N_04_0_0001_0045_NameDetail" korean="Зверь тренер" />
+	<block key="N_04_0_0001_0046_Name" korean="Camero" />
+	<block key="N_04_0_0001_0046_NameDetail" korean="Зверь тренер" />
+	<block key="N_04_0_0001_0047_Name" korean="Это аренду" />
+	<block key="N_04_0_0001_0047_NameDetail" korean="Зверь тренер" />
+	<block key="N_04_0_0006_2001_Name" korean="Шеф-повар biksi" />
+	<block key="N_04_0_0006_2001_NameDetail" korean="Шеф-повар" />
+	<block key="N_04_0_0001_1000_Name" korean="Джексон" />
+	<block key="N_04_0_0001_1000_NameDetail" korean="Галантерейщик" />
+	<block key="N_04_0_0002_1001_Name" korean="Сара Vale" />
+	<block key="N_04_0_0002_1001_NameDetail" korean="Оружие дилер" />
+	<block key="N_04_0_0002_1002_Name" korean="Ученик Мира" />
+	<block key="N_04_0_0002_1002_NameDetail" korean="Новичок Alchemist" />
+	<block key="N_04_0_0002_3001_Name" korean="Хиллари" />
+	<block key="N_04_0_0002_3001_NameDetail" korean="" />
+	<block key="N_04_0_0002_3002_Name" korean="Panthera" />
+	<block key="N_04_0_0002_3002_NameDetail" korean="" />
+	<block key="N_04_0_0001_3003_Name" korean="Optimuseu" />
+	<block key="N_04_0_0001_3003_NameDetail" korean="" />
+	<block key="N_04_0_0001_3004_Name" korean="Найти слово" />
+	<block key="N_04_0_0001_3004_NameDetail" korean="" />
+	<block key="N_04_0_0002_3005_Name" korean="Ensya" />
+	<block key="N_04_0_0002_3005_NameDetail" korean="" />
+	<block key="N_04_0_0001_3006_Name" korean="Творческая Max" />
+	<block key="N_04_0_0001_3006_NameDetail" korean="" />
+	<block key="N_04_0_0001_1003_Name" korean="Джоэл Тинкер" />
+	<block key="N_04_0_0001_1003_NameDetail" korean="Оружие, доспехи купец" />
+	<block key="N_04_0_0002_1004_Name" korean="Paradis и" />
+	<block key="N_04_0_0002_1004_NameDetail" korean="Галантерейщик" />
+	<block key="N_04_0_0002_1005_Name" korean="Теория Шах" />
+	<block key="N_04_0_0002_1005_NameDetail" korean="Галантерейщик" />
+	<block key="N_04_0_0206_2002_Name" korean="И крона" />
+	<block key="N_04_0_0206_2002_NameDetail" korean="Оружие мастера" />
+	<block key="N_04_0_0203_2003_Name" korean="Другое Maroon" />
+	<block key="N_04_0_0203_2003_NameDetail" korean="Строительные шары" />
+	<block key="N_54_0_0002_0000_Name" korean="Kepley Певица" />
+	<block key="N_54_0_0002_0000_NameDetail" korean="Предложения Лаедана" />
+	<block key="N_54_0_0155_0000_Name" korean="Musica" />
+	<block key="N_54_0_0155_0000_NameDetail" korean="Были доставлены Рамми бесплатно" />
+	<block key="N_54_0_0207_0000_Name" korean="Мир является" />
+	<block key="N_54_0_0207_0000_NameDetail" korean="Kuhn привезли Croix" />
+	<block key="N_54_0_0157_0000_Name" korean="Сону La" />
+	<block key="N_54_0_0157_0000_NameDetail" korean="Были доставлены Рамми бесплатно" />
+	<block key="N_54_0_0161_0000_Name" korean="Делают" />
+	<block key="N_54_0_0161_0000_NameDetail" korean="Были доставлены Рамми бесплатно" />
+	<block key="N_54_0_0155_0001_Name" korean="Номера для Lulu" />
+	<block key="N_54_0_0155_0001_NameDetail" korean="Были доставлены Рамми бесплатно" />
+	<block key="N_04_0_0002_0016_Name" korean="Patrol капитан Ворон" />
+	<block key="N_04_0_0002_0016_NameDetail" korean="Vigilante корпуса" />
+	<block key="N_04_5_0173_0001_Name" korean="Рид ветер деревня" />
+	<block key="N_04_5_0173_0001_NameDetail" korean="" />
+	<block key="N_04_5_0173_0002_Name" korean="Пираты Lair" />
+	<block key="N_04_5_0173_0002_NameDetail" korean="" />
+	<block key="N_04_5_0173_0003_Name" korean="Озеро жизни" />
+	<block key="N_04_5_0173_0003_NameDetail" korean="" />
+	<block key="N_04_5_0173_0004_Name" korean="Рид ветер побережье" />
+	<block key="N_04_5_0173_0004_NameDetail" korean="" />
+	<block key="N_04_5_0173_0005_Name" korean="Плача Скалы Village" />
+	<block key="N_04_5_0173_0005_NameDetail" korean="" />
+	<block key="N_04_5_0173_0006_Name" korean="Болото перебежчик" />
+	<block key="N_04_5_0173_0006_NameDetail" korean="" />
+	<block key="N_04_5_0173_0007_Name" korean="Falls Village руины" />
+	<block key="N_04_5_0173_0007_NameDetail" korean="" />
+	<block key="N_04_5_0173_0008_Name" korean="Город Голубой Лунный свет" />
+	<block key="N_04_5_0173_0008_NameDetail" korean="" />
+	<block key="N_04_5_0173_0009_Name" korean="Лед Рондо" />
+	<block key="N_04_5_0173_0009_NameDetail" korean="" />
+	<block key="N_04_0_1000_0002_Name" korean="Принцесса оставил записку" />
+	<block key="N_04_0_1000_0002_NameDetail" korean="" />
+	<block key="N_f03_hufmer01_001_Name" korean="Лидия" />
+	<block key="N_f03_hufmer01_001_NameDetail" korean="Зелье Трейдер" />
+	<block key="N_f03_HuMMil_001_Name" korean="Оригинальный Wolf Ranger Рик" />
+	<block key="N_f03_HuMMil_001_NameDetail" korean="Shenron Рыцари" />
+	<block key="N_f03_HuMMil_002_Name" korean="Оригинальный Wolf Ranger Рик" />
+	<block key="N_f03_HuMMil_002_NameDetail" korean="Shenron Рыцари" />
+	<block key="N_f03_MoorTroop_001_Name" korean="Или Ирландия" />
+	<block key="N_f03_MoorTroop_001_NameDetail" korean="Старый-Free странный" />
+	<block key="N_f03_HufFMer02_001_Name" korean="Дженни Другое" />
+	<block key="N_f03_HufFMer02_001_NameDetail" korean="Менеджер Мельница" />
+	<block key="N_F03_HuMMine01_001_Name" korean="Обратите внимание, Дрю" />
+	<block key="N_F03_HuMMine01_001_NameDetail" korean="Рыбак" />
+	<block key="N_f03_HuMMer02_001_Name" korean="Ведущий" />
+	<block key="N_f03_HuMMer02_001_NameDetail" korean="Мэр Сын" />
+	<block key="N_f03_HuMarmE_001_Name" korean="Джейсон Мика" />
+	<block key="N_f03_HuMarmE_001_NameDetail" korean="Наемник" />
+	<block key="N_f03_0_0001_0001_Name" korean="Хиты Леоне" />
+	<block key="N_f03_0_0001_0001_NameDetail" korean="Бесплатный странный Первосвященник" />
+	<block key="N_f03_0_0001_0002_Name" korean="ILA" />
+	<block key="N_f03_0_0001_0002_NameDetail" korean="Бесплатный странный тетя" />
+	<block key="N_f03_0_0001_0003_Name" korean="Лас-" />
+	<block key="N_f03_0_0001_0003_NameDetail" korean="Бесплатный странный предохранитель" />
+	<block key="N_f03_0_0001_0004_Name" korean="Rayira" />
+	<block key="N_f03_0_0001_0004_NameDetail" korean="Бесплатный резак странный" />
+	<block key="N_f03_0_0001_0005_Name" korean="Цай друга" />
+	<block key="N_f03_0_0001_0005_NameDetail" korean="Агура племя воин" />
+	<block key="N_f03_0_0001_0006_Name" korean="Сирены" />
+	<block key="N_f03_0_0001_0006_NameDetail" korean="Русалка Королева" />
+	<block key="N_f03_0_0001_0007_Name" korean="Будет Рон Кайл" />
+	<block key="N_f03_0_0001_0007_NameDetail" korean="Chroma капитан Кун" />
+	<block key="N_f03_0_0001_0008_Name" korean="Mureo Mio" />
+	<block key="N_f03_0_0001_0008_NameDetail" korean="Бесплатный странный молодежи" />
+	<block key="N_f03_0_0001_0009_Name" korean="Линия Ларами" />
+	<block key="N_f03_0_0001_0009_NameDetail" korean="Злой бесплатно Рамми девственница" />
+	<block key="N_f03_0_0001_0010_Name" korean="Санти Высокая" />
+	<block key="N_f03_0_0001_0010_NameDetail" korean="Рыбак" />
+	<block key="N_f03_0_0001_0011_Name" korean="Или Ирландия" />
+	<block key="N_f03_0_0001_0011_NameDetail" korean="Старый-Free странный" />
+	<block key="N_f03_0_0001_0012_Name" korean="Ключ Ita" />
+	<block key="N_f03_0_0001_0012_NameDetail" korean="Агура племя воин" />
+	<block key="N_f03_0_0001_0013_Name" korean="ALICIA" />
+	<block key="N_f03_0_0001_0013_NameDetail" korean="Kuhn Croix Beast Trainer" />
+	<block key="N_f03_0_0001_0014_Name" korean="Мой Массачусетс Яркий" />
+	<block key="N_f03_0_0001_0014_NameDetail" korean="Рыбак" />
+	<block key="N_f03_0_0001_0015_Name" korean="Тор иена Лен Смит" />
+	<block key="N_f03_0_0001_0015_NameDetail" korean="Рыбак" />
+	<block key="N_f03_0_0001_0016_Name" korean="Les Силезия" />
+	<block key="N_f03_0_0001_0016_NameDetail" korean="Странный старик" />
+	<block key="N_f03_0_0001_0018_Name" korean="Гигантский марлин" />
+	<block key="N_f03_0_0001_0018_NameDetail" korean="Санти дорого пойманная рыба" />
+	<block key="N_f03_0_0001_0019_Name" korean="Маурисио бродячих волк" />
+	<block key="N_f03_0_0001_0019_NameDetail" korean="Талисман гостинице" />
+	<block key="N_f03_0_0001_0020_Name" korean="По neoljeu" />
+	<block key="N_f03_0_0001_0020_NameDetail" korean="Солдаты охраняют" />
+	<block key="N_f03_0_0001_0021_Name" korean="Страница" />
+	<block key="N_f03_0_0001_0021_NameDetail" korean="Солдаты охраняют" />
+	<block key="N_f03_0_0001_0022_Name" korean="Главный" />
+	<block key="N_f03_0_0001_0022_NameDetail" korean="Солдаты охраняют" />
+	<block key="N_f03_0_0001_0023_Name" korean="Dewil" />
+	<block key="N_f03_0_0001_0023_NameDetail" korean="Солдаты охраняют" />
+	<block key="N_f03_0_0001_0024_Name" korean="Shenron тамплиеров солдаты" />
+	<block key="N_f03_0_0001_0024_NameDetail" korean="Гарнизон" />
+	<block key="N_f03_0_0001_0025_Name" korean="Рыцари бутылки уход Shenron" />
+	<block key="N_f03_0_0001_0025_NameDetail" korean="Гарнизон" />
+	<block key="N_f03_0_0001_0026_Name" korean="Ясень инструменты" />
+	<block key="N_f03_0_0001_0026_NameDetail" korean="" />
+	<block key="N_f03_0_0001_0027_Name" korean="Рассматриваться" />
+	<block key="N_f03_0_0001_0027_NameDetail" korean="" />
+	<block key="N_f03_0_0001_0028_Name" korean="Серые Инструменты" />
+	<block key="N_f03_0_0001_0028_NameDetail" korean="" />
+	<block key="N_f03_0_0001_0029_Name" korean="Когда директор" />
+	<block key="N_f03_0_0001_0029_NameDetail" korean="Бесплатный резак странный" />
+	<block key="N_f03_0_0001_0030_Name" korean="Когда директор" />
+	<block key="N_f03_0_0001_0030_NameDetail" korean="Бесплатный резак странный" />
+	<block key="N_f03_0_0001_0031_Name" korean="Когда директор" />
+	<block key="N_f03_0_0001_0031_NameDetail" korean="Бесплатный резак странный" />
+	<block key="N_f03_0_0001_0032_Name" korean="Когда директор" />
+	<block key="N_f03_0_0001_0032_NameDetail" korean="Бесплатный резак странный" />
+	<block key="N_f03_0_0001_0033_Name" korean="Мелисса Слейтер" />
+	<block key="N_f03_0_0001_0033_NameDetail" korean="Тайком гарнизон" />
+	<block key="N_f03_0_0001_0034_Name" korean="Мелисса Слейтер" />
+	<block key="N_f03_0_0001_0034_NameDetail" korean="Тайком гарнизон" />
+	<block key="N_f03_0_0001_0035_Name" korean="Бесплатный странный дама в вопросе" />
+	<block key="N_f03_0_0001_0035_NameDetail" korean="" />
+	<block key="N_f03_0_0001_0036_Name" korean="Бесплатный странный дама в вопросе" />
+	<block key="N_f03_0_0001_0036_NameDetail" korean="" />
+	<block key="N_f03_0_0001_0037_Name" korean="Бесплатный странный дама в вопросе" />
+	<block key="N_f03_0_0001_0037_NameDetail" korean="" />
+	<block key="N_f03_0_0001_0038_Name" korean="Бесплатный странный дама в вопросе" />
+	<block key="N_f03_0_0001_0038_NameDetail" korean="" />
+	<block key="N_f03_0_0001_0039_Name" korean="Маурисио волк назад" />
+	<block key="N_f03_0_0001_0039_NameDetail" korean="Талисман гостинице" />
+	<block key="N_f03_0_0001_0040_Name" korean="Айша перо Lane" />
+	<block key="N_f03_0_0001_0040_NameDetail" korean="Мико воды" />
+	<block key="N_f03_0_0001_0041_Name" korean="Айша перо Lane" />
+	<block key="N_f03_0_0001_0041_NameDetail" korean="Любители Рондо" />
+	<block key="N_f03_0_0001_0042_Name" korean="Одомашненных это Кале" />
+	<block key="N_f03_0_0001_0042_NameDetail" korean="Сотрудник шин хана" />
+	<block key="N_f03_HuFsol_002_Name" korean="Commando" />
+	<block key="N_f03_HuFsol_002_NameDetail" korean="Shenron Рыцари" />
+	<block key="N_f03_0_0001_0044_Name" korean="Древний Череп Капитан" />
+	<block key="N_f03_0_0001_0044_NameDetail" korean="" />
+	<block key="N_f03_0_0001_0045_Name" korean="Одомашненный Blue Wolf" />
+	<block key="N_f03_0_0001_0045_NameDetail" korean="Сотрудник объектива" />
+	<block key="N_f03_0_0001_0054_Name" korean="Линия Ларами" />
+	<block key="N_f03_0_0001_0054_NameDetail" korean="Бесплатный странный девственница" />
+	<block key="N_04_0_0221_9999_Name" korean="Эластин" />
+	<block key="N_04_0_0221_9999_NameDetail" korean="" />
+	<block key="N_f05_HuMsol_001_Name" korean="Аль Гёчек сельские охранники" />
+	<block key="N_f05_HuMsol_001_NameDetail" korean="" />
+	<block key="N_f05_HuFsol_001_Name" korean="Commando" />
+	<block key="N_f05_HuFsol_001_NameDetail" korean="Shenron Рыцари" />
+	<block key="N_f05_hufkep_001_Name" korean="Большой веревка" />
+	<block key="N_f05_hufkep_001_NameDetail" korean="Врачи белые" />
+	<block key="N_f05_HuMDmag_001_Name" korean="Ciel-х" />
+	<block key="N_f05_HuMDmag_001_NameDetail" korean="Перемещение компания портал" />
+	<block key="N_f05_HuFMer01_001_Name" korean="София" />
+	<block key="N_f05_HuFMer01_001_NameDetail" korean="Купцы питания" />
+	<block key="N_f05_HuFMer02_001_Name" korean="Адриан" />
+	<block key="N_f05_HuFMer02_001_NameDetail" korean="Зелье Трейдер" />
+	<block key="N_f05_HuMMer03_001_Name" korean="Паулу" />
+	<block key="N_f05_HuMMer03_001_NameDetail" korean="Галантерейщик" />
+	<block key="N_f05_HuFSmi01_001_Name" korean="Hiyam" />
+	<block key="N_f05_HuFSmi01_001_NameDetail" korean="Оружие дилер" />
+	<block key="N_f05_HuMMer02_001_Name" korean="Риос" />
+	<block key="N_f05_HuMMer02_001_NameDetail" korean="Доспехами" />
+	<block key="N_f05_HuMMil02_001_Name" korean="Blanco" />
+	<block key="N_f05_HuMMil02_001_NameDetail" korean="Зверь тренер" />
+	<block key="N_f05_hufkep_002_Name" korean="Эдвард" />
+	<block key="N_f05_hufkep_002_NameDetail" korean="Врачи белые" />
+	<block key="N_f05_HuMDmag_002_Name" korean="На Yadi" />
+	<block key="N_f05_HuMDmag_002_NameDetail" korean="Перемещение компания портал" />
+	<block key="N_f05_HuFMer01_002_Name" korean="Марина" />
+	<block key="N_f05_HuFMer01_002_NameDetail" korean="Купцы питания" />
+	<block key="N_f05_HuFMer02_002_Name" korean="Карл Лена" />
+	<block key="N_f05_HuFMer02_002_NameDetail" korean="Зелье Трейдер" />
+	<block key="N_f05_HuMMer03_002_Name" korean="Фу yoreu" />
+	<block key="N_f05_HuMMer03_002_NameDetail" korean="Галантерейщик" />
+	<block key="N_f05_HuMMer01_002_Name" korean="Sage Ross" />
+	<block key="N_f05_HuMMer01_002_NameDetail" korean="Оружие дилер" />
+	<block key="N_f05_HuMMer02_002_Name" korean="Нож" />
+	<block key="N_f05_HuMMer02_002_NameDetail" korean="Доспехами" />
+	<block key="N_f05_HuMMil02_002_Name" korean="Робин" />
+	<block key="N_f05_HuMMil02_002_NameDetail" korean="Зверь тренер" />
+	<block key="N_f05_HuMPri03_001_Name" korean="Гашиш" />
+	<block key="N_f05_HuMPri03_001_NameDetail" korean="Алхимик" />
+	<block key="N_f05_HuMPri03_002_Name" korean="Зак Манн" />
+	<block key="N_f05_HuMPri03_002_NameDetail" korean="Алхимик" />
+	<block key="N_f05_HuMsol_002_Name" korean="Кертис" />
+	<block key="N_f05_HuMsol_002_NameDetail" korean="Капитан" />
+	<block key="N_f05_HuFSha01_001_Name" korean="Елена" />
+	<block key="N_f05_HuFSha01_001_NameDetail" korean="Shadow Clan" />
+	<block key="N_f05_HuMCrow_001_Name" korean="Кроу" />
+	<block key="N_f05_HuMCrow_001_NameDetail" korean="Лидер Shadow Clan" />
+	<block key="N_f05_BragCape_001_Name" korean="Утечки" />
+	<block key="N_f05_BragCape_001_NameDetail" korean="Блуждающие Brage" />
+	<block key="N_f05_HuFMis01_001_Name" korean="Девушка потеряла память" />
+	<block key="N_f05_HuFMis01_001_NameDetail" korean="" />
+	<block key="N_f05_HuMFar01_001_Name" korean="Кендрик" />
+	<block key="N_f05_HuMFar01_001_NameDetail" korean="" />
+	<block key="N_f05_hufkep_003_Name" korean="Феликс" />
+	<block key="N_f05_hufkep_003_NameDetail" korean="Врачи белые" />
+	<block key="N_f05_HuMDmag_003_Name" korean="Максимум" />
+	<block key="N_f05_HuMDmag_003_NameDetail" korean="Перемещение компания портал" />
+	<block key="N_f05_KrokBowma_001_Name" korean="Bata Рог" />
+	<block key="N_f05_KrokBowma_001_NameDetail" korean="Купцы питания" />
+	<block key="N_f05_KrokEngee_001_Name" korean="Выполнено запись" />
+	<block key="N_f05_KrokEngee_001_NameDetail" korean="Зелье Трейдер" />
+	<block key="N_f05_KrokBowma_002_Name" korean="Выполнено три" />
+	<block key="N_f05_KrokBowma_002_NameDetail" korean="Галантерейщик" />
+	<block key="N_f05_KrokEngee_002_Name" korean="Санта-я" />
+	<block key="N_f05_KrokEngee_002_NameDetail" korean="Оружие дилер" />
+	<block key="N_f05_KrokPries_001_Name" korean="Масса Рог" />
+	<block key="N_f05_KrokPries_001_NameDetail" korean="Доспехами" />
+	<block key="N_f05_HuMMil02_003_Name" korean="Кабрера" />
+	<block key="N_f05_HuMMil02_003_NameDetail" korean="Зверь тренер" />
+	<block key="N_f05_HuMCap_001_Name" korean="Капитан Радость немного" />
+	<block key="N_f05_HuMCap_001_NameDetail" korean="Orca море Озеро сотрудник капитан" />
+	<block key="N_f05_HuMOld_001_Name" korean="Бартоло" />
+	<block key="N_f05_HuMOld_001_NameDetail" korean="Аль Gocek мэр города" />
+	<block key="N_f05_HuMMer_001_Name" korean="Марк Барр" />
+	<block key="N_f05_HuMMer_001_NameDetail" korean="Шеф-повар" />
+	<block key="N_f05_KrokEngee_003_Name" korean="Den на" />
+	<block key="N_f05_KrokEngee_003_NameDetail" korean="Croix Kuhn архитекторы" />
+	<block key="N_f05_HuMMil_001_Name" korean="Ева Раха" />
+	<block key="N_f05_HuMMil_001_NameDetail" korean="Расходы экипажа" />
+	<block key="N_f05_HuMSmi03_002_Name" korean="О гидроксид" />
+	<block key="N_f05_HuMSmi03_002_NameDetail" korean="Архитекторы" />
+	<block key="N_f05_HuMMCrew_001_Name" korean="У знак" />
+	<block key="N_f05_HuMMCrew_001_NameDetail" korean="Храни начальником штаба" />
+	<block key="N_f05_HuMMac01_001_Name" korean="Мадрас" />
+	<block key="N_f05_HuMMac01_001_NameDetail" korean="Gold Mine Генеральный директор" />
+	<block key="N_f05_HuFmerc01_001_Name" korean="Самира" />
+	<block key="N_f05_HuFmerc01_001_NameDetail" korean="Расходы экипажа" />
+	<block key="N_f05_HuMMil_002_Name" korean="Питанием платы" />
+	<block key="N_f05_HuMMil_002_NameDetail" korean="Расходы экипажа" />
+	<block key="N_f05_HuMMil_003_Name" korean="Maham де" />
+	<block key="N_f05_HuMMil_003_NameDetail" korean="Расходы экипажа" />
+	<block key="N_f05_HuFMer01_004_Name" korean="Rayira" />
+	<block key="N_f05_HuFMer01_004_NameDetail" korean="Шахтеры" />
+	<block key="N_f05_HuMGuy01_001_Name" korean="О латунь" />
+	<block key="N_f05_HuMGuy01_001_NameDetail" korean="Шахтеры в золотодобывающей транспорта" />
+	<block key="N_f05_HuFMer01_003_Name" korean="Ганеша" />
+	<block key="N_f05_HuFMer01_003_NameDetail" korean="Доспехами" />
+	<block key="N_f05_ElfmGuy01_001_Name" korean="Masereu" />
+	<block key="N_f05_ElfmGuy01_001_NameDetail" korean="Путешественник" />
+	<block key="N_f05_HuFMer02_003_Name" korean="Илья" />
+	<block key="N_f05_HuFMer02_003_NameDetail" korean="Зелье Трейдер" />
+	<block key="N_f05_HuMMil02_004_Name" korean="Грэхем" />
+	<block key="N_f05_HuMMil02_004_NameDetail" korean="Зверь тренер" />
+	<block key="N_f05_HuMMer04_001_Name" korean="Бард" />
+	<block key="N_f05_HuMMer04_001_NameDetail" korean="" />
+	<block key="N_f05_HuMPri03_003_Name" korean="Кардан" />
+	<block key="N_f05_HuMPri03_003_NameDetail" korean="Ученики Hasisi" />
+	<block key="N_f05_HuFLine01_001_Name" korean="Пресс" />
+	<block key="N_f05_HuFLine01_001_NameDetail" korean="Самоучка мастер" />
+	<block key="N_f05_KrokEngee_004_Name" korean="Право Родос" />
+	<block key="N_f05_KrokEngee_004_NameDetail" korean="Kuhn Круа шахтеров" />
+	<block key="N_f05_HuFPub01_001_Name" korean="Naza Евреям" />
+	<block key="N_f05_HuFPub01_001_NameDetail" korean="Грифон Рыцарь-командор" />
+	<block key="N_f05_HuMarme02_001_Name" korean="Baheuri" />
+	<block key="N_f05_HuMarme02_001_NameDetail" korean="Золотые Пики старший председатель" />
+	<block key="N_f05_HuMKni03_001_Name" korean="Rex гель" />
+	<block key="N_f05_HuMKni03_001_NameDetail" korean="Кандидаты статье Gryphon" />
+	<block key="N_f05_HuMKni03_002_Name" korean="Di Май" />
+	<block key="N_f05_HuMKni03_002_NameDetail" korean="Статья Gryphon" />
+	<block key="N_f05_HuFEli01_001_Name" korean="Бен Ляо" />
+	<block key="N_f05_HuFEli01_001_NameDetail" korean="Статья Gryphon" />
+	<block key="N_f05_HuMEli01_001_Name" korean="Карбоновые Ламу" />
+	<block key="N_f05_HuMEli01_001_NameDetail" korean="Рыцари Griffon инструктор" />
+	<block key="N_f05_HuFKni01_001_Name" korean="Лу yaheu" />
+	<block key="N_f05_HuFKni01_001_NameDetail" korean="Рыцари Griffon Персонал" />
+	<block key="N_f05_HuFOld01_001_Name" korean="Niagara alpon" />
+	<block key="N_f05_HuFOld01_001_NameDetail" korean="Золотые Пики шеф-повар" />
+	<block key="N_f05_HuFMer02_004_Name" korean="Retina Болькен" />
+	<block key="N_f05_HuFMer02_004_NameDetail" korean="Отшельник представитель город" />
+	<block key="N_f05_HuMMil02_005_Name" korean="Эндерл Ale" />
+	<block key="N_f05_HuMMil02_005_NameDetail" korean="Статья Escort Пророк" />
+	<block key="N_f05_HuMTmag_001_Name" korean="Примеры кишки" />
+	<block key="N_f05_HuMTmag_001_NameDetail" korean="Затворник мастер" />
+	<block key="N_f05_HuMsol01_001_Name" korean="Гаага" />
+	<block key="N_f05_HuMsol01_001_NameDetail" korean="Статьи Фермеры" />
+	<block key="N_f05_KrokEngee_005_Name" korean="Naza Rune" />
+	<block key="N_f05_KrokEngee_005_NameDetail" korean="Kuhn Croix кузнец" />
+	<block key="N_f05_KrokShama_001_Name" korean="Я есть" />
+	<block key="N_f05_KrokShama_001_NameDetail" korean="Kuhn Croix Шаман" />
+	<block key="N_f05_HuFSol01._001_Name" korean="Лари" />
+	<block key="N_f05_HuFSol01._001_NameDetail" korean="Статья Отшельник" />
+	<block key="N_f05_HuFLine01_002_Name" korean="Старший мастер Ли Нетаньяху" />
+	<block key="N_f05_HuFLine01_002_NameDetail" korean="Мастер Истины" />
+	<block key="N_f05_potal_001_Name" korean="Вернуться защищены" />
+	<block key="N_f05_potal_001_NameDetail" korean="" />
+	<block key="N_f03_HuFsol_003_Name" korean="Commando" />
+	<block key="N_f03_HuFsol_003_NameDetail" korean="Shenron Рыцари" />
+	<block key="N_f03_LeopSnow_001_Name" korean="Одомашненный тигр снег" />
+	<block key="N_f03_LeopSnow_001_NameDetail" korean="Сотрудник Camero" />
+	<block key="N_D03_0_0000_0001_Name" korean="Avenue дерево" />
+	<block key="N_D03_0_0000_0001_NameDetail" korean="Бесплатный странный исследователь" />
+	<block key="N_D03_0_0000_0002_Name" korean="Ли Sergio" />
+	<block key="N_D03_0_0000_0002_NameDetail" korean="Бесплатный странный медсестра" />
+	<block key="N_f03_HuMMer_001_Name" korean="Эллен" />
+	<block key="N_f03_HuMMer_001_NameDetail" korean="" />
+	<block key="N_f03_HuMMer_002_Name" korean="Клейтон" />
+	<block key="N_f03_HuMMer_002_NameDetail" korean="" />
+	<block key="N_f03_HuMMer_003_Name" korean="Караван что" />
+	<block key="N_f03_HuMMer_003_NameDetail" korean="" />
+	<block key="N_f03_HuMMac_001_Name" korean="Bareuseu" />
+	<block key="N_f03_HuMMac_001_NameDetail" korean="" />
+	<block key="N_f03_HuMarmE_002_Name" korean="Джаред" />
+	<block key="N_f03_HuMarmE_002_NameDetail" korean="" />
+	<block key="N_f03_HuMOld_001_Name" korean="Ронни" />
+	<block key="N_f03_HuMOld_001_NameDetail" korean="" />
+	<block key="N_f03_HuFOld_001_Name" korean="Мурин" />
+	<block key="N_f03_HuFOld_001_NameDetail" korean="" />
+	<block key="N_f03_HuMGuy_001_Name" korean="Робинсон" />
+	<block key="N_f03_HuMGuy_001_NameDetail" korean="" />
+	<block key="N_f03_HuFMis_001_Name" korean="Джессика" />
+	<block key="N_f03_HuFMis_001_NameDetail" korean="" />
+	<block key="N_f03_HuFMid_001_Name" korean="Дженнифер" />
+	<block key="N_f03_HuFMid_001_NameDetail" korean="" />
+	<block key="N_f03_HuFFar_001_Name" korean="Tia" />
+	<block key="N_f03_HuFFar_001_NameDetail" korean="" />
+	<block key="N_f03_HuMGuy_002_Name" korean="Бассейн Timber" />
+	<block key="N_f03_HuMGuy_002_NameDetail" korean="" />
+	<block key="N_f03_RondEarlS1_001_Name" korean="Рондо Terra munseu" />
+	<block key="N_f03_RondEarlS1_001_NameDetail" korean="" />
+	<block key="N_f03_HuMMer05_007_Name" korean="Джим Мороз" />
+	<block key="N_f03_HuMMer05_007_NameDetail" korean="Купцы питания" />
+	<block key="N_f03_HuMMer05_008_Name" korean="Nate AIME клеток" />
+	<block key="N_f03_HuMMer05_008_NameDetail" korean="Купцы питания" />
+	<block key="N_f03_HuMMer05_009_Name" korean="Ясень инструменты" />
+	<block key="N_f03_HuMMer05_009_NameDetail" korean="Купцы питания" />
+	<block key="N_f03_HuMMer05_010_Name" korean="Джо Брэндон" />
+	<block key="N_f03_HuMMer05_010_NameDetail" korean="Купцы питания" />
+	<block key="N_f03_HuFMer01_004_Name" korean="Эмиль низкий вам" />
+	<block key="N_f03_HuFMer01_004_NameDetail" korean="Сумки, пищевые торговцы" />
+	<block key="N_f03_HuMSmi02_003_Name" korean="Ричард Мейер" />
+	<block key="N_f03_HuMSmi02_003_NameDetail" korean="Оружие, доспехи купец" />
+	<block key="N_f03_BearBrown_0045_Name" korean="Одомашненный медведь гризли" />
+	<block key="N_f03_BearBrown_0045_NameDetail" korean="Он арендовал сотрудник" />
+	<block key="N_f03_CarmBarub_001_Name" korean="Капитан Дейв Джонсон" />
+	<block key="N_f03_CarmBarub_001_NameDetail" korean="Древний призрак" />
+	<block key="N_f03_SkulBlaso_001_Name" korean="Corsair Боцман" />
+	<block key="N_f03_SkulBlaso_001_NameDetail" korean="Древние скелеты" />
+	<block key="N_f03_SkulBlarc_001_Name" korean="Пираты шутер" />
+	<block key="N_f03_SkulBlarc_001_NameDetail" korean="Древние скелеты" />
+	<block key="N_04_0_0033_0006_Name" korean="Яблоко" />
+	<block key="N_04_0_0033_0006_NameDetail" korean="Врачи белые" />
+	<block key="N_f03_MoorBowma_002_Name" korean="Русалка Элиш" />
+	<block key="N_f03_MoorBowma_002_NameDetail" korean="" />
+	<block key="N_f03_MoorBowma_003_Name" korean="Русалка Tama остальные" />
+	<block key="N_f03_MoorBowma_003_NameDetail" korean="" />
+	<block key="N_f03_MoorBowma_004_Name" korean="Лен Кутюр Русалка" />
+	<block key="N_f03_MoorBowma_004_NameDetail" korean="" />
+	<block key="N_f03_MoorBowma_005_Name" korean="Русалка Марсия Аллен" />
+	<block key="N_f03_MoorBowma_005_NameDetail" korean="" />
+	<block key="N_D02_HuMSaran_001_Name" korean="Саран агент" />
+	<block key="N_D02_HuMSaran_001_NameDetail" korean="" />
+	<block key="N_f03_0_0001_0046_Name" korean="Коу медленно" />
+	<block key="N_f03_0_0001_0046_NameDetail" korean="Высокая Мастер" />
+	<block key="N_f03_0_0001_0047_Name" korean="La шапочка ваниль" />
+	<block key="N_f03_0_0001_0047_NameDetail" korean="Crescent сверху" />
+	<block key="N_f03_0_0001_0048_Name" korean="La шапочка ваниль" />
+	<block key="N_f03_0_0001_0048_NameDetail" korean="Crescent сверху" />
+	<block key="N_f03_0_0001_0049_Name" korean="Морской" />
+	<block key="N_f03_0_0001_0049_NameDetail" korean="Shadow Информация о клане только" />
+	<block key="N_f03_0_0001_0050_Name" korean="За" />
+	<block key="N_f03_0_0001_0050_NameDetail" korean="Shadow Clan" />
+	<block key="N_f03_0_0001_0051_Name" korean="La шапочка ваниль" />
+	<block key="N_f03_0_0001_0051_NameDetail" korean="Crescent сверху" />
+	<block key="N_f03_0_0001_0052_Name" korean="La шапочка ваниль" />
+	<block key="N_f03_0_0001_0052_NameDetail" korean="Crescent сверху" />
+	<block key="N_f03_0_0001_0053_Name" korean="La шапочка ваниль" />
+	<block key="N_f03_0_0001_0053_NameDetail" korean="Crescent сверху" />
+	<block key="N_54_0_0002_0001_Name" korean="Kepley Певица" />
+	<block key="N_54_0_0002_0001_NameDetail" korean="Предложения Лаедана" />
+	<block key="N_D04_hufisha_g_001_Name" korean="Айша перо Lane" />
+	<block key="N_D04_hufisha_g_001_NameDetail" korean="" />
+	<block key="N_f03_HuMMer_004_Name" korean="Эй-де-" />
+	<block key="N_f03_HuMMer_004_NameDetail" korean="Деревня Торговцы" />
+	<block key="N_f03_HuMMer_005_Name" korean="Джастин" />
+	<block key="N_f03_HuMMer_005_NameDetail" korean="Сельские работники" />
+	<block key="N_f03_HuMMer_006_Name" korean="Дэвид" />
+	<block key="N_f03_HuMMer_006_NameDetail" korean="Сельской молодежи" />
+	<block key="N_f03_HuMMac_002_Name" korean="Лукас" />
+	<block key="N_f03_HuMMac_002_NameDetail" korean="Разносчик" />
+	<block key="N_f03_HuMarmE_003_Name" korean="Кендрик" />
+	<block key="N_f03_HuMarmE_003_NameDetail" korean="Сельской молодежи" />
+	<block key="N_f03_HuMOld_002_Name" korean="Ван обзор моделей" />
+	<block key="N_f03_HuMOld_002_NameDetail" korean="Город дед" />
+	<block key="N_f03_HuFOld_002_Name" korean="Карин" />
+	<block key="N_f03_HuFOld_002_NameDetail" korean="Город бабушка" />
+	<block key="N_f03_HuMGuy_004_Name" korean="Райан" />
+	<block key="N_f03_HuMGuy_004_NameDetail" korean="Сельской молодежи" />
+	<block key="N_f03_HuFMis_002_Name" korean="Мина" />
+	<block key="N_f03_HuFMis_002_NameDetail" korean="Деревенская девушка" />
+	<block key="N_f03_HuFMid_002_Name" korean="Екатерина" />
+	<block key="N_f03_HuFMid_002_NameDetail" korean="Город тетя" />
+	<block key="N_f03_HuFFar_002_Name" korean="Tiffany" />
+	<block key="N_f03_HuFFar_002_NameDetail" korean="" />
+	<block key="N_f03_HuMGuy_003_Name" korean="Брэндон" />
+	<block key="N_f03_HuMGuy_003_NameDetail" korean="" />
+	<block key="N_f03_Board_0001_Name" korean="Миссия Совет" />
+	<block key="N_f03_Board_0001_NameDetail" korean="" />
+	<block key="N_f03_Board_0002_Name" korean="Миссия Совет" />
+	<block key="N_f03_Board_0002_NameDetail" korean="" />
+	<block key="N_f02_Board_0001_Name" korean="Миссия Совет" />
+	<block key="N_f02_Board_0001_NameDetail" korean="" />
+	<block key="N_f02_Board_0002_Name" korean="Миссия Совет" />
+	<block key="N_f02_Board_0002_NameDetail" korean="" />
+	<block key="N_c01_Board_0001_Name" korean="Миссия Совет" />
+	<block key="N_c01_Board_0001_NameDetail" korean="" />
+	<block key="N_f04_Board_0001_Name" korean="Миссия Совет" />
+	<block key="N_f04_Board_0001_NameDetail" korean="" />
+	<block key="N_f04_Board_0002_Name" korean="Миссия Совет" />
+	<block key="N_f04_Board_0002_NameDetail" korean="" />
+	<block key="N_f05_Board_0001_Name" korean="Миссия Совет" />
+	<block key="N_f05_Board_0001_NameDetail" korean="" />
+	<block key="N_f05_Board_0002_Name" korean="Миссия Совет" />
+	<block key="N_f05_Board_0002_NameDetail" korean="" />
+	<block key="N_f05_Board_0003_Name" korean="Миссия Совет" />
+	<block key="N_f05_Board_0003_NameDetail" korean="" />
+	<block key="N_c01_humsol_001_Name" korean="Гарет Bain" />
+	<block key="N_c01_humsol_001_NameDetail" korean="Королевская гвардия" />
+	<block key="N_f02_0_0001_0047_Name" korean="Винни ро-ла-ла" />
+	<block key="N_f02_0_0001_0047_NameDetail" korean="Захваченные La шапочка" />
+	<block key="N_f03_Board_0003_Name" korean="Миссия Совет" />
+	<block key="N_f03_Board_0003_NameDetail" korean="" />
+	<block key="N_f05_HuMGuy01_002_Name" korean="О латунь" />
+	<block key="N_f05_HuMGuy01_002_NameDetail" korean="Шахтеры в золотодобывающей транспорта" />
+	<block key="N_f05_HuMMer_002_Name" korean="Эрхарт" />
+	<block key="N_f05_HuMMer_002_NameDetail" korean="Летчик" />
+	<block key="N_f05_YFireBird_001_Name" korean="Ветер Рог" />
+	<block key="N_f05_YFireBird_001_NameDetail" korean="Сотрудник Эрхарт" />
+	<block key="N_f05_Whale_001_Name" korean="Гигантского плавучего кит" />
+	<block key="N_f05_Whale_001_NameDetail" korean="" />
+	<block key="N_f05_HuMMCrew_002_Name" korean="У знак" />
+	<block key="N_f05_HuMMCrew_002_NameDetail" korean="Храни начальником штаба" />
+	<block key="N_f05_HuFMis_001_Name" korean="Cyr Евреям" />
+	<block key="N_f05_HuFMis_001_NameDetail" korean="" />
+	<block key="N_f05_HuFMis_002_Name" korean="Yusei" />
+	<block key="N_f05_HuFMis_002_NameDetail" korean="Девушка находит память" />
+	<block key="N_f05_HuMMer_003_Name" korean="Линдберг" />
+	<block key="N_f05_HuMMer_003_NameDetail" korean="Летчик" />
+	<block key="N_f05_HuMMer_004_Name" korean="Чарльз" />
+	<block key="N_f05_HuMMer_004_NameDetail" korean="Летчик" />
+	<block key="N_f05_HuMMer_005_Name" korean="Карл" />
+	<block key="N_f05_HuMMer_005_NameDetail" korean="Летчик" />
+	<block key="N_f05_HuMMCrew_003_Name" korean="У знак" />
+	<block key="N_f05_HuMMCrew_003_NameDetail" korean="Храни начальником штаба" />
+	<block key="N_f05_HuFKni01_002_Name" korean="Ян Кана" />
+	<block key="N_f05_HuFKni01_002_NameDetail" korean="Рыцари Griffon Персонал" />
+	<block key="N_f05_HuMMer_006_Name" korean="Арам" />
+	<block key="N_f05_HuMMer_006_NameDetail" korean="Охотник за сокровищами" />
+	<block key="N_f05_KrokEngeer_001_Name" korean="Шины Хан" />
+	<block key="N_f05_KrokEngeer_001_NameDetail" korean="" />
+	<block key="N_f03_dummy_001_Name" korean="Шины Хан Оборудование для карьеров" />
+	<block key="N_f03_dummy_001_NameDetail" korean="" />
+	<block key="N_f02_dummy_001_Name" korean="Сжигание дров" />
+	<block key="N_f02_dummy_001_NameDetail" korean="" />
+	<block key="N_c01_HuFSol01_006_Name" korean="La Крошечный" />
+	<block key="N_c01_HuFSol01_006_NameDetail" korean="Солдаты также секс" />
+	<block key="n_f03_hufline01_001_Name" korean="Eseuka" />
+	<block key="n_f03_hufline01_001_NameDetail" korean="Мастер Escort" />
+	<block key="N_f03_KrokEngee_001_Name" korean="Корова Руна" />
+	<block key="N_f03_KrokEngee_001_NameDetail" korean="Kuhn Круа охранники" />
+	<block key="N_f03_KrokEngee_002_Name" korean="Гора развод" />
+	<block key="N_f03_KrokEngee_002_NameDetail" korean="Kuhn Круа шахтеров" />
+	<block key="N_f03_KrokBowma_001_Name" korean="Могу Ли Я" />
+	<block key="N_f03_KrokBowma_001_NameDetail" korean="Kuhn Круа шахтеров" />
+	<block key="N_f03_HuFMer01_002_Name" korean="Синди" />
+	<block key="N_f03_HuFMer01_002_NameDetail" korean="Человека гвардии" />
+	<block key="N_f03_HuMGuy01_001_Name" korean="Цена" />
+	<block key="N_f03_HuMGuy01_001_NameDetail" korean="Шахтеры" />
+	<block key="N_f03_HuMGuy01_002_Name" korean="Марков" />
+	<block key="N_f03_HuMGuy01_002_NameDetail" korean="Шахтеры" />
+	<block key="N_f03_rabinis1_001_Name" korean="Винни La Corona" />
+	<block key="N_f03_rabinis1_001_NameDetail" korean="Crescent сверху" />
+	<block key="N_f03_HuMMac01_001_Name" korean="Дроны" />
+	<block key="N_f03_HuMMac01_001_NameDetail" korean="Шахтеры капитан" />
+	<block key="N_f03_HuMGuy01_003_Name" korean="Фильтр" />
+	<block key="N_f03_HuMGuy01_003_NameDetail" korean="Шахтеры" />
+	<block key="N_f03_HuFMer01_005_Name" korean="Только нагрузка" />
+	<block key="N_f03_HuFMer01_005_NameDetail" korean="Шахтеры" />
+	<block key="N_f03_HuFMer01_003_Name" korean="Лиза" />
+	<block key="N_f03_HuFMer01_003_NameDetail" korean="Шахтеры" />
+	<block key="N_f03_Krokdoct_001_Name" korean="Tropez и" />
+	<block key="N_f03_Krokdoct_001_NameDetail" korean="Представитель ремесленник Kuhn Croix" />
+	<block key="N_f03_KrokEngee_003_Name" korean="Карбоновые Рог" />
+	<block key="N_f03_KrokEngee_003_NameDetail" korean="Kuhn Круа мастера" />
+	<block key="N_f03_KrokEngee_004_Name" korean="LA развод" />
+	<block key="N_f03_KrokEngee_004_NameDetail" korean="Kuhn Круа мастера" />
+	<block key="N_f03_KrokBowma_002_Name" korean="Мария Я" />
+	<block key="N_f03_KrokBowma_002_NameDetail" korean="Kuhn Круа мастера" />
+	<block key="N_f03_KrokBowma_003_Name" korean="Mori я" />
+	<block key="N_f03_KrokBowma_003_NameDetail" korean="Kuhn Круа шахтеров" />
+	<block key="N_f02_HuMDmag_001_Name" korean="У Кано" />
+	<block key="N_f02_HuMDmag_001_NameDetail" korean="Алхимия Artisan" />
+	<block key="N_02_HuMMer05_001_Name" korean="Мэтт Джесс" />
+	<block key="N_02_HuMMer05_001_NameDetail" korean="Шеф-повар" />
+	<block key="N_f02_HuMSmi02_001_Name" korean="Рамирес" />
+	<block key="N_f02_HuMSmi02_001_NameDetail" korean="Сотрудник Мастер" />
+	<block key="N_f03_MuruFMerB_001_Name" korean="Следуйте Лен Русалка" />
+	<block key="N_f03_MuruFMerB_001_NameDetail" korean="Фрейлина" />
+	<block key="N_f03_MuruFMerB_002_Name" korean="Русалка Кармела остальные" />
+	<block key="N_f03_MuruFMerB_002_NameDetail" korean="Фрейлина" />
+	<block key="n_f03_0_0001_0055_Name" korean="Линия Ларами" />
+	<block key="n_f03_0_0001_0055_NameDetail" korean="Бесплатный странный девственница" />
+	<block key="N_f03_HuMSmi_001_Name" korean="Tod" />
+	<block key="N_f03_HuMSmi_001_NameDetail" korean="Неорганические материалы, купец" />
+	<block key="N_f03_HuMSmi_002_Name" korean="Торин" />
+	<block key="N_f03_HuMSmi_002_NameDetail" korean="Материал брони купец" />
+	<block key="N_f03_HuMarmE_004_Name" korean="Роджерс" />
+	<block key="N_f03_HuMarmE_004_NameDetail" korean="Приготовление ингредиентов купец" />
+	<block key="N_f03_HuMDmag_001_Name" korean="Баннер" />
+	<block key="N_f03_HuMDmag_001_NameDetail" korean="Алхимия материалы купец" />
+	<block key="N_f03_HuFFar_003_Name" korean="Наташа" />
+	<block key="N_f03_HuFFar_003_NameDetail" korean="Ювелирные материалы купец" />
+	<block key="N_f03_HuMMer_007_Name" korean="Ник" />
+	<block key="N_f03_HuMMer_007_NameDetail" korean="Попутчики материалы купец" />
+	<block key="N_f02_HuMSmi_001_Name" korean="Мюррей" />
+	<block key="N_f02_HuMSmi_001_NameDetail" korean="Оружие Техник-технолог" />
+	<block key="N_f02_HuMSmi_002_Name" korean="Каноэ" />
+	<block key="N_f02_HuMSmi_002_NameDetail" korean="Броннику техник" />
+	<block key="N_f02_HuFFar_001_Name" korean="Сенна" />
+	<block key="N_f02_HuFFar_001_NameDetail" korean="Ювелирное производство техник" />
+	<block key="N_f04_HuMSmi_001_Name" korean="Джером" />
+	<block key="N_f04_HuMSmi_001_NameDetail" korean="Оружие Техник-технолог" />
+	<block key="N_f04_HuMSmi_002_Name" korean="Терри" />
+	<block key="N_f04_HuMSmi_002_NameDetail" korean="Броннику техник" />
+	<block key="N_f04_HuMarmE_004_Name" korean="Роберт" />
+	<block key="N_f04_HuMarmE_004_NameDetail" korean="Кулинария мастерство" />
+	<block key="N_f04_HuMDmag_003_Name" korean="Гарсия" />
+	<block key="N_f04_HuMDmag_003_NameDetail" korean="Алхимия Artisan" />
+	<block key="N_f04_HuFFar_003_Name" korean="Дженни" />
+	<block key="N_f04_HuFFar_003_NameDetail" korean="Ювелирное производство техник" />
+	<block key="N_f04_HuMMer_007_Name" korean="Хлоя" />
+	<block key="N_f04_HuMMer_007_NameDetail" korean="Сотрудник Мастер" />
+	<block key="N_f05_HuMSmi_001_Name" korean="Другие, менее" />
+	<block key="N_f05_HuMSmi_001_NameDetail" korean="Оружие Техник-технолог" />
+	<block key="N_f05_HuMSmi_002_Name" korean="Бройля" />
+	<block key="N_f05_HuMSmi_002_NameDetail" korean="Броннику техник" />
+	<block key="N_f05_HuMarmE_004_Name" korean="Энди" />
+	<block key="N_f05_HuMarmE_004_NameDetail" korean="Кулинария мастерство" />
+	<block key="N_f05_HuMDmag_004_Name" korean="Джеки" />
+	<block key="N_f05_HuMDmag_004_NameDetail" korean="Алхимия Artisan" />
+	<block key="N_f05_HuFFar_003_Name" korean="Нина" />
+	<block key="N_f05_HuFFar_003_NameDetail" korean="Ювелирное производство техник" />
+	<block key="N_f05_HuMMer_007_Name" korean="Reseuneo" />
+	<block key="N_f05_HuMMer_007_NameDetail" korean="Сотрудник Мастер" />
+	<block key="N_f05_hufmis01_002_Name" korean="Мария" />
+	<block key="N_f05_hufmis01_002_NameDetail" korean="Паломник" />
+	<block key="N_f05_HuMGuy02_001_Name" korean="Серый" />
+	<block key="N_f05_HuMGuy02_001_NameDetail" korean="Выращивание пшеницы работники" />
+	<block key="N_f05_HuMGuy02_002_Name" korean="Марк" />
+	<block key="N_f05_HuMGuy02_002_NameDetail" korean="Выращивание пшеницы работники" />
+	<block key="N_f05_HuFSol01_001_Name" korean="Аль Гёчек сельские охранники" />
+	<block key="N_f05_HuFSol01_001_NameDetail" korean="" />
+	<block key="N_f05_HuMSol01_002_Name" korean="Аль Гёчек сельские охранники" />
+	<block key="N_f05_HuMSol01_002_NameDetail" korean="" />
+	<block key="N_f05_HuFOld01_002_Name" korean="Дороти" />
+	<block key="N_f05_HuFOld01_002_NameDetail" korean="" />
+	<block key="N_f05_HuMOld01_001_Name" korean="Мартин" />
+	<block key="N_f05_HuMOld01_001_NameDetail" korean="" />
+	<block key="N_f05_HuMFar01_002_Name" korean="Марко" />
+	<block key="N_f05_HuMFar01_002_NameDetail" korean="" />
+	<block key="N_f05_HuMFar02_001_Name" korean="Я Герман" />
+	<block key="N_f05_HuMFar02_001_NameDetail" korean="Ученики Hasisi" />
+	<block key="N_f05_HuMMil02_006_Name" korean="Бесплатный Лас-" />
+	<block key="N_f05_HuMMil02_006_NameDetail" korean="" />
+	<block key="N_f05_HuMMer01_001_Name" korean="Franck" />
+	<block key="N_f05_HuMMer01_001_NameDetail" korean="" />
+	<block key="N_f05_HuMMid01_001_Name" korean="Торрес" />
+	<block key="N_f05_HuMMid01_001_NameDetail" korean="" />
+	<block key="N_f05_HuFMer02_005_Name" korean="Сьюзен" />
+	<block key="N_f05_HuFMer02_005_NameDetail" korean="" />
+	<block key="N_f05_HuFMid01_001_Name" korean="Жанна" />
+	<block key="N_f05_HuFMid01_001_NameDetail" korean="" />
+	<block key="N_f05_HuFPub02_001_Name" korean="Микель" />
+	<block key="N_f05_HuFPub02_001_NameDetail" korean="" />
+	<block key="N_f05_HuFFar01_005_Name" korean="Вы" />
+	<block key="N_f05_HuFFar01_005_NameDetail" korean="" />
+	<block key="N_f03_board_0004_Name" korean="Миссия Совет" />
+	<block key="N_f03_board_0004_NameDetail" korean="" />
+	<block key="N_c01_RabMer01_001_Name" korean="La Luna El шапочка" />
+	<block key="N_c01_RabMer01_001_NameDetail" korean="Elounda купец" />
+	<block key="N_f02_HuMPri03_001_Name" korean="Уэйн Найт" />
+	<block key="N_f02_HuMPri03_001_NameDetail" korean="Врачи белые" />
+	<block key="N_F01_RabMer01_001_Name" korean="La шапочка El Руни" />
+	<block key="N_F01_RabMer01_001_NameDetail" korean="Elounda купец" />
+	<block key="N_F02_RabMer01_001_Name" korean="Oh La Винни Эль Руми" />
+	<block key="N_F02_RabMer01_001_NameDetail" korean="Elounda купец" />
+	<block key="N_F03_RabMer01_001_Name" korean="La шапочка El rurin" />
+	<block key="N_F03_RabMer01_001_NameDetail" korean="Elounda купец" />
+	<block key="N_F04_RabMer01_001_Name" korean="La шапочка El Lura" />
+	<block key="N_F04_RabMer01_001_NameDetail" korean="Elounda купец" />
+	<block key="N_C01_hufauct01_001_Name" korean="Маделейн" />
+	<block key="N_C01_hufauct01_001_NameDetail" korean="Канас и оператор монета" />
+	<block key="N_c01_HuMGuy02_001_Name" korean="Жители деревни заразу" />
+	<block key="N_c01_HuMGuy02_001_NameDetail" korean="" />
+	<block key="N_c01_HuMGuy02_002_Name" korean="Жители деревни заразу" />
+	<block key="N_c01_HuMGuy02_002_NameDetail" korean="" />
+	<block key="N_c01_HuFSol01_001_Name" korean="Водный замок гвардии" />
+	<block key="N_c01_HuFSol01_001_NameDetail" korean="" />
+	<block key="N_c01_HuMSol01_002_Name" korean="Храни заразу" />
+	<block key="N_c01_HuMSol01_002_NameDetail" korean="" />
+	<block key="N_c01_HuMsol_002_Name" korean="Водный замок гвардии" />
+	<block key="N_c01_HuMsol_002_NameDetail" korean="" />
+	<block key="n_f01_HuMCrew_001_Name" korean="Обновление лыжи" />
+	<block key="n_f01_HuMCrew_001_NameDetail" korean="Мастер Отправка" />
+	<block key="N_D03_0_0000_0003_Name" korean="Пансион" />
+	<block key="N_D03_0_0000_0003_NameDetail" korean="Ученик мастера" />
+	<block key="N_04_0_0001_0048_Name" korean="Tri-кишка" />
+	<block key="N_04_0_0001_0048_NameDetail" korean="Катастрофа безопасности Целевая группа Colon" />
+	<block key="N_04_0_0001_0049_Name" korean="Грубер" />
+	<block key="N_04_0_0001_0049_NameDetail" korean="Шахтеры" />
+	<block key="N_04_0_0001_0050_Name" korean="Мое" />
+	<block key="N_04_0_0001_0050_NameDetail" korean="Шахтеры" />
+	<block key="N_f03_0_0001_0056_Name" korean="Морской" />
+	<block key="N_f03_0_0001_0056_NameDetail" korean="Shadow Информация о клане только" />
+	<block key="N_f03_HuMMer02_002_Name" korean="Ведущий" />
+	<block key="N_f03_HuMMer02_002_NameDetail" korean="Мэр Сын" />
+	<block key="N_f03_0_0001_0057_Name" korean="Одомашненных это Кале" />
+	<block key="N_f03_0_0001_0057_NameDetail" korean="Будет Рон стипендиатов Кайл" />
+	<block key="N_f03_0_0001_0058_Name" korean="Одомашненных это Кале" />
+	<block key="N_f03_0_0001_0058_NameDetail" korean="Член Инженерной Gracia" />
+	<block key="N_f03_0_0001_0059_Name" korean="La шапочка ваниль" />
+	<block key="N_f03_0_0001_0059_NameDetail" korean="Crescent сверху" />
+	<block key="N_f03_0_0001_0060_Name" korean="Rex блок" />
+	<block key="N_f03_0_0001_0060_NameDetail" korean="Оружие Техник-технолог" />
+	<block key="N_f03_0_0001_0061_Name" korean="Валик" />
+	<block key="N_f03_0_0001_0061_NameDetail" korean="Броннику техник" />
+	<block key="N_f03_0_0001_0062_Name" korean="Тай торрент" />
+	<block key="N_f03_0_0001_0062_NameDetail" korean="Другими исследователями" />
+	<block key="N_f03_0_0001_0063_Name" korean="Mate и Роб Рубин" />
+	<block key="N_f03_0_0001_0063_NameDetail" korean="Ювелирное производство техник" />
+	<block key="n_c01_FanaDevco_001_Name" korean="Мастер Dreamland" />
+	<block key="n_c01_FanaDevco_001_NameDetail" korean="" />
+	<block key="N_c01_hufline_001_Name" korean="Serratia" />
+	<block key="N_c01_hufline_001_NameDetail" korean="Лев Эллоры" />
+</blocks>

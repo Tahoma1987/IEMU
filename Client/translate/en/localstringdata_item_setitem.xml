@@ -1,0 +1,196 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Setall31_Name" korean="Руины устанавливается в темно-" />
+	<block key="Setgd22_Name" korean="Покровитель Королевской гвардии Набор" />
+	<block key="Setwr23_Name" korean="Широкий набор королевской гвардии" />
+	<block key="Settf24_Name" korean="Тень набор королевской гвардии" />
+	<block key="Setwz25_Name" korean="Элемент набор Королевской гвардии" />
+	<block key="Setpr26_Name" korean="Набор убеждений Королевской гвардии" />
+	<block key="Setgd37_Name" korean="Хранитель набор пылающие руины" />
+	<block key="Setwr38_Name" korean="Широкий набор пылающие руины" />
+	<block key="Settf39_Name" korean="Тень набор горящих руин" />
+	<block key="Setwz310_Name" korean="Элемент набор пылающие руины" />
+	<block key="Setpr311_Name" korean="Набор убеждений горящих руин" />
+	<block key="Setall312_Name" korean="Набор Vampire" />
+	<block key="Setgd313_Name" korean="Наборы опекун проклятой семьи" />
+	<block key="Setwr314_Name" korean="Широкий набор проклятой семьи" />
+	<block key="Settf315_Name" korean="Тень набор проклятой семьи" />
+	<block key="Setwz316_Name" korean="Элемент набор проклятой семьи" />
+	<block key="Setpr317_Name" korean="Набор убеждений проклял семьи" />
+	<block key="Setgd318_Name" korean="Не защищайте набор замороженных teulren" />
+	<block key="Setwr319_Name" korean="Широкий набор замороженных Do teulren" />
+	<block key="Settf320_Name" korean="Тень набор замороженных Do teulren" />
+	<block key="Setwz321_Name" korean="Элемент набор замороженных делать teulren" />
+	<block key="Setpr322_Name" korean="Сделайте набор убеждений замороженных teulren" />
+	<block key="pvpSetgd2528_Name" korean="Младшие охотники" />
+	<block key="pvpSetwr2528_Name" korean="Младшие охотники" />
+	<block key="pvpSettf2528_Name" korean="Младшие охотники" />
+	<block key="pvpSetwz2528_Name" korean="Младшие охотники" />
+	<block key="pvpSetpr2528_Name" korean="Младшие охотники" />
+	<block key="pvpSetgd3033_Name" korean="Промежуточные охотники" />
+	<block key="pvpSetwr3033_Name" korean="Промежуточные охотники" />
+	<block key="pvpSettf3033_Name" korean="Промежуточные охотники" />
+	<block key="pvpSetwz3033_Name" korean="Промежуточные охотники" />
+	<block key="pvpSetpr3033_Name" korean="Промежуточные охотники" />
+	<block key="pvpSetgd3538_Name" korean="Старший набор охотника" />
+	<block key="pvpSetwr3538_Name" korean="Старший набор охотника" />
+	<block key="pvpSettf3538_Name" korean="Старший набор охотника" />
+	<block key="pvpSetwz3538_Name" korean="Старший набор охотника" />
+	<block key="pvpSetpr3538_Name" korean="Старший набор охотника" />
+	<block key="pvpSetgd4564_Name" korean="Малый набор Slayer" />
+	<block key="pvpSetwr4564_Name" korean="Малый набор Slayer" />
+	<block key="pvpSettf4564_Name" korean="Малый набор Slayer" />
+	<block key="pvpSetwz4564_Name" korean="Малый набор Slayer" />
+	<block key="pvpSetpr4564_Name" korean="Малый набор Slayer" />
+	<block key="pvpSetgd5069_Name" korean="Промежуточный Slayer установить" />
+	<block key="pvpSetwr5069_Name" korean="Промежуточный Slayer установить" />
+	<block key="pvpSettf5069_Name" korean="Промежуточный Slayer установить" />
+	<block key="pvpSetwz5069_Name" korean="Промежуточный Slayer установить" />
+	<block key="pvpSetpr5069_Name" korean="Промежуточный Slayer установить" />
+	<block key="pvpSetall4564_Name" korean="Малый комплект ювелирных изделий Slayer" />
+	<block key="pvpSetall5069_Name" korean="Промежуточный Slayer комплект ювелирных изделий" />
+	<block key="setgd3301_Name" korean="Набор упал последователи" />
+	<block key="setwr3301_Name" korean="Набор упал последователи" />
+	<block key="settf3301_Name" korean="Набор упал последователи" />
+	<block key="setwz3301_Name" korean="Набор упал последователи" />
+	<block key="setpr3301_Name" korean="Набор упал последователи" />
+	<block key="setgd3501_Name" korean="Ice бригадный генерал мрачно набор" />
+	<block key="setwr3501_Name" korean="Ice бригадный генерал мрачно набор" />
+	<block key="settf3501_Name" korean="Ice бригадный генерал мрачно набор" />
+	<block key="setwz3501_Name" korean="Ice бригадный генерал мрачно набор" />
+	<block key="setpr3501_Name" korean="Ice бригадный генерал мрачно набор" />
+	<block key="setall3401_Name" korean="Дебби хотел набор" />
+	<block key="setall2501_Name" korean="Yatai миллионов комплектов" />
+	<block key="setall4001_Name" korean="Заполните Сета" />
+	<block key="pvpSetall3148_Name" korean="Джек Хантер: набор" />
+	<block key="pvpSetall3350_Name" korean="Клее набор ключей" />
+	<block key="pvpSetall3552_Name" korean="Кошмар Set" />
+	<block key="pvpSetall3855_Name" korean="Рууд пирог набор террора" />
+	<block key="pvpSetall4259_Name" korean="По Гаррет устанавливает пропасть" />
+	<block key="pvpSetall4562_Name" korean="Меган тестовый набор Кошмаров" />
+	<block key="setall2013_Name" korean="Достопримечательности подожгли проглотил Аксессуары" />
+	<block key="setall2018_Name" korean="Карл Reang особняк украшения набор" />
+	<block key="setall2023_Name" korean="Замороженные руины комплект ювелирных изделий" />
+	<block key="setall3031_Name" korean="Комплект ювелирных изделий с висмута" />
+	<block key="setgd3031_Name" korean="Хранитель набор Фоссе или" />
+	<block key="setwr3031_Name" korean="Широкий набор Фоссе или" />
+	<block key="settf3031_Name" korean="Тени набор Фоссе или" />
+	<block key="setwz3031_Name" korean="Фосс или набор элементов" />
+	<block key="setpr3031_Name" korean="Фосс или набор убеждений" />
+	<block key="setall3032_Name" korean="Ву украшения набор из Слайго" />
+	<block key="ev_set06181_Name" korean="Тайцзи Гуд" />
+	<block key="ev_set06182_Name" korean="Cheer Красная головная повязка" />
+	<block key="ev_set06183_Name" korean="Красный набор eungwonbok" />
+	<block key="setall3541_Name" korean="Набор принадлежностей из жестокой судьбы" />
+	<block key="setgd4001_Name" korean="Хранитель набор Верховный главнокомандующий" />
+	<block key="setwr4001_Name" korean="Широкий набор Верховный главнокомандующий" />
+	<block key="settf4001_Name" korean="Тени набор Верховный главнокомандующий" />
+	<block key="setwz4001_Name" korean="Элемент набора Верховный главнокомандующий" />
+	<block key="setpr4001_Name" korean="Набор убеждений Верховный главнокомандующий" />
+	<block key="setall3542_Name" korean="Набор принадлежностей из Пардо и ветеранов" />
+	<block key="setgd4002_Name" korean="Верховный главнокомандующий Пресвятой набора Гардиан" />
+	<block key="setwr4002_Name" korean="Широкий набор Пресвятой Верховный главнокомандующий" />
+	<block key="settf4002_Name" korean="Верховный главнокомандующий Пресвятой теневой набор" />
+	<block key="setwz4002_Name" korean="Набор элементов Пресвятой Верховный главнокомандующий" />
+	<block key="setpr4002_Name" korean="Верховный главнокомандующий Пресвятой набор убеждений" />
+	<block key="setall3543_Name" korean="Набор принадлежностей Колосса" />
+	<block key="setall4002_Name" korean="Воздушное пространство Protector Set" />
+	<block key="setall4003_Name" korean="Боевой дух украшения набор воздушного пространства" />
+	<block key="setall4004_Name" korean="Аксессуары множество блестящих лидера" />
+	<block key="setgd4011_Name" korean="Я защищаю набор блестящих лидера" />
+	<block key="setgd4012_Name" korean="Хранитель множество блестящих лидера II" />
+	<block key="setgd4013_Name" korean="Хранитель множество блестящих лидера III" />
+	<block key="setwr4011_Name" korean="Широкий набор блестящих лидера I" />
+	<block key="setwr4012_Name" korean="Широкий набор блестящих лидера II" />
+	<block key="setwr4013_Name" korean="Широкий набор блестящих лидера III" />
+	<block key="settf4011_Name" korean="Тень множество блестящих лидера I" />
+	<block key="settf4012_Name" korean="Тени множество блестящих лидера II" />
+	<block key="settf4013_Name" korean="Тени множество блестящих лидера III" />
+	<block key="setwz4011_Name" korean="Элемент множество блестящих лидера I" />
+	<block key="setwz4012_Name" korean="Элемент множество блестящих лидера II" />
+	<block key="setwz4013_Name" korean="Элемент множество блестящих лидера III" />
+	<block key="setpr4011_Name" korean="Осуждение множество блестящих лидера I" />
+	<block key="setpr4012_Name" korean="Осуждение множество блестящих лидера II" />
+	<block key="setpr4013_Name" korean="Осуждение множество блестящих лидера III" />
+	<block key="setgd4021_Name" korean="Хранитель набор Кара-шаха" />
+	<block key="setwr4021_Name" korean="Широкий набор Кара-шаха" />
+	<block key="settf4021_Name" korean="Тени набор Кара-шаха" />
+	<block key="setwz4021_Name" korean="Набор элементов Кара-шаха" />
+	<block key="setpr4021_Name" korean="Кара набор убеждений Шах" />
+	<block key="setall4021_Name" korean="Набор принадлежностей Кара-шаха" />
+	<block key="fq_set2_0001_Name" korean="Сотрудник отличным набором Shenron" />
+	<block key="fq_set3_0001_Name" korean="Сотрудник редко набор Shenron" />
+	<block key="fq_set2_0002_Name" korean="Попутчики наборы отличном настроении" />
+	<block key="fq_set3_0002_Name" korean="Сотрудник набор редких духов" />
+	<block key="fq_set2_0003_Name" korean="Попутчики наборы отличный сторож" />
+	<block key="fq_set3_0003_Name" korean="Сотрудник редко набор SU" />
+	<block key="fq_set2_0004_Name" korean="Сотрудник отличным набором благ" />
+	<block key="fq_set3_0004_Name" korean="Сотрудник набор редких благословения" />
+	<block key="fq_set2_0005_Name" korean="Сотрудник отличный набор проклятий" />
+	<block key="fq_set3_0005_Name" korean="Сотрудник редко набор проклятий" />
+	<block key="fq_set2_0006_Name" korean="Попутчики младших охотники" />
+	<block key="fq_set2_0007_Name" korean="Промежуточные поддерживающие охотники" />
+	<block key="fq_set2_0008_Name" korean="Старшие охотники Попутчики установить" />
+	<block key="fq_set2_0009_Name" korean="Младший научный сотрудник Slayer установить" />
+	<block key="fq_set2_1009_Name" korean="Промежуточный сотрудник Slayer установить" />
+	<block key="fq_set2_0010_Name" korean="Отлично набор священного сотрудник" />
+	<block key="fq_set3_0006_Name" korean="Редкий набор священного сотрудник" />
+	<block key="fq_set2_0011_Name" korean="Попутчики наборы специального cheongma" />
+	<block key="fq_set3_0007_Name" korean="Попутчики наборы Пресвятой cheongma" />
+	<block key="fq_set3_0008_Name" korean="Попутчики наборы Харлан Новости" />
+	<block key="fq_set2_0012_Name" korean="Elite парень рыцари набор" />
+	<block key="fq_set2_0013_Name" korean="Сотрудник отличным набором Кошмаров" />
+	<block key="fq_set3_0009_Name" korean="Сотрудник редко набор Кошмаров" />
+	<block key="fq_set4_0001_Name" korean="Попутчики наборы благородной кошмар" />
+	<block key="fq_set4_0002_Name" korean="Ворон похож на благородного набора товарища" />
+	<block key="setall4005_Name" korean="Singong ряда расширенных" />
+	<block key="setall4006_Name" korean="Singong набор продавцов" />
+	<block key="setall4007_Name" korean="Singong набор тренеров" />
+	<block key="setgd4014_Name" korean="Набор Хранитель богатства одежды" />
+	<block key="setgd4015_Name" korean="Установите покровителя изобилие" />
+	<block key="setgd4016_Name" korean="Набор палочек покровителем ручных" />
+	<block key="setwr4014_Name" korean="Набор широкого богатства одежды" />
+	<block key="setwr4015_Name" korean="Широкий набор достатка" />
+	<block key="setwr4016_Name" korean="Широкий набор приручения палки" />
+	<block key="settf4014_Name" korean="Установите в теневой богатства одежды" />
+	<block key="settf4015_Name" korean="Установите в теневой изобилии" />
+	<block key="settf4016_Name" korean="Придерживаться ряда теневой ручными" />
+	<block key="setwz4014_Name" korean="Набор элементов князи одежду" />
+	<block key="setwz4015_Name" korean="Набор элементарной изобилия" />
+	<block key="setwz4016_Name" korean="Набор элементов для укрощения палочки" />
+	<block key="setpr4014_Name" korean="Набор убеждений богатства одежды" />
+	<block key="setpr4015_Name" korean="Набор убеждений изобилии" />
+	<block key="setpr4016_Name" korean="Придерживайтесь набор убеждений ручных" />
+	<block key="setgd5001_Name" korean="Тень Хранитель бригадный генерал набор" />
+	<block key="setwr5001_Name" korean="Широкий набор темно бригадного генерала" />
+	<block key="settf5001_Name" korean="Тени набор бригадного генерала" />
+	<block key="setwz5001_Name" korean="Набор элементов темного бригадного генерала" />
+	<block key="setpr5001_Name" korean="Набор убеждений Dark бригадного генерала" />
+	<block key="fq_set6_0001_Name" korean="Опыт установлен в пустыне" />
+	<block key="fq_set6_0002_Name" korean="Опыт исключительное множество пустыне" />
+	<block key="fq_set6_0003_Name" korean="Мученики опыт набора" />
+	<block key="fq_set6_0004_Name" korean="Опыт набор Шарки Bar" />
+	<block key="fq_set6_0005_Name" korean="Опыт установлен в пустыне" />
+	<block key="fq_set6_0006_Name" korean="Опыт исключительное множество пустыне" />
+	<block key="fq_set6_0007_Name" korean="Мученики опыт набора" />
+	<block key="fq_set6_0008_Name" korean="Опыт набор Шарки Bar" />
+	<block key="setgd5002_Name" korean="Хранитель бригадный генерал тьма наборы Блажен" />
+	<block key="setwr5002_Name" korean="Широкий набор благ Dark бригадного генерала" />
+	<block key="settf5002_Name" korean="Блаженны темная тень набор бригадного генерала" />
+	<block key="setwz5002_Name" korean="Набор элементов Пресвятой Тьмы бригадного генерала" />
+	<block key="setpr5002_Name" korean="Набор убеждений благословил тьмы бригадного генерала" />
+	<block key="setall4008_Name" korean="Singong набор кузнеца" />
+	<block key="setall4009_Name" korean="Раджа битом" />
+	<block key="setall4010_Name" korean="Касим набор" />
+	<block key="setall4011_Name" korean="Ксеноновые набор" />
+	<block key="setall4012_Name" korean="Падин установить бесплатно" />
+	<block key="setall4013_Name" korean="Расположенный в древней" />
+	<block key="setall4014_Name" korean="Набор принадлежностей пустынных воинов" />
+	<block key="setallXMAS_Name" korean="Рождественские украшения набор" />
+</blocks>

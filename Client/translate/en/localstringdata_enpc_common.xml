@@ -1,0 +1,515 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="E_01_0_0245_0000_Name" korean="Лев" />
+	<block key="E_01_0_0245_0000_NameDetail" korean="" />
+	<block key="E_00_0_0686_0000_Name" korean="Орел" />
+	<block key="E_00_0_0686_0000_NameDetail" korean="" />
+	<block key="E_00_0_0083_0000_Name" korean="Медведь" />
+	<block key="E_00_0_0083_0000_NameDetail" korean="" />
+	<block key="E_00_0_0602_0000_Name" korean="Brage Scout" />
+	<block key="E_00_0_0602_0000_NameDetail" korean="" />
+	<block key="E_00_0_0704_0000_Name" korean="Для шторм" />
+	<block key="E_00_0_0704_0000_NameDetail" korean="" />
+	<block key="E_00_0_0245_0000_Name" korean="Лев" />
+	<block key="E_00_0_0245_0000_NameDetail" korean="" />
+	<block key="E_00_0_0605_0000_Name" korean="Brage грабежи воинов (видео)" />
+	<block key="E_00_0_0605_0000_NameDetail" korean="" />
+	<block key="E_00_0_1100_0000_Name" korean="Мастер Dark Первосвященника (видео)" />
+	<block key="E_00_0_1100_0000_NameDetail" korean="" />
+	<block key="E_99_0_1501_0000_Name" korean="Лев Света" />
+	<block key="E_99_0_1501_0000_NameDetail" korean="" />
+	<block key="E_99_0_0644_0000_Name" korean="Жнец" />
+	<block key="E_99_0_0644_0000_NameDetail" korean="" />
+	<block key="E_99_0_0003_0000_Name" korean="Кара-де-Pirate Swashbuckler" />
+	<block key="E_99_0_0003_0000_NameDetail" korean="" />
+	<block key="E_99_0_0002_0000_Name" korean="Кара-де-Pirate Нападение бутылка" />
+	<block key="E_99_0_0002_0000_NameDetail" korean="" />
+	<block key="E_99_0_0004_0000_Name" korean="Джейсон классы Key" />
+	<block key="E_99_0_0004_0000_NameDetail" korean="Cara-де-Pirate" />
+	<block key="E_99_0_0007_0000_Name" korean="Черный Огненное дыхание" />
+	<block key="E_99_0_0007_0000_NameDetail" korean="Для шторм" />
+	<block key="E_99_0_0011_0000_Name" korean="Насильственные боке нить" />
+	<block key="E_99_0_0011_0000_NameDetail" korean="" />
+	<block key="E_99_0_0006_0000_Name" korean="Кара-де-пират матрос" />
+	<block key="E_99_0_0006_0000_NameDetail" korean="" />
+	<block key="E_99_0_0008_0000_Name" korean="Кара-де-Pirate yeonrakbyeong" />
+	<block key="E_99_0_0008_0000_NameDetail" korean="" />
+	<block key="E_99_0_0005_0000_Name" korean="Зара безжалостным Дин" />
+	<block key="E_99_0_0005_0000_NameDetail" korean="Cara-де-Pirate" />
+	<block key="E_99_0_0009_0000_Name" korean="Огнекрылов" />
+	<block key="E_99_0_0009_0000_NameDetail" korean="Для шторм" />
+	<block key="E_99_0_0010_0000_Name" korean="Dark maryong Кара Шах" />
+	<block key="E_99_0_0010_0000_NameDetail" korean="Саран секретный агент," />
+	<block key="E_99_0_0014_0000_Name" korean="Кара-де-Pirate Нападение бутылка" />
+	<block key="E_99_0_0014_0000_NameDetail" korean="" />
+	<block key="E_99_0_0012_0000_Name" korean="Cara-де-пират фехтовальщик" />
+	<block key="E_99_0_0012_0000_NameDetail" korean="" />
+	<block key="E_03_0_1300_0001_Name" korean="Waterfront Кара De Pirate" />
+	<block key="E_03_0_1300_0001_NameDetail" korean="" />
+	<block key="E_03_0_0003_0000_Name" korean="Безжалостные висмута" />
+	<block key="E_03_0_0003_0000_NameDetail" korean="Pirate Captain висмута" />
+	<block key="E_99_0_0008_0001_Name" korean="Кара-де-Pirate yeonrakbyeong" />
+	<block key="E_99_0_0008_0001_NameDetail" korean="" />
+	<block key="E_99_0_0008_0002_Name" korean="Кара-де-Pirate yeonrakbyeong" />
+	<block key="E_99_0_0008_0002_NameDetail" korean="" />
+	<block key="e_f04_DragAster_001_Name" korean="Flo-уровня" />
+	<block key="e_f04_DragAster_001_NameDetail" korean="" />
+	<block key="e_f04_DragBonwy_001_Name" korean="Темная Черная баре Dragon ET" />
+	<block key="e_f04_DragBonwy_001_NameDetail" korean="" />
+	<block key="e_f04_DragAster_002_Name" korean="Привет-Bird" />
+	<block key="e_f04_DragAster_002_NameDetail" korean="" />
+	<block key="e_f04_ImmoSoldi_001_Name" korean="Бессмертные воины Легиона" />
+	<block key="e_f04_ImmoSoldi_001_NameDetail" korean="" />
+	<block key="e_f04_Dimp_001_Name" korean="Бессмертный Легион Imp" />
+	<block key="e_f04_Dimp_001_NameDetail" korean="" />
+	<block key="e_f04_DragCaras_002_Name" korean="Надеясь лезвие кошмар" />
+	<block key="e_f04_DragCaras_002_NameDetail" korean="" />
+	<block key="e_f04_DragAgnas_001_Name" korean="Кишар" />
+	<block key="e_f04_DragAgnas_001_NameDetail" korean="" />
+	<block key="e_f04_FishFloat_001_Name" korean="Когда парши" />
+	<block key="e_f04_FishFloat_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoHopli_001_Name" korean="Бессмертный бутылка Легион-лейтенант" />
+	<block key="e_f04_ImmoHopli_001_NameDetail" korean="" />
+	<block key="e_f04_FishFloat_002_Name" korean="Когда парши" />
+	<block key="e_f04_FishFloat_002_NameDetail" korean="" />
+	<block key="e_f04_DragCaras_005_Name" korean="Лодка монстр" />
+	<block key="e_f04_DragCaras_005_NameDetail" korean="" />
+	<block key="e_f04_DragRasha_001_Name" korean="Гром Броня новый" />
+	<block key="e_f04_DragRasha_001_NameDetail" korean="" />
+	<block key="e_f04_FlyRay_001_Name" korean="Разрушение заполнения Хищника" />
+	<block key="e_f04_FlyRay_001_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0001_Name" korean="Старые окна" />
+	<block key="a00_CM_rooting_0001_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0002_Name" korean="Старые окна" />
+	<block key="a00_CM_rooting_0002_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0003_Name" korean="Старые карманные" />
+	<block key="a00_CM_rooting_0003_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0004_Name" korean="Расширенный карман" />
+	<block key="a00_CM_rooting_0004_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0005_Name" korean="Богатый старый мешок" />
+	<block key="a00_CM_rooting_0005_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0006_Name" korean="Расширенный богатых карман" />
+	<block key="a00_CM_rooting_0006_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0007_Name" korean="Роскошные коробки" />
+	<block key="a00_CM_rooting_0007_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0008_Name" korean="Премиум богатых карман" />
+	<block key="a00_CM_rooting_0008_NameDetail" korean="" />
+	<block key="a00_CM_rooting_0009_Name" korean="Премиум окно" />
+	<block key="a00_CM_rooting_0009_NameDetail" korean="" />
+	<block key="e_f04_ImmoKnigh_001_Name" korean="Бессмертные статьи Легион" />
+	<block key="e_f04_ImmoKnigh_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoUranu_001_Name" korean="Бессмертный Легион wooranuseu" />
+	<block key="e_f04_ImmoUranu_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoGorak_001_Name" korean="Бессмертный Легион Зубная Горак" />
+	<block key="e_f04_ImmoGorak_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoTeran_001_Name" korean="Бессмертный Легион Terra Taunus" />
+	<block key="e_f04_ImmoTeran_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoToomb_001_Name" korean="Бессмертные Легион Три сестры" />
+	<block key="e_f04_ImmoToomb_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoImpsu_001_Name" korean="Бессмертный Легион Горгулья Summoner" />
+	<block key="e_f04_ImmoImpsu_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoMagi_001_Name" korean="Бессмертный Легион Шаман" />
+	<block key="e_f04_ImmoMagi_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoLilis_001_Name" korean="Бессмертный Легион Лилит" />
+	<block key="e_f04_ImmoLilis_001_NameDetail" korean="" />
+	<block key="E_f04_zelna_001_Name" korean="Гель сила сильного Naris" />
+	<block key="E_f04_zelna_001_NameDetail" korean="" />
+	<block key="E_f04_zelna_002_Name" korean="Сила слабых гель Naris" />
+	<block key="E_f04_zelna_002_NameDetail" korean="" />
+	<block key="E_05_0_0001_0000_Name" korean="Храм Горгулья" />
+	<block key="E_05_0_0001_0000_NameDetail" korean="" />
+	<block key="E_05_0_0002_0000_Name" korean="Obsidian Гаргульи" />
+	<block key="E_05_0_0002_0000_NameDetail" korean="" />
+	<block key="E_05_0_0003_0000_Name" korean="Рок горгульи" />
+	<block key="E_05_0_0003_0000_NameDetail" korean="" />
+	<block key="E_f04_SoulStone_001_Name" korean="Бессмертный Легион телепортируйтесь" />
+	<block key="E_f04_SoulStone_001_NameDetail" korean="" />
+	<block key="e_f04_ImmoKnigh_002_Name" korean="Бессмертные статьи Легион" />
+	<block key="e_f04_ImmoKnigh_002_NameDetail" korean="" />
+	<block key="e_f04_ImmoMagi_002_Name" korean="Бессмертный Легион Шаман" />
+	<block key="e_f04_ImmoMagi_002_NameDetail" korean="" />
+	<block key="e_f04_magic_door_001_Name" korean="Магический шар бессмертия" />
+	<block key="e_f04_magic_door_001_NameDetail" korean="" />
+	<block key="SO_TEST_1_0066_Name" korean="Ву jeume черная дыра" />
+	<block key="SO_TEST_1_0066_NameDetail" korean="" />
+	<block key="E_D07_AmonDos_001_Name" korean="Темнота Цусима купить ах приводом DOS" />
+	<block key="E_D07_AmonDos_001_NameDetail" korean="" />
+	<block key="E_D07_GoleHogmu_001_Name" korean="Hog дверь для лидера рейда Кутна" />
+	<block key="E_D07_GoleHogmu_001_NameDetail" korean="" />
+	<block key="E_D07_GoleAncgu_001_Name" korean="Shell Голем гниль Болезнь" />
+	<block key="E_D07_GoleAncgu_001_NameDetail" korean="" />
+	<block key="E_D07_GoleComrot_001_Name" korean="Голем коррупция Сноубординг" />
+	<block key="E_D07_GoleComrot_001_NameDetail" korean="" />
+	<block key="E_D07_GoleRot_001_Name" korean="Не самоуничтожения коррупция Голем" />
+	<block key="E_D07_GoleRot_001_NameDetail" korean="" />
+	<block key="E_D07_GagoTampl_01_Name" korean="Клинок кости Горгулья" />
+	<block key="E_D07_GagoTampl_01_NameDetail" korean="" />
+	<block key="E_D07_DragCaras_001_Name" korean="Cara vs. темно maryong Шах" />
+	<block key="E_D07_DragCaras_001_NameDetail" korean="" />
+	<block key="E_D07_FanaDawiz_001_Name" korean="Некромант Тьмы" />
+	<block key="E_D07_FanaDawiz_001_NameDetail" korean="" />
+	<block key="E_D07_LightBug_001_Name" korean="Люминесцентные насекомые" />
+	<block key="E_D07_LightBug_001_NameDetail" korean="" />
+	<block key="E_D07_BurdGole_001_Name" korean="Транспорт Голем Zeppelin" />
+	<block key="E_D07_BurdGole_001_NameDetail" korean="" />
+	<block key="E_D07_BugsBurbo_001_Name" korean="Хищники тело beobo" />
+	<block key="E_D07_BugsBurbo_001_NameDetail" korean="" />
+	<block key="E_D07_RadaEyes_001_Name" korean="Тотем темной магии глаз" />
+	<block key="E_D07_RadaEyes_001_NameDetail" korean="" />
+	<block key="E_D07_LightBug_002_Name" korean="Люминесцентные насекомые" />
+	<block key="E_D07_LightBug_002_NameDetail" korean="" />
+	<block key="E_D07_GagoTampl_02_Name" korean="Клинок кости Горгулья" />
+	<block key="E_D07_GagoTampl_02_NameDetail" korean="" />
+	<block key="E_D07_GoleRot_002_Name" korean="Не самоуничтожения коррупция Голем" />
+	<block key="E_D07_GoleRot_002_NameDetail" korean="" />
+	<block key="E_F09_TtanTran_001_Name" korean="Если вы хотите Тра Noir" />
+	<block key="E_F09_TtanTran_001_NameDetail" korean="" />
+	<block key="E_F09_TtanYataDC_001_Name" korean="Только Колосс Yatai" />
+	<block key="E_F09_TtanYataDC_001_NameDetail" korean="" />
+	<block key="E_C01_ChaoDawiz0_001_Name" korean="Темный Маг" />
+	<block key="E_C01_ChaoDawiz0_001_NameDetail" korean="" />
+	<block key="E_C01_ImmoKnigh_001_Name" korean="Бессмертный Демон Рыцарь" />
+	<block key="E_C01_ImmoKnigh_001_NameDetail" korean="" />
+	<block key="E_C01_ImmoSoldi_001_Name" korean="Бессмертный демон" />
+	<block key="E_C01_ImmoSoldi_001_NameDetail" korean="" />
+	<block key="E_C01_ImmoLilis_001_Name" korean="Лена" />
+	<block key="E_C01_ImmoLilis_001_NameDetail" korean="" />
+	<block key="E_C01_HuMsol_0001_Name" korean="Отступник солдаты" />
+	<block key="E_C01_HuMsol_0001_NameDetail" korean="" />
+	<block key="E_C01_FanaDevco_0001_Name" korean="Кобб Мастер Im" />
+	<block key="E_C01_FanaDevco_0001_NameDetail" korean="" />
+	<block key="E_C01_CabeShura_0001_Name" korean="Главнокомандующий Рассел" />
+	<block key="E_C01_CabeShura_0001_NameDetail" korean="" />
+	<block key="E_C01_FanaDevco_001_Name" korean="Кобб Мастер аренду" />
+	<block key="E_C01_FanaDevco_001_NameDetail" korean="" />
+	<block key="E_C01_FanaDevco_002_Name" korean="Кобб Мастер аренду" />
+	<block key="E_C01_FanaDevco_002_NameDetail" korean="" />
+	<block key="E_02_0_Yataball_0001_Name" korean="Daechon Инструменты" />
+	<block key="E_02_0_Yataball_0001_NameDetail" korean="" />
+	<block key="E_02_0_Yataball_0002_Name" korean="Ткань Инструменты" />
+	<block key="E_02_0_Yataball_0002_NameDetail" korean="" />
+	<block key="e_p01_bonedrag_0001_Name" korean="По Garret" />
+	<block key="e_p01_bonedrag_0001_NameDetail" korean="Тень Луны Легенда" />
+	<block key="E_P01_SkulKnight_01_Name" korean="Ли Найт осмотр" />
+	<block key="E_P01_SkulKnight_01_NameDetail" korean="Укрепление скелет только" />
+	<block key="E_p01_CarmDeck_02_Name" korean="Правящий матрос" />
+	<block key="E_p01_CarmDeck_02_NameDetail" korean="Элитные Пираты" />
+	<block key="E_p01_CarmWatch_02_Name" korean="Правящий Сторожевая башня бутылка" />
+	<block key="E_p01_CarmWatch_02_NameDetail" korean="Элитные Пираты" />
+	<block key="E_p01_CarmTreas_02_Name" korean="Правящий Гардиан" />
+	<block key="E_p01_CarmTreas_02_NameDetail" korean="Элитные Пираты" />
+	<block key="E_p01_GhostE_01_Name" korean="Призрак последователи" />
+	<block key="E_p01_GhostE_01_NameDetail" korean="Кобб быть bondan" />
+	<block key="E_p01_GhostH_01_Name" korean="Призрак Шейх" />
+	<block key="E_p01_GhostH_01_NameDetail" korean="Кобб быть bondan" />
+	<block key="E_p01_MwerJack_02_Name" korean="Гнев Hunter Джека" />
+	<block key="E_p01_MwerJack_02_NameDetail" korean="Оборотень Король" />
+	<block key="E_p01_FanaStones_02_Name" korean="Побег большой брат ключ Клео" />
+	<block key="E_p01_FanaStones_02_NameDetail" korean="Im Кобб Церковь" />
+	<block key="E_p01_FanaStone_02_Name" korean="Правящий укрепить Guardian," />
+	<block key="E_p01_FanaStone_02_NameDetail" korean="Элитные Пираты" />
+	<block key="E_P01_liger_0002_Name" korean="Страх пирога Лурд" />
+	<block key="E_P01_liger_0002_NameDetail" korean="Хранитель турбулентный" />
+	<block key="E_p01_Megantes_002_Name" korean="Кошмар Меган Тесс" />
+	<block key="E_p01_Megantes_002_NameDetail" korean="Лен покровителем Сан-Mart" />
+	<block key="e_p01_bonedrag_0002_Name" korean="По вейвлет пропасти" />
+	<block key="e_p01_bonedrag_0002_NameDetail" korean="Тень Луны Легенда" />
+	<block key="E_P01_megan_0001_Name" korean="Тест Меган" />
+	<block key="E_P01_megan_0001_NameDetail" korean="Лен покровителем Сан-Mart" />
+	<block key="E_P01_afohorse_0001_Name" korean="Номера отряд Апокалипсис" />
+	<block key="E_P01_afohorse_0001_NameDetail" korean="Красная тень конь" />
+	<block key="E_P01_Devildog_0001_Name" korean="Ад Собака" />
+	<block key="E_P01_Devildog_0001_NameDetail" korean="Тест Dingo Меган" />
+	<block key="E_d01_VampCook_01_Name" korean="Шеф-повар знает вкус крови" />
+	<block key="E_d01_VampCook_01_NameDetail" korean="" />
+	<block key="E_P01_Etrule_0002_Name" korean="Ярость" />
+	<block key="E_P01_Etrule_0002_NameDetail" korean="Halo озеро" />
+	<block key="E_p01_Etrule_0001_name" korean="Загрязненная черепаха" />
+	<block key="E_p01_Etrule_0001_NameDetail" korean="Halo озеро" />
+	<block key="E_p01_hound_0001_name" korean="Взорванный Hound" />
+	<block key="E_p01_hound_0001_NameDetail" korean="" />
+	<block key="E_p01_Black_0002_name" korean="Indy качели" />
+	<block key="E_p01_Black_0002_NameDetail" korean="Тень Луны Dragon" />
+	<block key="E_p01_cripan_0001_name" korean="Серый Творческие издания" />
+	<block key="E_p01_cripan_0001_NameDetail" korean="Каждый турбулентный" />
+	<block key="E_P01_liger_0001_Name" korean="Рууд пирог" />
+	<block key="E_P01_liger_0001_NameDetail" korean="Хранитель турбулентный" />
+	<block key="E_p01_hound_0002_name" korean="Таким образом, вы слышите" />
+	<block key="E_p01_hound_0002_NameDetail" korean="" />
+	<block key="E_F04_Pegasus_002_Name" korean="Кошмар" />
+	<block key="E_F04_Pegasus_002_NameDetail" korean="Красная тень конь" />
+	<block key="E_p01_Rhisau_001_Name" korean="Черный на Януса" />
+	<block key="E_p01_Rhisau_001_NameDetail" korean="Прибрежные sawooruseu" />
+	<block key="E_p01_Rhisau_002_Name" korean="Снег Vichy" />
+	<block key="E_p01_Rhisau_002_NameDetail" korean="Прибрежные sawooruseu" />
+	<block key="E_P01_Yfirebird_0002_Name" korean="Зависть" />
+	<block key="E_P01_Yfirebird_0002_NameDetail" korean="Каждый турбулентный" />
+	<block key="E_p01_cripan_0002_Name" korean="Гавр Risher-х" />
+	<block key="E_p01_cripan_0002_NameDetail" korean="Каждый турбулентный" />
+	<block key="E_p01_MwerAttack_01_Name" korean="Рейдеры" />
+	<block key="E_p01_MwerAttack_01_NameDetail" korean="Оборотень" />
+	<block key="E_p01_WwerAssas_01_Name" korean="Убийца" />
+	<block key="E_p01_WwerAssas_01_NameDetail" korean="Оборотень" />
+	<block key="E_p01_MwerModif_01_Name" korean="Человек вариант" />
+	<block key="E_p01_MwerModif_01_NameDetail" korean="Оборотень" />
+	<block key="E_p01_WwerModif_01_Name" korean="Женщина варианты" />
+	<block key="E_p01_WwerModif_01_NameDetail" korean="Оборотень" />
+	<block key="E_p01_MwerAttack_02_Name" korean="Рейдеры" />
+	<block key="E_p01_MwerAttack_02_NameDetail" korean="Улучшенная оборотень" />
+	<block key="E_p01_WwerAssas_02_Name" korean="Убийца" />
+	<block key="E_p01_WwerAssas_02_NameDetail" korean="Улучшенная оборотень" />
+	<block key="E_p01_MwerModif_02_Name" korean="Человек вариант" />
+	<block key="E_p01_MwerModif_02_NameDetail" korean="Улучшенная оборотень" />
+	<block key="E_p01_WwerModif_02_Name" korean="Женщина варианты" />
+	<block key="E_p01_WwerModif_02_NameDetail" korean="Улучшенная оборотень" />
+	<block key="E_p01_FanaStones_01_Name" korean="Старейший ключ Кли" />
+	<block key="E_p01_FanaStones_01_NameDetail" korean="Im Кобб Церковь" />
+	<block key="E_p01_FanaTony_01_Name" korean="Малый тип ключа Клее" />
+	<block key="E_p01_FanaTony_01_NameDetail" korean="Im Кобб Церковь" />
+	<block key="E_p01_CarmBoatm_01_Name" korean="Молодой ключ Кли" />
+	<block key="E_p01_CarmBoatm_01_NameDetail" korean="Im Кобб Церковь" />
+	<block key="E_p01_FanaRecon_01_Name" korean="Разведчик" />
+	<block key="E_p01_FanaRecon_01_NameDetail" korean="Кобб является последователей" />
+	<block key="E_p01_FanaTroop_01_Name" korean="Commando" />
+	<block key="E_p01_FanaTroop_01_NameDetail" korean="Кобб является последователей" />
+	<block key="E_p01_CarmBeard_01_Name" korean="Yeonrakbyeong" />
+	<block key="E_p01_CarmBeard_01_NameDetail" korean="Кобб является последователей" />
+	<block key="E_p01_FanaDevco_01_Name" korean="Mystic Проклятие" />
+	<block key="E_p01_FanaDevco_01_NameDetail" korean="Кобб является последователей" />
+	<block key="E_p01_FanaMidget_01_Name" korean="Pokpabyeong" />
+	<block key="E_p01_FanaMidget_01_NameDetail" korean="Кобб является последователей" />
+	<block key="E_p01_FanaSniper_01_Name" korean="Снайпер" />
+	<block key="E_p01_FanaSniper_01_NameDetail" korean="Кобб является последователей" />
+	<block key="E_p01_FanaRecon_02_Name" korean="Разведчик" />
+	<block key="E_p01_FanaRecon_02_NameDetail" korean="Im Кобб Церковь" />
+	<block key="E_p01_FanaTroop_02_Name" korean="Commando" />
+	<block key="E_p01_FanaTroop_02_NameDetail" korean="Im Кобб Церковь" />
+	<block key="E_p01_CarmBeard_02_Name" korean="Yeonrakbyeong" />
+	<block key="E_p01_CarmBeard_02_NameDetail" korean="Im Кобб Церковь" />
+	<block key="E_p01_FanaDevco_02_Name" korean="Mystic Проклятие" />
+	<block key="E_p01_FanaDevco_02_NameDetail" korean="Im Кобб Церковь" />
+	<block key="E_p01_FanaMidget_02_Name" korean="Pokpabyeong" />
+	<block key="E_p01_FanaMidget_02_NameDetail" korean="Im Кобб Церковь" />
+	<block key="E_p01_FanaSniper_02_Name" korean="Стрелялки" />
+	<block key="E_p01_FanaSniper_02_NameDetail" korean="Im Кобб Церковь" />
+	<block key="E_p01_MwerJack_01_Name" korean="Exergy разводят Джек Хантер" />
+	<block key="E_p01_MwerJack_01_NameDetail" korean="Оборотень Король" />
+	<block key="E_p01_WolfWild_01_Name" korean="Exergy взрослый волк" />
+	<block key="E_p01_WolfWild_01_NameDetail" korean="Волк собаки человеческого короля" />
+	<block key="E_p01_CabeAshu_01_Name" korean="Ли кавалер Рыцарского" />
+	<block key="E_p01_CabeAshu_01_NameDetail" korean="Укрепление скелет только" />
+	<block key="E_p01_CarmDeck_01_Name" korean="Палубный матрос" />
+	<block key="E_p01_CarmDeck_01_NameDetail" korean="Пираты" />
+	<block key="E_p01_CarmWatch_01_Name" korean="Скауты выиграл" />
+	<block key="E_p01_CarmWatch_01_NameDetail" korean="Пираты" />
+	<block key="E_p01_CarmTreas_01_Name" korean="Опекун" />
+	<block key="E_p01_CarmTreas_01_NameDetail" korean="Пираты" />
+	<block key="E_p01_FanaStone_01_Name" korean="Осьминог тренер" />
+	<block key="E_p01_FanaStone_01_NameDetail" korean="Элитные Пираты" />
+	<block key="E_p01_OctoRocko_01_Name" korean="Рок осьминог" />
+	<block key="E_p01_OctoRocko_01_NameDetail" korean="" />
+	<block key="E_p01_SkulBlakn_01_Name" korean="Ли Найт Воин" />
+	<block key="E_p01_SkulBlakn_01_NameDetail" korean="Укрепление скелет только" />
+	<block key="E_p01_SkulBlarc_01_Name" korean="Ли Найт Арчер" />
+	<block key="E_p01_SkulBlarc_01_NameDetail" korean="Укрепление скелет только" />
+	<block key="E_p01_SkulBlaso_01_Name" korean="Пехота" />
+	<block key="E_p01_SkulBlaso_01_NameDetail" korean="Однако Череп" />
+	<block key="E_p01_SkulBlarc_02_Name" korean="Gungbyeong" />
+	<block key="E_p01_SkulBlarc_02_NameDetail" korean="Однако Череп" />
+	<block key="E_p01_HorsWind_001_Name" korean="Темная лошадка" />
+	<block key="E_p01_HorsWind_001_NameDetail" korean="Конь Ли Рыцарский" />
+	<block key="E_p01_SkulBlaso_03_Name" korean="Рикардо" />
+	<block key="E_p01_SkulBlaso_03_NameDetail" korean="Скелет" />
+	<block key="E_p01_dark_ex_01_Name" korean="Exo-значный упал полезным" />
+	<block key="E_p01_dark_ex_01_NameDetail" korean="" />
+	<block key="E_P01_Dragdark_0001_Name" korean="Черный Лед и это" />
+	<block key="E_P01_Dragdark_0001_NameDetail" korean="" />
+	<block key="E_P01_Seahors_0001_Name" korean="Конечная Мыло водитель" />
+	<block key="E_P01_Seahors_0001_NameDetail" korean="" />
+	<block key="E_P01_Yfirebird_0001_Name" korean="Серый котенок Phoenix" />
+	<block key="E_P01_Yfirebird_0001_NameDetail" korean="Каждый турбулентный" />
+	<block key="E_p01_Black_0001_name" korean="Бернерс темно автомобиля" />
+	<block key="E_p01_Black_0001_NameDetail" korean="Тень Луны Dragon" />
+	<block key="E_d00_0_RabMer_0001_name" korean="Вы назвали Винни Rover" />
+	<block key="E_d00_0_RabMer_0001_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="E_d01_0_RabMer_0001_name" korean="Вы назвали Винни Rover" />
+	<block key="E_d01_0_RabMer_0001_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="E_d02_0_RabMer_0001_name" korean="Вы назвали Винни Rover" />
+	<block key="E_d02_0_RabMer_0001_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="E_d00_0_RabMer_0002_name" korean="Вы назвали Винни Rover" />
+	<block key="E_d00_0_RabMer_0002_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="E_d01_0_RabMer_0002_name" korean="Вы назвали Винни Rover" />
+	<block key="E_d01_0_RabMer_0002_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="E_d02_0_RabMer_0002_name" korean="Вы назвали Винни Rover" />
+	<block key="E_d02_0_RabMer_0002_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="E_d03_0_RabMer_0001_name" korean="Вы назвали Винни Rover" />
+	<block key="E_d03_0_RabMer_0001_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="E_d03_0_RabMer_0002_name" korean="Вы назвали Винни Rover" />
+	<block key="E_d03_0_RabMer_0002_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="E_d04_0_RabMer_0001_name" korean="Вы назвали Винни Rover" />
+	<block key="E_d04_0_RabMer_0001_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="E_d04_0_RabMer_0002_name" korean="Вы назвали Винни Rover" />
+	<block key="E_d04_0_RabMer_0002_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="E_d22_0_RabMer_0001_name" korean="Вы назвали Винни Rover" />
+	<block key="E_d22_0_RabMer_0001_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="E_d22_0_RabMer_0002_name" korean="Вы назвали Винни Rover" />
+	<block key="E_d22_0_RabMer_0002_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="IN_RabMerpum_0_001_name" korean="Rover ваши тыквы" />
+	<block key="IN_RabMerpum_0_001_NameDetail" korean="Преобразование Rover вас" />
+	<block key="E_p01_BlackBaby_0001_name" korean="Дикий Пиренейский Do" />
+	<block key="E_p01_BlackBaby_0001_NameDetail" korean="Тень Луны Детеныш" />
+	<block key="E_p01_BlackBaby_0002_name" korean="Ржавчина" />
+	<block key="E_p01_BlackBaby_0002_NameDetail" korean="Тень Луны Детеныш" />
+	<block key="E_Event_0001_name" korean="Рыцарь Тьмы ahsyuram" />
+	<block key="E_Event_0001_NameDetail" korean="" />
+	<block key="E_Event_0002_name" korean="Драма Equus" />
+	<block key="E_Event_0002_NameDetail" korean="" />
+	<block key="E_Event_0003_name" korean="Дино черный рог-ку," />
+	<block key="E_Event_0003_NameDetail" korean="" />
+	<block key="E_Event_0004_name" korean="Рай Новости" />
+	<block key="E_Event_0004_NameDetail" korean="" />
+	<block key="E_Event_0005_name" korean="Красные рога Гала Доку" />
+	<block key="E_Event_0005_NameDetail" korean="" />
+	<block key="E_Event_Brag_01_Name" korean="Brage пешеходов" />
+	<block key="E_Event_Brag_01_NameDetail" korean="Выбор спортсмена" />
+	<block key="E_F00_DraLittle_0001_name" korean="Рай Новости красной аурой" />
+	<block key="E_F00_DraLittle_0001_NameDetail" korean="" />
+	<block key="E_f05_Dragbone_001_name" korean="Пустота в Краби де" />
+	<block key="E_f05_Dragbone_001_NameDetail" korean="" />
+	<block key="E_f05_Whale_0001_name" korean="Лето Пустота других азиатских" />
+	<block key="E_f05_Whale_0001_nameDetail" korean="" />
+	<block key="e_f04_DragRasha_002_Name" korean="Новый красный броня" />
+	<block key="e_f04_DragRasha_002_NameDetail" korean="" />
+	<block key="E_p01_RabMer_001_Name" korean="Вы назвали Винни Rover" />
+	<block key="E_p01_RabMer_001_NameDetail" korean="Сбор пьющих сокровищами" />
+	<block key="E_Event_01_name" korean="Апокалипсис" />
+	<block key="E_Event_01_namedetail" korean="Событий" />
+	<block key="E_Event_02_name" korean="Каспер токсичного агента" />
+	<block key="E_Event_02_namedetail" korean="Событий" />
+	<block key="E_Event_03_name" korean="Тиран Карась" />
+	<block key="E_Event_03_namedetail" korean="Событий" />
+	<block key="E_Event_04_name" korean="Роб Кейн ужасов" />
+	<block key="E_Event_04_namedetail" korean="Событий" />
+	<block key="E_Event_05_name" korean="Dark maryong Кара Шах" />
+	<block key="E_Event_05_namedetail" korean="Событий" />
+	<block key="E_Event_06_name" korean="Gwangryong Para газа" />
+	<block key="E_Event_06_namedetail" korean="Событий" />
+	<block key="E_Event_07_name" korean="Крылья воздушное пространство страницы Муто" />
+	<block key="E_Event_07_namedetail" korean="Событий" />
+	<block key="E_Event_08_name" korean="Люцифер лунный свет дерево" />
+	<block key="E_Event_08_namedetail" korean="Событий" />
+	<block key="E_Event_09_name" korean="Грузовые дней Пустоты" />
+	<block key="E_Event_09_namedetail" korean="Событий" />
+	<block key="E_Event_10_name" korean="Рассвет разгрузочных работ," />
+	<block key="E_Event_10_namedetail" korean="Событий" />
+	<block key="E_Event_11_name" korean="Муар обучение" />
+	<block key="E_Event_11_namedetail" korean="Событий" />
+	<block key="E_Event_12_name" korean="Red maryong Agde Nas" />
+	<block key="E_Event_12_namedetail" korean="Событий" />
+	<block key="E_Event_13_name" korean="Призрак" />
+	<block key="E_Event_13_namedetail" korean="Событий" />
+	<block key="E_Event_14_name" korean="Склоны" />
+	<block key="E_Event_14_namedetail" korean="Событий" />
+	<block key="E_Event_15_name" korean="Пустота в Краби де" />
+	<block key="E_Event_15_namedetail" korean="Событий" />
+	<block key="E_Event_16_name" korean="Гигантский паук taseulran" />
+	<block key="E_Event_16_namedetail" korean="Событий" />
+	<block key="E_Event_17_name" korean="Резкие тени Penrith" />
+	<block key="E_Event_17_namedetail" korean="Событий" />
+	<block key="E_Event_18_name" korean="Рай Lourdes" />
+	<block key="E_Event_18_namedetail" korean="Событий" />
+	<block key="E_Event_19_name" korean="Ветрокрылая в небе" />
+	<block key="E_Event_19_namedetail" korean="Событий" />
+	<block key="E_Event_20_name" korean="Король Волков Шака-ла-" />
+	<block key="E_Event_20_namedetail" korean="Событий" />
+	<block key="E_Event_21_name" korean="Это maryong Страхан" />
+	<block key="E_Event_21_namedetail" korean="Событий" />
+	<block key="E_Event_22_name" korean="Темные крылья Камара" />
+	<block key="E_Event_22_namedetail" korean="Событий" />
+	<block key="E_Event_23_name" korean="Широкий шерсть" />
+	<block key="E_Event_23_namedetail" korean="Событий" />
+	<block key="E_Event_24_name" korean="Трой Белый" />
+	<block key="E_Event_24_namedetail" korean="Событий" />
+	<block key="E_Event_25_name" korean="Мороз Wyvern gayira" />
+	<block key="E_Event_25_namedetail" korean="Событий" />
+	<block key="E_Event_26_name" korean="Конечная Мыло водитель" />
+	<block key="E_Event_26_namedetail" korean="Событий" />
+	<block key="E_Event_27_name" korean="Blue-крылатые лопатки" />
+	<block key="E_Event_27_namedetail" korean="Событий" />
+	<block key="E_Event_28_name" korean="Hongryeon Леонида" />
+	<block key="E_Event_28_namedetail" korean="Событий" />
+	<block key="E_Event_29_name" korean="Черный Дракон Баллак" />
+	<block key="E_Event_29_namedetail" korean="Событий" />
+	<block key="E_Event_30_name" korean="Ох латунные золотые крылья" />
+	<block key="E_Event_30_namedetail" korean="Событий" />
+	<block key="E_d00_LskulArch_01_name" korean="Тлеющий скелет Снайпер" />
+	<block key="E_d00_LskulArch_01_namedetail" korean="Руины укрепления мастера" />
+	<block key="E_d00_LskulArch_02_name" korean="Тлеющий скелет Снайпер" />
+	<block key="E_d00_LskulArch_02_namedetail" korean="" />
+	<block key="E_d01_Lfanadev_01_name" korean="Shadow Shaman" />
+	<block key="E_d01_Lfanadev_01_namedetail" korean="Улучшенная мастер особняк" />
+	<block key="E_d02_Lsnomagic_01_name" korean="Yeti Пророк" />
+	<block key="E_d02_Lsnomagic_01_namedetail" korean="" />
+	<block key="E_d02_Lsnohunter_01_name" korean="Yeti Стрелялки" />
+	<block key="E_d02_Lsnohunter_01_namedetail" korean="Руины укрепления мастера" />
+	<block key="E_d01_Ev_01_name" korean="Горничные вампира" />
+	<block key="E_d01_Ev_01_namedetail" korean="" />
+	<block key="E_d01_Ev_02_name" korean="Vampire стекаются" />
+	<block key="E_d01_Ev_02_namedetail" korean="" />
+	<block key="E_d01_Ev_03_name" korean="Vampire Шеф-повар" />
+	<block key="E_d01_Ev_03_namedetail" korean="" />
+	<block key="E_d01_Ev_04_name" korean="Vampire Садовник" />
+	<block key="E_d01_Ev_04_namedetail" korean="" />
+	<block key="E_d01_Ev_05_name" korean="Vampire Разнорабочий" />
+	<block key="E_d01_Ev_05_namedetail" korean="" />
+	<block key="E_d01_Ev_06_name" korean="Mystic Проклятие" />
+	<block key="E_d01_Ev_06_namedetail" korean="" />
+	<block key="E_F05_KrokEngee_004_name" korean="[Elite] Croix Kuhn упал всадник Скорпион" />
+	<block key="E_F05_KrokEngee_004_namedetail" korean="" />
+	<block key="E_F05_KrokBowma_003_name" korean="[Elite] упал Croix Kuhn Скорпион Стрелец" />
+	<block key="E_F05_KrokBowma_003_namedetail" korean="" />
+	<block key="E_F05_KrokPries_002_name" korean="[Elite] Croix Kuhn упал сообщение священник" />
+	<block key="E_F05_KrokPries_002_namedetail" korean="" />
+	<block key="E_F05_KrokGladi_005_name" korean="[Elite] Croix Kuhn упал гладиатор сообщение" />
+	<block key="E_F05_KrokGladi_005_namedetail" korean="" />
+	<block key="e_f01_fanadawiz_002_name" korean="Кобб Мастер Im" />
+	<block key="e_f01_fanadawiz_002_namedetail" korean="" />
+	<block key="E_P01_liger_0003_name" korean="Детеныши пирог Lourdes" />
+	<block key="E_P01_liger_0003_namedetail" korean="" />
+	<block key="E_P01_megan_0003_name" korean="Молодая тест Меган" />
+	<block key="E_P01_megan_0003_namedetail" korean="" />
+	<block key="e_p01_bonedrag_0003_name" korean="Детеныши по Garret" />
+	<block key="e_p01_bonedrag_0003_namedetail" korean="" />
+	<block key="E_P01_Atan_0001_name" korean="Ahtan" />
+	<block key="E_P01_Atan_0001_namedetail" korean="Ад собак головы" />
+	<block key="E_P01_Berite_0001_name" korean="Берит" />
+	<block key="E_P01_Berite_0001_namedetail" korean="Ад собак головы" />
+	<block key="E_P01_Karnin_0001_name" korean="Карбоновые Нин" />
+	<block key="E_P01_Karnin_0001_namedetail" korean="Ад собак головы" />
+	<block key="E_Event_31_Name" korean="Сияющий большой тыквы" />
+	<block key="E_Event_31_NameDetail" korean="Хэллоуин События" />
+	<block key="E_Event_32_Name" korean="Малый светящийся Pumpkins" />
+	<block key="E_Event_32_NameDetail" korean="Хэллоуин События" />
+	<block key="E_Event_33_Name" korean="Плохо Великая Тыква" />
+	<block key="E_Event_33_NameDetail" korean="Хэллоуин События" />
+	<block key="E_Event_34_Name" korean="Бедный маленький тыквы" />
+	<block key="E_Event_34_NameDetail" korean="Хэллоуин События" />
+	<block key="E_p01_Mineturtle_000_Name" korean="Каро четыре" />
+	<block key="E_p01_Mineturtle_000_NameDetail" korean="Добыча покровители черепахи" />
+	<block key="E_Event_35_Name" korean="Блестящий немного снеговик" />
+	<block key="E_Event_35_NameDetail" korean="Рождественские мероприятия" />
+	<block key="E_Event_36_Name" korean="Светящиеся Снеговик ужасов" />
+	<block key="E_Event_36_NameDetail" korean="Рождественские мероприятия" />
+	<block key="E_Event_37_Name" korean="Мало снеговика" />
+	<block key="E_Event_37_NameDetail" korean="Рождественские мероприятия" />
+	<block key="E_Event_38_Name" korean="Снеговик ужасов" />
+	<block key="E_Event_38_NameDetail" korean="Рождественские мероприятия" />
+	<block key="E_99_0_1501_0001_Name" korean="Лев Света" />
+	<block key="E_99_0_1501_0002_Name" korean="Лев Света" />
+</blocks>

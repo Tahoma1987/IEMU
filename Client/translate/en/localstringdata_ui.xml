@@ -1,0 +1,2132 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="UI_SC_COMMON_MESSAGEBOX_WG_BTN_MESSAGEBOX_OK_Text" korean="Тест UI_Name_" />
+	<block key="UI_SC_COMMON_MESSAGEBOX_WG_BTN_MESSAGEBOX_OK_Tooltip" korean="Тест UI_Tooltip_" />
+	<block key="UI_SC_STG_LOGIN_MAINFRAME_WG_BTN_OK_Text" korean="OK (проверено локализация)" />
+	<block key="UI_SC_STG_LOGIN_MAINFRAME_WG_BTN_OK_Tooltip" korean="Сделайте подсказки (тест локализующих)" />
+	<block key="UI_SC_STG_LOGIN_MAINFRAME_WG_BTN_CANCEL_Text" korean="Отменить (тест локализация)" />
+	<block key="UI_SC_STG_LOGIN_MAINFRAME_WG_BTN_CANCEL_Tooltip" korean="Отменить подсказку (тест локализация)" />
+	<block key="ui_cuidlgskilltree_warrior_title" korean="Берсерк Навыки" />
+	<block key="ui_cuidlgskilltree_preist_title" korean="Жрец Навыки" />
+	<block key="ui_cuidlgskilltree_wizard_title" korean="Мастера Навыки" />
+	<block key="ui_cuidlgskilltree_archer_title" korean="Ranger Умения" />
+	<block key="ui_cuidlgskilltree_thief_title" korean="Убийца Умения" />
+	<block key="ui_cuidlgskilltree_guardian_title" korean="Навыки хранители" />
+	<block key="ui_cuidlgskilllearn_warrior_title" korean="Берсерк умение обучения" />
+	<block key="ui_cuidlgskilllearn_preist_title" korean="Жрец навыков обучения" />
+	<block key="ui_cuidlgskilllearn_wizard_title" korean="Обучение навыкам Мастера" />
+	<block key="ui_cuidlgskilllearn_nature_title" korean="Природа навыки обучения" />
+	<block key="ui_cuidlgskilllearn_thief_title" korean="Убийца изучение скиллов" />
+	<block key="ui_cuidlgskilllearn_guardian_title" korean="Хранитель навыков обучения" />
+	<block key="ui_cuidlgskilltree_preist_tab_default_3" korean="Дух" />
+	<block key="ui_cuidlgskilltree_wizard_tab_default_1" korean="Пламя" />
+	<block key="ui_cuidlgskilltree_wizard_tab_default_2" korean="Лед" />
+	<block key="ui_cuidlgskilltree_wizard_tab_default_3" korean="Электричество" />
+	<block key="ui_cuidlgskilltree_nature_tab_default_1" korean="Охота" />
+	<block key="ui_cuidlgskilltree_nature_tab_default_2" korean="Поддержка" />
+	<block key="ui_cuidlgskilltree_nature_tab_default_3" korean="Природа" />
+	<block key="ui_cuidlgskilltree_thief_tab_default_1" korean="Внезапное нападение" />
+	<block key="ui_cuidlgskilltree_thief_tab_default_2" korean="Возмездие" />
+	<block key="ui_cuidlgskilltree_thief_tab_default_3" korean="Жизни" />
+	<block key="ui_cuidlgskilltree_tab_blood" korean="Кровное родство" />
+	<block key="ui_cuidlgskilltree_tab_property" korean="Атрибут" />
+	<block key="ui_cuidlgskilltree_remain_point_title" korean="Сменные точка" />
+	<block key="ui_cuidlgskilltree_tab_total_point_title" korean="Использование пульта итоги" />
+	<block key="ui_lobbycustomizerightpanel_styleview_body_select" korean="Выберите тело" />
+	<block key="ui_lobbycustomizerightpanel_styleview_facestyle_select" korean="Выберите стиль лицо" />
+	<block key="ui_lobbycustomizerightpanel_styleview_hairstyle_select" korean="Выберите прическу" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_hair1" korean="Цвет волос" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_hair2" korean="Цвет волос украшения" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_skin" korean="Кожа" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_eye" korean="Цвет глаз" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_lip" korean="Цвет губ" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_item1" korean="Оттенок платье" />
+	<block key="ui_lobbycustomizerightpanel_styleview_color_item2" korean="Цвет платья Украшение" />
+	<block key="ui_lobbycustomizerightpanel_detailview_btn_random" korean="Случайный" />
+	<block key="ui_lobbycustomizerightpanel_detailview_btn_initialize" korean="Инициализация" />
+	<block key="ui_lobbycustomizeleftpanel_label_character_name" korean="Имя персонажа" />
+	<block key="ui_lobbycustomizeleftpanel_btn_character_name_check" korean="Проверить наличие мест" />
+	<block key="ui_lobbycustomizeleftpanel_checkbox_innerwear" korean="Место белье" />
+	<block key="ui_lobbycustomizeleftpanel_label_emotion" korean="Эмоционального поведения" />
+	<block key="ui_lobbycustomizebottompanel_btn_create" korean="Создать полная" />
+	<block key="ui_lobbycustomizebottompanel_tooltip_option" korean="Опции игры" />
+	<block key="ui_lobbycustomizebottompanel_tooltip_gojobselect" korean="Перейти к экрану выбора задания" />
+	<block key="ui_customize_tab_style" korean="Стиль Настройки" />
+	<block key="ui_customize_tab_detailtab" korean="Подробные настройки" />
+	<block key="ui_customize_itemgroup_1body" korean="Форма" />
+	<block key="ui_ci_head" korean="Размер головы" />
+	<block key="ui_ci_height" korean="Ключ" />
+	<block key="ui_ci_neck" korean="Шея ширина" />
+	<block key="ui_ci_necklength" korean="Длина шейки" />
+	<block key="ui_ci_chest" korean="Грудь" />
+	<block key="ui_ci_waistlength" korean="Длина талии" />
+	<block key="ui_ci_waist" korean="Окружность талии" />
+	<block key="ui_ci_hip" korean="Окружность бедра" />
+	<block key="ui_ci_armlength" korean="Расстоянии вытянутой руки" />
+	<block key="ui_ci_uparm" korean="Верхняя ширина рука" />
+	<block key="ui_ci_foarm" korean="Уменьшение толщины руки" />
+	<block key="ui_ci_hand" korean="Рука Размер" />
+	<block key="ui_ci_leglength" korean="Длина ног" />
+	<block key="ui_ci_thigh" korean="Толстые бедра" />
+	<block key="ui_ci_calf" korean="Теленок ширина" />
+	<block key="ui_ci_foot" korean="Чтобы изменить размер" />
+	<block key="ui_ci_breast" korean="Размер комода" />
+	<block key="ui_ci_xsize" korean="Размер тела" />
+	<block key="ui_customize_itemgroup_2face" korean="Лицо" />
+	<block key="ui_ci_chinshape" korean="Yeopteok" />
+	<block key="ui_ci_chinextent" korean="Форма челюсти" />
+	<block key="ui_ci_chinheight" korean="Длина подбородка" />
+	<block key="ui_ci_cheekbone" korean="Скула" />
+	<block key="ui_ci_cheektickness" korean="См толщину" />
+	<block key="ui_customize_itemgroup_3eye" korean="Глаз" />
+	<block key="ui_ci_eyesize" korean="Размер глаз" />
+	<block key="ui_ci_eyedepth" korean="Глаза навыкате" />
+	<block key="ui_ci_eyespace" korean="Интервал Глаза" />
+	<block key="ui_ci_eyeposition" korean="Положение глаз" />
+	<block key="ui_ci_eyefront" korean="Apteuim" />
+	<block key="ui_ci_eyefrontposition" korean="Apteuim расположение" />
+	<block key="ui_ci_eyeback" korean="После teuim" />
+	<block key="ui_ci_blowheight" korean="Положение бровей" />
+	<block key="ui_ci_blowangle" korean="Брови угол" />
+	<block key="ui_ci_blowspace" korean="Интервал Брови" />
+	<block key="ui_ci_uppereyelid" korean="Верхнее положение век" />
+	<block key="ui_ci_lowereyelid" korean="Нижнее веко позиция" />
+	<block key="ui_ci_eyeballsize" korean="Размер глаз" />
+	<block key="ui_ci_browangle2" korean="Медиальная угол бровей" />
+	<block key="ui_customize_itemgroup_4nose" korean="Нос" />
+	<block key="ui_ci_nosetickness" korean="Толщина Sassy" />
+	<block key="ui_ci_noselength" korean="Длина Sassy" />
+	<block key="ui_ci_noseheight" korean="Sassy высокой" />
+	<block key="ui_ci_nosetip" korean="Высота носа" />
+	<block key="ui_ci_nosesize" korean="Размер носа" />
+	<block key="ui_ci_nosewidth" korean="Носовые лампы" />
+	<block key="ui_customize_itemgroup_5mouth" korean="Рот" />
+	<block key="ui_ci_mouseshape" korean="Рот" />
+	<block key="ui_ci_mousesize" korean="Укус размера" />
+	<block key="ui_ci_lipposition" korean="Рот позиция" />
+	<block key="ui_ci_uplipshape" korean="Lip форма" />
+	<block key="ui_ci_downlipshape" korean="Нижняя губа" />
+	<block key="ui_ci_uplipsize" korean="Верхняя толщина губ" />
+	<block key="ui_ci_downlipsize" korean="Уменьшение толщины губ" />
+	<block key="ui_ci_tooth" korean="Оральный прогнозам" />
+	<block key="ui_ci_facestyle" korean="Форма лица" />
+	<block key="ui_customize_class_warrior" korean="Неистовый" />
+	<block key="ui_customize_class_priest" korean="Священники" />
+	<block key="ui_customize_class_thief" korean="Убийца" />
+	<block key="ui_customize_class_wizard" korean="Мастера" />
+	<block key="ui_customize_class_archer" korean="Рейнджер" />
+	<block key="ui_customize_class_guardian" korean="Хранитель" />
+	<block key="ui_customize_label_name" korean="Имя персонажа" />
+	<block key="ui_customize_btn_name_check" korean="Проверить наличие мест" />
+	<block key="ui_customize_label_equip" korean="Посмотреть оборудование заранее спасибо" />
+	<block key="ui_customize_label_pose" korean="Поза" />
+	<block key="ui_customize_label_voice" korean="Голос" />
+	<block key="ui_customize_tab_basic" korean="Основной" />
+	<block key="ui_customize_itemgroup_wholepreset" korean="Полнота" />
+	<block key="ui_customize_itemgroup_face" korean="Лицо" />
+	<block key="ui_customize_itemgroup_hair" korean="Стрижка" />
+	<block key="ui_customize_itemgroup_decorate" korean="Приукрашивание" />
+	<block key="ui_customize_itemgroup_body" korean="Форма" />
+	<block key="ui_customize_itemgroup_skin" korean="Кожа" />
+	<block key="ui_customize_tab_facemakeup" korean="Украсьте лицо" />
+	<block key="ui_customize_itemgroup_eyeshape" korean="Nunhwajang" />
+	<block key="ui_customize_itemgroup_eyebrows" korean="Бровь" />
+	<block key="ui_customize_itemgroup_pupil" korean="Глаз" />
+	<block key="ui_customize_itemgroup_mouth" korean="Рот" />
+	<block key="ui_customize_itemgroup_tattoo" korean="Тату" />
+	<block key="ui_customize_tab_detail" korean="Подробные настройки" />
+	<block key="ui_customize_itemgroup_detailbody" korean="Форма" />
+	<block key="ui_customize_itemgroup_detailface" korean="Лицо" />
+	<block key="ui_customize_itemgroup_detaileye" korean="Глаз" />
+	<block key="ui_customize_itemgroup_detailnose" korean="Нос" />
+	<block key="ui_customize_itemgroup_detailmouse" korean="Рот" />
+	<block key="ui_customize_tab_random" korean="Случайный" />
+	<block key="ui_customize_itemgroup_randomlimit" korean="Установите случайным диапазон" />
+	<block key="ui_customize_btn_random" korean="Случайный" />
+	<block key="ui_customize_label_whole" korean="Полнота" />
+	<block key="ui_customize_label_body" korean="Форма" />
+	<block key="ui_customize_label_face" korean="Лицо" />
+	<block key="ui_customize_label_faceshape" korean="Форма лица" />
+	<block key="ui_customize_label_eye" korean="Глаз" />
+	<block key="ui_customize_label_nose" korean="Нос" />
+	<block key="ui_customize_label_mouth" korean="Рот" />
+	<block key="ui_customize_label_color" korean="Цвета" />
+	<block key="ui_customize_label_skin" korean="Кожа" />
+	<block key="ui_customize_label_pupil" korean="Ученик" />
+	<block key="ui_customize_label_hair" korean="Волосы" />
+	<block key="ui_customize_label_lips" korean="Губы" />
+	<block key="ui_customize_label_decorate" korean="Борода" />
+	<block key="ui_customize_label_eyemakeup" korean="Nunhwajang" />
+	<block key="ui_customize_label_eyebrows" korean="Бровь" />
+	<block key="ui_customize_label_tattoo" korean="Тату" />
+	<block key="ui_customize_btn_reset" korean="Инициализация" />
+	<block key="ui_lobbyjobselector_label_jobselect" korean="Выбор карьеры" />
+	<block key="ui_lobbyjobselector_btn_job_warrior" korean="Неистовый" />
+	<block key="ui_lobbyjobselector_btn_job_priest" korean="Священники" />
+	<block key="ui_lobbyjobselector_btn_job_thief" korean="Убийца" />
+	<block key="ui_lobbyjobselector_btn_job_wizard" korean="Мастера" />
+	<block key="ui_lobbyjobselector_btn_job_archer" korean="Рейнджер" />
+	<block key="ui_lobbyjobselector_btn_job_guardian" korean="Хранитель" />
+	<block key="ui_lobbyjobselectormenu_gocharselector" korean="Перейти к окну выбора" />
+	<block key="ui_lobbycharselector_label_character_select" korean="Выберите символ" />
+	<block key="ui_lobbycharselector_btn_gocharacter_create" korean="Создание персонажа" />
+	<block key="ui_lobbycharselector_btn_character_delete" korean="Удаление символов" />
+	<block key="ui_lobbycharselectormenu_btn_stargame" korean="Начало игры" />
+	<block key="ui_lobbycharselectormenu_btn_tooltip_exitgame" korean="Конец игры" />
+	<block key="ui_lobbycharselectormenu_btn_tooltip_gameoption" korean="Опции игры" />
+	<block key="ui_lobbycharselectormenu_btn_tooltip_goserverlist" korean="Перейдите к экрану выбора сервера" />
+	<block key="ui_lobbycharselectorinfo_guild" korean="Ни один" />
+	<block key="ui_lobbycharselectorinfo_force" korean="Ни один" />
+	<block key="ui_lobbycharselectorinfo_havenorecord" korean="Там нет записи подключения." />
+	<block key="ui_lobbycharselectorinfo_havenoregioninfo" korean="Там нет местной информации." />
+	<block key="ui_helptopic_alarm" korean="Помочь свести к минимуму" />
+	<block key="ui_lobbycharselectormenu_allwatch" korean="Просмотреть все" />
+	<block key="ui_lobbycharselectormenu_btn_create" korean="Создание" />
+	<block key="ui_lobby_prev" korean="Возвращение" />
+	<block key="ui_login_title1" korean="Добро пожаловать на Икаре." />
+	<block key="ui_login_title2" korean="Пожалуйста, войдите на сайт." />
+	<block key="ui_login_login" korean="Войти" />
+	<block key="ui_serverlist_server_select" korean="Выберите сервер" />
+	<block key="ui_serverlist_server_name" korean="Имя сервера" />
+	<block key="ui_serverlist_server_character_count" korean="Персонажи" />
+	<block key="ui_serverlist_server_state" korean="Состояние" />
+	<block key="ui_serverlist_create_character_state" korean="Создание персонажа" />
+	<block key="ui_serverlist_server_connect" korean="Серверы начального" />
+	<block key="ui_common_appointed" korean="# Применить планируется" />
+	<block key="ui_common_game_exit" korean="Прекращение" />
+	<block key="ui_common_character" korean="Персонажи" />
+	<block key="ui_common_warrior_male" korean="Берсерк (M)" />
+	<block key="ui_common_warrior_female" korean="Берсерк (F)" />
+	<block key="ui_common_priest_male" korean="Priest (М)" />
+	<block key="ui_common_priest_female" korean="Священник (F)" />
+	<block key="ui_common_thief_male" korean="Убийца (M)" />
+	<block key="ui_common_thief_female" korean="Убийца (женщины)" />
+	<block key="ui_common_wizard_male" korean="Мастера (M)" />
+	<block key="ui_common_wizard_female" korean="Мастера (F)" />
+	<block key="ui_common_archer_male" korean="Ranger (М)" />
+	<block key="ui_common_archer_female" korean="Ranger (F)" />
+	<block key="ui_common_guardian_male" korean="Guardian (M)" />
+	<block key="ui_common_guardian_female" korean="Guardian (F)" />
+	<block key="ui_lobbycharselector_guild" korean="Вступить в гильдию" />
+	<block key="ui_lobbycharselector_force" korean="Объединить усилия" />
+	<block key="ui_lobbycharselector_login" korean="Наконец End Time" />
+	<block key="ui_lobbycharselector_spot" korean="Заключительный конечное положение" />
+	<block key="ui_lobbycharselector_playtime" korean="Общее время звучания" />
+	<block key="ui_lobbycharselector_createimpossible" korean="\u003cPOPUP_1\u003e слотов создания персонажа полны.\nВы хотите продолжить?\n(Особенности настройки, доступные) \u003c/ POPUP_1\u003e" />
+	<block key="ui_lobbycharcreate_mainstat" korean="Ключевые факты" />
+	<block key="ui_lobbycharcreate_keyword" korean="Ключевые слова" />
+	<block key="ui_lobbycharcreate_disablemessage" korean="Символы не поддерживается. Вы не можете создать." />
+	<block key="ui_lobbycharcreate_explain" korean="Объяснение" />
+	<block key="ui_lobbycharcreate_explain_origin_warrior_1" korean="Агрессивная атака гнев и демонстрировать сильный взгляд, слишком много целей. Причинение реакцию свободно и аномальное, чем при использовании навыков заряд атаки." />
+	<block key="ui_lobbycharcreate_explain_origin_priest_1" korean="Используйте это признак силы и света веры, основанной на лошадиных сил и использовании способности защищать союзников или подчинить врага. Также можно использовать, чтобы преследовать мастерство противника со злыми сердцами." />
+	<block key="ui_lobbycharcreate_explain_origin_wizard_1" korean="Используя силу магии на имущество на основании изменения вокруг собственности или собственности имеет огромную огневую мощь с различными способами." />
+	<block key="ui_lobbycharcreate_explain_origin_thief_1" korean="Проникнув плотно гладкий принадлежал смертельного врага атаковать слабые цели и имеет непрерывную форму атаки. Непрерывный и разнообразные навыки могут быть использованы в воздухе." />
+	<block key="ui_lobbycharcreate_explain_origin_archer_1" korean="Скоро." />
+	<block key="ui_lobbycharcreate_explain_origin_guardian_1" korean="Может быть стабильным священный бой с использованием оборонительных силы расположение, это позволит сконцентрировать атаку на одну цель." />
+	<block key="ui_lobbycharcreate_keyword_warrior_name_1" korean="Двуручный меч" />
+	<block key="ui_lobbycharcreate_keyword_warrior_name_2" korean="Heavy Armor" />
+	<block key="ui_lobbycharcreate_keyword_warrior_name_3" korean="Волнение" />
+	<block key="ui_lobbycharcreate_keyword_warrior_name_4" korean="Мощность" />
+	<block key="ui_lobbycharcreate_keyword_warrior_description_1" korean="Двуручный меч забастовки ветреный, используя различные цели атаки." />
+	<block key="ui_lobbycharcreate_keyword_warrior_description_2" korean="Чтобы защитить свое тело спешат носить толстый пучок противника тяжелым." />
+	<block key="ui_lobbycharcreate_keyword_warrior_description_3" korean="Атакует врага с неукротимой боевой дух и вставать больше духа в экстремальных ситуациях." />
+	<block key="ui_lobbycharcreate_keyword_warrior_description_4" korean="Используйте навыки крупным разрушительным используя силу мышц." />
+	<block key="ui_lobbycharcreate_keyword_priest_name_1" korean="Палка с одной стороны" />
+	<block key="ui_lobbycharcreate_keyword_priest_name_2" korean="Халаты" />
+	<block key="ui_lobbycharcreate_keyword_priest_name_3" korean="Восстановление" />
+	<block key="ui_lobbycharcreate_keyword_priest_name_4" korean="Признаки света" />
+	<block key="ui_lobbycharcreate_keyword_priest_description_1" korean="Расширение прав и возможностей легкий штурмовик цель с тростью в одной руке прочь." />
+	<block key="ui_lobbycharcreate_keyword_priest_description_2" korean="Указывает, что священники Божьи носить одежду для повышения божественную силу." />
+	<block key="ui_lobbycharcreate_keyword_priest_description_3" korean="Используя силу света и восстанавливает объект и дружелюбны." />
+	<block key="ui_lobbycharcreate_keyword_priest_description_4" korean="Использование Jung Су-Ра знак света, который может быть использован для атаки сил света и исцеления навыков." />
+	<block key="ui_lobbycharcreate_keyword_wizard_name_1" korean="Палка с обеих рук" />
+	<block key="ui_lobbycharcreate_keyword_wizard_name_2" korean="Халаты" />
+	<block key="ui_lobbycharcreate_keyword_wizard_name_3" korean="Атрибут" />
+	<block key="ui_lobbycharcreate_keyword_wizard_name_4" korean="Магия" />
+	<block key="ui_lobbycharcreate_keyword_wizard_description_1" korean="Используя обе руки, волшебную палочку и более мощные магические атаки." />
+	<block key="ui_lobbycharcreate_keyword_wizard_description_2" korean="Для улучшения физической слабости и заклинаний носить легкую одежду." />
+	<block key="ui_lobbycharcreate_keyword_wizard_description_3" korean="Свобода продемонстрировать способность управлять бафф или к физическим имущество, принадлежащее собственность." />
+	<block key="ui_lobbycharcreate_keyword_wizard_description_4" korean="В опасной битвы, чтобы бросить магическую атаку прохладной и красочные высоким интеллектом свободно." />
+	<block key="ui_lobbycharcreate_keyword_nature_name_1" korean="Лук" />
+	<block key="ui_lobbycharcreate_keyword_nature_name_2" korean="Шкварки" />
+	<block key="ui_lobbycharcreate_keyword_nature_name_3" korean="Отзыв" />
+	<block key="ui_lobbycharcreate_keyword_nature_name_4" korean="Дружелюбный" />
+	<block key="ui_lobbycharcreate_keyword_nature_description_1" korean="Используйте лук, чтобы покорить не приехали издалека, чтобы не дать врагу." />
+	<block key="ui_lobbycharcreate_keyword_nature_description_2" korean="Легкие наручники для борьбы с врагом приближается к окрестностям." />
+	<block key="ui_lobbycharcreate_keyword_nature_description_3" korean="Призыв духов природы, чтобы использовать бафф, который поможет в бою." />
+	<block key="ui_lobbycharcreate_keyword_nature_description_4" korean="Стипендиаты и близость к максимально расширить возможности высоких стипендиатов." />
+	<block key="ui_lobbycharcreate_keyword_thief_name_1" korean="Распростертыми объятиями" />
+	<block key="ui_lobbycharcreate_keyword_thief_name_2" korean="Шкварки" />
+	<block key="ui_lobbycharcreate_keyword_thief_name_3" korean="Скорость" />
+	<block key="ui_lobbycharcreate_keyword_thief_name_4" korean="Уклонение" />
+	<block key="ui_lobbycharcreate_keyword_thief_description_1" korean="С распростертыми объятиями носить кинжал бить врага с быстрой скоростью и высоким критический момент." />
+	<block key="ui_lobbycharcreate_keyword_thief_description_2" korean="Легкие наручники быстро увернуться от вражеских нападений и гладкий." />
+	<block key="ui_lobbycharcreate_keyword_thief_description_3" korean="Эта цель будет использовать различные мужчины и женщины, и плоть от рвения не сосредоточиться, вы не можете увидеть много." />
+	<block key="ui_lobbycharcreate_keyword_thief_description_4" korean="Любой неблагоприятное положение обратное гибкость, чтобы избежать ситуации." />
+	<block key="ui_lobbycharcreate_keyword_guardian_name_1" korean="Одноручных мечей" />
+	<block key="ui_lobbycharcreate_keyword_guardian_name_2" korean="Heavy Armor" />
+	<block key="ui_lobbycharcreate_keyword_guardian_name_3" korean="Щит" />
+	<block key="ui_lobbycharcreate_keyword_guardian_name_4" korean="Подавление" />
+	<block key="ui_lobbycharcreate_keyword_guardian_description_1" korean="Одна рука, можно использовать различные непрерывные атаки мечом." />
+	<block key="ui_lobbycharcreate_keyword_guardian_description_2" korean="Носите толстые тяжелые доспехи, чтобы защитить своих союзников на переднем крае битвы." />
+	<block key="ui_lobbycharcreate_keyword_guardian_description_3" korean="Защита начали ломаться и атаковать цель носить щит в то же время." />
+	<block key="ui_lobbycharcreate_keyword_guardian_description_4" korean="Исследуйте враги ssatyeodo спокойно инактивации противника." />
+	<block key="ui_lobbycharcustomize_leftpanel_equiptryon" korean="Место оборудование" />
+	<block key="ui_lobbycharcustomize_leftpanel_createimpossible" korean="Вы не можете создать больше ни характер." />
+	<block key="ui_fellowelemental_nomal" korean="\u003cЦвет шрифта = \Нападения на физические свойства, высокая броня для физического." />
+	<block key="ui_fellowelemental_fire" korean="\u003cЦвет шрифта = \Атака огнем имущества, выше броня на огонь." />
+	<block key="ui_fellowelemental_ice" korean="\u003cЦвет шрифта = \Атака свойств льда, высокая броня на льду." />
+	<block key="ui_fellowelemental_light" korean="\u003cЦвет шрифта = \Атаки легких свойствами, высокой доспехи на свет." />
+	<block key="ui_fellowelemental_dark" korean="\u003cЦвет шрифта = \Темные нападения атрибутов, броня для тьме высока." />
+	<block key="ui_fellowspiderweb_average" korean="\u003cЦвет шрифта = \Если статистика соплеменников выше, чем этой линии означает, что способность выше среднего сотрудника." />
+	<block key="ui_fellowspiderweb_1" korean="\u003cЦвет шрифта = \значит." />
+	<block key="ui_fellowspiderweb_2" korean="\u003cЦвет шрифта = \." />
+	<block key="ui_fellowspiderweb_3" korean="\u003cЦвет шрифта = \значит." />
+	<block key="ui_fellowspiderweb_4" korean="\u003cЦвет шрифта = \значит." />
+	<block key="ui_fellow_value_1" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellow_value_2" korean="\u003cцвет шрифта = \" />
+	<block key="ui_fellow_value_3" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellow_value_4" korean="\u003cцвет шрифта = \" />
+	<block key="ui_fellow_value_5" korean="\u003cцвет шрифта = \" />
+	<block key="ui_fellowattack_attackpow" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellowattack_wpspellplus" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellowattack_attackspeed" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellowattack_wpcrirate" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellowattack_wphitrateplus" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellowdefense_defenserate" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellowdefense_firedefpowplus" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellowdefense_icedefpowplus" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellowdefense_lightdefpowplus" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellowdefense_darkdefpowplus" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellowdefense_avdrateplus" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_fellowsoulstone" korean="Душа связанное состояние не может определить достижимую younghonseok минимума." />
+	<block key="ui_btn_repair" korean="Индивидуальный ремонт" />
+	<block key="ui_btn_allrepair" korean="Полный комплекс услуг" />
+	<block key="ui_lobbycharselector_label_characterinfo" korean="Информация о персонаже" />
+	<block key="ui_btn_helptopic" korean="Помогите" />
+	<block key="ui_btn_lock" korean="Блокировка" />
+	<block key="ui_btn_refresh" korean="Сортировать по" />
+	<block key="ui_lobbycustomizeleftpanel_experience" korean="Вы не можете создать больше символов может быть изменен. Украсьте продвижения вашего персонажа красиво." />
+	<block key="ui_btn_rader_map" korean="M: Карта мира \u003cbr\u003e N: прозрачный карта" />
+	<block key="ui_btn_fellowinfo_xp" korean="XP" />
+	<block key="ui_btn_quickslot_menu" korean="Меню" />
+	<block key="ui_btn_quickslot_pcskill" korean="Навыки игрока" />
+	<block key="ui_btn_quickslot_pcboardskill" korean="Интернаты навыки" />
+	<block key="ui_btn_fellowinfo_soul" korean="Душа связи" />
+	<block key="ui_tooltip_consume_potion" korean="Жидкие лекарственные" />
+	<block key="ui_tooltip_consume_food" korean="Еда" />
+	<block key="ui_tooltip_consume_bandage" korean="Бандаж" />
+	<block key="ui_tooltip_consume_scenario" korean="Сценарии" />
+	<block key="ui_tooltip_consume_summon" korean="Отзыв" />
+	<block key="ui_tooltip_consume_returnregister" korean="Вернуться реестр местоположения" />
+	<block key="ui_tooltip_consume_returnremove" korean="Место возврата удален" />
+	<block key="ui_tooltip_consume_returnstone" korean="Gwihwanseok" />
+	<block key="ui_tooltip_consume_reinforcestone" korean="Обновление камень" />
+	<block key="ui_tooltip_consume_extractiontool" korean="Инструмент для извлечения" />
+	<block key="ui_tooltip_consume_toggle" korean="Тип Потребление" />
+	<block key="ui_tooltip_consume_warp" korean="Основа" />
+	<block key="ui_tooltip_consume_combineIngredient" korean="Сочетание материалов" />
+	<block key="ui_tooltip_consume_fellow" korean="Попутчики СМИ" />
+	<block key="ui_tooltip_consume_fellowchangename" korean="Сотрудник Изменить имя" />
+	<block key="ui_tooltip_consume_farmseed" korean="Семена" />
+	<block key="ui_tooltip_consume_soulTalents" korean="Характеристики Расширение" />
+	<block key="ui_tooltip_consumegauge" korean="Потребление" />
+	<block key="ui_tab_characterinfo_myinfo" korean="Мой Счет" />
+	<block key="ui_tab_characterinfo_characteristic" korean="Характеристика" />
+	<block key="ui_tab_characterinfo_property" korean="Атрибут" />
+	<block key="ui_tab_actionlist_common" korean="Функция" />
+	<block key="ui_tab_actionlist_community" korean="Сообщество" />
+	<block key="ui_tab_actionlist_skill" korean="Умение" />
+	<block key="ui_tab_actionlist_collection" korean="Сборник / производства" />
+	<block key="ui_tab_actionlist_emotion" korean="Эмоции" />
+	<block key="ui_tab_skill_class" korean="Класс" />
+	<block key="ui_tab_skill_riding" korean="Посадка" />
+	<block key="ui_button_skill_learn" korean="Изучение" />
+	<block key="ui_totalmap_portalview" korean="Просмотр полной карты" />
+	<block key="ui_zonemap_portalview" korean="Посмотреть Карта Местности" />
+	<block key="fellowinfo" korean="Базовая информация" />
+	<block key="sell_list" korean="Продажа" />
+	<block key="rebuy_list" korean="Выкуп" />
+	<block key="noneprioritize" korean="Не выбрано" />
+	<block key="questprioritize" korean="Quest Items первых" />
+	<block key="consumeprioritize" korean="Потребление элементы сначала" />
+	<block key="otherprioritize" korean="Другие товары Первая" />
+	<block key="weaponprioritize" korean="Оружие элементы сначала" />
+	<block key="armorprioritize" korean="Доспехи элементы сначала" />
+	<block key="gearprioritize" korean="Оборудование элементы сначала" />
+	<block key="materialprioritize" korean="Материал элементы сначала" />
+	<block key="ui_tab_maillist_receive" korean="Входящие" />
+	<block key="ui_tab_maillist_write" korean="Послать" />
+	<block key="ui_tab_maillist_sent" korean="Отправленные" />
+	<block key="ui_skill_no_need_skill_name" korean="Там нет навыка требуется." />
+	<block key="ui_skill_need_skill_name" korean="Там нет навыка требуется." />
+	<block key="ui_fellowbook_listempty" korean="Нет список" />
+	<block key="ui_fellowbook_infoempty" korean="Сотрудник доступной информации." />
+	<block key="chat_exe_party_invite" korean="Приглашение на вечеринку" />
+	<block key="chat_exe_party_delegation" korean="Партия Делегация" />
+	<block key="chat_exe_party_kick" korean="Члены партии исключен" />
+	<block key="chat_exe_party_leave" korean="Партия вывести" />
+	<block key="chat_exe_party_release" korean="Партия релиз" />
+	<block key="chat_exe_trade_invite" korean="Сделка" />
+	<block key="chat_exe_duel_invite" korean="Поединок" />
+	<block key="chat_exe_party_duel_invite" korean="Партия поединок" />
+	<block key="chat_exe_friend_invite" korean="Пригласить друзей" />
+	<block key="chat_exe_guild_invite" korean="Гильдия Приглашение" />
+	<block key="chat_exe_guild_leave" korean="Гильдия Снятие" />
+	<block key="chat_exe_guild_kick" korean="Гильдия депортация" />
+	<block key="ui_systemmenu" korean="Игра Меню" />
+	<block key="ui_characterinfo_slottooltip_helmet" korean="Глава" />
+	<block key="ui_characterinfo_slottooltip_style1" korean="Форма" />
+	<block key="ui_characterinfo_slottooltip_Necklace" korean="Ожерелье" />
+	<block key="ui_characterinfo_slottooltip_Shoulders" korean="Плечо" />
+	<block key="ui_characterinfo_slottooltip_Jacket" korean="Тело" />
+	<block key="ui_characterinfo_slottooltip_Gloves" korean="Рука" />
+	<block key="ui_characterinfo_slottooltip_Ring1" korean="Кольцо" />
+	<block key="ui_characterinfo_slottooltip_Ring2" korean="Кольцо" />
+	<block key="ui_characterinfo_slottooltip_Shoes" korean="Фут" />
+	<block key="ui_characterinfo_slottooltip_RidingRightHand" korean="Интернаты оружие" />
+	<block key="ui_characterinfo_slottooltip_RidingSub" korean="Интернаты оружие" />
+	<block key="ui_characterinfo_slottooltip_RidingswapRightHand" korean="Замена оружием на борту" />
+	<block key="ui_characterinfo_slottooltip_RidingswapSub" korean="Замена оружием на борту" />
+	<block key="ui_characterinfo_slottooltip_RightHand" korean="Десница" />
+	<block key="ui_characterinfo_slottooltip_Sub" korean="Левша" />
+	<block key="ui_characterinfo_label_stat" korean="Статистика" />
+	<block key="ui_characterinfo_label_str" korean="Мощность" />
+	<block key="ui_characterinfo_label_dex" korean="Интеллект" />
+	<block key="ui_characterinfo_label_vtl" korean="Ловкость" />
+	<block key="ui_characterinfo_label_int" korean="Интеллект" />
+	<block key="ui_characterinfo_label_mtl" korean="Умонастроение" />
+	<block key="ui_gamemenu_characterinfo" korean="Персонажи" />
+	<block key="ui_gamemenu_questinfo" korean="Поиск" />
+	<block key="ui_gamemenu_systemmenu" korean="Меню (ESC)" />
+	<block key="ui_gamemenu_friend" korean="Друг" />
+	<block key="ui_gamemenu_alliance" korean="Влияние" />
+	<block key="ui_gamemenu_help" korean="Помогите" />
+	<block key="ui_gamemenu_gm" korean="GM" />
+	<block key="ui_quickslot_class" korean="Слот класс" />
+	<block key="ui_quickslot_board" korean="Слот платы" />
+	<block key="ui_inventory_range" korean="Сортировать по" />
+	<block key="ui_charinfo_detailinfo" korean="Более подробная информация" />
+	<block key="ui_quest_reward" korean="Компенсация" />
+	<block key="ui_quest_reward_base" korean="Основные Компенсация" />
+	<block key="ui_quest_reward_select" korean="Выберите компенсации" />
+	<block key="ui_quest_task" korean="Долг" />
+	<block key="ui_quest_report_finish" korean="Результаты, представленные" />
+	<block key="ui_ci_name" korean="Введите имена персонажей.\n2-8 символы хангыль (США 2 до 16 символов), вы можете создать до." />
+	<block key="ui_show_can_use_item" korean="Доступные пункты" />
+	<block key="ui_channel_dungeon" korean="Темница" />
+	<block key="ui_channel_eventchannel" korean="Сценарии" />
+	<block key="ui_attainment_learnskill" korean="Мы узнаем новые навыки." />
+	<block key="ui_npcpotal_title" korean="Портал" />
+	<block key="ui_graphic_screensetting" korean="Настройки отображения" />
+	<block key="ui_graphic_totalsetting" korean="Полный комплект" />
+	<block key="ui_graphic_quality" korean="Качество графики" />
+	<block key="ui_graphic_viewdst" korean="Поле зрения" />
+	<block key="ui_graphic_displaylimit" korean="Экспресс ограничение" />
+	<block key="ui_graphic_light" korean="Свет" />
+	<block key="ui_graphic_higheffect" korean="Продвинутый" />
+	<block key="ui_graphic_etc" korean="Гитара" />
+	<block key="ui_graphic_lod" korean="LOD" />
+	<block key="game" korean="Настройки игры" />
+	<block key="ui_game_name" korean="Имя" />
+	<block key="ui_game_statusbar" korean="Строка состояния" />
+	<block key="ui_game_community" korean="Сообщество" />
+	<block key="ui_game_combatinfo" korean="Битва Информация" />
+	<block key="ui_game_extendquickslot" korean="Слоты расширения" />
+	<block key="ui_game_camera" korean="Камера" />
+	<block key="ui_game_gauge" korean="Калибр" />
+	<block key="ui_game_etc" korean="Гитара" />
+	<block key="ui_shortcut_control" korean="Операция" />
+	<block key="ui_shortcut_menu" korean="Меню" />
+	<block key="ui_shortcut_combat" korean="Битва" />
+	<block key="ui_shortcut_party" korean="Партия" />
+	<block key="ui_shortcut_token" korean="Жетоны" />
+	<block key="ui_shortcut_basicquickslot" korean="Первичная слот" />
+	<block key="ui_shortcut_extendquickslot" korean="Слоты расширения" />
+	<block key="ui_tab_friendlist_friend" korean="Друг" />
+	<block key="ui_tab_friendlist_delfriend" korean="Удалить друга" />
+	<block key="quick_trade_invite" korean="Запрос сделка" />
+	<block key="quick_party_invite" korean="Приглашение на вечеринку" />
+	<block key="quick_party_kick_member" korean="Исключили из партии" />
+	<block key="quick_party_change_master" korean="Партия Делегация" />
+	<block key="quick_party_leave" korean="Оставляя партия" />
+	<block key="quick_party_distribution" korean="Лут распространения" />
+	<block key="ui_player_gauge_hp" korean="Если жизнь персонажа является 0 смерти." />
+	<block key="ui_player_gauge_mp" korean="Потребляет маны, вы можете использовать навыки и заклинания." />
+	<block key="ui_player_gauge_fp" korean="Потребляя гнева может использовать навыки, созданные во время боя и постепенно будет уменьшаться при выходе из боя." />
+	<block key="ui_player_gauge_tp" korean="Потребление энергии и может быть использовано для навыка, после не-борьбы, когда автоматически восстанавливается раз." />
+	<block key="ui_player_gauge_sp" korean="Вы можете потреблять знак света, использовать специальные навыки единственным священником." />
+	<block key="ui_player_gauge_ep" korean="Потребляет энергию сотрудник на борту, вы можете использовать Move Up и мастерство." />
+	<block key="ui_createjob_warrior" korean="Неистовый" />
+	<block key="ui_createjob_guardian" korean="Хранитель" />
+	<block key="ui_createjob_thief" korean="Убийца" />
+	<block key="ui_createjob_wizard" korean="Мастера" />
+	<block key="ui_createjob_priest" korean="Священники" />
+	<block key="ui_createjob_archer" korean="Рейнджер" />
+	<block key="quick_instancedungeon_initial" korean="Инициализация Indeon" />
+	<block key="quick_friend_registration" korean="Друзья" />
+	<block key="quick_whisper" korean="Шепот" />
+	<block key="shortcut_moveforward" korean="Назад в будущее" />
+	<block key="shortcut_moveforward_sub" korean="Перемотка вперед (вторичный)" />
+	<block key="shortcut_moveback" korean="Вернуться к началу" />
+	<block key="shortcut_moveback_sub" korean="Rewind (вторичный)" />
+	<block key="shortcut_rotateleft" korean="Поворот влево" />
+	<block key="shortcut_rotateleft_sub" korean="Поворот влево (вторичный)" />
+	<block key="shortcut_rotateright" korean="Поворот вправо" />
+	<block key="shortcut_rotateright_sub" korean="Поворот вправо (вторичный)" />
+	<block key="shortcut_moveleft" korean="Идите налево" />
+	<block key="shortcut_moveleft_sub" korean="Идите налево (вторичный)" />
+	<block key="shortcut_moveright" korean="Идите направо" />
+	<block key="shortcut_moveright_sub" korean="Идите направо (вторичный)" />
+	<block key="shortcut_autointeraction" korean="Разговор / шт Сбор" />
+	<block key="shortcut_autointeraction_sub" korean="Разговор / шт подобрать (вторичный)" />
+	<block key="shortcut_change_move_stance" korean="Запуск / Туризм" />
+	<block key="shortcut_change_move_stance_sub" korean="Запуск / ходьба (вторичный)" />
+	<block key="shortcut_autorunkeyboard" korean="Автозапуск" />
+	<block key="shortcut_autorunkeyboard_sub" korean="Автоматический запуск (вторичный)" />
+	<block key="shortcut_sitstandup" korean="Сядьте / встаньте" />
+	<block key="shortcut_sitstandup_sub" korean="Сядьте / встаньте (вторичный)" />
+	<block key="shortcut_moveupward" korean="Переход / Fly на повышение / скольжения полета" />
+	<block key="shortcut_moveupward_sub" korean="Переход / Fly на повышение / час полета вниз по склону (вторичный)" />
+	<block key="shortcut_movedownward" korean="Спуск полета" />
+	<block key="shortcut_movedownward_sub" korean="Падение рейс (вторичный)" />
+	<block key="shortcut_ride" korean="Сотрудник доска" />
+	<block key="shortcut_ride_sub" korean="Сотрудник доска (вторичный)" />
+	<block key="shortcut_ui_toggle_character_info" korean="Информация о персонаже окна" />
+	<block key="shortcut_ui_toggle_character_info_sub" korean="Информация Характер окно (вторичный)" />
+	<block key="shortcut_ui_toggle_fellowinfo" korean="Сотрудник Область" />
+	<block key="shortcut_ui_toggle_fellowinfo_sub" korean="Сотрудник панель (вторичный)" />
+	<block key="shortcut_ui_toggle_fellowbook" korean="Сотрудник Книга" />
+	<block key="shortcut_ui_toggle_fellowbook_sub" korean="Сотрудник Book (вторичный)" />
+	<block key="shortcut_ui_toggle_skilltree" korean="Умение" />
+	<block key="shortcut_ui_toggle_skilltree_sub" korean="Навыки (вторичный)" />
+	<block key="shortcut_ui_toggle_questlist" korean="Поиск" />
+	<block key="shortcut_ui_toggle_questlist_sub" korean="Quest (вторичный)" />
+	<block key="shortcut_ui_toggle_inventory" korean="Мешок" />
+	<block key="shortcut_ui_toggle_inventory_sub" korean="Bag (вторичный)" />
+	<block key="shortcut_ui_toggle_actionlist" korean="Список действий" />
+	<block key="shortcut_ui_toggle_actionlist_sub" korean="Список действий (вторичный)" />
+	<block key="shortcut_ui_toggle_worldmap_default" korean="Карта" />
+	<block key="shortcut_ui_toggle_worldmap_default_sub" korean="Карта (вторичный)" />
+	<block key="shortcut_ui_toggle_friendlist" korean="Друг" />
+	<block key="shortcut_ui_toggle_friendlist_sub" korean="Друзья (вторичный)" />
+	<block key="shortcut_ui_toggle_gm" korean="GM" />
+	<block key="shortcut_ui_toggle_gm_sub" korean="GM (вторичный)" />
+	<block key="shortcut_ui_toggle_guild" korean="Гильдия" />
+	<block key="shortcut_ui_toggle_guild_sub" korean="Гильдия (вторичный)" />
+	<block key="shortcut_ui_toggle_raid" korean="Рейд" />
+	<block key="shortcut_ui_toggle_raid_sub" korean="Raid (вторичный)" />
+	<block key="shortcut_ui_toggle_helptopic" korean="Помогите" />
+	<block key="shortcut_ui_toggle_helptopic_sub" korean="Помощь (помощник)" />
+	<block key="shortcut_ui_toggle_option" korean="Опции игры" />
+	<block key="shortcut_ui_toggle_option_sub" korean="Опции игры (вторичный)" />
+	<block key="shortcut_combat_changecombatstance" korean="Боевой / общее преобразование отношение" />
+	<block key="shortcut_combat_changecombatstance_sub" korean="Преобразование Боевой / общее отношение (вторичный)" />
+	<block key="shortcut_combat_nearenemyselect" korean="Выберите ближайшего врага" />
+	<block key="shortcut_combat_nearenemyselect_sub" korean="Близлежащие выбор (вторичный)" />
+	<block key="shortcut_combat_markselect" korean="Выберите признаки назначения" />
+	<block key="shortcut_combat_markselect_sub" korean="Марк Выбор цели (вторичный)" />
+	<block key="shortcut_combat_targetoftargetselect" korean="Выберите объекты" />
+	<block key="shortcut_combat_targetoftargetselect_sub" korean="Цель отбора целевой (вторичный)" />
+	<block key="shortcut_combat_linkskill1" korean="Yeongyegi 1" />
+	<block key="shortcut_combat_linkskill1_sub" korean="Yeongyegi 1 (вторичный)" />
+	<block key="shortcut_combat_linkskill2" korean="Yeongyegi 2" />
+	<block key="shortcut_combat_linkskill2_sub" korean="Yeongyegi 2 (вторичный)" />
+	<block key="shortcut_combat_linkskill3" korean="Yeongyegi 3" />
+	<block key="shortcut_combat_linkskill3_sub" korean="Yeongyegi 3 (вторичный)" />
+	<block key="shortcut_combat_linkskill4" korean="Yeongyegi 4" />
+	<block key="shortcut_combat_linkskill4_sub" korean="Yeongyegi 4 (вторичный)" />
+	<block key="shortcut_party_myplayerselect" korean="Выберите свой собственный" />
+	<block key="shortcut_party_myplayerselect_sub" korean="Выбери свой (вторичный)" />
+	<block key="shortcut_party_member1select" korean="Выберите одну партию" />
+	<block key="shortcut_party_member1select_sub" korean="Выберите одну партию (вторичный)" />
+	<block key="shortcut_party_member2select" korean="2 Выберите партию" />
+	<block key="shortcut_party_member2select_sub" korean="2 Выберите партию (вторичный)" />
+	<block key="shortcut_party_member3select" korean="Выбор третьей стороной" />
+	<block key="shortcut_party_member3select_sub" korean="Выбор третий участник (вторичный)" />
+	<block key="shortcut_party_member4select" korean="4 Выберите абонента" />
+	<block key="shortcut_party_member4select_sub" korean="4 Выберите абонента (вторичный)" />
+	<block key="shortcut_token_deletetoken" korean="Отмечать" />
+	<block key="shortcut_token_deletetoken_sub" korean="Отметить выключен (вторичный)" />
+	<block key="shortcut_mark_1_display" korean="Марк 1 Показать" />
+	<block key="shortcut_mark_1_display_sub" korean="Марк 1 знак (вторичный)" />
+	<block key="shortcut_mark_2_display" korean="Mark 2 шоу" />
+	<block key="shortcut_mark_2_display_sub" korean="Mark 2 Дисплей (вторичный)" />
+	<block key="shortcut_mark_3_display" korean="Показаны признаки" />
+	<block key="shortcut_mark_3_display_sub" korean="Показаны признаки (вторичная)" />
+	<block key="shortcut_mark_4_display" korean="Марк Шилдс Показать" />
+	<block key="shortcut_mark_4_display_sub" korean="Марк Шилдс отображается (вспомогательная)" />
+	<block key="shortcut_mark_5_display" korean="Отметить меч дисплей" />
+	<block key="shortcut_mark_5_display_sub" korean="Появляются признаки меч (вторичный)" />
+	<block key="shortcut_mark_6_display" korean="Отметить перекрестие" />
+	<block key="shortcut_mark_6_display_sub" korean="Отметить перекрестие (вторичный)" />
+	<block key="shortcut_mark_7_display" korean="Показать признаки сна" />
+	<block key="shortcut_mark_7_display_sub" korean="Показать признаки сна (вторичная)" />
+	<block key="shortcut_mark_8_display" korean="Стрелки показывают признаки" />
+	<block key="shortcut_mark_8_display_sub" korean="Вход стрелка (вторичный)" />
+	<block key="shortcut_mark_9_display" korean="Запрещающие знаки показывают," />
+	<block key="shortcut_mark_9_display_sub" korean="Появляются запрещающие знаки (вторичный)" />
+	<block key="shortcut_quickslot_0" korean="Основные Slot 1" />
+	<block key="shortcut_quickslot_0_sub" korean="Основные Slot 1 (вторичный)" />
+	<block key="shortcut_quickslot_1" korean="Основные Слот 2" />
+	<block key="shortcut_quickslot_1_sub" korean="Основные Слот 2 (вторичный)" />
+	<block key="shortcut_quickslot_2" korean="Основные Слот 3" />
+	<block key="shortcut_quickslot_2_sub" korean="Основные Слот 3 (вторичный)" />
+	<block key="shortcut_quickslot_3" korean="Основные Слот 4" />
+	<block key="shortcut_quickslot_3_sub" korean="Основные Слот 4 (вторичный)" />
+	<block key="shortcut_quickslot_4" korean="Основные Слот 5" />
+	<block key="shortcut_quickslot_4_sub" korean="Основные Слот 5 (вторичный)" />
+	<block key="shortcut_quickslot_5" korean="Основные Слот 6" />
+	<block key="shortcut_quickslot_5_sub" korean="Основные Слот 6 (вторичный)" />
+	<block key="shortcut_quickslot_6" korean="Основные Слот 7" />
+	<block key="shortcut_quickslot_6_sub" korean="Основные слот 7 (вторичный)" />
+	<block key="shortcut_quickslot_7" korean="Основные Слот 8" />
+	<block key="shortcut_quickslot_7_sub" korean="Основные Слот 8 (вторичный)" />
+	<block key="shortcut_quickslot_8" korean="Основные Слот 9" />
+	<block key="shortcut_quickslot_8_sub" korean="Основные слот 9 (вторичный)" />
+	<block key="shortcut_quickslot_9" korean="Основные слот 10" />
+	<block key="shortcut_quickslot_9_sub" korean="Основные слот 10 (вторичный)" />
+	<block key="shortcut_quickslot_10" korean="Основные слот 11" />
+	<block key="shortcut_quickslot_10_sub" korean="Базовая слот 11 (вторичный)" />
+	<block key="shortcut_quickslot_11" korean="Основные слот 12" />
+	<block key="shortcut_quickslot_11_sub" korean="Базовая слот 12 (вторичный)" />
+	<block key="shortcut_exquickslot_0" korean="Слоты расширения 1" />
+	<block key="shortcut_exquickslot_0_sub" korean="Слот расширения (вторичный)" />
+	<block key="shortcut_exquickslot_1" korean="Слоты расширения 2" />
+	<block key="shortcut_exquickslot_1_sub" korean="Слот расширения 2 (вторичный)" />
+	<block key="shortcut_exquickslot_2" korean="Слоты расширения 3" />
+	<block key="shortcut_exquickslot_2_sub" korean="Слот расширения 3 (вторичный)" />
+	<block key="shortcut_exquickslot_3" korean="Слоты расширения 4" />
+	<block key="shortcut_exquickslot_3_sub" korean="Слот расширения 4 (вторичный)" />
+	<block key="shortcut_exquickslot_4" korean="Слоты расширения 5" />
+	<block key="shortcut_exquickslot_4_sub" korean="Слот расширения 5 (вторичный)" />
+	<block key="shortcut_exquickslot_5" korean="6 слотов расширения" />
+	<block key="shortcut_exquickslot_5_sub" korean="6 слотов расширения (вторичный)" />
+	<block key="shortcut_exquickslot_6" korean="Слоты расширения 7" />
+	<block key="shortcut_exquickslot_6_sub" korean="Слоты расширения 7 (Secondary)" />
+	<block key="shortcut_exquickslot_7" korean="8 слотов расширения" />
+	<block key="shortcut_exquickslot_7_sub" korean="Слот расширения 8 (вторичный)" />
+	<block key="shortcut_exquickslot_8" korean="Слот расширения 9" />
+	<block key="shortcut_exquickslot_8_sub" korean="Слоты расширения 9 (вторичный)" />
+	<block key="shortcut_exquickslot_9" korean="Слот расширения 10" />
+	<block key="shortcut_exquickslot_9_sub" korean="10 слот расширения (вторичный)" />
+	<block key="shortcut_exquickslot_10" korean="Слот расширения 11" />
+	<block key="shortcut_exquickslot_10_sub" korean="11 слот расширения (вторичный)" />
+	<block key="shortcut_exquickslot_11" korean="Слот расширения 12" />
+	<block key="shortcut_exquickslot_11_sub" korean="12 слот расширения (вторичный)" />
+	<block key="shortcut_fquickslot_0" korean="Сотрудник Слот Скорость 1" />
+	<block key="shortcut_fquickslot_0_sub" korean="Сотрудник Слот Скорость 1 (вторичный)" />
+	<block key="shortcut_fquickslot_1" korean="Сотрудник Скорость Слот 2" />
+	<block key="shortcut_fquickslot_1_sub" korean="Сотрудник Скорость Слот 2 (вторичный)" />
+	<block key="shortcut_fquickslot_2" korean="Сотрудник Слот Скорость 3" />
+	<block key="shortcut_fquickslot_2_sub" korean="Сотрудник Слот Скорость 3 (вторичный)" />
+	<block key="shortcut_fquickslot_3" korean="Сотрудник Слот Скорость 4" />
+	<block key="shortcut_fquickslot_3_sub" korean="Сотрудник Слот Скорость 4 (вторичный)" />
+	<block key="shortcut_fquickslot_4" korean="Сотрудник Слот Скорость 5" />
+	<block key="shortcut_fquickslot_4_sub" korean="Сотрудник Слот Скорость 5 (вторичный)" />
+	<block key="shortcutkeydefaultdesc" korean="Нажмите клавишу ESC, чтобы отменить настройку горячих клавиш." />
+	<block key="shortcut_ui_toggle_partyboard" korean="Правление партии" />
+	<block key="shortcut_ui_toggle_partyboard_sub" korean="Правление партии (вторичный)" />
+	<block key="shortcut_ui_toggle_itemproduction" korean="Производство" />
+	<block key="shortcut_ui_toggle_itemproduction_sub" korean="Производство (вторичный)" />
+	<block key="shortcut_combat_nearallyselect" korean="Выберите близкого союзника" />
+	<block key="shortcut_combat_nearallyselect_sub" korean="Выберите близкими союзниками (вторичный)" />
+	<block key="shortcut_combat_recommandskill" korean="Рекомендуемые навыки" />
+	<block key="shortcut_combat_recommandskill_sub" korean="Рекомендуемые навыки (вторичный)" />
+	<block key="shortcut_combat_toggle_ridingmode" korean="Когда путешествия по пересеченной фиксации волос" />
+	<block key="shortcut_combat_toggle_ridingmode_sub" korean="На борту прицел фиксированной (вторичный)" />
+	<block key="shortcut_combat_combotriggerskill" korean="Trigger навыки" />
+	<block key="shortcut_combat_combotriggerskill_sub" korean="Активируйте умение (вторичный)" />
+	<block key="shortcut_combat_ridingweaponswap" korean="Своп оружие интернат" />
+	<block key="shortcut_combat_ridingweaponswap(" korean="Своп-интернат оружие (вторичный)" />
+	<block key="shortcut_fquickslotcom_0" korean="Режим AI" />
+	<block key="shortcut_fquickslotcom_0 _sub" korean="Режим AI (вторичный)" />
+	<block key="shortcut_fquickslotcom_1" korean="Следовать" />
+	<block key="shortcut_fquickslotcom_1_sub" korean="В верхней (вторичной)" />
+	<block key="shortcut_fquickslotcom_2" korean="Укажите расположение" />
+	<block key="shortcut_fquickslotcom_2_sub" korean="Позиционирование (вторичный)" />
+	<block key="shortcut_fquickslotcom_3" korean="Нацеливание" />
+	<block key="shortcut_fquickslotcom_3_sub" korean="Ориентация (вторичный)" />
+	<block key="shortcut_fquickslotskill_0" korean="Сотрудник Слот Скорость 1" />
+	<block key="shortcut_fquickslotskill_0_sub" korean="Сотрудник Слот Скорость 1 (вторичный)" />
+	<block key="shortcut_fquickslotskill_1" korean="Сотрудник Скорость Слот 2" />
+	<block key="shortcut_fquickslotskill_1_sub" korean="Сотрудник Скорость Слот 2 (вторичный)" />
+	<block key="shortcut_fquickslotskill_2" korean="Сотрудник Слот Скорость 3" />
+	<block key="shortcut_fquickslotskill_2_sub" korean="Сотрудник Слот Скорость 3 (вторичный)" />
+	<block key="shortcut_fquickslotskill_3" korean="Сотрудник Слот Скорость 4" />
+	<block key="shortcut_fquickslotskill_3_sub" korean="Сотрудник Слот Скорость 4 (вторичный)" />
+	<block key="shortcut_fquickslotskill_4" korean="Сотрудник Слот Скорость 5" />
+	<block key="shortcut_fquickslotskill_4_sub" korean="Сотрудник Слот Скорость 5 (вторичный)" />
+	<block key="shortcut_fellowlistslot_0" korean="Сотрудник сокращен перечень слот 1" />
+	<block key="shortcut_fellowlistslot_0_sub" korean="Сотрудник сокращен перечень слот 1 (вторичный)" />
+	<block key="shortcut_fellowlistslot_1" korean="Сотрудник сокращен перечень слот 2" />
+	<block key="shortcut_fellowlistslot_1_sub" korean="Сотрудник сокращен список Слот 2 (вторичный)" />
+	<block key="shortcut_fellowlistslot_2" korean="Сотрудник сокращен перечень слот 3" />
+	<block key="shortcut_fellowlistslot_2_sub" korean="Сотрудник сокращен перечень слот 3 (вторичный)" />
+	<block key="shortcut_fellowlistslot_3" korean="Сотрудник сокращен перечень слот 4" />
+	<block key="shortcut_fellowlistslot_3_sub" korean="Сотрудник сокращен перечень слот 4 (вторичный)" />
+	<block key="shortcut_fellowlistslot_4" korean="Сотрудник список сокращен слот 5" />
+	<block key="shortcut_fellowlistslot_4_sub" korean="Сотрудник список сокращен слот 5 (вторичный)" />
+	<block key="shortcut_fellowlistslot_5" korean="Сотрудник список сокращен слот 6" />
+	<block key="shortcut_fellowlistslot_5_sub" korean="Сотрудник список сокращен слот 6 (вторичный)" />
+	<block key="shortcut_fellowlistslot_6" korean="Сотрудник список сокращен слот 7" />
+	<block key="shortcut_fellowlistslot_6_sub" korean="Сотрудник список сокращен слот 7 (вторичный)" />
+	<block key="shortcut_fellowlistslot_7" korean="Сотрудник список сокращен слот 8" />
+	<block key="shortcut_fellowlistslot_7_sub" korean="Сотрудник список сокращен слот 8 (вторичный)" />
+	<block key="shortcut_fellowlistslot_8" korean="Сотрудник список сокращен слот 9" />
+	<block key="shortcut_fellowlistslot_8_sub" korean="Сотрудник список сокращен слот 9 (вторичный)" />
+	<block key="shortcut_fellowlistslot_9" korean="Сотрудник сокращен перечень слот 10" />
+	<block key="shortcut_fellowlistslot_9_sub" korean="Сотрудник сокращен перечень слот 10 (вторичный)" />
+	<block key="shortcut_make_film_mode" korean="Скрыть UI" />
+	<block key="shortcut_make_film_mode_sub" korean="UI скрыты (вторичный)" />
+	<block key="duplicationkeydesc" korean="Ключ был освобожден." />
+	<block key="recommendskill" korean="Навыки Ссылка" />
+	<block key="ui_casting_stop" korean="Прерывание" />
+	<block key="learnlevel" korean="Обучение Уровни" />
+	<block key="ui_area_f01_p_1003" korean="Sparkly Tree Camp\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Оружие, аксессуары, продукты питания, терапевты, портал, возврат \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f01_p_1002" korean="Исторические руины\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e терапевт, портал, возврат \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f01_p_1001" korean="Shenron Рыцари лагерь\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Elounda торговцы, оружие, доспехи, зелья, аксессуары, продукты питания, терапевты, Большой портал, обратная связь, почтовый ящик \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f02_p_1001" korean="Келл деревне В лесу\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, производства, Elounda купцы, склад, торговые агенты, оружие, доспехи, зелья, аксессуары, продукты питания, терапевты, почтовый ящик, портал, возврат \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f02_p_1002" korean="Горный приют лагерь Лови волну\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, склады, оружие, броня, аксессуары, расширенный портал, обратная связь, врачи, почтовый ящик \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f02_p_1003" korean="Гаррисон Вудс Рев\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, склады, оружие, броня, аксессуары, почтовый ящик, портал, обратная связь, врачи \u003c/ MAP_T\u003e" />
+	<block key="ui_map_c01_hkcity" korean="Канаш, а также секс\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, Elounda купцы, складские, торговые агенты, оружие, доспехи, зелья, аксессуары, пищевые, терапевты, почтовый ящик, портальные, вернуться \u003c/ MAP_T\u003e" />
+	<block key="ui_game_combatoperate" korean="Боевые действия" />
+	<block key="channel_move_impossible" korean="Мобильный канал доступен после второй." />
+	<block key="channel_move_possible" korean="Движение канала возможно." />
+	<block key="guild_guildmaster" korean="Цеховой мастер" />
+	<block key="guildmenu_party_invitation" korean="Приглашение на вечеринку" />
+	<block key="guildmenu_whisper" korean="Шепот" />
+	<block key="guildmenu_rank_change" korean="Ранг Изменить" />
+	<block key="guildmenu_guild_master_change" korean="Гильдии Делегация" />
+	<block key="guildmenu_guild_kick" korean="Гильдия депортация" />
+	<block key="guildmenu_guild_out" korean="Гильдия Снятие" />
+	<block key="guild_registration_msg" korean="Хотите, чтобы зарегистрировать гильдию?" />
+	<block key="guild_creation" korean="Поколение" />
+	<block key="guild_dissolution_msg" korean="При демонтаже Вы уверены, что хотите? \u003cbr\u003e Гильдия распущена гильдии гильдии вся информация будет удалена." />
+	<block key="guild_dissolution" korean="Демонтаж" />
+	<block key="guild_invitation_msg" korean="Хотите пригласить следующих игроков в гильдии?" />
+	<block key="guild_invitation" korean="Приглашать" />
+	<block key="guildcreation_name_empty" korean="Пожалуйста, введите гильдии имя, которое будет создано." />
+	<block key="guildcreation_name_length" korean="Введенное вами имя уже превысило число букв." />
+	<block key="guildcreation_level_low" korean="Уровень низкий, вы не можете создать гильдию." />
+	<block key="guildcreation_money_small" korean="Средства в кармане не может быть создан из-за отсутствия гильдии." />
+	<block key="guild_master_change_msg" korean="Вы уверены, что хотите делегировать Гильдия магистра?" />
+	<block key="guild_out_msg" korean="Вы уверены, что хотите покинуть гильдию?" />
+	<block key="guild_kick_msg" korean="Вы уверены, что хотите выгнать из гильдии сейчас?" />
+	<block key="guildrank_full" korean="Вы не можете добавить больше классов." />
+	<block key="guildcreation_name_slang" korean="Она включает в себя запретное слово не может быть создан." />
+	<block key="attackbattalion_kick" korean="Raid депортированы" />
+	<block key="attackbattalion_master_change" korean="Лидер рейда делегация" />
+	<block key="quick_attack_battalion" korean="Организаторы рейда" />
+	<block key="attackbattalion_invitation_msg" korean="Введите имя пользователя которого вы хотите пригласить." />
+	<block key="attackbattalion_organize_msg" korean="Вы уверены, что хотите организовать рейд?" />
+	<block key="ui_edit" korean="Сборник" />
+	<block key="ui_save" korean="Магазин" />
+	<block key="fellow_transform_name" korean="Сотрудник штамма" />
+	<block key="battalionchat" korean="Рейд" />
+	<block key="battalioncommandchat" korean="Команда Raid" />
+	<block key="chat_exe_battalion_invite" korean="Пригласить рейд" />
+	<block key="chat_exe_battalion_leave" korean="Raid вывод" />
+	<block key="ui_area_f03_p_0001" korean="Рид ветер деревня\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, производство, Elounda купцы, склад, агент по продажам, оборудование, аксессуары, продукты питания, терапевты, Большой портал, возврат почты \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f03_p_0002" korean="Гаррисон Гаррисон\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, оборудование, аксессуары, терапевты, портал, возврат \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f03_p_0003" korean="Плача Скалы Village\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, склад, оборудование, зелья, терапевты, портал, возврат \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f03_p_0005" korean="Озеро жизни\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, склады, оружие, броня, аксессуары, терапевты, портал, возврат \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f03_p_0004" korean="Волновые рупий поместья\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, оружие, броня, аксессуары, продукты питания, терапевты, портал, возврат \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f09_p_0001" korean="Гаррисон Гаррисон\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, Elounda трейдеры, склады, оружие, броня, аксессуары, терапевты, обратная связь, награды порталы, почтовый ящик \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f09_p_0002" korean="Бар Форт Эллис\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, торговый представитель, сумки, порталы, возврат, терапевты, склад, почта, производство, оружие, доспехи \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f09_p_0005" korean="Воздушная Farm Camp\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, терапевты, портал, возврат к другу \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f04_p_1002" korean="Бурном море\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, Advanced Portal, возврат, терапевты, оружие, броня, аксессуары, продукты питания, Elounda трейдер \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f04_p_1001" korean="Воздушная скаутский лагерь\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, портал, обратная связь, врачи, склад, торговые агенты, почтовый, оружие, аксессуары, продукты питания \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f04_p_1004" korean="Храм потерянных свет\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, портал, обратная связь, врачи, производство, броня, аксессуары, продукты питания \u003c/ MAP_T\u003e" />
+	<block key="ui_area_p01_001" korean="Шлюз к Истине\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, портал, обратная связь, врачи, дилеры монеты, склад, товаров, почты \u003c/ MAP_T\u003e" />
+	<block key="ui_area_p01_002" korean="Halo лагерь\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, портал, обратная связь, врачи, дилеры монеты, склад, торговый агент, должность, производство, товары, продукты питания \u003c/ MAP_T\u003e" />
+	<block key="ui_area_p01_003" korean="Красная тень после\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, портал, обратная связь, врачи, дилеры монеты, принадлежности, продукты питания, склады, почта \u003c/ MAP_T\u003e" />
+	<block key="ui_area_p01_004" korean="Лагерь турбулентности\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, портал, обратная связь, врачи, склад, товар \u003c/ MAP_T\u003e" />
+	<block key="ui_item" korean="Предметы" />
+	<block key="ui_buy_search_word" korean="Название товара" />
+	<block key="ui_search" korean="Извлекать" />
+	<block key="ui_sellprice" korean="Общая стоимость" />
+	<block key="ui_totalitemcount" korean="Один находке." />
+	<block key="ui_auction_initbtn" korean="Сбросить Поиск" />
+	<block key="ui_buybtn" korean="Покупка" />
+	<block key="ui_deadline" korean="Крайний Срок" />
+	<block key="labelsellitemcount" korean="Количество продаж" />
+	<block key="sellregister" korean="Продать" />
+	<block key="ui_aution_sell" korean="Щелкните правой кнопкой мыши на элементе в сумке или окна, вы можете перетащить зарегистрироваться." />
+	<block key="soldtime" korean="Продажа время" />
+	<block key="totalsoldprice" korean="Общая сумма расчетов" />
+	<block key="calculate" korean="Регулировка" />
+	<block key="ui_tab_auction_buy" korean="Покупка" />
+	<block key="ui_tab_auction_sell" korean="Продажа" />
+	<block key="ui_auction_msg_buy" korean="По\nХотите купить?" />
+	<block key="ui_auction_msg_buyprice" korean="Покупная цена" />
+	<block key="ui_auction_msg_cancelsell" korean="Если сумма штрафа не будет возвращена.\nВы уверены, что хотите отменить?" />
+	<block key="ui_auction_msg_sold" korean="Вы уверены, что хотите довольствоваться одного дня?" />
+	<block key="ui_auction_msg_soldprice" korean="Расчет сумма" />
+	<block key="lowprice" korean="Цена: от низкого до высокого" />
+	<block key="highprice" korean="Цена: от высокой к низкой" />
+	<block key="rare" korean="Элита" />
+	<block key="normal" korean="Генерал" />
+	<block key="legend" korean="Легенда" />
+	<block key="ui_fellowbook_collectionbook" korean="Собрание книг" />
+	<block key="ui_fellowbook_area" korean="Площадь" />
+	<block key="auction" korean="Торговый Представитель" />
+	<block key="limittime" korean="Время Вышло" />
+	<block key="chat_exe_party_apply" korean="Поддержка партии" />
+	<block key="chat_exe_battalion_apply" korean="Поддержка RAID" />
+	<block key="ui_partyboard_title" korean="Правление партии" />
+	<block key="ui_partyboard_level" korean="Уровень" />
+	<block key="ui_partyboard_sort" korean="Сортировать по" />
+	<block key="ui_partyboard_partyrecruit" korean="Партия Подбор" />
+	<block key="ui_partyboard_search" korean="Извлекать" />
+	<block key="ui_partyboard_refresh" korean="Обновление" />
+	<block key="ui_partyboard_general" korean="Полнота" />
+	<block key="ui_partyboard_party" korean="Партия" />
+	<block key="ui_partyboard_battalion" korean="Рейд" />
+	<block key="ui_partyboard_apply" korean="Поддержка" />
+	<block key="ui_partyboard_whisper" korean="Шепот" />
+	<block key="ui_partyboard_partyapply" korean="Поддержка партии" />
+	<block key="ui_partyboard_contentregist" korean="Сообщений регистрация" />
+	<block key="ui_partyboard_recruitdelete" korean="Подбор удален" />
+	<block key="ui_partyboard_contentmodify" korean="Редактировать сообщения" />
+	<block key="ui_partyboard_classify" korean="Классификация" />
+	<block key="ui_partyboard_leader" korean="Партия" />
+	<block key="ui_partyboard_content" korean="Содержание" />
+	<block key="ui_partyboard_membercount" korean="Персонал" />
+	<block key="ui_partyboard_member" korean="Член" />
+	<block key="ui_partyboard_name" korean="Имя" />
+	<block key="ui_partyboard_class" korean="Класс" />
+	<block key="ui_partyboard_detailinfo" korean="Более подробная информация" />
+	<block key="ui_enchant_success_00" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_enchant_success_01" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_enchant_success_02" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_enchant_success_03" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_enchant_success_04" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_enchant_fail_00" korean="Не удалась, будет сохранил шаги." />
+	<block key="ui_enchant_fail_01" korean="Может упасть на провал." />
+	<block key="ui_enchant_fail_02" korean="Отказ может быть начато." />
+	<block key="ui_enchant_fail_03" korean="Отказ \u003cFONT COLOR = \" />
+	<block key="ui_partyboardtype_party_recruit" korean="Партия" />
+	<block key="ui_partyboardtype_attackbattalion_recruit" korean="Рейд" />
+	<block key="ui_partyboardtype_apply" korean="Поддержка" />
+	<block key="ui_partyboardtype_invalid" korean="Полнота" />
+	<block key="itemauction_bid_msg" korean="Вы уверены, что хотите участвовать в конкурсе на?" />
+	<block key="itemauction_renounce_msg" korean="Вы уверены, что хотите отказаться от предложение?" />
+	<block key="storage" korean="Склад" />
+	<block key="newest" korean="Новейший" />
+	<block key="totalsellprice" korean="Общая стоимость" />
+	<block key="commission" korean="Комиссия" />
+	<block key="expectprice" korean="Сумма общего объема продаж" />
+	<block key="selllistamount" korean="Предметы зарегистрируйтесь" />
+	<block key="soldlistamount" korean="Продать товар" />
+	<block key="ui_pieceprice" korean="Цена за штуку" />
+	<block key="dungeon_grade_none" korean="Ни один" />
+	<block key="dungeon_grade_normal" korean="Сценарии" />
+	<block key="dungeon_grade_elite" korean="Элита" />
+	<block key="dungeon_grade_hero" korean="Герой" />
+	<block key="itemsearch" korean="Поиск товаров" />
+	<block key="initcondition" korean="Инициализация критерии поиска" />
+	<block key="deadline" korean="Отказ Продам" />
+	<block key="ui_tamingminigame_name_0" korean="Для подавления" />
+	<block key="ui_tamingminigame_name_1" korean="Фитнес-минус" />
+	<block key="ui_tamingminigame_name_2" korean="Для симпатичная" />
+	<block key="ui_tamingminigame_name_3" korean="Чтобы успокоить" />
+	<block key="ui_tamingminigame_message_0" korean="\u003cFONT COLOR = \" />
+	<block key="ui_tamingminigame_message_1" korean="\u003cFONT COLOR = \" />
+	<block key="ui_tamingminigame_message_2" korean="\u003cFONT COLOR = \" />
+	<block key="ui_tamingminigame_message_3" korean="\u003cFONT COLOR = \" />
+	<block key="ui_tamingminigame_message_4" korean="\u003cFONT COLOR = \" />
+	<block key="ui_common_expand" korean="Смотреть более" />
+	<block key="ui_common_collapse" korean="Коллапс" />
+	<block key="product_item_name" korean="Из производства" />
+	<block key="combotriggerskill" korean="Combo ссылки" />
+	<block key="ui_shortcut_fellowquickslot" korean="Сотрудник Quickslot" />
+	<block key="new_mail_count" korean="Новая почта" />
+	<block key="allcancel" korean="Очистить все" />
+	<block key="ui_scenario" korean="Домой" />
+	<block key="ui_general" korean="Служить" />
+	<block key="ui_request" korean="Запрос" />
+	<block key="ui_foothold" korean="Бывший оплот" />
+	<block key="ui_soultalents_block" korean="Этот слот распространяется на уровне." />
+	<block key="ui_soultalents_point" korean="Если вы поместите запечатанный сотрудник будет преобразован в природных сил." />
+	<block key="auction_normal" korean="Общая или более" />
+	<block key="auction_rare" korean="Elite мере" />
+	<block key="auction_hero" korean="Герои более" />
+	<block key="auction_legend" korean="Легенда мере" />
+	<block key="ui_tamingminigame_autogame_0" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_tamingminigame_autogame_1" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_tamingminigame_autogame_2" korean="\u003cЦвет шрифта = \" />
+	<block key="ui_shortcut_etc" korean="Гитара" />
+	<block key="ui_shortcut_fellowlistquickslot" korean="Попутчики ярлыки Библиотека" />
+	<block key="ui_bid" korean="Торги" />
+	<block key="ui_auction_msg_allcancelsell" korean="Если сумма штрафа не будет возвращена.\nВы уверены, что хотите отменить все зарегистрированные элементы?" />
+	<block key="guildrank_name_too_long" korean="Введенный номер слишком длинные письма класса." />
+	<block key="ui_final_cbt_complete" korean="Вы закончили все окончательные опыт ТОС." />
+	<block key="ui_guild_gradeeffect" korean="\u003cUI_Y\u003e преимущества Grade конкретных \u003c/ UI_Y\u003e\n\n\u003cUI_G\u003e Уровень 1 преимущества\n - До 20 человек гильдии \u003c/ UI_G\u003e\n\n\u003cUI_G2\u003e Tier 2 преимущества\n - До 30 человек гильдии\n - Гильдия склад Есть\n\nTier 3 преимущества\n - До 40 человек гильдии\n - навыки Guild доступные\n\nКласс 4 преимущества\n - До 50 человек гильдии\n - Guild навыки обновить доступны \u003c/ UI_G2\u003e\n\n\u003cUI_Y\u003e Финал CBT может быть использован только в классе 1. \u003c/ UI_Y\u003e" />
+	<block key="auction_prepagebtn" korean="10 страниц, чтобы двигаться вперед" />
+	<block key="auction_nextpagebtn" korean="Вернуться к странице 10" />
+	<block key="ui_close" korean="Подтверждение" />
+	<block key="ui_riding" korean="Посадка" />
+	<block key="ui_summon" korean="Отзыв" />
+	<block key="ui_flight" korean="Полет" />
+	<block key="ui_highdegree" korean="Высота" />
+	<block key="auctionalarm" korean="Там это jeongsangeum это." />
+	<block key="ui_riding_able" korean="Сотрудник доска предоставляются" />
+	<block key="ui_riding_unable" korean="Нет парень доска" />
+	<block key="ui_flight_able" korean="Полет можно" />
+	<block key="ui_flight_unable" korean="Номер рейса" />
+	<block key="ui_summon_able" korean="Домашние животные могут быть вызваны" />
+	<block key="ui_summon_unable" korean="Нет домашних животных призыв" />
+	<block key="auctionalarmnoprice" korean="Там нет агент по продажам jeongsangeum." />
+	<block key="nomailalarm" korean="Там нет новой почты." />
+	<block key="ui_tab_blocklist_delfriend" korean="Блок Удалить" />
+	<block key="ui_tab_blocklist_addmemo" korean="Добавить примечание" />
+	<block key="ui_tab_friendlist_block" korean="Перехват" />
+	<block key="shortcut_token_numberone" korean="Марк 1 Показать" />
+	<block key="shortcut_token_numberone_sub" korean="Марк 1 Показать" />
+	<block key="shortcut_token_numbertwo" korean="Mark 2 шоу" />
+	<block key="shortcut_token_numbertwo_sub" korean="Mark 2 шоу" />
+	<block key="shortcut_token_numberthree" korean="Показаны признаки" />
+	<block key="shortcut_token_numberthree_sub" korean="Показаны признаки" />
+	<block key="shortcut_token_shapeshield" korean="Марк Шилдс Показать" />
+	<block key="shortcut_token_shapeshield_sub" korean="Марк Шилдс Показать" />
+	<block key="shortcut_token_shapesword" korean="Отметить меч дисплей" />
+	<block key="shortcut_token_shapesword_sub" korean="Отметить меч дисплей" />
+	<block key="shortcut_token_shapecross" korean="Отметить перекрестие" />
+	<block key="shortcut_token_shapecross_sub" korean="Отметить перекрестие" />
+	<block key="shortcut_token_shapesleep" korean="Показать признаки сна" />
+	<block key="shortcut_token_shapesleep_sub" korean="Показать признаки сна" />
+	<block key="shortcut_token_shapedownarrow" korean="Стрелки показывают признаки" />
+	<block key="shortcut_token_shapedownarrow_sub" korean="Стрелки показывают признаки" />
+	<block key="shortcut_token_symbolforbid" korean="Запрещающие знаки показывают," />
+	<block key="shortcut_token_symbolforbid_sub" korean="Запрещающие знаки показывают," />
+	<block key="quick_token" korean="Жетоны" />
+	<block key="ui_tab_actionlist_token" korean="Жетоны" />
+	<block key="actionlist_token_numberone_title" korean="1 номер" />
+	<block key="actionlist_token_numbertwo_title" korean="Количество 2" />
+	<block key="actionlist_token_numberthree_title" korean="Количество 3" />
+	<block key="actionlist_token_shapeshield_title" korean="Щит" />
+	<block key="actionlist_token_shapesword_title" korean="Меч" />
+	<block key="actionlist_token_shapecross_title" korean="Филлипс" />
+	<block key="actionlist_token_shapesleep_title" korean="Сон" />
+	<block key="actionlist_token_shapedownarrow_title" korean="Стрелка" />
+	<block key="actionlist_token_symbolforbid_title" korean="Запрет" />
+	<block key="pvparea_warning_msg" korean="Область, которая может быть атакован другими игроками.\nВы уверены, что хотите стоять?" />
+	<block key="ap" korean="Укрощение точку" />
+	<block key="ui_Player_gauge_ap" korean="Когда приручить парня потребляется очков. Восстановление точки уровень персонажа повышается, могут быть восстановлены с помощью элемента." />
+	<block key="ui_soultalents_open" korean="Это свойство было активировано." />
+	<block key="chat_exe_agreement_summon" korean="Отзыв" />
+	<block key="actionlist_token_deletetoken_title" korean="Отмечать" />
+	<block key="ui_gamemenu_shop" korean="Эллора магазин" />
+	<block key="ui_revival_title" korean="Воскресение" />
+	<block key="ui_logout_waittime" korean="Оставшееся время" />
+	<block key="ui_logout_title_lobby" korean="Выберите символ" />
+	<block key="ui_logout_title_logout" korean="Конец игры" />
+	<block key="guild_grade" korean="Рейтинг" />
+	<block key="guild_active" korean="Активный" />
+	<block key="ui_tab_guildmember" korean="Гильдия информация" />
+	<block key="ui_tab_guildskill" korean="Guild Skills" />
+	<block key="dungeon_grade_legend" korean="Легенда" />
+	<block key="dungeon_grade_maxuser" korean="Спит пределы" />
+	<block key="dungeon_grade_levellimit" korean="Требование минимального уровня" />
+	<block key="dungeon_grade_standardplayer" korean="Рекомендовать персонала" />
+	<block key="dungeon_grade_standardlevel" korean="Рекомендуемые уровни" />
+	<block key="dungeon_grade_reentertime" korean="Re-записи времени" />
+	<block key="ui_logout_now" korean="Немедленное отключение" />
+	<block key="dungeon_grade_only" korean="Ограничения" />
+	<block key="dungeon_grade_encourage" korean="Рекомендуется" />
+	<block key="dungeon_grade_limit" korean="Ограничения" />
+	<block key="ui_all_looting" korean="Все приобретения" />
+	<block key="gather_desc" korean="Оба рейтинг идет вверх, он будет автоматически собирать навыки увеличиваться." />
+	<block key="fellow_exp_desc" korean="Когда сотрудник уровня увеличивает силу атаки, обороны, энергетики будет увеличиваться." />
+	<block key="fellow_attpowersecond_desc" korean="Монтаж когти товарища оборудования позволит увеличить повреждения." />
+	<block key="fellow_def_desc" korean="При монтаже седло другими военной техники возрастает." />
+	<block key="ridingweaponswap" korean="Замена интернаты оружие" />
+	<block key="attpowersecond_desc" korean="Цифры противника, которые могли бы привести к повреждению, тем выше ущерб составляет больше урона." />
+	<block key="defpower_desc" korean="Цифры что снижает физические повреждения вражеской атаки, основанной на том же уровне, выше физическая защита снижается больше урона." />
+	<block key="spphdefpow_desc" korean="Цифры, которые уменьшает магический урон врагу атаку, основанную на том же уровне, выше магической защиты уменьшит больше урона." />
+	<block key="tooltip_character_hp" korean="Если жизнь персонажа является 0 смерти." />
+	<block key="tooltip_character_mp" korean="Потребляет маны, вы можете использовать навыки и заклинания." />
+	<block key="tooltip_character_fp" korean="Потребляя гнева может использовать навыки, созданные во время боя и постепенно будет уменьшаться при выходе из боя." />
+	<block key="tooltip_character_sp" korean="Потребление энергии и может быть использовано для навыка, после не-борьбы, когда автоматически восстанавливается раз." />
+	<block key="tooltip_character_str" korean="Физическую атаку на 1 увеличивается." />
+	<block key="tooltip_character_dex" korean="Ловкость за увернуться и физической крита будет увеличиваться 0,045%." />
+	<block key="tooltip_character_vtl" korean="Физическая жизнеспособность увеличивается на 25 процентов." />
+	<block key="tooltip_character_int" korean="Интеллект Увеличивает магическую атаку на 1." />
+	<block key="tooltip_character_mtl" korean="Дух 25 маны и заклинаний критическая скорость забастовка 0,045% будет увеличиваться." />
+	<block key="tooltip_character_pkatt" korean="Увеличивает урон при атаке игрока." />
+	<block key="tooltip_character_pkdef" korean="Повреждение игрок получает снижается." />
+	<block key="tooltip_character_pkbdy" korean="Чтобы противостоять действие эффекта игрок, контролирующий." />
+	<block key="ui_actor_view" korean="Предварительный просмотр" />
+	<block key="ui_ruby" korean="Elounda" />
+	<block key="ui_cash" korean="Кэш" />
+	<block key="ui_charge_cash" korean="Зарядка" />
+	<block key="ui_item_count" korean="Собака" />
+	<block key="ui_cashshop_present" korean="Подарить подарок" />
+	<block key="ui_cashshop_initequip" korean="Сброс" />
+	<block key="ui_cashshop_payment" korean="Проводить платежи" />
+	<block key="ui_cashshop_storage" korean="Архив Эллоры" />
+	<block key="ui_select_all" korean="Выбрать все" />
+	<block key="ui_use" korean="Использование" />
+	<block key="ui_lobbycharcreate_cant" korean="Не удается создать больше символов." />
+	<block key="tooltip_revival_knowhow" korean="Когда научиться быть сильным, эффективным геймплей становится доступной." />
+	<block key="ui_revival_knowhow" korean="Сильнее закон" />
+	<block key="ui_cash_shouting" korean="Реветь" />
+	<block key="quick_boarding_apply" korean="Посадка с нами" />
+	<block key="quick_boarding_invite" korean="Приглашенные на борту" />
+	<block key="quick_boarding_kick" korean="Питание депортация" />
+	<block key="leveldescending" korean="Порядок Высокий уровень" />
+	<block key="levelascending" korean="Заказать Низкий уровень" />
+	<block key="initdungeon" korean="Повторно введите подземелье в течение длительного времени для инициализации" />
+	<block key="notuse" korean="Инвалид" />
+	<block key="quick_judge_auto" korean="Автоматическое сообщение" />
+	<block key="ui_daily" korean="Один дней" />
+	<block key="ui_lobbycharselector_btn_clicktocreate" korean="Нажмите, чтобы создать персонажа." />
+	<block key="ui_new_skill" korean="Новые навыки" />
+	<block key="ui_newskill_desc" korean="Откройте новое окно Получение информации навыки" />
+	<block key="damagereductionmult" korean="Снижение физического урона" />
+	<block key="ui_revival_curpos" korean="Поместите воскресение" />
+	<block key="ui_revival_limitless" korean="Блаженного воскресения" />
+	<block key="ui_revival_neartown" korean="Общее воскресение" />
+	<block key="main" korean="Домой" />
+	<block key="rubycharge" korean="Elounda" />
+	<block key="package" korean="Пакеты" />
+	<block key="costume" korean="Костюм" />
+	<block key="ui_gift" korean="Подарочная коробка" />
+	<block key="ui_lobbycharcreate_explain_difficulty_guardian" korean="Чтобы предсказать врага имеет функцию, которая может быть выброшено как щит. Может пойти после различных атак путем налаживания Shield успеха является определение момента важного класса." />
+	<block key="ui_lobbycharcreate_explain_difficulty_warrior" korean="Может иметь различные реакции дает мощный урона противника, в зависимости от фазы заряда. Охота эффективный способ, чтобы выбрать зарядки шаг в управлении гневом и сроки важные классы соответственно." />
+	<block key="ui_lobbycharcreate_explain_difficulty_thief" korean="Но, чтобы избежать нападения со стороны различных методов с рядами типа Move-тире, что находится в ведении соответствующего класса стойкости. Быстрые Ключевые навыки могут быть использованы в сочетании с различными воздушными комбо на основе использования." />
+	<block key="ui_lobbycharcreate_explain_difficulty_wizard" korean="Сделки с имущества, свободно перемещаться и затем бросил мощные магические атаки сильнее, и можно отнести к классу говорить совокупный красочный магии, и ниже управления классом жизнь вам нужно." />
+	<block key="ui_lobbycharcreate_explain_difficulty_priest" korean="Используя силу Эллоры может атаковать вражескую цель, но восстановление и полировать партийные охраняемых классы доступными, понимание и суждение навыки необходимы высокий класс статус." />
+	<block key="ui_lobbycharcreate_explain_difficulty_archer" korean="Будет добавлено" />
+	<block key="ui_difficulty_easiest" korean="Очень легко" />
+	<block key="ui_difficulty_easy" korean="Легко" />
+	<block key="ui_difficulty_normal" korean="Обычно" />
+	<block key="ui_difficulty_hard" korean="Трудности" />
+	<block key="ui_difficulty_hardest" korean="Очень трудно" />
+	<block key="minimapplayer" korean="Игрок" />
+	<block key="minimapparty" korean="Партия" />
+	<block key="minimapquest" korean="Поиск" />
+	<block key="minimapshop" korean="Магазин" />
+	<block key="minimapportal" korean="Портал" />
+	<block key="minimapregionname" korean="Местные жители" />
+	<block key="minimapcollectionactor" korean="Сбор воды" />
+	<block key="ui_gamemenu_cashshop" korean="Эллора магазин" />
+	<block key="ui_gamemenu_present" korean="Архив Эллоры" />
+	<block key="ui_gamemenu_information" korean="Информация" />
+	<block key="ui_gamemenu_contents" korean="Содержание" />
+	<block key="ui_gamemenu_community" korean="Сообщество" />
+	<block key="ui_gamemenu_system" korean="Система" />
+	<block key="ui_gamemenu_charinfo" korean="Персонажи" />
+	<block key="ui_gamemenu_inventory" korean="Мешок" />
+	<block key="ui_gamemenu_skilltree" korean="Умение" />
+	<block key="ui_gamemenu_fellowinfo" korean="Человек" />
+	<block key="ui_gamemenu_fellowbook" korean="Сотрудник Книга" />
+	<block key="ui_gamemenu_worldmap" korean="Карта" />
+	<block key="ui_gamemenu_questlist" korean="Поиск" />
+	<block key="ui_gamemenu_itemproduction" korean="Производство" />
+	<block key="ui_gamemenu_foothold" korean="Бывший оплот" />
+	<block key="ui_gamemenu_dungeonreenter" korean="Темница" />
+	<block key="ui_gamemenu_partyboard" korean="Поисковая группа" />
+	<block key="ui_gamemenu_guild" korean="Гильдия" />
+	<block key="ui_gamemenu_friendlist" korean="Друг" />
+	<block key="ui_gamemenu_forces" korean="Влияние" />
+	<block key="ui_gamemenu_actionlist" korean="Действие" />
+	<block key="ui_gamemenu_helptopic" korean="Помогите" />
+	<block key="ui_gamemenu_option" korean="Предпочтения" />
+	<block key="ui_gamemenu_charselect" korean="Выберите символ" />
+	<block key="ui_gamemenu_shutdown" korean="Конец игры" />
+	<block key="fellowlevelupremainedtime" korean="Оставшееся время, чтобы выровнять" />
+	<block key="ui_reinforce_successrate" korean="Шанс" />
+	<block key="ui_reinforce_down" korean="Предотвращения падения" />
+	<block key="ui_reinforce_init" korean="Инициализация Предотвращение" />
+	<block key="ui_reinforce_destroy" korean="Уничтожение Предотвращение" />
+	<block key="ui_reinforce_successrate_low" korean="Низкий" />
+	<block key="ui_reinforce_successrate_middle" korean="Обычно" />
+	<block key="ui_reinforce_successrate_high" korean="Высокий" />
+	<block key="ui_tooltip_reinforce_down" korean="С Elounda даже не повысить усиление не уменьшается." />
+	<block key="ui_tooltip_reinforce_init" korean="С Elounda даже не повысить усиление не инициализирован." />
+	<block key="ui_tooltip_reinforce_destroy" korean="С Elounda даже не разрушать деталь не сумеет укрепить." />
+	<block key="ui_waitrank" korean="В настоящее время в ожидании рейтинг" />
+	<block key="ui_waitrank_calculating" korean="Расчет ...." />
+	<block key="battalion" korean="Рейд" />
+	<block key="battalioncommand" korean="Лидер рейда" />
+	<block key="msg_cash_shouting" korean="Реветь" />
+	<block key="msg_notice_gm_zone" korean="GM региональный диалог" />
+	<block key="ui_questnevi_title" korean="Quest Расположение" />
+	<block key="ui_tab_friendlist_summon" korean="Отзыв" />
+	<block key="cashshopsort_none" korean="Без сортировки" />
+	<block key="cashshopsort_new" korean="Новый Сортировать" />
+	<block key="cashshopsort_best" korean="Лучший сортировать" />
+	<block key="cashshopsort_sale" korean="Первые три дня сортировки" />
+	<block key="cashshopsort_recommand" korean="Рекомендуемые Сортировать" />
+	<block key="ui_retract" korean="Предложение отозвано" />
+	<block key="ui_cashshop_explain_black" korean="Объясните, предложение войти в окно оплаты 1" />
+	<block key="ui_cashshop_explain_red" korean="Объясните, предложение войти в окно оплаты 2" />
+	<block key="ui_cashshop_owncash" korean="Проводится" />
+	<block key="ui_cashshop_ownruby" korean="Провел Elounda" />
+	<block key="ui_cashshop_paycash" korean="Для урегулирования" />
+	<block key="ui_cashshop_payruby" korean="Elounda платить" />
+	<block key="ui_cashshop_changecash" korean="Остаток" />
+	<block key="ui_cashshop_changeruby" korean="Оставшееся Elounda" />
+	<block key="ui_gamemenu_achievement" korean="Достижения" />
+	<block key="ui_achievements" korean="Достижения" />
+	<block key="ui_achievements_common" korean="Генерал" />
+	<block key="ui_achievements_fellow" korean="Человек" />
+	<block key="ui_achievements_quest" korean="Поиск" />
+	<block key="ui_achievements_dungeon" korean="Темница" />
+	<block key="ui_achievements_item" korean="Предметы" />
+	<block key="ui_achievements_combat" korean="Битва" />
+	<block key="ui_achievements_growth" korean="Рост" />
+	<block key="ui_achievements_money" korean="Деньги" />
+	<block key="ui_achievements_action" korean="Достижение" />
+	<block key="ui_achievements_gain" korean="Приобретение" />
+	<block key="ui_achievements_use" korean="Использование" />
+	<block key="ui_achievements_zone" korean="Площадь" />
+	<block key="ui_achievements_reinforce" korean="Консолидация" />
+	<block key="ui_achievements_product" korean="Производство" />
+	<block key="ui_achievements_duel" korean="Поединок" />
+	<block key="ui_achievements_pvp" korean="PvP" />
+	<block key="ui_achievements_foothold" korean="Бывший оплот" />
+	<block key="ui_talents_init" korean="Инициализация" />
+	<block key="ui_talents_next_init" korean="Следующий инициализации" />
+	<block key="ui_achievements_summary" korean="Суммирование" />
+	<block key="ui_minimap_expand" korean="Увеличить" />
+	<block key="ui_minimap_reduce" korean="Сокращение" />
+	<block key="ui_itemdistribution_none" korean="Неограниченный" />
+	<block key="ui_itemdistribution_normal" korean="Генерал" />
+	<block key="ui_itemdistribution_rare" korean="Элита" />
+	<block key="ui_itemdistribution_hero" korean="Герой" />
+	<block key="ui_itemdistribution_legend" korean="Легенда" />
+	<block key="ui_itemdistribution_dice" korean="Кидайте кости" />
+	<block key="ui_itemdistriubtion_auction" korean="Аукцион" />
+	<block key="ui_tab_characterinfo_title" korean="Название" />
+	<block key="shortcut_ui_toggle_achievements" korean="Достижения" />
+	<block key="shortcut_ui_toggle_achievements_sub" korean="Достижения (вторичный)" />
+	<block key="shortcut_ui_toggle_dungeonreenter" korean="Indeon возвращения" />
+	<block key="shortcut_ui_toggle_dungeonreenter_sub" korean="Indeon возвращения (вторичный)" />
+	<block key="ui_achievements_monster" korean="Монстр" />
+	<block key="ui_cashshop_buy" korean="Купить" />
+	<block key="ui_cash_item_buyconfirm" korean="Хотели бы вы купить товар?" />
+	<block key="ui_present_recipient" korean="Получатель" />
+	<block key="ui_present_message" korean="Отправить сообщение" />
+	<block key="ui_cashshop_explain_present" korean="Подробнее объяснение определяется, мы будем писать снова." />
+	<block key="ui_retract_overtime" korean="Нет уход" />
+	<block key="ui_cashshop_listdesc_1" korean="Магазин, где можно купить Elounda." />
+	<block key="ui_cashshop_listdesc_2" korean="Магазин, где можно купить пакет деталей." />
+	<block key="ui_cashshop_listdesc_3" korean="Магазин, где можно купить продукты и предметы." />
+	<block key="ui_cashshop_listdesc_5" korean="Сотрудник и зоомагазины, которые можно купить." />
+	<block key="ui_cashshop_listdesc_4" korean="Костюм магазины, где можно купить. \u003cY_Y\u003e (щелкните правой кнопкой мыши элемент, если вы можете просмотреть.) \u003c/ Y_Y\u003e" />
+	<block key="ui_auction_msg_slotrelease" korean="Вы уверены, что хотите расширить гнездо продаж?" />
+	<block key="ui_auction_msg_slotreleaseprice" korean="Потребление Elounda" />
+	<block key="quick_summon" korean="Отзыв" />
+	<block key="vitality_home" korean="Vitality Gauge" />
+	<block key="vitality_pc" korean="Компьютерный зал, бонус жизнеспособность датчик" />
+	<block key="vitality_day_remaintime" korean="1 дней, оставшихся энергии Время" />
+	<block key="vitality_week_remaintime" korean="Оставшееся время сила неделю" />
+	<block key="ui_gamemenu_attackbattalion" korean="Организаторы рейда" />
+	<block key="ui_wait_delete" korean="Полное удаление" />
+	<block key="ui_lobbycharselector_btn_character_recover" korean="Персонажи восстановление" />
+	<block key="ui_CharDeleteStandby" korean="Ожидание для удаления" />
+	<block key="ui_partyboard_partyinvite" korean="Приглашение на вечеринку" />
+	<block key="ui_secondpassword_register" korean="Среднее поколение пароль" />
+	<block key="ui_secondpassword_entry" korean="Среднее Подтверждение пароля" />
+	<block key="ui_aprecovery_half" korean="Восстановление 50" />
+	<block key="ui_aprecovery_max" korean="100 восстановление" />
+	<block key="ui_mail_from" korean="От" />
+	<block key="ui_title" korean="Тема" />
+	<block key="ui_mail_keep" korean="Архив" />
+	<block key="ui_mail_addmoney" korean="Прикрепленный количество" />
+	<block key="ui_mail_additem" korean="Прикрепленные товары" />
+	<block key="ui_mail" korean="Почтовый ящик" />
+	<block key="shortcut_moveupward_fly" korean="Повышение в полете" />
+	<block key="shortcut_moveupward_fly_sub" korean="Восстание в полете (вторичный)" />
+	<block key="shortcut_movedownward_fly" korean="Спуск полета" />
+	<block key="shortcut_movedownward_fly_sub" korean="Падение рейс (вторичный)" />
+	<block key="ui_cashshop_explain_cash" korean="Если деталь был использован hayeotgeona 7 дней после доставки \u003cR_Y\u003e Купить товары, приобретенные в кэше истек, предложение, которое не может быть отозвано. \u003c/ R_Y\u003e" />
+	<block key="ui_cashshop_explain_ruby" korean="Ее продукция \u003cR_Y\u003e без отмены продукта как товара будет приобрести как Элунда. \u003c/ R_Y\u003e" />
+	<block key="ui_purchase_explain_cash" korean="Архив Эллоры находятся в свитке в кэш." />
+	<block key="ui_purchase_explain_ruby" korean="Мой подарок будет перемещен в архив Эллоры." />
+	<block key="ui_cash100101" korean="Мы Cache" />
+	<block key="ui_cash100407" korean="Игры на деньги" />
+	<block key="ui_cash_storage" korean="У кэш" />
+	<block key="require_mastery" korean="Обязательно Exp" />
+	<block key="masteryodds" korean="Рост рейтинг вероятности" />
+	<block key="mastery_no" korean="Рост США" />
+	<block key="mastery_low" korean="Низкий" />
+	<block key="mastery_normal" korean="Обычно" />
+	<block key="mastery_high" korean="Высокий" />
+	<block key="mastery_impract" korean="Собранные невозможно" />
+	<block key="ui_cashstorage_use" korean="Скачать" />
+	<block key="dungeon_grade_boss" korean="Босс" />
+	<block key="guild_dissolution_confirm_msg" korean="Вы уверены, что хотите демонтировать гильдии?" />
+	<block key="ui_itemdistribution_free" korean="Бесплатный маршрутизации" />
+	<block key="ui_itemdistribution_seq" korean="Маршрутизации Заказать" />
+	<block key="ui_itemdistribution_fix" korean="Укажите маршрут" />
+	<block key="ui_itemdistriubtion_dice" korean="Игра в кости" />
+	<block key="ui_partyboard_detailinfo_defaulttext" korean="До 32 символов могут быть введены." />
+	<block key="ui_aprecovery_internetcafe" korean="Компьютерный зал бесплатно" />
+	<block key="ui_cashstorage_toinven" korean="Перейти к инвентаризации" />
+	<block key="ui_cashstorage_retract" korean="Отмена в ходе" />
+	<block key="dungeoninit" korean="Инициализация Подземелья" />
+	<block key="elruncount" korean="Elounda Количество" />
+	<block key="ui_lobbycharselector_btn_credit" korean="Благодарности" />
+	<block key="ui_vitalitybox_desc" korean="Когда символ исчезает, вы можете получить коробку энергии. Будьте уверены, чтобы очистить ваш инвентарь \u003cbr\u003e инвентаризации не получили полную компенсацию, если элемент." />
+	<block key="expirationtime" korean="Условия эксплуатации" />
+	<block key="timestop_name" korean="Время останавливается жизнеспособность" />
+	<block key="ui_vitality_applyeffect" korean="1 дней время возврата жизнеспособность - 04:00 ежедневно\nЕженедельно инициализации жизненно время - по средам 4:00" />
+	<block key="auto_only_eight_num" korean="Пожалуйста, введите 8-значный номер." />
+	<block key="ui_auction_needcalculate" korean="Требуется Урегулирование" />
+	<block key="ui_auction_fullregist" korean="Не зарегистрированы" />
+	<block key="shortcut_ui_toggle_cashshop" korean="Эллора магазин" />
+	<block key="shortcut_ui_toggle_cashshop_sub" korean="Магазин Эллоры в (вторичный)" />
+	<block key="shortcut_ui_toggle_cashshop_storage" korean="Архив Эллоры" />
+	<block key="shortcut_ui_toggle_cashshop_storage_sub" korean="Библиотека Эллоры в (вторичный)" />
+	<block key="ui_achievement_rewarditem_desc" korean="Достигнутыми в качестве компенсации компенсация может быть получена через окно достижений." />
+	<block key="ui_allproduct" korean="Все технологии производства" />
+	<block key="ui_cashstorage_restore" korean="Восстановление должно" />
+	<block key="ui_guild_grade" korean="\u003cUI_Y\u003e [1 отзыв] \u003c/ UI_Y\u003e\nКоличество гильдии: 20\n\n\u003cUI_Y\u003e [2 рейтинг] \u003c/ UI_Y\u003e\nГильдия: 30\nОбучение навыкам: Преодоление тело\n\n\u003cUI_Y\u003e [3 рейтинг] \u003c/ UI_Y\u003e\nГильдия: 40\nОбучение навыкам: Время золото\n\n\u003cUI_Y\u003e [4 Рейтинг] \u003c/ UI_Y\u003e\nГильдия: 50\nОбучение навыкам: жадный приобретение\n\n\u003cUI_Y\u003e [5 Оценка] \u003c/ UI_Y\u003e\nКоличество гильдии: 60\nОбучение навыкам: посланниками боя\n\n\u003cUI_Y\u003e [6 оценок] \u003c/ UI_Y\u003e\nГильдия: 70\nОбучение навыкам: атаковать только жить" />
+	<block key="ui_guild_point" korean="\u003cUI_Y\u003e научиться \u003c/ UI_Y\u003e \u003cbr\u003e 1. Монстры по уровню гильдии страница 2. Уровень вверх гильдии Каталог \u003cbr\u003e \u003cUI_Y\u003e Guild Очки могут быть продвинуты на следующий класса на 100%, если администратор гильдии. \u003c/ UI_Y\u003e" />
+	<block key="quick_guild_invite" korean="Гильдия Приглашение" />
+	<block key="guildmenu_summon" korean="Отзыв" />
+	<block key="guildmenu_friend_registration" korean="Друзья" />
+	<block key="ui_tab_friendlist_whisper" korean="Шепот" />
+	<block key="ui_tab_friendlist_invite_guild" korean="Гильдия Приглашение" />
+	<block key="ui_tab_friendlist_invite_party" korean="Приглашение на вечеринку" />
+	<block key="shortcut_rest_area_char_limit" korean="Персонажи с ограниченным количеством сидячих мест" />
+	<block key="shortcut_rest_area_char_limit_sub" korean="Персонажи с ограниченными сидячих мест (вторичный)" />
+	<block key="ui_quality_normal" korean="Средний класс" />
+	<block key="ui_quality_expert" korean="Продвинутый" />
+	<block key="ui_quality_master" korean="Лучший" />
+	<block key="ui_restareacharlimit" korean="Персонажи с ограниченным количеством сидячих мест" />
+	<block key="ui_gamemenu_balloondesc_1" korean="Есть элементы в вашей библиотеке." />
+	<block key="alreadyexistfellowbook" korean="Книга уже зарегистрированы." />
+	<block key="ui_cashshop_listdesc_rubycharge" korean="Магазин, где можно купить Elounda." />
+	<block key="ui_cashshop_listdesc_package" korean="Магазин, где можно купить пакет деталей." />
+	<block key="ui_cashshop_listdesc_item" korean="Магазин, где можно купить продукты и предметы." />
+	<block key="ui_cashshop_listdesc_fellow" korean="Сотрудник и зоомагазины, которые можно купить." />
+	<block key="ui_cashshop_listdesc_costume" korean="Костюм магазины, где можно купить. \u003cY_Y\u003e (щелкните правой кнопкой мыши элемент, если вы можете просмотреть.) \u003c/ Y_Y\u003e" />
+	<block key="ui_tooltip_set_screenmode" korean="Вы можете выбрать режим отображения. В странах с низким уровнем конца ПК с помощью полноэкранного режима, а не по отношению к моды растет оконной рамы." />
+	<block key="ui_tooltip_set_resolution" korean="Монитор, вы можете выбрать разрешение в соответствии с шириной Поддерживаемое разрешение." />
+	<block key="ui_tooltip_set_brightness" korean="Jimyeo выше ярче экран, в полноэкранном режиме, вы можете настроить яркость экрана." />
+	<block key="ui_tooltip_set_antialiasing" korean="Вы можете выбрать, как сгладить края всех вещей, которые отображаются." />
+	<block key="ui_tooltip_set_directx" korean="(Нет описания)" />
+	<block key="ui_tooltip_set_graphicallset" korean="Вы можете легко установить пакетный значение всех графических опций. Для повышения общей высокое качество графических настройках, а также увеличить кадров должна быть настроена как низкий комплектации." />
+	<block key="ui_tooltip_set_textureresolution" korean="Выше персонажи, объекты, эффекты рельефа и т.д. представлены в деталях." />
+	<block key="ui_tooltip_set_shadowquality" korean="Чем выше тени ярко выражены. Если очень низкая рама не представляют тень поднимается." />
+	<block key="ui_tooltip_set_waterquality" korean="Выше воды качалки ощущение, отражение и преломление света представляют собой дополнительные шаги." />
+	<block key="ui_tooltip_set_shaderquality" korean="Повышения общего качества графики благодаря высокой и низкой стороне ПК, Вы можете оставить рамку." />
+	<block key="ui_tooltip_set_geodec" korean="Чем выше рельеф более широком диапазоне, изображенном на деталях." />
+	<block key="ui_tooltip_set_effectquality" korean="Чем выше число, тем больше эффект, эффект выражается." />
+	<block key="ui_tooltip_set_particlequality" korean="Это позволяет дополнительных эффектов частиц выше. Тем не менее, качество низкое, эффекты частиц не представлены." />
+	<block key="ui_tooltip_set_geolod" korean="Выше детальное изображение местности на дальнем расстоянии." />
+	<block key="ui_tooltip_set_objlod" korean="Выше детали, изображающие удаленных объектов." />
+	<block key="ui_tooltip_set_chalod" korean="Чем выше подробно, описывая характер расстоянии." />
+	<block key="ui_tooltip_set_chasight" korean="Выше вы можете видеть характер расстоянии." />
+	<block key="ui_tooltip_set_objsight" korean="Выше вы можете видеть вещи далеко." />
+	<block key="ui_tooltip_set_backsight" korean="Выше вы можете видеть далекое фон." />
+	<block key="ui_tooltip_set_gluesight" korean="Выше вы можете видеть бассейн расстояний." />
+	<block key="ui_tooltip_set_chashowlim" korean="Выберите население, которое символьного представления.\n - Скрытых: более символов не видно представление населения\n - Простой дисплей: объемный в монохромном режиме" />
+	<block key="ui_tooltip_set_restchashowlim" korean="Если вы выбираете, чтобы скрыть другие игроки в городе, такие как Dungeons зоне отдыха." />
+	<block key="ui_tooltip_set_effectshowlim" korean="Чем выше число, тем больше эффект боевой эффективности. Тем не менее, эффект всегда сжигают, независимо от ограниченного числовом представлении." />
+	<block key="ui_tooltip_set_effectshowtarget" korean="Выберите то, что вы хотите отобразить боевые действия." />
+	<block key="ui_tooltip_set_rayeffect" korean="Если вы выбираете для представления ВС" />
+	<block key="ui_tooltip_set_lowspeclight" korean="Если вы решите представляют собой лишь самое основное свет." />
+	<block key="ui_tooltip_set_outfocus" korean="Если вы решите представляют собой размыты в зависимости от расстояния вашего персонажа вокруг с камерой." />
+	<block key="ui_tooltip_set_hdrvolume" korean="Выше экран немного ярче." />
+	<block key="ui_tooltip_set_motionblue" korean="Это остаточное изображение видно гораздо выше по сравнению с движением." />
+	<block key="ui_tooltip_set_visibility" korean="Выше общий экран яснее." />
+	<block key="ui_tooltip_set_frameshow" korean="Если вы выбираете для отображения текущего экрана кадров." />
+	<block key="ui_tooltip_set_weathereffect" korean="Если вы решите представляют погодные эффекты." />
+	<block key="ui_tooltip_set_vertsync" korean="Если вы выбираете для синхронизации частоты и цикл обновления. Если вы отключите вертикальную рамку синхронизации повышается." />
+	<block key="ui_tooltip_set_realtimeopt" korean="Отрегулируйте опцию автоматической, а затем проверить, если в среднем отбора кадров, стабильный кадр. Тем не менее, экран часто меняется или символы могут быть не видны." />
+	<block key="ui_tooltip_set_fixframe" korean="Крепится к выбранному кадру." />
+	<block key="ui_tooltip_set_allsound" korean="Если вы не выбрали, вы можете регулировать громкость звука в целом, в то время." />
+	<block key="ui_tooltip_set_backsound" korean="Если вы выбираете, вы можете регулировать громкость фоновой музыки." />
+	<block key="ui_tooltip_set_effectsound" korean="Если вы выбираете, вы можете регулировать громкость такими навыками, UI, эффектов." />
+	<block key="ui_tooltip_set_envsound" korean="Если вы не выбрали, вы можете регулировать громкость окружающей природной среды." />
+	<block key="ui_tooltip_set_systemsound" korean="Если вы не выбрали, вы можете услышать голос системных сообщений." />
+	<block key="ui_tooltip_set_backlistening" korean="Окно игры вы можете услышать звуки из игры в неактивном состоянии." />
+	<block key="ui_tooltip_set_pcname" korean="Если вы выбираете для отображения ваше имя, гильдии, название над головой своего героя." />
+	<block key="ui_tooltip_set_fellowname" korean="Если вы выбираете для отображения имени самого товарища или другого игрока." />
+	<block key="ui_tooltip_set_npcname" korean="Если вы выбираете для отображения имени, положение на голове NPC." />
+	<block key="ui_tooltip_set_monstername" korean="Если вы выбираете для отображения имени, положение на монстра голове." />
+	<block key="ui_tooltip_set_partyname" korean="Если вы выбираете для отображения ваше имя, гильдии, партии титул на верхней части головы." />
+	<block key="ui_tooltip_set_otherpcname" korean="Когда вы выберите имя, которое выше головы других игроков, гильдий, и отображает название." />
+	<block key="ui_tooltip_set_objname" korean="Если вы выбираете для отображения объектов, собирая имя воды." />
+	<block key="ui_tooltip_set_statebar" korean="Если вы выбираете для отображения числового значения на манометре, таких как здравоохранение, энергетика, опыта." />
+	<block key="ui_tooltip_set_statusbarpercentage" korean="Если вы выбираете для отображения жизнеспособность, силу, номера на датчике, такие как очки опыта, как в процентах." />
+	<block key="ui_tooltip_set_value" korean="Если статус установлен, цифровой окно дисплея отображает значения в цифрах." />
+	<block key="ui_tooltip_set_percent" korean="Если статус установлен, цифровой окно дисплея отображается значение в процентах." />
+	<block key="ui_tooltip_set_bubble" korean="Если вы хотите добавить текстовое поле для отображения метаболизм чат или NPC игроков по голове." />
+	<block key="ui_tooltip_set_whisperrefusal" korean="Если вы автоматически отклонять шепот." />
+	<block key="ui_tooltip_set_rejectguild" korean="Если вы автоматически отклонять гильдии приглашения." />
+	<block key="ui_tooltip_set_guildonline" korean="При выборе соединения при цеховое, сообщение говорит вам." />
+	<block key="ui_tooltip_set_rejectparty" korean="Если вы автоматически отвергают приглашение на вечеринку." />
+	<block key="ui_tooltip_set_rejecttrade" korean="Если вы автоматически отклонить запрос о транзакции." />
+	<block key="ui_tooltip_set_rejectpvp" korean="Если вы автоматически отклонять запросы дуэли." />
+	<block key="ui_tooltip_set_rejectmultifellow" korean="Если вы решите отказаться от запроса Вы можете пообедать товарища доска автоматически." />
+	<block key="ui_tooltip_set_doubleclick" korean="Agile движение, движение света и т.д., вы можете настроить команду частоты вращения входного вала умение работать как два входа подряд." />
+	<block key="ui_tooltip_set_ridingfixedmouse" korean="Если вы выбираете мыши на абордаж фиксируется в центре экрана." />
+	<block key="ui_tooltip_set_damagetome" korean="Если вы выбираете для отображения урон и критическое значение они получают вокруг его персонажа." />
+	<block key="ui_tooltip_set_healtome" korean="Если вы выбираете для отображения возвращенной суммы, которые они получают вокруг его персонажа." />
+	<block key="ui_tooltip_set_distancetarget" korean="Если вы выбираете для отображения разность расстояний между собой и целью в окне цели." />
+	<block key="ui_tooltip_set_targetcasting" korean="Если вы выбираете для отображения мастерство имя и время каста, где цель, приведенный к указанному окну." />
+	<block key="ui_tooltip_set_targetbufffromme" korean="Если вы выбираете для отображения мастерство я называю применять к цели вокруг цели." />
+	<block key="ui_tooltip_set_targetbufffromother" korean="Если вы выбираете другой игрок, чтобы отобразить имя умение применяется к цели вокруг цели." />
+	<block key="ui_tooltip_set_damagetoenemy" korean="При выборе цель получает урон, показывая критическое значение вокруг цели." />
+	<block key="ui_tooltip_set_healtoenemy" korean="Если вы выбираете для отображения возвращенной суммы целевых получателей вокруг цели." />
+	<block key="ui_tooltip_set_targetoftarget" korean="Если вы выбираете для отображения назначения, выбранному целей в целевом окне." />
+	<block key="ui_tooltip_set_damagetofellow" korean="Если вы выбираете для отображения урон и критические значения своих собратьев ребята вокруг." />
+	<block key="ui_tooltip_set_extendslot" korean="Если вы не выбрали, вы можете использовать дополнительные 12 слотов квалификации." />
+	<block key="ui_tooltip_set_maxcamera" korean="Камера от характера, когда колесо мыши для уменьшения масштаба, вы можете отрегулировать максимальное расстояние от отеля." />
+	<block key="ui_tooltip_set_rotatecamera" korean="При перемещении мыши щелкните правой кнопкой мыши, влево и вправо, камера позволяет регулировать скорость вращения." />
+	<block key="ui_tooltip_set_mousesens" korean="Вы можете регулировать скорость при перемещении мыши на экране." />
+	<block key="ui_tooltip_set_camerarotate" korean="Если вы решите лететь на борту сотрудник влево и вправо, чтобы повернуть с камерой, когда вы двигаетесь." />
+	<block key="ui_tooltip_set_mousemove" korean="Если вы переместите курсор мыши в соответствующем месте на экране, когда вы нажимаете левую." />
+	<block key="ui_tooltip_set_gametip" korean="Если вы выбираете для вывода Подсказка внизу экрана на регулярной основе." />
+	<block key="ui_tooltip_set_lootautocursor" korean="Если вы решите маршруту курсор автоматически перемещается на целевой единицы при маршрутизации." />
+	<block key="ui_tooltip_set_questtargetmonster" korean="Треугольник, изображение будет отображаться на голову, когда вы выбираете Монстр Quest цель." />
+	<block key="ui_tooltip_set_buffremain" korean="Если вы выбираете для отображения оставшегося времени значок любителя." />
+	<block key="ui_tooltip_set_hpbar" korean="Если вы выбираете для отображения жизнеспособность всех элементов на измерительной головке. Однако, жизнь на 100% цель не будет отображаться." />
+	<block key="ui_tooltip_set_alarmtaming" korean="Если вы выбираете для вывода космических снимков в интерфейсе, когда ручными государства." />
+	<block key="ui_tooltip_set_headview" korean="Если вы решите носить шлем и оборудование выставки, выключив подачу невидимым." />
+	<block key="ui_tooltip_set_questtargetnpc" korean="Треугольник, изображение будет отображаться на голову, когда вы выбираете Quest NPC цель." />
+	<block key="ui_tooltip_set_systemmessage" korean="Если вы выбираете для отображения системных сообщений в верхней части экрана. Наоборот, если ее не остановить будет выводиться только системных сообщений в окне чата." />
+	<block key="ui_tooltip_set_screenshot" korean="Вы можете ввести команду, которую вы хотите скрыть или показать все UI на экране." />
+	<block key="ui_tooltip_set_whisper" korean="Вы можете ввести команду, которую вы хотите ответить отправителю, предназначенной для последних шепотом." />
+	<block key="ui_gain" korean="Приобретение" />
+	<block key="ui_itemdistribution_jobdice" korean="Кости Профессия" />
+	<block key="optionavdrate" korean="Уклонение от уплаты параметры" />
+	<block key="optionavdrate_desc" korean="Hoepiryeok и увеличение стоимости из-за быстроты." />
+	<block key="effavdrate" korean="Уклонение от уплаты эффекты" />
+	<block key="effavdrate_desc" korean="Навыки, которые в сочетании, чтобы увеличить значение, добавив опцию, чтобы увернуться мать родила." />
+	<block key="short_default_local_key" korean="s" />
+	<block key="short_default_whisper_key" korean="w" />
+	<block key="short_default_party_key" korean="p" />
+	<block key="short_default_guild_key" korean="g" />
+	<block key="short_default_zone_key" korean="c" />
+	<block key="short_default_battalion_key" korean="b" />
+	<block key="short_default_battalion_command_key" korean="q" />
+	<block key="short_battalion_key" korean="ㅠ" />
+	<block key="short_battalion_command_key" korean="F" />
+	<block key="local_key" korean="dlfqks" />
+	<block key="whisper_key" korean="rnltthrakf" />
+	<block key="party_key" korean="vkxl" />
+	<block key="guild_key" korean="rlfem" />
+	<block key="zone_key" korean="wldur" />
+	<block key="battalion_key" korean="rhdrureo" />
+	<block key="battalion_command_key" korean="rhdrureoaudfud" />
+	<block key="chat_exe_chat_help" korean="h" />
+	<block key="ui_min_altitude" korean="Минимальная высота" />
+	<block key="shortcut_chat_whisper" korean="Шепот ответов" />
+	<block key="shortcut_chat_whisper_sub" korean="Шепот ответы (вторичный)" />
+	<block key="ui_btn_close" korean="Близко" />
+	<block key="ui_btn_cancel" korean="Отменить" />
+	<block key="ui_characterinfo_label_assistance" korean="Помощь" />
+	<block key="tooltip_character_castingspeedmult" korean="Дает навыки литья используются, чтобы сократить время, и время, в том числе усовершенствованные или уменьшить, также." />
+	<block key="tooltip_character_cooltimemult" korean="Сокращение продолжительности времени вы можете использовать этот навык еще раз." />
+	<block key="tooltip_character_ap_recovery" korean="Укрощение точку восстановления с помощью Elounda или ПК, вы можете восстановить номер Бесплатный один раз в день в течение." />
+	<block key="ui_premiumbox_desc" korean="Когда символ исчезает, вы можете получить золотые бусы. \u003cbr\u003e Золотым бисером будут выплачены в библиотеку Эллоры. \u003cbr\u003e \u003cO_Y\u003e золотые бусы, которые могут быть до 17 декабря \u003c/ O_Y\u003e" />
+	<block key="ui_unitename" korean="Название союз" />
+	<block key="ui_unitemastername" korean="Глава Союза" />
+	<block key="ui_guildname" korean="Гильдия Имя" />
+	<block key="ui_guildmastername" korean="Цеховой мастер" />
+	<block key="ui_unite_delete_desc" korean="Только если нет коалиция не может распустить гильдию." />
+	<block key="ui_tab_guildunite" korean="Гильдия Союз" />
+	<block key="guild_unitecreate_msg" korean="Вы уверены, что хотите основателей Гильдии Союз?" />
+	<block key="guild_uniteinvite_msg" korean="Введите имя, которое вы хотите пригласить в гильдию Союза." />
+	<block key="guild_unitenamechange_msg" korean="Введите имя, которое вы хотите изменить коалицию." />
+	<block key="impossible_belongitem" korean="Не связывает с" />
+	<block key="unlimited_belongitem" korean="Закройте петли неограниченное можно" />
+	<block key="remain_belongitem" korean="Закройте петли вы можете" />
+	<block key="gmchat" korean="Все объявления" />
+	<block key="gmzonechat" korean="Региональный бюллетень" />
+	<block key="guild_union" korean="Коалиция" />
+	<block key="militia" korean="Милиция" />
+	<block key="short_default_guild_union_key" korean="u" />
+	<block key="short_default_militia_key" korean="m" />
+	<block key="short_guild_union_key" korean="ㅕ" />
+	<block key="short_militia_key" korean="Sul" />
+	<block key="GuildUnionchat" korean="Коалиция" />
+	<block key="Militiachat" korean="Милиция" />
+	<block key="guild_union_key" korean="dusgkq" />
+	<block key="militia_key" korean="alsqudeo" />
+	<block key="getbuff" korean="Exergy любитель, который вырос милицию" />
+	<block key="ui_guildmemberlist" korean="Гильдия Список" />
+	<block key="regist_commission" korean="Регистрационные взносы" />
+	<block key="sell_commission" korean="Продажи комиссий" />
+	<block key="ui_storage_basic" korean="Основной" />
+	<block key="ui_storage_extend" korean="Расширение" />
+	<block key="guild_dismiss_msg" korean="Вы уверены, что хотите продолжить с увольнением Гильдии?" />
+	<block key="guild_dismiss_lastaccesstime" korean="Последнее jeopsokil" />
+	<block key="guild_dismiss_desc_01" korean="Если вы не подключите Гильдии в течение 7 дней, вы можете закрыть гильдии. Если вы не подключите Каталог \u003cbr\u003e Гильдии Гильдии никогда не бывает один день после увольнения прогрессировала Гильдии покидает поле. Каталог \u003cbr\u003e увольнение Гильдии Гильдии Гильдии для подключения моего увольнения, если в первые дни после игры прогрессировала автоматически отменяется будет." />
+	<block key="guild_dismiss_desc_02" korean="Вы Гильдии увольнение в процессе" />
+	<block key="guild_dismiss_date" korean="Время Увольнение" />
+	<block key="guild_dismiss_candidatename" korean="Гильдии перспективным" />
+	<block key="militianame" korean="Exergy вырос боевиков" />
+	<block key="ui_tooltip_upcommission" korean="Вознаграждение, выплачиваемое при регистрации торгового представителя" />
+	<block key="ui_tooltip_sellcommission" korean="Регистрационный взнос оплачивается при урегулировании когда товар продается" />
+	<block key="ui_itemdice_join" korean="Участие" />
+	<block key="ui_itemdice_close" korean="Близко" />
+	<block key="ui_itemdice_forgive" korean="Отказ" />
+	<block key="chat_exe_unite_invite" korean="Союз приглашает" />
+	<block key="ui_guildmaster" korean="Цеховой мастер" />
+	<block key="ui_guildofficer" korean="Комитет" />
+	<block key="ui_guildmember" korean="Гильдия" />
+	<block key="regend" korean="Легенда" />
+	<block key="guild_dismiss_date_02" korean="+ - 10 минут" />
+	<block key="ui_fellowcollection_itemtooltip" korean="Укрощение товара:" />
+	<block key="ui_fellowcollection_tooltip" korean="Вы не имеете необходимых элементов, когда ручными." />
+	<block key="ui_fellowcollection_title" korean="Сотрудник Коллекция" />
+	<block key="ui_nogain" korean="Приобретение США" />
+	<block key="ui_collect" korean="Коллекция" />
+	<block key="ui_gamemenu_fellowcollection" korean="Сотрудник Коллекция" />
+	<block key="ui_mail_cooltime" korean="Отправить доступные секунд снова" />
+	<block key="itemuse_equip_belonging_item" korean="Становится персональным при надевании с элементом износа" />
+	<block key="itemuse_fellow_create_item" korean="На учете в библиотеке, сотрудник" />
+	<block key="itemuse_sell_over_heor_item" korean="Продать свои товары в магазине более, чем рейтинг героя" />
+	<block key="ui_tab_guildwarfare" korean="Объявление войны" />
+	<block key="ui_warfare_desc_01" korean="- Глава Союза 10, вы можете использовать золото, чтобы объявить войну других стран.\n - Войны между Соединенными 1: 1 будет пойти.\n - Союз получил объявление войны может быть принято или отклонено в течение дня.\n - Если вы выиграете, вы имеете дело Союзу отказываться или достижения целевого мастерство.\n - Война возможно только в пустыне бессмертия и беззаконных." />
+	<block key="ui_warfare_desc_02" korean="Вы уверены, что хотите принять декларацию войны в Союзе? Каталог \u003cbr\u003e Оставшееся время" />
+	<block key="ui_warfare_desc_03" korean="Если вы убьете, вы должны сначала добиться победы." />
+	<block key="ui_game_crosshair" korean="Крест Цвет волос" />
+	<block key="ui_lobbycharselector_btn_gocharacter_change_customize" korean="Изменить характер" />
+	<block key="ui_win" korean="Победы" />
+	<block key="ui_lose" korean="Плитка" />
+	<block key="ui_surrender" korean="Сдача" />
+	<block key="ui_title_item_list" korean="Результаты разложения" />
+	<block key="ui_title_changeoption" korean="Изменить параметры уплотнения" />
+	<block key="ui_gamemenu_uiedit" korean="Расположение Редактирование UI" />
+	<block key="ui_edit_description" korean="Вы можете изменить ее местоположение с помощью перетаскивания область пользовательского интерфейса.\n\n\u003cЦвет шрифта = \Применить: Применить текущую редактировать положение пользовательского интерфейса\nОтменить: Восстановление в предыдущее положение, в режиме редактирования, чтобы прийти в \u003c/ FONT\u003e" />
+	<block key="ui_area_f05_p_0001" korean="Город Аль Gocek\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, Advanced Portal, возврат, терапевты, оружие, броня, аксессуары, зелья, производство, склад, торговый агент, почта \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f05_p_0004" korean="Золотые Peaks\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, портал, обратная связь, врачи, оружие, доспехи, зелья, еда, складирование, агент по продажам, почта \u003c/ MAP_T\u003e" />
+	<block key="ui_area_f05_p_0007" korean="Деревня отшельников\n\u003cMAP_Y\u003e NPC \u003c/ MAP_Y\u003e: \u003cMAP_T\u003e Миссия Совет, портал, обратная связь, врачи, оружие, доспехи, зелья, еда, товаров, почты \u003c/ MAP_T\u003e" />
+	<block key="ui_label_option" korean="Опции" />
+	<block key="ui_btn_extract" korean="Добыча" />
+	<block key="ui_title_bracelet_rubygold" korean="Добыча Ювелирные изделия" />
+	<block key="ui_bracelet_title" korean="Браслет" />
+	<block key="ui_bracelet_gold_btn" korean="Добыча золота" />
+	<block key="ui_bracelet_ruby_btn" korean="Добыча Elounda" />
+	<block key="ui_title_auction" korean="Торговый Представитель" />
+	<block key="ui_title_deletechar" korean="Удаление символов" />
+	<block key="ui_title_autosend" korean="Автоматическое сообщение" />
+	<block key="ui_title_shouting" korean="Реветь" />
+	<block key="ui_title_autocheck" korean="Автоматическое сообщение" />
+	<block key="ui_title_waitingline" korean="Очередь" />
+	<block key="ui_title_soultalents" korean="Характеристики монтажные" />
+	<block key="ui_title_reinforce" korean="Элементы укрепления" />
+	<block key="ui_title_chattaboption" korean="Вкладка Параметры" />
+	<block key="ui_title_dellimittimeitem" korean="Удаление списка терминов" />
+	<block key="ui_title_guildcreate" korean="Гильдия поколения" />
+	<block key="ui_title_guildmanager" korean="Набор Класс" />
+	<block key="ui_title_partyauction" korean="Сделайте ставку" />
+	<block key="ui_title_splititem" korean="Пункт разделение" />
+	<block key="ui_title_aprecovery" korean="Укрощение точку восстановления" />
+	<block key="ui_title_attackready" korean="Приготовьте" />
+	<block key="ui_title_actionlist" korean="Список действий" />
+	<block key="ui_title_itemauction" korean="Пункт Аукцион" />
+	<block key="ui_title_friendlist" korean="Список друзей" />
+	<block key="ui_title_production" korean="Производство" />
+	<block key="ui_title_looting" korean="Добыча" />
+	<block key="ui_title_mailread" korean="Чтение почты" />
+	<block key="ui_title_npctalk" korean="Диалог" />
+	<block key="ui_title_pkranking" korean="Ранжирование" />
+	<block key="ui_title_questlist" korean="Quest Список" />
+	<block key="ui_title_questlistitem" korean="Quest Описание" />
+	<block key="ui_title_revival" korean="Воскресение" />
+	<block key="ui_title_secondpassword" korean="Во-вторых пароль" />
+	<block key="ui_title_trade" korean="Личная сделка" />
+	<block key="ui_title_worldmap" korean="Карта мира" />
+	<block key="ui_title_attackbattalion" korean="Организаторы рейда" />
+	<block key="ui_title_characterinfo" korean="Информация о персонаже" />
+	<block key="ui_title_soulstone" korean="Браслет" />
+	<block key="ui_title_fellowinfo" korean="Сотрудник информация" />
+	<block key="ui_title_fellow_changename" korean="Сотрудник Изменить имя" />
+	<block key="ui_title_fellow_expandslot" korean="Сотрудник Расширение" />
+	<block key="ui_title_fellow_throw" korean="Сотрудник цикл выпуска" />
+	<block key="ui_title_fellow_extract" korean="Сотрудник добыча" />
+	<block key="ui_title_fellow_unseal" korean="Сотрудник распечатывания" />
+	<block key="ui_title_agree_trade" korean="Запрос сделка" />
+	<block key="ui_title_agree_party" korean="Приглашение на вечеринку" />
+	<block key="ui_title_agree_duel" korean="Запрос Дуэль" />
+	<block key="ui_title_agree_guild" korean="Гильдия Приглашение" />
+	<block key="ui_title_agree_attackbattalion" korean="Пригласить рейд" />
+	<block key="ui_title_agree_combatready" korean="RAID-поддержка" />
+	<block key="ui_title_agree_partyapply" korean="Поддержка партии" />
+	<block key="ui_title_agree_attackbattalionapply" korean="Поддержка RAID" />
+	<block key="ui_title_agree_summon" korean="Отзыв" />
+	<block key="ui_title_agree_boardingapply" korean="Поддержка Совет" />
+	<block key="ui_title_agree_boardinginvite" korean="Приглашенные на борту" />
+	<block key="ui_title_agree_summon_invite" korean="Призыв запрос" />
+	<block key="ui_title_send_shouting" korean="Реветь" />
+	<block key="ui_title_cancel_shouting" korean="Реветь" />
+	<block key="ui_title_agree_guildunion_invite" korean="Гильдия Союз пригласить" />
+	<block key="ui_title_footfold_request" korean="База перед нанесением" />
+	<block key="ui_title_basic_option" korean="Инициализации Опции" />
+	<block key="ui_title_realtimeopt_clear" korean="В режиме реального времени оптимизации выключения" />
+	<block key="ui_title_alert_belonging" korean="Принадлежащий" />
+	<block key="ui_title_learn_tech" korean="Навыки" />
+	<block key="ui_title_itemwork_reinforce" korean="Элементы укрепления" />
+	<block key="ui_title_itemwork_extraction" korean="Пункт Добыча" />
+	<block key="ui_title_itemwork_removebelong" korean="Закройте петли" />
+	<block key="ui_title_itemwork_resetbelong" korean="Закройте петли" />
+	<block key="ui_title_itemwork_decomposition" korean="Предметы разложение" />
+	<block key="ui_title_itemwork_changeoption" korean="Изменить параметры уплотнения" />
+	<block key="ui_title_itemwork_activesocket" korean="Дополнительные слоты" />
+	<block key="ui_title_return_point" korean="Обратная связь по положению" />
+	<block key="ui_title_equip_belonging" korean="Принадлежащий" />
+	<block key="ui_title_use_warp" korean="Движение" />
+	<block key="ui_title_create_fellow" korean="Человек" />
+	<block key="ui_title_sell_overhero" korean="Продажа" />
+	<block key="ui_title_throw_item" korean="Уничтожение" />
+	<block key="ui_title_extends_storageslot" korean="Склад расширения" />
+	<block key="ui_title_join_npcguild" korean="Поссе Up" />
+	<block key="ui_title_npcguild_out" korean="Милиция вывод" />
+	<block key="ui_title_cash_retract" korean="Предложение отозвано" />
+	<block key="ui_title_unride_passenger" korean="Выходить" />
+	<block key="ui_title_unride_driver" korean="Выходить" />
+	<block key="ui_title_fellow_invalid_name" korean="Уведомления" />
+	<block key="ui_title_join_escort_quest" korean="Уведомления" />
+	<block key="ui_title_share_quest" korean="Уведомления" />
+	<block key="ui_title_quit_game_disconnecting" korean="Выключение сервера" />
+	<block key="ui_title_kick_party" korean="Партия исключен" />
+	<block key="ui_title_direct_portal" korean="Портал" />
+	<block key="ui_title_fail_quest" korean="Уведомления" />
+	<block key="ui_title_add_friend" korean="Добавить в друзья" />
+	<block key="ui_title_add_cutoff" korean="Добавить блок" />
+	<block key="ui_title_add_memo" korean="Блочный комментарий" />
+	<block key="ui_title_charge_ruby" korean="Elounda заряд" />
+	<block key="ui_title_lack_msg" korean="Уведомления" />
+	<block key="ui_title_equip_talents" korean="Характеристики монтажные" />
+	<block key="ui_title_init_soultalents" korean="Инициализация Характеристики" />
+	<block key="ui_title_full_talents" korean="Уведомления" />
+	<block key="ui_title_attackbattalion_organize" korean="Организаторы рейда" />
+	<block key="ui_title_attactbattalion_invite" korean="Пригласить рейд" />
+	<block key="ui_title_add_gem" korean="Добавить ювелирные изделия" />
+	<block key="ui_title_add_bracelet" korean="Добавить браслет" />
+	<block key="ui_title_extract_gem" korean="Добыча Ювелирные изделия" />
+	<block key="ui_title_init_dungeonreenter" korean="Инициализация" />
+	<block key="ui_title_dungeon_init" korean="Инициализация" />
+	<block key="ui_title_guild_dissolution" korean="Гильдия демонтаж" />
+	<block key="ui_title_guild_invite" korean="Гильдия Приглашение" />
+	<block key="ui_title_guild_upgrade" korean="Изменения Guild" />
+	<block key="ui_title_guild_nopoint" korean="Уведомления" />
+	<block key="ui_title_guild_mark" korean="Гильдия Марк" />
+	<block key="ui_title_guild_mark_change" korean="Гильдия Марк" />
+	<block key="ui_title_guild_mark_diffent_size" korean="Гильдия Марк" />
+	<block key="ui_title_guild_master_change" korean="Изменить Гильдии" />
+	<block key="ui_title_guild_kick" korean="Гильдия депортация" />
+	<block key="ui_title_guild_out" korean="Гильдия Снятие" />
+	<block key="ui_title_guild_dismiss" korean="Гильдии Хаим" />
+	<block key="ui_title_unitecreate" korean="Соединенные создание" />
+	<block key="ui_title_unite_namechange" korean="Союз переименования" />
+	<block key="ui_title_guild_uniteinvite" korean="Союз приглашает" />
+	<block key="ui_title_unite_delete" korean="Союз распался" />
+	<block key="ui_title_unite_kick" korean="Соединенные депортация" />
+	<block key="ui_title_unite_out" korean="Вывод Союз" />
+	<block key="ui_title_union_war_name" korean="Объявление войны" />
+	<block key="ui_title_union_war_surrender" korean="Сдача" />
+	<block key="ui_title_auction_renounce" korean="Отказаться от предложение" />
+	<block key="ui_title_zone_change" korean="Движение" />
+	<block key="ui_title_resurrection_penalty" korean="Воскресение лечение осложнений" />
+	<block key="ui_title_pvparea_warning" korean="Предупреждение" />
+	<block key="ui_title_boarding_kick" korean="Уведомления" />
+	<block key="ui_title_secondpw_fail" korean="Уведомления" />
+	<block key="ui_title_aution_expandslot" korean="Торговый представитель расширения" />
+	<block key="ui_title_delete_mail" korean="Удаление почты" />
+	<block key="ui_title_synthesis_del_sealeditem" korean="Сотрудник удаление печать" />
+	<block key="ui_title_channel_readytime" korean="Переключение канала" />
+	<block key="ui_title_skip_tutorial" korean="Учебник прекращение" />
+	<block key="ui_title_guildrank_full" korean="Уведомления" />
+	<block key="ui_title_guild_name_empty" korean="Уведомления" />
+	<block key="ui_title_check_user_name" korean="Уведомления" />
+	<block key="ui_title_lobbycharcreate_cant" korean="Уведомления" />
+	<block key="ui_title_character_recover" korean="Уведомления" />
+	<block key="ui_title_lobbycharselector_createimpossible" korean="Уведомления" />
+	<block key="ui_title_secondpw_no_match" korean="Уведомления" />
+	<block key="ui_title_waiting_change_server" korean="Уведомления" />
+	<block key="ui_title_ruby_resurrection" korean="Блаженного воскресения" />
+	<block key="ui_title_cash_charge" korean="Заряд Cache" />
+	<block key="ui_title_cashitem_to_inven" korean="Уведомления" />
+	<block key="ui_title_retract_count_error" korean="Уведомления" />
+	<block key="ui_declare_warfare" korean="Объявление войны" />
+	<block key="ui_cancel_declare_warfare" korean="Объявлен Отменить" />
+	<block key="ui_label_achievements_number" korean="Может достижения" />
+	<block key="ui_title_common_error" korean="Уведомления" />
+	<block key="hudedit_init_msg" korean="Вы уверены, что хотите инициализировать все местоположения пользовательского интерфейса?" />
+	<block key="ui_title_hudedit_init" korean="UI инициализации позиции" />
+	<block key="attendance" korean="Корабли" />
+	<block key="ui_attendance_connect" korean="Откройте каждый раз при подключении Корабли" />
+	<block key="ui_title_agreee_party" korean="Приглашение на вечеринку" />
+	<block key="ui_tootip_bracelet" korean="Браслет" />
+	<block key="ui_characterinfo_slottooltip_style2" korean="Бретельки" />
+	<block key="wpcrirate_desc" korean="Физическая атака, вероятно, будет критическим." />
+	<block key="spcrirate_desc" korean="Магическую атаку, вероятно, будет критическим." />
+	<block key="Limitclear" korean="Ограниченный выпуск" />
+	<block key="ui_gamemenu_attendance" korean="Корабли" />
+	<block key="tooltip_character_runspeed" korean="Скорость, с которой персонаж применяется при перемещении." />
+	<block key="ui_attendancetime" korean="Корабли оставшееся время" />
+	<block key="itemuse_extract_gem" korean="Добыча Ювелирные изделия" />
+	<block key="ui_title_item_production" korean="Элементы изготовлены" />
+	<block key="ui_title_caution" korean="Внимание" />
+	<block key="ui_lobbycustomize_btn_prev_itemmode" korean="Оставлять" />
+	<block key="ui_lobbycustomize_btn_reset" korean="Сброс" />
+	<block key="ui_lobbycustomize_btn_save" korean="Внешние накопители" />
+	<block key="ui_lobbycustomize_btn_load" korean="Нагрузка" />
+	<block key="ui_attendance_tooltip" korean="[Время] была проверена присутствовать." />
+	<block key="ui_attendance_day" korean="Основной" />
+	<block key="ui_attendance_notice" korean="Корабли события [время] периодическая проверка прежде чем вы сможете участвовать." />
+	<block key="ui_attendance_notyet" korean="Участники, не проверяется." />
+	<block key="ui_achievements_score" korean="Eopjeom оценка" />
+	<block key="ui_achievements_total" korean="Полнота" />
+	<block key="ui_achievements_achieve" korean="Достижение" />
+	<block key="ui_achievements_shortfall" korean="Достижение США" />
+	<block key="ui_achievements_compensation" korean="Награды Достижения" />
+	<block key="ui_achievements_act" korean="Действия" />
+	<block key="ui_achievements_recently" korean="Последние достижения" />
+	<block key="ui_achievements_totalsituation" korean="Всего прогресс" />
+	<block key="ui_actionlist_close" korean="Близко" />
+	<block key="ui_battalion_ready" korean="Приготовьте" />
+	<block key="ui_battalion_ready_message" korean="Помогла ли эта битва готовы?" />
+	<block key="ui_battalion_yes" korean="Пример" />
+	<block key="ui_battalion_no" korean="Нет" />
+	<block key="ui_auction_totallist" korean="Полный список" />
+	<block key="ui_bag_rank" korean="First Storage рейтинг" />
+	<block key="ui_book_title" korean="Книга" />
+	<block key="ui_book_close" korean="Близко" />
+	<block key="ui_cashshopstoragebox_withdrawal" korean="Аннулирование" />
+	<block key="ui_cashshopstoragebox_wecash" korean="Мы Cache" />
+	<block key="ui_cashshopstoragebox_count" korean="Кол-во" />
+	<block key="ui_castingbar_taming_succes" korean="Успех" />
+	<block key="ui_castingbar_taming_fail" korean="Отказ" />
+	<block key="ui_changeoption_before" korean="Перед опцией изменения" />
+	<block key="ui_changeoption_after" korean="После изменения параметров" />
+	<block key="ui_changeoption_check" korean="Подтверждение" />
+	<block key="ui_channel2_option" korean="Мини-карта параметры дисплея" />
+	<block key="ui_channel2_minimap" korean="Мини-карта" />
+	<block key="ui_characterinfo_stat_movespeed" korean="Скорость движения" />
+	<block key="ui_characterinfo_stat_hp" korean="Жизнеспособность" />
+	<block key="ui_characterinfo_stat_mp" korean="Mana" />
+	<block key="ui_characterinfo_stat_seazepoint" korean="Укрощение точку" />
+	<block key="ui_characterinfo_stat_mastery" korean="Умение" />
+	<block key="ui_characterinfo_stat_gather" korean="Сбор" />
+	<block key="ui_characterinfo_stat_dps" korean="Урона в секунду" />
+	<block key="ui_characterinfo_stat_hit" korean="Просмотров" />
+	<block key="ui_characterinfo_stat_fatalchance" korean="Критическая скорость" />
+	<block key="ui_characterinfo_stat_fataldamage" korean="Критический урон" />
+	<block key="ui_characterinfo_stat_attackspeed" korean="Скорость атаки" />
+	<block key="ui_characterinfo_stat_fataldamageprotect" korean="Защита критической Нанесенный" />
+	<block key="ui_characterinfo_stat_shieldblock" korean="Блок щитом" />
+	<block key="ui_characterinfo_stat_weaponblock" korean="Парировать" />
+	<block key="ui_characterinfo_mycharacteristic_reset" korean="Инициализация" />
+	<block key="ui_characterinfo_charinfo_detailinfo" korean="Более подробная информация" />
+	<block key="ui_characterinfo_charinfo_usetitle" korean="Название используется" />
+	<block key="ui_characterinfo_charinfo_selecttitle" korean="Выбранный название" />
+	<block key="ui_characterinfo_charinfo_titlelist" korean="Список названий" />
+	<block key="ui_characterinfo_charinfo_titletotal" korean="Полнота" />
+	<block key="ui_characterinfo_charinfo_titleget" korean="Приобретение" />
+	<block key="ui_characterinfo_charinfo_titleeffect" korean="В действительности" />
+	<block key="ui_characterinfo_charinfo_titlechange" korean="Изменение" />
+	<block key="ui_characterinfo_charinfo_titlerelease" korean="Релиз" />
+	<block key="ui_characteristic_present" korean="Текущий характеристика силы" />
+	<block key="ui_characteristic_need" korean="Усилие характеристики" />
+	<block key="ui_characteristic_remain" korean="Остальные характеристики силы" />
+	<block key="ui_characteristic_btncheck" korean="Подтверждение" />
+	<block key="ui_characteristic_btncancel" korean="Отменить" />
+	<block key="ui_chattaboption_btncheck" korean="Подтверждение" />
+	<block key="ui_chattaboption_btncancel" korean="Отменить" />
+	<block key="ui_dellimittimeitemlist_help" korean="Информация истек" />
+	<block key="ui_dellimittimeitemlist_btncheck" korean="Подтверждение" />
+	<block key="ui_dungeongrade_explain" korean="Entry Level" />
+	<block key="ui_dungeonreenter_title" korean="Экземпляр Подземелья" />
+	<block key="ui_dungeonreenter_subtitle" korean="Подземелья время повторного ввода" />
+	<block key="ui_dungeonreenter_btncheck" korean="Подтверждение" />
+	<block key="ui_dungeonreenter_subgrade" korean="Рейтинг" />
+	<block key="ui_dungeonreenter_subjoin" korean="Позиция" />
+	<block key="ui_dungeonreenter_subtime" korean="Восстановить долгое время" />
+	<block key="ui_fellowinfo_exp" korean="Опыт" />
+	<block key="ui_fellowinfo_dps" korean="Урона в секунду" />
+	<block key="ui_fellowinfo_defense" korean="Физическая защита" />
+	<block key="ui_fellowinfo_altitude" korean="Максимальная высота" />
+	<block key="ui_fellowinfo_movespeed" korean="Скорость движения" />
+	<block key="ui_fellowinfo_attackspeed" korean="Скорость атаки" />
+	<block key="ui_fellowinfo_characteristic" korean="Характеристика" />
+	<block key="ui_fellowinfo_fellowequip" korean="Сотрудник оборудование" />
+	<block key="ui_fellowinfo_fellowskill" korean="Попутчики навыки" />
+	<block key="ui_fellowlist_level" korean="Уровень сети" />
+	<block key="ui_fellowlist_grade" korean="Рейтинги чистая" />
+	<block key="ui_fellowlist_reinforce" korean="Консолидация" />
+	<block key="ui_fellowlist_namechange" korean="Переименование" />
+	<block key="ui_fellowlist_summon" korean="Отзыв" />
+	<block key="ui_fellowlist_release" korean="Цикл выпуска" />
+	<block key="ui_friendlist_blocklist_character" korean="Характер" />
+	<block key="ui_friendlist_blocklist_memo" korean="Заметка" />
+	<block key="ui_friendlist_blocklist_btnnew" korean="Добавить блок" />
+	<block key="ui_friendlist_friendlist_character" korean="Характер" />
+	<block key="ui_friendlist_friendlist_level" korean="Уровень" />
+	<block key="ui_friendlist_friendlist_job" korean="Профессия" />
+	<block key="ui_friendlist_friendlist_join" korean="Подключение" />
+	<block key="ui_friendlist_friendlist_onlineview" korean="Показать только друзей онлайн" />
+	<block key="ui_friendlist_friendlist_btnnew" korean="Добавить в друзья" />
+	<block key="ui_gamegrade_btncheck" korean="Подтверждение" />
+	<block key="ui_gamegrade_gradeinfo" korean="Рейтинг информация" />
+	<block key="ui_gameoption_title" korean="Предпочтения" />
+	<block key="ui_gameoption_camera_maxdis" korean="Камеры Максимальное расстояние" />
+	<block key="ui_gameoption_camera_turnspeed" korean="Скорость камеры" />
+	<block key="ui_gameoption_camera_mousesensitivity" korean="Чувствительность мыши" />
+	<block key="ui_gameoption_camera_scopenear" korean="Близко" />
+	<block key="ui_gameoption_camera_scopefar" korean="Удаленно" />
+	<block key="ui_gameoption_camera_scopeslow" korean="Медленно" />
+	<block key="ui_gameoption_camera_scopefast" korean="Быстрее" />
+	<block key="ui_gameoption_camera_camerarollingbyfellow" korean="Полет включения камеры" />
+	<block key="ui_gameoption_combatinfo_mydamage" korean="Ущерб, который они получают" />
+	<block key="ui_gameoption_combatinfo_targetdamage" korean="Цель получает урон" />
+	<block key="ui_gameoption_combatinfo_myheal" korean="Исцеление они получают" />
+	<block key="ui_gameoption_combatinfo_targetheal" korean="Лечение целевой получателя" />
+	<block key="ui_gameoption_combatinfo_targetbufffromme" korean="Их предметом эффект получил" />
+	<block key="ui_gameoption_combatinfo_targetbufffromother" korean="Другие получают эффективную цель" />
+	<block key="ui_gameoption_combatinfo_targetdst" korean="Расстояние от мишени и" />
+	<block key="ui_gameoption_combatinfo_targetoftarget" korean="Посмотреть ЦЕЛИ" />
+	<block key="ui_gameoption_combatinfo_targetcastingbar" korean="Бар Посмотреть ролях назначения" />
+	<block key="ui_gameoption_combatinfo_myfellowdamage" korean="Стипендиаты получают повреждения" />
+	<block key="ui_gameoption_combatoperate_commanddouble" korean="Дважды щелкните команду вход" />
+	<block key="ui_gameoption_combatoperate_fast" korean="Быстрее" />
+	<block key="ui_gameoption_combatoperate_slow" korean="Помедленнее" />
+	<block key="ui_gameoption_combatoperate_afterskillautoattack" korean="После атаке ли" />
+	<block key="ui_gameoption_combatoperate_ridingfixedmouse" korean="Исправлена ​​мыши на борту" />
+	<block key="ui_gameoption_community_speechbubble" korean="Показать на воздушном шаре" />
+	<block key="ui_gameoption_community_partyinviterefusal" korean="Отказано приглашение на вечеринку" />
+	<block key="ui_gameoption_community_traderefusal" korean="Запрос сделка будет отказано" />
+	<block key="ui_gameoption_community_guildinviterefusal" korean="Гильдия отклонить приглашение" />
+	<block key="ui_gameoption_community_combatrequestrefusal" korean="Запрос отклонен поединок" />
+	<block key="ui_gameoption_community_guildmemberalarm" korean="Уведомление Гильдия связь" />
+	<block key="ui_gameoption_community_boardingapplyrefusal" korean="Вам отказали в посадке Fellow запрос" />
+	<block key="ui_gameoption_community_whisperrefusal" korean="Шепот отказаться" />
+	<block key="ui_gameoption_etc_mouseleftclickmove" korean="Перемещение мыши щелкните левой кнопкой мыши" />
+	<block key="ui_gameoption_etc_bufftime" korean="Buff продолжительность" />
+	<block key="ui_gameoption_etc_gametip" korean="Советы Game Show" />
+	<block key="ui_gameoption_etc_gaugedisplay" korean="Используя простой датчик" />
+	<block key="ui_gameoption_etc_lootingautocursor" korean="Когда курсор перемещается автоматической маршрутизации" />
+	<block key="ui_gameoption_etc_tamingalarm" korean="Уведомления Укрощение" />
+	<block key="ui_gameoption_etc_helmet" korean="Шлем Показать" />
+	<block key="ui_gameoption_etc_questtargetnpceffdisp" korean="Появляются Quest NPC целевые эффекты" />
+	<block key="ui_gameoption_etc_questtargetmonstereffdisp" korean="Появляются Монстр Quest целевые эффекты" />
+	<block key="ui_gameoption_etc_systemmsgdisp" korean="Выход Системное сообщение" />
+	<block key="ui_gameoption_extendquickslot_extendquickslot" korean="Слоты расширения" />
+	<block key="ui_gameoption_gauge_gaugedisplay" korean="Используйте дисплей калибровки" />
+	<block key="ui_gameoption_name_playername" korean="Имя игрока" />
+	<block key="ui_gameoption_name_partymembername" korean="Название партии" />
+	<block key="ui_gameoption_name_fellowname" korean="Сотрудник название" />
+	<block key="ui_gameoption_name_otherplayername" korean="Другие игроки имя" />
+	<block key="ui_gameoption_name_npcname" korean="Имя NPC" />
+	<block key="ui_gameoption_name_interactionobjname" korean="Вещи имя" />
+	<block key="ui_gameoption_name_monstername" korean="Монстр Имя" />
+	<block key="ui_gameoption_name_guildname" korean="Принадлежность гильдия отображаемое имя" />
+	<block key="ui_gameoption_name_petname" korean="Домашние животные и маленькие существа" />
+	<block key="ui_gameoption_name_designationname" korean="Показывать заголовок" />
+	<block key="ui_gameoption_statusbar_statusbarvalue" korean="Окно статуса платы" />
+	<block key="ui_gameoption_statusbar_statusbarnumber" korean="Просмотр количества" />
+	<block key="ui_gameoption_statusbar_statusbarpercentage" korean="Процент дисплей" />
+	<block key="ui_gameoption_statusbar_statusbarpercent" korean="Посмотреть в процентах" />
+	<block key="ui_gameoption_graphic_displaylimit_char" korean="Персонажи" />
+	<block key="ui_gameoption_graphic_displaylimit_charlimit" korean="Персонажи с ограниченным количеством сидячих мест" />
+	<block key="ui_gameoption_graphic_displaylimit_effect" korean="Эффекты" />
+	<block key="ui_gameoption_graphic_displaylimit_low" korean="Низкий" />
+	<block key="ui_gameoption_graphic_displaylimit_high" korean="Высокий" />
+	<block key="ui_gameoption_graphic_displaylimit_effecttarget" korean="Показывать только эффекты" />
+	<block key="ui_gameoption_graphic_etc_frameonoff" korean="Рамка дисплея" />
+	<block key="ui_gameoption_graphic_etc_vsynconoff" korean="Вертикальная синхронизация" />
+	<block key="ui_gameoption_graphic_etc_realtimeoptimization" korean="Оптимизация в режиме реального времени" />
+	<block key="ui_gameoption_graphic_etc_frame" korean="Неподвижной раме" />
+	<block key="ui_gameoption_graphic_etc_weatheronoff" korean="Погодные эффекты" />
+	<block key="ui_gameoption_graphic_higheffect_outfocusing" korean="Основной момент" />
+	<block key="ui_gameoption_graphic_higheffect_hdr" korean="HDR Блум" />
+	<block key="ui_gameoption_graphic_higheffect_motion" korean="Смазывание" />
+	<block key="ui_gameoption_graphic_higheffect_clarity" korean="Определение" />
+	<block key="ui_gameoption_graphic_higheffect_low" korean="Низкий" />
+	<block key="ui_gameoption_graphic_higheffect_high" korean="Высокий" />
+	<block key="ui_gameoption_graphic_light_sunshaftseffect" korean="Световые эффекты" />
+	<block key="ui_gameoption_graphic_light_lowlighting" korean="Освещение для низкобюджетных" />
+	<block key="ui_gameoption_graphic_lod_land" korean="Топография" />
+	<block key="ui_gameoption_graphic_lod_things" korean="Объекты" />
+	<block key="ui_gameoption_graphic_lod_char" korean="Персонажи" />
+	<block key="ui_gameoption_graphic_lod_low" korean="Низкий" />
+	<block key="ui_gameoption_graphic_lod_hight" korean="Высокий" />
+	<block key="ui_gameoption_graphic_quality_texture" korean="Разрешение текстур" />
+	<block key="ui_gameoption_graphic_quality_shadow" korean="Тень" />
+	<block key="ui_gameoption_graphic_quality_water" korean="Вода" />
+	<block key="ui_gameoption_graphic_quality_shader" korean="Shader" />
+	<block key="ui_gameoption_graphic_quality_terrain" korean="Местность изображение" />
+	<block key="ui_gameoption_graphic_quality_effect" korean="Эффекты" />
+	<block key="ui_gameoption_graphic_quality_particle" korean="Частица" />
+	<block key="ui_gameoption_graphic_screensetting_screenmode" korean="Режим экрана" />
+	<block key="ui_gameoption_graphic_screensetting_resolution" korean="Разрешение" />
+	<block key="ui_gameoption_graphic_screensetting_anti" korean="Сглаживание" />
+	<block key="ui_gameoption_graphic_screensetting_brightness" korean="Светимость" />
+	<block key="ui_gameoption_graphic_screensetting_dark" korean="Мрачно" />
+	<block key="ui_gameoption_graphic_screensetting_light" korean="Ярко" />
+	<block key="ui_gameoption_graphic_screensetting_directx" korean="Direct X" />
+	<block key="ui_gameoption_graphic_screensetting_x9" korean="X 9" />
+	<block key="ui_gameoption_graphic_screensetting_x11" korean="X 11" />
+	<block key="ui_gameoption_graphic_totalsetting_totalsetting" korean="Полный комплект" />
+	<block key="ui_gameoption_graphic_totalsetting_low" korean="Низкий" />
+	<block key="ui_gameoption_graphic_totalsetting_high" korean="Высокий" />
+	<block key="ui_gameoption_graphic_totalsetting_custom" korean="Настройки пользователя" />
+	<block key="ui_gameoption_graphic_viewdst_char" korean="Персонажи" />
+	<block key="ui_gameoption_graphic_viewdst_things" korean="Объекты" />
+	<block key="ui_gameoption_graphic_viewdst_background" korean="Фон" />
+	<block key="ui_gameoption_graphic_viewdst_glue" korean="Бассейн" />
+	<block key="ui_gameoption_graphic_viewdst_low" korean="Низкий" />
+	<block key="ui_gameoption_graphic_viewdst_high" korean="Высокий" />
+	<block key="ui_gameoption_sound_totalsound" korean="Полный звук" />
+	<block key="ui_gameoption_sound_bgm" korean="Фоновая музыка" />
+	<block key="ui_gameoption_sound_effectsound" korean="Звуковые эффекты" />
+	<block key="ui_gameoption_sound_environmentsound" korean="Окружающего звука" />
+	<block key="ui_gameoption_sound_systemsound" korean="Система голосового сообщения" />
+	<block key="ui_gameoption_sound_backgroundsound" korean="Прослушивание фонового шума" />
+	<block key="ui_gameoption_sound_low" korean="Низкий" />
+	<block key="ui_gameoption_sound_high" korean="Высокий" />
+	<block key="ui_gameoption_shortcut_basicquickslot_main" korean="Примечание ярлыки" />
+	<block key="ui_gameoption_shortcut_basicquickslot_sub" korean="Вторичные ярлыки" />
+	<block key="ui_gameoption_shortcut_basicquickslot_1" korean="Основные Slot 1" />
+	<block key="ui_gameoption_shortcut_basicquickslot_2" korean="Основные Слот 2" />
+	<block key="ui_gameoption_shortcut_basicquickslot_3" korean="Основные Слот 3" />
+	<block key="ui_gameoption_shortcut_basicquickslot_4" korean="Основные Слот 4" />
+	<block key="ui_gameoption_shortcut_basicquickslot_5" korean="Основные Слот 5" />
+	<block key="ui_gameoption_shortcut_basicquickslot_6" korean="Основные Слот 6" />
+	<block key="ui_gameoption_shortcut_basicquickslot_7" korean="Основные Слот 7" />
+	<block key="ui_gameoption_shortcut_basicquickslot_8" korean="Основные Слот 8" />
+	<block key="ui_gameoption_shortcut_basicquickslot_9" korean="Основные Слот 9" />
+	<block key="ui_gameoption_shortcut_basicquickslot_10" korean="Основные слот 10" />
+	<block key="ui_gameoption_shortcut_basicquickslot_11" korean="Основные слот 11" />
+	<block key="ui_gameoption_shortcut_basicquickslot_12" korean="Основные слот 12" />
+	<block key="ui_gameoption_shortcut_combat_main" korean="Примечание ярлыки" />
+	<block key="ui_gameoption_shortcut_combat_sub" korean="Вторичные ярлыки" />
+	<block key="ui_gameoption_shortcut_combat_1" korean="Боевой / общее преобразование отношение" />
+	<block key="ui_gameoption_shortcut_combat_2" korean="Выберите близкого союзника" />
+	<block key="ui_gameoption_shortcut_combat_3" korean="Выберите ближайшего врага" />
+	<block key="ui_gameoption_shortcut_combat_4" korean="Выберите признаки назначения" />
+	<block key="ui_gameoption_shortcut_combat_5" korean="Выберите объекты" />
+	<block key="ui_gameoption_shortcut_combat_6" korean="Рекомендуемые навыки" />
+	<block key="ui_gameoption_shortcut_combat_7" korean="Yeongyegi 1" />
+	<block key="ui_gameoption_shortcut_combat_8" korean="Yeongyegi 2" />
+	<block key="ui_gameoption_shortcut_combat_9" korean="Yeongyegi 3" />
+	<block key="ui_gameoption_shortcut_combat_10" korean="Yeongyegi 4" />
+	<block key="ui_gameoption_shortcut_combat_11" korean="Когда путешествия по пересеченной фиксации волос" />
+	<block key="ui_gameoption_shortcut_combat_12" korean="Trigger навыки" />
+	<block key="ui_gameoption_shortcut_combat_13" korean="Своп оружие интернат" />
+	<block key="ui_gameoption_shortcut_etc_main" korean="Примечание ярлыки" />
+	<block key="ui_gameoption_shortcut_etc_sub" korean="Вторичные ярлыки" />
+	<block key="ui_gameoption_etc_combat_1" korean="Режим Видео" />
+	<block key="ui_gameoption_etc_combat_2" korean="Персонажи с ограниченным количеством сидячих мест" />
+	<block key="ui_gameoption_etc_combat_3" korean="Шепот ответов" />
+	<block key="ui_gameoption_shortcut_extendquickslot_main" korean="Примечание ярлыки" />
+	<block key="ui_gameoption_shortcut_extendquickslot_sub" korean="Вторичные ярлыки" />
+	<block key="ui_gameoption_shortcut_extendquickslot_1" korean="Слоты расширения 1" />
+	<block key="ui_gameoption_shortcut_extendquickslot_2" korean="Слоты расширения 2" />
+	<block key="ui_gameoption_shortcut_extendquickslot_3" korean="Слоты расширения 3" />
+	<block key="ui_gameoption_shortcut_extendquickslot_4" korean="Слоты расширения 4" />
+	<block key="ui_gameoption_shortcut_extendquickslot_5" korean="Слоты расширения 5" />
+	<block key="ui_gameoption_shortcut_extendquickslot_6" korean="6 слотов расширения" />
+	<block key="ui_gameoption_shortcut_extendquickslot_7" korean="Слоты расширения 7" />
+	<block key="ui_gameoption_shortcut_extendquickslot_8" korean="8 слотов расширения" />
+	<block key="ui_gameoption_shortcut_extendquickslot_9" korean="Слот расширения 9" />
+	<block key="ui_gameoption_shortcut_extendquickslot_10" korean="Слот расширения 10" />
+	<block key="ui_gameoption_shortcut_extendquickslot_11" korean="Слот расширения 11" />
+	<block key="ui_gameoption_shortcut_extendquickslot_12" korean="Слот расширения 12" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_main" korean="Примечание ярлыки" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_sub" korean="Вторичные ярлыки" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_1" korean="Сотрудник сокращен перечень слот 1" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_2" korean="Сотрудник сокращен перечень слот 2" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_3" korean="Сотрудник сокращен перечень слот 3" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_4" korean="Сотрудник сокращен перечень слот 4" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_5" korean="Сотрудник список сокращен слот 5" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_6" korean="Сотрудник список сокращен слот 6" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_7" korean="Сотрудник список сокращен слот 7" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_8" korean="Сотрудник список сокращен слот 8" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_9" korean="Сотрудник список сокращен слот 9" />
+	<block key="ui_gameoption_shortcut_fellowlistquickslot_10" korean="Сотрудник сокращен перечень слот 10" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_main" korean="Примечание ярлыки" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_sub" korean="Вторичные ярлыки" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_1" korean="Режим AI" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_2" korean="Следовать" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_3" korean="Укажите расположение" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_4" korean="Нацеливание" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_5" korean="Сотрудник Слот Скорость 1" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_6" korean="Сотрудник Скорость Слот 2" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_7" korean="Сотрудник Слот Скорость 3" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_8" korean="Сотрудник Слот Скорость 4" />
+	<block key="ui_gameoption_shortcut_fellowquickslot_9" korean="Сотрудник Слот Скорость 5" />
+	<block key="ui_gameoption_shortcut_menu_main" korean="Примечание ярлыки" />
+	<block key="ui_gameoption_shortcut_menu_sub" korean="Вторичные ярлыки" />
+	<block key="ui_gameoption_shortcut_menu_1" korean="Эллора магазин" />
+	<block key="ui_gameoption_shortcut_menu_2" korean="Архив Эллоры" />
+	<block key="ui_gameoption_shortcut_menu_3" korean="Информация о персонаже окна" />
+	<block key="ui_gameoption_shortcut_menu_4" korean="Сотрудник Область" />
+	<block key="ui_gameoption_shortcut_menu_5" korean="Сотрудник Книга" />
+	<block key="ui_gameoption_shortcut_menu_6" korean="Умение" />
+	<block key="ui_gameoption_shortcut_menu_7" korean="Поиск" />
+	<block key="ui_gameoption_shortcut_menu_8" korean="Мешок" />
+	<block key="ui_gameoption_shortcut_menu_9" korean="Список действий" />
+	<block key="ui_gameoption_shortcut_menu_10" korean="Карта" />
+	<block key="ui_gameoption_shortcut_menu_11" korean="Друг" />
+	<block key="ui_gameoption_shortcut_menu_12" korean="Правление партии" />
+	<block key="ui_gameoption_shortcut_menu_13" korean="GM" />
+	<block key="ui_gameoption_shortcut_menu_14" korean="Гильдия" />
+	<block key="ui_gameoption_shortcut_menu_15" korean="Рейд" />
+	<block key="ui_gameoption_shortcut_menu_16" korean="Помогите" />
+	<block key="ui_gameoption_shortcut_menu_17" korean="Опции игры" />
+	<block key="ui_gameoption_shortcut_menu_18" korean="Производство" />
+	<block key="ui_gameoption_shortcut_menu_19" korean="Положение deonjae" />
+	<block key="ui_gameoption_shortcut_menu_20" korean="Достижения" />
+	<block key="ui_gameoption_shortcut_move_main" korean="Примечание ярлыки" />
+	<block key="ui_gameoption_shortcut_move_sub" korean="Вторичные ярлыки" />
+	<block key="ui_gameoption_shortcut_move_1" korean="Назад в будущее" />
+	<block key="ui_gameoption_shortcut_move_2" korean="Вернуться к началу" />
+	<block key="ui_gameoption_shortcut_move_3" korean="Поворот влево" />
+	<block key="ui_gameoption_shortcut_move_4" korean="Поворот вправо" />
+	<block key="ui_gameoption_shortcut_move_5" korean="Идите налево" />
+	<block key="ui_gameoption_shortcut_move_6" korean="Идите направо" />
+	<block key="ui_gameoption_shortcut_move_7" korean="Разговор / шт Сбор" />
+	<block key="ui_gameoption_shortcut_move_8" korean="Запуск / Туризм" />
+	<block key="ui_gameoption_shortcut_move_9" korean="Автозапуск" />
+	<block key="ui_gameoption_shortcut_move_10" korean="Сядьте / встаньте" />
+	<block key="ui_gameoption_shortcut_move_11" korean="Перейти" />
+	<block key="ui_gameoption_shortcut_move_12" korean="Повышение в полете" />
+	<block key="ui_gameoption_shortcut_move_13" korean="Спуск полета" />
+	<block key="ui_gameoption_shortcut_move_14" korean="Сотрудник доска" />
+	<block key="ui_gameoption_shortcut_party_main" korean="Примечание ярлыки" />
+	<block key="ui_gameoption_shortcut_party_sub" korean="Вторичные ярлыки" />
+	<block key="ui_gameoption_shortcut_party_1" korean="Выберите свой собственный" />
+	<block key="ui_gameoption_shortcut_party_2" korean="Выберите одну партию" />
+	<block key="ui_gameoption_shortcut_party_3" korean="2 Выберите партию" />
+	<block key="ui_gameoption_shortcut_party_4" korean="Выбор третьей стороной" />
+	<block key="ui_gameoption_shortcut_party_5" korean="4 Выберите абонента" />
+	<block key="ui_gameoption_shortcut_token_main" korean="Примечание ярлыки" />
+	<block key="ui_gameoption_shortcut_token_sub" korean="Вторичные ярлыки" />
+	<block key="ui_gameoption_shortcut_token_1" korean="Отмечать" />
+	<block key="ui_gameoption_btndefault" korean="По умолчанию" />
+	<block key="ui_gameoption_btncheck" korean="Подтверждение" />
+	<block key="ui_gameoption_btnapply" korean="Применение" />
+	<block key="ui_gameoption_btncancel" korean="Отменить" />
+	<block key="ui_guild_title" korean="Гильдия" />
+	<block key="ui_guild_unit_name" korean="Название союз" />
+	<block key="ui_guild_unit_leader" korean="Глава Союза" />
+	<block key="ui_guild_unit_number" korean="Персонал" />
+	<block key="ui_guild_unit_grade" korean="Рейтинг" />
+	<block key="ui_guild_online" korean="Показать только посетителя" />
+	<block key="ui_guild_local_1" korean="Персонал" />
+	<block key="ui_guild_local_2" korean="Рейтинг" />
+	<block key="ui_guild_local_3" korean="Уведомления" />
+	<block key="ui_guild_local_4" korean="Сборник" />
+	<block key="ui_guild_local_5" korean="Имя" />
+	<block key="ui_guild_local_6" korean="Профессия" />
+	<block key="ui_guild_local_7" korean="Уровень" />
+	<block key="ui_guild_local_8" korean="Расположение" />
+	<block key="ui_guild_local_9" korean="Ранг" />
+	<block key="ui_guild_local_10" korean="Имя" />
+	<block key="ui_guild_local_11" korean="Рейтинг" />
+	<block key="ui_guild_local_12" korean="Тип" />
+	<block key="ui_guild_local_13" korean="Гильдия Список" />
+	<block key="ui_guild_local_14" korean="Имя" />
+	<block key="ui_guild_local_15" korean="Профессия" />
+	<block key="ui_guild_local_16" korean="Уровень" />
+	<block key="ui_guild_local_17" korean="Гильдия Имя" />
+	<block key="ui_guild_local_18" korean="Ранг" />
+	<block key="ui_guild_local_19" korean="Показать только посетителя" />
+	<block key="ui_guild_local_20" korean="Предупреждения войны" />
+	<block key="ui_guild_local_21" korean="Союз Изменить имя" />
+	<block key="ui_guild_local_22" korean="Союз приглашает" />
+	<block key="ui_guild_local_23" korean="Сдача" />
+	<block key="ui_guild_local_24" korean="Объявление войны" />
+	<block key="ui_guild_local_25" korean="Принятие" />
+	<block key="ui_guild_local_26" korean="Отказ" />
+	<block key="ui_guild_local_27" korean="Объявление войны Гильдии" />
+	<block key="ui_guild_local_28" korean="Чтобы объявить противников войны" />
+	<block key="ui_guild_local_29" korean="Гильдии Хаим" />
+	<block key="ui_guild_local_30" korean="Набор Класс" />
+	<block key="ui_guild_local_31" korean="Гильдия Приглашение" />
+	<block key="ui_guild_local_32" korean="Гильдия Снятие" />
+	<block key="ui_guild_create_popup_phrase" korean="Вы хотите, чтобы создать гильдию?" />
+	<block key="ui_guild_create_popup_default" korean="Пожалуйста, введите гильдии имя, которое будет создано." />
+	<block key="ui_guild_create_popup_duplication" korean="Проверить наличие мест" />
+	<block key="ui_guild_create_popup_btncreate" korean="Поколение" />
+	<block key="ui_guild_create_popup_btncancel" korean="Отменить" />
+	<block key="ui_guild_create_popup_createcost" korean="Затраты на производство:" />
+	<block key="ui_guild_invite_popup_phrase" korean="Хотите пригласить следующих игроков в гильдии?" />
+	<block key="ui_guild_invite_popup_default" korean="Введите имя пользователя." />
+	<block key="ui_guild_invite_popup_btninvite" korean="Приглашать" />
+	<block key="ui_guild_invite_popup_btncancel" korean="Отменить" />
+	<block key="ui_guild_manage_btncancel" korean="Сборник" />
+	<block key="ui_guild_manage_local_1" korean="Гильдия Приглашение" />
+	<block key="ui_guild_manage_local_2" korean="Гильдия депортация" />
+	<block key="ui_guild_manage_local_3" korean="Ранг Изменить" />
+	<block key="ui_guild_manage_local_4" korean="Настройки Уведомление" />
+	<block key="ui_guild_manage_local_5" korean="Набор Класс" />
+	<block key="ui_guild_manage_local_6" korean="Эмблема набор" />
+	<block key="ui_guild_manage_local_7" korean="Гильдия Складские" />
+	<block key="ui_guild_manage_local_8" korean="Использование гильдии склад" />
+	<block key="ui_guild_mark_title" korean="Создание гильдии Марк" />
+	<block key="ui_guild_mark_subtitle" korean="Пожалуйста, выберите гильдии знак." />
+	<block key="ui_guild_mark_btnchange" korean="Изменение" />
+	<block key="ui_guild_mark_btncancel" korean="Отменить" />
+	<block key="ui_guild_markup_btncheck" korean="Подтверждение" />
+	<block key="ui_guild_markup_btncancel" korean="Отменить" />
+	<block key="ui_guild_markup_title" korean="Зарегистрированные пользователи приговор" />
+	<block key="ui_guild_rank_title" korean="Создайте новый класс" />
+	<block key="ui_guild_rank_default" korean="Имя класса" />
+	<block key="ui_guild_rank_btnclose" korean="Близко" />
+	<block key="ui_guild_achievement_guild" korean="Объявление войны Гильдии" />
+	<block key="ui_guild_achievement_target" korean="Чтобы объявить противников войны" />
+	<block key="ui_guild_warkilldeath_situation" korean="Коалиция боевой" />
+	<block key="ui_guild_warrecord_title" korean="Союз военное положение" />
+	<block key="ui_guild_warrecord_recently" korean="Последние результаты Союз войны" />
+	<block key="ui_guild_warrecord_present" korean="Войны объединились" />
+	<block key="ui_guild_warrecord_btnok" korean="Подтверждение" />
+	<block key="ui_guild_warrecord_defaulttext" korean="Соединенные данный момент нет войны." />
+	<block key="ui_helptopic_title" korean="Помогите" />
+	<block key="ui_helptopic_hide" korean="Помощь напоминание anbogi" />
+	<block key="ui_inventory_title" korean="Мешок" />
+	<block key="ui_auction_local_1" korean="Аукционы" />
+	<block key="ui_auction_local_2" korean="От:" />
+	<block key="ui_auction_local_3" korean="Самая высокая ставка" />
+	<block key="ui_auction_local_4" korean="Заявка" />
+	<block key="ui_auction_local_5" korean="2 рейтинга торги" />
+	<block key="ui_auction_local_6" korean="Я прошу" />
+	<block key="ui_auction_local_7" korean="Торги" />
+	<block key="ui_auction_local_8" korean="Отказ" />
+	<block key="ui_auction_local_9" korean="1 в рейтинге торгов" />
+	<block key="ui_auction_local_10" korean="3 рейтинга торги" />
+	<block key="ui_auction_local_11" korean="Самая высокая ставка" />
+	<block key="ui_auction_local_12" korean="Заявка" />
+	<block key="ui_auction_local_13" korean="Деньги состоится" />
+	<block key="ui_auction_popup_message" korean="Вы уверены, что хотите участвовать в конкурсе на?" />
+	<block key="ui_auction_popup_btnbid" korean="Торги" />
+	<block key="ui_auction_popup_btncancel" korean="Отменить" />
+	<block key="ui_itemdice_title" korean="Игра в кости" />
+	<block key="ui_itemdice_btnok" korean="Подтверждение" />
+	<block key="ui_itemdice_btncancel" korean="Отказ" />
+	<block key="ui_itemdistribution_title" korean="Набор распространения" />
+	<block key="ui_itemdistribution_freelooting" korean="Бесплатный маршрутизации" />
+	<block key="ui_itemdistribution_orderlooting" korean="Маршрутизации Заказать" />
+	<block key="ui_itemdistribution_appointlooting" korean="Укажите маршрут" />
+	<block key="ui_itemdistribution_gradepriority" korean="Класс ограничено схема распределения" />
+	<block key="ui_itemdistribution_application" korean="Покрытый" />
+	<block key="ui_itemdistribution_grade" korean="За оценивалось" />
+	<block key="ui_itemdistribution_way" korean="Распределительная система" />
+	<block key="ui_itemdistribution_jobdistribution" korean="Первая работа схема распределения" />
+	<block key="ui_itemdistribution_btnclose" korean="Близко" />
+	<block key="ui_itemdistribution_gradepriority_tooltip" korean="Все сорта ограниченного метода распределения при установке функции маршрутизации ограничивается приобретением окне" />
+	<block key="ui_itemlist_btnclose" korean="Близко" />
+	<block key="ui_production_btnweapon" korean="Оружие" />
+	<block key="ui_production_btnarmor" korean="Броня" />
+	<block key="ui_production_btnacc" korean="Аксессуары" />
+	<block key="ui_production_btnfellow" korean="Научный сотрудник" />
+	<block key="ui_production_btnalchemy" korean="Алхимия" />
+	<block key="ui_production_btncook" korean="Блюдо" />
+	<block key="ui_production_masteritem" korean="Мастер пункты" />
+	<block key="ui_production_facilities" korean="Необходимое оборудование" />
+	<block key="ui_production_successprob" korean="Вероятность успеха" />
+	<block key="ui_production_listview" korean="Просмотр технологичный список" />
+	<block key="ui_production_normaldouble" korean="Общие материалы, используемые в два раза" />
+	<block key="ui_production_critical" korean="(Делая джекпот шансы)" />
+	<block key="ui_production_product" korean="Производство" />
+	<block key="ui_production_allproduct" korean="Вся продукция" />
+	<block key="ui_reinforce_msg" korean="Вы уверены, что хотите повысить \u003cимя элемента\u003e?" />
+	<block key="ui_reinforce_btnok" korean="Подтверждение" />
+	<block key="ui_reinforce_btncancel" korean="Отменить" />
+	<block key="ui_itemsynthesis_title" korean="Варианты уплотнений эксплуатацию" />
+	<block key="ui_itemsynthesis_grant" korean="Грант" />
+	<block key="ui_itemsynthesis_change" korean="Изменение" />
+	<block key="ui_lobbycharactercreate_difficulty" korean="Трудность" />
+	<block key="ui_lobbycharactercreate_propensity" korean="Расположение" />
+	<block key="ui_lobbycharactercreate_str" korean="Мощность" />
+	<block key="ui_lobbycharactercreate_dex" korean="Ловкость" />
+	<block key="ui_lobbycharactercreate_vtl" korean="Фитнес" />
+	<block key="ui_lobbycharactercreate_int" korean="Интеллект" />
+	<block key="ui_lobbycharactercreate_mtl" korean="Дух" />
+	<block key="ui_lobbycustomize_name" korean="Имя" />
+	<block key="ui_lobbycustomize_namedefault" korean="Пожалуйста, введите ваше имя" />
+	<block key="ui_lobbycustomize_namecheck" korean="Проверить наличие мест" />
+	<block key="ui_lobbycustomize_random" korean="Случайные Диапазон" />
+	<block key="ui_lobbycustomize_btnrandom" korean="Случайный" />
+	<block key="ui_lobbycustomize_decorate_color" korean="Цвета" />
+	<block key="ui_lobbycustomize_decorate_light" korean="Светимость" />
+	<block key="ui_lobbycustomize_hair_color" korean="Цвета" />
+	<block key="ui_lobbycustomize_hair_light" korean="Светимость" />
+	<block key="ui_lobbysystemmenu_close" korean="Конец игры" />
+	<block key="ui_lobbysystemmenu_select" korean="Выберите символ" />
+	<block key="ui_lobbysystemmenu_option" korean="Опции игры" />
+	<block key="ui_lobbysystemmenu_grade" korean="Рейтинг информация" />
+	<block key="ui_lobbysystemmenu_cancel" korean="Отменить" />
+	<block key="ui_looting_title" korean="Добыча" />
+	<block key="ui_maillist_listtitle" korean="Последние Список" />
+	<block key="ui_maillist_fee" korean="Почтовые расходы" />
+	<block key="ui_maillist_sendmail" korean="Послать" />
+	<block key="ui_maillist_rewrite" korean="Переписывать" />
+	<block key="ui_maillist_delete" korean="Удаление" />
+	<block key="ui_msgbox_title" korean="Сообщение Box" />
+	<block key="ui_msgbox_btnok" korean="Подтверждение" />
+	<block key="ui_msgbox_btncancel" korean="Отменить" />
+	<block key="ui_msgbox_useruby" korean="Потребление Elounda" />
+	<block key="ui_msgbox_autocheck_btnok" korean="Подтверждение" />
+	<block key="ui_msgbox_autosend_btnok" korean="Подтверждение" />
+	<block key="ui_msgbox_autosend_btncancel" korean="Отменить" />
+	<block key="ui_msgbox_deletechar_btnok" korean="Подтверждение" />
+	<block key="ui_msgbox_deletechar_btncancel" korean="Отменить" />
+	<block key="ui_msgbox_shouting_btnok" korean="Подтверждение" />
+	<block key="ui_msgbox_shouting_btncancel" korean="Отменить" />
+	<block key="ui_msgbox_shouting_defaultmsg" korean="Пожалуйста, введите крик фразы." />
+	<block key="ui_msgbox_textonly_title" korean="Доступа" />
+	<block key="ui_npcportal_title" korean="Портал Перейти" />
+	<block key="ui_questalarm_edittitle" korean="Quest сигнализации" />
+	<block key="ui_questlimittime_edittitle" korean="Время обработки Quest" />
+	<block key="ui_questlist_btnallclose" korean="Закрыть все" />
+	<block key="ui_questlistitem_btn_sharing" korean="Поделиться Quest" />
+	<block key="ui_questlistitem_btn_siteview" korean="Посмотреть расположение" />
+	<block key="ui_questlistitem_btn_giveup" korean="Quest отказ" />
+	<block key="ui_questunit_btnok" korean="Подтверждение" />
+	<block key="ui_questunit_btncancel" korean="Отменить" />
+	<block key="ui_quickslot_alarm_edittitle" korean="Тревога" />
+	<block key="ui_quickslot_fellow_edittitle" korean="Попутчики навыки" />
+	<block key="ui_randombox_btnok" korean="Подтверждение" />
+	<block key="ui_randombox_btncancel" korean="Отменить" />
+	<block key="ui_reinforcefellow_title" korean="Улучшенная сотрудник" />
+	<block key="ui_reinforcefellow_btnok" korean="Консолидация" />
+	<block key="ui_secondpassword_local_1" korean="Вторичные параметры пароля" />
+	<block key="ui_secondpassword_local_2" korean="Введите 4-значный номер" />
+	<block key="ui_secondpassword_local_3" korean="Повторно введите 4-значный номер" />
+	<block key="ui_secondpassword_btnok" korean="Подтверждение" />
+	<block key="ui_secondpassword_btncancel" korean="Отменить" />
+	<block key="ui_shop_title" korean="Магазин" />
+	<block key="ui_skill_title" korean="Умение" />
+	<block key="ui_soultalentsinit_btnok" korean="Подтверждение" />
+	<block key="ui_soultalentsinit_btncancel" korean="Отменить" />
+	<block key="ui_soultalentspopup_local_1" korean="Текущий характеристика силы" />
+	<block key="ui_soultalentspopup_local_2" korean="Усилие характеристики" />
+	<block key="ui_soultalentspopup_local_3" korean="Остальные характеристики силы" />
+	<block key="ui_soultalentspopup_btnok" korean="Подтверждение" />
+	<block key="ui_splititem_defaulttext" korean="Пожалуйста, выберите количество." />
+	<block key="ui_splititem_btnok" korean="Подтверждение" />
+	<block key="ui_splititem_btncancel" korean="Отменить" />
+	<block key="ui_systemmenu_local_1" korean="Конец игры" />
+	<block key="ui_systemmenu_local_2" korean="Выберите символ" />
+	<block key="ui_systemmenu_local_3" korean="Опции игры" />
+	<block key="ui_systemmenu_local_4" korean="Рейтинг информация" />
+	<block key="ui_systemmenu_local_5" korean="Отменить" />
+	<block key="ui_tamingbar_succes" korean="Успех" />
+	<block key="ui_tamingbar_fail" korean="Отказ" />
+	<block key="ui_tamingmgame_succes" korean="Успех" />
+	<block key="ui_tamingmgame_fail" korean="Отказ" />
+	<block key="ui_trade_change" korean="Изменения статьи" />
+	<block key="ui_trade_tradeok" korean="Сделка завершена" />
+	<block key="ui_vitality_edittext" korean="Vitality Gauge" />
+	<block key="ui_worldmap_btn_totalmap" korean="Просмотр полной карты" />
+</blocks>

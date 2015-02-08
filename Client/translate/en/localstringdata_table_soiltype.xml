@@ -1,0 +1,17 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="Soil_Dry_01_Name" korean="Geonto" />
+	<block key="Soil_Sandy_01_Name" korean="Сато" />
+	<block key="Soil_Loamy_01_Name" korean="Суглинок" />
+	<block key="Soil_RichSoil_01_Name" korean="Суглинок" />
+	<block key="Soil_LeafMold_01_Name" korean="Гумус" />
+	<block key="Soil_RedSoil_01_Name" korean="С тех плодородная почва" />
+	<block key="Soil_LifeSoil_01_Name" korean="Жизнь субботу" />
+	<block key="Soil_BlackSoil_01_Name" korean="Черный суглинок" />
+</blocks>

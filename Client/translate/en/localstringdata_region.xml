@@ -1,0 +1,413 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="region_f00_001_name" korean="Саран тюрьма дерево" />
+	<block key="region_f00_002_name" korean="Noeok боль" />
+	<block key="region_f00_003_name" korean="Камера пыток" />
+	<block key="region_f00_004_name" korean="Глава стражи ядро ​​приговор" />
+	<block key="region_f00_005_name" korean="Noeok боли 2-й район" />
+	<block key="region_f00_006_name" korean="Автовышка" />
+	<block key="region_f01_001_name" korean="Внутри разбившегося корабля" />
+	<block key="region_f01_002_name" korean="Тимберлейк не валки" />
+	<block key="region_f01_005_name" korean="Shenron тамплиеров гарнизон" />
+	<block key="region_f01_006_name" korean="Brage форпост" />
+	<block key="region_f01_007_name" korean="Секретные руины" />
+	<block key="region_f01_008_name" korean="Serene лесная дорога" />
+	<block key="region_f01_009_name" korean="Южные исторические руины" />
+	<block key="region_f01_010_name" korean="Serene лесная дорога" />
+	<block key="region_f01_011_name" korean="Brilliance деревья" />
+	<block key="region_f01_012_name" korean="Brage домой" />
+	<block key="region_f01_013_name" korean="Северные исторические руины" />
+	<block key="region_f01_014_name" korean="Жан разрушенные руины вход" />
+	<block key="region_f01_015_name" korean="И Канаш проход" />
+	<block key="region_f01_020_name" korean="Алтарь призрак" />
+	<block key="region_d00_001_name" korean="Руины вход" />
+	<block key="region_d00_002_name" korean="Продолжает гореть проглотил" />
+	<block key="region_d00_003_name" korean="Бешеный реки пламени" />
+	<block key="region_d00_004_name" korean="Логово Древнего Голема" />
+	<block key="region_d01_001_name" korean="Замок вход" />
+	<block key="region_d01_002_name" korean="Chateau обрезка" />
+	<block key="region_d01_003_name" korean="Dreary кабина" />
+	<block key="region_d01_004_name" korean="Chateau Банкетный зал" />
+	<block key="region_d01_005_name" korean="Сестра графа" />
+	<block key="region_d01_006_name" korean="Миссия графа" />
+	<block key="region_d02_001_name" korean="Руины вход" />
+	<block key="region_d02_002_name" korean="Замороженные Mart Лен руины" />
+	<block key="region_d02_003_name" korean="Сломанный квадрат колокольня" />
+	<block key="region_d02_004_name" korean="Снежная буря ударил мое дорогу" />
+	<block key="region_d02_005_name" korean="Серебро Камень склад" />
+	<block key="region_d02_006_name" korean="Заброшенные шахты" />
+	<block key="region_d02_007_name" korean="Шахтерский город руины" />
+	<block key="region_d02_008_name" korean="Серебро Камень Valley" />
+	<block key="region_d02_009_name" korean="Место рождения Саран агента" />
+	<block key="region_d02_010_name" korean="Три серебряные завод" />
+	<block key="region_f02_001_Name" korean="И Канаш проход" />
+	<block key="region_f02_002_Name" korean="Заброшенные места" />
+	<block key="region_f02_003_Name" korean="Лови Mountain Ranch" />
+	<block key="region_f02_004_Name" korean="Лес достатка" />
+	<block key="region_f02_005_Name" korean="Лес Рев" />
+	<block key="region_f02_006_Name" korean="Пещера Джека Хантера" />
+	<block key="region_f02_007_Name" korean="Сон является деревня" />
+	<block key="region_f02_008_Name" korean="Заросли руины возбудителя" />
+	<block key="region_f02_009_Name" korean="Также воротами в южной провинции" />
+	<block key="region_f02_010_Name" korean="Также шлюз Восточной провинции" />
+	<block key="region_f02_011_Name" korean="Мори четыре озера" />
+	<block key="region_f02_012_Name" korean="В облике лесу" />
+	<block key="region_f02_013_Name" korean="Келл деревне В лесу" />
+	<block key="region_f02_014_Name" korean="Карл Reang сад" />
+	<block key="region_f02_015_Name" korean="Келл Вудс Farm" />
+	<block key="region_f02_016_Name" korean="Северная Guard Tower" />
+	<block key="region_f02_017_Name" korean="Пот Windy Hill" />
+	<block key="region_f02_018_Name" korean="Кладбище" />
+	<block key="region_f02_019_Name" korean="Замороженные Mart Лен руины" />
+	<block key="region_f02_020_Name" korean="Гаррисон Вудс Рев" />
+	<block key="region_f02_021_Name" korean="Рев лес (южный)" />
+	<block key="region_f02_022_Name" korean="Берега Shenron" />
+	<block key="region_f02_023_Name" korean="Чжан кожевенный город" />
+	<block key="region_f02_024_Name" korean="Гиз леса (Северная)" />
+	<block key="region_f02_025_Name" korean="Phoenix гнездо птенцов" />
+	<block key="region_f02_026_Name" korean="Земля турбулентности" />
+	<block key="region_f02_027_Name" korean="Ворота дракона ангел-хранитель" />
+	<block key="region_f02_028_Name" korean="Горный приют лагерь Лови волну" />
+	<block key="region_f02_029_Name" korean="Продолжает гореть вход проглотил" />
+	<block key="region_c01_001_Name" korean="Южный шоссе" />
+	<block key="region_c01_002_Name" korean="El зерна сельскохозяйственные угодья" />
+	<block key="region_c01_003_Name" korean="Прочная авантюриста гавань" />
+	<block key="region_c01_004_Name" korean="Eastern Highway" />
+	<block key="region_c01_005_Name" korean="Тихий равнин (Южный)" />
+	<block key="region_c01_006_Name" korean="Сильва Королевство" />
+	<block key="region_c01_007_Name" korean="Канаш секс и главный вход" />
+	<block key="region_c01_008_Name" korean="Площадь Перейти" />
+	<block key="region_c01_009_Name" korean="Деловой район" />
+	<block key="region_c01_010_Name" korean="Промышленный район" />
+	<block key="region_c01_011_Name" korean="Сотрудник НИИ" />
+	<block key="region_c01_012_Name" korean="Южная Город" />
+	<block key="region_c01_013_Name" korean="Восточной части города" />
+	<block key="region_c01_014_Name" korean="Охрана Учебный центр" />
+	<block key="region_c01_015_Name" korean="Водный замок гвардии" />
+	<block key="region_c01_016_Name" korean="Канас и выпускники" />
+	<block key="region_c01_017_Name" korean="Запад Город" />
+	<block key="region_c01_018_Name" korean="Площадь Победы" />
+	<block key="region_c01_019_Name" korean="Тропы славы" />
+	<block key="region_c01_020_Name" korean="Бар Мемориальная библиотека Эллы" />
+	<block key="region_c01_021_Name" korean="Сражений славы" />
+	<block key="region_c01_022_Name" korean="Королевство парламент" />
+	<block key="region_c01_023_Name" korean="Канас и энергичный" />
+	<block key="region_c01_024_Name" korean="Путь благословения" />
+	<block key="region_c01_025_Name" korean="Эллора Sanctuary" />
+	<block key="region_c01_026_Name" korean="Зал кредит" />
+	<block key="region_c01_027_Name" korean="Опекун дракона яйцо на сайте" />
+	<block key="region_c01_028_Name" korean="Алтарь доверия" />
+	<block key="region_c01_029_Name" korean="Также воротами в южной провинции" />
+	<block key="region_c01_030_Name" korean="Также шлюз Восточной провинции" />
+	<block key="region_c01_031_Name" korean="Король тронный зал." />
+	<block key="region_c01_032_Name" korean="Ноги Святого Света" />
+	<block key="region_c01_033_Name" korean="Канас и общественного Марина" />
+	<block key="region_c01_034_Name" korean="Офис управления Гильдия" />
+	<block key="region_c01_035_Name" korean="Гильдия ферма" />
+	<block key="region_c01_036_Name" korean="Долина забытых руин" />
+	<block key="region_c01_037_Name" korean="Тихие равнины (на востоке)" />
+	<block key="region_c01_038_Name" korean="Western Highway" />
+	<block key="region_c01_039_Name" korean="Тихие равнины (Запад)" />
+	<block key="region_c01_040_Name" korean="Спокойно Plains (Север)" />
+	<block key="region_c01_041_Name" korean="Канаш, а также секс" />
+	<block key="Region_ST_001_Name" korean="Рид ветер деревня" />
+	<block key="Region_ST_002_Name" korean="Blue Wolf Hill" />
+	<block key="Region_ST_003_Name" korean="Гаррисон всерьез" />
+	<block key="Region_ST_004_Name" korean="Пираты док." />
+	<block key="Region_ST_005_Name" korean="Сторожевая башня Пираты наблюдения" />
+	<block key="Region_ST_006_Name" korean="Пираты Крепость" />
+	<block key="Region_ST_007_Name" korean="Пираты порт" />
+	<block key="Region_ST_008_Name" korean="Болото перебежчик" />
+	<block key="Region_ST_009_Name" korean="Снег Scout Camp" />
+	<block key="Region_ST_010_Name" korean="Плача Скалы Village" />
+	<block key="Region_ST_011_Name" korean="Ло Тан карьер" />
+	<block key="Region_ST_012_Name" korean="Falls Village руины" />
+	<block key="Region_ST_013_Name" korean="Город Голубой Лунный свет" />
+	<block key="Region_ST_014_Name" korean="Ice вход замок Рондо" />
+	<block key="Region_ST_021_Name" korean="Рид ветер побережье" />
+	<block key="Region_ST_022_Name" korean="Кричащие побережье" />
+	<block key="Region_ST_023_Name" korean="Береза ​​Хилл" />
+	<block key="Region_ST_024_Name" korean="Серебристый Wave Озеро" />
+	<block key="Region_ST_025_Name" korean="Озеро жизни" />
+	<block key="Region_ST_026_Name" korean="Плач Звери поля" />
+	<block key="Region_ST_027_Name" korean="Плача скалы" />
+	<block key="Region_ST_028_Name" korean="Ледяной Шторм Zone" />
+	<block key="Region_ST_029_Name" korean="Пираты Lair" />
+	<block key="Region_ST_031_Name" korean="Неизвестная страна" />
+	<block key="Region_ST_032_Name" korean="Lemar небольшой прибрежный" />
+	<block key="region_vlc_001_Name" korean="Облаченный в вуалью пещере" />
+	<block key="region_vlc_002_Name" korean="Большой подземный полости" />
+	<block key="region_vlc_003_Name" korean="Туннель" />
+	<block key="region_vlc_004_Name" korean="Для совместного подводной лодки" />
+	<block key="region_vlc_005_Name" korean="Подводный храм Ладан" />
+	<block key="region_vlc_006_Name" korean="Выходу из пещеры" />
+	<block key="region_vlc_007_Name" korean="Вход в пещеру" />
+	<block key="region_rdcb_001_Name" korean="Ледяной замок, yangbyeong Земля" />
+	<block key="region_rdcb_002_Name" korean="Ice Castle приход" />
+	<block key="region_rdcb_003_Name" korean="Ice Castle вход" />
+	<block key="region_rdc_001_Name" korean="Ледяной замок, yangbyeong Земля" />
+	<block key="region_rdc_002_Name" korean="Ice Castle приход" />
+	<block key="region_rdc_003_Name" korean="Ледяной замок, тюрьма башня" />
+	<block key="region_rdc_004_Name" korean="Ice Castle Prison Tower 2-й этаж" />
+	<block key="region_rdc_005_Name" korean="Ice Castle Prison Tower 3-й этаж" />
+	<block key="region_rdc_006_Name" korean="Ice Castle Prison Tower, 4-й этаж" />
+	<block key="region_rdc_007_Name" korean="Ледяной замок, тюремной башне 5-й этаж" />
+	<block key="region_rdc_008_Name" korean="Ice Castle вход" />
+	<block key="region_rdc_009_Name" korean="Ледяной замок, вход тюремной башне" />
+	<block key="region_f01_e01_Name" korean="Южные исторические руины" />
+	<block key="region_f01_e02_Name" korean="Северные исторические руины" />
+	<block key="region_f04_001_Name" korean="Уничтожение воздушного пространства (Северная)" />
+	<block key="region_f04_002_Name" korean="Разрушение воздушного пространства (SEO)" />
+	<block key="region_f04_003_Name" korean="Разрушение воздушного пространства (M)" />
+	<block key="region_f04_004_Name" korean="Уничтожение воздушного пространства (Восток)" />
+	<block key="region_f04_005_Name" korean="Бурном море" />
+	<block key="region_f04_006_Name" korean="Раздробленность области" />
+	<block key="region_f04_007_Name" korean="Забыли Dragon Land" />
+	<block key="region_f04_008_Name" korean="Воздушная скаутский лагерь" />
+	<block key="region_f04_009_Name" korean="Резонанс лошадиных сил" />
+	<block key="region_f04_010_Name" korean="Храм потерянных свет" />
+	<block key="region_f04_011_Name" korean="Эллоры гигантскими каменными статуями" />
+	<block key="region_f04_012_Name" korean="Море Greed" />
+	<block key="region_f04_013_Name" korean="Разрушение прибрежных" />
+	<block key="region_f01_e01_001_name" korean="Алтарь призрак" />
+	<block key="region_f03_001_name" korean="Рид ветер деревня" />
+	<block key="region_f03_002_name" korean="Озеро жизни" />
+	<block key="region_f03_003_name" korean="Пираты домой" />
+	<block key="region_f03_004_name" korean="Гаррисон Гаррисон" />
+	<block key="region_f03_005_name" korean="Долина сумки" />
+	<block key="region_f03_006_name" korean="Болото перебежчик" />
+	<block key="region_f03_007_name" korean="Волновые рупий поместья" />
+	<block key="region_f03_008_name" korean="Волна рупий лед форт" />
+	<block key="region_f03_009_name" korean="Falls Village руины" />
+	<block key="region_f03_010_name" korean="Плача Скалы Village" />
+	<block key="region_f03_011_name" korean="Пардо и плавучий остров" />
+	<block key="region_f03_012_name" korean="Замороженные пустыне" />
+	<block key="region_f03_013_name" korean="LEMAR небольшие равнины" />
+	<block key="region_d04_001_name" korean="Ice Castle приход" />
+	<block key="region_d04_002_name" korean="Мороз бригадный генерал тронный зал." />
+	<block key="region_d04_003_name" korean="1F тюрьма номере" />
+	<block key="region_d04_004_name" korean="Второй этаж тюрьмы номере" />
+	<block key="region_d04_005_name" korean="3-й этаж комната Jail" />
+	<block key="region_d04_006_name" korean="4-й этаж комната Jail" />
+	<block key="region_d04_007_name" korean="5-й этаж комната Jail" />
+	<block key="region_d04_008_name" korean="Номер Рондо" />
+	<block key="region_d04_009_name" korean="Номер Айши" />
+	<block key="region_d11_001_name" korean="Красный революция единственная база" />
+	<block key="region_d11_002_name" korean="Перекресток" />
+	<block key="region_d11_003_name" korean="Yongbyeongdan лагерь" />
+	<block key="region_d11_004_name" korean="Пираты лагерь" />
+	<block key="region_d11_005_name" korean="Поставка база наемников" />
+	<block key="region_d11_006_name" korean="Пираты на пристань для яхт" />
+	<block key="region_d11_007_name" korean="Печи бык" />
+	<block key="region_d11_008_name" korean="Пиратский корабль" />
+	<block key="region_d11_009_name" korean="Пещера монстров в ловушке" />
+	<block key="region_d11_010_name" korean="Сторожевая башня Bandit" />
+	<block key="region_d11_011_name" korean="Avenue враг убежище" />
+	<block key="region_d11_012_name" korean="Однако Штаб-квартира революции" />
+	<block key="region_d11_013_name" korean="Последнее keurak зубов" />
+	<block key="region_f03_014_name" korean="Остров русалок" />
+	<block key="region_f03_015_name" korean="Холодный ветер Coast Road" />
+	<block key="region_f03_016_name" korean="Reed ветер леса" />
+	<block key="region_f03_017_name" korean="Замороженные пустыне" />
+	<block key="region_vlc_008_Name" korean="Количество центральной диспетчерской" />
+	<block key="region_vlc_009_Name" korean="Северная канал управления комната" />
+	<block key="region_vlc_010_Name" korean="Южная канал управления комната" />
+	<block key="region_vlc_011_Name" korean="Восток номере канала управления" />
+	<block key="region_vlc_012_Name" korean="Для совместного подводной лодки" />
+	<block key="region_vlc_013_Name" korean="Для совместного подводной лодки" />
+	<block key="region_f03_019_name" korean="Рид ветер побережье" />
+	<block key="region_f03_018_name" korean="Облаченный в вуалью пещере" />
+	<block key="region_c01_e01_name" korean="Король тронный зал." />
+	<block key="region_f03_020_name" korean="Мороз дерево долина" />
+	<block key="region_f03_021_name" korean="Серебристый Wave Озеро" />
+	<block key="region_f01_e03_001_name" korean="Секретные руины" />
+	<block key="region_c01_e03_name" korean="Восточной части города" />
+	<block key="region_f02_e01_name" korean="Пещера Джека Хантера" />
+	<block key="region_f02_e02_name" korean="Пот Windy Hill" />
+	<block key="region_f03_e01_name" korean="Пираты домой" />
+	<block key="region_f03_e02_name" korean="Пираты домой" />
+	<block key="region_f03_e03_name" korean="Волновые рупий поместья" />
+	<block key="region_f09_001_name" korean="Гаррисон Гаррисон" />
+	<block key="region_f09_002_name" korean="Для прохождения" />
+	<block key="region_f09_003_name" korean="Воздушная Farm" />
+	<block key="region_f09_004_name" korean="Бар Форт Эллис" />
+	<block key="region_f09_005_name" korean="Разведчик богатых остров" />
+	<block key="region_f09_006_name" korean="Blue Islands" />
+	<block key="region_f09_007_name" korean="Крепость разбился jenen" />
+	<block key="region_f09_008_name" korean="Радуга Coral Reef" />
+	<block key="region_f09_009_name" korean="Строительная площадка" />
+	<block key="region_f09_010_name" korean="И Канаш для" />
+	<block key="region_f09_011_name" korean="Бог барьеры" />
+	<block key="region_f09_012_name" korean="И на юг, чтобы Канас" />
+	<block key="region_f09_013_name" korean="Северная и Канаш для" />
+	<block key="region_p01_01_name" korean="Шлюз к Истине" />
+	<block key="region_p01_02_name" korean="Лес ностальгии" />
+	<block key="region_p01_03_name" korean="Прохождение молчания" />
+	<block key="region_p01_04_name" korean="Тень Луны Глен" />
+	<block key="region_p01_05_name" korean="Руины молчания Южной" />
+	<block key="region_p01_06_name" korean="Молчание руин в Северной" />
+	<block key="region_p01_07_name" korean="Логово волка король" />
+	<block key="region_p01_08_name" korean="Halo озеро" />
+	<block key="region_p01_09_name" korean="Кобб быть конфессиональных штаб-квартира" />
+	<block key="region_p01_10_name" korean="Северные ворота к истине" />
+	<block key="region_p01_11_name" korean="Halo лагерь" />
+	<block key="region_p01_12_name" korean="Южный Красная тень лесов" />
+	<block key="region_p01_13_name" korean="Exergy вырос миссии" />
+	<block key="region_p01_14_name" korean="Из этого шамана убежище" />
+	<block key="region_p01_15_name" korean="Красная тень Лес Запад" />
+	<block key="region_p01_16_name" korean="Северная Красная тень лесов" />
+	<block key="region_p01_17_name" korean="Saetbaram Hill" />
+	<block key="region_p01_18_name" korean="Неспящие набережной" />
+	<block key="region_p01_19_name" korean="Красная тень после" />
+	<block key="region_p01_20_name" korean="Земля турбулентности" />
+	<block key="region_p01_21_name" korean="Кладбище" />
+	<block key="region_p01_22_name" korean="Лен Сан-Mart" />
+	<block key="region_p01_23_name" korean="Поле битвы Красная тень" />
+	<block key="region_f15_001_name" korean="Крупные ветряные Остров" />
+	<block key="region_f15_002_name" korean="Печать Трапани Noir" />
+	<block key="region_f16_001_name" korean="Yata двадцать очарования" />
+	<block key="region_f15_e01_001_name" korean="Крупные ветряные Остров" />
+	<block key="region_f16_01_name" korean="Цепи для внутри" />
+	<block key="region_f03_022_name" korean="Пираты висмута базовые" />
+	<block key="region_f03_023_name" korean="Леса замороженных духов" />
+	<block key="region_map_f01_01_name" korean="Исторические руины лагерь" />
+	<block key="region_map_f01_02_name" korean="Sparkly Tree Camp" />
+	<block key="region_map_c01_01_name" korean="Равнины Спокойствия" />
+	<block key="region_map_c01_02_name" korean="Канас и Северные ворота" />
+	<block key="region_map_f02_01_name" korean="Сон в лагере беженцев" />
+	<block key="region_map_f02_02_name" korean="Лесном лагере в изобилии" />
+	<block key="region_map_f02_03_name" korean="Лес Рев" />
+	<block key="region_map_f02_04_name" korean="Канаш, а также секс" />
+	<block key="region_map_f09_01_name" korean="Воздушная Farm Camp" />
+	<block key="region_map_f09_02_name" korean="Yata двадцать очарования" />
+	<block key="region_map_f09_03_name" korean="Крупные ветряные Остров" />
+	<block key="region_map_f03_01_name" korean="Тонкий лагерь лед" />
+	<block key="region_map_f03_02_name" korean="Hambaknun лагерь" />
+	<block key="region_map_f03_03_name" korean="Волна рупий форпост" />
+	<block key="region_map_f04_01_name" korean="Клиренс воздушного пространства" />
+	<block key="region_map_p01_01_name" korean="Красная тень лесов" />
+	<block key="region_f04_014_name" korean="Черный Дракон убежищем от рака" />
+	<block key="region_f02_030_Name" korean="Сон в лагере беженцев" />
+	<block key="region_map_c01_03_name" korean="Exergy вырос Лоулесс вход" />
+	<block key="region_f03_024_name" korean="Оборудование магазин" />
+	<block key="region_f03_025_name" korean="Завод" />
+	<block key="region_p01_24_name" korean="Лагерь турбулентности" />
+	<block key="region_c01_e02_name" korean="Сильва Королевство" />
+	<block key="region_c01_e04_name" korean="Охрана Учебный центр" />
+	<block key="region_f02_e03_name" korean="Дом горничных" />
+	<block key="region_map_f03_04_name" korean="Наташа ремесленные мастерские" />
+	<block key="region_map_f03_05_name" korean="Alchemy Lab." />
+	<block key="region_map_f03_06_name" korean="Сотрудник мастерской" />
+	<block key="region_map_f03_07_name" korean="Зелье Магазин" />
+	<block key="region_f05_001_name" korean="Город Аль Gocek" />
+	<block key="region_f05_002_name" korean="Пыль поля ветра" />
+	<block key="region_f05_003_name" korean="Колыбель кошмаров" />
+	<block key="region_f05_004_name" korean="Побережье созерцания" />
+	<block key="region_f05_005_name" korean="Деревня отшельников" />
+	<block key="region_f05_006_name" korean="Полет Challenger" />
+	<block key="region_f05_007_name" korean="Военного округа Круа-кун" />
+	<block key="region_f05_008_name" korean="Бессмертный Легион форт" />
+	<block key="region_f05_009_name" korean="Пожалуйста Croix Храм" />
+	<block key="region_f05_010_name" korean="Забыли Valley" />
+	<block key="region_f05_011_name" korean="Руины храма" />
+	<block key="region_f05_012_name" korean="Brage моя" />
+	<block key="region_f05_013_name" korean="Золотые Peaks" />
+	<block key="region_f05_014_name" korean="Пески забвения" />
+	<block key="region_f05_015_name" korean="Гнездо Бар Шарки" />
+	<block key="region_f05_016_name" korean="Золотой рудник транспорт" />
+	<block key="region_f05_017_name" korean="Yongbyeongdan после" />
+	<block key="region_f05_018_name" korean="Огонь алтарь" />
+	<block key="region_f05_019_name" korean="Тень смерти" />
+	<block key="region_f05_020_name" korean="Бесплодные ветви дорога" />
+	<block key="region_f99_001_name" korean="Необитаемый" />
+	<block key="region_f99_002_name" korean="И Канаш секрет лагерь" />
+	<block key="region_AsC_001_Name" korean="Вход в нише" />
+	<block key="region_AsC_002_Name" korean="Существо Falls" />
+	<block key="region_AsC_003_Name" korean="Лабиринт вход" />
+	<block key="region_AsC_004_Name" korean="Южный лабиринт" />
+	<block key="region_AsC_005_Name" korean="Остальной персонал" />
+	<block key="region_AsC_006_Name" korean="Центральный лабиринт" />
+	<block key="region_AsC_007_Name" korean="Верхняя лабиринт" />
+	<block key="region_AsC_008_Name" korean="Искаженные пространство" />
+	<block key="region_AsC_009_Name" korean="Гнездо Мидо Ву" />
+	<block key="region_AsC_010_Name" korean="Simcheungbu лабиринт" />
+	<block key="region_AsC_011_Name" korean="Место на Изу Гора" />
+	<block key="region_f98_001_Name" korean="Дуэль на восток," />
+	<block key="region_d13_001_Name" korean="Древний храм" />
+	<block key="region_d13_002_Name" korean="Сложено площадь крыльца" />
+	<block key="region_d13_003_Name" korean="Темный храм коридор" />
+	<block key="region_d13_004_Name" korean="Тронный зал первосвященника," />
+	<block key="region_d13_005_Name" korean="Храм паломников" />
+	<block key="region_d13_006_Name" korean="Алтарь паломника" />
+	<block key="region_d13_007_Name" korean="Предлагая помещение для хранения" />
+	<block key="region_d13_008_Name" korean="Ритуал комната подготовка" />
+	<block key="region_d13_009_Name" korean="Храм исполнителя" />
+	<block key="region_d13_010_Name" korean="Приверженность rasya Скотта" />
+	<block key="region_d13_011_Name" korean="Реликвий" />
+	<block key="region_d13_012_Name" korean="Ритуал комната подготовка" />
+	<block key="region_d13_013_Name" korean="Скотт герметичный rasya" />
+	<block key="region_f98_002_Name" korean="Дуэль на запад," />
+	<block key="region_f05_021_name" korean="Слезы Oasis" />
+	<block key="region_d06_001_name" korean="Призыв номер" />
+	<block key="region_d06_002_name" korean="Машинное отделение" />
+	<block key="region_d06_003_name" korean="Control Room" />
+	<block key="region_d06_004_name" korean="Бессмертный Легион Форт ниже" />
+	<block key="region_d06_005_name" korean="Нижняя проход" />
+	<block key="region_d06_006_name" korean="Стечение" />
+	<block key="region_d06_007_name" korean="Бессмертный Легион форт" />
+	<block key="region_d06_008_name" korean="Укрепленный вход" />
+	<block key="region_f06_00_name" korean="Пек вход храм мантра" />
+	<block key="region_f06_01_name" korean="Обитель стали обороны" />
+	<block key="region_f06_02_name" korean="Монастырь элементарного сопротивления" />
+	<block key="region_f06_03_name" korean="Пек Тура ниже" />
+	<block key="region_f06_04_name" korean="Второй пост" />
+	<block key="region_f06_05_name" korean="Первый пост" />
+	<block key="region_f06_06_name" korean="Пек верхняя Тура" />
+	<block key="region_f06_07_name" korean="Пек и др Natura мост" />
+	<block key="region_f06_08_name" korean="Дизайн зал Вильма" />
+	<block key="region_f06_09_name" korean="Пек Тура сверху" />
+	<block key="region_f06_10_name" korean="Эскадроны смерти тренажерный зал" />
+	<block key="region_f05_e01_name" korean="Руины храма" />
+	<block key="region_f05_e02_name" korean="Инкубаторий" />
+	<block key="region_map_f05_01_name" korean="Город Аль Gocek" />
+	<block key="region_map_f05_02_name" korean="Северные ворота" />
+	<block key="region_map_f05_03_name" korean="Выпускники" />
+	<block key="region_map_f05_04_name" korean="South Gate" />
+	<block key="region_map_f05_05_name" korean="Главная мэра Бартоло" />
+	<block key="region_map_f05_06_name" korean="Лагерь Полет" />
+	<block key="region_map_f05_07_name" korean="Сотрудник мастерской" />
+	<block key="region_map_f05_08_name" korean="Продуктовый магазин" />
+	<block key="region_map_f05_09_name" korean="Продуктовые магазины" />
+	<block key="region_map_f05_10_name" korean="Завод" />
+	<block key="region_map_f05_11_name" korean="Alchemy Lab." />
+	<block key="region_map_f05_12_name" korean="Ремесленных магазинов" />
+	<block key="region_map_f05_13_name" korean="Готовка" />
+	<block key="region_map_f05_14_name" korean="Сочетание обильных семян" />
+	<block key="region_map_f05_15_name" korean="Аль Gocek скорой помощи" />
+	<block key="region_map_f05_16_name" korean="Главная коллектора Дарси" />
+	<block key="region_d13_000_Name" korean="Древние храмы" />
+	<block key="region_f06_11_name" korean="Пек Ventura" />
+	<block key="region_d06_009_name" korean="Форт Бессмертный Легион" />
+	<block key="region_map_f05_17_name" korean="Храм направил лагерь" />
+	<block key="region_f05_022_name" korean="Храм направил лагерь" />
+	<block key="region_p02_01_name" korean="Dead рай" />
+	<block key="region_p02_02_name" korean="Тропа Сумерки" />
+	<block key="region_p02_03_name" korean="Город Freeman" />
+	<block key="region_p02_04_name" korean="Лес времени" />
+	<block key="region_p02_05_name" korean="Забыв идти на трость" />
+	<block key="region_p02_06_name" korean="Озеро Вечности" />
+	<block key="region_p02_07_name" korean="Водопад Отчаяния" />
+	<block key="region_p02_08_name" korean="Глубины Тьмы" />
+	<block key="region_p02_09_name" korean="В середине ночи в маяке" />
+	<block key="region_p02_10_name" korean="Мимо горы" />
+	<block key="region_p02_11_name" korean="Паб трюки" />
+	<block key="region_p02_12_name" korean="Забыли горы" />
+	<block key="region_p02_13_name" korean="Чистилище" />
+	<block key="region_p02_14_name" korean="Forsaken Land" />
+</blocks>

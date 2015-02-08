@@ -1,0 +1,23 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="WolfWildSaddleA_NAME" korean="Волки основной седло" />
+	<block key="BoarManeSaddleA_NAME" korean="Дикий кабан молоть" />
+	<block key="BoarToothSaddleA_NAME" korean="Дикие зубы кабана" />
+	<block key="BoarWildSaddleA_NAME" korean="Кабан" />
+	<block key="DragAsterSaddleB_NAME" korean="Астерас" />
+	<block key="DragCarasSaddleB_NAME" korean="Кара Шах" />
+	<block key="LeopSaddleA_NAME" korean="Лев" />
+	<block key="MagHoundSaddleA_NAME" korean="Магма Hound" />
+	<block key="SpidBase1SaddleA_NAME" korean="Паук" />
+	<block key="SpidBase4SaddleA_NAME" korean="Тарантул" />
+	<block key="LeopSnowSaddleB_NAME" korean="Снег Tiger" />
+	<block key="BoarForchSaddleB_NAME" korean="Крыльцо" />
+	<block key="HorsUnicSaddleB_NAME" korean="Лаборатория Unicorn" />
+	<block key="BearSaddleB_NAME" korean="Медведь" />
+</blocks>

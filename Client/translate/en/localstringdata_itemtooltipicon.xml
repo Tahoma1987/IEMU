@@ -1,0 +1,11 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="ItemTooltipIcon_0_Name" korean="Огнестойкость" />
+	<block key="ItemTooltipIcon_0_Description" korean="Устойчив к огню" />
+</blocks>

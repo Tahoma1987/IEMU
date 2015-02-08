@@ -1,0 +1,49 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="DY_0_0_0000_Name" korean="Золото Общая краситель" />
+	<block key="DY_0_0_0000_description" korean="Золото равнина краситель." />
+	<block key="DY_0_0_0001_Name" korean="Золото расширенный краситель" />
+	<block key="DY_0_0_0001_description" korean="Расширенный золото краситель." />
+	<block key="DY_0_0_0002_Name" korean="Генеральный Случайная бледно-желтый краситель" />
+	<block key="DY_0_0_0002_description" korean="Годовое общее случайным желтый краситель." />
+	<block key="DY_0_0_0003_Name" korean="Генеральный случайный свет синий краситель" />
+	<block key="DY_0_0_0003_description" korean="Годовое общее случайным синего красителя." />
+	<block key="DY_0_0_0004_Name" korean="Годовое общее случайным красный краситель" />
+	<block key="DY_0_0_0004_description" korean="Годовое общее случайным красный краситель." />
+	<block key="DY_0_0_0005_Name" korean="Расширенный Случайная бледно-желтый краситель" />
+	<block key="DY_0_0_0005_description" korean="Расширенный случайно открыл желтую краску." />
+	<block key="DY_0_0_0006_Name" korean="Расширенный случайный свет синий краситель" />
+	<block key="DY_0_0_0006_description" korean="Расширенный случайно открыл синюю краску." />
+	<block key="DY_0_0_0007_Name" korean="Расширенный Случайная краситель красный коршун" />
+	<block key="DY_0_0_0007_description" korean="Расширенный случайно открыл красную краску." />
+	<block key="DY_1_0_0000_Name" korean="Случайная краска для волос" />
+	<block key="DY_1_0_0000_description" korean="Краска для волос является случайным." />
+	<block key="DY_1_0_0001_Name" korean="Мост случайным краситель" />
+	<block key="DY_1_0_0001_description" korean="Мост случайным краситель." />
+	<block key="DY_1_0_0002_Name" korean="Красная краска для волос" />
+	<block key="DY_1_0_0002_description" korean="Красный краска для волос." />
+	<block key="DY_1_0_0003_Name" korean="Синий Краска для волос" />
+	<block key="DY_1_0_0003_description" korean="Синий краска для волос." />
+	<block key="DY_1_0_0004_Name" korean="Желтый Краска для волос" />
+	<block key="DY_1_0_0004_description" korean="Желтый краска для волос." />
+	<block key="DY_1_0_0005_Name" korean="Белый Краска для волос" />
+	<block key="DY_1_0_0005_description" korean="Белый волосы краска для волос." />
+	<block key="DY_1_0_0006_Name" korean="Черный Краска для волос" />
+	<block key="DY_1_0_0006_description" korean="Черный краска для волос." />
+	<block key="DY_1_0_0007_Name" korean="Красный мост краситель" />
+	<block key="DY_1_0_0007_description" korean="Красный мост краситель." />
+	<block key="DY_1_0_0008_Name" korean="Синий мост краситель" />
+	<block key="DY_1_0_0008_description" korean="Синий мост краситель." />
+	<block key="DY_1_0_0009_Name" korean="Желтый краситель мост" />
+	<block key="DY_1_0_0009_description" korean="Желтый краситель мост." />
+	<block key="DY_1_0_0010_Name" korean="Белый мост краситель" />
+	<block key="DY_1_0_0010_description" korean="Белый мост краситель." />
+	<block key="DY_1_0_0011_Name" korean="Черный мост краситель" />
+	<block key="DY_1_0_0011_description" korean="Черный мост краситель." />
+</blocks>

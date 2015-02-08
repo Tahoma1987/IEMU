@@ -1,0 +1,173 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="SO_TEST_1_0001_Name" korean="Площадь" />
+	<block key="SO_TEST_1_0002_Name" korean="Сосулька" />
+	<block key="SO_TEST_1_0003_Name" korean="Сотрудник ФРС мясо" />
+	<block key="SO_TEST_1_0004_Name" korean="Изменить лед" />
+	<block key="SO_TEST_1_0005_Name" korean="Призыв Голем место 2 пользователя" />
+	<block key="SO_TEST_1_0006_Name" korean="Магма извержение" />
+	<block key="SO_TEST_1_0007_Name" korean="Площадь пожара (Rex)" />
+	<block key="SO_TEST_1_0008_Name" korean="Закон" />
+	<block key="SO_TEST_1_0009_Name" korean="Черная дыра" />
+	<block key="SO_TEST_1_0010_Name" korean="Отрыжка углерода" />
+	<block key="SO_TEST_1_0011_Name" korean="Кабан бросился эффекты" />
+	<block key="SO_TEST_1_0012_Name" korean="Комиссар рок" />
+	<block key="SO_TEST_1_0013_Name" korean="Rhino боевых вызов" />
+	<block key="SO_TEST_1_0014_Name" korean="Раскол Земля огня" />
+	<block key="SO_TEST_1_0015_Name" korean="Сантин трещин стен" />
+	<block key="SO_TEST_1_0016_Name" korean="Сантин побежал точку" />
+	<block key="SO_TEST_1_0017_Name" korean="Голова в доминировали мест разрушение бюллетень" />
+	<block key="SO_TEST_1_0018_Name" korean="Колонка крови" />
+	<block key="SO_TEST_1_0019_Name" korean="Колонка крови" />
+	<block key="SO_TEST_1_0020_Name" korean="Начать вызов (Butler Ram beurandeu)" />
+	<block key="SO_TEST_1_0021_Name" korean="Начать вызов (шеф-повар порыв)" />
+	<block key="SO_TEST_1_0022_Name" korean="Бомба замедленного действия" />
+	<block key="SO_TEST_1_0023_Name" korean="Dolmeori снять" />
+	<block key="SO_TEST_1_0024_Name" korean="Черная дыра" />
+	<block key="SO_TEST_1_0025_Name" korean="Огонь свойств зоны" />
+	<block key="SO_TEST_1_0026_Name" korean="Мату kontin" />
+	<block key="SO_TEST_1_0027_Name" korean="Площадь замерзания недвижимости" />
+	<block key="SO_TEST_1_0028_Name" korean="Свет Свойства Область" />
+	<block key="SO_TEST_1_0029_Name" korean="Темный площадь атрибут" />
+	<block key="SO_TEST_1_0030_Name" korean="Kuntin" />
+	<block key="SO_TEST_1_0031_Name" korean="Arrow дождь" />
+	<block key="SO_TEST_1_0032_Name" korean="Arrow дождь" />
+	<block key="SO_TEST_1_0033_Name" korean="Fire Storm" />
+	<block key="SO_TEST_1_0034_Name" korean="Fire Storm" />
+	<block key="SO_TEST_1_0035_Name" korean="Кер-на" />
+	<block key="SO_TEST_1_0036_Name" korean="Arrow дождь" />
+	<block key="SO_TEST_1_0037_Name" korean="Кислота Zone" />
+	<block key="SO_TEST_1_0038_Name" korean="Слава холодно" />
+	<block key="SO_TEST_1_0039_Name" korean="Земля Смерти" />
+	<block key="SO_TEST_1_0040_Name" korean="Первый взрыв" />
+	<block key="SO_TEST_1_0041_Name" korean="Наказание Light" />
+	<block key="SO_TEST_1_0042_Name" korean="Проклятие жнец" />
+	<block key="SO_TEST_1_0043_Name" korean="Окно суда" />
+	<block key="SO_TEST_1_0044_Name" korean="Менингококковая защита" />
+	<block key="SO_TEST_1_0045_Name" korean="Отношение Ледяная" />
+	<block key="SO_TEST_1_0046_Name" korean="Ледорубом." />
+	<block key="SO_TEST_1_0047_Name" korean="Вода Тотем" />
+	<block key="SO_TEST_1_0048_Name" korean="Холод площадь" />
+	<block key="SO_TEST_1_0049_Name" korean="Темное превращение Апостол" />
+	<block key="SO_TEST_1_0050_Name" korean="Ссылки легкой наказания" />
+	<block key="SO_TEST_1_0051_Name" korean="Пламя ссылку Pillar" />
+	<block key="SO_TEST_1_0052_Name" korean="Огонь метеорит ссылку" />
+	<block key="SO_TEST_1_0053_Name" korean="Телепортация Ссылки" />
+	<block key="SO_TEST_1_0054_Name" korean="Свет ссылку молнии" />
+	<block key="SO_TEST_1_0055_Name" korean="Замерзающий туман ссылки" />
+	<block key="SO_TEST_1_0056_Name" korean="Душевые Ссылка 1" />
+	<block key="SO_TEST_1_0057_Name" korean="Душевые Ссылка 2" />
+	<block key="SO_TEST_1_0058_Name" korean="Rhino боевых вызов" />
+	<block key="SO_TEST_1_0059_Name" korean="Голова в доминировали мест разрушение бюллетень" />
+	<block key="SO_TEST_1_0080_Name" korean="Vortex тьмы" />
+	<block key="SO_TEST_1_0105_Name" korean="Замороженные Way" />
+	<block key="SO_TEST_1_0174_Name" korean="Энергия конденсированной холода" />
+	<block key="SO_TEST_1_0175_Name" korean="Энергия конденсированной холода" />
+	<block key="SO_TEST_1_0176_Name" korean="Земля Сандер" />
+	<block key="SO_TEST_1_0195_Name" korean="Энергия разрядов" />
+	<block key="SO_TEST_1_0065_Name" korean="Энергия разрядов" />
+	<block key="SO_TEST_1_0196_Name" korean="Прохладный атмосфера" />
+	<block key="SO_TEST_1_0197_Name" korean="Избегайте взрывов" />
+	<block key="SO_TEST_1_0198_Name" korean="Классные Подземные толчки" />
+	<block key="SO_TEST_1_0199_Name" korean="Слава холодно" />
+	<block key="SO_TEST_1_0200_Name" korean="Ice столб" />
+	<block key="SO_TEST_1_0201_Name" korean="Ice столб" />
+	<block key="SO_TEST_1_0202_Name" korean="Пыльная буря" />
+	<block key="SO_TEST_1_0203_Name" korean="Дикий песок" />
+	<block key="SO_TEST_1_0204_Name" korean="Вакуумные выходы" />
+	<block key="SO_TEST_1_0205_Name" korean="Суд метеорит" />
+	<block key="SO_TEST_1_0206_Name" korean="Firestorm" />
+	<block key="SO_TEST_1_0207_Name" korean="Утюг Pillar" />
+	<block key="SO_TEST_1_0208_Name" korean="Ледяная" />
+	<block key="SO_TEST_1_0209_Name" korean="Пыльная буря" />
+	<block key="SO_TEST_1_0210_Name" korean="Суд метеорит" />
+	<block key="SO_TEST_1_0211_Name" korean="Ice столб" />
+	<block key="SO_TEST_1_0212_Name" korean="Божий суд" />
+	<block key="SO_TEST_1_0213_Name" korean="Земля взрыв" />
+	<block key="SO_TEST_1_0214_Name" korean="Дымовая завеса" />
+	<block key="SO_TEST_1_0215_Name" korean="Пыльная буря" />
+	<block key="SO_TEST_1_0216_Name" korean="Язык уничтожения" />
+	<block key="SO_TEST_1_0217_Name" korean="Контрольные мест" />
+	<block key="SO_TEST_1_0218_Name" korean="Контрольные мест" />
+	<block key="SO_TEST_1_0219_Name" korean="Контрольные мест" />
+	<block key="SO_TEST_1_0220_Name" korean="Контрольные мест" />
+	<block key="SO_TEST_1_0221_Name" korean="Песок туман" />
+	<block key="SO_TEST_1_0222_Name" korean="Танцы огненная" />
+	<block key="SO_TEST_1_0223_Name" korean="Праздник Света" />
+	<block key="SO_TEST_1_0224_Name" korean="Deep Dark" />
+	<block key="SO_TEST_1_0225_Name" korean="Блестящие мигает" />
+	<block key="SO_TEST_1_0226_Name" korean="Тундра" />
+	<block key="SO_TEST_1_0227_Name" korean="Тундра" />
+	<block key="SO_TEST_1_0228_Name" korean="Firestorm" />
+	<block key="SO_TEST_1_0229_Name" korean="Тень смерти" />
+	<block key="SO_TEST_1_0230_Name" korean="Holy Shield" />
+	<block key="SO_TEST_1_0231_Name" korean="Загрязненный грунт" />
+	<block key="SO_TEST_1_0232_Name" korean="Ловушки Вильма" />
+	<block key="SO_TEST_1_0233_Name" korean="Утюг Pillar" />
+	<block key="SO_TEST_1_0234_Name" korean="Ледяная" />
+	<block key="SO_TEST_1_0235_Name" korean="Пыльная буря" />
+	<block key="SO_TEST_1_0236_Name" korean="Firestorm" />
+	<block key="SO_TEST_1_0237_Name" korean="Утюг Pillar" />
+	<block key="SO_TEST_1_0238_Name" korean="Ледяная" />
+	<block key="SO_TEST_1_0239_Name" korean="Пыльная буря" />
+	<block key="SO_TEST_1_0240_Name" korean="Молния Light" />
+	<block key="SO_TEST_1_0241_Name" korean="Молния Light" />
+	<block key="SO_TEST_1_0242_Name" korean="Молния Light" />
+	<block key="SO_TEST_1_0243_Name" korean="Молния Light" />
+	<block key="SO_TEST_1_0244_Name" korean="Молния Light" />
+	<block key="SO_TEST_1_0245_Name" korean="Молния Light" />
+	<block key="SO_TEST_1_0246_Name" korean="Туман огня" />
+	<block key="SO_TEST_1_0247_Name" korean="Огненный дождь" />
+	<block key="SO_TEST_1_0248_Name" korean="Огненный дождь" />
+	<block key="SO_TEST_1_0249_Name" korean="Огненный дождь" />
+	<block key="SO_TEST_1_0250_Name" korean="Огненный дождь" />
+	<block key="SO_TEST_1_0251_Name" korean="Душ" />
+	<block key="SO_TEST_1_0252_Name" korean="Душ" />
+	<block key="SO_TEST_1_0253_Name" korean="Душ" />
+	<block key="SO_TEST_1_0254_Name" korean="Душ" />
+	<block key="SO_TEST_1_0255_Name" korean="Огонь метеорит" />
+	<block key="SO_TEST_1_0256_Name" korean="Огонь метеорит" />
+	<block key="SO_TEST_1_0257_Name" korean="Огонь метеорит" />
+	<block key="SO_TEST_1_0258_Name" korean="Мороз метеорит" />
+	<block key="SO_TEST_1_0259_Name" korean="Мороз метеорит" />
+	<block key="SO_TEST_1_0260_Name" korean="Мороз метеорит" />
+	<block key="SO_TEST_1_0261_Name" korean="Яд" />
+	<block key="SO_TEST_1_0262_Name" korean="Загрязненный грунт" />
+	<block key="SO_TEST_1_0263_Name" korean="Загрязненный грунт" />
+	<block key="SO_TEST_1_0264_Name" korean="Тень смерти" />
+	<block key="SO_TEST_1_0265_Name" korean="Тень смерти" />
+	<block key="SO_TEST_1_0266_Name" korean="Божий суд" />
+	<block key="SO_TEST_1_0267_Name" korean="Божий суд" />
+	<block key="SO_TEST_1_0268_Name" korean="Божий суд" />
+	<block key="SO_TEST_1_0269_Name" korean="Божий суд" />
+	<block key="SO_TEST_1_0270_Name" korean="Божий суд" />
+	<block key="SO_TEST_1_0271_Name" korean="Божий суд" />
+	<block key="SO_TEST_1_0272_Name" korean="Божий суд" />
+	<block key="SO_TEST_1_0082_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0083_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0084_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0085_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0086_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0087_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0088_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0089_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0090_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0091_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0092_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0093_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0094_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0095_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0096_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0097_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0098_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0099_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0100_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0101_name" korean="Обстоятельства Recovery Area" />
+	<block key="SO_TEST_1_0102_name" korean="Обстоятельства Recovery Area" />
+</blocks>

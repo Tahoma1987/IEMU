@@ -226,7 +226,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	log::Notify(fg, "#################################\n");
 	log::Notify(fg, "# Login Server v0.93            #\n");
 	log::Notify(fg, "# Client version: 1.5.73        #\n");
-	log::Notify(fg, "# Client time: 2015-01-27 16:28 #\n");
+	log::Notify(fg, "# Client time: 2015-02-02 17:26 #\n");
 	log::Notify(fg, "#################################\n\n");
 
 	///////////////////////////////////////////////////////////////

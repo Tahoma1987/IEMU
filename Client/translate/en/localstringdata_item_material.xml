@@ -1,0 +1,613 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="MA_1_0001_Name" korean="Медные руды" />
+	<block key="MA_1_1001_Name" korean="Медь слитки" />
+	<block key="MA_1_1002_Name" korean="Медные сплавы" />
+	<block key="MA_1_0002_Name" korean="Железняк" />
+	<block key="MA_1_2001_Name" korean="Железными прутьями" />
+	<block key="MA_1_2002_Name" korean="Сплав железа" />
+	<block key="MA_1_0003_Name" korean="Mithril Ore" />
+	<block key="MA_1_3001_Name" korean="Мифриловые Бары" />
+	<block key="MA_1_3002_Name" korean="Мифриловый Сплав" />
+	<block key="MA_1_0004_Name" korean="Турал галлия руды" />
+	<block key="MA_1_0005_Name" korean="Адамантитовая руда" />
+	<block key="MA_1_0006_Name" korean="Dragoni Помощь руды" />
+	<block key="MA_2_0001_Name" korean="Руды" />
+	<block key="MA_2_1001_Name" korean="Серебряный порошок" />
+	<block key="MA_2_0002_Name" korean="Золотая руда" />
+	<block key="MA_2_2001_Name" korean="Золотой песок" />
+	<block key="MA_2_0003_Name" korean="Аметист Gemstone" />
+	<block key="MA_2_3001_Name" korean="Обработанный Аметист" />
+	<block key="MA_2_0004_Name" korean="Sapphire Gemstone" />
+	<block key="MA_2_0005_Name" korean="Emerald Gemstone" />
+	<block key="MA_2_0006_Name" korean="Неотшлифованный алмаз" />
+	<block key="MA_3_0001_Name" korean="Лесные грибы на" />
+	<block key="MA_3_0002_Name" korean="Sage бассейн" />
+	<block key="MA_3_0003_Name" korean="Снег органы сбоев быстро:" />
+	<block key="MA_3_0004_Name" korean="Корни Mercure" />
+	<block key="MA_3_0005_Name" korean="Терри Луна Магия секунд" />
+	<block key="MA_3_0006_Name" korean="Ruscha цветок" />
+	<block key="MA_4_0001_Name" korean="Грубая ткань" />
+	<block key="MA_4_1001_Name" korean="Грубая ткань" />
+	<block key="MA_4_0002_Name" korean="Явный" />
+	<block key="MA_4_2001_Name" korean="Тонкая ткань" />
+	<block key="MA_4_0003_Name" korean="Толстая ткань" />
+	<block key="MA_4_3001_Name" korean="Толстая ткань" />
+	<block key="MA_4_0004_Name" korean="Мягкая ткань," />
+	<block key="MA_4_0005_Name" korean="Polished ткань" />
+	<block key="MA_4_0006_Name" korean="Блестящей ткани" />
+	<block key="MA_5_0001_Name" korean="Жесткое мясо" />
+	<block key="MA_5_0002_Name" korean="Обычная мясо" />
+	<block key="MA_5_0003_Name" korean="Жевательные мясо" />
+	<block key="MA_5_0004_Name" korean="Обычная мясо" />
+	<block key="MA_5_0005_Name" korean="Нежное мясо" />
+	<block key="MA_5_0006_Name" korean="Нежное мясо" />
+	<block key="MA_6_0001_Name" korean="Болеем слабые духи" />
+	<block key="MA_6_1001_Name" korean="Будьте слабые духи" />
+	<block key="MA_6_0002_Name" korean="Сила слабых духов" />
+	<block key="MA_6_2001_Name" korean="Будьте слабые духи" />
+	<block key="MA_6_0003_Name" korean="Аура обычных духов" />
+	<block key="MA_6_3001_Name" korean="Обычное число духи" />
+	<block key="MA_6_0004_Name" korean="Аура крепких спиртных напитков" />
+	<block key="MA_6_0005_Name" korean="Сияющий ореол духов" />
+	<block key="MA_6_0006_Name" korean="Аура блестящих духов" />
+	<block key="MA_7_1101_Name" korean="Шаг 1 Эфес" />
+	<block key="MA_7_1102_Name" korean="Шаг 2 Эфес" />
+	<block key="MA_7_1103_Name" korean="Шаг 3 рукоять" />
+	<block key="MA_7_1104_Name" korean="Шаг 4 Эфес" />
+	<block key="MA_7_1105_Name" korean="Шаг 5 Рукоять" />
+	<block key="MA_7_1106_Name" korean="Шаг 6 рукоять" />
+	<block key="MA_7_1201_Name" korean="Малый Ветстоун" />
+	<block key="MA_7_1202_Name" korean="Промежуточный шлифовального круга" />
+	<block key="MA_7_1203_Name" korean="Большой Ветстоун" />
+	<block key="MA_7_2101_Name" korean="Шаг 1 древесины" />
+	<block key="MA_7_2102_Name" korean="Шаг 2 Wood" />
+	<block key="MA_7_2103_Name" korean="Шаг 3 Wood" />
+	<block key="MA_7_2104_Name" korean="Шаг 4 дерева" />
+	<block key="MA_7_2105_Name" korean="Шаг 5 Wood" />
+	<block key="MA_7_2106_Name" korean="Шаг 6 Wood" />
+	<block key="MA_7_2201_Name" korean="Меньший вес" />
+	<block key="MA_7_2202_Name" korean="Промежуточный вес" />
+	<block key="MA_7_2203_Name" korean="Большой вес" />
+	<block key="MA_7_3101_Name" korean="Шаг 1 штампов" />
+	<block key="MA_7_3102_Name" korean="Шаг 2 Die" />
+	<block key="MA_7_3103_Name" korean="Шаг 3 Die" />
+	<block key="MA_7_3104_Name" korean="Шаг 4 Die" />
+	<block key="MA_7_3105_Name" korean="Шаг 5 Die" />
+	<block key="MA_7_3106_Name" korean="Шаг 6 кости" />
+	<block key="MA_7_3201_Name" korean="Малой сварки" />
+	<block key="MA_7_3202_Name" korean="Промежуточный Сварка" />
+	<block key="MA_7_3203_Name" korean="Расширенный Сварка" />
+	<block key="MA_7_4101_Name" korean="Шаг 1 швейный набор" />
+	<block key="MA_7_4102_Name" korean="Шаг 2 Швейный набор" />
+	<block key="MA_7_4103_Name" korean="Шаг 3 швейный набор" />
+	<block key="MA_7_4104_Name" korean="Шаг 4 швейный набор" />
+	<block key="MA_7_4105_Name" korean="Шаг 5 швейный набор" />
+	<block key="MA_7_4106_Name" korean="Шаг 6 швейный набор" />
+	<block key="MA_7_4201_Name" korean="Низкий красители" />
+	<block key="MA_7_4202_Name" korean="Промежуточный краситель" />
+	<block key="MA_7_4203_Name" korean="Краска" />
+	<block key="MA_7_5101_Name" korean="Постоянное Шаг 1 л.с." />
+	<block key="MA_7_5102_Name" korean="Постоянное Шаг 2 лошадиных сил" />
+	<block key="MA_7_5103_Name" korean="Шаг 3 число лошадиных сил" />
+	<block key="MA_7_5104_Name" korean="Постоянное Шаг 4 лошадиных сил" />
+	<block key="MA_7_5105_Name" korean="Шаг 5 лошадиных сил целое число" />
+	<block key="MA_7_5106_Name" korean="Постоянное Шаг 6 лошадиных сил" />
+	<block key="MA_7_5201_Name" korean="Стеклянные бутылки Низкосортные" />
+	<block key="MA_7_5202_Name" korean="Промежуточный стеклянная бутылка" />
+	<block key="MA_7_5203_Name" korean="Расширенный флакон" />
+	<block key="MA_7_6111_Name" korean="Шаг 1 пряный соус" />
+	<block key="MA_7_6112_Name" korean="Шаг 2 острый соус" />
+	<block key="MA_7_6113_Name" korean="Шаг 3 Hot Sauce" />
+	<block key="MA_7_6114_Name" korean="Шаг 4 острый соус" />
+	<block key="MA_7_6115_Name" korean="Шаг 5 Hot Sauce" />
+	<block key="MA_7_6116_Name" korean="Шаг 6 Hot Sauce" />
+	<block key="MA_7_6121_Name" korean="Шаг 1 сладкий соус" />
+	<block key="MA_7_6122_Name" korean="Шаг 2 сладкий соус" />
+	<block key="MA_7_6123_Name" korean="Шаг 3 сладкий соус" />
+	<block key="MA_7_6124_Name" korean="Шаг 4 сладким соусом" />
+	<block key="MA_7_6125_Name" korean="Шаг 5 сладкий соус" />
+	<block key="MA_7_6126_Name" korean="Шаг 6 сладкий соус" />
+	<block key="MA_7_6131_Name" korean="Шаг 1 простой соус" />
+	<block key="MA_7_6132_Name" korean="Шаг 2 простой соус" />
+	<block key="MA_7_6133_Name" korean="Шаг 3 простой соус" />
+	<block key="MA_7_6134_Name" korean="Шаг 4 равнина соус" />
+	<block key="MA_7_6135_Name" korean="Шаг 5 равнина соус" />
+	<block key="MA_7_6136_Name" korean="Шаг 6 равнина соус" />
+	<block key="MA_7_6201_Name" korean="Низкосортные контейнеры" />
+	<block key="MA_7_6202_Name" korean="Промежуточные контейнеры для хранения" />
+	<block key="MA_7_6203_Name" korean="Расширенный контейнеры" />
+	<block key="MA_7_7101_Name" korean="Шаг 1 пор окно" />
+	<block key="MA_7_7102_Name" korean="Шаг 2 пор окно" />
+	<block key="MA_7_7103_Name" korean="Шаг 3 пор окно" />
+	<block key="MA_7_7104_Name" korean="Шаг 4 пор окно" />
+	<block key="MA_7_7105_Name" korean="Шаг 5 пор окно" />
+	<block key="MA_7_7106_Name" korean="Шаг 6 пор окно" />
+	<block key="MA_7_7201_Name" korean="Малый разделочный нож" />
+	<block key="MA_7_7202_Name" korean="Промежуточный разделочный нож" />
+	<block key="MA_7_7203_Name" korean="Старший нож резьба" />
+	<block key="MA_7_8101_Name" korean="Шаг 1 Катализатор" />
+	<block key="MA_7_8102_Name" korean="Шаг 2 катализатора" />
+	<block key="MA_7_8103_Name" korean="Шаг 3 Катализаторы" />
+	<block key="MA_7_8104_Name" korean="Шаг 4 катализатора" />
+	<block key="MA_7_8105_Name" korean="Шаг 5 Catalyst" />
+	<block key="MA_7_8106_Name" korean="Шаг 6 катализатора" />
+	<block key="MA_7_8201_Name" korean="Малое магическое порошок" />
+	<block key="MA_7_8202_Name" korean="Промежуточный таинственный порошок" />
+	<block key="MA_7_8203_Name" korean="Великая таинственная порошок" />
+	<block key="MA_8_0001_Name" korean="Малой восстановитель" />
+	<block key="MA_8_0002_Name" korean="Малый восстановитель" />
+	<block key="MA_8_0003_Name" korean="Промежуточный восстановитель" />
+	<block key="MA_8_0004_Name" korean="Расширенный восстановитель" />
+	<block key="MA_8_0005_Name" korean="Снижение премии" />
+	<block key="MA_8_0006_Name" korean="Расширенный восстановитель" />
+	<block key="MA_8_1001_Name" korean="Малой нейтрализатор" />
+	<block key="MA_8_1002_Name" korean="Малый нейтрализатор" />
+	<block key="MA_8_1003_Name" korean="Промежуточный нейтрализатор" />
+	<block key="MA_8_1004_Name" korean="Расширенный нейтрализатор" />
+	<block key="MA_8_1005_Name" korean="Самая высокая нейтрализующий агент" />
+	<block key="MA_8_1006_Name" korean="Расширенный нейтрализатор" />
+	<block key="MA_8_2001_Name" korean="Незначительные растворители" />
+	<block key="MA_8_2002_Name" korean="Низкосортные растворители" />
+	<block key="MA_8_2003_Name" korean="Промежуточный растворителя" />
+	<block key="MA_8_2004_Name" korean="Старшие растворители" />
+	<block key="MA_8_2005_Name" korean="Растворитель-класс" />
+	<block key="MA_8_2006_Name" korean="Расширенный растворителя" />
+	<block key="MA_8_3001_Name" korean="Незначительные концентраты" />
+	<block key="MA_8_3002_Name" korean="Концентраты Низкосортные" />
+	<block key="MA_8_3003_Name" korean="Промежуточные концентраты" />
+	<block key="MA_8_3004_Name" korean="Расширенный концентраты" />
+	<block key="MA_8_3005_Name" korean="Лучшие оценки концентраты" />
+	<block key="MA_8_3006_Name" korean="Расширенный загуститель" />
+	<block key="MA_1_0001_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Свадебный карбоновой лес\n  Канаш, а также секс \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материал, используемый оружия / брони производится \u003c/ UI_Y\u003e" />
+	<block key="MA_1_1001_Description" korean="\u003cUI_Y\u003e материал, используемый в производстве оружия \u003c/ UI_Y\u003e" />
+	<block key="MA_1_1002_Description" korean="\u003cUI_Y\u003e Материалы, используемые в создании металлическую броню \u003c/ UI_Y\u003e" />
+	<block key="MA_1_0002_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материал, используемый оружия / брони производится \u003c/ UI_Y\u003e" />
+	<block key="MA_1_2001_Description" korean="\u003cUI_Y\u003e материал, используемый в производстве оружия \u003c/ UI_Y\u003e" />
+	<block key="MA_1_2002_Description" korean="\u003cUI_Y\u003e Материалы, используемые в создании металлическую броню \u003c/ UI_Y\u003e" />
+	<block key="MA_1_0003_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материал, используемый оружия / брони производится \u003c/ UI_Y\u003e" />
+	<block key="MA_1_3001_Description" korean="\u003cUI_Y\u003e материал, используемый в производстве оружия \u003c/ UI_Y\u003e" />
+	<block key="MA_1_3002_Description" korean="\u003cUI_Y\u003e Материалы, используемые в создании металлическую броню \u003c/ UI_Y\u003e" />
+	<block key="MA_1_0004_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Воздушное пространство разрушения \u003c/ UI_G\u003e\n\n\n\u003cUI_Y\u003e Материал, используемый оружия / брони производится \u003c/ UI_Y\u003e" />
+	<block key="MA_1_0005_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материал, используемый оружия / брони производится \u003c/ UI_Y\u003e" />
+	<block key="MA_1_0006_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\n\n\u003cUI_Y\u003e Материал, используемый оружия / брони производится \u003c/ UI_Y\u003e" />
+	<block key="MA_2_0001_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Свадебный карбоновой лес\n  Канаш, а также секс \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в ювелирном деле \u003c/ UI_Y\u003e" />
+	<block key="MA_2_1001_Description" korean="\u003cUI_Y\u003e Материалы, используемые в ювелирном деле \u003c/ UI_Y\u003e" />
+	<block key="MA_2_0002_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в ювелирном деле \u003c/ UI_Y\u003e" />
+	<block key="MA_2_2001_Description" korean="\u003cUI_Y\u003e Материалы, используемые в ювелирном деле \u003c/ UI_Y\u003e" />
+	<block key="MA_2_0003_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в ювелирном деле \u003c/ UI_Y\u003e" />
+	<block key="MA_2_3001_Description" korean="\u003cUI_Y\u003e Материалы, используемые в ювелирном деле \u003c/ UI_Y\u003e" />
+	<block key="MA_2_0004_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Воздушное пространство разрушения \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в ювелирном деле \u003c/ UI_Y\u003e" />
+	<block key="MA_2_0005_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в ювелирном деле \u003c/ UI_Y\u003e" />
+	<block key="MA_2_0006_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в ювелирном деле \u003c/ UI_Y\u003e" />
+	<block key="MA_3_0001_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Свадебный карбоновой лес\n  Канаш, а также секс \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в алхимии \u003c/ UI_Y\u003e" />
+	<block key="MA_3_0002_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в алхимии \u003c/ UI_Y\u003e" />
+	<block key="MA_3_0003_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в алхимии \u003c/ UI_Y\u003e" />
+	<block key="MA_3_0004_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Воздушное пространство разрушения \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в алхимии \u003c/ UI_Y\u003e" />
+	<block key="MA_3_0005_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в алхимии \u003c/ UI_Y\u003e" />
+	<block key="MA_3_0006_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в алхимии \u003c/ UI_Y\u003e" />
+	<block key="MA_4_0001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Гуманоид монстров падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в создании брони \u003c/ UI_Y\u003e" />
+	<block key="MA_4_1001_Description" korean="\u003cUI_Y\u003e Материалы, используемые в создании брони \u003c/ UI_Y\u003e" />
+	<block key="MA_4_0002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Гуманоид монстров падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в создании брони \u003c/ UI_Y\u003e" />
+	<block key="MA_4_2001_Description" korean="\u003cUI_Y\u003e Материалы, используемые в создании брони \u003c/ UI_Y\u003e" />
+	<block key="MA_4_0003_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Гуманоид монстров падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в создании брони \u003c/ UI_Y\u003e" />
+	<block key="MA_4_3001_Description" korean="\u003cUI_Y\u003e Материалы, используемые в создании брони \u003c/ UI_Y\u003e" />
+	<block key="MA_4_0004_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Гуманоид монстров падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в создании брони \u003c/ UI_Y\u003e" />
+	<block key="MA_4_0005_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Гуманоид монстров падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в создании брони \u003c/ UI_Y\u003e" />
+	<block key="MA_4_0006_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Гуманоид монстров падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в создании брони \u003c/ UI_Y\u003e" />
+	<block key="MA_5_0001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Животное монстры типа капля \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Ингредиенты, используемые в приготовлении пищи \u003c/ UI_Y\u003e" />
+	<block key="MA_5_0002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Животное монстры типа капля \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Ингредиенты, используемые в приготовлении пищи \u003c/ UI_Y\u003e" />
+	<block key="MA_5_0003_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Животное монстры типа капля \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Ингредиенты, используемые в приготовлении пищи \u003c/ UI_Y\u003e" />
+	<block key="MA_5_0004_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Животное монстры типа капля \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Ингредиенты, используемые в приготовлении пищи \u003c/ UI_Y\u003e" />
+	<block key="MA_5_0005_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Животное монстры типа капля \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Ингредиенты, используемые в приготовлении пищи \u003c/ UI_Y\u003e" />
+	<block key="MA_5_0006_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Животное монстры типа капля \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Ингредиенты, используемые в приготовлении пищи \u003c/ UI_Y\u003e" />
+	<block key="MA_6_0001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e монстры Духи / Fairy типа падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в научных сотрудников \u003c/ UI_Y\u003e" />
+	<block key="MA_6_1001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e научный сотрудник производство \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в научных сотрудников \u003c/ UI_Y\u003e" />
+	<block key="MA_6_0002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e монстры Духи / Fairy типа падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в научных сотрудников \u003c/ UI_Y\u003e" />
+	<block key="MA_6_2001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e научный сотрудник производство \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в научных сотрудников \u003c/ UI_Y\u003e" />
+	<block key="MA_6_0003_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e монстры Духи / Fairy типа падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в научных сотрудников \u003c/ UI_Y\u003e" />
+	<block key="MA_6_3001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e научный сотрудник производство \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в научных сотрудников \u003c/ UI_Y\u003e" />
+	<block key="MA_6_0004_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e монстры Духи / Fairy типа падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в научных сотрудников \u003c/ UI_Y\u003e" />
+	<block key="MA_6_0005_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e монстры Духи / Fairy типа падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в научных сотрудников \u003c/ UI_Y\u003e" />
+	<block key="MA_6_0006_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e монстры Духи / Fairy типа падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в научных сотрудников \u003c/ UI_Y\u003e" />
+	<block key="MA_7_1101_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ближний бой \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_1102_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ближний бой \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_1103_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ближний бой \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_1104_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ближний бой \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_1105_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ближний бой \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_1106_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ближний бой \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_1201_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ближний бой \u003c/ UI_G\u003e и \u003cUI_G\u003e двуручный палки \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_1202_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ближний бой \u003c/ UI_G\u003e и \u003cUI_G\u003e двуручный палки \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_1203_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ближний бой \u003c/ UI_G\u003e и \u003cUI_G\u003e двуручный палки \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_2101_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_2102_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_2103_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_2104_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_2105_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_2106_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_2201_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e и \u003cUI_G\u003e двуручный меч \u003cUI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_2202_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e и \u003cUI_G\u003e двуручный меч \u003cUI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_2203_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e и \u003cUI_G\u003e двуручный меч \u003cUI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_3101_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, вспомогательное оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_3102_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, вспомогательное оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_3103_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, вспомогательное оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_3104_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, вспомогательное оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_3105_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, вспомогательное оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_3106_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, вспомогательное оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_3201_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, вспомогательное оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_3202_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, вспомогательное оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_3203_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, вспомогательное оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_4101_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Роб \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_4102_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Роб \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_4103_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Роб \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_4104_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Роб \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_4105_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Роб \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_4106_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Роб \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_4201_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Роб \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_4202_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Роб \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_4203_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Роб \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_5101_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e алхимия ингредиенты трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Расширенные зелье \u003c/ UI_G\u003e и \u003cUI_G\u003e повязка \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_5102_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e алхимия ингредиенты трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Расширенные зелье \u003c/ UI_G\u003e и \u003cUI_G\u003e повязка \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_5103_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e алхимия ингредиенты трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Расширенные зелье \u003c/ UI_G\u003e и \u003cUI_G\u003e повязка \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_5104_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e алхимия ингредиенты трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Расширенные зелье \u003c/ UI_G\u003e и \u003cUI_G\u003e повязка \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_5105_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e алхимия ингредиенты трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Расширенные зелье \u003c/ UI_G\u003e и \u003cUI_G\u003e повязка \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_5106_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e алхимия ингредиенты трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Расширенные зелье \u003c/ UI_G\u003e и \u003cUI_G\u003e повязка \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_5201_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e алхимия ингредиенты трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Восстановление зелье \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_5202_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e алхимия ингредиенты трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Восстановление зелье \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_5203_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e алхимия ингредиенты трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Восстановление зелье \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6111_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6112_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6113_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6114_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6115_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6116_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6121_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6122_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6123_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6124_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6125_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6126_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6131_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6132_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6133_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6134_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6135_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6136_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6201_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6202_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6203_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_7101_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e колье \u003c/ UI_G\u003e и \u003cUI_G\u003e Кольцо \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_7102_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e колье \u003c/ UI_G\u003e и \u003cUI_G\u003e Кольцо \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_7103_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e колье \u003c/ UI_G\u003e и \u003cUI_G\u003e Кольцо \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_7104_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e колье \u003c/ UI_G\u003e и \u003cUI_G\u003e Кольцо \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_7105_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e колье \u003c/ UI_G\u003e и \u003cUI_G\u003e Кольцо \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_7106_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e колье \u003c/ UI_G\u003e и \u003cUI_G\u003e Кольцо \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_7201_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e колье \u003c/ UI_G\u003e и \u003cUI_G\u003e Кольцо \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_7202_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e колье \u003c/ UI_G\u003e и \u003cUI_G\u003e Кольцо \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_7203_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e колье \u003c/ UI_G\u003e и \u003cUI_G\u003e Кольцо \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_8101_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сотрудник оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_8102_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сотрудник оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_8103_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сотрудник оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_8104_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сотрудник оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_8105_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сотрудник оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_8106_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сотрудник оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_8201_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сотрудник оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_8202_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сотрудник оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_8203_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сотрудник оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_8_0001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Бар \u003c/ UI_G\u003e и \u003cUI_G\u003e Сплав \u003c/ UI_G\u003e материалы, используемые в производстве" />
+	<block key="MA_8_0002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Бар \u003c/ UI_G\u003e и \u003cUI_G\u003e Сплав \u003c/ UI_G\u003e материалы, используемые в производстве" />
+	<block key="MA_8_0003_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Бар \u003c/ UI_G\u003e и \u003cUI_G\u003e Сплав \u003c/ UI_G\u003e материалы, используемые в производстве" />
+	<block key="MA_8_0004_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Бар \u003c/ UI_G\u003e и \u003cUI_G\u003e Сплав \u003c/ UI_G\u003e материалы, используемые в производстве" />
+	<block key="MA_8_0005_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Бар \u003c/ UI_G\u003e и \u003cUI_G\u003e Сплав \u003c/ UI_G\u003e материалы, используемые в производстве" />
+	<block key="MA_8_0006_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Бар \u003c/ UI_G\u003e и \u003cUI_G\u003e Сплав \u003c/ UI_G\u003e материалы, используемые в производстве" />
+	<block key="MA_8_1001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e тысяч \u003c/ UI_G\u003e материалы, используемые в производстве" />
+	<block key="MA_8_1002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e тысяч \u003c/ UI_G\u003e материалы, используемые в производстве" />
+	<block key="MA_8_1003_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e тысяч \u003c/ UI_G\u003e материалы, используемые в производстве" />
+	<block key="MA_8_1004_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e тысяч \u003c/ UI_G\u003e материалы, используемые в производстве" />
+	<block key="MA_8_1005_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e тысяч \u003c/ UI_G\u003e материалы, используемые в производстве" />
+	<block key="MA_8_1006_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e тысяч \u003c/ UI_G\u003e материалы, используемые в производстве" />
+	<block key="MA_8_2001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сработанный Материалы \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_8_2002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сработанный Материалы \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_8_2003_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сработанный Материалы \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_8_2004_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сработанный Материалы \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_8_2005_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сработанный Материалы \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_8_2006_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сработанный Материалы \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_8_3001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellows учебные материалы \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_8_3002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellows учебные материалы \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_8_3003_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellows учебные материалы \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_8_3004_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellows учебные материалы \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_8_3005_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellows учебные материалы \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_8_3006_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Fellows учебные материалы \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_9_0001_Name" korean="Гигантский крапивы" />
+	<block key="MA_9_0002_Name" korean="Фейерверк часть" />
+	<block key="MA_9_0003_Name" korean="Огонь Камень" />
+	<block key="MA_9_0004_Name" korean="Проклят крови" />
+	<block key="MA_9_0005_Name" korean="Определение снега" />
+	<block key="MA_9_0006_Name" korean="Hyeoltongseo часть (верхняя)" />
+	<block key="MA_9_0007_Name" korean="Hyeoltongseo часть (один из)" />
+	<block key="MA_9_0008_Name" korean="Hyeoltongseo часть (га)" />
+	<block key="MA_9_0009_Name" korean="Сущность тьмы" />
+	<block key="MA_9_0010_Name" korean="Чеснок" />
+	<block key="MA_9_0011_Name" korean="Спа" />
+	<block key="MA_9_0012_Name" korean="Сердце Дракона" />
+	<block key="MA_9_0013_Name" korean="Дракон весы" />
+	<block key="MA_10_0001_Name" korean="Помощь руды месте возбудитель" />
+	<block key="MA_10_0001_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e возбудителя выросла Лоулесс \u003c/ UI_G\u003e" />
+	<block key="MA_10_1001_Name" korean="Exo-значный полезным муки" />
+	<block key="MA_10_1002_Name" korean="Exo-значный полезным слиток" />
+	<block key="MA_10_1003_Name" korean="Exo-значный полезным сплав" />
+	<block key="MA_10_1004_Name" korean="Exo-значный Умм волокна" />
+	<block key="MA_10_2001_Name" korean="Фрагменты Хаоса" />
+	<block key="MA_10_2002_Name" korean="Суть хаоса" />
+	<block key="MA_9_0014_Name" korean="Пыль о" />
+	<block key="MA_9_0015_Name" korean="Для частичку души" />
+	<block key="MA_9_0016_Name" korean="Слезы Лаедана" />
+	<block key="MA_9_0017_Name" korean="Дух свободного Рамми" />
+	<block key="MA_9_0018_Name" korean="Весы дзен-Kit" />
+	<block key="MA_9_0018_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\nВесы Wangnunyi Zen комплект, которые живут в пещерах окутана завесой. \u003cUI_G\u003e весы пузырь \u003c/ UI_G\u003e известен как материал." />
+	<block key="MA_9_0019_Name" korean="Bubble карманы GMS" />
+	<block key="MA_9_0019_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\nBubble карманы среды обитания, что гроссмейстеры в пещерах окутана завесой. \u003cUI_G\u003e весы пузырь \u003c/ UI_G\u003e известен как материал." />
+	<block key="MA_9_0020_Name" korean="Мороз бассейн" />
+	<block key="MA_9_0021_Name" korean="Fallen число" />
+	<block key="MA_9_0022_Name" korean="Bingseok" />
+	<block key="MA_9_0023_Name" korean="Большой пламя" />
+	<block key="MA_9_0023_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e это Кале ручными \u003c/ UI_G\u003e \u003cUI_G\u003e пламя ветер скачок \u003c/ UI_G\u003e известен как материал, который может быть получен." />
+	<block key="MA_9_0024_Name" korean="Сжигание Сердце Голема" />
+	<block key="MA_9_0024_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e, который может укротить много ах \u003c/ UI_G\u003e \u003cUI_G\u003e Phoenix известно аура \u003c/ UI_G\u003e к материалу, который может быть получен." />
+	<block key="MA_9_0025_Name" korean="Светящиеся аура" />
+	<block key="MA_9_0025_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e, который может укротить много ах \u003c/ UI_G\u003e \u003cUI_G\u003e Phoenix известно аура \u003c/ UI_G\u003e к материалу, который может быть получен." />
+	<block key="MA_9_0026_Name" korean="Крылья вампира" />
+	<block key="MA_9_0026_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e La Hynix \u003c/ UI_G\u003e, который может укротить \u003cUI_G\u003e Silence-Томе \u003c/ UI_G\u003e известен как материал, который может быть получен." />
+	<block key="MA_9_0027_Name" korean="Перья правосудия" />
+	<block key="MA_9_0027_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и Канаш для \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e La Hynix \u003c/ UI_G\u003e, который может укротить \u003cUI_G\u003e Silence-Томе \u003c/ UI_G\u003e известен как материал, который может быть получен." />
+	<block key="MA_9_0001_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nБольшой крапивы, \u003cUI_G\u003e глазами Хун Баба \u003c/ UI_G\u003e является любимым бассейн. \u003cUI_G\u003e циклопы, которые могут укротить Хун Баба \u003c/ UI_G\u003e \u003cUI_G\u003e темно порядок подавление энергии \u003c/ UI_G\u003e известен как материал для творчества." />
+	<block key="MA_9_0002_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nМаленькое пламя, которое доступно в доме магмы собака. \u003cUI_G\u003e, который может укротить магмы Собака \u003c/ UI_G\u003e \u003cUI_G\u003e сердце \u003c/ UI_G\u003e Flame известен как материал, который может быть получен." />
+	<block key="MA_9_0003_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nГорящие руины оборудования и материалов, необходимых для производства." />
+	<block key="MA_9_0004_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nОборудование и материалы, необходимые для принятия проклятую семью." />
+	<block key="MA_9_0005_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nЗамороженные Mart Лен оборудование и материалы, необходимые для производства." />
+	<block key="MA_9_0006_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nКусочки автомобиля Reang hyeoltongseo вырос в семье графа жеребцов. \u003cUI_G\u003e черный, который может укротить ветер \u003c/ UI_G\u003e \u003cUI_G\u003e автомобиль Reang жеребец hyeoltongseo \u003c/ UI_G\u003e известен как материал, который может быть получен." />
+	<block key="MA_9_0007_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nКусочки автомобиля Reang hyeoltongseo вырос в семье графа жеребцов. \u003cUI_G\u003e черный, который может укротить ветер \u003c/ UI_G\u003e \u003cUI_G\u003e автомобиль Reang жеребец hyeoltongseo \u003c/ UI_G\u003e известен как материал, который может быть получен." />
+	<block key="MA_9_0008_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nКусочки автомобиля Reang hyeoltongseo вырос в семье графа жеребцов. \u003cUI_G\u003e черный, который может укротить ветер \u003c/ UI_G\u003e \u003cUI_G\u003e автомобиль Reang жеребец hyeoltongseo \u003c/ UI_G\u003e известен как материал, который может быть получен." />
+	<block key="MA_9_0009_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nСодержится сущность темной энергии. \u003cUI_G\u003e циклопы, которые могут укротить Хун Баба \u003c/ UI_G\u003e \u003cUI_G\u003e темно порядок подавление энергии \u003c/ UI_G\u003e известен как материал для творчества." />
+	<block key="MA_9_0010_Description" korean="Вещи ингредиентов, необходимых для производства." />
+	<block key="MA_9_0011_Description" korean="Вещи ингредиентов, необходимых для производства." />
+	<block key="MA_9_0012_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nЖизнеспособность дракона заполнено сердце. \u003cUI_G\u003e красным maryong Agde Натх \u003c/ UI_G\u003e приручить \u003cUI_G\u003e растяжение Дракона \u003c/ UI_G\u003e известен как материал, который может быть получен." />
+	<block key="MA_9_0013_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nJudeon защиты чешую дракона. \u003cUI_G\u003e красным maryong Agde Натх \u003c/ UI_G\u003e приручить \u003cUI_G\u003e растяжение Дракона \u003c/ UI_G\u003e известен как материал, который может быть получен." />
+	<block key="MA_10_1001_Description" korean="\u003cUI_G\u003e PvP безделушки элемент \u003c/ UI_G\u003e материалы, необходимые для производства." />
+	<block key="MA_10_1002_Description" korean="\u003cUI_G\u003e пункт оружие PvP \u003c/ UI_G\u003e материалы, необходимые для производства." />
+	<block key="MA_10_1003_Description" korean="\u003cUI_G\u003e PvP предметы Броня \u003c/ UI_G\u003e материалы, необходимые для производства." />
+	<block key="MA_10_1004_Description" korean="\u003cUI_G\u003e PvP предметы Броня \u003c/ UI_G\u003e материалы, необходимые для производства." />
+	<block key="MA_10_2001_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e возбудителя выросла Лоулесс \u003c/ UI_G\u003e\n\nНеобходимые материалы для изготовления PvP предметы." />
+	<block key="MA_10_2002_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e возбудителя выросла Лоулесс \u003c/ UI_G\u003e\n\nНеобходимые материалы для изготовления PvP предметы." />
+	<block key="MA_9_0014_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и Канаш для \u003c/ UI_G\u003e\n\nКанаш части и наполнены духом уважения. \u003cUI_G\u003e Плавающий гиппокамп \u003c/ UI_G\u003e, который может укротить \u003cUI_G\u003e божественного порядка о \u003c/ UI_G\u003e известен как материал, который может быть получен." />
+	<block key="MA_9_0015_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и Канаш для \u003c/ UI_G\u003e\n\nКанаш части и наполнен духом живого существа в его пути примерно. \u003cUI_G\u003e Плавающий гиппокамп \u003c/ UI_G\u003e, который может укротить \u003cUI_G\u003e божественного порядка о \u003c/ UI_G\u003e известен как материал, который может быть получен." />
+	<block key="MA_9_0016_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\nЛадан очень дорого материала в слез, пролитых. \u003cUI_G\u003e Каспер может укротить яд дерево \u003c/ UI_G\u003e \u003cUI_G\u003e число \u003c/ UI_G\u003e Лаедана известен как материал, который может быть получен." />
+	<block key="MA_9_0017_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\nMureo племя, коллекция из двух видов из бисера в средней атмосфере. \u003cUI_G\u003e Каспер может укротить яд дерево \u003c/ UI_G\u003e \u003cUI_G\u003e число \u003c/ UI_G\u003e Лаедана известен как материал, который может быть получен." />
+	<block key="MA_9_0020_Description" korean="Необходимые материалы приручить этого парня." />
+	<block key="MA_9_0021_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\nОборудование и материалы, необходимые для принятия коррумпированных последователей." />
+	<block key="MA_9_0022_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\nIce бригадный генерал оборудование и материалы, необходимые для производства" />
+	<block key="MA_9_0028_Name" korean="Кусок холодного" />
+	<block key="MA_9_0029_Name" korean="Санджай слезы" />
+	<block key="MA_9_0028_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\nСгенерировано в свою очередь, местами сильный холодный кусок. \u003cUI_G\u003e Страх торт, который вы можете приручить Раб \u003c/ UI_G\u003e \u003cUI_G\u003e Frost Rune блокада \u003c/ UI_G\u003e, как известно, в качестве материала для создания." />
+	<block key="MA_9_0029_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\nСлезы должны дать оператору страх. \u003cUI_G\u003e Страх торт, который вы можете приручить Раб \u003c/ UI_G\u003e \u003cUI_G\u003e Frost Rune блокада \u003c/ UI_G\u003e, как известно, в качестве материала для создания." />
+	<block key="ma_11_0001_Name" korean="Сотрудник симпатичная индуктором" />
+	<block key="ma_11_0001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e монстры \u003c/ UI_G\u003e\n\nПопутчики Укрощение Пункт материалы, используемые общественности в процессе производства." />
+	<block key="ma_10_3001_Name" korean="Проклятый younghonseok" />
+	<block key="ma_10_3001_Description" korean="Необходимые материалы для изготовления PvP предметы." />
+	<block key="ma_10_3002_Name" korean="Замороженные younghonseok" />
+	<block key="ma_10_3002_Description" korean="Необходимые материалы для изготовления PvP предметы." />
+	<block key="MA_11_0002_Name" korean="Заросший след возбуждения" />
+	<block key="MA_11_0002_Description" korean="Материал предшествует возбудителя заросший след." />
+	<block key="MA_9_0030_Name" korean="Дебби аромат" />
+	<block key="MA_9_0031_Name" korean="Кобб любая энергия" />
+	<block key="MA_9_0032_Name" korean="Парк мою ауру" />
+	<block key="MA_9_0033_Name" korean="Аура Тьмы" />
+	<block key="MA_9_0034_Name" korean="Отметить Бессмертного легиона" />
+	<block key="MA_9_0030_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nОстальные пункты аромат Дебби. \u003cUI_G\u003e учит, что вы можете приручить муар \u003c/ UI_G\u003e \u003cUI_G\u003e духи Дебби \u003c/ UI_G\u003e, как известно, в качестве материала для создания." />
+	<block key="MA_9_0031_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nКобб любое вещество, которое аура seoryeo. \u003cUI_G\u003e учит, что вы можете приручить муар \u003c/ UI_G\u003e \u003cUI_G\u003e духи Дебби \u003c/ UI_G\u003e, как известно, в качестве материала для создания." />
+	<block key="MA_9_0032_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\nПарк материал, который мой дух seoryeo. \u003cUI_G\u003e, который может укротить эту наклон \u003c/ UI_G\u003e \u003cUI_G\u003e Охлажденные шарики \u003c/ UI_G\u003e известен как материал для творчества." />
+	<block key="MA_9_0033_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\nАура темной материи в seoryeo. \u003cUI_G\u003e, который может укротить Апокалипсис \u003c/ UI_G\u003e \u003cUI_G\u003e напряжение \u003c/ UI_G\u003e из ahsyuram известный как материалов, которые могут быть изготовлены." />
+	<block key="MA_9_0034_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Воздушное пространство разрушения \u003c/ UI_G\u003e\n\nВещи, которые знак бессмертной легиона. \u003cUI_G\u003e Кишар \u003c/ UI_G\u003e, который может укротить \u003cUI_G\u003e, как известно, сжигать палатки \u003c/ UI_G\u003e материал, который может быть получен." />
+	<block key="MA_9_0035_Name" korean="Оленина" />
+	<block key="MA_9_0035_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Wolf King Shaka d \u003c/ UI_G\u003e Ваш любимый мясо северного оленя. \u003cUI_G\u003e волк известен как материал, способный производить признаки \u003c/ UI_G\u003e а-ля короля Шака." />
+	<block key="MA_9_0036_Name" korean="Печать темноте" />
+	<block key="MA_9_0036_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Воздушное пространство разрушения \u003c/ UI_G\u003e\n\nПрочность на разрыв в темноте seoryeo. \u003cUI_G\u003e признаки \u003c/ UI_G\u003e Shadow maryong Кара Шах известен как материал, который может быть получен." />
+	<block key="MA_11_0003_name" korean="Elite Укрощение Elixir" />
+	<block key="MA_11_0004_name" korean="Снег блестящие тела провала ускорения" />
+	<block key="MA_11_0005_name" korean="Светящиеся Аметист" />
+	<block key="MA_11_0006_name" korean="Благородный мифриловая" />
+	<block key="MA_11_0003_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\nМатериал, используемый для создания знака в определенной степени или более стипендиатов" />
+	<block key="MA_11_0004_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\u003cUI_Y\u003e материалы, необходимые для производства специальный пункт Укрощение со снегом светит тела провала ускорения \u003c/ UI_Y\u003e" />
+	<block key="MA_11_0005_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\u003cUI_Y\u003e материалы, необходимые для производства ручных элементов, таких как черепахи с голубой светящейся аметист \u003c/ UI_Y\u003e" />
+	<block key="MA_11_0006_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e материалы, необходимые для получения специального приручения пункт с благородным Митрила \u003c/ UI_Y\u003e" />
+	<block key="MA_9_0037_name" korean="Загадочные обломки" />
+	<block key="MA_9_0038_name" korean="Благородный аура" />
+	<block key="MA_9_0037_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Все монстры падение \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Элитный класс элементов материалы, используемые в производстве \u003c/ UI_Y\u003e" />
+	<block key="MA_9_0038_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Снег собраны в организме сбоев быстро\n  Саккер корни сбора\n  Терри дверь сбора волшебные секунды\n  Mithril собраны\n  Турал галлия руды собраны\n  Адамантитовая руда собраны\n  Аметист собраны\n  Sapphire собраны\n  Emerald собраны\n  Exergy местом сбора помощь\n\u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Герои высококачественные материалы, используемые в создании предметов \u003c/ UI_Y\u003e" />
+	<block key="MA_9_0039_name" korean="Изменение параметров для объема, в синих тонах" />
+	<block key="MA_9_0039_Description" korean="Необходимые материалы для элемента, чтобы изменить параметры." />
+	<block key="MA_9_0040_name" korean="Связанные крови" />
+	<block key="MA_9_0040_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\nМороз с этим, Дрейк и очистка крови, чтобы избавиться от примесей, смешанных с кровью животных. \u003cUI_G\u003e признаки \u003c/ UI_G\u003e Карась тиранов, известные как материалы, которые могут быть изготовлены." />
+	<block key="MA_9_0041_name" korean="Слезы решение Айша" />
+	<block key="MA_9_0041_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Парк моя земля \u003c/ UI_G\u003e\n\nАйша замораживания заклинание со слезами принятия решений и Рондо занимает около пункта, когда застрял в Саран бит \u003cUI_G\u003e Mist \u003c/ UI_G\u003e и \u003cUI_G\u003e, как известно, приручить Мороз \u003c/ UI_G\u003e." />
+	<block key="MA_1_3003_name" korean="Укрепленные Мифриловые Бары" />
+	<block key="MA_1_4001_name" korean="Турал Солярий Бар" />
+	<block key="MA_1_3004_name" korean="Бронированная Мифриловый Сплав" />
+	<block key="MA_4_3002_name" korean="Улучшенная плотная ткань" />
+	<block key="MA_1_4002_name" korean="Турал галлия сплав" />
+	<block key="MA_4_4001_name" korean="Мягкая ткань," />
+	<block key="MA_2_3002_name" korean="Изысканный аметист" />
+	<block key="MA_2_4001_name" korean="Обработанный Sapphire" />
+	<block key="MA_6_3002_name" korean="Сосредоточьтесь обычные духи" />
+	<block key="MA_6_4001_name" korean="Будьте крепкие спиртные напитки" />
+	<block key="MA_7_1204_name" korean="Промежуточный светит точильный камень" />
+	<block key="MA_7_2204_name" korean="Сияющий промежуточный вес" />
+	<block key="MA_7_3204_name" korean="Сияющий промежуточные электроды" />
+	<block key="MA_7_4204_name" korean="Светящиеся краски промежуточное" />
+	<block key="MA_7_5204_name" korean="Промежуточный блестящие стеклянные бутылки" />
+	<block key="MA_7_6204_name" korean="Сияющий промежуточные контейнеры для хранения" />
+	<block key="MA_7_7204_name" korean="Промежуточный блестящий разделочный нож" />
+	<block key="MA_7_8204_name" korean="Промежуточный таинственный светящийся порошок" />
+	<block key="MA_1_3003_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Производство оружия \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e материал, используемый в производстве оружия \u003c/ UI_Y\u003e" />
+	<block key="MA_1_4001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Производство оружия \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e материал, используемый в производстве оружия \u003c/ UI_Y\u003e" />
+	<block key="MA_1_3004_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в создании металлическую броню \u003c/ UI_Y\u003e" />
+	<block key="MA_4_3002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Robe броневые материалы, используемые в производстве \u003c/ UI_Y\u003e" />
+	<block key="MA_1_4002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в создании металлическую броню \u003c/ UI_Y\u003e" />
+	<block key="MA_4_4001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Robe броневые материалы, используемые в производстве \u003c/ UI_Y\u003e" />
+	<block key="MA_2_3002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e изготовление драгоценностей \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в ювелирном деле \u003c/ UI_Y\u003e" />
+	<block key="MA_2_4001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e изготовление драгоценностей \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в ювелирном деле \u003c/ UI_Y\u003e" />
+	<block key="MA_6_3002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e научный сотрудник производство \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в научных сотрудников \u003c/ UI_Y\u003e" />
+	<block key="MA_6_4001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e научный сотрудник производство \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e Материалы, используемые в научных сотрудников \u003c/ UI_Y\u003e" />
+	<block key="MA_7_1204_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ближний бой \u003c/ UI_G\u003e и \u003cUI_G\u003e двуручный палки \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_2204_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Оружие производство материалов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Ranged \u003c/ UI_G\u003e и \u003cUI_G\u003e двуручный меч \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_3204_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Heavy Armor, Light Armor, вспомогательное оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_4204_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Роб \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_5204_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e алхимия ингредиенты трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Восстановление зелье \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_6204_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Приготовление ингредиентов трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Кулинария \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_7_7204_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e ювелирные изделия материалы для изготовления трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e колье \u003c/ UI_G\u003e и \u003cUI_G\u003e Кольцо \u003c/ UI_G\u003e ингредиенты, необходимые для изготовления #" />
+	<block key="MA_7_8204_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e сотрудник оборудование \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_9_0042_name" korean="Священный часть воздушного пространства" />
+	<block key="MA_9_0042_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Воздушное пространство разрушения \u003c/ UI_G\u003e\n\nСопряженная священного ореола \u003cUI_G\u003e Вакантные другие азиатские Лето \u003c/ UI_G\u003e для персонала вам нужно, когда вы приручить" />
+	<block key="MA_9_0043_name" korean="Сотрудник укрепить индуктор" />
+	<block key="MA_9_0043_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Fellows учебные материалы трейдер \u003c/ UI_G\u003e\n\nПриложения Попутчики разные потребности в зависимости от количества оценок для укрепления необходимые материалы." />
+	<block key="MA_9_0044_name" korean="Очищают кости целое число" />
+	<block key="MA_9_0044_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Воздушное пространство разрушения \u003c/ UI_G\u003e\n\nКости кости дракона, чтобы растворить таблетку, полученные с помощью \u003cUI_G\u003e знак грузов дней \u003c/ UI_G\u003e известен как материал, который может быть получен." />
+	<block key="MA_9_0045_name" korean="Постоянная запечатаны Бессмертный" />
+	<block key="MA_9_0045_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Воздушное пространство разрушения \u003c/ UI_G\u003e\n\nБессмертный Бессмертный Легион солдаты, имеющие высшее целое число, \u003cUI_G\u003e знак beldeon \u003c/ UI_G\u003e известен как способный производить материал." />
+	<block key="MA_9_0046_name" korean="Pieces Пустоты" />
+	<block key="MA_9_0046_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Воздушное пространство разрушения \u003c/ UI_G\u003e\n\nКомандующий оборудование и материалы, необходимые для производства." />
+	<block key="MA_9_0047_Name" korean="Abercrombie \u0026 Fitch Рене ткани" />
+	<block key="MA_9_0047_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Воздушное пространство разрушения \u003c/ UI_G\u003e\n\nВзято из племени ABBA Рене паутиной, \u003cUI_G\u003e знак Abercrombie \u0026 Fitch Рене \u003c/ UI_G\u003e известен как способный производить материал." />
+	<block key="MA_9_0048_name" korean="Не обращайте внимания на легендарный Колосс" />
+	<block key="MA_9_0048_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и Канаш для \u003c/ UI_G\u003e\n\nПропитанный игнорировать колосс ювелирные изделия, \u003cUI_G\u003e Известно, Хами на \u003c/ UI_G\u003e Укрощение Айша как знак ингредиентов для." />
+	<block key="MA_9_0049_name" korean="Гнев легендарного Колосса" />
+	<block key="MA_9_0049_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и Канаш для \u003c/ UI_G\u003e\n\nПропитанный гнев Колосса ювелирных изделий, \u003cUI_G\u003e Меч geukyeom ripto \u003c/ UI_G\u003e, как известно, в качестве ингредиента в знаке для Укрощение." />
+	<block key="MA_9_0050_name" korean="Abyss легендарный Колосс" />
+	<block key="MA_9_0050_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и Канаш для \u003c/ UI_G\u003e\n\nПропитанный бездну Colossus ювелирных изделий, \u003cUI_G\u003e Тьма демо бонус \u003c/ UI_G\u003e Известно, в качестве ингредиента в знаке для Укрощение." />
+	<block key="MA_9_0051_name" korean="Ядро пламени" />
+	<block key="MA_9_0051_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nCrescent верхней части мяча пламени, созданного пути видения, \u003cUI_G\u003e Меч geukyeom ripto \u003c/ UI_G\u003e называется материал, из признаков, которые могут укротить." />
+	<block key="MA_9_0052_name" korean="Следы автомобилей Reang" />
+	<block key="MA_9_0052_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nКристалл Reang автомобиль, созданный с помощью не полумесяца сверху, \u003cUI_G\u003e Демо бонус \u003c/ UI_G\u003e Shadow сослался на материале знаков, которые могут укротить." />
+	<block key="MA_9_0053_name" korean="Сердце астаксантин" />
+	<block key="MA_9_0053_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e и команда Каньяс jikhal \u003c/ UI_G\u003e\n\nОжесточил сердце Джин бесплатно астаксантин в лошадиных силах, \u003cUI_G\u003e Хами призвал \u003c/ UI_G\u003e признаков того, что может укротить материал Айша." />
+	<block key="MA_9_0054_name" korean="Расширенный Укрощение Elixir" />
+	<block key="MA_9_0054_Description" korean="Материалы, необходимые, чтобы сделать знак для более героя приручить членом класса." />
+	<block key="MA_9_0055_name" korean="Сотрудник, старший вице-Статья" />
+	<block key="MA_9_0055_Description" korean="Необходимые, чтобы сделать знак для более героя Современные материалы приручить членом класса." />
+	<block key="MA_9_0056_name" korean="Кристалл напряжение" />
+	<block key="MA_9_0056_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Легендарной сложности подземелья \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Печать легенде Пресвятой \u003c/ UI_G\u003e материалов, необходимых для производства" />
+	<block key="MA_9_0057_name" korean="Аура лидера" />
+	<block key="MA_9_0057_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Легендарной сложности подземелья \u003c/ UI_G\u003e\n\n\u003cUI_Y\u003e блестящий наставник оборудование, необходимое для производства материалов \u003c/ UI_Y\u003e" />
+	<block key="MA_9_0058_name" korean="Коагулянт" />
+	<block key="MA_9_0058_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e алхимия ингредиенты трейдер \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Печать легенде Блажен \u003c/ UI_G\u003e \u003cUI_Y\u003e, необходимые для производства материалов \u003c/ UI_Y\u003e" />
+	<block key="MA_10_3003_name" korean="Кожура тест Меган" />
+	<block key="MA_10_3003_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e возбудителя выросла Лоулесс \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Меган кошмар Test \u003c/ UI_G\u003e, который может укротить \u003cUI_G\u003e Аксессуары \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_10_3004_name" korean="Меган Тесс рог" />
+	<block key="MA_10_3004_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e возбудителя выросла Лоулесс \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Меган кошмар Test \u003c/ UI_G\u003e, который может укротить \u003cUI_G\u003e Аксессуары \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_10_3005_name" korean="По алыми когтями" />
+	<block key="MA_10_3005_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e возбудителя выросла Лоулесс \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e бездну Гаррет \u003c/ UI_G\u003e, который может укротить \u003cUI_G\u003e Аксессуары \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_10_3006_name" korean="По Гаррет кости" />
+	<block key="MA_10_3006_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e возбудителя выросла Лоулесс \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e бездну Гаррет \u003c/ UI_G\u003e, который может укротить \u003cUI_G\u003e Аксессуары \u003c/ UI_G\u003e материалы, необходимые для производства" />
+	<block key="MA_10_3007_name" korean="Рууд пирог фейерверк" />
+	<block key="MA_10_3007_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e возбудителя выросла Лоулесс \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e страха, что может укротить пирог Ruud \u003c/ UI_G\u003e \u003cUI_G\u003e Аксессуары \u003c/ UI_G\u003e материалов, необходимых для производства" />
+	<block key="MA_10_3008_name" korean="Рууд хвост пирог" />
+	<block key="MA_10_3008_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e возбудителя выросла Лоулесс \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e страха, что может укротить пирог Ruud \u003c/ UI_G\u003e \u003cUI_G\u003e Аксессуары \u003c/ UI_G\u003e материалов, необходимых для производства" />
+	<block key="MA_9_0059_name" korean="Кристалл Сумерки" />
+	<block key="MA_9_0059_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e возбудителя выросла Лоулесс \u003c/ UI_G\u003e\n\nКак жемчужина в сумерках сумерках исчезла, \u003cUI_G\u003e называется geurabion \u003c/ UI_G\u003e признаков того, что может укротить материал Сумерки." />
+	<block key="MA_9_0060_name" korean="Слезы тьмы" />
+	<block key="MA_9_0060_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e возбудителя выросла Лоулесс \u003c/ UI_G\u003e\n\nТропа слез, пролитых дьявола, \u003cUI_G\u003e называется geurabion \u003c/ UI_G\u003e признаков того, что может укротить Сумерки вещей." />
+	<block key="MA_10_1005_Name" korean="Кейн руды Roum" />
+	<block key="MA_10_1005_Description" korean="\u003cUI_Y\u003e место сбора \u003c/ UI_Y\u003e\n\u003cUI_G\u003e ahkeron Лоулесс \u003c/ UI_G\u003e" />
+	<block key="MA_10_1006_Name" korean="Торт муки Roum" />
+	<block key="MA_10_1006_Description" korean="\u003cUI_G\u003e PvP безделушки элемент \u003c/ UI_G\u003e материалы, необходимые для производства." />
+	<block key="MA_10_1007_Name" korean="Ke Bar Roum" />
+	<block key="MA_10_1007_Description" korean="\u003cUI_G\u003e пункт оружие PvP \u003c/ UI_G\u003e материалы, необходимые для производства." />
+	<block key="MA_10_1008_Name" korean="Кейн Roum сплав" />
+	<block key="MA_10_1008_Description" korean="\u003cUI_G\u003e PvP предметы Броня \u003c/ UI_G\u003e материалы, необходимые для производства." />
+	<block key="MA_10_1009_Name" korean="Кейн Roum волокна" />
+	<block key="MA_10_1009_Description" korean="\u003cUI_G\u003e PvP предметы Броня \u003c/ UI_G\u003e материалы, необходимые для производства." />
+	<block key="MA_9_0063_Name" korean="Золотые статуи" />
+	<block key="MA_9_0063_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nТем не менее, этот древний кусок красной революции, \u003cUI_G\u003e Шарки известен золотых слитков \u003c/ UI_G\u003e в качестве ингредиента в знак того, что вы можете приручить." />
+	<block key="MA_9_0064_Name" korean="Феромоны летучих мышей" />
+	<block key="MA_9_0064_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nШарки бар взяты из клана феромонов, \u003cUI_G\u003e известен золотые слитки Шарки \u003c/ UI_G\u003e в качестве ингредиента в знак того, что вы можете приручить." />
+	<block key="MA_9_0065_Name" korean="Кровавый плод" />
+	<block key="MA_9_0065_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nКровь пропитала плод имеет мана Массачусетс, \u003cUI_G\u003e, как известно, тире \u003c/ UI_G\u003e осенью в знак материала, который может укротить." />
+	<block key="MA_9_0066_Name" korean="Доказательство пакета Natura" />
+	<block key="MA_9_0066_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nДоказательство того, что вы можете получить от стаи Тура, \u003cUI_G\u003e, как известно, тире \u003c/ UI_G\u003e осенью в знак материала, который может укротить." />
+	<block key="MA_9_0067_Name" korean="Слезы триколор" />
+	<block key="MA_9_0067_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nСлезы дисциплинированными в каждом из головы тире в \u003cUI_G\u003e, как известно, тире \u003c/ UI_G\u003e осенью в знак материала, который может укротить." />
+	<block key="MA_9_0068_Name" korean="Слезы Скотт rasya" />
+	<block key="MA_9_0068_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nСлезы богов древних rasya Скотт, \u003cUI_G\u003e Рут Vega \u003c/ UI_G\u003e яда известен как знак материала, который может укротить." />
+	<block key="MA_9_0069_Name" korean="Перья Piyo" />
+	<block key="MA_9_0069_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nPiyo можете получить от перьев, \u003cUI_G\u003e, как известно, Poyo \u003c/ UI_G\u003e славы в знак материала, который может укротить." />
+	<block key="MA_9_0070_Name" korean="Проведение период" />
+	<block key="MA_9_0070_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\n\u003cUI_G\u003e Славы Poyo \u003c/ UI_G\u003e и \u003cUI_G\u003e мираж Крайнего Севера \u003c/ UI_G\u003e Ваш любимый мясо, и материалом из признаков, которые могут укротить каждый сотрудник." />
+	<block key="MA_9_0071_Name" korean="Красный краситель" />
+	<block key="MA_9_0071_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nНовости пламени одинакового цвета и Тара красителей, \u003cUI_G\u003e материал признаков того, что может укротить Тара Новости \u003c/ UI_G\u003e пламени." />
+	<block key="MA_9_0072_Name" korean="Люцифер молярная корень" />
+	<block key="MA_9_0072_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nMoonlight молярная корень Люцифера, \u003cUI_G\u003e мученики селе Тюра \u003c/ UI_G\u003e известен как знак материала, который может укротить." />
+	<block key="MA_9_0073_Name" korean="Данные о резне" />
+	<block key="MA_9_0073_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nКровь в wonnyeom тех, кто был убит seoryeo ксенон, \u003cUI_G\u003e мученики селе Тюра \u003c/ UI_G\u003e известен как знак материала, который может укротить." />
+	<block key="MA_9_0074_Name" korean="Кость Судьбы" />
+	<block key="MA_9_0074_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nMercury Suga имеет, в частности, костных фрагментов, \u003cUI_G\u003e Это большой Северная \u003c/ UI_G\u003e известен как знак разрушения материала, который может укротить." />
+	<block key="MA_9_0075_Name" korean="Saendeuwom масло" />
+	<block key="MA_9_0075_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nSaendeuwom личинки из нефти, \u003cUI_G\u003e, как известно, умный chyeopi \u003c/ UI_G\u003e в знак материала, который может укротить." />
+	<block key="MA_9_0076_Name" korean="Пустыня панцирь черепахи, и т.д." />
+	<block key="MA_9_0076_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nТакие, как пустыня черепашьих панцирях, \u003cUI_G\u003e Денни половины \u003c/ UI_G\u003e и \u003cUI_G\u003e Дева \u003c/ UI_G\u003e Мудрость известен как знак материала, который может укротить." />
+	<block key="MA_9_0077_Name" korean="Клюв Griffon" />
+	<block key="MA_9_0077_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nКлюв Грифона, враги \u003cUI_G\u003e Золото Ренн Кива \u003c/ UI_G\u003e Материал признаков того, что может укротить." />
+	<block key="MA_9_0078_Name" korean="Рога Раку" />
+	<block key="MA_9_0078_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nРог Раку, в \u003cUI_G\u003e Dos Раку \u003c/ UI_G\u003e известен как знак материала, который может укротить." />
+	<block key="MA_9_0079_Name" korean="Зубы кабана" />
+	<block key="MA_9_0079_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nЗубы кабана, \u003cUI_G\u003e Dos Раку \u003c/ UI_G\u003e известен как знак материала, который может укротить." />
+	<block key="MA_9_0080_Name" korean="Кожа леопарда в пустыне" />
+	<block key="MA_9_0080_Description" korean="\u003cUI_Y\u003e место приобретения \u003cUI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nКожа может быть получена из пустыни леопарда, \u003cUI_G\u003e Известно, в качестве ингредиента в знак того, что вы можете приручить бар jyanin \u003c/ UI_G\u003e." />
+	<block key="MA_1_5001_Name" korean="Adamantium Слиток" />
+	<block key="MA_1_5002_Name" korean="Улучшенная Adamantium Слиток" />
+	<block key="MA_1_5003_Name" korean="Adamantium сплав" />
+	<block key="MA_1_5004_Name" korean="Улучшенная адамантин сплав" />
+	<block key="MA_2_5001_Name" korean="Изготовленная изумруд" />
+	<block key="MA_2_5002_Name" korean="Изысканный изумруд" />
+	<block key="MA_4_5001_Name" korean="Polished ткань" />
+	<block key="MA_4_5002_Name" korean="Улучшенная полированная ткань" />
+	<block key="MA_6_5001_Name" korean="Может светить духов" />
+	<block key="MA_9_0061_Name" korean="Сущность тьмы" />
+	<block key="MA_9_0062_Name" korean="Вода Оазис" />
+	<block key="MA_9_0081_Name" korean="Белые пески мучеников" />
+	<block key="MA_9_0082_Name" korean="Открыть фрагмент каменной соли" />
+	<block key="MA_9_0083_Name" korean="Золото в районах Крайнего Севера" />
+	<block key="MA_9_0081_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nБессмертие чистого белого цвета, которые могут быть приняты в некоторых из песков пустыни, \u003cUI_G\u003e сотрудник оборудование \u003c/ UI_G\u003e связано с мираж известен как материал, который может быть получен." />
+	<block key="MA_9_0082_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nСоль часть бьющий Hot Heat, \u003cUI_G\u003e сотрудник оборудование \u003c/ UI_G\u003e Пустыня и связанные с ними патриоты известен как способный производить материал." />
+	<block key="MA_9_0083_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e бессмертие пустыне \u003c/ UI_G\u003e\n\nПанос очень любит блестящие золотые, \u003cUI_G\u003e знаки мираж Крайнего Севера \u003c/ UI_G\u003e известен как материал, который может быть получен." />
+	<block key="MA_1_5001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Производство оружия \u003c/ UI_G\u003e\n\nМатериалы, используемые в производстве оружия" />
+	<block key="MA_1_5002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Производство оружия \u003c/ UI_G\u003e\n\nМатериалы, используемые в производстве оружия" />
+	<block key="MA_1_5003_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику \u003c/ UI_G\u003e\n\nМатериалы, используемые в создании брони" />
+	<block key="MA_1_5004_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику \u003c/ UI_G\u003e\n\nМатериалы, используемые в создании брони" />
+	<block key="MA_2_5001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e изготовление драгоценностей \u003c/ UI_G\u003e\n\nМатериалы, используемые в ювелирном деле" />
+	<block key="MA_2_5002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e изготовление драгоценностей \u003c/ UI_G\u003e\n\nМатериалы, используемые в ювелирном деле" />
+	<block key="MA_4_5001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику \u003c/ UI_G\u003e\n\nМатериалы, используемые в создании брони" />
+	<block key="MA_4_5002_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику \u003c/ UI_G\u003e\n\nМатериалы, используемые в создании брони" />
+	<block key="MA_6_5001_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e научный сотрудник \u003c/ UI_G\u003e\n\nМатериалы, используемые в научный сотрудник" />
+	<block key="MA_9_0061_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e древние храмы \u003c/ UI_G\u003e\n\u003cUI_G\u003e Бессмертный Легион форт \u003c/ UI_G\u003e\n\nМатериалы, используемые в производстве оружия / производство брони" />
+	<block key="MA_9_0062_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Quest \u003c/ UI_G\u003e\n\nМатериал, используемый в создании приготовленные" />
+	<block key="MA_7_7107_Name" korean="Gem Enhancement Tool" />
+	<block key="MA_7_7107_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Аксессуары Материал Trader \u003c/ UI_G\u003e\n\nМатериалы, используемые в ювелирном деле" />
+	<block key="MA_10_1010_Name" korean="Dead younghonseok" />
+	<block key="MA_10_1010_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e возбудителя выросла монета магазин \u003c/ UI_G\u003e\n\nМалые элементы Slayer, необходимые для производства, \u003cUI_G\u003e Арканзас ограничен, не карбонат, материал, используемый для гривы \u003c/ UI_G\u003e Производство погребенных." />
+	<block key="MA_10_1011_Name" korean="Призрак ограниченного ahtan" />
+	<block key="MA_10_1011_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e Производство оружия \u003c/ UI_G\u003e\n\nМалый Slayer неорганические материалы, необходимые для производства." />
+	<block key="MA_10_2003_Name" korean="Фрагменты призрак" />
+	<block key="MA_10_2003_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e ahkeron Лоулесс \u003c/ UI_G\u003e\n\nНеобходимые материалы для изготовления PvP предметы." />
+	<block key="MA_10_2004_Name" korean="Суть загробника" />
+	<block key="MA_10_2004_Description" korean="\u003cUI_Y\u003e место приобретение \u003c/ UI_Y\u003e\n\u003cUI_G\u003e ahkeron Лоулесс \u003c/ UI_G\u003e\n\nНеобходимые материалы для изготовления PvP предметы." />
+	<block key="MA_10_1012_Name" korean="Призрак ограниченного некарбонатного" />
+	<block key="MA_10_1012_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e броннику \u003c/ UI_G\u003e\n\nМалый броневые материалы Slayer, необходимых для производства." />
+	<block key="MA_10_1013_Name" korean="Призрак ограниченного Berit" />
+	<block key="MA_10_1013_Description" korean="\u003cUI_Y\u003e Способ приобретения \u003c/ UI_Y\u003e\n\u003cUI_G\u003e изготовление драгоценностей \u003c/ UI_G\u003e\n\nМалый ювелирных материалов Slayer, необходимых для производства." />
+</blocks>

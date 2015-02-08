@@ -150,30 +150,6 @@ struct sCHARACTER_STATS
 	float			accuracy;
 };
 
-typedef struct CHARACTER
-{
-	uint32			account_id;
-	uint32			target_id;
-	uint32			id;
-	WCHAR			charname[11];
-	char			tcharname[21];
-	int8			cls;
-	int8			sex;
-	int8			lvl;
-	CHAR_STYLE		style;
-	sCHARACTER_POS	pos;
-	int				action;
-	INVENTORY		inventory[_MAX_ITEMS_IN_INVENTORY];
-	int				items_in_inventory;
-	eACCESS_CHARACTER access;
-	sCHARACTER_STATS stats;
-	int				status;
-	bool			ingame;
-	bool			fly;
-	bool			halt;
-	char			chat_msg[512];
-} CHARACTER;
-
 typedef struct SKILL_LEVEL
 {
 	int			num_level;
@@ -195,5 +171,41 @@ typedef struct SKILLS
 	SKILL_LEVEL* lvl;
 } SKILLS;
 
+typedef struct sSKILLS_PANEL
+{
+	int			active;
+	int16		num_panel;
+	int8		slot;
+	int8		unk1;
+	int32		unk2;
+	int32		skill_id;
+	int32		unk3;
+	int32		unk4;
+}sSKILLS_PANEL;
+
+typedef struct CHARACTER
+{
+	uint32			account_id;
+	uint32			target_id;
+	uint32			id;
+	WCHAR			charname[11];
+	char			tcharname[21];
+	int8			cls;
+	int8			sex;
+	int8			lvl;
+	CHAR_STYLE		style;
+	sCHARACTER_POS	pos;
+	int				action;
+	INVENTORY		inventory[_MAX_ITEMS_IN_INVENTORY];
+	int				items_in_inventory;
+	eACCESS_CHARACTER access;
+	sCHARACTER_STATS stats;
+	sSKILLS_PANEL	skills_panel[_MAX_SKILLS_PANEL_SLOTS];
+	int				status;
+	bool			ingame;
+	bool			fly;
+	bool			halt;
+	char			chat_msg[512];
+} CHARACTER;
 
 #endif

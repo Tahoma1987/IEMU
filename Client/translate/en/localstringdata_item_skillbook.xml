@@ -1,0 +1,601 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="SB_1_0_0001_Name" korean="Smeller (LV1)" />
+	<block key="SB_1_0_0001_Description" korean="Smeller (Lv1) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0002_Name" korean="Smeller (LV2)" />
+	<block key="SB_1_0_0002_Description" korean="Smeller (Lv2) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0003_Name" korean="Smeller (LV3)" />
+	<block key="SB_1_0_0003_Description" korean="Smeller (LV3) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0004_Name" korean="Smeller (LV4)" />
+	<block key="SB_1_0_0004_Description" korean="Smeller (LV4) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0005_Name" korean="Smeller (LV5)" />
+	<block key="SB_1_0_0005_Description" korean="Smeller (Lv5) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0006_Name" korean="Smeller (LV6)" />
+	<block key="SB_1_0_0006_Description" korean="Smeller (LV6) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0007_Name" korean="Smeller (LV7)" />
+	<block key="SB_1_0_0007_Description" korean="Smeller (Lv7) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0008_Name" korean="Smeller (LV8)" />
+	<block key="SB_1_0_0008_Description" korean="Smeller (LV8) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0009_Name" korean="Двухъярусные-аутов (LV1)" />
+	<block key="SB_1_0_0009_Description" korean="Двухъярусные-аутов (LV1) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0010_Name" korean="Двухъярусные-аутов (LV2)" />
+	<block key="SB_1_0_0010_Description" korean="Двухъярусные-аутов (LV2) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0011_Name" korean="Двухъярусные-аутов (LV3)" />
+	<block key="SB_1_0_0011_Description" korean="Двухъярусные-аутов (LV3) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0012_Name" korean="Двухъярусные-аутов (LV4)" />
+	<block key="SB_1_0_0012_Description" korean="Двухъярусные-аутов (LV4) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0013_Name" korean="Двухъярусные-аутов (LV5)" />
+	<block key="SB_1_0_0013_Description" korean="Двухъярусные-аутов (LV5) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0014_Name" korean="Двухъярусные-аутов (LV6)" />
+	<block key="SB_1_0_0014_Description" korean="Двухъярусные-аутов (LV6) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0015_Name" korean="Двухъярусные-аутов (LV7)" />
+	<block key="SB_1_0_0015_Description" korean="Двухъярусные-аутов (LV7) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0016_Name" korean="Двухъярусные-аутов (LV8)" />
+	<block key="SB_1_0_0016_Description" korean="Двухъярусные-аутов (LV8) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0017_Name" korean="Прочность (LV1)" />
+	<block key="SB_1_0_0017_Description" korean="Прочность (LV1) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0018_Name" korean="Прочность (LV2)" />
+	<block key="SB_1_0_0018_Description" korean="Прочность (LV2) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0019_Name" korean="Прочность (LV3)" />
+	<block key="SB_1_0_0019_Description" korean="Прочность (LV3) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0020_Name" korean="Прочность (LV4)" />
+	<block key="SB_1_0_0020_Description" korean="Прочность (LV4) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0021_Name" korean="Прочность (LV5)" />
+	<block key="SB_1_0_0021_Description" korean="Прочность (LV5) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0022_Name" korean="Вниз хода (LV1)" />
+	<block key="SB_1_0_0022_Description" korean="Вниз инсульта (LV1) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0023_Name" korean="Вниз хода (LV2)" />
+	<block key="SB_1_0_0023_Description" korean="Вниз инсульта (LV2) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0024_Name" korean="Вниз хода (LV3)" />
+	<block key="SB_1_0_0024_Description" korean="Вниз инсульта (LV3) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0025_Name" korean="Вниз хода (LV4)" />
+	<block key="SB_1_0_0025_Description" korean="Вниз инсульта (LV4) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0026_Name" korean="Вниз хода (LV5)" />
+	<block key="SB_1_0_0026_Description" korean="Вниз инсульта (LV5) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0027_Name" korean="Вниз хода (LV6)" />
+	<block key="SB_1_0_0027_Description" korean="Вниз инсульта (LV6) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0028_Name" korean="Вниз хода (LV7)" />
+	<block key="SB_1_0_0028_Description" korean="Вниз инсульта (LV7) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0029_Name" korean="Вниз хода (LV8)" />
+	<block key="SB_1_0_0029_Description" korean="Вниз инсульта (LV8) является seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0033_Name" korean="Цельный корпус (LV1)" />
+	<block key="SB_1_0_0033_Description" korean="Seukilbuk, чтобы узнать твердое тело (LV1) навыки." />
+	<block key="SB_1_0_0034_Name" korean="Цельный корпус (LV2)" />
+	<block key="SB_1_0_0034_Description" korean="Seukilbuk, чтобы узнать твердое тело (LV2) навыки." />
+	<block key="SB_1_0_0035_Name" korean="Цельный корпус (LV3)" />
+	<block key="SB_1_0_0035_Description" korean="Seukilbuk, чтобы узнать твердое тело (LV3) навыки." />
+	<block key="SB_1_0_0036_Name" korean="Цельный корпус (LV4)" />
+	<block key="SB_1_0_0036_Description" korean="Seukilbuk, чтобы узнать твердое тело (LV4) навыки." />
+	<block key="SB_1_0_0037_Name" korean="Цельный корпус (LV5)" />
+	<block key="SB_1_0_0037_Description" korean="Seukilbuk, чтобы узнать твердое тело (LV5) навыки." />
+	<block key="SB_1_0_0038_Name" korean="Цельный корпус (LV6)" />
+	<block key="SB_1_0_0038_Description" korean="Seukilbuk, чтобы узнать твердое тело (LV6) навыки." />
+	<block key="SB_1_0_0039_Name" korean="Цельный корпус (LV7)" />
+	<block key="SB_1_0_0039_Description" korean="Seukilbuk, чтобы узнать твердое тело (LV7) навыки." />
+	<block key="SB_1_0_0053_Name" korean="Плечо удар (LV1)" />
+	<block key="SB_1_0_0053_Description" korean="Плечо удар (LV1) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0054_Name" korean="Плечо удар (LV2)" />
+	<block key="SB_1_0_0054_Description" korean="Плечо удар (LV2) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0055_Name" korean="Плечо удар (LV3)" />
+	<block key="SB_1_0_0055_Description" korean="Плечо удар (LV3) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0056_Name" korean="Плечо удар (LV4)" />
+	<block key="SB_1_0_0056_Description" korean="Плечо удар (LV4) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0057_Name" korean="Три выхода (LV1)" />
+	<block key="SB_1_0_0057_Description" korean="3 seukilbuk, узнав, пожинает (LV1) навыки." />
+	<block key="SB_1_0_0058_Name" korean="Три выхода (LV2)" />
+	<block key="SB_1_0_0058_Description" korean="3 seukilbuk, узнав, пожинает (LV2) навыки." />
+	<block key="SB_1_0_0059_Name" korean="Три выхода (LV3)" />
+	<block key="SB_1_0_0059_Description" korean="3 seukilbuk, узнав, пожинает (LV3) навыки." />
+	<block key="SB_1_0_0060_Name" korean="Три выхода (LV4)" />
+	<block key="SB_1_0_0060_Description" korean="3 seukilbuk, узнав, пожинает (LV4) навыки." />
+	<block key="SB_1_0_0061_Name" korean="Три выхода (LV5)" />
+	<block key="SB_1_0_0061_Description" korean="3 seukilbuk, узнав, пожинает (LV5) навыки." />
+	<block key="SB_1_0_0062_Name" korean="Три выхода (LV6)" />
+	<block key="SB_1_0_0062_Description" korean="3 seukilbuk, узнав, пожинает (LV6) навыки." />
+	<block key="SB_1_0_0063_Name" korean="Три выхода (LV7)" />
+	<block key="SB_1_0_0063_Description" korean="3 seukilbuk, узнав, пожинает (LV7) навыки." />
+	<block key="SB_1_0_0064_Name" korean="Вызов судна (LV1)" />
+	<block key="SB_1_0_0064_Description" korean="Seukilbuk узнать по телефону (LV1) Умения контейнера." />
+	<block key="SB_1_0_0065_Name" korean="Вызов судна (LV2)" />
+	<block key="SB_1_0_0065_Description" korean="Seukilbuk узнать по телефону (LV2) Умения контейнера." />
+	<block key="SB_1_0_0066_Name" korean="Вызов судна (LV3)" />
+	<block key="SB_1_0_0066_Description" korean="Seukilbuk узнать по телефону (LV3) Умения контейнера." />
+	<block key="SB_1_0_0067_Name" korean="Вызов судна (LV4)" />
+	<block key="SB_1_0_0067_Description" korean="Seukilbuk узнать по телефону (LV4) Умения контейнера." />
+	<block key="SB_1_0_0068_Name" korean="Вызов судна (LV5)" />
+	<block key="SB_1_0_0068_Description" korean="Seukilbuk узнать по телефону (LV5) Умения контейнера." />
+	<block key="SB_1_0_0073_Name" korean="Качели (LV1)" />
+	<block key="SB_1_0_0073_Description" korean="Качели (LV1) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0074_Name" korean="Качели (LV2)" />
+	<block key="SB_1_0_0074_Description" korean="Качели (LV2) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0075_Name" korean="Качели (LV3)" />
+	<block key="SB_1_0_0075_Description" korean="Качели (LV3) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0076_Name" korean="Качели (LV4)" />
+	<block key="SB_1_0_0076_Description" korean="Качели (LV4) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0077_Name" korean="Качели (LV5)" />
+	<block key="SB_1_0_0077_Description" korean="Качели (LV5) в seukilbuk учиться мастерству." />
+	<block key="SB_1_0_0082_Name" korean="Насмешка (LV1)" />
+	<block key="SB_1_0_0082_Description" korean="Seukilbuk, чтобы узнать провокации (LV1) навыки." />
+	<block key="SB_1_0_0083_Name" korean="Насмешка (LV2)" />
+	<block key="SB_1_0_0083_Description" korean="Seukilbuk, чтобы узнать провокации (LV2) навыки." />
+	<block key="SB_1_0_0084_Name" korean="Насмешка (LV3)" />
+	<block key="SB_1_0_0084_Description" korean="Seukilbuk, чтобы узнать провокации (LV3) навыки." />
+	<block key="SB_1_0_0104_Name" korean="Увеличение прочности (LV1)" />
+	<block key="SB_1_0_0104_Description" korean="Чтобы узнать увеличением мощности (LV1) seukilbuk мастерство." />
+	<block key="SB_1_0_0105_Name" korean="Увеличение прочности (LV2)" />
+	<block key="SB_1_0_0105_Description" korean="Чтобы узнать увеличением мощности (LV2) seukilbuk мастерство." />
+	<block key="SB_1_0_0106_Name" korean="Увеличение прочности (LV3)" />
+	<block key="SB_1_0_0106_Description" korean="Чтобы узнать увеличением мощности (LV3) seukilbuk мастерство." />
+	<block key="SB_1_0_0107_Name" korean="Увеличение прочности (LV4)" />
+	<block key="SB_1_0_0107_Description" korean="Чтобы узнать увеличением мощности (LV4) seukilbuk мастерство." />
+	<block key="SB_1_0_0108_Name" korean="Увеличение прочности (LV5)" />
+	<block key="SB_1_0_0108_Description" korean="Чтобы узнать увеличением мощности (LV5) seukilbuk мастерство." />
+	<block key="SB_1_0_0109_Name" korean="Увеличение прочности (LV6)" />
+	<block key="SB_1_0_0109_Description" korean="Чтобы узнать увеличением мощности (LV6) seukilbuk мастерство." />
+	<block key="SB_1_0_0117_Name" korean="Земля взрыв (LV1)" />
+	<block key="SB_1_0_0117_Description" korean="Seukilbuk, чтобы узнать взрыв Земельные участки (LV1) навыки." />
+	<block key="SB_1_0_0118_Name" korean="Земля взрыв (LV2)" />
+	<block key="SB_1_0_0118_Description" korean="Seukilbuk, чтобы узнать взрыв Земельные участки (LV2) навыки." />
+	<block key="SB_1_0_0119_Name" korean="Земля взрыв (LV3)" />
+	<block key="SB_1_0_0119_Description" korean="Seukilbuk, чтобы узнать взрыв Земельные участки (LV3) навыки." />
+	<block key="SB_1_0_0120_Name" korean="Земля взрыв (LV4)" />
+	<block key="SB_1_0_0120_Description" korean="Seukilbuk, чтобы узнать взрыв Земельные участки (LV4) навыки." />
+	<block key="SB_1_0_0121_Name" korean="Земля взрыв (LV5)" />
+	<block key="SB_1_0_0121_Description" korean="Seukilbuk, чтобы узнать взрыв Земельные участки (LV5) навыки." />
+	<block key="SB_1_0_0122_Name" korean="Земля взрыв (LV6)" />
+	<block key="SB_1_0_0122_Description" korean="Seukilbuk, чтобы узнать взрыв Земельные участки (LV6) навыки." />
+	<block key="SB_2_0_0001_Name" korean="Исцеление (LV1)" />
+	<block key="SB_2_0_0001_Description" korean="Seukilbuk вы можете узнать, чтобы исцелить (LV1) навыки." />
+	<block key="SB_2_0_0002_Name" korean="Исцеление (LV2)" />
+	<block key="SB_2_0_0002_Description" korean="Seukilbuk вы можете узнать, чтобы исцелить (LV2) навыки." />
+	<block key="SB_2_0_0003_Name" korean="Исцеление (LV3)" />
+	<block key="SB_2_0_0003_Description" korean="Seukilbuk вы можете узнать, чтобы исцелить (LV3) навыки." />
+	<block key="SB_2_0_0004_Name" korean="Исцеление (LV4)" />
+	<block key="SB_2_0_0004_Description" korean="Seukilbuk вы можете узнать, чтобы исцелить (LV4) навыки." />
+	<block key="SB_2_0_0005_Name" korean="Исцеление (LV5)" />
+	<block key="SB_2_0_0005_Description" korean="Seukilbuk вы можете узнать, чтобы исцелить (LV5) навыки." />
+	<block key="SB_2_0_0006_Name" korean="Исцеление (LV6)" />
+	<block key="SB_2_0_0006_Description" korean="Seukilbuk вы можете узнать, чтобы исцелить (LV6) навыки." />
+	<block key="SB_2_0_0007_Name" korean="Исцеление (LV7)" />
+	<block key="SB_2_0_0007_Description" korean="Seukilbuk вы можете узнать, чтобы исцелить (LV7) навыки." />
+	<block key="SB_2_0_0008_Name" korean="Исцеление (LV8)" />
+	<block key="SB_2_0_0008_Description" korean="Seukilbuk вы можете узнать, чтобы исцелить (LV8) навыки." />
+	<block key="SB_2_0_0009_Name" korean="Starlight (LV1)" />
+	<block key="SB_2_0_0009_Description" korean="Starlight (LV1) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0010_Name" korean="Starlight (LV2)" />
+	<block key="SB_2_0_0010_Description" korean="Starlight (LV2) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0011_Name" korean="Starlight (LV3)" />
+	<block key="SB_2_0_0011_Description" korean="Starlight (LV3) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0012_Name" korean="Starlight (LV4)" />
+	<block key="SB_2_0_0012_Description" korean="Starlight (LV4) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0013_Name" korean="Starlight (LV5)" />
+	<block key="SB_2_0_0013_Description" korean="Starlight (LV5) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0014_Name" korean="Starlight (LV6)" />
+	<block key="SB_2_0_0014_Description" korean="Starlight (LV6) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0015_Name" korean="Starlight (LV7)" />
+	<block key="SB_2_0_0015_Description" korean="Starlight (LV7) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0016_Name" korean="Starlight (LV8)" />
+	<block key="SB_2_0_0016_Description" korean="Starlight (LV8) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0017_Name" korean="Суд волна (LV1)" />
+	<block key="SB_2_0_0017_Description" korean="Seukilbuk, чтобы узнать волну (LV1) навыки решения." />
+	<block key="SB_2_0_0018_Name" korean="Суд волна (LV2)" />
+	<block key="SB_2_0_0018_Description" korean="Seukilbuk, чтобы узнать волну (LV2) навыки решения." />
+	<block key="SB_2_0_0019_Name" korean="Суд волна (LV3)" />
+	<block key="SB_2_0_0019_Description" korean="Seukilbuk, чтобы узнать волну (LV3) навыки решения." />
+	<block key="SB_2_0_0020_Name" korean="Суд волна (LV4)" />
+	<block key="SB_2_0_0020_Description" korean="Seukilbuk, чтобы узнать волну (LV4) навыки решения." />
+	<block key="SB_2_0_0021_Name" korean="Суд волна (LV5)" />
+	<block key="SB_2_0_0021_Description" korean="Seukilbuk, чтобы узнать волну (LV5) навыки решения." />
+	<block key="SB_2_0_0022_Name" korean="Благородный дух (LV1)" />
+	<block key="SB_2_0_0022_Description" korean="Seukilbuk, чтобы узнать благородный дух (LV1) навыки." />
+	<block key="SB_2_0_0023_Name" korean="Благородный дух (LV2)" />
+	<block key="SB_2_0_0023_Description" korean="Seukilbuk, чтобы узнать благородный дух (LV2) навыки." />
+	<block key="SB_2_0_0024_Name" korean="Благородный дух (LV3)" />
+	<block key="SB_2_0_0024_Description" korean="Seukilbuk, чтобы узнать благородный дух (LV3) навыки." />
+	<block key="SB_2_0_0025_Name" korean="Благородный дух (LV4)" />
+	<block key="SB_2_0_0025_Description" korean="Seukilbuk, чтобы узнать благородный дух (LV4) навыки." />
+	<block key="SB_2_0_0026_Name" korean="Благородный дух (LV5)" />
+	<block key="SB_2_0_0026_Description" korean="Seukilbuk, чтобы узнать благородный дух (LV5) навыки." />
+	<block key="SB_2_0_0027_Name" korean="Благородный дух (LV6)" />
+	<block key="SB_2_0_0027_Description" korean="Seukilbuk, чтобы узнать благородный дух (LV6) навыки." />
+	<block key="SB_2_0_0028_Name" korean="Благородный дух (LV7)" />
+	<block key="SB_2_0_0028_Description" korean="Seukilbuk, чтобы узнать благородный дух (LV7) навыки." />
+	<block key="SB_2_0_0029_Name" korean="Благородный дух (LV8)" />
+	<block key="SB_2_0_0029_Description" korean="Seukilbuk, чтобы узнать благородный дух (LV8) навыки." />
+	<block key="SB_2_0_0030_Name" korean="Восстановление (LV1)" />
+	<block key="SB_2_0_0030_Description" korean="Seukilbuk, чтобы узнать восстановления (LV1) навыки." />
+	<block key="SB_2_0_0031_Name" korean="Восстановление (LV2)" />
+	<block key="SB_2_0_0031_Description" korean="Seukilbuk, чтобы узнать восстановления (LV2) навыки." />
+	<block key="SB_2_0_0032_Name" korean="Восстановление (LV3)" />
+	<block key="SB_2_0_0032_Description" korean="Seukilbuk, чтобы узнать восстановления (LV3) навыки." />
+	<block key="SB_2_0_0033_Name" korean="Восстановление (LV4)" />
+	<block key="SB_2_0_0033_Description" korean="Seukilbuk, чтобы узнать восстановления (LV4) навыки." />
+	<block key="SB_2_0_0034_Name" korean="Восстановление (LV5)" />
+	<block key="SB_2_0_0034_Description" korean="Seukilbuk, чтобы узнать восстановления (LV5) навыки." />
+	<block key="SB_2_0_0035_Name" korean="Восстановление (LV6)" />
+	<block key="SB_2_0_0035_Description" korean="Seukilbuk, чтобы узнать восстановления (LV6) навыки." />
+	<block key="SB_2_0_0036_Name" korean="Восстановление (LV7)" />
+	<block key="SB_2_0_0036_Description" korean="Seukilbuk, чтобы узнать восстановления (LV7) навыки." />
+	<block key="SB_2_0_0037_Name" korean="Восстановление (LV8)" />
+	<block key="SB_2_0_0037_Description" korean="Seukilbuk, чтобы узнать восстановления (LV8) навыки." />
+	<block key="SB_2_0_0038_Name" korean="Погружение (LV1)" />
+	<block key="SB_2_0_0038_Description" korean="Погружение (LV1) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0039_Name" korean="Погружение (LV2)" />
+	<block key="SB_2_0_0039_Description" korean="Погружение (LV2) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0040_Name" korean="Погружение (LV3)" />
+	<block key="SB_2_0_0040_Description" korean="Погружение (LV3) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0041_Name" korean="Погружение (LV4)" />
+	<block key="SB_2_0_0041_Description" korean="Погружение (LV4) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0042_Name" korean="Погружение (LV5)" />
+	<block key="SB_2_0_0042_Description" korean="Погружение (LV5) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0043_Name" korean="Погружение (LV6)" />
+	<block key="SB_2_0_0043_Description" korean="Погружение (LV6) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0044_Name" korean="Погружение (LV7)" />
+	<block key="SB_2_0_0044_Description" korean="Погружение (LV7) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0045_Name" korean="Погружение (LV8)" />
+	<block key="SB_2_0_0045_Description" korean="Погружение (LV8) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0046_Name" korean="Владение злых духов (LV1)" />
+	<block key="SB_2_0_0046_Description" korean="Seukilbuk, чтобы узнать Bing (LV1) навыки злых духов." />
+	<block key="SB_2_0_0047_Name" korean="Владение злых духов (LV2)" />
+	<block key="SB_2_0_0047_Description" korean="Seukilbuk, чтобы узнать Bing (LV2) навыки злых духов." />
+	<block key="SB_2_0_0048_Name" korean="Владение злых духов (LV3)" />
+	<block key="SB_2_0_0048_Description" korean="Seukilbuk, чтобы узнать Bing (LV3) навыки злых духов." />
+	<block key="SB_2_0_0049_Name" korean="Владение злых духов (LV4)" />
+	<block key="SB_2_0_0049_Description" korean="Seukilbuk, чтобы узнать Bing (LV4) навыки злых духов." />
+	<block key="SB_2_0_0050_Name" korean="Владение злых духов (LV5)" />
+	<block key="SB_2_0_0050_Description" korean="Seukilbuk, чтобы узнать Bing (LV5) навыки злых духов." />
+	<block key="SB_2_0_0051_Name" korean="Владение злых духов (LV6)" />
+	<block key="SB_2_0_0051_Description" korean="Seukilbuk, чтобы узнать Bing (LV6) навыки злых духов." />
+	<block key="SB_2_0_0052_Name" korean="Владение злых духов (LV7)" />
+	<block key="SB_2_0_0052_Description" korean="Seukilbuk, чтобы узнать Bing (LV7) навыки злых духов." />
+	<block key="SB_2_0_0053_Name" korean="Владение злых духов (LV8)" />
+	<block key="SB_2_0_0053_Description" korean="Seukilbuk, чтобы узнать Bing (LV8) навыки злых духов." />
+	<block key="SB_2_0_0054_Name" korean="Боже, благослови (LV1)" />
+	<block key="SB_2_0_0054_Description" korean="Seukilbuk, чтобы узнать благословение (LV1) навыки Бога." />
+	<block key="SB_2_0_0055_Name" korean="Боже, благослови (LV2)" />
+	<block key="SB_2_0_0055_Description" korean="Seukilbuk, чтобы узнать благословение (LV2) навыки Бога." />
+	<block key="SB_2_0_0056_Name" korean="Боже, благослови (LV3)" />
+	<block key="SB_2_0_0056_Description" korean="Seukilbuk, чтобы узнать благословение (LV3) навыки Бога." />
+	<block key="SB_2_0_0057_Name" korean="Боже, благослови (LV4)" />
+	<block key="SB_2_0_0057_Description" korean="Seukilbuk, чтобы узнать благословение (LV4) навыки Бога." />
+	<block key="SB_2_0_0058_Name" korean="Звезды стадо (LV1)" />
+	<block key="SB_2_0_0058_Description" korean="Звездные скопления (LV1) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0059_Name" korean="Звезды стадо (LV2)" />
+	<block key="SB_2_0_0059_Description" korean="Звездные скопления (LV2) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0060_Name" korean="Звезды стадо (LV3)" />
+	<block key="SB_2_0_0060_Description" korean="Звездные скопления (LV3) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0061_Name" korean="Звезды стадо (LV4)" />
+	<block key="SB_2_0_0061_Description" korean="Звездные скопления (LV4) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0062_Name" korean="Звезды стадо (LV5)" />
+	<block key="SB_2_0_0062_Description" korean="Звездные скопления (LV5) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0063_Name" korean="Звезды стадо (LV6)" />
+	<block key="SB_2_0_0063_Description" korean="Звездные скопления (LV6) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0064_Name" korean="Звезды стадо (LV7)" />
+	<block key="SB_2_0_0064_Description" korean="Звездные скопления (LV7) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0065_Name" korean="Боже, благослови (LV1)" />
+	<block key="SB_2_0_0065_Description" korean="Seukilbuk, чтобы узнать Боже, благослови (LV1) навыки." />
+	<block key="SB_2_0_0066_Name" korean="Боже, благослови (LV2)" />
+	<block key="SB_2_0_0066_Description" korean="Seukilbuk, чтобы узнать Боже, благослови (LV2) навыки." />
+	<block key="SB_2_0_0067_Name" korean="Боже, благослови (LV3)" />
+	<block key="SB_2_0_0067_Description" korean="Seukilbuk, чтобы узнать Боже, благослови (LV3) навыки." />
+	<block key="SB_2_0_0068_Name" korean="Боже, благослови (LV4)" />
+	<block key="SB_2_0_0068_Description" korean="Seukilbuk, чтобы узнать Боже, благослови (LV4) навыки." />
+	<block key="SB_2_0_0069_Name" korean="Жизнь щит (LV1)" />
+	<block key="SB_2_0_0069_Description" korean="Seukilbuk, чтобы узнать Шилдс (LV1) жизненные навыки." />
+	<block key="SB_2_0_0070_Name" korean="Жизнь защитной пленки (LV2)" />
+	<block key="SB_2_0_0070_Description" korean="Seukilbuk, чтобы узнать Шилдс (LV2) жизненные навыки." />
+	<block key="SB_2_0_0071_Name" korean="Жизнь щит (LV3)" />
+	<block key="SB_2_0_0071_Description" korean="Seukilbuk, чтобы узнать Шилдс (LV3) жизненные навыки." />
+	<block key="SB_2_0_0072_Name" korean="Жизнь щит (LV4)" />
+	<block key="SB_2_0_0072_Description" korean="Seukilbuk, чтобы узнать Шилдс (LV4) жизненные навыки." />
+	<block key="SB_2_0_0073_Name" korean="Жизнь щит (LV5)" />
+	<block key="SB_2_0_0073_Description" korean="Seukilbuk, чтобы узнать Шилдс (LV5) жизненные навыки." />
+	<block key="SB_2_0_0074_Name" korean="Жизнь щит (LV6)" />
+	<block key="SB_2_0_0074_Description" korean="Seukilbuk, чтобы узнать Шилдс (LV6) жизненные навыки." />
+	<block key="SB_2_0_0075_Name" korean="Жизнь щит (LV7)" />
+	<block key="SB_2_0_0075_Description" korean="Seukilbuk, чтобы узнать Шилдс (LV7) жизненные навыки." />
+	<block key="SB_2_0_0076_Name" korean="Благословение (LV1)" />
+	<block key="SB_2_0_0076_Description" korean="Seukilbuk, чтобы узнать молитву (LV1) навыки благословения." />
+	<block key="SB_2_0_0077_Name" korean="Благословение (LV2)" />
+	<block key="SB_2_0_0077_Description" korean="Seukilbuk, чтобы узнать молитву (LV2) навыки благословения." />
+	<block key="SB_2_0_0078_Name" korean="Благословение (LV3)" />
+	<block key="SB_2_0_0078_Description" korean="Seukilbuk, чтобы узнать молитву (LV3) навыки благословения." />
+	<block key="SB_2_0_0079_Name" korean="Благословение (LV4)" />
+	<block key="SB_2_0_0079_Description" korean="Seukilbuk, чтобы узнать молитву (LV4) навыки благословения." />
+	<block key="SB_2_0_0080_Name" korean="Благословение (LV5)" />
+	<block key="SB_2_0_0080_Description" korean="Seukilbuk, чтобы узнать молитву (LV5) навыки благословения." />
+	<block key="SB_2_0_0081_Name" korean="Воскресение жизни (LV1)" />
+	<block key="SB_2_0_0081_Description" korean="Seukilbuk, чтобы узнать воскресение (LV1) жизненные навыки." />
+	<block key="SB_2_0_0082_Name" korean="Воскресение жизни (LV2)" />
+	<block key="SB_2_0_0082_Description" korean="Seukilbuk, чтобы узнать воскресение (LV2) жизненные навыки." />
+	<block key="SB_2_0_0083_Name" korean="Воскресение жизни (LV3)" />
+	<block key="SB_2_0_0083_Description" korean="Seukilbuk, чтобы узнать воскресение (LV3) жизненные навыки." />
+	<block key="SB_2_0_0084_Name" korean="Воскресение жизни (LV4)" />
+	<block key="SB_2_0_0084_Description" korean="Seukilbuk, чтобы узнать воскресение (LV4) жизненные навыки." />
+	<block key="SB_2_0_0085_Name" korean="Воскресение жизни (LV5)" />
+	<block key="SB_2_0_0085_Description" korean="Seukilbuk, чтобы узнать воскресение (LV5) жизненные навыки." />
+	<block key="SB_2_0_0086_Name" korean="Сильный дух (LV1)" />
+	<block key="SB_2_0_0086_Description" korean="Seukilbuk, чтобы узнать жесткие дух (LV1) навыки." />
+	<block key="SB_2_0_0087_Name" korean="Сильный дух (LV2)" />
+	<block key="SB_2_0_0087_Description" korean="Seukilbuk, чтобы узнать жесткие дух (LV2) навыки." />
+	<block key="SB_2_0_0088_Name" korean="Сильный дух (LV3)" />
+	<block key="SB_2_0_0088_Description" korean="Seukilbuk, чтобы узнать жесткие дух (LV3) навыки." />
+	<block key="SB_2_0_0089_Name" korean="Сильный дух (LV4)" />
+	<block key="SB_2_0_0089_Description" korean="Seukilbuk, чтобы узнать жесткие дух (LV4) навыки." />
+	<block key="SB_2_0_0090_Name" korean="Телекинез (LV1)" />
+	<block key="SB_2_0_0090_Description" korean="Телекинез (LV1) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0091_Name" korean="Телекинез (LV2)" />
+	<block key="SB_2_0_0091_Description" korean="Телекинез (LV2) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0092_Name" korean="Телекинез (LV3)" />
+	<block key="SB_2_0_0092_Description" korean="Телекинез (LV3) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0093_Name" korean="Телекинез (LV4)" />
+	<block key="SB_2_0_0093_Description" korean="Телекинез (LV4) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0094_Name" korean="Телекинез (LV5)" />
+	<block key="SB_2_0_0094_Description" korean="Телекинез (LV5) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0095_Name" korean="Телекинез (LV6)" />
+	<block key="SB_2_0_0095_Description" korean="Телекинез (LV6) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0096_Name" korean="Телекинез (LV7)" />
+	<block key="SB_2_0_0096_Description" korean="Телекинез (LV7) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0097_Name" korean="Раны звезды (LV1)" />
+	<block key="SB_2_0_0097_Description" korean="Раны звезды (LV1) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0098_Name" korean="Раны звезды (LV2)" />
+	<block key="SB_2_0_0098_Description" korean="Раны звезды (LV2) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0099_Name" korean="Раны звезды (LV3)" />
+	<block key="SB_2_0_0099_Description" korean="Раны звезды (LV3) в seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0100_Name" korean="Черная дыра (LV1)" />
+	<block key="SB_2_0_0100_Description" korean="Черная дыра (LV1) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0101_Name" korean="Черная дыра (LV2)" />
+	<block key="SB_2_0_0101_Description" korean="Черная дыра (LV2) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0102_Name" korean="Черная дыра (LV3)" />
+	<block key="SB_2_0_0102_Description" korean="Черная дыра (LV3) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0103_Name" korean="Черная дыра (LV4)" />
+	<block key="SB_2_0_0103_Description" korean="Черная дыра (LV4) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0104_Name" korean="Поглощение энергии (LV1)" />
+	<block key="SB_2_0_0104_Description" korean="Seukilbuk, чтобы узнать поглощение энергии (LV1) навыки." />
+	<block key="SB_2_0_0105_Name" korean="Поглощение энергии (LV2)" />
+	<block key="SB_2_0_0105_Description" korean="Seukilbuk, чтобы узнать поглощение энергии (LV2) навыки." />
+	<block key="SB_2_0_0106_Name" korean="Поглощение энергии (LV3)" />
+	<block key="SB_2_0_0106_Description" korean="Seukilbuk, чтобы узнать поглощение энергии (LV3) навыки." />
+	<block key="SB_2_0_0107_Name" korean="Поглощение энергии (LV4)" />
+	<block key="SB_2_0_0107_Description" korean="Seukilbuk, чтобы узнать поглощение энергии (LV4) навыки." />
+	<block key="SB_2_0_0108_Name" korean="Поглощение энергии (LV5)" />
+	<block key="SB_2_0_0108_Description" korean="Seukilbuk, чтобы узнать поглощение энергии (LV5) навыки." />
+	<block key="SB_2_0_0109_Name" korean="Поглощение энергии (LV6)" />
+	<block key="SB_2_0_0109_Description" korean="Seukilbuk, чтобы узнать поглощение энергии (LV6) навыки." />
+	<block key="SB_2_0_0110_Name" korean="Психическое увеличение (LV1)" />
+	<block key="SB_2_0_0110_Description" korean="Психическое увеличение (LV1) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0111_Name" korean="Психическое увеличение (LV2)" />
+	<block key="SB_2_0_0111_Description" korean="Психическое увеличение (LV2) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0112_Name" korean="Психическое увеличение (LV3)" />
+	<block key="SB_2_0_0112_Description" korean="Психическое увеличение (LV3) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0113_Name" korean="Психическое увеличение (LV4)" />
+	<block key="SB_2_0_0113_Description" korean="Психическое увеличение (LV4) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0114_Name" korean="Психическое увеличение (LV5)" />
+	<block key="SB_2_0_0114_Description" korean="Психическое увеличение (LV5) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0115_Name" korean="Психическое увеличение (LV6)" />
+	<block key="SB_2_0_0115_Description" korean="Психическое увеличение (LV6) является seukilbuk учиться мастерству." />
+	<block key="SB_2_0_0116_Name" korean="Runaway духи (LV1)" />
+	<block key="SB_2_0_0116_Description" korean="Seukilbuk, чтобы узнать заторы (LV1) навыки злых духов." />
+	<block key="SB_2_0_0117_Name" korean="Runaway духи (LV2)" />
+	<block key="SB_2_0_0117_Description" korean="Seukilbuk, чтобы узнать заторы (LV2) навыки злых духов." />
+	<block key="SB_2_0_0118_Name" korean="Runaway духи (LV3)" />
+	<block key="SB_2_0_0118_Description" korean="Seukilbuk, чтобы узнать заторы (LV3) навыки злых духов." />
+	<block key="SB_2_0_0119_Name" korean="Runaway духи (LV4)" />
+	<block key="SB_2_0_0119_Description" korean="Seukilbuk, чтобы узнать заторы (LV4) навыки злых духов." />
+	<block key="SB_2_0_0120_Name" korean="Runaway духи (LV5)" />
+	<block key="SB_2_0_0120_Description" korean="Seukilbuk, чтобы узнать заторы (LV5) навыки злых духов." />
+	<block key="SB_2_0_0121_Name" korean="Runaway духи (LV6)" />
+	<block key="SB_2_0_0121_Description" korean="Seukilbuk, чтобы узнать заторы (LV6) навыки злых духов." />
+	<block key="SB_2_0_0125_Name" korean="Преломления щит (LV1)" />
+	<block key="SB_2_0_0125_Description" korean="Seukilbuk, чтобы узнать преломления Шилдс (LV1) навыки." />
+	<block key="SB_2_0_0126_Name" korean="Преломления защитная пленка (LV2)" />
+	<block key="SB_2_0_0126_Description" korean="Seukilbuk, чтобы узнать преломления Шилдс (LV2) навыки." />
+	<block key="SB_2_0_0127_Name" korean="Преломления щит (LV3)" />
+	<block key="SB_2_0_0127_Description" korean="Seukilbuk, чтобы узнать преломления Шилдс (LV3) навыки." />
+	<block key="SB_2_0_0128_Name" korean="Преломления щит (LV4)" />
+	<block key="SB_2_0_0128_Description" korean="Seukilbuk, чтобы узнать преломления Шилдс (LV4) навыки." />
+	<block key="SB_2_0_0129_Name" korean="Длина волны решения (LV1)" />
+	<block key="SB_2_0_0129_Description" korean="Seukilbuk, чтобы узнать длина волны (LV1) навыки решения." />
+	<block key="SB_2_0_0130_Name" korean="Длина волны решения (LV2)" />
+	<block key="SB_2_0_0130_Description" korean="Seukilbuk, чтобы узнать длина волны (LV2) навыки решения." />
+	<block key="SB_2_0_0131_Name" korean="Длина волны решения (LV3)" />
+	<block key="SB_2_0_0131_Description" korean="Seukilbuk, чтобы узнать длина волны (LV3) навыки решения." />
+	<block key="SB_2_0_0132_Name" korean="Божественная ВС (LV1)" />
+	<block key="SB_2_0_0132_Description" korean="Seukilbuk, чтобы узнать священные ВС (LV1) навыки." />
+	<block key="SB_2_0_0133_Name" korean="Божественная ВС (LV2)" />
+	<block key="SB_2_0_0133_Description" korean="Seukilbuk, чтобы узнать священные ВС (LV2) навыки." />
+	<block key="SB_2_0_0134_Name" korean="Божественная ВС (LV3)" />
+	<block key="SB_2_0_0134_Description" korean="Seukilbuk, чтобы узнать священные ВС (LV3) навыки." />
+	<block key="SB_2_0_0135_Name" korean="Божественная ВС (LV4)" />
+	<block key="SB_2_0_0135_Description" korean="Seukilbuk, чтобы узнать священные ВС (LV4) навыки." />
+	<block key="SB_2_0_0136_Name" korean="Божественная ВС (LV5)" />
+	<block key="SB_2_0_0136_Description" korean="Seukilbuk, чтобы узнать священные ВС (LV5) навыки." />
+	<block key="SB_2_0_0138_Name" korean="Оставьте взрывных (LV1)" />
+	<block key="SB_2_0_0138_Description" korean="Падение seukilbuk, чтобы узнать обработкой (LV1) навыки." />
+	<block key="SB_2_0_0139_Name" korean="Оставьте взрывных (LV2)" />
+	<block key="SB_2_0_0139_Description" korean="Падение seukilbuk, чтобы узнать обработкой (LV2) навыки." />
+	<block key="SB_2_0_0140_Name" korean="Оставьте взрывных (LV3)" />
+	<block key="SB_2_0_0140_Description" korean="Падение seukilbuk, чтобы узнать обработкой (LV3) навыки." />
+	<block key="SB_2_0_0141_Name" korean="Оставьте взрывных (LV4)" />
+	<block key="SB_2_0_0141_Description" korean="Падение seukilbuk, чтобы узнать обработкой (LV4) навыки." />
+	<block key="SB_2_0_0142_Name" korean="Оставьте взрывных (LV5)" />
+	<block key="SB_2_0_0142_Description" korean="Падение seukilbuk, чтобы узнать обработкой (LV5) навыки." />
+	<block key="SB_2_0_0143_Name" korean="Страх (LV1)" />
+	<block key="SB_2_0_0143_Description" korean="Seukilbuk, чтобы узнать страх (LV1) навыки." />
+	<block key="SB_2_0_0144_Name" korean="Страх (LV2)" />
+	<block key="SB_2_0_0144_Description" korean="Seukilbuk, чтобы узнать страх (LV2) навыки." />
+	<block key="SB_2_0_0145_Name" korean="Страх (LV3)" />
+	<block key="SB_2_0_0145_Description" korean="Seukilbuk, чтобы узнать страх (LV3) навыки." />
+	<block key="SB_2_0_0146_Name" korean="Страх (LV4)" />
+	<block key="SB_2_0_0146_Description" korean="Seukilbuk, чтобы узнать страх (LV4) навыки." />
+	<block key="SB_4_0_0000_Name" korean="Двухэтапная жало (LV1)" />
+	<block key="SB_4_0_0000_Description" korean="Двухэтапная жало (LV1) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0001_Name" korean="Двухэтапная жало (LV2)" />
+	<block key="SB_4_0_0001_Description" korean="Двухэтапная жало (LV2) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0002_Name" korean="Двухэтапная жало (LV3)" />
+	<block key="SB_4_0_0002_Description" korean="Двухэтапная жало (LV3) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0003_Name" korean="Двухэтапная жало (LV4)" />
+	<block key="SB_4_0_0003_Description" korean="Двухэтапная жало (LV4) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0004_Name" korean="Двухэтапная жало (LV5)" />
+	<block key="SB_4_0_0004_Description" korean="Двухэтапная жало (LV5) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0005_Name" korean="Двухэтапная жало (LV6)" />
+	<block key="SB_4_0_0005_Description" korean="Двухэтапная жало (LV6) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0006_Name" korean="Двухэтапная жало (LV7)" />
+	<block key="SB_4_0_0006_Description" korean="Двухэтапная жало (LV7) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0007_Name" korean="Двухэтапная жало (LV8)" />
+	<block key="SB_4_0_0007_Description" korean="Двухэтапная жало (LV8) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0008_Name" korean="Двухэтапная жало (LV9)" />
+	<block key="SB_4_0_0008_Description" korean="Двухэтапная жало (LV9) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0009_Name" korean="За атак (LV1)" />
+	<block key="SB_4_0_0009_Description" korean="Seukilbuk, чтобы узнать за атаки (LV1) навыков." />
+	<block key="SB_4_0_0010_Name" korean="За атак (LV2)" />
+	<block key="SB_4_0_0010_Description" korean="Seukilbuk, чтобы узнать за атаки (LV2) навыков." />
+	<block key="SB_4_0_0011_Name" korean="За атак (LV3)" />
+	<block key="SB_4_0_0011_Description" korean="Seukilbuk, чтобы узнать за атаки (LV3) навыков." />
+	<block key="SB_4_0_0012_Name" korean="За атак (LV4)" />
+	<block key="SB_4_0_0012_Description" korean="Seukilbuk, чтобы узнать за атаки (LV4) навыков." />
+	<block key="SB_4_0_0013_Name" korean="За атак (LV5)" />
+	<block key="SB_4_0_0013_Description" korean="Seukilbuk, чтобы узнать за атаки (LV5) навыков." />
+	<block key="SB_4_0_0014_Name" korean="За атак (LV6)" />
+	<block key="SB_4_0_0014_Description" korean="Seukilbuk, чтобы узнать за атаки (LV6) навыков." />
+	<block key="SB_4_0_0015_Name" korean="За атак (LV7)" />
+	<block key="SB_4_0_0015_Description" korean="Seukilbuk, чтобы узнать за атаки (LV7) навыков." />
+	<block key="SB_4_0_0016_Name" korean="За атак (LV8)" />
+	<block key="SB_4_0_0016_Description" korean="Seukilbuk, чтобы узнать за атаки (LV8) навыков." />
+	<block key="SB_4_0_0030_Name" korean="Остаточное изображение (LV1)" />
+	<block key="SB_4_0_0030_Description" korean="Остаточное изображение (LV1) в seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0031_Name" korean="Остаточное изображение (LV2)" />
+	<block key="SB_4_0_0031_Description" korean="Остаточное изображение (LV2) в seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0032_Name" korean="Остаточное изображение (LV3)" />
+	<block key="SB_4_0_0032_Description" korean="Остаточное изображение (LV3) в seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0033_Name" korean="Остаточное изображение (LV4)" />
+	<block key="SB_4_0_0033_Description" korean="Остаточное изображение (LV4) в seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0034_Name" korean="Остаточное изображение (LV5)" />
+	<block key="SB_4_0_0034_Description" korean="Остаточное изображение (LV5) в seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0035_Name" korean="Deep выпад (LV1)" />
+	<block key="SB_4_0_0035_Description" korean="Seukilbuk глубоко, чтобы узнать жало (LV1) навыки." />
+	<block key="SB_4_0_0036_Name" korean="Deep выпад (LV2)" />
+	<block key="SB_4_0_0036_Description" korean="Seukilbuk глубоко, чтобы узнать жало (LV2) навыки." />
+	<block key="SB_4_0_0037_Name" korean="Deep выпад (LV3)" />
+	<block key="SB_4_0_0037_Description" korean="Seukilbuk глубоко, чтобы узнать жало (LV3) навыки." />
+	<block key="SB_4_0_0038_Name" korean="Deep выпад (LV4)" />
+	<block key="SB_4_0_0038_Description" korean="Seukilbuk глубоко, чтобы узнать жало (LV4) навыки." />
+	<block key="SB_4_0_0039_Name" korean="Deep выпад (LV5)" />
+	<block key="SB_4_0_0039_Description" korean="Seukilbuk глубоко, чтобы узнать жало (LV5) навыки." />
+	<block key="SB_4_0_0040_Name" korean="Deep выпад (LV6)" />
+	<block key="SB_4_0_0040_Description" korean="Seukilbuk глубоко, чтобы узнать жало (LV6) навыки." />
+	<block key="SB_4_0_0041_Name" korean="Deep выпад (LV7)" />
+	<block key="SB_4_0_0041_Description" korean="Seukilbuk глубоко, чтобы узнать жало (LV7) навыки." />
+	<block key="SB_4_0_0042_Name" korean="Deep выпад (LV8)" />
+	<block key="SB_4_0_0042_Description" korean="Seukilbuk глубоко, чтобы узнать жало (LV8) навыки." />
+	<block key="SB_4_0_0059_Name" korean="Sprint (LV1)" />
+	<block key="SB_4_0_0059_Description" korean="Sprint (LV1) в seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0060_Name" korean="Sprint (LV2)" />
+	<block key="SB_4_0_0060_Description" korean="Sprint (LV2) в seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0061_Name" korean="Sprint (LV3)" />
+	<block key="SB_4_0_0061_Description" korean="Sprint (LV3) в seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0062_Name" korean="Sprint (LV4)" />
+	<block key="SB_4_0_0062_Description" korean="Sprint (LV4) в seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0076_Name" korean="Тень вымирание (LV1)" />
+	<block key="SB_4_0_0076_Description" korean="Seukilbuk, чтобы узнать тень исчезла (LV1) навыки." />
+	<block key="SB_4_0_0077_Name" korean="Тень вымирание (LV2)" />
+	<block key="SB_4_0_0077_Description" korean="Seukilbuk, чтобы узнать тень исчезла (LV2) навыки." />
+	<block key="SB_4_0_0078_Name" korean="Тень вымирание (LV3)" />
+	<block key="SB_4_0_0078_Description" korean="Seukilbuk, чтобы узнать тень исчезла (LV3) навыки." />
+	<block key="SB_4_0_0079_Name" korean="Тень вымирание (LV4)" />
+	<block key="SB_4_0_0079_Description" korean="Seukilbuk, чтобы узнать тень исчезла (LV4) навыки." />
+	<block key="SB_4_0_0080_Name" korean="Тень вымирание (LV5)" />
+	<block key="SB_4_0_0080_Description" korean="Seukilbuk, чтобы узнать тень исчезла (LV5) навыки." />
+	<block key="SB_4_0_0085_Name" korean="Amnesia (LV1)" />
+	<block key="SB_4_0_0085_Description" korean="Amnesia (LV1) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0086_Name" korean="Amnesia (LV2)" />
+	<block key="SB_4_0_0086_Description" korean="Amnesia (LV2) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0087_Name" korean="Amnesia (LV3)" />
+	<block key="SB_4_0_0087_Description" korean="Amnesia (LV3) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0088_Name" korean="Amnesia (LV4)" />
+	<block key="SB_4_0_0088_Description" korean="Amnesia (LV4) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0128_Name" korean="Meiji удар (LV1)" />
+	<block key="SB_4_0_0128_Description" korean="Seukilbuk научиться попал в яму желудка (LV1) навыков." />
+	<block key="SB_4_0_0129_Name" korean="Meiji удар (LV2)" />
+	<block key="SB_4_0_0129_Description" korean="Seukilbuk научиться попал в яму желудка (LV2) навыков." />
+	<block key="SB_4_0_0130_Name" korean="Meiji удар (LV3)" />
+	<block key="SB_4_0_0130_Description" korean="Seukilbuk научиться попал в яму желудка (LV3) навыков." />
+	<block key="SB_4_0_0131_Name" korean="Meiji удар (LV4)" />
+	<block key="SB_4_0_0131_Description" korean="Seukilbuk научиться попал в яму желудка (LV4) навыков." />
+	<block key="SB_4_0_0132_Name" korean="Meiji удар (LV5)" />
+	<block key="SB_4_0_0132_Description" korean="Seukilbuk научиться попал в яму желудка (LV5) навыков." />
+	<block key="SB_4_0_0133_Name" korean="Meiji удар (LV6)" />
+	<block key="SB_4_0_0133_Description" korean="Seukilbuk научиться попал в яму желудка (LV6) навыков." />
+	<block key="SB_4_0_0134_Name" korean="Meiji удар (LV7)" />
+	<block key="SB_4_0_0134_Description" korean="Meiji удар (LV7) является seukilbuk учиться мастерству." />
+	<block key="SB_4_0_0135_Name" korean="Meiji удар (LV8)" />
+	<block key="SB_4_0_0135_Description" korean="Seukilbuk научиться попал в яму желудка (LV8) навыков." />
+	<block key="SB_0_0_0001_Name" korean="Укрощение" />
+	<block key="SB_0_0_0001_Description" korean="Seukilbuk научиться укрощать мастерство." />
+	<block key="SB_0_0_0011_Name" korean="Временный характер" />
+	<block key="SB_0_0_0011_Description" korean="Seukilbuk учиться навыки, для быстрого огня на борту, чтобы воспользоваться арбалетом." />
+	<block key="SB_0_0_0012_Name" korean="Временный характер" />
+	<block key="SB_0_0_0012_Description" korean="Seukilbuk учиться навыки, для быстрого огня на борту, чтобы воспользоваться арбалетом." />
+	<block key="SB_0_0_0013_Name" korean="Временный характер" />
+	<block key="SB_0_0_0013_Description" korean="Seukilbuk учиться навыки, для быстрого огня на борту, чтобы воспользоваться арбалетом." />
+	<block key="SB_0_0_0014_Name" korean="Временный характер" />
+	<block key="SB_0_0_0014_Description" korean="Seukilbuk учиться навыки, для быстрого огня на борту, чтобы воспользоваться арбалетом." />
+	<block key="SB_9_0_0001_Name" korean="Плотно Slash" />
+	<block key="SB_9_0_0001_Description" korean="Jangchangyong воспользоваться арбалет seukilbuk твердо Slash умение учиться." />
+	<block key="SB_10_0_0001_Name" korean="Norigi лодыжки" />
+	<block key="SB_10_0_0001_Description" korean="Лодыжки для езды воспользоваться арбалета norigi seukilbuk учиться мастерству." />
+	<block key="SB_10_0_0002_Name" korean="Тщательно прицелился" />
+	<block key="SB_10_0_0002_Description" korean="Seukilbuk научиться навыкам для посадки преднамеренное цель, чтобы воспользоваться арбалетом." />
+	<block key="SB_0_0_0021_Name" korean="Mind Control (Берсерк)" />
+	<block key="SB_0_0_0021_Description" korean="Seukilbuk научиться навыкам контроля сознания. Берсерк доступно." />
+	<block key="SB_11_0_0001_Name" korean="[Seukilbuk] сильная воля" />
+	<block key="SB_12_0_0001_Name" korean="[Seukilbuk] укрепление тела" />
+	<block key="SB_13_0_0001_Name" korean="[Seukilbuk] жить кинжал" />
+	<block key="SB_14_0_0001_Name" korean="[Seukilbuk] усилению роли разведки" />
+	<block key="SB_15_0_0001_Name" korean="[Seukilbuk] лошадиных сил усиления" />
+	<block key="SB_11_0_0002_Name" korean="[Seukilbuk] бить Sheboygan" />
+	<block key="SB_12_0_0002_Name" korean="[Seukilbuk - трудно броня" />
+	<block key="SB_13_0_0002_Name" korean="[Seukilbuk] чувственный движение" />
+	<block key="SB_14_0_0002_Name" korean="[Seukilbuk] свет жертвы" />
+	<block key="SB_15_0_0002_Name" korean="[Seukilbuk] умственный центр" />
+	<block key="SB_11_0_0001_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки берсерка.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_12_0_0001_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки Guardian.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_13_0_0001_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки убийцы.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_14_0_0001_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки священника.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_15_0_0001_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки мастера.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_11_0_0002_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки берсерка.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_12_0_0002_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки Guardian.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_13_0_0002_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки убийцы.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_14_0_0002_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки священника.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_15_0_0002_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки мастера.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_12_0_0003_Name" korean="[Seukilbuk] защита максимизации" />
+	<block key="SB_14_0_0003_Name" korean="[Seukilbuk] Реанимация Эллоры" />
+	<block key="SB_12_0_0003_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки Guardian.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_14_0_0003_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки священника.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_11_0_0004_Name" korean="[Seukilbuk] сила воина" />
+	<block key="SB_12_0_0004_Name" korean="[Seukilbuk] усиление прочности" />
+	<block key="SB_13_0_0004_Name" korean="[Seukilbuk] Enhanced Кинжал" />
+	<block key="SB_14_0_0004_Name" korean="[Seukilbuk] усиленный менталитет" />
+	<block key="SB_15_0_0004_Name" korean="[Seukilbuk свойства прочности" />
+	<block key="SB_11_0_0004_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки берсерка.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_12_0_0004_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки Guardian.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_13_0_0004_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки убийцы.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_14_0_0004_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки священника.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_15_0_0004_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки мастера.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_11_0_0005_Name" korean="[Seukilbuk] слава Берсерк" />
+	<block key="SB_12_0_0005_Name" korean="[Seukilbuk] слава Гардиан" />
+	<block key="SB_13_0_0005_Name" korean="[Seukilbuk] слава убийцы" />
+	<block key="SB_14_0_0005_Name" korean="[Seukilbuk] слава о попе" />
+	<block key="SB_15_0_0005_Name" korean="[Seukilbuk] слава мастера" />
+	<block key="SB_11_0_0005_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки берсерка.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_12_0_0005_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки Guardian.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_13_0_0005_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки убийцы.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_14_0_0005_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки священника.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+	<block key="SB_15_0_0005_Description" korean="Таинственный книга, которая может быть изучено скрытые навыки мастера.\n\n - \u003cG_Y\u003e [щелкните правой кнопкой мыши, когда] \u003c/ G_Y\u003e навыки будут уроки.\n - Приобретенные навыки могут быть найдены в окне навыков." />
+</blocks>

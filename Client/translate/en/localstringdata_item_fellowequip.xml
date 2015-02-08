@@ -1,0 +1,138 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="fq_01_fk_0001_name" korean="Когти обычной Shenron" />
+	<block key="fq_01_sl_0001_name" korean="Седло обычный Shenron" />
+	<block key="fq_01_ar_0001_name" korean="Younghonseok обычный Shenron" />
+	<block key="fq_02_fk_0001_name" korean="Когти выдающегося Shenron" />
+	<block key="fq_02_sl_0001_name" korean="Седло выдающийся Shenron" />
+	<block key="fq_02_ar_0001_name" korean="Younghonseok выдающийся Shenron" />
+	<block key="fq_03_fk_0001_name" korean="Когти редких Shenron" />
+	<block key="fq_03_sl_0001_name" korean="Седло редких Shenron" />
+	<block key="fq_03_ar_0001_name" korean="Younghonseok редко Shenron" />
+	<block key="fq_01_fk_0002_name" korean="Когти обычных духов" />
+	<block key="fq_01_sl_0002_name" korean="Седло обычные духи" />
+	<block key="fq_01_ar_0002_name" korean="Younghonseok обычные духи" />
+	<block key="fq_02_fk_0002_name" korean="Коготь отличном настроении" />
+	<block key="fq_02_sl_0002_name" korean="Седло отличные духи" />
+	<block key="fq_02_ar_0002_name" korean="Younghonseok отличные духи" />
+	<block key="fq_03_fk_0002_name" korean="Когти редких духов" />
+	<block key="fq_03_sl_0002_name" korean="Седло редких духов" />
+	<block key="fq_03_ar_0002_name" korean="Younghonseok редких духов" />
+	<block key="fq_01_fk_0003_name" korean="Когти обычной SU" />
+	<block key="fq_01_sl_0003_name" korean="Седло обычный SU" />
+	<block key="fq_01_ar_0003_name" korean="Younghonseok обычный SU" />
+	<block key="fq_02_fk_0003_name" korean="Когти выдающегося мецената" />
+	<block key="fq_02_sl_0003_name" korean="Седло выдающийся покровитель" />
+	<block key="fq_02_ar_0003_name" korean="Younghonseok выдающийся покровитель" />
+	<block key="fq_03_fk_0003_name" korean="Когти из самых редких Гардиан" />
+	<block key="fq_03_sl_0003_name" korean="Седло редких покровителя" />
+	<block key="fq_03_ar_0003_name" korean="Younghonseok редко Гардиан" />
+	<block key="fq_01_fk_0004_name" korean="Блаженны обычные когти" />
+	<block key="fq_01_sl_0004_name" korean="Блажен обычный седло" />
+	<block key="fq_01_ar_0004_name" korean="Блажен обычный younghonseok" />
+	<block key="fq_02_fk_0004_name" korean="Отличные благословенные когти" />
+	<block key="fq_02_sl_0004_name" korean="Блажен отличный седло" />
+	<block key="fq_02_ar_0004_name" korean="Отлично благословил younghonseok" />
+	<block key="fq_03_fk_0004_name" korean="Блаженны редкие когти" />
+	<block key="fq_03_sl_0004_name" korean="Блажен редко седло" />
+	<block key="fq_03_ar_0004_name" korean="Блажен редко younghonseok" />
+	<block key="fq_01_fk_0005_name" korean="Простые проклятые когти" />
+	<block key="fq_01_sl_0005_name" korean="Проклят обычный седло" />
+	<block key="fq_01_ar_0005_name" korean="Обычная проклят younghonseok" />
+	<block key="fq_02_fk_0005_name" korean="Коготь был выдающимся проклятие" />
+	<block key="fq_02_sl_0005_name" korean="Седло получил выдающийся проклятие" />
+	<block key="fq_02_ar_0005_name" korean="Отлично проклятая younghonseok" />
+	<block key="fq_03_fk_0005_name" korean="Редкие проклятые когти" />
+	<block key="fq_03_sl_0005_name" korean="Седло были редкие проклятие" />
+	<block key="fq_03_ar_0005_name" korean="Редкие проклятая younghonseok" />
+	<block key="fq_02_fk_0006_name" korean="Когти нижней Hunter" />
+	<block key="fq_02_sl_0006_name" korean="Седло нижней Hunter" />
+	<block key="fq_02_ar_0006_name" korean="Younghonseok нижней Hunter" />
+	<block key="fq_02_fk_0007_name" korean="Промежуточные когти охотник" />
+	<block key="fq_02_sl_0007_name" korean="Промежуточный Hunter Седло" />
+	<block key="fq_02_ar_0007_name" korean="Younghonseok средний Hunter" />
+	<block key="fq_02_fk_0008_name" korean="Большие когти охотник" />
+	<block key="fq_02_sl_0008_name" korean="Большой седло охотник" />
+	<block key="fq_02_ar_0008_name" korean="Younghonseok Большой Hunter" />
+	<block key="fq_02_fk_0009_name" korean="Малый когти Slayer" />
+	<block key="fq_02_sl_0009_name" korean="Седло Малый Slayer" />
+	<block key="fq_02_ar_0009_name" korean="Younghonseok Малый Slayer" />
+	<block key="fq_02_fk_1009_name" korean="Промежуточные когти Slayer" />
+	<block key="fq_02_sl_1009_name" korean="Промежуточный седло Slayer" />
+	<block key="fq_02_ar_1009_name" korean="Younghonseok средний Slayer" />
+	<block key="fq_01_fk_0006_name" korean="Удовлетворительно священные когти" />
+	<block key="fq_01_sl_0006_name" korean="Священный обычный седло" />
+	<block key="fq_01_ar_0006_name" korean="Удовлетворительно священным younghonseok" />
+	<block key="fq_02_fk_0010_name" korean="Отличные священные когти" />
+	<block key="fq_02_sl_0010_name" korean="Отлично священным седло" />
+	<block key="fq_02_ar_0010_name" korean="Отлично священным younghonseok" />
+	<block key="fq_03_fk_0006_name" korean="Редкие священные когти" />
+	<block key="fq_03_sl_0006_name" korean="Редкие священным седло" />
+	<block key="fq_03_ar_0006_name" korean="Редкие священным younghonseok" />
+	<block key="fq_02_fk_0011_name" korean="Когти специальной cheongma" />
+	<block key="fq_02_sl_0011_name" korean="Седло специальный cheongma" />
+	<block key="fq_02_ar_0011_name" korean="Younghonseok специальный cheongma" />
+	<block key="fq_03_fk_0007_name" korean="Когти Пресвятой cheongma" />
+	<block key="fq_03_sl_0007_name" korean="Седло Пресвятой cheongma" />
+	<block key="fq_03_ar_0007_name" korean="Younghonseok Пресвятой cheongma" />
+	<block key="fq_03_fk_0008_name" korean="Коготь Харлана Новости" />
+	<block key="fq_03_sl_0008_name" korean="Седло-ку, Харлан" />
+	<block key="fq_03_ar_0008_name" korean="Younghonseok из Харлан Новости" />
+	<block key="fq_02_fk_0012_name" korean="Элитные Рыцари когти" />
+	<block key="fq_02_sl_0012_name" korean="Elite седло Рыцари" />
+	<block key="fq_02_ar_0012_name" korean="Elite younghonseok Рыцари" />
+	<block key="fq_01_fk_0007_name" korean="Когти обычной кошмар" />
+	<block key="fq_01_sl_0007_name" korean="Седло обычный кошмар" />
+	<block key="fq_01_ar_0007_name" korean="Younghonseok обычный кошмар" />
+	<block key="fq_02_fk_0013_name" korean="Когти выдающегося кошмар" />
+	<block key="fq_02_sl_0013_name" korean="Седло выдающийся кошмар" />
+	<block key="fq_02_ar_0013_name" korean="Younghonseok выдающийся кошмар" />
+	<block key="fq_03_fk_0009_name" korean="Когти редких кошмар" />
+	<block key="fq_03_sl_0009_name" korean="Седло редких кошмар" />
+	<block key="fq_03_ar_0009_name" korean="Younghonseok редко кошмар" />
+	<block key="fq_04_fk_0001_name" korean="Благородные когти кошмар" />
+	<block key="fq_04_sl_0001_name" korean="Седло Noble Кошмар" />
+	<block key="fq_04_ar_0001_name" korean="Younghonseok Noble Кошмар" />
+	<block key="fq_01_fk_0008_name" korean="Когти как обычный шаг" />
+	<block key="fq_01_sl_0008_name" korean="Ворон похож на нормального седла" />
+	<block key="fq_01_ar_0008_name" korean="Ворон похож на нормального younghonseok" />
+	<block key="fq_02_fk_0014_name" korean="Отлично шаг, как когти" />
+	<block key="fq_02_sl_0014_name" korean="Отлично шаг, как седло" />
+	<block key="fq_02_ar_0014_name" korean="Отлично шаг, как younghonseok" />
+	<block key="fq_03_fk_0010_name" korean="Ebon Когти такие редкие" />
+	<block key="fq_03_sl_0010_name" korean="Raven как редкий седла" />
+	<block key="fq_03_ar_0010_name" korean="Редкие же шаг younghonseok" />
+	<block key="fq_04_fk_0002_name" korean="Ebon Когти такие благородные" />
+	<block key="fq_04_sl_0002_name" korean="Ворон похож на благородного седла" />
+	<block key="fq_04_ar_0002_name" korean="Ворон похож на благородного younghonseok" />
+	<block key="fq_06_fk_0001_name" korean="Когти песка" />
+	<block key="fq_06_sl_0001_name" korean="Похоронен в песок" />
+	<block key="fq_06_ar_0001_name" korean="Younghonseok песка" />
+	<block key="fq_06_fk_0002_name" korean="Отличные песчаные когти" />
+	<block key="fq_06_sl_0002_name" korean="Отлично песок седло" />
+	<block key="fq_06_ar_0002_name" korean="Отлично песок younghonseok" />
+	<block key="fq_06_fk_0003_name" korean="Когти мираж" />
+	<block key="fq_06_sl_0003_name" korean="Mirage седло" />
+	<block key="fq_06_ar_0003_name" korean="Mirage younghonseok" />
+	<block key="fq_06_fk_0004_name" korean="Когти в-Прадеш" />
+	<block key="fq_06_sl_0004_name" korean="Седло тире" />
+	<block key="fq_06_ar_0004_name" korean="Тире younghonseok" />
+	<block key="fq_06_fk_0011_name" korean="Коготь пустыни" />
+	<block key="fq_06_sl_0011_name" korean="Похоронен в пустыне" />
+	<block key="fq_06_ar_0011_name" korean="Пустыня younghonseok" />
+	<block key="fq_06_fk_0012_name" korean="Когти выдающегося пустыне" />
+	<block key="fq_06_sl_0012_name" korean="Седло десертом" />
+	<block key="fq_06_ar_0012_name" korean="Younghonseok десертом" />
+	<block key="fq_06_fk_0013_name" korean="Пустыня Коготь мучеников" />
+	<block key="fq_06_sl_0013_name" korean="Пустыня седло мучеников" />
+	<block key="fq_06_ar_0013_name" korean="Мученики пустыни younghonseok" />
+	<block key="fq_06_fk_0014_name" korean="Коготь бар Шарки" />
+	<block key="fq_06_sl_0014_name" korean="Шарки седло бар" />
+	<block key="fq_06_ar_0014_name" korean="Бар younghonseok Шарки" />
+</blocks>

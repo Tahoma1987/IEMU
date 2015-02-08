@@ -1,0 +1,1723 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="eNetFailure_packeterror1" korean="Комплексная пакетных ошибок произошло" />
+	<block key="eNetFailure_packeterror2" korean="Пакет странно ошибка." />
+	<block key="eNetSuccess_Party_2" korean="[Target] был отправлен на приглашение партии." />
+	<block key="eNetSuccess_Party_6" korean="[Target] Ли направил ответ на приглашение на вечеринку." />
+	<block key="eNetSuccess_Party_9" korean="[Target] Вы были выйти из партии." />
+	<block key="eNetSuccess_Party_11" korean="[Target] писал был запрещен из партии." />
+	<block key="eNetSuccess_Party_14" korean="[Target] является участником Чжана." />
+	<block key="eNetSuccess_Party_17" korean="Правила маршрутизации партии были изменены." />
+	<block key="eNetSuccess_Quest_32" korean="[QuestName] принял квест." />
+	<block key="eNetSuccess_Quest_42" korean="[QuestName] завершила награда за выполнение задания." />
+	<block key="eNetSuccess_Quest_52" korean="[QuestName] отменили задание." />
+	<block key="eNetSuccess_Action" korean="eNetSuccess_Action запрос был успешным." />
+	<block key="eNetFailure_Action_NotLearnedSkill" korean="Не мастерству училась." />
+	<block key="eNetFailure_Action_NoSerachableTarget" korean="Если вы не можете найти цель, цель не может атаковать." />
+	<block key="eNetFailure_Action_IsNotActableState" korean="Это действие невозможно." />
+	<block key="eNetFailure_Action_NotRegistedSkill" korean="Не зарегистрированы мастерство." />
+	<block key="eNetFailure_Action_NotOverActableTime" korean="Слева восстановления." />
+	<block key="eNetFailure_Action_NotEnabled" korean="Это умение не могут быть использованы в отключена." />
+	<block key="eNetFailure_Action_FarDistantThanActionRange" korean="Расстояния, чем в диапазоне." />
+	<block key="eNetFailure_Action_WithinMinActableRange" korean="Расположенный в самом минимальном расстоянии." />
+	<block key="eNetFailure_Action_IsNotDamagableTarget" korean="Государство не может атаковать цель." />
+	<block key="eNetFailure_Action_GuageLow" korean="МП шляпа растет." />
+	<block key="eNetFailure_Action_WrongTarget" korean="Ту цель." />
+	<block key="eNetFailure_Action_CannotActCastingSkillOnSilenceState" korean="Молчание не доступна, когда в прямом и обратном литья навыки." />
+	<block key="eNetFailure_Action_NotCastingState" korean="Навыки не в гипсе." />
+	<block key="eNetFailure_Action_WhileActingLinkedSkill" korean="Актерский состав комбинированного мастерства." />
+	<block key="eNetFailure_Action_DeadState" korean="Состояние смерть." />
+	<block key="eNetFailure_Action_ChangingMapState" korean="Состояние меняется карт." />
+	<block key="eNetFailure_Action_CastingForSkillState" korean="Актерский состав." />
+	<block key="eNetFailure_Action_KeepingMotionForSkillState" korean="Это умение не может двигаться во время произнесения заклинаний." />
+	<block key="eNetFailure_Action_FearingState" korean="Ужасы состояние." />
+	<block key="eNetFailure_Action_StuningState" korean="Ошеломлен состояние." />
+	<block key="eNetFailure_Action_RoaredState" korean="Львиная Рев состояние." />
+	<block key="eNetFailure_Action_SleepState" korean="Состояние сна." />
+	<block key="eNetFailure_Action_SkillMovingState" korean="Умение двигаться статус." />
+	<block key="eNetFailure_Action_ParriedState" korean="Государство за, чтобы получить еще." />
+	<block key="eNetFailure_Action_RisingState" korean="Воздушная зависимым государством." />
+	<block key="eNetFailure_Action_StealthBlockState" korean="Прозрачность неактивное состояние." />
+	<block key="eNetFailure_Action_AnimatingState" korean="Во время литья мастерство не могут быть использованы с другими навыками." />
+	<block key="eNetFailure_Action_ActionAnimatingState" korean="Теперь вы не можете использовать этот навык. Пожалуйста, повторите попытку позже." />
+	<block key="eNetFailure_Action_CannotControlState" korean="Государство не может работать с характером." />
+	<block key="eNetFailure_Action_NeedItem" korean="Там нет предметы, необходимые для литья навыки." />
+	<block key="eNetFailure_Action_NeedQuest" korean="Требуется квест." />
+	<block key="eNetFailure_Action_AuraBuff" korean="Аура любитель, вы не можете удалить его." />
+	<block key="eNetFailure_Action_NotExistBuff" korean="Любитель не висит." />
+	<block key="eNetFailure_Action_CannotDetachDebuff" korean="Debuff не могут быть удалены." />
+	<block key="eNetFailure_Action_NoReturnArea" korean="Эта область не фиксированной доходностью." />
+	<block key="eNetFailure_Action_MonsterNotRegistered" korean="Не зарегистрированы на Монстр Монстр книгу." />
+	<block key="eNetFailure_Action_NotCapturableHP" korean="HP выше, чем монстры могут принимать HP." />
+	<block key="eNetFailure_Action_InavlidActorType" korean="Тип Кастер не подходит." />
+	<block key="eNetFailure_Action_NoReturnStone" korean="Gwihwanseok не есть." />
+	<block key="eNetFailure_Action_PacketError" korean="Ошибок по пакетам произошло." />
+	<block key="eNetFailure_Action_NotOverGlobalCoolTime" korean="Глобальный кулдаун еще не закончена." />
+	<block key="eNetFailure_Action_Untamabile" korean="Цель не может укротить." />
+	<block key="eNetFailure_Action_TaminingFail" korean="Отказ приручить ошибку в данных." />
+	<block key="eNetFailure_Action_NotEnoughSpaceforCreatureItem" korean="Сотрудник библиотеки полном объеме." />
+	<block key="eNetFailure_Action_NotEnoughSpaceforSoulStone" korean="Инвентарь полон, вы не можете поставить younghonseok." />
+	<block key="eNetFailure_Action_InvalidBoardState" korean="Доска не отвечает государство." />
+	<block key="eNetFailure_Action_SoulAbsorptionFail" korean="Не удалось поглотить душу." />
+	<block key="eNetFailure_Action_NotOn_SeazeMode" korean="Укрощение невозможно приручить, не государство." />
+	<block key="eNetFailure_Action_ToggledSkill" korean="Навык государство, которое On." />
+	<block key="eNetFailure_Action_NotJumpingSkill" korean="Во время литья навыков и без прыжков навыков не доступны." />
+	<block key="eNetFailure_Action_NotBoardingSkill" korean="Сотрудник доска не доступен во время квалификации." />
+	<block key="eNetFailure_Action_NotTamable" korean="Укрощение монстра невозможно." />
+	<block key="eNetFailure_Action_NoMatchingCreature" korean="Применимо сотрудник не существует." />
+	<block key="eNetFailure_Action_NotEnoughSpaceforCreature" korean="Сотрудник библиотеки полном объеме." />
+	<block key="eNetFailure_Action_MagicstonConvFailInvalidCreature" korean="Выберите неправильный молодец, younghonseok преобразования не удалось." />
+	<block key="eNetFailure_Action_MagicstonConvFailWrongActionLevel" korean="Сотрудник уровня выходит за рамки younghonseok преобразования." />
+	<block key="eNetFailure_Action_MagicstonConvFailITObjectNotExist" korean="Там нет набор объектов взаимодействия, younghonseok не удалось преобразовать." />
+	<block key="eNetFailure_Action_MagicstonConvMagicStoneNotExist" korean="Я поставил younghonseok, younghonseok преобразования не удалось." />
+	<block key="eNetFailure_Action_MagicstonConvInvalidSkill" korean="Younghonseok преобразование умение неправильно." />
+	<block key="eNetFailure_Action_MagicstonConvNotAllowObserverState" korean="Статус наблюдателя не может younghonseok преобразования." />
+	<block key="eNetFailure_Action_MagicstonConvAction" korean="Younghonseok не удалось преобразовать." />
+	<block key="eNetFailure_Action_MagicstonConvFailOnBoarding" korean="Некоторые сотрудник плата не может younghonseok преобразования." />
+	<block key="eNetFailure_Action_NotTamableOnCombat" korean="Во время боя, вы не можете приручить." />
+	<block key="eNetSuccess_Agreement" korean="Запрос был успешным." />
+	<block key="eNetFailure_Agreement_InvalidAgreementType" korean="Принято тип не является правильным." />
+	<block key="eNetFailure_Agreement_NotExistProposer" korean="Этот человек не существуют, чтобы предложить." />
+	<block key="eNetFailure_Agreement_NotExistProposee" korean="Предполагаемый получатель не существует." />
+	<block key="eNetFailure_Agreement_CannotPropseMe" korean="Вы не можете дать себе предложения." />
+	<block key="eNetFailure_Agreement_ProposedAlready" korean="Государство уже предложил." />
+	<block key="eNetFailure_Agreement_MyCutoff" korean="Вы уже зарегистрированы в черный список." />
+	<block key="eNetFailure_Agreement_HisCutoff" korean="Я существует на другой стороне списка блока." />
+	<block key="eNetFailure_Agreement_Timeout" korean="Тайм-аут был отменен." />
+	<block key="eNetFailure_Agreement_PacketError" korean="Ошибок по пакетам произошло." />
+	<block key="eNetFailure_Agreement_MyFriendAlready" korean="Вы уже зарегистрированы в качестве друга." />
+	<block key="eNetFailure_Agreement_HisFriendAlready" korean="Вы уже зарегистрированы как компании друзей." />
+	<block key="eNetFailure_Agreement_MyFriendSlotFull" korean="Мы список друзей заполнен." />
+	<block key="eNetFailure_Agreement_HisFriendSlotFull" korean="Список друзей Другие заполнена." />
+	<block key="eNetFailure_Agreement_NotFriend" korean="Не было зарегистрировано в качестве друга." />
+	<block key="eNetFailure_Agreement_MyBestFriendSlotFull" korean="Лучший список друзей заполнен." />
+	<block key="eNetFailure_Agreement_HisBestFriendSlotFull" korean="Другая сторона полна список лучших друзей." />
+	<block key="eNetFailure_Agreement_AlreadyParty" korean="Пользователь уже партия." />
+	<block key="eNetFailure_Agreement_NotMaster" korean="Не является стороной главы." />
+	<block key="eNetFailure_Agreement_MapInstance" korean="Действие не может быть в indeon." />
+	<block key="eNetFailure_Agreement_CannotTrade" korean="Это не торговая состояние." />
+	<block key="eNetFailure_Agreement_NotPartyMasterMe" korean="Чжан не партия (партия поединок)" />
+	<block key="eNetFailure_Agreement_NotPartyMasterTarget" korean="Другая сторона не партийные глав (партия поединок)" />
+	<block key="eNetFailure_Agreement_NotPartyMe" korean="Не государство-участник." />
+	<block key="eNetFailure_Agreement_NotPartyTarget" korean="Другая сторона не государством-участником." />
+	<block key="eNetFailure_Agreement_StateDuelMe" korean="Статус Дуэль." />
+	<block key="eNetFailure_Agreement_StateDuelTarget" korean="Это государство-участник дуэли." />
+	<block key="eNetFailure_Agreement_NoDuelRemain" korean="Предел Дуэль была превышена ограничения на сервере." />
+	<block key="eNetFailure_Agreement_LevelNotMatch" korean="Уровень не правильно." />
+	<block key="eNetFailure_Agreement_MenteeFull" korean="Список студент полном объеме." />
+	<block key="eNetFailure_Agreement_MentorExist" korean="У меня уже есть наставник." />
+	<block key="eNetFailure_Agreement_NotGuild" korean="Не в гильдии." />
+	<block key="eNetFailure_Agreement_AlreadyGuild" korean="Пользователь уже в гильдии." />
+	<block key="eNetFailure_Agreement_NoInvitation" korean="Вы не имеете права на гильдии пригласить." />
+	<block key="eNetFailure_Agreement_GuildMemberFull" korean="Вы не можете пригласить больше, чем максимальное количество гильдии." />
+	<block key="eNetFailure_Agreement_CantBoarding" korean="Это не статус интернат." />
+	<block key="eNetFailure_Agreement_AlreadyBoarding" korean="Это уже посадкой." />
+	<block key="eNetFailure_Agreement_NoBoardRequest" korean="Питание никогда не просил." />
+	<block key="eNetFailure_Agreement_BoardingMemberFull" korean="Все члены Исполкома уже." />
+	<block key="eNetSuccess_auction" korean="Аукцион eNetSuccess_auction запрос был успешным." />
+	<block key="eNetSuccess_auction_server_not_ready" korean="Сервер Аукцион не готов." />
+	<block key="eNetfailure_auction_npc_not_found" korean="Не можете найти NPC." />
+	<block key="eNetfailure_auction_too_far" korean="Это NPC было слишком далеко." />
+	<block key="eNetfailure_auction_invalid_npc" korean="NPC неправильного типа." />
+	<block key="eNetfailure_auction_player_invalid_state" korean="Государство не может воспользоваться в магазине." />
+	<block key="eNetfailure_auction_invalid_page" korean="Неверный номер страницы." />
+	<block key="eNetfailure_auction_short_keyword" korean="Недостаточное количество поисковых слов." />
+	<block key="eNetfailure_auction_item_not_found" korean="Не можете найти этот элемент." />
+	<block key="eNetfailure_auction_not_enough_money" korean="Недостаток средств в кармане." />
+	<block key="eNetfailure_auction_not_enough_space" korean="Там нет пустого места в сумке." />
+	<block key="eNetfailure_auction_cannot_buy_my_item" korean="Предметы, которые не могут быть зарегистрированы в их покупки." />
+	<block key="eNetfailure_auction_not_enough_seller_space" korean="Эта продажа слот пространство." />
+	<block key="eNetfailure_auction_register_min_sellprice_limit" korean="Вы должны ввести объем продаж составляет более 1 Купер." />
+	<block key="eNetfailure_auction_register_isnot_max_durability" korean="Прочность не только dalji элементы могут быть зарегистрированы." />
+	<block key="eNetfailure_auction_register_my_limit_access" korean="Вы превысили максимальное количество элементов. Пожалуйста, проверьте ограничения регистрации и разрешения товаров." />
+	<block key="eNetfailure_auction_register_system_limit_access" korean="Вы превысили максимальное число серверов может быть зарегистрирована с агентом по продажам." />
+	<block key="eNetfailure_auction_cannot_cancel_other_item" korean="Вы не можете отменить пункты других пользователей." />
+	<block key="eNetfailure_auction_item_for_account_not_exist" korean="Там нет товаров, подлежащих решению." />
+	<block key="eNetfailure_auction_register_invalid_item_type" korean="Элемент не может быть зарегистрирован с агентом по продажам." />
+	<block key="eNetSuccess_Capture" korean="Сохранить скриншот в комплекте." />
+	<block key="eNetFailure_Capture_EmptySkill" korean="Вы не имеете навыков, чтобы приручить." />
+	<block key="eNetFailure_Capture_SkillFail" korean="Укрощение умение литой не удалось." />
+	<block key="eNetFailure_Capture_NoTarget" korean="Приручить цель не существует." />
+	<block key="eNetFailure_Capture_TargetIsNotMonster" korean="Цель не может укротить." />
+	<block key="eNetFailure_Capture_MonsterSheetNotExist" korean="Нет монстры лист." />
+	<block key="eNetFailure_Capture_InvalidMonsterSheet" korean="Неверный лист монстр." />
+	<block key="eNetFailure_Capture_RegisterdSheetAlready" korean="Монстр Монстр уже зарегистрирован в книге." />
+	<block key="eNetFailure_Capture_MonsterSheetSlotisFull" korean="Там нет слота монстры Книга." />
+	<block key="eNetFailure_Capture_MonsterNotRegistered" korean="Монстр Монстр не зарегистрирован в книге." />
+	<block key="eNetFailure_Caputre_NotCapturableHP" korean="HP не возможно приручить." />
+	<block key="eNetFailure_Capture_EmptyMagicStone_no_item" korean="Там нет пустых younghonseok элементов." />
+	<block key="eNetFailure_Capture_MagicStone_no_item" korean="Там нет younghonseok элементов." />
+	<block key="eNetFailure_Capture_not_EmptyMagicStoneItem" korean="Younghonseok пункт не является пустым." />
+	<block key="eNetFailure_Capture_not_CaptureStateCaptured" korean="Вы больше не одомашнены." />
+	<block key="eNetFailure_Capture_not_same_CreatureGrade" korean="Попутчики различных марок." />
+	<block key="eNetFailure_Capture_FailtoCreateITObject" korean="Younghonseok удалось создать взаимодействие объектов." />
+	<block key="eNetSuccess_Changgo" korean="eNetSuccess_Changgo запрос был успешным." />
+	<block key="eNetFailure_Changgo_NotHave" korean="Не предмет, который у вас есть." />
+	<block key="eNetFailure_Changgo_StorageIncorrect" korean="Склад неправильно." />
+	<block key="eNetFailure_Changgo_InvenFull" korean="Элементы на складе в полном объеме." />
+	<block key="eNetFailure_Changgo_InsufficientMoney" korean="Кто владеет деньги растет шляпу." />
+	<block key="eNetFailure_Changgo_NotEqualItem" korean="Не тот же самый пункт." />
+	<block key="eNetFailure_Changgo_NotCountableItem" korean="Не пункты количестве." />
+	<block key="eNetFailure_Changgo_AmountOver" korean="Были превышены количество элементов." />
+	<block key="eNetFailure_Changgo_MaxAmountOver" korean="Я пролил заполнен." />
+	<block key="eNetFailure_Changgo_NotExistCharacter" korean="Не принадлежит персонажа." />
+	<block key="eNetFailure_Changgo_MaxCharacterCount" korean="Создать знаков в номере счета был превышен." />
+	<block key="eNetFailure_Changgo_CannotFindNpc" korean="Там нет NPC, хранения." />
+	<block key="eNetFailure_Changgo_MoveImpossible" korean="Элемент не может быть перемещен на склад." />
+	<block key="eNetFailure_Changgo_DivideCountTooMuch" korean="Разделите число будет превышено ограничение владения." />
+	<block key="eNetFailure_Changgo_DataError" korean="Существует ошибка в хранилище данных." />
+	<block key="eNetFailure_Changgo_PacketError" korean="Существует ошибка в складском пакете." />
+	<block key="eNetSuccess_Chat" korean="диалоговое окно Запрос на eNetSuccess_Chat был успешным." />
+	<block key="eNetfailure_Chat_target_not_found" korean="Не можете найти gwitmal назначения." />
+	<block key="eNetfailure_Chat_not_send_myself" korean="Вы можете отправить себе gwitmal." />
+	<block key="eNetfailure_Chat_not_cooltime_of_shout" korean="Вы не можете отправить реветь мое ограниченное время в очереди." />
+	<block key="eNetfailure_Chat_not_join_party" korean="Партия не участвует." />
+	<block key="eNetfailure_Chat_mycutoff" korean="Пользователь в список заблокированных." />
+	<block key="eNetfailure_Chat_hiscutoff" korean="Вы с другой стороны в списке блока." />
+	<block key="eNetfailure_Chat_not_guild" korean="Не в гильдии." />
+	<block key="eNetFailure_Chat_PacketError" korean="Существует ошибка в чате пакета." />
+	<block key="eNetSuccess_Customize" korean="Запрос eNetSuccess_Customize настройки прошла успешно." />
+	<block key="eNetFailure_Customize_UnknownSerial" korean="Позиция канала не удалось." />
+	<block key="eNetFailure_Customize_SystemError" korean="Настройка Произошла системная ошибка." />
+	<block key="eNetFailure_Customize_PacketError" korean="Существует ошибка в специализированных пакетов." />
+	<block key="eNetSuccess_Duel" korean="Запрос eNetSuccess_Duel поединок был успешным." />
+	<block key="eNetFailure_Duel_RequestFail" korean="Не удалось дуэли запрос." />
+	<block key="eNetFailure_Duel_SequenceError" korean="Ошибка Дуэль фазовый произошло." />
+	<block key="eNetFailure_Duel_MyCutoff" korean="Человек на другом конце моего списка блока." />
+	<block key="eNetFailure_Duel_HisCutoff" korean="Я нахожусь на другой стороне списка блока." />
+	<block key="eNetFailure_Duel_SystemError" korean="Произошла ошибка в системе дуэли." />
+	<block key="eNetFailure_Duel_PacketError" korean="Существует ошибка в поединке пакета." />
+	<block key="eNetSuccess_Enchant" korean="eNetSuccess_Enchant запрос повышение было успешным." />
+	<block key="eNetFailure_Enchant_no_item" korean="Этот пункт не существует укрепляться." />
+	<block key="eNetFailure_Enchant_invalid_item" korean="Товар не соответствует расширенной состояние." />
+	<block key="eNetFailure_Enchant_magicstone_needed" korean="Younghonseok не существует, необходимо укрепить." />
+	<block key="eNetFailure_Enchant_not_magicstone" korean="Younghonseok нет." />
+	<block key="eNetFailure_Enchant_broken_item" korean="Сломанные предметы не могут быть установлены younghonseok." />
+	<block key="eNetFailure_Enchant_invalid_slot_index" korean="Не Соответствующий разъем." />
+	<block key="eNetFailure_Enchant_invalid_npc" korean="Enhanced NPC не существует." />
+	<block key="eNetFailure_Enchant_npc_too_far" korean="NPC для укрепления слишком далеко." />
+	<block key="enetfailure_enchant_not_monsterforce" korean="Не монстр энергии элементов." />
+	<block key="eNetFailure_Enchant_InvalidSkill" korean="Расширенные навыки не существует." />
+	<block key="eNetFailure_Enchant_Cannot_MagicStone_Addon" korean="Younghonseok не может быть установлен." />
+	<block key="eNetFailure_Enchant_StorageFull" korean="Там нет пустого места в сумке." />
+	<block key="eNetFailure_Enchant_not_enough_money" korean="Недостаток средств в кармане." />
+	<block key="eNetFailure_Enchant_repair_magicstone_needed" korean="Там нет необходимости для ремонта younghonseok." />
+	<block key="eNetFailure_Enchant_repair_magicstone_max_durability" korean="Максимальное значение younghonseok прочности." />
+	<block key="eNetFailure_Enchant_repair_magicstone_low_level" korean="Меньшее значение не может быть восстановлен." />
+	<block key="eNetFailure_Enchant_not_exist_conversion_magicstone" korean="Younghonseok быть преобразованы, не существует." />
+	<block key="eNetFailure_Enchant_Cannot_MagicStone_Conversion" korean="Вы не можете быть преобразованы в younghonseok." />
+	<block key="eNetFailure_Enchant_NotAllowObserverState" korean="Этот статус наблюдателя невозможно." />
+	<block key="eNetSuccess_Extraction" korean="eNetSuccess_Extraction запрос был успешным." />
+	<block key="eNetSuccess_Guild" korean="Гильдия eNetSuccess_Guild запрос был успешным." />
+	<block key="eNetFailure_Guild_PacketError" korean="Существует ошибка в гильдии пакета." />
+	<block key="eNetFailure_Guild_DBError" korean="Произошло Гильдия ошибка базы данных." />
+	<block key="eNetFailure_Guild_UnknownDBKey" korean="Неизвестный Гильдия DBKey." />
+	<block key="eNetFailure_Guild_SendAlready" korean="Гильдия информация уже отправлена." />
+	<block key="eNetFailure_Guild_NameOccupied" korean="Союз или гильдии имя используется." />
+	<block key="eNetFailure_Guild_NameLengthOver" korean="Гильдия слишком длинное имя." />
+	<block key="eNetFailure_Guild_NameIncludedWordBaned" korean="Содержит запрещенные слова название гильдии." />
+	<block key="eNetFailure_Guild_NotCreateTimeLimitYet" korean="Гильдия просто воссоздали период." />
+	<block key="eNetFailure_Guild_Already" korean="Пользователь уже в гильдии." />
+	<block key="eNetFailure_Guild_Not" korean="Не в гильдии." />
+	<block key="eNetFailure_Guild_InvalidGuildMember" korean="Пользователь не в гильдии." />
+	<block key="eNetFailure_Guild_Not_Allow" korean="Вы не имеете разрешения." />
+	<block key="eNetFailure_Guild_gold_needed" korean="Отсутствие необходимых средств." />
+	<block key="eNetFailure_Guild_Already_GuildOfficer" korean="Уже обозначен как гильдии офицера." />
+	<block key="eNetFailure_Guild_Not_GuildOfficer" korean="Не гильдии офицер." />
+	<block key="eNetFailure_Guild_invalid_npc" korean="Нет гильдий NPC." />
+	<block key="eNetFailure_Guild_npc_too_far" korean="Гильдия NPC с расстояния слишком далеко." />
+	<block key="eNetSuccess_Interaction" korean="eNetSuccess_Interaction запрос был успешным." />
+	<block key="eNetFailure_Interaction_Test_Quest_No_Match" korean="Если вам не нужно состояние полного квеста." />
+	<block key="eNetFailure_Interaction_Test_No_Item" korean="Нет необходимости пункты." />
+	<block key="eNetFailure_Interaction" korean="Это взаимодействие не удалось." />
+	<block key="eNetFailure_Interaction_NotOnInteractive" korean="Вы не имеете разрешения." />
+	<block key="eNetFailure_Interaction_CollectingGrade" korean="Выбор рейтинга низкая." />
+	<block key="eNetFailure_Interaction_CollectingExp" korean="Выбор рейтинга низкая." />
+	<block key="eNetFailure_Interaction_Invalid_Interacter" korean="Не подходит объекты взаимодействия." />
+	<block key="eNetFailure_Interaction_TooFast" korean="Время каста является слишком коротким." />
+	<block key="eNetFailure_Interaction_NeedCasting" korean="Кастинг необходимые объекты взаимодействия." />
+	<block key="eNetFailure_Interaction_Invalid_CastingTarget" korean="Запрошенный объект и взаимодействие и литье отличается." />
+	<block key="eNetFailure_Interaction_TooFar" korean="Расстояние слишком далеко." />
+	<block key="eNetFailure_Interaction_Invalid_itobject" korean="Не можете найти объект взаимодействия." />
+	<block key="eNetFailure_Interaction_Pass" korean="Мы игнорируем взаимодействия." />
+	<block key="eNetFailure_Interaction_Moving" korean="Хотя это не в состоянии двигаться или прыгать взаимодействие." />
+	<block key="eNetSuccess_Item" korean="Запрос eNetSuccess_Item пункт был успешным." />
+	<block key="eNetFailure_Item_NotHave" korean="Не предмет, который у вас есть." />
+	<block key="eNetFailure_Item_StorageIncorrect" korean="Сумка является неправильным." />
+	<block key="eNetFailure_Item_StorageFull" korean="Там нет пустого места в сумке." />
+	<block key="eNetFailure_Item_AmountIncorrect" korean="Количество пункта является неправильным." />
+	<block key="eNetFailure_Item_AmountOver" korean="Были превышены количество элементов." />
+	<block key="eNetFailure_Item_NotEqualItem" korean="Не тот же самый пункт." />
+	<block key="eNetFailure_Item_NotCountableItem" korean="Не стекируемые предметы." />
+	<block key="eNetFailure_Item_MaxAmountOver" korean="Вы превысили максимальное количество." />
+	<block key="eNetFailure_Item_EquipedEqualPart" korean="Вы уже вставлена ​​в том же положении." />
+	<block key="eNetFailure_Item_InvenExt_Money" korean="Деньги, необходимые для расширения сумку недостаточно." />
+	<block key="eNetFailure_Item_InvenExt_Level" korean="Вы не можете расширить достаточно, чтобы мешок этот уровень." />
+	<block key="eNetFailure_Item_InvenExt_ReachMax" korean="Не может быть расширен либо больше мешков." />
+	<block key="eNetFailure_Item_BelowItemLevel" korean="Этот пункт не доступен для более высоких уровней." />
+	<block key="eNetFailure_Item_DifferentItemClass" korean="Эта работа не является правильным." />
+	<block key="eNetFailure_Item_InsufficientMoney" korean="Недостаток средств в кармане." />
+	<block key="eNetFailure_Item_StorageExt_ReachMax" korean="Вы больше не будете иметь возможность расширить склад." />
+	<block key="eNetFailure_Item_MoveImpossible" korean="Целевая пункт, который не может быть перемещен." />
+	<block key="eNetFailure_Item_MoveImpossibleBag" korean="Чтобы изменить размер маленького чемодана." />
+	<block key="eNetFailure_Item_DivideCountTooMuch" korean="Является ли разделить число элементов больше, чем количество принадлежащих." />
+	<block key="eNetFailure_Item_NotDyeingItem" korean="Не через пункты краски для волос." />
+	<block key="eNetFailure_Item_DiffrentDyeingType" korean="Этот пункт не красители." />
+	<block key="eNetFailure_Item_DyeingImpossible" korean="Пункт не может быть окрашена." />
+	<block key="eNetFailure_Item_InvalidNpc" korean="NPC не существует." />
+	<block key="eNetFailure_Item_npc_too_far" korean="Расстояние слишком далеко от NPC." />
+	<block key="eNetFailure_item_NotCustomizeInfo" korean="Нет информации настройки, не удалось краски для волос." />
+	<block key="eNetFailure_Item_BelongingImpossible" korean="Детали взял с невозможно." />
+	<block key="eNetFailure_Item_AbandonImpossible" korean="Товар не может быть уничтожена." />
+	<block key="eNetFailure_Item_DyeingfailServerError" korean="Был ошибка сервера и не испачкать." />
+	<block key="eNetFailure_Item_reinforcestone_needed" korean="Обновление камень не является необходимым." />
+	<block key="eNetFailure_Item_reinforce_no_target_item" korean="Этот пункт не существует укрепляться." />
+	<block key="eNetFailure_Item_reinforce_invalid_item" korean="Элементы, которые не соответствуют критериям." />
+	<block key="eNetFailure_Item_reinforce_broken_item" korean="Сломленный деталь." />
+	<block key="eNetFailure_Item_reinforceLevel_ReachMax" korean="Для укрепления достигает своего максимального значения, не может быть более усилена." />
+	<block key="eNetFailure_Item_extraction_tool_needed" korean="Там нет инструмента пункты добычи." />
+	<block key="eNetFailure_Item_extraction_no_target_item" korean="Там нет товаров для извлечения." />
+	<block key="eNetFailure_Item_extraction_invalid_item" korean="Элементы, которые не соответствуют критериям." />
+	<block key="eNetFailure_Item_extraction_broken_item" korean="Сломленный деталь." />
+	<block key="enetfailure_item_extraction_item_too_high" korean="Уровень элемента, который вы хотите извлечь не является правильным." />
+	<block key="eNetFailure_Item_NotDropOwner" korean="Там нет власти маршрутизации." />
+	<block key="eNetFailure_Item_DeadPicker" korean="В смерти государство не может быть разбита." />
+	<block key="eNetFailure_Item_InvalidDropper" korean="Там нет назначения маршрутизации." />
+	<block key="eNetFailure_Item_InvalidDropItem" korean="Этот пункт не может быть перенаправлен в список." />
+	<block key="eNetFailure_Item_OnDropGame" korean="Прогресс бросок костей для элемента." />
+	<block key="eNetFailure_Item_CannotDropGame" korean="Символы, которые не могут войти бросок костей." />
+	<block key="eNetFailure_Item_NotUsable" korean="Или пункт является непригодным для использования." />
+	<block key="eNetFailure_Item_InvalidTarget" korean="Не можете найти цель." />
+	<block key="eNetFailure_Item_NotDamagableTarget" korean="Не поврежденные детали." />
+	<block key="eNetFailure_Item_ScenarioPlaying" korean="Другой сценарий, продолжается." />
+	<block key="eNetFailure_Item_InvalidNeedArea" korean="Территория не доступно для данного элемента." />
+	<block key="eNetFailure_Item_NotOverUsableTime" korean="Пункт перезарядки не была достигнута." />
+	<block key="eNetFailure_Item_InvalidTargetType" korean="Ориентация неправильно." />
+	<block key="eNetFailure_Item_InvalidItemSkill" korean="Пункт не будут доступны." />
+	<block key="eNetFailure_Item_CannotUseNow" korean="Предметы, которые не могут быть использованы." />
+	<block key="eNetFailure_Item_ScenarioNotExist" korean="Элементы, которые не доступны." />
+	<block key="eNetFailure_Item_PacketError" korean="Был ошибка в пункт пакета." />
+	<block key="eNetFailure_Item_NotBoxItem" korean="Не подарочной коробке изделия." />
+	<block key="eNetFailure_Item_CloseBoxItem" korean="Подарочные коробки пункты закрыты." />
+	<block key="eNetFailure_Item_InvalidBoxInItem" korean="Вы не должны деталь в подарочной коробке." />
+	<block key="eNetFailure_Item_IsNotToggleItem" korean="Не пункт-переключатель." />
+	<block key="eNetFailure_Item_IsToggleItem" korean="Переключить товара нет в наличии." />
+	<block key="eNetFailure_Item_ImpossibleChangeEquip" korean="Операция продолжается, носить элемент / не могут быть заменены." />
+	<block key="eNetFailure_Item_NotAllowObserverState" korean="Статус наблюдателя не доступен." />
+	<block key="eNetFailure_Item_DifferentDyeingType" korean="Этот пункт не красители." />
+	<block key="eNetFailure_Item_dyeing_needed" korean="Там нет необходимости краситель." />
+	<block key="eNetFailure_Item_dyeing_no_target_item" korean="Вы не имеете деталь вы хотите, чтобы окрасить." />
+	<block key="eNetFailure_Item_DivideCountIncorrect" korean="Разделите число меньше нуля." />
+	<block key="eNetFailure_Item_NotEqualStorage" korean="Этот пункт не хранятся в том же месте." />
+	<block key="eNetFailure_Item_DivideMergeNotHave" korean="Там нет товаров для наложения делить предметы." />
+	<block key="eNetFailure_Item_CannotUseItemOnRide" korean="Среди предметов, которые не доступны на борту." />
+	<block key="eNetSuccess_LearnSkill" korean="Запрос eNetSuccess_LearnSkill приобретения навыков была успешной." />
+	<block key="eNetFailure_LearnSkill_NoSkillBook" korean="Вы не должны мешок seukilbuk." />
+	<block key="eNetFailure_LearnSkill_InvalidSkillBook" korean="Неполучение seukilbuk." />
+	<block key="eNetFailure_LearnSkill_InvalidSkill" korean="Неверный навыки." />
+	<block key="eNetFailure_LearnSkill_UserLevelRequired" korean="Уровень персонажа низкий." />
+	<block key="eNetFailure_LearnSkill_SkillPointRequired" korean="Очки навыков не достаточно." />
+	<block key="eNetFailure_LearnSkill_PreskillRequired" korean="Узнал предыдущие навыки." />
+	<block key="eNetFailure_LearnSkill_PreskillLvRequired" korean="Предыдущие уровни навыков являются низкими." />
+	<block key="eNetFailure_LearnSkill_TabpointRequired" korean="Отсутствие очков умений вложено в этой вкладке." />
+	<block key="eNetFailure_LearnSkill_SlotisFull" korean="Там нет слота для мастерства." />
+	<block key="eNetFailure_Learnskill_AlreadyHave" korean="Навыки, которые вы уже имеете." />
+	<block key="eNetFailure_Learnskill_InvalidClass" korean="Эта работа не является правильным." />
+	<block key="eNetFailure_LearnSkill_return_PreskillcannotErase" korean="Удаление не возможно, потому что предыдущие навыки." />
+	<block key="eNetFailure_LearnSkill_return_notfound" korean="Не учиться мастерству." />
+	<block key="eNetFailure_LearnSkill_return_Tabpoint_required" korean="Есть навыки, которые требуют крана очков, удаление невозможно." />
+	<block key="eNetFailure_LearnSkill_Return_mission_required" korean="Потому что навыки, необходимые для завершения квеста, удаление невозможно." />
+	<block key="eNetFailure_LearnSkill_NotEnough_Money" korean="Существует не хватает денег." />
+	<block key="eNetSuccess_Mail" korean="eNetSuccess_Mail почты запрос был успешным." />
+	<block key="eNetFailure_Mail_DBError" korean="Отправить сообщение об ошибке базы данных." />
+	<block key="eNetFailure_Mail_receiver_not_exist" korean="Вы не ввели цель получить письмо." />
+	<block key="eNetFailure_Mail_title_not_exist" korean="Вы не ввели название." />
+	<block key="eNetFailure_Mail_target_not_found" korean="Не можете найти цель, чтобы получить письмо." />
+	<block key="eNetFailure_Mail_dbkey_not_exist" korean="Почта не в базе данных." />
+	<block key="eNetFailure_Mail_receiver_mail_is_full" korean="Получить письмо в пункте назначения почтовый ящик переполнен." />
+	<block key="eNetFailure_Mail_already_get_money" korean="Взял деньги уже прилагается." />
+	<block key="eNetFailure_Mail_already_get_mail" korean="Взял письмо уже." />
+	<block key="eNetFailure_Mail_already_get_item" korean="Взял пункт уже." />
+	<block key="eNetFailure_Mail_not_enough_money" korean="Существует не достаточно для того чтобы послать письмо." />
+	<block key="eNetFailure_Mail_title_length_too_long" korean="Написать название слишком длинное." />
+	<block key="eNetFailure_Mail_letter_length_too_long" korean="Письмо это слишком долго." />
+	<block key="eNetFailure_Mail_target_length_too_long" korean="Целевая имени слишком долго." />
+	<block key="eNetFailure_Mail_no_have_send_item" korean="Пункт не передавать право владения." />
+	<block key="eNetFailure_Mail_item_record_not_found" korean="Не можете найти запись пункт." />
+	<block key="eNetFailure_Mail_item_db_create_failed" korean="Не удалось создать элемент в БД." />
+	<block key="eNetFailure_Mail_have_not_item" korean="Вы не являетесь владельцем деталь." />
+	<block key="eNetFailure_Mail_invalid_item_dbkey" korean="Пункт ключ DB нет." />
+	<block key="eNetFailure_Mail_passed_expiration_date" korean="Электронная почта истечения срока годности." />
+	<block key="eNetFailure_Mail_not_take_time_limit_yet" korean="Предметы приобрела тайм-аут влево." />
+	<block key="eNetFailure_Mail_trade_impossible" korean="Предметы, которые не могут быть прикреплены." />
+	<block key="eNetFailure_Mail_not_mail_object" korean="Письмо не возражает." />
+	<block key="eNetFailure_Mail_DataError" korean="Ошибка почта данных." />
+	<block key="eNetFailure_Mail_PacketError" korean="Произошла ошибка в почтовом пакете." />
+	<block key="eNetFailure_Mail_money_too_much" korean="Превышает сумму, которая может быть отправлен по почте." />
+	<block key="eNetFailure_Mail_bag_storage_full" korean="Эта сумка пространство." />
+	<block key="eNetSuccess_Move" korean="eNetSuccess_Move запрос на перемещение был успешным." />
+	<block key="eNetFailure_Move_IsNotOnTheMap" korean="Не на карте." />
+	<block key="eNetFailure_Move_InvalidPortal" korean="Неверный портала." />
+	<block key="eNetFailure_Move_OutOfRangeFromPortal" korean="Расстояние слишком далеко от портала." />
+	<block key="eNetFailure_Move_NotEnoughMoneyForPortal" korean="Деньги, необходимые для портала использования является низкой." />
+	<block key="eNetFailure_Move_Access_MaxLayer" korean="Количество Indeon поколение будет превышен, вы не можете создать больше ни indeon." />
+	<block key="eNetFailure_Move_Different_DungeonKey" korean="Персонажи принадлежат indeon и другие indeon." />
+	<block key="eNetFailure_Move_Different_Party_Play" korean="Мнения другой стороны." />
+	<block key="eNetFailure_Move_Low_Level" korean="Уровень низкий, вы не можете стоять." />
+	<block key="eNetFailure_Move_IsNot_Finished_Quest" korean="Не выполнить квест, необходимые для поступления." />
+	<block key="eNetFailure_Move_DoNot_Have_Item" korean="Вы не должны элементов, необходимых для поступления." />
+	<block key="eNetFailure_Move_Invalid_Faction" korean="Эта тенденция не может войти иначе." />
+	<block key="eNetFailure_Move_IsNot_Party" korean="Вы больше не подписаны на вечеринку." />
+	<block key="eNetFailure_Move_InvalidRegion" korean="Неверный регион." />
+	<block key="eNetFailure_Move_DuplicatedRegion" korean="Этот район был зарегистрирован." />
+	<block key="eNetFailure_Move_NotDead" korean="Смерть не государство, это не может быть воскрешен." />
+	<block key="eNetFailure_Move_PacketError" korean="Произошла ошибка в мобильном пакете." />
+	<block key="eNetSuccess_Param" korean="eNetSuccess_Param Парам запрос был успешным." />
+	<block key="eNetFailure_Param_PacketError" korean="Произошла ошибка в пакете Парам." />
+	<block key="eNetSuccess_Party" korean="Запрос eNetSuccess_Party партия была успешной." />
+	<block key="eNetFailure_Party_PacketError" korean="Произошла ошибка в партии пакета." />
+	<block key="eNetFailure_Party_Not" korean="Не вступать в партию." />
+	<block key="eNetFailure_Party_Already" korean="Пользователь уже подписан на вечеринку." />
+	<block key="eNetFailure_Party_NotFound" korean="Вы можете найти пользователя." />
+	<block key="eNetFailure_Party_Full" korean="Там нет свободных мест для партии." />
+	<block key="eNetFailure_Party_NotMaster" korean="Вы не имеете разрешения." />
+	<block key="eNetFailure_Party_TimeDelay" korean="Задержка приглашения." />
+	<block key="eNetFailure_Party_NoInvite" korean="Я никогда не был приглашен." />
+	<block key="eNetFailure_Party_MapInstance" korean="Другое indeon пользователя относится." />
+	<block key="eNetFailure_Party_MyCutoff" korean="Пользователь в список заблокированных." />
+	<block key="eNetFailure_Party_HisCutoff" korean="Вы с другой стороны в списке блока." />
+	<block key="eNetSuccess_Quest" korean="Quest eNetSuccess_Quest запрос был успешным." />
+	<block key="eNetFailure_Quest_TheNpcCannotOpenDialog" korean="NPC включен, нет никакого открытого диалога." />
+	<block key="eNetFailure_Quest_TheNpcNotHavingTheQuest" korean="NPC не получили квест." />
+	<block key="eNetFailure_Quest_TheItemNotHavingTheQuest" korean="Элемент не имеет квеста." />
+	<block key="eNetFailure_Quest_MyLevelBelowQuestLevel" korean="Недостаточный уровень для выполнения их поиски." />
+	<block key="eNetFailure_Quest_HaveNoItemStartingTheQuest" korean="Вы не должны предметы, необходимые для квестов для выполнения." />
+	<block key="eNetFailure_Quest_MyClassDifferentQuest" korean="Текущее задание, вы не можете сделать это квест." />
+	<block key="eNetFailure_Quest_NotDonePrevQuest" korean="Не предыдущий квест." />
+	<block key="eNetFailure_Quest_DoneEqualQuest" korean="[QuestName] Квесты квесты вы уже завершена." />
+	<block key="eNetFailure_Quest_DoingQuest" korean="Постоянном стремлении." />
+	<block key="eNetFailure_Quest_NotDoingQuest" korean="Quest в настоящее время не ведется." />
+	<block key="eNetFailure_Quest_QuestFull" korean="Вы не можете получить больше квестов." />
+	<block key="eNetFailure_Quest_TheNpcNotFinishTheQuest" korean="Не конец квеста NPC." />
+	<block key="eNetFailure_Quest_RewardItemSelectionError" korean="Произошла ошибка в выборе награды." />
+	<block key="eNetFailure_Quest_InventoryFull" korean="Сумка полна." />
+	<block key="eNetFailure_Quest_NotFinishedQuest" korean="Не завершить квест." />
+	<block key="eNetFailure_Quest_HaveNoItemToReturn" korean="Не есть необходимость возвратить деталь." />
+	<block key="eNetFailure_Quest_NotQuestItem" korean="Не предмет,." />
+	<block key="eNetFailure_Quest_QuestItem" korean="Предмет,." />
+	<block key="eNetFailure_Quest_CannotJointInParty" korean="Сторона, не должны делиться квест." />
+	<block key="eNetFailure_Quest_CannotFindNpc" korean="Не можете найти NPC." />
+	<block key="eNetFailure_Quest_LongDistanceWithTheNpc" korean="Это ВСНП расстояние слишком далеко." />
+	<block key="eNetFailure_Quest_NoGivingUp" korean="Невозможно отказаться от квеста." />
+	<block key="eNetFailure_Quest_OnEscortGoing" korean="Остальные игроки находятся в процессе задания событий." />
+	<block key="eNetFailure_Quest_CannotJoinEscort" korean="Не может участвовать в квестах событий." />
+	<block key="eNetFailure_Quest_InvalidMapId" korean="Неправильное Карта ID." />
+	<block key="eNetFailure_Quest_InvalidAreaId" korean="Неверный Area ID." />
+	<block key="eNetFailure_Quest_InvalidSkillId" korean="Неверный навык ID." />
+	<block key="eNetFailure_Quest_InvalidScenarioId" korean="Неверный Сценарий ID." />
+	<block key="eNetFailure_Quest_NotFoundEndTalkNpc" korean="Quest не заканчивается с NPC и диалога миссии." />
+	<block key="eNetFailure_Quest_LimitTimeOver" korean="Quest истечении времени." />
+	<block key="eNetFailure_Quest_OverRepeatCount" korean="Quest превысило число итераций." />
+	<block key="eNetFailure_Quest_DataError" korean="Квест ошибка данных." />
+	<block key="eNetFailure_Quest_PacketError" korean="Квест пакетных ошибок." />
+	<block key="eNetFailure_Quest_NotJointInParty" korean="Вы больше не подписаны на вечеринку." />
+	<block key="eNetFailure_Quest_RefuseShareQuest" korean="Quest отказался поделиться с нами." />
+	<block key="eNetFailure_Quest_AlreadyOnShareQuest" korean="Уже поделились квест." />
+	<block key="eNetFailure_Quest_LogOffPlayer" korean="Соответствующий пользователь не зарегистрирован в." />
+	<block key="eNetFailure_Quest_MyLevelBelowQuestFinishLv" korean="Уровень низкий, вы не сможете выполнить квест." />
+	<block key="eNetFailure_Quest_AlreadyHave" korean="Навыки, которые вы уже имеете." />
+	<block key="eNetFailure_Quest_SlotisFull" korean="Там нет слота для мастерства." />
+	<block key="eNetFailure_Quest_PreskillRequired" korean="Узнал предыдущие навыки." />
+	<block key="eNetFailure_Quest_PreskillLvRequired" korean="Предыдущие уровни навыков являются низкими." />
+	<block key="eNetSuccess_Relation" korean="Сеть eNetSuccess_Relation запрос был успешным." />
+	<block key="eNetFailure_Relation_SendAlready" korean="Список уже было отправлено." />
+	<block key="eNetFailure_Relation_InvalidRelation" korean="Пользователь не зарегистрирован в списке друзей." />
+	<block key="eNetFaulure_Relation_NotExist" korean="Имя не существует." />
+	<block key="eNetFaulure_Relation_AlreadyCutoff" korean="Пользователь был зарегистрирован в списке блока." />
+	<block key="eNetFaulure_Relation_NotCutoff" korean="Пользователь не в списке блока." />
+	<block key="eNetFaulure_Relation_CannotCutoffMe" korean="Вы не можете запретить себе." />
+	<block key="eNetFaulure_Relation_CutoffFull" korean="Блок списка будет заполнен." />
+	<block key="eNetFaulure_Relation_CommentLengthOver" korean="Слово дня слишком долго." />
+	<block key="eNetFaulure_Relation_InvalidFriendState" korean="Существует состояние соединения другу неправильно." />
+	<block key="eNetFaulure_Relation_CutoffMemotLengthOver" korean="Блок заметки слишком долго." />
+	<block key="eNetFailure_Relation_DBError" korean="Произошла ошибка с контактами БД." />
+	<block key="eNetFailure_Relation_PacketError" korean="Произошла ошибка в пакетах социальных сетей." />
+	<block key="eNetSuccess_SCEvent" korean="eNetSuccess_SCEvent запрос был успешным." />
+	<block key="eNetsuccess_store" korean="eNetsuccess_store магазин запрос был успешным." />
+	<block key="eNetfailure_store_npc_not_found" korean="Не можете найти NPC." />
+	<block key="eNetfailure_store_invalid_npc" korean="Не магазин NPC." />
+	<block key="eNetfailure_store_item_not_found" korean="Товар отсутствует на магазине." />
+	<block key="eNetfailure_store_item_count_not_match" korean="Код товара не является правильным." />
+	<block key="eNetfailure_store_not_enough_money" korean="Недостаток средств в кармане." />
+	<block key="eNetfailure_store_npc_has_no_store" korean="Этот NPC не есть магазин." />
+	<block key="eNetfailure_store_wrong_price" korean="Покупка (продажа) цена не является правильным." />
+	<block key="eNetfailure_store_inven_error" korean="Вы не имеете деталь в сумке." />
+	<block key="eNetfailure_store_item_slot_empty" korean="Там нет товаров на продажу." />
+	<block key="eNetfailure_store_rebuy_not_match" korean="Есть слишком много запросов обратного выкупа список." />
+	<block key="eNetfailure_store_rebuy_item_not_exist" korean="Вы не имеете деталь вы хотите, чтобы выкупить." />
+	<block key="eNetfailure_store_sell_impossible_item" korean="Предметы, которые не могут быть проданы." />
+	<block key="eNetfailure_store_too_far" korean="Расстояние между магазинами NPC слишком далеко." />
+	<block key="eNetfailure_store_storage_full" korean="Сумка полна." />
+	<block key="eNetfailure_store_invalid_item_count" korean="Неверное число элементов, которые вы хотите приобрести." />
+	<block key="eNetfailure_store_refund_time_over" korean="Возврат тайм-аут, не возвращаются." />
+	<block key="eNetSuccess_trade" korean="Запрос сделка eNetSuccess_trade был успешным." />
+	<block key="eNetfailure_trade_im_ontrade" korean="Сделка уже идет." />
+	<block key="eNetfailure_trade_target_is_ontrade" korean="Вечеринка операции в прогресс." />
+	<block key="eNetfailure_trade_target_not_found" korean="Не можете найти Предметом сделки." />
+	<block key="eNetfailure_trade_item_not_found" korean="Нет вы не хотите торговать в вашей сумке." />
+	<block key="eNetfailure_trade_item_is_not_on_trade" korean="Там нет товаров в окне торговли." />
+	<block key="eNetfailure_trade_no_empty_slot" korean="Там нет пустых слотов в окне торговли." />
+	<block key="eNetfailure_trade_not_enough_money" korean="Недостаток средств в кармане." />
+	<block key="eNetfailure_trade_not_ready" korean="Торговля не готовый состояние." />
+	<block key="eNetfailure_trade_not_enough_space" korean="Сумка полна." />
+	<block key="eNetfailure_trade_not_open" korean="Уже готовы к сделке." />
+	<block key="eNetfailure_trade_item_is_already_on_trade" korean="Элемент уже поднял окно торговли." />
+	<block key="eNetfailure_trade_user_cancel" korean="Отменен сделку." />
+	<block key="eNetfailure_trade_impossible_item" korean="Сделка не является возможным вопросам." />
+	<block key="eNetfailure_trade_already_decided" korean="В ожидании решения другого." />
+	<block key="eNetfailure_trade_already_ready" korean="Уже готовы к сделке." />
+	<block key="eNetSuccess_User" korean="Запрос eNetSuccess_User игрок был успешным." />
+	<block key="eNetFailure_User_FailEntrance" korean="Позиция канала не удалось." />
+	<block key="eNetFailure_User_SequenceError" korean="Фазовый произошла ошибка." />
+	<block key="eNetFailure_User_DBError" korean="Произошла ошибка базы данных." />
+	<block key="eNetFailure_User_MadeCharFull" korean="Вы не можете создать больше ни характер." />
+	<block key="eNetFailure_User_UnknownDBKey" korean="Неизвестный персонаж базы данных ключей." />
+	<block key="eNetFailure_User_NameLengthOver" korean="Имя персонажа слишком долго." />
+	<block key="eNetFailure_User_NameOccupied" korean="Имя, которое вы используете." />
+	<block key="eNetFailure_User_NameIncludedWordBaned" korean="Имя, которое включает в себя слово запрещена." />
+	<block key="eNetFailure_User_TryToDownloadTwice" korean="Второй загрузить попытка." />
+	<block key="eNetFailure_User_NotRegistedWorld" korean="Не зарегистрированы мира." />
+	<block key="eNetFailure_User_NotOperatingWorld" korean="Не работает мир." />
+	<block key="eNetFailure_User_SelectingEqualWorld" korean="Вы выбрали один и тот же мир." />
+	<block key="eNetFailure_User_OverMaxUserSelectedWorld" korean="Люди, выбранный мир полон." />
+	<block key="eNetFailure_User_Invalid_Channel" korean="Неверный ID канала." />
+	<block key="enetfailure_user_namelengthshot" korean="Вы можете создать более 2 письма от." />
+	<block key="eNetFailure_User_BlockedID" korean="ID блока." />
+	<block key="eNetFailure_User_CannotFindNpc" korean="Не можете найти NPC." />
+	<block key="eNetFailure_User_NotDeleteGuildMaster" korean="Гильдии символ не может быть удален." />
+	<block key="eNetFailure_User_SystemError" korean="Пользователь ошибка системная ошибка." />
+	<block key="eNetFailure_User_PacketError" korean="Пакетных ошибок пользователя произошла." />
+	<block key="eNetFailure_User_Npc_too_far" korean="Расстояние слишком далеко от NPC." />
+	<block key="eNetSuccess_GMSVAgent" korean="eNetSuccess_GMSVAgent запрос был успешным." />
+	<block key="eNetFailure_GMSVAgent_FileNotFound" korean="Не можете найти исполняемый файл." />
+	<block key="eNetFailure_GMSVAgent_AlreadyRunning" korean="Это уже работает." />
+	<block key="eNetFailure_GMSVAgent_UnknownError" korean="Произошла неизвестная ошибка." />
+	<block key="eNetSuccess_GMSVGameServers" korean="Запрос был успешным." />
+	<block key="eNetFailure_GMSVGameServers_OperatingWorldSomewhere" korean="Был проблема с мировыми работ." />
+	<block key="eNetFailure_GMSVGameServers_InvalidWorld" korean="Неправильное мира." />
+	<block key="eNetSuccess_GMSVManager" korean="Запрос был успешным." />
+	<block key="eNetFailure_GMSVManager_NotExistedID" korean="Не можете найти ID." />
+	<block key="eNetFailure_GMSVManager_WrongPassword" korean="Неправильный пароль." />
+	<block key="eNetFailure_GMSVManager_DBQueryError" korean="Ошибка БД произошло." />
+	<block key="eNetFailure_GMSVManager_SuspiciousPacket" korean="Неверный пакетов." />
+	<block key="eNetFailure_GMSVManager_InvalidWorld" korean="Неправильное мира." />
+	<block key="eNetFailure_GMSVManager_EventNotificationFull" korean="Уведомление о событии полон." />
+	<block key="eNetFailure_GMSVManager_WorldisRunning" korean="Мир состояние функционирования." />
+	<block key="eNetFailure_GMSVManager_WorldisStopped" korean="Мир остановился." />
+	<block key="eNetSuccess_Entry" korean="Запись была успешной." />
+	<block key="eNetFailure_Entry_SequenceError" korean="Игра Подключение проблема с вашим заказом обрабатывается." />
+	<block key="eNetFailure_Entry_NotExistedID" korean="Не существует. ID." />
+	<block key="eNetFailure_Entry_WrongPassword" korean="Неправильный пароль." />
+	<block key="eNetFailure_Entry_BlockedIP" korean="Это ограниченное использование ИС." />
+	<block key="eNetFailure_Entry_BlockedID" korean="Это ограниченное использование ID." />
+	<block key="eNetFailure_Entry_NotUserForGame" korean="Не геймеры." />
+	<block key="eNetFailure_Entry_EqualAccountConnected" korean="Учет такой связи в других местах." />
+	<block key="eNetFailure_Entry_DBQueryError" korean="Ошибка запроса БД произошло." />
+	<block key="eNetFailure_Entry_AccountFull" korean="Максимальный счет." />
+	<block key="eNetFailure_Entry_UnlinkedWithMainServer" korean="Вы не подключены к главному серверу." />
+	<block key="eNetFailure_Entry_NotRegistedWorld" korean="Не зарегистрированы мира." />
+	<block key="eNetFailure_Entry_NotOperatingWorld" korean="Не работает мир." />
+	<block key="eNetFailure_Entry_OverMaxUser" korean="Есть много людей, связанных с текущим сервером.\nПожалуйста, подключите еще раз позже." />
+	<block key="eNetFailure_Entry_SuspiciousPacket" korean="Неизвестный пакет." />
+	<block key="eNetFailure_Entry" korean="Комплексная ошибка." />
+	<block key="eNetSuccess_Channel" korean="Канал доступа" />
+	<block key="eNetFailure_Channel_NotRegistedWorld" korean="Не зарегистрированы мира." />
+	<block key="eNetFailure_Channel_NotOperatingWorld" korean="Не работает мир." />
+	<block key="eNetFailure_Channel_OperatingWorldSomewhere" korean="Мир уже в работе." />
+	<block key="eNetFailure_Channel_AccountNotConnected" korean="Счета, которые не подключены." />
+	<block key="eNetFailure_Channel_PacketError" korean="Произошла ошибка в пакете канала." />
+	<block key="eNetSuccess_Login" korean="Войти" />
+	<block key="eNetFailure_Login_EqualAccountConnected" korean="Подключение таких счетов." />
+	<block key="eNetFailure_Login_DBQueryError" korean="Ошибка запроса базы данных не произошло." />
+	<block key="eNetFailure_Login_AccountFull" korean="Учетная запись для доступа полон." />
+	<block key="eNetFailure_Login_AccountNotConnected" korean="Учетная запись не вошли в систему." />
+	<block key="eNetFailure_Login_WorldNotRegisted" korean="Не зарегистрированы мира." />
+	<block key="eNetFailure_Login_NotOperatingWorld" korean="Не работает мир." />
+	<block key="eNetSuccess_StressTest" korean="Есть в стресс-тестов." />
+	<block key="eNetSuccess_Creature" korean="Человек" />
+	<block key="eNetFailure_Creature_Empty" korean="Там нет молодец." />
+	<block key="eNetFailure_Creature_NotBoarding" korean="Сотрудник плата не придется." />
+	<block key="eNetFailure_Creature_Boarding" korean="Это уже на борту человек." />
+	<block key="eNetFailure_Creature_NotLearnedSkill" korean="Не учиться мастерству." />
+	<block key="eNetFailure_Creature_NoSerachableTarget" korean="Не можете найти цель." />
+	<block key="eNetFailure_Creature_IsNotActableState" korean="Статус бездействие." />
+	<block key="eNetFailure_Creature_NotRegistedSkill" korean="Не зарегистрированы мастерство." />
+	<block key="eNetFailure_Creature_NotOverActableTime" korean="Время восстановления еще не была достигнута." />
+	<block key="eNetFailure_Creature_NotEnabled" korean="Не участвует." />
+	<block key="eNetFailure_Creature_FarDistantThanActionRange" korean="Чем в далеком диапазоне." />
+	<block key="eNetFailure_Creature_WithinMinActableRange" korean="Вы так близко." />
+	<block key="eNetFailure_Creature_IsNotDamagableTarget" korean="Враг не может атаковать." />
+	<block key="eNetFailure_Creature_GaugeLow" korean="Растет калибра шляпу." />
+	<block key="eNetFailure_Creature_WrongTarget" korean="Ту цель." />
+	<block key="eNetFailure_Creature_CannotActCastingSkillOnSilenceState" korean="Молчание не может быть использован, чтобы бросить свое мастерство." />
+	<block key="eNetFailure_Creature_NotCastingState" korean="Не будучи брошен." />
+	<block key="eNetFailure_Creature_WhileActingLinkedSkill" korean="В ролях навыки связи." />
+	<block key="eNetFailure_Creature_NotOverGlobalCoolTime" korean="Глобальный кулдаун в процессе." />
+	<block key="eNetFailure_Creature_ToggledSkill" korean="Навык состояние переключения." />
+	<block key="eNetFailure_Creature_NeedQuest" korean="Стипендиаты требуется для того, чтобы напасть на поиски." />
+	<block key="eNetFailure_Creature_NeedItem" korean="Стипендиаты требуется для того, чтобы напасть на этот пункт." />
+	<block key="eNetFailure_Creature_MagicstonConvFailInvalidCreature" korean="Неверный сотрудник." />
+	<block key="eNetFailure_Creature_MagicstonConvFailWrongCreatureLevel" korean="Сотрудник уровень вне диапазона younghonseok преобразования." />
+	<block key="eNetFailure_Creature_MagicstonConvFailITObjectNotExist" korean="Там нет объектов взаимодействия, необходимые для younghonseok преобразования." />
+	<block key="eNetFailure_Creature_MagicstonConvMagicStoneNotExist" korean="Я поставил younghonseok, younghonseok преобразования не удалось." />
+	<block key="eNetFailure_Creature_MagicstonConvInvalidSkill" korean="Younghonseok преобразование умение неправильно." />
+	<block key="eNetFailure_Creature_MagicstonConvNotAllowObserverState" korean="Статус наблюдателя не может younghonseok преобразования." />
+	<block key="eNetFailure_Creature_MagicstonConvAction" korean="Younghonseok не удалось преобразовать." />
+	<block key="eNetFailure_Item_ImpossibleChangeEquip2" korean="Сотрудник находится всего в носимых предметов на борту." />
+	<block key="ServerNotice_0002" korean="Сотрудник библиотеки полном объеме." />
+	<block key="eNetFailure_User_ForceKick_GM" korean="Сервер был отключен." />
+	<block key="eNetFailure_User_ForceKick_Error" korean="Сила была закрыта из-за фатальной ошибки." />
+	<block key="eNetFailure_User_ForceKick_DBError" korean="Сила была закрыта из-за ошибки БД." />
+	<block key="eNetFailure_User_ForceKick_Timeout" korean="Прерван из-за длительного времени вдали." />
+	<block key="eNetFailure_User_ForceKick_Etc" korean="Сервер был закрыт." />
+	<block key="enetfailure_item_gatheringfinished" korean="Предмет, больше не может быть." />
+	<block key="eNetFailure_Entry_ForceKick_Push" korean="Сила в конечном итоге в другом месте, например, доступа к учетной записи." />
+	<block key="eNetFailure_Entry_ForceKick_GM" korean="Производство стали был сбор операциями обслуживания." />
+	<block key="eNetFailure_Entry_ForceKick_Error" korean="Группа была прервана из-за ошибки в программе." />
+	<block key="eNetFailure_Entry_ForceKick_DBError" korean="Сила была закрыта из-за ошибки БД." />
+	<block key="eNetFailure_Entry_ForceKick_Timeout" korean="Было прекращено в связи с долгой перспективе атмосферным воздействиям." />
+	<block key="eNetFailure_Entry_ForceKick_Etc" korean="Был убит другим причинам." />
+	<block key="eNetFailure_User_DiffrenceProtocolVersion" korean="Эта версия не совпадает." />
+	<block key="enetfailure_action_boardingskill" korean="Навык, который может быть использован только во время езды." />
+	<block key="enetfailure_action_frozenstate" korean="Статуя состояние." />
+	<block key="enetfailure_action_gaugelow" korean="Недостаточно показатели потребления не могут быть использованы." />
+	<block key="enetfailure_action_removeresurrectionpenaltydataerror" korean="Вы не можете удалить воскресение побочные эффекты ошибок в данных." />
+	<block key="enetfailure_action_removeresurrectionpenaltyinvalidnpc" korean="Воскресение последствия не удалить NPC." />
+	<block key="enetfailure_action_removeresurrectionpenaltynopenalty" korean="Воскресение не состояние осложнения." />
+	<block key="enetfailure_action_removeresurrectionpenaltynotenoughmoney" korean="Средства в кармане не может относиться к осложнениям из-за отсутствия Воскресения." />
+	<block key="enetfailure_action_ridefail" korean="Не удалось наверстать упущенное." />
+	<block key="enetfailure_action_NeedBagItemSlot" korean="Опорожнить мешок, вам нужно попробовать еще раз." />
+	<block key="enetfailure_action_invalidtargetstate" korean="Там нет цель." />
+	<block key="enetfailure_changgo_trade_on" korean="Потому что вы не можете воспользоваться элементов складских частные сделки." />
+	<block key="enetfailure_creature_magicstonconvequipeditem" korean="Fellows не может быть преобразован в younghonseok, потому что снабжен элементом." />
+	<block key="enetfailure_enchant_trade_on" korean="Потому что отдельные сделки элементы не могут быть усилены." />
+	<block key="enetfailure_entry_certfail" korean="Не удалось получить учетные данные." />
+	<block key="enetfailure_entry_certlocalerror" korean="Ошибка системы аутентификации произошла на локальной машине." />
+	<block key="enetfailure_entry_certsystemerror" korean="Не определен системную ошибку аутентификации." />
+	<block key="enetfailure_entry_certtimeout" korean="Был превышен этот раз." />
+	<block key="enetfailure_item_changgofull" korean="Я пролил заполнен." />
+	<block key="enetfailure_item_dyeing_wrong_start_pos" korean="Случайные крашение позиционирование неверно." />
+	<block key="enetfailure_item_notcombineconsumeitem" korean="Элементы, которые не могут быть объединены." />
+	<block key="enetfailure_item_notenoughingredient" korean="Этот материал детали является низкой." />
+	<block key="enetfailure_item_trade_on" korean="Это частная сделка по пункту." />
+	<block key="enetfailure_learnskill_skillbook_trade_on" korean="Потому что вы не можете узнать навыки, которые частные сделки элементов." />
+	<block key="enetfailure_party_money" korean="Отсутствие денег не требуется." />
+	<block key="enetfailure_user_cannotchangequickslot" korean="Вы не можете изменить окно скорости." />
+	<block key="enetfailure_user_forcekick_push" korean="Сила в конечном итоге в другом месте, например, доступа к учетной записи." />
+	<block key="enetsuccess_mentor" korean="Наставник запрос был успешным." />
+	<block key="enetfailure_creature_nameincludedwordbaned" korean="Сотрудник ошибке название произошло." />
+	<block key="enetfailure_creature_itemnothave" korean="Не предмет, который у вас есть." />
+	<block key="enetfailure_creature_itemnotbagstorage" korean="Товар не может быть положено в мешок." />
+	<block key="enetfailure_creature_itemtradeon" korean="Это частная сделка по пункту." />
+	<block key="enetfailure_creature_itemstorageincorrect" korean="Тип хранения не является правильным." />
+	<block key="enetfailure_creature_itemnotallowfellow" korean="Этот пункт не для стипендиатов." />
+	<block key="enetfailure_item_notallowfellow" korean="Этот пункт не для стипендиатов." />
+	<block key="enetfailure_creature_itemnotequalfellowrace" korean="Сотрудник расы, товара нет в наличии." />
+	<block key="enetfailure_item_equipimpossiblepart" korean="Элемент не может быть установлен в этом районе." />
+	<block key="enetfailure_item_creature_empty" korean="Сотрудник не существует." />
+	<block key="enetfailure_item_notequalfellowrace" korean="Сотрудник расы, товара нет в наличии." />
+	<block key="enetfailure_action_knockdownstate" korean="Сбитый состояние." />
+	<block key="enetfailure_action_oncombatskill" korean="Навык, который может быть использован только в бою." />
+	<block key="enetfailure_action_notoncombatskill" korean="Навык, который может быть использован только в не-боевых условий." />
+	<block key="enetfailure_creature_soulstoneconvfailinvalidcreature" korean="Парень не может быть преобразован в younghonseok." />
+	<block key="enetfailure_creature_soulstoneconvfailwrongcreaturelevel" korean="Шаг душа связи не могут быть преобразованы в низкой younghonseok." />
+	<block key="enetfailure_creature_soulstoneconvfailitobjectnotexist" korean="Там нет связанных younghonseok." />
+	<block key="enetfailure_creature_soulstoneconvsoulstonenotexist" korean="Там нет связанных younghonseok (younghonseok)" />
+	<block key="enetfailure_creature_soulstoneconvinvalidskill" korean="Умение не действует и не может быть преобразован в younghonseok." />
+	<block key="enetfailure_creature_soulstoneconvnotallowobserverstate" korean="Государство не может быть преобразован в younghonseok (наблюдатель)" />
+	<block key="enetfailure_creature_soulstoneconvaction" korean="Это действие не является действительным, и не могут быть преобразованы в younghonseok." />
+	<block key="enetfailure_creature_soulstoneconvequipeditem" korean="Fellows не может быть преобразован в younghonseok, потому что снабжен элементом." />
+	<block key="enetfailure_creature_change_name_item_nothave" korean="Там нет необходимости, чтобы изменить имя своего товарища элементов." />
+	<block key="enetfailure_enchant_soul_stone_needed" korean="Там нет необходимости younghonseok." />
+	<block key="enetfailure_enchant_not_exist_conversion_soul_stone" korean="Younghonseok быть преобразованы, не существует." />
+	<block key="enetfailure_enchant_cannot_soul_stone_conversion" korean="Вы не можете быть преобразованы в younghonseok." />
+	<block key="enetfailure_enchant_repair_soul_stone_needed" korean="Там нет необходимости для ремонта younghonseok." />
+	<block key="enetfailure_enchant_repair_soul_stone_max_durability" korean="Максимальное значение younghonseok прочности." />
+	<block key="enetfailure_enchant_repair_soul_stone_low_level" korean="Меньшее значение не может быть восстановлен." />
+	<block key="enetfailure_item_notexistpassiveequipment" korean="Монтаж пассивный навык пункта не существует." />
+	<block key="enetfailure_item_notenoughfellowhp" korean="Сотрудник жизнеспособность низка." />
+	<block key="eNetFailure_Item_NotEnoughFellowEP" korean="Энергия сотрудник является низким." />
+	<block key="enetfailure_quest_mygenderdifferentquest" korean="Это не в состоянии приступить к секс квестов." />
+	<block key="enetfailure_quest_donesiblingquest" korean="Есть квесты, которые не могут быть сделаны в то же время выполнять полный." />
+	<block key="enetfailure_quest_doingsiblingquest" korean="Существует постоянный квест не может быть выполнен в то же время." />
+	<block key="enetfailure_gmsvgameservers_player_not_found" korean="Неизвестная ошибка." />
+	<block key="enetsuccess_managerchracter" korean="Неизвестная ошибка." />
+	<block key="enetfailure_managercharacter_gameservernotfound" korean="Неизвестная ошибка." />
+	<block key="enetfailure_managercharacter_queryisonprogress" korean="Неизвестная ошибка." />
+	<block key="enetfailure_managercharacter_dberror" korean="Неизвестная ошибка." />
+	<block key="enetfailure_managercharacter_wrongindex" korean="Неизвестная ошибка." />
+	<block key="enetfailure_managercharacter_noresult" korean="Неизвестная ошибка." />
+	<block key="enetfailure_managercharacter_notconnected" korean="Неизвестная ошибка." />
+	<block key="enetsuccess_managerfellow" korean="Неизвестная ошибка." />
+	<block key="enetsuccess_manageritem" korean="Неизвестная ошибка." />
+	<block key="enetfailure_manageritem_gameservernotfound" korean="Неизвестная ошибка." />
+	<block key="enetfailure_manageritem_characternotfound" korean="Неизвестная ошибка." />
+	<block key="enetfailure_manageritem_keynotfound" korean="Неизвестная ошибка." />
+	<block key="enetfailure_manageritem_datainvalid" korean="Неизвестная ошибка." />
+	<block key="enetfailure_manageritem_queryisonprogress" korean="Неизвестная ошибка." />
+	<block key="enetfailure_manageritem_dberror" korean="Неизвестная ошибка." />
+	<block key="enetsuccess_managerquest" korean="Неизвестная ошибка." />
+	<block key="enetsuccess_managerskill" korean="Неизвестная ошибка." />
+	<block key="enetfailure_creature_soulstoneconvfailnotallowgrowthstage" korean="Фаза роста не может быть преобразован в низкую younghonseok." />
+	<block key="enetfailure_creature_soulstoneconvfailnotallowsoulbandstage" korean="Шаг душа связи не могут быть преобразованы в низкой younghonseok." />
+	<block key="enetfailure_creature_invalid_fellowmaster" korean="Не зверь тренер." />
+	<block key="enetfailure_creature_fellowmaster_too_far" korean="Расстояние слишком далеко, и зверь тренер." />
+	<block key="enetfailure_creature_fellownotinmap" korean="Стипендиаты не вызвал." />
+	<block key="enetfailure_creature_notallowgrowthstage" korean="Фаза роста не допускается." />
+	<block key="enetfailure_creature_notallowsoulbandstage" korean="Душа связи не могут сойти с низких темпов роста решена." />
+	<block key="enetfailure_item_existsummonfellow" korean="Стипендиаты вызвал." />
+	<block key="enetfailure_quest_alreadyfinishedmission" korean="Квест уже закончен." />
+	<block key="enetfailure_quest_notfinishpremission" korean="Вы не выполнили предыдущее задание." />
+	<block key="enetfailure_quest_dissatisfiedsubemission" korean="Этот подпункт миссия не является правильным." />
+	<block key="enetfailure_learnskill_masteryskill_need" korean="Мастерство условие не будет выполнено." />
+	<block key="enetfailure_managercharacter_gameservernotoperating" korean="Gameserver не работает" />
+	<block key="eNetFailure_Action_FireStartingForSkillState" korean="Литье навыков." />
+	<block key="eNetFailure_Agreement_DistanceError" korean="Расстояние слишком далеко." />
+	<block key="eNetFailure_Agreement_MapError" korean="На разных картах или канала." />
+	<block key="eNetFailure_Creature_Already_Summon" korean="Стипендиаты уже вызвали." />
+	<block key="eNetFailure_Creature_NoItem" korean="Там нет необходимости, чтобы вызвать коллег пунктов." />
+	<block key="eNetFailure_GMSVMainServers_GameServerNotFound" korean="Сервер не может быть найден." />
+	<block key="eNetFailure_GMSVMainServers_GameServerNotOperating" korean="Вы не можете управлять сервером." />
+	<block key="eNetFailure_GMSVMainServers_NotConnected" korean="Я не могу подключиться к серверу." />
+	<block key="eNetFailure_Item_broken_item" korean="Сломленный деталь." />
+	<block key="eNetFailure_Item_FellowNotSummon" korean="Не вызывать парень не может освободить души связей." />
+	<block key="eNetFailure_Item_Fellowalreadystrong" korean="Датчик душа полна солидарность." />
+	<block key="eNetFailure_Item_NotEnoughLevel" korean="Не доступно уровень." />
+	<block key="eNetFailure_Mail_cant_send_to_me" korean="Вы не можете отправить к вам." />
+	<block key="eNetFailure_ManagerItem_NoResult" korean="ManagerItem_NoResult" />
+	<block key="eNetSuccess_GMSVMainServers" korean="eNetSuccess_GMSVMainServers" />
+	<block key="eNetFailure_Action_InvalidTamingState" korean="Укрощение состояние не подходит." />
+	<block key="eNetFailure_Action_masternotmonster" korean="Вы можете использовать только хозяин не монстр." />
+	<block key="eNetFailure_Action_masternotplayer" korean="Вы можете использовать только хозяин не игрок." />
+	<block key="eNetFailure_Action_notregistedcomboskill" korean="Не зарегистрированы комбо навыки." />
+	<block key="eNetFailure_Action_skillairbornemovingstate" korean="Навык условия движения воздуха." />
+	<block key="eNetFailure_Action_stiffstate" korean="Жесткого государственного." />
+	<block key="eNetFailure_agreement_alliancequalify" korean="Не соответствует условиям участия сил." />
+	<block key="eNetFailure_agreement_alliancecreateabort" korean="Производство электроэнергии прекращается." />
+	<block key="eNetFailure_agreement_alreadyjoinalliance" korean="Вы уже участвуют в вооруженных силах." />
+	<block key="eNetFailure_agreement_duelattackercooltime" korean="Дуэль в режиме ожидания. Пожалуйста, повторите попытку позже." />
+	<block key="eNetFailure_agreement_duelattackerdead" korean="В смерти государство не может драться на дуэли." />
+	<block key="eNetFailure_agreement_dueldefendercooltime" korean="Дуэль в режиме ожидания. Пожалуйста, повторите попытку позже." />
+	<block key="eNetFailure_agreement_dueldefenderdead" korean="Умер игроков и не сможет драться на дуэли." />
+	<block key="eNetFailure_agreement_notalliancemaster" korean="Сил нет освоить." />
+	<block key="eNetFailure_agreement_notguildmaster" korean="Гильдии нет." />
+	<block key="eNetFailure_alliance_alliance_master_qualify" korean="Не были соблюдены требования приемлемости для сил хозяина." />
+	<block key="eNetFailure_alliance_dberror" korean="Ошибка базы данных." />
+	<block key="eNetFailure_alliance_guild_master_offline" korean="Гильдии в автономном режиме." />
+	<block key="eNetFailure_alliance_guild_master_qualify" korean="Гильдии нет." />
+	<block key="eNetFailure_alliance_guild_not_found" korean="Не можете найти гильдию." />
+	<block key="eNetFailure_alliance_invalid_npc" korean="Неверный NPC." />
+	<block key="eNetFailure_alliance_nameincludedwordbaned" korean="Имя, которое включает в себя слово запрещена." />
+	<block key="eNetFailure_alliance_nameoccupied" korean="То же самое имя уже используется." />
+	<block key="eNetFailure_alliance_not_found" korean="Не можете найти свои силы." />
+	<block key="eNetFailure_alliance_npc_too_far" korean="NPC находится слишком далеко." />
+	<block key="eNetFailure_alliance_packeterror" korean="Заставляет пакетных ошибок не произошло." />
+	<block key="eNetFailure_channel_notallowedgrade" korean="Кого они говорить не Оценивать ваш счет доступа к миру." />
+	<block key="eNetFailure_channel_notallowexternal" korean="Мир не может быть подключен к внешнему IP." />
+	<block key="enetfailure_farm_already_reclamation" korean="Ошибка ввода сообщения требуется." />
+	<block key="enetfailure_farm_have_not_toolitem" korean="Там никакие детали инструмента." />
+	<block key="enetfailure_farm_invalid_reclamation" korean="Ошибка ввода сообщения требуется." />
+	<block key="enetfailure_farm_not_exist" korean="Ферма не существует." />
+	<block key="enetfailure_farm_not_farmowner" korean="Не владелец фермы." />
+	<block key="enetfailure_farm_not_mine" korean="Не ферма его самостоятельно." />
+	<block key="enetfailure_farm_not_use" korean="Ошибка ввода сообщения требуется." />
+	<block key="enetfailure_farm_not_use_cultivation" korean="Ошибка ввода сообщения требуется." />
+	<block key="enetfailure_farm_packeterror" korean="Пакетных ошибок." />
+	<block key="enetfailure_farm_wrong_cultivatetype" korean="Ошибка ввода сообщения требуется." />
+	<block key="enetfailure_farm_wrong_location" korean="Ошибка ввода сообщения требуется." />
+	<block key="enetfailure_gmsvgameservers_cheatfailed" korean="Памятка gmsvgameservers не удалось." />
+	<block key="enetfailure_gmsvmanager_toolongpassword" korean="Пароль слишком долго." />
+	<block key="enetfailure_login_notallowedgrade" korean="Рейтинг невозможно получить доступ." />
+	<block key="enetfailure_login_notallowexternal" korean="Сервер не может быть внешне соединены." />
+	<block key="enetfailure_managercharacter_packeterror" korean="Ошибочных пакетов администратор символов произошло." />
+	<block key="enetfailure_production_belowitemlevel" korean="Их уровень ниже, чем уровень предмета." />
+	<block key="enetfailure_production_dataerror" korean="Ошибка в передаче данных произошло." />
+	<block key="enetfailure_production_invalid_item" korean="Неправильные детали." />
+	<block key="enetfailure_production_invalid_npc" korean="NPC не существует." />
+	<block key="enetfailure_production_low_level" korean="Уровень низкий." />
+	<block key="enetfailure_production_low_mastery" korean="Знание является низким." />
+	<block key="enetfailure_production_no_have_item" korean="Там нет материальных предметов." />
+	<block key="enetfailure_production_no_have_toolitem" korean="Отсутствие инструментов." />
+	<block key="enetfailure_production_no_learn_technique" korean="Не узнать навыки." />
+	<block key="enetfailure_production_not_enough_money" korean="Существует не хватает денег." />
+	<block key="enetfailure_production_registerdrecipealready" korean="Рецепт уже зарегистрированы." />
+	<block key="enetfailure_production_storagefull" korean="Инвентарь полон." />
+	<block key="enetfailure_production_target_too_far" korean="Расстояние между мишенью и находится слишком далеко." />
+	<block key="enetsuccess_alliance" korean="Запрос Питание было успешным." />
+	<block key="enetsuccess_farm" korean="Запрос Farm был успешным." />
+	<block key="enetsuccess_production" korean="Создание запроса была успешной." />
+	<block key="enetfailure_farm_dberror" korean="Возникла ошибка базы данных фермы." />
+	<block key="enetfailure_action_notskyskill" korean="Умение не может быть использовано в воздухе." />
+	<block key="enetfailure_action_notgroundskill" korean="Умение не может быть использовано на земле." />
+	<block key="enetfailure_action_forbidoverlaprange" korean="Это свойство не могут перекрываться область используется." />
+	<block key="enetfailure_farm_systemerror" korean="Системная ошибка Farm произошло." />
+	<block key="enetfailure_farm_invalid_extend_days" korean="Неправильный длительно эксплуатируемых дату расширения." />
+	<block key="enetfailure_farm_not_enough_money" korean="Отсутствие средств в кармане." />
+	<block key="enetfailure_item_notfarmowner" korean="Существует никто не владеет фермой." />
+	<block key="enetfailure_item_notexistcropobject" korean="Объектом семян сельскохозяйственных культур euryeoneun ядра не существует." />
+	<block key="enetfailure_item_invalidpos" korean="Место было не так doeeot пахотных земель." />
+	<block key="enetfailure_item_notusablecultivation" korean="Пахотная земля непригодна." />
+	<block key="enetfailure_item_invalidcultivatetype" korean="Пахотные земли рекультивация тип отличается." />
+	<block key="enetfailure_item_invalidfarmmap" korean="Не доступно ферма карту." />
+	<block key="enetfailure_item_notenoughfarmlevel" korean="Не доступно фермы представитель луч." />
+	<block key="enetfailure_move_donotcreatenormalgrade" korean="Indeon не в состоянии производить общую трудность." />
+	<block key="enetfailure_move_dungeonlimitnum" korean="Принимает ограничения indeon персонала." />
+	<block key="enetfailure_move_normaldungeonlimitcount" korean="1 ограничения на количество раз, когда она занимает час, чтобы войти в общий рейтинг indeon." />
+	<block key="enetfailure_move_invaliddungeongrade" korean="Трудность заключается не правильно. Пожалуйста, повторите попытку позже." />
+	<block key="enetfailure_move_invalidplayerstate" korean="Вы не можете двигаться." />
+	<block key="enetfailure_move_dungeonnextentertimelimit" korean="Время возвращения уехал. Пожалуйста, повторите попытку позже." />
+	<block key="enetfailure_quest_canmissionfinishinvenfull" korean="Инвентарь полон, вы не можете завершить миссию." />
+	<block key="enetfailure_quest_invaliditemid" korean="Неверный ID пункта." />
+	<block key="enetsuccess_soultalents" korean="Был успешно." />
+	<block key="enetfailure_soultalents_not_enough_money" korean="Недостаток средств в кармане." />
+	<block key="enetfailure_soultalents_not_enough_point" korean="Сила души является низким." />
+	<block key="enetfailure_soultalents_low_mastery" korean="Знание является низким." />
+	<block key="enetfailure_soultalents_target_too_far" korean="Расстояние между мишенью и находится слишком далеко." />
+	<block key="enetfailure_soultalents_notsoulstoneitem" korean="Younghonseok нет." />
+	<block key="enetfailure_soultalents_impossibleawakenpart" korean="Пробуждение не возможно сайта." />
+	<block key="enetfailure_soultalents_alreadyawakenpart" korean="Соответствующий сайт уже проснулся состояние." />
+	<block key="enetfailure_soultalents_notopenpart" korean="Пораженный участок не является активным." />
+	<block key="enetfailure_soultalents_impossibleawakencolorslot" korean="Пробуждение не возможные цвета." />
+	<block key="enetfailure_soultalents_impossibleskillfulgrow" korean="Рост Знание невозможно." />
+	<block key="enetfailure_soultalents_dataerror" korean="Ошибка в передаче данных произошло." />
+	<block key="enetsuccess_technique" korean="Был успешно." />
+	<block key="enetfailure_technique_not_enough_money" korean="Эта сумма является недостаточной." />
+	<block key="enetfailure_technique_low_mastery" korean="Знание является низким." />
+	<block key="enetfailure_technique_target_too_far" korean="Расстояние между мишенью и находится слишком далеко." />
+	<block key="enetfailure_technique_invalid_type" korean="Неверный тип технологии." />
+	<block key="enetfailure_technique_invalid_grade" korean="Неправильное технический сорт." />
+	<block key="enetfailure_technique_invalid_npc" korean="Неверный NPC." />
+	<block key="enetfailure_technique_already_learned_tech" korean="Навыки уже научились." />
+	<block key="enetfailure_technique_not_learn_tech" korean="Неграмотным Technology (класс)." />
+	<block key="enetfailure_technique_dataerror" korean="Ошибка в передаче данных произошло." />
+	<block key="enetfailure_item_reinforce_limit_level" korean="Элемент не может быть повышена больше." />
+	<block key="enetfailure_action_invalidcaster" korean="Кастер недействительным." />
+	<block key="enetfailure_action_actionblockstate" korean="Негосударственное поведение." />
+	<block key="enetfailure_action_notchargeskill" korean="Это обвинение не мастерство." />
+	<block key="enetfailure_action_cannotchargestate" korean="Заряд из строя." />
+	<block key="enetfailure_action_withinminheightfromground" korean="Минимальная высота действий, когда вас внутри." />
+	<block key="enetfailure_action_masternotexist" korean="Навык, который может быть использован, только если есть хозяин." />
+	<block key="enetfailure_chat_target_away" korean="Назначения государственной прочь." />
+	<block key="enetfailure_creature_expandslot_exceed" korean="Вы не можете расширить больше." />
+	<block key="enetfailure_creature_expandslot_max_bytamer" korean="Вы превысили слот, чтобы получить тренера." />
+	<block key="enetfailure_creature_expandslot_requiredlevel" korean="Уровень спроса является низкой." />
+	<block key="enetfailure_creature_expandslot_cost" korean="Недостаток средств в кармане." />
+	<block key="enetfailure_interaction_collectingmastery" korean="Выбор рейтинга низкая." />
+	<block key="enetfailure_interaction_not_farm_owner" korean="Существует никто не владеет фермой." />
+	<block key="enetfailure_interaction_invalid_cultivaiton" korean="Взаимодействие расположение объекта и использование пахотных земельными отличается." />
+	<block key="enetfailure_interaction_not_enough_growth" korean="Рост урожая даже не достаточно, чтобы собрать." />
+	<block key="enetfaulure_interaction_error_yield_data" korean="Нет выход данных." />
+	<block key="enetfailure_move_systemerror" korean="Неизвестная ошибка системы. Пожалуйста, повторите попытку позже." />
+	<block key="enetfailure_move_dungeongradeselectrequest" korean="Подземелья рейтинг был выбран. Пожалуйста, повторите попытку позже." />
+	<block key="enetfailure_move_partymemberalreadydungeon" korean="Положение тех, кто уже является участником состоянии indeon." />
+	<block key="enetfailure_move_notinstancedungeon" korean="Не экземпляра подземелья." />
+	<block key="enetfailure_move_donotgradereservation" korean="Рейтинг предварительный заказ не выбран." />
+	<block key="enetfailure_move_gradeselecttimelimit" korean="Indeon трудность Время выбора предела прошло." />
+	<block key="enetfailure_move_alreadydungeoncreated" korean="Indeon уже сформирована." />
+	<block key="enetfailure_move_notpartymaster" korean="Не является стороной главы." />
+	<block key="enetfailure_quest_developitem" korean="Пункт для развития." />
+	<block key="enetfailure_soultalents_low_level" korean="Уровень низкий." />
+	<block key="enetfailure_soultalents_notawakenpart" korean="Пораженный участок находится в собственности государства не было предоставлено." />
+	<block key="enetfailure_user_invalidslotbutton" korean="Это не тип кнопки быстрого, зарегистрированной в слот." />
+	<block key="enetfailure_user_overslotindexcount" korean="Зарегистрирован в быстрой номер слота выходит за пределы." />
+	<block key="enetfailure_user_invalidslotbuttonrecord" korean="Рекордное значение кнопка быстрого не существует." />
+	<block key="eNetFailure_User_ChangeChannelInvalidState" korean="Канал не может поддерживать движение." />
+	<block key="enetfailure_managerquest_gameservernotfound" korean="Не можете найти игровой сервер." />
+	<block key="enetfailure_managerquest_gameservernotoperating" korean="Вы не можете управлять игровыми серверами." />
+	<block key="enetfailure_managerquest_notconnected" korean="Вы не подключены." />
+	<block key="eNetFailure_Item_FellowBook_RegisterdAlready" korean="Вы уже зарегистрированы." />
+	<block key="eNetFailure_Fellow_Empty" korean="Сотрудник не существует." />
+	<block key="eNetFailure_Action_GaugeLow_HP" korean="Это жизненная сила невелика." />
+	<block key="eNetFailure_Action_GaugeLow_MP" korean="Мана на низком уровне." />
+	<block key="eNetFailure_Action_GaugeLow_EP" korean="Сотрудник энергия мала." />
+	<block key="eNetFailure_Action_GaugeLow_SP" korean="Жетоны не может быть использована из-за отсутствия света." />
+	<block key="eNetFailure_Action_GaugeLow_FP" korean="Из гнева." />
+	<block key="eNetFailure_Action_GaugeLow_TP" korean="Выносливость является низким." />
+	<block key="eNetFailure_Action_GaugeLow_EP_NotSummonFellow" korean="В не-посадки не доступен." />
+	<block key="enetsuccess_community" korean="Запрос был успешным." />
+	<block key="enetfailure_community_failentrance" korean="Запись сервера не удалось." />
+	<block key="enetfailure_community_diffrenceprotocolversion" korean="Сервер и версия протокола не является правильным." />
+	<block key="enetfailure_community_not_join_party" korean="Партия не участвует." />
+	<block key="enetfailure_community_not_join_guild" korean="Не в гильдии." />
+	<block key="enetfailure_community_target_not_found" korean="Не можете найти цель." />
+	<block key="enetfailure_community_not_send_myself" korean="Gwitmal не может быть отправлен к вам." />
+	<block key="enetfailure_community_not_cooltime_of_shout" korean="Вы не можете отправить реветь мое ограниченное время в очереди." />
+	<block key="enetfailure_community_mycutoff" korean="Партия в моем списке блока." />
+	<block key="enetfailure_community_hiscutoff" korean="Я нахожусь на другой стороне списка блока." />
+	<block key="enetfailure_community_wrong_channel_type" korean="Неверный тип канала." />
+	<block key="enetfailure_community_not_found_user" korean="Вы можете найти пользователя." />
+	<block key="enetfailure_community_forcekick_push" korean="Сила была прекращена в связи с присоединением того же счета." />
+	<block key="enetfailure_community_forcekick_gm" korean="Сила была прекращена сервисных операций." />
+	<block key="enetfailure_community_forcekick_timeout" korean="Прерван из-за длительного периода ожидания." />
+	<block key="enetfailure_community_forcekick_etc" korean="Был убит другим причинам." />
+	<block key="enetfailure_community_forcekick_error" korean="Был вынужден отключение из-за ошибки в программе." />
+	<block key="enetfailure_action_notallowstdattackanimaionindex" korean="Анимация не допускается индекс pyeongta" />
+	<block key="enetfailure_action_needweaponitem" korean="Основные единицы оборудования не требуется." />
+	<block key="enetfailure_action_needsubitem" korean="Требуется Вспомогательные элементы оборудования." />
+	<block key="enetfailure_action_needaccessoryitem" korean="Аксессуары пунктов требуется." />
+	<block key="enetfailure_action_nomatchingfellow" korean="Нет такого молодец." />
+	<block key="enetfailure_action_notenoughspaceforfellow" korean="Там нет места для товарищей." />
+	<block key="enetfailure_action_invalidtamingresultfellow" korean="Укрощение Не Fellow вид." />
+	<block key="enetfailure_agreement_agreementlocked" korean="В ожидании текущего другой ответ." />
+	<block key="enetfailure_agreement_guild_master_offline" korean="Гильдии в автономном режиме." />
+	<block key="enetfailure_agreement_alliancemembergull" korean="Максимальное количество Гильдия объединили свои усилия." />
+	<block key="enetfailure_alliance_gulid_prev_add" korean="Присоединяется к существующим сил." />
+	<block key="enetfailure_alliance_not_found_next_master" korean="А потом не может найти Гильдии (когда силы покинули)." />
+	<block key="enetfailure_capture_not_same_fellowgrade" korean="Попутчики различных марок." />
+	<block key="enetfailure_enchant_reinforcestone_needed" korean="Обновление камень не является необходимым." />
+	<block key="enetfailure_enchant_not_enough_needed_support_item" korean="Укрепление добавки обладают достаточное количество." />
+	<block key="enetfailure_enchant_no_target_item" korean="Не можете найти расширенную целевую пункта." />
+	<block key="enetfailure_enchant_level_reachmax" korean="Обновление Камень высокий уровень усиления." />
+	<block key="enetfailure_enchant_limit_level" korean="Увеличение уровня управления." />
+	<block key="enetfailure_enchant_invalid_reinforce_rate" korean="Для повышения таблица вероятностей не существует. (Вопросы редактировать данные)." />
+	<block key="enetsuccess_fellow" korean="Запрос был успешным." />
+	<block key="enetfailure_fellow_notlearnedskill" korean="Не мастерству училась." />
+	<block key="enetfailure_fellow_noserachabletarget" korean="Целевой объект не найден." />
+	<block key="enetfailure_fellow_isnotactablestate" korean="Это действие невозможно." />
+	<block key="enetfailure_fellow_notregistedskill" korean="Не зарегистрированы мастерство." />
+	<block key="enetfailure_fellow_notoveractabletime" korean="Не позднее, чем действие периода времени (Восстановление)." />
+	<block key="enetfailure_fellow_notenabled" korean="В настоящее время не включена." />
+	<block key="enetfailure_fellow_fardistantthanactionrange" korean="Расстояния, чем в диапазоне." />
+	<block key="enetfailure_fellow_withinminactablerange" korean="Расположенный в минимально возможном расстоянии действий." />
+	<block key="enetfailure_fellow_gaugelow" korean="Отличается калибра шляпу." />
+	<block key="enetfailure_fellow_wrongtarget" korean="Это таргетинг является недействительным." />
+	<block key="enetfailure_fellow_cannotactcastingskillonsilencestate" korean="Молчание не может быть использован, чтобы бросить свое мастерство." />
+	<block key="enetfailure_fellow_notcastingstate" korean="Не один кастинг." />
+	<block key="enetfailure_fellow_whileactinglinkedskill" korean="Навыки Ссылка в действии." />
+	<block key="enetfailure_fellow_notoverglobalcooltime" korean="Не сделать это через глобальный кулдаун времени (Восстановление)." />
+	<block key="enetfailure_fellow_toggledskill" korean="Навык состояние переключения." />
+	<block key="enetfailure_do_not_ride_type_fellow" korean="Молодец, что не может взять на абордаж." />
+	<block key="enetfailure_fellow_notboarding" korean="Член совета нет." />
+	<block key="enetfailure_fellow_boarding" korean="Это уже на борту Братства." />
+	<block key="enetfailure_fellow_needquest" korean="Потому что квест не смогут атаковать парня." />
+	<block key="enetfailure_fellow_needitem" korean="Потому что деталь не может атаковать парня." />
+	<block key="enetfailure_fellow_already_summon" korean="Стипендиаты уже вызвали." />
+	<block key="enetfailure_fellow_noitem" korean="Там нет предметы, необходимые, чтобы вызвать." />
+	<block key="enetfailure_fellow_quickslot_not_allow_slotbuttontype" korean="Быстрый Общая кнопку слот не допускается." />
+	<block key="enetfailure_fellow_quickslot_not_allow_quickslotdlgtype" korean="Быстрый Общая диалоговое слот не допускается." />
+	<block key="enetfailure_fellow_quickslot_invalid_clientslot" korean="Информация о клиенте в быстром слоте слот является недействительным." />
+	<block key="enetfailure_fellow_quickslot_overslotindexcount" korean="Зарегистрирован в быстрой номер слота выходит за пределы." />
+	<block key="enetfailure_fellow_quickslot_invalidslotbuttonrecord" korean="Рекордное значение кнопка быстрого не существует." />
+	<block key="enetfailure_fellow_soulstoneconvfailinvalidfellow" korean="Преобразование Younghonseok удалось Неверный членом." />
+	<block key="enetfailure_fellow_soulstoneconvfailnotallowgrowthstage" korean="Преобразование не удалось younghonseok не допускаются Fellow фазу роста." />
+	<block key="enetfailure_fellow_soulstoneconvfailitobjectnotexist" korean="Younghonseok не множество объектов взаимодействие преобразование не удалось." />
+	<block key="enetfailure_fellow_soulstoneconvsoulstonenotexist" korean="Там нет установленного younghonseok younghonseok преобразования не удалось." />
+	<block key="enetfailure_fellow_soulstoneconvinvalidskill" korean="Younghonseok преобразования не удалось умение неправильно." />
+	<block key="enetfailure_fellow_soulstoneconvnotallowobserverstate" korean="В younghonseok не возможность преобразования не удалось статуса наблюдателя." />
+	<block key="enetfailure_fellow_soulstoneconvaction" korean="Преобразование Younghonseok провал действий удалось" />
+	<block key="enetfailure_fellow_soulstoneconvequipeditem" korean="Преобразование Younghonseok не удалось сотрудник оснащен пункта." />
+	<block key="enetfailure_fellow_soulstoneconvfailnotallowsoulbandstage" korean="Преобразование Younghonseok удалось запрещенную коллеги стяжки душа сцену." />
+	<block key="eNetFailure_Fellow_NotEnoughFellowEP" korean="Вы не можете вызвать энергию парень достаточно." />
+	<block key="enetfailure_fellow_nameincludedwordbaned" korean="Существует пространство в названии." />
+	<block key="enetfailure_fellow_change_name_item_nothave" korean="Это переименование элемент не существует." />
+	<block key="enetfailure_fellow_itemnothave" korean="Не предмет, который у вас есть." />
+	<block key="enetfailure_fellow_itemnotbagstorage" korean="Сумки не для хранения." />
+	<block key="enetfailure_fellow_itemtradeon" korean="Это частная сделка по пункту." />
+	<block key="enetfailure_fellow_itemstorageincorrect" korean="Хранение не является правильным." />
+	<block key="enetfailure_fellow_itemnotallowfellow" korean="Этот пункт не для стипендиатов." />
+	<block key="enetfailure_fellow_itemnotequalfellowrace" korean="Другой пункт является одним из видов стипендиатов." />
+	<block key="enetfailure_fellow_transform_servererror" korean="Существует постоянная работа сотрудник трансформация невозможна." />
+	<block key="enetfailure_fellow_transform_itemnothave" korean="Сотрудник превращается элемент не существует." />
+	<block key="enetfailure_fellow_transform_iteminvalid" korean="Сотрудник деталь не деформируется." />
+	<block key="enetfailure_fellow_transform_invalidtransforminfo" korean="Информация сотрудник сотрудник преобразование доступны." />
+	<block key="enetfailure_fellow_transform_notallowfellowlevel" korean="Приложения уровни не совпадают вариант не доступен." />
+	<block key="enetfailure_fellow_transform_notallowfellowgrade" korean="Попутчики рейтинги не соответствуют модификация невозможно." />
+	<block key="enetfailure_fellow_transform_notallowobserverstate" korean="Сотрудник преобразование не допускается, если статус наблюдателя." />
+	<block key="enetfailure_fellow_synthesis_servererror" korean="Сотрудник не смогли синтезировать проблемы конфигурации сервера." />
+	<block key="enetfailure_fellow_synthesis_equalfellow" korean="Как коллеги ребята композита." />
+	<block key="enetfailure_fellow_synthesis_different_fellow" korean="Сотрудник композитный другой человек." />
+	<block key="enetfailure_fellow_synthesis_notallowgrowthstage" korean="Не сотрудник синтетический фаза роста." />
+	<block key="enetfailure_fellow_synthesis_notallowobserverstate" korean="Сотрудник синтеза при государств-наблюдателей не допускаются." />
+	<block key="enetfailure_fellow_invalid_fellowmaster" korean="Сотрудник мастер нет." />
+	<block key="enetfailure_fellow_fellowmaster_too_far" korean="Расстояние от коллег-мастеров слишком далеко." />
+	<block key="enetfailure_fellow_fellownotinmap" korean="Стипендиаты не вызвал." />
+	<block key="enetfailure_fellow_notallowgrowthstage" korean="Вам не разрешается фазу роста." />
+	<block key="enetfailure_fellow_notallowsoulbandstage" korean="Душа не позволяет стадии связывания." />
+	<block key="enetfailure_fellow_expandslot_exceed" korean="Вы не можете расширить больше." />
+	<block key="enetfailure_fellow_expandslot_max_bytamer" korean="Тренер приурочен слоты для." />
+	<block key="enetfailure_fellow_expandslot_requiredlevel" korean="Требуемый уровень был mihwakbo." />
+	<block key="enetfailure_fellow_expandslot_cost" korean="Стоимость была mihwakbo." />
+	<block key="eNetFailure_Fellow_NotSummon" korean="Стипендиаты не вызвал." />
+	<block key="eNetFailure_Fellow_Ride_Master_DeadState" korean="В смерти государство не может ездить." />
+	<block key="eNetFailure_Fellow_seal_inventoryfull" korean="Сумка полна." />
+	<block key="eNetFailure_Fellow_seal_notsealsummonfellow" korean="В приказе государства не могут быть закрыты" />
+	<block key="enetsuccess_internal" korean="Запрос был успешным." />
+	<block key="enetfailure_internal_packeterror" korean="Ошибок по пакетам произошло." />
+	<block key="enetfailure_interaction_no_cultivation" korean="Там нет пахотных земель, пригодных для объекта взаимодействия." />
+	<block key="enetfailure_item_fellow_empty" korean="Сотрудник не существует." />
+	<block key="enetfailure_item_fellownotinmap" korean="Стипендиаты не вызвал." />
+	<block key="enetfailure_item_fellowisdead" korean="Сотрудник статус смерть." />
+	<block key="enetfailure_item_fellowhasgrowth" korean="Сотрудник недоступен из-за фазы роста." />
+	<block key="enetfailure_item_fellownotsoulbanditem" korean="Сотрудник изменение Дело в том, ни одна душа не связана элементов." />
+	<block key="enetfailure_item_fellowbook_invaliditem" korean="Сотрудник не книга элементов." />
+	<block key="enetfailure_item_fellowbook_notemptyslot" korean="Сотрудник книга не является пустым пространством." />
+	<block key="enetfailure_move_notstartportal" korean="Там нет отправной точкой (портал)." />
+	<block key="enetfailure_move_notdestportal" korean="Там нет смысла прибытия (портала)." />
+	<block key="enetfailure_move_portalcountfull" korean="Зарегистрированные портал превысил максимальное число элементов." />
+	<block key="enetfailure_move_duplicatedportal" korean="Портал уже зарегистрирован." />
+	<block key="enetfailure_move_invalideventarea" korean="Площадь Сценарий канальный является недействительным." />
+	<block key="enetfailure_move_notdestmap" korean="Сценарий Карта канал передачи данных не является неправильным или перемещение." />
+	<block key="enetfailure_move_invalidenterpos" korean="Расположение не позиция сценария канала." />
+	<block key="enetfailure_move_noteventinstance" korean="Был отправлен в сценарии каналов." />
+	<block key="enetfailure_move_donotexistexitarea" korean="Сценарий канальный, когда вы покидаете зону проверки подлинности сервера." />
+	<block key="enetfailure_party_invalidpartyloot" korean="Неверную маршрутизацию права сторонами." />
+	<block key="enetfailure_party_invalidpartylootjoblimit" korean="Карьеру недействительные ограничения маршрутизации." />
+	<block key="enetfailure_soultalents_not_enough_powder" korean="Мука душа низка." />
+	<block key="enetfailure_soultalents_notsoulpowderitem" korean="Не душа муки." />
+	<block key="enetfailure_soultalents_impossibleclass" korean="Пробуждение не возможные классы." />
+	<block key="enetfailure_soultalents_notenoughactivelevel" korean="Не уровень активации." />
+	<block key="enetfailure_soultalents_nohaveskill" korean="Не обладают мастерством." />
+	<block key="enetfailure_technique_not_learn_pre_grade" korean="Рейтинг не удалось научиться искусству." />
+	<block key="enetfailure_technique_invalid_technique" korean="Im неправильно технологии. Вы можете найти эту технологию." />
+	<block key="enetfailure_technique_add_tech" korean="Произошла ошибка при добавлении новой технологии." />
+	<block key="enetfailure_technique_upgrade_grade" korean="МАСТЕРСТВО Произошла ошибка в обновлении." />
+	<block key="enetsuccess_token" korean="Запрос был успешным." />
+	<block key="enetfailure_token_deadstate" korean="Состояние смерть." />
+	<block key="enetfailure_token_noserachabletarget" korean="Целевой объект не найден." />
+	<block key="enetfailure_token_wrongtarget" korean="Это таргетинг является недействительным." />
+	<block key="enetfailure_token_notparty" korean="Не государство-участник." />
+	<block key="enetfailure_token_notpartymaster" korean="Не является стороной главы." />
+	<block key="enetfailure_token_overlaptargettoken" korean="Марк пытался и тот же маркер цель находится под угрозой." />
+	<block key="enetfailure_user_invalidoptiondata" korean="Дополнительно информация, которая не существует." />
+	<block key="enetfailure_user_sameoptiondataversion" korean="Эта версия дополнительного ниже информации. (По запросу опциональной информации)." />
+	<block key="enetfailure_user_invalidoptiondataversion" korean="Различные версии информации вариант. (При Возможность менять информацию)." />
+	<block key="enetfailure_user_invalidoptiondatasize" korean="Размер информации данных опции превысил допустимый предел." />
+	<block key="enetfailure_user_charbase" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 201" />
+	<block key="enetfailure_user_charitem" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 202" />
+	<block key="enetfailure_user_charregion" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 203" />
+	<block key="enetfailure_user_charquest" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 204" />
+	<block key="enetfailure_user_charquesthistory" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 205" />
+	<block key="enetfailure_user_charskill" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 206" />
+	<block key="enetfailure_user_charbuff" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 207" />
+	<block key="enetfailure_user_charcutoff" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 208" />
+	<block key="enetfailure_user_charfriend" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 209" />
+	<block key="enetfailure_user_charmail" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 210" />
+	<block key="enetfailure_user_charmailsent" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 211" />
+	<block key="enetfailure_user_chardungeon" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 212" />
+	<block key="enetfailure_user_charindex" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 213" />
+	<block key="enetfailure_user_charmyauction" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 214" />
+	<block key="enetfailure_user_charcustomize" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 215" />
+	<block key="enetfailure_user_charfellowbook" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 216" />
+	<block key="enetfailure_user_charfellow" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 217" />
+	<block key="enetfailure_user_charitemskillcolltime" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 218" />
+	<block key="enetfailure_user_chartechnique" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 219" />
+	<block key="enetfailure_user_charoption" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 220" />
+	<block key="enetfailure_user_charparam" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 221" />
+	<block key="enetfailure_user_charrecipe" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 222" />
+	<block key="enetfailure_user_charsoultalents" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 223" />
+	<block key="enetfailure_user_forcekick_shutdowntime" korean="Сила была прекращена завершения работы системы." />
+	<block key="enetfailure_user_playeriscombating" korean="Вы не можете войти во время боя." />
+	<block key="enetsuccess_gmsvworldservers" korean="Не знаю." />
+	<block key="enetfailure_gmsvworldservers_operatingworldsomewhere" korean="Не знаю." />
+	<block key="enetfailure_gmsvworldservers_invalidworld" korean="Не знаю." />
+	<block key="enetfailure_gmsvworldservers_player_not_found" korean="Не знаю." />
+	<block key="enetfailure_gmsvworldservers_cheatfailed" korean="Не знаю." />
+	<block key="enetfailure_gmsvmainservers_worldservernotfound" korean="Не знаю." />
+	<block key="enetfailure_gmsvmainservers_worldservernotoperating" korean="Не знаю." />
+	<block key="enetfailure_managercharacter_worldservernotfound" korean="Не знаю." />
+	<block key="enetfailure_managercharacter_worldservernotoperating" korean="Не знаю." />
+	<block key="enetfailure_manageritem_worldservernotfound" korean="Не знаю." />
+	<block key="enetfailure_managerquest_worldservernotfound" korean="Не знаю." />
+	<block key="enetfailure_managerquest_worldservernotoperating" korean="Не знаю." />
+	<block key="enetfailure_entry_forcekick_limitage" korean="Сила была прекращена завершения работы системы." />
+	<block key="eNetFailure_Move_IsNotUsePortalActableState" korean="Остальные персонажи уже находятся в эксплуатации. Пожалуйста, попробуйте еще раз в момент" />
+	<block key="eNetFailure_Item_NotAllowClass" korean="Датчик полон, вы не можете использовать его." />
+	<block key="eNetFailure_Guild_ValidPermissionName" korean="Наличие такого класса людей" />
+	<block key="eNetFailure_Guild_Valid_Count_GuildMember" korean="Я принадлежу к гильдии гильдии гильдии не могут быть демонтированы" />
+	<block key="eNetFailure_Agreement_GuildMemberCancel" korean="Другая сторона отвергла гильдии пригласить" />
+	<block key="eNetFailure_Guild_Count_Permission_Over_Create" korean="Вы не можете добавить больше классов" />
+	<block key="eNetFailure_Guild_NameIncludedPermission" korean="Имя класса, не может быть использован" />
+	<block key="eNetFailure_Fellow_Transform_NotOnCombatSkill" korean="В текущем состоянии не может быть преобразована членом." />
+	<block key="eNetFailure_Party_Board_NotExistBoard" korean="Сообщение было удалено" />
+	<block key="enetfailure_fellow_transform_notgroundstate" korean="Текущая область не возможные варианты сотрудник." />
+	<block key="enetfailure_agreement_talknpcme" korean="Я не могу сделать сделку." />
+	<block key="enetfailure_agreement_talknpctarget" korean="Разговор в цели и не могут быть проданы." />
+	<block key="eNetfailure_auction_register_invalid_item_trade" korean="Детали частные сделки не могут быть зарегистрированы в агенте продаж." />
+	<block key="eNetfailure_auction_register_invalid_item_belonging" korean="Пункт не могут быть отнесены к регистрации с агентом по продажам." />
+	<block key="eNetSuccess_LobbyUser" korean="Запрос был успешным." />
+	<block key="eNetFailure_LobbyUser_DiffrenceProtocolVersion" korean="Сервер и версия протокола не является правильным." />
+	<block key="eNetFailure_LobbyUser_FailEntrance" korean="Позиция канала не удалось." />
+	<block key="eNetFailure_LobbyUser_SequenceError" korean="Фазовый произошла ошибка." />
+	<block key="eNetFailure_LobbyUser_DBError" korean="Произошла ошибка базы данных." />
+	<block key="eNetFailure_LobbyUser_MadeCharFull" korean="Вы не можете создать больше ни характер." />
+	<block key="eNetFailure_LobbyUser_UnknownDBKey" korean="Символ, который не существует." />
+	<block key="eNetFailure_LobbyUser_NameLengthOver" korean="Длина имени не может быть слишком долгим.\n2-8 символы хангыль, английский от 4 до 16 символов, попробуйте еще раз." />
+	<block key="eNetFailure_LobbyUser_NameLengthShot" korean="Вы должны ввести хотя бы минимальное количество символов.\n2-8 символы хангыль, английский от 4 до 16 символов, попробуйте еще раз." />
+	<block key="eNetFailure_LobbyUser_NameIncludedWordBlank" korean="Вы не можете использовать пробелы в имени.\n2-8 символы хангыль, английский от 4 до 16 символов, попробуйте еще раз." />
+	<block key="eNetFailure_LobbyUser_NameOccupied" korean="Это имя уже используется.\n2-8 символы хангыль, английский от 4 до 16 символов, попробуйте еще раз." />
+	<block key="eNetFailure_LobbyUser_NameIncludedWordBaned" korean="Все номера, специальные символы, geumjieo не доступен.\n2-8 символы хангыль, английский от 4 до 16 символов, попробуйте еще раз." />
+	<block key="eNetFailure_LobbyUser_TryToDownloadTwice" korean="Вторая попытка в процессе загрузки." />
+	<block key="eNetFailure_LobbyUser_NotRegistedWorld" korean="Не зарегистрированы мира." />
+	<block key="eNetFailure_LobbyUser_NotOperatingWorld" korean="Не работает мир." />
+	<block key="eNetFailure_LobbyUser_SelectingEqualWorld" korean="Вы выбрали один и тот же мир." />
+	<block key="eNetFailure_LobbyUser_OverMaxUserSelectedWorld" korean="Люди, выбранный мир полон." />
+	<block key="eNetFailure_LobbyUser_BlockedID" korean="ID блока." />
+	<block key="eNetFailure_LobbyUser_ForceKick_Push" korean="Сила была закрыта из-за связи с той же учетной записи." />
+	<block key="eNetFailure_LobbyUser_ForceKick_GM" korean="Вынужденные операции службы закончился." />
+	<block key="eNetFailure_LobbyUser_ForceKick_Error" korean="Был убит программной ошибки." />
+	<block key="eNetFailure_LobbyUser_ForceKick_DBError" korean="Был убит из-за ошибки БД." />
+	<block key="eNetFailure_LobbyUser_ForceKick_Timeout" korean="Было прекращено в связи с долгой перспективе атмосферным воздействиям." />
+	<block key="eNetFailure_LobbyUser_ForceKick_Etc" korean="Был убит другим причинам." />
+	<block key="eNetFailure_LobbyUser_ForceKick_ShutdownTime" korean="Был убит завершения работы системы." />
+	<block key="eNetFailure_LobbyUser_PlayerIsCombating" korean="Вы не можете войти во время боя." />
+	<block key="eNetFailure_LobbyUser_SystemError" korean="Систематическая ошибка произошла." />
+	<block key="eNetFailure_LobbyUser_PacketError" korean="Ошибок по пакетам произошло." />
+	<block key="enetfailure_move_cancelgradeselect" korean="Экземпляр подземелье трудность не выбран." />
+	<block key="enetfailure_move_not_portal_playerpos_area" korean="Расположение не могут быть допущены." />
+	<block key="eNetFailure_Technique_below_item_level" korean="Уровень низкий, вы не можете узнать рецепт." />
+	<block key="eNetFailure_Technique_invalid_item" korean="Там нет товаров в базовом решений рецепта." />
+	<block key="eNetFailure_Technique_already_register_item" korean="Основной рецепт уже зарегистрирован." />
+	<block key="eNetFailure_Relation_NameIncludedWordBaned" korean="ID содержит запрещенные слова." />
+	<block key="eNetFailure_Agreement_Otherproposestatedest" korean="Другой запрос находится на рассмотрении. Пожалуйста, попробуйте еще раз через несколько минут." />
+	<block key="eNetFailure_Agreement_Otherproposestateme" korean="Пожалуйста, проверьте просил в первую очередь." />
+	<block key="eNetFailure_Move_ClearedGradeIsLower" korean="Прием должен завершить элита подземелье трудность можно." />
+	<block key="eNetFailure_LobbyUser_NotDeleteGuildMaster" korean="Гильдии символ не может быть удален." />
+	<block key="eNetFailure_Agreement_BattleState" korean="В бою, вы не можете торговать." />
+	<block key="eNetFailure_LobbyUser_NotFoundChannel" korean="Игровой сервер не включен." />
+	<block key="eNetFailure_Relation_AlreadyFriend" korean="Пользователь был зарегистрирован в качестве друга." />
+	<block key="eNetFailure_Fellow_Seal_InvalidSealedItemLv" korean="Bonginseok доступные уровни и коллег, уровень не является правильным." />
+	<block key="eNetFailure_Fellow_Seal_NotEnoughPlayerLv" korean="Уровень игрока сотрудник уровня не может быть выше, чем опечатаны." />
+	<block key="eNetFailure_Fellow_Seal_UnsealNotEnoughPlayerLv" korean="Уровень сотрудник не может быть выше, чем уровень проигрыватель." />
+	<block key="eNetFailure_Move_IsDuel" korean="Вы не можете перемещать область во время поединка." />
+	<block key="eNetFailure_Item_FellowNotMine" korean="Вы не можете использовать, потому что он не принадлежит ближнему посадки." />
+	<block key="eNetFailure_fellow_seal_fellowlistfull" korean="Сотрудник библиотеки полном объеме." />
+	<block key="eNetFailure_guild_not_level_create" korean="Для создания гильдии должны быть по крайней мере 10 уровней." />
+	<block key="eNetFailure_Enchant_CannotUseSkillPlayerState" korean="Во время боевых действий, которые не могут быть." />
+	<block key="eNetFailure_fellow_seal_CannotUseSkillPlayerState" korean="Вы не можете поглотить парень во время боя." />
+	<block key="enetfailure_talents_notopenpart" korean="Вы не можете прикреплять характеристик мастерство." />
+	<block key="eNetFailure_Item_DropGaming" korean="Если элемент распространяется не может быть направлена ​​на другие предметы." />
+	<block key="eNetFailure_Item_PartyDropGaming" korean="Если этот пункт в вашей партии, вы не можете направить распределение других элементов." />
+	<block key="eNetFailure_Item_SystemError" korean="Произошла системная ошибка." />
+	<block key="eNetFailure_Item_AlreadyJoin" korean="Уже участвуют." />
+	<block key="eNetFailure_Item_LowThanStorePrice" korean="Это меньше, чем текущий количестве." />
+	<block key="eNetFailure_Item_LowPriceThanHigher" korean="Сумма меньше, чем текущий объем предложения." />
+	<block key="eNetFailure_Enchant_AboveEquipItemLevel" korean="Уровень персонажа выше, чем доступных уровней не доступен." />
+	<block key="eNetFailure_Fellow_AboveEquipItemLevel" korean="Уровень персонажа выше, чем доступных уровней не доступен." />
+	<block key="eNetFailure_Item_AboveUseItemLevel" korean="Уровень персонажа выше, чем доступных уровней не доступен." />
+	<block key="eNetFailure_Item_AboveEquipItemLevel" korean="Вы не можете носить это уровень персонажа выше, чем носимых уровне." />
+	<block key="eNetFailure_Item_AboveFellowEquipItemLevel" korean="Сотрудник уровень, чем уровень, вы не можете носить высокие носки." />
+	<block key="eNetFailure_duel_notduel" korean="Не государство поединок." />
+	<block key="eNetFailure_Move_NotAllow_LevelCondition" korean="Уровень низкий, вы не можете стоять." />
+	<block key="eNetFailure_Agreement_NotAllowDuelArea" korean="В этой области, вы не можете дуэли." />
+	<block key="enetfailure_fellow_fearingstate" korean="Пацан состояние, которое не может быть освобожден вызвал." />
+	<block key="eNetFailure_Agreement_NotAllowDuelByCombatMe" korean="В бою, вы не можете подать заявку на поединок." />
+	<block key="eNetFailure_Agreement_NotAllowDuelByCombatTarget" korean="Цель не имеет права из-за дуэли." />
+	<block key="eNetFailure_Action_NoPKExp" korean="Вы не можете убить цель в недавно приобретенного опыта." />
+	<block key="eNetFailure_Action_NoQuestPKCount" korean="Цель убийства квест не обновляется в последнее время." />
+	<block key="eNetFailure_Action_MapChangeTarget" korean="Перемещать карту, где цель не может атаковать." />
+	<block key="eNetFailure_Action_RewindingTarget" korean="Вы можете вернуться на нерест монстров позицию." />
+	<block key="eNetFailure_Action_NoControlTarget" korean="Государство не может работать с мишенью." />
+	<block key="eNetFailure_Action_ResurrectAnimatingTarget" korean="Где цель не может атаковать и воскресение." />
+	<block key="eNetFailure_Action_NoDeadTarget" korean="Цель не государство смерть." />
+	<block key="eNetFailure_Action_DeadTarget" korean="Назначения государственной смерть." />
+	<block key="eNetFailure_Action_SkillObjectTarget" korean="Ту цель." />
+	<block key="eNetFailure_Action_IsNotDamagableMe" korean="Зона безопасности не могут быть атакованы." />
+	<block key="eNetFailure_Move_AlreadyGradeSelecting" korean="Трудность не могут быть выбраны." />
+	<block key="enetfailure_agreement_alreadyattackbattalion" korean="Пользователь, который принадлежит к рейду." />
+	<block key="enetfailure_guild_exp_needed" korean="Точки гильдии репутации является недостаточным." />
+	<block key="enetfailure_move_doing_exit_fail_quest" korean="Площадь города идут во время квеста событий, квест не завершена." />
+	<block key="enetfailure_agreement_tradedistanceerror" korean="Расстояние между мишенью и находится слишком далеко." />
+	<block key="enetfailure_agreement_cannottrademe" korean="Это уже торгуют." />
+	<block key="enetfailure_agreement_destisbattlestate" korean="Битва мишенью и не может быть много." />
+	<block key="enetfailure_party_notfoundparty" korean="Не можете найти партию." />
+	<block key="enetfailure_party_board_notmaster" korean="Не является стороной главы." />
+	<block key="enetfailure_guild_not_out_guildmaster" korean="Гильдии не может быть выслан из страны." />
+	<block key="eNetFailure_User_StateDead" korean="Мертвые не могут переместить канал." />
+	<block key="eNetFailure_User_StateFalling" korean="В воздухе в то время как он собирается вниз, вы не можете переместить канал." />
+	<block key="eNetFailure_User_StateCombating" korean="Во время боя Вы не можете переместить канал." />
+	<block key="eNetFailure_User_StateEpisode" korean="Хотя это квест событие, вы не можете переместить канал." />
+	<block key="eNetFailure_User_StateTradeing" korean="Когда вы имеете дело, пока вы не можете переместить канал." />
+	<block key="eNetFailure_User_StateUseSkill" korean="Отличительной умение, когда вы не можете переместить канал." />
+	<block key="eNetFailure_User_StateInteractCasting" korean="В то время как в эксплуатации на вещи, вы не можете переместить канал." />
+	<block key="eNetFailure_User_StateAgreementParty" korean="Когда партия с нами быть не в состоянии двигаться канала." />
+	<block key="eNetFailure_User_StateTaiming" korean="Стипендиаты не будет путь во канале." />
+	<block key="enetfailure_move_invalidportal_area" korean="Расположение не могут быть допущены." />
+	<block key="eNetFailure_Item_NotExpirationPeriod" korean="Не срочный пункты" />
+	<block key="eNetFailure_Item_NotTargetExpirationPeriod" korean="Не срочный товар." />
+	<block key="eNetFailure_Item_LimitTargetExpirationPeriod" korean="Этот период истек." />
+	<block key="enetfailure_fellow_notenoughfellowhp" korean="Живучесть парень не мог вызвать достаточно." />
+	<block key="enetfailure_item_userisdead" korean="Мертвые не могут быть использованы." />
+	<block key="eNetFailure_LobbyUser_NotDeleteGuildMember" korean="Существует персонаж в гильдию, вы не можете удалить символ." />
+	<block key="eNetFailure_User_StatePassenger" korean="Когда мы борт членом других, вы не можете переместить канал." />
+	<block key="eNetFailure_Enchant_StatePassenger" korean="Действие не может быть, когда мы садимся стипендиатом других." />
+	<block key="eNetFailure_Enchant_invalid_reinforce_lv_data" korean="Не можете найти Elounda." />
+	<block key="eNetFailure_Enchant_Insufficient_Ruby" korean="Elounda является низким." />
+	<block key="eNetFailure_Item_StorageFullPackge" korean="Существует не хватает места для хранения всех упакованного предмета." />
+	<block key="eNetFailure_Entry_CheckingWorld" korean="Сервер в настоящее время проверяется.\nПожалуйста, проверьте бюллетень для получения дополнительной информации." />
+	<block key="eNetFailure_Production_no_learn_Gather" korean="Вы не можете узнать не изучить навыки сбора." />
+	<block key="eNetFailure_Production_no_learn_WeaponCraft" korean="Вы не можете узнать не узнать технологию производства оружия." />
+	<block key="eNetFailure_Production_no_learn_ArmorCraft" korean="Вы не можете узнать не узнать технологию броннику." />
+	<block key="eNetFailure_Production_no_learn_AccessoryCraft" korean="Я не узнать навыки Изготовление ювелирных изделий не могут быть извлечены." />
+	<block key="eNetFailure_Production_no_learn_FellowEquip" korean="Сотрудник не в состоянии приобрести навыки исследования не узнать." />
+	<block key="eNetFailure_Production_no_learn_Cooking" korean="Вы не можете узнать не научиться готовить технику." />
+	<block key="eNetFailure_Production_no_learn_Alchemy" korean="Вы не можете узнать не изучить навыки алхимии." />
+	<block key="eNetFailure_Production_low_mastery_Gather" korean="Выбор техника не может узнать меньше." />
+	<block key="eNetFailure_Production_low_mastery_WeaponCraft" korean="Оружие стадии изготовления технологии, вы не можете узнать меньше." />
+	<block key="eNetFailure_Production_low_mastery_ArmorCraft" korean="Броннику уровень квалификации низок, вы не можете научиться." />
+	<block key="eNetFailure_Production_low_mastery_AccessoryCraft" korean="Навыки Изготовление ювелирных изделий не может быть изучено на ступеньку ниже." />
+	<block key="eNetFailure_Production_low_mastery_FellowEquip" korean="Научный сотрудник уровень квалификации низок, вы не можете научиться." />
+	<block key="eNetFailure_Production_low_mastery_Cooking" korean="Вы можете узнать методы приготовления пищи на ступеньку ниже." />
+	<block key="eNetFailure_Production_low_mastery_Alchemy" korean="Алхимия уровень квалификации низок, вы не можете научиться." />
+	<block key="eNetFaulure_Relation_LogOff" korean="Игроки, которые не вошли в систему." />
+	<block key="eNetFailure_agreement_CanNotUseCommandState" korean="Государство не может использовать эту команду." />
+	<block key="enetfailure_party_notattackbattalion" korean="Разве это не рейд." />
+	<block key="enetfailure_party_board_alreadyparty" korean="Вы уже принадлежат к партии." />
+	<block key="eNetFailure_User_ChannelLimitNum" korean="Мобильный канал является перегружена. Пожалуйста, попробуйте через некоторое время." />
+	<block key="enetfailure_dungeon_init_existplayer" korean="Там будет партия в подземелье не могут быть инициализированы." />
+	<block key="A. eNetFailure_Fellow_InsufficientRuby" korean="Elounda является низким." />
+	<block key="B. eNetFailure_Fellow_InvalidRubyData" korean="Elounda не об изменении названия данных." />
+	<block key="eNetFailure_Dungeon_InsufficientRuby" korean="Elounda является низким." />
+	<block key="eNetFailure_Dungeon_InvalidRubyData" korean="Elounda нет данных для этого подземелья." />
+	<block key="eNetFailure_Billing_CheckMoney" korean="Не удалось запросу поиска Остаток денежных средств." />
+	<block key="eNetFailure_Billing_BuyItem" korean="Не удалось запросов кэш, чтобы закупить деталь." />
+	<block key="eNetFailure_Billing_CheckRetractMoney" korean="Отмена сумма, доступная в процессе восстановления не удалось запроса поиска." />
+	<block key="eNetFailure_Billing_Retract" korean="Отмена запроса не удалось." />
+	<block key="eNetFailure_Billing_MoveInven" korean="Кэш пункт движение инвентаризации не удалось." />
+	<block key="eNetFailure_Billing_ChargeCash" korean="Кэш зарядки запрос URL не удалось." />
+	<block key="eNetFailure_Billing_CashShop_invalid_category" korean="Неверный категория магазин Cache." />
+	<block key="eNetFailure_Billing_not_found_cashshop_list" korean="Элемент не существует в списке магазина." />
+	<block key="eNetFailure_Billing_not_found_link_cashitem" korean="Не можете найти тайник, связанные с перечнем предмета Store." />
+	<block key="eNetFailure_Billing_not_found_cashitem" korean="Не можете найти этот элемент." />
+	<block key="eNetFailure_Billing_cant_buy_item_by_cash" korean="Элемент не может быть приобретен в качестве кэша." />
+	<block key="eNetFailure_Billing_cant_buy_item_by_ruby" korean="Товар не может быть приобретено в Элунда." />
+	<block key="eNetFailure_Billing_not_enough_cash" korean="Кэш является низкой." />
+	<block key="eNetFailure_Billing_not_enough_ruby" korean="Elounda является низким." />
+	<block key="eNetFailure_Billing_not_enough_inven_space" korean="Недостаток места в вашей сумке." />
+	<block key="eNetFailure_Billing_create_failed_to_inven" korean="Произошла ошибка в сумке, чтобы создать элемент." />
+	<block key="eNetFailure_Billing_can_not_move_item_map" korean="Регион не может перемещать элементы в вашей сумке." />
+	<block key="eNetFailure_Billing_invalid_map_data" korean="нет картографических данных." />
+	<block key="eNetFailure_Billing_TooLongURL" korean="URL слишком длинный и не удалось." />
+	<block key="eNetFailure_Billing_DataError" korean="Ошибка данных произошло." />
+	<block key="eNetFailure_Billing_DBError" korean="DB произошла ошибка." />
+	<block key="eNetFailure_Agreement_NotAllowInstanceMapMe" korean="Область не может быть вызван." />
+	<block key="eNetFailure_Agreement_NotAllowSkyMe" korean="Общественность не может быть вызван." />
+	<block key="eNetFailure_Agreement_NotAllowWaterMe" korean="Вода не может быть вызван." />
+	<block key="eNetFailure_Agreement_NotAllowCombatMe" korean="В боевых условиях не может быть вызван." />
+	<block key="eNetFailure_Agreement_NotAllowDeadMe" korean="Мертвые не могут быть вызваны." />
+	<block key="eNetFailure_Agreement_NotAllowCombatTarget" korean="Цель не может быть вызван из-за боевых действий." />
+	<block key="eNetFailure_Agreement_NotAllowDeadTarget" korean="Цель мертва, вы не можете вызвать La." />
+	<block key="eNetFailure_Agreement_NotAllowInstanceMapTarget" korean="Тема в indeon не вызвал." />
+	<block key="eNetFailure_Agreement_InvalidCostData" korean="Там нет информации о расходах." />
+	<block key="eNetFailure_Agreement_Insufficient_Ruby" korean="Elounda является низким." />
+	<block key="eNetFailure_Fellow_Transform_SummonFellow" korean="В приказе государства не могут быть изменены" />
+	<block key="eNetFailure_Item_SummonFellow" korean="В приказе государства не могут бросить сотрудник" />
+	<block key="enetsuccess_agreement_guilinvitation" korean="Вступил в гильдию." />
+	<block key="eNetfailure_Chat_clear_auto_msg" korean="Сообщение, которое вы ввели неверный." />
+	<block key="eNetfailure_Chat_aready_judge" korean="Или уже есть ГАИ, пользователь прошел проверку." />
+	<block key="eNetfailure_Chat_wrong_auto_msg" korean="Не соответствует формат сообщения." />
+	<block key="eNetfailure_Chat_prohibit_word" korean="Geumjieo включены." />
+	<block key="eNetfailure_Chat_can_not_check_map" korean="Но не имеют доступа к району инспекции." />
+	<block key="eNetFailure_User_AutoChecking" korean="Когда ГАИ в то время как на карте не могут быть перемещены." />
+	<block key="enefailure_move_not_portal_area" korean="Вы не можете nasıl перерос тока возбуждения беззаконных." />
+	<block key="enetfailure_dungeon_ininstancedungeon" korean="Пользователь должен существовать в подземелье для инициализации." />
+	<block key="enetfailure_dungeon_inin_reenterpossible" korean="Подземелье уже инициализирована." />
+	<block key="eNetFailure_Quest_AlreadyTitle" korean="Название у вас уже есть." />
+	<block key="eNetFailure_User_CharAchievements" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 225" />
+	<block key="eNetFailure_User_CharAchievement_Condition" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 226" />
+	<block key="eNetFailure_User_CharTitle" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 227" />
+	<block key="eNetFailure_LobbyUser_MaxPopulation" korean="Создание персонажа была ограничена." />
+	<block key="enetfailure_store_not_exist_currency_item" korean="Там нет необходимости покупать деталь." />
+	<block key="eNetfailure_store_not_enough_currency_item" korean="Этот пункт нужно купить по низкой цене." />
+	<block key="enetfailure_agreement_fullparty" korean="Сад партия не может быть полная поддержка." />
+	<block key="eNetFailure_Party_PartyMemberIsInInstanceMap" korean="Там по-прежнему остается участником indeon вы не можете переключиться на рейд." />
+	<block key="eNetFailure_Move_DoNotEnterAttackBattalion" korean="Raid не сможет войти в подземелье." />
+	<block key="enefailure_agreement_notattackbattalionme" korean="Пользователь не входит в рейд." />
+	<block key="eNetFailure_LobbyUser_SecPw_CertResponseFail" korean="Аутентификация второго пароль не удалось Отправить мне запрос." />
+	<block key="eNetFailure_LobbyUser_SecPw_WrongPassword" korean="Вторичные пароли не совпадают." />
+	<block key="eNetFailure_LobbyUser_SecPw_FailedLock" korean="Среднее пароль был заблокирован из-за неудачных пять раз." />
+	<block key="eNetFailure_LobbyUser_SecPw_RegisterFail" korean="Произошла ошибка во вторичном Установить пароль." />
+	<block key="eNetFailure_LobbyUser_SecPw_SameAccountPassword" korean="Так же, как пароль учетной записи." />
+	<block key="eNetFailure_LobbyUser_SecPw_ExceptionError" korean="Во-вторых пароль ошибку исключения." />
+	<block key="eNetFailure_LobbyUser_SecPw_InvalidRequestType" korean="Пришел запрос на соответствующий типа недействительных запросов не должно." />
+	<block key="eNetFailure_Action_invalid_Ruby_data" korean="Не можете найти Elounda (данных)." />
+	<block key="eNetFailure_Action_insufficient_ruby" korean="Рубин является низкой." />
+	<block key="eNetFailure_LobbyUser_AreadyDeleteing" korean="Символ, который уже удален." />
+	<block key="eNetFailure_Action_NotEnoughAp" korean="В брейк-пойнтов является недостаточным." />
+	<block key="eNetFailure_Action_NotRecoveryAP" korean="Вы не можете восстановить ручную точку." />
+	<block key="eNetFailure_Title_Invalid_TitleItem" korean="Предметы, которые не название." />
+	<block key="eNetFailure_Title_TitleItem_Trade_On" korean="Название пункта в торговли." />
+	<block key="eNetFailure_Title_TitleItem_NotExistTitle" korean="Название наименование предмета не существует." />
+	<block key="eNetFailure_Title_TitleItem_AlreadyTitle" korean="Название уже получил звание названием пункта." />
+	<block key="eNetFailure_Agreement_NotAllowRegion" korean="Призыв цель не может быть вызван Euron, которые никогда не решился области." />
+	<block key="eNetfailure_Chat_can_not_state" korean="Не может поддержать автоматический поиск." />
+	<block key="eNetFailure_LobbyUser_SecPw_PassLengthShort" korean="Вторая длина пароля не хватает. Пожалуйста, введите 4-значный номер." />
+	<block key="eNetFailure_LobbyUser_SecPw_NotCorrectFormat" korean="Второй не соответствовать формату пароля." />
+	<block key="eNetFailure_move_not_event_player_map" korean="Вы не можете войти в сценарий канала." />
+	<block key="eNetFailure_Quest_RecvErrorYellowTime" korean="Вы не можете получить квест энергии снижается." />
+	<block key="eNetFailure_Quest_FinishErrorYellowTime" korean="Вы не сможете выполнить квест как энергия уменьшается." />
+	<block key="eNetFailure_Agreement_MyPartyErrorYellowTime" korean="Не может быть участником снижения жизнеспособности." />
+	<block key="eNetFailure_Agreement_HisPartyErrorYellowTime" korean="Цель не может быть участником снижения жизнеспособности." />
+	<block key="eNetFailure_Interaction_CollectErrorYellowTime" korean="Вы не можете собрать ухудшение жизненных сил." />
+	<block key="eNetFailure_Move_Auto_User_Checking" korean="Некоторые авто инспекция не может быть любой другой акт." />
+	<block key="eNetFailure_Agreement_NotAttackBattalionMe" korean="Raid состояние не является." />
+	<block key="eNetFailure_Agreement_NotAttackBattalionTarget" korean="Цель не рейд." />
+	<block key="eNetFailure_Action_CannotOpenedContents" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_Agreement_CannotOpenedContents" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_auction_CannotOpenedContents" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_Billing_CannotOpenedContents" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_Dungeon_CannotOpenedContents" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_Enchant_CannotOpenedContents" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_Fellow_CannotOpenedContents" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_FootHold_CannotOpenedContents" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_Item_CannotOpenedContents" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_Move_CannotOpenedContents" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_Move_InvalidRubyData" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_Quest_CannotOpenedContents" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_Talents_CannotOpenedContents" korean="Содержание не может быть использован еще." />
+	<block key="eNetFailure_Fellow_FellowActingState" korean="Стипендиаты не сможет вызвать с при использовании умения." />
+	<block key="eNetFailure_Action_SkillRisingBodyState" korean="Навык воздушных движется в состоянии (Контратака наличии)" />
+	<block key="eNetFailure_Production_invalid_Recipe_Record" korean="Там никакие детали рецепт." />
+	<block key="eNetFailure_Production_invalid_Data" korean="Нет элемент данных не производится." />
+	<block key="eNetFailure_Production_count_have_item" korean="Продукты материал является низкой." />
+	<block key="eNetFailure_Production_low_grade" korean="Низкие рейтинги." />
+	<block key="eNetFailure_Production_invalid_RegisterdRecipeAlready" korean="Не зарегистрированы рецепт." />
+	<block key="eNetFailure_Production_low_grade_Gather" korean="Этапы выбора метода является низкой." />
+	<block key="eNetFailure_Production_low_grade_WeaponCraft" korean="Этапы технологии производства оружия является низким." />
+	<block key="eNetFailure_Production_low_grade_ArmorCraft" korean="Этап технологии изготовления брони является низким." />
+	<block key="eNetFailure_Production_low_grade_AccessoryCraft" korean="Шаг навыков изготовления ювелирных низкая." />
+	<block key="eNetFailure_Production_low_grade_FellowEquip" korean="Этап научно-технической товарища минимума." />
+	<block key="eNetFailure_Production_low_grade_Cooking" korean="Этапы навыки приготовления пищи является низким." />
+	<block key="eNetFailure_Production_low_grade_Alchemy" korean="Этап алхимического метода является низкой." />
+	<block key="eNetFailure_achievements_storagefull" korean="Вы не можете восстановить из-за недостатка места в вашей сумке." />
+	<block key="eNetFailure_Action_NotPcCafeUser" korean="Компьютерный зал, не пользователей." />
+	<block key="eNetFailure_Action_AlreadyUsePcCafeBuff" korean="Бесплатный номер PC уже используется брейк-точечный заряд." />
+	<block key="eNetFailure_Item_NotSummonFellow" korean="Стипендиаты не вызвал." />
+	<block key="eNetFailure_Item_NotFellowExpItem" korean="Стипендиаты опыт не использовать предметы." />
+	<block key="eNetSuccess_YellowTime" korean="Оплата товара была успешной." />
+	<block key="eNetFailure_YellowTime_FullHaveItemCount" korean="Вы не можете получить жизнеспособность коробка превышает количество, которое может вместить." />
+	<block key="eNetFailure_YellowTime_InventoryFully" korean="Я не есть пустое пространство в вашей сумке, вы не можете получить деталь." />
+	<block key="eNetFailure_Dungeon_InvalidMapKey" korean="Карта запрашиваемая информация инициализации indeon неправильно." />
+	<block key="enetfailure_move_not_eventchannel" korean="Вы не можете войти в сценарий канала." />
+	<block key="eNetFailure_AttackBattalion_Full" korean="Там нет пустых мест в рейде." />
+	<block key="eNetFailure_Dungeon_InitializeNothing" korean="Вы не должны сбросить подземелье." />
+	<block key="eNetFailure_Dungeon_NotPartyMaster" korean="Это можно сбросить партии удовлетворяются indeon." />
+	<block key="eNetFailure_Item_RemoveDeathpenaltyNoPenalty" korean="Воскресение осложнения не могут быть использованы, потому что это не поставлено на карту." />
+	<block key="eNetFailure_Party_PartyDropGaming" korean="Когда кости находятся в процессе не может быть выслан членов партии." />
+	<block key="eNetFailure_Move_Doing_ExitFailTimeQuest" korean="Quest в ходе, когда срок не будет в состоянии двигаться канал и конец." />
+	<block key="eNetFailure_Billing_AlreadyRequestSequence" korean="Запрос в процессе." />
+	<block key="eNetFailure_Billing_CannotBuyAnymore" korean="Товар не может быть приобретено больше." />
+	<block key="enetfailure_agreement_cannottradetarget" korean="Пользователь уже в сделках о ходе работы." />
+	<block key="enetfailure_lobbyuser_checkingworld" korean="Сервер в настоящее время проверяется.\nПожалуйста, проверьте бюллетень для получения дополнительной информации." />
+	<block key="enetfailure_agreement_notalloweventinstancetarget" korean="Назначения условии, что не может быть вызван." />
+	<block key="enetfailure_achievements_alreadyreward" korean="Достижения уже получили компенсацию." />
+	<block key="eNetFailure_Talents_not_enough_ruby" korean="Elounda является низким." />
+	<block key="enetfailure_fellow_seal_notlinksealfellowitem" korean="Молодец, что не может быть решена." />
+	<block key="enetfailure_trade_external_problem" korean="Сделка была отменена из-за различного поведения." />
+	<block key="enetfailure_talents_alreadyawakenpart" korean="Государство уже был применен к этому атрибуту." />
+	<block key="eNetfailure_Chat_not_join_attack_battalion" korean="Информация Raid неправильно. Пожалуйста, повторите попытку позже удалился." />
+	<block key="eNetFailure_agreement_fullattackbattalion" korean="Raid сад был превышен." />
+	<block key="eNetFailure_Party_Board_YellowRestrictState" korean="Жизнеспособность нерабочем состоянии доска не доступны." />
+	<block key="eNetFailure_Relation_FriendNotCutoff" korean="Зарегистрирован как друзей и не может быть заблокирована." />
+	<block key="eNetFailure_Relation_CannotFriendCutoff" korean="Я зарегистрирован в списке блока не может быть добавлен к вашим друзьям." />
+	<block key="eNetFailure_Enchant_not_allow_require_level_target_item" korean="Более 10 уровней выше, чем среди предметов Уровень игрок не может быть усилена." />
+	<block key="eNetFailure_Mail_not_yet_send_cooltime" korean="Время переключения не достигнута. Пожалуйста, повторите попытку позже." />
+	<block key="eNetfailure_auction_not_exist_cancel_expired_item" korean="Истечение срока пункт не существует." />
+	<block key="eNetfailure_auction_already_sold_item" korean="Пункт уже проданы." />
+	<block key="eNetFailure_Agreement_Response_MapInstance" korean="Там не может быть предметом indeon приглашения / поддержки." />
+	<block key="eNetFailure_Chat_Blocking" korean="Чат запрещено государство была применена в связи с GM. Пожалуйста, повторите попытку позже." />
+	<block key="eNetFailure_Agreement_MyAttackBattalionErrorYellowTime" korean="Жизнеспособность нерабочем состоянии, не может участвовать в рейде." />
+	<block key="eNetFailure_Agreement_HisAttackBattalionErrorYellowTime" korean="Из-за деградированных целей государство энергии не могут быть вовлечены в рейде." />
+	<block key="eNetFailure_Billing_not_enough_require_level" korean="Пункт не соответствует уровню использования, которые не могут быть куплены." />
+	<block key="eNetFailure_Fellow_Reinforce_NotEnoughFellowLv" korean="Сотрудник уровень не может быть усилена не достигло максимального уровня." />
+	<block key="eNetfailure_Talents_invalid_Ruby_data" korean="Не можете найти Elounda (данных)." />
+	<block key="eNetFailure_Fellow_Reinforce_NotFoundSealedItem" korean="Не можете найти деталь, запечатаны членом." />
+	<block key="eNetFailure_Fellow_Reinforce_CannotUseSkillPlayerState" korean="Стипендиаты не могут поддерживать укрепление. Пожалуйста, повторите попытку позже." />
+	<block key="eNetFailure_Fellow_Reinforce_NotEnoughSealedItemLv" korean="Не выйти на уровень уплотнения сотрудник максимального уровня не может быть повышена." />
+	<block key="eNetFailure_Fellow_Reinforce_ReachMax" korean="Стипендиаты не может быть больше не усиление для достижения максимального уровня." />
+	<block key="eNetFailure_store_not_enough_require_level" korean="Пункт не соответствует уровню использования, которые не могут быть куплены." />
+	<block key="enetfailure_item_notexistpackageitem" korean="Этот пакет элемент не существует." />
+	<block key="eNetFailure_Party_Board_FullParty" korean="Государство бассейн сторона не может зарегистрировать бюллетень." />
+	<block key="eNetFailure_Party_Board_MapInstance" korean="Вы не можете зарегистрировать бюллетень indeon внутри." />
+	<block key="eNetFailure_Fellow_Reinforce_ImpossibleToReinforce" korean="Молодец, что не может быть усилена." />
+	<block key="enetfailure_agreement_passengerfull" korean="Сотрудник салона заполняется со всеми условиями." />
+	<block key="enetfailure_agreement_cantboardingplayer" korean="Парень посадкой невозможно." />
+	<block key="eNetFailure_Fellow_Reinforce_NotEnoughNeedItemCount" korean="Сотрудник подкрепляется отсутствием материала не может быть больше не возрастает." />
+	<block key="eNetFailure_Fellow_Reinforce_InvalidNeedItem" korean="Там нет коллег-армированных материалов." />
+	<block key="eNetFailure_Move_TakeOnPassengers" korean="В состоянии, когда пассажиры не могут быть перемещены." />
+	<block key="eNetFailure_Fellow_Reinforce_SealedLvSmallerThanFellowLv" korean="Уровень менее герметичной уровне сотрудник сотрудник укрепляться." />
+	<block key="eNetFailure_Fellow_IsNotDamagableMe" korean="Зона безопасности не могут быть атакованы." />
+	<block key="enetfailure_user_stateakeonpassenger" korean="Когда пользователь перемещает посадке канал не доступен." />
+	<block key="eNetFailure_Move_NotSkipMap" korean="Карта не может сдаться." />
+	<block key="eNetFailure_Move_NotConditionSkip" korean="Не соответствует условиям отказ." />
+	<block key="eNetFailure_Agreement_NotAllowTakePassenger" korean="Будучи не в состоянии действовать во время полета." />
+	<block key="eNetFailure_Action_NotOnNavi" korean="Местоположение не может использовать этот навык." />
+	<block key="eNetFailure_Fellow_Reinforce_WrongSealedFellow" korean="Член повысить уплотнение не может быть использована в качестве армирующего материала." />
+	<block key="eNetFailure_User_StateTakeOnPassenger" korean="Будучи не в состоянии действовать во время полета." />
+	<block key="enetfailure_move_not_portal_destarea" korean="Там нет смысла, чтобы прибыть портал." />
+	<block key="eNetFailure_Quest_FinishedDailyQuestMax" korean="До более чем 50 ежедневных квестов в день не может быть завершена." />
+	<block key="eNetFailure_Technique_not_enough_level" korean="Вы не можете узнать достаточно на этом уровне к следующему шагу." />
+	<block key="eNetFailure_Fellow_Seal_NotFoundSealItem" korean="Bonginseok не может быть найдено." />
+	<block key="eNetFailure_Fellow_Seal_NotFoundSealedFellow" korean="Не можете найти уплотнительные Попутчики пунктов." />
+	<block key="eNetFailure_Fellow_seal_NotEnoughItemGrade" korean="Bonginseok рейтинг ниже, чем сотрудник классе." />
+	<block key="eNetFailure_Fellow_Seal_AlreadySealFellow" korean="Молодец, что уже были опечатаны." />
+	<block key="eNetFailure_Fellow_Seal_NotSealedFellow" korean="Незапечатанный сотрудник." />
+	<block key="eNetFailure_Fellow_Seal_NotFoundItemFromInven" korean="Этот пункт не в сумке." />
+	<block key="eNetFailure_Fellow_Seal_FellowEquipedItem" korean="Стипендиаты оснащены пунктов, которые не могут быть закрытыми." />
+	<block key="eNetFailure_Fellow_Seal_NotSealOwnershipPeriod" korean="Срок Братство не может быть решена." />
+	<block key="eNetFailure_Fellow_Reinforce_InvalidFellowGrade" korean="Неверный класс сотрудник." />
+	<block key="eNetFailure_Fellow_Reinforce_InvalidFellowReinforceData" korean="Сотрудник данные некорректны." />
+	<block key="eNetFailure_Fellow_IsNotDamagableTarget" korean="Государство не может атаковать цель." />
+	<block key="eNetFailure_Fellow_Seal_NotFoundUnSealItem" korean="Не можете найти распечатать детали." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_NotEnoughItemGrade" korean="Вы не можете извлечь извлекаемые рейтинги не совпадают." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_ExtractionToolNeeded" korean="Предметы, необходимые для извлечения уплотнения сотрудник не существует." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_TargetItem" korean="Этот пункт не существует, чтобы извлечь уплотнительное членом." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_ImpossibleTargetItem" korean="Элемент не может запечатать Fellow добычу." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_NotFountSlot" korean="Элемент не существует сотрудник опечатаны." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_NotFountSealedFellow" korean="Сотрудник невозможно извлечь уплотнение." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_NotFoundItemFromInven" korean="Элемент не может запечатать Fellow добычу." />
+	<block key="eNetFailure_Enchant_ExtractionSealedFellow_FellowListFull" korean="Сотрудник библиотеки не может быть полное извлечение." />
+	<block key="eNetFailure_Item_CheckLevel" korean="Привязать покинуть этот уровень не может быть определена до выключения не подходит." />
+	<block key="eNetFailure_Item_checkGrade" korean="Привязать бортовое не может быть подобран с не подходит." />
+	<block key="eNetFailure_Item_MaxRemoveBelongingCount" korean="Больше не может быть отнесена освобождены." />
+	<block key="eNetFailure_Item_CannotBelongingType" korean="Вы можете только оборудовать пункты, приходящейся приходящейся освобождения." />
+	<block key="eNetFailure_Item_AlreadyRest" korean="Уже начата состояние." />
+	<block key="eNetFailure_User_Wrong_MapData" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 230" />
+	<block key="enetfailure_achievements_invalid_achievement_recordid" korean="Неверный достижения." />
+	<block key="enetfailure_achievements_invalid_achievement_condition_recordid" korean="Недействительные условия работы." />
+	<block key="enetfailure_achievements_notcomplete" korean="Работа не завершена." />
+	<block key="enetfailure_achievements_notexistreward" korean="Достижения без компенсации." />
+	<block key="enetfailure_achievements_alreadytitle" korean="Название уже были приобретены." />
+	<block key="enetfailure_action_needlearnedskill" korean="Узнал предыдущие навыки." />
+	<block key="enetfailure_action_notfallordescentskill" korean="Навыки, которые не доступны во время аварии." />
+	<block key="enetfailure_action_tamingstate" korean="Приручить состояние." />
+	<block key="enetfailure_action_tamingconditionneedtem" korean="Там нет товаров приручить состояние." />
+	<block key="enetfailure_action_tamingconditionnotenoughhp" korean="Жизнь не может быть достаточно низкой, чтобы не ручные." />
+	<block key="enetfailure_action_validmastertaming" korean="Вы не можете приручить одомашненных членом." />
+	<block key="enetfailure_action_invalidconversionrecord" korean="Не можете найти деталь." />
+	<block key="enetfailure_action_invalidportalnpc" korean="Не портал NPC." />
+	<block key="enetfailure_agreement_notsamelayer" korean="Цель не на той же карте." />
+	<block key="enetfailure_agreement_dueldistanceerror" korean="Расстояние слишком далеко." />
+	<block key="enetfailure_agreement_notalloweventinstancemap" korean="В сценарии подземелье вы не можете." />
+	<block key="enetfailure_agreement_disagree" korean="Отказался вступить в гильдию." />
+	<block key="enetfailure_agreement_guidunion_notguild" korean="Не в гильдии." />
+	<block key="enetfailure_agreement_guidunion_notguildmaster" korean="Гильдии можете пригласить только." />
+	<block key="enetfailure_agreement_guidunion_destplayernotguild" korean="Цель не в гильдии." />
+	<block key="enetfailure_agreement_guidunion_destplayernotguildmaster" korean="Цель не гильдии." />
+	<block key="enetfailure_agreement_guidunion_lowguildgrade" korean="Гильдия не могут быть приглашены к снижению Союза." />
+	<block key="enetfailure_agreement_guidunion_overmaxguildunionmember" korean="Вы превысили максимальное количество Союза пригласить." />
+	<block key="enetfailure_agreement_guidunion_alreadyguildunionmember" korean="Вы уже принадлежит другому гильдии Союза." />
+	<block key="enetfailure_agreement_systemerror" korean="Системная ошибка" />
+	<block key="enetfailure_auction_invalid_ruby_data" korean="Не можете найти Elounda." />
+	<block key="enetfailure_auction_insufficient_ruby" korean="Elounda является низким." />
+	<block key="enetfailure_auction_invalid_char_data" korean="Не можете найти информацию о символов." />
+	<block key="enetfailure_auction_expand_full_slot" korean="Вы больше не будете иметь возможность расширить гнездо." />
+	<block key="enetfailure_auction_systemerror" korean="Торговый представитель System Error" />
+	<block key="enetfailure_auction_dataerror" korean="Торговый представитель ошибка данных" />
+	<block key="enetfailure_billing_not_ready_channeling_server" korean="Не связанные с сервером биллинга." />
+	<block key="enetfailure_billing_duplicate_purchase_id" korean="Идентификации транзакций номер был дублирован." />
+	<block key="enetfailure_billing_saveitem_dberror" korean="Произошла ошибка при сохранении пункт был приобретен." />
+	<block key="enetfailure_billing_packeterror" korean="Ошибочных пакетов Биллинг" />
+	<block key="enetfailure_billing_systemerror" korean="Ошибка Биллинговая система" />
+	<block key="enetfailure_chat_not_attack_battalion_master" korean="Не рейд-лидер." />
+	<block key="enetfailure_chat_item_link_internal_packet" korean="Соединение деталей пакетных ошибок" />
+	<block key="enetfailure_chat_can_not_use_item" korean="Предметы, которые не могут быть использованы." />
+	<block key="enetfailure_chat_not_guild_union_member" korean="Гильдия Союз не круг." />
+	<block key="enetfailure_chat_not_militia_member" korean="Exergy вырос не вступать в ополчение." />
+	<block key="enetfailure_dungeon_isnotonthemap" korean="Не на карте." />
+	<block key="enetfailure_dungeon_init_invalidmapkey" korean="Запрос инициализации подземелье является недействительным." />
+	<block key="enetfailure_dungeon_init_invalidgrade" korean="Запрос инициализации Сложность является недействительным." />
+	<block key="enetfailure_dungeon_init_invaliddungeon" korean="Запрос инициализации подземелье является недействительным." />
+	<block key="enetfailure_dungeon_init_reenterpossible" korean="Это положение в настоящее время Dungeon сложности." />
+	<block key="enetfailure_dungeon_init_isnotinstance" korean="Не удалось инициализировать, но это подземелье." />
+	<block key="enetfailure_dungeon_systemerror" korean="Системная ошибка Dungeon" />
+	<block key="enetfailure_dungeon_packeterror" korean="Ошибочных пакетов Подземелья" />
+	<block key="enetfailure_enchant_invalid_uselimit" korean="Срок детали будут усилены." />
+	<block key="enetfailure_enchant_invalid_box" korean="Не коробка подарка для их укрепления." />
+	<block key="enetfailure_enchant_invalid_soulstone_item" korean="Действие невозможно пункты younghonseok." />
+	<block key="enetfailure_enchant_reinforce_lvupstone_needed" korean="Обновление Stone нет уровня окна." />
+	<block key="enetfailure_enchant_reinforce_blessstone_needed" korean="Обновление Камень благословение вы получили деталь." />
+	<block key="enetfailure_enchant_reinforce_random_stone_needed" korean="Обновление Stone нет случайных элементов." />
+	<block key="enetfailure_enchant_reinforce_lvupstone_over_needed" korean="Максимальный уровень, который может создать резервную копию уровень обновления камень." />
+	<block key="enetfailure_enchant_invalid_reinforce_lvup_rate" korean="Обновление Stone выравнивания ошибку в данных" />
+	<block key="enetfailure_enchant_invalid_reinforce_random_rate" korean="Случайные усиливается об ошибке в данных" />
+	<block key="enetfailure_enchant_invalid_reinforce_random_itemgrade" korean="Различные сорта необходимых элементов." />
+	<block key="enetfailure_enchant_invalid_reinforce_random_equipparts" korean="Улучшенная сайт отличается." />
+	<block key="enetfailure_enchant_fellowtoitem_notfoundtargetitem" korean="Не можете найти деталь." />
+	<block key="enetfailure_enchant_fellowtoitem_notfoundsealeditem" korean="Не можете найти запечатанные элементы." />
+	<block key="enetfailure_enchant_fellowtoitem_impossiblesynthesize" korean="Товар не может быть синтезированы." />
+	<block key="enetfailure_enchant_fellowtoitem_notfounditemfrominven" korean="Не удалось найти в сумке." />
+	<block key="enetfailure_enchant_fellowtoitem_trade_on" korean="Сделка является пунктов." />
+	<block key="enetfailure_enchant_fellowfromitem_notfoundtargetitem" korean="Не можете найти деталь." />
+	<block key="enetfailure_enchant_fellowfromitem_notfoundsealeditem" korean="Там нет элементы, подключенные печать." />
+	<block key="enetfailure_enchant_fellowfromitem_notfounditemfrominven" korean="Не удалось найти в сумке." />
+	<block key="enetfailure_enchant_dataerror" korean="Улучшенная об ошибке в данных" />
+	<block key="enetfailure_enchant_packeterror" korean="Улучшенная Пакет Ошибка" />
+	<block key="enetfailure_fellow_ride_slave_deadstate" korean="Сотрудник совет был убит." />
+	<block key="enetfailure_fellow_notmaster" korean="Не его парень." />
+	<block key="enetfailure_fellow_donotforcegetoffmaster" korean="Мастер не сможет сойти с силой." />
+	<block key="enetfailure_fellow_notallowobserverstate" korean="Прозрачный государство, когда не допускается." />
+	<block key="enetfailure_fellow_chaosstate" korean="Путаница не может быть вызван с." />
+	<block key="enetfailure_fellow_insufficientruby" korean="Elounda является низким." />
+	<block key="enetfailure_fellow_invalidrubydata" korean="Переименовать ошибку в данных Ruby," />
+	<block key="enetfailure_fellow_notfounditemfrominven" korean="Не удалось найти в сумке." />
+	<block key="enetfailure_fellow_transform_notexisttransformskilldata" korean="Этот парень преобразование умение не существует." />
+	<block key="enetfailure_fellow_transform_notallowfellowkindbattle" korean="Элемент не может преобразовать домашнее животное." />
+	<block key="enetfailure_fellow_transform_notallowfellowkindride" korean="Элемент не может превратить членом." />
+	<block key="enetfailure_fellow_dataerror" korean="Сотрудник ошибке в данных" />
+	<block key="enetfailure_fellow_servererror" korean="Сотрудник Ошибка сервера" />
+	<block key="enetfailure_foothold_notapplicationperiodoffoothold" korean="Не база до периода подачи заявок." />
+	<block key="enetfailure_foothold_noserachabletarget" korean="Цель не может быть найдено." />
+	<block key="enetfailure_foothold_invalidfootholdnpc" korean="Я не база NPC." />
+	<block key="enetfailure_foothold_invalid_map_info" korean="Я неверная информация базовая карта." />
+	<block key="enetfailure_foothold_notguildmaster" korean="Гильдии нет." />
+	<block key="enetfailure_foothold_alreadypendinginotherregion" korean="Я уже в базовой заявке." />
+	<block key="enetfailure_foothold_partyleaderisnotguildmaster" korean="Чжан сторона не гильдии." />
+	<block key="enetfailure_foothold_partymembersaernotinthesameguild" korean="Партия не одной гильдии." />
+	<block key="enetfailure_foothold_attacksquadhasalreadeyjoined" korean="Raid уже участвует." />
+	<block key="enetfailure_foothold_notparticipationperiodoffoothold" korean="Я не база участие периода." />
+	<block key="enetfailure_foothold_notprepareregisterguild" korean="Я не участвую в гильдии базу." />
+	<block key="enetfailure_foothold_invalidrankingguild" korean="Разве это не действует рейтинг гильдии." />
+	<block key="enetfailure_foothold_notattacksquad" korean="Разве это не рейд." />
+	<block key="enetfailure_foothold_notwinnerguild" korean="Не выиграв гильдии." />
+	<block key="enetfailure_foothold_notwinnerguildmaster" korean="Гильдии Гильдии не победить." />
+	<block key="enetfailure_foothold_invalidtaxrate" korean="Это не действует налоговая ставка." />
+	<block key="enetfailure_foothold_nottaxrateappliedstore" korean="Этот налог не распространяется на магазине." />
+	<block key="enetfailure_foothold_nottaxrateappliedmap" korean="Местный налог не применяется." />
+	<block key="enetfailure_foothold_systemerror" korean="Основан на системной ошибки" />
+	<block key="enetfailure_foothold_packeterror" korean="Основан на ошибки пакетов" />
+	<block key="enetfailure_guild_not_guildmaster" korean="Гильдии нет." />
+	<block key="enetfailure_guild_invalidpermission" korean="Вы не можете устанавливать права доступа гильдии ранга." />
+	<block key="enetfailure_guild_not_join_guildmember" korean="Это не цех член связи." />
+	<block key="enetfailure_guild_not_kick_guildmember" korean="Вы не можете заставить себя уйти." />
+	<block key="enetfailure_guild_not_change_onesafe_guildmember" korean="Не могут быть переданы на цеховой мастер сам." />
+	<block key="enetfailure_guild_invalid_guildmarkid" korean="Гильдия Марк ошибке" />
+	<block key="enetfailure_interaction_not_player" korean="Игрок не достижимо." />
+	<block key="enetfailure_item_not_record" korean="Неправильная запись пункт" />
+	<block key="enetfailure_item_notstorable" korean="Емкость без хранения" />
+	<block key="enetfailure_item_falseexchange" korean="Невозможно двигаться хранения" />
+	<block key="enetfailure_item_not_dividestorage" korean="Разделите неправильного хранения товара." />
+	<block key="enetfailure_item_not_combinestorage" korean="Хранение деталей вы хотите совместить недействительным." />
+	<block key="enetfailure_item_invalidnpcrecord" korean="NPC не правильная запись." />
+	<block key="enetfailure_item_invalidshoptypenpc" korean="Неверный магазин NPC." />
+	<block key="enetfailure_item_fellowequipeditem" korean="Вы не можете вызвать товарища от, так как он прикреплен к пункту." />
+	<block key="enetfailure_item_repair_not_item" korean="Отремонтировать деталь не доступен." />
+	<block key="enetfailure_item_cannotdropauctiongame" korean="Игрок не может участвовать в аукционе." />
+	<block key="enetfailure_item_invalidarearecord" korean="Ошибка Рекорд карты" />
+	<block key="enetfailure_item_notexistrandombox" korean="Там нет случайных элементов коробки." />
+	<block key="enetfailure_item_notrandombox" korean="Это не случайное элементы коробки." />
+	<block key="enetfailure_item_notpackageitem" korean="Не коробка товар." />
+	<block key="enetfailure_item_insufficientruby" korean="Elounda является низким." />
+	<block key="enetfailure_item_dberror" korean="DB произошла ошибка." />
+	<block key="enetfailure_mail_not_mail_data" korean="Вы не можете создать пост." />
+	<block key="enetfailure_mail_item_invalid_bag" korean="Там нет товаров в вашей сумке." />
+	<block key="enetfailure_mail_pending" korean="Пожалуйста, попробуйте еще раз через несколько минут." />
+	<block key="enetfailure_militia_guildranktoohigh" korean="Если класс 3 или выше, не может принадлежать к гильдии, чтобы присоединиться." />
+	<block key="enetfailure_militia_notmember" korean="Exergy вырос не вступать в ополчение." />
+	<block key="enetfailure_militia_alreadymember" korean="Вы уже подписаны на возбудителя, выращенные ополченцев." />
+	<block key="enetfailure_militia_invalid_npc" korean="Ту цель." />
+	<block key="enetfailure_militia_shotmoney" korean="Недостаток средств в кармане." />
+	<block key="enetfailure_move_notfoundchannel" korean="Не можете найти сервер канала." />
+	<block key="enetfailure_move_not_portal_area" korean="Не портал площадь." />
+	<block key="enetfailure_move_not_portal_player_map" korean="На портале карты и карты различных игроков." />
+	<block key="enetfailure_move_not_portal_startarea" korean="Вы не должны покинуть зону портала." />
+	<block key="enetfailure_move_not_portal_destarea_random" korean="Не можете найти случайное расположение в области портала приехать." />
+	<block key="enetfailure_move_invalidportal_npc" korean="Не можете найти портала NPC." />
+	<block key="enetfailure_move_invalidportal_record" korean="Не можете найти запись портала." />
+	<block key="enetfailure_move_invalidportal_data" korean="Там нет информационный портал." />
+	<block key="enetfailure_move_cannotselectgrade" korean="Вы не можете выбрать подземелье трудности." />
+	<block key="enetfailure_move_cannotfoundcreatedinstance" korean="Существует нет генерируемые подземелья." />
+	<block key="enetfailure_move_donotexistgradereserveinfo" korean="Не был выбран предварительный Dungeon сложности." />
+	<block key="enetfailure_move_legenddungeoncondition" korean="Не завершить героической." />
+	<block key="enetfailure_move_legenditemcondition" korean="Там нет приема предметы." />
+	<block key="enetfailure_move_eventinvalidresurrectarea" korean="Неправильные данные воскресение зоны на воскресение из канала событий" />
+	<block key="enetfailure_move_eventinvalidcutoffarea" korean="Там нет информации на позицию символа в случаях событий twinggil канала." />
+	<block key="enetfailure_move_eventinvalidarearandompos" korean="В канале например, событие не найдены во время случайной позиции на воскресение района." />
+	<block key="enetfailure_move_donothavequest" korean="Условия ввода канала, событие не закончить квест не прогрессировать." />
+	<block key="enetfailure_move_invalidregionrecord" korean="Не можете найти местный рекорд." />
+	<block key="enetfailure_move_invalidskill" korean="Это умение не существует." />
+	<block key="enetfailure_move_invalid_map_info" korean="Информация о карте доступно." />
+	<block key="enetfailure_move_insufficientruby" korean="Elounda является низким." />
+	<block key="enetfailure_move_invalid_resurrecttype" korean="Неправильный тип воскресения." />
+	<block key="enetfailure_move_error_rubysystem" korean="Elounda системная ошибка" />
+	<block key="enetfailure_party_notmaster_kick" korean="Вы не имеете разрешения для партии исключили." />
+	<block key="enetfailure_party_notmaster_changemaster" korean="Вы не имеет права изменить партию." />
+	<block key="enetfailure_party_notmaster_changeloot" korean="Вы не имеете разрешения для маршруту партии." />
+	<block key="enetfailure_party_notmaster_createbattalion" korean="Вы не имеете разрешения для создания RAID." />
+	<block key="enetfailure_party_notmember" korean="Что не является стороной пользователи." />
+	<block key="enetfailure_party_notmaster_moneyshare" korean="Права на распространение удовлетворяются партию." />
+	<block key="enetfailure_party_moneyshare_few" korean="Эта сумма Угорь небольшое количество низкой или нет денег, чтобы быть распределены." />
+	<block key="enetfailure_party_invalidrequestselfcommand" korean="Невозможно себе." />
+	<block key="enetfailure_party_invalidpartylootgradecheck" korean="Ratings ограничено метод распределения является недействительным." />
+	<block key="enetfailure_party_board_titlenotexist" korean="Название бюллетеня не был введен." />
+	<block key="enetfailure_party_board_invalid_page" korean="Неверный номер страницы." />
+	<block key="enetfailure_party_board_min_more_than_max" korean="Минимальный уровень выше, чем максимальный уровень." />
+	<block key="enetfailure_party_board_invalid_type" korean="Неверный тип платы." />
+	<block key="enetfailure_party_matching_dungeonlimitnum" korean="Вы превысили ограничения подземелья персонала." />
+	<block key="enetfailure_party_matching_dungeonnextentertimelimit" korean="Время возвращения был только для этого сорта." />
+	<block key="enetfailure_party_matching_normaldungeonlimitcount" korean="Он взял на максимальное количество, которое может быть допущен к общей класса indeon." />
+	<block key="enetfailure_party_matching_impossibleapplyclass" korean="Поддержка не-класса." />
+	<block key="enetfailure_party_matching_invalidmap" korean="Неверный карту." />
+	<block key="enetfailure_party_matching_cannotselectgrade" korean="Indeon трудности, которые не могут быть выбраны." />
+	<block key="enetfailure_party_matching_alreadyapply" korean="Пользователь, который уже поддерживает." />
+	<block key="enetfailure_party_matching_alreayinstancemap" korean="Indeon Эта партия не может сравниться." />
+	<block key="enetfailure_party_matching_notmaster" korean="Не является стороной главы." />
+	<block key="enetfailure_party_matching_notyetwaittime" korean="Соответствие регистрация была возможна только задержка." />
+	<block key="enetfailure_quest_invalidnpctype" korean="NPC не допустимый тип." />
+	<block key="enetfailure_quest_invalidnpcrecord" korean="Не можете найти запись NPC." />
+	<block key="enetfailure_quest_alreadydoingquestnpc" korean="Квесты уже в процессе NPC." />
+	<block key="enetfailure_quest_mylevelbelowskillevel" korean="Seukilbuk высокий уровень приобретения навыков." />
+	<block key="enetfailure_quest_notquestrecord" korean="Там нет записи квест." />
+	<block key="enetfailure_quest_notinarea" korean="Не в районе миссии." />
+	<block key="enetfailure_quest_myleveloverquestlevel" korean="Мой уровень квест выше, чем максимальный уровень." />
+	<block key="enetfailure_quest_invalidneeditem" korean="Элементы, необходимые для принятия является недействительным." />
+	<block key="enetfailure_quest_notenoughneeditem" korean="Ин не хватает предметы, необходимые для принятия." />
+	<block key="enetfailure_relation_namelengthover" korean="Длина имени слишком долго." />
+	<block key="enetfailure_relation_self" korean="Вы не можете добавить себя в список друзей." />
+	<block key="enetfailure_relation_systemerror" korean="Buddy системная ошибка" />
+	<block key="enetfailure_store_not_item_destroy_time" korean="Предметы купить время является неверным." />
+	<block key="enetfailure_store_invalid_item_record" korean="Не можете найти запись пункт." />
+	<block key="enetfailure_talents_not_enough_point" korean="Сила души является низким." />
+	<block key="enetfailure_talents_not_enough_powder" korean="Мука душа низка." />
+	<block key="enetfailure_talents_max_point_already_full" korean="Я уже в полную силу до недвижимости." />
+	<block key="enetfailure_talents_low_level" korean="Уровень низкий." />
+	<block key="enetfailure_talents_low_mastery" korean="Знание является низким." />
+	<block key="enetfailure_talents_target_too_far" korean="Расстояние между мишенью и находится слишком далеко." />
+	<block key="enetfailure_talents_notsoulstoneitem" korean="Younghonseok нет." />
+	<block key="enetfailure_talents_notsoulpowderitem" korean="Не душа муки." />
+	<block key="enetfailure_talents_impossibleawakenpart" korean="Пробуждение не возможно сайта." />
+	<block key="enetfailure_talents_impossibleclass" korean="Пробуждение не возможные классы." />
+	<block key="enetfailure_talents_notenoughactivelevel" korean="Не уровень активации." />
+	<block key="enetfailure_talents_notawakenpart" korean="Пораженный участок находится в собственности государства не было предоставлено." />
+	<block key="enetfailure_talents_nohaveskill" korean="Там нет навыка." />
+	<block key="enetfailure_talents_not_found_item" korean="Не можете найти деталь." />
+	<block key="enetfailure_talents_not_sealed_fellow_item" korean="Сотрудник не герметичный элемент." />
+	<block key="enetfailure_title_invalid_title" korean="Предметы, которые не название." />
+	<block key="enetfailure_title_not_have_title" korean="Вы не получаете титул." />
+	<block key="enetfailure_trade_invalid_trade_slot" korean="Торговые пункты не допускается номер слота." />
+	<block key="enetfailure_tarde_not_decided" korean="Статус сделки не определена." />
+	<block key="enetfailure_user_notallowreqchannellistmap" korean="Запросе списка на карте канала не допускается." />
+	<block key="enetfailure_user_notallowreqchangechannelmap" korean="Изменение карты каналов не допускается." />
+	<block key="enetfailure_gmsvmanager_equalaccountconnected" korean="Подключение таких счетов." />
+	<block key="enetfailure_managerskill_alreadylearnskill" korean="Навыки уже научились." />
+	<block key="enetfailure_managerskill_invalidskill" korean="Навык, который не существует." />
+	<block key="eNetFailure_Move_NotAllowResurrectType" korean="Эта зона не может быть возрождена благословение." />
+	<block key="eNetFailure_Agreement_NotAllowBattleArenaMapTrade" korean="В этой области, вы не можете торговать." />
+	<block key="eNetFailure_Agreement_NotAllowBattleArenaMap" korean="Эта зона не может быть вызван." />
+	<block key="eNetFailure_Agreement_NotAllowBattleArenaTarget" korean="Объект находится в районе, который не может быть вызван." />
+	<block key="eNetFailure_Militia_UnableContents" korean="Разве это не доступна прямо сейчас." />
+	<block key="eNetFailure_Militia_UnknownDBKey" korean="Не можете найти гильдию." />
+	<block key="eNetFailure_Militia_NoRecordData" korean="Неверные данные." />
+	<block key="eNetFailure_GuildUnion_UnknownGuildDBKey" korean="Не можете найти гильдию." />
+	<block key="eNetFailure_GuildUnion_UnknownPlayerDBKey" korean="Не можете найти цель." />
+	<block key="eNetFailure_GuildUnion_NotGuildUnionMaster" korean="Гильдии нет." />
+	<block key="eNetFailure_GuildUnion_NotGuildMaster" korean="Гильдия Союз не хозяин." />
+	<block key="eNetFailure_GuildUnion_Invalid_NPC" korean="Ту цель." />
+	<block key="eNetFailure_GuildUnion_ShortGold" korean="Недостаток средств в кармане." />
+	<block key="eNetFailure_GuildUnion_LowRank" korean="Оценка 3 или выше, вы можете только основал Гильдию Союз." />
+	<block key="eNetFailure_GuildUnion_GuildNotFound" korean="Не можете найти гильдию." />
+	<block key="eNetFailure_GuildUnion_UnknownGuildUnionDBKey" korean="Неверный Гильдия Союз." />
+	<block key="eNetFailure_GuildUnion_NotExistGuildName" korean="Пожалуйста, зайдите в имени гильдии, что вы хотите пригласить к Союзу." />
+	<block key="eNetFailure_GuildUnion_NotEnoughGuildRank" korean="Оценка 3 или выше гильдии могут быть объединены только." />
+	<block key="eNetFailure_GuildUnion_AlreadyGuildUnionMember" korean="Сформированные альянса гильдий не может предложить." />
+	<block key="eNetFailure_GuildUnion_GuildMasterOffline" korean="Гильдии Гильдии не в связи с Союзом." />
+	<block key="eNetFailure_GuildUnion_OfferRefused" korean="Цель гильдии отказался пригласить Союз." />
+	<block key="eNetFailure_GuildUnion_SameGuildUnionName" korean="Вы не можете использовать то же имя." />
+	<block key="eNetFailure_GuildUnion_ExistGuildName" korean="Название другими гильдиями недоступны." />
+	<block key="eNetFailure_GuildUnion_ExistGuildUnionName" korean="Союз или гильдии имя, которое уже существует." />
+	<block key="eNetFailure_GuildUnion_ShortRuby" korean="Elounda является низким." />
+	<block key="eNetFailure_GuildUnion_NotGuildMember" korean="Цель не в гильдии." />
+	<block key="eNetFailure_GuildUnion_NotGuildUnionMember" korean="Цель не принадлежат к гильдии Союза." />
+	<block key="eNetFailure_GuildUnion_DifferentGuildUnion" korean="Гильдия Союз различны." />
+	<block key="eNetFailure_GuildUnion_MasterGuildCantLeaveUnion" korean="Гильдия основана Союз не сможет уйти." />
+	<block key="eNetFailure_GuildUnion_NameLengthOver" korean="Название союз слишком долго." />
+	<block key="eNetFailure_GuildUnion_NameIncludedWordBaned" korean="Содержит запрещенные слова в имени ассоциации." />
+	<block key="eNetFailure_Item_CancelSkill" korean="Детали помощью был отменен." />
+	<block key="eNetFailure_agreement_guidunion_disagree" korean="Отказался вступить в Союз." />
+	<block key="eNetFailure_agreement_guidunion_notexistguild" korean="Гильдия вы хотите пригласить не существует." />
+	<block key="eNetFailure_Action_NotTamAbleonCasting" korean="Вы не можете попытаться приручить монстра во время произнесения заклинаний." />
+	<block key="eNetFailure_Item_CannotUseInstanceMap" korean="Это не в состоянии использовать площадь пункта." />
+	<block key="eNetFailure_Guild_TimePenaltyWithdrawalGuild" korean="В течение одного дня отпуска после гильдии, вы не можете создать гильдию." />
+	<block key="eNetFailure_Guild_NotCertifiedAbsentDay" korean="Количество дней непосещения недостаточно Гильдии увольнение." />
+	<block key="eNetFailure_Guild_ImpossibleDismissal" korean="Это Гильдии Хаим невозможно." />
+	<block key="eNetFailure_Agreement_TimePenaltyWithdrawalGuild" korean="Задача не только один день после гильдии отзыв не может быть приглашен в гильдию." />
+	<block key="eNetFailure_Agreement_GuidUnion_NotEnoughGold" korean="Чтобы пригласить Союз понадобится 10 золота." />
+	<block key="eNetFailure_Agreement_GuidUnion_MasterNotConnected" korean="Гильдии Гильдии вы хотите пригласить не в связи." />
+	<block key="eNetFailure_Chat_not_militarized_zone" korean="Чат милиция можно выращивать только в возбудителе." />
+	<block key="eNetFailure_Guild_DismissalInProgress" korean="Гильдии увольнение в процессе." />
+	<block key="eNetFailure_Move_LegendAchievementCondition" korean="Легендарной сложности работ, необходимых для позиции не было достигнуто." />
+	<block key="eNetFailure_User_MoneyCheckSumError" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 330" />
+	<block key="eNetFailure_Fellow_BlockSummonFellow" korean="Государство не может вызвать товарища." />
+	<block key="eNetFailure_Fellow_NotAllowAltitude" korean="Текущая высота не может вызвать товарища." />
+	<block key="eNetFailure_Agreement_Taming" korean="Укрощение попытка запрашивается для цель не может быть." />
+	<block key="eNetFailure_User_CharHelpTopic" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 231" />
+	<block key="eNetFailure_User_CharShowActorItem" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 232" />
+	<block key="eNetFailure_User_CharPKList" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 233" />
+	<block key="eNetFailure_User_CharTimeEvent" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 234" />
+	<block key="eNetFailure_User_CharTransaction" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 235" />
+	<block key="eNetFailure_User_CheckFellowListFail" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 236" />
+	<block key="eNetFailure_User_CharGeneral" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 224" />
+	<block key="eNetFailure_User_YellowTime" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 228" />
+	<block key="eNetFailure_User_YellowBox" korean="Вы не можете получить доступ к из-за символьной информации и более поздних версий.\nHaejusimyeon спрашивайте нас, мы будем двигаться быстро.\nКод ошибки: 229" />
+	<block key="eNetFailure_GuildUnion_TimePenaltyWithdrawal" korean="Союз вывел через день не может быть установлена ​​на союз в рамках." />
+	<block key="eNetFailure_Agreement_GuidUnion_TimePenaltyWithdrawal" korean="Союз вывел после только один день сделал гильдии не смогут предложить Союз." />
+	<block key="enetfailure_move_legendachivementcondition" korean="Легендарной сложности работ, необходимых для позиции не было достигнуто." />
+	<block key="eNetFailure_Action_IsNotComboSequence" korean="Я не стал этого комбо умение отдан запрос." />
+	<block key="eNetFailure_Action_InvalidComboSkill" korean="Combo Combo навыки и другие навыки начали кастинг запрос." />
+	<block key="eNetFailure_Action_InvalidComboSkillSequence" korean="Combo квалификации навык литой не вписывается в порядок было предложено." />
+	<block key="eNetFailure_GuildUnion_Warfare_InvalidGuionUnionDBKey" korean="Союз не в гильдии." />
+	<block key="eNetFailure_GuildUnion_Warfare_NotExistGuionUnion" korean="Гильдия Союз не существует." />
+	<block key="eNetFailure_GuildUnion_Warfare_NotGuionUnionMaster" korean="Гильдия Организации Объединенных Наций не является неисправностью." />
+	<block key="eNetFailure_GuildUnion_Warfare_NotEnoughRequestGold" korean="Не достаточно золота для объявления войны." />
+	<block key="eNetFailure_GuildUnion_Warfare_WarfareState" korean="Вы не можете объявить войну или отложенный приложение для объявления войны коалиции." />
+	<block key="eNetFailure_GuildUnion_Warfare_NotWarfareState" korean="Сейчас не война." />
+	<block key="eNetFailure_GuildUnion_Warfare_ResponseTimeOut" korean="Запрос декларация время войны прошло." />
+	<block key="eNetFailure_GuildUnion_Warfare_NotExistStateWarfare" korean="Там нет информации о объявлением войны." />
+	<block key="eNetFailure_GuildUnion_Warfare_WarfareStateNotReqeust" korean="В режиме ожидания не ответ на объявление войны." />
+	<block key="eNetFailure_GuildUnion_Warfare_Invalid_NPC" korean="Неверный NPC." />
+	<block key="eNetFailure_GuildUnion_Warfare_LongDistanceWithTheNpc" korean="NPC и расстояние слишком далеко." />
+	<block key="eNetFailure_GuildUnion_Warfare_CanNotRequestMyUnion" korean="Вы не можете попросить их союза." />
+	<block key="eNetFailure_item_ChangeOptionNotFoundSealedItem" korean="Сотрудник деталь не решена." />
+	<block key="eNetFailure_item_ChangeOptionNotExistInInven" korean="Там нет товаров в вашей сумке." />
+	<block key="eNetFailure_Item_ChangeOptionNotEnoughItemGrade" korean="Рейтинг условие не будет выполнено." />
+	<block key="eNetFailure_Enchant_decomposition_no_item" korean="Этот пункт не существует, чтобы взорваться." />
+	<block key="eNetFailure_Enchant_decomposition_InvalidData" korean="Элементы, которые не могут быть разобраны." />
+	<block key="eNetFailure_Enchant_Level" korean="Уровень деталь не правильно." />
+	<block key="eNetFailure_User_ForceKick_AbuseMovingCheck" korean="Сила отключения из-за неправильного движения" />
+	<block key="eNetFailure_Fellow_NeutralZoneTarget" korean="Целевая находится в нейтральной зоне не могут быть атакованы." />
+	<block key="eNetFailure_Agreement_NotAllowDuelByUnionWarfare" korean="Союз война мишенью и не сможет драться на дуэли." />
+	<block key="eNetFailure_Action_NotAllowedNeuralZone" korean="Нейтральная зона не может быть атакован." />
+	<block key="eNetFailure_GuildUnion_Warfare_DisbandFailed" korean="Организация Объединенных Наций не может быть демонтирована во время войны." />
+	<block key="eNetFailure_Enchant_decomposition_not_enough_slot" korean="Не менее трех пустых слотов требуется разбирать." />
+	<block key="eNetFailure_Enchant_Bracelet_NotFoundBracelet" korean="Этот браслет элемент не существует." />
+	<block key="eNetFailure_Enchant_Bracelet_NotFoundGem" korean="Этот пункт ювелирных изделий не существует." />
+	<block key="eNetFailure_Enchant_Bracelet_DeactivationGemSlot" korean="Слот Ювелирные изделия неактивным." />
+	<block key="eNetFailure_Enchant_Bracelet_InvalidGemSlot" korean="Индекс слот драгоценный камень не подходит." />
+	<block key="eNetFailure_Enchant_Bracelet_NotFoundGemSlotItem" korean="Это ювелирные изделия не приспособлены для ювелирных слотов." />
+	<block key="eNetFailure_Enchant_Bracelet_NotEnoughGoldEtractionGem" korean="Золотые украшения низким во время добычи." />
+	<block key="eNetfailure_store_invalid_state" korean="Это магазин использование невозможно." />
+	<block key="eNetFailure_GuildUnion_Warfare_NotRequestUnion" korean="Удовлетворяются Объединенных Наций объявила войну союз может быть отменена." />
+	<block key="eNetFailure_Item_LoginEvent_FullInventory" korean="Я инвентарь полон." />
+	<block key="eNetFailure_Item_LoginEvent_NoPrize" korean="Этот пункт не будет присутствовать." />
+	<block key="eNetFailure_Item_LoginEvent_WrongItemCount" korean="Вы должны сделать сумму платежа." />
+	<block key="eNetfailure_Item_Keeping_npc_not_found" korean="Не можете найти NPC хранения." />
+	<block key="eNetfailure_Item_Keeping_too_far" korean="NPC и далеко от склада." />
+	<block key="eNetFailure_auction_exceed_buy_item_maximum_limit" korean="Вы не можете купить больше, чем максимальное количество элементов, которые нужно купить в распоряжении." />
+	<block key="eNetFailure_auction_exceed_cancel_item_maximum_limit" korean="Вы не можете отменить продаж превысит максимальное количество элементов, которое необходимо отменить владение для продажи." />
+	<block key="eNetFailure_Billing_ExceedItemMaximumLimit" korean="Владение желающих превышать максимальное количество элементов, вы не можете получить деталь." />
+	<block key="eNetFailure_Item_ExceedItemMaximumLimit" korean="Вы не можете использовать номер позиции элемента превышает максимально овладеть." />
+	<block key="eNetFailure_Mail_exceed_item_maximum_limit" korean="Владение желающих превышать максимальное количество элементов, вы не можете получить деталь." />
+	<block key="eNetFailure_store_exceed_buy_item_maximum_limit" korean="Вы не можете купить больше, чем максимальное количество элементов, которые нужно купить в распоряжении." />
+	<block key="eNetFailure_store_exceed_rebuy_item_maximum_limit" korean="Для превышает максимальное количество повторного владение элемента, который вы хотите купить не могут купить снова." />
+	<block key="eNetFailure_trade_exceed_item_maximum_limit" korean="Невозможно иметь дело с более, чем максимальное число элементов в распоряжении." />
+	<block key="eNetFailure_Fellow_BlockNotAllowSummonTakePassenger" korean="Indeon не может быть вызван сотрудник Обедайте на борту." />
+	<block key="eNetFailure_Item_FellowMaxGrowthLevel" korean="Стипендиаты не сможете использовать элементы дорасти до максимального уровня." />
+	<block key="eNetFailure_Action_LowLevelBuff" korean="Buff любитель не распространяется на более высоком уровне мастерства она применяется." />
+	<block key="eNetFailure_Production_NotAllowDoubleMaterial" korean="Пункт два раза нормальный материал, который не могут быть покрыты." />
+	<block key="eNetFailure_Enchant_Bracelet_FoundGemSlotItem" korean="В состояние драгоценный камень установлен, вы не можете прикрепить браслет пунктов." />
+</blocks>

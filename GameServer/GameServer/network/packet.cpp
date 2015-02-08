@@ -225,7 +225,7 @@ bool PACKET::PackSend(uint16 op)
 	}
 	else
 	{
-		/// DEBUG
+		/*/// DEBUG
 		char tmp[2];
 		tmp[1] = 0;
 		lg::Debug(fg, "S->C: ");
@@ -248,7 +248,7 @@ bool PACKET::PackSend(uint16 op)
 			lg::Notify(fg, "%02x", (uint8)pack[i]);
 		}
 		lg::Notify(fg, "\n");
-		/// !DEBUG
+		/// !DEBUG*/
 
 		int s = send(socket, pack, pack_len, NULL);
 		int nError = WSAGetLastError();

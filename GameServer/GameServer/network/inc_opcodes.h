@@ -103,6 +103,17 @@
 #include "./server/SM_FLY.h"
 #include "./server/SM_REMOVE_ITEM_RESP.h"
 #include "./server/SM_REMOVE_ITEM.h"
+#include "./server/SM_USE0.h"
+#include "./server/SM_USE.h"
+#include "./server/SM_USE2.h"
+#include "./server/SM_USE3.h"
+#include "./server/SM_USE4.h"
+#include "./server/SM_USE_0f12.h"
+#include "./server/SM_UNK_2813.h"
+#include "./server/SM_UNK_690f.h"
+#include "./server/SM_QUESTSTATEMSG.h"
+#include "./server/SM_UNK_0113.h"
+#include "./server/SM_OBJECT_DELETE.h"
 
 
 // Client to server
@@ -152,11 +163,16 @@
 #include "./client/CM_INVENTORY_MOVE.h"
 #include "./client/CM_JUMP.h"
 #include "./client/CM_UPDATE_POSITION.h"
-#include "./client/CM_MOVE_STOP.h"
+#include "./client/CM_ACTION_STOP.h"
 #include "./client/CM_MOVE_MOUSESET.h"
 #include "./client/CM_FLY.h"
 #include "./client/CM_REMOVE_ITEM.h"
-
+#include "./client/CM_USE0.h"
+#include "./client/CM_USE.h"
+#include "./client/CM_USE2.h"
+#include "./client/CM_UNK_8c18.h"
+#include "./client/CM_UNK_2913.h"
+#include "./client/CM_SKILLS_PANEL_MOVE.h"
 
 #endif INC_OPCODES_H_
 

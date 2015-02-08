@@ -1,0 +1,37 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korea_korean -->
+<!-- china_chinese -->
+<!-- america_english -->
+<blocks>
+	<keys num_keys="4" key1="key" key2="korea_korean" key3="china_chinese" key4="america_english" />
+	<block key="F_00_4_0001_0000_Name" korea_korean="Голодают волк" />
+	<block key="F_00_4_0002_0000_Name" korea_korean="Лев" />
+	<block key="F_02_1_0007_0002_Name" korea_korean="Wild Wolf" />
+	<block key="F_02_1_0007_0003_Name" korea_korean="Волки сайты" />
+	<block key="F_02_0_0309_0000_Name" korea_korean="Мужчина фритты Шах" />
+	<block key="F_02_0_0309_0001_Name" korea_korean="Женский профиль Ниша" />
+	<block key="F_00_0_0245_0000_Name" korea_korean="Эскорт рыцари Черная пантера" />
+	<block key="F_00_0_0245_0001_Name" korea_korean="Лев" />
+	<block key="F_00_0_0309_0000_Name" korea_korean="Эскорт рыцари Wolf" />
+	<block key="F_03_0_0309_0000_Name" korea_korean="Раненый волк" />
+	<block key="F_03_0_0309_0001_Name" korea_korean="Тени тьмы Wolf" />
+	<block key="F_03_0_0309_0004_Name" korea_korean="Отражение Fear Wolf" />
+	<block key="F_03_0_0309_0005_Name" korea_korean="Укусы Shadow Wolf" />
+	<block key="F_03_0_0245_0000_Name" korea_korean="Черная пантера" />
+	<block key="F_03_0_0245_0001_Name" korea_korean="Великий Panther глазами ча-чи" />
+	<block key="F_03_0_0309_0007_Name" korea_korean="Wild Wolf Mountain Лови волну" />
+	<block key="F_03_0_0245_0002_Name" korea_korean="Шаг леопард" />
+	<block key="F_03_0_0309_0008_Name" korea_korean="Раненый волк" />
+	<block key="F_03_0_0309_0009_Name" korea_korean="Тени тьмы Wolf" />
+	<block key="F_03_0_0309_0010_Name" korea_korean="Одомашненных волков" />
+	<block key="F_03_0_0309_0011_Name" korea_korean="Тени тьмы Wolf" />
+	<block key="F_03_0_0245_0003_Name" korea_korean="Берсерк Черная пантера" />
+	<block key="F_03_0_0245_0004_Name" korea_korean="Берсерк Черная пантера" />
+	<block key="F_03_0_0083_0000_Name" korea_korean="Голодные медведи" />
+	<block key="F_03_0_0083_0001_Name" korea_korean="Правда главный Tan" />
+	<block key="F_03_0_0083_0002_Name" korea_korean="Дикие медведи" />
+	<block key="F_03_0_0083_0003_Name" korea_korean="Дикий медведь" />
+	<block key="F_03_0_0083_0004_Name" korea_korean="Голодные медведи" />
+	<block key="F_03_0_0083_0005_Name" korea_korean="Дикий медведь" />
+</blocks>

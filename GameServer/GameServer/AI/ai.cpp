@@ -141,8 +141,8 @@ char* AI::GMCommandsGetOffset(char* str, char* command)
 
 bool AI::GMCommands(int num_player)
 {
+	char tmp[1024];
 	char* next_offset;
-	char* next_offset2;
 	PACKET* pck = (PACKET*)players[num_player].pck;
 	if (mychar->chat_msg[0] != '\\')
 		return false;
@@ -151,19 +151,32 @@ bool AI::GMCommands(int num_player)
 	{
 		if ((next_offset - mychar->chat_msg ) < 1)
 		{
-			SM_CHAT(pck, "give_me_item [item id]");			
+			SM_CHAT(pck, "give_me_item [item id]", true);			
 		}
 		else
 		{
 			int item_id = atoi(next_offset);
 			if (item_id == 0)
 			{
-				SM_CHAT(pck, "item id < 1");
+				SM_CHAT(pck, "item id < 1", true);
 			}
 			else
 			{
 				PlayerGetItem(num_player, item_id);
 			}
+		}
+		return true;
+	}
+	else if ((next_offset = GMCommandsGetOffset(mychar->chat_msg, "get_target_id")) != NULL)
+	{
+		if (mychar->target_id != 0 && mychar->target_id != -1)
+		{
+			sprintf(tmp, "%d", (uint32)mychar->target_id);
+			SM_CHAT(pck, tmp, true);
+		}
+		else
+		{
+			SM_CHAT(pck, "No object", true);
 		}
 		return true;
 	}

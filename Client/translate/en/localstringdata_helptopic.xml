@@ -1,0 +1,418 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="help_title_guide" korean="Играть в Руководстве" />
+	<block key="help_infolink_knowhow" korean="Сильнее закон" />
+	<block key="help_infolink_knowhow_tip" korean="Сильнее закон" />
+	<block key="help_infolink_knowhow_0" korean="\u003cЦвет шрифта = \Символы, сильнее термостат возникает, когда вы уровень вверх. \u003c/ FONT\u003e\n  - Атака, крита, повышает жизненный тонус.\n  - Против монстров myeongjungyul, уклонение, позволит повысить эффективность защиты.\n  - Новые навыки и выше оборудование доступный уровень." />
+	<block key="help_infolink_knowhow_1" korean="\u003cЦвет шрифта = \Воскресение характера способность снижать осложнения состояния.\n        Воскресение последствия могут быть удалены из белого. \u003c/ FONT\u003e терапевта" />
+	<block key="help_infolink_knowhow_2" korean="\u003cЦвет шрифта = \Если вы укрепляете атаки и защиты элементов расти. \u003c/ FONT\u003e\n  - Для укрепления Обновление Каменный выберите пункт и щелкните правой кнопкой мыши.\n  - Обновление Stone высокий уровень увеличение вероятности увеличивается.\n  - Обновление Камень может быть получен после разрушения элементов и средства извлечения.\n  - Экстракт инструмент может быть приобретен в магазине." />
+	<block key="help_infolink_knowhow_3" korean="\u003cЦвет шрифта = \Зелье сделать гораздо лучше, чем магазин зелья эффекта. \u003c/ FONT\u003e\n  - Вы можете создать зелье с алхимией произвел хорошую производительность.\n  - Алхимия можете узнать из и Канаш капитал собственность." />
+	<block key="help_infolink_knowhow_4" korean="\u003cЦвет шрифта = \Убивать монстров и подземелья в одиночку трудно рекомендовать вечеринку. \u003c/ FONT\u003e\n  - Партия \u003cFONT COLOR = \" />
+	<block key="help_infolink_knowhow_5" korean="\u003cЦвет шрифта = \Вы можете дать возможность пунктов bonginseok членом. \u003c/ FONT\u003e\n  - Для сотрудник bonginseok щелкните правой кнопкой мыши элемент и нажмите укрепляться.\n  - Научный сотрудник bonginseok гнездо можно устанавливать только пункт в этом." />
+	<block key="help_infolink_knowhow_6" korean="\u003cЦвет шрифта = \Монтаж недвижимость, вы можете максимизировать навыки эффективности. \u003c/ FONT\u003e\n  - Характеристики могут быть установлены из более чем 20 уровнях.\n  - Характеристики могут быть установлены потреблять очки талантов.\n  - Характерные точки могут быть приобретены со стороны других bonginseok." />
+	<block key="help_title_mainui" korean="Интерфейс" />
+	<block key="help_infolink_mainui" korean="Главный экран" />
+	<block key="help_infolink_mainui_tip" korean="Главный экран" />
+	<block key="help_infolink_mainui_0" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_mainui_1" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_mainui_2" korean="3. \u003cFONT COLOR = \" />
+	<block key="help_infolink_mainui_3" korean="4. \u003cFONT COLOR = \" />
+	<block key="help_infolink_mainui_4" korean="5. \u003cFONT COLOR = \" />
+	<block key="help_infolink_mainui_5" korean="6. \u003cFONT COLOR = \" />
+	<block key="help_infolink_mainui_6" korean="7. \u003cFONT COLOR = \" />
+	<block key="help_infolink_gamemenu" korean="Игра Меню" />
+	<block key="help_infolink_gamemenu_tip" korean="Описание меню игры" />
+	<block key="help_infolink_gamemenu_0" korean="Функция может быть выбран, нажав на кнопку в меню игры" />
+	<block key="help_infolink_gamemenu_1" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_gamemenu_2" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_gamemenu_3" korean="3. \u003cFONT COLOR = \" />
+	<block key="help_infolink_gamemenu_4" korean="4. \u003cFONT COLOR = \" />
+	<block key="help_infolink_gamemenu_5" korean="5. \u003cFONT COLOR = \" />
+	<block key="help_infolink_gamemenu_6" korean="6 \u003cFONT COLOR = \" />
+	<block key="help_infolink_charui" korean="Информация о персонаже окна" />
+	<block key="help_infolink_charui_tip" korean="Информация о персонаже Window Описание" />
+	<block key="help_infolink_charui_0" korean="Нажмите на характере меню игры, ярлыки \u003cFONT COLOR = \" />
+	<block key="help_infolink_charui_1" korean="Износ оборудования ON / OFF, или вы можете проверить статистику." />
+	<block key="help_infolink_bagui" korean="Мешок" />
+	<block key="help_infolink_bagui_tip" korean="Сумки Описание" />
+	<block key="help_infolink_bagui_0" korean="Нажмите на мешок в меню игры или сочетанием клавиш \u003cFONT COLOR = \" />
+	<block key="help_infolink_bagui_1" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_bagui_2" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_bagui_3" korean="3. \u003cFONT COLOR = \" />
+	<block key="help_infolink_bagui_4" korean="4. \u003cFONT COLOR = \- Количество товара больше, чем два элемента \u003cцвет шрифта = \" />
+	<block key="help_infolink_raderui" korean="Мини-карта" />
+	<block key="help_infolink_raderui_tip" korean="Мини-карта Описание" />
+	<block key="help_infolink_raderui_0" korean="1. Нажмите, чтобы перейти к другому каналу." />
+	<block key="help_infolink_raderui_1" korean="2. Отметить зоне вы находитесь в данный момент именем." />
+	<block key="help_infolink_raderui_2" korean="3. \u003cFONT COLOR = \" />
+	<block key="help_infolink_raderui_3" korean="4. \u003cFONT COLOR = \- Доступно: Зеленый Показать\n  - Невозможно: серый дисплей" />
+	<block key="help_infolink_raderui_4" korean="5. Отображение тока в высоте." />
+	<block key="help_infolink_raderui_5" korean="6. миникарты Скрыть / Reveal" />
+	<block key="help_infolink_mapui" korean="Полная карта" />
+	<block key="help_infolink_mapui_tip" korean="Полная карта Описание" />
+	<block key="help_infolink_mapui_0" korean="Нажмите на карту, в меню игры или сочетанием клавиш \u003cFONT COLOR = \" />
+	<block key="help_infolink_mapui_1" korean="1. Откройте ток в имени области." />
+	<block key="help_infolink_mapui_2" korean="2. Нажмите на карту, вы можете увидеть различные области." />
+	<block key="help_infolink_mapui_3" korean="3. Нажмите на карту, вы можете увидеть мир." />
+	<block key="help_infolink_quickui" korean="Скорость Слот" />
+	<block key="help_infolink_quickui_tip" korean="Скорость Слот Описание" />
+	<block key="help_infolink_quickui_0" korean="Как вообще / условия интернаты автоматически преобразуются слот." />
+	<block key="help_infolink_quickui_1" korean="Когда момент на кнопку класс / интерната при перетаскивании свои навыки, изменения в более-рода гнездо." />
+	<block key="help_infolink_quickui_2" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_quickui_3" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_communityui" korean="Окно чата" />
+	<block key="help_infolink_communityui_tip" korean="Окно чата Описание" />
+	<block key="help_infolink_communityui_0" korean="1. Изменение параметров окна чата, добавлять / могут быть удалены." />
+	<block key="help_infolink_communityui_1" korean="2. битва, вкладка партия может быть удален с помощью перетаскивания." />
+	<block key="help_infolink_communityui_2" korean="3. Вы можете нажать, чтобы изменить тип чата." />
+	<block key="help_title_operate" korean="Основные операции" />
+	<block key="help_infolink_move" korean="Движение" />
+	<block key="help_infolink_move_tip" korean="Как переместить" />
+	<block key="help_infolink_move_0" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_move_1" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_move_2" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_move_3" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_combat" korean="Основные Combat" />
+	<block key="help_infolink_combat_tip" korean="Основные методы боевые" />
+	<block key="help_infolink_combat_0" korean="1. \u003cFONT COLOR = \- Монстр характер фронт ориентации авто.\n  - Вы можете нажать на монстра." />
+	<block key="help_infolink_combat_1" korean="2. \u003cFONT COLOR = \- Дважды щелкните мышью, вы можете щелкнуть правой кнопкой мыши атаку.\n  - Вы можете атаковать автоматически регистрируется в быструю атаку слот." />
+	<block key="help_infolink_combat_2" korean="3. \u003cFONT COLOR = \- дистанционные атаки запускаются при проецировании тело.\n  - Вы можете перемещать персонажа уклониться от вражеских снарядов." />
+	<block key="help_infolink_camera" korean="Работа камеры" />
+	<block key="help_infolink_camera_tip" korean="Основы камеры" />
+	<block key="help_infolink_camera_0" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_camera_1" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_shortcut" korean="Ярлыки" />
+	<block key="help_infolink_shortcut_tip" korean="Ярлыки Настройка" />
+	<block key="help_infolink_shortcut_0" korean="Нажмите клавишу ESC в настройках игры \u003cFONT COLOR = \" />
+	<block key="help_infolink_shortcut_1" korean="Нажмите, чтобы изменить сочетания клавиш, а затем нажмите клавишу, которую вы хотите изменить." />
+	<block key="help_infolink_chatcommand" korean="Чат команды" />
+	<block key="help_infolink_chatcommand_tip" korean="Чат тип команды" />
+	<block key="help_infolink_chatcommand_0" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_chatcommand_1" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_chatcommand_2" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_chatcommand_3" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_chatcommand_4" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_chatcommand_5" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_chatcommand_6" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_chatcommand_7" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_chatcommand_8" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_actionkey" korean="Действие ключевым преимуществом" />
+	<block key="help_infolink_actionkey_tip" korean="Действие ключевых практик" />
+	<block key="help_infolink_actionkey_0" korean="Ярлыки \u003cFONT COLOR = \" />
+	<block key="help_infolink_quickmenu" korean="Быстрое меню" />
+	<block key="help_infolink_quickmenu_tip" korean="С помощью Quick Menu" />
+	<block key="help_infolink_quickmenu_0" korean="Щелкните правой кнопкой мыши информацию о состоянии, \u003cцвет шрифта = \" />
+	<block key="help_infolink_quickmenu_1" korean="Щелкните правой кнопкой мыши относительный характер, \u003cFONT COLOR = \" />
+	<block key="help_infolink_crossbowmode" korean="Арбалет режим" />
+	<block key="help_infolink_crossbowmode_tip" korean="Арбалет Режим Описание" />
+	<block key="help_infolink_crossbowmode_0" korean="Если вы выбираете борту \u003cFONT COLOR = \" />
+	<block key="help_title_skill" korean="Умение" />
+	<block key="help_infolink_skillui" korean="Мастерство окно" />
+	<block key="help_infolink_skillui_tip" korean="Мастерство Окно Описание" />
+	<block key="help_infolink_skillui_0" korean="Нажмите на мастерство игровом меню или сочетанием клавиш \u003cFONT COLOR = \" />
+	<block key="help_infolink_skillui_1" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_skillui_2" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_skilllearn" korean="Автоматическая приобретения навыков" />
+	<block key="help_infolink_skilllearn_tip" korean="Автоматическая приобретения навыков" />
+	<block key="help_infolink_skilllearn_0" korean="Если увеличивается уровень персонажа, уровень квалификации для \u003cFONT COLOR = \" />
+	<block key="help_infolink_skilllearn_1" korean="При нажатии на кнопку, вы можете увидеть навыков нового списка навыков." />
+	<block key="help_infolink_skilllevel" korean="Мастерство подъем уровня" />
+	<block key="help_infolink_skilllevel_tip" korean="Мастерство подъем уровня" />
+	<block key="help_infolink_skilllevel_0" korean="Если увеличивается уровень персонажа, уровень квалификации для \u003cFONT COLOR = \" />
+	<block key="help_infolink_charge" korean="Навыки заряда" />
+	<block key="help_infolink_charge_tip" korean="Зарядка навык Описание" />
+	<block key="help_infolink_charge_0" korean="Датчик, как вы держите тип заряда квалификации возрастает." />
+	<block key="help_infolink_charge_1" korean="Эффект будет меняться в зависимости от того, когда срабатывает повышенную фазу заряда." />
+	<block key="help_infolink_skillcombo" korean="Combo квалификации" />
+	<block key="help_infolink_skillcombo_tip" korean="Combo квалификации Описание" />
+	<block key="help_infolink_skillcombo_0" korean="Один из навыков Combo квалификации имеет, по меньшей мере, два Proc." />
+	<block key="help_infolink_skillcombo_1" korean="Эффект комбо каждый раз, когда вы свернуть комбо набор навыков активирована." />
+	<block key="help_infolink_recom" korean="Навыки Ссылка" />
+	<block key="help_infolink_recom_tip" korean="Навыки Ссылка Описание" />
+	<block key="help_infolink_recom_0" korean="Haejueo ссылки автоматически умение рекомендуется коммунальные навыки, навыки позволяет простое подключение, чтобы вызвать дополнительные эффекты." />
+	<block key="help_infolink_skilllink" korean="Связанные навыки" />
+	<block key="help_infolink_skilllink_tip" korean="Навыки соответствующее описание" />
+	<block key="help_infolink_skilllink_0" korean="Осень, такие как конкретной ситуации или milryeonam, отображает навыки, которые доступны только при использовании определенных навыков справа символов." />
+	<block key="help_infolink_talent" korean="Характеристика" />
+	<block key="help_infolink_talent_tip" korean="Описание недвижимости" />
+	<block key="help_infolink_talent_0" korean="1. На информационного характера окне \u003cFONT COLOR = \" />
+	<block key="help_infolink_talent_1" korean="2. Вы имеете, \u003cFONT COLOR = \" />
+	<block key="help_infolink_talent_2" korean="- Характеристика сила может быть получена путем перетаскивания запечатанный членом." />
+	<block key="help_infolink_talent_3" korean="3 Уникальной особенностью всех трех типов каждого класса." />
+	<block key="help_infolink_talent_4" korean="4. В зависимости от уровня, характерного для слота расширения доступны для установки компонентов." />
+	<block key="help_title_item" korean="Предметы" />
+	<block key="help_infolink_set" korean="Набор предметов" />
+	<block key="help_infolink_set_tip" korean="Набор Описание товара" />
+	<block key="help_infolink_set_0" korean="Набор Товар добавлен эффект будет применяться в соответствии с количеством носить при ношении тот же тип элемента." />
+	<block key="help_infolink_fellowoption" korean="Варианты уплотнений эксплуатацию" />
+	<block key="help_infolink_fellowoption_tip" korean="Варианты уплотнений эксплуатацию" />
+	<block key="help_infolink_fellowoption_0" korean="Если вы перетащите запечатанный парень с оружием в руках с пазами, вы можете дать более эффективное оружие." />
+	<block key="help_infolink_extraction" korean="Добыча" />
+	<block key="help_infolink_extraction_tip" korean="Добыча Описание" />
+	<block key="help_infolink_extraction_0" korean="1. Выписка инструмент может быть приобретен у галантерейщик." />
+	<block key="help_infolink_extraction_1" korean="2. Щелкните правой кнопкой мыши на инструменте Extract, можно извлечь отображается пункт." />
+	<block key="help_infolink_extraction_2" korean="3. Нажмите на элемент, который нужно извлечь \u003cFONT COLOR = \" />
+	<block key="help_infolink_extraction_3" korean="- Уровень, выше уровень рейтинга и приобрести Upgrade камень." />
+	<block key="help_infolink_reinforce" korean="Консолидация" />
+	<block key="help_infolink_reinforce_tip" korean="Улучшенная описание" />
+	<block key="help_infolink_reinforce_0" korean="1. Щелкните правой кнопкой мыши по реконструкции каменного, отображается возможно расширение пункт." />
+	<block key="help_infolink_reinforce_1" korean="2. Статистика за товаром будет расти, когда вы щелкните элемент укрепления." />
+	<block key="help_infolink_reinforce_2" korean="- \u003cЦвет шрифта = \" />
+	<block key="help_infolink_reinforce_3" korean="- \u003cЦвет шрифта = \" />
+	<block key="help_infolink_reinforce_4" korean="3. \u003cFONT COLOR = \" />
+	<block key="help_infolink_reinforce_5" korean="4. Консолидация до 20 шагов." />
+	<block key="help_infolink_reinforce_6" korean="- \u003cЦвет шрифта = \" />
+	<block key="help_infolink_reinforce_7" korean="- \u003cЦвет шрифта = \" />
+	<block key="help_infolink_reinforce_8" korean="- \u003cЦвет шрифта = \" />
+	<block key="help_infolink_reinforce_9" korean="- \u003cЦвет шрифта = \" />
+	<block key="help_infolink_randombox" korean="Случайные Box" />
+	<block key="help_infolink_randombox_tip" korean="Случайные Box Описание" />
+	<block key="help_infolink_randombox_0" korean="Нажатие случайные коробки различных предметов, в зависимости от класса \u003cFONT COLOR = \" />
+	<block key="help_title_quest" korean="Поиск" />
+	<block key="help_infolink_questui" korean="Окно Quest" />
+	<block key="help_infolink_questui_tip" korean="Quest Window Описание" />
+	<block key="help_infolink_questui_0" korean="Квесты в меню игры или нажмите \u003cFONT COLOR = \" />
+	<block key="help_infolink_questui_1" korean="1. Вы можете найти список квестов в поисках по типу." />
+	<block key="help_infolink_questui_2" korean="2. При нажатии на название квеста, вы можете увидеть детали." />
+	<block key="help_infolink_questtype" korean="Тип квеста" />
+	<block key="help_infolink_questtype_tip" korean="Имя Тип Описание" />
+	<block key="help_infolink_questtype_0" korean="Полученные от левой на картинке выше, прогресс, завершение дисплее" />
+	<block key="help_infolink_questtype_1" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_questtype_2" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_questtype_3" korean="3. \u003cFONT COLOR = \" />
+	<block key="help_infolink_questhelper" korean="Quest оповещения" />
+	<block key="help_infolink_questhelper_tip" korean="Quest уведомление Описание" />
+	<block key="help_infolink_questhelper_0" korean="1. Нажмите на поиски знак \u003cFONT COLOR = \" />
+	<block key="help_infolink_questhelper_1" korean="2. При нажатии на название квеста \u003cFONT COLOR = \" />
+	<block key="help_infolink_questhelper_2" korean="3. Выберите Вкл / Выкл, чтобы \u003cFONT COLOR = \" />
+	<block key="help_title_contents" korean="Содержание" />
+	<block key="help_infolink_dungeonlevel" korean="Сложность подземелья" />
+	<block key="help_infolink_dungeonlevel_tip" korean="Dungeon Уровень Описание" />
+	<block key="help_infolink_dungeonlevel_0" korean="Вы можете выбрать уровень сложности, когда вы входите в подземелье." />
+	<block key="help_infolink_dungeonlevel_1" korean="Чтобы воспроизвести следующий уровень сложности, необходимо завершить предыдущий трудности." />
+	<block key="help_infolink_uniteparty" korean="10-плеер рейд" />
+	<block key="help_infolink_uniteparty_tip" korean="10 игроков рейда Описание" />
+	<block key="help_infolink_uniteparty_0" korean="Глава партии могут быть организованы в меню рейда." />
+	<block key="help_infolink_uniteparty_1" korean="Raid могут быть организованы на срок до 10 человек." />
+	<block key="help_infolink_pvp" korean="Поединок" />
+	<block key="help_infolink_pvp_tip" korean="Дуэль Описание" />
+	<block key="help_infolink_pvp_0" korean="Другое \u003cцвет шрифта = \" />
+	<block key="help_infolink_pvp_1" korean="1. Сделано из атак нацелены на HP до нуля успеха \u003cFONT COLOR = \" />
+	<block key="help_infolink_pvp_2" korean="2. Нажмите кнопку сдаться, или из-дуэли место \u003cFONT COLOR = \" />
+	<block key="help_infolink_guild" korean="Гильдия" />
+	<block key="help_infolink_guild_tip" korean="Гильдия описание" />
+	<block key="help_infolink_guild_0" korean="Канаш, а также в гильдии ТЭЦ в Санкт-\u003cFONT COLOR = \" />
+	<block key="help_infolink_guild_1" korean="По мере увеличения уровня гильдии автоматически \u003cцвет шрифта = \" />
+	<block key="help_title_system" korean="Система" />
+	<block key="help_infolink_partyinvite" korean="Партия" />
+	<block key="help_infolink_partyinvite_tip" korean="Партия Описание" />
+	<block key="help_infolink_partyinvite_0" korean="Другое \u003cцвет шрифта = \" />
+	<block key="help_infolink_partyinvite_1" korean="1. Сторона, глава, вы можете изменить систему распределения лута." />
+	<block key="help_infolink_partyinvite_2" korean="2. Информация партии можно найти в нижней части информации о состоянии." />
+	<block key="help_infolink_partyinvite_3" korean="3. Вы можете получить сумму приобретенного опыта и любителя Чтобы удалить повышение тарифов пропорционально количеству членов партии." />
+	<block key="help_infolink_tradeui" korean="Личная сделка" />
+	<block key="help_infolink_tradeui_tip" korean="Личная сделка Описание" />
+	<block key="help_infolink_tradeui_0" korean="Другое \u003cцвет шрифта = \" />
+	<block key="help_infolink_tradeui_1" korean="1. Ваш деталь, вы можете зарегистрироваться деньги." />
+	<block key="help_infolink_tradeui_2" korean="2. Вы можете увидеть другую сторону этого пункта, и деньги." />
+	<block key="help_infolink_channelui" korean="Канал Go" />
+	<block key="help_infolink_channelui_tip" korean="Канал Go Описание" />
+	<block key="help_infolink_channelui_0" korean="Если большое количество пользователей, которые ищут немного грубо вокруг области, перейдите к слабину канала, вы можете наслаждаться гладкой игру." />
+	<block key="help_infolink_portal" korean="Портал Перейти" />
+	<block key="help_infolink_portal_tip" korean="Перейти объяснение портал" />
+	<block key="help_infolink_portal_0" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_portal_1" korean="- Расширенный мобильные устройства портал только первая область расположение." />
+	<block key="help_infolink_portal_2" korean="- Большой портал мобильное устройство может быть перемещен в другой области.\n    (В районе движения также доступна)" />
+	<block key="help_infolink_portal_3" korean="- Мобильное устройство Портал способен вернуться позиционирование." />
+	<block key="help_infolink_portal_4" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_portal_5" korean="- Мобильное устройство Портал находится в главной области." />
+	<block key="help_infolink_portal_6" korean="- Мобильные устройства портал возможно только в пределах рабочей площади.\n    (Не может быть перемещен в другой области)" />
+	<block key="help_infolink_portal_7" korean="- Мобильное устройство Портал способен вернуться позиционирование." />
+	<block key="help_infolink_mail" korean="Почта" />
+	<block key="help_infolink_mail_tip" korean="Почта Описание" />
+	<block key="help_infolink_mail_0" korean="Расположенный в деревне \u003cFONT COLOR = \" />
+	<block key="help_infolink_auction" korean="Торговый Представитель" />
+	<block key="help_infolink_auction_tip" korean="Торговый представитель Описание" />
+	<block key="help_infolink_auction_0" korean="Каждый район, расположенный в большой деревне \u003cFONT COLOR = \" />
+	<block key="help_infolink_auction_1" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_auction_2" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_auction_3" korean="3. \u003cFONT COLOR = \" />
+	<block key="help_infolink_pcstorage" korean="Склад" />
+	<block key="help_infolink_pcstorage_tip" korean="Описание гаража" />
+	<block key="help_infolink_pcstorage_0" korean="Расположенный в деревне \u003cFONT COLOR = \" />
+	<block key="help_infolink_pcstorage_1" korean="De-слот может быть продлен, заплатив стоимость." />
+	<block key="help_infolink_collection" korean="Сбор" />
+	<block key="help_infolink_collection_tip" korean="Собранные Описание" />
+	<block key="help_infolink_collection_0" korean="1. размещены по всему трав, вы можете chaechip руды." />
+	<block key="help_infolink_collection_1" korean="2. Сборник материалов \u003cFONT COLOR = \" />
+	<block key="help_infolink_collection_2" korean="3. \u003cFONT COLOR = \" />
+	<block key="help_infolink_partyboard" korean="Правление партии" />
+	<block key="help_infolink_partyboard_tip" korean="Правление партии Описание" />
+	<block key="help_infolink_partyboard_0" korean="\u003cЦвет шрифта = \" />
+	<block key="help_infolink_partyboard_1" korean="1. Вы можете искать сообщения в партии набора уровня, типа и имени." />
+	<block key="help_infolink_partyboard_2" korean="2. Нажмите на пост набора, вы можете поддержать партию." />
+	<block key="help_infolink_partyboard_3" korean="3. Регистрация свои сообщения Вы можете нанять членов партии." />
+	<block key="help_infolink_partyauction" korean="Партия Аукцион" />
+	<block key="help_infolink_partyauction_tip" korean="Партия Аукцион Описание" />
+	<block key="help_infolink_partyauction_0" korean="Если вы являетесь правила распределения лута на аукционе на вечеринке, вы приобретаете данный сорт или более элементов могут быть приобретены на аукционе среди членов партии." />
+	<block key="help_infolink_partyauction_1" korean="Победитель сумму, которую вы ставка будет распространяться на все партии за самую высокую цену за исключением." />
+	<block key="help_infolink_vitality" korean="Жизнеспособность" />
+	<block key="help_infolink_vitality_tip" korean="Vitality System Описание" />
+	<block key="help_infolink_vitality_0" korean="1. \u003cFONT COLOR = \- Нормальная воспроизводиться тайм-аут.\n  - Если у вас кончились использования энергии ограничивается содержание." />
+	<block key="help_infolink_vitality_1" korean="2. \u003cFONT COLOR = \- 1 день оставшееся время: 12 часов\n  - Еженедельно оставшееся время: 35 часов\n  - компьютерный зал, бонусные недели оставшееся время: 15 часов" />
+	<block key="help_infolink_vitality_2" korean="3. \u003cFONT COLOR = \- Энергия, потребляемая время воспроизведения.\n  - \u003cЦвет шрифта = \" />
+	<block key="help_infolink_vitality_3" korean="4. \u003cFONT COLOR = \- Дебафф, который появляется, когда вы бежите из оставшегося энергии.\n  - Снижение энергетического состояния получает содержание, используя следующие ограничения.\n    * Характер / сотрудник опыт не может быть приобретен\n    * Guild Баллы не могут быть получены\n    * Нет предметы маршрутизации\n    * Не является Стороной\n    * Не Собранный\n    * Принять и выполнения квеста невозможно" />
+	<block key="help_infolink_vitality_4" korean="5. \u003cFONT COLOR = \- 1 день оставшееся время: 4:00 ежедневно\n  - Еженедельно оставшееся время: Каждую среду 4:00\n  - Компьютерный зал, бонусные недели оставшееся время: Каждую среду 4:00" />
+	<block key="help_infolink_vitality_5" korean="6. \u003cFONT COLOR = \- Конечно первый ежедневный доступ жизнеспособность бафф города.\n  - Будут выплачены на Vigor жизнеспособности любителя поле будет закрыта.\n  - Энергия коробка может содержать до трех в сумке." />
+	<block key="help_title_production" korean="Производство" />
+	<block key="help_infolink_productionhow" korean="Как сделать" />
+	<block key="help_infolink_productionhow_tip" korean="Как сделать" />
+	<block key="help_infolink_productionhow_0" korean="\u003cЦвет шрифта = \- Объект для типа вы хотите создать \u003cFONT COLOR = \- Подготовьте ингредиенты для рецепта для элемента, который вы хотите сделать.\n  - Нажмите кнопку Опубликовать, чтобы опубликовать деталь." />
+	<block key="help_infolink_productionhow_1" korean="1. \u003cFONT COLOR = \- Типы выпуска изделия.\n  - Все шесть в качестве оружия, брони, брелоки, научный сотрудник, алхимии, и кулинарии." />
+	<block key="help_infolink_productionhow_2" korean="2. \u003cFONT COLOR = \- Список рецептов ученых.\n  - \u003cЦвет шрифта = \" />
+	<block key="help_infolink_productionhow_3" korean="3. \u003cFONT COLOR = \- Информация, необходимая для создания предметов материальных предметов." />
+	<block key="help_infolink_productionhow_4" korean="4. \u003cFONT COLOR = \- Вы можете создавать и настраивать количество.\n  - Все кнопки Опубликовать в производство Максимальная доступного количества при нажатии.\n  - Общая материал дважды, чтобы включить использование может увеличить шанс на джек-пот." />
+	<block key="help_infolink_productionitem" korean="Промышленные изделия" />
+	<block key="help_infolink_productionitem_tip" korean="Промышленные изделия" />
+	<block key="help_infolink_productionitem_0" korean="Элементы, которые можно произвести в области добычи в следующем." />
+	<block key="help_infolink_productionitem_1" korean="1. \u003cFONT COLOR = \- Оружие производственные материалы\n  - Класс Оружие\n  -Board Оружие (арбалеты, окна)" />
+	<block key="help_infolink_productionitem_2" korean="2. \u003cFONT COLOR = \- броннику материалы\n  - Класс Брони\n  - Вспомогательное оборудование" />
+	<block key="help_infolink_productionitem_3" korean="3. \u003cFONT COLOR = \- Изготовление ювелирных изделий материалы\n  - Кольцо\n  Ожерелья" />
+	<block key="help_infolink_productionitem_4" korean="4. \u003cFONT COLOR = \- Приложения Научные материалы\n  - Научный сотрудник оборудование\n  - Укрощение знаки" />
+	<block key="help_infolink_productionitem_5" korean="5. \u003cFONT COLOR = \- Жизнь Recovery Elixir\n  - Mana Elixir\n  - Энергия Восстановление Эликсир\n  - Статистика Укрепление високосные\n  - Бинты\n  - Другие расходные материалы" />
+	<block key="help_infolink_productionitem_6" korean="6. \u003cFONT COLOR = \- Восстановить жизненные силы кухни\n  - Mana кухни" />
+	<block key="help_infolink_productiongrade" korean="Этап производства Обновления" />
+	<block key="help_infolink_productiongrade_tip" korean="Этап производства Обновления" />
+	<block key="help_infolink_productiongrade_0" korean="1. \u003cFONT COLOR = \- Техник-технолог на каждом этапе может быть толчок технологии.\n  - Инженеры Производство расположены в крупных городах." />
+	<block key="help_infolink_productiongrade_1" korean="2. \u003cFONT COLOR = \- Вам нужно освоить мастерство изготовления двух или более элементов в текущем этапе.\n  - Навыки принятия пунктов увеличится каждый раз при создании элемента." />
+	<block key="help_infolink_productionperfect" korean="Производство Джекпот" />
+	<block key="help_infolink_productionperfect_tip" korean="Производство Джекпот" />
+	<block key="help_infolink_productionperfect_0" korean="1. \u003cFONT COLOR = \- Джек-пот происходит, когда элемент с шансом произвести.\n  - Когда суммы джекпота увеличивается или качество, тем больше." />
+	<block key="help_infolink_productionperfect_1" korean="2. \u003cFONT COLOR = \- Выше уровень мастерства элемента, который вы хотите создать вероятности рождения увеличивается.\n  - Общая вещи дважды шанс использовать, будет увеличиваться." />
+	<block key="help_infolink_productionweapon" korean="Оружие" />
+	<block key="help_infolink_productionweapon_tip" korean="Оружие производство" />
+	<block key="help_infolink_productionweapon_0" korean="Для производства оружия \u003cFONT COLOR = \" />
+	<block key="help_infolink_productionarmor" korean="Броня" />
+	<block key="help_infolink_productionarmor_tip" korean="Броннику" />
+	<block key="help_infolink_productionarmor_0" korean="Для броннику \u003cFONT COLOR = \" />
+	<block key="help_infolink_productionfellow" korean="Научный сотрудник" />
+	<block key="help_infolink_productionfellow_tip" korean="Научный сотрудник" />
+	<block key="help_infolink_productionfellow_0" korean="Для научных сотрудников \u003cFONT COLOR = \" />
+	<block key="help_infolink_productionfood" korean="Блюдо" />
+	<block key="help_infolink_productionfood_tip" korean="Производство продуктов питания" />
+	<block key="help_infolink_productionfood_0" korean="Для производства продуктов питания \u003cFONT COLOR = \" />
+	<block key="help_infolink_productionfood_1" korean="\u003cЦвет шрифта = \- Рост отрицательных эффектов статистику\n  - \u003cЦвет шрифта = \" />
+	<block key="help_infolink_productionpotion" korean="Алхимия" />
+	<block key="help_infolink_productionpotion_tip" korean="Зелье решений" />
+	<block key="help_infolink_productionpotion_0" korean="Для алхимии \u003cFONT COLOR = \" />
+	<block key="help_infolink_productionaccessory" korean="Аксессуары" />
+	<block key="help_infolink_productionaccessory_tip" korean="Изготовление ювелирных изделий" />
+	<block key="help_infolink_productionaccessory_0" korean="Для изготовления ювелирных изделий \u003cцвет шрифта = \" />
+	<block key="help_title_fellow" korean="Человек" />
+	<block key="help_infolink_fellowui" korean="Сотрудник Область" />
+	<block key="help_infolink_fellowui_tip" korean="Сотрудник Область" />
+	<block key="help_infolink_fellowui_0" korean="Нажмите членом в меню игры, или, \u003cцвет шрифта = \" />
+	<block key="help_infolink_fellowui_1" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowui_2" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowui_3" korean="3. \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowui_4" korean="4. \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowui_5" korean="5. \u003cFONT COLOR = \- Изменение названия молодец Elounda потребляется." />
+	<block key="help_infolink_fellowui_6" korean="6. \u003cFONT COLOR = \- \u003cЦвет шрифта = \" />
+	<block key="help_infolink_fellowui_7" korean="7. \u003cFONT COLOR = \- Расходы календарь будет требовать, чтобы освободить товарища." />
+	<block key="help_infolink_fellowbook" korean="Сотрудник Книга" />
+	<block key="help_infolink_fellowbook_tip" korean="Сотрудник Книга" />
+	<block key="help_infolink_fellowbook_0" korean="В меню игры или нажмите на книгу, \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowbook_1" korean="Используйте более одной книги после приобретения может быть открыт." />
+	<block key="help_infolink_fellowsummon" korean="Попутчики вызов ON / OFF" />
+	<block key="help_infolink_fellowsummon_tip" korean="Попутчики вызов ON / OFF" />
+	<block key="help_infolink_fellowsummon_0" korean="1. Дважды щелкните зарегистрируйтесь парень в вашей библиотеке, щелкните правой кнопкой мыши или \u003cцвет шрифта = \" />
+	<block key="help_infolink_fellowsummon_1" korean="2. В правом верхнем углу \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowboard" korean="Сотрудник ручными" />
+	<block key="help_infolink_fellowboard_tip" korean="Сотрудник ручными" />
+	<block key="help_infolink_fellowboard_0" korean="Выберите один из ручными, как ручных монстров, как монстр, \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowboard_1" korean="Предотвращение когнитивной Монстр Монстр обратно в тщательно подходили \u003cцвет шрифта = \" />
+	<block key="help_infolink_fellowboard_2" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowboard_3" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowboard_4" korean="3. выше уровень сотрудника, чем уровень персонажа \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowwithme" korean="Pet" />
+	<block key="help_infolink_fellowwithme_tip" korean="Pet" />
+	<block key="help_infolink_fellowwithme_0" korean="1. сотрудник домашних животных, которые могут быть изменены в \u003cцвет шрифта = \" />
+	<block key="help_infolink_fellowwithme_1" korean="2. врагов с домашними животными в соответствии с инструкциями владельца." />
+	<block key="help_infolink_fellowitem" korean="Попутчики пункты" />
+	<block key="help_infolink_fellowitem_tip" korean="Попутчики пункты" />
+	<block key="help_infolink_fellowitem_0" korean="Стипендиаты могут дополнительно повысить основные характеристики." />
+	<block key="help_infolink_fellowitem_1" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowitem_2" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowseal" korean="Сотрудник уплотнение" />
+	<block key="help_infolink_fellowseal_tip" korean="Сотрудник уплотнение" />
+	<block key="help_infolink_fellowseal_0" korean="1. Магазины товаров или для получения капли \u003cцвет шрифта = \" />
+	<block key="help_infolink_fellowseal_1" korean="2. Sealed сотрудник доступен для следующих целей:" />
+	<block key="help_infolink_fellowseal_2" korean="- Прикрепите сопротивление на слот оборудования \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowseal_3" korean="- \u003cЦвет шрифта = \" />
+	<block key="help_infolink_fellowcompose" korean="Сотрудник рост" />
+	<block key="help_infolink_fellowcompose_tip" korean="Сотрудник рост" />
+	<block key="help_infolink_fellowcompose_0" korean="1. \u003cFONT COLOR = \- При размещении вызвать сотрудник\n  - Если вы участвуете в битве с парнем" />
+	<block key="help_infolink_fellowcompose_1" korean="2. \u003cFONT COLOR = \- Общие способности сотрудника растет.\n  - Сотрудник может получить новые навыки.\n  - Научный сотрудник Об этом уровень квалификации может быть увеличена." />
+	<block key="help_infolink_fellowcombat" korean="Питание боевые действия сухопутных войск" />
+	<block key="help_infolink_fellowcombat_tip" korean="Питание боевые действия сухопутных войск" />
+	<block key="help_infolink_fellowcombat_0" korean="На борту парню, вы можете ездить в бой." />
+	<block key="help_infolink_fellowcombat_1" korean="1. \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowcombat_2" korean="2. \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowcombat_3" korean="3. \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowsky" korean="Combat Flight интернат" />
+	<block key="help_infolink_fellowsky_tip" korean="Combat Flight интернат" />
+	<block key="help_infolink_fellowsky_0" korean="\u003cЦвет шрифта = \Вы можете видеть, высота полета может быть высокая через UI. \u003c/ FONT\u003e\n  - Вы не можете подняться выше, чем на региональном высоты потолка.\n  - Вы не можете подняться выше, чем максимальная высота полета стипендиатов.\n  - 80% от высоты, как и при вставании из предупреждения." />
+	<block key="help_infolink_fellowsky_1" korean="\u003cЦвет шрифта = \Сотрудник доска полет может быть воздушный бой и движение. \u003c/ FONT\u003e\n  - Космос: Вернуться расти.\n  - Shift + X: вертикальный спуск.\n  - Космос + Space: спуск быстро.\n  - U: Нажмите Клавиша U, когда вы бежите к ближнему правления автоматически." />
+	<block key="help_infolink_attributionclear" korean="Закройте петли предметы" />
+	<block key="help_infolink_attributionclear_tip" korean="Закройте петли предметы" />
+	<block key="help_infolink_attributionclear_0" korean="1. \u003cFONT COLOR = \- La Beanie серебряные магазины, магазины Elounda" />
+	<block key="help_infolink_attributionclear_1" korean="2. Закройте петли рейтинге целевой единицы и заказ будет то же самое." />
+	<block key="help_infolink_attributionclear_2" korean="3. Высвобождение может быть связано чтобы уменьшить количество элементов, принадлежащих прекратить." />
+	<block key="help_infolink_itembreak" korean="Предметы разложение" />
+	<block key="help_infolink_itembreak_tip" korean="Предметы разложение" />
+	<block key="help_infolink_itembreak_0" korean="1. \u003cFONT COLOR = \- Элита герой: NPC магазин\n  - Пояснение: Elounda магазин" />
+	<block key="help_infolink_itembreak_1" korean="2. \u003cFONT COLOR = \- Степень инструментов разложения и предметов для разложения должны быть одинаковыми.\n  - Товар монтируется не является съемной.\n  - Вы должны иметь три или более пустых ячеек в сумке." />
+	<block key="help_infolink_itembreak_2" korean="3. Если разобрать детали будут \u003cFONT COLOR = \- PVE пункт: La шапочка фамильное серебро, золото\n  - PvP пунктов: Exergy выращенные монеты, золотые монеты" />
+	<block key="help_infolink_guildalliance" korean="Гильдия Союз" />
+	<block key="help_infolink_guildalliance_tip" korean="Гильдия Союз" />
+	<block key="help_infolink_guildalliance_0" korean="1. \u003cFONT COLOR = \- Grade 3 или выше может быть до трех гильдий Союз между гильдии." />
+	<block key="help_infolink_guildalliance_1" korean="2. \u003cFONT COLOR = \- Вы можете создать мастер гильдии Союз через коалиции NPC.\n  - NPC Альянс Мастер и Канаш капитал замок - находится в гильдии станции.\n  - Гильдия Союз может быть основана только и вступать в гильдии или более 3 звезды." />
+	<block key="help_infolink_guildalliance_2" korean="3. Название гильдии Гильдия Альянс Гильдия Марка \u003cFONT COLOR = \" />
+	<block key="help_infolink_militia" korean="Exergy вырос боевиков" />
+	<block key="help_infolink_militia_tip" korean="Exergy вырос боевиков" />
+	<block key="help_infolink_militia_0" korean="1. \u003cFONT COLOR = \2 гильдии или физические лица могут быть объединены друг с другом рейтингом ниже." />
+	<block key="help_infolink_militia_1" korean="2. \u003cFONT COLOR = \- NPC может присоединиться к милиции, выращенного через возбудитель статьи Леоне.\n  - NPC статья Леоне возбудителя выросла Лоулесс - расположен на въезде к истине." />
+	<block key="help_infolink_militia_2" korean="3. \u003cFONT COLOR = \1 Вы можете оплатить с серебром и получить положительный эффект милицию.\n  - В беззаконных ополченцев все дружественные.\n  - Вы можете использовать милиции чат." />
+	<block key="help_infolink_militia_3" korean="4. \u003cFONT COLOR = \- Вы можете отказаться платить 10 золотых.\n  - Если более чем три принадлежат гильдии, автоматический вывод." />
+	<block key="help_infolink_alliancepk" korean="Союз война" />
+	<block key="help_infolink_alliancepk_tip" korean="Союз война" />
+	<block key="help_infolink_alliancepk_0" korean="1. \u003cFONT COLOR = \- Глава Союза, Вы можете обратиться в другой войне Организации Объединенных Наций.\n  - Союз 10 Gold будет необходимо во время войны с нами." />
+	<block key="help_infolink_alliancepk_1" korean="2. Союз не может быть война, объявили войну." />
+	<block key="help_infolink_alliancepk_2" korean="3. объявить войну \u003cцвет шрифта = \" />
+	<block key="help_infolink_alliancepk_3" korean="4. \u003cFONT COLOR = \- \u003cЦвет шрифта = \- \u003cЦвет шрифта = \" />
+	<block key="help_infolink_alliancepk_4" korean="5. \u003cFONT COLOR = \" />
+	<block key="help_infolink_alliancepk_5" korean="6. \u003cFONT COLOR = \- Вы можете проверить текущее состояние и недавняя война Война Война в результаты через Организацию Объединенных NPC, расположенных в каждом столичном регионе." />
+	<block key="help_infolink_uiediting" korean="Расположение Редактирование UI" />
+	<block key="help_infolink_uiediting_tip" korean="Расположение Редактирование UI" />
+	<block key="help_infolink_uiediting_0" korean="1. \u003cFONT COLOR = \- Игра меню - Система - редактирование расположение UI" />
+	<block key="help_infolink_uiediting_1" korean="2. \u003cFONT COLOR = \- Перетащите область пользовательского интерфейса и поместить их там, где вы хотите их." />
+	<block key="help_infolink_uiediting_2" korean="3. \u003cFONT COLOR = \- \u003cЦвет шрифта = \- \u003cЦвет шрифта = \- \u003cЦвет шрифта = \" />
+	<block key="help_infolink_fellowextraction" korean="Сотрудник добыча bonginseok" />
+	<block key="help_infolink_fellowextraction_tip" korean="Сотрудник добыча bonginseok" />
+	<block key="help_infolink_fellowextraction_0" korean="1. \u003cFONT COLOR = \- Элита герой: La Beanie серебряные магазины\n  - Герой, Легенда: Elounda магазин" />
+	<block key="help_infolink_fellowextraction_1" korean="2. Используйте добыча стержень bonginseok \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowextraction_2" korean="3. \u003cFONT COLOR = \" />
+	<block key="help_infolink_fellowextraction_3" korean="* Примечание: экстрагировали дядька молодец Архив \u003cцвет шрифта = \" />
+	<block key="help_infolink_fellowoptionchange" korean="Изменить параметры уплотнения" />
+	<block key="help_infolink_fellowoptionchange_tip" korean="Изменить параметры уплотнения" />
+	<block key="help_infolink_fellowoptionchange_0" korean="1. \u003cFONT COLOR = \- Элита герой: La Beanie серебряные магазины\n  - Герой, Легенда: Elounda магазин" />
+	<block key="help_infolink_fellowoptionchange_1" korean="2. \u003cFONT COLOR = \- При фиксированном значении параметра не изменится." />
+	<block key="help_infolink_fellowoptionchange_2" korean="3. \u003cFONT COLOR = \- Sealed возможность изменить инструменты и рейтинг целевой bonginseok должно быть то же самое.\n  - Монтаж на оборудование пунктов bonginseok не доступен." />
+	<block key="help_infolink_fellowoptionchange_3" korean="4. \u003cFONT COLOR = \- Зеленые Параметры дисплея: чем существующие уровни \u003cFONT COLOR = \- Возможность Red дисплее: значение, чем существующий \u003cFONT COLOR = \-White Параметры отображения: Такие же, как и предыдущие фигуры" />
+</blocks>

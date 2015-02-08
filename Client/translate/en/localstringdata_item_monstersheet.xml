@@ -1,0 +1,10 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korea_korean -->
+<!-- china_chinese -->
+<!-- america_english -->
+<blocks>
+	<keys num_keys="4" key1="key" key2="korea_korean" key3="china_chinese" key4="america_english" />
+	<block key="MB_1_0_0001_Name" korea_korean="Духи Монстров листа лесной" />
+	<block key="MB_1_0_0001_Description" korea_korean="Есть монстры информация записывается." />
+</blocks>

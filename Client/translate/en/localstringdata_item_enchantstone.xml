@@ -1,0 +1,122 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="EnchantStone0000_Name" korean="Украшения для тестирования" />
+	<block key="EnchantStone0001_Name" korean="Тест для ювелирных изделий 2" />
+	<block key="EnchantStone0002_Name" korean="Тест для ювелирных изделий 3" />
+	<block key="ES_AD_0000_Name" korean="Рубин - Физическое повреждение Lv 1" />
+	<block key="ES_AD_0001_Name" korean="Рубин - Физическое повреждение Lv 2" />
+	<block key="ES_AD_0002_Name" korean="Рубин - Физическое повреждение Lv 3" />
+	<block key="ES_AD_0003_Name" korean="Рубин - Физическое повреждение Lv 4" />
+	<block key="ES_AD_0004_Name" korean="Рубин - Физическое повреждение Lv 5" />
+	<block key="ES_AD_0005_Name" korean="Рубин - Физическое повреждение Lv 6" />
+	<block key="ES_AD_0006_Name" korean="Рубин - Физическое повреждение Lv 7" />
+	<block key="ES_AD_0007_Name" korean="Рубин - Физическое повреждение Lv 8" />
+	<block key="ES_AD_0008_Name" korean="Рубин - Физическое повреждение Lv 9" />
+	<block key="ES_AD_0009_Name" korean="Рубин - Физическое повреждение Lv 10" />
+	<block key="ES_AP_0000_Name" korean="Рубин - Magic Attack LV 1" />
+	<block key="ES_AP_0001_Name" korean="Рубин - Magic Attack Lv 2" />
+	<block key="ES_AP_0002_Name" korean="Рубин - Magic Attack Lv 3" />
+	<block key="ES_AP_0003_Name" korean="Рубин - Magic Attack Lv 4" />
+	<block key="ES_AP_0004_Name" korean="Рубин - Magic Attack Lv 5" />
+	<block key="ES_AP_0005_Name" korean="Рубин - Magic Attack Lv 6" />
+	<block key="ES_AP_0006_Name" korean="Рубин - Magic Attack Lv 7" />
+	<block key="ES_AP_0007_Name" korean="Рубин - Magic Attack Lv 8" />
+	<block key="ES_AP_0008_Name" korean="Рубин - Magic Attack Lv 9" />
+	<block key="ES_AP_0009_Name" korean="Рубин - Magic Attack Lv 10" />
+	<block key="ES_DP_0000_Name" korean="Сапфир - Физическая защита Lv 1" />
+	<block key="ES_DP_0001_Name" korean="Сапфир - Физическая защита Lv 2" />
+	<block key="ES_DP_0002_Name" korean="Сапфир - Физическая защита Lv 3" />
+	<block key="ES_DP_0003_Name" korean="Сапфир - Физическая защита Lv 4" />
+	<block key="ES_DP_0004_Name" korean="Сапфир - Физическая защита Lv 5" />
+	<block key="ES_DP_0005_Name" korean="Сапфир - Физическая защита Lv 6" />
+	<block key="ES_DP_0006_Name" korean="Сапфир - Физическая защита Lv 7" />
+	<block key="ES_DP_0007_Name" korean="Сапфир - Физическая защита Lv 8" />
+	<block key="ES_DP_0008_Name" korean="Сапфир - Физическая защита Lv 9" />
+	<block key="ES_DP_0009_Name" korean="Сапфир - Физическая защита Lv 10" />
+	<block key="ES_MD_0000_Name" korean="Sapphire - Magic Defense Lv 1" />
+	<block key="ES_MD_0001_Name" korean="Sapphire - Magic Defense Lv 2" />
+	<block key="ES_MD_0002_Name" korean="Sapphire - Magic Defense Lv 3" />
+	<block key="ES_MD_0003_Name" korean="Sapphire - Magic Defense Lv 4" />
+	<block key="ES_MD_0004_Name" korean="Sapphire - Magic Defense Lv 5" />
+	<block key="ES_MD_0005_Name" korean="Sapphire - Magic Defense Lv 6" />
+	<block key="ES_MD_0006_Name" korean="Sapphire - Magic Defense Lv 7" />
+	<block key="ES_MD_0007_Name" korean="Sapphire - Magic Defense Lv 8" />
+	<block key="ES_MD_0008_Name" korean="Sapphire - Magic Defense Lv 9" />
+	<block key="ES_MD_0009_Name" korean="Sapphire - Magic Defense Lv 10" />
+	<block key="ES_ACD_0000_Name" korean="Хризолит - Физическая критический урон Lv 1" />
+	<block key="ES_ACD_0001_Name" korean="Хризолит - Физическая критический урон Lv 2" />
+	<block key="ES_ACD_0002_Name" korean="Хризолит - Физическая критический урон Lv 3" />
+	<block key="ES_ACD_0003_Name" korean="Хризолит - Lv 4 Физическая критический урон Hit" />
+	<block key="ES_ACD_0004_Name" korean="Хризолит - Физическая критический урон Lv 5" />
+	<block key="ES_ACD_0005_Name" korean="Хризолит - Lv 6 Шанс критического повреждения Hit" />
+	<block key="ES_ACD_0006_Name" korean="Хризолит - Физическая критический урон Lv 7" />
+	<block key="ES_ACD_0007_Name" korean="Хризолит - Физическая критический урон Lv 8" />
+	<block key="ES_ACD_0008_Name" korean="Хризолит - Физическая критический урон Lv 9" />
+	<block key="ES_ACD_0009_Name" korean="Хризолит - Физическая критический урон Lv 10" />
+	<block key="ES_ACP_0000_Name" korean="Хризолит - шанс критического урона Lv 1" />
+	<block key="ES_ACP_0001_Name" korean="Хризолит - шанс критического урона Lv 2" />
+	<block key="ES_ACP_0002_Name" korean="Хризолит - шанс критического урона Lv 3" />
+	<block key="ES_ACP_0003_Name" korean="Хризолит - шанс критического урона Lv 4" />
+	<block key="ES_ACP_0004_Name" korean="Хризолит - шанс критического урона Lv 5" />
+	<block key="ES_ACP_0005_Name" korean="Хризолит - шанс критического урона Lv 6" />
+	<block key="ES_ACP_0006_Name" korean="Хризолит - шанс критического урона Lv 7" />
+	<block key="ES_ACP_0007_Name" korean="Хризолит - шанс критического урона Lv 8" />
+	<block key="ES_ACP_0008_Name" korean="Хризолит - шанс критического урона Lv 9" />
+	<block key="ES_ACP_0009_Name" korean="Хризолит - шанс критического урона Lv 10" />
+	<block key="ES_HP_0000_Name" korean="Алмазный до HP Lv 1" />
+	<block key="ES_HP_0001_Name" korean="Алмазный до HP Lv 2" />
+	<block key="ES_HP_0002_Name" korean="Алмазный до HP Lv 3" />
+	<block key="ES_HP_0003_Name" korean="Алмазный до HP Lv 4" />
+	<block key="ES_HP_0004_Name" korean="Алмазный до HP Lv 5" />
+	<block key="ES_HP_0005_Name" korean="Алмазный до HP Lv 6" />
+	<block key="ES_HP_0006_Name" korean="Алмазный до HP Lv 7" />
+	<block key="ES_HP_0007_Name" korean="Алмазный до HP Lv 8" />
+	<block key="ES_HP_0008_Name" korean="Алмазный до HP Lv 9" />
+	<block key="ES_HP_0009_Name" korean="Алмазный до HP Lv 10" />
+	<block key="ES_MP_0000_Name" korean="Алмазный до депутат Lv 1" />
+	<block key="ES_MP_0001_Name" korean="Алмазный до депутат Lv 2" />
+	<block key="ES_MP_0002_Name" korean="Алмазный до депутат Lv 3" />
+	<block key="ES_MP_0003_Name" korean="Алмазный до депутат Lv 4" />
+	<block key="ES_MP_0004_Name" korean="Алмазный до депутат 5-го уровня" />
+	<block key="ES_MP_0005_Name" korean="Алмазный до депутат Lv 6" />
+	<block key="ES_MP_0006_Name" korean="Алмазный до депутат Lv 7" />
+	<block key="ES_MP_0007_Name" korean="Алмазный до депутат Lv 8" />
+	<block key="ES_MP_0008_Name" korean="Алмазный до депутат Lv 9" />
+	<block key="ES_MP_0009_Name" korean="Алмазный до депутат Lv 10" />
+	<block key="ES_CDD_0000_Name" korean="Топаз-критический обороны Lv 1" />
+	<block key="ES_CDD_0001_Name" korean="Топаз-критический обороны Lv 2" />
+	<block key="ES_CDD_0002_Name" korean="Топаз-критический обороны Lv 3" />
+	<block key="ES_CDD_0003_Name" korean="Топаз-критический обороны Lv 4" />
+	<block key="ES_CDD_0004_Name" korean="Топаз-критический обороны Lv 5" />
+	<block key="ES_CDD_0005_Name" korean="Топаз-критический обороны Lv 6" />
+	<block key="ES_CDD_0006_Name" korean="Топаз-критический обороны Lv 7" />
+	<block key="ES_CDD_0007_Name" korean="Топаз-критический обороны Lv 8" />
+	<block key="ES_CDD_0008_Name" korean="Топаз-критический обороны Lv 9" />
+	<block key="ES_CDD_0009_Name" korean="Топаз-критический обороны Lv 10" />
+	<block key="ES_PKA_0000_Name" korean="Гарнетт - Взрослые Атака Lv 1" />
+	<block key="ES_PKA_0001_Name" korean="Гарнетт - Нападение LV 2 взрослых" />
+	<block key="ES_PKA_0002_Name" korean="Гарнетт - Взрослые Атака Lv 3" />
+	<block key="ES_PKA_0003_Name" korean="Гарнетт - Взрослые Атака Lv 4" />
+	<block key="ES_PKA_0004_Name" korean="Гарнетт - Взрослые Атака Lv 5" />
+	<block key="ES_PKA_0005_Name" korean="Гарнетт - Взрослые Атака Lv 6" />
+	<block key="ES_PKA_0006_Name" korean="Гарнетт - Взрослые Атака Lv 7" />
+	<block key="ES_PKA_0007_Name" korean="Гарнетт - Взрослые Атака Lv 8" />
+	<block key="ES_PKA_0008_Name" korean="Гарнетт - Взрослые Атака Lv 9" />
+	<block key="ES_PKA_0009_Name" korean="Гарнетт - Взрослые Атака Lv 10" />
+	<block key="ES_PKD_0000_Name" korean="Гарнетт - Межличностные обороны Lv 1" />
+	<block key="ES_PKD_0001_Name" korean="Гарнетт - Межличностные обороны Lv 2" />
+	<block key="ES_PKD_0002_Name" korean="Гарнетт - Межличностные обороны Lv 3" />
+	<block key="ES_PKD_0003_Name" korean="Гарнетт - Межличностные обороны Lv 4" />
+	<block key="ES_PKD_0004_Name" korean="Гарнетт - Межличностные обороны Lv 5" />
+	<block key="ES_PKD_0005_Name" korean="Гарнетт - Межличностные обороны Lv 6" />
+	<block key="ES_PKD_0006_Name" korean="Гарнетт - Межличностные обороны Lv 7" />
+	<block key="ES_PKD_0007_Name" korean="Гарнетт - Межличностные обороны Lv 8" />
+	<block key="ES_PKD_0008_Name" korean="Гарнетт - Межличностные обороны Lv 9" />
+	<block key="ES_PKD_0009_Name" korean="Гарнетт - Межличностные обороны Lv 10" />
+</blocks>

@@ -1,11 +1,8 @@
 ////////////////////////////////////////////////
 // Authors: Tahoma
 ////////////////////////////////////////////////
-
 #ifndef _DATABASE_H_
 #define _DATABASE_H_
-
-
 
 #include <winsock.h>
 #include "mysql\mysql.h"
@@ -14,6 +11,8 @@
 #include "logger.h"
 #include "../structs.h"
 #include "../game_structs.h"
+
+#define _QUERY(p1)	if (mysql_query(db, query)) { lg::Error(fg, p1, mysql_error(db)); return 0; }
 
 class DATABASE
 {

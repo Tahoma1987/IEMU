@@ -1,0 +1,21 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="area_sp_p_0001_name" korean="Саран тюрьма дерево" />
+	<block key="area_sf_r_0005_name" korean="Дирижабль не крах" />
+	<block key="area_sf_r_0001_name" korean="Shenron тамплиеров гарнизон" />
+	<block key="area_sf_r_0002_name" korean="Исторические руины лагерь" />
+	<block key="area_sf_r_0003_name" korean="Лесном лагере Brilliance" />
+	<block key="area_hk_r_0001_name" korean="Эльф кемпинги" />
+	<block key="area_hk_r_0007_name" korean="Горный приют лагерь Лови волну" />
+	<block key="area_hk_r_0002_name" korean="Горный приют лагерь Лови волну" />
+	<block key="area_hk_r_0003_name" korean="Канас и секс" />
+	<block key="area_hk_r_0004_name" korean="Северная Guard Tower" />
+	<block key="area_hk_r_0005_name" korean="Келл деревне В лесу" />
+	<block key="area_hk_r_0006_name" korean="Гаррисон Вудс Рев" />
+</blocks>

@@ -1,0 +1,189 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="AR9_001_0001_Name" korean="Mono Серра зимняя одежда" />
+	<block key="AR9_001_0001_Description" korean="Mono Серра зимняя одежда" />
+	<block key="AR9_001_0002_Name" korean="Расти Роуз" />
+	<block key="AR9_001_0002_Description" korean="Расти Роуз" />
+	<block key="AR9_001_0003_Name" korean="Нас работают пункты" />
+	<block key="AR9_001_0003_Description" korean="Нас работают пункты" />
+	<block key="CA_ST_CM_0001_Name" korean="Канас и школьная форма" />
+	<block key="CA_ST_CM_0002_Name" korean="Pegasus платья" />
+	<block key="CA_ST_CM_0003_Name" korean="Блаженны Королевство обучения" />
+	<block key="CA_ST_CM_0004_Name" korean="Канас и одежды" />
+	<block key="CA_ST_CM_0005_Name" korean="La шапочка Костюм" />
+	<block key="CA_ST_CM_0006_Name" korean="Военный набор 01" />
+	<block key="CA_ST_CM_0007_Name" korean="Военная установить 02" />
+	<block key="CA_ST_CM_0008_Name" korean="Дьявол повязка" />
+	<block key="CA_ST_CM_0009_Name" korean="Pussycat Dolls" />
+	<block key="EV_ST_CM_0000_Name" korean="Тайцзи Гуд" />
+	<block key="EV_ST_CM_0000_Description" korean="\u003cO_Y\u003e После мероприятия деталь будет удален. \u003c/ O_Y\u003e" />
+	<block key="EV_ST_CM_0001_Name" korean="Cheer Красная головная повязка" />
+	<block key="EV_ST_CM_0001_Description" korean="\u003cO_Y\u003e После мероприятия деталь будет удален. \u003c/ O_Y\u003e" />
+	<block key="EV_ST_CM_0002_Name" korean="Красный набор eungwonbok" />
+	<block key="EV_ST_CM_0002_Description" korean="\u003cO_Y\u003e После мероприятия деталь будет удален. \u003c/ O_Y\u003e" />
+	<block key="EV_ST_CM_0003_Name" korean="Зеленый Oriental" />
+	<block key="EV_ST_CM_0003_Description" korean="\u003cR_Y\u003e Green Oriental можно носить в течение трех дней, а затем автоматически исчезает.\nЗеленый Oriental является время с момента вы приходите в мешках потребляется. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0004_Name" korean="Синий Восточный" />
+	<block key="EV_ST_CM_0004_Description" korean="\u003cR_Y\u003e Blue Oriental можно носить в течение трех дней, а затем автоматически исчезает.\nСиний Восточный является время с момента вы приходите в мешках потребляется. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0005_Name" korean="Красный Восточный" />
+	<block key="EV_ST_CM_0005_Description" korean="\u003cR_Y\u003e Red Oriental можно носить в течение трех дней, а затем автоматически исчезает.\nКрасный Oriental является время с момента вы приходите в мешках потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0010_Name" korean="Гавайский Green (7)" />
+	<block key="CA_ST_CM_0010_Description" korean="\u003cR_Y\u003e Green Гавайский (7) можно носить семь дней, автоматически исчезает после.\nГавайский Green (7) время от момента входящие пакеты потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0011_Name" korean="Красный закат (7 дней)" />
+	<block key="CA_ST_CM_0011_Description" korean="\u003cR_Y\u003e Красный закат (7 дней) можно носить семь дней, автоматически исчезает после.\nКрасный закат (7 дней), на этот раз с момента ввода мешок потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0012_Name" korean="Blue Sky (7 дней)" />
+	<block key="CA_ST_CM_0012_Description" korean="\u003cR_Y\u003e Blue Sky (7 дней) можно носить семь дней, автоматически исчезает после.\nBlue Sky (7 дней) является время с момента вы приходите в мешках потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0013_Name" korean="Белый Лето (7)" />
+	<block key="CA_ST_CM_0013_Description" korean="\u003cR_Y\u003e White Summer (7) можно носить семь дней, автоматически исчезает после.\nБелый Лето (7) время от момента, когда вы пришли в мешках потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0014_Name" korean="Традиционная одежда Ара (1 день)" />
+	<block key="CA_ST_CM_0014_Description" korean="\u003cR_Y\u003e Ара и традиционная одежда (1 день) может носить один день, а затем автоматически исчезает \u003cbr\u003e. Традиционная одежда Ара (1 день), время с момента, когда входящие пакеты во времени. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0015_Name" korean="Ара традиционная одежда (7)" />
+	<block key="CA_ST_CM_0015_Description" korean="\u003cR_Y\u003e Ара традиционная одежда (7) можно носить через семь дней после автоматически исчезает. \u003cbr\u003e Традиционная одежда Ара (7 дней), время с момента выхода на мешок потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0016_Name" korean="Ара традиционная одежда (30)" />
+	<block key="CA_ST_CM_0016_Description" korean="\u003cR_Y\u003e Ара традиционная одежда (30) можно носить 30 дней после автоматически исчезает. \u003cbr\u003e Традиционная одежда Ара (30) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0017_Name" korean="Традиционная одежда yunseul (1 день)" />
+	<block key="CA_ST_CM_0017_Description" korean="\u003cR_Y\u003e yunseul и традиционная одежда (1 день) может носить один день, а затем автоматически исчезает \u003cbr\u003e. Традиционная одежда yunseul (1 день), время с момента, когда входящие пакеты во времени. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0018_Name" korean="Yunseul традиционная одежда (7)" />
+	<block key="CA_ST_CM_0018_Description" korean="\u003cR_Y\u003e yunseul традиционная одежда (7) можно носить через семь дней после автоматически исчезает. \u003cbr\u003e Традиционная одежда yunseul (7 дней), время с момента выхода на мешок потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0019_Name" korean="Yunseul традиционная одежда (30)" />
+	<block key="CA_ST_CM_0019_Description" korean="\u003cR_Y\u003e yunseul традиционную одежду (30) можно носить 30 дней после автоматически исчезает. \u003cbr\u003e Yunseul традиционная одежда (30) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0020_Name" korean="Dasom традиционная одежда (1 день)" />
+	<block key="CA_ST_CM_0020_Description" korean="\u003cR_Y\u003e Dasom и традиционная одежда (1 день) может носить один день, а затем автоматически исчезает \u003cbr\u003e. Традиционная одежда Dasom (1 день), время с момента, когда входящие пакеты во времени. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0021_Name" korean="Dasom традиционная одежда (7)" />
+	<block key="CA_ST_CM_0021_Description" korean="\u003cR_Y\u003e Dasom традиционная одежда (7) можно носить через семь дней после автоматически исчезает. \u003cbr\u003e Традиционная одежда Dasom (7 дней), время с момента выхода на мешок потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0022_Name" korean="Dasom традиционная одежда (30)" />
+	<block key="CA_ST_CM_0022_Description" korean="\u003cR_Y\u003e Dasom традиционная одежда (30) можно носить 30 дней после автоматически исчезает. \u003cbr\u003e Dasom традиционную одежду (30) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0023_Name" korean="Канас и школьную форму (7)" />
+	<block key="CA_ST_CM_0023_Description" korean="\u003cR_Y\u003e Каньяс и школьную форму (7) можно носить через семь дней после автоматически исчезает. \u003cbr\u003e Канас и школьную форму (7 дней), время с момента выхода на мешок потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0024_Name" korean="Канас и школьную форму (30)" />
+	<block key="CA_ST_CM_0024_Description" korean="\u003cR_Y\u003e Канаш и школьную форму (30) можно носить 30 дней после автоматически исчезает. \u003cbr\u003e Каньяс и школьную форму (30) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0025_Name" korean="Pegasus платья (7)" />
+	<block key="CA_ST_CM_0025_Description" korean="\u003cR_Y\u003e Pegasus платья (7) можно носить через семь дней после автоматически исчезает. \u003cbr\u003e Pegasus халат (7 дней), то время от момента входящие пакеты во времени. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0026_Name" korean="Pegasus платья (30)" />
+	<block key="CA_ST_CM_0026_Description" korean="\u003cR_Y\u003e Pegasus платья (30) можно носить 30 дней после автоматически исчезает. \u003cbr\u003e Pegasus платья (30) часов с момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0027_Name" korean="Королевство обучения персонала (7 дней)" />
+	<block key="CA_ST_CM_0027_Description" korean="\u003cR_Y\u003e Королевство обучение персонала (7) можно носить через семь дней после автоматически исчезает. \u003cbr\u003e Королевство обучения персонала (7) время от момента входящие пакеты во времени. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0028_Name" korean="Королевство обучение персонала (30)" />
+	<block key="CA_ST_CM_0028_Description" korean="\u003cR_Y\u003e Королевство обучение персонала (30) можно носить 30 дней после автоматически исчезает. \u003cbr\u003e Королевство обучение персонала (30) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0029_Name" korean="Канас и платья (7)" />
+	<block key="CA_ST_CM_0029_Description" korean="\u003cR_Y\u003e Каньяс одежды и (7) можно носить через семь дней после автоматически исчезает. \u003cBR\u003e И Каньяс платья (7) время от момента ввода сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0030_Name" korean="Канас и платья (30)" />
+	<block key="CA_ST_CM_0030_Description" korean="\u003cR_Y\u003e и Каньяс платья (30) можно носить 30 дней после автоматически исчезает. \u003cBR\u003e И Каньяс платья (30) часов с момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0031_Name" korean="La Beanie одежда (7)" />
+	<block key="CA_ST_CM_0031_Description" korean="\u003cR_Y\u003e La шапочка костюмы (7) можно носить через семь дней после автоматически исчезает. \u003cbr\u003e Вызывается Винни костюмы (7) время от момента ввода сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0032_Name" korean="La Beanie костюмы (30)" />
+	<block key="CA_ST_CM_0032_Description" korean="\u003cR_Y\u003e La Beanie костюмы (30) можно носить 30 дней после автоматически исчезает. \u003cbr\u003e Вызывается костюмы Винни (30) часов с момента внесения сумку во времени. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0033_Name" korean="Униформа Martini" />
+	<block key="CA_ST_CM_0034_Name" korean="Униформа Martini (7 дней)" />
+	<block key="CA_ST_CM_0034_Description" korean="\u003cR_Y\u003e Бижутерия Martini (7) можно носить через семь дней после автоматически исчезает. \u003cbr\u003e Единая Мартини (7 дней), то время от момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0035_Name" korean="Униформа Martini (30)" />
+	<block key="CA_ST_CM_0035_Description" korean="\u003cR_Y\u003e Бижутерия Martini (30) можно носить 30 дней после автоматически исчезает. \u003cbr\u003e Единые Martini (30) часов с момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0036_Name" korean="Военная X" />
+	<block key="CA_ST_CM_0037_Name" korean="Военные X (7)" />
+	<block key="CA_ST_CM_0037_Description" korean="\u003cR_Y\u003e Военная X (7) можно носить семь дней, после автоматически исчезает. \u003cbr\u003e Военные X (7 дней), то время от момента входящие пакеты во времени. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0038_Name" korean="Военные х (30)" />
+	<block key="CA_ST_CM_0038_Description" korean="\u003cR_Y\u003e Военно-X (30) можно носить 30 дней после автоматически исчезает. \u003cbr\u003e Военные X (30) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0039_Name" korean="Pegasus платья (15)" />
+	<block key="CA_ST_CM_0039_Description" korean="\u003cR_Y\u003e Pegasus платья (15) можно носить 15 дней после автоматически исчезает. \u003cbr\u003e Pegasus платья (15) часов с момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0040_Name" korean="Канас и платья (15)" />
+	<block key="CA_ST_CM_0040_Description" korean="\u003cR_Y\u003e и Каньяс платья (15) можно носить 15 дней после автоматически исчезает. \u003cBR\u003e И Каньяс платья (15) часов с момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0041_Name" korean="Канас и школьную форму (15)" />
+	<block key="CA_ST_CM_0041_Description" korean="\u003cR_Y\u003e Канаш и школьную форму (15) можно носить 15 дней после автоматически исчезает. \u003cbr\u003e Каньяс и школьную форму (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0042_Name" korean="Королевство обучение персонала (15)" />
+	<block key="CA_ST_CM_0042_Description" korean="\u003cR_Y\u003e Королевство обучение персонала (15) можно носить 15 дней после автоматически исчезает. \u003cbr\u003e Королевство обучение персонала (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0043_Name" korean="La Beanie костюмы (15)" />
+	<block key="CA_ST_CM_0043_Description" korean="\u003cR_Y\u003e La Beanie костюмы (15) можно носить 15 дней после автоматически исчезает. \u003cbr\u003e Вызывается костюмы Винни (15) часов с момента внесения сумку во времени. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0044_Name" korean="Униформа Martini (15)" />
+	<block key="CA_ST_CM_0044_Description" korean="\u003cR_Y\u003e Бижутерия Martini (15) можно носить 15 дней после автоматически исчезает. \u003cbr\u003e Единые Martini (15) часов с момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0045_Name" korean="Военные х (15)" />
+	<block key="CA_ST_CM_0045_Description" korean="\u003cR_Y\u003e Военно-X (15) можно носить 15 дней после автоматически исчезает. \u003cbr\u003e Военные X (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0006_Name" korean="Красный ведьма шляпа (4 часа)" />
+	<block key="EV_ST_CM_0006_Description" korean="\u003cR_Y\u003e Красные Ведьма Головные уборы (4 часа) может носить в течение 4 часов, а затем автоматически исчезает. \u003cbr\u003e Red Hat Ведьма (4 часа), на этот раз с момента ввода мешок потребляется. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0007_Name" korean="Hat Green ведьмы (4 часа)" />
+	<block key="EV_ST_CM_0007_Description" korean="\u003cR_Y\u003e, на этот раз с момента ввода мешок потребляются Зеленый Ведьма шляпу (4 часа) можно носить в течение 4 часов, а затем автоматически исчезает. \u003cbr\u003e Green Hat Ведьма (4 часа). \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0008_Name" korean="Orange Witch Hat (4 часа)" />
+	<block key="EV_ST_CM_0008_Description" korean="\u003cR_Y\u003e оранжевый ведьма шляпа (4 часа) может носить в течение 4 часов, а затем автоматически исчезает. \u003cbr\u003e Orange ведьм шляпу (4 часа), на этот раз с момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0009_Name" korean="Прохладный тыквы шляпа (4 часа)" />
+	<block key="EV_ST_CM_0009_Description" korean="\u003cR_Y\u003e прекрасный тыквы шляпу (4 часа) можно носить в течение 4 часов, а затем автоматически исчезает \u003cbr\u003e. Замечательный тыквенный шляпу (4 часа), на этот раз с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0010_Name" korean="Сад тыквы Головные уборы (4 часа)" />
+	<block key="EV_ST_CM_0010_Description" korean="\u003cR_Y\u003e Сад тыквы Головные уборы (4 часа) можно носить в течение 4 часов, а затем автоматически исчезает. \u003cbr\u003e Sad тыквы шляпу (4 часа), на этот раз с момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0011_Name" korean="Наслаждайтесь тыквы шляпу (4 часа)" />
+	<block key="EV_ST_CM_0011_Description" korean="\u003cR_Y\u003e весело с тыквой шляпу (4 часа) можно носить в течение 4 часов, а затем автоматически исчезает. \u003cbr\u003e Fun тыква шляпа (4 часа), на этот раз с момента ввода мешок потребляется. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0012_Name" korean="Тыквенные Головные уборы (4 часа)" />
+	<block key="EV_ST_CM_0012_Description" korean="\u003cR_Y\u003e Тыква Головные уборы (4 часа) можно носить в течение 4 часов, а затем автоматически исчезает. \u003cbr\u003e Шляпу тыквы (4 часа), на этот раз с момента ввода мешок потребляются. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0013_Name" korean="White Skull костюм" />
+	<block key="EV_ST_CM_0014_Name" korean="Синий череп костюм" />
+	<block key="CA_ST_CM_0046_Name" korean="Черный вампир (7)" />
+	<block key="CA_ST_CM_0046_Description" korean="\u003cR_Y\u003e Black Vampire (7) можно носить через семь дней после автоматически исчезает. \u003cbr\u003e Черный вампир (7 дней), время с момента входящие пакеты во времени. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0047_Name" korean="Черный вампир (30)" />
+	<block key="CA_ST_CM_0047_Description" korean="\u003cR_Y\u003e Black Vampire (30) можно носить 30 дней после автоматически исчезает. \u003cbr\u003e Черный вампир (30) часов с момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0048_Name" korean="Белый Вампир (7 дней)" />
+	<block key="CA_ST_CM_0048_Description" korean="\u003cR_Y\u003e Белый Вампир (7) можно носить через семь дней после автоматически исчезает. \u003cbr\u003e Белый Вампир (7 дней), то время от момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0049_Name" korean="Белый Вампир (30)" />
+	<block key="CA_ST_CM_0049_Description" korean="\u003cR_Y\u003e Белый Вампир (30) можно носить 30 дней после автоматически исчезает. \u003cbr\u003e Белый Вампир (30) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0015_Name" korean="Черный вампир (3)" />
+	<block key="EV_ST_CM_0015_Description" korean="\u003cR_Y\u003e Black Vampire (3) можно носить в течение трех дней, а затем автоматически исчезает. \u003cbr\u003e Черный вампир (3) время от момента ввода сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0016_Name" korean="Белый Вампир (3)" />
+	<block key="EV_ST_CM_0016_Description" korean="\u003cR_Y\u003e Белый Вампир (3) можно носить в течение трех дней, а затем автоматически исчезает. \u003cbr\u003e Белый Вампир (3) время от момента ввода сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0017_Name" korean="Красный закат (3 дня)" />
+	<block key="EV_ST_CM_0017_Description" korean="\u003cR_Y\u003e Красный закат (3 дня) можно носить в течение трех дней, а затем автоматически исчезает.\nКрасный закат (3) Настало время, с момента мешок потребляется. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0018_Name" korean="Blue Sky (3)" />
+	<block key="EV_ST_CM_0018_Description" korean="\u003cR_Y\u003e Blue Sky (3) можно носить в течение трех дней, а затем автоматически исчезает.\nBlue Sky (3) время от момента ввода сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0019_Name" korean="Белый Лето (3)" />
+	<block key="EV_ST_CM_0019_Description" korean="\u003cR_Y\u003e White Summer (3) можно носить в течение трех дней, а затем автоматически исчезает.\nБелый Лето (3) время от момента ввода сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0020_Name" korean="Зеленый Гавайский (3)" />
+	<block key="EV_ST_CM_0020_Description" korean="\u003cR_Y\u003e Green Гавайский (3) можно носить в течение трех дней, а затем автоматически исчезает.\nЗеленый Гавайский (3) время от момента ввода сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0021_Name" korean="Dasom традиционная одежда (3)" />
+	<block key="EV_ST_CM_0021_Description" korean="\u003cR_Y\u003e Dasom традиционная одежда (3) можно носить в течение трех дней, а затем автоматически исчезает \u003cbr\u003e. Традиционная одежда Dasom (3) время от момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0022_Name" korean="Ара традиционная одежда (3)" />
+	<block key="EV_ST_CM_0022_Description" korean="\u003cR_Y\u003e Ара традиционная одежда (3) можно носить в течение трех дней, а затем автоматически исчезает \u003cbr\u003e. Традиционная одежда Ара (3) времени от момента вхождения в сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0023_Name" korean="Desert Fox Бессмертный" />
+	<block key="EV_ST_CM_0024_Name" korean="Канас и платья (7)" />
+	<block key="EV_ST_CM_0024_Description" korean="\u003cR_Y\u003e Каньяс одежды и (7) можно носить через семь дней после автоматически исчезает. \u003cBR\u003e И Каньяс платья (7) время от момента ввода сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0050_Name" korean="Рождественская вечеринка (7)" />
+	<block key="CA_ST_CM_0050_Description" korean="\u003cR_Y\u003e Рождественский вечер (7) можно носить в течение 7 дней, а затем автоматически исчезают. \u003cbr\u003e Рождественскую вечеринку (7) Сумки войти, с момента потребитель. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0051_Name" korean="Christmas Party (30)" />
+	<block key="CA_ST_CM_0051_Description" korean="\u003cR_Y\u003e Christmas Party (30) можно носить 30 дней после автоматически исчезает. \u003cbr\u003e Рождественская вечеринка (30) часов с момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="EV_ST_CM_0025_Name" korean="Рудольф Костюм (3)" />
+	<block key="EV_ST_CM_0025_Description" korean="\u003cR_Y\u003e Рудольф костюмы (3) можно носить в течение трех дней, а затем автоматически исчезает \u003cbr\u003e. Рудольф костюмы (3) время от момента ввода сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0052_Name" korean="Белый кот" />
+	<block key="CA_ST_CM_0053_Name" korean="Черный кот" />
+	<block key="CA_ST_CM_0054_Name" korean="Белый Скелет костюмы (15)" />
+	<block key="CA_ST_CM_0054_Description" korean="\u003cR_Y\u003e Белый Скелет костюмы (15) можно носить 15 дней после автоматически исчезает. \u003cbr\u003e Белый костюм скелета (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0055_Name" korean="Синий череп костюм (15)" />
+	<block key="CA_ST_CM_0055_Description" korean="\u003cR_Y\u003e синий скелет костюмы (15) можно носить 15 дней после автоматически исчезает. \u003cbr\u003e Синий скелет костюмы (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0056_Name" korean="Черный вампир (15)" />
+	<block key="CA_ST_CM_0056_Description" korean="\u003cR_Y\u003e Black Vampire (15) можно носить 15 дней после автоматически исчезает. \u003cbr\u003e Черный вампир (15) часов с момента внесения сумку потребляются. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0057_Name" korean="Белый Вампир (15)" />
+	<block key="CA_ST_CM_0057_Description" korean="\u003cR_Y\u003e Белый Вампир (15) можно носить 15 дней после автоматически исчезает. \u003cbr\u003e Белый Вампир (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0058_Name" korean="Красный закат (15)" />
+	<block key="CA_ST_CM_0058_Description" korean="\u003cR_Y\u003e Красный закат (15) можно носить 15 дней автоматически исчезают после.\nКрасный закат (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0059_Name" korean="Blue Sky (15)" />
+	<block key="CA_ST_CM_0059_Description" korean="\u003cR_Y\u003e Blue Sky (15) можно носить 15 дней автоматически исчезают после.\nBlue Sky (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0060_Name" korean="Белый Лето (15)" />
+	<block key="CA_ST_CM_0060_Description" korean="\u003cR_Y\u003e White Summer (15) можно носить 15 дней автоматически исчезают после.\nБелый Лето (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0061_Name" korean="Гавайский Green (15)" />
+	<block key="CA_ST_CM_0061_Description" korean="\u003cR_Y\u003e Green Гавайский (15) можно носить 15 дней автоматически исчезают после.\nЗеленые Гавайские (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0062_Name" korean="Зеленый Oriental (15)" />
+	<block key="CA_ST_CM_0062_Description" korean="\u003cR_Y\u003e Зеленые Восточные (15) можно носить 15 дней автоматически исчезают после.\nЗеленые Восточные (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0063_Name" korean="Синий Восточный (15)" />
+	<block key="CA_ST_CM_0063_Description" korean="\u003cR_Y\u003e Blue Oriental (15) можно носить 15 дней автоматически исчезают после.\nСиний Восточный (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0064_Name" korean="Красный Oriental (15)" />
+	<block key="CA_ST_CM_0064_Description" korean="\u003cR_Y\u003e Red Oriental (15) можно носить 15 дней автоматически исчезают после.\nКрасные восточные (15) часов с момента внесения сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0065_Name" korean="White Skull костюм (7)" />
+	<block key="CA_ST_CM_0065_Description" korean="\u003cR_Y\u003e Белый костюм скелета (7) можно носить через семь дней после автоматически исчезает. \u003cbr\u003e Белый костюм скелета (7) время от момента ввода сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0066_Name" korean="Синий череп Костюм (7)" />
+	<block key="CA_ST_CM_0066_Description" korean="\u003cR_Y\u003e Blue костюм скелета (7) можно носить через семь дней после автоматически исчезает. \u003cbr\u003e Синий скелет костюмы (7) время от момента ввода сумку потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0067_Name" korean="Зеленый Oriental (7 дней)" />
+	<block key="CA_ST_CM_0067_Description" korean="\u003cR_Y\u003e Зеленые Восточные (7) можно носить семь дней, автоматически после исчезает.\nЗеленый Oriental (7) время от момента входящие пакеты потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0068_Name" korean="Синий Восточный (7 дней)" />
+	<block key="CA_ST_CM_0068_Description" korean="\u003cR_Y\u003e Blue Oriental (7) можно носить семь дней, автоматически исчезает после.\nСиний Восточный (7) время от момента входящие пакеты потребляется. \u003c/ R_Y\u003e" />
+	<block key="CA_ST_CM_0069_Name" korean="Красный Oriental (7 дней)" />
+	<block key="CA_ST_CM_0069_Description" korean="\u003cR_Y\u003e Red Oriental (7) можно носить семь дней, автоматически исчезает после.\nКрасный Oriental (7 дней), время с момента входящие пакеты потребляется. \u003c/ R_Y\u003e" />
+</blocks>

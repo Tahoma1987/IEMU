@@ -480,9 +480,6 @@
     <ClInclude Include="network\client\CM_UPDATE_POSITION.h">
       <Filter>GAMESERVER\network\Client</Filter>
     </ClInclude>
-    <ClInclude Include="network\client\CM_MOVE_STOP.h">
-      <Filter>GAMESERVER\network\Client</Filter>
-    </ClInclude>
     <ClInclude Include="network\client\CM_MOVE_MOUSESET.h">
       <Filter>GAMESERVER\network\Client</Filter>
     </ClInclude>
@@ -507,7 +504,58 @@
     <ClInclude Include="network\server\SM_REMOVE_ITEM.h">
       <Filter>GAMESERVER\network\Server</Filter>
     </ClInclude>
-    <ClInclude Include="network\client\CM_SKILLPANEL_MOVE.h">
+    <ClInclude Include="network\server\SM_USE.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_USE2.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_USE.h">
+      <Filter>GAMESERVER\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_USE2.h">
+      <Filter>GAMESERVER\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_USE3.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_2813.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_USE4.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_USE0.h">
+      <Filter>GAMESERVER\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_USE0.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_USE_0f12.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_690f.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_QUESTSTATEMSG.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_UNK_8c18.h">
+      <Filter>GAMESERVER\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_ACTION_STOP.h">
+      <Filter>GAMESERVER\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_UNK_2913.h">
+      <Filter>GAMESERVER\network\Client</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_UNK_0113.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\server\SM_OBJECT_DELETE.h">
+      <Filter>GAMESERVER\network\Server</Filter>
+    </ClInclude>
+    <ClInclude Include="network\client\CM_SKILLS_PANEL_MOVE.h">
       <Filter>GAMESERVER\network\Client</Filter>
     </ClInclude>
   </ItemGroup>

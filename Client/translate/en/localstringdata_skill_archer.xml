@@ -1,0 +1,21 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="ac_strongatk_name" korean="Мощный удар" />
+	<block key="ac_straight_name" korean="Прямо" />
+	<block key="ac_dash_name" korean="Тире" />
+	<block key="ac_markshotcs_name" korean="Огонь сдерживания" />
+	<block key="ac_righthook_name" korean="Правый хук" />
+	<block key="ac_upper_name" korean="Верхний" />
+	<block key="ac_successionatk_name" korean="Непрерывный удар" />
+	<block key="ac_continueatk_name" korean="_ страйков подряд, близкие" />
+	<block key="ac_convergemele_name" korean="_ Crossfire близко" />
+	<block key="ac_blackade_name" korean="Блокада" />
+	<block key="ac_blackademele_name" korean="_ Закрыть блокада" />
+	<block key="ac_convergecs_name" korean="Массированную атаку" />
+</blocks>

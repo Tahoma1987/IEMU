@@ -10,7 +10,8 @@ enum eACTION_CHARACTER {
 	ACTION_GO,
 	ACTION_RUN,
 	ACTION_JUMP,
-	ACTION_FLY
+	ACTION_FLY,
+	ACTION_MINING
 };
 
 enum eACCESS_CHARACTER {
@@ -51,5 +52,21 @@ enum eOBJ_ACTION_STATUS {
 	OBJ_ACTION_MOVE = 5
 };
 
-
+enum sCHATSTATUS
+{
+	CHAT_SEARCHGROUP = 9,		//Поиск группы
+	CHAT_BULLHORN = 8,			//8 Рупор
+	CHAT_SHOUT = 7,				//7 - Крик в локации
+	CHAT_SYSTEMADVERT = 6,		//6 - Сис сообщение вверху экрана желтым цветом
+	CHAT_TRADECHANNEL = 5,		//5 - трейд канал
+	CHAT_WHISPERMESSAGE = 4,	//4 - приватное сообщение
+	CHAT_GUILDCHANNEL = 3,		//3 - канал гильдии
+	CHAT_GROUPCHANNEL = 2,		//2 - группа
+	CHAT_WHITEMESSAGE = 1,		//1 - сообщение белым цветом в чате
+	CHAT_YELLOWMESSAGE = 0		//0 - сообщение желтым цветом в чате
+};
+	
 #endif
+
+
+

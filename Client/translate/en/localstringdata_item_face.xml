@@ -1,0 +1,38 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="HM_Face_000_Name" korean="Человек мужского лица 1" />
+	<block key="HM_Face_001_Name" korean="Человек существо человек лицо 2" />
+	<block key="HM_Face_002_Name" korean="Человек существо человек лицо 3" />
+	<block key="HM_Face_003_Name" korean="Человек существо человек лицо 4" />
+	<block key="HM_Face_004_Name" korean="Человек существо человек лицо 5" />
+	<block key="HM_Face_005_Name" korean="Человек существо мужчина лицом 6" />
+	<block key="HM_Face_006_Name" korean="Человек существо человек лицо 7" />
+	<block key="HM_Face_007_Name" korean="Человек существо человек лицо 8" />
+	<block key="HM_Face_008_Name" korean="Лицо человеческое существо человека 9" />
+	<block key="HM_Face_009_Name" korean="Человек существо мужчина лицом 10" />
+	<block key="HW_Face_000_Name" korean="Человек женщина лицо 1" />
+	<block key="HW_Face_001_Name" korean="Человек женщина лицо 2" />
+	<block key="HW_Face_002_Name" korean="Лицо женщины человеческого 3" />
+	<block key="HW_Face_003_Name" korean="Человек женщина лицо 4" />
+	<block key="HW_Face_004_Name" korean="Человек женщина лицо 5" />
+	<block key="HW_Face_005_Name" korean="Человек женщина лицо 6" />
+	<block key="HW_Face_006_Name" korean="Человек женщина лицо 7" />
+	<block key="HW_Face_007_Name" korean="Человек женщина лицо 8" />
+	<block key="HW_Face_008_Name" korean="Человек женщина лицо 9" />
+	<block key="HW_Face_009_Name" korean="Человек женщина лицо 10" />
+	<block key="CM_Face_000_Name" korean="Croix Kuhn человека лицо 1" />
+	<block key="CM_Face_001_Name" korean="Croix Kuhn человек сталкивается 2" />
+	<block key="CM_Face_002_Name" korean="Croix Kuhn человек сталкивается с тремя" />
+	<block key="CW_Face_000_Name" korean="Croix Kuhn женщина лицо 1" />
+	<block key="CW_Face_001_Name" korean="Croix Kuhn женщина лицо 2" />
+	<block key="CW_Face_002_Name" korean="Croix Kuhn лицо женщины 3" />
+	<block key="SW_Face_000_Name" korean="Стрижка женщина лицо 1" />
+	<block key="SW_Face_001_Name" korean="Стрижка женщина лицо 2" />
+	<block key="SW_Face_002_Name" korean="Shearing девочки сталкиваются с 3" />
+</blocks>

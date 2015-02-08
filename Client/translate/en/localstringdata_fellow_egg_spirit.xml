@@ -1,0 +1,34 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="SP0_0_0000_NAME" korean="Млекопитающие полная энергия души" />
+	<block key="SP0_0_0001_NAME" korean="Полная энергия души полезной" />
+	<block key="SP0_0_0002_NAME" korean="Энергия волны этажного души" />
+	<block key="SP0_0_0003_NAME" korean="Насекомое на основе энергия души" />
+	<block key="SP0_0_0004_NAME" korean="Jeongryeonggye энергия души" />
+	<block key="EG0_0_0001_NAME" korean="1 звезда бусины млекопитающих на основе жизни" />
+	<block key="EG0_1_0001_NAME" korean="Два класса млекопитающих бисера жизни на основе" />
+	<block key="EG0_2_0001_NAME" korean="Млекопитающие общую жизнь гранул 3 звезды" />
+	<block key="EG0_3_0001_NAME" korean="Четыре класса млекопитающих бисера жизни на основе" />
+	<block key="EG0_0_0002_NAME" korean="Пособие жизни на основе из бисера 1 рейтинговых" />
+	<block key="EG0_1_0002_NAME" korean="Пособие жизни на основе гранул 2 звезды" />
+	<block key="EG0_2_0002_NAME" korean="Пособие жизни на основе гранул 3 звезды" />
+	<block key="EG0_3_0002_NAME" korean="Пособие жизни на основе гранул 4 звезды" />
+	<block key="EG0_0_0003_NAME" korean="1 звезда бусины лестницы жизненная волна" />
+	<block key="EG0_1_0003_NAME" korean="2-х этажный волны шарики номинальный ресурс" />
+	<block key="EG0_2_0003_NAME" korean="Три класса жизни бисером пар этажа" />
+	<block key="EG0_3_0003_NAME" korean="Бусы из волн этажного 4-звездочный жизни" />
+	<block key="EG0_0_0004_NAME" korean="Бусы на основе насекомых жизнь первого сорта" />
+	<block key="EG0_1_0004_NAME" korean="Бусы жизни на основе насекомых 2 звезды" />
+	<block key="EG0_2_0004_NAME" korean="Насекомое жизни на основе из бисера 3 звезды" />
+	<block key="EG0_3_0004_NAME" korean="Бусы на основе оценка насекомое жизнь 4" />
+	<block key="EG0_0_0005_NAME" korean="Jeongryeonggye жизнь из бисера 1 отзыв" />
+	<block key="EG0_1_0005_NAME" korean="Бусины отзывы: 2 jeongryeonggye жизнь" />
+	<block key="EG0_2_0005_NAME" korean="Бусины отзывы: 3 jeongryeonggye жизнь" />
+	<block key="EG0_3_0005_NAME" korean="Бусы четыре сорта jeongryeonggye жизни" />
+</blocks>

@@ -6,6 +6,7 @@
 #define _DEFINES_H_
 
 #define	_MAX_ITEMS_IN_INVENTORY		120
+#define _MAX_SKILLS_PANEL_SLOTS		24*2
 
 #define uint64		unsigned __int64
 #define uint32		unsigned int

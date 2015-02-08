@@ -7,7 +7,7 @@
 
 inline void CM_TARGET(PACKET* pck)
 {
-	pck->me->target_id = pck->readD();
+	mychar->target_id = pck->readD();
 	int32 unk2 = pck->readD();
 }
 

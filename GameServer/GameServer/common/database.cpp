@@ -65,6 +65,7 @@ void DATABASE::AtoH(char* in, char* out)
 //
 bool DATABASE::GetCharacterInfo(uint32 character_id, CHARACTER* character)
 {
+	bool error = false;
 	character_id &= 0xFFFFFFF;
 	MYSQL_RES* result;
 	MYSQL_ROW row;
@@ -73,12 +74,7 @@ bool DATABASE::GetCharacterInfo(uint32 character_id, CHARACTER* character)
 	size_t convertedChars;
 
 	sprintf(query, "SELECT charname, class, level, sex, pos_x, pos_y, pos_z, rotate, access FROM characters WHERE id='%d';", character_id);
-
-	if (mysql_query(db, query))
-	{
-		lg::Error(fg, "GSDatabase: GetCharacterInfo->mysql_query->characters. %s\n", mysql_error(db));
-		return 0;
-	}
+	_QUERY("GSDatabase: GetCharacterInfo->mysql_query->characters. %s\n");
 
 	result = mysql_store_result(db);
 	
@@ -128,12 +124,7 @@ bool DATABASE::GetCharacterInfo(uint32 character_id, CHARACTER* character)
 	// Получаем инвентарь
 	//////////////////////////////////////////////////////////
 	sprintf(query, "SELECT PlayerItemUID, item_id, count, slot, equip FROM inventory WHERE char_id='%d';", character_id);
-
-	if (mysql_query(db, query))
-	{
-		lg::Error(fg, "GSDatabase: GetCharacterInfo->mysql_query->inventory. %s\n", mysql_error(db));
-		return 0;
-	}
+	_QUERY("GSDatabase: GetCharacterInfo->mysql_query->inventory. %s\n");
 
 	result = mysql_store_result(db);
 
@@ -157,14 +148,10 @@ bool DATABASE::GetCharacterInfo(uint32 character_id, CHARACTER* character)
 	mysql_free_result(result);
 
 	// Получаем статы
-	//////////////////////////////////////////////////////////
-	bool error = false;
+	//////////////////////////////////////////////////////////	
+	error = false;
 	sprintf(query, "SELECT max_hp,max_mp,hp,mp,phys_def,magic_def,power,agility,fitness,intelligence,mentality,accuracy FROM character_stats WHERE char_id='%d';", character_id);
-	if (mysql_query(db, query))
-	{
-		lg::Error(fg, "GSDatabase: GetCharacterInfo->mysql_query->character_stats. %s\n", mysql_error(db));
-		return 0;
-	}
+	_QUERY("GSDatabase: GetCharacterInfo->mysql_query->character_stats. %s\n");
 	result = mysql_store_result(db);
 
 	if (result == NULL)
@@ -202,6 +189,45 @@ bool DATABASE::GetCharacterInfo(uint32 character_id, CHARACTER* character)
 		else
 		{
 			lg::Error(fg, "GSDatabase: Can't find character stats. ID: %d\n", character_id);
+		}
+	}
+
+	mysql_free_result(result);
+
+	// Загружаем панель скилов
+	//////////////////////////////////////////////////////////
+	int step = 0;
+	error = false;
+	memset(character->skills_panel, 0, sizeof(character->skills_panel));
+
+	sprintf(query, "SELECT active, num_panel, slot, unk1, unk2, skill_id, unk3, unk4 FROM skills_panel WHERE char_id='%d';", character_id);
+	_QUERY("GSDatabase: GetCharacterInfo->mysql_query->skills_panel. %s\n");
+
+	result = mysql_store_result(db);
+	if (result == NULL)
+	{
+		lg::Error(fg, "GSDatabase: GetCharacterInfo->mysql_store_result->skills_panel. %s\n", mysql_error(db));
+		return 0;
+	}
+
+	while ((row = mysql_fetch_row(result)))
+	{
+		for (int i = 0; i < 8; i++)
+		{
+			if (row[i] == NULL) { error = true; break; }
+		}
+
+		if (!error)
+		{
+			character->skills_panel[step].active = atoi(row[0]);
+			character->skills_panel[step].num_panel = atoi(row[1]);
+			character->skills_panel[step].slot = atoi(row[2]);
+			character->skills_panel[step].unk1 = atoi(row[3]);
+			character->skills_panel[step].unk2 = atoi(row[4]);
+			character->skills_panel[step].skill_id = atoi(row[5]);
+			character->skills_panel[step].unk3 = atoi(row[6]);
+			character->skills_panel[step].unk4 = atoi(row[7]);
+			++step;
 		}
 	}
 
@@ -334,12 +360,7 @@ int DATABASE::GetMobs(MOB* mobs)
 							distance	\
 							FROM mobs;";
 
-	if (mysql_query(db, query))
-	{
-		lg::Notify(fg, "\n");
-		lg::Error(fg, "GSDatabase: GetMobs->mysql_query. %s\n", mysql_error(db));
-		return 0;
-	}
+	_QUERY("GSDatabase: GetMobs->mysql_query. %s\n");
 
 	result = mysql_store_result(db);
 	if (result == NULL)
@@ -405,5 +426,4 @@ int DATABASE::GetMobs(MOB* mobs)
 	}
 	mysql_free_result(result);
 	return step;
-	//sprintf(query, "INSERT INTO mobs VALUES('%d','%d','%f','%f','%f','%f','%d','%d','%d','%d','%d','%u','%u','%u','%u','%u','%u','%u','%u','%u','%u','%u','%u','%u','%u','%u','%u','%u','%u','%u','%u','%s');",
 }

@@ -1,21 +1,32 @@
 ////////////////////////////////////////////////
-// Authors: Tahoma
+// Authors: Tahoma, Karyzir, Lastfun
 ////////////////////////////////////////////////
 
 #ifndef _SM_CHAT_H_
 #define _SM_CHAT_H_
 
-inline void SM_CHAT(PACKET* pck, char* str)
+inline void SM_CHAT(PACKET* pck, char* str, bool isGMmsg = false)
 {
 	pck->CreateBufForSend();
-	pck->writeW(0x4e01);
-	pck->writeBuf(mychar->charname, 20);
+	if (isGMmsg)
+	{
+		pck->writeB(CHAT_BULLHORN);
+		pck->writeB(0); // unk
+		WCHAR strSystem[] = L"GM";
+		pck->writeBuf(strSystem, 20);
+	}
+	else
+	{
+		pck->writeB(CHAT_WHITEMESSAGE);
+		pck->writeB(0); // unk
+		pck->writeBuf(mychar->charname, 20);
+	}
 	pck->writeW(0);
 	pck->writeD(0);
 	pck->writeD(0);
 	pck->writeD(0);
 	pck->writeD(0);
-	pck->writeD(5);
+	pck->writeD(1);
 	pck->writeD(mychar->id);
 	pck->writeD(0);
 	pck->writeD(0);

@@ -21,8 +21,6 @@ CREATE TABLE `character_stats` (
   PRIMARY KEY (`char_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-insert  into `character_stats`(`char_id`,`max_hp`,`hp`,`max_mp`,`mp`,`phys_crit`,`magic_crit`,`phys_def`,`magic_def`,`evasion`,`power`,`agility`,`fitness`,`intelligence`,`mentality`,`accuracy`) values (2585287,3856,3856,3840,3840,0,0,103.019997,82.019997,0,8,6,8,7,8,99.120003);
-
 DROP TABLE IF EXISTS `character_style`;
 CREATE TABLE `character_style` (
   `character_id` int(8) DEFAULT NULL
@@ -44,7 +42,7 @@ CREATE TABLE `characters` (
   `create_time` int(8) NOT NULL,
   `end_gametime` int(8) NOT NULL COMMENT 'последний заход в игру',
   PRIMARY KEY (`id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2585291 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `inventory`;
 CREATE TABLE `inventory` (
@@ -55,9 +53,34 @@ CREATE TABLE `inventory` (
   `slot` int(4) NOT NULL,
   `equip` int(1) NOT NULL DEFAULT '0',
   PRIMARY KEY (`PlayerItemUID`)
-) ENGINE=InnoDB AUTO_INCREMENT=6 DEFAULT CHARSET=utf8;
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-insert  into `inventory`(`PlayerItemUID`,`char_id`,`item_id`,`count`,`slot`,`equip`) values (1,2585287,65642,1,1,1),(2,2585287,65643,1,7,1),(3,2585287,65668,1,2,1),(4,2585287,118,1,3,1),(5,2585287,2031585,1,13,1);
+DROP TABLE IF EXISTS `items`;
+CREATE TABLE `items` (
+  `id` int(8) NOT NULL,
+  `item_class` enum('Weapon','Armor','Sub','Accessory','Quest','Exchange','Consume','EnchantStone','Material','SkillBook','FellowBook','Dyeing','Bag','Fellow','Tool','Recipe','Crop','Book','FellowConsume','Face','Hair','Decorate','Style','FellowQuest','Event','SealedFellow','FellowEquip','RandomBox','Ruby','Package','Boost','Bracelet') DEFAULT NULL,
+  `name` varchar(80) NOT NULL,
+  `development` int(1) NOT NULL DEFAULT '0',
+  `item_level` int(4) NOT NULL DEFAULT '0',
+  `required_level` int(4) NOT NULL DEFAULT '0',
+  `rating` int(4) NOT NULL DEFAULT '0',
+  `maeipga` int(4) NOT NULL DEFAULT '0',
+  `cheobunga` int(4) NOT NULL DEFAULT '0',
+  `no_drop` int(1) NOT NULL DEFAULT '1',
+  `use_class` int(2) DEFAULT '0',
+  `inability_to_deal` int(4) NOT NULL DEFAULT '0',
+  `disposal_of_the_dead` int(4) NOT NULL DEFAULT '0',
+  `destruction_disabled` int(4) NOT NULL DEFAULT '0',
+  `when_the_level_drops_inspection` int(4) NOT NULL DEFAULT '0',
+  `belonging` int(4) DEFAULT '0',
+  `binds_the_target` int(4) DEFAULT NULL,
+  `bind_off_times` int(4) DEFAULT NULL,
+  `use_restrictions` int(4) DEFAULT NULL,
+  `sales_representative_category` int(4) DEFAULT NULL,
+  `skill` int(4) DEFAULT NULL,
+  `ignore_levels_drop_during_inspection` int(4) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 DROP TABLE IF EXISTS `mobs`;
 CREATE TABLE `mobs` (
@@ -122,8 +145,6 @@ CREATE TABLE `skills` (
   PRIMARY KEY (`skill_id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-insert  into `skills`(`skill_id`,`usable_class_str`,`max_level`,`cast_time`,`wait`,`cond_rate`,`weapon_str`) values (131071,'wizard',1,0,0,100,NULL);
-
 DROP TABLE IF EXISTS `skills_level`;
 CREATE TABLE `skills_level` (
   `skill_id` int(8) NOT NULL,
@@ -135,4 +156,15 @@ CREATE TABLE `skills_level` (
   `after_casting` int(8) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
-insert  into `skills_level`(`skill_id`,`level`,`min_attack_power`,`max_attack_power`,`attack_power_rate`,`action_range`,`after_casting`) values (131071,1,516,516,0,0,0);
+DROP TABLE IF EXISTS `skills_panel`;
+CREATE TABLE `skills_panel` (
+  `char_id` int(8) NOT NULL DEFAULT '0',
+  `active` int(8) NOT NULL DEFAULT '0',
+  `num_panel` int(4) NOT NULL DEFAULT '0',
+  `slot` int(2) NOT NULL DEFAULT '0',
+  `unk1` int(2) NOT NULL DEFAULT '0',
+  `unk2` int(8) NOT NULL DEFAULT '0',
+  `skill_id` int(8) NOT NULL DEFAULT '0',
+  `unk3` int(8) NOT NULL DEFAULT '0',
+  `unk4` int(8) NOT NULL DEFAULT '0'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;

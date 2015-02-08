@@ -22,6 +22,7 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 	send->player->pck = new PACKET(send->player->socket, &send->player->character, (DATABASE*)send->sys.mysql, send->sys.fg, &send->player->ping_time);
 	PACKET* pck = (PACKET*)send->player->pck;
 	mychar->id = 0;
+	mychar->target_id = -1;
 	mychar->status = STATUS_NONE;
 	mychar->action = ACTION_NONE;
 	mychar->ingame = false;
@@ -52,7 +53,7 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 						break;
 					}
 
-					// DEBUG
+					/*// DEBUG
 					char bindbg[2];
 					memset(bindbg, 0, 2);
 
@@ -75,7 +76,7 @@ DWORD WINAPI WinSockThread(LPVOID Param)
 						lg::Notify(fg, "%02x", (uint8)fordebug[i]);
 
 					lg::Notify(fg, "\n");
-					// --DEBUG
+					// --DEBUG*/
 
 					OPCODES::opcodes(pck, fg);
 				} while (pck->NextPacket());
@@ -286,9 +287,9 @@ int _tmain(int argc, _TCHAR* argv[])
 	COLOR_GL
 	lg::Notify(fg, "\n");
 	lg::Notify(fg, "#################################\n");
-	lg::Notify(fg, "# Game Server v0.04             #\n");
+	lg::Notify(fg, "# Game Server v0.05             #\n");
 	lg::Notify(fg, "# Client version: 1.5.73        #\n");
-	lg::Notify(fg, "# Client time: 2015-01-27 16:28 #\n");
+	lg::Notify(fg, "# Client time: 2015-02-02 17:26 #\n");
 	lg::Notify(fg, "#################################\n\n");
 	
 	///////////////////////////////////////////////////////////////

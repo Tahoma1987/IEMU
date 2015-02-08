@@ -1,0 +1,846 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korea_korean -->
+<!-- china_chinese -->
+<!-- america_english -->
+<blocks>
+	<keys num_keys="4" key1="key" key2="korea_korean" key3="china_chinese" key4="america_english" />
+	<block key="E_01_0_0001_0000_Name" korea_korean="Rhino Guard" />
+	<block key="E_01_0_0001_0000_NameDetail" korea_korean="" />
+	<block key="E_01_0_0002_0000_Name" korea_korean="Rhino боевой" />
+	<block key="E_01_0_0002_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0007_0000_Name" korea_korean="Серый Волк" />
+	<block key="E_02_1_0007_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0007_0001_Name" korea_korean="Дикий серый волк" />
+	<block key="E_02_1_0007_0001_NameDetail" korea_korean="" />
+	<block key="E_02_1_0007_0002_Name" korea_korean="Дикий серый волк" />
+	<block key="E_02_1_0007_0002_NameDetail" korea_korean="" />
+	<block key="E_02_4_0008_0000_Name" korea_korean="Дриада" />
+	<block key="E_02_4_0008_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0010_0000_Name" korea_korean="Mane Кабан" />
+	<block key="E_02_1_0010_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0010_0001_Name" korea_korean="Mane Кабан" />
+	<block key="E_02_1_0010_0001_NameDetail" korea_korean="" />
+	<block key="E_02_1_0011_0000_Name" korea_korean="Дикий кабан молоть" />
+	<block key="E_02_1_0011_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0011_0001_Name" korea_korean="Дикий кабан молоть" />
+	<block key="E_02_1_0011_0001_NameDetail" korea_korean="" />
+	<block key="E_02_1_0011_0002_Name" korea_korean="Молярная кабан" />
+	<block key="E_02_1_0011_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0012_0000_Name" korea_korean="Brage Scout" />
+	<block key="E_02_0_0012_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0016_0000_Name" korea_korean="Brage работники" />
+	<block key="E_02_0_0016_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0017_0000_Name" korea_korean="Brage боевой" />
+	<block key="E_02_0_0017_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0018_0000_Name" korea_korean="Brage охотник" />
+	<block key="E_02_0_0018_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0021_0000_Name" korea_korean="Brage Xiamen" />
+	<block key="E_02_0_0021_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0030_0000_Name" korea_korean="Кабан" />
+	<block key="E_02_1_0030_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0001_0000_Name" korea_korean="Yeti воины" />
+	<block key="E_51_0_0001_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0002_0000_Name" korea_korean="Yeti Шаман" />
+	<block key="E_51_0_0002_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0013_0000_Name" korea_korean="Yeti охотников" />
+	<block key="E_51_0_0013_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0019_0000_Name" korea_korean="Yeti толстой кишки Сантин" />
+	<block key="E_51_0_0019_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0032_0000_Name" korea_korean="Brage Beast Trainer" />
+	<block key="E_02_0_0032_0000_NameDetail" korea_korean="" />
+	<block key="E_01_0_0007_0000_Name" korea_korean="Rhino Guard" />
+	<block key="E_01_0_0007_0000_NameDetail" korea_korean="" />
+	<block key="E_01_0_0008_0000_Name" korea_korean="Rhino Guard" />
+	<block key="E_01_0_0008_0000_NameDetail" korea_korean="" />
+	<block key="E_01_0_0009_0000_Name" korea_korean="Rhino боевой" />
+	<block key="E_01_0_0009_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0020_0000_Name" korea_korean="Yeti охотников" />
+	<block key="E_51_0_0020_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0015_0000_Name" korea_korean="Yeti воины" />
+	<block key="E_51_0_0015_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0016_0000_Name" korea_korean="Yeti Шаман" />
+	<block key="E_51_0_0016_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0036_0000_Name" korea_korean="Brage работники" />
+	<block key="E_02_0_0036_0000_NameDetail" korea_korean="" />
+	<block key="E_51_5_0001_0000_Name" korea_korean="Мангал" />
+	<block key="E_51_5_0001_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0037_0000_Name" korea_korean="Brage работники" />
+	<block key="E_02_0_0037_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0040_0000_Name" korea_korean="Brage хищных воин" />
+	<block key="E_02_0_0040_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0041_0000_Name" korea_korean="Brage Xiamen" />
+	<block key="E_02_0_0041_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0042_0000_Name" korea_korean="Brage ветераны домой" />
+	<block key="E_02_0_0042_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0043_0000_Name" korea_korean="Brage работники" />
+	<block key="E_02_0_0043_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0044_0000_Name" korea_korean="Brage работники" />
+	<block key="E_02_0_0044_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0045_0000_Name" korea_korean="Brage работники" />
+	<block key="E_02_0_0045_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0046_0000_Name" korea_korean="Brage боевой" />
+	<block key="E_02_0_0046_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0016_0001_Name" korea_korean="Brage работники" />
+	<block key="E_02_0_0016_0001_NameDetail" korea_korean="" />
+	<block key="E_01_4_0637_0000_Name" korea_korean="Голова в Rex" />
+	<block key="E_01_4_0637_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_1022_0000_Name" korea_korean="Brage руководитель" />
+	<block key="E_02_0_1022_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0644_0000_Name" korea_korean="Древние руины призрак" />
+	<block key="E_02_0_0644_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0012_0001_Name" korea_korean="Brage Scout" />
+	<block key="E_02_0_0012_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0661_0000_Name" korea_korean="Brage способствует проникновению" />
+	<block key="E_02_0_0661_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0017_0002_Name" korea_korean="Brage боевой" />
+	<block key="E_02_0_0017_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0653_0000_Name" korea_korean="Поглощение секунд" />
+	<block key="E_02_0_0653_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0654_0000_Name" korea_korean="Шин дриада" />
+	<block key="E_02_0_0654_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0654_0001_Name" korea_korean="Шин дриада" />
+	<block key="E_02_0_0654_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0655_0000_Name" korea_korean="Королева фей elkwineseu" />
+	<block key="E_02_0_0655_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0656_0000_Name" korea_korean="Святой администратор призрак" />
+	<block key="E_02_0_0656_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0657_0000_Name" korea_korean="Brage собраны пьющих" />
+	<block key="E_02_0_0657_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0658_0000_Name" korea_korean="Brage боевые войска домой" />
+	<block key="E_02_0_0658_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0658_0001_Name" korea_korean="Brage боевые войска домой" />
+	<block key="E_02_0_0658_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0659_0000_Name" korea_korean="Brage руководители" />
+	<block key="E_02_0_0659_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0660_0000_Name" korea_korean="Дух холодной кристалла" />
+	<block key="E_02_0_0660_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0007_0003_Name" korea_korean="Серые сайты волк" />
+	<block key="E_02_1_0007_0003_NameDetail" korea_korean="" />
+	<block key="E_02_0_0021_0001_Name" korea_korean="Brage Xiamen" />
+	<block key="E_02_0_0021_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0661_0001_Name" korea_korean="Brage болезнь проникновение" />
+	<block key="E_02_0_0661_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0662_0000_Name" korea_korean="Brage собраны пьющих" />
+	<block key="E_02_0_0662_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0344_0000_Name" korea_korean="Исторический Red Fox" />
+	<block key="E_02_1_0344_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0033_0001_Name" korea_korean="Brage работники" />
+	<block key="E_02_0_0033_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0036_0001_Name" korea_korean="Brage работники" />
+	<block key="E_02_0_0036_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0037_0001_Name" korea_korean="Brage работники" />
+	<block key="E_02_0_0037_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0045_0001_Name" korea_korean="Brage работники" />
+	<block key="E_02_0_0045_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0607_0000_Name" korea_korean="Молодой кабан" />
+	<block key="E_02_0_0607_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0012_0002_Name" korea_korean="Brage Scout" />
+	<block key="E_02_0_0012_0002_NameDetail" korea_korean="" />
+	<block key="E_02_5_0001_0002_Name" korea_korean="Brage арбалет" />
+	<block key="E_02_5_0001_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0043_0001_Name" korea_korean="Brage арбалет бутылка ремонт" />
+	<block key="E_02_0_0043_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0654_0002_Name" korea_korean="Дикий дриада" />
+	<block key="E_02_0_0654_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0045_0002_Name" korea_korean="Браге домашние работники" />
+	<block key="E_02_0_0045_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0662_0001_Name" korea_korean="Brage собраны пьющих" />
+	<block key="E_02_0_0662_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0044_0001_Name" korea_korean="Браге домашние работники" />
+	<block key="E_02_0_0044_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0043_0002_Name" korea_korean="Браге домашние работники" />
+	<block key="E_02_0_0043_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0658_0002_Name" korea_korean="Brage Паладин бутылка" />
+	<block key="E_02_0_0658_0002_NameDetail" korea_korean="" />
+	<block key="E_50_0_0666_0000_Name" korea_korean="Тлеющий скелет солдата" />
+	<block key="E_50_0_0666_0000_NameDetail" korea_korean="" />
+	<block key="E_50_0_0666_0001_Name" korea_korean="Тлеющий скелет солдата" />
+	<block key="E_50_0_0666_0001_NameDetail" korea_korean="" />
+	<block key="E_50_0_0667_0000_Name" korea_korean="Тлеющий череп рыцарь" />
+	<block key="E_50_0_0667_0000_NameDetail" korea_korean="" />
+	<block key="E_50_0_0667_0001_Name" korea_korean="Тлеющий череп рыцарь" />
+	<block key="E_50_0_0667_0001_NameDetail" korea_korean="" />
+	<block key="E_50_0_0718_0000_Name" korea_korean="Сурин bulgiun призрак" />
+	<block key="E_50_0_0718_0000_NameDetail" korea_korean="" />
+	<block key="E_50_0_0613_0000_Name" korea_korean="Огонь Рок Guard" />
+	<block key="E_50_0_0613_0000_NameDetail" korea_korean="" />
+	<block key="E_50_0_0650_0000_Name" korea_korean="Зажигательную бомбу Скалы" />
+	<block key="E_50_0_0650_0000_NameDetail" korea_korean="" />
+	<block key="E_50_0_0648_0000_Name" korea_korean="Древний Огонь Голем" />
+	<block key="E_50_0_0648_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0344_0001_Name" korea_korean="Red Fox" />
+	<block key="E_02_1_0344_0001_NameDetail" korea_korean="" />
+	<block key="E_02_0_0309_0000_Name" korea_korean="Человек, питающихся волк фриттиванного шаха" />
+	<block key="E_02_0_0309_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0309_0001_Name" korea_korean="Женский профиль Ниша" />
+	<block key="E_02_0_0309_0001_NameDetail" korea_korean="Волки босс" />
+	<block key="E_02_0_0309_0002_Name" korea_korean="Серый волк голова" />
+	<block key="E_02_0_0309_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0676_0000_Name" korea_korean="Призрак паук" />
+	<block key="E_02_0_0676_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0676_0001_Name" korea_korean="Гигантский паук taseulran" />
+	<block key="E_02_0_0676_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0676_0000_Name" korea_korean="Серый паук" />
+	<block key="E_03_0_0676_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0000_Name" korea_korean="Северный олень" />
+	<block key="E_03_0_0671_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0000_Name" korea_korean="Голодный медведь" />
+	<block key="E_03_0_0083_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0001_Name" korea_korean="Правда главный Tan" />
+	<block key="E_03_0_0083_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0000_Name" korea_korean="Травмированный серый волк" />
+	<block key="E_03_0_0309_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0001_Name" korea_korean="Тени тьмы Wolf" />
+	<block key="E_03_0_0309_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0002_Name" korea_korean="Резкие тени Penrith" />
+	<block key="E_03_0_0309_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0000_Name" korea_korean="Оборотень вариант (мужчины)" />
+	<block key="E_03_0_0700_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0702_0000_Name" korea_korean="Оборотень вариант (женщины)" />
+	<block key="E_03_0_0702_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0001_Name" korea_korean="Оборотень рейдеры" />
+	<block key="E_03_0_0700_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0702_0001_Name" korea_korean="Оборотень Убийца" />
+	<block key="E_03_0_0702_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0002_Name" korea_korean="Оборотень Охотник" />
+	<block key="E_03_0_0700_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0701_0000_Name" korea_korean="Капитан Джек Хантер" />
+	<block key="E_03_0_0701_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0003_Name" korea_korean="Свежие черные тени собаки" />
+	<block key="E_03_0_0309_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0004_Name" korea_korean="Отражение Fear Wolf" />
+	<block key="E_03_0_0309_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0606_0000_Name" korea_korean="Большой копытных кабан" />
+	<block key="E_03_0_0606_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0001_Name" korea_korean="Изменить оленьи рога" />
+	<block key="E_03_0_0671_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0005_Name" korea_korean="Укусы Shadow Wolf" />
+	<block key="E_03_0_0309_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0694_0000_Name" korea_korean="Винни племя, называемое воровство в магазинах" />
+	<block key="E_03_0_0694_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0000_Name" korea_korean="Пчела" />
+	<block key="E_03_0_0682_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0001_Name" korea_korean="Бутылка завоевание" />
+	<block key="E_03_0_0682_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0115_0000_Name" korea_korean="Hama лягушка" />
+	<block key="E_03_0_0115_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0000_Name" korea_korean="Черная корова" />
+	<block key="E_03_0_0672_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0002_Name" korea_korean="Дикий бурый медведь" />
+	<block key="E_03_0_0083_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0606_0001_Name" korea_korean="Большой кабан" />
+	<block key="E_03_0_0606_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0041_0000_Name" korea_korean="Пеликан большой рот" />
+	<block key="E_03_0_0041_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0245_0000_Name" korea_korean="Черная пантера" />
+	<block key="E_03_0_0245_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0245_0001_Name" korea_korean="Eyed ча-чи" />
+	<block key="E_03_0_0245_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0000_Name" korea_korean="Вампиры были фермер" />
+	<block key="E_03_0_0900_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0910_0000_Name" korea_korean="Она вампир" />
+	<block key="E_03_0_0910_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0001_Name" korea_korean="Vampire Генеральный инспектор Гектор Уилкинсон" />
+	<block key="E_03_0_0900_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0001_Name" korea_korean="Бешеный Буффало" />
+	<block key="E_03_0_0672_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_1010_0000_Name" korea_korean="Scout пьющие" />
+	<block key="E_03_0_1010_0000_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_1000_0000_Name" korea_korean="Commando" />
+	<block key="E_03_0_1000_0000_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_1010_0001_Name" korea_korean="Ключ Джейсон Клермон" />
+	<block key="E_03_0_1010_0001_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_0682_0002_Name" korea_korean="Тыквенные осы" />
+	<block key="E_03_0_0682_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0003_Name" korea_korean="Солдаты тыквы ос" />
+	<block key="E_03_0_0682_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0004_Name" korea_korean="Тыква Queen Wasp kwinbi" />
+	<block key="E_03_0_0682_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0694_0001_Name" korea_korean="Винни племя воров" />
+	<block key="E_03_0_0694_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0002_Name" korea_korean="Охранники вампира" />
+	<block key="E_03_0_0900_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0910_0001_Name" korea_korean="Горничные вампира" />
+	<block key="E_03_0_0910_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0711_0000_Name" korea_korean="Полтергейст" />
+	<block key="E_03_0_0711_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0003_Name" korea_korean="Ram Батлер beurandeu" />
+	<block key="E_03_0_0900_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0902_0000_Name" korea_korean="Шеф-повар Порыв" />
+	<block key="E_03_0_0902_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0714_0000_Name" korea_korean="Графиня Лиза Карл Reang" />
+	<block key="E_03_0_0714_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0004_Name" korea_korean="Граф Карл Reang" />
+	<block key="E_03_0_0900_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_1000_0001_Name" korea_korean="Нападение бутылка" />
+	<block key="E_03_0_1000_0001_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_1000_0002_Name" korea_korean="Тренеры" />
+	<block key="E_03_0_1000_0002_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_0309_0006_Name" korea_korean="Одомашненных волков" />
+	<block key="E_03_0_0309_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_1010_0002_Name" korea_korean="Наблюдатель" />
+	<block key="E_03_0_1010_0002_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_1001_0000_Name" korea_korean="Ключ dolmeori Клее" />
+	<block key="E_03_0_1001_0000_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_1001_0001_Name" korea_korean="Тони Клегг Key" />
+	<block key="E_03_0_1001_0001_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_0614_0000_Name" korea_korean="Yeti боец" />
+	<block key="E_03_0_0614_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0616_0000_Name" korea_korean="Yeti разведывательная группа" />
+	<block key="E_03_0_0616_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0615_0000_Name" korea_korean="Yeti Шаман" />
+	<block key="E_03_0_0615_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0611_0000_Name" korea_korean="Мороз паук" />
+	<block key="E_03_0_0611_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0695_0000_Name" korea_korean="Распаденное зомби" />
+	<block key="E_03_0_0695_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0695_0001_Name" korea_korean="Еда ожог тела" />
+	<block key="E_03_0_0695_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0676_0001_Name" korea_korean="Паук тело" />
+	<block key="E_03_0_0676_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0718_0000_Name" korea_korean="Горничные Высшего Короля" />
+	<block key="E_03_0_0718_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0718_0001_Name" korea_korean="Любовник Лина" />
+	<block key="E_03_0_0718_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_1100_0000_Name" korea_korean="Малый подрядчики Demon" />
+	<block key="E_03_0_1100_0000_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_03_0_0720_0000_Name" korea_korean="Imp тьмы" />
+	<block key="E_03_0_0720_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_1110_0000_Name" korea_korean="Камилла священник свежей крови" />
+	<block key="E_03_0_1110_0000_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_03_0_0666_0000_Name" korea_korean="Скелет Паладин" />
+	<block key="E_03_0_0666_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0666_0001_Name" korea_korean="SS череп глава ahsyuram" />
+	<block key="E_03_0_0666_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0722_0000_Name" korea_korean="Она сказала, Великий Хан" />
+	<block key="E_03_0_0722_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0696_0000_Name" korea_korean="Для молодых" />
+	<block key="E_03_0_0696_0000_NameDetail" korea_korean="Огонь ryongjok" />
+	<block key="E_03_0_1010_0003_Name" korea_korean="Пиргос посыльного больше грабители" />
+	<block key="E_03_0_1010_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_1000_0003_Name" korea_korean="Пиргос больше грабители напали на спортсмена" />
+	<block key="E_03_0_1000_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_1010_0004_Name" korea_korean="Pokpabyeong" />
+	<block key="E_03_0_1010_0004_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_1000_0004_Name" korea_korean="Стрелялки" />
+	<block key="E_03_0_1000_0004_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_1000_0005_Name" korea_korean="Высшее терапевт" />
+	<block key="E_03_0_1000_0005_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_1002_0000_Name" korea_korean="Вместо того, чтобы безжалостной Зары" />
+	<block key="E_03_0_1002_0000_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_1300_0000_Name" korea_korean="Кара-де-Pirate yeonrakbyeong" />
+	<block key="E_03_0_1300_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0676_0002_Name" korea_korean="Тарантул сайты" />
+	<block key="E_02_0_0676_0002_NameDetail" korea_korean="" />
+	<block key="E_01_5_0001_0000_Name" korea_korean="Голова в доминировали мест" />
+	<block key="E_01_5_0001_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0606_0000_Name" korea_korean="Злой молярная кабан" />
+	<block key="E_02_1_0606_0000_NameDetail" korea_korean="" />
+	<block key="E_02_1_0344_0002_Name" korea_korean="Злой Red Fox" />
+	<block key="E_02_1_0344_0002_NameDetail" korea_korean="" />
+	<block key="E_02_0_0718_0000_Name" korea_korean="Призрак древний религиозный" />
+	<block key="E_02_0_0718_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0013_0001_Name" korea_korean="Sparkly Дерево Wisp" />
+	<block key="E_02_0_0013_0001_NameDetail" korea_korean="" />
+	<block key="E_50_0_0667_0002_Name" korea_korean="Тлеющий Череп рыцаря-командующего" />
+	<block key="E_50_0_0667_0002_NameDetail" korea_korean="" />
+	<block key="E_50_0_0666_0003_Name" korea_korean="Спящая Скелет солдата" />
+	<block key="E_50_0_0666_0003_NameDetail" korea_korean="" />
+	<block key="E_01_0_0245_0000_Name" korea_korean="Лев" />
+	<block key="E_01_0_0245_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0697_0000_Name" korea_korean="Mori четыре озера Агура" />
+	<block key="E_03_0_0697_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0676_0002_Name" korea_korean="Дикий волосатые паук" />
+	<block key="E_03_0_0676_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0002_Name" korea_korean="Белый грива оленей" />
+	<block key="E_03_0_0671_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0003_Name" korea_korean="Бурый медведь" />
+	<block key="E_03_0_0083_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0007_Name" korea_korean="Серый Волк Mountain Surf" />
+	<block key="E_03_0_0309_0007_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0003_Name" korea_korean="Изменить оленьи рога" />
+	<block key="E_03_0_0671_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0005_Name" korea_korean="Дикий шмель" />
+	<block key="E_03_0_0682_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0013_0000_Name" korea_korean="Голубой огонек" />
+	<block key="E_03_0_0013_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0002_Name" korea_korean="Шаг бизон" />
+	<block key="E_03_0_0672_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0006_Name" korea_korean="Солдаты Шмель" />
+	<block key="E_03_0_0682_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0003_Name" korea_korean="Широкий сделал корова" />
+	<block key="E_03_0_0672_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0692_0000_Name" korea_korean="Мори четыре озера Черепахи" />
+	<block key="E_03_0_0692_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0344_0000_Name" korea_korean="Темно-красная лисица" />
+	<block key="E_03_0_0344_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0000_Name" korea_korean="Yulmogi" />
+	<block key="E_03_0_0687_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0245_0002_Name" korea_korean="Большой черный Panther" />
+	<block key="E_03_0_0245_0002_NameDetail" korea_korean="" />
+	<block key="E_51_0_1201_0000_Name" korea_korean="Замороженные зомби" />
+	<block key="E_51_0_1201_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_1210_0000_Name" korea_korean="Замороженные зомби" />
+	<block key="E_51_0_1210_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0611_0000_Name" korea_korean="Мороз паук" />
+	<block key="E_51_0_0611_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0616_0000_Name" korea_korean="Yeti Паук Тренеры" />
+	<block key="E_51_0_0616_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0003_Name" korea_korean="Джефф Янг Мок" />
+	<block key="E_03_0_0700_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0692_0001_Name" korea_korean="Владелец озера Келл Габороне (гигантская черепаха)" />
+	<block key="E_03_0_0692_0001_NameDetail" korea_korean="" />
+	<block key="E_51_0_0019_0001_Name" korea_korean="Yeti толстой кишки Сантин" />
+	<block key="E_51_0_0019_0001_NameDetail" korea_korean="" />
+	<block key="E_51_0_1500_0000_Name" korea_korean="Dark Summoner" />
+	<block key="E_51_0_1500_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0004_Name" korea_korean="Северный олень" />
+	<block key="E_03_0_0671_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0005_Name" korea_korean="Белый грива оленей" />
+	<block key="E_03_0_0671_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0006_Name" korea_korean="Северный олень" />
+	<block key="E_03_0_0671_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0004_Name" korea_korean="Голодный медведь" />
+	<block key="E_03_0_0083_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0005_Name" korea_korean="Бурый медведь" />
+	<block key="E_03_0_0083_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0008_Name" korea_korean="Травмированный серый волк" />
+	<block key="E_03_0_0309_0008_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0009_Name" korea_korean="Тени тьмы Wolf" />
+	<block key="E_03_0_0309_0009_NameDetail" korea_korean="" />
+	<block key="E_03_0_0694_0002_Name" korea_korean="Сила La шапочка семья" />
+	<block key="E_03_0_0694_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0694_0003_Name" korea_korean="La шапочка семья nalgangdo" />
+	<block key="E_03_0_0694_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0694_0004_Name" korea_korean="Леви wangdoduk Город" />
+	<block key="E_03_0_0694_0004_NameDetail" korea_korean="" />
+	<block key="E_52_0_0900_0000_Name" korea_korean="Vampire гвардейцы" />
+	<block key="E_52_0_0900_0000_NameDetail" korea_korean="" />
+	<block key="E_52_0_0910_0000_Name" korea_korean="Горничные, жаждущие крови" />
+	<block key="E_52_0_0910_0000_NameDetail" korea_korean="" />
+	<block key="E_52_0_0900_0001_Name" korea_korean="Vampire поощрять расходы" />
+	<block key="E_52_0_0900_0001_NameDetail" korea_korean="" />
+	<block key="E_52_0_1100_0000_Name" korea_korean="Mystic Проклятие" />
+	<block key="E_52_0_1100_0000_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_03_0_0700_0004_Name" korea_korean="Оборотень варианты" />
+	<block key="E_03_0_0700_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0010_Name" korea_korean="Тень Hound" />
+	<block key="E_03_0_0309_0010_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0005_Name" korea_korean="Оборотень Охотник" />
+	<block key="E_03_0_0700_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0309_0011_Name" korea_korean="Тени тьмы Wolf" />
+	<block key="E_03_0_0309_0011_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0007_Name" korea_korean="Изменить оленьи рога" />
+	<block key="E_03_0_0671_0007_NameDetail" korea_korean="" />
+	<block key="E_03_0_0671_0008_Name" korea_korean="Изменить оленьи рога" />
+	<block key="E_03_0_0671_0008_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0001_Name" korea_korean="Молодая Hydrus" />
+	<block key="E_03_0_0687_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0002_Name" korea_korean="Вода мокасины" />
+	<block key="E_03_0_0687_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0013_0001_Name" korea_korean="Голубой огонек" />
+	<block key="E_03_0_0013_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0005_Name" korea_korean="Молодой человек вампир" />
+	<block key="E_03_0_0900_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0006_Name" korea_korean="Вампиры были фермер" />
+	<block key="E_03_0_0900_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0910_0002_Name" korea_korean="Она вампир" />
+	<block key="E_03_0_0910_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0910_0003_Name" korea_korean="Вампир" />
+	<block key="E_03_0_0910_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_1000_0006_Name" korea_korean="Пиргос грабители больше истребителей" />
+	<block key="E_03_0_1000_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0007_Name" korea_korean="Вампира тяжелые бутылки" />
+	<block key="E_03_0_0900_0007_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0008_Name" korea_korean="Вампир служащий" />
+	<block key="E_03_0_0900_0008_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0009_Name" korea_korean="Вампира тяжелые бутылки" />
+	<block key="E_03_0_0900_0009_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0010_Name" korea_korean="Охранники вампира" />
+	<block key="E_03_0_0900_0010_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0011_Name" korea_korean="Vampire вратарь Марлон" />
+	<block key="E_03_0_0900_0011_NameDetail" korea_korean="" />
+	<block key="E_03_0_0611_0001_Name" korea_korean="Мороз паук" />
+	<block key="E_03_0_0611_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_1000_0007_Name" korea_korean="Gungbyeong" />
+	<block key="E_03_0_1000_0007_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_1000_0008_Name" korea_korean="Терапевт" />
+	<block key="E_03_0_1000_0008_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_0671_0009_Name" korea_korean="Основные изменения оленьи рога" />
+	<block key="E_03_0_0671_0009_NameDetail" korea_korean="" />
+	<block key="E_03_5_0001_0000_Name" korea_korean="Сияющий Дерево" />
+	<block key="E_03_5_0001_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0003_Name" korea_korean="Зеленый змий" />
+	<block key="E_03_0_0687_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0004_Name" korea_korean="Змеи" />
+	<block key="E_03_0_0687_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0005_Name" korea_korean="Вода мокасины" />
+	<block key="E_03_0_0687_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0006_Name" korea_korean="Змеи Venom" />
+	<block key="E_03_0_0687_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0687_0007_Name" korea_korean="Змеи Venom" />
+	<block key="E_03_0_0687_0007_NameDetail" korea_korean="" />
+	<block key="E_03_0_0344_0001_Name" korea_korean="Темно-красная лисица" />
+	<block key="E_03_0_0344_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0245_0003_Name" korea_korean="Длинные Клыки Черная пантера" />
+	<block key="E_03_0_0245_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0245_0004_Name" korea_korean="Длинные Клыки Черная пантера" />
+	<block key="E_03_0_0245_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0004_Name" korea_korean="Стать дикий бык" />
+	<block key="E_03_0_0672_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0005_Name" korea_korean="Стать дикий бык" />
+	<block key="E_03_0_0672_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0006_Name" korea_korean="Оборотень Охотник" />
+	<block key="E_03_0_0700_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0702_0002_Name" korea_korean="Оборотень Убийца" />
+	<block key="E_03_0_0702_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0700_0007_Name" korea_korean="Оборотень рейдеры" />
+	<block key="E_03_0_0700_0007_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0012_Name" korea_korean="Молодой человек вампир" />
+	<block key="E_03_0_0900_0012_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0013_Name" korea_korean="Вампиры были фермер" />
+	<block key="E_03_0_0900_0013_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0014_Name" korea_korean="Вампиры были фермер" />
+	<block key="E_03_0_0900_0014_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0015_Name" korea_korean="Загрузка вампира Генерального инспектора" />
+	<block key="E_03_0_0900_0015_NameDetail" korea_korean="" />
+	<block key="E_03_0_0900_0016_Name" korea_korean="Охранники вампира" />
+	<block key="E_03_0_0900_0016_NameDetail" korea_korean="" />
+	<block key="E_03_0_0666_0002_Name" korea_korean="Скелет Паладин" />
+	<block key="E_03_0_0666_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_1100_0001_Name" korea_korean="Исполнитель" />
+	<block key="E_03_0_1100_0001_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_03_0_0695_0002_Name" korea_korean="Распаденное зомби Шаман" />
+	<block key="E_03_0_0695_0002_NameDetail" korea_korean="" />
+	<block key="E_51_0_0013_0001_Name" korea_korean="Трус Yeti" />
+	<block key="E_51_0_0013_0001_NameDetail" korea_korean="" />
+	<block key="E_51_0_0019_0002_Name" korea_korean="Yeti толстой кишки Сантин" />
+	<block key="E_51_0_0019_0002_NameDetail" korea_korean="" />
+	<block key="E_51_0_0015_0001_Name" korea_korean="Yeti воины" />
+	<block key="E_51_0_0015_0001_NameDetail" korea_korean="" />
+	<block key="E_52_0_0910_0001_Name" korea_korean="Флокирование жаждут крови" />
+	<block key="E_52_0_0910_0001_NameDetail" korea_korean="" />
+	<block key="E_52_0_0900_0002_Name" korea_korean="Vampire Страж" />
+	<block key="E_52_0_0900_0002_NameDetail" korea_korean="" />
+	<block key="E_52_0_1100_0001_Name" korea_korean="Проклятие совет" />
+	<block key="E_52_0_1100_0001_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_52_0_0900_0003_Name" korea_korean="Vampire старший охранник" />
+	<block key="E_52_0_0900_0003_NameDetail" korea_korean="" />
+	<block key="E_00_0_0686_0000_Name" korea_korean="Орел" />
+	<block key="E_00_0_0686_0000_NameDetail" korea_korean="" />
+	<block key="E_00_0_0083_0000_Name" korea_korean="Медведь" />
+	<block key="E_00_0_0083_0000_NameDetail" korea_korean="" />
+	<block key="E_00_0_0602_0000_Name" korea_korean="Brage Scout" />
+	<block key="E_00_0_0602_0000_NameDetail" korea_korean="" />
+	<block key="E_00_0_0704_0000_Name" korea_korean="Firebird" />
+	<block key="E_00_0_0704_0000_NameDetail" korea_korean="" />
+	<block key="E_00_0_0245_0000_Name" korea_korean="Лев" />
+	<block key="E_00_0_0245_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_1210_0001_Name" korea_korean="Распаденное зомби девушка" />
+	<block key="E_03_0_1210_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_1210_0002_Name" korea_korean="Еда ожог тела" />
+	<block key="E_03_0_1210_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0006_Name" korea_korean="Три пальца ноги черный медведь" />
+	<block key="E_03_0_0083_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_0083_0007_Name" korea_korean="Три пальца ноги черный медведь" />
+	<block key="E_03_0_0083_0007_NameDetail" korea_korean="" />
+	<block key="E_04_0_0309_0000_Name" korea_korean="Сообразительные синий волк" />
+	<block key="E_04_0_0309_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0309_0001_Name" korea_korean="Wild Blue Wolf" />
+	<block key="E_04_0_0309_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0309_0002_Name" korea_korean="Король Волков Шака-ла-" />
+	<block key="E_04_0_0309_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_0691_0000_Name" korea_korean="Turtle Rock" />
+	<block key="E_04_0_0691_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0691_0001_Name" korea_korean="Старый monggeu monggeu" />
+	<block key="E_04_0_0691_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0041_0000_Name" korea_korean="Песчаный берег Пеликан" />
+	<block key="E_04_0_0041_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0678_0000_Name" korea_korean="Песок щит" />
+	<block key="E_04_0_0678_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1300_0000_Name" korea_korean="Кара-де-пират матрос" />
+	<block key="E_04_0_1300_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1300_0001_Name" korea_korean="Кара-де-Pirate Mate" />
+	<block key="E_04_0_1300_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_1302_0000_Name" korea_korean="Кара-де-Pirate Treasure Watcher" />
+	<block key="E_04_0_1302_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1300_0002_Name" korea_korean="Cara-де-Pirate Сторожевая башня бутылка" />
+	<block key="E_04_0_1300_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_1300_0003_Name" korea_korean="Кара-де-Pirate старший бутылка Сторожевая башня" />
+	<block key="E_04_0_1300_0003_NameDetail" korea_korean="" />
+	<block key="E_04_0_1310_0000_Name" korea_korean="Кара-де-Pirate Swashbuckler" />
+	<block key="E_04_0_1310_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1310_0001_Name" korea_korean="Кара-де-Pirate Сорвиголова выше" />
+	<block key="E_04_0_1310_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_1310_0002_Name" korea_korean="Cara-де-пиратские патрулирование" />
+	<block key="E_04_0_1310_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_1310_0003_Name" korea_korean="Кара-де-Pirate старший егерь" />
+	<block key="E_04_0_1310_0003_NameDetail" korea_korean="" />
+	<block key="E_04_0_1301_0000_Name" korea_korean="Кара-де-пират осьминога тренер" />
+	<block key="E_04_0_1301_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0677_0000_Name" korea_korean="Рок осьминог" />
+	<block key="E_04_0_0677_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0180_0000_Name" korea_korean="Криль карликовые пираты" />
+	<block key="E_04_0_0180_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1302_0001_Name" korea_korean="Безжалостные висмута" />
+	<block key="E_04_0_1302_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_1300_0004_Name" korea_korean="Тщательный Бару это" />
+	<block key="E_04_0_1300_0004_NameDetail" korea_korean="" />
+	<block key="E_04_0_1300_0005_Name" korea_korean="Главный сотрудник Мерле лодка" />
+	<block key="E_04_0_1300_0005_NameDetail" korea_korean="" />
+	<block key="E_04_0_1301_0001_Name" korea_korean="Король пиратов в Карнаке" />
+	<block key="E_04_0_1301_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_1510_0000_Name" korea_korean="Мороз Мастер Голем" />
+	<block key="E_04_0_1510_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0691_0002_Name" korea_korean="Осенний Turtle Rock" />
+	<block key="E_04_0_0691_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_0041_0001_Name" korea_korean="Пеликан с длинным клювом" />
+	<block key="E_04_0_0041_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0041_0002_Name" korea_korean="Pelican стальная челюсть" />
+	<block key="E_04_0_0041_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_0041_0003_Name" korea_korean="Укусы клюва Перито" />
+	<block key="E_04_0_0041_0003_NameDetail" korea_korean="" />
+	<block key="E_04_0_0612_0000_Name" korea_korean="Безжалостный мороз Голем" />
+	<block key="E_04_0_0612_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0683_0000_Name" korea_korean="Mureo mijok Спирмена" />
+	<block key="E_04_0_0683_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0683_0001_Name" korea_korean="Mureo mijok gungbyeong" />
+	<block key="E_04_0_0683_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0684_0000_Name" korea_korean="Mureo боевой mijok" />
+	<block key="E_04_0_0684_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0684_0001_Name" korea_korean="Mureo mijok нападение бутылка" />
+	<block key="E_04_0_0684_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0683_0002_Name" korea_korean="Mureo mijok Священник" />
+	<block key="E_04_0_0683_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_0683_0003_Name" korea_korean="Gungbyeong Фосс и толстой кишки" />
+	<block key="E_04_0_0683_0003_NameDetail" korea_korean="" />
+	<block key="E_04_0_0685_0000_Name" korea_korean="Завоеватель сказал Mion" />
+	<block key="E_04_0_0685_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0683_0004_Name" korea_korean="Бернардо Первосвященник озера" />
+	<block key="E_04_0_0683_0004_NameDetail" korea_korean="" />
+	<block key="E_04_0_0685_0001_Name" korea_korean="Ker вождей на" />
+	<block key="E_04_0_0685_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0083_0000_Name" korea_korean="Свирепый гризли" />
+	<block key="E_04_0_0083_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0083_0001_Name" korea_korean="Дом стоит Уру" />
+	<block key="E_04_0_0083_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0245_0000_Name" korea_korean="Снег Tiger" />
+	<block key="E_04_0_0245_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0245_0001_Name" korea_korean="Ice Fang Крюгер" />
+	<block key="E_04_0_0245_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0697_0000_Name" korea_korean="Соль и песок Агура работники" />
+	<block key="E_04_0_0697_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0697_0001_Name" korea_korean="Соль и песок Агура охота спортсмен" />
+	<block key="E_04_0_0697_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0697_0002_Name" korea_korean="Соль и песок Агура боец" />
+	<block key="E_04_0_0697_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_0697_0003_Name" korea_korean="Соль и песок Агура Шаман" />
+	<block key="E_04_0_0697_0003_NameDetail" korea_korean="" />
+	<block key="E_04_0_0697_0004_Name" korea_korean="Mercure главный Глок" />
+	<block key="E_04_0_0697_0004_NameDetail" korea_korean="" />
+	<block key="E_04_0_0678_0001_Name" korea_korean="Краб нереста щит" />
+	<block key="E_04_0_0678_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0614_0000_Name" korea_korean="Yeti боец" />
+	<block key="E_04_0_0614_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0616_0000_Name" korea_korean="Yeti копья пьющие" />
+	<block key="E_04_0_0616_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0615_0000_Name" korea_korean="Yeti Шаман" />
+	<block key="E_04_0_0615_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0616_0001_Name" korea_korean="Yeti Beast Trainer" />
+	<block key="E_04_0_0616_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0245_0002_Name" korea_korean="Одомашненный тигр снег" />
+	<block key="E_04_0_0245_0002_NameDetail" korea_korean="" />
+	<block key="E_04_0_0615_0001_Name" korea_korean="Yeti Целитель" />
+	<block key="E_04_0_0615_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0621_0000_Name" korea_korean="Yeti проекция" />
+	<block key="E_04_0_0621_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0621_0001_Name" korea_korean="Ice кулак kuntin" />
+	<block key="E_04_0_0621_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0623_0000_Name" korea_korean="Avalanche подняться Сиракузы" />
+	<block key="E_04_0_0623_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1800_0000_Name" korea_korean="Мороз Wyvern" />
+	<block key="E_04_0_1800_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_1801_0000_Name" korea_korean="Ледяные Крылья страха" />
+	<block key="E_04_0_1801_0000_NameDetail" korea_korean="" />
+	<block key="E_02_0_0676_0003_Name" korea_korean="Молодые пауки" />
+	<block key="E_02_0_0676_0003_NameDetail" korea_korean="" />
+	<block key="E_02_0_0676_0004_Name" korea_korean="Молодые пауки taseulran" />
+	<block key="E_02_0_0676_0004_NameDetail" korea_korean="" />
+	<block key="E_51_0_0624_0000_Name" korea_korean="Кузнец Мату kontin" />
+	<block key="E_51_0_0624_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0622_0000_Name" korea_korean="Ahyiren холодно" />
+	<block key="E_51_0_0622_0000_NameDetail" korea_korean="" />
+	<block key="E_00_0_0605_0000_Name" korea_korean="Brage грабежи воинов (видео)" />
+	<block key="E_00_0_0605_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_0695_0000_Name" korea_korean="Ожившие подопытным зомби" />
+	<block key="E_53_0_0695_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_0666_0000_Name" korea_korean="Древний скелет солдата" />
+	<block key="E_53_0_0666_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_0666_0001_Name" korea_korean="Древний Скелет Лучник" />
+	<block key="E_53_0_0666_0001_NameDetail" korea_korean="" />
+	<block key="E_53_0_0667_0000_Name" korea_korean="Темной магии пребывает Скелет солдата" />
+	<block key="E_53_0_0667_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_0666_0002_Name" korea_korean="Череп темная магия живет Арчер" />
+	<block key="E_53_0_0666_0002_NameDetail" korea_korean="" />
+	<block key="E_53_0_1100_0000_Name" korea_korean="Некромант" />
+	<block key="E_53_0_1100_0000_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_53_0_0644_0000_Name" korea_korean="Древний жрец призрак" />
+	<block key="E_53_0_0644_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_0619_0000_Name" korea_korean="Проклятые доспехи гвардейцы" />
+	<block key="E_53_0_0619_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_1110_0000_Name" korea_korean="Камилла священник свежей крови" />
+	<block key="E_53_0_1110_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_0667_0001_Name" korea_korean="Рыцарь Тьмы ahsyuram" />
+	<block key="E_53_0_0667_0001_NameDetail" korea_korean="" />
+	<block key="E_53_0_1100_0001_Name" korea_korean="Мастер по уничтожению Ли Силезии" />
+	<block key="E_53_0_1100_0001_NameDetail" korea_korean="" />
+	<block key="E_53_0_1120_0000_Name" korea_korean="Ли Силезия Череп Cane" />
+	<block key="E_53_0_1120_0000_NameDetail" korea_korean="" />
+	<block key="E_53_0_1120_0001_Name" korea_korean="Ли Силезия магический хрустальный шар" />
+	<block key="E_53_0_1120_0001_NameDetail" korea_korean="" />
+	<block key="E_53_0_1120_0002_Name" korea_korean="Маргарита Ли Круг Силезии" />
+	<block key="E_53_0_1120_0002_NameDetail" korea_korean="" />
+	<block key="E_53_0_1100_0002_Name" korea_korean="Мастер по уничтожению Ли Силезии" />
+	<block key="E_53_0_1100_0002_NameDetail" korea_korean="" />
+	<block key="E_00_0_1100_0000_Name" korea_korean="Мастер Dark Первосвященника (видео)" />
+	<block key="E_00_0_1100_0000_NameDetail" korea_korean="" />
+	<block key="E_52_0_0900_0004_Name" korea_korean="Vampire Шеф-повар" />
+	<block key="E_52_0_0900_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_1100_0002_Name" korea_korean="Малый подрядчики" />
+	<block key="E_03_0_1100_0002_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_03_0_1100_0003_Name" korea_korean="Молодых ученых" />
+	<block key="E_03_0_1100_0003_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_03_0_1100_0004_Name" korea_korean="Исполнитель" />
+	<block key="E_03_0_1100_0004_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_03_0_1210_0003_Name" korea_korean="Запись Watcher в темно-" />
+	<block key="E_03_0_1210_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0013_0002_Name" korea_korean="Проклятый призрак" />
+	<block key="E_03_0_0013_0002_NameDetail" korea_korean="" />
+	<block key="E_53_0_1110_0001_Name" korea_korean="Sohwansulsa" />
+	<block key="E_53_0_1110_0001_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_53_0_1110_0002_Name" korea_korean="Sohwansulsa" />
+	<block key="E_53_0_1110_0002_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_03_0_0013_0003_Name" korea_korean="Проклятый призрак" />
+	<block key="E_03_0_0013_0003_NameDetail" korea_korean="" />
+	<block key="E_02_0_0013_0002_Name" korea_korean="Блуждающий призрак" />
+	<block key="E_02_0_0013_0002_NameDetail" korea_korean="" />
+	<block key="E_02_1_0007_0004_Name" korea_korean="Wild Wolf" />
+	<block key="E_02_1_0007_0004_NameDetail" korea_korean="" />
+	<block key="E_51_0_0001_0001_Name" korea_korean="Yeti воины" />
+	<block key="E_51_0_0001_0001_NameDetail" korea_korean="" />
+	<block key="E_51_0_0002_0001_Name" korea_korean="Yeti Шаман" />
+	<block key="E_51_0_0002_0001_NameDetail" korea_korean="" />
+	<block key="E_51_0_0013_0002_Name" korea_korean="Yeti охотников" />
+	<block key="E_51_0_0013_0002_NameDetail" korea_korean="" />
+	<block key="E_51_0_0015_0002_Name" korea_korean="Yeti воины" />
+	<block key="E_51_0_0015_0002_NameDetail" korea_korean="" />
+	<block key="E_51_0_0616_0001_Name" korea_korean="Yeti медведь тренер" />
+	<block key="E_51_0_0616_0001_NameDetail" korea_korean="" />
+	<block key="E_51_0_0083_0000_Name" korea_korean="Мороз Polar Bear Claw" />
+	<block key="E_51_0_0083_0000_NameDetail" korea_korean="" />
+	<block key="E_51_0_0001_0002_Name" korea_korean="Yeti воины" />
+	<block key="E_51_0_0001_0002_NameDetail" korea_korean="" />
+	<block key="E_51_0_0001_0003_Name" korea_korean="Yeti воины" />
+	<block key="E_51_0_0001_0003_NameDetail" korea_korean="" />
+	<block key="E_51_0_0013_0003_Name" korea_korean="Yeti охотников" />
+	<block key="E_51_0_0013_0003_NameDetail" korea_korean="" />
+	<block key="E_51_0_0002_0002_Name" korea_korean="Yeti Шаман" />
+	<block key="E_51_0_0002_0002_NameDetail" korea_korean="" />
+	<block key="E_02_1_0606_0001_Name" korea_korean="Руководитель кабан Браге в" />
+	<block key="E_02_1_0606_0001_NameDetail" korea_korean="" />
+	<block key="E_02_1_0606_0002_Name" korea_korean="Мороз молярная Крыльцо" />
+	<block key="E_02_1_0606_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_0672_0006_Name" korea_korean="Одомашненный бизон" />
+	<block key="E_03_0_0672_0006_NameDetail" korea_korean="" />
+	<block key="E_03_0_1010_0005_Name" korea_korean="Рейдеры" />
+	<block key="E_03_0_1010_0005_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_51_5_0001_0001_Name" korea_korean="Алтарь происхождения" />
+	<block key="E_51_5_0001_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0769_0000_Name" korea_korean="Черный Ветер" />
+	<block key="E_03_0_0769_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0769_0001_Name" korea_korean="Пони" />
+	<block key="E_03_0_0769_0001_NameDetail" korea_korean="" />
+	<block key="E_02_1_0606_0003_Name" korea_korean="Разведение кабанов" />
+	<block key="E_02_1_0606_0003_NameDetail" korea_korean="" />
+	<block key="E_02_1_0309_0000_Name" korea_korean="Черный волк" />
+	<block key="E_02_1_0309_0000_NameDetail" korea_korean="" />
+	<block key="E_50_0_0245_0000_Name" korea_korean="Магма Hound" />
+	<block key="E_50_0_0245_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0692_0002_Name" korea_korean="Тор Lava зубов" />
+	<block key="E_03_0_0692_0002_NameDetail" korea_korean="" />
+	<block key="E_03_0_1720_0000_Name" korea_korean="Лаборатория Unicorn" />
+	<block key="E_03_0_1720_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_1720_0001_Name" korea_korean="Единорог жеребенок" />
+	<block key="E_03_0_1720_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0654_0000_Name" korea_korean="Фея озера" />
+	<block key="E_03_0_0654_0000_NameDetail" korea_korean="" />
+	<block key="E_03_0_0704_0000_Name" korea_korean="Черные крылья" />
+	<block key="E_03_0_0704_0000_NameDetail" korea_korean="Огонь ryongjok" />
+	<block key="E_03_0_0704_0001_Name" korea_korean="Огненное дыхание" />
+	<block key="E_03_0_0704_0001_NameDetail" korea_korean="Огонь ryongjok" />
+	<block key="E_03_0_1715_0000_Name" korea_korean="Черный Дракон Астерас" />
+	<block key="E_03_0_1715_0000_NameDetail" korea_korean="Огонь ryongjok" />
+	<block key="E_03_0_0676_0003_Name" korea_korean="Паук лес" />
+	<block key="E_03_0_0676_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0676_0004_Name" korea_korean="Волосатые паук" />
+	<block key="E_03_0_0676_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0676_0005_Name" korea_korean="Тарантул" />
+	<block key="E_03_0_0676_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_1010_0006_Name" korea_korean="Все ли бомбу кардиналов" />
+	<block key="E_03_0_1010_0006_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_0696_0001_Name" korea_korean="Elite за нападение" />
+	<block key="E_03_0_0696_0001_NameDetail" korea_korean="Огонь ryongjok" />
+	<block key="E_03_0_0696_0002_Name" korea_korean="Для бродячий котенок" />
+	<block key="E_03_0_0696_0002_NameDetail" korea_korean="Огонь ryongjok" />
+	<block key="E_51_0_1100_0000_Name" korea_korean="Dark Summoner" />
+	<block key="E_51_0_1100_0000_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_51_0_1100_0001_Name" korea_korean="Курсы маги Mister Geppetto" />
+	<block key="E_51_0_1100_0001_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_03_0_0666_0003_Name" korea_korean="Сурин хотел отомстить" />
+	<block key="E_03_0_0666_0003_NameDetail" korea_korean="" />
+	<block key="E_03_0_0666_0004_Name" korea_korean="Смерть смотрителя" />
+	<block key="E_03_0_0666_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0666_0005_Name" korea_korean="Возрожденная Скелет солдата" />
+	<block key="E_03_0_0666_0005_NameDetail" korea_korean="" />
+	<block key="E_03_0_0682_0007_Name" korea_korean="Тыква вылупились оса" />
+	<block key="E_03_0_0682_0007_NameDetail" korea_korean="" />
+	<block key="E_52_0_0620_0000_Name" korea_korean="Вампир" />
+	<block key="E_52_0_0620_0000_NameDetail" korea_korean="" />
+	<block key="E_52_0_1110_0000_Name" korea_korean="Проклятие Палач Regina" />
+	<block key="E_52_0_1110_0000_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_52_0_0900_0005_Name" korea_korean="Vampire Капитан Лантто" />
+	<block key="E_52_0_0900_0005_NameDetail" korea_korean="" />
+	<block key="E_52_0_0900_0006_Name" korea_korean="Голодные садовник в крови" />
+	<block key="E_52_0_0900_0006_NameDetail" korea_korean="" />
+	<block key="E_52_0_0900_0007_Name" korea_korean="Разнорабочий жаждут крови" />
+	<block key="E_52_0_0900_0007_NameDetail" korea_korean="" />
+	<block key="E_03_0_0013_0004_Name" korea_korean="Призрак тьмы" />
+	<block key="E_03_0_0013_0004_NameDetail" korea_korean="" />
+	<block key="E_03_0_0001_0000_Name" korea_korean="Ander исполнитель смерти" />
+	<block key="E_03_0_0001_0000_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_03_0_0002_0000_Name" korea_korean="Екатерина герцог Ли Ён Ae" />
+	<block key="E_03_0_0002_0000_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_03_0_0708_0000_Name" korea_korean="Тренеры" />
+	<block key="E_03_0_0708_0000_NameDetail" korea_korean="Последователи Тьмы" />
+	<block key="E_52_0_0620_0001_Name" korea_korean="Вампир" />
+	<block key="E_52_0_0620_0001_NameDetail" korea_korean="" />
+	<block key="E_52_0_1100_0002_Name" korea_korean="Mystic Проклятие" />
+	<block key="E_52_0_1100_0002_NameDetail" korea_korean="Мастер Тьмы" />
+	<block key="E_04_0_0728_0000_Name" korea_korean="Дух воды" />
+	<block key="E_04_0_0728_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0728_0001_Name" korea_korean="Wild Water Spirit" />
+	<block key="E_04_0_0728_0001_NameDetail" korea_korean="" />
+	<block key="E_04_0_0731_0000_Name" korea_korean="Дикий Ice Elemental" />
+	<block key="E_04_0_0731_0000_NameDetail" korea_korean="" />
+	<block key="E_04_0_0731_0001_Name" korea_korean="Дикий Ice Elemental" />
+	<block key="E_04_0_0731_0001_NameDetail" korea_korean="" />
+	<block key="E_03_0_0704_0002_Name" korea_korean="Зеленый Влияние" />
+	<block key="E_03_0_0704_0002_NameDetail" korea_korean="Phoenix Огонь ryongjok" />
+	<block key="E_03_0_0704_0003_Name" korea_korean="Тень синий" />
+	<block key="E_03_0_0704_0003_NameDetail" korea_korean="Phoenix Огонь ryongjok" />
+	<block key="E_04_0_1300_0006_Name" korea_korean="Cara-де-Tout Пираты навигации" />
+	<block key="E_04_0_1300_0006_NameDetail" korea_korean="" />
+	<block key="E_04_0_1302_0003_Name" korea_korean="Кара De Pirate Мародеры" />
+	<block key="E_04_0_1302_0003_NameDetail" korea_korean="" />
+</blocks>

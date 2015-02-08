@@ -1,0 +1,360 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="N_02_1" korean="Лев" />
+	<block key="n_99_0_0002_0000_name" korean="Кроу" />
+	<block key="n_99_0_0002_0000_namedetail" korean="Лидер Shadow Clan" />
+	<block key="n_99_0_0003_0000_name" korean="Synth" />
+	<block key="n_99_0_0003_0000_namedetail" korean="Раздел Shadow Clan" />
+	<block key="n_99_0_0007_0000_name" korean="Скауты выиграл серин" />
+	<block key="n_99_0_0007_0000_namedetail" korean="Shenron Рыцари" />
+	<block key="n_99_0_0006_0000_name" korean="Commando" />
+	<block key="n_99_0_0006_0000_namedetail" korean="Shenron Рыцари" />
+	<block key="n_99_0_0004_0000_name" korean="Нижняя удаленная Паулу" />
+	<block key="n_99_0_0004_0000_namedetail" korean="Рыцари капитан Shenron" />
+	<block key="n_99_0_0005_0000_name" korean="Статья Гардиан" />
+	<block key="n_99_0_0005_0000_namedetail" korean="Shenron Рыцари" />
+	<block key="N_f04_0_0001_0001_name" korean="Артиллерия" />
+	<block key="N_f04_0_0001_0001_namedetail" korean="Сотрудник кровь кахо морской капитан" />
+	<block key="N_f04_0_0001_0002_name" korean="Джоди" />
+	<block key="N_f04_0_0001_0002_namedetail" korean="Pegasus статьи раздела" />
+	<block key="N_f04_0_0001_0003_name" korean="Эррол" />
+	<block key="N_f04_0_0001_0003_namedetail" korean="Pegasus Knight-Commander" />
+	<block key="N_f04_0_0001_0004_name" korean="Оскар" />
+	<block key="N_f04_0_0001_0004_namedetail" korean="Pegasus Бухгалтерия командир дивизии" />
+	<block key="N_f04_0_0001_0005_name" korean="Meulrek" />
+	<block key="N_f04_0_0001_0005_namedetail" korean="Мастер Истины" />
+	<block key="N_f04_0_0001_0006_name" korean="Куа No-Мар" />
+	<block key="N_f04_0_0001_0006_namedetail" korean="Попутчики охотники" />
+	<block key="N_f04_0_0001_0007_name" korean="Статья Lux" />
+	<block key="N_f04_0_0001_0007_namedetail" korean="Приключения короля" />
+	<block key="N_f04_0_0001_0008_name" korean="Ahkul" />
+	<block key="N_f04_0_0001_0008_namedetail" korean="Пустыня Разведчики Immortal" />
+	<block key="N_f04_0_0001_0009_name" korean="Malba" />
+	<block key="N_f04_0_0001_0009_namedetail" korean="Портал компании" />
+	<block key="N_f04_0_0001_0010_name" korean="Benen" />
+	<block key="N_f04_0_0001_0010_namedetail" korean="Региональный портал компании" />
+	<block key="N_f04_0_0001_0011_name" korean="Barik" />
+	<block key="N_f04_0_0001_0011_namedetail" korean="Портал компании" />
+	<block key="N_f04_0_0001_0012_name" korean="Вернуться защищены" />
+	<block key="N_f04_0_0001_0012_namedetail" korean="" />
+	<block key="N_f04_0_0001_0013_name" korean="Вернуться защищены" />
+	<block key="N_f04_0_0001_0013_namedetail" korean="" />
+	<block key="N_f04_0_0001_0014_name" korean="Вернуться защищены" />
+	<block key="N_f04_0_0001_0014_namedetail" korean="" />
+	<block key="N_f04_0_0001_0015_name" korean="Джиллиан" />
+	<block key="N_f04_0_0001_0015_namedetail" korean="Врачи белые" />
+	<block key="N_f04_0_0001_0016_name" korean="Jordi" />
+	<block key="N_f04_0_0001_0016_namedetail" korean="Врачи белые" />
+	<block key="N_f04_0_0001_0017_name" korean="Увядать" />
+	<block key="N_f04_0_0001_0017_namedetail" korean="Врачи белые" />
+	<block key="N_f04_0_0001_0058_name" korean="Teal Вход" />
+	<block key="N_f04_0_0001_0058_namedetail" korean="Сотрудник Гор море кахо главный сотрудник" />
+	<block key="N_f04_elora_001_name" korean="Дух Эллоры" />
+	<block key="N_f04_elora_001_namedetail" korean="" />
+	<block key="N_f04_HuMSol_B_001_name" korean="Первый боевой" />
+	<block key="N_f04_HuMSol_B_001_namedetail" korean="Pegasus Рыцари" />
+	<block key="N_f04_Whale_001_name" korean="Гигантского плавучего кит" />
+	<block key="N_f04_Whale_001_namedetail" korean="" />
+	<block key="N_f02_HuMLib01_001_Name" korean="Трава" />
+	<block key="N_f02_HuMLib01_001_NameDetail" korean="Налог координатор Королевство" />
+	<block key="N_f02_HuMEli01_001_Name" korean="Баран" />
+	<block key="N_f02_HuMEli01_001_NameDetail" korean="Рабат оборонительных капитан" />
+	<block key="N_f03_HuMLib01_001_Name" korean="Нерха Анахайм" />
+	<block key="N_f03_HuMLib01_001_NameDetail" korean="Налог координатор Королевство" />
+	<block key="N_f03_HuMEli01_001_Name" korean="Только костюм" />
+	<block key="N_f03_HuMEli01_001_NameDetail" korean="Долина мешок оборонительной капитана" />
+	<block key="N_dportal_001_Name" korean="Плазмида" />
+	<block key="N_dportal_001_NameDetail" korean="Компания также пол направил портал" />
+	<block key="N_dportal_002_Name" korean="Bieoseu" />
+	<block key="N_dportal_002_NameDetail" korean="Порталы экспедиционная компания Mountain Прибой" />
+	<block key="N_P01_0_0001_0001_Name" korean="Майя" />
+	<block key="N_P01_0_0001_0001_NameDetail" korean="Ученик мастера" />
+	<block key="N_P01_0_0001_0002_Name" korean="Rodam" />
+	<block key="N_P01_0_0001_0002_NameDetail" korean="Ученик мастера" />
+	<block key="N_P01_0_0001_0003_Name" korean="Ruyiche" />
+	<block key="N_P01_0_0001_0003_NameDetail" korean="Время и пространство исследования" />
+	<block key="N_P01_0_0001_0004_Name" korean="La Coco шапочка Rong" />
+	<block key="N_P01_0_0001_0004_NameDetail" korean="Crescent сверху" />
+	<block key="N_P01_0_0001_0005_Name" korean="Винни ро-ла-ла" />
+	<block key="N_P01_0_0001_0005_NameDetail" korean="Захваченные La шапочка" />
+	<block key="N_P01_0_0001_0006_Name" korean="Лу Люпин называется Beanie" />
+	<block key="N_P01_0_0001_0006_NameDetail" korean="Тень верхняя" />
+	<block key="N_P01_0_0001_0007_Name" korean="Отдых объявление" />
+	<block key="N_P01_0_0001_0007_NameDetail" korean="Зверь тренер" />
+	<block key="N_P01_0_0001_0008_Name" korean="Скарборо Dell" />
+	<block key="N_P01_0_0001_0008_NameDetail" korean="Врачи белые" />
+	<block key="N_P01_0_0001_0009_Name" korean="Эй большой" />
+	<block key="N_P01_0_0001_0009_NameDetail" korean="Сокобан" />
+	<block key="N_P01_0_0001_0010_Name" korean="Gilbeo" />
+	<block key="N_P01_0_0001_0010_NameDetail" korean="Рецепт купец" />
+	<block key="N_P01_0_0001_0011_Name" korean="La тесты" />
+	<block key="N_P01_0_0001_0011_NameDetail" korean="Монета поставляет торговца" />
+	<block key="N_P01_returnp_001_Name" korean="Вернуться защищены" />
+	<block key="N_P01_returnp_001_NameDetail" korean="" />
+	<block key="N_P01_0_0001_0012_Name" korean="Глиняная пивная кружка" />
+	<block key="N_P01_0_0001_0012_NameDetail" korean="Наемник" />
+	<block key="N_p01_ReturnP_002_Name" korean="Вернуться защищены" />
+	<block key="N_p01_ReturnP_002_NameDetail" korean="" />
+	<block key="N_p01_ReturnP_003_Name" korean="Вернуться защищены" />
+	<block key="N_p01_ReturnP_003_NameDetail" korean="" />
+	<block key="N_p01_HuFFar01_001_Name" korean="Георгин" />
+	<block key="N_p01_HuFFar01_001_NameDetail" korean="Зверь тренер" />
+	<block key="N_p01_HuMPri03_001_Name" korean="Лиман" />
+	<block key="N_p01_HuMPri03_001_NameDetail" korean="Врачи белые" />
+	<block key="N_p01_HuFPub02_001_Name" korean="Pilriah" />
+	<block key="N_p01_HuFPub02_001_NameDetail" korean="Сокобан" />
+	<block key="N_p01_rabinis1_001_Name" korean="La шапочка Cocomong" />
+	<block key="N_p01_rabinis1_001_NameDetail" korean="Crescent сверху" />
+	<block key="N_p01_HuMMil02_001_Name" korean="H. корзину" />
+	<block key="N_p01_HuMMil02_001_NameDetail" korean="Зверь тренер" />
+	<block key="N_p01_hufkep01_001_Name" korean="Kayiyu" />
+	<block key="N_p01_hufkep01_001_NameDetail" korean="Врачи белые" />
+	<block key="N_p01_HuFFar02_001_Name" korean="Какие два дня" />
+	<block key="N_p01_HuFFar02_001_NameDetail" korean="Сокобан" />
+	<block key="N_p01_rabinis1_002_Name" korean="La Coco шапочка Транг" />
+	<block key="N_p01_rabinis1_002_NameDetail" korean="Crescent сверху" />
+	<block key="N_p01_HuMEli01_001_Name" korean="Глиняная пивная кружка" />
+	<block key="N_p01_HuMEli01_001_NameDetail" korean="Наемник" />
+	<block key="N_p01_HuFKni01_001_Name" korean="Рода является" />
+	<block key="N_p01_HuFKni01_001_NameDetail" korean="Наемник" />
+	<block key="N_p01_SpirWB2_001_Name" korean="Кики" />
+	<block key="N_p01_SpirWB2_001_NameDetail" korean="Дриада" />
+	<block key="N_p01_HuFServ01_001_Name" korean="Reika" />
+	<block key="N_p01_HuFServ01_001_NameDetail" korean="Фрейлина" />
+	<block key="N_p01_HuMCrew02_001_Name" korean="Лима" />
+	<block key="N_p01_HuMCrew02_001_NameDetail" korean="Странный" />
+	<block key="N_P01_0_0001_0013_Name" korean="Призраки не спят" />
+	<block key="N_P01_0_0001_0013_NameDetail" korean="Недостаток сна" />
+	<block key="N_P01_0_0001_0014_Name" korean="Котел" />
+	<block key="N_P01_0_0001_0014_NameDetail" korean="" />
+	<block key="N_f02_dummy_001_Name" korean="Сжигание дров" />
+	<block key="N_f02_dummy_001_NameDetail" korean="" />
+	<block key="N_F01_Portal_100_Name" korean="Расширенный портал мобильные устройства" />
+	<block key="N_F01_Portal_100_NameDetail" korean="" />
+	<block key="N_F01_Portal_001_Name" korean="Портал мобильных устройств" />
+	<block key="N_F01_Portal_001_NameDetail" korean="" />
+	<block key="N_F01_Portal_002_Name" korean="Портал мобильных устройств" />
+	<block key="N_F01_Portal_002_NameDetail" korean="" />
+	<block key="N_F01_Portal_003_Name" korean="Портал мобильных устройств" />
+	<block key="N_F01_Portal_003_NameDetail" korean="" />
+	<block key="N_F01_Portal_004_Name" korean="Портал мобильных устройств" />
+	<block key="N_F01_Portal_004_NameDetail" korean="" />
+	<block key="N_C01_Portal_100_Name" korean="Расширенный портал мобильные устройства" />
+	<block key="N_C01_Portal_100_NameDetail" korean="" />
+	<block key="N_C01_Portal_001_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_001_NameDetail" korean="" />
+	<block key="N_C01_Portal_002_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_002_NameDetail" korean="" />
+	<block key="N_C01_Portal_003_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_003_NameDetail" korean="" />
+	<block key="N_C01_Portal_004_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_004_NameDetail" korean="" />
+	<block key="N_C01_Portal_005_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_005_NameDetail" korean="" />
+	<block key="N_C01_Portal_006_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_006_NameDetail" korean="" />
+	<block key="N_C01_Portal_007_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_007_NameDetail" korean="" />
+	<block key="N_C01_Portal_008_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_008_NameDetail" korean="" />
+	<block key="N_C01_Portal_009_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_009_NameDetail" korean="" />
+	<block key="N_C01_Portal_010_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_010_NameDetail" korean="" />
+	<block key="N_C01_Portal_011_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_011_NameDetail" korean="" />
+	<block key="N_C01_Portal_012_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_012_NameDetail" korean="" />
+	<block key="N_C01_Portal_013_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_013_NameDetail" korean="" />
+	<block key="N_C01_Portal_014_Name" korean="Портал мобильных устройств" />
+	<block key="N_C01_Portal_014_NameDetail" korean="" />
+	<block key="N_F02_Portal_100_Name" korean="Расширенный портал мобильные устройства" />
+	<block key="N_F02_Portal_100_NameDetail" korean="" />
+	<block key="N_F02_Portal_001_Name" korean="Портал мобильных устройств" />
+	<block key="N_F02_Portal_001_NameDetail" korean="" />
+	<block key="N_F02_Portal_002_Name" korean="Портал мобильных устройств" />
+	<block key="N_F02_Portal_002_NameDetail" korean="" />
+	<block key="N_F02_Portal_003_Name" korean="Портал мобильных устройств" />
+	<block key="N_F02_Portal_003_NameDetail" korean="" />
+	<block key="N_F02_Portal_004_Name" korean="Портал мобильных устройств" />
+	<block key="N_F02_Portal_004_NameDetail" korean="" />
+	<block key="N_F02_Portal_005_Name" korean="Портал мобильных устройств" />
+	<block key="N_F02_Portal_005_NameDetail" korean="" />
+	<block key="N_F02_Portal_006_Name" korean="Портал мобильных устройств" />
+	<block key="N_F02_Portal_006_NameDetail" korean="" />
+	<block key="N_F02_Portal_007_Name" korean="Портал мобильных устройств" />
+	<block key="N_F02_Portal_007_NameDetail" korean="" />
+	<block key="N_F09_Portal_100_Name" korean="Расширенный портал мобильные устройства" />
+	<block key="N_F09_Portal_100_NameDetail" korean="" />
+	<block key="N_F09_Portal_001_Name" korean="Портал мобильных устройств" />
+	<block key="N_F09_Portal_001_NameDetail" korean="" />
+	<block key="N_F09_Portal_002_Name" korean="Портал мобильных устройств" />
+	<block key="N_F09_Portal_002_NameDetail" korean="" />
+	<block key="N_F09_Portal_003_Name" korean="Портал мобильных устройств" />
+	<block key="N_F09_Portal_003_NameDetail" korean="" />
+	<block key="N_F09_Portal_004_Name" korean="Портал мобильных устройств" />
+	<block key="N_F09_Portal_004_NameDetail" korean="" />
+	<block key="N_F03_Portal_100_Name" korean="Расширенный портал мобильные устройства" />
+	<block key="N_F03_Portal_100_NameDetail" korean="" />
+	<block key="N_F03_Portal_001_Name" korean="Портал мобильных устройств" />
+	<block key="N_F03_Portal_001_NameDetail" korean="" />
+	<block key="N_F03_Portal_002_Name" korean="Портал мобильных устройств" />
+	<block key="N_F03_Portal_002_NameDetail" korean="" />
+	<block key="N_F03_Portal_003_Name" korean="Портал мобильных устройств" />
+	<block key="N_F03_Portal_003_NameDetail" korean="" />
+	<block key="N_F03_Portal_004_Name" korean="Портал мобильных устройств" />
+	<block key="N_F03_Portal_004_NameDetail" korean="" />
+	<block key="N_F03_Portal_005_Name" korean="Портал мобильных устройств" />
+	<block key="N_F03_Portal_005_NameDetail" korean="" />
+	<block key="N_F03_Portal_006_Name" korean="Портал мобильных устройств" />
+	<block key="N_F03_Portal_006_NameDetail" korean="" />
+	<block key="N_F03_Portal_007_Name" korean="Портал мобильных устройств" />
+	<block key="N_F03_Portal_007_NameDetail" korean="" />
+	<block key="N_F03_Portal_008_Name" korean="Портал мобильных устройств" />
+	<block key="N_F03_Portal_008_NameDetail" korean="" />
+	<block key="N_F04_Portal_100_Name" korean="Расширенный портал мобильные устройства" />
+	<block key="N_F04_Portal_100_NameDetail" korean="" />
+	<block key="N_F04_Portal_001_Name" korean="Портал мобильных устройств" />
+	<block key="N_F04_Portal_001_NameDetail" korean="" />
+	<block key="N_F04_Portal_002_Name" korean="Портал мобильных устройств" />
+	<block key="N_F04_Portal_002_NameDetail" korean="" />
+	<block key="N_F04_Portal_003_Name" korean="Портал мобильных устройств" />
+	<block key="N_F04_Portal_003_NameDetail" korean="" />
+	<block key="N_F04_Portal_004_Name" korean="Портал мобильных устройств" />
+	<block key="N_F04_Portal_004_NameDetail" korean="" />
+	<block key="N_F04_Portal_005_Name" korean="Портал мобильных устройств" />
+	<block key="N_F04_Portal_005_NameDetail" korean="" />
+	<block key="N_F04_Portal_006_Name" korean="Портал мобильных устройств" />
+	<block key="N_F04_Portal_006_NameDetail" korean="" />
+	<block key="N_P01_Portal_001_Name" korean="Портал мобильных устройств" />
+	<block key="N_P01_Portal_001_NameDetail" korean="" />
+	<block key="N_P01_Portal_002_Name" korean="Портал мобильных устройств" />
+	<block key="N_P01_Portal_002_NameDetail" korean="" />
+	<block key="N_P01_Portal_003_Name" korean="Портал мобильных устройств" />
+	<block key="N_P01_Portal_003_NameDetail" korean="" />
+	<block key="N_P01_HuMsol_001_Name" korean="Хранитель пехотной" />
+	<block key="N_P01_HuMsol_001_NameDetail" korean="Exergy выращенные Рыцари" />
+	<block key="N_P01_HuMsol_002_Name" korean="Хранитель Конные лучники" />
+	<block key="N_P01_HuMsol_002_NameDetail" korean="Exergy выращенные Рыцари" />
+	<block key="N_P01_Board_001_Name" korean="Шлюз Миссия Совет истины" />
+	<block key="N_P01_Board_001_NameDetail" korean="" />
+	<block key="N_P01_Board_002_Name" korean="Halo лагерь Миссия Совет" />
+	<block key="N_P01_Board_002_NameDetail" korean="" />
+	<block key="N_P01_Board_003_Name" korean="Красная тень гарнизонную службу Бюллетень" />
+	<block key="N_P01_Board_003_NameDetail" korean="" />
+	<block key="N_P01_Board_004_Name" korean="Лагерь Миссия Совет турбулентности" />
+	<block key="N_P01_Board_004_NameDetail" korean="" />
+	<block key="N_F04_Portal_007_Name" korean="Портал мобильных устройств" />
+	<block key="N_F04_Portal_007_NameDetail" korean="" />
+	<block key="N_P01_Portal_004_Name" korean="Портал мобильных устройств" />
+	<block key="N_P01_Portal_004_NameDetail" korean="" />
+	<block key="N_P01_0_0001_0015_Name" korean="Ветер" />
+	<block key="N_P01_0_0001_0015_NameDetail" korean="Врачи белые" />
+	<block key="N_P01_0_0001_0016_Name" korean="Переключить niket" />
+	<block key="N_P01_0_0001_0016_NameDetail" korean="Зверь тренер" />
+	<block key="N_P01_0_0001_0017_Name" korean="Одомашненный Ярость" />
+	<block key="N_P01_0_0001_0017_NameDetail" korean="" />
+	<block key="N_P01_0_0001_0018_Name" korean="Издание" />
+	<block key="N_P01_0_0001_0018_NameDetail" korean="Сокобан" />
+	<block key="N_P01_0_0001_0019_Name" korean="Kona" />
+	<block key="N_P01_0_0001_0019_NameDetail" korean="Галантерейщик" />
+	<block key="N_P01_0_0001_0020_Name" korean="Сеть" />
+	<block key="N_P01_0_0001_0020_NameDetail" korean="Рецепт купец" />
+	<block key="N_P01_0_0001_0021_Name" korean="La Киль" />
+	<block key="N_P01_0_0001_0021_NameDetail" korean="Случайные копилку Трейдер" />
+	<block key="N_P01_0_0001_0022_Name" korean="Торунь" />
+	<block key="N_P01_0_0001_0022_NameDetail" korean="Монета поставляет торговца" />
+	<block key="N_p01_Smith_001_Name" korean="Для производства оружия" />
+	<block key="N_p01_Smith_001_NameDetail" korean="" />
+	<block key="N_p01_Smith_002_Name" korean="Броня для производства" />
+	<block key="N_p01_Smith_002_NameDetail" korean="" />
+	<block key="N_p01_Cook_001_Name" korean="Кулинария для авторинга" />
+	<block key="N_p01_Cook_001_NameDetail" korean="" />
+	<block key="N_p01_Alchemy_001_Name" korean="Пенсия по продукции" />
+	<block key="N_p01_Alchemy_001_NameDetail" korean="" />
+	<block key="N_p01_Accessory_001_Name" korean="Для изготовления ювелирных изделий" />
+	<block key="N_p01_Accessory_001_NameDetail" korean="" />
+	<block key="N_p01_Fellow_001_Name" korean="Сотрудник для производства" />
+	<block key="N_p01_Fellow_001_NameDetail" korean="" />
+	<block key="N_p01_HuMSmi_001_Name" korean="Яссы" />
+	<block key="N_p01_HuMSmi_001_NameDetail" korean="Оружие производитель" />
+	<block key="N_p01_HuMSmi_002_Name" korean="Закари" />
+	<block key="N_p01_HuMSmi_002_NameDetail" korean="Броня производитель" />
+	<block key="N_p01_HuMarmE_001_Name" korean="Ксавье" />
+	<block key="N_p01_HuMarmE_001_NameDetail" korean="Производители продуктов питания" />
+	<block key="N_p01_HuMDmag_001_Name" korean="Судак" />
+	<block key="N_p01_HuMDmag_001_NameDetail" korean="Алхимия производитель" />
+	<block key="N_p01_HuFFar_001_Name" korean="Тревор" />
+	<block key="N_p01_HuFFar_001_NameDetail" korean="Ювелирные производители" />
+	<block key="N_p01_HuMMer_001_Name" korean="Шейн" />
+	<block key="N_p01_HuMMer_001_NameDetail" korean="Сотрудник продюсер" />
+	<block key="N_03_0_0002_0083_Name" korean="Пенелопа" />
+	<block key="N_03_0_0002_0083_NameDetail" korean="Crescent сверху" />
+	<block key="N_P01_HuMsol_003_Name" korean="Хранитель обучение пехоты" />
+	<block key="N_P01_HuMsol_003_NameDetail" korean="Exergy выращенные Рыцари" />
+	<block key="N_P01_HuMsol_004_Name" korean="Хранитель обучение пехоты" />
+	<block key="N_P01_HuMsol_004_NameDetail" korean="Exergy выращенные Рыцари" />
+	<block key="N_P01_HuMNob_001_Name" korean="Калеб" />
+	<block key="N_P01_HuMNob_001_NameDetail" korean="Торговый представитель Брокеры" />
+	<block key="N_P01_DarkHound_01_Name" korean="Одомашненный звучит слишком" />
+	<block key="N_P01_DarkHound_01_NameDetail" korean="" />
+	<block key="N_P01_BlackSauru_01_Name" korean="Снег Vichy одомашнены" />
+	<block key="N_P01_BlackSauru_01_NameDetail" korean="" />
+	<block key="N_P01_0_0001_0023_Name" korean="Бартел" />
+	<block key="N_P01_0_0001_0023_NameDetail" korean="Случайные копилку Трейдер" />
+	<block key="N_P01_0_0001_0024_Name" korean="Шумер" />
+	<block key="N_P01_0_0001_0024_NameDetail" korean="Монета поставляет торговца" />
+	<block key="N_F04_Portal_900_Name" korean="Портал мобильных устройств" />
+	<block key="N_F04_Portal_900_NameDetail" korean="" />
+	<block key="N_F04_Portal_901_Name" korean="Портал мобильных устройств" />
+	<block key="N_F04_Portal_901_NameDetail" korean="" />
+	<block key="N_P01_DraYoung_01_Name" korean="Одомашненных Rust" />
+	<block key="N_P01_DraYoung_01_NameDetail" korean="" />
+	<block key="N_c01_Event_100_Name" korean="Стекло" />
+	<block key="N_c01_Event_100_NameDetail" korean="Usher единства и благодарности" />
+	<block key="N_c01_Event_Pc_Name" korean="Рыба Барни" />
+	<block key="N_c01_Event_Pc_NameDetail" korean="PC номер Мероприятия" />
+	<block key="N_p01_UniteLeader_01_Name" korean="Сообщения Леоне" />
+	<block key="N_p01_UniteLeader_01_NameDetail" korean="Возбудитель поле выросла боевиков" />
+	<block key="N_c01_RabMer01_003_Name" korean="La Винни Крест" />
+	<block key="N_c01_RabMer01_003_NameDetail" korean="Корабли событий" />
+	<block key="N_f04_HuMFar_103_Name" korean="Йерун" />
+	<block key="N_f04_HuMFar_103_NameDetail" korean="Сокобан" />
+	<block key="N_f04_HuMNob_002_Name" korean="Натан" />
+	<block key="N_f04_HuMNob_002_NameDetail" korean="Торговый представитель Брокеры" />
+	<block key="N_p01_hum_01_Name" korean="Жако" />
+	<block key="N_p01_hum_01_NameDetail" korean="Exergy выращенные монеты купец" />
+	<block key="N_C01_CoinEx_01_Name" korean="La шапочка Goldman" />
+	<block key="N_C01_CoinEx_01_NameDetail" korean="Crescent сверху" />
+	<block key="N_C01_BoxSell_01_Name" korean="Эдди Смит" />
+	<block key="N_C01_BoxSell_01_NameDetail" korean="Золотые монеты купец" />
+	<block key="N_C01_BoxSell_02_Name" korean="Джон Смит" />
+	<block key="N_C01_BoxSell_02_NameDetail" korean="Расширенный монеты купец" />
+	<block key="N_c01_Event_Hal_1_Name" korean="Масштабирование тонн" />
+	<block key="N_c01_Event_Hal_1_NameDetail" korean="Хэллоуин События" />
+	<block key="N_c01_Event_Hal_2_Name" korean="Тыква" />
+	<block key="N_c01_Event_Hal_2_NameDetail" korean="Хэллоуин События" />
+	<block key="N_C01_CoinEx_02_Name" korean="La шапочка JB" />
+	<block key="N_C01_CoinEx_02_NameDetail" korean="Crescent сверху" />
+	<block key="N_C01_BoxSell_03_Name" korean="Обоснуйте Тейлор" />
+	<block key="N_C01_BoxSell_03_NameDetail" korean="Золотые монеты купец" />
+	<block key="N_C01_BoxSell_04_Name" korean="Гарольд Тейлор" />
+	<block key="N_C01_BoxSell_04_NameDetail" korean="Расширенный монеты купец" />
+	<block key="N_F98_Portal_100_Name" korean="Расширенный портал мобильные устройства" />
+	<block key="N_F98_Portal_100_NameDetail" korean="" />
+	<block key="N_p01_UniteLeader_02_Name" korean="Пункты" />
+	<block key="N_p01_UniteLeader_02_NameDetail" korean="Exergy вырос боевиков" />
+	<block key="N_p01_UniteLeader_03_Name" korean="ALES" />
+	<block key="N_p01_UniteLeader_03_NameDetail" korean="Exergy вырос боевиков" />
+	<block key="N_p01_UniteLeader_04_Name" korean="Бросок зло" />
+	<block key="N_p01_UniteLeader_04_NameDetail" korean="Exergy вырос боевиков" />
+	<block key="N_C01_Custom_1_Name" korean="ID" />
+	<block key="N_C01_Custom_1_NameDetail" korean="Менеджер Внешний вид" />
+</blocks>

@@ -1,0 +1,95 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="map_c01_enter_0" korean="Запад Город" />
+	<block key="map_c01_enter_1" korean="Plaza / промышленный район победа" />
+	<block key="map_c01_enter_2" korean="Деловой район" />
+	<block key="map_c01_enter_3" korean="Канаш секс и главный вход" />
+	<block key="map_c01_forge_0" korean="Канаш секс и главный вход" />
+	<block key="map_c01_forge_1" korean="Промышленный район" />
+	<block key="map_c01_forge_2" korean="Площадь Победы" />
+	<block key="map_c01_west_0" korean="Южная Город" />
+	<block key="map_c01_west_1" korean="Канаш введение в сексе" />
+	<block key="map_c01_west_2" korean="Сотрудник НИИ" />
+	<block key="map_c01_fellow_0" korean="Канаш введение в сексе" />
+	<block key="map_c01_fellow_1" korean="Сотрудник НИИ" />
+	<block key="map_c01_fellow_2" korean="Запад Город" />
+	<block key="map_c01_road01_0" korean="Запад Город" />
+	<block key="map_c01_road01_1" korean="Площадь Победы" />
+	<block key="map_c01_road01_2" korean="Деловой район" />
+	<block key="map_c01_road01_3" korean="Канаш секс и главный вход" />
+	<block key="map_c01_square01_0" korean="Запад Город" />
+	<block key="map_c01_square01_1" korean="Тропы славы" />
+	<block key="map_c01_square02_0" korean="Тропы славы" />
+	<block key="map_c01_square02_1" korean="Охрана Учебный центр" />
+	<block key="map_c01_square03_0" korean="Аукцион и банк" />
+	<block key="map_c01_square03_1" korean="Канас и энергичный" />
+	<block key="map_c01_square03_2" korean="Охрана Учебный центр" />
+	<block key="map_c01_square03_3" korean="Канаш секс и главный вход" />
+	<block key="map_c01_castle01_0" korean="Площадь Победы" />
+	<block key="map_c01_castle01_1" korean="Бар Мемориальная библиотека Эллы" />
+	<block key="map_c01_castle01_2" korean="Канас и энергичный" />
+	<block key="map_c01_castle02_0" korean="Королевство парламент" />
+	<block key="map_c01_castle02_1" korean="Эллора Sanctuary" />
+	<block key="map_c01_castle02_2" korean="Бар Мемориальная библиотека Эллы" />
+	<block key="map_c01_castle02_3" korean="Канас и энергичный" />
+	<block key="map_c01_castle03_0" korean="Канас и энергичный" />
+	<block key="map_c01_castle03_1" korean="Эллора Sanctuary" />
+	<block key="map_c01_castle04_0" korean="Канас и энергичный" />
+	<block key="map_c01_castle04_1" korean="Сильва Королевство" />
+	<block key="map_c01_castle04_2" korean="Эллора Sanctuary" />
+	<block key="map_c01_east01_0" korean="Промышленный район" />
+	<block key="map_c01_east01_1" korean="Деловой район" />
+	<block key="map_c01_east01_2" korean="Восточной части города" />
+	<block key="map_c01_east02_0" korean="Деловой район" />
+	<block key="map_c01_east02_1" korean="Охрана Учебный центр" />
+	<block key="map_c01_east02_2" korean="Канас и выпускники" />
+	<block key="map_c01_east02_3" korean="Восточной части города" />
+	<block key="map_c01_plain01_0" korean="Также шлюз Восточной провинции" />
+	<block key="map_c01_plain01_1" korean="Канас и выпускники" />
+	<block key="map_c01_plain01_2" korean="Прочная авантюриста гавань" />
+	<block key="map_c01_plain02_0" korean="Канаш, а также секс" />
+	<block key="map_c01_plain02_1" korean="Прочная авантюриста гавань" />
+	<block key="map_c01_plain02_2" korean="Выпускники также пол барьерные" />
+	<block key="map_c01_plain03_0" korean="Канаш, а также пол барьер" />
+	<block key="map_c01_plain03_1" korean="El зерна сельскохозяйственные угодья" />
+	<block key="map_c01_plain03_2" korean="Канаш, а также секс" />
+	<block key="map_c01_plain04_0" korean="El зерна сельскохозяйственные угодья" />
+	<block key="map_c01_plain04_1" korean="Гильдия ферма" />
+	<block key="map_c01_plain04_2" korean="Канаш, а также пол барьер" />
+	<block key="map_c01_plain05_0" korean="Канаш, а также секс" />
+	<block key="map_c01_plain05_1" korean="El зерна сельскохозяйственные угодья" />
+	<block key="map_c01_plain05_2" korean="Гильдия ферма" />
+	<block key="map_c01_plain06_0" korean="Сражений славы" />
+	<block key="map_c01_plain06_1" korean="Предисловие к Канас" />
+	<block key="map_c01_plain06_2" korean="Гильдия ферма" />
+	<block key="map_f02_four_0" korean="Келл деревне В лесу" />
+	<block key="map_f02_four_1" korean="Северная Guard Tower" />
+	<block key="map_f02_four_2" korean="Келл Вудс Farm" />
+	<block key="map_f02_two_0" korean="Келл деревне В лесу" />
+	<block key="map_f02_two_1" korean="Ворота покровителя Shenron" />
+	<block key="map_f03_first_0" korean="Пираты Lair" />
+	<block key="map_f03_first_1" korean="Озеро жизни" />
+	<block key="map_f03_first_2" korean="Рид ветер деревня" />
+	<block key="map_f03_second_0" korean="Болото перебежчик" />
+	<block key="map_f03_second_1" korean="Плача Скалы Village" />
+	<block key="map_f03_second_2" korean="Falls Village руины" />
+	<block key="map_f03_three_0" korean="Falls Village руины" />
+	<block key="map_f03_three_1" korean="Болото перебежчик" />
+	<block key="map_f03_three_2" korean="Плача Скалы Village" />
+	<block key="map_f03_four_0" korean="Falls Village руины" />
+	<block key="map_f03_four_1" korean="Волновые рупий поместья" />
+	<block key="map_f03_four_2" korean="Плача Скалы Village" />
+	<block key="map_f03_five_0" korean="Волна рупий лед замок" />
+	<block key="map_f03_five_1" korean="Город Голубой Лунный свет" />
+	<block key="map_f03_five_2" korean="Falls Village руины" />
+	<block key="map_f03_first01_0" korean="Болото перебежчик" />
+	<block key="map_f03_first01_1" korean="Рид ветер побережье" />
+	<block key="map_f03_first01_2" korean="Озеро жизни" />
+	<block key="map_f03_first01_3" korean="Плача Скалы Village" />
+</blocks>

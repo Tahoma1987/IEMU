@@ -407,7 +407,6 @@
 			<part name="unk103" type="d"/>
 			<part name="unk104" type="d"/>
 			<part name="unk105" type="d"/>
-
 		</packet>
 		<packet id="0x013f" name="SM_UNK23">
 			<part name="cryptflag" type="h"/>
@@ -483,15 +482,14 @@
 			<part name="unk" type="h"/>
 			<part name="for" type="h" id="0"/>
 				<for id="0">
-					<part name="unk1" type="d"/>
-					<part name="unk2" type="h"/>
+					<part name="active" type="d"/>
+					<part name="num_panel" type="h"/>
 					<part name="slot" type="c"/>
-					<part name="unk3" type="c"/>
+					<part name="unk1" type="c"/>
+					<part name="unk2" type="d"/>
+					<part name="skill_id" type="d"/>
+					<part name="unk3" type="d"/>
 					<part name="unk4" type="d"/>
-					<part name="skill_id" type="h"/>
-					<part name="class?" type="h"/>
-					<part name="unk5" type="d"/>
-					<part name="unk6" type="d"/>
 				</for>
 		</packet>
 		<packet id="0x9913" name="SM_UNK40">
@@ -640,6 +638,16 @@
 			<part name="unk4" type="d"/>
 			<part name="unk5" type="d"/>
 		</packet>
+		<packet id="0x0a14" name="SM_QUESTSTATEMSG">
+			<part name="cryptflag" type="h"/>
+			<part name="unk" type="h"/>
+			<part name="num_complate" type="h"/>
+		</packet>
+		<packet id="0x1c10" name="SM_OBJECT_DELETE">
+			<part name="cryptflag" type="h"/>
+			<part name="target_id" type="d"/>
+			<part name="type" type="d"/>
+		</packet>
 	</packetfamilly>
 
 
@@ -682,7 +690,7 @@
 		<packet id="0x640f" name="CM_TARGET">
 			<part name="cryptflag" type="h"/>
 		</packet>
-		<packet id="0x0410" name="CM_MOVE_STOP">
+		<packet id="0x0410" name="CM_ACTION_STOP">
 			<part name="cryptflag" type="h"/>
 			<part name="unk1" type="d"/>
 			<part name="pos_x" type="f"/>
@@ -690,6 +698,8 @@
 			<part name="pos_z" type="f"/>
 			<part name="unk2" type="f"/>
 			<part name="unk3" type="f"/>
+			<part name="unk4" type="d"/>
+			<part name="unk5" type="d"/>
 		</packet>
 		<packet id="0x0110" name="CM_MOVE_MOUSESET">
 			<part name="cryptflag" type="h"/>
@@ -919,8 +929,16 @@
 			<part name="pos_y" type="f"/>
 			<part name="pos_z" type="f"/>
 		</packet>
-		<packet id="0x480e" name="CM_SKILLPANEL_MOVE">
+		<packet id="0x480e" name="CM_SKILLS_PANEL_MOVE">
 			<part name="cryptflag" type="h"/>
+			<part name="active" type="d"/>
+			<part name="num_panel" type="h"/>
+			<part name="slot" type="c"/>
+			<part name="unk1" type="c"/>
+			<part name="unk2" type="d"/>
+			<part name="skill_id" type="d"/>
+			<part name="unk3" type="d"/>
+			<part name="unk4" type="d"/>
 		</packet>
 	</packetfamilly>
 </protocol>

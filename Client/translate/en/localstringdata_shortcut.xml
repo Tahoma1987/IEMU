@@ -1,0 +1,125 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="shortcut_move_forward" korean="Назад в будущее" />
+	<block key="shortcut_move_backward" korean="Вернуться к началу" />
+	<block key="shortcut_move_rot_left" korean="Поворот влево" />
+	<block key="shortcut_move_rot_right" korean="Поворот вправо" />
+	<block key="shortcut_move_left" korean="Идите налево" />
+	<block key="shortcut_move_right" korean="Идите направо" />
+	<block key="shortcut_move_run_walk" korean="Запуск / Туризм" />
+	<block key="shortcut_move_autorun" korean="Автозапуск" />
+	<block key="shortcut_move_jump" korean="Перейти" />
+	<block key="shortcut_move_sit_standup" korean="Сядьте / встаньте" />
+	<block key="shortcut_menu_char_info_open" korean="Информация о персонаже окна" />
+	<block key="shortcut_menu_fellowview_open" korean="Сотрудник Область" />
+	<block key="shortcut_menu_skill_open" korean="Seukilchang" />
+	<block key="shortcut_menu_quest_open" korean="Окно Quest" />
+	<block key="shortcut_menu_inventory_open" korean="Инвентарь" />
+	<block key="shortcut_menu_map_open" korean="Карта" />
+	<block key="shortcut_menu_channel_open" korean="Канал" />
+	<block key="shortcut_menu_gm_open" korean="GM" />
+	<block key="shortcut_menu_personal_connections_open" korean="Сетевые" />
+	<block key="shortcut_menu_organization_open" korean="Организация" />
+	<block key="shortcut_menu_offensive_army_open" korean="Рейд" />
+	<block key="shortcut_camera_keyboard_zoomin" korean="Увеличить" />
+	<block key="shortcut_camera_keyboard_zoomout" korean="Уменьшить" />
+	<block key="shortcut_battle_attack_talk" korean="Атака / диалог" />
+	<block key="shortcut_battle_battle_onoff" korean="Боевой / общее изменение отношения" />
+	<block key="shortcut_battle_orders_onoff" korean="Заказы вызвать переключатель ON / OFF" />
+	<block key="shortcut_battle_near_enemy_select" korean="Выберите ближайшего врага" />
+	<block key="shortcut_battle_near_ally_select" korean="Выберите близкого союзника" />
+	<block key="shortcut_battle_near_object_select" korean="Выберите ближайшую цель" />
+	<block key="shortcut_battle_near_dead_select" korean="Нажмите кнопку Закрыть тело" />
+	<block key="shortcut_battle_mark_target_select" korean="Выберите признаки назначения" />
+	<block key="shortcut_battle_target_target" korean="Выберите объекты" />
+	<block key="shortcut_battle_weapon_swap" korean="Оружие Обмен" />
+	<block key="shortcut_party_first_member_select" korean="Выберите одну партию" />
+	<block key="shortcut_party_second_member_select" korean="2 Выберите партию" />
+	<block key="shortcut_party_third_member_select" korean="Выбор третьей стороной" />
+	<block key="shortcut_party_fourth_member_select" korean="4 Выберите абонента" />
+	<block key="shortcut_mark_1_disp" korean="Марк 1 Показать" />
+	<block key="shortcut_mark_2_disp" korean="Mark 2 шоу" />
+	<block key="shortcut_mark_3_disp" korean="Показаны признаки" />
+	<block key="shortcut_mark_4_disp" korean="Показаны признаки" />
+	<block key="shortcut_mark_5_disp" korean="Показаны признаки" />
+	<block key="shortcut_mark_6_disp" korean="Показаны признаки" />
+	<block key="shortcut_mark_7_disp" korean="Показаны признаки" />
+	<block key="shortcut_quickslot_basic_0" korean="Основные Быстрый Slot 1" />
+	<block key="shortcut_quickslot_basic_1" korean="Основные Быстрый Слоты 2" />
+	<block key="shortcut_quickslot_basic_2" korean="Основные Быстрый Слоты 3" />
+	<block key="shortcut_quickslot_basic_3" korean="Основные Быстрый Слоты 4" />
+	<block key="shortcut_quickslot_basic_4" korean="Основные Быстрый Слоты 5" />
+	<block key="shortcut_quickslot_basic_5" korean="Основные Быстрый Слоты 6" />
+	<block key="shortcut_quickslot_basic_6" korean="Основные Быстрый Слоты 7" />
+	<block key="shortcut_quickslot_basic_7" korean="Основные Быстрый Слот 8" />
+	<block key="shortcut_quickslot_basic_8" korean="Основные Быстрый Слоты 9" />
+	<block key="shortcut_quickslot_basic_9" korean="Основные Quickslot 10" />
+	<block key="shortcut_quickslot_basic_10" korean="Основные Quickslot 11" />
+	<block key="shortcut_quickslot_basic_11" korean="Основные Быстрый Слоты 12" />
+	<block key="shortcut_quickslot_ex1_0" korean="Быстрый первый слот расширения 1" />
+	<block key="shortcut_quickslot_ex1_1" korean="Быстрый первый слот расширения 2" />
+	<block key="shortcut_quickslot_ex1_2" korean="Быстрый первый слот расширения 3" />
+	<block key="shortcut_quickslot_ex1_3" korean="Быстрый первый слот расширения 4" />
+	<block key="shortcut_quickslot_ex1_4" korean="Быстрый первый слот расширения 5" />
+	<block key="shortcut_quickslot_ex1_5" korean="Быстрый первый слот расширения 6" />
+	<block key="shortcut_quickslot_ex1_6" korean="Быстрый первый слот расширения 7" />
+	<block key="shortcut_quickslot_ex1_7" korean="Быстрый первый слот расширения 8" />
+	<block key="shortcut_quickslot_ex1_8" korean="Первое расширение Quickslot 9" />
+	<block key="shortcut_quickslot_ex1_9" korean="Первое расширение Quickslot 10" />
+	<block key="shortcut_quickslot_ex2_0" korean="Второй расширение Quickslot 1" />
+	<block key="shortcut_quickslot_ex2_1" korean="Второй расширение Quickslot 2" />
+	<block key="shortcut_quickslot_ex2_2" korean="Второй расширение Quickslot 3" />
+	<block key="shortcut_quickslot_ex2_3" korean="Второй расширение Quickslot 4" />
+	<block key="shortcut_quickslot_ex2_4" korean="Второй расширение Quickslot 5" />
+	<block key="shortcut_quickslot_ex2_5" korean="Второй расширение Quickslot 6" />
+	<block key="shortcut_quickslot_ex2_6" korean="Второй расширение Quickslot 7" />
+	<block key="shortcut_quickslot_ex2_7" korean="Второй расширение Quickslot 8" />
+	<block key="shortcut_quickslot_ex2_8" korean="Второй расширение Quickslot 9" />
+	<block key="shortcut_quickslot_ex2_9" korean="Второй расширение Quickslot 10" />
+	<block key="shortcut_quickslot_ex3_0" korean="Быстрый третий слот расширения 1" />
+	<block key="shortcut_quickslot_ex3_1" korean="Быстрый третий слот расширения 2" />
+	<block key="shortcut_quickslot_ex3_2" korean="Быстрый третий слот расширения 3" />
+	<block key="shortcut_quickslot_ex3_3" korean="Быстрый третий слот расширения 4" />
+	<block key="shortcut_quickslot_ex3_4" korean="Быстрые слоты третьего дополнения 5" />
+	<block key="shortcut_quickslot_ex3_5" korean="Быстрый третий слот расширения 6" />
+	<block key="shortcut_quickslot_ex3_6" korean="Быстрый третий слот расширения 7" />
+	<block key="shortcut_quickslot_ex3_7" korean="Быстрый третий слот расширения 8" />
+	<block key="shortcut_quickslot_ex3_8" korean="Быстрый третий слот расширения 9" />
+	<block key="shortcut_quickslot_ex3_9" korean="Быстрый третий слот расширения 10" />
+	<block key="shortcut_quickslot_ex4_0" korean="Быстрый четвертый слот расширения 1" />
+	<block key="shortcut_quickslot_ex4_1" korean="Быстрый четвертый слот расширения 2" />
+	<block key="shortcut_quickslot_ex4_2" korean="Быстрый четвертый слот расширения 3" />
+	<block key="shortcut_quickslot_ex4_3" korean="Быстрый четвертый слот расширения 4" />
+	<block key="shortcut_quickslot_ex4_4" korean="Быстрый четвертый слоты расширения 5" />
+	<block key="shortcut_quickslot_ex4_5" korean="Быстрый четвертый слот расширения 6" />
+	<block key="shortcut_quickslot_ex4_6" korean="Быстрый четвертый слот расширения 7" />
+	<block key="shortcut_quickslot_ex4_7" korean="Быстрый четвертый слот расширения 8" />
+	<block key="shortcut_quickslot_ex4_8" korean="Быстрый четвертый слот расширения 9" />
+	<block key="shortcut_quickslot_ex4_9" korean="Быстрый четвертый слот расширения 10" />
+	<block key="shortcut_quickslot_mv1_0" korean="Первый портативный расширение Quickslot 1" />
+	<block key="shortcut_quickslot_mv1_1" korean="Первый портативный расширение Quickslot 2" />
+	<block key="shortcut_quickslot_mv1_2" korean="Первый портативный расширение Quickslot 3" />
+	<block key="shortcut_quickslot_mv1_3" korean="Первый портативный расширение Quickslot 4" />
+	<block key="shortcut_quickslot_mv1_4" korean="Первый портативный расширение Quickslot 5" />
+	<block key="shortcut_quickslot_mv1_5" korean="Первый портативный расширение Quickslot 6" />
+	<block key="shortcut_quickslot_mv1_6" korean="Первый портативный расширение Quickslot 7" />
+	<block key="shortcut_quickslot_mv1_7" korean="Первый портативный расширение Quickslot 8" />
+	<block key="shortcut_quickslot_mv1_8" korean="Первый портативный расширение Quickslot 9" />
+	<block key="shortcut_quickslot_mv1_9" korean="Первый портативный расширение Quickslot 10" />
+	<block key="shortcut_quickslot_mv2_0" korean="Второй мобильный абонент Quickslot 1" />
+	<block key="shortcut_quickslot_mv2_1" korean="Второй мобильный абонент Quickslot 2" />
+	<block key="shortcut_quickslot_mv2_2" korean="Второй мобильный абонент Quickslot 3" />
+	<block key="shortcut_quickslot_mv2_3" korean="Второй мобильный абонент Quickslot 4" />
+	<block key="shortcut_quickslot_mv2_4" korean="Второй мобильный абонент Quickslot 5" />
+	<block key="shortcut_quickslot_mv2_5" korean="Второй мобильный абонент Quickslot 6" />
+	<block key="shortcut_quickslot_mv2_6" korean="Второй мобильный абонент Quickslot 7" />
+	<block key="shortcut_quickslot_mv2_7" korean="Второй мобильный абонент Quickslot 8" />
+	<block key="shortcut_quickslot_mv2_8" korean="Второй мобильный абонент Quickslot 9" />
+	<block key="shortcut_quickslot_mv2_9" korean="Второй мобильный абонент Quickslot 10" />
+</blocks>

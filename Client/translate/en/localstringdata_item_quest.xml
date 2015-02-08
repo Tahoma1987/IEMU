@@ -1,0 +1,1714 @@
+<?xml version = "1.0"?>
+<!-- key -->
+<!-- korean -->
+<!-- jpn -->
+<!-- chinese -->
+<!-- enu -->
+<blocks>
+	<keys num_keys="5" key1="key" key2="korean" key3="jpn" key4="chinese" key5="enu" />
+	<block key="QU_0_0_0000_Name" korean="Древние руины" />
+	<block key="QU_0_0_0000_description" korean="Святой Дух менеджер Хаммер" />
+	<block key="QU_0_0_0001_Name" korean="Молот Ку Харлин" />
+	<block key="QU_0_0_0001_description" korean="Новости Кузнечный молот Харлин теряется" />
+	<block key="QU_0_0_0002_Name" korean="Box ключи уполномоченных" />
+	<block key="QU_0_0_0002_description" korean="Brage руководитель может открыть сундук остававшееся в сокровищницах" />
+	<block key="QU_0_0_0003_Name" korean="Brage поводок" />
+	<block key="QU_0_0_0004_Name" korean="Хвост красной лисы" />
+	<block key="QU_0_0_0005_Name" korean="Свинина" />
+	<block key="QU_0_0_0006_Name" korean="Сияющий порошок" />
+	<block key="QU_0_0_0006_description" korean="Пыль от тела блеска духов" />
+	<block key="QU_0_0_0008_Name" korean="Хорошо флакон эффект" />
+	<block key="QU_0_0_0009_Name" korean="Заполнены водой ведро светит" />
+	<block key="QU_0_0_0009_description" korean="Это встроенный в блеске прудовой воды" />
+	<block key="QU_0_0_0011_Name" korean="Brage поводок" />
+	<block key="QU_0_0_0012_Name" korean="Свидетельство о лк" />
+	<block key="QU_0_0_0013_Name" korean="Потерянные взрывчатые вещества" />
+	<block key="QU_0_0_0014_Name" korean="Сайты Wolf Claw" />
+	<block key="QU_0_0_0015_Name" korean="Вернуться Scroll" />
+	<block key="QU_0_0_0016_Name" korean="Древний кристалл скульптура" />
+	<block key="QU_0_0_0016_description" korean="Пьеса с мощным древнего силу" />
+	<block key="QU_0_0_0017_Name" korean="Одежда порвана Brage" />
+	<block key="QU_0_0_0017_description" korean="Следы остаются скомпрометирован сотрудник" />
+	<block key="QU_0_0_0018_Name" korean="Brage крашения секунд" />
+	<block key="QU_0_0_0019_Name" korean="Кусок пожарной голема" />
+	<block key="QU_0_0_0020_Name" korean="Письма Оцените бонус" />
+	<block key="QU_0_0_0021_Name" korean="Тисато телескоп Elf" />
+	<block key="QU_0_0_0022_Name" korean="Кролик кожи" />
+	<block key="QU_0_0_0023_Name" korean="Мороз нить паука" />
+	<block key="QU_0_0_0024_Name" korean="Мусор может ходзин" />
+	<block key="QU_0_0_0025_Name" korean="Карта руины лабиринт из" />
+	<block key="QU_0_0_0026_Name" korean="Холодная кристалл" />
+	<block key="QU_0_0_0027_Name" korean="Остатки Карен Dia" />
+	<block key="QU_0_0_0028_Name" korean="Рубин представляет собой отдельно стоящее каменные статуи" />
+	<block key="QU_0_0_0029_Name" korean="Пчелиный яд" />
+	<block key="QU_0_0_0030_Name" korean="Плиты со злым умыслом seoryeo" />
+	<block key="QU_0_0_0031_Name" korean="Отчеты исследователей" />
+	<block key="QU_0_0_0032_Name" korean="Очищенные плиты" />
+	<block key="QU_0_0_0033_Name" korean="Аптечка" />
+	<block key="QU_0_0_0034_Name" korean="Хорошее качество повязку" />
+	<block key="QU_0_0_0035_Name" korean="Sparkly кристалл" />
+	<block key="QU_0_0_0036_Name" korean="Для исторического Fox" />
+	<block key="QU_0_0_0037_Name" korean="Фармацевтическая упаковка" />
+	<block key="QU_0_0_0037_description" korean="Археологические руины должны попытаться выиграть до патрулирования в южной Бориса" />
+	<block key="QU_0_0_0038_Name" korean="Малый пергамент фармацевтическое название" />
+	<block key="QU_0_0_0038_description" korean="Если попытаться быть вокруг зелья купца Shenron тамплиеров гарнизона Coleman" />
+	<block key="QU_0_0_0039_Name" korean="Сердце taseulran" />
+	<block key="QU_0_0_0039_description" korean="Паук сердце чувствовать себя плохо. Очень здорово." />
+	<block key="QU_0_0_0040_Name" korean="Ведро с священником воды" />
+	<block key="QU_0_0_0040_description" korean="Вода содержится получил от Сэма" />
+	<block key="QU_0_0_0041_Name" korean="Письмо Ворона" />
+	<block key="QU_0_0_0043_Name" korean="Клыки Призрачного паука" />
+	<block key="QU_0_0_0044_Name" korean="Таблетки древних эльфийских" />
+	<block key="QU_0_0_0044_description" korean="Древний эльф писал Резные" />
+	<block key="QU_0_0_0045_Name" korean="Кожа сердитым рыжей лисы" />
+	<block key="QU_0_0_0046_Name" korean="Твердые дикие зубы кабана" />
+	<block key="QU_0_0_0047_Name" korean="Кровоостанавливающие разведчики хотели" />
+	<block key="QU_0_0_0047_description" korean="Эффективное гемостаза и рана" />
+	<block key="QU_0_0_0048_Name" korean="Ожерелье для колдовства в Brage" />
+	<block key="QU_0_0_0048_description" korean="Brage шаман с помощью колдовства ритуальные ожерелья" />
+	<block key="QU_0_0_0049_Name" korean="Оленина" />
+	<block key="QU_0_0_0049_description" korean="Оленина. Иногда вы едите деликатесы." />
+	<block key="QU_0_0_0050_Name" korean="Кровь в тени" />
+	<block key="QU_0_0_0050_description" korean="Кровь головоломки. Остальные следы крови исчезли в одно мгновение." />
+	<block key="QU_0_0_0051_Name" korean="Паук жидкости" />
+	<block key="QU_0_0_0051_description" korean="Заполненные жидкостью тело паука." />
+	<block key="QU_0_0_0052_Name" korean="Анальгетики Elf" />
+	<block key="QU_0_0_0052_description" korean="Если вы знаете, вещи, которые эльфы не нравится писать специальный болеутоляющее." />
+	<block key="QU_0_0_0053_Name" korean="Медвежья желчь" />
+	<block key="QU_0_0_0053_description" korean="Медвежья желчь. После того, как панацею." />
+	<block key="QU_0_0_0054_Name" korean="Оленьи рога" />
+	<block key="QU_0_0_0054_description" korean="И отличается от рогов, рога и есть. Может эффективности." />
+	<block key="QU_0_0_0055_Name" korean="Яд паука" />
+	<block key="QU_0_0_0055_description" korean="Яд паука. Если взрослые вряд ли умереть." />
+	<block key="QU_0_0_0056_Name" korean="Когти волка" />
+	<block key="QU_0_0_0056_description" korean="Когти, извлеченные из тела волка." />
+	<block key="QU_0_0_0057_Name" korean="Человеческую одежду волк" />
+	<block key="QU_0_0_0057_description" korean="Человек-волк, который носил одежду." />
+	<block key="QU_0_0_0058_Name" korean="Доказательство пастухов" />
+	<block key="QU_0_0_0058_description" korean="Мок Мок капитан выпустил маркер. Несанкционированное скота является незаконным. Владелец Грег." />
+	<block key="QU_0_0_0059_Name" korean="Человек волк кожа" />
+	<block key="QU_0_0_0059_description" korean="Волк кожа урезала в организме человека." />
+	<block key="QU_0_0_0060_Name" korean="Сердце медведя" />
+	<block key="QU_0_0_0060_description" korean="Сердце медведя. Довольно большой." />
+	<block key="QU_0_0_0061_Name" korean="Доказательство охотника толстой кишки" />
+	<block key="QU_0_0_0061_description" korean="Королевство удостоверение охотника толстой кишки. Несанкционированное охота является незаконным. Владелец Джек." />
+	<block key="QU_0_0_0062_Name" korean="Дневник Джека (книга)" />
+	<block key="QU_0_0_0062_description" korean="Джек написал свою вариацию дневник. Охота журнал-подобный формат." />
+	<block key="QU_0_0_0063_Name" korean="Отчет о руинах огонь поглотил" />
+	<block key="QU_0_0_0063_description" korean="Скауты выиграл конуса seuran SUGA письменный отчет. Это произошло в руинах пожарных ласточек описаны." />
+	<block key="QU_0_0_0064_Name" korean="Еда мешок" />
+	<block key="QU_0_0_0064_description" korean="Мешок, наполненный едой. Довольно тяжелый." />
+	<block key="QU_0_0_0065_Name" korean="Сияющий Дерево решений" />
+	<block key="QU_0_0_0065_description" korean="Решение дерево, которое растет в Мавритании четырех озер. Мощность патрона, как сообщается, живут." />
+	<block key="QU_0_0_0067_Name" korean="Расширенные пакеты" />
+	<block key="QU_0_0_0067_description" korean="Пакет, содержащий расширение." />
+	<block key="QU_0_0_0068_Name" korean="Доска" />
+	<block key="QU_0_0_0068_description" korean="Просторный дощатый." />
+	<block key="QU_0_0_0069_Name" korean="Перчатки арбалет мастеру" />
+	<block key="QU_0_0_0069_description" korean="Неуклюжим, но прочно обработанные кожаные перчатки" />
+	<block key="QU_0_0_0070_Name" korean="Смок арбалет мастер" />
+	<block key="QU_0_0_0070_description" korean="Специально разработанные одежду, чтобы защитить тело от токсичных химических веществ" />
+	<block key="QU_0_0_0071_Name" korean="Внучка Кукольный" />
+	<block key="QU_0_0_0071_description" korean="Куклы подходят для еды пять или шесть девушек." />
+	<block key="QU_0_0_0072_Name" korean="Кролик" />
+	<block key="QU_0_0_0072_description" korean="Мясо кролика является ярко-красный." />
+	<block key="QU_0_0_0074_Name" korean="Нектар пчелы мешок" />
+	<block key="QU_0_0_0074_description" korean="Вытащил из уменьшаться. Kkuljip пчел." />
+	<block key="QU_0_0_0075_Name" korean="Сотовые штук" />
+	<block key="QU_0_0_0075_description" korean="Сотовый украсить преследовать всех пчел. Aebeolrae остаются." />
+	<block key="QU_0_0_0077_Name" korean="Приветствие" />
+	<block key="QU_0_0_0077_description" korean="Письма с просьбой о безопасности." />
+	<block key="QU_0_0_0078_Name" korean="Любовное письмо" />
+	<block key="QU_0_0_0078_description" korean="Выпишите носик от как отметка сердца." />
+	<block key="QU_0_0_0079_Name" korean="Глава для Werewolf" />
+	<block key="QU_0_0_0079_description" korean="Wolf ppaemun язык человеческий волос." />
+	<block key="QU_0_0_0080_Name" korean="Кролик футов" />
+	<block key="QU_0_0_0080_description" korean="Чтобы вырезать из кролика." />
+	<block key="QU_0_0_0081_Name" korean="Kingdoms команд Глава 4 звезды" />
+	<block key="QU_0_0_0081_description" korean="Эта команда главе об общих бизнес Королевства." />
+	<block key="QU_0_0_0082_Name" korean="Из высококачественной кожи" />
+	<block key="QU_0_0_0082_description" korean="Загорелая и гладкой кожи." />
+	<block key="QU_0_0_0083_Name" korean="Оболочка черепахи" />
+	<block key="QU_0_0_0083_description" korean="Удаляют мясо, такое как жесткий оболочки." />
+	<block key="QU_0_0_0084_Name" korean="Рога буйвола" />
+	<block key="QU_0_0_0084_description" korean="Плавно изогнутые рога наконечником Буффало." />
+	<block key="QU_0_0_0085_Name" korean="Волк Мясо" />
+	<block key="QU_0_0_0085_description" korean="Тяжелая norinnae волк мясо. Кроме того, быть жестким." />
+	<block key="QU_0_0_0087_Name" korean="Кай-Eyed в городе Чатем" />
+	<block key="QU_0_0_0087_description" korean="Один глаз был слева от Chatham моря." />
+	<block key="QU_0_0_0088_Name" korean="Зубы кабана" />
+	<block key="QU_0_0_0088_description" korean="Длинные, острые зубы кабана." />
+	<block key="QU_0_0_0089_Name" korean="Кожа Черная пантера" />
+	<block key="QU_0_0_0089_description" korean="Черная пантера кожи того же цвета, как небо." />
+	<block key="QU_0_0_0090_Name" korean="Сочные говядины" />
+	<block key="QU_0_0_0090_description" korean="Купить куски упругости." />
+	<block key="QU_0_0_0091_Name" korean="Кровь вампира" />
+	<block key="QU_0_0_0091_description" korean="Кровь вампира извиваться высокую вязкость." />
+	<block key="QU_0_0_0092_Name" korean="Кровь сердитый буйвол" />
+	<block key="QU_0_0_0092_description" korean="Странно кровь буйвола близкий к черному." />
+	<block key="QU_0_0_0093_Name" korean="Куча овощей" />
+	<block key="QU_0_0_0093_description" korean="Singsingham поддержания овощи." />
+	<block key="QU_0_0_0094_Name" korean="Еда мешок" />
+	<block key="QU_0_0_0094_description" korean="Сумки заполнены зерном." />
+	<block key="QU_0_0_0095_Name" korean="Семенной мешки" />
+	<block key="QU_0_0_0095_description" korean="Siat мешков, наполненных зерен и овощей." />
+	<block key="QU_0_0_0096_Name" korean="Оса жалит" />
+	<block key="QU_0_0_0096_description" korean="Удалить из осы прикладом звучали." />
+	<block key="QU_0_0_0097_Name" korean="Осиное гнездо часть" />
+	<block key="QU_0_0_0097_description" korean="Все осы осы преследовали украсить дом. Используется в качестве лекарственного средства." />
+	<block key="QU_0_0_0098_Name" korean="Королевы жало kwinbi" />
+	<block key="QU_0_0_0098_description" korean="Другие осы и большой жало имеет себе равных." />
+	<block key="QU_0_0_0099_Name" korean="Доказательство Кобб быть церковь" />
+	<block key="QU_0_0_0099_description" korean="Кобб пишется доказательства, чтобы доказать, что Мормона." />
+	<block key="QU_0_0_0100_Name" korean="Глава команды Генерального инспектора" />
+	<block key="QU_0_0_0100_description" korean="Глава Command Генеральный инспектор Королевства в использовании. Администрация почти универсальным." />
+	<block key="QU_0_0_0101_Name" korean="Зубы Черных Пантер" />
+	<block key="QU_0_0_0101_description" korean="Острые зубы Черных Пантер." />
+	<block key="QU_0_0_0103_Name" korean="Кинжал договора" />
+	<block key="QU_0_0_0103_description" korean="Кинжал используется, чтобы сделать темно-мастера крещение последователем тьмы." />
+	<block key="QU_0_0_0105_Name" korean="Свежие овощи" />
+	<block key="QU_0_0_0105_description" korean="Яркие цвета овощей." />
+	<block key="QU_0_0_0106_Name" korean="Свежий мясо кролика" />
+	<block key="QU_0_0_0106_description" korean="Мясо кролика является яркими цветами." />
+	<block key="QU_0_0_0107_Name" korean="Клык вампира" />
+	<block key="QU_0_0_0107_description" korean="Долго, выращенные клыки вампира. Отверстия просверлены." />
+	<block key="QU_0_0_0108_Name" korean="Оборотень когти" />
+	<block key="QU_0_0_0108_description" korean="Волк коготь извлечены из организма человека. Никакого оружия или разными." />
+	<block key="QU_0_0_0109_Name" korean="Доказательство Кобб быть церковь" />
+	<block key="QU_0_0_0109_description" korean="Кобб пишется доказательства, чтобы доказать, что Мормона." />
+	<block key="QU_0_0_0110_Name" korean="Ноги ледяной паука" />
+	<block key="QU_0_0_0110_description" korean="Ноги мороз холод, жуткий вид паука. Некоторые люди получают высокую оценку, потому что лучшая еда." />
+	<block key="QU_0_0_0111_Name" korean="Дневник коммерческого агента Саран" />
+	<block key="QU_0_0_0112_Name" korean="Минеральная естественное состояние" />
+	<block key="QU_0_0_0113_Name" korean="Когти детеныша" />
+	<block key="QU_0_0_0114_Name" korean="Объявления Кара De Pirate" />
+	<block key="QU_0_0_0115_Name" korean="Медведь единственным" />
+	<block key="QU_0_0_0115_description" korean="Самый вкусный медведь единственным известным из тела медведя" />
+	<block key="QU_0_0_0116_Name" korean="Изменить рог" />
+	<block key="QU_0_0_0116_description" korean="Модифицированные только очевидные модификации рога. Рога оборудованы для работы с живыми." />
+	<block key="QU_0_0_0117_Name" korean="Кровь Волка" />
+	<block key="QU_0_0_0117_description" korean="Кровь волка. Если вы не говорите мне, на ум не собираются специально, чтобы собрать звук." />
+	<block key="QU_0_0_0118_Name" korean="Мозг большой вселенной" />
+	<block key="QU_0_0_0118_description" korean="С ума по неизвестной причине мозга крупного рогатого скота. Эти люди не едят коровы являются сомнительными." />
+	<block key="QU_0_0_0119_Name" korean="Медвежья шкура" />
+	<block key="QU_0_0_0119_description" korean="Хотя сложный процесс, но прочной кожи этих медведей." />
+	<block key="QU_0_0_0121_Name" korean="Красный плоть черепахи" />
+	<block key="QU_0_0_0121_description" korean="Хорошая текстура и простой мясо черепахи" />
+	<block key="QU_0_0_0122_Name" korean="Dokni из HYDRUS" />
+	<block key="QU_0_0_0122_description" korean="Dokni достаточно, чтобы использовать в качестве воды змея указал иглы" />
+	<block key="QU_0_0_0123_Name" korean="Пил HYDRUS" />
+	<block key="QU_0_0_0123_description" korean="Змеиная кожа Вода мягкая и прочная" />
+	<block key="QU_0_0_0124_Name" korean="Мясо HYDRUS" />
+	<block key="QU_0_0_0124_description" korean="Удивительно вкусный водяная змея мясо. Курица с подобной структуры." />
+	<block key="QU_0_0_0125_Name" korean="Elemental порошок" />
+	<block key="QU_0_0_0125_description" korean="Wisp порошок при выходе из фильеры. Использование мастера, который что-то ...?" />
+	<block key="QU_0_0_0126_Name" korean="Воловья кожа" />
+	<block key="QU_0_0_0126_description" korean="Корова кожа. Универсальный." />
+	<block key="QU_0_0_0127_Name" korean="Говядина" />
+	<block key="QU_0_0_0127_description" korean="Мяса крупного рогатого скота. Универсальный." />
+	<block key="QU_0_0_0128_Name" korean="Дикий бизон кожа" />
+	<block key="QU_0_0_0128_description" korean="Грубый и жесткий негнездящихся кожа буйвола." />
+	<block key="QU_0_0_0129_Name" korean="Жесткое мясо бизона" />
+	<block key="QU_0_0_0129_description" korean="Лот жесткой мясо буйвола импульса. Не то, чтобы поесть." />
+	<block key="QU_0_0_0130_Name" korean="Кожа оленя" />
+	<block key="QU_0_0_0130_description" korean="Мягкая выделкой кожи. Используется в люксовых кожаных товаров." />
+	<block key="QU_0_0_0131_Name" korean="Толстые коровы рога" />
+	<block key="QU_0_0_0131_description" korean="Прочные коровьих рогов. Универсальный." />
+	<block key="QU_0_0_0132_Name" korean="Острые рога крупного рогатого скота" />
+	<block key="QU_0_0_0132_description" korean="Doldol необычно острые сухие коровьи рога. Где провести как-то неудобно." />
+	<block key="QU_0_0_0133_Name" korean="Viper Кожа" />
+	<block key="QU_0_0_0133_description" korean="Кожа Viper" />
+	<block key="QU_0_0_0134_Name" korean="Viper рыбы" />
+	<block key="QU_0_0_0134_description" korean="Мясо змеи" />
+	<block key="QU_0_0_0135_Name" korean="Граф особняк стоит прямо" />
+	<block key="QU_0_0_0135_description" korean="Стоя право доказывать владение графа жительства" />
+	<block key="QU_0_0_0136_Name" korean="Фолиант Тьмы" />
+	<block key="QU_0_0_0136_description" korean="Томе неизвестно. Когда вы закрываете кажется проклят." />
+	<block key="QU_0_0_0137_Name" korean="Ножи порывов" />
+	<block key="QU_0_0_0137_description" korean="Порыв нож шеф-повара был граф использования. Меч одна цена." />
+	<block key="QU_0_0_0138_Name" korean="Подарки, присланные на галантерейщик" />
+	<block key="QU_0_0_0138_description" korean="Вильнев был подготовлен и тщательно упакованы Лоа качественно" />
+	<block key="QU_0_0_0139_Name" korean="Подарки, отправляемых в Банк" />
+	<block key="QU_0_0_0139_description" korean="Вильнев был подготовлен и тщательно упакованы Лоа качественно" />
+	<block key="QU_0_0_0140_Name" korean="Подарки Портал направляется в компании" />
+	<block key="QU_0_0_0140_description" korean="Вильнев был подготовлен и тщательно упакованы Лоа качественно" />
+	<block key="QU_0_0_0141_Name" korean="Подарки, отправленные к ближнему статьи" />
+	<block key="QU_0_0_0141_description" korean="Вильнев был подготовлен и тщательно упакованы Лоа качественно" />
+	<block key="QU_0_0_0142_Name" korean="Серебристый стейк лосося" />
+	<block key="QU_0_0_0142_description" korean="Вкусные жареная рыба стейк" />
+	<block key="QU_0_0_0143_Name" korean="Ли Нетаньяху Crystal Ball" />
+	<block key="QU_0_0_0143_description" korean="Правда о таинственных бусин с помощью мастера" />
+	<block key="QU_0_0_0146_Name" korean="Подарок Кенни" />
+	<block key="QU_0_0_0146_description" korean="Кенни отправляется в Adina подарков. Называемую продовольственную воспоминания от дома." />
+	<block key="QU_0_0_0147_Name" korean="Tongppyeo из вепря" />
+	<block key="QU_0_0_0147_description" korean="Твердые кости по камню. Ну не ломаются." />
+	<block key="QU_0_0_0148_Name" korean="Brage топор" />
+	<block key="QU_0_0_0148_description" korean="Плохо топор сделаны из твердой стали. Сталь отходов." />
+	<block key="QU_0_0_0149_Name" korean="Клык лисы" />
+	<block key="QU_0_0_0149_description" korean="Маленькие, острые клыки." />
+	<block key="QU_0_0_0150_Name" korean="Интегрированы игрушки инструмент" />
+	<block key="QU_0_0_0150_description" korean="Кости диких кабанов молоток, собак иглы, подобрать инструменты, в том числе топором, изготовленной из материалов, собранных выходной день. Тем не менее, отличный инструмент, так трудно сказать игрушек." />
+	<block key="QU_0_0_0151_Name" korean="Заклинание мест" />
+	<block key="QU_0_0_0151_description" korean="Запись мастер заклинания и камни не возможно активировать любой человек. Есть еще пуст." />
+	<block key="QU_0_0_0153_Name" korean="Книга План Саран бит памяти" />
+	<block key="QU_0_0_0153_description" korean="Книга памяти был частью плана по сбору Саран немного." />
+	<block key="QU_0_0_0154_Name" korean="Заявление Договор питья" />
+	<block key="QU_0_0_0154_description" korean="Договор низкой степени темный маг, что saegyeoya тело. Даже после смерти не есть хорошо для душа падает из организма." />
+	<block key="QU_0_0_0155_Name" korean="Магия Тьмы" />
+	<block key="QU_0_0_0155_description" korean="Использование темную магию волшебника. Именно то, что, естественно, не существует в современном мире магии, что силы тьмы в использовании." />
+	<block key="QU_0_0_0156_Name" korean="HP Web тела" />
+	<block key="QU_0_0_0156_description" korean="Паутина орган, созданный в результате оккупации samneun Шаман прокляты. В последние годы, используется для покрытия жизненный работу вариации темной магии." />
+	<block key="QU_0_0_0157_Name" korean="Sidok" />
+	<block key="QU_0_0_0157_description" korean="Яд коррумпированной тела. И, чтобы вызвать сильную атаку." />
+	<block key="QU_0_0_0158_Name" korean="Коррумпированные сердце" />
+	<block key="QU_0_0_0158_description" korean="Церковь тела от тела моего темного сердца магии. Коррупция играет INDE состояние." />
+	<block key="QU_0_0_0159_Name" korean="Хорн Imp" />
+	<block key="QU_0_0_0159_description" korean="По сравнению с антеннами насекомых. Он также выступает в качестве волшебной палочки." />
+	<block key="QU_0_0_0160_Name" korean="Мощность Impreza мест" />
+	<block key="QU_0_0_0160_description" korean="По сравнению с человеческого сердца. Толчком для создания лошадиных сил тьмы." />
+	<block key="QU_0_0_0161_Name" korean="Медвежьих невредимым" />
+	<block key="QU_0_0_0161_description" korean="Какие вопросы не больно медвежья шкура поймали." />
+	<block key="QU_0_0_0162_Name" korean="Кожа Черная пантера" />
+	<block key="QU_0_0_0162_description" korean="Какие вопросы поймать кожа" />
+	<block key="QU_0_0_0163_Name" korean="Мобильная Elf еда" />
+	<block key="QU_0_0_0163_description" korean="Портативный видение эльфов. Этот слух не режет ваше здоровье в любых условиях. Но на самом деле вкус ..." />
+	<block key="QU_0_0_0164_Name" korean="Yeti кожа, такие как сталь" />
+	<block key="QU_0_0_0164_description" korean="Кожа, очень прочный Yeti воины" />
+	<block key="QU_0_0_0165_Name" korean="Exergy выращенные монеты" />
+	<block key="QU_0_0_0165_description" korean="Exergy светит золотые монеты вырос. Вынес лишь в редких золотых монет, которые Раскопки возбудителя, выращенных Лоулесс. С появлением этого что-то особенное квестов." />
+	<block key="QU_0_0_0166_Name" korean="Ahsyuram броня украшения" />
+	<block key="QU_0_0_0166_description" korean="Часть доспехов старую форму" />
+	<block key="QU_0_0_0167_Name" korean="Exergy магические знаки возраста и поднял" />
+	<block key="QU_0_0_0167_description" korean="Заклинание, необычные знаки. Зловещая аура gamdonda вероятность загрязнения перед чужие руки." />
+	<block key="QU_0_0_0168_Name" korean="Следы собранного света" />
+	<block key="QU_0_0_0168_description" korean="Я чувствую след бога света Эллоры." />
+	<block key="QU_0_0_0169_Name" korean="Собранные лошадиных сил смерть" />
+	<block key="QU_0_0_0169_description" korean="Почувствуйте признаки смерти." />
+	<block key="QU_0_0_0170_Name" korean="Старый кожаный мешок" />
+	<block key="QU_0_0_0170_description" korean="Мешки авантюристов Стивенс." />
+	<block key="QU_0_0_0173_Name" korean="Канас и Великая Печать" />
+	<block key="QU_0_0_0173_description" korean="Остатки Эллоры, но теперь, как он используется в качестве Великой Печати." />
+	<block key="QU_0_0_0174_Name" korean="Сумка медведя охотники Гюнтер" />
+	<block key="QU_0_0_0174_description" korean="Немного старый мешок. Это довольно тяжело." />
+	<block key="QU_0_0_0176_Name" korean="Плодотворное тело экрана на" />
+	<block key="QU_0_0_0176_description" korean="Оттенки, сообщите нам свежесть. Выглядит очень свежо." />
+	<block key="QU_0_0_0177_Name" korean="Свежий мясо черепахи" />
+	<block key="QU_0_0_0177_description" korean="Оттенки, сообщите нам свежесть. Jjolgit выглядит здорово." />
+	<block key="QU_0_0_0178_Name" korean="Cara-де-пиратов оружие" />
+	<block key="QU_0_0_0178_description" korean="Посещение в качестве маркера оружия ясно, что Кара-де-пирата." />
+	<block key="QU_0_0_0179_Name" korean="Доспехи Кара-де-пират" />
+	<block key="QU_0_0_0179_description" korean="Рассматривается как маркер брони ясно, что Кара-де-пирата." />
+	<block key="QU_0_0_0180_Name" korean="Высокие взрывчатые вещества" />
+	<block key="QU_0_0_0180_description" korean="Страж Maxima, кажется, хватает, так это бомба замедленного действия. Deutsipda хорошей идеей, чтобы принести быстро." />
+	<block key="QU_0_0_0181_Name" korean="Написать пиратский босс, который" />
+	<block key="QU_0_0_0181_description" korean="Написать пират босс получает на регулярной основе. Собираюсь есть предчувствие, есть инструкция по ним." />
+	<block key="QU_0_0_0182_Name" korean="Морепродукты кастрюли команды" />
+	<block key="QU_0_0_0182_description" korean="Кастрюля блюдо для mureo mijok. Mureo mijok на вкус очень прилично в?" />
+	<block key="QU_0_0_0183_Name" korean="Деревянный ксилофон" />
+	<block key="QU_0_0_0183_description" korean="Деревянный ксилофон сделано для mureo mijok. Уникальный звук, как мне кажется." />
+	<block key="QU_0_0_0184_Name" korean="Твердые деревянные скульптуры Рамми" />
+	<block key="QU_0_0_0184_description" korean="Рамми является недревесных лесных статуи, сделанные для mureo mijok." />
+	<block key="QU_0_0_0185_Name" korean="Торговое соглашение ювелирные изделия" />
+	<block key="QU_0_0_0185_description" korean="Гейл maekbein является договор сделка с сердитым mureo mijok #" />
+	<block key="QU_0_0_0186_Name" korean="Залог жизни" />
+	<block key="QU_0_0_0186_description" korean="Гейл maekbein является залогом жизни, и иметь дело с сердитым mureo mijok #" />
+	<block key="QU_0_0_0187_Name" korean="Весы русалки" />
+	<block key="QU_0_0_0187_description" korean="Сирена Русалка королева подарила русалка весы" />
+	<block key="QU_0_0_0188_Name" korean="Усадьба маркер" />
+	<block key="QU_0_0_0188_description" korean="Волна маркеры Ларк Янг Jimin. Эмитент Рондо." />
+	<block key="QU_0_0_0189_Name" korean="Морская ракушка" />
+	<block key="QU_0_0_0189_description" korean="Seashell, который считается самым дорогим материалом в без пор Рамми" />
+	<block key="QU_0_0_0190_Name" korean="Черные корунд драгоценные камни" />
+	<block key="QU_0_0_0190_description" korean="Кажется, мне нужно сделать чашу, которая будет содержать благословения Parque и богинь." />
+	<block key="QU_0_0_0191_Name" korean="Красные корунды камни" />
+	<block key="QU_0_0_0191_description" korean="Кажется, мне нужно сделать чашу, которая будет содержать благословения Parque и богинь." />
+	<block key="QU_0_0_0192_Name" korean="Синий корунд драгоценный камень" />
+	<block key="QU_0_0_0192_description" korean="Кажется, мне нужно сделать чашу, которая будет содержать благословения Parque и богинь." />
+	<block key="QU_0_0_0193_Name" korean="Ручной работы инструменты круассаны Куна" />
+	<block key="QU_0_0_0193_description" korean="Kuhn круассаны наполнены духом пор высокий инструмента." />
+	<block key="QU_0_0_0194_Name" korean="Рисование воды кулон" />
+	<block key="QU_0_0_0194_description" korean="Посмотреть для принятия воды кулон. Кажется, довольно трудно интерпретировать." />
+	<block key="QU_0_0_0195_Name" korean="Вода подвеска незаконченный" />
+	<block key="QU_0_0_0195_description" korean="Незаконченный воды кулон. Потому что даже близко к идеальному себя, кажется незаконченным." />
+	<block key="QU_0_0_0196_Name" korean="Святая вода" />
+	<block key="QU_0_0_0196_description" korean="Это инструмент, чтобы помочь вам решить проклятие льда." />
+	<block key="QU_0_0_0197_Name" korean="Черный ароматное дерево" />
+	<block key="QU_0_0_0197_description" korean="Аромат любви, кажется, материал для изготовления душу." />
+	<block key="QU_0_0_0198_Name" korean="Аромат любви души" />
+	<block key="QU_0_0_0198_description" korean="Кажется, носитель, который может говорить с духами." />
+	<block key="QU_0_0_0199_Name" korean="Письмо Поморское 0 акций" />
+	<block key="QU_0_0_0202_Name" korean="Медь банк" />
+	<block key="QU_0_0_0202_description" korean="Рид Код банка Verna крыла ветра деревни." />
+	<block key="QU_0_0_0203_Name" korean="Подвеска судна" />
+	<block key="QU_0_0_0203_description" korean="Ум дедушки пытается поощрять дерево для бутылки крыла Мэтт код содержится." />
+	<block key="QU_0_0_0204_Name" korean="Черепаха мясо" />
+	<block key="QU_0_0_0204_description" korean="Черепаха мясо так хорошо мощность записи. Это не выглядит аппетитно." />
+	<block key="QU_0_0_0205_Name" korean="Душистые травы" />
+	<block key="QU_0_0_0205_description" korean="Свежесобранные травы, травы в. Облицовка подслушиванию пахнет приятный запах. Sniff, нюхать ...!" />
+	<block key="QU_0_0_0206_Name" korean="Медведь Жан Вуд" />
+	<block key="QU_0_0_0206_description" korean="Ингредиенты для приготовления санях." />
+	<block key="QU_0_0_0207_Name" korean="Письма и конверты с деньгами" />
+	<block key="QU_0_0_0207_description" korean="Филипп Слейтер последние остатки оставленные сестрой, Мелисса Слейтера gamyeo умереть." />
+	<block key="QU_0_0_0208_Name" korean="Блестящий камень" />
+	<block key="QU_0_0_0208_description" korean="Игристое камень в озеро жизни. Не загрязнять свет youngrong." />
+	<block key="QU_0_0_0209_Name" korean="Тинкер созданный ожерелье" />
+	<block key="QU_0_0_0209_description" korean="Mureo mijok и исследователь Пол Туристические расы для того, чтобы узнать это ожерелье изготовлен." />
+	<block key="QU_0_0_0210_Name" korean="Бесплатный странный ноу" />
+	<block key="QU_0_0_0210_description" korean="Рамми знаю, что никто не будет youngrong свет." />
+	<block key="QU_0_0_0211_Name" korean="Кольца богини" />
+	<block key="QU_0_0_0211_description" korean="Парр, кажется, звонит или богиня. Простой дизайн, чем вы думаете." />
+	<block key="QU_0_0_0212_Name" korean="Джим пакет" />
+	<block key="QU_0_0_0212_description" korean="Reed ветер жители поставить багажа, завернутый пакет" />
+	<block key="QU_0_0_0213_Name" korean="Продлить ящик для инструмента" />
+	<block key="QU_0_0_0213_description" korean="Кузнец Чак Вейл, на длительный отпуск дома инструментов." />
+	<block key="QU_0_0_0214_Name" korean="Мешки с едой" />
+	<block key="QU_0_0_0214_description" korean="Чак содержит кузнеца вуаль жена сделала еду." />
+	<block key="QU_0_0_0215_Name" korean="Инструменты" />
+	<block key="QU_0_0_0215_description" korean="Рон Vale кузнец, который, кажется chaenggiji инструментов." />
+	<block key="QU_0_0_0216_Name" korean="Пора Toolbox" />
+	<block key="QU_0_0_0216_description" korean="Ящик с инструментами пор. Довольно тяжелый." />
+	<block key="QU_0_0_0217_Name" korean="Проба воды дух" />
+	<block key="QU_0_0_0217_description" korean="Проба воды дух отказаться от температуры окружающей среды." />
+	<block key="QU_0_0_0218_Name" korean="Детские игрушки бесплатно Рамми" />
+	<block key="QU_0_0_0218_description" korean="Дети mureo игрушку моды в период с середины. Четыре, кажется, друг Марии." />
+	<block key="QU_0_0_0219_Name" korean="Тотем сознание" />
+	<block key="QU_0_0_0219_description" korean="Дзен ритуал Тотем Wangnunyi kinteu украл арендует. Кажется, чувствовать эту таинственную ауру." />
+	<block key="QU_0_0_0220_Name" korean="Письмо старшего мастера" />
+	<block key="QU_0_0_0220_description" korean="Croix Kuhn старший мастер в письме, написанном по почерку." />
+	<block key="QU_0_0_0221_Name" korean="Jjondeuk краба мясо" />
+	<block key="QU_0_0_0221_description" korean="Просто, чтобы стимулировать аппетит, как от крабового мяса с свежести." />
+	<block key="QU_0_0_0222_Name" korean="Крюк" />
+	<block key="QU_0_0_0222_description" korean="Материал записан в сани тормоза." />
+	<block key="QU_0_0_0223_Name" korean="Mureo mijok плавник" />
+	<block key="QU_0_0_0223_description" korean="Обрезается плавник mureo mijok. Кто? Вы можете сделать это!" />
+	<block key="QU_0_0_0224_Name" korean="Водные весы" />
+	<block key="QU_0_0_0224_description" korean="Если вы внимательно посмотрите на весы с пестрыми цветами." />
+	<block key="QU_0_0_0225_Name" korean="Краб Shield Shell" />
+	<block key="QU_0_0_0225_description" korean="Рамми начинающим называют не-пор тратят много материала." />
+	<block key="QU_0_0_0226_Name" korean="Кожа головы ботов Глок" />
+	<block key="QU_0_0_0226_description" korean="Кожа вряд ли будет абсолютным слеза." />
+	<block key="QU_0_0_0227_Name" korean="Айша платье" />
+	<block key="QU_0_0_0227_description" korean="Гой является скромным платье на груди. Почувствуйте элегантность их владельцев." />
+	<block key="QU_0_0_0228_Name" korean="Фото Melissa" />
+	<block key="QU_0_0_0228_description" korean="Фотография детства Мелисса. Мелисса в картине невинная улыбка." />
+	<block key="QU_0_0_0229_Name" korean="Вяленое мясо" />
+	<block key="QU_0_0_0229_description" korean="Поместите мясо нужно держать сухим. Кажется, немного peokpeok." />
+	<block key="QU_0_0_0230_Name" korean="Жезл железный ключ" />
+	<block key="QU_0_0_0230_description" korean="Мика является ключом к жезлом железным mureo ловушке." />
+	<block key="QU_0_0_0231_Name" korean="Тонг мост" />
+	<block key="QU_0_0_0231_description" korean="Зажим щита краба ног. Jjip плоть himyeon, кажется, падает." />
+	<block key="QU_0_0_0232_Name" korean="Потерянное оружие" />
+	<block key="QU_0_0_0232_description" korean="Это, кажется, что исчезнувшая деревенька бдительности тростника ветер оружие." />
+	<block key="QU_0_0_0233_Name" korean="Глаз Ладан" />
+	<block key="QU_0_0_0233_description" korean="В древние времена, источником власти на сомнительную Ладан был уничтожить мир. Имеет право очаровать mureo mijok." />
+	<block key="QU_0_0_0235_Name" korean="Письмо воды Шаман" />
+	<block key="QU_0_0_0235_description" korean="Письмо написано Айша воды шамана" />
+	<block key="QU_0_0_0236_Name" korean="Карта сокровищ" />
+	<block key="QU_0_0_0236_description" korean="Где кольцо Пардо или кредитной ты написал, кажется, карта сокровищ дисплей." />
+	<block key="QU_0_0_0238_Name" korean="Полное ведро" />
+	<block key="QU_0_0_0238_description" korean="Содержимое ведра заполнен." />
+	<block key="QU_0_0_0239_Name" korean="Чеснок не может быть переварены" />
+	<block key="QU_0_0_0239_description" korean="Чеснок части, найденные в желудке Крюгера. Я, кажется, не жевать не мог быть переварены." />
+	<block key="QU_0_0_0240_Name" korean="Перед инкубационных яиц" />
+	<block key="QU_0_0_0240_description" korean="Ranger рассматривается как набор называется шторм отверстие легко." />
+	<block key="QU_0_0_0242_Name" korean="Сухожилия волка" />
+	<block key="QU_0_0_0242_description" korean="Прочный волк арбалет используется в сухожилия hwaljul" />
+	<block key="QU_0_0_0243_Name" korean="Арбалет Запчасти" />
+	<block key="QU_0_0_0243_description" korean="Ключевой компонент для производства в течение арбалета" />
+	<block key="QU_0_0_0244_Name" korean="Весы Феникса" />
+	<block key="QU_0_0_0244_description" korean="Весы пламени ryongjok Феникс, Феникс доказательств, чтобы доказать, что вторжение было" />
+	<block key="QU_0_0_0245_Name" korean="Три медведя единственным ног" />
+	<block key="QU_0_0_0245_description" korean="Подошвы из самых вкусных участие в медведя" />
+	<block key="QU_0_0_0246_Name" korean="Бычье сердце" />
+	<block key="QU_0_0_0246_description" korean="Жевательные вкус гриле блюдо, чтобы поесть" />
+	<block key="QU_0_0_0249_Name" korean="Ice ворот замка эксплуатации устройства" />
+	<block key="QU_0_0_0251_Name" korean="Некоторые из джиннов" />
+	<block key="QU_0_0_0251_description" korean="Рид часть духа воды, полученной из ветра села набережной." />
+	<block key="QU_0_0_0252_Name" korean="Гейл мешок maekbein" />
+	<block key="QU_0_0_0252_description" korean="Как-то я хочу видеть открыт." />
+	<block key="QU_0_0_0253_Name" korean="Определение фея" />
+	<block key="QU_0_0_0253_description" korean="Elkwineseu вещи, которые были фея" />
+	<block key="QU_0_0_0254_Name" korean="Ледяное сердце" />
+	<block key="QU_0_0_0254_Description" korean="Слишком круто." />
+	<block key="QU_0_0_0255_Name" korean="Ладена черепахи воды" />
+	<block key="QU_0_0_0255_Description" korean="Чистая вода озера жизни." />
+	<block key="QU_0_0_0256_Name" korean="Coleman сделал зелья лечения" />
+	<block key="QU_0_0_0256_Description" korean="Ромеро портал должен быть доставлен в компании." />
+	<block key="QU_0_0_0257_Name" korean="Рок осьминог усилители" />
+	<block key="QU_0_0_0257_Description" korean="Препарат выросли иметь невероятный рок осьминога." />
+	<block key="QU_0_0_0258_Name" korean="Этот материал Пираты Хищение" />
+	<block key="QU_0_0_0258_Description" korean="Haeteum упаковки товаров, изъятые из Parque мой дорогой земли." />
+	<block key="QU_0_0_0259_Name" korean="О психического фаворита" />
+	<block key="QU_0_0_0259_Description" korean="Этот дух ясно в течение некоторого времени" />
+	<block key="QU_0_0_0260_Name" korean="Гладкие шкурок." />
+	<block key="QU_0_0_0260_Description" korean="Просмотр редких шкурок. Продаем как увидим уже в самом выгоду." />
+	<block key="QU_0_0_0261_Name" korean="Stinger завоевание болезни" />
+	<block key="QU_0_0_0261_Description" korean="Хищные птицы также потрясающий укусы." />
+	<block key="QU_0_0_0262_Name" korean="Тяжелая сумка" />
+	<block key="QU_0_0_0262_Description" korean="Это довольно тяжело. Кажется, что содержат ценности." />
+	<block key="QU_0_0_0263_Name" korean="Магия сфера сознания" />
+	<block key="QU_0_0_0263_Description" korean="Кобб был волшебный горшок будучи старой церкви холм на ветру. Канаш также крылатую фразу и замок выглядел." />
+	<block key="QU_0_0_0264_Name" korean="Dew секунд" />
+	<block key="QU_0_0_0264_Description" korean="Травы, которые уменьшают боль раны." />
+	<block key="QU_0_0_0265_Name" korean="Tamseureon золото" />
+	<block key="QU_0_0_0265_Description" korean="Я жадный tamseureon золото. Мягкий зеленый свет gamdonda." />
+	<block key="QU_0_0_0266_Name" korean="Окраска власти темного мяса" />
+	<block key="QU_0_0_0266_Description" korean="Джек Хантер: есть оно приобретает свою жизнеспособность." />
+	<block key="QU_0_0_0267_Name" korean="Огонь Заказать" />
+	<block key="QU_0_0_0267_Description" korean="Вы можете выключить свет в магической силе" />
+	<block key="QU_0_0_0268_Name" korean="Порядок наименования Кобб Im" />
+	<block key="QU_0_0_0268_Description" korean="Келл писал, что Вудс приказал занять ферму" />
+	<block key="QU_0_0_0269_Name" korean="Улучшенная Молот Древних" />
+	<block key="QU_0_0_0269_Description" korean="Ослабить цепи вернется запечатанный тьмы к темноте снова." />
+	<block key="QU_0_0_0270_Name" korean="Определение активного фея" />
+	<block key="QU_0_0_0270_Description" korean="Когда небо стало появляться как привязанность сказочных огней вокруг пяти лир." />
+	<block key="QU_0_0_0271_Name" korean="Кольцо потерял свет" />
+	<block key="QU_0_0_0271_Description" korean="Был первоначально блестящие кольца упал потерять свет." />
+	<block key="QU_0_0_0272_Name" korean="Royal кольцо" />
+	<block key="QU_0_0_0272_Description" korean="Кольцо выгравированы знаки королевской семьи. Есть ли принцесса Рания? Давайте поговорим и Лена." />
+	<block key="QU_0_0_0273_Name" korean="Мясо дикого кабана" />
+	<block key="QU_0_0_0273_Description" korean="Мясо дикого кабана хорошо сделано" />
+	<block key="QU_0_0_0274_Name" korean="Интерпретация волшебные места" />
+	<block key="QU_0_0_0274_Description" korean="Интерпретация волшебный камень, который может быть слышал разговоры других рас" />
+	<block key="QU_0_0_0275_Name" korean="Носовой платок Кертис" />
+	<block key="QU_0_0_0275_Description" korean="Кертис не хотел прикасаться к платок, смоченный ttamnae" />
+	<block key="QU_0_0_0276_Name" korean="Книга написана возбудителя разводят характера" />
+	<block key="QU_0_0_0276_Description" korean="Канаш Королевство и провел предыдущий символ." />
+	<block key="QU_0_0_0277_Name" korean="Не унывайте на озере Фея" />
+	<block key="QU_0_0_0277_Description" korean="Существует еще таинственный ореол." />
+	<block key="QU_0_0_0278_Name" korean="Хорошее мясо говядины" />
+	<block key="QU_0_0_0278_Description" korean="Отлично мясо говядины" />
+	<block key="QU_0_0_0279_Name" korean="Кормление Единорог" />
+	<block key="QU_0_0_0279_Description" korean="Кормление редкий единорога приходит только бюстгальтер карбоновые северные лесные участки" />
+	<block key="QU_0_0_0280_Name" korean="Море число" />
+	<block key="QU_0_0_0280_Description" korean="Для очистки воды из моря и была завершена Каньяс для целых" />
+	<block key="QU_0_0_0281_Name" korean="Снег число" />
+	<block key="QU_0_0_0281_Description" korean="При обработке собранной Пардо в моей земле, и ледяные шапки в магию созданного на целое число" />
+	<block key="QU_0_0_0282_Name" korean="Огонь число" />
+	<block key="QU_0_0_0282_Description" korean="Постоянная сделал для конденсации энергию огня и сна в команде Каньяс jikhal" />
+	<block key="QU_0_0_0283_Name" korean="Музыкальное" />
+	<block key="QU_0_0_0283_Description" korean="Поэзия рассказывает об Икаре, чтобы путешествовать по миру зла." />
+	<block key="QU_0_0_0284_Name" korean="Альянс Тьмы" />
+	<block key="QU_0_0_0284_Description" korean="Написанный с точки зрения военного союза света с тьмой в свете альянса и погоды." />
+	<block key="QU_0_0_0285_Name" korean="Кто сделал четыре" />
+	<block key="QU_0_0_0285_Description" korean="4 данного автора неизвестные претензии романа был создан кому-то нужно" />
+	<block key="QU_0_0_0286_Name" korean="Гель Нарис" />
+	<block key="QU_0_0_0286_Description" korean="Discreet книга о рождении и секреты геля, содержащего Naris. Может только наказали." />
+	<block key="QU_0_0_0287_Name" korean="Запомнить ожерелье" />
+	<block key="QU_0_0_0287_Description" korean="Homers necklace've заблокированные память Лены вылил свою жизнь" />
+	<block key="QU_0_4_0001_Name" korean="Аль-уровня рабочего процесса" />
+	<block key="QU_0_4_0001_Description" korean="Любимое питательным и вкус популярного уровня документооборота среди знати ноу" />
+	<block key="QU_0_4_0002_Name" korean="Pegasus Рыцари маркеры" />
+	<block key="QU_0_4_0002_Description" korean="Отмечает конец ожесточенной погибших в результате боевых Pegasus статьи раздела" />
+	<block key="QU_0_4_0003_Name" korean="Ожерелье ewoo Witz" />
+	<block key="QU_0_4_0003_Description" korean="Старинный воротник излучает свет" />
+	<block key="QU_0_4_0004_Name" korean="Меч нигде" />
+	<block key="QU_0_4_0004_Description" korean="Сияющий меч нигде не теряя резкость" />
+	<block key="QU_0_4_0005_Name" korean="Вкусный рыбий жир" />
+	<block key="QU_0_4_0005_Description" korean="Некоторые рыбий жир надо просто вкуснее, чем мясо" />
+	<block key="QU_0_4_0006_Name" korean="Семена Света" />
+	<block key="QU_0_4_0006_Description" korean="Он Эллоры Богиня подарок мужчине семена он обнесен крепостной стеной света семена." />
+	<block key="QU_0_4_0007_Name" korean="Красная Броня птицы коготь порошок" />
+	<block key="QU_0_4_0007_Description" korean="Красная Броня для измельчения некоторые Garuda птичьи когти." />
+	<block key="QU_0_4_0008_Name" korean="Красный броня для нового сердца" />
+	<block key="QU_0_4_0008_Description" korean="Право играть снова, как и любой новый красных доспехах сердца." />
+	<block key="QU_0_4_0009_Name" korean="У знаете jeume" />
+	<block key="QU_0_4_0009_Description" korean="Инкубационные яйца, более вероятно, извиваться и сейчас" />
+	<block key="QU_0_4_0010_Name" korean="Сюрприз Кукла" />
+	<block key="QU_0_4_0010_Description" korean="Почему эта кукла содержит сундук?" />
+	<block key="QU_0_4_0011_Name" korean="Ношеная обувь матч" />
+	<block key="QU_0_4_0011_Description" korean="Пара не смотреть туда, куда." />
+	<block key="QU_0_4_0012_Name" korean="Паутина" />
+	<block key="QU_0_4_0012_Description" korean="Существует веб-seuneun закон паука слишком старые окна." />
+	<block key="QU_0_4_0013_Name" korean="Для Шак" />
+	<block key="QU_0_4_0013_Description" korean="Это было хорошо, чтобы теперь шасси" />
+	<block key="QU_0_4_0014_Name" korean="Верхняя зелье" />
+	<block key="QU_0_4_0014_Description" korean="Шанхай зелье давно отказались. Кажется, быть не едят." />
+	<block key="QU_0_4_0015_Name" korean="Jewel света" />
+	<block key="QU_0_4_0015_Description" korean="Да будет свет, но оставит до поздней света Джинни резной в ювелирные изделия." />
+	<block key="QU_0_4_0016_Name" korean="Exergy выросли трения досок" />
+	<block key="QU_0_4_0016_Description" korean="Не можете прочитать трение плит. Пластиковые на базах принести." />
+	<block key="QU_0_4_0017_Name" korean="Суть Эллоры" />
+	<block key="QU_0_4_0017_Description" korean="Сила последующим сильным ответственности. Помните последний jeume дружбу." />
+	<block key="QU_0_3_0001_Name" korean="Серебристый сопровождается" />
+	<block key="QU_0_3_0001_Description" korean="" />
+	<block key="QU_0_3_0002_Name" korean="Письмо воды Шаман" />
+	<block key="QU_0_3_0002_Description" korean="" />
+	<block key="QU_0_3_0003_Name" korean="Глаз воина Croix Kuhn" />
+	<block key="QU_0_3_0003_Description" korean="" />
+	<block key="QU_0_3_0004_Name" korean="Kuhn Croix Серебряного кольца" />
+	<block key="QU_0_3_0004_Description" korean="" />
+	<block key="QU_0_3_0005_Name" korean="Весы русалки" />
+	<block key="QU_0_3_0005_Description" korean="" />
+	<block key="QU_0_3_0006_Name" korean="Зеркало воды" />
+	<block key="QU_0_3_0006_Description" korean="" />
+	<block key="QU_0_3_0007_Name" korean="Вкусная еда" />
+	<block key="QU_0_3_0007_Description" korean="" />
+	<block key="QU_0_3_0008_Name" korean="Довольно Кукла" />
+	<block key="QU_0_3_0008_Description" korean="" />
+	<block key="QU_0_3_0009_Name" korean="Спички" />
+	<block key="QU_0_3_0009_Description" korean="" />
+	<block key="QU_0_3_0010_Name" korean="Запчасти для кранов" />
+	<block key="QU_0_3_0010_Description" korean="" />
+	<block key="QU_0_3_0011_Name" korean="Pirate меч" />
+	<block key="QU_0_3_0011_Description" korean="" />
+	<block key="QU_0_3_0012_Name" korean="Пушка" />
+	<block key="QU_0_3_0012_Description" korean="" />
+	<block key="QU_0_3_0013_Name" korean="Интенсивный бомба" />
+	<block key="QU_0_3_0013_Description" korean="" />
+	<block key="QU_0_3_0014_Name" korean="Yongbyeongdan маркер" />
+	<block key="QU_0_3_0014_Description" korean="" />
+	<block key="QU_0_3_0015_Name" korean="Бесплатный странный рук" />
+	<block key="QU_0_3_0015_Description" korean="" />
+	<block key="QU_0_3_0016_Name" korean="Письмо mureo Mio" />
+	<block key="QU_0_3_0016_Description" korean="" />
+	<block key="QU_0_3_0017_Name" korean="Написать линию Ларами" />
+	<block key="QU_0_3_0017_Description" korean="" />
+	<block key="QU_0_3_0018_Name" korean="Перри обсуждение клюв" />
+	<block key="QU_0_3_0018_Description" korean="" />
+	<block key="QU_0_3_0019_Name" korean="Агура зубы" />
+	<block key="QU_0_3_0019_Description" korean="" />
+	<block key="QU_0_3_0020_Name" korean="Аль щит" />
+	<block key="QU_0_3_0020_Description" korean="" />
+	<block key="QU_0_3_0021_Name" korean="Снегоуборщики" />
+	<block key="QU_0_3_0021_Description" korean="" />
+	<block key="QU_0_3_0022_Name" korean="Подъем воды" />
+	<block key="QU_0_3_0022_Description" korean="" />
+	<block key="QU_0_3_0023_Name" korean="Kuhn Croix арбалета стрелу" />
+	<block key="QU_0_3_0023_Description" korean="" />
+	<block key="QU_0_3_0024_Name" korean="Ice Fang" />
+	<block key="QU_0_3_0024_Description" korean="" />
+	<block key="QU_0_3_0025_Name" korean="Баллы для русалки-на-" />
+	<block key="QU_0_3_0025_Description" korean="" />
+	<block key="QU_0_3_0026_Name" korean="Оценки для русалки из-The-" />
+	<block key="QU_0_3_0026_Description" korean="" />
+	<block key="QU_0_3_0027_Name" korean="Баллы для русалки - и -" />
+	<block key="QU_0_3_0027_Description" korean="" />
+	<block key="QU_0_3_0028_Name" korean="Kuhn Croix еды" />
+	<block key="QU_0_3_0028_Description" korean="" />
+	<block key="QU_0_3_0029_Name" korean="Marlins" />
+	<block key="QU_0_3_0029_Description" korean="" />
+	<block key="QU_0_3_0030_Name" korean="Черепаха мясо" />
+	<block key="QU_0_3_0030_Description" korean="" />
+	<block key="QU_0_3_0031_Name" korean="Погребальный костер" />
+	<block key="QU_0_3_0031_Description" korean="" />
+	<block key="QU_0_3_0032_Name" korean="Гарнизон снаряды" />
+	<block key="QU_0_3_0032_Description" korean="" />
+	<block key="QU_0_3_0033_Name" korean="Загрязненная dokcho" />
+	<block key="QU_0_3_0033_Description" korean="" />
+	<block key="QU_0_3_0034_Name" korean="Вс Сторожевая башня маркер" />
+	<block key="QU_0_3_0034_Description" korean="" />
+	<block key="QU_0_3_0035_Name" korean="Kuhn Croix бомба" />
+	<block key="QU_0_3_0035_Description" korean="" />
+	<block key="QU_0_3_0036_Name" korean="В сопровождении серебра украл свинец" />
+	<block key="QU_0_3_0036_Description" korean="" />
+	<block key="QU_0_3_0037_Name" korean="Блестящие зеркала воды штук" />
+	<block key="QU_0_3_0037_Description" korean="" />
+	<block key="QU_0_3_0038_Name" korean="Вода всплыли зеркала штук" />
+	<block key="QU_0_3_0038_Description" korean="" />
+	<block key="QU_0_3_0039_Name" korean="Пение водного зеркала штук" />
+	<block key="QU_0_3_0039_Description" korean="" />
+	<block key="QU_0_3_0040_Name" korean="Зеркало воды штук реанимации" />
+	<block key="QU_0_3_0040_Description" korean="" />
+	<block key="QU_0_3_0041_Name" korean="Зеркало воды штук спит" />
+	<block key="QU_0_3_0041_Description" korean="" />
+	<block key="QU_0_3_0042_Name" korean="Сквош" />
+	<block key="QU_0_3_0042_Description" korean="Жесткий и сквош. Нужно время, чтобы прекратить сладкий" />
+	<block key="QU_0_3_0043_Name" korean="La шапочку для" />
+	<block key="QU_0_3_0043_Description" korean="Если вы должны иметь, чтобы сказать, удачи в Ла шапочка приносит обратно." />
+	<block key="QU_0_3_0044_Name" korean="Лучший рыба" />
+	<block key="QU_0_3_0044_Description" korean="Четыре озерная рыба растет в памяти. Пресноводные рыбы рыбный вкус хороший, не родившись" />
+	<block key="QU_0_3_0045_Name" korean="Лицо богини" />
+	<block key="QU_0_3_0045_Description" korean="" />
+	<block key="QU_0_3_0046_Name" korean="Kuhn Croix серебряное кольцо," />
+	<block key="QU_0_3_0046_Description" korean="" />
+	<block key="QU_0_3_0047_Name" korean="Агура собак" />
+	<block key="QU_0_3_0047_Description" korean="" />
+	<block key="QU_0_3_0048_Name" korean="Сердце Zen Kid Агура" />
+	<block key="QU_0_3_0048_Description" korean="" />
+	<block key="QU_0_3_0049_Name" korean="Малый Эму reomkkot" />
+	<block key="QU_0_3_0049_Description" korean="Больше, чем число суверенных государств. С технологией производства видении я слышал, что вы можете сделать настой тайну?" />
+	<block key="QU_0_3_0050_Name" korean="Сон является гарантия город" />
+	<block key="QU_0_3_0050_Description" korean="Гарантия сон деревня полиции и Королевство Канас держать информации, содержащейся в Давать" />
+	<block key="QU_0_3_0051_Name" korean="Красные споры высушенные листья" />
+	<block key="QU_0_3_0051_Description" korean="" />
+	<block key="QU_0_3_0052_Name" korean="Дубильные инструменты" />
+	<block key="QU_0_3_0052_Description" korean="Необходимость кожевника главе. Но отец-в-законе не распространяется на продление, но должны иметь инструмент." />
+	<block key="QU_0_3_0053_Name" korean="Воровство" />
+	<block key="QU_0_3_0053_Description" korean="Ravi've упакованы вещи вы, ребята, украл тайно." />
+	<block key="QU_0_3_0054_Name" korean="Глаз воина Croix Kuhn" />
+	<block key="QU_0_3_0054_Description" korean="Ювелирные изделия уходит от глаз горгульи лица Croix Kuhn" />
+	<block key="QU_0_3_0055_Name" korean="Кусок Ладан" />
+	<block key="QU_0_3_0055_Description" korean="Скульптура символизирует глаза Ладан. Привели к глазу Ladan Li обладает свойствами." />
+	<block key="QU_0_3_0056_Name" korean="Аура Тьмы" />
+	<block key="QU_0_3_0056_Description" korean="Суть черной магии ауры для укрепления общего Монстр" />
+	<block key="QU_0_3_0057_Name" korean="(Старый) Телли О ассимиляция огня остается проглотил" />
+	<block key="QU_0_3_0057_Description" korean="Теперь не использовался ассимиляция" />
+	<block key="QU_0_3_0058_Name" korean="Усвоение La Beanie семьи" />
+	<block key="QU_0_3_0058_Description" korean="Усвоение La Beanie семьи" />
+	<block key="QU_0_3_0059_Name" korean="La шапочка фамильное серебро" />
+	<block key="QU_0_3_0059_Description" korean="La шапочка фамильное серебро" />
+	<block key="QU_0_3_0060_Name" korean="(Старый) сказки Шарля Терри O Chateau Reang" />
+	<block key="QU_0_3_0060_Description" korean="Теперь не использовался ассимиляция" />
+	<block key="QU_0_3_0061_Name" korean="Золотые монеты, называемые Винни семья" />
+	<block key="QU_0_3_0061_Description" korean="Золотые монеты, называемые Винни семья" />
+	<block key="QU_0_3_0062_Name" korean="Телли пять золотых монет Чарльз Reang особняк" />
+	<block key="QU_0_3_0062_Description" korean="Телли пять золотых монет Чарльз Reang особняк" />
+	<block key="QU_0_3_0063_Name" korean="(Старый) Терри Аллен О усвоение замороженных руин Mart" />
+	<block key="QU_0_3_0063_Description" korean="Теперь не использовался ассимиляция" />
+	<block key="QU_0_3_0064_Name" korean="О Мадлен разрушает Студеного Silver Telly" />
+	<block key="QU_0_3_0064_Description" korean="О Мадлен разрушает Студеного Silver Telly" />
+	<block key="QU_0_3_0065_Name" korean="Телли пять золотых монет замороженных руин Мадлен" />
+	<block key="QU_0_3_0065_Description" korean="Телли пять золотых монет замороженных руин Мадлен" />
+	<block key="QU_0_3_0066_Name" korean="(Старый) Сказочные признаки пещере на тюк Ø Telly" />
+	<block key="QU_0_3_0066_Description" korean="Теперь не использовался ассимиляция" />
+	<block key="QU_0_3_0067_Name" korean="О Серебряный Телли пещеры покрыто завесой" />
+	<block key="QU_0_3_0067_Description" korean="О Серебряный Телли пещеры покрыто завесой" />
+	<block key="QU_0_3_0068_Name" korean="Телли пять золотых монет, завернутые в вуали пещеры" />
+	<block key="QU_0_3_0068_Description" korean="Телли пять золотых монет, завернутые в вуали пещеры" />
+	<block key="QU_0_3_0069_Name" korean="(Старый) Телли О сказочный замок птенец волну льда" />
+	<block key="QU_0_3_0069_Description" korean="Теперь не использовался ассимиляция" />
+	<block key="QU_0_3_0070_Name" korean="Серебро Телли пять рупий копать лед замок" />
+	<block key="QU_0_3_0070_Description" korean="Серебро Телли пять рупий копать лед замок" />
+	<block key="QU_0_3_0071_Name" korean="Ice Castle Телли пар пять рупий монеты" />
+	<block key="QU_0_3_0071_Description" korean="Ice Castle Телли пар пять рупий монеты" />
+	<block key="QU_0_3_0072_Name" korean="Медвежья шкура" />
+	<block key="QU_0_3_0072_Description" korean="Медвежьих в Парке доступны моя земля медведей" />
+	<block key="QU_0_3_0073_Name" korean="Мясник мясо палочка" />
+	<block key="QU_0_3_0073_Description" korean="Не заботятся, такие как размытые крови на палочке. Соболезнования мальчика ... нет железа." />
+	<block key="QU_0_3_0074_Name" korean="Обручальные кольца одна пара" />
+	<block key="QU_0_3_0074_Description" korean="Любовь сырой украшения M и J, написал, что навсегда." />
+	<block key="QU_0_3_0075_Name" korean="Сырая деревянные статуи" />
+	<block key="QU_0_3_0075_Description" korean="Первый разрез статуя, кажется, сделал довольно неплохой." />
+	<block key="QU_0_3_0076_Name" korean="Коробка свечей" />
+	<block key="QU_0_3_0076_Description" korean="Нюхают аромат хорошо пахнет лицо. Симпатичные Дерево Приходите бегунов доставлены высохнуть." />
+	<block key="QU_0_3_0077_Name" korean="Коробка колец" />
+	<block key="QU_0_3_0077_Description" korean="Если вы не получаете быстрый Маленькая девочка, носить маску свободного Рамми, возможно, не слушать то, что дьявол нытье." />
+	<block key="QU_0_3_0078_Name" korean="Птица" />
+	<block key="QU_0_3_0078_Description" korean="Birithan запах, кажется, не я не так аппетитно." />
+	<block key="QU_0_3_0079_Name" korean="Денежный" />
+	<block key="QU_0_3_0079_Description" korean="Встряхнуть jjalrang jjalrang чувствовать запахи хороший звук." />
+	<block key="QU_0_3_0080_Name" korean="Спички" />
+	<block key="QU_0_3_0080_Description" korean="Отметить спичечный коробок продаже дерево." />
+	<block key="QU_0_3_0081_Name" korean="Сырая кольцо" />
+	<block key="QU_0_3_0081_Description" korean="Четыре кольца продажа Марии. Честно говоря, я не живу gatahdo." />
+	<block key="QU_0_3_0082_Name" korean="Теплые ботинки" />
+	<block key="QU_0_3_0082_Description" korean="Толстые зимнее пальто и прочная обувь." />
+	<block key="QU_0_3_0083_Name" korean="Страшные вид куклы" />
+	<block key="QU_0_3_0083_Description" korean="Дети сегодня любовь, чем эта." />
+	<block key="QU_0_3_0084_Name" korean="Древесина в основном полезно" />
+	<block key="QU_0_3_0085_Name" korean="Дизайн часть" />
+	<block key="QU_0_3_0085_Description" korean="Бумажка эта идея в чертеж корабля." />
+	<block key="QU_0_3_0086_Name" korean="Букет" />
+	<block key="QU_0_3_0086_Description" korean="Тинкер букет изготовлен из топорной работой." />
+	<block key="QU_0_3_0087_Name" korean="Exergy выращенные реликвии" />
+	<block key="QU_0_3_0087_Description" korean="Exergy Предполагается, что сделал взрослый эпохи реликвии." />
+	<block key="QU_0_3_0088_Name" korean="Пепел" />
+	<block key="QU_0_3_0088_Description" korean="Jangryeolhi останки неизвестных солдат, погибших в боях имя." />
+	<block key="QU_0_3_0089_Name" korean="Дерево сок" />
+	<block key="QU_0_3_0089_Description" korean="Сок березы. То, что это хорошо седативное, если применяется к ране." />
+	<block key="QU_1_3_0049_Name" korean="Чистка Папоротник Планка" />
+	<block key="QU_1_3_0049_Description" korean="Грифон Чистка Папоротник Резные хотел пиктограммы окрашенные ногти." />
+	<block key="QU_1_3_0050_Name" korean="Работа бессмертных легионов jiryeongseo" />
+	<block key="QU_1_3_0050_Description" korean="Операция jiryeongseo могу понять, почему охота Griffon" />
+	<block key="QU_1_3_0051_Name" korean="Остатки Griffon" />
+	<block key="QU_1_3_0051_Description" korean="Уже намного легче вес вредных эксплуатации, что вы хотите." />
+	<block key="QU_1_3_0052_Name" korean="Заклинание мест" />
+	<block key="QU_1_3_0052_Description" korean="Чи-Мер заказ, наполненный магии камней, которые говорят вам, что." />
+	<block key="QU_1_3_0053_Name" korean="Форт скульптура конструкции" />
+	<block key="QU_1_3_0053_Description" korean="Хит куски, кажется, чтобы быть в состоянии восстановить конструкцию форта." />
+	<block key="QU_1_3_0054_Name" korean="Зеркало Истины" />
+	<block key="QU_1_3_0054_Description" korean="Будет зеркало и блеск Бессмертный Легион раскрыть личность." />
+	<block key="QU_1_3_0055_Name" korean="Ключ к крепости" />
+	<block key="QU_1_3_0055_Description" korean="Ключ аутентификации, чтобы выключить очарование Бессмертного легиона форта" />
+	<block key="QU_1_3_0056_Name" korean="Большая бомба" />
+	<block key="QU_1_3_0056_Description" korean="" />
+	<block key="QU_1_3_0057_Name" korean="Белоголовый орлан яйца" />
+	<block key="QU_1_3_0057_Description" korean="Аль жесткая оболочка жесткость чувство" />
+	<block key="QU_1_3_0058_Name" korean="Eagle яйцо-пашот" />
+	<block key="QU_1_3_0058_Description" korean="Теперь вы еще даже не родился потреблять жизнь. Будет вкус недовольство орла." />
+	<block key="QU_1_3_0059_Name" korean="Ядовитые растения" />
+	<block key="QU_1_3_0059_Description" korean="Сильный яд извлекают из растений" />
+	<block key="QU_1_3_0060_Name" korean="Животное Яд" />
+	<block key="QU_1_3_0060_Description" korean="Мощный яд извлекают из животных" />
+	<block key="QU_1_3_0061_Name" korean="Venom окно" />
+	<block key="QU_1_3_0061_Description" korean="Ящик с опасной яда" />
+	<block key="QU_1_3_0062_Name" korean="Детектор Сувон" />
+	<block key="QU_1_3_0062_Description" korean="Сумах проходит здесь! Если есть могилы своих предков omgyeora сейчас!" />
+	<block key="QU_1_3_0063_Name" korean="Пшеничная мука" />
+	<block key="QU_1_3_0063_Description" korean="" />
+	<block key="QU_1_3_0064_Name" korean="Строительные материалы" />
+	<block key="QU_1_3_0064_Description" korean="Рип из переработанных материалов, чтобы украсить yongbyeongdan здание. Salrineunde лесу 1000000000001 настроение." />
+	<block key="QU_1_3_0065_Name" korean="Venom Tan" />
+	<block key="QU_1_3_0065_Description" korean="Я чувствую, как плохой химического оружия в бешенство собирается Alchemist Hasisi нетронутыми." />
+	<block key="QU_1_3_0066_Name" korean="Письма Самира" />
+	<block key="QU_1_3_0066_Description" korean="Письмо мертвые охранники отправляются Самира. Давайте доставить хорошее содержание, чтобы читать журнал." />
+	<block key="QU_1_3_0067_Name" korean="Право бутылка соли" />
+	<block key="QU_1_3_0067_Description" korean="Жажда быстрого и легкого добавления соли, чтобы выпить бутылку воды" />
+	<block key="QU_1_3_0068_Name" korean="Песок Ад" />
+	<block key="QU_1_3_0068_Description" korean="На мгновение о том, ад песка в пустыне" />
+	<block key="QU_1_3_0069_Name" korean="Песчаная буря 3" />
+	<block key="QU_1_3_0069_Description" korean="Мгновенно о создании песчаную бурю в пустыне" />
+	<block key="QU_1_3_0070_Name" korean="Haba yongbyeongdan вся броня" />
+	<block key="QU_1_3_0070_Description" korean="Yongbyeongdan финансы, так как очень богатые ли качество хорошее." />
+	<block key="QU_1_3_0071_Name" korean="Hwahaktan" />
+	<block key="QU_1_3_0071_Description" korean="Ученики Мастера. Hwahaktan Безумие нетронутыми, как я заполнил учеников карданного Hasisi." />
+	<block key="QU_1_3_0072_Name" korean="Каменные печати" />
+	<block key="QU_1_3_0072_Description" korean="Магия камень, который может запечатать дух камня" />
+	<block key="QU_1_3_0073_Name" korean="Подъем руды" />
+	<block key="QU_1_3_0073_Description" korean="" />
+	<block key="QU_1_3_0074_Name" korean="Письмо печати" />
+	<block key="QU_1_3_0074_Description" korean="" />
+	<block key="QU_1_3_0075_Name" korean="Талисман судна" />
+	<block key="QU_1_3_0075_Description" korean="Невеста дала очарование гель Rex. Я оторваться, как несколько Розовое сердце накачки." />
+	<block key="QU_1_3_0076_Name" korean="Сокровище Грифона (?)" />
+	<block key="QU_1_3_0076_Description" korean="Грифон, которые украли сокровище ...? Может быть, это личное богатство-де-Мэ ...?" />
+	<block key="QU_1_3_0077_Name" korean="Kuhn круассан оружие" />
+	<block key="QU_1_3_0077_Description" korean="" />
+	<block key="QU_1_3_0078_Name" korean="Еда круассан Kuhn" />
+	<block key="QU_1_3_0078_Description" korean="Ppaetgin хотите больше иммуногенность Круа-кун ... Я слышал все это кажется просто слышал что-нибудь поесть." />
+	<block key="QU_1_3_0079_Name" korean="Золотое перо" />
+	<block key="QU_1_3_0079_Description" korean="Золотые перья Radiant скалами Thunderbird" />
+	<block key="QU_1_3_0080_Name" korean="Украденный Томе" />
+	<block key="QU_1_3_0080_Description" korean="Бессмертный Легион шпион, кажется, убить парень пытается украсть книгу заклинаний." />
+	<block key="QU_1_3_0081_Name" korean="Kuhn Croix волшебный талисман" />
+	<block key="QU_1_3_0081_Description" korean="Это может верить только itgetda умру ... чувство дикого шепота, сказал." />
+	<block key="QU_1_3_0082_Name" korean="Полет бросать бомбы" />
+	<block key="QU_1_3_0082_Description" korean="" />
+	<block key="QU_1_3_0083_Name" korean="Связь Флейта" />
+	<block key="QU_1_3_0083_Description" korean="Связь флейта собирая Теневой клан" />
+	<block key="QU_1_3_0084_Name" korean="Свет факела" />
+	<block key="QU_1_3_0084_Description" korean="Yongbyeongdan супруг сожгли лагерь!" />
+	<block key="QU_1_3_0085_Name" korean="Подозрительный jiryeongseo" />
+	<block key="QU_1_3_0085_Description" korean="Знакомая картина, кажется, быть приняты. Позвольте мне привести Елена Shadow Clan." />
+	<block key="QU_1_3_0086_Name" korean="Подол Yusei" />
+	<block key="QU_1_3_0086_Description" korean="Am подавали saendeuwom ...? Позвольте мне привести Cirque Евр." />
+	<block key="QU_1_3_0087_Name" korean="Забыли подъем руды" />
+	<block key="QU_1_3_0087_Description" korean="Искатели хранители. Это составляет, чем кажется должен быть выключен." />
+	<block key="QU_1_3_0088_Name" korean="План полета Карла" />
+	<block key="QU_1_3_0088_Description" korean="Читайте дневники чужие найти владельцев не должны прочитать мой вкус ...." />
+	<block key="QU_1_3_0089_Name" korean="Удар по Сокровище" />
+	<block key="QU_1_3_0089_Description" korean="Удар песок на сокровища" />
+	<block key="QU_1_3_0090_Name" korean="Разбитое музыкальная шкатулка" />
+	<block key="QU_1_3_0090_Description" korean="Звучит не в порядке. Ремонт, чтобы дать игрокам достаточно, чтобы довести до людей." />
+	<block key="QU_1_3_0091_Name" korean="Music Box Сирийский" />
+	<block key="QU_1_3_0091_Description" korean="Арам ремонт музыкальную шкатулку. Только настоящий мастер ушел." />
+	<block key="QU_1_3_0092_Name" korean="Bat дерьмо" />
+	<block key="QU_1_3_0092_Description" korean="Boyangshik вещи я не чувствую, что есть много." />
+	<block key="QU_1_3_0093_Name" korean="Огонь души" />
+	<block key="QU_1_3_0093_Description" korean="Без вины огонь души живет душа мертва. Бегуны текла к берегу." />
+	<block key="QU_1_3_0094_Name" korean="Старый пламя чаша" />
+	<block key="QU_1_3_0094_Description" korean="Чаша damdeon огонь души. Старое масло, кажется, не застрял с." />
+	<block key="QU_1_3_0095_Name" korean="Кусок хорошей камня" />
+	<block key="QU_1_3_0095_Description" korean="" />
+	<block key="QU_1_3_0096_Name" korean="Перевозчик голубь" />
+	<block key="QU_1_3_0096_Description" korean="Нежный почтовый голубь. Бегуны, отправленные, чтобы они пошли на пляж." />
+	<block key="QU_1_3_0097_Name" korean="Xx-качество мяса" />
+	<block key="QU_1_3_0097_Description" korean="" />
+	<block key="QU_1_3_0098_Name" korean="Качество 00 мясо" />
+	<block key="QU_1_3_0098_Description" korean="" />
+	<block key="QU_1_3_0099_Name" korean="Кости травы" />
+	<block key="QU_1_3_0099_Description" korean="Кости убитого траве." />
+	<block key="QU_1_3_0100_Name" korean="Корни деревьев порошок блеск" />
+	<block key="QU_1_3_0100_Description" korean="" />
+	<block key="QU_1_3_0101_Name" korean="Свет кучу Wisp" />
+	<block key="QU_1_3_0101_Description" korean="" />
+	<block key="QU_1_3_0102_Name" korean="Энергетические припарки" />
+	<block key="QU_1_3_0102_Description" korean="Попутчики Эльфы особая энергия припарки. Секреты производства, что только эльфы знают ...." />
+	<block key="QU_1_3_0103_Name" korean="Оборотень план" />
+	<block key="QU_1_3_0103_Description" korean="Кобб планы делаются в деноминации. Горный Прибой Вы хотите заменить содержание вкладывается в человеческом оборотня ранчо." />
+	<block key="QU_1_3_0104_Name" korean="Природный водопад" />
+	<block key="QU_1_3_0104_Description" korean="Последние и наиболее популярный вода Канаш также известный водопад в команде Санкт-jikhal." />
+	<block key="QU_1_3_0105_Name" korean="Келл-вудских травы" />
+	<block key="QU_1_3_0105_Description" korean="Вудс загадочного растения, которое растет только в Келсо. Удалить злого духа, что я должен быть эффективным." />
+	<block key="QU_1_3_0106_Name" korean="Кобб является последователей ожерелья" />
+	<block key="QU_1_3_0106_Description" korean="Может только были связаны с церковью и магия позволяет увидеть вещи которые препятствуют Кобб магии." />
+	<block key="QU_1_3_0108_Name" korean="Re-куклы" />
+	<block key="QU_1_3_0108_Description" korean="Возьмите оставшимся пепла проклятые куклы. Вы, скорее всего, бросить пламя быстро." />
+	<block key="QU_1_3_0110_Name" korean="Кровавый Ром" />
+	<block key="QU_1_3_0110_Description" korean="Маленькие дети не едят. Пожалуйста уступки для взрослых" />
+	<block key="QU_9_0_0001_Name" korean="Ворона Тень Tor зуб Лена раненых (не регистрации)" />
+	<block key="QU_9_0_0002_Name" korean="Ворона Лена раненых (не регистрации)" />
+	<block key="QU_9_0_0003_Name" korean="Тор зуб (Волчье логово)" />
+	<block key="QU_9_0_0004_Name" korean="Зуб-ку, Харлан Ворон Tor (Shenron Knights)" />
+	<block key="QU_9_0_0005_Name" korean="Ворона (Shenron Knights)" />
+	<block key="QU_9_0_0006_Name" korean="Новости Харлан (Shenron Knights)" />
+	<block key="QU_9_0_0007_Name" korean="Тор зуб (Волчье логово)" />
+	<block key="QU_9_0_0008_Name" korean="Джефф Янг Мок (команда jikhal)" />
+	<block key="QU_9_0_0009_Name" korean="За (водостойкость)" />
+	<block key="QU_9_0_0010_Name" korean="Ander Екатерина (водостойкость)" />
+	<block key="QU_9_0_0011_Name" korean="Chicky дриада (рядом с Алексом)" />
+	<block key="QU_9_0_0012_Name" korean="Chicky дриада (блеск древесины лагерь)" />
+	<block key="QU_9_0_0013_Name" korean="Plymouth певица Ke (предложения Лаедана)" />
+	<block key="QU_9_0_0014_Name" korean="Kepley певец (царством священников)" />
+	<block key="QU_9_0_0015_Name" korean="Лина мая горничные аренды (автомобиля Reang)" />
+	<block key="QU_9_0_0016_Name" korean="Эта утечка (хорошо Brage)" />
+	<block key="QU_9_0_0017_Name" korean="Кертис Черная пантера" />
+	<block key="QU_9_0_0018_Name" korean="Кертис (сотрудник None)" />
+	<block key="QU_9_0_0019_Name" korean="Curtis, Черные пантеры" />
+	<block key="QU_9_0_0020_Name" korean="Ворона (столица собственность)" />
+	<block key="QU_9_0_0021_Name" korean="Mountain Surf капитал замок портал компании" />
+	<block key="QU_9_0_0022_Name" korean="Кобб совершенствуется устройство" />
+	<block key="QU_9_0_0023_Name" korean="Скрытые плиты" />
+	<block key="QU_9_0_0024_Name" korean="Утечка" />
+	<block key="QU_9_0_0025_Name" korean="Гарри" />
+	<block key="QU_9_0_0026_Name" korean="Франсуа (Quest)" />
+	<block key="QU_9_0_0027_Name" korean="Гарри (Quest)" />
+	<block key="QU_9_0_0028_Name" korean="Высшее Мастер Ли Нетаньяху (передние полигон)" />
+	<block key="QU_9_0_0029_Name" korean="Высшее Мастер Ли Нетаньяху (передние стенки)" />
+	<block key="QU_9_0_0030_Name" korean="Нета Ли High Wizard (El зерновые хозяйства)" />
+	<block key="QU_9_0_0031_Name" korean="За шкале (El зерновые хозяйства)" />
+	<block key="QU_9_0_0032_Name" korean="Главнокомандующий Рассел (тренировочный лагерь)" />
+	<block key="QU_9_0_0033_Name" korean="Расширенный мастер Homers" />
+	<block key="QU_9_0_0034_Name" korean="Расширенный мастер Homers" />
+	<block key="QU_9_0_0035_Name" korean="Лена \u003cКарл Reang Castle\u003e" />
+	<block key="QU_9_0_0036_Name" korean="Лена \u003cгоршок Ветер Hill\u003e" />
+	<block key="QU_9_0_0037_Name" korean="Лена \u003cи Канаш также секс\u003e" />
+	<block key="QU_9_0_0038_Name" korean="Род железа \u003cлагерь\u003e" />
+	<block key="QU_9_0_0039_Name" korean="Морской" />
+	<block key="QU_9_0_0040_Name" korean="Рассел" />
+	<block key="QU_9_0_0041_Name" korean="Лыжный peuseu" />
+	<block key="QU_9_0_0042_Name" korean="Род железа \u003cСеверные ворота\u003e" />
+	<block key="QU_9_0_0043_Name" korean="Тор зуб (Северная Руины прозрачный)" />
+	<block key="QU_9_4_0001_Name" korean="DND Джо Рой (myeolgong начиная область)" />
+	<block key="QU_9_4_0002_Name" korean="Эррол (Dragon)" />
+	<block key="QU_9_4_0003_Name" korean="Эррол (лагерь высотные)" />
+	<block key="QU_9_4_0004_Name" korean="Эррол (храм)" />
+	<block key="QU_9_4_0005_Name" korean="Оскар (лагерь высотные)" />
+	<block key="QU_9_4_0006_Name" korean="Оскар (храм)" />
+	<block key="QU_9_4_0007_Name" korean="Оскар (после квеста)" />
+	<block key="QU_9_4_0008_Name" korean="Дух Эллоры" />
+	<block key="QU_9_4_0009_Name" korean="Wyvern Оливье" />
+	<block key="QU_9_4_0010_Name" korean="Огромный камень статуя богини" />
+	<block key="QU_9_4_0011_Name" korean="Огромный камень статуя Богини (эффект)" />
+	<block key="QU_9_4_0012_Name" korean="Эррол (рядом с Лу-Плата)" />
+	<block key="QU_9_3_0001_Name" korean="Директор-Сити (тростник ветер село)" />
+	<block key="QU_9_3_0002_Name" korean="Директор-Сити (гарнизона базы)" />
+	<block key="QU_9_3_0003_Name" korean="Директор-Сити (Пираты Village)" />
+	<block key="QU_9_3_0004_Name" korean="Директор-Сити (Lake жизни)" />
+	<block key="QU_9_3_0005_Name" korean="Мелисса (Pirate Base)" />
+	<block key="QU_9_3_0006_Name" korean="Мелисса (Phantom спереди)" />
+	<block key="QU_9_3_0007_Name" korean="Женщина в вопросе (солнечная Сторожевая башня)" />
+	<block key="QU_9_3_0008_Name" korean="Женщина в вопросе (Плач Звери)" />
+	<block key="QU_9_3_0009_Name" korean="Женщина в вопросе (Остров Русалки)" />
+	<block key="QU_9_3_0010_Name" korean="Женщина в вопросе (Falls Village)" />
+	<block key="QU_9_3_0011_Name" korean="Les Силезия" />
+	<block key="QU_9_3_0012_Name" korean="Волки потеряли" />
+	<block key="QU_9_3_0013_Name" korean="Волки потеряли (ИНН)" />
+	<block key="QU_9_3_0014_Name" korean="Мелисса (Quest)" />
+	<block key="QU_9_3_0015_Name" korean="Айша (перед усадьбой)" />
+	<block key="QU_9_3_0016_Name" korean="Айша (Manor проект)" />
+	<block key="QU_9_3_0017_Name" korean="Сын мэра Рид" />
+	<block key="QU_9_3_0018_Name" korean="Злой, не девственница линия Рамми Рамми" />
+	<block key="QU_9_3_0019_Name" korean="Номера девственные линии Рамми Рамми" />
+	<block key="QU_9_4_0013_Name" korean="Little Bird (секретные руины)" />
+	<block key="QU_9_4_0014_Name" korean="Рекрут Эльза (левая нога)" />
+	<block key="QU_9_4_0015_Name" korean="Нарын (блестящие деревья)" />
+	<block key="QU_9_4_0016_Name" korean="Ключ ECH (Северная руины)" />
+	<block key="QU_9_4_0017_Name" korean="Водное зеркало" />
+	<block key="QU_9_4_0018_Name" korean="Зеркало воды B" />
+	<block key="QU_9_4_0019_Name" korean="Зеркало воды C" />
+	<block key="QU_9_4_0020_Name" korean="Зеркало воды D" />
+	<block key="QU_9_4_0021_Name" korean="Зеркало воды E" />
+	<block key="QU_9_4_0022_Name" korean="Лицо богини" />
+	<block key="QU_9_4_0023_Name" korean="Мертвый снег дерево" />
+	<block key="QU_9_4_0024_Name" korean="Глаза блестящие дерево" />
+	<block key="QU_9_4_0025_Name" korean="Призраки не спят" />
+	<block key="QU_9_4_0026_Name" korean="Пираты Маяк (свет на)" />
+	<block key="QU_9_4_0027_Name" korean="Пираты Маяк (лампа не горит)" />
+	<block key="QU_1_3_0107_Name" korean="Ароматические письмо" />
+	<block key="QU_1_3_0107_Description" korean="Обратитесь за советом удивительно, почему посыпать духи на письме? Она присуждается." />
+	<block key="QU_0_3_0090_Name" korean="Seukan публике только после установки бомбы" />
+	<block key="QU_0_3_0091_Name" korean="Опустошение материал" />
+	<block key="QU_0_3_0092_Name" korean="О Moth Fly пробоотборник" />
+	<block key="QU_0_3_0093_Name" korean="О Moth Fly" />
+	<block key="QU_0_3_0094_Name" korean="Роскошная коробка из города julran" />
+	<block key="QU_0_3_0095_Name" korean="Багажный бокс для Do julran" />
+	<block key="QU_0_3_0096_Name" korean="У julran упаковочный мешок" />
+	<block key="QU_0_3_0097_Name" korean="Пустые ведра на ферме Карран" />
+	<block key="QU_0_3_0098_Name" korean="Увеличьте бы добавить полноты ведро воды на ферме Карран" />
+	<block key="QU_0_3_0099_Name" korean="Медленный рост моркови" />
+	<block key="QU_0_3_0100_Name" korean="Медленный рост арбуза" />
+	<block key="QU_0_3_0101_Name" korean="Загрязненные овощи" />
+	<block key="QU_0_3_0102_Name" korean="Стимуляторы роста" />
+	<block key="QU_0_3_0103_Name" korean="Seukan общественного просто сбрасывать бомбы" />
+	<block key="QU_0_3_0104_Name" korean="Плавучий остров чертежи" />
+	<block key="QU_0_3_0105_Name" korean="Плавающий остров технические чертежи" />
+	<block key="QU_0_3_0106_Name" korean="Ящик для Дженнифер" />
+	<block key="QU_0_3_0107_Name" korean="Crystal Ball воеводство 0 акций" />
+	<block key="QU_0_3_0108_Name" korean="Макай утешая Сурин щебень" />
+	<block key="QU_0_3_0109_Name" korean="Эллора аура богини" />
+	<block key="QU_0_3_0110_Name" korean="Бог Инструменты для ремонта" />
+	<block key="QU_0_3_0111_Name" korean="Exergy взрослый ассимиляция" />
+	<block key="QU_0_3_0112_Name" korean="Exergy разводят серебро" />
+	<block key="QU_0_3_0113_Name" korean="Exergy выращенные монеты" />
+	<block key="QU_9_3_0020_Name" korean="Арбалет не проклял Келли на" />
+	<block key="QU_9_3_0021_Name" korean="Bubble весы" />
+	<block key="QU_0_3_0114_Name" korean="Ключ от тюрьмы" />
+	<block key="QU_0_3_0114_Description" korean="Ключ, чтобы открыть двери тюрьмы." />
+	<block key="QU_0_3_0115_Name" korean="Scar свою добычу" />
+	<block key="QU_0_3_0116_Name" korean="Для волшебной пыли" />
+	<block key="QU_0_3_0117_Name" korean="Талисман для kanjok" />
+	<block key="QU_0_3_0118_Name" korean="Подвеска кусок горничных" />
+	<block key="QU_0_3_0118_Description" korean="Кулон кусок горничных найти в оползня." />
+	<block key="QU_0_3_0119_Name" korean="Колбы" />
+	<block key="QU_0_3_0119_Description" korean="Ужасный запах алкоголя колбу. Я бы предпочел слизи осьминога, кажется, лучше для организма." />
+	<block key="QU_0_3_0120_Name" korean="Загрязненная экзо-значный полезным" />
+	<block key="QU_0_3_0120_Description" korean="Обуглившиеся измененные возбудителя помогать в выявлении рудных кусков. Почувствуйте стоит плохое предчувствие." />
+	<block key="QU_0_3_0121_Name" korean="Зловещая книга" />
+	<block key="QU_0_3_0121_Description" korean="Я вижу жуткое чувство только покрыть затраты. Спрэд между проклятия, кажется, еще." />
+	<block key="QU_0_3_0122_Name" korean="Старый дневник" />
+	<block key="QU_0_3_0122_Description" korean="Узнайте чернила beonjyeoseo трудно. То, что кажется Reang дневник человеком по имени." />
+	<block key="QU_0_3_0123_Name" korean="Поваренная книга" />
+	<block key="QU_0_3_0123_Description" korean="Популярные гранулы, которые он хотел бы хвост печенье. Приложение собачье рисовый суп рецепт." />
+	<block key="QU_0_3_0124_Name" korean="Фото книжки" />
+	<block key="QU_0_3_0124_Description" korean="Будут ли у героя летит в прошлом mibeu действительно может быть королем? Продолжение на следующей книге." />
+	<block key="QU_0_3_0125_Name" korean="Победитель Снотворные" />
+	<block key="QU_0_3_0125_Description" korean="Случайно выпил с понятием seems'll спать вечно для печени." />
+	<block key="QU_0_3_0126_Name" korean="Кость" />
+	<block key="QU_0_3_0126_Description" korean="Мешок заполняется с фрагментами костей. Каждый раз, когда звук встряхивают dalgak dalgak плохое настроение." />
+	<block key="QU_0_3_0127_Name" korean="Полное тело" />
+	<block key="QU_0_3_0127_Description" korean="Полное тело растет на кладбище. Kwikwihan пахнет." />
+	<block key="QU_0_3_0128_Name" korean="Подозрительные мешки зерна" />
+	<block key="QU_0_3_0128_Description" korean="Даже не буду гадать, что случилось после разгрома урожая зерна. Не гнить." />
+	<block key="QU_0_3_0129_Name" korean="Аль неизвестно" />
+	<block key="QU_0_3_0129_Description" korean="Я не знаю точно, что есть. Как ни странно извиваясь, чтобы чувствовать себя плохо." />
+	<block key="QU_0_3_0130_Name" korean="Остатки мяса" />
+	<block key="QU_0_3_0130_Description" korean="Оставляя следы зубов четко зверь, казалось, есть оставшиеся мясо. Тьфу." />
+	<block key="QU_0_3_0131_Name" korean="Остальные снотворные" />
+	<block key="QU_0_3_0131_Description" korean="Привидениями снотворное сделает все остальное. Призрак пил он, вероятно, заснул навсегда." />
+	<block key="QU_0_3_0132_Name" korean="Ржавчина Davidson Шлем" />
+	<block key="QU_0_3_0132_Description" korean="Прохладный, утешая чувствую в качки вокруг." />
+	<block key="QU_0_3_0133_Name" korean="Baol портрет верхом на черной куртке" />
+	<block key="QU_0_3_0133_Description" korean="Фотографии говорят величественный вид как к лошади и невероятные людей." />
+	<block key="QU_0_3_0134_Name" korean="Опаленный Bone" />
+	<block key="QU_0_3_0134_Description" korean="Кость обжег в огне. Каждая часть можно увидеть следы Руны." />
+	<block key="QU_0_3_0135_Name" korean="Брэнсон получил ржавые доспехи заморожены" />
+	<block key="QU_0_3_0135_Description" korean="Холодный воздух, обернутые вокруг плохо помят броню." />
+	<block key="QU_0_3_0136_Name" korean="Wilkinson Sword Tournament ржавчины" />
+	<block key="QU_0_3_0136_Description" korean="Получить мной травма, кажется, не имеют никакой ценности в качестве оружия." />
+	<block key="QU_0_3_0138_Name" korean="Кладбище Список" />
+	<block key="QU_0_3_0138_Description" korean="Документ haenoteun написать короткое личным Мертвого кладбище." />
+	<block key="QU_0_3_0139_Name" korean="Кусок ума" />
+	<block key="QU_0_3_0139_Description" korean="Осколки магии, что вы можете оглянуться на последние воспоминания." />
+	<block key="QU_0_3_0141_Name" korean="Паралич яд" />
+	<block key="QU_0_3_0141_Description" korean="Существует сильная убийство эффект паралича яда используется клана." />
+	<block key="QU_0_3_0142_Name" korean="Просмотр карбоновой заказ атаки" />
+	<block key="QU_0_3_0142_Description" korean="Подробные инструкции к атаке бюстгальтер карбоновых лесов записываются." />
+	<block key="QU_0_3_0143_Name" korean="Torn платок" />
+	<block key="QU_0_3_0143_Description" korean="Есть следы повреждения я видел himdeuna называет вышитые серьезные отъезде." />
+	<block key="QU_0_3_0144_Name" korean="Джим пакет Кишар" />
+	<block key="QU_0_3_0144_Description" korean="Одежда, сухой корм, первой помощи медицины, такие как омлет в случайном порядке." />
+	<block key="QU_0_3_0145_Name" korean="Просмотр карбоновые травы" />
+	<block key="QU_0_3_0145_Description" korean="Трава является очень эффективным для облегчения боли." />
+	<block key="QU_0_3_0146_Name" korean="Постоянный свет море" />
+	<block key="QU_0_3_0146_Description" korean="Слабый синий свет на маленьких камней висит Проснувшись как волна." />
+	<block key="QU_0_3_0147_Name" korean="Окраска дурного глаза волка" />
+	<block key="QU_0_3_0147_Description" korean="Аура зла в глазах волка остается miryeok." />
+	<block key="QU_0_3_0148_Name" korean="Ice Гончие мех" />
+	<block key="QU_0_3_0148_Description" korean="Извините, но bukseul льда Гончие были bukseul действительно кажется, чтобы согреться." />
+	<block key="QU_0_3_0149_Name" korean="Ром" />
+	<block key="QU_0_3_0149_Description" korean="Если у вас есть бутылка рома и здоровый желудок хорошо!" />
+	<block key="QU_0_3_0150_Name" korean="Компоненты устройств управления" />
+	<block key="QU_0_3_0150_Description" korean="Я не знаю, это, кажется, быть вставлены, блок управления. Возможно. ... Я прав?" />
+	<block key="QU_0_3_0151_Name" korean="Сумка руды" />
+	<block key="QU_0_3_0151_Description" korean="Консервы руды, полученные от дронов бомбы. К счастью, кажется, все в порядке, даже взрыв. Возможно." />
+	<block key="QU_0_3_0152_Name" korean="Специальный мешок кирка" />
+	<block key="QU_0_3_0152_Description" korean="Это Croix Kuhn мастер trim'm просто hankal hankal роскошь кирка был мешок." />
+	<block key="QU_0_3_0153_Name" korean="Водитель древних опекунов" />
+	<block key="QU_0_3_0153_Description" korean="Странно пахнет бусы. За увеличенного звука и вибрации. Это тепло." />
+	<block key="QU_0_3_0154_Name" korean="Коренные kuntin" />
+	<block key="QU_0_3_0154_Description" korean="Sharp кирка тишина готовы пожертвовать представлены ледяной кулак kuntin зубы для меня." />
+	<block key="QU_0_3_0155_Name" korean="Специальный кирка ремесленника" />
+	<block key="QU_0_3_0155_Description" korean="Вот только круассан Kuhn yiranda роскошь мастер сделал кирку взятые системы большой осторожностью." />
+	<block key="QU_0_3_0156_Name" korean="Сумка руды" />
+	<block key="QU_0_3_0156_Description" korean="Что жемчужина руды кирка может действительно кажется отличается от другой. Это мое воображение?" />
+	<block key="QU_0_3_0157_Name" korean="Очистите от снега" />
+	<block key="QU_0_3_0157_Description" korean="Я только что получил чистую глаз. Tropez и печени пошел даже пылинку убьет меня." />
+	<block key="QU_0_3_0158_Name" korean="Растаявшего снега вода" />
+	<block key="QU_0_3_0158_Description" korean="Растаявшего снега вода чистая. Tropez и печени прольет даже drop'll готовить меня." />
+	<block key="QU_0_3_0159_Name" korean="Рис" />
+	<block key="QU_0_3_0159_Description" korean="Я украл рис будет хоронить дронов положить мешок на deulkyeotda дня в." />
+	<block key="QU_0_3_0160_Name" korean="Замороженное мясо рекс" />
+	<block key="QU_0_3_0160_Description" korean="Сегодня дает ежедневно Замороженный хлеб рекс в минуту молчания." />
+	<block key="QU_0_3_0161_Name" korean="Изысканный назад" />
+	<block key="QU_0_3_0161_Description" korean="Падают на землю, даже черствый haetdagan взойдет. Давайте осторожны." />
+	<block key="QU_0_3_0162_Name" korean="Яблоко" />
+	<block key="QU_0_3_0162_Description" korean="Есть что-нибудь, чтобы извиниться? Пожалуйста, передайте это apple'd бы извиниться перед вашим противником!" />
+	<block key="QU_0_3_0163_Name" korean="Глаз" />
+	<block key="QU_0_3_0163_Description" korean="Где вы хотите написать, чем альтернатива, но на этот раз он не знает, вы не должны чистить." />
+	<block key="QU_0_3_0164_Name" korean="Снежных скульптур" />
+	<block key="QU_0_3_0164_Description" korean="Tropez и трутни сделаны, и я думаю, что статую. Вы смотрите более чем животное." />
+	<block key="QU_0_3_0165_Name" korean="Ведро наполняется озер" />
+	<block key="QU_0_3_0165_Description" korean="Выглядит чистым. Нет, она должна быть чистой водой. ... Или я получу по голове байтов." />
+	<block key="QU_0_3_0166_Name" korean="Специальный кирка шахтера" />
+	<block key="QU_0_3_0166_Description" korean="Тинкер сделал беспилотный выбор. Честно говоря, это, кажется, несколько раз. Я не могу писать." />
+	<block key="QU_0_3_0167_Name" korean="Яблоко" />
+	<block key="QU_0_3_0167_Description" korean="Дроны яблоки, отправленные на Trojan. Пожалуйста, отлично бы быть решены ..." />
+	<block key="QU_0_3_0168_Name" korean="Волна рупий серебро" />
+	<block key="QU_0_3_0168_Description" korean="Серебро в обращении в волне лакхов сословий. Теперь, похоже, не используется." />
+	<block key="QU_0_3_0169_Name" korean="Изменить лед" />
+	<block key="QU_0_3_0169_Description" korean="Yeti является сила эсминца, кажется, исправить этот слух исходит от этого факта." />
+	<block key="QU_0_3_0170_Name" korean="Не открыть книгу" />
+	<block key="QU_0_3_0170_Description" korean="Что-то, кажется, не быть закрыты с помощью невидимой силы, независимо от того, насколько открыто я использую ребенка." />
+	<block key="QU_0_3_0171_Name" korean="Мороз умирает угли" />
+	<block key="QU_0_3_0171_Description" korean="Рондо искра была заполнена причудливый лошадиных сил." />
+	<block key="QU_0_3_0172_Name" korean="Мороз Flame" />
+	<block key="QU_0_3_0172_Description" korean="Мороз, кажется, есть огонь, горящий угли фрагменты аналогичного характера." />
+	<block key="QU_0_3_0173_Name" korean="Pirate Keg" />
+	<block key="QU_0_3_0173_Description" korean="Пираты полны любимого напитка ром бочке всех. Тяжелая." />
+	<block key="QU_0_3_0174_Name" korean="Потерянный багаж" />
+	<block key="QU_0_3_0174_Description" korean="Джим проиграл пиратов. Есть все виды трав в примере." />
+	<block key="QU_0_3_0175_Name" korean="Angaecho" />
+	<block key="QU_0_3_0175_Description" korean="Цветет драгоценные лекарственные травы отличаются не только ходить так высоко." />
+	<block key="QU_0_3_0176_Name" korean="Муре четырем шкалам" />
+	<block key="QU_0_3_0176_Description" korean="Канаш весы и духота около четырех" />
+	<block key="QU_0_3_0177_Name" korean="Публичной сцене маркеры" />
+	<block key="QU_0_3_0177_Description" korean="Знак, указывающий общественного danim. Jeongjak излишне большой и красивый общественности просто не хотел, чтобы вы носить с собой." />
+	<block key="QU_0_3_0178_Name" korean="Разбитое лом" />
+	<block key="QU_0_3_0178_Description" korean="Это отличается от публичного просмотра и пишет только для переброски прекрасный железо. По переработке металлолома может сделать хорошую броню." />
+	<block key="QU_0_3_0179_Name" korean="Фея пыли" />
+	<block key="QU_0_3_0179_Description" korean="Посыпать мукой деревянной или железной блестящими. Драгоценный камень часто используется, казалось, ассоциируются с фасадов зданий." />
+	<block key="QU_0_3_0180_Name" korean="Сокровища публичной сцене" />
+	<block key="QU_0_3_0180_Description" korean="Единственное, что общественность побаловать. Почему бы не продавать itneunjineun есть какие-либо вопросы." />
+	<block key="QU_0_3_0181_Name" korean="Решение Frost" />
+	<block key="QU_0_3_0181_Description" korean="Когда забил Мороз Мороз падения решение корпуса." />
+	<block key="QU_0_3_0182_Name" korean="Весы загрязненной свободного Рамми" />
+	<block key="QU_0_3_0182_Description" korean="Весы загрязнения бесплатно Рамми еще заметны тонкие цвета. Остерегайтесь скрытый коррупции красоту." />
+	<block key="QU_0_3_0183_Name" korean="Лодка части" />
+	<block key="QU_0_3_0183_Description" korean="Части самолета специально, чтобы сделать лучший корабль лодка дизайнеров, которые хотят создать." />
+	<block key="QU_0_3_0184_Name" korean="Черепаха масло" />
+	<block key="QU_0_3_0184_Description" korean="Черепаха качество масла низкий, но я могу сказать, огонь стал жители тростниковых ветер необходимости города." />
+	<block key="QU_0_3_0185_Name" korean="Оленьи рога" />
+	<block key="QU_0_3_0185_Description" korean="Отварить рога оленей и горячей воды, которую вы пьете воду, вы можете отправить здорового зиму." />
+	<block key="QU_0_3_0186_Name" korean="Волк Мясо" />
+	<block key="QU_0_3_0186_Description" korean="Высокая питательная ценность волк мясо. Давайте вернулись, чтобы съесть его, если он не боится холода." />
+	<block key="QU_0_3_0187_Name" korean="Ноги рок осьминога" />
+	<block key="QU_0_3_0187_Description" korean="Inde не произошло, как осьминог осьминог ноги. Вкус вкусные осьминоги. Пользуется популярностью и отлично аромат." />
+	<block key="QU_0_3_0188_Name" korean="Одежда буканьера" />
+	<block key="QU_0_3_0188_Description" korean="Пираты не принял это магическое одеяние, чтобы согреться в холодном месте, независимо от того, как" />
+	<block key="QU_0_3_0189_Name" korean="Белый Волк Кожа" />
+	<block key="QU_0_3_0189_Description" korean="White Wolf кожа торгуются по высоким ценам." />
+	<block key="QU_0_3_0190_Name" korean="Разбитое каменная статуя скульптура" />
+	<block key="QU_0_3_0190_Description" korean="Kuhn Croix форма горгульи теряется, сломаны под натиском йети. Yeti не верите умереть, если у вас есть этот кусок." />
+	<block key="QU_0_3_0191_Name" korean="Pearl Щит" />
+	<block key="QU_0_3_0191_Description" korean="Разведение жемчуг щит, чтобы защитить вы можете получить довольно редко." />
+	<block key="QU_0_3_0192_Name" korean="Проклятые доспехи" />
+	<block key="QU_0_3_0192_Description" korean="Создание движения может быть связано с убитого солдата, который проклятые доспехи." />
+	<block key="QU_0_3_0193_Name" korean="Темный Yeti кожа" />
+	<block key="QU_0_3_0193_Description" korean="Пардо моя земля Yeti Темные кожаные кожевенный главы редки дубления кожи обязательно хотите сделать." />
+	<block key="QU_0_3_0194_Name" korean="Пламя секунд" />
+	<block key="QU_0_3_0194_Description" korean="При нормальных обстоятельствах, цветущие таинственный бассейн на территории турбулентности ничего не может расти" />
+	<block key="QU_0_3_0195_Name" korean="Кости солдат сожгли" />
+	<block key="QU_0_3_0195_Description" korean="Beolyideon солдаты сражаются, чтобы превратить землю в исходное бурных пошел рухнула одна за изнурительной жары." />
+	<block key="QU_0_3_0196_Name" korean="Много навоз ах" />
+	<block key="QU_0_3_0196_Description" korean="Необычные фекалии можно увидеть только в помещениях турбулентной области" />
+	<block key="QU_0_3_0197_Name" korean="Решения крови" />
+	<block key="QU_0_3_0197_Description" korean="Решение является редкостью для крови, чтобы произвести цветы." />
+	<block key="QU_0_3_0198_Name" korean="Яйца на красный" />
+	<block key="QU_0_3_0198_Description" korean="Красные яйца дракона с ужасной скоростью роста лицо taeeonanji в том, что взрослый день" />
+	<block key="QU_0_3_0199_Name" korean="Flo-уровня мяса" />
+	<block key="QU_0_3_0199_Description" korean="Flo уровня мяса Pegasus рыцари gogida любимое блюдо со сладким вкусом." />
+	<block key="QU_0_3_0200_Name" korean="Мороз кости" />
+	<block key="QU_0_3_0200_Description" korean="Мороз кость с костью из Wyvern. Она имеет холод." />
+	<block key="QU_0_3_0201_Name" korean="Поиск по статьям" />
+	<block key="QU_0_3_0201_Description" korean="Поиск статей, которые защищают сердце древнего дракона сна" />
+	<block key="QU_0_3_0202_Name" korean="Точильный камень" />
+	<block key="QU_0_3_0202_Description" korean="В то время как заимствования отточить свое пирата." />
+	<block key="QU_1_3_0200_Name" korean="Для бомбы уничтожили Сторожевая башня" />
+	<block key="QU_1_3_0200_Description" korean="Vigilante называется бомбу, специально предназначенные для Сторожевая башня разрушена." />
+	<block key="QU_0_3_0203_Name" korean="Кожа кролик Великие Домовые" />
+	<block key="QU_0_3_0203_Description" korean="Первый материал для ритуала первосвященника Фу аренды." />
+	<block key="QU_0_3_0204_Name" korean="К Snow Bunny" />
+	<block key="QU_0_3_0204_Description" korean="Первый материал для ритуала первосвященника Фу аренды." />
+	<block key="QU_0_3_0205_Name" korean="Crystal Ball первосвященника Бернардо" />
+	<block key="QU_0_3_0205_Description" korean="Второй материал для ритуала первосвященника Фу аренды." />
+	<block key="QU_0_3_0206_Name" korean="Весы сердитых не-Рамми" />
+	<block key="QU_0_3_0206_Description" korean="Второй материал для ритуала первосвященника Фу аренды." />
+	<block key="QU_0_3_0207_Name" korean="Белые перья крыла амаранта в" />
+	<block key="QU_0_3_0207_Description" korean="Третий материал для ритуала первосвященника Фу аренды." />
+	<block key="QU_0_3_0208_Name" korean="Пушистые синий О, Росс" />
+	<block key="QU_0_3_0208_Description" korean="Третий материал для ритуала первосвященника Фу аренды." />
+	<block key="QU_0_3_0209_Name" korean="Рога Рай Новости" />
+	<block key="QU_0_3_0209_Description" korean="Четвертый ингредиенты, необходимые для понимания первосвященника, Фу аренды." />
+	<block key="QU_0_3_0210_Name" korean="Когти Серебряного Slade" />
+	<block key="QU_0_3_0210_Description" korean="Четвертый ингредиенты, необходимые для понимания первосвященника, Фу аренды." />
+	<block key="QU_0_3_0211_Name" korean="Первый материал" />
+	<block key="QU_0_3_0211_Description" korean="Ослабить первосвященник спросил аренду материал. Есть ноги из кожи и кролика для Великих домовых Snow кролика." />
+	<block key="QU_0_3_0212_Name" korean="Второй материал" />
+	<block key="QU_0_3_0212_Description" korean="Ослабить первосвященник спросил аренду материал. Содержит хрустальный шар бесплатно Рамми сердитесь на весах первосвященника, Verna." />
+	<block key="QU_0_3_0213_Name" korean="Третий материал" />
+	<block key="QU_0_3_0213_Description" korean="Ослабить первосвященник спросил аренду материал. Содержит пуха свои перья и синий О, Росс, амарант белые крылья." />
+	<block key="QU_0_3_0214_Name" korean="В-четвертых материалы" />
+	<block key="QU_0_3_0214_Description" korean="Ослабить первосвященник спросил аренду материал. Серебряные рога и когти, так как есть лицензия кус-кус Слейда." />
+	<block key="QU_0_3_0215_Name" korean="Фрагменты Колосса" />
+	<block key="QU_0_3_0215_Description" korean="Мусор от части тела Колосс был единственным государственным коллекция." />
+	<block key="QU_0_3_0216_Name" korean="Крылья Фея" />
+	<block key="QU_0_3_0216_Description" korean="Крылья феи дует полупрозрачный блеск. Я чувствую странную ауру на крыльях." />
+	<block key="QU_0_3_0217_Name" korean="Kanjok с кровью" />
+	<block key="QU_0_3_0217_Description" korean="Кровь гигантов kanjok встроен. То, что кажется, растет бурлит кипения это иллюзия?" />
+	<block key="QU_0_3_0218_Name" korean="Доказательство мороза корпуса" />
+	<block key="QU_0_3_0218_Description" korean="Морозоустойчив доказать, что члены корпуса. Холод в воздухе запахло seusanhan." />
+	<block key="QU_0_3_0219_Name" korean="Связь крылатую фразу" />
+	<block key="QU_0_3_0219_Description" korean="Связь крылатую фразу, что используется клана. Даже на расстоянии могут быть приняты в тесном контакте." />
+	<block key="QU_0_3_0220_Name" korean="Части гостях" />
+	<block key="QU_0_3_0220_Description" korean="Попутчики части разбросаны в море, терпящим бедствие в момент удара" />
+	<block key="QU_0_3_0221_Name" korean="Скрытое Сокровище" />
+	<block key="QU_0_3_0221_Description" korean="Немного света Граф во время разрушения называется скрытое сокровище похоронен" />
+	<block key="QU_0_3_0222_Name" korean="Отчет Pegasus" />
+	<block key="QU_0_3_0222_Description" korean="Доклад Pegasus рыцарей гавани Черного Дракона рака" />
+	<block key="QU_0_3_0223_Name" korean="Pegasus Рыцари маркеров" />
+	<block key="QU_0_3_0223_Description" korean="Маркеры доказать, что Pegasus рыцарей" />
+	<block key="QU_0_3_0224_Name" korean="Ювелирные волны Mer" />
+	<block key="QU_0_3_0224_Description" korean="Волны появляются как редкий драгоценный камень вероятности Мер до сих пор не известно, будет в любом случае" />
+	<block key="QU_0_3_0225_Name" korean="Иберийский весы город" />
+	<block key="QU_0_3_0225_Description" korean="Иберийский весы городские используется во многих красиво окрашены. Очень дорого, потому что только из разрушения воздушного пространства" />
+	<block key="QU_0_3_0226_Name" korean="Oracle Истины" />
+	<block key="QU_0_3_0226_Description" korean="Эллора богиня Oracle истины, чтобы доказать наличие живых" />
+	<block key="QU_0_3_0227_Name" korean="Старые документы" />
+	<block key="QU_0_3_0227_Description" korean="Это не просто слишком долго doeseo Узнайте" />
+	<block key="QU_0_3_0228_Name" korean="Рельеф" />
+	<block key="QU_0_3_0228_Description" korean="Полный эфирного продовольственной помощи" />
+	<block key="QU_0_3_0229_Name" korean="Stinger на парши" />
+	<block key="QU_0_3_0229_Description" korean="Яд содержит токсичные ингредиенты, которые известны, но очень ganghajin andago." />
+	<block key="QU_0_3_0230_Name" korean="Ключ мясо Идзу" />
+	<block key="QU_0_3_0230_Description" korean="Идзу сочное мясо из ключевых людей в половине, mateopda является человек в два раза." />
+	<block key="QU_0_3_0231_Name" korean="Кусок ноты дерева загорается граф" />
+	<block key="QU_0_3_0231_Description" korean="Кусок листа музыки, который играли на дереве огни, казалось, быть заморожены." />
+	<block key="QU_0_3_0232_Name" korean="И сообщить Каньяс" />
+	<block key="QU_0_3_0232_Description" korean="Канас и на протяжении исследования и написал отчет." />
+	<block key="QU_0_3_0233_Name" korean="Доверие справедливости" />
+	<block key="QU_0_3_0233_Description" korean="Эллора богиня правосудия доказать наличие живого доверия" />
+	<block key="QU_0_3_0234_Name" korean="Поверьте судно" />
+	<block key="QU_0_3_0234_Description" korean="Эллора богиня оракул мужество, чтобы доказать наличие живых" />
+	<block key="QU_0_3_0235_Name" korean="Суп из морепродуктов" />
+	<block key="QU_0_3_0235_Description" korean="Осьминог содержит большое количество тренеров все виды деликатесов из морепродуктов, чтобы поесть особенным." />
+	<block key="QU_0_3_0236_Name" korean="Доклад yeonrakbyeong" />
+	<block key="QU_0_3_0236_Description" korean="Кобб создается возбудителя взрослых исправительных разведку отчет." />
+	<block key="QU_0_3_0237_Name" korean="Редкие черепахи и т.д." />
+	<block key="QU_0_3_0237_Description" korean="Оболочка черепахи появились в Halo загрязненных озера. Верхняя тень так хорошо стоит рассмотреть." />
+	<block key="QU_0_3_0238_Name" korean="Exergy вырос реликвия список Резьба" />
+	<block key="QU_0_3_0238_Description" korean="Exergy выросли трудно учиться обрывок информации, записанной в списке, и убирать остатки." />
+	<block key="QU_0_3_0239_Name" korean="Кобб Im бомба" />
+	<block key="QU_0_3_0239_Description" korean="Кобб pokpabyeong Im довольно тяжелый, как она выглядит бомба будет использоваться." />
+	<block key="QU_0_3_0240_Name" korean="Вяленое мясо" />
+	<block key="QU_0_3_0240_Description" korean="Gogida получены в левом поле на набережной. Я думал, что это было воспринято как верхний предел punggineun запахом." />
+	<block key="QU_0_3_0241_Name" korean="Exergy и поднял Некоторые герои" />
+	<block key="QU_0_3_0241_Description" korean="Exergy является частью электрической записи достижения и вырос слова и дела великих людей делают блеск." />
+	<block key="QU_0_3_0242_Name" korean="Дневник одного солдата в" />
+	<block key="QU_0_3_0242_Description" korean="\" />
+	<block key="QU_0_3_0243_Name" korean="Адрес неизвестен письмо" />
+	<block key="QU_0_3_0243_Description" korean="Письмо адресата неизвестное. Я не иметь взгляды информационно-видимому, чтобы отправить письмо." />
+	<block key="QU_0_3_0244_Name" korean="Некоторые человеческие волк легенда" />
+	<block key="QU_0_3_0244_Description" korean="Волки частью книги, привязанной к истории происхождения человека и распространять легендарный мир." />
+	<block key="QU_0_3_0245_Name" korean="Изысканный назад" />
+	<block key="QU_0_3_0245_Description" korean="Сумка получил дополнение, чтобы помочь им производить." />
+	<block key="QU_0_3_0246_Name" korean="Г-н аура дерева" />
+	<block key="QU_0_3_0246_Description" korean="Кики дух дриада дал указ принят." />
+	<block key="QU_0_3_0247_Name" korean="Проклятие Rune в" />
+	<block key="QU_0_3_0247_Description" korean="Кобб быть Мормона руна резьба, которая была в распоряжении. Кажется, которые будут использоваться в целях проклятия." />
+	<block key="QU_0_3_0248_Name" korean="Усталость письменный отчет" />
+	<block key="QU_0_3_0248_Description" korean="Узнайте heulgyeo только устал трудно высечь Лим писал, что письмо именно кажутся маленькими." />
+	<block key="QU_0_3_0249_Name" korean="Гаррисон продовольственного" />
+	<block key="QU_0_3_0249_Description" korean="Распространенность питание направил к красной теневой гарнизона при въезде в истине." />
+	<block key="QU_0_3_0250_Name" korean="Неизвестные порошок" />
+	<block key="QU_0_3_0250_Description" korean="Красный свет чувствительность Гаруда смешивали в мешки с едой." />
+	<block key="QU_0_3_0251_Name" korean="Укрепление иммунитета скачок" />
+	<block key="QU_0_3_0251_Description" korean="Лиман сделал шаг вперед. Он сказал, укрепить иммунитет к ядам противоядие, а не." />
+	<block key="QU_9_4_0034_Name" korean="Кошмар Ворона (F Ellis)" />
+	<block key="QU_9_4_0035_Name" korean="Лена (север остается прозрачным)" />
+	<block key="QU_0_3_0252_Name" korean="Пираты снаряды" />
+	<block key="QU_0_3_0252_Description" korean="Артиллерийские снаряды, используемые в Кара-де-пирата." />
+	<block key="QU_9_4_0036_Name" korean="Обновление на лыжах (Северная руины прозрачный)" />
+	<block key="QU_9_4_0037_Name" korean="Морской Shadow Clan (корабль док прозрачным основанием)" />
+	<block key="QU_9_4_0038_Name" korean="Shadow Clan Marine (корабль док прозрачным Портал)" />
+	<block key="QU_9_4_0039_Name" korean="Сын мэра Рид (Reed Ветер Village)" />
+	<block key="QU_0_3_0253_Name" korean="Граф документ елка огни Ⅰ" />
+	<block key="QU_0_3_0253_Description" korean="Прошлой осенью воздушное пространство агент граф Райт назвал bulrideon дней старых документов, в которых содержатся записи. Кажется растерзание кому-то." />
+	<block key="QU_0_3_0254_Name" korean="Граф документ елка огни Ⅱ" />
+	<block key="QU_0_3_0254_Description" korean="Прошлой осенью воздушное пространство агент граф Райт назвал bulrideon дней старых документов, в которых содержатся записи. Кажется растерзание кому-то." />
+	<block key="QU_0_3_0255_Name" korean="Граф документ елка огни Ⅲ" />
+	<block key="QU_0_3_0255_Description" korean="Прошлой осенью воздушное пространство агент граф Райт назвал bulrideon дней старых документов, в которых содержатся записи. Кажется растерзание кому-то." />
+	<block key="QU_0_3_0256_Name" korean="Граф документ елка огни Ⅳ" />
+	<block key="QU_0_3_0256_Description" korean="Прошлой осенью воздушное пространство агент граф Райт назвал bulrideon дней старых документов, в которых содержатся записи. Кажется растерзание кому-то." />
+	<block key="QU_0_3_0257_Name" korean="Tri Moth" />
+	<block key="QU_0_3_0258_Name" korean="История jeroseu Bell" />
+	<block key="QU_0_3_0258_Description" korean="Запись, содержащая послание опекун дракона колокола jeroseu. Я не признаю число, записанное на языке драконов." />
+	<block key="QU_0_3_0259_Name" korean="Осьминог ноги" />
+	<block key="QU_0_3_0259_Description" korean="Дарида вкусно осьминог." />
+	<block key="QU_0_3_0260_Name" korean="Sanyeomche зла" />
+	<block key="QU_0_3_0260_Description" korean="Sanyeomche энергия течет из подземного мира" />
+	<block key="QU_0_4_0018_Name" korean="Постоянная закрытый ящик" />
+	<block key="QU_0_4_0018_Description" korean="Суть Эллоры, с запечатанной коробке, которая держит свои божественные силы." />
+	<block key="QU_0_4_0019_Name" korean="Робинсон отмечает," />
+	<block key="QU_0_4_0019_Description" korean="Сообщение дал Робинсону записку для следующей миссии." />
+	<block key="QU_0_4_0020_Name" korean="Сияющий костных фрагментов" />
+	<block key="QU_0_4_0020_Description" korean="Ppyeoda, которые составляют тело древнего корпуса. Мощность замирала." />
+	<block key="QU_0_4_0021_Name" korean="Рог древнего корпуса" />
+	<block key="QU_0_4_0021_Description" korean="Были использованы, чтобы управлять древний корпус является рог. Кажется, что лошадиных сил сдерживать." />
+	<block key="QU_0_4_0022_Name" korean="Весы груженого лошадиных сил" />
+	<block key="QU_0_4_0022_Description" korean="Кора трав, чтобы выровнять весы во время такого использования." />
+	<block key="QU_0_4_0023_Name" korean="Кровь из ключевых Идзу" />
+	<block key="QU_0_4_0023_Description" korean="Красный пузырь, кажется, висит набора высоты восходящей кипения." />
+	<block key="QU_0_4_0024_Name" korean="Фрагменты жизни" />
+	<block key="QU_0_4_0024_Description" korean="Так же, как силы жизни, что каждый проникся мусора." />
+	<block key="QU_0_4_0025_Name" korean="Волшебные шарики Шаман" />
+	<block key="QU_0_4_0025_Description" korean="Магия волшебник, который использует бессмертное армии сплоченной мяч." />
+	<block key="QU_0_4_0026_Name" korean="Первые очистки материалы" />
+	<block key="QU_0_4_0026_Description" korean="Box've поставить первые компоненты, необходимые для ликвидации последствий постоянной" />
+	<block key="QU_0_4_0027_Name" korean="Второй материалы для очистки" />
+	<block key="QU_0_4_0027_Description" korean="Box've положить второй материал, необходимый для очистки константы" />
+	<block key="QU_0_4_0028_Name" korean="Третий материалы для очистки" />
+	<block key="QU_0_4_0028_Description" korean="Box've поставить необходимое для очистки константы третьего материала" />
+	<block key="QU_0_4_0029_Name" korean="Черная магия свитки" />
+	<block key="QU_0_4_0029_Description" korean="Колдуны могут свернуть haenoteun написано заказы, которые вы часто используете." />
+	<block key="QU_0_4_0030_Name" korean="Рога Легиона" />
+	<block key="QU_0_4_0030_Description" korean="Рога вниз бессмертной армии, чтобы доказать, агент нарушены." />
+	<block key="QU_0_4_0031_Name" korean="Леонид число" />
+	<block key="QU_0_4_0031_Description" korean="Мощность Леонид является небольшое целое число, что собирается." />
+	<block key="QU_0_4_0032_Name" korean="Отбор проб потока эшелона" />
+	<block key="QU_0_4_0032_Description" korean="Образцы сохранились часть тела яруса документооборота." />
+	<block key="QU_0_4_0033_Name" korean="Слеза образцы мочевого пузыря" />
+	<block key="QU_0_4_0033_Description" korean="Часть тела мочевого пузыря уровня сохранившийся образцов." />
+	<block key="QU_0_4_0034_Name" korean="Образец ahjeura" />
+	<block key="QU_0_4_0034_Description" korean="Часть тела сохраняется образец ahjeura." />
+	<block key="QU_0_4_0035_Name" korean="Количество образцов Росс" />
+	<block key="QU_0_4_0035_Description" korean="Ross Lake является частью тела, сохранившихся образцов." />
+	<block key="QU_0_4_0036_Name" korean="Пробный комплект стипендиатов" />
+	<block key="QU_0_4_0036_Description" korean="Box've положить классифицировать образец стипендиатов." />
+	<block key="QU_0_4_0037_Name" korean="Каменное жилище лошадиных сил" />
+	<block key="QU_0_4_0037_Description" korean="Камень заполнены мощной лошадиных сил" />
+	<block key="QU_0_4_0038_Name" korean="Сущность бессмертия" />
+	<block key="QU_0_4_0038_Description" korean="Целое число, которое может быть получено из выше Бессмертный Легион элитного класса" />
+	<block key="QU_0_4_0039_Name" korean="Определение Земли" />
+	<block key="QU_0_4_0039_Description" korean="Определено, что материал земли почувствовать ауру мощной ауры порядка очищение лошадиных сил." />
+	<block key="QU_0_4_0040_Name" korean="Купить это зло обитает мест" />
+	<block key="QU_0_4_0040_Description" korean="Некоторые, возможно, выиграл легионы Hora производится AZ заказа мест." />
+	<block key="QU_9_4_0052_Name" korean="Устройство искажение пространства-времени" />
+	<block key="QU_9_4_0052_Description" korean="" />
+	<block key="QU_0_4_0041_Name" korean="Рок фрагменты" />
+	<block key="QU_0_4_0041_Description" korean="" />
+	<block key="QU_0_4_0042_Name" korean="Obsidian Осколки" />
+	<block key="QU_0_4_0042_Description" korean="Obsidian мусора Горгулья Горгулья" />
+	<block key="QU_0_4_0043_Name" korean="Горгулья образцы крови" />
+	<block key="QU_0_4_0043_Description" korean="Гаргульи содержатся в ожесточенной крови." />
+	<block key="QU_0_4_0044_Name" korean="Перейти заказа материалов для изготовления" />
+	<block key="QU_0_4_0044_Description" korean="Коробка, содержащая ингредиенты, используемые для того, чтобы перенести производство, чтобы перейти к оформлению воздушного пространства" />
+	<block key="QU_0_4_0045_Name" korean="Сияющий щебень" />
+	<block key="QU_0_4_0045_Description" korean="Мерцающие огни, я чувствовал таинственную ауру камень." />
+	<block key="QU_0_4_0046_Name" korean="Порошок богини" />
+	<block key="QU_0_4_0046_Description" korean="Эллора наполнен духом богини порошка" />
+	<block key="QU_0_4_0047_Name" korean="Новые весы тьмы кричали" />
+	<block key="QU_0_4_0047_Description" korean="Кричали птицы, которые населяют темные весы воздушное пространство разрушения" />
+	<block key="QU_0_4_0048_Name" korean="Автомобиль загрязненных экипаж мозг" />
+	<block key="QU_0_4_0048_Description" korean="Мозг автомобиля экипажа, преобразованной злого духа зазора воздушного пространства" />
+	<block key="QU_0_4_0049_Name" korean="Печать воина" />
+	<block key="QU_0_4_0049_Description" korean="Напряжение отдается ветеранам пройти тест теста или судна надежды" />
+	<block key="QU_0_4_0050_Name" korean="Земля энергии" />
+	<block key="QU_0_4_0050_Description" korean="Лесные звери имеют земные в изобилии" />
+	<block key="QU_0_4_0051_Name" korean="Горячее сердце Йети" />
+	<block key="QU_0_4_0051_Description" korean="Так же, как быстро сердце йети пролить горячую кровь, даже" />
+	<block key="QU_0_4_0052_Name" korean="Bat мясо" />
+	<block key="QU_0_4_0052_Description" korean="Мясо летучей мыши. В отличие от появление на удивление вкусная еда." />
+	<block key="QU_0_0_0288_Name" korean="Постоянная времени загрязнены" />
+	<block key="QU_0_0_0288_Description" korean="Serratia является сущностью загрязненной пользу время восстановления." />
+	<block key="QU_0_0_0289_Name" korean="Выпущенные тайных орденов ... прериях" />
+	<block key="QU_0_0_0289_Description" korean="На приспешников Хаоса выдается секретный приказ ... от лица, привлекаемого. К сожалению, некоторые из них были скомпрометированы." />
+	<block key="QU_0_0_0290_Name" korean="Пьеса рог единорога" />
+	<block key="QU_0_0_0290_Description" korean="Но божественная аура кажется слабую чувствительность к рогу штук." />
+	<block key="QU_0_0_0291_Name" korean="Отметить витой лошадиных сил" />
+	<block key="QU_0_0_0291_Description" korean="Как символ вырезанные на коже фея чувствовал зловещее лошадиных сил." />
+	<block key="QU_0_0_0292_Name" korean="Суть застывшего времени" />
+	<block key="QU_0_0_0292_Description" korean="Serratia является сущностью застывшего времени спросить для восстановления." />
+	<block key="QU_0_0_0293_Name" korean="Весы Screamer" />
+	<block key="QU_0_0_0293_Description" korean="Чувство, кажется, очень тяжело, но очень крепкий." />
+	<block key="QU_0_0_0294_Name" korean="Денежный" />
+	<block key="QU_0_0_0294_Description" korean="Когда он взял рука выглядит достаточно тяжелые суммы будет значительным." />
+	<block key="QU_0_0_0295_Name" korean="Постоянная поглощают энергию" />
+	<block key="QU_0_0_0295_Description" korean="Константы в этот причудливый поглощает магию тьмы." />
+	<block key="QU_0_0_0296_Name" korean="Определение Пламени" />
+	<block key="QU_0_0_0296_Description" korean="La обруч в решении излучает очень горячий кусок, найденный в огненный шар." />
+	<block key="QU_0_0_0297_Name" korean="Ядро голема пламени" />
+	<block key="QU_0_0_0297_Description" korean="Мощность пламени рок голем ядерного агрегации. Лошадь и ожесточенные пламя бросить это чувствует." />
+	<block key="QU_0_0_0298_Name" korean="Окровавленная Dark Апостол" />
+	<block key="QU_0_0_0298_Description" korean="Графа Карла Reang чистой крови, которая осквернена темными проклятиями, не высыхает в течение долгого времени." />
+	<block key="QU_0_0_0299_Name" korean="Yeti сердце толстой кишки" />
+	<block key="QU_0_0_0299_Description" korean="Не показывать признаков остановки удар в сердце толстой кишки Santin, который играет Yeti." />
+	<block key="QU_0_4_0297_Name" korean="Охлажденные кристаллы льда" />
+	<block key="QU_0_4_0297_Description" korean="Ледяные кристаллы могут быть получены из охлажденной духов. Я чувствую холодный озноб." />
+	<block key="QU_0_4_0298_Name" korean="Порошок загрязнены света" />
+	<block key="QU_0_4_0298_Description" korean="Порошок, полученный из легких загрязненных земель Wisps павших эльфов. Нет больше не чувствует себя ауру света." />
+	<block key="QU_0_4_0299_Name" korean="Аура Проклятие" />
+	<block key="QU_0_4_0299_Description" korean="Аура Проклятие Porta De можете получить от блуждающих призраков" />
+	<block key="QU_0_4_0300_Name" korean="Меч острием" />
+	<block key="QU_0_4_0300_Description" korean="Pegasus Потерянный меч Спайк статьи раздела" />
+	<block key="QU_0_4_0301_Name" korean="Доклад шип" />
+	<block key="QU_0_4_0301_Description" korean="Отчеты, что ситуация в Dead Island, чтобы увидеть то, что произошло" />
+	<block key="QU_0_4_0302_Name" korean="Определение тьмы" />
+	<block key="QU_0_4_0302_Description" korean="Это движение ощущается по жесткому решению тревожной лошадиных сил." />
+	<block key="QU_0_4_0303_Name" korean="Энергия камня проклятия Сурин" />
+	<block key="QU_0_4_0303_Description" korean="Хотя, казалось бы, обычный камень, аура проклятия, которое охватывает острова Сурин камень." />
+	<block key="QU_0_4_0304_Name" korean="Soul секунд" />
+	<block key="QU_0_4_0304_Description" korean="Полный тварей расти Саня пищи души." />
+	<block key="qu_9_0_0044_Name" korean="Высшее Мастер Ли Нетаньяху (и Канаш может фамилии)" />
+	<block key="qu_9_4_0028_Name" korean="Винни ро-ла-ла (команда jikhal)" />
+	<block key="qu_9_4_0029_Name" korean="Винни ро-ла-ла (экзо выросли)" />
+	<block key="qu_9_4_0030_Name" korean="Серебристый сопровождается" />
+	<block key="qu_9_4_0031_Name" korean="Капитан Blader (Нет Warp)" />
+	<block key="qu_9_4_0032_Name" korean="Капитан Blader" />
+	<block key="qu_9_4_0033_Name" korean="Линия Ларами (mureo рядом Mio)" />
+	<block key="qu_9_4_0049_Name" korean="Shadow Clan Marine (корабль док прозрачный)" />
+	<block key="qu_9_4_0050_Name" korean="Леди Оливье (Dragon)" />
+	<block key="qu_9_4_0051_Name" korean="Леди Оливье (рядом с Лу-Плата)" />
+	<block key="QU_0_0_0300_Name" korean="Сосулька жизнь" />
+	<block key="QU_0_0_0300_Description" korean="Пардо или богиня аура положить жизнь на земле является слабым Линн встроен." />
+	<block key="QU_0_0_0301_Name" korean="Кусок души" />
+	<block key="QU_0_0_0301_Description" korean="Многотельных поток души чувствует себя нестабильно." />
+	<block key="QU_0_0_0302_Name" korean="Кусок призрак" />
+	<block key="QU_0_0_0302_Description" korean="Многотельных поток души чувствует себя нестабильно." />
+	<block key="QU_0_0_0303_Name" korean="Горящие куски" />
+	<block key="QU_0_0_0303_Description" korean="Горящее пламя духа, кажется, растет по-прежнему остаются. Природные пламя не являются." />
+	<block key="QU_0_0_0304_Name" korean="Eagle яйца" />
+	<block key="QU_0_0_0304_Description" korean="Орленок быстро движется, даже вырваться, как яйцо." />
+	<block key="QU_0_0_0305_Name" korean="Eagle задняя мясо нога" />
+	<block key="QU_0_0_0305_Description" korean="Нога мясо прилагается, в отличие от гладкий корпус и teunsilhan лет." />
+	<block key="QU_0_0_0306_Name" korean="Бутылками с солью, содержащиеся" />
+	<block key="QU_0_0_0306_Description" korean="Эта соль содержится в белом бутылки." />
+	<block key="QU_0_0_0307_Name" korean="Змея мясо" />
+	<block key="QU_0_0_0307_Description" korean="Независимо от змеиного яда и мяса. Первый называется физическим арматуры." />
+	<block key="QU_0_0_0308_Name" korean="Ядовитые растения" />
+	<block key="QU_0_0_0308_Description" korean="Коллекция бутылок, взятых из Mandrake токсинов." />
+	<block key="QU_0_0_0309_Name" korean="Животное Яд" />
+	<block key="QU_0_0_0309_Description" korean="Бутылки собирали скорпиона токсины, взятые из пустыни." />
+	<block key="QU_0_0_0310_Name" korean="Полный сок" />
+	<block key="QU_0_0_0310_Description" korean="Отсутствие нечистой сока вещества, взятого из Mandrake." />
+	<block key="QU_0_0_0311_Name" korean="Кто был ограблен пшеницы" />
+	<block key="QU_0_0_0311_Description" korean="Город Аль Gocek имеет мельницу с родителем, который был ограблен yongbyeongdan-Харбор." />
+	<block key="QU_0_0_0312_Name" korean="Fox мясо" />
+	<block key="QU_0_0_0312_Description" korean="Мясо лисиц. Храни свое драгоценное пищи, кажется, возникли проблемы с поставками продуктов питания." />
+	<block key="QU_0_0_0313_Name" korean="Оружие yongbyeongdan" />
+	<block key="QU_0_0_0313_Description" korean="Выплавки и ожидалось почувствовал острое оружие." />
+	<block key="QU_0_0_0314_Name" korean="Техническое обслуживание необходимо оружие" />
+	<block key="QU_0_0_0314_Description" korean="Это, мне кажется, если вы не нарушаете сразу ремонт повреждений." />
+	<block key="QU_0_0_0315_Name" korean="Строительные материалы" />
+	<block key="QU_0_0_0315_Description" korean="При подрезке немного, казалось бы, не хватает материалов для использования в различных строительных работ." />
+	<block key="QU_0_0_0316_Name" korean="Разбитой головой горгульи" />
+	<block key="QU_0_0_0316_Description" korean="Роль руководителя с каменной статуей была bihaengseok в сочетании с bihaengseok претендента кажется, что особенности." />
+	<block key="QU_0_0_0317_Name" korean="Земля соединительных мест" />
+	<block key="QU_0_0_0317_Description" korean="Challenger bihaengseok seokyida лошадиных сил поставлять энергию, необходимую для этой работы." />
+	<block key="QU_0_0_0318_Name" korean="Жесткий Молот Кузнеца" />
+	<block key="QU_0_0_0318_Description" korean="Кузнец, кто разрушает любовь." />
+	<block key="QU_0_0_0319_Name" korean="Декоративные специи шеф-повара" />
+	<block key="QU_0_0_0319_Description" korean="Глубокие аромата пряностей сочтено необходимым возродить вкус блюда." />
+	<block key="QU_0_0_0320_Name" korean="Алхимик эксперимент колбу" />
+	<block key="QU_0_0_0320_Description" korean="Эксперимент колбу, чтобы помочь обеспечить алхимика." />
+	<block key="QU_0_0_0321_Name" korean="Позвоните в основу ювелирного производителя" />
+	<block key="QU_0_0_0321_Description" korean="Она является автором поставки рамках ювелирной используется для создания различных украшений." />
+	<block key="QU_0_0_0322_Name" korean="Важно клей" />
+	<block key="QU_0_0_0322_Description" korean="Высоковязкая Клей, используемый для крепления вещей последовало." />
+	<block key="QU_0_0_0323_Name" korean="Прочный инструмент" />
+	<block key="QU_0_0_0323_Description" korean="Разнообразные инструменты также используются в mubang правой рабочей площадке." />
+	<block key="QU_0_0_0324_Name" korean="Старый канат" />
+	<block key="QU_0_0_0324_Description" korean="Я не имею кучу царапин тут и там, кажется, были написаны для использования wonak сильнее, но веревка." />
+	<block key="QU_0_0_0325_Name" korean="Поднимитесь на щебень руды" />
+	<block key="QU_0_0_0325_Description" korean="Hagien прийти в воздухе, потому что руда разрушительными восхождения руды необычно свет." />
+	<block key="QU_0_0_0326_Name" korean="Сторожевая собака тег" />
+	<block key="QU_0_0_0326_Description" korean="Название охранников, а секс знак вписан." />
+	<block key="QU_0_0_0327_Name" korean="Старые письма" />
+	<block key="QU_0_0_0327_Description" korean="Получатели должны Самира Аль Госек гвардии. Написать государство предпочтительным сторона." />
+	<block key="QU_0_0_0328_Name" korean="Переработка инструменты для yongbyeongdan" />
+	<block key="QU_0_0_0328_Description" korean="Переработка инструменты, которые используются для отделки брони." />
+	<block key="QU_0_0_0329_Name" korean="Поврежденная броня yongbyeongdan" />
+	<block key="QU_0_0_0329_Description" korean="Yongbyeongdan быть жестким, но легкий доспехи, которые обычно носят." />
+	<block key="QU_0_0_0330_Name" korean="Сила знак" />
+	<block key="QU_0_0_0330_Description" korean="Табличка действует как имя раздела расследования представлены." />
+	<block key="QU_0_0_0331_Name" korean="Мутации построен" />
+	<block key="QU_0_0_0331_Description" korean="Это необычно большой выбор заведений, построенных saendeuwom личинок." />
+	<block key="QU_0_0_0332_Name" korean="Рок весы" />
+	<block key="QU_0_0_0332_Description" korean="Это стальной трудно чувствовать себя более весы." />
+	<block key="QU_0_0_0333_Name" korean="Подол Yusei" />
+	<block key="QU_0_0_0333_Description" korean="Если ребенок, скорее всего, чтобы смешать голубой платье износ." />
+	<block key="QU_0_0_0334_Name" korean="Yusei Кукла" />
+	<block key="QU_0_0_0334_Description" korean="Плюшевые игрушки стали ребенку играть." />
+	<block key="QU_0_0_0335_Name" korean="Портрет Yusei" />
+	<block key="QU_0_0_0335_Description" korean="Женщина имеет лицо ребенка обращается. Лицо Yusei очень похожа." />
+	<block key="QU_0_0_0336_Name" korean="Остатки Yusei" />
+	<block key="QU_0_0_0336_Description" korean="Пепел подозревается в Yusei. Кажется, что ищет кого-то, чтобы дразнить." />
+	<block key="QU_0_0_0337_Name" korean="Мешок золотых монет купца" />
+	<block key="QU_0_0_0337_Description" korean="Был подготовлен всем позолоченной медали встроен, а не полный." />
+	<block key="QU_0_0_0338_Name" korean="Царапины подъем руды" />
+	<block key="QU_0_0_0338_Description" korean="Большие и маленькие царапины на всем протяжении этого, или подняться руды." />
+	<block key="QU_0_0_0339_Name" korean="Пустыня мозг Buffalo" />
+	<block key="QU_0_0_0339_Description" korean="Следы темной магии yeokryeok весь мозг. Загрязнение Doendeuthada по волшебству манипулировать ум." />
+	<block key="QU_0_0_0340_Name" korean="Правильные Родос Добыча товары" />
+	<block key="QU_0_0_0340_Description" korean="Родос не оставил в нужных chaenggiji поставок горно моя включены." />
+	<block key="QU_0_0_0341_Name" korean="Ядро рок духе" />
+	<block key="QU_0_0_0341_Description" korean="Ядерная перемещения гигантская скала дух. Hot Heat распространилась по всей ядра." />
+	<block key="QU_0_0_0342_Name" korean="Изысканные колдовство песок" />
+	<block key="QU_0_0_0342_Description" korean="Песок Шаман заклинания, когда они используются для смешивания песка." />
+	<block key="QU_0_0_0343_Name" korean="Не отказались от помещений штук" />
+	<block key="QU_0_0_0343_Description" korean="Наскальные рисунки, которые окружают Землю стихии. Это гораздо лошадиных сил, чувствуете ли вы землетрясение." />
+	<block key="QU_0_0_0344_Name" korean="Талисман судна" />
+	<block key="QU_0_0_0344_Description" korean="Когда церемония статья в знак доказать, что статьи Грифон раздел, чтобы получить платеж очарование." />
+	<block key="QU_0_0_0345_Name" korean="Крылья летучей мыши" />
+	<block key="QU_0_0_0345_Description" korean="Существует свет в кромешной тьме крыльями летучей мыши в воздухе." />
+	<block key="QU_0_0_0346_Name" korean="Похоронен сокровище в песке" />
+	<block key="QU_0_0_0346_Description" korean="Клад был похоронен в песке." />
+	<block key="QU_0_0_0347_Name" korean="Кости древнего сотрудник" />
+	<block key="QU_0_0_0347_Description" korean="Остатки древнего парень. Природоохранный статус трудно оценить, но некоторые парень yeotneunji плохо." />
+	<block key="QU_0_0_0348_Name" korean="Забыли Music Box" />
+	<block key="QU_0_0_0348_Description" korean="Части отсутствуют или сломаны, не похоже на работу." />
+	<block key="QU_0_0_0349_Name" korean="Кусок хорошей камня" />
+	<block key="QU_0_0_0349_Description" korean="Хороший материал, чтобы сделать статуи." />
+	<block key="QU_0_0_0350_Name" korean="Живущий Камень" />
+	<block key="QU_0_0_0350_Description" korean="Тонкой текстуры из камней почувствовать магию камня и аккуратно kkakyeo тьму." />
+	<block key="QU_0_0_0351_Name" korean="Кто был ограблен сокровище" />
+	<block key="QU_0_0_0351_Description" korean="Кун сокровище круассан, лишенного Грифон рыцарей." />
+	<block key="QU_0_0_0352_Name" korean="Kuhn круассан оружие" />
+	<block key="QU_0_0_0352_Description" korean="Croix Kuhn, в основном, используется в качестве оружия насыщенного дня оружия резкое упакованы ожидалось." />
+	<block key="QU_0_0_0353_Name" korean="Kuhn круассан MRes" />
+	<block key="QU_0_0_0353_Description" korean="Battle City, легко носить с собой колбасы в основном мешок продовольствия." />
+	<block key="QU_0_0_0354_Name" korean="Bat энциклопедия" />
+	<block key="QU_0_0_0354_Description" korean="Установлено, что книга, которую вы написали об общей экологической обстановки и с места в карьер." />
+	<block key="QU_0_0_0355_Name" korean="Oasis мясо крокодила" />
+	<block key="QU_0_0_0355_Description" korean="Крокодил мяса в густом оазис." />
+	<block key="QU_0_0_0356_Name" korean="SS лояльны hyeolseo" />
+	<block key="QU_0_0_0356_Description" korean="SS является слепой верности Saehan hyeolseo. Цель не кажется, что ... кровь смазывают Бессмертный Легион." />
+	<block key="QU_0_0_0357_Name" korean="Паладин воин лояльны hyeolseo" />
+	<block key="QU_0_0_0357_Description" korean="Паладин воин Saehan hyeolseo слепой лояльности. Цель не кажется, что ... кровь смазывают Бессмертный Легион." />
+	<block key="QU_0_0_0358_Name" korean="Камень решения" />
+	<block key="QU_0_0_0358_Description" korean="Brage шахтеры шахты камень нашли в подъем. Неизвестный лошадиных сил потоков." />
+	<block key="QU_0_0_0359_Name" korean="Brage командующий Баку руководителя" />
+	<block key="QU_0_0_0359_Description" korean="Brage глава командира Бакинского который привел армию шахты." />
+	<block key="QU_0_0_0360_Name" korean="Бар живота Али" />
+	<block key="QU_0_0_0360_Description" korean="Такие, как твердый жир в коже очень мягкий по сравнению с Али-бар." />
+	<block key="QU_0_0_0361_Name" korean="Пустыня черепаха мясо" />
+	<block key="QU_0_0_0361_Description" korean="Равнина пустыни черепахи мяса." />
+	<block key="QU_0_0_0362_Name" korean="Пустыня Buffalo бедра" />
+	<block key="QU_0_0_0362_Description" korean="Коренастый бедра пустыни Буффало." />
+	<block key="QU_0_0_0363_Name" korean="Для выборки пустыни черепаха" />
+	<block key="QU_0_0_0363_Description" korean="Для пустыни черепахи." />
+	<block key="QU_0_0_0364_Name" korean="Твердые образцы, такие как кожа Али Bar" />
+	<block key="QU_0_0_0364_Description" korean="Совсем немного окне, ножи и т.д. Существует твердая скорлупа, так как даже не кивнул." />
+	<block key="QU_0_0_0365_Name" korean="Перейдите на приобретение пьющих сокровищами" />
+	<block key="QU_0_0_0365_Description" korean="Brage навигации пьющие geonjyeonaen сокровища в песке." />
+	<block key="QU_0_0_0366_Name" korean="Ремонт музыкальная шкатулка" />
+	<block key="QU_0_0_0366_Description" korean="Музыкальные шкатулки аккуратно отремонтированы за руку сирийцев охотников за сокровищами." />
+	<block key="QU_0_0_0367_Name" korean="Music Box Запчасти" />
+	<block key="QU_0_0_0367_Description" korean="Часть, которая выглядит так же, прямо на части музыкальной шкатулки сломанной пуст." />
+	<block key="QU_0_0_0368_Name" korean="Тотем симпатичная" />
+	<block key="QU_0_0_0368_Description" korean="Раппорт с тотемом Gryphon, которая обещала плотное плетение. Это кажется сумасшедшим лошадиных сил сдерживать." />
+	<block key="QU_0_0_0369_Name" korean="Секретную переписку матери Haba yongbyeongdan" />
+	<block key="QU_0_0_0369_Description" korean="Yongbyeongdan посланник, который несет в секретную переписку." />
+	<block key="QU_0_0_0370_Name" korean="Yongbyeongdan операция журнал" />
+	<block key="QU_0_0_0370_Description" korean="Обратите внимание, что в подходе yongbyeongdan операций журнала." />
+	<block key="QU_0_0_0371_Name" korean="Свет факела" />
+	<block key="QU_0_0_0371_Description" korean="Ревущие с горящими факелами, огонь, кажется, хорошо прилипать." />
+	<block key="QU_0_0_0372_Name" korean="Руды" />
+	<block key="QU_0_0_0372_Description" korean="" />
+	<block key="QU_0_0_0373_Name" korean="Подъем руды" />
+	<block key="QU_0_0_0373_Description" korean="Красивые оттенки восхождение руды." />
+	<block key="QU_0_0_0374_Name" korean="Транспорт подъем jiryeongseo" />
+	<block key="QU_0_0_0374_Description" korean="" />
+	<block key="QU_0_0_0375_Name" korean="Bat Fang" />
+	<block key="QU_0_0_0375_Description" korean="" />
+	<block key="QU_0_0_0376_Name" korean="Аль Griffon" />
+	<block key="QU_0_0_0376_Description" korean="" />
+	<block key="QU_0_0_0377_Name" korean="Весы мутации Griffon" />
+	<block key="QU_0_0_0377_Description" korean="Перья на Griffon've превратился в жестких масштабах." />
+	<block key="QU_0_0_0378_Name" korean="Чистка Папоротник Планка" />
+	<block key="QU_0_0_0378_Description" korean="Грифон Чистка Папоротник Резные хотел пиктограммы окрашенные ногти." />
+	<block key="QU_0_0_0379_Name" korean="Бессмертные конструкции Легион форт" />
+	<block key="QU_0_0_0379_Description" korean="Бессмертные чертежи Легион форта." />
+	<block key="QU_0_0_0380_Name" korean="Зеркало Истины" />
+	<block key="QU_0_0_0380_Description" korean="Будет зеркало и блеск Бессмертный Легион раскрыть личность." />
+	<block key="QU_0_0_0381_Name" korean="Брелоки-релиз" />
+	<block key="QU_0_0_0381_Description" korean="Ключ, чтобы освободить очарование Бессмертного легиона форта." />
+	<block key="QU_0_0_0382_Name" korean="Модификация Поморское 0 акций бисера" />
+	<block key="QU_0_0_0382_Description" korean="Рания хрустальный шар, который был принцессой. Потерянная в темноте оттенком света." />
+	<block key="QU_0_0_0383_Name" korean="Остатки Griffon" />
+	<block key="QU_0_0_0383_Description" korean="Кто был жестоко убили остатки грифонов." />
+	<block key="QU_0_0_0384_Name" korean="Значение MER трости" />
+	<block key="QU_0_0_0384_Description" korean="Персонал стоимости пророка Mer. Почувствуйте мистическую ауру." />
+	<block key="QU_0_0_0385_Name" korean="Бессмертный оперативное построение Легион" />
+	<block key="QU_0_0_0385_Description" korean="Операции в целях знать причины для охоты Griffon." />
+	<block key="QU_0_0_0386_Name" korean="Ву знаки (добыча золота на транспорте)" />
+	<block key="QU_0_0_0387_Name" korean="У знак (Oasis)" />
+	<block key="QU_0_0_0388_Name" korean="У знак (поле ветра, пыли)" />
+	<block key="QU_0_0_0389_Name" korean="Джефф Вы" />
+	<block key="QU_0_0_0390_Name" korean="La Moot" />
+	<block key="QU_0_0_0391_Name" korean="Venom окно" />
+	<block key="QU_0_0_0391_Description" korean="Растения и животные яда яд содержит производится путем смешивания." />
+	<block key="QU_0_0_0392_Name" korean="Кран ролик" />
+	<block key="QU_0_0_0392_Description" korean="Является составной частью роли краны шкива." />
+	<block key="QU_0_0_0393_Name" korean="Часть железной дороге" />
+	<block key="QU_0_0_0393_Description" korean="Кусок железа прикреплен к рельсу." />
+	<block key="QU_0_0_0394_Name" korean="Клан рекомендации" />
+	<block key="QU_0_0_0394_Description" korean="Нажмите на карту, влево, чтобы самоучка мастера, кажется, утечка написано содержание." />
+	<block key="QU_0_0_0395_Name" korean="Дар Поморское 0 акций" />
+	<block key="QU_0_0_0395_Description" korean="После княгини Рании yieoteuna подарок был готов к столу золотая пики качестве послов доброй воли принцессы похищенного, кажется, клан и было выполнено." />
+	<block key="QU_0_0_0396_Name" korean="Первый сокровище потерял" />
+	<block key="QU_0_0_0396_Description" korean="Комплект, содержащий сокровище." />
+	<block key="QU_0_0_0397_Name" korean="Во-вторых: Потерянное сокровище" />
+	<block key="QU_0_0_0397_Description" korean="Комплект, содержащий сокровище." />
+	<block key="QU_0_0_0398_Name" korean="Забыли третье сокровище" />
+	<block key="QU_0_0_0398_Description" korean="Комплект, содержащий сокровище." />
+	<block key="QU_0_0_0399_Name" korean="Приправа ингредиенты" />
+	<block key="QU_0_0_0399_Description" korean="Щадящие вкус пищи приправы." />
+	<block key="QU_0_0_0400_Name" korean="О Shadow Завет клана" />
+	<block key="QU_9_4_0053_Name" korean="Карл (астронавт), и наивные" />
+	<block key="QU_9_4_0054_Name" korean="Yusei (девушка потеряла память)" />
+	<block key="QU_9_4_0055_Name" korean="Могила Yusei" />
+	<block key="QU_9_4_0056_Name" korean="Остатки Yusei" />
+	<block key="QU_0_0_0401_Name" korean="Встроенный орел токсичен" />
+	<block key="QU_0_0_0401_Description" korean="Встроенный лысый орел. Слабый, но она содержит токсичные." />
+	<block key="QU_0_0_0402_Name" korean="La десятка (Al Gocek)" />
+	<block key="QU_0_0_0403_Name" korean="La десятка (добыча золота в транспорте)" />
+	<block key="QU_0_0_0404_Name" korean="Транспорт вагонов (Al Гечек)" />
+	<block key="QU_0_0_0405_Name" korean="Елена" />
+	<block key="QU_0_0_0406_Name" korean="Транспортных машин (добыча золота на транспорте)" />
+	<block key="QU_0_0_0407_Name" korean="Кроули мозг Бар Источник" />
+	<block key="QU_0_0_0407_Description" korean="Магия чумы распространилась на весь мозг." />
+	<block key="QU_0_0_0408_Name" korean="Отчет Синтии" />
+	<block key="QU_0_0_0408_Description" korean="Древние храмы в связи с Синтией Данн сообщает, что повышение в Кобб Im деноминации. Записывается с помощью пароля." />
+	<block key="QU_0_0_0409_Name" korean="Нанесите лошадиных сил вашего" />
+	<block key="QU_0_0_0409_Description" korean="Мощность обмен шамана, который владеет вам Варга. Слово с силой разрушения является частью инъекции." />
+	<block key="QU_0_0_0410_Name" korean="Язык рун уничтожения резные плиты" />
+	<block key="QU_0_0_0410_Description" korean="Язык часть разрушения Скотт rasya печать была выгравирована. Эта мрачная аура окружает весь плиту." />
+	<block key="QU_9_4_0057_Name" korean="Заброшенный город" />
+	<block key="QU_0_0_0412_Name" korean="Беспорядок на рабочем месте с ковшом" />
+	<block key="QU_0_0_0412_Description" korean="Там оазис, полный воды." />
+	<block key="QU_0_0_0413_Name" korean="Разрешение на въезд Золотые Peaks" />
+	<block key="QU_0_0_0413_Description" korean="Дело предоставить доступ к золотым вершинам. Только те, кто оказываются Gryphon рыцарей Бога может быть предоставлен доступ к золотым вершинам." />
+	<block key="QU_0_0_0414_Name" korean="Безымянный Трава" />
+	<block key="QU_0_0_0414_Description" korean="Безымянная бассейн. Здравый смысл об истории tteodonda панацеи." />
+	<block key="QU_0_0_0415_Name" korean="Скорпион жалит" />
+	<block key="QU_0_0_0415_Description" korean="Яд скорпиона укусы в maethyeo." />
+	<block key="QU_0_0_0416_Name" korean="Doksaem змей" />
+	<block key="QU_0_0_0416_Description" korean="Doksaem производить яд змеи. Скорее всего, обратить внимание на перевозки из сбора." />
+	<block key="QU_0_0_0417_Name" korean="Кактус шипы" />
+	<block key="QU_0_0_0417_Description" korean="Пустыня Кактус видны стрелять, если вы чувствуете угрозу. Ttagapda, если они вступают в контакт с телом." />
+	<block key="QU_0_0_0418_Name" korean="Жесткие кожи крокодила" />
+	<block key="QU_0_0_0418_Description" korean="Толщина плотной кожи к трудно из-за крокодилов сравнивают с железом." />
+	<block key="QU_0_0_0419_Name" korean="Горгулья глава" />
+	<block key="QU_0_0_0419_Description" korean="Главы горгулий, что вслух уплотняется. Казалось бы, с удовольствием предоставим ремесленники принести baheuri старейшин золотых вершин." />
+	<block key="QU_0_0_0420_Name" korean="Крылья Фея" />
+	<block key="QU_0_0_0420_Description" korean="Прозрачные крылья феи. Фея магии, проникнутое ее собственных крыльях." />
+	<block key="QU_0_0_0421_Name" korean="Кровавый доклад Collector" />
+	<block key="QU_0_0_0421_Description" korean="В докладе отмечается, что коллектор умер прежде, чем его поступки. Все они имеют кровянистые." />
+	<block key="QU_9_4_0058_Name" korean="Элиас" />
+	<block key="QU_9_4_0059_Name" korean="Элиас (с подставкой)" />
+	<block key="QU_0_0_0422_Name" korean="Глава Гавр королевы" />
+	<block key="QU_0_0_0422_Description" korean="Глава Дахаб царящая королева пустыни пчелиной матки." />
+	<block key="QU_0_0_0423_Name" korean="Пустыня осы" />
+	<block key="QU_0_0_0423_Description" korean="Разрядка мощный укус пустыни, что яд ос." />
+	<block key="QU_0_0_0424_Name" korean="Сотовый пустыня" />
+	<block key="QU_0_0_0424_Description" korean="Пустыня улей, полный сладкого меда аромат." />
+	<block key="QU_0_0_0425_Name" korean="Крылья пустыни пчелы" />
+	<block key="QU_0_0_0425_Description" korean="Прозрачные крылья пустынных пчел." />
+	<block key="QU_0_0_0426_Name" korean="Brage материалы" />
+	<block key="QU_0_0_0426_Description" korean="Brage на улице, когда они действуют содержит разнообразные продукты питания, чтобы поесть, и т.д. Наслаждайтесь." />
+	<block key="QU_0_0_0427_Name" korean="Похищенные храм сокровище" />
+	<block key="QU_0_0_0427_Description" korean="Некоторые статуи были в храме. Близко к части, а не липкий сокровищ." />
+	<block key="QU_0_0_0428_Name" korean="Cut рука" />
+	<block key="QU_0_0_0428_Description" korean="Усе человек рука. Спросите tteutgin похоже на то, острых зубов диких зверей." />
+	<block key="QU_0_0_0429_Name" korean="Язык плиты разрушения" />
+	<block key="QU_0_0_0429_Description" korean="Язык разрушения, был запечатан в части древних храмов резные плиты." />
+	<block key="QU_0_0_0430_Name" korean="Мозговые образцы" />
+	<block key="QU_0_0_0430_Description" korean="Чума образцы заклинание головного мозга. Почувствуйте зловещий лошадиных сил." />
+	<block key="QU_0_0_0431_Name" korean="Тело Кровь животных" />
+	<block key="QU_0_0_0431_Description" korean="Кровь тела животного." />
+	<block key="QU_0_0_0432_Name" korean="Когти-де-Леон" />
+	<block key="QU_0_0_0432_Description" korean="Острые когти де Леон. Было бы неплохо, если бы вы показать коллектора. \u003cbr\u003e \u003cUI_G\u003e Вы можете получить квест через правой кнопкой мыши. \u003c/ UI_G\u003e" />
+	<block key="QU_0_0_0433_Name" korean="Сердце-де-Леон" />
+	<block key="QU_0_0_0433_Description" korean="Коррупция сердце де Леон. Hagien продемонстрировать полный потенциал сердца, кажется, уже прошли гнилой." />
+	<block key="QU_0_0_0434_Name" korean="Sears ppyeotgaru" />
+	<block key="QU_0_0_0434_Description" korean="Вы можете получить квест через ppyeotgaru. \u003cbr\u003e \u003cUI_G\u003e щелкните правой кнопкой опалило огнем. \u003c/ UI_G\u003e" />
+	<block key="QU_0_0_0435_Name" korean="Стрелки храма шутер" />
+	<block key="QU_0_0_0435_Description" korean="Обратите внимание, что стрелка шутер Croix любимый храм. Ожидается, чувствовать себя в резком стрелки." />
+	<block key="QU_0_0_0436_Name" korean="Дизайн компонентов Храм" />
+	<block key="QU_0_0_0436_Description" korean="Компоненты, используемые для разработки храм. Не Sseuyeotneun знаю, что для любых целей." />
+	<block key="QU_0_0_0437_Name" korean="Leopard мясо" />
+	<block key="QU_0_0_0437_Description" korean="Обычная мясо леопарда. Кажется, чтобы дать хорошее сочетание семян, внесенных в изобилии." />
+	<block key="QU_0_0_0438_Name" korean="Талисман из храма" />
+	<block key="QU_0_0_0438_Description" korean="Будьте очарование Croix Croix храм использование Куна." />
+	<block key="QU_0_0_0439_Name" korean="Kuhn Croix Писания" />
+	<block key="QU_0_0_0439_Description" korean="Священные Писания находятся во владении священников Круа Куна. Содержание культа питьевой и его людей написали." />
+	<block key="QU_0_0_0440_Name" korean="Послушание паук учебники" />
+	<block key="QU_0_0_0440_Description" korean="Образом пауки учебники, написанные в деталях о методе." />
+	<block key="QU_0_0_0441_Name" korean="Стрелки Круа-кун" />
+	<block key="QU_0_0_0441_Description" korean="В отличие от chokui ожидается острая стрела, ствол сломан." />
+	<block key="QU_0_0_0442_Name" korean="Тотем власти" />
+	<block key="QU_0_0_0442_Description" korean="Тотем зловещий ощущение лошадиных сил." />
+	<block key="QU_0_0_0443_Name" korean="Бессмертный план атаки Легиона" />
+	<block key="QU_0_0_0443_Description" korean="Как нападения на необитаемом и инструкции Бессмертный Легион был записан." />
+	<block key="QU_0_0_0444_Name" korean="Адела большие полотна" />
+	<block key="QU_0_0_0444_Description" korean="Адела ссылку в теле паутиной. Было бы неплохо, если бы вы показать коллектора. \u003cbr\u003e \u003cUI_G\u003e Вы можете получить квест через правой кнопкой мыши. \u003c/ UI_G\u003e" />
+	<block key="QU_0_0_0445_Name" korean="Опасные жертвы" />
+	<block key="QU_0_0_0445_Description" korean="Остатки жертв пауков поглотила. Части иногда появляются еще непереваренной." />
+	<block key="QU_0_0_0446_Name" korean="Растительное масло" />
+	<block key="QU_0_0_0446_Description" korean="Черепаха пришли из животного жира." />
+	<block key="QU_0_0_0447_Name" korean="Мост сырья щипцы" />
+	<block key="QU_0_0_0447_Description" korean="Дарида сырья подкожного сала клещей." />
+	<block key="QU_0_0_0448_Name" korean="Реликвии души" />
+	<block key="QU_0_0_0448_Description" korean="Ах, дочь зондом, который имеет память. Ах, я хотел бы вернуться к зонду. \u003cbr\u003e \u003cUI_G\u003e Вы можете получить квест через правой кнопкой мыши. \u003c/ UI_G\u003e" />
+	<block key="QU_0_0_0449_Name" korean="Возникли сокровище" />
+	<block key="QU_0_0_0449_Description" korean="Hagien, что сокровище пиратский корабль, используя прохождение пушки порошок очень похожи." />
+	<block key="QU_0_0_0450_Name" korean="Оболочка сырья морских черепах" />
+	<block key="QU_0_0_0450_Description" korean="Топ полумесяца получается очень дорого, таких как кора родного морских черепах ходят слухи." />
+	<block key="QU_0_0_0451_Name" korean="Горгулья конверт" />
+	<block key="QU_0_0_0451_Description" korean="Оболочка очень похож Горгулья и прочность обычной стали." />
+	<block key="QU_0_0_0452_Name" korean="Талисман проклятия" />
+	<block key="QU_0_0_0452_Description" korean="Очарование этой темной магии, пронизанной." />
+	<block key="QU_0_0_0453_Name" korean="Глаза хранителя" />
+	<block key="QU_0_0_0453_Description" korean="Темные глаза на наблюдателей." />
+	<block key="QU_0_0_0454_Name" korean="Яд карманы наводнения" />
+	<block key="QU_0_0_0454_Description" korean="Пек жить в Вентура содержатся яд, используемый для изготовления уникальное видение." />
+	<block key="QU_0_0_0455_Name" korean="Топор Шумахер" />
+	<block key="QU_0_0_0455_Description" korean="Очень массивный топор сделал талантливый кузнец пустыни Круа Куна." />
+	<block key="QU_0_0_0456_Name" korean="Меч Рай" />
+	<block key="QU_0_0_0456_Description" korean="Очень острый меч сделан грамотный кузнец пустыни Croix Kuhn." />
+	<block key="QU_0_0_0457_Name" korean="Кинжал пример Ritz" />
+	<block key="QU_0_0_0457_Description" korean="Это очень гладкий кинжал пустыня созданные талантливым кузнеца Croix Kuhn." />
+	<block key="QU_0_0_0458_Name" korean="Пек Тура конструкции" />
+	<block key="QU_0_0_0458_Description" korean="Базовая структура спецификации, содержащиеся Тура имеет конструкцию." />
+	<block key="QU_0_0_0459_Name" korean="Призыв runseok" />
+	<block key="QU_0_0_0459_Description" korean="Призыв Нежить Легион бутылки seokyida руны, используемые, чтобы вызвать присутствие двумерным." />
+	<block key="QU_0_0_0460_Name" korean="Магия браслет Моргана" />
+	<block key="QU_0_0_0460_Description" korean="Морган имел в виду, чтобы сохранить конденсации браслет с его магии." />
+	<block key="QU_0_0_0461_Name" korean="Рога Талосом" />
+	<block key="QU_0_0_0461_Description" korean="Рога проникнуты темной магии Талосом." />
+	<block key="QU_0_0_0462_Name" korean="Перья Грифона" />
+	<block key="QU_0_0_0462_Description" korean="Перья грифона. Croix-кун Охотники таможенные тянуть перья охоты белоголового, чтобы доказать свою храбрость." />
+	<block key="QU_0_0_0463_Name" korean="Бомба части" />
+	<block key="QU_0_0_0463_Description" korean="Руны знаю пролить компоненты бомб." />
+	<block key="QU_0_0_0465_Name" korean="Oasis, полный воды" />
+	<block key="QU_0_0_0465_Description" korean="Ведро Oasis вода, содержащаяся полны слез." />
+	<block key="QU_0_0_0468_Name" korean="Пеликан в пустыне побережье крыльев купить" />
+	<block key="QU_0_0_0468_Description" korean="Плоть от прибрежной пустыне толстые крылья Пеликан. Было бы неплохо, чтобы поесть запеченные вкус." />
+	<block key="QU_0_0_0469_Name" korean="Сырые яйца морских черепах" />
+	<block key="QU_0_0_0469_Description" korean="Редкий драгоценный камень материалы, которые создают единое целое в рагу. Повара, как материала." />
+	<block key="QU_0_0_0470_Name" korean="Вырезать деревянные столбы" />
+	<block key="QU_0_0_0470_Description" korean="Деревянные столбы покинуть Brage нападение бутылка используется как оружие. Была сокращена в два раза." />
+	<block key="QU_0_0_0471_Name" korean="Запрос Brage войск" />
+	<block key="QU_0_0_0471_Description" korean="Документ, Chroma Kuhn просьбой об отправке в пустыне в пустыне Brage. Отправитель кажется, шаман маны Массачусетс. \u003cbr\u003e \u003cUI_G\u003e Вы можете получить квест с помощью правой кнопки мыши. \u003c/ UI_G\u003e" />
+	<block key="QU_0_0_0472_Name" korean="Раб волшебные крылья" />
+	<block key="QU_0_0_0472_Description" korean="Изменено под влиянием волшебные крылья раба Шарки бар. Возможность исследовать Шарки бар коллектор, скорее всего, нужно." />
+	<block key="QU_0_0_0473_Name" korean="Слезы камни" />
+	<block key="QU_0_0_0473_Description" korean="Парень я sseuindago ручную камень, известный как необходимых материалов. Hover бы неплохо коллекционеров." />
+	<block key="QU_0_0_0474_Name" korean="Кровь Piyo" />
+	<block key="QU_0_0_0474_Description" korean="Кровь Piyo. Коллекторы используются в целях, чтобы определить, регулярные физические изменения и состояние здоровья пустыни совы." />
+	<block key="QU_9_4_0063_Name" korean="Никс" />
+	<block key="QU_0_0_0475_Name" korean="Кусок одежды Рания 0 акций" />
+	<block key="QU_0_0_0475_Description" korean="Построенный в роскошной ткани кусок одежды. Равно ткани платье Рания принцессы." />
+	<block key="QU_0_0_0476_Name" korean="Камень заполнены божественной энергии" />
+	<block key="QU_0_0_0476_Description" korean="Где-то камень punggineun священный ореол." />
+	<block key="QU_0_0_0477_Name" korean="Камень наполнен духом Поморское 0 акций" />
+	<block key="QU_0_0_0477_Description" korean="Доказательство Эллоры наполнен духом богини благословил с Рания gongjuyi" />
+	<block key="QU_0_0_0478_Name" korean="Туман бассейн" />
+	<block key="QU_0_0_0478_Description" korean="Вниз полета Challenger, цветущие в бассейне в песок тумана застилают подавлено. Санья выращивать пищу для специальных токсичен я позвонил бассейн." />
+	<block key="QU_0_0_0479_Name" korean="Вид флакона истины" />
+	<block key="QU_0_0_0479_Description" korean="Мнение, что истина зелье флаконы, которые могут производить и хранения." />
+	<block key="QU_0_0_0480_Name" korean="Выбор травы пьющих" />
+	<block key="QU_0_0_0480_Description" korean="Brage домой трав собиратели пьющие собираются. Известно, что эффект расшифровки." />
+</blocks>
